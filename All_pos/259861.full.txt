@@ -1,0 +1,767 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spatiotemporal dynamics of river viruses bacteria and microeukaryotes
+
+
+spatiotemporal dynamics of river viruses bacteria and microeukaryotes 
+ 
+
+thea van rossum miguel i uyaguari diaz marli vlok michael a peabody alvin tian kirby i cronin 
+michael chan matthew a croxen william w l hsiao judith isaac renton patrick k c tang natalie 
+a prystajecky curtis a suttle fiona s l brinkman 
+ contributed equally 
+ corresponding author 
+ department of molecular biology and biochemistry simon fraser university burnaby bc canada 
+ department of pathology and laboratory medicine university of british columbia vancouver bc canada 
+ british columbia centre for disease control public health laboratory vancouver bc canada 
+ department of botany university of british columbia vancouver bc canada 
+ department of microbiology and immunology university of british columbia vancouver bc canada 
+ department of earth ocean and atmospheric sciences university of british columbia vancouver bc canada 
+ institute for the oceans and fisheries university of british columbia vancouver bc canada 
+ 
+present addresses 
+thea van rossum european molecular biology laboratory heidelberg germany 
+matthew a croxen provincial laboratory for public health provlab edmonton alberta and department of 
+laboratory medicine pathology university of alberta edmonton alberta 
+ 
+
+abstract 
+freshwater is an essential resource of increasing value as clean water sources diminish microorganisms 
+in rivers a major source of renewable freshwater are significant due to their role in drinking water safety 
+signalling environmental contamination and driving global nutrient cycles however a foundational 
+understanding of microbial communities in rivers is lacking especially temporally and for viruses – no 
+studies to date have examined the composition of the free floating river virome over time and 
+explanations of the underlying causes of spatial and temporal changes in riverine microbial composition 
+especially for viruses remain unexplored here we report relationships among riverine microbial 
+communities and their environment across time space and superkingdoms viruses bacteria and 
+microeukaryotes using metagenomics and marker based microbiome analysis methods we found that 
+many superkingdom pairs were synchronous and had consistent shifts with sudden environmental change 
+however synchrony strength and relationships with environmental conditions varied across space and 
+superkingdoms variable relationships were observed with seasonal indicators and chemical conditions 
+previously found to be predictive of bacterial community composition – emphasizing the complexity 
+of riverine ecosystems and raising questions around the generalisability of single site and bacteria only 
+studies in this first study of riverine viromes over time dna viral communities were stably distinct 
+between sites suggesting the similarity in riverine bacteria across significant geographic distances – 
+does not extend to viruses and synchrony was surprisingly observed between dna and rna viromes 
+this work provides foundational data for riverine microbial dynamics in the context of environmental and 
+chemical conditions and illustrates how a bacteria only or single site approach would lead to an incorrect 
+description of microbial dynamics we show how more holistic microbial community analysis including 
+viruses is necessary to gain a more accurate and deeper understanding of microbial community dynamics 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+main 
+bacterial diversity and composition in rivers is shaped by water temperature day length ph 
+nutrients water residency time and storm events reviewed in balancing these shaping 
+forces dispersal appears to play a large role both within and among – rivers such that 
+bacterial community similarity does not necessarily decrease with increasing geographic 
+distance less is known about planktonic free floating microeukaryotes in rivers however they 
+appear to vary seasonally with light changes – with some evidence indicating the importance 
+of algae as an energy source 
+
+in contrast to this basic characterisation of bacterial and microeukaryote community variability 
+little is known about the community dynamics of free floating viruses viroplankton in rivers – 
+river planktonic viral metagenomes viromes have been reported in two studies however 
+these studies had limited sample sizes and did not sample over time viral communities in lakes 
+and oceans are better studied however these viromes are likely distinct from those in rivers 
+given their differing hydrology and bacterial community compositions to date there have 
+been no large scale studies of viroplankton composition in flowing lotic freshwater as such 
+little is known about their community composition – and basic questions such as their 
+variability throughout a year and the relative importance of dispersal and shaping forces in their 
+community composition have gone unanswered 
+
+fundamental knowledge of the spatiotemporal variability of river plankton can support 
+downstream development of improved water quality indicators to this end we profiled viral 
+bacterial and microeukaryotic communities in rivers across differing land uses and 
+environmental conditions we sampled microorganisms monthly for one year from six sites in 
+three watersheds in southwestern british columbia canada figure a for each sample we 
+performed metagenomic and or phylogenetic marker gene sequencing s s g viral 
+capsid for dna viruses rna viruses bacteria and microeukaryotes environmental 
+chemical and biological measures were also collected positive and negative controls were 
+included and qpcr validation of select microbial groups was performed data not shown due 
+to the lack of reference genomes available for freshwater viruses and the high complexity of the 
+communities we estimated dissimilarity measures among metagenomes using a reference and 
+assembly free k mer approach mash to diminish any effects from potential bacterial or 
+eukaryotic contamination in the viral data dna and rna viromes are represented by two 
+datasets the “total” dataset includes all sequence reads the “conservative” dataset is a subset of 
+reads selected based on similarity to known viruses see methods for details spatiotemporal 
+comparisons were performed within and between “superkingdoms” including viruses dna and 
+rna bacteria and microeukaryotes and “environmental conditions” including catchment area 
+weather river water chemical concentrations and river water physical conditions 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+figure temporal variation in viruses bacteria and microeukaryotes a study design schematic of sampling 
+sites with distances between sites site orientation watershed and catchment land use distances are dendritic within 
+watersheds and euclidean between watersheds sites are in up to down stream order within watersheds b pairwise 
+partial mantel tests for synchrony between viruses bacteria and microeukaryotes controlling for distance between 
+sampling sites n to q c correlations between microbial communities and environmental 
+conditions per sampling site results are organised by environmental parameter into subplots where each row is a 
+biological group and each column is a sampling site colour intensity reflects correlation strength filled shapes 
+indicate the statistical significance of the correlation with squares as significant q and circles not statistically 
+significant size of shape corresponds to the inverse of the statistical significance q value grey square outlines 
+indicate a relationship was statistically significant without multiple test correction p grey vertical lines 
+separate watersheds d network of summarised correlations among microbial communities and with environmental 
+conditions calculated per sampling site nodes are environmental conditions yellow and microbial communities 
+ blue conservative viromes were used see methods edges are coloured by the nodes types they connect each 
+edge represents cumulative relationships within sampling sites both those that are statistically significant q 
+and that are strong but with lower statistical confidence r p edge width reflects the sum of the 
+strengths r of the represented correlations edges are only drawn if at least one statistically significant or two 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+lower confidence correlations were observed to reduce artefacts from arbitrary statistical cut off values e network 
+of correlations among environmental conditions with edges calculated as in d with green edges for positive 
+correlations and pink for negative nodes were arranged manually for legibility 
+ 
+
+across superkingdoms hours of daylight and rainfall intensity were the most commonly 
+correlated with community composition figure c d this pattern was particularly strong 
+where rainfall and hours of daylight were correlated figure c sites aup apl ads extended 
+data fig b c d but weak in sites where they were not figure c sites pup upl uds 
+extended data fig a e f this is surprising as rainfall was hypothesized to have a 
+particularly large and consistent impact on microbial communities since its intensity can affect 
+microbial transport both overland and within stream transport instead when not confounded 
+with overall seasonal changes hours of daylight rainfall was rarely significantly correlated with 
+microbial community composition overall no correlations between environmental conditions 
+and superkingdoms were seen in all sites figure c emphasizing the variability of river 
+microbial community relationships with their environment 
+
+environmental conditions that have been reported to drive bacterial community composition 
+were heterogeneously correlated across sites and did not extend to other superkingdoms for 
+example nitrogen and phosphorous concentrations were most often correlated with rna viruses 
+and or microeukaryotes but not with bacteria and ph was only correlated with bacterial 
+composition in two sites despite a previous single time point study finding it to be a major 
+driver very few correlations were observed with dissolved oxygen concentration flow 
+intensity specific conductivity or turbidity the range of correlations with environmental 
+conditions observed across sites and superkingdoms emphasizes both the complexity and 
+heterogeneity of riverine microbial ecosystems 
+
+despite inconsistent relationships with environmental conditions viral and bacterial community 
+compositions shifted in similar patterns over time were “synchronous” with the strength of 
+synchrony varying among sampling sites figure b extended data fig microeukaryotes 
+had fewer synchronous relationships but were correlated with bacteria and or dna viruses in 
+some sites the lack of synchrony between microeukaryotes and rna viruses could reflect 
+infection patterns the cases of synchrony likely imply that the community compositions 
+changed in response to a varying third factor e g through competition or that dispersal 
+introduced new organisms that caused community shifts in most cases synchronous pairs were 
+not significantly associated with a common third measure extended data fig the 
+synchronous relationships most commonly observed here agree with a single site marine study 
+however the diversity of sites presented here provide important counter examples to this 
+emerging trend 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+figure onset of rainfall has consisent and large effect on riverine microplankton a nmds plot of dna 
+rna viral communities from an agriculturally affected site apl each point represents a viral community solid 
+lines connect sequential samples and are coloured by sampling date dashed lines connect viromes extracted from 
+the same sample points are coloured by the average rainfall over the three days prior to sampling n b box 
+plot of similarity between microbial communities collected in subsequent months coloured by whether both 
+sampling dates had low rainfall yellow or whether the earlier date was dry but later date had elevated rainfall 
+ blue n for bacteria and rna viruses n for dna viruses 
+ 
+
+unexpectedly dna and rna viral community compositions were synchronous in some sites 
+ metagenomic and phylogenetic marker gene data mantel’s r q even 
+though they were not consistently synchronous with bacteria or microeukaryotes extended data 
+fig because few if any studies have profiled dna and rna viral community compositions 
+concurrently over time this synchrony has not been previously investigated while correlational 
+data cannot prove the drivers of synchrony environmental data can provide context 
+synchronous dna and rna viromes were correlated with daylight hours extended data fig 
+ and a temporal trend is clear sequential samples tended to be most alike and shift stepwise 
+over time figure a at one site for other sites see extended data fig this suggests that the 
+dna and rna viral synchrony is not artefactual but due to some temporal relationship 
+possibly with a common host group or synchronous groups 
+
+large shifts in dna and rna viromes in agriculturally affected sites were concurrent with the 
+onset of rainfall after a dry period figure a extended data fig this trend was also 
+observed in the other sampling sites and in bacterial communities figure b microeukaryotic 
+communities not tested due to insufficient data these observations demonstrate the first flush 
+phenomenon dry periods permit a buildup of solids chemicals metals and organisms and the 
+first significant rainfall causes an abrupt shift in the bacterial and viral communities in the 
+receiving waters – this shows that while continuous relationships with rainfall were not 
+universal figure response to a rainfall event was more common 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+figure geographic distinctiveness within viral bacterial and eukaryotic communities over year of 
+monthly samples proportion of variability among samples that is explained by sampling site npmanova r 
+either across all sites black square or pairwise between sites boxplots in boxplots the lower and upper box edges 
+correspond to the first and third quartiles the whiskers extend to the highest and lowest values that are within 
+times the inter quartile range and data beyond this limit are plotted as points 
+ 
+
+while sampling site was a significant source of variation for all microbial groups dna viromes 
+showed stronger geographic based similarity than bacteria and microeukaryotes figure 
+extended data fig this is consistent with the distinctiveness of t like bacteriophage seen 
+in a study of polar lakes it is in contrast with the similarity of dna viruses seen in two 
+temperate lakes however these lakes are connected and have similar surrounding land use 
+analysing bacterial amplicon data at a finer taxonomic resolution identity otus did not 
+significantly increase its geographic distinctiveness data not shown this lower geographic 
+distinctiveness of bacteria particularly among sites with similar land use pairwise 
+npmanova between the two agriculturally affected sites and between the two urban affected 
+sites r q extended data fig is consistent with previously shown low 
+spatial stratification of bacteria among rivers – in the one case where land use varied within a 
+watershed figure a aup versus apl ads land use and associated water chemistry 
+differences appeared to override geographic proximity as a predictor of microbial community 
+similarity extended data fig these findings support a major ecological role of dispersal at 
+this geographic scale – km for riverine bacterial and microeukaryotic plankton but 
+reveals that viruses have a more distinct geographic pattern 
+
+the higher geographic specificity of viruses observed here could reflect higher geographic 
+specificity of host cells not sampled in this study such as particle associated plankton riverbed 
+biofilms plants humans or other animals alternatively viruses may be more geographically 
+distinct because they replicate in the subset of microbial cells in the community that are active 
+ estimated at of bacterial cells this subset is more likely to be geographically distinct 
+due to their increased susceptibility to selective pressures and more likely to be represented by 
+viruses due to the mechanics of the lytic cycle and host specificity thus we hypothesise that 
+viruses may produce a stronger geographic signal than bacteria by amplifying the effect of 
+species sorting against the background of widely dispersed inactive cells 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+in conclusion temporal and spatial profiling revealed contrasting patterns among superkingdoms 
+and environmental conditions in riverine microbial plankton some relationships were common 
+such as microbial composition with day light hours and rainfall and expected correlations were 
+observed such as between bacterial communities and ph however by examining multiple 
+locations these relationships were revealed not to be universal even within similar sampling 
+sites this demonstrates the heterogeneity of riverine microbial ecosystems and the need for 
+multi site studies in riverine microbial ecology as a similar study of a single site may have 
+falsely concluded general trends by examining multiple superkingdoms correlations with 
+nutrient concentrations were identified that would have been missed if only bacteria were 
+profiled and the strong dispersal observed in bacteria and microeukaryotes was revealed not to 
+extend to viruses in summary this study provides insight into the variability of microbiomes 
+over superkingdoms time and space in an important yet understudied environment it reveals 
+notable differences in community dynamics across microbial groups and demonstrates the value 
+of collectively studying microeukaryotes bacteria and viruses across multiple time points and 
+locations in microbiome studies 
+
+ 
+
+methods 
+sampling sequencing 
+river water was collected monthly for to consecutive months from six sites in three 
+watersheds in southwestern british columbia canada the agricultural watershed had three 
+sampling sites one upstream of human activity aup one adjacent to intensive agriculture 
+ apl and one further downstream ads the urban watershed had two sampling sites one 
+with a catchment mix of forest and residential land use upl and one further downstream with 
+mostly residential and some park land use uds the pristine watershed was in a protected 
+forest area with no land use pup sampling sites were not downstream of any lakes or dams 
+water temperatures ranged from °c to °c in the agricultural watershed a distinct rainy 
+period occurred from november to march which is typical for the area the other watersheds 
+had more variable rainfall throughout the year sites from the same watershed were sampled on 
+the same day for full sampling and sequencing procedures see and a brief overview 
+follows 
+
+at each sampling event l of water was collected and then filtered sequentially to concentrate 
+particles approximating the sizes of microeukaryotes to µm bacteria to µm and 
+viral sized particles physical and chemical water measurements were also taken dna was 
+extracted from each size fraction along with rna from the viral sized fraction 
+
+amplicons for t like bacteriophages were prepared using primers targeting the myovirus g 
+gene amplicons for bacteria were prepared using primers targeting the v v regions of 
+ s rrna gene amplicons for microeukaryotes were prepared using primers targeting the 
+v v regions of the s rrna gene amplicons were purified with a qiaquick pcr 
+purification kit qiagen sciences maryland md according to the manufacturer’s instructions 
+sequencing libraries were prepared for amplicons using nextflex chip seq kit bioo 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+scientific austin tx gel size selected as per manufacturer’s instructions and sequenced with 
+ bp paired end reads on an illumina miseq platform illumina inc san diego ca 
+
+bacterial metagenome libraries were prepared using nextera xt dna sample preparation kit 
+ illumina inc san diego ca and size selected using high throughput gel based ranger 
+technology bacterial metagenomes were sequenced over multiple runs with bp paired end 
+reads on an illumina miseq with positive controls mock communities and negative 
+controls included in each run 
+
+a modified adapter nonamer approach was used to synthesize viral cdna and increase yields 
+from the viral fraction viral metagenome libraries were prepared from randomly amplified 
+dna and cdna using nextflex chip seq kit bioo scientific austin tx by following a 
+gel free option provided in the manufacturer’s instructions these libraries were sequenced with 
+ bp paired end reads on an illumina hiseq platform illumina inc san diego ca 
+
+dna sequence pre processing and quality control 
+low quality bases were trimmed from the ’ end of reads using a sliding window with a 
+minimum phred score of or for g using trimmomatic adapters were removed using 
+cutadapt with default parameters paired end reads were merged using pear 
+microeukaryotic s amplicon paired end reads could not be merged so operational taxonomic 
+units otus were generated from reads with the same primer sequence 
+
+t like myovirus g amplicons reads were translated into amino acid sequences using 
+fraggenescan v with the illumina error model rho tang and ye otus were 
+generated using usearch v sequences were dereplicated clustered at identity then all 
+reads were mapped back against cluster representatives to calculate abundances sample read 
+totals were subsampled to reads using the vegan package in r v random 
+resampling was performed times and the median value of all iterations was chosen 
+bacterial s and microeukaryotic s otus were generated from amplicon reads using the 
+mothur miseq clustering protocol and rarefied to reads 
+
+metagenomic reads were trimmed at the ’ end with a sliding window with a minimum phred 
+score of using trimmomatic dna virome reads shorter than bp were discarded 
+resulting in a dataset of gb in m reads rna virome reads shorter than bp were 
+discarded and ribosomal reads were removed using meta rrna resulting in a dataset of gb 
+across m reads bacterial metagenome reads shorter than bp were discarded resulting in 
+a dataset of gbp across m reads 
+
+generation of high confidence dna rna virome datasets 
+viromes were assembled using clc and proteins were predicted from contigs using prodigal in 
+metagenomic mode with default parameters predicted proteins at least amino acids long were 
+clustered de novo using parallel cd hit with criteria as previously used word length of and 
+ identity over length of the shorter sequence reads were assigned to clusters with a 
+blastx style similarity search against cluster representative sequences using diamond with 
+minimum sequence similarity over minimum amino acid alignment length while 
+protein cluster analysis is common in large scale marine studies we did not use this dataset 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+for primary analysis as many samples had a small proportion of reads in any protein cluster 
+ mean range of dna virus reads and mean range for rna virus 
+reads 
+
+contigs were tested for amino acid sequence similarity to reference sequences in ncbi’s nr 
+database using rapsearch and taxonomically classified using megan a small proportion of 
+contigs were assigned as dna viral of contigs of total reads and rna viral of 
+contigs of total reads 
+
+in the dna virome dataset of contigs were assigned as bacterial corresponding to of 
+assembled reads and of total reads to assess whether these bacterial assignments were due 
+to miss assignment of viral sequences e g auxiliary metabolic genes prophages or an 
+indication of bacterial contamination e g from laboratory reagents free floating dna or host 
+dna packaged in viral capsid reads were tested for the presence of bacterial genes unlikely to 
+occur in viruses across read subsets of samples similarity to the s rrna gene was 
+found in to reads mean standard deviation though these are small numbers they 
+are an indication of the number of bacterial genomes potentially present this means that the 
+contigs identified as bacterial in the taxonomic results cannot be ruled out as bacterial 
+contamination further the contigs that were left unassigned by the taxonomic classification also 
+cannot be ruled out as bacterial 
+
+to remove potential bacterial contamination from the dna and rna viromes subsets of the 
+read data were generated that only included sequences from protein clusters with at least one 
+member that was assigned as coming from dna or rna viruses respectively this reduced the 
+number of reads per sample from in the “total” dataset to in the “conservative” 
+subset for dna viromes and from to for rna viromes as this is a fairly small 
+number of reads we estimated the stability of distance matrices with low numbers of reads see 
+below and used both total and conservative datasets to test trends 
+
+sample similarity estimation spatiotemporal analysis 
+pairwise similarity between amplicon samples was performed using vegan in r to calculate 
+bray curtis dissimilarity between otu abundance profiles pairwise similarity between 
+metagenomes was assessed using mash distances v which compares metagenomes based 
+on k mer presence absence for display in heatmaps in extended data fig extreme values of 
+similarities were collapsed to be represented by one color extreme values were defined as those 
+values more than times the median absolute deviation mad away from the median 
+collapsed values were only used for display and not for any statistical tests 
+
+due to the small number of reads in the conservative rna virus dataset we investigated whether 
+this depth was enough to obtain a stable representation of the communities we randomly 
+selected reads ten times per sample from samples which had at least reads in the 
+conservative rna virus dataset we ran mash on these subsamples and calculated the pairwise 
+mantel correlations between the resultant dissimilarity matrices all matrices had correlation 
+scores of at least r with pearson’s correlation and r with spearman’s correlation 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+we decided this consistency was sufficiently high to justify confidence in high level patterns 
+within this data 
+
+all statistical tests were performed in r v permutation based p values were calculated using 
+ permutations multiple test correction was performed where appropriate using the 
+benjamini hochberg procedure and adjusted p values reported as q values significance test 
+values were considered statistically significant if lower than except where indicated 
+otherwise 
+
+the proportion of variability among sample similarities that could be explained by sampling site 
+was estimated using npmanova as implemented in the adonis function from the vegan r 
+package gene family variability was based on seed subsystem classifications and 
+calculated using bray curtis dissimilarities the nmds plots in figure and extended data 
+fig were generated using the vegan metamds function with rotation and scaling of 
+ordinations performed using the procrustes function and tested for significance using the pro test 
+function samples from april and were highly dissimilar and removed from 
+figure a to permit the trend in the other samples to be displayed 
+
+synchrony was tested using mantel matrix correlation tests with spearman correlations 
+implemented in the vegan r package when testing samples from multiple sites for synchrony 
+a partial mantel test was used to control for geographic distance between sampling sites 
+environmental data were tested for correlations with microbial community similarities using the 
+envfit function if applicable the environmental measures to test were selected based on their 
+magnitude and variability in the context of water quality guidelines relationships among 
+environmental measures were assessed using spearman’s correlation correlations within and 
+among environmental measures and microbial community similarities were displayed in a 
+network using the visnetwork r package correlations that had a q value less than were 
+considered statistically significant correlations that had a q value greater than but a p value 
+less than were not considered statistically significant but were included in visualisations to 
+avoid overconfidence in the absence of a relationship however they should be interpreted with 
+caution 
+
+data availability 
+all raw sequences are deposited in the ncbi sequence read archive under bioproject 
+accession prjna 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+references 
+ 
+
+ baird d j hajibabaei m biomonitoring a new paradigm in ecosystem 
+assessment made possible by next generation dna sequencing mol ecol – 
+ 
+
+ meybeck m global analysis of river systems from earth system controls to 
+anthropocene syndromes philos trans r soc lond b biol sci – 
+
+ findlay s stream microbial ecology j north am benthol soc – 
+
+ zeglin l h stream microbial diversity in response to environmental changes review 
+and synthesis of existing research front microbiol 
+
+ middelboe m jacquet s weinbauer m viruses in freshwater ecosystems an 
+introduction to the exploration of viruses in new aquatic habitats freshw biol – 
+ 
+
+ peduzzi p virus ecology of fluvial systems a blank spot on the map biol rev – 
+ 
+
+ jacquet s miki t noble r peduzzi p wilhelm s viruses in aquatic ecosystems 
+important advancements of the last years and prospects for the future in the field of 
+microbial oceanography and limnology adv oceanogr limnol – 
+
+ ruiz gonzález c niño garcía j p lapierre j f del giorgio p a the quality of 
+organic matter shapes the functional biogeography of bacterioplankton across boreal 
+freshwater ecosystems glob ecol biogeogr n a n a doi geb 
+
+ staley c et al species sorting and seasonal dynamics primarily shape bacterial 
+communities in the upper mississippi river sci total environ – 
+
+ niño garcía j p ruiz gonzález c del giorgio p a interactions between 
+hydrology and water chemistry shape bacterioplankton biogeography across boreal 
+freshwater networks isme j – doi ismej 
+
+ jackson c r millar j j payne j t ochs c a free living and particle associated 
+bacterioplankton in large rivers of the mississippi river basin demonstrate biogeographic 
+patterns appl environ microbiol – 
+
+ crump b c et al circumpolar synchrony in big river bacterioplankton proc natl 
+acad sci u s a – 
+
+ read d s et al catchment scale biogeography of riverine bacterioplankton isme j 
+ – 
+
+ thomas m c selinger l b inglis g d seasonal diversity of planktonic protists in 
+southwestern alberta rivers over a year period as revealed by terminal restriction 
+fragment length polymorphism and s rrna gene library analyses appl environ 
+microbiol – 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ bradford t m et al microeukaryote community composition assessed by 
+pyrosequencing is associated with light availability and phytoplankton primary production 
+along a lowland river freshw biol – 
+
+ simon m et al marked seasonality and high spatial variability of protist communities in 
+shallow freshwater systems isme j doi ismej 
+
+ dann l m et al marine and giant viruses as indicators of a marine microbial community 
+in a riverine system microbiologyopen doi mbo 
+
+ silva b s et al virioplankton assemblage structure in the lower river and ocean 
+continuum of the amazon msphere e 
+
+ aguirre de cárcer d lópez bueno a pearce d a alcamí a biodiversity and 
+distribution of polar freshwater dna viruses sci adv e 
+
+ van rossum t et al year long metagenomic study of river microbiomes across land 
+use and water quality front microbiol 
+
+ uyaguari diaz m i et al a comprehensive method for amplicon based and 
+metagenomic characterization of viruses bacteria and eukaryotes in freshwater samples 
+microbiome 
+
+ ondov b d et al mash fast genome and metagenome distance estimation using 
+minhash genome biol doi 
+
+ chow c e t kim d y sachdeva r caron d a fuhrman j a top down 
+controls on bacterial community structure microbial network analysis of bacteria t like 
+viruses and protists isme j – 
+
+ williamson k e harris j v green j c rahman f chambers r m stormwater 
+runoff drives viral community composition changes in inland freshwaters front 
+microbiol 
+
+ deletic a the first flush load of urban surface runoff water res – 
+
+ tseng c h et al microbial and viral metagenomes of a subtropical freshwater reservoir 
+subject to climatic disturbances isme j – 
+
+ de cárcer d a pedrós alió c pearce d a alcamí a composition and 
+interactions among bacterial microeukaryotic and t like viral assemblages in lakes 
+from both polar zones front microbiol 
+
+ mohiuddin m schellhorn h spatial and temporal dynamics of virus occurrence in 
+two freshwater lakes captured through metagenomic analysis front microbiol 
+
+ lennon j t jones s e microbial seed banks the ecological and evolutionary 
+implications of dormancy nat rev microbiol – 
+
+ paez espino d et al uncovering earth’s virome nature – 
+
+ filée j tétart f suttle c a krisch h m marine t type bacteriophages a 
+ubiquitous component of the dark matter of the biosphere proc natl acad sci u s a 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ – 
+
+ muyzer g de waal e c uitterlinden a g profiling of complex microbial 
+populations by denaturing gradient gel electrophoresis analysis of polymerase chain 
+reaction amplified genes coding for s rrna appl environ microbiol – 
+ 
+
+ caporaso j g et al global patterns of s rrna diversity at a depth of millions of 
+sequences per sample proc natl acad sci u s a suppl – 
+
+ zhu f massana r not f marie d vaulot d mapping of picoeucaryotes in 
+marine ecosystems with quantitative pcr of the s rrna gene fems microbiol ecol 
+ – 
+
+ amann r i krumholz l stahl d a fluorescent oligonucleotide probing of whole 
+cells for determinative phylogenetic and environmental studies in microbiology j 
+bacteriol – 
+
+ uyaguari diaz m i et al automated gel size selection to improve the quality of next 
+generation sequencing libraries prepared from environmental water samples j vis 
+exp e doi 
+
+ peabody m a van rossum t lo r brinkman f s l evaluation of shotgun 
+metagenomics sequence classification methods using in silico and in vitro simulated 
+communities bmc bioinformatics 
+
+ wang d et al microarray based detection and genotyping of viral pathogens proc natl 
+acad sci u s a – 
+
+ bolger a m lohse m usadel b trimmomatic a flexible trimmer for illumina 
+sequence data bioinformatics – 
+
+ martin m cutadapt removes adapter sequences from high throughput sequencing reads 
+embnet journal – 
+
+ zhang j kobert k flouri t stamatakis a pear a fast and accurate illumina 
+paired end read merger bioinformatics – 
+
+ edgar r c search and clustering orders of magnitude faster than blast 
+bioinformatics – 
+
+ oksanen j et al package ‘vegan’ community ecology package community ecology 
+package version 
+
+ r core team r a language and environment for statistical computing 
+
+ schloss p d et al introducing mothur open source platform independent community 
+supported software for describing and comparing microbial communities appl environ 
+microbiol – 
+
+ kozich j j westcott s l baxter n t highlander s k schloss p d 
+development of a dual index sequencing strategy and curation pipeline for analyzing 
+amplicon sequence data on the miseq illumina sequencing platform appl environ 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+microbiol – 
+
+ huang y gilna p li w identification of ribosomal rna genes in metagenomic 
+fragments bioinformatics – 
+
+ fu l niu b zhu z wu s li w cd hit accelerated for clustering the next 
+generation sequencing data bioinformatics – 
+
+ hurwitz b l sullivan m b the pacific ocean virome pov a marine viral 
+metagenomic dataset and associated protein clusters for quantitative viral ecology 
+plos one e 
+
+ buchfink b xie c huson d h fast and sensitive protein alignment using 
+diamond nat methods – 
+
+ brum j r et al patterns and ecological drivers of ocean viral communities science 
+ – 
+
+ hurwitz b l u’ren j m youens clark k computational prospecting the great 
+viral unknown fems microbiology letters 
+
+ leys c ley c klein o bernard p licata l detecting outliers do not use 
+standard deviation around the mean use absolute deviation around the median j exp 
+soc psychol – 
+
+ canadian council of ministers of the environment canadian environmental quality 
+guidelines and summary table 
+
+ 
+
+acknowledgements 
+we thank jared r slobodan and matthew j nesbitt from coastal genomics inc burnaby bc 
+canada for their assistance in applying ranger technology for dna sequencing library size 
+selection this work was funded by genome bc and genome canada grant no lsarp 
+ wat with major support from the simon fraser university community trust endowment 
+fund and additional support from the public health agency of canada 
+ 
+ 
+
+author contributions 
+j i r p k c t n a p c a s and f s l b designed the study guided the analyses aided in 
+interpretations and acquired funding m i u led the sampling and sequencing with assistance 
+from m c m a c and k i c j r s and m j n performed size selection of sequencing 
+libraries t v led the bioinformatics and data analysis and wrote the manuscript with significant 
+input from f s l b a t compiled otu tables for the g data m v m a p and w w l h 
+guided analyses all authors contributed to final revisions of the manuscript 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+

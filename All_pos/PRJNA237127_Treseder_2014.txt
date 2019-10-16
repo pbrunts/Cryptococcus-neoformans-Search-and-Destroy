@@ -1,0 +1,1479 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rev iss web ele 
+
+
+letter evolutionary histories of soil fungi are reflected in their large 
+
+scale biogeography
+
+kathleen k treseder mia r 
+
+maltz bradford a hawkins 
+
+noah fierer jason e stajich and
+
+krista l mcguire 
+
+abstract
+although fungal communities are known to vary along latitudinal gradients mechanisms underly 
+ing this pattern are not well understood we used high throughput sequencing to examine the
+large scale distributions of soil fungi and their relation to evolutionary history we tested the trop 
+ical conservatism hypothesis which predicts that ancestral fungal groups should be more
+restricted to tropical latitudes and conditions than would more recently derived groups we found
+support for this hypothesis in that older phyla preferred significantly lower latitudes and warmer 
+wetter conditions than did younger phyla moreover preferences for higher latitudes and lower pre 
+cipitation levels were significantly phylogenetically conserved among the six younger phyla possibly
+because the older phyla possess a zoospore stage that is vulnerable to drought whereas the younger
+phyla retain protective cell walls throughout their life cycle our study provides novel evidence that
+the tropical conservatism hypothesis applies to microbes as well as plants and animals 
+
+keywords
+latitude phylum precipitation regular septa snowball earth events soil temperature traits zoo 
+spore 
+
+ecology letters – 
+
+introduction
+
+numerous studies have reported shifts in fungal community
+composition by latitude temperature and precipitation
+ arnold lutzoni tedersoo et al kivlin
+et al sun et al €opik et al such spatial
+shifts are expected to contain phylogenetic patterns if we
+assume that the evolution of key morphological or physiologi 
+cal traits of fungal taxa determines their response to tempera 
+ture and precipitation these traits include possession of cell
+walls or the presence of regular septa in turn these traits
+could constrain the geographic distribution of fungal taxa 
+nevertheless the relationships between the evolutionary his 
+tory of soil fungi and their biogeographical patterns remain
+largely unknown especially at very large scales 
+for many terrestrial plants and animals younger taxa tend
+
+to reside at higher latitudes hillebrand weir schluter
+ buckley et al hawkins et al romdal et al 
+ the tropical conservatism hypothesis tch repre 
+sents one potential explanation for this pattern e g wiens 
+donoghue whereby older groups that evolved under
+warmer wetter conditions are constrained by phylogenetic
+niche conservatism making it difficult for them to evolve the
+necessary physiological traits that allow them to proliferate
+under cooler drier climates thus older groups and their
+traits are more likely to be restricted to lower latitudes 
+whereas younger groups can reside at higher latitudes it is
+unknown however whether these patterns apply to fungi 
+
+here we test predictions of tch as they may apply to a
+group of organisms much older than those normally consid 
+ered the earth’s paleoclimate was relatively warm and wet
+during the earliest evolution of ancestral fungi whereas severe
+ice ages evans et al kopp et al smith and
+drought algeo scheckler occurred later in their evo 
+lutionary history we hypothesized that younger fungal phyla
+should be more likely to reside in soils of higher latitudes 
+with older lineages having evolved traits that provide maximal
+fitness under warm and wet conditions we also explored the
+distributions of potential traits that could account for the spa 
+tial structure of lineage ages 
+we are focusing on the biogeography of soil fungi at the
+
+phylum level because we are examining evolutionary histories
+over very long time periods that correspond to divergence at
+this broad taxonomic level the divergence of fungal phyla
+coincided with key evolutionary events some of which could
+have conferred greater tolerance to stressful environmental
+conditions for example the ancestral phyla cryptomycota 
+chytridiomycota and blastocladiomycota each reproduce via
+zoospores which do not have cell walls the zoospore form was
+lost from younger phyla liu et al stajich et al 
+james et al this event may have coincided with the
+onset of extreme cold periods during the neoproterozoic
+ evans et al smith it is well documented that fun 
+gal cell walls protect the interior from damage caused by freez 
+ing desiccation and osmotic stresses reviewed in latg�e 
+some zoosporic fungi can produce resting or resistant spores
+
+ department of ecology and evolutionary biology university of california
+
+irvine irvine ca usa
+ department of ecology and evolutionary biology cooperative institute for
+
+research in environmental sciences university of colorado boulder co 
+
+ usa
+
+ department of plant pathology and microbiology university of california
+
+riverside riverside ca usa
+ barnard college columbia university new york ny usa
+
+ correspondence e mail treseder uci edu
+
+© john wiley sons ltd cnrs
+
+ecology letters – doi ele 
+
+
+
+that allow them to become dormant during stressful condi 
+tions but they nevertheless form zoospores upon germination
+ olson thus their active phases may be relatively lim 
+ited under stressful conditions 
+differentiated tissues with regular septa are thought to have
+
+evolved in the two youngest phyla ascomycota and basidi 
+omycota also known as the dikarya during the devonian
+ stajich et al kumar et al healy et al in
+this period much of the earth’s land mass was located in the
+naturally arid zone near the tropic of capricorn algeo 
+scheckler so land based fungi should have been
+exposed to dry conditions regular septa of the dikarya
+include central pores that can be plugged by specialized
+organelles and together they form a regulatory structure that
+improves water conservation under dry conditions and
+reduces leakage that might occur from freeze thaw ruptures
+ maruyama et al beck et al in comparison reg 
+ular septa like these are rare within older phyla and are
+known to occur in only a few groups within the kickxellomy 
+cotina tretter et al altogether the elimination of the
+zoospore stage and the evolution of regular septa might each
+contribute to the latitudinal distributions of fungal phyla 
+to test our hypothesis we mapped the distributions of
+
+fungal taxa in soils collected from local communities across
+the western hemisphere for each taxon we calculated the
+average latitudinal distance from the equator i e higher ver 
+sus lower latitudes mean annual temperature and mean
+annual precipitation for sites in which the taxon was
+detected these were considered the environmental conditions
+‘preferred’ by each taxon akin to niche space finally 
+we related these preferred environments to phylum age and
+phylum level traits 
+
+materials and methods
+
+study sites
+
+we assayed soils from sites in north and south america 
+this number of sites was smaller than some other large scale
+analyses e g lauber et al nevertheless the sites rep 
+resented a wide range in latitude °s to °n mean
+annual temperature � to °c and mean annual pre 
+cipitation to mm year� table s which allowed
+us to test relationships with each parameter for these sites 
+mean annual temperature and precipitation were relatively
+high near the equator and then declined substantially at
+higher latitudes fig s moreover mean annual tempera 
+ture and precipitation were positively associated across sites
+ fig s sites with lower precipitation rates also experienced
+greater drought i e soil moisture deficit fig s in addi 
+tion of the sites were dominated by at least one ectomy 
+corrhizal ecm host plant table s these sites tended to
+differ from the others in terms of distance from the equator
+ ecm � ° latitude non ecm � ° latitude 
+mean � se and temperature ecm � °c non 
+ecm � °c but not necessarily precipitation ecm 
+ � mm year� non ecm � mm year� 
+the top cm of mineral soil was composited from to 
+locations within a given site near the peak plant growing
+
+season these soil samples were identical to a subset of those
+reported in fierer jackson 
+
+dna sequencing and analysis
+
+dna was extracted from to g dry weight of each soil
+sample as described in lauber et al we used universal
+fungal primers of borneman hartin modified for
+barcoded pyrosequencing to amplify a bp region of the
+ s rrna gene as in mcguire et al this region
+extends from nucleotide to of the s sequence of
+saccharomyces cerevisiae and includes the v partial and v 
+variable regions borneman hartin this primer set
+has previously been used to successfully amplify cryptomy 
+cota blastocladiomycota chytridiomycota zygomycota 
+mucoromycotina glomeromycota ascomycota and basidi 
+omycota borneman hartin nagahama et al 
+cryptomycota are classified as fungi jones et al a b 
+capella gutierrez et al james et al we obtained
+ fungal sequences representing to sequences
+per sample the quantitative insights into microbial ecology
+ qiime pipeline was then used to process sequences capor 
+aso et al sequences were quality checked aligned and
+grouped into phylotypes hereafter ‘taxa’ at a sequence
+similarity cut off this cut off corresponds to approximately
+the family level for this dna region anderson et al 
+one representative sequence from each taxon was chosen 
+each representative sequence was identified to phylum by
+blast comparison against all non environmental fungal
+sequences in genbank https www ncbi nlm nih gov gen 
+bank we double checked our identifications by manually
+performing blast comparisons with curated sequences pro 
+duced by the assembling the fungal tree of life aftol 
+project james et al we randomly selected 
+sequences per sample to control for differences in sequence
+number among samples 
+altogether fungal taxa were identified to phylum and
+
+collectively they represented nine phyla table s a repre 
+sentative sequence of each taxon has been submitted to gen 
+bank under the bioproject accession prjna one
+hundred seventeen of these taxa matched ≥ identity a
+sequence from an aftol or other vouchered specimen so
+they could be identified at a higher taxonomic resolution
+ table s for each taxon we determined the average i e 
+‘preferred’ distance from the equator mean annual tempera 
+ture and mean annual precipitation of the sites in which it
+was observed distance from the equator was computed as
+degrees latitude north or south so that greater distance indi 
+cates higher latitudes regardless of hemisphere note that we
+did not weight these preferences by relative abundance of the
+taxon in each site to be conservative preferences were calcu 
+lated solely based on presence absence data moreover none
+of the data was normally distributed so we performed all sta 
+tistical analyses on ranked data or with nonparametric tests 
+systat version chicago il usa was used for
+all non phylogenetic tests and differences were considered sig 
+nificant when p 
+first we tested whether phyla differed from one another in
+
+environmental preferences with a series of kruskal–wallis
+
+© john wiley sons ltd cnrs
+
+letter fungal biogeography and evolutionary history 
+
+
+
+tests analogous to a nonparametric one way analysis of vari 
+ance sokal rohlf we used phylum identity as the
+independent variable and each environmental preference in
+turn as a dependent variable units of observation were indi 
+vidual taxa in each case a kolmogorov–smirnov test for
+pairwise differences was applied post hoc sokal rohlf
+ 
+second we quantified relationships between phylum age
+
+and environmental preferences we conducted a mixed hierar 
+chical regression between phylum age independent variable 
+and preferred distance from equator dependent variable a
+mixed hierarchical regression is essentially a linear regression
+that allowed us to nest taxa within phyla raudenbush 
+this approach takes into account the fact that taxa were
+related within phyla in other words phyla—but not taxa
+within phyla—were considered to be independent moreover 
+we used a mixed hierarchical regression because our data were
+not distributed equally among phyla and this test is not sensi 
+tive to unequal distributions raudenbush for phylum
+age we used rankings of basal ages from stajich et al 
+which are based on calibrations from taylor berbee 
+and the aftol phylogenetic tree james et al taxa
+represented data points that were nested within phylum 
+phylum was the unit of analysis a significant negative rela 
+tionship between preferred distance from equator and phylum
+age would be consistent with our hypothesis similar mixed
+hierarchical regressions were then performed with preferred
+mean annual temperature or preferred mean annual precipita 
+tion as the dependent variables significant relationships
+between phylum age and these environmental conditions
+would aid the interpretation of any latitudinal patterns 
+third we performed phylogenetic independent contrasts
+
+between phylum age and environmental preferences as an
+additional test of our hypothesis for these analyses we used
+the phylogeny of james et al which includes the s
+rdna region as well as five other genes to better resolve early
+evolutionary events we pruned the phylogeny so that it
+included one representative of each of the nine phyla from
+our study we applied the phylocom aot algorithm
+ webb et al to conduct a set of phylogenetic indepen 
+dent contrasts between the basal age of each phylum from
+stajich et al and each environmental preference pro 
+portional branch lengths were used units of observation were
+phyla thus for each phylum we used the mean preferred
+distance from equator temperature or precipitation for all
+taxa within that phylum 
+fourth we examined morphological or physiological traits
+
+that might have influenced environmental preferences we did
+so by performing a series of comparisons among dichotomous
+traits that differed at the phylum level the traits were presence
+vs absence of a zoospore stage and presence vs absence of
+regular septa in hyphae for each trait we used the phylocom
+ aot algorithm webb et al to check for significant
+phylogenetic conservation of each environmental preference
+within the relevant clade specifically we tested whether the
+clade representing phyla without a zoospore stage entomoph 
+thoromycota mucoromycotina zygomycota glomeromy 
+cota ascomycota and basidiomycota displayed phylogenetic
+conservation of greater preferred distance from the equator 
+
+lower temperature and less precipitation we next tested
+whether environmental preferences were conserved within the
+clade representing phyla with regular septa ascomycota and
+basidiomycota for both tests of phylogenetic conservation 
+phylum was the unit of analysis for each phylum we used the
+mean preferred distance from equator temperature or precipi 
+tation for all taxa within that phylum 
+
+results
+
+the fungal phyla differed significantly in preferred distance
+from equator kruskal–wallis h n p 
+temperature h n p and precipitation
+ h n p table s moreover younger
+phyla preferred significantly higher latitudes fig 
+z � p and cooler temperatures z 
+p there was also a significant relationship between
+phylum age and preferred precipitation but with greater scat 
+ter z p cryptomycota exhibited preferences
+for particularly low latitudes warm temperatures and high
+precipitation rates yet relationships between phylum age and
+each environmental preference remained significant even when
+cryptomycota was omitted distance from equator p 
+temperature p precipitation p phylo 
+genetic independent contrasts likewise indicated significant
+relationships between phylum age and preference for distance
+from equator fig ric � p temperature
+ ric p and precipitation rate ric 
+p the decreases in preferred distance from the equa 
+tor with phylum age are expected under the tropical conser 
+vatism hypothesis as are the significant positive relationships
+between phylum age and preferred temperatures and precipi 
+tation rates if niche conservatism among fungi is strong
+enough to be manifested at the phylum rank 
+in terms of traits phyla that lacked zoospores were associ 
+
+ated with significantly higher latitudes fig p 
+marginally significantly cooler temperatures p and
+significantly lower precipitation p based on tests for
+phylogenetic conservation in contrast the formation of regu 
+lar septa was not significantly related to preferred distance
+from the equator fig s p temperature
+ p or precipitation p thus of the two
+traits we examined the evolutionary event associated with the
+loss of the zoospore stage was more strongly related to envi 
+ronmental preferences at the phylum level 
+
+discussion
+
+overall the age of fungal phyla was related to their biogeo 
+graphic distributions in soils of north and south america as
+we had hypothesized in general older fungal phyla tended
+to reside in soils of lower latitudes than did younger phyla
+ figs and these preferences may have been tied to the
+ability of taxa to tolerate cooler and drier conditions as
+younger phyla were also found in ecosystems with lower
+temperatures and precipitation rates figs and 
+together these patterns are consistent with the idea of niche
+conservatism—ancestral phyla that originated under warmer
+and wetter conditions may lack the traits that would allow
+
+© john wiley sons ltd cnrs
+
+ k k treseder letter
+
+
+
+them to tolerate the cooler and drier conditions more typical
+of higher latitudes younger phyla could have evolved a trait
+ or suite of traits that conferred cold and drought resistance 
+
+allowing them to colonize higher latitudes unavailable to
+older phyla the loss of the zoospore stage is one possible
+candidate especially regarding tolerance of drier conditions
+ fig in this way the evolutionary histories of fungal taxa
+appears to have influenced their distributions across latitudes
+at large scales 
+the latitudinal gradient in evolutionary age of taxa is com 
+
+mon and has been documented in numerous plant and ani 
+mal groups e g buckley et al hawkins et al 
+romdal et al moreover some of these studies have
+also found evidence for temperature and precipitation rates as
+underlying factors hawkins et al romdal et al 
+our study suggests that these patterns can apply to microbes
+as well as with plant and animals there was overlap in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+pr
+
+ef
+er
+
+re
+d 
+
+di
+st
+
+an
+ce
+
+ fr
+om
+
+ e
+qu
+
+at
+or
+
+ °
+la
+
+tit
+ud
+
+e 
+
+crypto
+
+glomero
+blastocladio
+
+chytridio
+mucoro
+
+zygo
+asco
+
+basidio
+
+entomophthoro
+
+– 
+
+– 
+
+– 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+er
+re
+
+d 
+m
+
+ea
+n 
+
+an
+nu
+
+al
+ te
+
+m
+p 
+
+ °
+c crypto
+
+glomero
+blastocladio
+
+chytridio
+
+mucoro
+
+zygo
+asco
+
+basidio
+
+entomophthoro
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+er
+re
+
+d 
+m
+
+ea
+n 
+
+an
+nu
+
+al
+ p
+
+re
+ci
+
+p 
+ m
+
+m
+ y
+
+ea
+r–
+
+ 
+
+phylum age million years 
+
+basidio
+asco
+
+glomero
+
+zygo
+entomophthoro
+mucoro
+
+chytridio
+blastocladio
+
+crypto
+
+figure relationships between phylum age from stajich et al and
+
+preferred distance from equator preferred temperature and preferred
+
+precipitation younger phyla were generally observed at higher latitudes
+
+ p cooler temperatures p and drier sites p 
+circles represent means of each phylum and are labelled with phylum
+
+name suffix ‘ mycota’ or ‘ mycotina’ grey dashes represent individual
+
+taxa lines are best fit 
+
+– 
+
+– 
+
+– 
+
+– 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+ d
+ist
+
+an
+ce
+
+ fr
+om
+
+ e
+qu
+
+at
+or
+
+ ⁰
+ la
+
+tit
+ud
+
+e 
+ c
+
+on
+tr
+
+as
+t 
+
+ric – 
+p 
+
+– 
+
+– 
+
+– 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+ m
+ea
+
+n 
+an
+
+nu
+al
+
+ te
+m
+
+p 
+ ⁰
+
+ c
+ c
+
+on
+tr
+
+as
+t 
+
+ric 
+p 
+
+– 
+
+– 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+ m
+ea
+
+n 
+an
+
+nu
+al
+
+ p
+re
+
+ci
+p 
+
+ m
+m
+
+ y
+ea
+
+r–
+ 
+
+ c
+on
+
+tr
+as
+
+t 
+
+phylum age million years contrast 
+
+r ic 
+p 
+
+figure phylogenetic independent contrasts between phylum age and
+
+preferred environmental characteristics symbols represent contrasts at
+
+each phylogenetic node see fig for phylogenetic tree for preferred
+
+distance from equator more negative latitudes represent more southern
+
+distributions lines are best fit 
+
+© john wiley sons ltd cnrs
+
+letter fungal biogeography and evolutionary history 
+
+
+
+latitudinal distributions of old vs young fungal groups for
+instance the younger fungal phyla were well represented in
+soils throughout the latitudinal gradient fig this result is
+consistent with others who have recorded ecm fungi
+ ascomycota and basidiomycota within the tropics as well as
+higher latitudes e g buyck et al tedersoo et al 
+in contrast although some taxa from older phyla were found
+in the higher latitudes in general the older phyla were better 
+represented in the lower latitudes fig in other words the
+relative constraint of older phyla to the lower latitudes seems
+to be the main driver of differences in latitudinal distributions
+among phyla 
+we found that the lack of a zoospore stage was more
+
+strongly related to preferences for drier conditions than for
+
+colder temperatures fig so water availability may be a
+particularly important constraint for zoosporic phyla zoo 
+spores of the three ancestral phyla cryptomycota chytridi 
+omycota and blastocladiomycota lack cell walls so they are
+relatively vulnerable to osmotic shock gleason et al 
+james et al among our samples the oldest phylum 
+cryptomycota displayed a notable preference for high
+precipitation rates fig likewise in a survey of diverse
+environmental samples jones et al a found cryptomy 
+cota related sequences primarily though not exclusively in
+aquatic samples as well as water saturated sediments and
+soils an additional consideration is that many zoospores use
+flagella to disperse through water liu et al which
+could also influence their biogeography in contrast many
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+ d
+ist
+
+an
+ce
+
+ fr
+om
+
+eq
+ua
+
+to
+r 
+
+° l
+at
+
+itu
+de
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+ m
+ea
+
+n 
+an
+
+nu
+al
+
+te
+m
+
+pe
+ra
+
+tu
+re
+
+ °
+c 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pr
+ef
+
+ m
+ea
+
+n 
+an
+
+nu
+al
+
+pr
+ec
+
+ip
+ 
+
+m
+m
+
+ y
+ea
+
+r–
+ 
+
+zoospore no zoospore
+
+p 
+
+p 
+
+p 
+
+cr
+yp
+
+to
+
+ch
+yt
+
+rid
+io
+
+bl
+as
+
+to
+cl
+
+ad
+io
+
+en
+to
+
+m
+op
+
+ht
+ho
+
+ro
+
+m
+uc
+
+or
+o
+
+zy
+go
+
+gl
+om
+
+er
+o
+
+as
+co
+
+ba
+sid
+
+io
+
+figure environmental preferences of fungal phyla with and without the zoospore stage phyla lacking a zoospore stage entomophthoromycota 
+
+mucoromycotina zygomycota glomeromycota ascomycota and basidiomycota displayed significant phylogenetic conservation in their preferences for
+
+higher latitudes and lower precipitation levels and marginally significant phylogenetic conservation in preference for lower temperatures bars are means of
+
+phyla phylogenetic relationships among fungal phyla suffix ‘ mycota’ or ‘ mycotina’ are as reported in james et al and stajich et al 
+
+© john wiley sons ltd cnrs
+
+ k k treseder letter
+
+
+
+ascomycetes and basidiomycetes discharge spores into the air
+for wind transport ingold so they may not be as
+dependent on standing water for dispersal 
+the dikarya are capable of producing regular septa with
+
+central pores that can be closed to prevent leakage fungi with
+these structures are more stress tolerant beck et al in
+addition numerous members of the dikarya form ecm rela 
+tionships with specific host plants e g tedersoo et al 
+ this latter trait could also have influenced somewhat
+the environmental preferences of dikarya tedersoo et al 
+ as the study sites dominated by ecm host plants
+tended to occupy higher latitudes and colder habitats table
+s however environmental preferences of the dikarya were
+not significantly phylogenetically conserved in any case not
+for distance from the equator temperature nor precipitation
+level fig s thus we found no evidence that the posses 
+sion of regular septa by the youngest phyla or their associa 
+tions with ecm host plants noticeably influenced their
+biogeographical distributions in this study we note that regu 
+lar like septa can also be produced by taxa of the kickxellales
+and harpellales within kickxellomycotina which is older than
+the dikarya tretter et al nevertheless no members of
+these groups were detected in our samples they often reside
+within insect guts tretter et al and their large scale
+distributions in soil remain relatively unexamined 
+the loss of the zoospore stage was in general more strongly
+
+related to shifts in environmental preferences than was the
+development of regular septa a number of additional physio 
+logical and morphological traits distinguish the cryptomycota 
+chytridiomycota and blastocladiomycota clades from those
+that evolved later e g james et al kumar et al 
+ and these traits might each have elicited differences in
+environmental preferences the loss of zoospores is just one
+possible mechanism in studies that have used culture indepen 
+dent techniques to characterize fungal community composition
+in high latitudes fungi of the cryptomycota chytridiomycota 
+and blastocladiomycota are often much rarer than those of the
+dikarya e g deslippe et al taylor et al the
+environmental conditions found at higher latitudes might either
+directly inhibit activities of older phyla or might provide a
+competitive advantage to younger phyla 
+the absolute age of fungal phyla is an area of active
+
+research and only broad estimates exist for the oldest clades
+ taylor berbee currently the divergence of younger
+phyla from the cryptomycota chytridiomycota and blastoc 
+ladiomycota clades—and the loss of the zoospore stage—is
+thought to have occurred during the neoproterozoic approxi 
+mately to ma stajich et al during this time
+span multiple ‘snowball earth’ events occurred evans et al 
+ smith snowball earths were extreme ice ages 
+when mean annual temperatures were below freezing even at
+the equator hyde et al widespread glaciation was
+rare before this period with the exception of a snowball
+earth event in the paleoproterozoic evans et al kopp
+et al when fungi had not yet evolved taylor berbee
+ thus the neoproterozoic snowball earths might have
+subjected ancestral fungi to sustained cold periods that were
+unprecedented in their evolutionary history we tentatively
+propose that the novel environmental conditions selected for
+
+new clades that possessed protective cell walls throughout
+their lifespan 
+latitudinal shifts in fungal diversity and community compo 
+
+sition have previously been documented over smaller scales
+and for specific fungal groups for example the species
+richness of ectomycorrhizal fungi peaks in higher latitudes
+and at lower precipitation levels tedersoo et al this
+pattern is broadly consistent with our observations as most
+ectomycorrhizal fungi belong to the dikarya in contrast the
+richness of fungal endophyte communities primarily ascomy 
+cota peaks in the tropics where host plant diversity is like 
+wise high arnold lutzoni within southern europe 
+epiphytic lichen diversity also mostly ascomycota peaks in
+latitudes with higher water availability aragon et al 
+in a global synthesis kivlin et al reported that lati 
+tude temperature and precipitation each significantly influ 
+enced the community composition of arbuscular mycorrhizal
+fungi glomeromycota moreover community compositions
+of ericoid fungi and forest soil fungi vary by latitude in wes 
+tern china sun et al 
+a number of caveats should be considered within the context
+
+of this study first the observed relationships between
+environmental preferences and other traits are correlative so
+causal mechanisms must be interpreted with caution selection
+experiments are a more definitive test of underlying mecha 
+nisms and would be a worthwhile next step second although
+our complement of study sites is fairly large it does not com 
+prehensively represent all environments and geographical
+regions within north and south america likewise it is based
+solely in the western hemisphere third we focused on soil
+fungi environmental controls over the biogeography of aqua 
+tic endophytic or epiphytic fungi could be quite different 
+fourth our survey did not capture all fungal phyla and did
+not include zoopagomycotina kickxellomycotina or the mi 
+crosporidia our interpretations are necessarily limited to those
+taxa represented in the survey finally we sequenced the s
+region because it allowed us to identify taxa from the phylum
+to the family level had we targeted the its region its high
+degree of sequence variation would have allowed us to resolve
+fungal taxa closer to the species level but with the trade off of
+lower confidence at the phylum level schoch et al 
+in conclusion we found that the evolutionary history of
+
+fungal taxa was related to their biogeographic distribution at
+large scales specifically responses to past changes in the
+earth’s climate might have determined the latitudinal distribu 
+tion of fungal phyla today we propose that extreme ice ages
+that occurred early in the history of fungi elicited the evolu 
+tion of greater drought or cold tolerance the responsible trait
+might be the loss of the zoospore stage in favour of the main 
+tenance of protective cell walls throughout the life cycle the
+potential underlying mechanism addressed by the tropical
+conservatism hypothesis has previously been implicated for
+plants and animals our results indicate that it could be even
+more broadly applicable across the tree of life 
+
+acknowledgements
+
+we thank r healy s holden s kivlin r knight c 
+looby d mclaughlin j randerson r roberson a ro 
+
+© john wiley sons ltd cnrs
+
+letter fungal biogeography and evolutionary history 
+
+
+
+mero j taylor and s allison for technical assistance and
+intellectual feedback we are indebted to the members of the
+assembling the fungal tree of life project for publicly post 
+ing their dna sequences and associated traits this project
+was funded by grants from nsf and the u s department of
+energy program in microbial communities and carbon
+cycling 
+
+authorship statement
+
+kt led the analyses and wrote the manuscript mm js
+investigated the fungal traits and evolutionary history bh
+provided input on the tropical conservatism hypothesis and
+its analyses nf supplied the samples extracted the dna 
+and provided advice on the phylogenetic analyses and km
+amplified and prepped the fungal dna and contributed to
+the sequence analyses all authors provided feedback during
+manuscript preparation 
+
+references
+
+algeo t j scheckler s e terrestrial marine teleconnections in
+
+the devonian links between the evolution of land plants weathering
+
+processes and marine anoxic events philos trans r soc lond b 
+
+biol sci – 
+anderson i c campbell c d prosser j i potential bias of
+
+fungal s rdna and internal transcribed spacer polymerase chain
+
+reaction primers for estimating fungal biodiversity in soil environ 
+
+microbiol – 
+aragon g martinez i garcia a loss of epiphytic diversity
+
+along a latitudinal gradient in southern europe sci total environ 
+
+ – 
+arnold a e lutzoni f diversity and host range of foliar
+
+fungal endophytes are tropical leaves biodiversity hotspots ecology 
+
+ – 
+beck j echtenacher b ebel f woronin bodies their impact
+
+on stress resistance and virulence of the pathogenic mould aspergillus
+
+fumigatus and their anchoring at the septal pore of filamentous
+
+ascomycota mol microbiol – 
+borneman j hartin r j pcr primers that amplify fungal
+
+rrna genes from environmental samples appl environ microbiol 
+
+ – 
+buckley l b davies t j ackerly d d kraft n j b harrison s p 
+
+anacker b l et al phylogeny niche conservatism and the
+
+latitudinal diversity gradient in mammals proc r soc b biol sci 
+
+ – 
+buyck b thoen d watling r ectomycorrhizal fungi of the
+
+guinea congo region proc r soc edinb biol – 
+capella gutierrez s marcet houben m gabaldon t 
+
+phylogenomics supports microsporidia as the earliest diverging clade of
+
+sequenced fungi bmc biol 
+
+caporaso j g kuczynski j stombaugh j bittinger k bushman 
+
+f d costello e k et al qiime allows analysis of high 
+
+throughput community sequencing data nat methods – 
+deslippe j r hartmann m simard s w mohn w w 
+
+long term warming alters the composition of arctic soil microbial
+
+communities fems microbiol ecol – 
+evans d a beukes n j kirschvink j l low latitude
+
+glaciation in the palaeoproterozoic era nature – 
+fierer n jackson r b the diversity and biogeography of soil
+
+bacterial communities proc natl acad sci usa – 
+gleason f h schmidt s k marano a v can zoosporic true
+
+fungi grow or survive in extreme or stressful environments 
+
+extremophiles – 
+
+hawkins b a mccain c m davies t j buckley l b anacker 
+
+b l cornell h v et al different evolutionary histories
+
+underlie congruent species richness gradients of birds and mammals 
+
+j biogeogr – 
+healy r a kumar t k a hewitt d a mclaughlin d j 
+
+ functional and phylogenetic implications of septal pore
+
+ultrastructure in the ascoma of neolecta vitellina mycologia 
+
+ – 
+hillebrand h on the generality of the latitudinal diversity
+
+gradient am nat – 
+hyde w t crowley t j baum s k peltier w r 
+
+neoproterozoic ‘snowball earth’ simulations with a coupled climate 
+
+ice sheet model nature – 
+ingold c t dispersal in fungi clarendon press oxford 
+
+james t y kauff f schoch c l matheny p b hofstetter v cox 
+
+c j et al reconstructing the early evolution of fungi using a
+
+six gene phylogeny nature – 
+james t y pelin a bonen l ahrendt s sain d corradi n 
+
+et al shared signatures of parasitism and phylogenomics unite
+
+cryptomycota and microsporidia curr biol – 
+jones m d m forn i gadelha c egan m j bass d massana r 
+
+et al a discovery of novel intermediate forms redefines the
+
+fungal tree of life nature – 
+jones m d m richards t a hawksworth d l bass d b 
+
+validation and justification of the phylum name cryptomycota phyl 
+
+nov ima fungus – 
+kivlin s n hawkes c v treseder k k global diversity and
+
+distribution of arbuscular mycorrhizal fungi soil biol biochem 
+
+ – 
+kopp r e kirschvink j l hilburn i a nash c z the
+
+paleoproterozoic snowball earth a climate disaster triggered by the
+
+evolution of oxygenic photosynthesis proc natl acad sci usa 
+
+ – 
+kumar t k a crow j a wennblom t j abril m letcher p m 
+
+blackwell m et al an ontology of fungal subcellular traits 
+
+am j bot – 
+kumar t k a healy r spatafora j w blackwell m 
+
+mclaughlin d j orbilia ultrastructure character evolution
+
+and phylogeny of pezizomycotina mycologia – 
+latg�e j p the cell wall a carbohydrate armour for the fungal
+
+cell mol microbiol – 
+lauber c l hamady m knight r fierer n 
+
+pyrosequencing based assessment of soil ph as a predictor of soil
+
+bacterial community structure at the continental scale appl environ 
+
+microbiol – 
+liu y j j hodson m c hall b d loss of the flagellum
+
+happened only once in the fungal lineage phylogenetic structure of
+
+kingdom fungi inferred from rna polymerase ii subunit genes bmc
+
+evol biol 
+
+maruyama j i juvvadi p r ishi k kitamoto k three 
+
+dimensional image analysis of plugging at the septal pore by woronin
+
+body during hypotonic shock inducing hyphal tip bursting in the
+
+filamentous fungus aspergillus oryzae biochem biophys res 
+
+commun – 
+mcguire k fierer n bateman c treseder k turner b 
+
+ fungal community composition in neotropical rain forests 
+
+the influence of tree diversity and precipitation microb ecol 
+
+ – 
+nagahama t takahashi e nagano y abdel wahab m a 
+
+miyazaki m molecular evidence that deep branching fungi are
+
+major fungal components in deep sea methane cold seep sediments 
+
+environ microbiol – 
+olson l w meiospore of allomyces protoplasma – 
+€opik m zobel m cantero j j davison j facelli j m hiiesalu i 
+
+et al global sampling of plant roots expands the described
+
+molecular diversity of arbuscular mycorrhizal fungi mycorrhiza 
+
+ – 
+
+© john wiley sons ltd cnrs
+
+ k k treseder letter
+
+
+
+raudenbush s hierarchical linear models and experimental
+
+design in applied analysis of variance in behavioral science ed 
+
+edwards lk chapman and hall crc new york pp – 
+romdal t s ara�ujo m b rahbek c life on a tropical
+
+planet niche conservatism and the global diversity gradient glob ecol 
+
+biogeogr – 
+schoch c l seifert k a huhndorf s robert v spouge j l 
+
+levesque c a et al nuclear ribosomal internal transcribed
+
+spacer its region as a universal dna barcode marker for fungi 
+
+proc natl acad sci usa – 
+smith a g neoproterozoic timescales and stratigraphy geol 
+
+soc lond spec publ – 
+sokal r r rohlf f j biometry rd edn w h freeman and
+
+company new york 
+
+stajich j e berbee m l blackwell m hibbett d s james t y 
+
+spatafora j w et al the fungi curr biol r –r 
+sun l f pei k q wang f ding q bing y h gao b et al 
+
+ different distribution patterns between putative ericoid
+
+mycorrhizal and other fungal assemblages in roots of rhododendron
+
+decorum in the southwest of china plos one e 
+
+taylor j w berbee m l dating divergences in the fungal
+
+tree of life review and new analyses mycologia – 
+taylor d l hollingsworth t n mcfarland j lennon n j 
+
+nusbaum c ruess r w a first comprehensive census of
+
+fungi in soil reveals both hyperdiversity and fine scale niche
+
+partitioning ecology doi 
+
+tedersoo l may t w smith m e ectomycorrhizal lifestyle
+
+in fungi global diversity distribution and evolution of phylogenetic
+
+lineages mycorrhiza – 
+tedersoo l bahram m toots m diedhiou a g henkel t w 
+
+kjoller r et al towards global patterns in the diversity and
+
+community structure of ectomycorrhizal fungi mol ecol –
+ 
+
+tretter e d johnson e m wang y kandel p white m m 
+
+ examining new phylogenetic markers to uncover the
+
+evolutionary history of early diverging fungi comparing mcm tsr 
+
+and rrna genes for single and multi gene analyses of the
+
+kickxellomycotina persoonia – 
+webb c o ackerly d d kembel s w phylocom software
+
+for the analysis of phylogenetic community structure and trait
+
+evolution bioinformatics – 
+weir j t schluter d the latitudinal gradient in recent
+
+speciation and extinction rates of birds and mammals science 
+
+ – 
+wiens j j donoghue m j historical biogeography ecology
+
+and species richness trends ecol evol – 
+
+supporting information
+
+additional supporting information may be downloaded via
+the online version of this article at wiley online library
+ www ecologyletters com 
+
+editor dr aimee classen
+manuscript received february 
+first decision made march 
+manuscript accepted may 
+
+© john wiley sons ltd cnrs
+
+letter fungal biogeography and evolutionary history 
+
+
+

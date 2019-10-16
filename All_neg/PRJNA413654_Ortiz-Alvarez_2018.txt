@@ -1,0 +1,832 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+high planktonic diversity in mountain lakes contains similar contributions of autotrophic heterotrophic and parasitic eukaryotic life forms
+
+
+ scientific reports doi s 
+
+www nature com scientificreports
+
+high planktonic diversity in 
+mountain lakes contains similar 
+contributions of autotrophic 
+heterotrophic and parasitic 
+eukaryotic life forms
+rüdiger ortiz Álvarez xavier triadó margarit lluís camarero emilio o casamayor 
+jordi catalan 
+
+a rich eukaryotic planktonic community exists in high mountain lakes despite the diluted oligotrophic 
+and cold harsh prevailing conditions attempts of an overarching appraisal have been traditionally 
+hampered by observational limitations of small colorless and soft eukaryotes we aimed to uncover 
+the regional eukaryotic biodiversity of a mountain lakes district to obtain general conclusions 
+on diversity patterns dominance geographic diversification and food web players common to 
+oligotrophic worldwide distributed freshwater systems an unprecedented survey of high altitude 
+lakes comprising large environmental gradients was carried out using illumina massive tag sequencing 
+of the s rrna gene we observed a large chrysophyceae dominance in richness abundance and 
+novelty and unveiled an unexpected richness in heterotrophic phagotrophs and parasites in particular 
+cercozoa and chytridiomycota showed diversity features similar to the dominant autotrophic groups 
+the prominent beta dispersion shown by parasites suggests highly specific interactions and a relevant 
+role in food webs interestingly the freshwater pyrenean metacommunity contained more diverse 
+specific populations than its closest marine oligotrophic equivalent with consistently higher beta 
+diversity the relevance of unseen groups opens new perspectives for the better understanding of 
+planktonic food webs mountain lakes with remarkable environmental idiosyncrasies may be suitable 
+environments for the genetic diversification of microscopic eukaryotic life forms 
+
+hidden species richness in ultraoligotrophic freshwaters ecosystems has long been suspected as early microscopic 
+assessments indicated abundant soft and rather small eukaryotic organisms in ecological studies many species 
+of recognized relevant groups e g chrysophyceae were only tentatively determined or quite often lumped 
+into size classes due to the lack of a consistent taxonomy – recently the introduction of molecular techniques 
+is progressively unveiling a great eukaryotic diversity in mountain lakes – the use of molecular tools for iden 
+tification of sequences originating from environmental dna by reference to sequence databases can overcome 
+many limitations of traditional microscopic approaches although they may lack specificity to link morphology 
+to molecular data so far the molecular diversity of protists in inland waters appears higher than that of the 
+morphospecies and cultivated species catalogued in public databases – 
+
+despite remarkable traditional attempts to develop a morphological taxonomy e g studies by h skuja a 
+pascher k starmach p bourrelly among others the realistic appraisal of the species richness across oligotrophic 
+lakes was hampered by technical limitations the relevance of scarcely visible organisms usually heterotrophs 
+has been a matter of speculation or they have been just simply ignored heterotrophic flagellates hnf were usu 
+ally amalgamated in a single functional guild and amoeboid forms were rarely considered and if so with limited 
+taxonomic resolution recent findings in marine waters have revealed large unseen diversity of heterotrophic 
+
+ integrative freshwater ecology group center for advanced studies of blanes csic acc cala st francesc e 
+ blanes catalonia spain creaf csic campus uab edifici c cerdanyola del vallès catalonia 
+spain correspondence and requests for materials should be addressed to e o c email casamayor ceab csic es 
+
+received november 
+
+accepted march 
+
+published xx xx xxxx
+
+open
+
+http orcid org 
+mailto casamayor ceab csic es
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+protistan groups and many studies are highlighting the role of fungi in aquatic food webs as a promising 
+research topic 
+
+oligotrophic lakes are widely heterogeneous regarding climatic chemical and morphological conditions this 
+heterogeneity sustains the proposal that freshwater microbial diversity might be higher than in marine envi 
+ronments – an appraisal of the general eukaryotic diversity in oligotrophic planktonic systems requires an 
+extensive survey of sites comprising several environmental gradients pyrenean mountain lakes provide such an 
+environmental variation because of their distribution across altitude and bedrock diversity their abundance 
+in a relatively restricted territory also permits considering patterns related to the spatial distribution and connec 
+tivity between lakes in the present investigation we have characterised the eukaryotic regional metacommunity 
+of the mountain lakes of the pyrenees and evaluated its novelty using the v region of the s rrna gene as a 
+taxonomic indicator diversity dominance and geographic diversification of the main groups were examined 
+we grouped operational taxonomic units otus in taxonomic levels that responded to similar life forms and 
+trophic roles thus some general conclusions on diversity patterns ecological structure and food web players 
+were unveiled 
+
+materials and methods
+lakes survey the lakes sampling design covered the whole geographical distribution of the mountain lakes 
+in the pyrenees from ° ′ ′′w to ° ′ ′′e longitude and ° ′ ′′n to ° ′ ′′n latitude fig   
+the sampled lakes were distributed across altitudinal gradient – m above sea level average m 
+and different bedrock types to encompass the main environmental gradients influencing the species distribution 
+in mountain lakes lake area ranged between and ha average ha we intended to sample all lakes 
+within a selected sub basin to accurately mimic the lake size and hydrological connectivity distributions most 
+of the lakes were located in the alpine belt where bare rock and scree predominated with soil coverage by 
+meadows and shrubs on average the predominant bedrock was granodiorite which shaped highly diluted waters 
+ average conductivity μs cm additional areas of limestone and metamorphic rocks schist and slate pro 
+vided a broad range of chemical conditions e g ph range – average typically the lakes were poor in 
+phosphorus average soluble reactive phosphorous nm and mostly ranked as oligotrophic plankton sam 
+ples were collected in the littoral zone along the summer period to keep the temporal interval the shortest as pos 
+sible and to preserve comparability among samples about ml μm size water lake samples were filtered 
+in situ using micron sterivex pressure driven sterile filter units millipore r and preserved in lysis buffer 
+ mm edta mm tris ph m sucrose as recently reported for the genomic dna extraction 
+the membranes were enzymatically digested with lysozyme proteinase k and sodium dodecylsulfate incubation 
+followed by phenol extraction and dna purification and concentration with amicon® ultra centrifugal filter 
+units – nmwl millipore 
+
+sequencing and data filtering high speed multiplexed s rrna gene sequencing with the illumina 
+miseq system × bp was carried out with the “universal” f and eukbr eukaryotic primers v 
+region these primers are known to recover the known eukaryotic diversity without major qualitative or quan 
+titative biases guidelines from the earth microbiome project emp protocol and the genomics core facilities 
+and methods of the rtsf msu michigan state university usa were followed raw sequences were analysed 
+with uparse overall quality of sequences was high with reaching q the total number of sequences 
+before quality filtering was after merging of read pairs and filtering by read length above or equal to 
+ pb quality score distribution ascii ‘b’ and an expected error of we kept sequences out 
+of them were unique and not singletons the latter were clustered at identity after chimera 
+removal resulting in otus sequences were mapped back into otus and classified with the silva 
+database overall we retrieved a mean of sequences per lake range – 
+
+figure distribution of lakes surveyed and sequenced across the pyrenees the main river basins are 
+indicated dots of nearby lakes may overlap map created with arcgis ©esri 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+ecological classification and diversity indexes sequences were classified using the rdp classifier by 
+default as implemented in qiime and the silva ngs pipeline with the silva database relevant discrepan 
+cies were double checked through local blast search september and if not resolved left as “unclassified” 
+around of the otus could not be classified beyond “domain” mean number of otus per lake richness and 
+average occurrence of otus were determined shannon diversity per lake alpha diversity shannon diversity 
+in the whole region gamma diversity and berger parker dominance indexes were calculated 
+
+for classification ad hoc taxonomical levels reflecting the main ecological life styles were used furthermore 
+preferences for carbon source nutrition type and habitat were labelled thus groups corresponded to distinct 
+taxonomic hierarchical levels but shared the common characteristic that most of the species within the group 
+showed a similar life form and functional role within the planktonic food web for the first ten most relevant 
+groups we evaluated in detail more different diversity patterns table  
+
+genetic novelty analysis the novelty in the dataset was explored by s rrna gene blast identity 
+searches against genbank sequences search september to both the closest environmental match cem 
+and the closest cultured match ccm available in genbank e g massana et al only otus sharing sequence 
+identity values and alignment coverage values above to nt database were considered for downstream analyses 
+the closest match identity values either to environmental or cultured were used to explore novelty abundance 
+and novelty occurrence relationships high novelty was defined for those otus with identity for both 
+ccm and cem see more details in supplementary information s 
+
+geographic patterns and beta dispersion the relationship between geographic euclidean dis 
+tance and community dissimilarity bray curtis was evaluated using mantel tests r package vegan with the 
+spearman method both for the whole eukaryotic assemblage and for taxonomic groups of interest we assigned 
+lakes to basins and sub basins using the ‘spatial join’ routine from arcgis ©esri we estimated average 
+beta dispersion i e average distance to group centroids r package vegan per catchment or sub catchment 
+and tested it with anova permutations using the taxonomic groups as levels of a factor ‘taxonomy’ if sig 
+nificant post hoc pairwise comparisons or hsd tukey tests were carried out to find differences between groups 
+ r package agricolae the coherence between pairs of taxonomic groups regarding how beta dispersion changed 
+in sub basins was assessed using spearman correlations r package base 
+
+results
+the total number of properly identified otus reached mean per lake range – comprising 
+ differential groups fig   most of the metacommunity richness corresponded to planktonic and 
+bentho planktonic free organisms followed by host dependent organisms the remaining compo 
+nent were putative zoospores diaspores and traces of predominantly terrestrial and benthic organisms 
+the most abundant were autotrophic organisms but most of them of the total relative abundance 
+were mixotrophs –i e autrotrophs that also ingest prokaryotes– and only a minority exclusively osmotrophs 
+phagotrophic heterotrophs accounted for of the reads while other heterotrophic life forms were less abundant 
+ c – however most of the otus richness belonged to heterotrophs phagotrophs parasites 
+saprotrophs and symbiotic autotrophic organisms accounted for of the richness mixotrophs 
+ exclusively osmotrophs and trophic mode was unknown for the remaining otus overall there was a 
+general positive relationship between abundance and richness of the groups fig   
+
+taxonomically the regional pool was dominated by phytoplanktonic mixotrophic flagellates of chrysophyceae 
+ of the sequences and otus followed by dinoflagellata otus cryptomonadales 
+otus and haptophyta otus among exclusively osmotrophic phytoplankton chlorophyta were the 
+most abundant and diverse and otus particularly chlorophyceae including also many flagellated 
+forms diatomea showed relative abundance slightly above of the sequences with otus 
+
+group
+
+regional parameters local parameters
+
+closest 
+match 
+
+mean otu 
+occurrence
+
+α diversity 
+ otu nr 
+
+γ diversity 
+ h′ 
+
+α diversity 
+ otu nr 
+
+α diversity 
+ h′ 
+
+bp dominance 
+ 
+
+diatomea 
+
+cryptomonadales 
+
+ciliophora 
+
+kathablepharidae 
+
+chlorophyta 
+
+dinoflagellata 
+
+chytridiomycota 
+
+chrysophyceae 
+
+choanomonada 
+
+cercozoa 
+
+table regional lacustrine district and local per lake diversity indexes the mean closest match identity 
+and otu occurrence alpha and gamma diversities estimated by the total number of otus richness otu 
+nr shannon diversity index h′ and berger parker dominance index bp dominance are shown 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+regarding the motile heterotrophic components of the samples the pseudopodia feeding group cercozoa 
+ rhizaria with of the sequences and otus was the most abundant and diverse other groups above 
+of the sequences were choanomonada kathablepharidae and bicosoecida ciliophora were slightly less abun 
+dant than these groups but with substantial richness in contrast kathablepharidae and cryptophyceae showed 
+poor otus richness among mycoplankton the mostly parasitic fungi chytridiomycota relative abundance 
+showed high richness otus mainly terrestrial dikarya including ascomycota and basidiomycota 
+otus and zygomycota otus were probably present as dispersal stages 
+
+eukaryotic genetic novelty in the pyrenean lacustrine district as a common trait large pro 
+portions of highly novel representatives were observed for the different taxa the main major groups sar 
+ stramenopiles alveolata rhizaria opisthokonta and archaeplastida showed and of the otus 
+within the highest novelty respectively fig   this value raised to in the minor groups centrohelida 
+and excavata sar had the largest diversity of both autotrophic chrysophyceae and heterotrophic cercozoa 
+groups and also the greatest novelty chrysophyceae were mainly recovered within the highest novelty plot area 
+equally distant from environmental and cultured references even for those otus showing the highest occurrence 
+numerous rhizaria which essentially corresponded to cercozoa were far below the threshold within 
+opisthokonta it was remarkable the extremely high novelty in fungi indeed most of the chytridiomycota 
+otus true aquatic fungi were in the highest novelty area of the plot and the mean value of the closest match was 
+substantially low table  a smaller set of otus related to potential basal fungi lkm and lkm previously 
+found in environmental studies showed low relatedness to cultured counterparts choanomonada also showed a 
+great degree of novelty although the most common otu had been previously reported in environmental surveys 
+photosynthetic chlorophyta and cryptophyceae showed close cultured references conversely the heterotrophic 
+group of cryptophyceae kathablepharidae lacked close cultured counterparts identity to ccm finally 
+dinoflagellata and haptophyta showed low novelty in general the relationship between the degree of genetic 
+novelty and both abundance r p and occurrence of the otus r p was low thus 
+the most abundant and frequent otus were not necessarily previously known 
+
+figure otu richness and cumulative relative abundance of the main groups found in the plankton of 
+pyrenean lakes in logarithmic scale colours indicate dominant nutrition type while shapes indicate their main 
+habitats autotrophs are split into two groups those purely osmotrophs and those also able of phagotrophic 
+ingestion mixotrophs a fitted linear model is drawn 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+planktonic eukaryotic richness and ecological diversity in oligotrophic waters chrysophytes 
+chytridiomycota dinoflagellata cercozoa and chlorophyta showed the highest richness shannon diversity 
+per lake and berger parker dominance around table  lower richness and shannon diversity around 
+ was observed in kathablepharidae cryptomonadales diatomea ciliophora and choanomonada with 
+berger parker dominance the metacommunity patterns of gamma diversity rank abundance curves 
+slightly diverge from the previous alpha diversity picture the gentler the slope of the curves the greater the 
+
+figure novelty of otus as indicated by their closest cultured and environmental matches identity values 
+the highest novelty area is indicated and falls below the thresholds color displays the main groups of 
+study leaving other otus of the high taxonomic ranks in black dot size indicates otu occurrence in the 
+dataset 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+gamma diversity fig   chytridiomicota chrysophyta and cercozoa were again the most diverse groups 
+but the two heterotrophic groups showed more spatial beta diversity than chrysophyta chlorophytes and 
+dinoflagellata showed intermediate values and the diversity for the remaining groups was low particularly in 
+kathablepharidae 
+
+interestingly the freshwater pyrenean metacommunity contained more diverse specific populations than the 
+closest marine oligotrophic equivalent surface waters of the mediterranean sea tara oceans project after nor 
+malizing to equivalent sequencing efforts fig   this result was more apparent for chrysophyceae cercozoa 
+katablepharidae and ciliophora conversely diatomea and dinoflagellata appear to hold richer plankton 
+populations in the mediterranean sea similar values were found for choanomonada and very few chytrids 
+were reported in the mediterranean dataset in addition higher beta diversity was found for the regional fresh 
+water study than in the marine surface samples across the mediterranean see more details in supplementary 
+information s 
+
+in general the similarity between lake communities was significantly related to the geographic dis 
+tance mantel test spearman method r p in particular this relationship was significant for 
+chrysophyceae r dinoflagellata ciliophora and cercozoa although the variance explained was low 
+ table  therefore we further analysed the diversity partition across the region considering catchments 
+and sub catchments the mean beta dispersion of basin and sub basin communities was sd and 
+ sd respectively the anova of distances to group centroids was not significant for catchments 
+ f p conversely the same analysis for sub catchments was significant f p 
+and the post hoc tukey hsd test showed that the taxonomic groups could be categorised into different levels of 
+sub basin beta diversity table  the analysis highlighted the main heterotrophs with high beta dispersion i e 
+chytridiomycota and cercozoa ‘a’ from the main primary producers with low beta dispersion chrysophyceae 
+and dinoflagellata ‘c’ and kathablepharidae ‘d’ as the group with the lowest beta dispersion there was a 
+positive correlation among the beta dispersion of most of the groups per sub basins fig s being especially 
+remarkable the high correlation and degree of significance p of the chytridiomycota with many of the 
+other groups 
+
+discussion
+historically knowledge on protist assemblages from high mountain lakes was mainly based on ecological studies 
+ e g capblancq tilzer they suspected a high diversity in some groups such as chrysophyceae 
+and dinoflagellata similarly as found in other oligotrophic systems nordic and central european sites by early 
+taxonomical studies our study broadens this suspected high diversity and indicates a high degree of novelty 
+even in the case of dinoflagellata with apparently closer culture counterparts especially for the most abundant 
+otus the comparison with the marine samples primarily highlights the chrysophyceae richness in mountain 
+lakes whereas dinoflagellates are richer in the marine environment since chrysophytes lack carbon concen 
+tration mechanisms these are particularly suitable for these soft water environments and we can interpret 
+richness differences as an evolutionary divergence of the ecology between the two groups this hidden high 
+diversity in pyrenean chrysophytes was already suspected based on stomatocyst morphotypes found along 
+ lakes the molecular survey carried out in the present study suggests that the chrysophycean richness is 
+at least four fold larger interestingly in classical treatises of chrysophyceae morphospecies descriptions the 
+number raised to about one thousand e g starmach though only a few of them have been cultivated 
+chrysophyceae also includes heterotrophic organisms many of them are usually handled as spumella like 
+
+figure rank abundance plot log scale of otus by taxonomic groups of interest cumulative sum of relative 
+abundances determines otu rank per group 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+organisms and c pyrenean otus could be assigned to this genus a recent study indicates that spumella like 
+flagellates are polyphyletic and that their lack of morphological differences can be seen as a convergence to a suc 
+cessful live form under certain ecological circumstances mountain lakes with a dark long ice covered period 
+may be a suitable environment for the genetic diversification of this life form 
+
+dinoflagellates are abundant and diverse in mountain lakes although less than in marine samples the 
+high richness is particularly concentrated in small and unarmored forms e g gymnodinium as is the case for 
+chrysophyceae the molecular techniques provide a tool to investigate solidly the ecology of mountain dinoflag 
+ellates which with the few exceptions of some peridimium have remained elusive to traditional taxonomist the 
+result obtained for diatoms conformed to the established knowledge most of the diversity largely corresponds to 
+benthic forms and therefore the modest contribution to total planktonic diversity does not come as a surprise 
+moreover as expected the bulk of the otus corresponded to centric diatoms the match with the cultured 
+fragilaria nanana agrees with the observation of this species in mixing epilimnia the group cryptophyceae 
+ both cryptomonadales and kathablepharidae showed low diversity as compared with its high abundance and 
+widespread occurrence this feature is not something particular to mountain lakes but general for the group 
+the low morphological differentiation does not hide a high molecular diversity although molecular taxon 
+omy revealed additional variation finally we confirmed the presence of haptophyta pavlovophyceae and 
+prymnesiophyceae most of them closely related to cultured counterparts e g chrysochromulina parva a group 
+with little penetration in freshwaters and that had been only sceptically reported in mountain lakes 
+
+molecular approaches provide taxonomic accuracy to the ecological studies which up to now was only avail 
+able to a few taxonomic specialists as in the large variety of biflagellate archaeplastida previously reported 
+or ciliate species the case of ciliophora stands out since their morphological diversity is well known in at least 
+
+figure rarefaction curves per taxonomic group of the pyrenean pool samples rarefied as a single pool 
+versus the mediterranean sea pool from the tara oceans project samples per size fraction despite the 
+variable number of samples we equalized both pools by rarefying at equivalent sequencing depths per pool see 
+supplementary information 
+
+group mantel r
+basin beta dispersion 
+ mean ± sd 
+
+sub basin beta 
+dispersion mean ± sd 
+
+tukey hsd 
+test groups
+
+chytridiomycota − ± ± a
+
+cercozoa ± ± ab
+
+chlorophyta ± ± ab
+
+ciliophora ± ± ab
+
+diatomea − ± ± abc
+
+choanomonada ± ± bc
+
+cryptomonadales − ± ± bc
+
+chrysophyceae ± ± c
+
+dinoflagellata ± ± c
+
+kathablepharidae ± ± d
+
+table geographic relationships statistics among group communities mantel test results between group 
+communities and geographic distances p p beta dispersion comparison per basin and sub 
+basin beta dispersion was calculated per sub basin when there were at least two lakes to compare statistical 
+significance was assessed through post hoc tukey hsd for sub basins groups a–d are groups of analogous beta 
+dispersion patterns 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+one lake combining metabarcoding and morphology of ciliophora would allow straightforward understand 
+ing of their ecology and behaviour cultured references in general offered poor taxonomic quality as in the case 
+of non flagellated archaeplastida e g chlorococcales but in some cases otus had close counterparts as in 
+haptophyta or flagellated archaeplastida molecular approaches can help discern between organisms with homol 
+ogous morphologies however the v region of the rrna gene lacks resolution to discern between species 
+furthermore the degree of differentiation of this highly conserved region between organisms can vary between 
+lineages and its delimitation lies beyond the scope of this article the fact that the same cultured strain was the 
+ccm to several otus e g gymnodinium or to marine genera further confirms that the resolution of v s 
+rrna region is low and especially critical in the alveolata group see more details in supplementary information 
+an effort to connect metabarcoding with morphological observations appears as a straightforward and fruitful 
+way to follow the wide range of monographs on freshwater archaeplastida or diatoms – based on micro 
+scopical morphological observations could benefit of single cell genomics or multi marker gene analysis to help 
+fully disentangle a complex overlooked eukaryotic biosphere and their ecological dynamics for example if the 
+correspondence between cyst types and chrysophyceae barcodes is confirmed the molecular techniques can pro 
+vide more comparable ecological studies across sites the cysts sedimentary record would enlighten a view of the 
+population dynamics over millennia in paleoecological studies so far mostly addressed with the diatom records 
+
+unveiling unexpected heterotrophic diversity in oligotrophic freshwaters the variety of het 
+erotrophic flagellates in planktonic ecosystems has been traditionally underestimated particularly in moun 
+tain lakes our results unveil an unexpected high heterotrophic diversity in several main groups further than 
+the aforementioned spumella like organisms from chrysophyceae less richer phagotrophic flagellated groups 
+such as choanomonada kathablepharidae or bicosoecida also presented a higher diversity than expected 
+chytridiomycota was the second richest group the close relationship with cultured counterparts indicated that 
+some of them may be pollen saprophytes however a vast richness remains with unknown roles chytridiomycota 
+show the highest beta dispersion whose patterns per basin were significantly different to the main primary pro 
+ducers chrysophyceae and dinoflagellata this agrees with specialised saprophytic and parasitic roles the 
+marked difference between the total species richness gamma diversity and the average richness per lake alpha 
+diversity indicates a high specificity and punctual incidence in the communities as previously suggested 
+however only time series studies in a selected number of lakes can further provide the right answer to this 
+hypothesis the richness of chytridiomycota in different aquatic systems is cropping out as more habitats are 
+investigated with molecular techniques the low average richness per lake compared to the high metacommu 
+nity diversity suggests highly specific host interactions the outstanding heterotrophic diversity is present also 
+in cercozoa rhizaria whose role has been largely ignored yet specimens were often observed in microscopic 
+assessments parts of this diversity are benthic organisms such as the ameboid forms with organic or siliceous 
+theca however flagellated forms cercamonadidae and glissomonadida spherical ameboid forms with filopo 
+dia such as the vampyrellidae which are likely truly planktonic also contributed with a substantial richness 
+overall and according to very recent findings in aquatic environments see below this trait is not exclusive of 
+mountain lakes but probably an unseen key piece gearing planktonic food webs 
+
+reconsidering planktonic food webs recent studies have been highlighting the relevance of the heter 
+otrophic component in the marine protists diversity and biological interactions for the community dynamics 
+the large diversity observed in the present investigation provides the building blocks for reconstructing mountain 
+lake food webs in these small lakes the fuelling of the planktonic food web does not depend exclusively on its 
+own primary production but also on organic materials supplied at the interfaces with the atmosphere the ben 
+thic lake habitats peri lacustrine environments and terrestrial soils through direct and diffuse runoff the 
+external loading of organic material enhances the heterotrophic character of the metacommunity by facilitating 
+growth of saprophytic organisms releasing nutrients into the food webs e g chytridiomicota growing on pol 
+len grains and phagotrophic heterotrophs grazing on associated microbial communities indeed the gamma 
+diversity comparison with marine samples from sites of similar primary productivity remarks the exacerbated 
+saprophytic character of the lake communities we may further wonder about the role of clearly terrestrial organ 
+isms such as dikarya or zygomycota their high abundance and richness probably correspond to dispersal stages 
+that constitute a source of food for protists and aquatic invertebrates in addition the high richness of truly 
+aquatic fungi or mycoplankton e g chytridiomycota indicates a key role of parasitism on the lake plankton 
+dynamics detailed studies relating host and chytridiomycetes infections have focused on some key species 
+ e g asterionella or daphnia others have studied their implication on the proposed ‘mycoloop’ which 
+would sustain zooplankton populations under algal bloom conditions by increasing palatability how this loop 
+would function under highly oligotrophic circumstances has high research potential the increasing awareness 
+of the role that chytridiomycetes play in controlling host populations – highlights parasitism in lake ecosys 
+tem dynamics as a key missing pathway as some time ago occurred with viral infections the latest molecular 
+approaches provide solid foundations for reviewing the food web paradigm in oligotrophic freshwater lakes 
+where parasitic groups are suspected to have high relevance 
+
+a large variety of parasites from all the main evolutionary branches were also abundant like in stramenopiles 
+ labyrinthulomycetes peronosporomycetes hyphochytriales opalinata and blastocystis alveolata 
+ apicomplexa perkinsidae and syndiniales and opisthokonta blastocladiomycota ictyosporea myxozoa 
+zoopagomycotina many of them may be present only as dispersal stages e g zoospores and sporozoites in 
+any case the large number of otus found demand more consideration of all these organisms in the lake eco 
+system up to recently some of the groups were mostly known from marine systems e g labyrinthulomycetes 
+perkinsidae syndiniales perkinsidae have been found in freshwater only a few years ago and molecular sur 
+veys are increasingly reporting them these organisms can be parasites of algae fish bivalves and amphibians 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+parasitism on benthic invertebrates and macrophytes may have a potential impact on the planktonic community 
+by top down interactions since littoral can be considered extending to the whole lake in many small mountain 
+lakes parasites infecting protist rotifers and planktonic crustaceans may have a direct influence on the planktonic 
+food web e g chytridiomycota peronosporomycetes perkinsidae syndiniales zoopagomycotina the stocking 
+of fish in mountain lakes throughout the world by humans may be highly relevant at this respect thus parasites 
+related to them e g peronosporomycetes perkinsidae syndiniales ichtyosporea myxozoa may merit more 
+insight in future studies particularly those more virulent as chytridiomycota some groups include a range of 
+life forms for instance blastocladiomycota are zoosporic fungi that some are saprophytic on refractory materials 
+ e g pollen keratin cellulose chitin grow in the submerged parts of marsh plants and may be specific parasites 
+of nematodes midges and crustaceans like lkm the ecological role of potentially basal fungal groups remains 
+to be assessed in these oligotrophic lakes in depth studies are required but whatever the specific roles that will 
+come out the conclusion that saprotrophic and parasitic interactions are central to the dynamics of the lake 
+planktonic communities will probably remain 
+
+data accessibility raw files for the genetic datasets are available in the ncbi sra database under project 
+id prjna 
+
+references
+ rodhe w phototrophy and heterotrophy in high mountain lakes verh internat verein limnol – 
+ felip m camarero l catalan j temporal changes of microbial assemblages in the ice and snow cover of a high mountain lake 
+
+limnol oceanogr – 
+ fott j blaźo m stuchlík e strunecký o phytoplankton in three tatra mountain lakes of different acidification status 
+
+ 
+ pugnetti a bettinetti r biomass and species structure of the phytoplankton of an high mountain lake lake paione superiore 
+
+central alps italy 
+ felip m catalan j the relationship between phytoplankton biovolume and chlorophyll in a deep oligotrophic lake decoupling 
+
+in their spatial and temporal maxima j plankton res – 
+ triadó margarit x casamayor e o genetic diversity of planktonic eukaryotes in high mountain lakes central pyrenees 
+
+spain environ microbiol – 
+ kammerlander b et al high diversity of protistan plankton communities in remote high mountain lakes in the european alps and 
+
+the himalayan mountains fems microbiol ecol – 
+ filker s sommaruga r vila i stoeck t microbial eukaryote plankton communities of high mountain lakes from three 
+
+continents exhibit strong biogeographic patterns mol ecol – 
+ frenken t et al integrating chytrid fungal parasites into plankton ecology research gaps and needs environ microbiol 
+
+ – 
+ stoeck t et al a morphogenetic survey on ciliate plankton from a mountain lake pinpoints the necessity of lineage specific barcode 
+
+markers in microbial ecology environ microbiol – 
+ debroas d et al overview of freshwater microbial eukaryotes diversity a first analysis of publicly available metabarcoding data 
+
+fems microbiol ecol – 
+ triadó margarit x casamayor e o high genetic diversity and novelty in planktonic protists inhabiting inland and coastal high 
+
+salinity water bodies fems microbiol ecol – 
+ triadó margarit x casamayor e o high protists diversity in the plankton of sulfurous lakes and lagoons examined by s 
+
+rrna gene sequence analyses environ microbiol rep – 
+ straškrabová v et al investigations on pelagic food webs in mountain lakes aims and methods 
+ wille a sonntag b sattler b psenner r abundance biomass and size structure of the microbial assemblage in the high 
+
+mountain lake gossenköllesee tyrol austria during the ice free period 
+ de vargas c et al eukaryotic plankton diversity in the sunlit ocean science 
+ wurzbacher c m bärlocher f grossart h p fungi in lake ecosystems aquat microb ecol – 
+ logares r et al infrequent marine freshwater transitions in the microbial world trends in microbiology – 
+ auguet j c barberan a casamayor e o global ecological patterns in uncultured archaea isme j – 
+ barberán a casamayor e o a phylogenetic perspective on species diversity β diversity and biogeography for the microbial 
+
+world mol ecol – 
+ catalan j et al ecological thresholds in european alpine lakes freshw biol – 
+ camarero l catalan j atmospheric phosphorus deposition may cause lakes to revert from phosphorus limitation back to 
+
+nitrogen limitation nat commun 
+ ortiz alvarez r casamayor e o high occurrence of pacearchaeota and woesearchaeota archaea superphylum dpann in 
+
+the surface waters of oligotrophic high altitude lakes environ microbiol rep – 
+ amaral zettler la mccliment ea ducklow h w huse s m a method for studying protistan diversity using massively parallel 
+
+sequencing of v hypervariable regions of small subunit ribosomal rna genes plos one e 
+ stoeck t et al multiple marker parallel tag environmental dna sequencing reveals a highly complex eukaryotic community in 
+
+marine anoxic water mol ecol suppl – 
+ edgar r c uparse highly accurate otu sequences from microbial amplicon reads nat methods – 
+ quast c et al the silva ribosomal rna gene database project improved data processing and web based tools nucleic acids res 
+
+ d – 
+ caporaso j g et al qiime allows analysis of high throughput community sequencing data nat methods – 
+ klindworth a et al evaluation of general s ribosomal rna gene pcr primers for classical and next generation sequencing 
+
+based diversity studies nucleic acids res e 
+ margalef r information theory in ecology mem r acad cienc y artes barcelona – 
+ berger w h parker f l diversity of planktonic foraminifera in deep sea sediments science lp– 
+ massana r pernice m bunge j a campo jdel sequence diversity and novelty of natural assemblages of picoeukaryotes from 
+
+the indian ocean isme j – 
+ capblancq j phytoplancton et productivité primaire de quelques lacs d’altitude dans les pyrénées annl limnol – 
+ tilzer m dynamik un produktivitat von phytoplankton und pelagischen bakterien in einen hochgebirgsee vorderer finstertaler 
+
+see Österreich arch hydrobiol supp – 
+ maberly s c ball l a raven j a sültemeyer d inorganic carbon acquisition by chrysophytes j phycol – 
+
+ 
+ pla s camarero l catalan j chrysophyte cyst relationships to water chemistry in pyrenean lakes ne spain and their 
+
+potential for environmental reconstruction j paleolimnol – 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+ starmach k chrysophyceae und haptophyceae veb gustav fisher verlag 
+ grossmann l bock c schweikert m boenigk j small but manifold hidden diversity in ‘spumella like flagellates’ j 
+
+eukaryot microbiol – 
+ catalan j evolution of dissolved and particulate matter during the ice covered period in a deep high mountain lake can j fish 
+
+aquat sci – 
+ catalan j et al lake redo ecosystem response to an increasing warming in the pyrenees during the twentieth century j 
+
+paleolimnol – 
+ shalchian tabrizi k et al diversification of unicellular eukaryotes cryptomonad colonizations of marine and fresh waters inferred 
+
+from revised s rrna phylogeny environ microbiol – 
+ felip m bartumeus f halac s catalan j microbial plankton assemblages composition and biomass during two ice free 
+
+periods in a deep high mountain lake estany redó pyrenees j limnol – 
+ cameron n g et al surface sediment and epilithic diatom ph calibration sets for remote european mountain lakes al pe project 
+
+and their comparison with the surface waters acidification programme swap calibration set j paleolimnol – 
+ rivera rondón c a catalan j diatom diversity in the lakes of the pyrenees an iconographic reference limnetica – 
+
+ 
+ wunsam s schmidt r klee r cyclotella taxa bacillariophyceae in lakes of the alpine region and their relationship to 
+
+environmental variables aquat sci – 
+ hamilton p b lefebvre k bull r single cell pcr amplification of diatoms using fresh and preserved samples front microbiol 
+
+ 
+ boenigk j arndt h bacterivory by heterotrophic flagellates community structure and feeding strategies antonie van 
+
+leeuwenhoek int j gen mol microbiol – 
+ straskrabova v et al in patterns and factors of biota distribution in remote european mountain lakes eds catalan j curtis c j 
+
+kernan m – schweizerbart science publishers 
+ del campo j massana r emerging diversity within chrysophytes choanoflagellates and bicosoecids based on molecular surveys 
+
+protist – 
+ kagami m de bruin a ibelings b w van donk e parasitic chytrids their effects on phytoplankton communities and food 
+
+web dynamics hydrobiologia – 
+ comeau a m vincent w f bernier l lovejoy c novel chytrid lineages dominate fungal sequences in diverse marine and 
+
+freshwater habitats sci rep 
+ lima mendez g et al determinants of community structure in the global plankton interactome science 
+ ruiz gonzález c niño garcía j p del giorgio p a terrestrial origin of bacterial communities in complex boreal freshwater 
+
+networks ecol lett – 
+ kagami m von elert e ibelings b w de bruin a van donk e the parasitic chytrid zygorhizidium facilitates the growth 
+
+of the cladoceran zooplankter daphnia in cultures of the inedible alga asterionella proc r soc b biological sci – 
+ 
+
+ ibelings b w et al host parasite interactions between freshwater phytoplankton and chytrid fungi chytridiomycota j phycol 
+ – 
+
+ johnson p t j ives a r lathrop r c carpenter s r long term disease dynamics in lakes causes and consequences of 
+chytrid infections in daphnia populations ecology – 
+
+ kagami m miki t takimoto g mycoloop chytrids in aquatic food webs front microbiol 
+ rasconi s grami b niquil n jobard m sime ngando t parasitic chytrids sustain zooplankton growth during inedible algal 
+
+bloom front microbiol – 
+ chambouvet a morin p marie d guillou l control of toxic marine dinoflagellate blooms by serial parasitic killers science 
+
+ – 
+ lefèvre e roussel b amblard c sime ngando t the molecular diversity of freshwater picoeukaryotes reveals high 
+
+occurrence of putative parasitoids in the plankton plos one e 
+ lepère c domaizon i debroas d unexpected importance of potential parasites in the composition of the freshwater small 
+
+eukaryote community appl environ microbiol – 
+ thingstad t f are viruses important partners in pelagic food webs tree – 
+ jephcott t g et al ecological impacts of parasitic chytrids syndiniales and perkinsids on populations of marine photosynthetic 
+
+dinoflagellates fungal ecol – 
+ lefranc m thenot a lepere u debroas d genetic diversity of small eukaryotes in lakes differing by their trophic status 
+
+appl environ microbiol – 
+ brate j et al freshwater perkinsea and marine freshwater colonizations revealed by pyrosequencing and phylogeny of 
+
+environmental rdna isme j – 
+ ventura m et al in challenges for high mountain conservation in a changing world eds catalan j ninot j m aniz m m 
+
+ – springer 
+
+acknowledgements
+this research was funded by grants bridges cgl – p from the spanish office of science mineco 
+and european funding erdf and dispersal ref from the spanish national parks research 
+program oapn magrama to eoc and lacus cgl – p mineco erdf to jc we thank 
+technicians and students who participated in the field sampling expeditions and specially m sala and c palacin 
+for their excellent performance and x torras for arcgis support 
+
+author contributions
+l c and j c carried out the field survey and provided the environmental and biological data r o a and x t m 
+performed the data analyses with the contributions from j c and e o c r o a and j c led the writing with 
+the contributions from all co authors e o c lead and supervised the whole study all authors approved the final 
+version of the manuscript 
+
+additional information
+supplementary information accompanies this paper at https doi org s 
+competing interests the authors declare no competing interests 
+publisher s note springer nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations 
+
+http dx doi org s 
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+open access this article is licensed under a creative commons attribution international 
+license which permits use sharing adaptation distribution and reproduction in any medium or 
+
+format as long as you give appropriate credit to the original author s and the source provide a link to the cre 
+ative commons license and indicate if changes were made the images or other third party material in this 
+article are included in the article’s creative commons license unless indicated otherwise in a credit line to the 
+material if material is not included in the article’s creative commons license and your intended use is not per 
+mitted by statutory regulation or exceeds the permitted use you will need to obtain permission directly from the 
+copyright holder to view a copy of this license visit http creativecommons org licenses by 
+ 
+© the author s 
+
+http creativecommons org licenses by 
+
+	high planktonic diversity in mountain lakes contains similar contributions of autotrophic heterotrophic and parasitic euka 
+	materials and methods
+	lakes survey 
+	sequencing and data filtering 
+	ecological classification and diversity indexes 
+	genetic novelty analysis 
+	geographic patterns and beta dispersion 
+
+	results
+	eukaryotic genetic novelty in the pyrenean lacustrine district 
+	planktonic eukaryotic richness and ecological diversity in oligotrophic waters 
+
+	discussion
+	unveiling unexpected heterotrophic diversity in oligotrophic freshwaters 
+	reconsidering planktonic food webs 
+	data accessibility 
+
+	acknowledgements
+	figure distribution of lakes surveyed and sequenced across the pyrenees 
+	figure otu richness and cumulative relative abundance of the main groups found in the plankton of pyrenean lakes in logarithmic scale 
+	figure novelty of otus as indicated by their closest cultured and environmental matches identity values 
+	figure rank abundance plot log scale of otus by taxonomic groups of interest 
+	figure rarefaction curves per taxonomic group of the pyrenean pool samples rarefied as a single pool versus the mediterranean sea pool from the tara oceans project samples per size fraction 
+	table regional lacustrine district and local per lake diversity indexes 
+	table geographic relationships statistics among group communities 
+
+
+
+
+

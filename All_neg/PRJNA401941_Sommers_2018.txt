@@ -1,0 +1,1147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+diversity patterns of microbial eukaryotes mirror those of bacteria in antarctic cryoconite holes
+
+
+fems microbiology ecology fix 
+
+doi femsec fix 
+advance access publication date december 
+research article
+
+research article
+
+diversity patterns of microbial eukaryotes mirror
+those of bacteria in antarctic cryoconite holes
+pacifica sommers ∗ john l darcy eli m s gendron lee f stanish 
+elizabeth a bagshaw dorota l porazinska and steven k schmidt 
+
+ department of ecology and evolutionary biology university of colorado at boulder boulder co usa 
+ department of botany university of hawai’i at mānoa honolulu hi usa department of molecular 
+cellular and development biology university of colorado at boulder boulder co usa national
+ecological observatory network boulder co usa and school of earth and ocean sciences cardiff
+university cf at uk
+∗corresponding author department of ecology and evolutionary biology university of colorado at boulder ucb pleasant st boulder co
+ usa tel fax e mail pacifica sommers colorado edu
+one sentence summary bacterial and eukaryotic alpha and beta diversity in antarctic cryoconite holes were strongly correlated reflecting a gradient of
+organic material and chemistry in the surrounding streams and soils 
+editor max haggblom
+
+abstract
+
+ice lidded cryoconite holes on glaciers in the taylor valley antarctica provide a unique system of natural mesocosms for
+studying community structure and assembly we used high throughput dna sequencing to characterize both microbial
+eukaryotic communities and bacterial communities within cryoconite holes across three glaciers to study similarities in
+their spatial patterns we expected that the alpha phylogenetic diversity and beta pairwise community dissimilarity 
+diversity patterns of eukaryotes in cryoconite holes would be related to those of bacteria and that they would be related to
+the biogeochemical gradient within the taylor valley we found that eukaryotic alpha and beta diversity were strongly
+related to those of bacteria across scales ranging from m to km apart alpha diversity of both was significantly
+related to position in the valley and surface area of the cryoconite hole with ph also significantly correlated with the
+eukaryotic diversity beta diversity for both bacteria and eukaryotes was significantly related to position in the valley with
+bacterial beta diversity also related to nitrate these results are consistent with transport of sediments onto glaciers
+occurring primarily at local scales relative to the size of the valley thus creating feedbacks in local chemistry and diversity 
+
+keywords high throughput sequencing dispersal cryoconite hole antarctica bacteria eukaryotes
+
+introduction
+
+antarctic cryoconite holes formnaturalmesocosms for studying
+the formation assembly and functioning ofmicrobial communi 
+ties cryoconite holes are water filled depressions on glacier sur 
+faces caused by the settlement of low albedo sediments known
+as cryoconite absorbing solar radiation andmelting into the sur 
+rounding ice wharton et al macdonell and fitzsimons
+
+ these sediments contain microbes that become active
+within the holes foreman et al undergoing succession
+to net phototrophic communities bagshaw et al with a
+food web of heterotrophs porazinska et al accumulating
+organic material and nutrients over the course of several years
+ fountain et al bagshaw et al previous microscopic
+ porazinska et al mieczan et al stanish et al and
+
+received july accepted november 
+c© fems all rights reserved for permissions please e mail journals permissions oup com
+
+ 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+http www oxfordjournals org
+mailto pacifica sommers colorado edu
+mailto journals permissions oup com
+
+
+ fems microbiology ecology vol no 
+
+geochemical studies foreman et al telling et al con 
+firm that cryoconite holes host an actively growing community
+and not simply an inactive ‘seed bank’ or relic dna from dead
+organisms as in willerslev et al galotti et al carini
+et al 
+
+simple natural systems with a level of complexity that fa 
+cilitates the study of microbial community assembly are rare 
+although laboratory microcosms have been used to study com 
+munity ecology e g altermatt et al carrara et al 
+ seymour and altermatt they are often limited in
+their ability to generalize results to more complex communities
+with long shared evolutionary history in a natural environment 
+by contrast microbial communities sampled from complex nat 
+ural environments such as soils and aquatic habitats e g bates
+et al maestre et al ruiz gonzalez nino garcia and
+giorgio locey and lennon can limit inference due
+to a multitude of confounding factors such as moisture veg 
+etation and even the dispersal of organisms between adjacent
+habitat types cryoconite holes form a well replicated system
+of limited diversity with discrete temporal and spatial bound 
+aries cryoconite holes in antarctica are uniquely tractable sys 
+tems for studying microbial community assembly because un 
+like those in other regions they typically form an ice lid that
+can isolate them from the atmosphere for years despite melt 
+ing that occurs under the lid for up to weeks in the aus 
+tral summer fountain et al antarctic cryoconite holes
+thus provide natural mesocosms of organisms in discrete sites
+and discrete growing seasons fountain et al with long 
+term isolation fountain et al and a lack of confound 
+ing variation from vertebrate and plant inputs their variabil 
+ity in age size and connectivity to one another fountain et al 
+ along with differing physical and chemical characteris 
+tics stanish et al webster brown et al provides a
+natural experimental system to study patterns of community
+assembly 
+
+in order to take advantage of antarctic cryoconite holes
+as experimental mesocosms for studying community assem 
+bly the composition of naturally occurring cryoconite commu 
+nities must be well characterized the bacterial communities
+of cryoconite holes in the mcmurdo dry valleys generally re 
+flect the surrounding source material of cryoconite webster 
+brown et al furthermore diatom diversity reflects
+environmental gradients of diversity in the sediments and mi 
+crobial mats of nearby streams stanish et al while
+the diatoms stanish et al and meiofauna porazinska
+et al of the dry valley cryoconite holes have been sur 
+veyed using microscopy modern high throughput sequencing
+has yet to characterize patterns of eukaryotic diversity across
+glaciers 
+
+here we compare the large scale spatial patterns of alpha
+diversity phylogenetic diversity and beta diversity pairwise
+community dissimilarity in cryoconite eukaryotic and bacterial
+communities from three glaciers in the taylor valley we used
+high throughput sequencing of the s and s ribosomal small
+subunit ssu genes to characterize the bacterial and eukary 
+otic communities respectively although wind based dispersal
+models suggest that the larger size of microbial eukaryotes may
+lead to shorter dispersal distances than bacteria wilkinson et al 
+ that difference may not manifest at the spatial scale of
+this study we therefore ask how the diversity of these com 
+munities is spatially structured specifically i how closely the
+alpha and beta diversity patterns of eukaryotes match those
+of bacteria and ii to what extent the alpha and beta diver 
+sity of eukaryotic and bacterial communities in cryoconite holes
+
+reflect the previously described gradients of organic material
+in the taylor valley mcknight et al barrett et al 
+and physicochemical characteristics of the individual cryoconite
+holes 
+
+methods
+site description and sample collection
+
+the taylor valley is one of the mcmurdo dry valleys of antarc 
+tica and primarily consists of poorly developed soils with
+glaciers spilling down themountain passes into a series of lakes
+along the valley floor priscu the valley is ∼ km long
+from the eastern edge of the antarctic ice sheet to the coast 
+climate varies significantly along the length of the valley with
+higher temperatures and wind speeds near the ice sheet and
+greater precipitation near the coast fountain et al doran
+et al wind direction is governed by both onshore breezes
+from the ross sea and down valley katabatic or föhn winds de 
+scending from the ice sheet nylen fountain and doran 
+šabacká et al the eastern coastal lake fryxell basin is rel 
+atively wide and shallow with higher soil moisture barrett et al 
+ and greater snow accumulation fountain et al than
+thewestern lake bonney basin the eastern lake basin therefore
+has a greater extent of suitable stream habitats for algal mats
+ mcknight et al that are thought to seed much of the biota
+within cryoconite holes we sampled three glaciers that capture
+the full range of this gradient the commonwealth glacier on
+the east end of the valley the canada glacier to the west of
+the commonwealth glacier and the taylor glacier which de 
+scends from the ice sheet at the western end of the taylor valley
+ fig 
+
+nineteen cryoconite holes on these glaciers were sampled
+between december and january a core was col 
+lected from the center of each hole using a sipre corer only one
+cryoconite hole was completely frozen at the time of sampling 
+and for that hole drilling continued until clean ice below the
+basal debris layer was encountered the core was then removed
+and stored in a ziploc bag that had been triple rinsedwith deion 
+ized water for the rest of the samples in which meltwater was
+present at the time of sampling the ice lid was removed with
+the sipre corer and then a water sample was pumped out us 
+ing a hand powered vacuum pump a sample of sediment was
+removed and stored in a triple rinsed ziploc bag on return to
+the field laboratory samples were stored at – ◦c until process 
+ing up to days later samples were eventually allowed to melt
+out in the collection bags and water samples were drawn off us 
+ing syringes leaving the sediment behind electrical conductiv 
+ity and ph of the water were measured in the field laboratory 
+and the remaining water sample was filtered and transported to
+the crary laboratory at mcmurdo station for major ion analysis
+within days 
+
+homogenized cryoconite sediments collected as described
+above were preserved in ml microcentrifuge tubes containing
+ ml of rnalater storage solution invitrogen corp carlsbad 
+ca usa then filled to the top with cryoconite and stored at
+– ◦c until further processing althoughmicrobial communities
+within the water column of cryoconite holes could differ from
+those in the sediment the cryoconite itself contains an order
+of magnitude higher abundances of cells foreman et al 
+mieczan et al and so we focused on the microbial com 
+munities of the cryoconite up to three samples were preserved
+per cryoconite hole for a total of replicates from the holes
+sampled 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+sommers et al 
+
+figure map of taylor valley with sampling sites marked by yellow triangles made in quantarctica matsuoka et al inset map of continent shows the location
+of the taylor valley 
+
+water chemistry
+
+ice samples were melted at room temperature approximately
+ ml of meltwater was filtered through μm whatman
+nuclepore membranes ge healthcare pittsburg pa usa and
+stored in three ml pre rinsed bottles which were used for
+major ion nutrient ph and conductivity analysis filtrates were
+refrigerated at ◦c electrical conductivity and ph were mea 
+sured on filtered samples in the field laboratory within a few
+hours of filtration using a ysi ysi inc yellow springs oh 
+usa and an orion ph meter thermo fisher scientific inc 
+lafayette co usa respectively major ions ca mg na 
+k cl− so − and no − were measured using a dionex dx 
+ion chromatograph dionex corp sunnyvale ca usa at the al 
+bert p crary science and engineering center mcmurdo station 
+full details can be found in welch et al measurements
+were taken between and weeks after filtration precision was
+ for all ions the quantification limit was taken as the con 
+centration of the lowest standards which are as follows f− 
+cl− no − so − na mg k and ca 
+
+ μeq l 
+
+dna extraction and sequencing
+
+all cryoconite samples were stored frozen at – ◦c to minimize
+dna degradation eichmiller best and sorensen between
+ april and may the frozen cryoconite sediments
+were thawed at room temperature and g was processed for
+dna extraction from each technical replicate separately to 
+tal from samples using powersoil dna isolation kits mobio
+inc carlsbad ca usa according to the manufacture’s proto 
+col extracted genomic dnawas amplified in triplicate using s
+ f r primers caporaso et al and s f eukbr
+primers amaral zettler et al caporaso et al ssu ri 
+bosomal gene markers amplified dna was pooled and normal 
+ized to equimolar concentrations using sequalprep normaliza 
+tion plate kits invitrogen and sequenced using the illumina
+miseq v × bp chemistry at the biofrontiers sequencing
+core facility at the university of colorado at boulder 
+
+data processing and analysis
+
+raw readswere de multiplexed and quality filtered using the qi 
+ime v bioinformatics package caporaso et al b using
+paired end sequences that were joined with vsearch rognes
+et al bacterial and eukaryotic sequences were separately
+clustered at similarity using uclust edgar taxon 
+omy was assigned with the rdp classifier wang et al 
+using qiime’s parallel assign taxonomy rdp py script for bacte 
+ria and parallel assign taxonomy blast py script with the silva
+ database’s taxonomic information for eukaryotes pruesse
+et al quast et al all mitochondrial and chloroplast
+otus based on this classification were removed from the bac 
+terial data set and all bacterial otus were removed from the
+eukaryotic data set singleton otus were removed and each
+data set was then rarefied to the number of sequences in the
+least populous replicate bacterial sequences per repli 
+cate and eukaryotic sequences per replicate bacterial
+sequences were aligned with pynast caporaso et al a 
+using the greengenes sequence database’s reference align 
+ment desantis et al and eukaryotic sequences were
+aligned with sina pruesse peplies and glöckner 
+using the silva database as a reference pruesse et al 
+ quast et al phylogenetic trees for s and s
+sequence alignments were constructed using fasttree price 
+dehal and arkin alignment failures were filtered out of
+each data set and otu tables were re rarefied to bac 
+terial and eukaryotic sequences per replicate the tax 
+onomic assignments of the top otus from each data set
+were verified by using blast to search ncbi and corrected as
+needed 
+
+alpha diversity was calculated as faith’s phylogenetic diver 
+sity faith and the chao estimator using the rarefied s
+and s ssu rrna gene datasets in qiime we calculated the
+mean phylogenetic diversity of all available technical replicates
+for each cryoconite hole sampled to evaluate whether the phy 
+logenetic diversity of microbial eukaryotic communities corre 
+lated with the phylogenetic diversity of their corresponding bac 
+terial communities we used a model ii regression in package
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+ fems microbiology ecology vol no 
+
+lmodel legendre with permutations in r r core
+team 
+
+to test the relationship between alpha diversity for both
+bacteria and eukaryotes and abiotic characteristics of the cry 
+oconite holes we used multiple regression analysis longitude
+represented the underlying gradient of organic material along
+the longitudinal axis of the taylor valley observed in the streams
+and soils mcknight et al barrett et al explana 
+tory variables were centered by subtracting their means and
+standardized by dividing by their means and then tested for
+collinearity fig b supplementary information using a rec 
+ommended collinearity threshold of r dormann et al 
+ depth major ions and doc were excluded from the mul 
+tiple regression 
+
+we calculated beta diversity using the unweighted unifrac
+distance metric lozupone and knight as with alpha di 
+versity model ii regression was used to test relationships in beta
+diversity of eukaryotic and bacterial communities due to the
+unevenness of the surviving technical replicates – per cry 
+oconite hole sampled and the similarity between technical repli 
+cates fig a supplementary information all downstream
+analyses on beta diversity pairwise dissimilarity which cannot
+be easily averaged were performed on a randomly selected sin 
+gle technical replicate from each sample we repeated the ran 
+dom selection times to ensure the selection of replicates
+did not alter the key results table a supplementary informa 
+tion 
+
+furthermore to evaluate whether beta diversity of eukary 
+otic and bacterial communities were related to cryoconite hole
+characteristics we performed a distance based redundancy
+analysis db rda legendre and anderson in package ve 
+gan v – oksanen et al in r v r core team 
+on the same subset of variables included in the multiple linear
+regression we used a permutational analysis of variance to test
+for significance of terms in the db rda in which p values of vec 
+tors were corrected formultiple comparisons using the false dis 
+covery rate method benjamini and hochberg 
+
+results
+
+considering all dna extractions across the three glaciers in 
+cluding all technical replicates of the cryoconite holes sam 
+pled we obtained a total of s ssu ribosomal gene based
+otus from high quality reads and s ssu ribo 
+somal gene based otus from high quality reads after
+removing singletons there were bacterial otus in the
+rarefied data set and eukaryotic otus sequence data and
+associated metadata from this study have been deposited in the
+ncbi sra under project accession number prjna 
+
+the dominant bacterial phyla were bacteroidetes pro 
+teobacteria cyanobacteria actinobacteria ver 
+rucomicrobia acidobacteria planctomycetes and
+gemmatimonadetes fig a only two otus comprising 
+total sequences from the entire data set were assigned to ar 
+chaea among the most abundant bacterial otus all the bac 
+teroideteswere assigned to family chitinophagaceae order sph 
+ingobacteriales with the three main genera being chitinofaga 
+ferruginibacter and segetibacter fig a dominant proteobacteria
+otus were present across all glaciers four betaproteobacteria
+ family comamonadaceae genera rhodoferax polaromonas and
+variovorax and two alphaproteobacteria family sphingomon 
+adales genus kaistobacter fig b dominant cyanobacteria
+otus from the orders oscillatoriales synechococcales likely
+
+family pseudanabaenaceae and chroococcales were all present
+across the three glaciers in varying abundances fig c with
+greater resolution in their taxonomy difficult to determine with
+high confidence fig d 
+
+the dominant eukaryotic groups were ciliophora cer 
+cozoa metazoa discicristata chlorophyta
+ ochrophyta fungi and euamoebida fig b 
+within the most abundant otus opisthokonta dominated 
+among them primarily rotifers likely rotifera rotatoria fig e 
+these were followed by two otus of tardigrades possibly
+acutuncus antarcticus and diphascon sp likely diphascon pingue 
+and a phaenocora like flatwormotu fig e many of the most
+prevalent eukaryotic otus were potentially bacterivorous cili 
+ates flagellates and bi flagellates fig f and h dominant pho 
+totrophic eukaryotic otus included green algae and diatoms 
+except on taylor glacier where diatoms were virtually absent
+ fig g 
+
+bacterial and eukaryotic alpha diversities were strongly cor 
+related r p fig a furthermore the beta diver 
+sities of bacterial and eukaryotic communities were also corre 
+lated r p such that pairs of samples with similar
+eukaryotic communities had also similar bacterial communities 
+and pairs of samples with more different eukaryotic communi 
+ties had more different bacterial communities fig b 
+
+of all abiotic factors longitude was the most predictive of al 
+pha diversity for both bacteria table and eukaryotes table 
+bicarbonate had a smaller but still significant predictive power
+for both bacterial and eukaryotic alpha diversity tables and 
+and the cryoconite hole surface area and ph were both signifi 
+cant predictors of eukaryotic alpha diversity the raw values of
+environmental variables are provided in table b supplemen 
+tary information 
+
+permutational anova of the db rda revealed that longitude
+and no − were significantly related to bacterial beta diversity
+ table and longitude alone table was significantly related
+to eukaryotic beta diversity fig 
+
+discussion
+
+we showed that the patterns of alpha and beta diversity of eu 
+karyotic communities in antarctic cryoconite holes in the tay 
+lor valley are strongly related to those of bacteria fig to
+our knowledge no previous studies have compared bacterial
+and eukaryotic phylogenetic diversity of antarctic cryoconite
+holes across multiple glaciers using modern high throughput
+techniques although the relationships between eukaryotic and
+bacterial diversity were expected their strength was surpris 
+ing given that the biogeography of protists and bacteria can
+diverge at least at larger spatial scales bates et al and
+that location specific clustering has beenmore commonly found
+for bacterial than eukaryotic communities in arctic cryoconite
+holes cameron hodson and osborn furthermore mod 
+els of wind dispersal suggest that the larger body size of the pro 
+tists rotifers and tardigrades found in antarctic cryoconite holes
+may lead to faster settling times and lower dispersal rates than
+for bacteria wilkinson et al we therefore might have ex 
+pected to see the diversity patterns of larger eukaryotes diverge
+somewhat more from those of bacteria in a wind dispersed sys 
+tem of natural mesocosms but instead we observed that bacte 
+rial and eukaryote diversities are tightly linked across this sys 
+tem 
+
+in addition to being tightly associated with each other bac 
+terial and eukaryotic alpha and beta diversities reflected the
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+sommers et al 
+
+figure relative composition of a bacterial phyla and b eukaryotic major taxonomic groupings by technical replicate along the x axis and then grouped by glacier 
+
+gradient in the streams and soils of the taylor valley as well
+as physicochemical characteristics of the cryoconite holes the
+alpha diversities of both bacterial and eukaryotic communities
+were strongly related to the glaciers’ positions in the valley as re 
+flected by longitude tables and fig and significantly pos 
+itively related to hco − tables and variation in beta diver 
+sity was also strongly associated with longitude with bacterial
+beta diversity also related to no − fig tables and how 
+ever drawing inference about abiotic drivers of diversity from
+these observational data is impossible without further experi 
+ments for example the high no − values we observed can be
+consistent with a lack of microbial activity utilizing nitrogen es 
+pecially as the highest no − measurements were taken on the
+
+taylor glacier where the lowest abundances of organisms have
+been previously recorded porazinska et al and therefore
+better reflect a result of diversity rather than a cause 
+
+besides having the lowest alpha diversity of the sampled
+glaciers fig some cryoconite holes on the taylor glacier ap 
+parently lacked any metazoa samples tay –tay had no domi 
+nant metazoan otus in any of the technical replicates whereas
+the dominant metazoan otus were found at relatively high
+levels in most other holes sampled fig e the metazoan 
+free samples had substantial relative abundances of flagellate
+otus subkingdom discoba and ciliate otus not observed in
+other samples fig e and f perhaps indicating that metazoa
+eliminate these organisms from cryoconite holes where they
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+ fems microbiology ecology vol no 
+
+figure relative abundance of the most abundant bacterial and most abundant eukaryotic otus within each replicate otus are identified to the greatest
+resolution possible and grouped for visibility into the following major groups a bacteroidetes b proteobacteria c cyanobacteria d other bacteria e metazoa f 
+discoba and ciliophora g chlorophyta and diatomea and h cercozoa 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+sommers et al 
+
+figure model ii regression of a alpha diversity measured as faith’s phylogenetic diversity pd and b beta diversity measured as unifrac lozupone and
+knight pairwise community dissimilarity of bacteria with that of eukaryotes colors indicate the glacier of origin for each sample red is the commonwealth
+glacier on the diverse east end of the valley gold is the canada glacier just west of the commonwealth glacier and blue is the taylor glacier which descends from
+
+the ice sheet with mixtures indicating pairwise glacial comparisons purple is taylor commonwealth orange is canada commonwealth and green is canada taylor 
+gray band is confidence interval 
+
+table results from multiple linear regression of phylogenetic di 
+versity of bacteria against physical and chemical characteristics cen 
+tered and standardized of the cryoconite holes 
+
+term estimate se statistic p
+
+ intercept 
+longitude 
+area 
+no − – – 
+ph 
+ec 
+hco − – – 
+
+significant p values are bolded 
+
+table results from multiple linear regression of phylogenetic di 
+versity of eukaryotes against physical and chemical characteristics
+ centered and standardized of the cryoconite holes 
+
+term estimate se statistic p
+
+ intercept 
+longitude 
+area 
+no − − − 
+ph 
+ec 
+hco − − − 
+
+significant p values are bolded 
+
+initially co occur the dominant otus of cyanobacteria and al 
+gae chlorophyta were also distinct in the cryoconite holes
+without metazoans even from the rest of the taylor glacier
+holes sampled fig e and g these negative co occurrence
+patterns are intriguing and may give some clue about biotic
+interactions occurring in cryoconite holes but more intensive
+sampling will be needed in future studies to statistically test co 
+occurrence patterns across these glaciers 
+
+table results from a permutational analysis of variance on the
+db rda between environmental factors and bacterial communities 
+with significance adjusted for multiple comparisons using the false
+discovery rate method 
+
+term df sum of sqs f statistic p
+
+longitude 
+ph 
+bicarbonate 
+nitrate 
+area 
+ec 
+residual na na
+
+significant terms are bolded 
+
+table results from a permutational analysis of variance on the
+db rda between environmental factors and eukaryotic communi 
+ties with significance adjusted for multiple comparisons using the
+false discovery rate method 
+
+term df sum of sqs f statistic p
+
+longitude 
+ph 
+bicarbonate 
+nitrate 
+area 
+ec 
+residual na na
+
+significant terms are bolded 
+
+the high throughput sequencing of eukaryotic communities
+is mostly consistent with previous studies while providing new
+insight through higher resolution perhaps the most surpris 
+ing addition to this invertebrate community was a phaenocora 
+like rhabdocoelan flatworm sporadically present at high rela 
+tive abundance across all glaciers fig d rotifers tardigrades 
+ciliates fungi flagellates diatoms and algae however had all
+been previously found in antarctic cryoconite holes through
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+ fems microbiology ecology vol no 
+
+figure dbrda biplot of unifrac values for a bacteria and b eukaryotes with abiotic correlations layered over community distances samples are colored by glacier
+of origin red is the commonwealth glacier on the diverse east end of the valley gold is the canada glacier just west of the commonwealth glacier and blue is the
+taylor glacier which descends from the ice sheet at the west end of the valley significant environmental factors are bolded 
+
+molecularmethods christner kvitko and reeve cameron 
+hodson and osborn microscopy mueller et al 
+porazinska et al mieczan et al stanish et al 
+or both although christner kvitko and reeve reported
+nematode rrna gene sequences in cryoconite holes porazin 
+ska et al found no microscopic evidence of nematodes in
+cryoconite holes on the taylor valley glaciers we detected the
+nematode s rrna gene in our cryoconite samples but they
+made up of the s rrna ssu reads a more striking depar 
+ture was the dominance of rotifers of total reads and tardi 
+grades of total reads in our samples compared to cameron 
+hodson and osborn who found no metazoan sequences
+in antarctic cryoconite holes however the work of porazinska
+et al confirms that rotifers and tardigrades are common
+active members of cryoconite communities and that our results
+do not reflect merely relic dna 
+
+a comparison of bacterial communities in the cryoconite
+holes to the streams and soils of the taylor valley highlights cry 
+oconite hole communities as similar to other aquatic environ 
+ments the bacterial taxa we report are similar to those previ 
+ously found in antarctic cryoconite holes christner kvitko and
+reeve cameron hodson and osborn webster brown
+et al with a few exceptions more specifically other sur 
+veys have found the dominant bacteroidetes to be cytophagales
+ christner kvitko and reeve webster brown et al 
+whereas we detected prevalent otus primarily in chitinopha 
+gales fig a however many betaproteobacteria from previ 
+ous work were assigned to burkholderiales cameron hodson
+and osborn webster brown et al which had several
+dominant otus in our samples fig b furthermore cyanobac 
+teria classes previously found on these glaciers mueller et al 
+ porazinska et al and others in the dry valley
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+
+sommers et al 
+
+ webster brown et al were also represented in our domi 
+nant otus including chroococcales and oscillatoriales fig c 
+the similarity of the broad patterns of detected bacterial com 
+munities across studies provides reassurance of the persistence
+of these patterns despite differences in sampling protocols and
+sequencing platform 
+
+although spatial clustering of community composition by
+glacier within a region had not been previously found for eu 
+karyotes in cryoconite holes porazinska et al cameron 
+hodson and osborn our higher resolution molecular
+methods demonstrate strong spatial structuring across glaciers
+ fig b for example at least two of the dominant ciliate otus
+on canada and commonwealth glaciers are virtually absent
+from the taylor glacier fig f and there appears to be little
+overlap in the dominant algal otus between the taylor glacier
+and the other two glaciers fig g overall alpha diversity was
+also lower on taylor glacier generally fig a and the commu 
+nities in cryoconite holes were more variable than those on the
+canada and commonwealth glaciers figs – this divide cor 
+responds to the geography of the valley the taylor glacier in
+the lake bonney basin is physicallymore distant from the other
+two glaciers which are in the lake fryxell basin fig a major
+geologic feature the nussbaum riegel divides the taylor val 
+ley climatically into these basins fountain et al the
+variable community composition of the streams in the lake
+bonney basin may lead to more variable cryoconite communi 
+ties observed on the taylor glacier stanish et al addi 
+tionally the low alpha diversity suggests that low biomass in the
+streams and soils near the taylor glacier mcknight et al 
+barrett et al may result in low rates of cryoconite coloniza 
+tion there contributing to the greater variability in alpha and
+beta diversity between holes on the taylor glacier figs – 
+
+spatial clustering at the scale of the glaciers within the valley
+is consistent with previous work hypothesizing that cryoconite
+holes in the dry valleys are formed predominantly by sediments
+closest to the glacier stanish et al webster brown et al 
+ furthermore cryoconite holes eventually feed back into
+streams especially during high melt years bagshaw et al 
+where the organisms and nutrients from these cryoconite holes
+then likely interact further in stream and lake habitats manipu 
+lative experiments on dispersal and taxonomic diversity nutri 
+ent availability and the physical and chemical properties of the
+holes would help to partition out the contribution of dispersal 
+abiotic factors and biotic interactions to determining microbial
+diversity of cryoconite holes 
+
+conclusions
+
+using modern high throughput sequencing to characterize eu 
+karyotes in antarctic cryoconite holes in conjunction with bac 
+terial communities highlights cryoconite holes as aquatic meta 
+communities in the mcmurdo dry valleys our results show a
+strong correlation between eukaryotic and bacterial communi 
+ties in cryoconite holes with both community types reflecting
+the gradient of diversity stanish et al and organic ma 
+terial in the streams and soils along the valley mcknight et al 
+ barrett et al these data are consistent with a cy 
+cling of biological material through the streams surrounding
+the glaciers bagshaw et al and dispersing back onto the
+glaciers locally as cryoconite lancaster nkem et al 
+stanish et al though future experiments will be needed
+to clarify the contributions of multiple processes that drive di 
+versity in this system future work should therefore involve
+
+manipulations of community diversity or environmental condi 
+tions to understand why diversity patterns of bacteria and eu 
+karyotes are so similar in these natural mesocosms 
+
+supplementary data
+
+supplementary data are available at femsec online 
+
+acknowledgements
+
+we thank jennifer rocca and tiffany prest for assistance with
+shipping samples and kathleen welch for the water chemistry
+analyses 
+
+funding
+
+thisworkwas funded bynsf polar programsaward and
+by duke university 
+
+conflict of interest none declared 
+
+references
+
+altermatt f bieger a carrara f et al effects of connectivity and
+recurrent local disturbances on community structure and
+population density in experimental metacommunities plos
+one e 
+
+altermatt f fronhofer ea garnier a et al big answers fromsmall
+worlds a user’s guide for protist microcosms as amodel sys 
+tem in ecology and evolution methods ecol evol –
+ 
+
+amaral zettler la mccliment ea ducklow hw et al a method
+for studying protistan diversity using massively parallel se 
+quencing of v hypervariable regions of small subunit ribo 
+somal rna genes plos one e 
+
+bagshaw ea tranter m fountain ag et al biogeochemical evo 
+lution of cryoconite holes on canada glacier taylor valley 
+antarctica j geophys res biogeo g s 
+
+bagshaw ea tranter m fountain ag et al do cryoconite holes
+have the potential to be significant sources of c n and
+p to downstream depauperate ecosystems of taylor valley 
+antarctica arct antarct alp res – 
+
+bagshaw ea tranter m wadham jl et al processes control 
+ling carbon cycling in antarctic glacier surface ecosystems 
+geochem persp lett – 
+
+barrett j virginia r hopkins d et al terrestrial ecosystem
+processes of victoria land antarctica soil biol biochem
+ – 
+
+barrett j virginia ra wall dh et al variation in biogeochemistry
+and soil biodiversity across spatial scales in a polar desert
+ecosystem ecology – 
+
+bates st clemente jc flores ge et al global biogeography
+of highly diverse protistan communities in soil isme j
+ – 
+
+benjamini y hochberg y controlling the false discovery rate a
+practical and powerful approach to multiple testing j r stat
+soc b – 
+
+cameron ka hodson aj osborn am structure and diversity
+of bacterial eukaryotic and archaeal communities in glacial
+cryoconite holes from the arctic and the antarctic fems mi 
+crobiol ecol – 
+
+caporaso jg bittinger k bushman fd et al pynast a flexible
+tool for aligning sequences to a template alignment bioinfor 
+matics a – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+https academic oup com femsec article lookup doi femsec fix supplementary data
+
+
+ fems microbiology ecology vol no 
+
+caporaso jg kuczynski j stombaugh j et al qiime allows anal 
+ysis of high throughput community sequencing data nat
+methods b – 
+
+caporaso jg lauber cl walterswa et al ultra high throughput
+microbial community analysis on the illumina hiseq and
+miseq platforms isme j – 
+
+carini p marsden pj leff jw et al relic dna is abundant in soil
+and obscures estimates of soil microbial diversity nat micro 
+biol 
+
+carrara f altermatt f rodriguez iturbe i et al dendritic connec 
+tivity controls biodiversity patterns in experimental meta 
+communities p natl acad sci usa – 
+
+carrara f giometto a seymour m et al inferring species inter 
+actions in ecological communities a comparison ofmethods
+at different levels of complexity methods ecol evol –
+ 
+
+christner bc kvitko bh ii reeve jn molecular identification
+of bacteria and eukarya inhabiting an antarctic cryoconite
+hole extremophiles – 
+
+desantis tz hugenholtz p larsen n et al greengenes 
+a chimera checked s rrna gene database and work 
+bench compatible with arb appl environ microb 
+ – 
+
+doran pt mckay cp clow gd et al valley floor climate observa 
+tions from the mcmurdo dry valleys antarctica – 
+j geophys res atmos acl 
+
+dormanncf elith j bacher s et al collinearity a review ofmeth 
+ods to deal with it and a simulation study evaluating their
+performance ecography – 
+
+edgar rc search and clustering orders of magnitude faster than
+blast bioinformatics – 
+
+eichmiller jj best se sorensen pw effects of temperature and
+trophic state on degradation of environmental dna in lake
+water environ sci technol – 
+
+faith dp conservation evaluation and phylogenetic diversity 
+biol conserv – 
+
+foreman cm sattler b mikucki ja et al metabolic activity
+and diversity of cryoconites in the taylor valley antarctica 
+j geophys res biogeo g s 
+
+fountainag lyonswb burkinsmb et al physical controls on the
+taylor valley ecosystem antarctica bioscience –
+ 
+
+fountain ag nylen th monaghan a et al snow in the mcmurdo
+dry valleys antarctica int j climatol – 
+
+fountain ag nylen th tranter m et al temporal variations
+in physical and chemical features of cryoconite holes on
+canada glacier mcmurdo dry valleys antarctica j geophys
+res g s 
+
+fountain ag tranter m nylen th et al evolution of cry 
+oconite holes and their contribution to meltwater runoff
+from glaciers in themcmurdodry valleys antarctica j glaciol
+ – 
+
+galotti a finlay bj jiménez gómez f et al most ciliated proto 
+zoa in extreme environments are cryptic in the ‘seed bank’ 
+aquat microb ecol – 
+
+lancaster n flux of eolian sediment in the mcmurdo dry val 
+leys antarctica a preliminary assessment arct antarct alp
+res – 
+
+legendre p package ‘lmodel ’ model ii regression 
+legendre p anderson mj distance based redundancy analysis 
+
+testing multispecies responses in multifactorial ecological
+experiments ecol monogr – 
+
+locey kj lennon jt scaling laws predict global microbial diver 
+sity p natl acad sci usa 
+
+lozupone c knight r unifrac a new phylogenetic method
+for comparing microbial communities appl environ microb
+ – 
+
+macdonell s fitzsimons s the formation and hydrological sig 
+nificance of cryoconite holes prog phys geog – 
+
+mcknight dm alger a tate c et al longitudinal patterns in algal
+abundance and species distribution in meltwater streams in
+taylor valley southern victoria land antarctica in priscu
+jc ed ecosystem dynamics in a polar desert the mcmurdo dry
+valleys antarctica washington dc american geophysical
+union – 
+
+maestre ft delgado baquerizo m jeffries tc et al increasing
+aridity reduces soil microbial diversity and abundance in
+global drylands p natl acad sci usa – 
+
+matsuoka k skoglund a von deschwanden a quantarctica 
+a free gis package for research education and operation
+in antarctica norwegian polar institute seminar tromso 
+norway 
+
+mieczan t górniak d świ
+↪
+atecki a et al vertical microzonation
+
+of ciliates in cryoconite holes in ecology glacier king george
+island pol polar res – 
+
+mueller dr vincent wf pollard wh et al glacial cryoconite
+ecosystems a bipolar comparison of algal communities and
+habitats nova hedwigia – 
+
+nkem jn wall dh virginia ra et al wind dispersal of soil in 
+vertebrates in the mcmurdo dry valleys antarctica polar biol
+ – 
+
+nylen th fountain ag doran pt climatology of katabatic
+winds in the mcmurdo dry valleys southern victoria land 
+antarctica j geophys res atmos d 
+
+oksanen j blanchet fg kindt r et al package ‘vegan’ community
+ecology package version 
+
+porazinska dl fountain ag nylen th et al the biodiversity and
+biogeochemistry of cryoconite holes from mcmurdo dry val 
+ley glaciers antarctica arct antarct alp res – 
+
+price mn dehal ps arkin ap fasttree computing large mini 
+mum evolution trees with profiles instead of a distance ma 
+trix mol biol evol – 
+
+priscu jc life in the valley of the “dead” bioscience 
+pruesse e peplies j glöckner fo sina accurate high 
+
+throughput multiple sequence alignment of ribosomal rna
+genes bioinformatics – 
+
+pruesse e quast c knittel k et al silva a comprehensive
+online resource for quality checked and aligned ribosomal
+rna sequence data compatible with arb nucleic acids res
+ – 
+
+quast c pruesse e yilmaz p et al the silva ribosomal rna gene
+database project improved data processing and web based
+tools nucleic acids res gks 
+
+r core team r a language and environment for statistical comput 
+ing vienna austria r foundation for statistical computing 
+ http www r project org november date last
+accessed 
+
+rognes t flouri t nichols b et al vsearch a versatile open
+source tool for metagenomics peerj e 
+
+ruiz gonzalez c nino garcia jp giorgio pa terrestrial origin
+of bacterial communities in complex boreal freshwater net 
+works ecol lett – 
+
+šabacká m priscu jc basagic hj et al aeolian flux of biotic and
+abiotic material in taylor valley antarctica geomorphology
+ – 
+
+seymour m altermatt f active colonization dynamics and di 
+versity patterns are influenced by dendritic network connec 
+tivity and species interactions ecol evol – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+http www r project org 
+
+
+sommers et al 
+
+stanish lf bagshaw ea mcknight dm et al environmental fac 
+tors influencing diatom communities in antarctic cryoconite
+holes environ res lett – 
+
+telling j anesio am tranter m et al spring thaw ionic pulses
+boost nutrient availability and microbial growth in en 
+tombed antarctic dry valley cryoconite holes front microbiol
+ 
+
+wang q garrity gm tiedje jm et al naive bayesian classifier for
+rapid assignment of rrna sequences into the new bacterial
+taxonomy appl environ microb – 
+
+webster brown jg hawes i jungblut ad et al the effects of en 
+tombment on water chemistry and bacterial assemblages in
+
+closed cryoconite holes on antarctic glaciers fems microbiol
+ecol fiv 
+
+welch k lyons w graham e et al determination of major ele 
+ment chemistry in terrestrial waters from antarctica by ion
+chromatography j chromatogr a – 
+
+wharton ra mckay cp simmons gm et al cryoconite holes on
+glaciers bioscience – 
+
+wilkinson dm koumoutsaris s mitchell ea et al modelling
+the effect of size on the aerial dispersal of microorganisms 
+j biogeogr – 
+
+willerslev e hansen aj rønn r et al long term persistence of
+bacterial dna curr biol r – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fix by guest on july 
+
+
+

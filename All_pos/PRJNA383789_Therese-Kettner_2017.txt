@@ -1,0 +1,2055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microplastics alter composition of fungal communities in aquatic ecosystems
+
+
+microplastics alter composition of fungal communities
+in aquatic ecosystems
+
+marie therese kettner keilor rojas jimenez 
+
+sonja oberbeckmann matthias labrenz and
+
+hans peter grossart 
+ department of experimental limnology leibniz 
+
+institute of freshwater ecology and inland fisheries 
+
+berlin germany 
+ institute for biochemistry and biology faculty of
+
+science potsdam university potsdam germany 
+ universidad latina de costa rica campus san pedro 
+
+apdo san jose costa rica 
+ environmental microbiology working group leibniz
+
+institute for baltic sea research warnem€unde 
+
+germany 
+
+summary
+
+despite increasing concerns about microplastic mp 
+
+pollution in aquatic ecosystems there is insufficient
+
+knowledge on how mp affect fungal communities in
+
+this study we explored the diversity and community
+
+composition of fungi attached to polyethylene pe 
+
+and polystyrene ps particles incubated in different
+
+aquatic systems in north east germany the baltic
+
+sea the river warnow and a wastewater treatment
+
+plant based on next generation s rrna gene
+
+sequencing different operational taxonomic
+
+units assigned to fungal taxa were identified on pe
+
+and ps the mp associated communities were dis 
+
+tinct from fungal communities in the surrounding
+
+water and on the natural substrate wood they also
+
+differed significantly among sampling locations 
+
+pointing towards a substrate and location specific
+
+fungal colonization members of chytridiomycota 
+
+cryptomycota and ascomycota dominated the fungal
+
+assemblages suggesting that both parasitic and sap 
+
+rophytic fungi thrive in mp biofilms thus 
+
+considering the worldwide increasing accumulation
+
+of plastic particles as well as the substantial vector
+
+potential of mp especially these fungal taxa might
+
+benefit from mp pollution in the aquatic environment
+
+with yet unknown impacts on their worldwide distri 
+
+bution as well as biodiversity and food web
+
+dynamics at large 
+
+introduction
+
+microplastics mp widely defined as plastic
+
+particles mm in size have been detected in aquatic
+
+systems all over the globe including oceans freshwaters 
+
+polar environments and also pristine mountain lakes or at
+
+beaches of remote and uninhabited islands ivar do sul
+
+et al free et al obbard et al wagner
+
+et al eerkes medrano et al lavers and
+
+bond law mp can enter the aquatic environ 
+
+ments directly via the spillage of industrial resin pellets or
+
+through the effluent of wastewater treatment plants as cos 
+
+metic microbeads or fibres of synthetic clothing browne
+
+et al cole et al in addition mp derives
+
+from the breakdown of larger plastic items originating for
+
+instance from illegal dumping lost fishing gear or improp 
+
+erly managed landfills law approximately 
+
+trillion particles with a weight of metric tons are
+
+estimated to float in the oceans van sebille et al 
+
+but these numbers will likely rise due to increasing plastic
+
+production fragmentation and extremely low biodegrad 
+
+ability barnes et al an unknown fraction of plastic
+
+debris is washed ashore or sinks to the seafloor barnes
+
+et al tekman et al mp provide artificial and
+
+persistent surfaces which can be colonized by numerous
+
+microorganisms as reviewed by oberbeckmann et al 
+
+ as buoyant plastic particles can be transported
+
+over long distances law and thompson along
+
+with their attached biota they also serve as vectors for var 
+
+ious microorganisms including potentially pathogenic
+
+bacteria kirstein et al and harmful algal species
+
+ mas�o et al assuming one spherical particle per
+
+m in the ocean with a diameter of mm mp could pro 
+
+vide a surface area of million km which is around
+
+twice as much as the area of greenland charette and
+
+smith hidalgo ruz et al eriksen et al 
+
+ this represents a potentially large surface
+
+available for microbial colonization on mp which may alter
+
+community compositions and functions with possible con 
+
+sequences for diversity and biogeochemical cycles 
+
+received may revised august accepted 
+august for correspondence e mail hgrossart igb berlin 
+de tel fax 
+
+vc society for applied microbiology and john wiley sons ltd
+
+environmental microbiology – doi 
+
+
+
+although this research field has recently been pushed for 
+
+ward zettler et al we are still far from
+
+understanding the ecological effects of microbial mp
+
+colonization 
+
+within the microbial communities of plastic biofilms 
+
+fungi have been almost completely overlooked fungi hold
+
+many important ecological roles in aquatic ecosystems 
+
+that is as decomposers of organic matter b€arlocher and
+
+boddy grossart and rojas jimenez para 
+
+sites of several algae or other organisms gleason et al 
+
+ wurzbacher et al and as food source for
+
+higher trophic levels kagami et al moreover fungi
+
+can be predators endophytes symbionts or pathogens
+
+ wurzbacher et al the application of next genera 
+
+tion sequencing has led to an increasing discovery rate of
+
+fungal taxa in aquatic ecosystems especially within the
+
+early diverging lineages such as chytridiomycota and
+
+cryptomycota richards et al comeau et al 
+
+grossart et al investigations of the functional roles
+
+of these lineages have recently led to fundamental revi 
+
+sions in the concept of aquatic food web structures 
+
+emphasizing their profound relevance in aquatic ecosys 
+
+tems kagami et al grossart and rojas jimenez 
+
+ in addition fungi are of special interest for potential
+
+plastic decomposition in the environment due to their vast
+
+metabolic potential and ability to degrade recalcitrant struc 
+
+tures krueger et al grossart and rojas jimenez 
+
+ however to date a single study has reported on
+
+the presence of fungi on plastic bottles made of polyethyl 
+
+ene terephthalate pet but insights into fungal diversity
+
+and their ecological meaning remained peripheral
+
+ oberbeckmann et al 
+
+we applied illumina sequencing of the hypervariable v 
+
+region of the s rrna gene to analyse the fungal com 
+
+munities on mp and compared them to communities in the
+
+surrounding water and to the natural substrate wood mp
+
+and wood particles were incubated for days at seven
+
+stations located in north east germany with five stations
+
+along the lower course of the river warnow up to the coast
+
+of the baltic sea fig and two stations inside a
+
+wastewater treatment plant wwtp the baltic sea is a
+
+brackish and highly anthropogenically influenced ecosys 
+
+tem conley et al and rivers in densely populated
+
+areas can be important pathways for transporting plastic
+
+litter to the open sea lechner et al while wwtps
+
+are considered as relevant point sources of mp mintenig
+
+et al the polymers in our study – high density
+
+polyethylene pe and polystyrene ps – rank among the
+
+most commonly produced plastic polymers and have been
+
+frequently found as pollutants in aquatic environments
+
+ claessens et al wagner et al 
+
+with this work we aimed to unveil the fungal diversity
+
+within mp biofilms and examined the effects of substrate
+
+type and location on fungal diversity community composi 
+
+tion and their abundance in relation to other eukaryotes on
+
+mp we hypothesized that fungi are frequent members of
+
+mp attached communities occurring preferentially on solid
+
+substrates compared to living freely in the surrounding
+
+water as numerous fungal species are capable of degrad 
+
+ing wood but only very few might be able to use plastic
+
+polymers as an energy source krueger et al we
+
+expected to see a clear preference of certain fungi towards
+
+wood resulting in a comparably higher fungal abundance
+
+on wood and a distinction between mp and wood 
+
+associated communities lastly we hypothesized that also
+
+location significantly alters fungal community composition 
+
+allowing to determine location specific fungal otus 
+
+herein we provide the first detailed report about mp 
+
+colonizing fungi while pointing out differences to water and
+
+wood communities as well as among study sites 
+
+results
+
+abundance of fungal reads
+
+approximately of the more than four million eukaryotic
+
+reads were classified as fungi and of all detected
+
+ eukaryotic taxa were assigned to fungi table up
+
+to different fungal taxa could be identified on a single
+
+ps sample and up to on pe across all samples the
+
+relative abundance of reads classified as fungi varied from
+
+table comparison of eukaryotic to fungal reads and taxa for the incubation experiments in the river warnow to baltic sea and in the waste 
+water treatment plant 
+
+total n 
+
+river warnow to
+baltic sea stations
+ n 
+
+wastewater treatment
+plant stations 
+ n 
+
+number of eukaryotic reads 
+
+number of fungal reads 
+
+percentage of fungal reads 
+
+number of eukaryotic taxa 
+
+number of fungal taxa 
+
+percentage of fungal taxa 
+
+n number of samples 
+
+ m t kettner et al 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+ to and the number of taxa ranged from to
+
+ pe ps and wood samples from the river warnow to
+
+the baltic sea station and fig had a signifi 
+
+cantly higher relative abundance of fungal reads than
+
+water samples kruskal–wallis rank sum test post hoc
+
+dunn’s test p supporting information si table s 
+
+and fig a in the wwtp station and no significant
+
+differences among substrates were detected although
+
+several wood samples displayed high fungal abundances
+
+ fig a comparing all locations station close to a
+
+wwtp outlet and had significantly higher fungal
+
+abundances than stations and kruskal–wallis rank
+
+sum test post hoc dunn’s test p supporting infor 
+
+mation si table s and fig b 
+
+fungal communities on pe and ps
+
+taking all pe and ps samples together different
+
+otus assigned to fungal taxa could be determined
+
+ fig and supporting information si table s the
+
+majority of fungal reads on mp were assigned to the phy 
+
+lum chytridiomycota with relative abundance 
+
+followed by ascomycota unclassified fungi and cryptomy 
+
+cota with and respectively a smaller
+
+proportion of reads was assigned to the phyla lkm 
+
+ basidiomycota or was of uncertain taxonomic
+
+placement ‘incertae sedis’ all of them assigned to
+
+the order mortierellales ascomycota basidiomycota and
+
+chytridiomycota respectively contained and dif 
+
+ferent taxa a high otu richness was often observed for
+
+groups with a low taxonomic resolution for example chy 
+
+tridiomycota with otus fig the most abundant
+
+fungal genus on both pe and ps was chytridium with 
+
+and of the fungal reads respectively 
+
+fungal communities across substrates and locations
+
+in fig the composition of fungal phyla is illustrated
+
+across all observed substrates fig a and locations
+
+ fig b from the river warnow to the baltic sea pe
+
+and ps samples were dominated by chytridiomycota 
+
+fig map showing the study locations for the incubation
+experiments starting in the baltic sea station and ending in the
+river warnow station station and inside the wastewater
+treatment plant do not appear on the map to preserve anonymity map
+created using r package leaflet cheng et al and maps from
+vc openstreetmap map of germany from d maps com url http 
+d maps com m europa germany allemagne allemagne gif
+
+fig box whisker plots of the relative fungal read abundances for the factors substrate type a and location b 
+
+fungal communities on microplastics 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+http d maps com m europa germany allemagne allemagne gif
+http d maps com m europa germany allemagne allemagne gif
+
+
+fig taxonomic tree containing all fungal taxa on both microplastics pe and ps while excluding otus with only one read in bold are the
+top taxa which represent of the fungal reads on mp the tree is structured from kingdom root subkingdom phylum subphylum 
+class order and family to genus leaves unclassified prefix uncl genera are named after the next higher classified taxonomic level colour
+figure can be viewed at wileyonlinelibrary com 
+
+ m t kettner et al 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+http wileyonlinelibrary com
+
+
+cryptomycota and unclassified fungi while ascomycota
+
+were more abundant on wood samples in contrast the
+
+distribution of fungal phyla over different substrates in the
+
+wwtp was more even in this study ascomycota were
+
+mainly composed of the genera saccharomyces candida
+
+and kazachstania basidiomycota were mostly assigned to
+
+cryptococcus and trichosporon while chytridiomycota
+
+and cryptomycota were dominated by chytridium and the
+
+lineage lkm respectively 
+
+the effects of substrate type and location on fungal
+community composition
+
+substrate type as well as location had a highly significant
+
+effect on the composition of fungal otus for samples from
+
+the river warnow to the baltic sea permanova 
+
+p supporting information si table s pairwise
+
+comparisons revealed significant differences between
+
+each substrate pairwise permanova p sup 
+
+porting information si table s except for the two mp
+
+types pe and ps the bray–curtis similarity was the high 
+
+est between pe and ps and the lowest between
+
+wood and water supporting information si table
+
+s the fungal community composition varied significantly
+
+between stations pairwise permanova p sup 
+
+porting information si table s except for stations and
+
+ stations and had a bray–curtis similarity of 
+
+whereas the lowest similarity was observed between sta 
+
+tion and with supporting information si table
+
+s in the wwtp different substrate types led to a weak
+
+differentiation regarding the fungal community composi 
+
+tions supporting information si tables s and s 
+
+community composition was significantly different before
+
+ station and after station the final biological treatment
+
+of the wwtp permanova p supporting infor 
+
+mation si table s data dispersion among the factor
+
+groups was homogeneous for almost all cases supporting
+
+information si table s 
+
+an illustration of similarities regarding the fungal commu 
+
+nity composition is shown in a nmds plot fig and
+
+supporting information si fig s it visualizes a
+
+fig a relative read abundance of fungal phyla on different substrates first four bars from river warnow to baltic sea station 
+and and last four bars from wastewater treatment plant station 
+
+b relative read abundance of fungal phyla at different locations abundance data has been hellinger transformed colour figure can be
+
+viewed at wileyonlinelibrary com 
+
+fig nmds of fungal community composition analysed by
+substrate type and location stress value pooled sample
+replicates higher similarity in fungal community composition
+results in closer ordination of according points symbols
+represent different substrate types pe ps wood and water 
+lines connect samples from the same location numbers for
+stations to 
+
+fungal communities on microplastics 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+http wileyonlinelibrary com
+
+
+grouping by location with overlapping of the more similar
+
+stations station and as well as station and and the
+
+similarity between pe and ps per location stations and
+
+ from the wastewater treatment plant separate along the
+
+first axis from the other five stations in the river warnow
+
+and the baltic sea the higher bray–curtis similarities and
+
+lower differentiation by substrate type of these two wwtp
+
+stations supporting information si table s are
+
+reflected by a closer position of the respective data points
+
+in the nmds plot fig 
+
+fungal otus associated with specific substrate
+types or locations
+
+the indicator species analysis supporting information si 
+
+table s revealed that one otu that is the second most
+
+abundant fungal otu within the dataset was significantly
+
+associated with mp pe ps p supporting
+
+information si table s this otu was assigned to the
+
+genus chytridium a much larger number of otus was
+
+associated with wood or water the majority of otus that
+
+were significantly more abundant on wood were assigned
+
+to candida and other fungi of the order saccharomyce 
+
+tales ascomycota otus assigned to the genera
+
+ogataea and kuraishia ascomycota occurred exclusively
+
+on wood samples in contrast water associated otus
+
+were exclusively found in the basidiomycota chytridiomy 
+
+cota cryptomycota and unclassified fungi otus from the
+
+genus rozella cryptomycota and an unclassified exoba 
+
+sidiales basidiomycota were almost exclusively found in
+
+water 
+
+numerous fungal otus were also significantly more
+
+abundant at certain locations supporting information si 
+
+table s especially at station in the baltic sea as well
+
+as in the wwtp fewer otus were associated with loca 
+
+tions in the river warnow stations and and very few to
+
+the estuary stations and otus that were significantly
+
+more abundant at station were assigned mainly to chytri 
+
+diomycota and unclassified fungi many otus associated
+
+with station derived from different yeasts like tricho 
+
+sporon basidiomycota and candida ascomycota 
+
+whereas otus associated with station belonged in most
+
+cases to chytridiomycota cryptomycota lkm and
+
+unclassified fungi 
+
+the effects of substrate type and location on fungal
+alpha diversity
+
+an estimation of fungal alpha diversity otu richness pie 
+
+lou evenness and simpson’s diversity index on different
+
+substrates and at different locations is shown in fig pe
+
+and ps samples from the river warnow and the baltic
+
+sea had a significantly lower otu richness pielou even 
+
+ness and simpson diversity than water and wood
+
+ kruskal–wallis rank sum test post hoc dunn’s test 
+
+p supporting information si table s for the
+
+wwtp samples no significant differences were detected
+
+between substrate types due to differences in sequencing
+
+depth supporting information si fig s the diversity is
+
+difficult to compare between locations of the two incubation
+
+experiments within each single incubation experiment no
+
+differences were detected among the locations regarding
+
+their otu richness pielou evenness and simpson
+
+diversity 
+
+discussion
+
+this is one of the first reports showing that the presence of
+
+mp alters the composition of eukaryotic microbial commu 
+
+nities in aquatic ecosystems mp were easily colonized by
+
+different microorganisms including an abundant diversity
+
+of fungi this recalcitrant surface could be considered a
+
+new hotspot for the growth of fungal communities whose
+
+structure and composition differed significantly from that
+
+found in the surrounding water or other natural solid sub 
+
+strate such as wood furthermore mp associated fungal
+
+communities were shown to vary significantly among sites 
+
+which may have profound environmental and ecological
+
+implications for example microplastic contaminants could
+
+collect transport and disperse a number of non resident
+
+microorganisms including pathogens from wwtps along
+
+their transit from land based to marine systems 
+
+previously oberbeckmann et al examined the
+
+presence of prokaryotic and eukaryotic microorganisms on
+
+pet bottles in the north sea and reported only fungal
+
+otus assigned to ascomycota basidiomycota and chytri 
+
+diomycota in our study the observed fungal richness and
+
+diversity were significantly higher with up to otus per
+
+sample mostly assigned to chytridiomycota and crypto 
+
+mycota and to a lesser extend to ascomycota and
+
+basidiomycota ascomycota were previously assumed to
+
+be the most prevalent group within aquatic fungal commu 
+
+nities shearer et al jones and pang 
+
+however recent studies based on culture independent
+
+methods are revealing high proportions of chytridiomycota
+
+in various aquatic ecosystems richards et al 
+
+comeau et al which is consistent with our findings 
+
+interestingly in the wwtp the two most dominant taxa
+
+were assigned to lkm cryptomycota and lkm the
+
+predominance of lkm in a wwtp has been reported
+
+before matsunaga et al but the ecological role of
+
+members of this lineage is still unclear grossart et al 
+
+ 
+
+in our study we detected a clear differentiation between
+
+the fungal communities in the water column and those
+
+associated with solid substrates distinctions between
+
+plastic and water communities have also been found in
+
+studies of other microorganisms zettler et al 
+
+ m t kettner et al 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+hoellein et al mccormick et al oberbeck 
+
+mann et al the higher relative abundance of fungi
+
+on pe ps and wood is likely a result of the higher affinity
+
+of certain fungal species to attach to solid surfaces
+
+ richards et al or to establish specific relationships
+
+with other substrate attached organisms as might be the
+
+case for some parasitic chytrids wurzbacher et al 
+
+gleason et al potential hosts could be some of the
+
+numerous eukaryotes that were present in the mp biofilms 
+
+for example chlorophyta rhodophyceae dinophyceae 
+
+diatomea nematoda rotifera and crustacea kettner
+
+et al in preparation the observed differences between
+
+mp and wood associated communities sampled from the
+
+river warnow and the baltic sea further indicate that
+
+there are specific preferences for certain substrate types 
+
+for example yeasts such as candida or ogataea exhib 
+
+ited a strong preference for wooden substrates as they
+
+are probably able to degrade wood constituents like xylose
+
+and cellulose schauer and hanschke high num 
+
+bers of ascomycota on decaying wood have also been
+
+found by r€am€a et al in contrast to wood and mp 
+
+we did not detect significant distinctions between pe and
+
+ps associated communities compared to natural surfaces
+
+in aquatic environments for example river snow or plant 
+
+litter both mp types appear to have rather similar surface
+
+attributes like a high hydrophobicity and a smooth surface 
+
+fig boxplots of otu richness a b pielou evenness c d and simpson’s diversity index e f for different substrate types a c e and
+locations b d f 
+
+fungal communities on microplastics 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+which are relevant factors for cell adhesion and biofilm for 
+
+mation donlan renner and weibel 
+
+nevertheless fungal communities on pe and ps had a
+
+bray–curtis similarity of only hinting at an influence of
+
+plastic type on colonization as shown by zettler et al 
+
+beside the differences in community composition
+
+between water and solid substrates the nmds plot illus 
+
+trates a superior grouping of samples by location it
+
+suggests that the surrounding water – including its local
+
+environmental parameters and source communities –
+
+were shaping fungal colonization patterns on pe ps and
+
+wood these results furthermore expand the notion of pos 
+
+sible habitat and location specificity of fungi monchy et al 
+
+ panzer et al wurzbacher et al also
+
+in our study each location was significantly different from
+
+any other location regarding their fungal community com 
+
+position with the exception of stations and which are
+
+located geographically close to each other one of the pos 
+
+sible factors influencing the presence of fungi might be the
+
+nutrient concentration as we detected the highest relative
+
+fungal abundances at stations located inside a wwtp or
+
+close to the discharge point of a wwtp these stations
+
+had elevated amounts of nitrate supporting information
+
+si table s which may have altered fungal growth fer 
+
+reira et al 
+
+it is moreover possible that a shift in taxonomic composi 
+
+tion can be accompanied by changes in functionality
+
+ allison and martiny shade et al for exam 
+
+ple the abundant presence of chytridiomycota could result
+
+in different kinds of parasitic or saprotrophic relationships
+
+with the primary producers also present in the mp biofilms 
+
+mediating the carbon nutrient and energy transfer into the
+
+food webs kagami et al agha et al 
+
+in addition fungi could be attracted by organic substances
+
+adsorbed to the plastic surface which form a so called
+
+conditioning surface film donlan in this regard 
+
+several saprotrophic fungi would be able to feed on those
+
+organic substances or on detritus that emerged within the
+
+biofilm including complex molecules wurzbacher et al 
+
+ richards et al 
+
+in contrast to natural biofilms on wood or algal aggre 
+
+gates which will disintegrate over time mp may persist for
+
+years decades or even centuries shah et al 
+
+andrady while carrying its attached biota however 
+
+it is not clear how stable the mp associated microbial com 
+
+munities are some are likely to change along with
+
+changing environmental factors whereas others might
+
+remain more resilient within their micro niches and others
+
+could even switch to resting stages waiting for more favour 
+
+able conditions to reactivate as buoyant mp can be
+
+transported over very long distances barnes law
+
+and thompson mp could facilitate the spread of
+
+fungi to new habitats possibly even at the global scale 
+
+consequently our work raises an additional warning about
+
+the problem of increasing accumulation of plastic contami 
+
+nants in aquatic ecosystems as mp provide selective
+
+advantages for the colonization of certain groups of micro 
+
+organisms but also serve as highly persistent vehicles for
+
+their dispersion as mp introduces huge surfaces for colo 
+
+nization and biofilms are hotspots for microbial activities
+
+ costerton et al further research is necessary to
+
+better elucidate interactions between the microorganisms
+
+on mp their metabolic capabilities and the resulting
+
+impacts on biodiversity food web structures and overall
+
+ecosystem functioning 
+
+conclusions
+
+despite their high phylogenetic diversity and versatile met 
+
+abolic potentials fungi gained very little attention in
+
+previous studies on mp colonization here we provide a
+
+first in depth report about fungal taxa that occurred on mp
+
+in different aquatic ecosystems we observed that location
+
+and substrate type significantly influenced fungal commu 
+
+nity compositions fungal communities on mp differed
+
+from those in water and on the natural substrate wood 
+
+the ecological consequences of selected microbial com 
+
+munities on mp however remain largely unknown though
+
+the diverse and abundant occurrence of fungi on plastic
+
+points towards their high relevance on this artificial habitat 
+
+fungi – as parasites pathogens symbionts or saprobes –
+
+could substantially influence community dynamics and
+
+cycling processes within mp biofilms our findings can
+
+now serve as a basis for future studies aimed at unveiling
+
+ecological functions by targeting more specific fungal
+
+groups of interest such as algal parasites or potential plas 
+
+tic degraders 
+
+experimental procedures
+
+incubation experiments and sampling
+
+to examine effects of the factors ‘substrate type’ and ‘location’
+on the fungal community composition and diversity three dif 
+ferent substrates for microbial colonization – plus water – and
+
+seven different incubation sites were studied fig and sup 
+porting information si table s for brief description of study
+sites including environmental parameters the three sub 
+strates were high density polyethylene particles pe 
+exxonmobiltm hdpe hta exxonmobil chemical europe 
+
+belgium diameter – mm density g cm– polystyrene
+particles ps polystyrol e basf germany diameter –
+ mm density g cm– and wood pellets heizvr holz 
+pellets heizvr pellets ag germany density g cm 
+wood pellets were made of pine approximately spruce
+
+ approximately and could contain traces of other tree
+species wood served as a natural reference substrate in
+comparison to the artificial substrates pe and ps 
+
+the substrates were incubated at seven different locations
+at a water depth of to m in separate custom made cages
+
+ cylindrical shape diameter cm height cm nine cages
+were deployed at each station three substrate types �a three
+
+ m t kettner et al 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+replicates to provide comparable surface areas for particle
+
+colonization cages were loaded with g pe g ps and
+
+ g wood respectively the lateral surface of these cages
+
+consisted of a nylon mesh with mm mesh size to allow
+exchange with the surrounding water two incubation experi 
+
+ments were performed the first experiment was conducted at
+
+stations one to five from the pier heiligendamm in the baltic
+
+sea into the river warnow approximately km upstream in
+
+ from to august until – september the second
+
+experiment was conducted in a municipal wwtp in 
+
+from april until may station was located after the last
+
+sedimentation tank where conventional wwtps would dis 
+
+charge station was situated after the additional treatment
+
+with an oxygenated biofilm reactor 
+
+after the incubation period of days pe ps and wood
+
+particles were washed three times with mm filtered auto 
+claved water from the corresponding station to remove loosely
+
+attached organisms on the same day when particles were
+
+retrieved water samples were collected at the respective sta 
+
+tions to collect the microorganisms to l of each water
+
+sample to replicates were filtered onto mm pore size
+membranes whatmanvr nuclepore track etch membrane 
+
+polycarbonate ge healthcare germany and to l of
+
+the filtrate to replicates onto mm pore size mem 
+branes duraporevr membrane filters polyvinylidene fluoride 
+
+merck millipore ireland particles and filter membranes were
+
+rapidly frozen in liquid nitrogen and stored at c until fur 
+ther processing 
+
+additionally three water samples were retrieved at each
+
+location for determining concentrations of phosphate nitrate 
+
+nitrite ammonium and silicon dioxide according to standard
+
+methods hansen and koroleff temperature and salin 
+
+ity were measured in situ with a portable meter hq d 
+
+hach germany water samples for analysis of nutrient con 
+
+centrations as well as temperature and salinity measurements
+
+were obtained at the start and end of each incubation experi 
+
+ment in supporting information si table s average data of
+
+the measurements are shown 
+
+dna extraction amplification and sequencing
+
+dna was extracted from pe ps wood and water samples
+
+using a modified protocol nercessian et al optimized
+
+and refined for biofilms attached to mp the procedure starts
+
+with a chemical and mechanical cell disruption bead beating
+
+in a lysis solution containing tris edta nacl and sds fol 
+
+lowed by an enzymatic treatment with proteinase k and
+
+addition of a ctab buffer dna was extracted from the solu 
+
+tion first with phenol chloroform isoamyl alcohol and a then
+
+with chloroform isoamyl alcohol dna was precipitated with
+
+ethanol and sodium acetate subsequently washed in ethanol 
+
+dried re suspended in pure water and stored at c all
+dna samples were sent to lgc genomics berlin germany
+
+for purification pcr amplification equimolar mixing and illu 
+
+mina miseq sequencing bp paired end miseq reagent
+
+kit v the eukaryote specific primers eu f and eu r
+
+ stoeck et al with slight modification according to lgc
+
+genomics berlin germany see supporting information si 
+
+table s for primer specificity targeting the highly variable
+
+v region of the s rrna gene were used for pcr
+
+amplification more information on dna extraction and primers
+
+are given in si 
+
+sequence processing
+
+raw illumina miseq reads were demultiplexed then barcodes 
+
+adapters and primers were clipped pre processing by lgc
+
+genomics berlin germany reads were further processed
+
+in mothur v schloss et al according to mothur
+
+miseq sop kozich et al online access april 
+
+which included quality filtering of joined reads alignment chi 
+
+mera removal and classification of remaining reads using the
+
+non redundant silva database v quast et al com 
+
+plemented with the online sina alignment service v 
+
+ pruesse et al raw reads are available at the short
+
+read archive sra of ncbi under biosample accessions
+
+from samn to samn of the bioproject
+
+prjna 
+
+after extracting the fungal reads from the data set two
+
+approaches were chosen for data evaluation as explained
+
+below and they are herein called ‘taxon based approach’ and
+
+‘otu based approach’ otu operational taxonomic unit 
+the taxon based approach is based on a data matrix contain 
+
+ing all fungal taxa and their read abundances per sample 
+
+fungal taxa were named according to the silva taxonomy
+
+ yilmaz et al and often resolved down to the genus
+
+level in case fungal taxa could not be classified on genus
+
+level they were named after the next higher classified taxo 
+
+nomic level family order class subphylum phylum or
+
+kingdom this imbalanced taxonomic resolution can cause
+
+skewed results when comparing community composition and
+
+diversity among samples to overcome this potential bias 
+
+operational taxonomic units otus were calculated at first 
+
+the taxonomic information from the classified fungi is used to
+
+split the dataset into distinct taxonomy groups here on genus
+
+level then otus were clustered within these groups by
+
+applying a distance threshold this ‘otu based approach’
+
+improves the comparability of samples by generating a more
+
+consistent taxonomic resolution detailed methods and
+
+rarefaction curves fig s are presented in supporting
+
+information si 
+
+data evaluation and statistical methods
+
+statistical calculations were performed in r version r
+
+core team including the r package vegan oksanen
+
+et al all samples were assigned to the correspond 
+
+ing substrate type polyethylene polystyrene wood or water 
+
+and location station or 
+
+relative fungal read abundance was calculated by dividing
+
+the number of fungal reads by the number of eukaryotic reads
+
+for each sample a tree was calculated for fungal taxa and
+
+otus excluding those containing only one single read from
+
+all mp samples pe and ps using the r package phangorn
+
+ schliep the tree was plotted with itol v letunic
+
+and bork data tables with taxon or otu abundances
+
+per sample were hellinger transformed legendre and gal 
+
+lagher as advised by ramette after conversion
+
+into a bray–curtis similarity matrix the effects of substrate
+
+type and location on the fungal community composition were
+
+fungal communities on microplastics 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+evaluated with non parametric multivariate analysis of vari 
+
+ance permanova and pairwise permanova adonis
+
+function in vegan permutations the homogeneity of
+
+group dispersions was checked for the factors substrate and
+
+location with the betadisper and pairwise permutest function
+
+in vegan permutations to further illustrate differences in
+
+fungal community composition bray–curtis similarities were
+
+calculated between each factor group pair additionally the
+
+bray–curtis similarity matrix of sample replicates and all 
+
+samples was represented in a two dimensional nmds plot to
+
+evaluate which otus contributed to differences in fungal com 
+
+munity composition an indicator species analysis de
+
+c�aceres and legendre was performed r package
+indicspecies de c�aceres which indicates when cer 
+
+tain otus are significantly associated with specific substrates
+
+or locations to assess the fungal alpha diversity three classi 
+
+cal indices were calculated as described in borcard et al 
+
+ richness n number of different otus simpson’s
+
+index d diversity function in vegan index simpson and
+pielou evenness j j h log n with h shannon’s index 
+kruskal–wallis rank sum tests were used to check for overall
+
+significant differences among factor groups for the relative fun 
+
+gal read abundance n d and j when results were
+
+significant pairwise comparisons were tested using pairwise
+
+test for multiple comparisons of mean rank sums dunn’s test 
+
+in the r package pmcmr pohlert p values from mul 
+
+tiple testing dunn’s test pairwise permanova and indicator
+
+species analysis were adjusted according to benjamini and
+
+hochberg 
+
+acknowledgements
+
+we thank the leibniz association for financial support of the
+
+saw project ‘mikromik’ saw iow thanks to
+
+christian burmeister for analysing the nutrient concentrations
+
+of our samples we acknowledge access to sampling loca 
+
+tions by the wwtp bootsterrassen warnem€unde and the
+
+marine science center hohe d€une prof dr dehnhardt dr 
+wieskotten for helpful remarks on earlier versions of the
+
+manuscript we would like to thank michael t monaghan and
+
+thomas mehner jason woodhouse thomas hornick kirs 
+
+ten pohlmann and gabriel singer were supportive when
+
+deciding for statistical methods many thanks to lars ganzert
+
+and danny ionescu for the introduction to bioinformatics fur 
+
+ther the authors acknowledge two anonymous reviewers for
+
+their valuable comments and suggestions the authors
+
+declare no conflict of interest 
+
+references
+
+agha r saebelfeld m manthey c rohrlack t and
+
+wolinska j chytrid parasitism facilitates trophic
+
+transfer between bloom forming cyanobacteria and zoo 
+
+plankton daphnia sci rep 
+allison s d and martiny j b h resistance resil 
+
+ience and redundancy in microbial communities proc natl
+
+acad sci usa – 
+andrady a l microplastics in the marine environment 
+
+mar pollut bull – 
+b€arlocher f and boddy l aquatic fungal ecology –
+
+how does it differ from terrestrial fungal ecol – 
+
+barnes d k a remote islands reveal rapid rise of
+
+southern hemisphere sea debris sci world j – 
+barnes d k a galgani f thompson r c and barlaz m 
+
+ accumulation and fragmentation of plastic debris in
+
+global environments philos trans r soc b biol sci 
+
+ – 
+benjamini y and hochberg y controlling the false
+
+discovery rate a practical and powerful approach to multi 
+
+ple testing j r stat soc ser b – 
+borcard d gillet f and legendre p exploratory
+
+data analysis in numerical ecology with r use r gentle 
+
+man r hornik k and parmigiani g g series eds 
+
+new york ny springer new york pp – 
+browne m a crump p niven s j teuten e tonkin a 
+
+galloway t and thompson r accumulation of
+
+microplastic on shorelines worldwide sources and sinks 
+
+environ sci technol – 
+charette m and smith w the volume of earth’s
+
+ocean oceanography – 
+
+cheng j karambelkar b and xie y leaflet create
+
+interactive web maps with the javascript ’leaflet’ library 
+
+r package version www document url https 
+
+cran r project org package leaflet 
+claessens m de meester s van landuyt l de clerck 
+
+k and janssen c r occurrence and distribution
+
+of microplastics in marine sediments along the belgian
+
+coast mar pollut bull – 
+cole m lindeque p halsband c and galloway t s 
+
+ microplastics as contaminants in the marine environ 
+
+ment a review mar pollut bull – 
+comeau a m vincent w f bernier l and lovejoy c 
+
+ novel chytrid lineages dominate fungal sequences in
+
+diverse marine and freshwater habitats sci rep 
+conley d j bj€orck s bonsdorff e carstensen j 
+
+destouni g gustafsson b g et al hypoxia 
+
+related processes in the baltic sea environ sci technol 
+
+ – 
+costerton j w cheng k j geesey g g ladd t i 
+
+nickel j c dasgupta m and marrie t j bacte 
+
+rial biofilms in nature and disease annu rev microbiol
+
+ – 
+de c�aceres m how to use the indicspecies package 
+
+r package version www document url https 
+
+cran r project org package indicspecies 
+de c�aceres m and legendre p associations
+
+between species and groups of sites indices and statistical
+
+inference ecology – 
+
+donlan r m biofilms microbial life on surfaces 
+
+emerg infect dis – 
+
+eerkes medrano d thompson r c and aldridge d c 
+
+ microplastics in freshwater systems a review of the
+
+emerging threats identification of knowledge gaps and pri 
+
+oritisation of research needs water res – 
+eriksen m lebreton l c m carson h s thiel m moore 
+
+c j borerro j c et al plastic pollution in the
+
+world’s oceans more than trillion plastic pieces weighing
+
+over tons afloat at sea plos one e 
+ferreira v gulis v and graça m a s whole 
+
+stream nitrate addition affects litter decomposition and
+
+associated fungi but not invertebrates oecologia 
+
+ – 
+
+ m t kettner et al 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+https cran r project org package leaflet
+https cran r project org package leaflet
+https cran r project org package leaflet
+https cran r project org package indicspecies
+https cran r project org package indicspecies
+https cran r project org package indicspecies
+
+
+free c m jensen o p mason s a eriksen m 
+
+williamson n j and boldgiv b high levels of
+
+microplastic pollution in a large remote mountain lake mar
+
+pollut bull – 
+gleason f h kagami m lefevre e and sime ngando t 
+
+ the ecology of chytrids in aquatic ecosystems roles
+
+in food web dynamics fungal biol rev – 
+gleason f h karpov s a lilje o macarthur d j van
+
+otgen f f and sime ngando t zoosporic parasites
+
+of phytoplankton in freshwater fungi and fungal like
+
+organisms gareth jones e b hyde k d and pang k l 
+
+ eds berlin boston walter de gruyter gmbh pp – 
+
+grossart h p and rojas jimenez k aquatic fungi 
+
+targeting the forgotten in microbial ecology curr opin
+
+microbiol – 
+
+grossart h p wurzbacher c james t y and kagami m 
+
+ discovery of dark matter fungi in aquatic ecosys 
+
+tems demands a reappraisal of the phylogeny and ecology
+
+of zoosporic fungi fungal ecol – 
+
+hansen h p and koroleff f determination of
+
+nutrients in methods of seawater analysis grasshoff k 
+
+kremling k and ehrhardt m eds weinheim germany 
+
+wiley vch verlag gmbh pp – 
+hidalgo ruz v gutow l thompson r c and thiel m 
+
+ microplastics in the marine environment a review of
+
+the methods used for identification and quantification envi 
+
+ron sci technol – 
+hoellein t rojas m pink a gasior j and kelly j 
+
+anthropogenic litter in urban freshwater ecosystems distri 
+
+bution and microbial interactions plos one e 
+ivar do sul j a barnes d k a costa m f convey p 
+
+costa e s and campos l s plastics in the
+
+antarctic environment are we looking only at the tip of the
+
+iceberg oecologia aust – 
+jones e b g and pang k l tropical aquatic fungi 
+
+biodivers conserv – 
+kagami m von elert e ibelings b w de bruin a and
+
+van donk e the parasitic chytrid zygorhizidium 
+
+facilitates the growth of the cladoceran zooplankter daph 
+
+nia in cultures of the inedible alga asterionella proc r
+
+soc b biol sci – 
+kagami m miki t and takimoto g mycoloop chy 
+
+trids in aquatic food webs front microbiol – 
+kirstein i v kirmizi s wichels a garin fernandez a 
+
+erler r l€oder m and gerdts g dangerous
+
+hitchhikers evidence for potentially pathogenic vibrio spp 
+
+on microplastic particles mar environ res – 
+kozich j j westcott s l baxter n t highlander s k 
+
+and schloss p d development of a dual index
+
+sequencing strategy and curation pipeline for analyzing
+
+amplicon sequence data on the miseq illumina sequencing
+
+platform appl environ microbiol – 
+krueger m c harms h and schlosser d prospects
+
+for microbiological solutions to environmental pollution with
+
+plastics appl microbiol biotechnol – 
+lavers j l and bond a l exceptional and rapid
+
+accumulation of anthropogenic debris on one of the world’s
+
+most remote and pristine islands proc natl acad sci usa
+
+ – 
+law k l plastics in the marine environment ann rev
+
+mar sci – 
+
+law k and thompson r c microplastics in the
+
+seas concern is rising about widespread contamination of
+
+the marine environment by microplastics science 
+
+ – 
+lechner a keckeis h lumesberger loisl f zens b 
+
+krusch r tritthart m et al the danube so col 
+
+ourful a potpourri of plastic litter outnumbers fish larvae
+
+in europe’s second largest river environ pollut 
+
+ – 
+legendre p and gallagher e d ecologically mean 
+
+ingful transformations for ordination of species data oeco 
+
+logia – 
+
+letunic i and bork p interactive tree of life
+
+ itol v an online tool for the display and annotation
+
+of phylogenetic and other trees nucleic acids res 
+
+w –w 
+mas�o m garc�es e pagès f and camp j 
+
+drifting plastic debris as a potential vector for dispersing
+
+harmful algal bloom hab species sci mar 
+
+ – 
+
+matsunaga k kubota k and harada h molecular
+
+diversity of eukaryotes in municipal wastewater treatment
+
+processes as revealed by s rrna gene analysis 
+
+microbes environ – 
+mccormick a hoellein t j mason s a schluep j and
+
+kelly j j microplastic is an abundant and distinct
+
+microbial habitat in an urban river environ sci technol 
+
+ – 
+mintenig s m int veen i l€oder m g j primpke s and
+
+gerdts g identification of microplastic in effluents
+
+of waste water treatment plants using focal plane array 
+
+based micro fourier transform infrared imaging water res
+
+ – 
+monchy s sanciu g jobard m rasconi s 
+
+gerphagnon m chab�e m et al exploring and
+
+quantifying fungal diversity in freshwater lake ecosystems
+
+using rdna cloning sequencing and ssu tag pyrosequenc 
+
+ing environ microbiol – 
+nercessian o noyes e kalyuzhnaya m g lidstrom 
+
+m e and chistoserdova l bacterial populations
+
+active in metabolism of c compounds in the sediment of
+
+lake washington a freshwater lake appl environ microbiol
+
+ – 
+obbard r w sadri s wong y q khitun a a baker i 
+
+and thompson r c global warming releases
+
+microplastic legacy frozen in arctic sea ice earth’s future
+
+ – 
+oberbeckmann s l€oder m g j and labrenz m 
+
+marine microplastic associated biofilms a review environ
+
+chem – 
+oberbeckmann s osborn a m and duhaime m b 
+
+microbes on a bottle substrate season and geography
+
+influence community composition of microbes colonizing
+
+marine plastic debris plos one – 
+
+oksanen j blanchet f g friendly m kindt r legendre 
+
+p mcglinn d et al vegan community ecology
+
+package r package version – www document 
+
+url https cran r project org package vegan 
+panzer k yilmaz p weiß m reich l richter m 
+
+wiese j et al identification of habitat specific bio 
+
+mes of aquatic fungal communities using a comprehensive
+
+fungal communities on microplastics 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+https cran r project org package vegan
+https cran r project org package vegan
+
+
+nearly full length s rrna dataset enriched with contex 
+
+tual data plos one e 
+pohlert t the pairwise multiple comparison of mean
+
+ranks package pmcmr r package www document 
+
+url http cran r project org package pmcmr 
+pruesse e peplies j and glockner f o sina 
+
+accurate high throughput multiple sequence alignment of
+
+ribosomal rna genes bioinformatics – 
+quast c pruesse e yilmaz p gerken j schweer t 
+
+yarza p et al the silva ribosomal rna gene
+
+database project improved data processing and web 
+
+based tools nucleic acids res – 
+r core team r a language and environment for sta 
+
+tistical computing r foundation for statistical computing 
+
+vienna austria r version www document url
+
+https www r project org 
+
+r€am€a t nord�en j davey m l mathiassen g h 
+spatafora j w and kauserud h fungi ahoy 
+
+diversity on marine wooden substrata in the high north 
+
+fungal ecol – 
+
+ramette a multivariate analyses in microbial ecology 
+
+fems microbiol ecol – 
+renner l d and weibel d b physicochemical regu 
+
+lation of biofilm formation mrs bull – 
+richards t a jones m d m leonard g and bass d 
+
+ marine fungi their ecology and molecular diversity 
+
+ann rev mar sci – 
+richards t a leonard g mah�e f del campo j romac 
+
+s jones m d m et al molecular diversity and dis 
+
+tribution of marine fungi across european environmen 
+
+tal samples proc r soc b biol sci –
+
+ 
+schauer f and hanschke r zur taxonomie und
+
+€okologie der gattung candida taxonomy and ecology of
+
+the genus candida mycoses – 
+schliep k p phangorn phylogenetic analysis in r 
+
+bioinformatics – 
+schloss p d westcott s l ryabin t hall j r hartmann 
+
+m hollister e b et al introducing mothur open 
+
+source platform independent community supported soft 
+
+ware for describing and comparing microbial communities 
+
+appl environ microbiol – 
+shade a peter h allison s d baho d l berga m 
+
+b€urgmann h et al fundamentals of microbial
+
+community resistance and resilience front microbiol 
+
+ – 
+
+shah a a hasan f hameed a and ahmed s 
+
+biological degradation of plastics a comprehensive review 
+
+biotechnol adv – 
+
+shearer c a descals e kohlmeyer b kohlmeyer j 
+
+marvanov�a l padgett d et al fungal biodiversity
+
+in aquatic habitats biodivers conserv – 
+stoeck t bass d nebel m christen r jones m d m 
+
+breiner h w and richards t a multiple marker
+
+parallel tag environmental dna sequencing reveals a highly
+
+complex eukaryotic community in marine anoxic water mol
+
+ecol – 
+tekman m b krumpen t and bergmann m marine
+
+litter on deep arctic seafloor continues to increase and
+
+spreads to the north at the hausgarten observatory 
+
+deep sea res part i oceanogr res pap – 
+
+van sebille e wilcox c lebreton l maximenko n 
+
+hardesty b d van franeker j a et al a global
+
+inventory of small floating plastic debris environ res lett
+
+ 
+wagner m scherer c alvarez mu noz d brennholt n 
+
+bourrain x buchinger s et al microplastics in
+
+freshwater ecosystems what we know and what we need
+
+to know environ sci eur 
+
+wurzbacher c kerr j and grossart h p aquatic
+
+fungi in the dynamical processes of biodiversity case
+
+studies of evolution and spatial distribution grillo o and
+
+venora g eds intech pp – www document 
+
+url http www intechopen com books the dynamical pro 
+
+cesses of biodiversity case studies of evolution and spatial 
+
+distribution aquatic fungi 
+wurzbacher c m b€arlocher f and grossart h p 
+
+fungi in lake ecosystems aquat microb ecol – 
+
+wurzbacher c warthmann n bourne e attermeyer k 
+
+allgaier m powell j r et al high habitat specificity
+
+in fungal communities in oligo mesotrophic temperate lake
+
+stechlin north east germany mycokeys – 
+yilmaz p parfrey l w yarza p gerken j pruesse e 
+
+quast c et al the silva and “all species living
+
+tree project ltp ” taxonomic frameworks nucleic acids
+
+res – 
+zettler e r mincer t j and amaral zettler l a life
+
+in the “plastisphere” microbial communities on plastic
+
+marine debris environ sci technol – 
+
+supporting information
+
+additional supporting information may be found in the
+
+online version of this article at the publisher’s web site 
+
+table s results of kruskal wallis test and posthoc
+
+dunn’s test for comparison of relative fungal read abun 
+
+dance on different substrate types and at different
+
+locations 
+
+table s overview of all fungal taxa found on microplastic
+
+ polyethylene and polystyrene across all samples taxa
+
+with only one read are not presented herein taxonomic
+
+information is based on silva v yilmaz et al 
+table s permanova results after permutations for
+
+the factors substrate and location as well as their interaction
+
+term 
+table s results of pairwise permanova permuta 
+
+tions and bray curtis bc similarity for different substrate
+
+types and locations p adjustment according to benjamini
+
+and hochberg 
+
+table s results of permutation tests for homogeneity of
+
+multivariate dispersions for different substrate types and
+
+locations if dispersion was not homogeneous the results
+
+of pairwise comparisons are also given df degrees of
+freedom sq squares 
+table s results of indicator species analysis with otus
+
+associated to each group or combination of groups for sub 
+
+strate type and location for each otu the assigned taxon 
+
+phylum indicator value adjusted p value according to
+
+benjamini and hochberg and number of reads are
+
+given 
+
+table s results of kruskal wallis test and posthoc
+
+dunn’s test for comparison of fungal otu richness pielou
+
+ m t kettner et al 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+http cran r project org package pmcmr
+http cran r project org package pmcmr
+https www r project org 
+
+
+evenness and simpson’s index each on different substrate
+
+types and at different locations subscript numbers behind
+
+the substrate indicate study stations 
+table s incubation sites with short description coordi 
+
+nates incubation time and averaged values of temperature 
+
+salinity phosphorous nitrate nitrite ammonium and silicon
+
+dioxide to preserve anonymity coordinates of the waste 
+
+water treatment plant wwtp are not given salinity val 
+
+ues were provided by personnel of the wastewater
+
+treatment plant dd decimal degrees 
+table s primer specificity tested with silva testprime 
+
+ klindworth et al list of taxa and their according cover 
+
+age in the silva taxonomy browser database v coverage
+
+is given in percent allowing zero and one mismatch 
+fig s nmds of fungal community composition analyzed
+
+by substrate type and location stress value ellipses
+
+surround samples from the same location at a confidence
+
+interval of shapes and numbers indicate stations 
+
+colors represent the different substrate types polyethylene 
+
+polystyrene wood and water 
+fig s rarefaction curves illustrating the number of otus
+over the number of reads for each sample 
+si pdf file contains tabular overview of full taxonomic
+information for fungi on mp an alternative nmds plot with
+
+individual samples results of statistical tests kruskalwal lis
+test dunn’s test permanova pairwise permanova 
+permutation test for homogeneity of multivariate dispersion 
+results of indicator species analysis description of study
+sites and primer specificity si includes tables s to s 
+
+and fig s 
+si pdf file contains a detailed description of the methods
+dna extraction pcr amplification sequence processing 
+data evaluation and statistical methods as well as a brief
+
+discussion about methodological limitations si includes
+also rarefaction curves fig s 
+
+fungal communities on microplastics 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+

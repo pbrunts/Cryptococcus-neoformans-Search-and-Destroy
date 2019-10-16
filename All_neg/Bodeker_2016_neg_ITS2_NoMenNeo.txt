@@ -1,0 +1,2680 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mycorrhizal and saprotrophic fungal guilds compete for the same organic substrates but affect decomposition differently
+
+
+mycorrhizal and saprotrophic fungal guilds compete for
+the same organic substrates but affect decomposition
+differently
+inga t m b€odeker bj€orn d lindahl �ake olson and karina e clemmensen 
+
+ department of forest mycology and plant pathology swedish university of agricultural sciences uppsala biocenter 
+box se uppsala sweden southern swedish forest research centre swedish university of
+agricultural sciences box se alnarp sweden and department of soil and environment swedish
+university of agricultural sciences box se uppsala sweden
+
+summary
+
+ communities of litter saprotrophic and root associated fungi are vertically separated within
+
+boreal forest soil profiles it is unclear whether this depth partitioning is maintained exclusively
+
+by substrate mediated niche partitioning i e distinct fundamental niches or by competition
+
+for space and resources i e distinct realized niches improved understanding of the mecha 
+
+nisms driving spatial partitioning of these fungal guilds is critical as they modulate carbon
+
+and nutrient cycling in different ways 
+
+ under field settings we tested the effects of substrate quality and the local fungal species
+
+pool at various depths in determining the potential of saprotrophic and mycorrhizal fungi to
+
+colonize and exploit organic matter natural substrates of three qualities – fresh or partly
+decomposed litter or humus – were incubated in the corresponding organic layers of a boreal
+forest soil profile in a fully factorial design after one and two growing seasons fungal com 
+
+munity composition in the substrates was determined by pyrosequencing and decomposi 
+
+tion was analyzed 
+
+ fungal community development during the course of the experiment was determined to
+
+similar degrees by vertical location of the substrates of explained variation and by sub 
+
+strate quality indicating that interference competition is a strong additional driver of
+
+the substrate dependent depth partitioning of fungal guilds in the system during the first
+
+growing season litter substrates decomposed slower when colonized by root associated com 
+
+munities than when colonized by communities of litter saprotrophs whereas humus was only
+
+slightly decomposed by both fungal guilds during the second season certain basidiomycetes
+
+from both guilds were particularly efficient in localizing and exploiting their native organic
+
+substrates although displaced in the vertical profile this validates that fungal community com 
+
+position rather than microclimatic factors were responsible for observed depth related differ 
+
+ences in decomposer activities during the first season 
+
+ in conclusion our results suggest that saprotrophic and root associated fungal guilds have
+
+overlapping fundamental niches with respect to colonization of substrates of different qualities 
+
+and that their substrate dependent depth partitioning in soils of ectomycorrhiza dominated
+
+ecosystems is reinforced by interference competition through competitive interactions mycor 
+
+rhizal fungi can thus indirectly regulate litter decomposition rates by restraining activities of
+
+more efficient litter saprotrophs 
+
+key words antagonistic interaction decomposition ectomycorrhizal fungi litterbag
+experiment meta barcoding moulds next generation sequencing nutrient mobilization 
+
+saprotrophic fungi substrate quality
+
+ correspondence author e mail karina clemmensen slu se
+
+© the authors functional ecology © british ecological society
+
+functional ecology – doi 
+
+
+
+introduction
+
+the boreal forest biome is a globally important carbon c 
+
+sink schlesinger andrews myneni et al 
+
+with rates of photosynthetic c fixation generally exceeding
+
+rates of organic matter decomposition nutrients such as
+
+nitrogen n and phosphorous accumulate below ground
+
+in organically bound forms knicker �agren hyvo 
+
+nen nilsson rendering n availability the main
+
+constraint on tree production tamm traditionally 
+
+substrate quality in terms of lignin and n content and
+
+abiotic factors such as temperature water availability and
+
+soil acidity have been regarded as the main regulators of
+
+litter decomposition rate and persistence of litter derived c
+
+in the soil hobbie et al cornwell et al how 
+
+ever recent studies suggest that above ground litter quality
+
+and climatic factors do not fully explain c sequestration
+
+below ground schmidt et al clemmensen et al 
+
+ averill turner finzi – the abundance 
+diversity and spatial organization of decomposer organ 
+
+isms relative to organic matter may also exert strong con 
+
+trols on decomposition setala mclean 
+
+hattenschwiler tiunov scheu 
+
+fungi are the principal decomposers of organic matter
+
+and drivers of nutrient cycling in boreal forest ecosystems 
+
+there are two main functional groups of fungi in boreal
+
+forest soils i free living saprotrophic fungi and ii fungi
+
+that are symbiotically associated with plant roots either as
+
+ectomycorrhizal tree associates or in other forms of plant–
+fungal interactions for example ericoid mycorrhiza boreal
+
+forest soils are characterized by a low degree of vertical
+
+mixing resulting in distinct stratification into an upper 
+
+most layer of decomposing above ground plant litter a
+
+humus layer of well decomposed organic matter below 
+
+and a clear transition to the underlying mineral soil in
+
+these layers fungal functional groups occupy different spa 
+
+tial niches according to their mode of c assimilation lin 
+
+dahl et al clemmensen et al free living
+
+saprotrophic needle degraders dominate in the litter layer 
+
+where they depend on c and nutrients from freshly fallen
+
+and partly decomposed litter in contrast root associated
+
+fungi including ectomycorrhizal symbionts mainly colo 
+
+nize the more decomposed humus below with their c
+
+supply secured through biotrophic interactions adaptation
+
+of root associated fungi to colonization of substrates
+
+exhausted for easily available c compounds seems plausi 
+
+ble hobbie horton lindahl et al how 
+
+ever whether the depth partitioning of fungal guilds is
+
+maintained exclusively by substrate mediated niche parti 
+
+tioning i e distinct fundamental niches is not established 
+
+the vertical partitioning of free living saprotrophs and
+
+root associated fungi into distinct organic soil layers may
+
+be reinforced by competition for resources leading to
+
+antagonistic interactions and mutual repression such
+
+interactions were first proposed by gadgil gadgil 
+
+ who found increased litter decomposition in
+
+response to exclusion of roots and mycorrhizal fungi 
+
+from litter layers and proposed that the underlying mecha 
+
+nism was suppression of the saprotrophic community by
+
+mycorrhizal fungi competing for water or nutrients later
+
+studies also found retarded litter decomposition koide 
+
+wu or no effects mayor henkel related to
+
+the presence of ectomycorrhizal fungi however stimula 
+
+tion of litter degradation by the presence of roots and their
+
+associated fungi has also been observed subke et al 
+
+ lindahl de boer finlay found that sever 
+
+ing of root connections in humus stimulated rapid growth
+
+of opportunistic saprotrophs when competition with
+
+ectomycorrhizal fungi was eliminated direct combative
+
+interactions have also been observed in microcosm experi 
+
+ments where growth and phosphorous acquisition by
+
+saprotrophic fungi were suppressed by ectomycorrhizal
+
+fungi lindahl et al and vice versa leake et al 
+
+ lindahl stenlid finlay 
+
+antagonism driven by competition for space and
+
+resources is an essential determinant of fungal communi 
+
+ties boddy kennedy competition may take
+
+two general forms interference competition when organ 
+
+isms affect each other directly or exploitation competition
+
+when organisms affect each other indirectly through deple 
+
+tion of a pool of common resources keddy 
+
+although the eco physiological capacity of a functional
+
+group that is its fundamental niche may be wide compe 
+
+tition may restrict its occurrence to a smaller realized
+
+niche changing climatic conditions atmospheric co 
+levels forest management regimes and nutrient availability
+
+may affect fungal functional guilds differentially leading
+
+to shifts in their competitive balance and realized niches if
+
+decomposer capacities are fundamentally different between
+
+the guilds such shifts could result in changes in ecosystem
+
+c and nutrient dynamics fernandez kennedy 
+
+mycorrhizal fungi have generally not been considered to
+
+be efficient decomposers of organic matter the large sur 
+
+face area of their extra radical mycelium has been inter 
+
+preted as an adaptation to optimize uptake of mineralized
+
+nutrients from the soil solution however in many low 
+
+productive boreal forest ecosystems nutrients are primar 
+
+ily bound in organic complexes while inorganic nutrients
+
+are scarce aerts northup et al therefore 
+
+organic nutrient mobilization and a more active involve 
+
+ment of mycorrhizal fungi in decomposition of organic
+
+matter are increasingly discussed entry donnelly cro 
+
+mack read lindahl et al koide et al 
+
+ talbot allison treseder lindahl tunlid
+
+ in a microcosm study mycorrhizal fungi efficiently
+
+exploited litter patches for nutrients bending read
+
+ and utilized pine and oak litter as a phosphorous
+
+source in the field conn dighton colpaert 
+
+vantichelen observed significant decomposition of
+
+beech litter by ectomycorrhizal fungi in axenic micro 
+
+cosms although free living litter saprotrophs were more
+
+efficient furthermore a phylogenetically wide range of
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+ i t m b€odeker et al 
+
+
+
+ectomycorrhizal fungi were found to possess genetic poten 
+
+tial to produce class ii peroxidases – extracellular enzymes
+that are efficient in lignin decomposition b€odeker et al 
+
+ these genes were actively transcribed at low n
+
+availability under field conditions and peroxidase activity
+
+could be linked to the presence of certain ectomycorrhizal
+
+taxa in boreal forest humus b€odeker et al certain
+
+mycorrhizal fungi may thus decompose organic matter 
+
+supposedly to access organically bound nutrients orwin
+
+et al b€odeker et al lindahl tunlid 
+
+however the relative importance of ectomycorrhizal fungi
+
+and free living saprotrophs as decomposers of organic
+
+material and their role in c turnover remain poorly under 
+
+stood partly because studies of niche differentiation under
+
+natural conditions in the field are challenging 
+
+here we investigate the drivers of the vertical partition 
+
+ing as well as the fundamental niches of saprotrophic and
+
+root associated fungal communities with respect to their
+
+potential to colonize and exploit organic substrates of dif 
+
+ferent qualities we incubated fungal ingrowth bags with
+
+two needle litter qualities or humus reciprocally in the cor 
+
+responding litter or humus layers in a fully factorial
+
+design we aimed to test if insertion of ingrowth bags of
+
+limited size into specific soil layers would promote colo 
+
+nization by fungal communities native to these soil layers
+
+irrespective of substrate quality that is that spatial place 
+
+ment in the soil profiles rather than substrate quality
+
+would be decisive for fungal communities such an effect
+
+of spatial placement rather than substrate quality on fun 
+
+gal communities colonizing displaced substrates would
+
+indicate that interference competition is a strong driver of
+
+the vertical partitioning of fungal communities in the sur 
+
+rounding soil system also by manipulating the spatial
+
+organization of natural substrates the experiment aimed
+
+at investigating the capacity of litter and root associated
+
+fungal groups to exploit substrate qualities outside their
+
+usually realized niches i e their fundamental niches 
+
+thus we explored two sets of hypotheses first we tested
+
+whether h substrate quality alone determined fungal
+
+community composition or whether h placement in dis 
+
+tinct organic horizons also affected fungal community
+
+composition secondly given expected effects of incuba 
+
+tion depth on communities we tested whether h all fun 
+
+gal communities had similar decomposer capacities and
+
+decomposition rate was determined exclusively by sub 
+
+strate quality or whether h incubation depth also
+
+affected decomposition rate with saprotrophic communi 
+
+ties being the most efficient litter decomposers and root 
+
+associated communities being the most efficient exploiters
+
+of humus 
+
+materials and methods
+
+study site and exper imental des ign
+
+the study was implemented in a mixed boreal pinus sylvestris l 
+
+ scots pine and picea abies l karst norway spruce forest
+
+near sala in middle sweden ° � ″n ° � ″e 
+ m a s l with an understory dominated by mosses mostly
+
+hylocomium splendens hedw schimp ericaceous shrubs
+
+ mostly vaccinium myrtillus l and herbs mostly oxalis ace 
+
+tosella l and convallaria majalis l the soil type was a podzol
+
+with a c cm thick organic layer fig the litter layer
+
+ mostly consisting of brown moss parts and coniferous litter con 
+
+stituted the upper – cm and the humus layer the lower – cm 
+litter and humus layers were separated by a c cm thick fermen 
+
+tation f layer the mineral soil consisted of clay and silt 
+
+two types of needle litters representing different qualities were
+
+collected in october freshly fallen up to year old intact
+
+needle litter litter was collected from the surface typically
+
+among green parts of mosses partly decomposed but still recog 
+
+nizable litter with an estimated age of – years since abscission
+ litter was collected just above the f layer well decomposed
+
+humus was collected avoiding the f layer and the lower part
+
+close to the mineral soil substrates were dried at °c to con 
+stant weight mixed by hand and filled into � cm
+polyamide mesh bags � – � g of substrate in each bag with a
+pore size of � mm sintab sweden the sealed bags were
+sterilized by gamma irradiation codan steritex aps esper 
+
+gærde denmark 
+
+ a b c d 
+
+fig the boreal forest study site and litterbag incubation the study site a a litter bag incubated horizontally in the upper litter 
+
+layer b the soil profile with an about cm thick organic layer on top of the mineral soil c and litterbags being carefully inserted into
+
+the humus layer d the white plastic cover in d prevented movement of surface material into the deeper layers during set up photos by
+
+kec 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+mycorrhizal and saprotrophic fungal guilds 
+
+
+
+mesh bags were placed in eight replicate m blocks in
+
+early june at the beginning of the growing season fig 
+
+the three substrates litter litter humus were placed approxi 
+
+mately cm apart into each of the corresponding horizons in a
+
+fully factorial design care was taken to avoid surface contamina 
+
+tion of the sterilized bags during insertion into soil horizons the
+
+setup was repeated within each block to allow for two harvests 
+
+with a total of samples three additional samples of each sub 
+
+strate served as negative controls and were processed in the same
+
+manner as the rest of the samples but were directly frozen and not
+
+incubated in the field the first set of bags was harvested in octo 
+
+ber after one growing season months and the second set
+
+of bags was harvested in october after two growing seasons
+
+ months four samples were lost during field incubations 
+
+respirat ion mass loss cn and fungal
+
+community analys is
+
+respiration from freshly harvested substrates was measured with
+
+an irga egm environmental gas monitor pp systems 
+
+amesbury ma usa by placing the bags in a closed chamber
+
+and measuring the progressive increase in co concentration over
+
+ min measurements were made within h after harvest at
+
+ °c resembling the outdoor temperature at the time 
+intact mesh bags were freeze dried and weighed to estimate
+
+mass loss during field incubation the contents of the bags were
+
+subsequently ground to a fine powder by hand in a mortar hu 
+
+mus or in a ball mill litters retsch gmbh haan germany 
+
+subsamples of – mg were analysed for total c and n con 
+tent by dry combustion in a leco truspec cn analyzer leco
+
+corporation st joseph mi usa 
+
+for dna extraction mg of material were further homoge 
+
+nized together with glass beads using a beadbeater precellys 
+
+bertin technologies montigny le bretonneux france for s at
+
+low speed homogenization was repeated after addition of ml
+
+extraction buffer hexadecyltrimethylammonium bromide 
+
+ � m nacl � m tris and mm edta and the samples were
+incubated at °c for h after centrifugation the supernatant
+was extracted with � volume of chloroform the dna was pre 
+cipitated with � volumes of isopropanol at � °c overnight 
+and pellets washed with ice cold ethanol and re suspended in
+
+water extracts were purified using the wizard dna clean up kit
+
+ promega madison wi usa 
+
+fungal its fragments for sequencing were amplified using
+
+the its primer white et al extended with bp long sam 
+
+ple specific tags in combination with the fungal specific fits pri 
+
+mer ihrmark et al the ll pcr reactions consisted of
+ � mm dntps � mm mgcl lm fits primer � lm its 
+primer and � u dna polymerase dreamtaq green thermo
+fisher scientific waltham ma usa pcr cycling conditions
+
+were s at °c and – cycles of s at °c s at
+ °c s at °c and a final min at °c template concen 
+trations and number of pcr cycles were optimized for each sam 
+
+ple based on qpcr results aiming for quantitative amplification
+
+ ihrmark et al for each sample three pcr reactions were
+
+pooled to reduce random pcr distortion of community composi 
+
+tion amplicons were purified using the agencourt ampure kit
+
+ beckman coulter beverly ma usa and concentrations were
+
+measured fluorometrically qubit fluorometer invitrogen carls 
+
+bad ca usa same amounts of pcr product from each sample
+
+were pooled into two composite samples for sequencing adaptor
+
+ligation and sequencing were performed by lgc genomics
+
+gmbh berlin germany on a gl flx titanium system roche 
+
+basel switzerland 
+
+sequences were processed using the bioinformatics pipeline
+
+scata http scata mykopat slu se sequences with an average
+
+quality score below or below at any single position were
+
+removed the highly conserved � s sequence was removed by
+pruning bp from the fits primer site leaving bp of the
+
+ � s region the entire its region and bp of the lsu region 
+adding up to – bp sequence length during the scata
+clustering procedure sequences were compared for similarity using
+
+blast as a search engine with the minimum length of pairwise
+
+alignments set to of the longest sequence pairwise align 
+
+ments were scored using a scoring function with in penalty for
+
+mismatch for gap opening and for gap extension homopoly 
+
+mers were collapsed to bp before alignment sequences were
+
+clustered into operational taxonomic units otus by single link 
+
+age clustering with a � sequence similarity required to enter
+otus for the whole study high quality sequences on
+
+average per sample ranging between and were
+
+assembled into global species level otus all otus with 
+reads in total as well as those not representing fungi were omitted 
+
+to cover at least of the reads in each sample type represen 
+
+tative sequences of the globally most abundant fungal otus 
+
+each represented by at least sequences were identified and
+
+when possible assigned to functional guilds free living sapro 
+
+trophs or root associated mutualists by comparison to unite
+
+envir and annotated insd reference data bases using the mass 
+
+blaster option in the unite phylogenetic module https uni 
+
+te ut ee k oljalg et al saprotrophs were further
+
+categorized as either ‘opportunistic moulds and yeasts’ or ‘litter
+
+saprotrophs’ the three sterilized control samples gave weak pcr
+
+products and communities were highly stochastic thus any
+
+remaining dna from before sterilization was assumed to be of lit 
+
+tle significance for the results 
+
+stat ist ical analys is
+
+correspondence analysis ca of fungal communities was con 
+
+ducted based on relative abundances of fungal otus occur 
+
+ring in at least three samples across both harvests using
+
+canoco biometris plant research international wagenin 
+
+gen the netherlands for visual representation and interpretation
+
+of treatment effects we conducted a ca across all samples and
+
+separate cas for the two harvests all with block as co variable a
+
+second ca across all samples was conducted without block as
+
+co variable and ordination axes sample scores were extracted and
+
+used as explaining variable in subsequent general linear models
+
+ glm see below after an initial global permutation test includ 
+
+ing all explaining variables main effects of substrate type s 
+
+placement depth p and incubation time t and all interaction
+
+terms on fungal community composition were evaluated for signif 
+
+icance a � in a canonical correspondence analysis cca 
+with forward stepwise selection block as co variable monte
+
+carlo permutations conditioned upon block and p values
+
+adjusted using fdr false discovery rate adjustment to avoid
+
+an over specified model once a single level of a factor was demon 
+
+strated to differ significantly from the others all levels of that fac 
+
+tor were included in the statistical model in all cas and the
+
+cca fungal community data were log transformed and lowly
+
+abundant species down weighted 
+
+effects of substrate placement and time including all factorial
+
+interactions on respiration mass loss c n ratio and n content
+
+were evaluated in a glm using sas statistical analysis sys 
+
+tem institute cary nc usa the dependent variables were
+
+log respiration mass loss n content or square root c n
+
+ratio transformed and block was included as a random factor 
+
+to test whether the effect of placement depth was primarily
+
+caused by differences in fungal community composition the glm
+
+was repeated with ca axis sample scores as explanatory variable
+
+ replacing placement in the model in this way variation in fun 
+
+gal community composition was expressed as a single continuous
+
+variable allowing estimation of community effects on mass loss 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+ i t m b€odeker et al 
+
+http scata mykopat slu se 
+https unite ut ee 
+https unite ut ee 
+
+
+respiration and n content tukey’s hsd post hoc test was used to
+
+evaluate glm results before glm fittings multicollinearity
+
+among predictors s p and t levels treated numerically and the
+
+first four ca axes were inspected by pairwise correlations
+
+ table s supporting information and by collinearity diagnostics
+
+ variance inflation factors in the reg procedure in sas place 
+
+ment depth and ca axis sample scores displayed high degree of
+
+collinearity in all models 
+
+results
+
+after months of incubation in the field all substrates
+
+were visually similar to the original material but after
+
+ months litter substrates showed clear signs of decom 
+
+position litter substrates were fragmented whereas
+
+humus substrates were visually unchanged after
+
+ months all substrates were clearly colonized by dense
+
+fungal mycelium 
+
+a global permutation test of community composition in
+
+the samples with block as co variable showed that all
+
+explanatory variables together explained � of total
+variation total inertia � first axis pseudo f � 
+all axes pseudo f � p � for both a global
+cca with forward selection of explanatory variables iden 
+
+tified placement in the humus layer f � � of
+explained variation and humus as substrate f � 
+ � as the factors explaining most of the variation in
+the composition of fungal communities incubation dura 
+
+tion f � � and interaction terms explained
+additional variation f � – � � – � all effects
+were significant at adjusted p � 
+the ca across all samples with block as co variable 
+
+fig s supporting information and the cas for each
+
+time point individually with block as co variable fig 
+
+gave similar sample and species plots in line with the glo 
+
+bal cca the sample plots showed that fungal communi 
+
+ties clearly depended on the vertical placement fig a c 
+
+largely samples were organized along axis with those
+
+incubated in the litter layers clearly separated from those
+
+incubated in the humus layer thus litter samples incu 
+
+bated in the humus layer were colonized by a fungal com 
+
+munity similar to that found in humus controls humus in
+
+humus layer vice versa humus samples incubated on the
+
+surface were colonized by fungal communities that were
+
+similar to those in litter controls fig a c axis largely
+
+correlated with substrate type 
+
+the species plot based on the same cas fig b d 
+
+showed that the fungal community specific to humus i e 
+
+humus incubated in humus mostly consisted of root asso 
+
+ciated taxa piloderma sphaerosporum otu oidiodendron
+
+sp otu meliniomyces variabilis otu helotiales
+
+sp otu as well as geomyces auratus otu of uncer 
+
+tain ecology and several opportunistic moulds and putative
+
+yeasts hypocrea fomiticola otu umbellopsis isabellina
+
+ otu and syzygospora effibulata otu 
+
+fungal communities in the two litter types overlapped
+
+and shifted gradually from a community typical of litter 
+
+ litter incubated in litter layer fig mainly
+
+consisting of litter saprotrophs capnodiales sp otu 
+
+pleosporales sp otu mycena metata otu cylin 
+
+drosympodium sp otu and several unknown asco 
+
+mycetes towards a saprotrophic community more typical
+
+to litter infundichalara minuta otu sarcosomataceae
+
+sp otu mycena cinerella otu luellia recondita
+
+ otu the litter communities showed the highest rela 
+
+tive abundance of opportunistic moulds particularly peni 
+
+cillium penicillioides otu cladosporium sp otu 
+
+penicillium sp otu penicillium sp otu and
+
+hypocrea sp otu fig b d however the latter two
+
+moulds and penicillium spinulosum otu were present in
+
+the majority – out of of the samples 
+the time effect in the global cca was caused by a gen 
+
+eral shift in the fungal community composition from domi 
+
+nance of opportunistic saprotrophic moulds and yeasts
+
+after months to communities with larger contributions
+
+of litter saprotrophs and root associated fungi at the end
+
+of the experiment figs and after months oppor 
+
+tunistic moulds and yeasts together accounted for – 
+of the dna amplicons in all sample types except in litter
+
+ substrates placed in the litter horizon where these spe 
+
+cies accounted for fig after months the rela 
+
+tive abundance of moulds and yeasts had decreased to
+
+ except in litter incubated in humus and humus
+incubated in either humus or litter layers where their
+
+abundance remained higher 
+
+the abundant ectomycorrhizal fungus tylospora fibril 
+
+losa otu was found in humus substrates at all place 
+
+ments already after the first months and increased its
+
+relative abundance from to in humus substrates
+
+placed in the litter layer over the second growing season
+
+ figs and another abundant ectomycorrhizal spe 
+
+cies piloderma sphaerosporum was found in humus sub 
+
+strates placed into humus and litter layers already after
+
+the first growing season fig however after the sec 
+
+ond season this species also colonized humus substrates
+
+placed into the uppermost litter layer and increased in
+
+relative abundance in humus placed in litter layers the
+
+proliferation of the ectomycorrhizal p sphaerosporum 
+
+t fibrillosa amphinema byssoides otu and pilo 
+
+derma sp otu as well as an unknown auriculari 
+
+ales implied that communities in humus substrates
+
+incubated in litter layers gradually diverged from the
+
+indigenous litter communities and with time became more
+
+similar to the native humus communities fig c several
+
+other ectomycorrhizal species also showed preference for
+
+humus substrates even when incubated in the litter hori 
+
+zons amanita porphyrina otu piloderma fallax
+
+ otu tomentella stuposa otu piloderma sp 
+
+ otu tomentella terrestris otu thelephoraceae
+
+sp otu suillus variegatus otu tomentellopsis
+
+echinospora otu or preferred both litter and
+
+humus substrates particularly when incubated in the litter
+
+layers piloderma sp otu piloderma byssinum
+
+ otu amphinema byssoides amphinema sp 
+
+ otu 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+mycorrhizal and saprotrophic fungal guilds 
+
+
+
+after the first growing season the litter decomposing
+
+basidiomycete mycena galopus was found in litter sub 
+
+strates incubated in the litter layer only with an average
+
+relative amplicon abundance of about fig b how 
+
+ever after the second growing season this species also col 
+
+onized litter substrates incubated in litter and humus
+
+layers fig d after months m galopus was the
+
+second most abundant species relative abundance 
+
+after penicillium otu in litter substrates incubated in
+
+the humus layer and communities gradually became more
+
+similar to native litter communities figs and in
+
+total we identified eight mycena species which all showed
+
+preference for either one or both of the litter substrates 
+
+and generally increased in relative abundance over the
+
+ 
+
+ oidiodendron
+ 
+
+ 
+
+ 
+
+ 
+
+ tylospora fibrillosa
+
+ piloderma sphaerosporum
+
+ piloderma
+
+ amphinema 
+byssoides
+
+ 
+
+ helotiales
+
+ 
+
+ penicillium
+
+ penicillium 
+spinulosum
+
+ hypocrea
+ 
+
+ 
+ hypocrea 
+atroviridis
+
+ hypocrea 
+fomiticola 
+
+ 
+
+ 
+
+ infundichalara minuta
+
+ infundichalara
+
+ 
+
+ 
+
+ capno 
+diales
+
+ 
+
+ 
+
+ 
+
+ 
+
+ hyaloscyphaceae
+
+ 
+
+ 
+
+ hymeno 
+scyphus 
+epiphyllus
+
+ mycena cinerella
+ luellia 
+recondita
+
+ mycena galopus
+
+ mycena 
+metata
+
+ auriculariales
+
+ 
+
+ 
+
+ geomyces 
+auratus
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+samples 
+
+litter in litter 
+
+litter in litter 
+
+litter in humus
+
+litter in litter 
+
+litter in litter 
+
+litter in humus
+
+humus in litter 
+
+humus in litter 
+
+humus in humus
+
+c
+a 
+
+ax
+is
+
+ 
+
+functional guilds 
+
+root symbionts
+
+litter saprotrophs
+
+moulds and yeasts
+
+unknown ecologyc
+a 
+
+ax
+is
+
+ 
+
+ca axis ca axis 
+
+ a 
+
+ c d 
+
+ b 
+ phialocephala
+
+ 
+
+ oidiodendron
+
+ helotiales
+
+ hypocrea fomiticola
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ geomyces 
+auratus
+
+ 
+
+ 
+
+ 
+
+ piloderma 
+sphaerosporum
+
+ tylospora fibrillosa
+
+ 
+
+ 
+
+ 
+
+ penicillium
+
+ penicillium 
+spinulosum
+
+ hypocrea
+
+ 
+ 
+
+ hypocrea 
+atroviridis 
+
+ 
+
+ infundichalara minuta
+
+ 
+
+ chalara longipes
+
+ capno 
+diales
+
+ 
+
+ 
+
+ pleo 
+sporales
+
+ luellia 
+recondita
+
+ mycena galopus
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ · 
+
+relative abundance 
+
+fig sample a and c and species b and d plots based on the two first axes derived from correspondence analyses cas of fungal
+
+communities in substrates incubated for four a and b or c and d months in a boreal forest species composition data were derived
+
+from pyrosequencing of fungal its amplicons and block was included as co variable in both cas the first and second ca axes
+
+accounted for � and � after months a and b and � and � after months c and d in sample plots a and c substrates
+were recently abscised litter circles and partly decomposed coniferous litter litter triangles and humus humus squares substrates
+
+were incubated in the three corresponding horizons at the surface litter white just above the f horizon litter grey and in the
+
+humus layer black the dashed ovals enclose control samples i e substrates incubated in their native horizon in species plots b and d 
+
+the species with largest weight in each ca are shown areas of circles are proportional to the relative abundances of species across all
+
+samples in each ca and colours designate supposed functional guild numbers identify all otus which are further specified in tables s 
+
+and s 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+ i t m b€odeker et al 
+
+
+
+incubation period the basidiomycete luellia recondita
+
+ otu – another abundant saprotrophic species in the
+system – increased strongly in abundance over the experi 
+ment and colonized all substrates except when incubated
+
+in the humus figs and 
+
+the competitive balance between free living saprotrophs
+
+and root associated fungi – as indicated by the ratio
+between amplicon abundances of the two groups –
+depended on substrate quality placement depth and
+
+incubation time fig in fresh litter substrates sapro 
+
+trophic fungi generally dominated communities but their
+
+dominance declined in more decomposed litter sub 
+
+strates and humus substrates were generally dominated by
+
+root associated fungi however placement in humus
+
+favoured root associated fungi over litter saprotrophs
+
+compared to placement in litter layers regardless of sub 
+
+strate fig 
+
+as expected both substrate type s f and incu 
+bation time t f strongly affected mass loss with
+mass changes over time depending on substrate type
+
+ s t f � p � for all the largest mass loss
+was observed for fresh litter litter while mass loss of
+
+the humus samples was marginal fig a placement
+
+depth also affected mass loss p f � p � with
+a generally lower mass loss of samples placed in the humus
+
+layer however there was a significant three way interac 
+
+tion s t p f � p � with the negative
+effect of placement in the humus layer being largest for lit 
+
+ter substrates at the first harvest full model r � 
+f � p � when placement was replaced by
+
+l l l l h hl l l l h hl l l l h h
+r
+
+el
+at
+
+iv
+e 
+
+ab
+un
+
+da
+nc
+
+e 
+of
+
+ fu
+ng
+
+al
+ g
+
+ro
+up
+
+s
+ 
+
+ o
+f t
+
+ot
+al
+
+ a
+m
+
+pl
+ic
+
+on
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unidentified fungi
+unknown function ascomycota
+unknown function basidiomycota
+saprotrophic zygomycota moulds
+saprotrophic ascomycota moulds
+
+saprotrophic ascomycota litter
+saprotrophic basidiomycota yeasts
+saprotrophic basidiomycota litter
+root associated ascomycota
+root associated basidiomycota
+
+incubation 
+
+placement 
+substrate l l h l hl 
+
+ months months
+
+fig relative abundance of fungal
+
+groups of total amplicons as deter 
+
+mined by sequencing of fungal its
+
+amplicons from natural organic substrates
+
+incubated for four or months in organic
+
+horizons of a boreal forest the substrates 
+
+recently abscised coniferous litter l 
+
+partly decomposed coniferous litter l 
+
+and humus h were placed at the surface
+
+ l above the f horizon l and in the
+
+humus layer h in a fully factorial design 
+
+the most abundant out of a total of
+
+ fungal taxonomic units were identified
+
+at least to fungal division and if possible
+
+assigned to functional guilds covering –
+ of the total reads per sample type all
+
+data are means n 
+
+l l h l l h l l h l l h l l h l l h
+
+lo
+g 
+
+ 
+ s
+
+ap
+ro
+
+tro
+ph
+
+ic
+ ro
+
+ot
+ a
+
+ss
+oc
+
+ia
+te
+
+d 
+fu
+
+ng
+i 
+
+– 
+
+– 
+
+– 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incubation 
+
+placement 
+substrate l l h l hl 
+
+ months months
+
+fig ratio between its amplicon abun 
+
+dances of litter saprotrophic fungi exclud 
+
+ing moulds and yeasts and root associated
+
+fungi in organic substrates after and
+
+ month of incubation in organic horizons
+
+of a boreal forest the substrates recently
+
+abscised coniferous litter l partly
+
+decomposed coniferous litter l and
+
+humus h were placed at the surface l 
+
+above the f horizon l and in the humus
+
+layer h in a fully factorial design broken
+
+line indicates equal abundances of the two
+
+functional groups bars indicate confi 
+
+dence intervals n 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+mycorrhizal and saprotrophic fungal guilds 
+
+
+
+ca axis sample scores in the statistical model ca axis 
+
+was negatively correlated with mass loss f � 
+p � as fungi typically found in the humus layer
+caused lower mass loss than litter communities and the
+
+effect of ca axis interacted with time f � 
+p � with the effect being strongest at the first har 
+vest full model r � f p � 
+microbial respiration from humus substrates was
+
+always marginal fig b as this may have been caused
+
+by severed root connections humus samples were not
+
+included in further statistical analysis of respiration activ 
+
+ities for litter samples we found the expected significant
+
+effect of substrate with overall higher respiration from
+
+litter than from litter substrates s f � 
+p � however this effect was only significant at
+the second harvest as respiration from litter samples
+
+increased with incubation time s t f � 
+p � placement depth also affected respiration
+ f � p � with the highest respiration
+obtained from samples placed on the surface as
+
+compared to samples placed in the humus layer fig b 
+
+ full model r � f � p � when ca
+axis sample scores were used instead of placement in
+
+the model ca axis correlated negatively with respira 
+
+tion linked to higher respiration by litter layer communi 
+
+ties than by humus layer communities f � 
+p � however ca axis interacted with time
+ f � p � with the correlation being strongest
+at the first harvest full model r � f � 
+p � 
+the c n ratio of the organic matter in the bags
+
+strongly depended on substrate f with highest
+c n ratio of litter and lowest c n ratio of humus
+
+ fig a placement depth also affected c n ratios
+
+ f � as litter substrates placed in the humus layer
+had higher c n ratios than when placed in the litter lay 
+
+ers s p f � p � for all the c n ratio
+decreased with incubation time f � p � 
+
+m
+as
+
+s 
+re
+
+m
+ai
+
+ni
+ng
+
+ 
+ o
+
+f i
+ni
+
+tia
+l m
+
+as
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+p l p l p h p l p l p h p l p l p h
+
+r
+es
+
+pi
+ra
+
+tio
+n 
+
+ n
+m
+
+ol
+ c
+
+o
+ 
+
+s–
+ 
+
+g 
+d
+
+w
+– 
+
+ 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+s l s l s h
+
+ months
+ months
+
+ a 
+
+ b 
+
+fig mass remaining a and respiration b of natural organic
+
+substrates after incubation for or months in three organic
+
+horizons of a boreal forest the substrates recently abscised conif 
+
+erous litter s l partly decomposed coniferous litter s l and
+
+humus s h were placed at the surface p l above the f hori 
+
+zon p l and in the humus layer p h in a fully factorial
+
+design all data are means � se n 
+
+c
+ 
+
+n
+ ra
+
+tio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+p l p l p h p l p l p h p l p l p h
+
+n
+ m
+
+as
+s 
+
+ 
+ o
+
+f i
+ni
+
+tia
+l n
+
+ m
+as
+
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s l s l s h
+
+ months
+ months
+
+ a 
+
+ b 
+
+fig carbon c to nitrogen n ratio a and n mass remain 
+
+ing b in natural organic substrates after incubation for or
+
+ months in organic horizons of a boreal forest the substrates 
+
+recently abscised coniferous litter s l partly decomposed
+
+coniferous litter s l and humus s h were placed at the sur 
+
+face p l above the f horizon p l and in the humus layer
+
+ p h in a fully factorial design all data are means � se n 
+broken lines indicate initial levels 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+ i t m b€odeker et al 
+
+
+
+however the decrease was only significant in litter sub 
+
+strates t s f � p � and only when placed
+in litter or humus layers t s p f � 
+p � full model r � f � p � 
+when ca axis sample scores were used instead of place 
+
+ment in the model axis correlated positively with c n
+
+ratio f � p � and interacted with the other
+factors in a manner similar to placement full model 
+
+r � f � p � 
+nitrogen losses as expressed in relation to initial n con 
+
+tent in the bags fig b overall increased with increasing
+
+incubation time t f � p � and were signifi 
+cantly higher in litter than in humus substrates s 
+
+f � p � but n losses with time were only sig 
+nificant in the litter substrates t s f � 
+p � nitrogen losses from litter were higher when
+placed in humus than when placed in litter layers s p 
+
+f � p � full model r � f � 
+p � when ca axis replaced placement depth it
+interacted negatively with substrate f � p � 
+similarly to the effect of s p in the former model as lit 
+
+ter substrates colonized by humus communities had
+
+lower n mass than when colonized by litter communities 
+
+other effects remained similar in this model r � 
+f � p � 
+
+discussion
+
+compet it ion re inforces vert ical substrate 
+
+dependent part it ion ing of saprotrophic
+
+versus mycorrhizal fungal gu ilds
+
+in this field experiment we investigated the fundamental
+
+and realized capacities of saprotrophic and root associated
+
+fungal communities to explore and exploit organic matter
+
+of different qualities this was achieved by placing natural
+
+organic substrates of different qualities into distinct hori 
+
+zons of the organic soil profile of a boreal forest after the
+
+first growing season the substrates were primarily colo 
+
+nized by the fungal community native to each horizon 
+
+irrespectively of their quality substrates placed in the sur 
+
+face litter layers were colonized by free living saprotrophs 
+
+whereas substrates placed into the humus layer were colo 
+
+nized by mycorrhizal and other root associated fungi 
+
+within litter layers there was a clear succession of species
+
+from the surface to the more degraded litter just above the
+
+f horizon this vertical distribution of fungal communities
+
+generally mirrored that typical for boreal forest soils lin 
+
+dahl et al clemmensen et al thus the inher 
+
+ent vertical stratification of fungal communities in the soil
+
+profile appeared to have partly overridden effects of sub 
+
+strate quality on fungal communities in the bags this
+
+result demonstrates the potential of both fungal guilds to
+
+colonize all substrates and suggests that their colonization
+
+under natural circumstances is restricted by competitive
+
+interactions after two growing seasons however sub 
+
+strate quality became a more important predictor of fungal
+
+community composition as certain members from each of
+
+the guilds were able to establish in their ‘native’ substrate
+
+although placed at the ‘wrong’ depth as a result the over 
+
+all variation in fungal communities during the course of
+
+the experiment was determined to similar degrees by place 
+
+ment into distinct soil layers of explained variation 
+
+and by substrate quality this confirms our first
+
+alternative hypothesis and indicates that interference com 
+
+petition and monopolization of spatial domains play a
+
+more important role in structuring fungal communities at
+
+small scales than previously thought the small distance
+
+ few cm among the soil layers in which substrates were
+
+incubated makes it unlikely that dispersal limitation peay 
+
+garbelotto bruns per se could have caused the
+
+effect of placement unless reinforced by interference
+
+competition in natural ectomycorrhiza dominated forest
+
+ecosystems preferred substrates and territorial distribution
+
+of these fungal guilds coincide and competition appears to
+
+reinforce niche separation by substrate and stabilize verti 
+
+cal community stratification 
+
+decomposer community composit ion and
+
+substrate qual ity exert independent
+
+controls on organic matter decomposit ion
+
+and n dynamics
+
+decomposition of the two litter substrates depended on
+
+their placement in the organic soil profile and after the
+
+first season more remained of litters placed in the humus
+
+layer than of litters placed in litter layers we used the first
+
+ordination axis from the ca to express variation in fungal
+
+communities as a single continuous variable this index
+
+explained similar proportions of total variation in decom 
+
+poser activities as vertical placement suggesting that the
+
+biotic component that is the fungal community composi 
+
+tion of vertical placement was the main determinant of
+
+decomposition activities rather than depth related differ 
+
+ences in abiotic factors such as moisture or temperature 
+
+this was further supported by the observation that both
+
+respiration and mass loss were unaffected by placement
+
+depth during the second growing season when fungal indi 
+
+viduals from each functional guild had colonized ‘their
+
+native’ substrates irrespective of placement our two indi 
+
+cators of decomposition activity showed similar patterns
+
+across samples with instantaneous respiration being
+
+indicative of longer term integrated mass loss hence in
+
+support of our second alternative hypothesis root asso 
+
+ciated fungi appeared to decompose litter substrates less
+
+efficiently than free living litter saprotrophs which is con 
+
+sistent with previous observations in axenic laboratory
+
+microcosms colpaert vantichelen 
+
+during evolution of current fungal diversity many root 
+
+associated fungi may partly have lost their capacity to pro 
+
+duce plant cell wall degrading enzymes while acquiring
+
+biotrophic capacities kohler et al this evolution
+
+could have concurred with their exclusion from substrates
+
+with high cellulose contents due to inferior competitive
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+mycorrhizal and saprotrophic fungal guilds 
+
+
+
+strength compared to free living saprotrophs in such sub 
+
+strates instead root associated fungi have a secured c
+
+supply from their hosts smith read and do not
+
+depend on an external source of c for energy and biomass
+
+production hence they may exploit organic substrates
+
+selectively for n and other nutrients read perez mor 
+
+eno talbot allison treseder b€odeker et al 
+
+ without necessarily causing mass loss as such our
+
+experiment provides evidence that root associated and
+
+saprotrophic fungal guilds affect n dynamics of decompos 
+
+ing organic matter differently – when litter was exposed
+to root associated fungal communities in humus layers n
+
+was lost from the substrate in contrast when litter sub 
+
+strates were colonized by their native fungal community 
+
+n appeared to be transported into the decomposing sub 
+
+strate at early stages of decomposition and was lost only
+
+after the second growing season such pattern has been
+
+observed in other studies of c and n dynamics in decom 
+
+posing litters staaf berg boberg et al and
+
+our data support that it could be caused by the allocation
+
+of n by saprotrophic fungi from older litter substrates to
+
+newly fallen litter with a surplus of available c further 
+
+more mycelial reallocation of n between substrates of dif 
+
+ferent qualities may have stimulated decomposition
+
+activities in the early phases boberg et al these
+
+observations are consistent with the presence of a ‘gadgil
+
+effect’ leading to deprived saprotrophic litter decomposi 
+
+tion caused by mycorrhizal competition for n gadgil 
+
+gadgil at least during the early litter decom 
+
+position phases 
+
+manipulation of location and consequently of fungal
+
+communities did not have major influences on decomposi 
+
+tion and n dynamics of humus substrates and our experi 
+
+ment suggests that in this system neither root associated
+
+fungi nor free living saprotrophs were particularly efficient
+
+humus decomposers and humus accumulation seems to
+
+have been more driven by low quality than by limited
+
+access by decomposer communities thus given its stabil 
+
+ity longer incubation times may be needed to evaluate
+
+community effects on mass loss and nutrient dynamics of
+
+humus substrates and based on the present study we can 
+
+not resolve whether competitive interactions between fun 
+
+gal guilds such as the gadgil effect are important for
+
+long term soil c storage as suggested by earlier theoretical
+
+ orwin et al and data driven analyses averill 
+
+turner finzi nonetheless taken together our
+
+experiment provides evidence in line with recent ideas
+
+ hattenschwiler tiunov scheu schmidt et al 
+
+ that organic matter quality is not the only factor
+
+structuring communities and activities of decomposer
+
+organisms and corresponding effects on c and n turnover 
+
+bas id iomycetes of both fungal guilds br idge
+
+heterogeneous substrates
+
+after the second harvest litters were almost equally
+
+decomposed irrespective of whether incubated in the
+
+humus or in litter layers in spite of the slower decomposi 
+
+tion during the beginning of the experiment and the appar 
+
+ent differences in n dynamics at this time a recognized
+
+saprotrophic litter decomposer mycena galopus had suc 
+
+ceeded to colonize all replicates of litter containing bags
+
+placed in the humus and the presence and activity of this
+
+species may explain the high decomposer activity observed
+
+after months of incubation mycena species were earlier
+
+observed to be efficient in vertical exploration and translo 
+
+cation of resources frey et al frey six elliott
+
+ boberg et al furthermore after the second
+
+growing season the ectomycorrhizal fungi tylospora fibril 
+
+losa and piloderma sphaerosporum as well as several species
+
+of lower abundance managed to locate and proliferate in
+
+humus substrates even when placed in the litter layers 
+
+thus ectomycorrhizal fungi supported by host derived c 
+
+may be superior competitors for humus substrates depleted
+
+in high quality c substrates these findings further support
+
+that substrate quality strongly influences the longer term
+
+competitive outcome between saprotrophic and mycor 
+
+rhizal fungal guilds reinforcing their vertical stratification
+
+in natural forest soils furthermore different ectomycor 
+
+rhizal fungi showed clearly different colonization patterns
+
+depending on both substrate quality and the depth at
+
+which the substrates were incubated this probably reflects
+
+vertical niche separation within ectomycorrhizal fungal
+
+communities and substrate dependent competitive out 
+
+comes between ectomycorrhizal fungi taylor et al 
+
+mujic et al much like we find at the fungal guild
+
+level in the present study these observations also suggest
+
+that basidiomycetes regardless of ecological strategy are
+
+better adapted to spatially explore and allocate resources
+
+in a heterogonous environment boddy lindahl 
+
+olsson than ascomycetes which largely followed
+
+placement depth in the present experiment 
+
+disturbances favour opportunist ic yeasts
+
+and moulds
+
+particularly after the first growing season there was a sub 
+
+stantial colonization of all substrates by opportunistic
+
+saprotrophs these fungi are normally present only at low
+
+abundance in undisturbed forest soils but may proliferate
+
+after disturbances lindahl de boer finlay clem 
+
+mensen et al their relative abundance decreased
+
+over the course of the second growing season and this
+
+transient colonization by opportunists was probably a
+
+response to the sudden availability of un colonized sub 
+
+strate with high concentration of low molecular weight
+
+compounds released during the substrate preparation and
+
+sterilization process even humus substrates lost about 
+
+of initial mass during the first growing season indepen 
+
+dently of incubation depth presumably corresponding to a
+
+pool of easily degradable substrates locked up in micro 
+
+biota or deposited in inaccessible microsites before initial
+
+substrate collection interestingly each horizon appeared
+
+to have a distinct set of opportunists colonizing the new
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+ i t m b€odeker et al 
+
+
+
+substrates suggesting that these communities are ecologi 
+
+cally relevant after disturbances in the system the litter
+
+bag approach has been promoted as a more realistic alter 
+
+native than laboratory experiments for decomposition
+
+studies however it is important to recognize that any dis 
+
+turbances tend to favour opportunistic r strategic micro 
+
+organisms over k strategic organisms potentially affecting
+
+processes 
+
+ecosystem scale consequences
+
+our study highlights that the two major fungal guilds in
+
+the boreal forest – free living saprotrophs and root asso 
+ciated fungi – have overlapping fundamental niches but
+differ with respect to their decomposition capacity thus 
+
+environmental changes influencing the competitive balance
+
+between these fungal guilds may shift their realized niches 
+
+potentially affecting decomposition on the ecosystem scale 
+
+increased c allocation to root associated fungi due to
+
+increased photosynthesis and or in response to plant nutri 
+
+ent deficiency may render root associated fungi more com 
+
+petitive expanding their territory into fresher resources at
+
+the expense of free living saprotrophs potentially decreas 
+
+ing litter mass loss c f averill turner finzi 
+
+however it should be recognized that some ectomycor 
+
+rhizal fungi in nutrient poor forests for example cortinar 
+
+ius spp may actively participate in decomposition of
+
+recalcitrant organic matter by producing oxidative
+
+enzymes b€odeker et al therefore it is not
+
+possible to draw general conclusions about decomposer
+
+capacity across all ectomycorrhizal fungi as they are likely
+
+to vary greatly in their capacities for producing various
+
+enzymes the present study performed in a relatively
+
+nutrient rich boreal forest with only one cortinarius sp 
+
+among identified species points in the direction that envi 
+
+ronmental changes that favour root associated fungi such
+
+as elevated co treseder would lead to increased
+
+c sequestration from plant litter in the soil orwin et al 
+
+ contrastingly in line with gadgil gadgil 
+
+environmental changes that disfavour root associated
+
+fungi and favour free living saprotrophs such as clear 
+
+cutting would stimulate loss of soil c due to eliminated
+
+influence by root associated fungi 
+
+acknowledgements
+
+this project was funded by the swedish university of agricultural sciences
+
+and formas we gratefully acknowledge bengt s€oderstr€om and g€osta
+
+hedberg for providing the study site rena gadjieva for sample processing
+
+of the second harvest and gosha sylvester at university of copenhagen
+
+for help with the cn analyses 
+
+data accessibility
+
+raw sequencing data are deposited at the sequence read archive under
+
+accession number srp www ncbi nlm nih gov sra identifications 
+
+functional assignments cluster representative sequences and quantifications
+
+of all fungal otus are uploaded as tables s and s raw data mass loss 
+
+respiration n c n ratio and ca axes – sample scores and predictor
+pairwise correlations are given in tables s and s 
+
+references
+
+aerts r the advantage of being evergreen trends in ecology 
+
+evolution – 
+�agren g i hyvonen r nilsson t are swedish forest soils
+
+sinks or sources for co – model analyses based on forest inventory
+data biogeochemistry – 
+
+averill c turner b l finzi a c mycorrhiza mediated compe 
+
+tition between plants and decomposers drives soil carbon storage nat 
+
+ure – 
+bending g d read d j the structure and function of the vege 
+
+tative mycelium of ectomycorrhizal plants v foraging behaviour and
+
+translocation of nutrients from exploited litter new phytologist 
+
+ – 
+boberg j b finlay r d stenlid j ekblad a lindahl b d 
+
+nitrogen and carbon reallocation in fungal mycelia during decomposi 
+
+tion of boreal forest litter plos one e 
+
+boddy l saprotrophic cord forming fungi meeting the challenge
+
+of heterogeneous environments mycologia – 
+boddy l interspecific combative interactions between wood decay 
+
+ing basidiomycetes fems microbiology ecology – 
+b€odeker i t m nygren c m r taylor a f s olson a lindahl 
+
+b d classii peroxidase encoding genes are present in a phyloge 
+
+netically wide range of ectomycorrhizal fungi isme journal –
+ 
+
+b€odeker i t m clemmensen k e de boer w martin f olson �a 
+
+lindahl b d ectomycorrhizal cortinarius species participate in
+
+enzymatic oxidation of humus in northern forest ecosystems new phy 
+
+tologist – 
+clemmensen k e bahr a ovaskainen o dahlberg a ekblad a 
+
+wallander h et al roots and associated fungi drive long term
+
+carbon sequestration in boreal forest science – 
+clemmensen k e finlay r d dahlberg a stenlid j wardle d a 
+
+lindahl b d carbon sequestration is related to mycorrhizal fun 
+
+gal community shifts during long term succession in boresl forests new
+
+phytologist – 
+colpaert j v vantichelen k k decomposition nitrogen and
+
+phosphorus mineralization from beech leaf litter colonized by ectomyc 
+
+orrhizal or litter decomposing basidiomycetes new phytologist 
+
+ – 
+conn c dighton j litter quality influences on decom 
+
+position ectomycorrhizal community structure and mycorrhizal root
+
+surface acid phosphatase activity soil biology biochemistry 
+
+ – 
+cornwell w k cornelissen j h c amatangelo k dorrepaal e evi 
+
+ner v t godoy o et al plant species traits are the predomi 
+
+nant control on litter decomposition rates within biomes worldwide 
+
+ecology letters – 
+entry j a donnelly p k cromack k influence of ectomycor 
+
+rhizal mat soils on lignin and cellulose degradation biology and fertility
+
+of soils – 
+fernandez c w kennedy p g revisiting the ‘gadgil effect’ do
+
+interguild fungal interactions control carbon cycling in forest soils the
+
+new phytologist – 
+frey s d six j elliott e t reciprocal transfer of carbon and
+
+nitrogen by decomposer fungi at the soil litter interface soil biology 
+
+biochemistry – 
+frey s d elliott e t paustian k peterson g a fungal
+
+translocation as a mechanism for soil nitrogen inputs to surface residue
+
+decomposition in a no tillage agroecosystem soil biology biochem 
+
+istry – 
+gadgil r l gadgil p d mycorrhiza and litter decomposition 
+
+nature 
+
+gadgil r l gadgil p d suppression of litter decomposition by
+
+mycorrhizal roots of pinus radiata new zealand journal of forestry
+
+science – 
+hattenschwiler s tiunov a v scheu s biodiversity and litter
+
+decomposition interrestrial ecosystems annual review of ecology evolu 
+
+tion and systematics – 
+hobbie e a horton t r evidence that saprotrophic fungi
+
+mobilise carbon and mycorrhizal fungi mobilise nitrogen during litter
+
+decomposition new phytologist – 
+hobbie s e reich p b oleksyn j ogdahl m zytkowiak r hale 
+
+c et al tree species effects on decomposition and forest floor
+
+dynamics in a common garden ecology – 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+mycorrhizal and saprotrophic fungal guilds 
+
+http www ncbi nlm nih gov sra
+
+
+ihrmark k b€odeker i cruz martinez k friberg h kubartova a 
+
+schenck j et al new primers to amplify the fungal its region
+
+– evaluation by sequencing of artificial and natural communities 
+fems microbiology ecology – 
+
+keddy p a competition nd edn population and community
+
+biology series kluwer dordrecht the netherlands 
+
+kennedy p ectomycorrhizal fungi and interspecific competition 
+
+species interactions community structure coexistence mechanisms and
+
+future research directions new phytologist – 
+knicker h stabilization of n compounds in soil and organic mat 
+
+ter rich sediments – what is the difference marine chemistry –
+ 
+
+kohler a kuo a nagy l g morin e barry k w buscot f et al 
+
+ convergent losses of decay mechanisms and rapid turnover of
+
+symbiosis genes in mycorrhizal mutualists nature genetics – 
+koide r t wu t ectomycorrhizas and retarded decomposition
+
+in a pinus resinosa plantation new phytologist – 
+koide r t sharda j n herr j r malcolm g m ectomycor 
+
+rhizal fungi and the biotrophy–saprotrophy continuum new phytologist 
+ – 
+
+k oljalg u nilsson r h abarenkov k tedersoo l taylor a f s 
+
+bahram m et al towards a unified paradigm for sequence 
+
+based identification of fungi molecular ecology – 
+leake j r donnelly d p saunders e m boddy l read d j 
+
+ rates and quantities of carbon flux to ectomycorrhizal mycelium
+
+following c pulse labeling of pinus sylvestris seedlings effects of litter
+
+patches and interaction with a wood decomposer fungus tree physiol 
+
+ogy – 
+lindahl b d de boer w finlay r d disruption of root car 
+
+bon transport into forest humus stimulates fungal opportunists at the
+
+expense of mycorrhizal fungi isme journal – 
+lindahl b d olsson s fungal translocation – creating and
+
+responding to environmental heterogeneity the mycologist – 
+lindahl b stenlid j finlay r effects of resource availability
+
+on mycelial interactions and p transfer between a saprotrophic and
+
+an ectomycorrhizal fungus in soil microcosms fems microbiology ecol 
+
+ogy – 
+lindahl b d tunlid a ectomycorrhizal fungi – potential
+
+organic matter decomposers yet not saprotrophs new phytologist 
+
+ – 
+lindahl b stenlid j olsson s finlay r translocation of
+
+p between interacting mycelia of a wood decomposing fungus and
+
+ectomycorrhizal fungi in microcosm systems new phytologist –
+ 
+
+lindahl b d ihrmark k boberg j trumbore s e h€ogberg p sten 
+
+lid j et al spatial separation of litter decomposition and mycor 
+
+rhizal nitrogen uptake in a boreal forest new phytologist – 
+mayor j r henkel t w do ectomycorrhizas alter leaf litter
+
+decomposition in monodominant tropical forests of guyana new phy 
+
+tologist – 
+mujic a b durall d m spatafora j w kennedy p g com 
+
+petitive avoidance not edaphic specialization drives vertical niche parti 
+
+tioning among sister species of ectomycorrhizal fungi new phytologist 
+
+ – 
+myneni r b dong j tucker c j kaufmann r k kauppi p e 
+
+liski j et al a large carbon sink in the woody biomass of
+
+northern forests proceedings of the national academy of sciences of the
+
+united states of america – 
+northup r r yu z dahlgren r a vogt k a polyphenol
+
+control of nitrogen release from pine litter nature – 
+orwin k h kirschbaum m u f st john m g dickie i a 
+
+ organic nutrient uptake by mycorrhizal fungi enhances
+
+ecosystem carbon storage a model based assessment ecology letters 
+
+ – 
+peay k g garbelotto m bruns t d evidence of dispersal
+
+limitation in soil microorganisms isolation reduces species richness on
+
+mycorrhizal tree islands ecology – 
+read d j mycorrhizas in ecosystems experimenta – 
+read d j perez moreno j mycorrhizas and nutrient cycling in
+
+ecosystems – a journey towards relevance new phytologist –
+ 
+
+schlesinger w h andrews j a soil respiration and the global
+
+carbon cycle biogeochemistry – 
+schmidt m w i torn m s abiven s dittmar t guggenberger g 
+
+janssens i a et al persistence of soil organic matter as an
+
+ecosystem property nature – 
+setala h mclean m a decomposition rate of organic sub 
+
+strates in relation to the species diversity of soil saprophytic fungi 
+
+oecologia – 
+smith s e read d j mycorrhizal symbiosis rd edn academic
+
+press cambridge uk 
+
+staaf h berg b accumulation and release of plant nutrients in
+
+decomposing scots pine needle litter – long term decomposition in a
+scots pine forest canadian journal of botany – 
+
+subke j a voke n r leronni v garnett m h ineson p 
+
+dynamics and pathways of autotrophic and heterotrophic soil co 
+efflux revealed by forest girdling journal of ecology – 
+
+talbot j m allison s d treseder k k decomposers in dis 
+
+guise mycorrhizal fungi as regulators of soil c dynamics in ecosystems
+
+under global change functional ecology – 
+tamm c o nitrogen in terrestrial habitats ecological studies 
+
+springer verlag berlin germany 
+
+taylor d l hollingsworth t n mcfarland j w lennon n j nus 
+
+baum c ruess r w a first comprehensive census of fungi in
+
+soil reveals both hyperdiversity and fine scale niche partitioning ecologi 
+
+cal monographs – 
+treseder k k a meta analysis of mycorrhizal responses to nitro 
+
+gen phosphorus and atmospheric co in field studies new phytologist 
+
+ – 
+white t j bruns t d lee s taylor j w innis m gelfand d et al 
+
+ amplification and direct sequencing of fungal ribosomal rna
+
+genes for phylogenetics pcr protocols a guide to methods and appli 
+
+cations eds m a innis d h gelfald j j sninsky t j white pp 
+
+ – academic press san diego ca usa 
+
+received october accepted march 
+
+handling editor kathleen treseder
+
+supporting information
+
+additional supporting information may be found online in the
+
+supporting information tab for this article 
+
+table s otu identifications functional assignments and repre 
+
+sentative sequences 
+
+table s otu by sample data table 
+
+table s sample mass loss respiration n c n ratio and ca
+
+axes – sample scores 
+
+table s pairwise correlations between predictors 
+
+fig s sample plot from a ca across all samples 
+
+© the authors functional ecology © british ecological society functional ecology – 
+
+ i t m b€odeker et al 
+
+
+

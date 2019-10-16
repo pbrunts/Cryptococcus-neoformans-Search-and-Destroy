@@ -1,0 +1,1923 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+taxonomic and functional responses of soil microbial communities to annual removal of aboveground plant biomass
+
+
+fmicb may time 
+
+original research
+published may 
+
+doi fmicb 
+
+edited by 
+suvendu das 
+
+gyeongsang national university 
+south korea
+
+reviewed by 
+weidong kong 
+
+institute of tibetan plateau research
+ cas china
+
+bobbi helgason 
+agriculture and agri food canada 
+
+canada
+minna männistö 
+
+natural resources institute finland
+ luke finland
+
+ correspondence 
+jizhong zhou
+jzhou ou edu
+
+†these authors have contributed
+equally to this work 
+
+specialty section 
+this article was submitted to
+
+terrestrial microbiology 
+a section of the journal
+
+frontiers in microbiology
+
+received february 
+accepted april 
+published may 
+
+citation 
+guo x zhou x hale l yuan m 
+
+feng j ning d shi z qin y liu f 
+wu l he z van nostrand jd 
+
+liu x luo y tiedje jm and zhou j
+ taxonomic and functional
+
+responses of soil microbial
+communities to annual removal
+of aboveground plant biomass 
+
+front microbiol 
+doi fmicb 
+
+taxonomic and functional
+responses of soil microbial
+communities to annual removal of
+aboveground plant biomass
+xue guo † xishu zhou † lauren hale mengting yuan jiajie feng 
+daliang ning zhou shi yujia qin feifei liu liyou wu zhili he 
+joy d van nostrand xueduan liu yiqi luo james m tiedje and
+jizhong zhou 
+
+ school of minerals processing and bioengineering central south university changsha china institute for environmental
+genomics university of oklahoma norman ok united states department of microbiology and plant biology university
+of oklahoma norman ok united states center for microbial ecology michigan state university east lansing mi 
+united states state key joint laboratory of environment simulation and pollution control school of environment 
+tsinghua university beijing china school of civil engineering and environmental sciences university of oklahoma 
+norman ok united states earth and environmental science lawrence berkeley national laboratory berkeley ca 
+united states
+
+clipping removal of aboveground plant biomass is an important issue in grassland
+ecology however few studies have focused on the effect of clipping on belowground
+microbial communities using integrated metagenomic technologies we examined the
+taxonomic and functional responses of soil microbial communities to annual clipping
+ – in a grassland ecosystem of the great plains of north america our results
+indicated that clipping significantly p increased root and microbial respiration
+rates annual temporal variation within the microbial communities was much greater
+than the significant changes introduced by clipping but cumulative effects of clipping
+were still observed in the long term scale the abundances of some bacterial and
+fungal lineages including actinobacteria and bacteroidetes were significantly p 
+changed by clipping clipping significantly p increased the abundances of
+labile carbon c degrading genes more importantly the abundances of recalcitrant
+c degrading genes were consistently and significantly p increased by clipping
+in the last years which could accelerate recalcitrant c degradation and weaken long 
+term soil carbon stability furthermore genes involved in nutrient cycling processes
+including nitrogen cycling and phosphorus utilization were also significantly increased
+by clipping the shifts of microbial communities were significantly correlated with soil
+respiration and plant productivity intriguingly clipping effects on microbial function may
+be highly regulated by precipitation at the interannual scale altogether our results
+illustrated the potential of soil microbial communities for increased soil organic matter
+decomposition under clipping land use practices 
+
+keywords clipping land use taxonomic and functional response microbial community metagenomics geochip
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org journals microbiology editorial board
+https www frontiersin org journals microbiology editorial board
+https doi org fmicb 
+http creativecommons org licenses by 
+https doi org fmicb 
+http crossmark crossref org dialog doi fmicb domain pdf date stamp 
+https www frontiersin org articles fmicb full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+introduction
+
+the grassland ecosystem is an important terrestrial c pool
+containing almost of earth’s organic matter schlesinger 
+ more than of which is stored belowground in the
+form of roots and soil organic matter som shahzad et al 
+ thus grasslands are potential c sinks in the context of
+increasing global atmospheric co concentration provided that
+they are properly managed lal et al li et al plant
+tissue removal via grazing mowing and clipping plant matter 
+is a central issue in land use practices and has been reported
+to change plant litter decomposition semmartin et al 
+klumpp et al biodiversity of plants ward et al wu
+et al and nutrient cycling garibaldi et al de faccio
+carvalho et al reduced plant coverage can also change the
+litter layer on the soil surface increase soil energy absorbed and
+emitted and amplify the diurnal soil temperature range wan
+et al in addition clipping can increase evaporation from
+soil and decrease transpiration of vegetation resulting in an
+unpredictable net effect on soil moisture zhang et al 
+
+as microbial communities play important roles in biogeo 
+chemical cycles of c nitrogen n phosphorus p and sulfur
+ s a mechanistic understanding of annual clipping effects
+on microbial community structure and function is crucial for
+a robust prediction of soil c stocks and fluxes under the
+context of land use practices zhang et al belay tedla
+et al however until now how microbial structure and
+function respond to clipping is poorly understood and remains
+controversial in many cases for example some previous studies
+reported that plant tissue removal can significantly reshape
+microbial community structure and function by increasing
+the ratio of oligotrophic to copiotrophic taxa fierer et al 
+ carey et al which was mainly associated with
+decreased plant photosynthesis reducing c supply to roots and
+belowground microbial communities craine et al bahn
+et al ingram et al however another study reported
+that little variations in microbial composition and diversity
+were observed under clipping treatment although removal of
+aboveground plant biomass can increase soil temperature while
+decreasing c and nutrient pools in an experimental semi arid
+grassland carey et al also it is uncertain how plant tissue
+removal affects n mineralization processes and consequently
+alters n availability for decomposition processes cheng et al 
+ in addition interacting environmental variations such
+as climate castro et al soil physical and chemical
+properties bell et al vegetation mitchell et al and
+substrate quantity and quality hernández and hobbie can
+significantly affect soil microbial communities which convolute
+the direct impacts of plant tissue removal therefore long term
+monitoring of taxonomic and functional shifts of soil microbial
+communities in response to annual clipping is necessary for
+a comprehensive understanding of the effects of plant tissue
+removal on soil microbial communities 
+
+the advances and applications of metagenomic technologies
+such as next generation sequencing and functional gene arrays
+ e g geochip have revolutionized our analysis of soil microbial
+communities caporaso et al shokralla et al 
+
+tu et al yue et al xue et al b high 
+throughput amplicon sequencing has been successfully used
+to analyze the diversity of soil microbial communities in
+forests nacke et al brown et al cong et al 
+ grasslands sheik et al farmland su et al 
+ and permafrost penton et al deng et al 
+ meanwhile the functional gene structure and functional
+potentials of soil microbial communities have been rapidly
+analyzed using functional gene arrays which are still quicker
+and less consumable for now than metagenomic shotgun
+sequencing especially for complex microbial communities liang
+et al yue et al therefore the complementarity
+in terms of experimental data and analysis between high 
+throughput sequencing and functional gene arrays allows us
+to comprehensively estimate the composition and functional
+structure of soil microbial communities 
+
+in this study we examined taxonomic and functional
+responses of grassland microbial communities to annual clipping
+in a native tall grass prairie ecosystem of the us great plains
+in central oklahoma latitude ◦ ′ n longitude ◦ ′ w 
+this multifactor climate change experiment was established in
+ with warming ◦c half precipitation − double
+precipitation clipping annual biomass removal and
+their combined treatments xu et al in this study we
+primarily focus on the clipping treatment and soil surface
+samples were collected in the clipped and control plots from
+ to to test three central hypotheses first taxonomic
+and functional structures of soil microbial communities would
+be progressively altered as the cumulative clipping effect may
+reduce nutrient e g c n p inputs from litter and change
+soil properties e g temperature moisture in the long term
+ years scale hamilton and frank bahn et al 
+xue et al a also different taxonomic and functional
+groups would show different sensitivities to clipping in the
+interannual scale due to the regulation of some temporal
+background variations e g precipitation on clipping effects 
+lastly clipping would significantly affect soil c and nutrient
+cycles by stimulating genes involved in c and n fixation
+and labile recalcitrant c degradation in this study microbial
+communities were analyzed using geochip as well as
+sequencing of bacterial archaeal s rrna gene and fungal its
+amplicons with illumina miseq technology this study provides
+novel insights into the taxonomic and functional responses of
+soil microbial communities to annual clipping and implies the
+potential for increased som decomposition under clipping land 
+use practices 
+
+materials and methods
+
+site and sampling
+the annual clipping experiment was conducted in the kessler
+atmospheric and ecological field station kaefs in mcclain
+county ok united states latitude ◦ ′ n longitude ◦ ′
+w kaefs is located in the tall grass prairie of central red bed
+plains of oklahoma dominated by c forbs ambrosia trifida 
+solanum carolinense and euphorbia dentate and c grasses
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+ tridens flavus sporobolus compositus and sorghum halepense 
+ xu et al the site is on an old field prairie that had
+been abandoned from field cropping years ago the herbivores
+were excluded at this site in to prevent light grazing which
+occurred before based on oklahoma climatological survey data
+from to the temperature ranges from ◦c in january
+to ◦c in july mean annual temperature ◦c and the
+precipitation ranges from mm in january and february to
+ mm in may and june mean annual precipitation mm 
+ zhou et al the soil is part of the nash lucien complex
+with a high available water holding capacity neutral ph 
+and a deep ca cm moderately penetrable root zone xu et al 
+ 
+
+this experiment was established in july of with a blocked
+split plot design in which warming ◦c half precipitation
+ − and double precipitation are primary factors
+nested by clipping annual removal of above ground biomass 
+the site was divided into four experimental blocks each
+containing six m × m plots which were further divided
+into two m × m subplots with a half for clipping 
+treatments were randomly distributed across the plots within
+each block plants in the southern subplots were clipped at a
+height of cm above the ground once to mimic the land 
+use practice of hay harvest at approximately the date of peak
+plant biomass on september september 
+october october september october 
+ whereas the northern subplots were unclipped control
+subplots xu et al the clipped plant materials were
+removed completely from the plots this study focused on
+eight subplots with control ambient temperature and normal
+precipitation treatments four of which were from clipped
+subplots and four from control unclipped subplots annual
+samples from the topsoil – cm were collected one day
+before annual clipping from to no samples were
+available in three soil cores cm diameter × cm
+deep ∼ g were collected in each subplot by using a soil
+sampler tube and composited to have enough samples for
+soil chemistry and molecular biology analyses holes were
+immediately refilled with root free soils collected just adjacent
+to the plots soil samples were immediately transported to
+the laboratory and stored at − ◦c until molecular analysis 
+a total of annual soil samples four clipped samples and
+four control samples in each year were further analyzed in this
+study 
+
+ambient temperature precipitation and
+soil and vegetation property
+measurements
+a series of measurements were routinely performed in the
+experimental field aboveground plant biomass investigations
+were conducted as described previously sherry et al 
+in brief plant biomass separated into c and c species was
+directly measured by annual clipping in the clipped subplots
+and indirectly estimated by the pin contact method in the
+control subplots frank and mcnaughton total and
+heterotrophic soil respirations were measured once or twice
+
+a month between and local time using a li 
+ portable soil co flux measurement system li cor
+inc lincoln ne united states and autotrophic respiration
+ ar was evaluated by the difference of total respiration and
+heterotrophic respiration hr also volumetric soil water
+content θv from the soil surface to a cm depth was
+measured once or twice a month using manual time domain
+reflectometry equipment soil moisture equipment crop santa
+barbara ca united states three measurements of soil water
+content were performed in every subplot each time and the
+average values were used in analysis soil temperature was
+measured every min at the depth of cm in the center
+of every subplot using constantan copper thermocouples wired
+to a campbell scientific cr x datalogger t type campbell
+science inst logan ut united states air temperature and
+precipitation data were obtained online from an oklahoma
+mesonet station washington station located approximately
+ m away from our experiment site all soil samples were
+analyzed for soil total organic carbon toc and total nitrogen
+ tn soil nitrate no − and ammonia nh by the soil 
+water and forage analytical laboratory at the oklahoma state
+university stillwater ok united states soil toc and tn
+concentrations were determined using a dry combustion c and
+n analyzer leco st joseph mi united states for no − and
+nh g of soil was shaken thoroughly with ml of m kcl
+for min then filtered through a fisher p qualitative filter
+ fisher scientific pittsburgh pa united states and analyzed
+using a lachat flow injection analyzer lachat milwaukee 
+wi united states soil ph was measured at a water to soil mass
+ratio of using a ph meter with a calibrated combined glass
+electrode mclean 
+
+dna extraction and geochip analysis
+soil dna was extracted from all soil samples within the
+same batch in by freeze grinding and sds based lysis
+as described previously zhou et al and purified by
+the mobio power soil dna isolation kit mobio laboratories 
+carlsbad ca united states according to the manufacturer’s
+protocol dna quality was assessed on the basis of the ratios
+of nm and nm absorbance using a nanodrop
+nd spectrophotometer nanodrop technologies inc 
+wilmington de united states the final dna concentrations
+were quantified by picogreen using a fluostar optima bmg
+labtech jena germany the dna samples were stored in
+− ◦c before analyzed by the illumina miseq technology san
+diego ca united states and geochip 
+
+the latest generation of functional gene array geochip
+ m k was used to analyze the functional structure of
+soil microbial communities geochip m contains 
+probes targeting coding sequences from functional
+gene families involved in c cycling n metabolism sulfur
+cycling phosphorus cycling electron transfer metal homeostasis 
+organic remediation stress response secondary metabolism and
+virus and virulence activity geochip m was manufactured
+by agilent agilent technologies inc santa clara ca 
+united states in the × k format in our study ng of
+purified soil dna of each sample was labeled with the fluorescent
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+dye cy ge healthcare anaheim ca united states using a
+random priming method as described previously he et al 
+purified using a qiaquick purification kit qiagen mountain
+view ca united states according to the manufacturer’s
+instructions and then dried in a speedvac thermo savant 
+holbrook ny united states into powder subsequently labeled
+dna was resuspended into µl of dnase rnase free
+distilled water and then mixed completely with µl of
+hybridization solution containing µl of × hi rpm
+hybridization buffer µl of × acgh blocking agent 
+ formamide final concentration µg µl cot dna 
+and pm universal standard the solution was denatured at
+ ◦c for min and then incubated at ◦c for min finally 
+the dna solution was hybridized with geochip m arrays
+ k at ◦c for h at rpm in a hybridization oven after
+hybridization the slides were washed using agilent hybridization
+buffer at room temperature and then scanned with a nimblegen
+ms microarray scanner roche nimblegen inc madison 
+wi united states the scanned images of the hybridized arrays
+were converted and extracted using agilent feature extraction
+ software 
+
+geochip data processing
+the microarray data were preprocessed using the microarray
+analysis pipeline on the institute for environmental genomics
+ ieg website as described previously he et al tu
+et al the major steps were as following i raw signal
+intensities cy channel on each array were multiplied by a
+normalization weight i which is the ratio of the maximum
+average universal standard intensity cy channel among all the
+samples divided by the average universal standard intensity of
+each array ii the signal intensities on each array were further
+multiplied by a normalization weight ii which is the ratio of
+the maximum total raw intensity cy channel among all the
+samples divided by the total raw intensity of each array iii 
+spots with snr signal to noise ratio ≥ were considered
+as positive otherwise they were treated as negative spots with
+ value iv spots with signal intensity lower than were
+not considered as positive and were removed in subsequent
+analysis v if a probe appeared in less than half or fewer of
+the samples in one treatment group two out of four samples 
+it was removed from that group before any further analyses 
+ vi the mean ratio in each sample was calculated by dividing
+the transformed signal intensity of each probe by the average
+transformed signal intensity for all detected probes in each
+sample vii relative change in normalized signal intensities was
+calculated as the clipping induced change of gene abundance
+ clipped− control control in each year and or across years 
+
+miseq sequencing of its and s rrna
+gene amplicons
+the compositions of bacterial and fungal communities were
+analyzed using illumina miseq sequencing of its and s
+rrna gene amplicons the v region of s rrna genes was
+amplified in triplicate for each sample with the primers f
+
+ http ieg ou edu microarray
+
+ ′ gtgccagcmgccgcggtaa ′ and r ′ ggacta
+chvgggtwtctaat ′ and its region was amplified in
+triplicate for each sample with the primers gits f ′ gtg
+artcatcgartctttg ′ and its r ′ tcctccg
+cttattgatatgc ′ a two step pcr was performed for
+its and s amplicon sequencing to avoid extra pcr bias
+that could be introduced by the components added in the long
+primers wu et al the first round pcr was performed
+in a µl reaction containing µl × pcr buffer ii
+ including dntps u dna polymerase µm of both
+forward and reverse target only primers and µl ng µl soil
+dna twelve cycles of pcr amplifications were performed in
+triplicate in the first round pcr pcr products were purified
+using agencourt r© ampure r© xp beckman coulter inc brea 
+ca united states and used as templates for the second pcr
+amplification of cycles using the same primers the reverse
+primer of which however contained illumina adapter sequence
+and different barcodes to distinguish samples wu et al 
+the second round pcr was carried out in triplicate in a 
+µl reaction containing µl × pcr buffer ii including
+dntps u dna polymerase µm of both forward and
+reverse phasing primers and µl aliquot of the first round
+purified pcr product pcr conditions for both first and second
+amplifications were as follows ◦c for min then ◦c for
+ s ◦c s rrna gene or ◦c its for s and ◦c
+for s followed by a final extension at ◦c for min pcr
+amplification were carried out in triplicate in order to reduce
+amplification bias subsequently pcr products were quantified
+by picogreen using a fluostar optima combined equally and
+then visualized by electrophoresis on agarose gels and pcr
+products were purified using the qiaquick gel extraction kit
+ qiangen valencia ca united states finally × bp
+paired ends dna sequencing was performed on illumina miseq
+platform according to the manufacturer’s instructions 
+
+the process of sequence quality control and analysis was
+conducted on galaxy pipeline raw sequences were split
+to different sample libraries based on barcodes before the
+combination of forward and reverse reads primer sequences
+at the end of reads were trimmed and low quality reads were
+removed by the btrim program kong with threshold of
+qc over bp window size forward and reverse reads of
+same sequence with at least bp overlap and mismatches
+were combined using flash program magoč and salzberg 
+ the joined sequences without ambiguous bases in length
+of – bp for s rrna gene and – bp for its
+were subjected to chimera removal otus were classified by
+uparse at similarity level edgar and singletons
+were removed taxonomic assignment was performed by rdp
+classifier with confidence estimates wang et al all
+samples were resampled at sequences for s rrna gene
+and sequences for its 
+
+statistical analysis
+to test the significance of the differences between clipping and
+control treatment for various environmental variables paired
+
+ http zhoulab rccc ou edu 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+http ieg ou edu microarray
+http zhoulab rccc ou edu 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+t tests were employed in this study microbial α diversity indexes
+including shannon index simpson index evenness and richness
+were calculated based on the three pre processed datasets
+ e g s rrna gene sequencing its sequencing geochip
+analysis difference of taxonomic lineages and functional
+genes between clipping and control was compared by the
+analysis of variance anova temporal patterns of microbial
+community structures in the clipped and control plots were
+determined by detrended correspondence analysis dca based
+on the bray curtis dissimilarity a dissimilarity test of the
+microbial community structures between clipping and control
+was performed using non parametric multivariate analysis of
+variance adonis based on the bray–curtis dissimilarity 
+mantel tests were used to calculate the correlations between
+environmental factors and the soil microbial communities 
+canonical correspondence analysis cca was performed to
+identify the effect of soil plant and climate variables and
+time on the microbial community structures based on cca
+results variation partitioning analysis vpa was performed to
+determine the contributions of each individual variable or groups
+of variables to total variations in the soil microbial communities 
+linear and non linear quadratic models were used to reveal
+the correlations between environmental variables and the relative
+change of functional genes by clipping all the above statistical
+analyses were carried out in r v the r foundation for
+statistical computing vienna austria using the package vegan
+ dixon and palmer 
+
+results
+
+ambient temperature precipitation 
+plant and soil over time
+during the years of the experiment the average air
+temperatures over autumn september to november were
+warmest in ◦c and coolest in ◦c 
+ supplementary figure s a autumnal cumulative
+precipitation ranged from to cm in all years except
+ supplementary figure s b which was extremely low
+ cm possibly due to the most severe drought across the
+united states in since the dust bowl era of the s wolf
+et al the experimental plots were subjected to clipping
+once a year to mimic the land use practice of hay harvest since
+ the total plant biomass across years – was
+marginally significantly p increased under clipping
+ figure a based on the one tailed paired t test specifically 
+clipping did not significantly change total plant biomass in the
+first years – but significantly increased total plant
+biomass in p and p supplementary
+table s the c plant biomass was significantly p 
+higher under clipping than control but the c plant biomass
+remained unchanged in supplementary table s 
+resulting in a plant community shift toward more c plant
+species in addition plant richness was marginally significantly
+ p increased by years of clipping figure a 
+
+soil process measurements revealed that overall soil toc 
+tn and soil ammonium n nh n remained unchanged
+
+under annual clipping figure b however the concentrations
+of no − n were marginally significantly p decreased
+by years of clipping specifically no − became significantly
+ p lower under clipping than control from to
+ supplementary table s furthermore soil ph was also
+significantly p increased by annual clipping figure c 
+while annual clipping marginally significantly decreased soil
+water content based on a one tailed paired t test in addition the
+average temperature in the surface soil top cm significantly
+ p increased under clipping in each year resulting in
+an increase of ◦c across years figure d also plant
+belowground activity and microbial activity measured as total
+soil respiration tr hr and ar were significantly p 
+higher in clipped plots than control plots annual clipping
+significantly p increased the rates of ar and hr by 
+and respectively suggesting that annual clipping stimulated
+the activities of plant roots and microbial som decomposition
+simultaneously figure e 
+
+overall responses of soil microbial
+communities to annual clipping
+soil microbial communities were analyzed by sequencing s
+rrna gene and its amplicons with illumina miseq and
+functional gene arrays geochip m the non parametric
+multivariate analysis of variance revealed that taxonomic
+and functional structures of microbial communities were
+much more strongly influenced by annual temporal variation
+ explaining – than annual clipping explaining
+ – table no significant differences were observed in
+the overall bacterial and fungal diversities and structures between
+clipped and control samples in all years table supplementary
+figures s a b and supplementary table s one exception to
+this was bacterial community in which had significantly
+fewer otus under clipping than control further comparison
+of the microbial taxonomic composition showed that some
+key bacterial and fungal phyla were significantly p 
+shifted by annual clipping supplementary figures s s 
+specifically actinobacteria bacteroidetes crenarchaeota and
+gammaproteobacteria were significantly p decreased
+by years of clipping and chloroflexi and planctomycetes in
+bacterial community were significantly p increased
+by years of clipping supplementary figure s in fungal
+community the phyla zygomycota and ascomycota were
+significantly p decreased under annual clipping across
+ years supplementary figure s however different phyla
+and genera in bacterial and fungal communities showed greatly
+different sensitivities to clipping in different years as indicated
+that different phyla and genera were significantly p 
+or marginally significantly p shifted by clipping in
+different years supplementary table s among these years 
+significantly and marginally significantly changed bacterial and
+fungal genera were the most in most of which belonged
+to actinobacteria genera alphaproteobacteria genera 
+bacteroidetes genera and ascomycota genera intriguingly 
+the relative abundances of unidentified fungi were greatly
+increased in and the relative abundance of unidentified
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+figure effects of annual clipping on plant and soil variables across years a–e effects of clipping on c plant biomass c plant biomass total plant
+biomass and plant richness a soil nitrate no − ammonia nh total nitrogen tn and total organic carbon toc b soil ph and soil water content soil w 
+ c soil temperature soil t d and heterotrophic respiration hr autotrophic respiration ar and total soil respiration tr e error bars indicate standard error of
+the mean the differences between clippings and controls were tested by two tailed paired t tests indicated by ∗∗∗p ∗∗p ∗p the
+differences for some variables were also tested with one tailed paired t tests as indicated by p 
+
+fungi was significantly p higher under clipping
+ than control supplementary figure s and
+supplementary table s 
+
+annual clipping significantly shifted the functional gene
+richness and diversity measured as the number of functional
+genes shannon diversity simpson diversity and evenness
+ supplementary table s there were marginally p or
+significantly p more functional genes detected in clipped
+samples than control samples in and however 
+the numbers of functional genes detected and shannon diversity
+in and were significantly p lower in clipped
+plots than those in control plots more importantly annual
+clipping also significantly p changed the functional
+
+structure of microbial community table the non parametric
+multivariate analysis of variance in each year revealed that no
+significant clipping effect was observed in the first year 
+but clipping effects became significant p in the following
+ years – table these results indicated that
+the shifts in microbial community functional structure under
+annual clipping progressively deepened along time and that
+annual clipping had cumulative effects on microbial community
+over time dca showed that clipped and control samples were
+clustered together in the first year while clipped samples
+gradually separated by the first dca axis from control samples in
+the following years – supplementary figure s c 
+furthermore the shifts in microbial community function under
+
+table significance tests of the effects of clipping and year on the overall microbial community structures across years and in each year by the non parametric
+multivariate analysis of variance 
+
+ s rrna its geochip
+
+r p r p r p
+
+year 
+
+clipping 
+
+year × clipping 
+
+ clipping 
+
+ clipping 
+
+ clipping 
+
+ clipping 
+
+ clipping 
+
+bold values indicate p 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+clipping were consistent in direction of the first dca axis in 
+ and unexpectedly the shift in microbial community
+function under clipping in was abnormally bigger than those
+in the other years and opposite in directionality possibly due to
+the strong perturbance of the other environmental factors or the
+infestation of unidentified fungi 
+
+linking microbial communities to
+environmental variables
+canonical correspondence analysis and mantel test were
+performed to discern the linkage between soil microbial
+phylogenetic and functional structures and environmental
+factors figure and supplementary figures s s the
+cca results indicated that microbial functional structure was
+significantly f p shaped by several soil 
+plant and climate variables as well as time figure a 
+among these factors time precipitation temperature and c 
+biomass exhibited more significant p correlations
+with the variations of microbial functional structure these
+soil plant climate variables and time exhibited significant
+correlations with taxonomic structure of bacterial community
+ f p but not fungal community f 
+p based on the cca results supplementary
+figures s a s a furthermore several key plant and soil
+variables also exhibited strong correlations with both functional
+and taxonomic community structures by mantel tests table 
+for example c biomass and total biomass showed significant
+ p correlation with bacterial fungal and functional
+community structures and soil temperature showed significant
+ p correlation with bacterial and functional community
+structures importantly hr exhibited significant correlations
+with bacterial community p fungal community
+ p and microbial functional structure p 
+as revealed by mantel tests table these results indicated
+that the shifts of microbial communities were significantly
+ p correlated with clipping induced changes of
+soil microclimate soil respiration and aboveground plant
+productivity 
+
+a partial cca based vpa indicated that these soil plant 
+climate variables as well as time could explain more variations
+based on geochip data figure b than s rrna
+gene supplementary figure s b and its 
+supplementary figure s b sequencing data suggesting
+that functional structure of microbial communities is more
+sensitive to detect clipping induced environmental changes than
+taxonomic structure of microbial communities specifically 
+the variations in the community functional composition and
+structure were explained by soil and plant 
+variables time and their interactions figure b 
+soil temperature and precipitation alone could directly explain
+ of the variation in community functional structure
+ figure b these results indicated that temperature and
+precipitation were important environmental attributes that
+shape the microbial community under clipping treatment 
+furthermore clipping effects on some c degrading and nitrogen
+cycling genes were significantly p regulated by autumnal
+cumulative precipitation as indicated that clipping induced
+
+changes in some key genes for c degradation and n cycling
+were linearly p or non linearly p increased
+along precipitation including those for degrading starch 
+cellulose hemicellulose and vanillin lignin denitrification and
+nitrification figure clipping effects on these genes in the
+driest year were substantially different from those in the
+other years figure therefore the response of functional
+genes to clipping in possibly represented a feedback
+pattern under the extreme drought condition which was greatly
+different from the long term pattern of microbial functional
+changes under annual clipping 
+
+effects of annual clipping on microbial
+functional genes
+to understand how annual clipping affected functional processes
+of soil microbial communities geochip data were further
+analyzed by focusing on c n and p cycling the normalized
+signal intensities were calculated to evaluate the change of gene
+abundance under clipping in each year because the shift in
+microbial communities under clipping in appeared in stark
+opposition to all other years and correspondingly was a year
+with prolonged and wide spread drought cook et al wolf
+et al average normalized signal intensities across years
+with the omission of the year were evaluated to obtain the
+long term trends of c n and p cycling under annual clipping
+ figure 
+
+in the first year most c degradation genes
+were significantly p decreased under clipping
+ supplementary figure s however clipping increased
+the abundance of most c degradation genes in the second
+year among these genes genes whose abundance
+significantly p increased under clipping were those
+involved in the degradation of relatively labile c e g starch 
+hemicellulose pectin and cellulose for example glucoamylase 
+involved in the degradation of starch xylanase which degrades
+hemicellulose and cellobiase which breaks down cellulose 
+all showed significantly p higher signal intensities
+under clipping interestingly clipping also significantly
+ p increased the abundance of five genes involved
+in the degradation of recalcitrant c e g chitin vanillin and
+lignin including those encoding chitinase and phenol oxidase
+ supplementary figure s in contrast in the year with
+low precipitation almost all of detected c degradation genes
+decreased in the relative abundance under clipping in the
+last years and very few genes associated with
+labile c degradation remained significantly increased under
+clipping while most of the genes involved in recalcitrant c
+degradation that had originally significantly increased in 
+were again significantly p increased under clipping
+ supplementary figure s these results suggested that the
+stimulation of clipping on the genes involved in recalcitrant c
+degradation was more persistent than genes involved in labile
+c degradation and implied that the degradation of recalcitrant
+c might be triggered as the cumulative effect of annual clipping
+on microbial communities increased over time furthermore 
+the average signal intensities across years with the omission
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+figure constrained ordination analysis a canonical correspondence analysis cca of geochip data and environmental variables environmental variables 
+soil nitrate no − ammonia nh total organic carbon toc total nitrogen tn soil ph soil water content soil w aboveground c biomass c biomass plant
+richness pr soil temperature tm and autumnal total precipitation tpp the insert table showed the significances of each or subsets of the environmental
+variables in explaining the variations of microbial community functional structure based on f test b cca based variation partitioning analysis vpa of microbial
+functional structure explained by soil geochemical properties s plant diversity p climate c variables and time t each diagram represents the biological variation
+partitioned into the relative effects of each factor or a group of factors 
+
+of the third year year also indicated that annual clipping
+significantly p increased the relative abundances of
+many genes involved in the degradation of labile and recalcitrant
+c figure a 
+
+geochip m also has various probes for key enzymes in
+co fixation from four pathways ribulose bisphosphate
+carboxylase oxygenase rubisco in the calvin cycle propionyl 
+coa carboxylase pcc in the hydroxypropionate cycle 
+carbon monoxide dehydrogenase codh in the reductive
+acetyl coa pathway and atp citrate lyase aclb in the reverse
+tricarboxylic acid cycle all of these key genes fluctuated greatly in
+different years likely reflecting the interaction of annual clipping
+and annual temporal variation over time supplementary
+figure s in the abundances of rubisco codh and ppc
+genes were significantly p decreased under clipping but
+
+these genes significantly p increased under clipping in
+ in the last years rubisco genes and codh
+genes and ppc genes were significantly increased
+under clipping supplementary figure s the year of 
+represents a unique set of environmental conditions and a strong
+response shift to clipping treatment by the microbial community
+was observed in all of the key genes in c fixation
+incongruently decreased under clipping however the average
+signal intensities across years without indicated that the
+abundances of rubisco codh and ppc genes were significantly
+ p increased under annual clipping figure c these
+results suggested that co fixation might be enhanced under 
+years of clipping treatment but further studies are needed to
+determine the impacts of the fixed c on the overall soil carbon
+flux 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+table correlation analysis between microbial community structures and environmental variables by mantel testa 
+
+environmental variables s rrna its geochip
+
+r p r p r p
+
+all variables 
+
+time 
+
+no − n − − 
+
+nh n − 
+
+tn − 
+
+toc − 
+
+soil ph 
+
+soil t 
+
+soil w 
+
+c biomass 
+
+c biomass − 
+
+total biomass 
+
+plant richness − − 
+
+precipitation 
+
+hr 
+
+tr − 
+
+athe significant value p are indicated in bold no − n soil nitrate nitrogen nh n soil ammonium nitrogen tn soil total nitrogen toc soil total organic
+carbon soil w soil water content soil t soil temperature hr soil heterotrophic respiration ar soil autotrophic respiration tr soil total respiration 
+
+figure relationships between autumnal cumulative precipitation and clipping effects on c degrading and n cycling gene groups for all plots the relative
+change of normalized signal intensities of detected genes by clipping in each year was presented in the y axis as the clipping effects on functional genes
+ clipping – control control in each plot lines represent linear least squares regression fit and non linear quadratic regression fit respectively the r values and
+significances were displayed for linear and non linear fits the genes in these plots are listed in supplementary table s 
+
+the abundances of n cycling genes involved in
+ammonification anammox assimilatory n reduction 
+denitrification dissimilatory n reduction n assimilation 
+nitrification and nitrogen fixation were also shifted in different
+years supplementary figure s the relative changes of
+average signal intensities of these years without were also
+
+analyzed to determine the long term trend of n cycling under
+clipping the abundance of most key genes involved in n cycling
+was significantly p higher under annual clipping than
+control figure b specifically the gene urec and ammonium
+transporter gene gdh were significantly p increased
+in clipped samples because the urec protein can convert urea
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+figure clipping effects on functional genes involved in biogeochemical cycling processes a c degradation the complexity of c is presented in order from
+labile to recalcitrant c the average relative change of normalized signal intensity of detected genes by clipping across years without samples was presented
+as the clipping effects on functional genes clipped – control control error bars indicate standard error of the mean significance was tested by anova as
+indicated by ∗∗∗p ∗∗p ∗p b n cycling processes the percentage changes in n cycling gene abundance under clipping were indicated in
+parenthesis genes where change in abundance was significant p are labeled in red gray colored genes were not significantly changed under clipping 
+ c c fixation d p utilization genes under annual clipping the full names of the genes in this figure are listed in supplementary table s 
+
+into nh and ammonium transporter proteins transport
+ammonium into microorganisms or plants the combined effect
+of these two changes could potentially result in an increase in
+n mineralization but relatively stable nh concentrations in
+the soil furthermore nirb and nasa involved in assimilatory
+n reduction norb nirk nirs and narg associated with
+denitrification napa a dissimilatory n reductase were also
+significantly p increased under clipping treatment
+ figure b the combined effect of denitrification assimilatory
+n reduction and dissimilatory n reduction could result in a rapid
+nitrate nitrogen loss which may be the reason why significantly
+decreased no − in soil were observed under clipping in
+ – supplementary table s in addition the relative
+abundance of nifh for nitrogen fixation was significantly
+ p increased under year clipping figure b these
+significantly increased genes in nitrogen cycling process may
+
+potentially lead to accelerating nutrient cycling rates under
+annual clipping 
+
+geochip m contains seven enzymes involved in p
+utilization exopolyphosphatase ppx endopolyphosphatase
+ ppn and polyphosphate kinase ppk involved in phosphate
+degradation polyphosphate kinase ppk in polyphosphate
+biosynthesis pathways in prokaryotes phosphonate
+dehydrogenase ptxd and phytanoyl coa dioxygenase
+ htxa responsible for phosphorus oxidation and phytase
+associated with phytate degradation all of these genes were
+also shifted in different years supplementary figure s the
+abundance of ppk and ppx genes across years without 
+were significantly p increased under clipping suggesting
+a possible increase of polyphosphate degradation with more
+available inorganic p in soil under annual clipping figure 
+also the abundance of ppk in clipped samples was significantly
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+ p higher than in control samples figure d 
+altogether this indicated that p cycling potentials under annual
+clipping might also be accelerated in this ecosystem 
+
+discussion
+
+plant tissue removal via grazing mowing and or clipping can
+significantly change ecosystem c fluxes with consequent changes
+in plant litter decomposition soil microbial communities and
+nutrient cycling garibaldi et al klumpp et al 
+de faccio carvalho et al as soil microbial community
+mediate important biogeochemical processes such as c n p 
+and s cycling understanding their responses to annual clipping
+is crucial for a robust prediction of soil c stocks and fluxes in
+this study we analyzed the potential taxonomic and functional
+responses of soil microbial communities to annual clipping 
+our results showed that annual clipping markedly shifted the
+functional structures of soil microbial communities and relative
+abundances of some bacterial and fungal lineages over time 
+which generally support our three hypotheses 
+
+previous studies showed that clipping significantly affected
+the composition and productivity of plant communities ward
+et al wu et al likely decreasing nutrient and
+c inputs from aboveground plants semmartin et al 
+klumpp et al furthermore clipping has been shown
+to increase soil temperature but decrease soil water content as
+did warming wan et al under clipping an increase
+of root respiration and exudation was also observed bahn
+et al hamilton et al collectively these shifts
+in plants and microenvironments under the cumulative effects
+of clipping are expected to progressively affect the structure
+and functional potential of soil microbial communities across a
+time span of several years our results generally supported this
+hypothesis consistent with those previous studies we found
+annual clipping increased plant productivity soil co efflux
+and microbial activity in most of years more importantly the
+microbial functional structure was not changed in the first year
+but altered significantly in the following years by annual
+clipping table furthermore statistical analyses proved that
+the changes of microbial community structure were significantly
+correlated with soil respiration soil physical and chemical
+variables and above ground plant productivity besides the
+relative abundance of some key bacterial and fungal phyla such
+as actinobacteria bacteroidetes zygomycota and ascomycota
+were significantly altered across years by annual clipping 
+these results demonstrated that the shifts of soil microbial
+communities under a long term clipping can cumulatively
+affect certain soil ecosystem functions however certain studies
+suggested clipping or mowing reduced soil co efflux microbial
+biomass and activity due to decreased canopy photosynthesis
+and lessened c supply from aboveground plant parts to roots 
+mycorrhizae and rhizosphere microorganisms zhang et al 
+ bahn et al shahzad et al the disparity
+among studies may be caused by the different ecosystems studied
+and or experimental designs including clipping and sampling
+time 
+
+microbial responses to global changes such as warming 
+precipitation and clipping may be greatly regulated by temporal
+background variations previous studies at the jasper ridge
+global change experiment jrgce showed that annual
+background variation of soil microbial communities was greater
+than even very significant treatment effects including warming 
+elevated co water addition and n addition gutknecht et al 
+ another study also reported that temporal seasonal
+and interannual variation overshadows the responses of soil
+microbial communities to simulated global changes including
+drought and n addition matulich et al consistently 
+the taxonomic composition of both bacterial and fungal
+communities varied substantially from year to year in our
+study no significant clipping effect was observed in the overall
+bacterial and fungal communities most likely due to the large
+interannual background variation in soil microbial community
+overshadowing the response of bacterial and fungal communities
+to clipping matulich et al correspondingly interannual
+background variations affected the relative abundance of bacterial
+and fungal phyla more significantly than annual clipping also 
+interannual background variation was more significant than
+the effect of clipping on soil microbial functional genes the
+abundance of many functional genes involved in c fixation c
+degradation n cycling and p utilization greatly fluctuated in
+different years these results suggested that microbial responses
+to annual clipping were strongly shaped by temporal background
+variations 
+
+more interestingly we found a stark contrast in the
+functional community response to clipping when the ecosystem
+underwent an extreme drought disturbance as well as a
+significant correlation between precipitation and clipping 
+induced changes in some c degrading or n cycling genes 
+furthermore precipitation was found to be one of the most
+important factors in explaining the variations of functional
+community structure in our study previous studies also reported
+that altered precipitation in different years can significantly
+change fungal and bacterial community structures schmidt
+et al castro et al precipitation can shift microbial
+biomass community composition and activity directly by
+changing soil moisture as well as indirectly through shaping
+plant community potentially with a lag schmidt et al 
+castro et al provided these information it may be
+that the effects of clipping on microbial functional activities
+are strongly associated with precipitation at the interannual
+scale 
+
+in our study no significant changes of the overall taxonomic
+structure of bacteria and fungi were observed in all years 
+whereas microbial functional structure was significantly shifted
+by clipping in the continuous four years furthermore 
+the variations of soil microbial functional structure were
+closely related to clipping induced environmental changes 
+while the taxonomic variations were only poorly explained
+by environmental condition no significant correlation was
+observed between taxonomic groups and functional gene groups 
+such phenomena have been previously observed in the global
+ocean or in soil raes et al louca et al 
+nelson et al these results can be explained by an
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+elegant paradigm for microbial ecology in which community
+function is strongly shaped by energetic and stoichiometric
+constraints raes et al while the composition within
+functional groups is modulated by additional mechanisms 
+according to this paradigm the functional responses of microbial
+communities to clipping can decouple with microbial taxonomic
+variations 
+
+whether the clipping stimulated microbial community
+resulted in the significant changes of soil c and n cycling is
+another central hypothesis some studies showed that clipping
+reduced total soil co efflux composing of root respiration
+and mineralization of plant litter and recalcitrant som by
+ – wan and luo shahzad et al in contrast 
+another study showed a tr increase under clipping treatment
+ antonsen and olsson significant increases in total
+and heterotrophic soil respirations by clipping were observed
+in our study theoretically the increase of soil respiration
+could be due to the increase of microbial biomass and or the
+variation of microbial community structure marschner et al 
+ bond lamberty et al however very limited
+amounts of samples were available from this long term field
+experiment thus we didn’t investigate microbial biomass in
+this study we focused on the variation of community structure 
+significant correlations between soil hr and the variations
+of bacterial fungal and functional community structures
+suggested that the variation of community structure significantly
+modified soil c cycling regardless of potential altered microbial
+biomass 
+
+although annual background variations e g precipitation 
+strongly affected functional patterns of soil microbial community
+in different years progressive changes of c degradation under
+clipping were still observed in our geochip data in the first year 
+annual clipping as a strong disturbance to grassland ecosystem
+not only decreased soil microbial community functional diversity
+but also decreased most of gene abundances involved in c
+degradation this may be a short term response to the decrease of
+aboveground c input and the sudden changes of soil temperature
+and moisture under annual clipping in the following years 
+except the abundance of key genes involved in the
+degradation of labile and recalcitrant c increased under annual
+clipping suggesting that reduced inputs of aboveground c under
+clipping did not suppress microbial activity probably because
+of the offset by elevated belowground biomass through such
+processes as root exudation hamilton et al and root
+decay belay tedla et al there were no significant
+reductions in aboveground plant biomass in the clipped plots
+and in fact in the last years there were significant increases
+in the clipped plots this means that the plant growth rates
+were stimulated by annual clipping a likely consequence of
+this is enhanced root development and increased exudation
+by actively growing roots indeed significant increase of root
+respiration under clipping measured as ar was observed in
+this grassland ecosystem this may be the reason why soil
+total c did not significantly decrease under annual clipping 
+more importantly the abundances of genes involved in the
+degradation of some recalcitrant substrates were consistently
+increased in the last years under annual clipping indicating
+
+that the recalcitrant c degradation may be triggered under
+annual clipping since the recalcitrant carbon in soil is much
+more abundant than labile carbon even a small change in
+its decomposition rate could have significant effect on soil c
+storage davidson and janssens by this way clipping
+land use practices may significantly affect future climate warming
+scenarios 
+
+how clipping or mowing changes ecosystem n cycling is
+another important issue a previous study showed that total
+n contents of soil at the great plains apiaries oklahoma
+were significantly decreased by clipping resulting in n deficient
+soil conditions belay tedla et al and another study
+showed that yearly clipping significantly decreased litter n
+contents indicating a significant effect of n deficiency on plants
+ cheng et al consistently a significant decrease in
+no − n was observed under annual clipping in our study 
+suggesting that soil n dynamics were significantly altered 
+in our geochip data average signal intensities across 
+years with the omission of the year indicated that
+annual clipping also stimulated the abundance of most
+key genes involved in n cycling including ammonification 
+denitrification n assimilation and nitrogen fixation the
+significant increases in the abundance of n cycling genes may
+result in a potential increase of nutrient cycling process rates 
+in high n cycling rates n fixation and n mineralization
+through recycling n from som would compensate n loss by
+denitrification as well as enhance plant growth zhou et al 
+ as a result the total soil n may remain unchanged
+under annual clipping however the effects of long term
+clipping on soil n dynamics may depend on the balance
+of the accumulation derived from the inputs from litter and
+root biomass decomposition microbial n fixation and the
+consumption of n mineralization denitrification and plant
+uptake 
+
+conclusion
+
+despite the important roles of the soil microbial communities
+in carbon and nitrogen cycling the responses of microbial
+community structure and function under long term clipping
+are not fully understood in this study the functional structure
+of soil microbial community was significantly altered by 
+years of clipping and the relative abundance of bacterial and
+fungal lineages was also significantly changed under annual
+clipping furthermore annual clipping significantly increased
+the abundance of genes involved in the degradation of labile
+and recalcitrant c nitrogen cycling and phosphorus utilization
+in the long term scale the shifts in microbial community
+structure and function were significantly correlated with soil
+microclimate c and nutrient concentrations respiration and
+plant productivity interestingly the effects of clipping on
+microbial functional activities may be heavily associated with
+precipitation at the interannual scale annual clipping induced
+changes in microbial community structure and function may
+be important in predicting long term land use responses to
+global change 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+data accessibility
+
+dna sequences of s rrna gene and its amplicons were
+deposited under ncbi project accession no prjna 
+otu table and otu representative sequences are available 
+http ieg ou edu download microarray data geochip 
+are available http ieg ou edu download soil physical and
+chemical attributes plant biomass and richness and soil
+respirations online supplementary materials 
+
+author contributions
+
+all authors contributed intellectual input and assistance to
+this study the original concept and experimental strategy
+were developed by jz yl and jt field management was
+carried out by my jf xg xz lh fl lw and jvn sampling
+collections dna preparation and miseq sequencing analysis
+were carried out by xz xg jf my and lh soil chemical
+analysis was carried out by xz xg and my various statistical
+analyses were carried out by xg yq dn and zs assistance in
+data interpretation was provided by xl and zh all data analysis
+and integration were guided by jz the paper was written by
+xg with help from zh and jz considering their contributions
+in terms of site management data collection analyses and or
+integration over the last years xg and xz were listed as
+co authors 
+
+funding
+
+this study and general funding for the multiple warming
+experiments in the kaefs were provided by the united states
+department of energy office of science genomic science
+program under award number de sc and de 
+sc the usda national institute of food and agriculture
+ nifa award and the office of the vice
+president for research at the university of oklahoma 
+
+acknowledgments
+
+we thank zhenxing li jianjun wang lijun chen bin feng 
+gyo jung and lifen jiang for their assistance in soil respiration
+measure and plant survey and or soil sampling and processing
+over different years xg and xz were generously supported by
+china scholarship council csc 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmicb 
+ full supplementary material
+
+figure s average air temperature a and cumulative precipitation b over the
+entire autumn september to november in the experiment site the air
+temperature and cumulative precipitation were obtained online from the oklahoma
+mesonet station washington station air temperature data were collected at
+
+ m above the soil surface and precipitation data were collected at the soil
+surface 
+
+figure s detrended correspondence analysis dca of s rrna gene a 
+and its b amplicon sequences and geochip hybridization c symbols
+correspond to year of sampling colors of the symbols represent sample
+treatments with filled symbols representing clipped samples and hollow symbols
+representing control samples arrows represent the direction of change under
+clipping treatment in different years 
+
+figure s the composition of bacterial community under clipping and control
+in years based on s rrna gene sequencing the phylum proteobacteria was
+represented by alpha beta gamma and delta divisions the insert table
+showed the significances of each phylum affected by clipping and sampling year
+based on anova test red indicated p 
+
+figure s the composition of fungal community under clipping and control in
+ years based on its sequencing the insert table showed the significances of
+each phylum affected by clipping and sampling year based on anova test red
+indicated p 
+
+figure s constrained ordination analysis of s rrna gene amplicon
+sequences a canonical correspondence analysis cca of s rrna gene
+amplicon sequences and environmental variables b cca based variation
+partitioning analysis vpa of bacterial community structure explained by soil
+geochemical properties s plant diversity p climate variables c and time t 
+details are described in figure 
+
+figure s constrained ordination analysis of its amplicon sequences a 
+canonical correspondence analysis cca of its amplicon sequences and
+environmental variables b cca based variation partitioning analysis vpa of
+fungal community structure explained by soil geochemical properties s plant
+diversity p climate variables c and time t details are described in
+figure 
+
+figure s the relative changes of normalized signal intensities of detected
+c degradation genes under clipping in different years the complexity of c is
+presented in order from labile to recalcitrant c error bars indicate standard error
+of the mean significance is tested by anova as indicated by ∗∗∗p 
+∗∗p ∗p the full names of the genes in this figure are listed in
+supplementary table s 
+
+figure s the relative changes of normalized signal intensities of detected c
+fixation genes under clipping in different years error bars indicate standard error
+of the mean significance is tested by anova as indicated by ∗∗∗p 
+∗∗p ∗p the full names of the genes in this figure are listed in
+supplementary table s 
+
+figure s the relative changes of normalized signal intensities of detected n
+cycling genes under clipping in different years error bars indicate standard error of
+the mean significance is tested by anova as indicated by ∗∗∗p 
+∗∗p ∗p a ammonification b anammox c assimilation d 
+assimilatory n reduction e denitrification f dissimilatory n reduction g n
+assimilation h nitrification i nitrogen fixation the full names of the genes in
+this figure are listed in supplementary table s 
+
+figure s the relative changes of normalized signal intensities of detected p
+utilization genes under clipping in different years error bars indicate standard error
+of the mean significance is tested by anova as indicated by ∗∗∗p 
+∗∗p ∗p the full names of the genes in this figure are listed in
+supplementary table s 
+
+table s soil geochemical variables plant biomass and soil respirations under
+control and clipping in each year 
+
+table s the overall microbial community diversity under clipping and control
+detected by its and s rrna gene sequencing data and geochip data 
+
+table s the significance tests of bacterial and fungal lineages affected by
+clipping in different years by anova 
+
+table s the enzyme protein encoded by the functional genes shown in
+figures and supplementary figures s –s 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+http ieg ou edu download 
+http ieg ou edu download 
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+references
+antonsen h and olsson p a relative importance of burning mowing
+
+and species translocation in the restoration of a former boreal hayfield 
+responses of plant diversity and the microbial community j appl ecol 
+ – doi j x
+
+bahn m knapp m garajova z pfahringer n and cernusca a 
+ root respiration in temperate mountain grasslands differing in
+land use glob change biol – doi j 
+ x
+
+belay tedla a zhou x su b wan s and luo y labile recalcitrant 
+and microbial carbon and nitrogen pools of a tallgrass prairie soil in the
+us great plains subjected to experimental warming and clipping soil biol 
+biochem – doi j soilbio 
+
+bell c w acosta martinez v mcintyre n e cox s tissue d t and zak 
+j c linking microbial community structure and function to seasonal
+differences in soil moisture and temperature in a chihuahuan desert grassland 
+microb ecol – doi s 
+
+bond lamberty b bolton h fansler s heredia langner a liu c mccue 
+l a et al soil respiration and bacterial structure and function after
+ years of a reciprocal soil transplant experiment plos one e 
+doi journal pone 
+
+brown s p callaham m a jr oliver a k and jumpponen a deep
+ion torrent sequencing identifies soil fungal community shifts after frequent
+prescribed fires in a southeastern us forest ecosystem fems microbiol ecol 
+ – doi 
+
+caporaso j g lauber c l walters w a berg lyons d huntley j fierer n 
+et al ultra high throughput microbial community analysis on the
+illumina hiseq and miseq platforms isme j – doi ismej 
+ 
+
+carey c j beman j m eviner v t malmstrom c m and hart s c 
+soil microbial community structure is unaltered by plant invasion vegetation
+clipping and nitrogen fertilization in experimental semi arid grasslands front 
+microbiol doi fmicb 
+
+castro h f classen a t austin e e norby r j and schadt c w 
+ soil microbial community responses to multiple experimental climate
+change drivers appl environ microbiol – doi aem 
+ 
+
+cheng x luo y su b zhou x niu s sherry r et al experimental
+warming and clipping altered litter carbon and nitrogen dynamics in a tallgrass
+prairie agric ecosyst environ – doi j agee 
+
+cong j yang y liu x lu h liu x zhou j et al analyses of
+soil microbial community compositions and functional genes reveal potential
+consequences of natural forest succession sci rep doi 
+srep 
+
+cook b i seager r and smerdon j e the worst north american
+drought year of the last millennium geophys res lett – 
+doi gl 
+
+craine j m wedin d a and chapin iii f s predominance of
+ecophysiological controls on soil co flux in a minnesota grassland plant soil
+ – doi a 
+
+davidson e a and janssens i a temperature sensitivity of soil
+carbon decomposition and feedbacks to climate change nature – 
+doi nature 
+
+de faccio carvalho p c anghinoni i de moraes a de souza e d 
+sulc r m lang c r et al managing grazing animals to achieve
+nutrient cycling and soil improvement in no till integrated systems nutr cycl 
+agroecosyst – doi s x
+
+deng j gu y zhang j xue k qin y yuan m et al shifts of tundra
+bacterial and archaeal communities along a permafrost thaw gradient in alaska 
+mol ecol – doi mec 
+
+dixon p and palmer m w vegan a package of r functions for
+community ecology j veg sci – doi j 
+tb x
+
+edgar r c uparse highly accurate otu sequences from microbial
+amplicon reads nat methods – doi nmeth 
+
+fierer n bradford m a and jackson r b toward an ecological
+classification of soil bacteria ecology – doi 
+
+frank d a and mcnaughton s j aboveground biomass estimation with
+the canopy intercept method a plant growth form caveat oikos – 
+doi 
+
+garibaldi l a semmartin m and chaneton e j grazing induced
+changes in plant composition affect litter quality and nutrient cycling in
+flooding pampa grasslands oecologia – doi s 
+ 
+
+gutknecht j l field c b and balser t c microbial communities
+and their responses to simulated global change fluctuate greatly over multiple
+years glob change biol – doi j 
+ x
+
+hamilton e w frank d a hinchey p m and murray t r 
+defoliation induces root exudation and triggers positive rhizospheric feedbacks
+in a temperate grassland soil biol biochem – doi j 
+soilbio 
+
+hamilton e w iii and frank d a can plants stimulate soil microbes
+and their own nutrient supply evidence from a grazing tolerant grass ecology
+ – doi cpssma co 
+
+he z deng y van nostrand j d tu q xu m hemme c l et al 
+geochip as a high throughput tool for analyzing microbial community
+composition structure and functional activity isme j – 
+doi ismej 
+
+he z gentry t j schadt c w wu l liebich j chong s c et al 
+geochip a comprehensive microarray for investigating biogeochemical 
+ecological and environmental processes isme j – doi ismej 
+ 
+
+hernández d l and hobbie s e the effects of substrate composition 
+quantity and diversity on microbial activity plant soil – 
+doi s 
+
+ingram l j stahl p d schuman g e buyer j s vance g f ganjegunte 
+g k et al grazing impacts on soil carbon and microbial communities
+in a mixed grass ecosystem all rights reserved no part of this periodical may
+be reproduced or transmitted in any form or by any means electronic or
+mechanical including photocopying recording or any information storage and
+retrieval system without permission in writing from the publisher permission
+for printing and for reprinting the material contained herein has been
+obtained by the publisher soil sci soc am j – doi sssaj
+ 
+
+klumpp k fontaine s attard e le roux x gleixner g and soussana j f 
+ grazing triggers soil carbon loss by altering plant roots and their control
+on soil microbial community j ecol – doi j 
+ x
+
+kong y btrim a fast lightweight adapter and quality trimming
+program for next generation sequencing technologies genomics – 
+doi j ygeno 
+
+lal r follett r f stewart b and kimble j m soil carbon sequestration
+to mitigate climate change and advance food security soil sci – 
+doi ss b e cc 
+
+li x fu h li x guo d dong x and wan c effects of land use
+regimes on carbon sequestration in the loess plateau northern china n z j 
+agric res – doi 
+
+liang y wu l clark i m xue k yang y van nostrand j d et al 
+over years of long term fertilization alters spatial scaling of microbial
+biodiversity mbio e –e doi mbio 
+
+louca s parfrey l w and doebeli m decoupling function
+and taxonomy in the global ocean microbiome science – 
+doi science aaf 
+
+magoč t and salzberg s l flash fast length adjustment of short reads
+to improve genome assemblies bioinformatics – doi 
+bioinformatics btr 
+
+marschner p hatam z and cavagnaro t r soil respiration microbial
+biomass and nutrient availability after the second amendment are influenced
+by legacy effects of prior residue addition soil biol biochem – 
+doi j soilbio 
+
+matulich k l weihe c allison s d amend a s berlemont r goulden 
+m l et al temporal variation overshadows the response of leaf litter
+microbial communities to simulated global change isme j – 
+doi ismej 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org j soilbio 
+https doi org s 
+https doi org journal pone 
+https doi org 
+https doi org ismej 
+https doi org ismej 
+https doi org fmicb 
+https doi org aem 
+https doi org aem 
+https doi org j agee 
+https doi org srep 
+https doi org srep 
+https doi org gl 
+https doi org a 
+https doi org nature 
+https doi org s x
+https doi org mec 
+https doi org j tb x
+https doi org j tb x
+https doi org nmeth 
+https doi org 
+https doi org 
+https doi org s 
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org cpssma co 
+https doi org ismej 
+https doi org ismej 
+https doi org ismej 
+https doi org s 
+https doi org sssaj 
+https doi org sssaj 
+https doi org j x
+https doi org j x
+https doi org j ygeno 
+https doi org ss b e cc 
+https doi org 
+https doi org mbio 
+https doi org science aaf 
+https doi org bioinformatics btr 
+https doi org bioinformatics btr 
+https doi org j soilbio 
+https doi org ismej 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb may time 
+
+guo et al clipping alters soil microbial structures
+
+mclean e “soil ph and lime requirement ” in methods of soil analysis 
+part chemical and microbiological properties a l page madison wi soil
+science society of america – 
+
+mitchell r j hester a j campbell c d chapman s j cameron c m 
+hewison r l et al is vegetation composition or soil chemistry
+the best predictor of the soil microbial community plant soil – 
+doi s 
+
+nacke h thürmer a wollherr a will c hodac l herold n et al 
+ pyrosequencing based assessment of bacterial community structure
+along different management types in german forest and grassland soils plos
+one e doi journal pone 
+
+nelson m b martiny a c and martiny j b h global biogeography
+of microbial nitrogen cycling traits in soil proc natl acad sci u s a 
+ – doi pnas 
+
+penton c r stlouis d cole j r luo y wu l schuur e g et al 
+fungal diversity in permafrost and tallgrass prairie soils under experimental
+warming conditions appl environ microbiol – doi 
+aem 
+
+raes j letunic i yamada t jensen l j and bork p toward molecular
+trait based ecology through integration of biogeochemical geographical and
+metagenomic data mol syst biol doi msb 
+
+schlesinger w h carbon balance in terrestrial detritus annu rev ecol 
+syst – doi annurev es 
+
+schmidt s costello e nemergut d cleveland c c reed s weintraub m 
+et al biogeochemical consequences of rapid microbial turnover and
+seasonal succession in soil ecology – doi 
+
+semmartin m garibaldi l a and chaneton e j grazing history effects
+on above and below ground litter decomposition and nutrient cycling in two
+co occurring grasses plant soil – doi s 
+
+shahzad t chenu c repinçay c mougin c ollier j l and fontaine s 
+ plant clipping decelerates the mineralization of recalcitrant soil organic
+matter under multiple grassland species soil biol biochem – 
+doi j soilbio 
+
+sheik c s beasley w h elshahed m s zhou x luo y and krumholz l r 
+ effect of warming and drought on grassland microbial communities 
+isme j – doi ismej 
+
+sherry r a weng e arnone iii j a johnson d w schimel d s verburg 
+p s et al lagged effects of experimental warming and doubled
+precipitation on annual and seasonal aboveground biomass production in a
+tallgrass prairie glob change biol – doi j 
+ x
+
+shokralla s spall j l gibson j f and hajibabaei m next generation
+sequencing technologies for environmental dna research mol ecol 
+ – doi j x x
+
+su j q ding l j xue k yao h y quensen j bai s j et al long 
+term balanced fertilization increases the soil microbial functional diversity in a
+phosphorus limited paddy soil mol ecol – doi mec 
+
+tu q yu h he z deng y wu l van nostrand j d et al geochip
+ a functional gene array based high throughput environmental technology
+for microbial community analysis mol ecol resour – doi 
+ 
+
+wan s and luo y substrate regulation of soil respiration in a tallgrass
+prairie results of a clipping and shading experiment global biogeochem cycles
+ doi gb 
+
+wan s luo y and wallace l changes in microclimate induced by
+experimental warming and clipping in tallgrass prairie glob change biol 
+ – doi j x
+
+wang q garrity g m tiedje j m and cole j r naive bayesian
+classifier for rapid assignment of rrna sequences into the new bacterial
+taxonomy appl environ microbiol – doi aem 
+ 
+
+ward s e bardgett r d mcnamara n p adamson j k and ostle n j 
+ long term consequences of grazing and burning on northern peatland
+carbon dynamics ecosystems – doi s 
+
+wolf s keenan t f fisher j b baldocchi d d desai a r richardson 
+a d et al warm spring reduced carbon cycle impact of the us
+summer drought proc natl acad sci u s a – doi 
+pnas 
+
+wu g l du g z liu z h and thirgood s effect of fencing and
+grazing on a kobresia dominated meadow in the qinghai tibetan plateau 
+plant soil – doi s 
+
+wu l wen c qin y yin h tu q van nostrand j d et al phasing
+amplicon sequencing on illumina miseq for robust environmental microbial
+community analysis bmc microbiol doi s 
+
+xu x sherry r a niu s li d and luo y net primary productivity
+and rain use efficiency as affected by warming altered precipitation and
+clipping in a mixed grass prairie glob change biol – 
+doi gcb 
+
+xue k yuan m m shi z j qin y deng y cheng l et al a 
+tundra soil carbon is vulnerable to rapid microbial decomposition under
+climate warming nat clim change – doi nclimate 
+
+xue k yuan m m xie j li d qin y hale l e et al b annual
+removal of aboveground plant biomass alters soil microbial responses to
+warming mbio e doi mbio 
+
+yue h wang m wang s gilbert j a sun x wu l et al 
+the microbe mediated mechanisms affecting topsoil carbon stock in tibetan
+grasslands isme j – doi ismej 
+
+zhang w parker k luo y wan s wallace l and hu s soil
+microbial responses to experimental warming and clipping in a tallgrass
+prairie glob change biol – doi j 
+ x
+
+zhou j bruns m a and tiedje j m dna recovery from soils of diverse
+composition appl environ microbiol – 
+
+zhou j xue k xie j deng y wu l cheng x et al microbial
+mediation of carbon cycle feedbacks to climate warming nat clim change
+ – doi nclimate 
+
+conflict of interest statement the authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest 
+
+copyright © guo zhou hale yuan feng ning shi qin liu wu he 
+van nostrand liu luo tiedje and zhou this is an open access article distributed
+under the terms of the creative commons attribution license cc by the use 
+distribution or reproduction in other forums is permitted provided the original
+author s and the copyright owner are credited and that the original publication
+in this journal is cited in accordance with accepted academic practice no use 
+distribution or reproduction is permitted which does not comply with these terms 
+
+frontiers in microbiology www frontiersin org may volume article 
+
+https doi org s 
+https doi org journal pone 
+https doi org pnas 
+https doi org aem 
+https doi org aem 
+https doi org msb 
+https doi org annurev es 
+https doi org 
+https doi org s 
+https doi org j soilbio 
+https doi org ismej 
+https doi org j x
+https doi org j x
+https doi org j x x
+https doi org mec 
+https doi org 
+https doi org 
+https doi org gb 
+https doi org j x
+https doi org aem 
+https doi org aem 
+https doi org s 
+https doi org pnas 
+https doi org pnas 
+https doi org s 
+https doi org s 
+https doi org gcb 
+https doi org nclimate 
+https doi org mbio 
+https doi org ismej 
+https doi org j x
+https doi org j x
+https doi org nclimate 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+	taxonomic and functional responses of soil microbial communities to annual removal of aboveground plant biomass
+	introduction
+	materials and methods
+	site and sampling
+	ambient temperature precipitation and soil and vegetation property measurements
+	dna extraction and geochip analysis
+	geochip data processing
+	miseq sequencing of its and s rrna gene amplicons
+	statistical analysis
+
+	results
+	ambient temperature precipitation plant and soil over time
+	overall responses of soil microbial communities to annual clipping
+	linking microbial communities to environmental variables
+	effects of annual clipping on microbial functional genes
+
+	discussion
+	conclusion
+	data accessibility
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

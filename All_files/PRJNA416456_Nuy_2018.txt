@@ -1,0 +1,3284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+responses of stream microbes to multiple anthropogenic stressors in a mesocosm study
+
+
+science of the total environment – 
+
+contents lists available at sciencedirect
+
+science of the total environment
+
+j ourna l homepage www e lsev ie r com locate sc i totenv
+responses of stream microbes to multiple anthropogenic stressors in a
+mesocosm study
+julia k nuy a ⁎ anja lange b arne j beermann c manfred jensen a vasco elbrecht c oliver röhl d 
+derek peršoh d dominik begerow d florian leese c jens boenigk a
+a department of biodiversity university of duisburg essen universitaetsstraße d essen germany
+b department of bioinformatics and computational biophysics university of duisburg essen universitaetsstraße d essen germany
+c aquatic ecosystem research university of duisburg essen universitaetsstraße d essen germany
+d department of geobotany ruhr universitaet bochum universitaetsstraße d bochum germany
+h i g h l i g h t s g r a p h i c a l a b s t r a c t
+• leaf litter and rock biofilms were ex 
+posed to three anthropogenic stressors 
+
+• taxon diversity was measured on the
+level of operational taxonomic units 
+
+• sediment alone and in combination
+with natrium chloride nacl or low
+flow greatly reduced diversity 
+
+• within the tested range nacl increased
+the taxa richness 
+
+• multiple stressor and control commu 
+nity were similar 
+⁎ corresponding author 
+e mail addresses julia nuy uni due de j k nuy anj
+
+vasco elbrecht uni due de v elbrecht florian leese un
+
+https doi org j scitotenv 
+ © the authors published by elsevier b v
+a b s t r a c t
+a r t i c l e i n f o
+article history 
+received november 
+received in revised form march 
+accepted march 
+available online march 
+
+editor d barcelo
+stream ecosystems are affected bymultiple anthropogenic stressors worldwide even though effects of many single
+stressors are comparativelywell studied the effects ofmultiple stressors are difficult to predict in particular bacteria
+and protists which are responsible for the majority of ecosystem respiration and element flows are infrequently
+studiedwith respect tomultiple stressors responses we conducted a streammesocosm experiment to characterize
+the responses of single andmultiple stressors on microbiota two functionally important stream habitats leaf litter
+and benthic phototrophic rock biofilms were exposed to three stressors in a full factorial design fine sediment de 
+position increased chloride concentration salinization and reduced flowvelocity we analyzed themicrobial com 
+position in the twohabitat types of themesocosmsusing an amplicon sequencing approach community analysis on
+different taxonomic levels as well as principle component analyses pcoas based on realtive abundances of oper 
+ational taxonomic units otus showed treatment specific shifts in the eukaryotic biofilm community analysis of
+variance anova revealed that bacillariophyta responded positively salinity and sediment increase while the rel 
+ative read abundance of chlorophyte taxa decreased the combined effects of multiple stressors weremainly antag 
+onistic therefore the community composition inmultiply stressed environments resembled the composition of the
+unstressed control community in terms of otu occurrence and relative abundances 
+a lange u
+i due de 
+
+ this is a
+© theauthors publishedby elsevier b v this is an open access article under the ccby nc nd license
+ http creativecommons org licenses by nc nd 
+keywords 
+antagonistic response protists
+amplicon sequencing
+fine sediment
+flow alteration
+salinity
+ni due de a lange arne beermann uni due de a j beermann manfred jensen uni due de m jensen 
+f leese jens boenigk uni due de j boenigk 
+
+n open access article under the cc by nc nd license http creativecommons org licenses by nc nd 
+
+http crossmark crossref org dialog doi j scitotenv domain pdf
+http creativecommons org licenses by nc nd 
+https doi org j scitotenv 
+mailto vasco elbrecht uni due de
+mailto jens boenigk uni due de
+https doi org j scitotenv 
+http creativecommons org licenses by nc nd 
+http www sciencedirect com science journal 
+www elsevier com locate scitotenv
+
+
+ j k nuy et al science of the total environment – 
+ introduction
+
+freshwater habitats are often affected by multiple anthropogenic
+sources and stressors townsend et al such as environmental
+change e g change of temperature drought or raising water levels 
+landscape conversion loreau et al thomas et al 
+karaouzas et al and depletion of resources saunders et al 
+ agricultural activities can affect nutrient and mineral concentra 
+tion and their delivery to streams alter flow quantity and velocity and
+increase the intake andmobilization of sediment from fields roads and
+streams banks and beds karaouzas et al large catchment areas
+can promote the accumulation of different stressors at a time in this
+study we examined the cumulative effects of three of the globally
+most important stressors e g fine sediment loads in stream ecosystems
+ townsend et al alteration of flow velocities in streams with
+that initiation of droughts dudgeon et al and secondary salini 
+zation james et al cañedo argüelles et al cañedo 
+argüelles et al millennium ecosystem assessment 
+these stressors have a strong effect on freshwater habitats which in
+turn affect stream biodiversity sala et al dudgeon et al 
+
+numerous studies investigated the effects of flow regulation fine
+sediment deposition and marginally salinization on microbiota and
+macrobiota townsend et al matthaei et al wagenhoff
+et al wagenhoff et al elbrecht et al salis et al 
+ in addition to alterations of habitat properties van
+nieuwenhuyse and laperriere davies colley and smith 
+sponseller and benfield alterations of flow sediment regime
+and salinity have been reported to affect species richness and composi 
+tion battin et al b battin et al a dewson et al passy 
+ passy and larson steudel et al wagenhoff et al 
+ telesh et al salis et al change decomposition
+rates webster and waide sponseller and benfield 
+pascoal et al and disturb the exchange of nutrients stevens
+and hurd eriksson battin et al b the impairment
+of biodiversity can be particularly serious because it is connected to eco 
+system functions chapin iii et al tilman et al the
+strength of this connection is expected to be greater when the environ 
+ment is unstable and lower at constant conditions loreau et al 
+a biodiverse ecosystem in theory is expected to stabilize functions
+ yachi and loreau loreau et al and buffer effects of com 
+mon environmental fluctuations e g temperature light loreau et al 
+ cardinale duffy et al therefore it is important to
+understand how alterations of naturally occurring habitat factors such
+as flow velocity sediment and dissolvedmineral and salt content affect
+ecosystems and their functionally important microhabitats 
+
+natural systems are affected by several multiple stressors at the
+same time which are derived by human activity breitburg et al 
+ ormerod et al beermann et al although knowl 
+edge about shifts in community composition as a response to single
+stressors is increasing predictions of effects from multiple stressors
+are more difficult because interactions among stressors often generate
+surprising net impacts breitburg et al paine et al sala
+et al christensen et al ormerod et al gieswein
+et al beermann et al while the interaction of multiple
+stressors has often been assumed to be the additive accumulation of im 
+pacts associatedwith single stressors crain et al gieswein et al 
+ multiple stressors have been shown to cause effects that are
+greater i e synergism or lower i e antagonism than their expected
+additive effects folt et al crain et al jackson et al 
+ nõges et al the combination of secondary salinization 
+fine sediment deposition and flow alteration in a controlled mesocosm
+experiment has so far only been investigated in amultiple stressor con 
+text for macroinvertebrates beermann et al and aquatic fungi
+ röhl et al in general studies on the effects of multiple stressors
+on microorganisms including secondary salinization as a stressor have
+scarcely been studied salis et al 
+microorganisms are essential for ecosystems because they influence
+or enable vital ecosystem functions palmer and white battin
+et al a as colonizers of various microhabitats microorganisms
+contribute to key ecosystem processes in streams pascoal et al 
+singer et al peter et al such as primary production e g 
+epilithic biofilm nutrient cycling biodegradation resistance and resil 
+ience to perturbations manetas et al costerton 
+macgillivray et al grime et al allochthonous organicma 
+terial such as leaf litter is an important habitat property and food source
+for diverse macroinvertebrates suberkopp and weyers pope
+et al and colonized by diverse taxa of bacteria newman et al 
+ and fungi bärlocher gessner et al emilson et al 
+ these taxonomic groups are largely responsible for the initiation
+of leaf litter decomposition submerged leaf litter is also termed coarse
+particulate organic matter coarse pom hieber and gessner 
+pascoal and cássio coarse pom is degraded to fine particulate
+and dissolved organic matter fpom dom and thereby made accessi 
+ble to the aquatic foodweb abelho the general taxonomic com 
+position of submerged leaf litter colonizers was analyzed in several
+studies bärlocher gessner et al newman et al 
+emilson et al the colonizers composition is further dependent
+on decomposition stages das et al duarte et al and the
+introduced leaf species newman et al biofilms substantially
+contribute to nutrient cycling and energy flow and have therefore a
+high importance for ecosystem functioning palmer and white 
+battin et al a biofilms are assemblages of diverse phylgenetic
+groups i e bacteria besemer et al archaea fungi and protists
+ including heterotrophic protists and algae living in an exopolymeric
+matrix attached to various kinds of surfaces marshall lock
+et al fried et al the composition of epilithic biofilm is de 
+pendent on light exposure graba et al maturation stage battin
+et al b besemer et al and includes a greater trophic phy 
+logenetic diversity and complexity in contrast to non epilithic biofilms
+ battin et al b 
+
+the investigation of the microorganismic community of the stream
+microhabitats requires methods with a deep taxonomical resolution
+down to the operational taxonomic unit otu as an equivalent proxy
+for the species level saunders et al this is necessary because ef 
+fects ofmultiple stressorsmay diverge dependent on the taxonomic res 
+olution applied jackson et al salis et al high throughput
+sequencingmethods and filter algorithms now overcome experimental
+errors e g lange et al and cluster algorithms can produce robust
+andmore natural otus e g mahé et al makingotubased stud 
+ies more reliable although these techniques are well established 
+knowledge about eukaryotic and prokaryotic composition of biofilm
+and leaf litter in natural ecosystems is poor moreover it is not known
+how complex many trophic levels and realms communities respond
+either to the application of single stressors or to multiple stressors 
+however it is clear thatfiner taxonomic resolution provides aswell bet 
+ter resolution of effects because species tolerances and responses to
+stressors are distinct from genus and composited taxonomic metrics
+ griffith et al salis et al yang et al more studies
+are needed that analyze the response of stressors on different taxo 
+nomic levels finally responses on otu level have not been set into a
+phylogenetic context 
+
+to investigate the stressor response on different taxonomic scales
+and in a phylogenetic context we used an amplicon sequencing ap 
+proach to analyze the eukaryotic and prokaryotic community composi 
+tion of two ecologically important habitats i e leaf litter and biofilms in a
+stream mesocosm field experiment using the exstream system
+ exstream systems ltd dunedin new zealand the exposure system
+enabled us to study sediment lowflow and salt stressors and their com 
+binations in a full factorial designwith up to eight replicates in total 
+mesocosms in a non–laboratory environment exposures and effects
+were recently described for eukaryotes with a focus on fungi röhl
+et al in this paper we analyzed other taxonomic groups we
+
+
+
+ j k nuy et al science of the total environment – 
+added the bacterial data in this study and reanalyzed the microbial
+dataset using different filter methods and an additional sequencing
+strategy addressing the stressor response on different taxonomic scales
+and in a phylogenetic context 
+
+we hypothesized that community composition would change as a
+response to stressor treatments phototroph organisms were expected
+to respondespecially to sediment stressors because of a light limiting ef 
+fect we expected different responses in the otus occurring in all treat 
+ments core community in rarely occurring otus flexible
+community and on different taxonomic scales finally we predicted
+that otus with high sequence identity would respond similarly to eco 
+system changes this study provides new findings in a complex contin 
+uum of community responses in mesocosms to environmental changes
+and contributes to the understanding of ecosystem responses to glob 
+ally important stressors 
+
+ methods
+
+ study site and experimental design
+
+the experimental setup and local water chemistry are detailed in
+beermann et al and will be briefly addressed here we con 
+ducted a mesocosm experiment exstream systems ltd dunedin 
+new zealand next to a natural second order stream the felderbach
+river north rhine westphalia germany ° ′ ″n ° ′ ″
+e m a s l water including organisms b mm from the
+felderbach was continuously transferred to – unit outdoor
+mesocosm channels cm diameter volume l area cm mi 
+crowave ring moulds interworld auckland new zealand the chan 
+nels were prepared with substratum collected from the downstream
+area of the experiment to resemble the streambed of the felderbach
+river the added substratum consisted of ml fine sediment
+ b mm g gravel – mm and four stones n mm and
+three larger flat stones further we added two leaf litter bags 
+× cm mm mesh size g leaves and four ceramic tiles 
+× × cm to each mesocosm to provide an additional food source
+and habitat for stream biota the litter bags contained g of alder
+leaves as the study site inhabits alder trees and the two ceramic tiles
+each had rough and smooth surfaces the experiment ran for days
+from th march to nd april starting with a day colonization
+period followed by a daymanipulation period here we used a × 
+× full factorial design with two levels of each stressor with eight rep 
+licates the applied stressors were salinity nacl with ambient
+ mg l− vs increased chloride concentration mg l− 
+fine sediment sediment with ambient ml b mm grain size 
+vs added sediment ml b mm grain size ml b mm
+grain size and water flow velocity low flow with ambient
+ cm s− vs reduced flow conditions cm s− its combinations
+ nacl sediment nacl low flow low flow sediment up to three
+combined stressors all and eight controls control after days of
+manipulation the leaf litter bags and biofilm tiles were collected from
+themesocosms the biofilm tileswere separately stored in a sterile plas 
+tic bag and immediately stored at n− °c in a cryoshipper mve
+cryoshipper to avoid changes in community composition due to the
+sampling process and transportation the sampled litterbags were
+stored at− °c the different storage temperatureswere not expected
+to significantly affect the community composition of the samples based
+on lauber et al 
+
+ dna isolation sequencing and bioinformatic processing
+
+the sampleswere subsequently isolatedwith the phenol chloroform
+method by persoh et al with prior bead beating lysis which is
+described in detail in röhl et al and briefly addressed here 
+the biofilm biomass of a rough and a smooth tile from each mesocosm
+were pooled together and dna extracted to include communities with
+potential different growth morphologies in the analysis the biofilm
+was removed from the surface of the tiles using of a razor blade apollo 
+solingen germany and transferred into a ml tube about g of pre 
+pared leaf litter see röhl et al were added to a ml tube prior to
+the lysis these ml tubes contained two steel beads ø mm and g
+glass beads ø mm and g glass beads ø mm and lysis buffer 
+the extractions of leaf litter and biofilm are different due to biomass dif 
+ferences therefore we indicate the volumes for the leaf litter extraction
+in brackets the lysis buffer consisted of μl tris buffer for biofilm
+extraction μl for leaf litter extraction m ph and × extrac 
+tion buffer m licl mm tris hcl ph mm edta ph 
+ sds and sds ph the samples in the ml tubeswere processed
+in a bead mill retsch mm the biofilm was processed at m s− 
+
+for min using a fastprep ™ instrument mp biomedicals leaf litter
+for s at m s− and × s at m s− followed by min cen 
+trifugation at rpm at room temperature rt we added μl
+ μl for leaf litter extraction phenol chloroform isoamylalcohol
+ to the supernatant mixed the solution and cooled it on ice
+and afterwards vortexed the sample for s the samples were centri 
+fuged at rpm for min at °c the following step was per 
+formed two times we added μl μl for leaf litter extraction 
+of chloroform isoamylalcohol to the supernatant incubated the
+solution on ice for min vortexed it for s and centrifuged the sample
+at rpm for min at °c and transformed the supernatant to a
+new ml tube we added μl of nacl m and μl isopropanol
+ to the supernatant and stored the sample at room temperature
+overnight finally the samples were centrifuged at rpm for
+ min at °c and the supernatant was discarded the pellets were
+air dried and dissolved in μl ddh o water μl for leaf litter sam 
+ples the grade of purity and quantification of the extracted biofilm
+dna was analyzed with a nano drop nd spectrophometer
+ thermoscientific and program nd v nanodrop technolo 
+gies wilmington de usa 
+
+to determine the prokaryotic and eukaryotic communities in
+the samples we conducted polymerase chain reactions pcrs 
+targeting the v of the s in combination with the its for eukary 
+otes using euk f lane lange et al ′gtacac
+accgcccgtc′ and its white et al ′gctgcgttcttcat
+cgatgc′ and the v v of the s for bacteria using b f ′
+ggcgvacgggtgmgtaa′ b r ′ttaccgcggckgctggcac′
+ both primers published in lange et al detailed infor 
+mation about pcr protocols and bioinformatics processing can be
+found in röhl et al 
+
+we used the same protocol for bacterial and eukaryotic amplicons 
+the samples were amplified using a two step pcr the first step ampli 
+fied the target sequence while the second step ligates the sequencing
+adapters extracted dna from leaf litter samples were diluted 
+with ddh o before adding to the μl mixture for pcr the mix
+consisted of μl of gotaqg master mix promega madison wi 
+usa μl of ddh o μl of each primer metabion int ag 
+planegg germany and μl dna template the pcr was performed
+with a denaturation step of min at °c cycles of denaturation
+at °c for s annealing at °c for s and elongation at °c for
+ s and a final elongation at °c for min μl of the pcr product
+of each samplewere purified using μl of exosap diluted new en 
+gland biolabs gmbh frankfurt am main germany and subsequently
+incubated for min at °c and for further min at °c in a ptc 
+ thermocycler biorad munich germany the μl mix for pcr
+ included μl gotaq g master mix μl of purified pcr product 
+ μl ddh o and μl of each primer the final pcr protocol consisted
+of an initial denaturation step for min at °c and five cycles of dena 
+turation at °c for s annealing at °c for s and elongation at 
+°c for s and afinal elongation for min at °c formore information
+about sequencing see röhl et al eukaryotic data are deposited
+on the european nucleotide archive ena http www ebi ac uk ena 
+under the accession number prjeb raw prokaryotic data are
+
+http www ebi ac uk ena
+
+
+ j k nuy et al science of the total environment – 
+published and deposited in the ncbi sequence read archive under the
+bioproject srp 
+
+to produce an ampliconduo filtered dataset lange et al we
+performed additional pcrs with the eukaryotic samples and amplified
+each sample twice the pcr was performed in a bio rad t with a
+ μl mix containing u phusion high fidelity dna polymerase
+ finnzymes oy espoo finland μl of × hf buffer pm of each
+primer μm of each desoxynucleosidetriphosphate μl dna
+template μl dmso and μl of water the cycling protocol
+consisted of s denaturation at °c followed by pcr cycles com 
+prising °c for s °c for s °c for s with a final extension
+step of min at °c pcrs of each samplewere performed in five rep 
+licates to increase thednayield pcr products were quantified on an 
+agarose gel after pooling the samples were miseq sequenced with the
+paired endmodule using v chemicals at a commercial sequencing ser 
+vice eurofins mwg gmbh ebersberg germany the sequences were
+demultiplexed by eurofins and required a complete match in themulti 
+plex identifiers mids sequence 
+
+the quality filtering and data processing followed the strategy in
+lange et al the paired end reads were assembled and quality
+filtered using pandaseq version reads with uncalled bases and
+an assembly quality score below and a read overlap below base
+pairs bp or a recalculated phread score below were discarded 
+paired end sequencing data were de replicated and chimeras were
+identified using uchime with its default settings the remaining reads
+were further filtered with the ampliconduo method which keeps
+only sequences found in both pcrs per sample lange et al 
+the application of the ampliconduo method discards many false reads
+and due to the reduced background noisemay strongly increase the en 
+vironmental signals in our analyses we consider false reads as se 
+quence errors and chimeras which are likely byproducts of pcrs
+ lange et al these filtered reads were clustered with swarm
+ mahé et al to obtain otus that were used for blast searches
+against ncbi database to assign taxonomic information the pcr repli 
+cates were merged afterwards raw eukaryotic data are published and
+deposited in the ncbi sequence read archive under the bioproject id
+prjna 
+
+ statistical and phylogenetic analyses
+
+barplots heatmaps and principal coordinate analyses pcoa 
+were carried out using r r core team for barplot genera 
+tion reads were normalized by total read counts per sample except
+for barplot analyzes and pcoa we used only otus which occurred in
+at least two treatment replicates within a random treatment the
+discarded otus were not considered as treatment specific the re 
+maining reads contained otus in additional to the ini 
+tial read count normalization the otu abundances analyzed in
+heatmaps were also normalized by the total read count per otu to
+obtain the relative contribution of an otu per sample pcoas were
+calculated using the r package vegan oksanen et al 
+hellinger transformed reads were used to perform pcoas to reduce
+the weights for otus with low read counts and to allow subsequent
+euclidian representation of data based on euclidian distances
+ legendre and gallagher a ward d cluster analysis in the
+pcoa depicts objects with higher similarity and low distance to
+each other which thus can be grouped into clusters pcoa and cor 
+responding cluster analysis were combined within the same figure 
+additionally silhouette plots were computed supporting the valid 
+ity of the clusters rousseeuw 
+
+further we analyzed the ampliconduo filtered dataset using
+spss ibm spss statistics ibm company chicago il usa 
+we tested treatment effects on the supergroups chlorophyta 
+bacillariophyta chytridiomycota and basidiomycota and those
+most abundant genera gomphonema sellaphora monostroma 
+hazenia planophila pseudendocloniopsis ulothrix and their diversity
+metrics such as taxa richness shannon diversity pielou s evenness 
+chlorophyta and bacillariophyta otu richness taxon abundance
+data were log transformed to improve normality we also analyzed
+the treatment effects on each single otu fig s and on the abun 
+dant genera within core and flexible community and total core and
+total flexible community the core community comprises only
+otus which were present in each treatment flexible otus represent
+those present in at least two replicates in one treatment we per 
+formed single anovas with salinity fine sediment and flow velocity
+as fixed factors for all treatment specific otus the anova model
+was intercept df salinity fine sediment velocity
+ salinity × fine sediment salinity × velocity fine
+sediment × salinity salinity × fine sediment × velocity 
+ error n we calculated standardized effect sizes partial
+eta squared values range – for all results with p ≤ to allow eval 
+uating the likely biological relevance nakagawa nakagawa and
+cuthill 
+
+sequence alignments for phylogenetic analyses were performed
+with mafft version using the e ins i strategy phylogenetic analy 
+ses were conducted with mega kumar et al sequence simi 
+larity of sequences affiliated to gomphonema parvulum hazenia
+basiliensis and ulothrix zonatawere inferred using the neighbor joining
+method the evolutionary distances were computed using the maxi 
+mum composite likelihood method and are in the units of the number
+of base substitutions per site all ambiguous positions were removed
+for each sequence pair and pairwise deletion was applied bootstrap
+support was calculated with replicates the trees were edited in
+figtree v 
+
+ results
+
+ community composition of eukaryota and bacteria in different
+microhabitats
+
+the dataset comprised of raw read pairs in total of which
+the eukaryotes were represented by raw reads and 
+assigned reads the bacteria were represented by raw reads
+of which reads were assigned reads reads in the
+bacteria dataset and reads in the eukaryote dataset remained
+after dereplication and quality filtering the eukaryotic community and
+the bacterial community in the litterbags account for reads
+ otus and reads otus respectively the eukary 
+otic and bacterial biofilm community had reads 
+otus and reads otus respectively the eukaryotic
+biofilm community was dominated by chlorophyta – and
+bacillariophyta – a comparably small amount – 
+accounted for the remaining taxa belonging to fungi excavata 
+haptophyta rhodophyta opisthokonta and rhizaria figs a s a 
+the composition changed among treatments and within replicates
+and was mainly based on shifts of chlorophyta and bacillariophyta 
+the control treatments showed a comparably low fraction of
+bacillariophyta – and a high fraction of chlorophyta
+ – the relative abundance of bacillariophyta increased in
+the all treatment – as well as in the low flow – 
+and nacl – and nacl low flow – treatments 
+the treatments with sediment stressors sediment sediment
+ nacl sediment low flow showed the highest proportional
+shift of bacillariophyta – the eukaryotic leaf litter com 
+munity was comparably stable in all treatments and replicates
+ figs b s b these were largely composed of chytridiomycota
+ – ascomycota – basidiomycota – 
+glomeromycota – and other fungi – 
+
+the bacterial biofilm community was composed of actinobacteria
+ – alphaproteobacteria – betaproteobacteria
+ – bacteroidetes – cyanobacteria – 
+gammaproteobacteria – deltaproteobacteria – 
+
+
+
+ j k nuy et al science of the total environment – 
+proteobacteria – and verrucomicrobia – figs c 
+s c the bacterial leaf litter community was homogeneous in all
+treatments and replicates and was mainly composed of actinobacteria
+ – cyanobacteria – alphaproteobacteria
+ – betaproteobacteria – gammaproteobacteria
+ – deltaproteobacteria – bacteroidetes – 
+verrucomicrobia – and other bacteria – figs d 
+s d 
+
+ similarity of replicates and distance of treatments of eukaryotic biofilm
+communities
+
+we observed only community shifts both on higher taxonomic
+levels and on otu level in the eukaryotic biofilm community we ana 
+lyzed the reads of the eukaryotic biofilms after ampliconduo treatment 
+the ampliconduo dataset of the eukaryotic biofilm community
+comprised assigned raw reads with reads remain 
+ing after dereplication quality filtering and denoising with the
+ampliconduo package lange and hoffmann the swarm algo 
+rithm clustered reads in otus the pcoa based on transformed
+reads of the eukaryotic biofilm community separated the treatments
+in four groups with an eigenvalue of for the first axis and
+ eigenvalue for the second axis fig we observed the most
+fig community composition of bacteria and eukaryotes in different microhabitats the euk
+chlorophyta communities a b eukaryotic community composition without embryophyta
+read abundances each stacked bar represents one replicate of a treatment coded with the corr
+nl nacl low flow velocity sl sediment low flow velocity sn sediment low flow ve
+to right only the most abundant taxonomic groups are indicated in the legend the entire lege
+distinct differences between the control and the sediment treatment 
+the low flow all stressor and nacl grouped between the second axis
+ separated the nacl from the low flow groups 
+
+ responses to the treatments
+
+the univariate analysis of the ampliconduo treated eukaryotic bio 
+film community revealed mainly responses to sediment and salinity
+ table overall otu richness and evenness were high in the salinity
+treatment sediment and salinity caused an antagonistic response in
+the evenness fig bacillariophyta and in particular the taxon
+gomphonema parvulum showed an increase of read abundance in the
+main stressor treatments nacl and sediment and antagonistic responses
+in nacl sediment nacl low flow and all treatments the chloro 
+phyta in general and the representatives ulothrix zonata hazenia
+basiliensis and monostroma arcticum showed a decrease of relative
+read numbers in response to sediment pseudendocloniopsis botryoides
+read abundance increased with nacl and planophila laetevirens and
+monostroma arcticum read abundance decreased in the low flow
+treatment only pseudendocloniopsis botryoides showed synergistic re 
+sponses in nacl low flow treatment the flexible and core community
+responded mainly to sediment in an abundance decrease and showed
+antagonistic interactions in the sediment related treatments the
+aryotic tile community revealed a treatment specific shift mainly in bacillariophyta and
+ c d bacterial composition in both biofilm tiles and leaf litter bags based on relative
+esponding letter from left to right c control l low flow velocity n nacl s sediment 
+locity a all stressors the stacked bars are color coded according to the legend from left
+nd is given in fig s 
+
+
+
+fig pcoa of the realitve otu composition of eukaryotic algae tiles after ampliconduo
+filter step the control treatments are horizontally separated from the sediment
+containing treatments and vertically from the low flow and nacl treatments principal
+coordinate analysis is based on the hellinger transformed and rarefied abundance of
+reads from the ampliconduo treated data of the eukaryotic biofilm the eight
+treatments are shown by different symbols the colors red green dark blue and cyan
+correspond to the clusters which result from theward cluster analysis 
+
+ j k nuy et al science of the total environment – 
+chlorophyta showed mainly antagonistic responses to stressor combi 
+nations in particular in the treatments sediment nacl and sediment
+ low flow antagonistic responses were in particular observed for
+gomphonema parvulum ulothrix zonata planophila laetevirens and
+monostroma arcticum from the flexible community and planophila
+laetevirens and pseudendocloniopsis botryoides from the core commu 
+nity the overall chlorophyta community showed an antagonistic re 
+sponse to the all treatment hazenia basiliensis and ulothrix zonata
+indicate as well an antagonistic response to the all treatment according
+to the chlorophyta response 
+
+ unstressed and stressed biofilm communities are similar in composition
+
+our results from section showed a similarity of control and all
+treatment in the ampliconduo treated eukaryotic biofilm community 
+in general the all treatment and the control treatment shared otus
+ approximately of total otus of which nine were affiliated to
+fungi were affiliated to stramenopiles and otus belong to the
+chlorophyta fig the otus affiliated to fungi contributed and
+ to read abundance in each the all and the control treatment the
+stramenopiles contributed and in the all and control treat 
+ment respectively themost abundant group in terms of read abundance
+in all and controlwere the chlorophyta – in particular otus af 
+filiated to planophila laetevirens made up – pseudendocloniopsis
+botryoides – and monostroma arcticum – hazenia
+basiliensis otus are represented by – ulothrix zonata with
+ – and the residual chlorophyta otus with – 
+
+ core community and flexible community of biofilm
+
+the core community of the eukaryotic biofilm from the
+ampliconduo dataset comprised otus otus table s shared
+among all treatments fig b chlorophyta represent of the
+otus bacillariophyta and chytridiomycota and basidiomycota 
+each most reads of the core community were affiliated with the
+bacillariophyta ± and the chlorophyta ± 
+ fig a otus affiliatedwith fungi were generally not frequently repre 
+sented ± the core community comprised of only of
+the overall otus but accounted for of the overall reads fig c 
+d the flexible community comprised of all otus which were not
+found in each treatment of the overall otus but only for 
+of all reads these were otus of whichwith ± were rep 
+resented by the chlorophyta ± bacillariophyta and ±
+ chytridiomycota the relative number of otus is very similar to
+the read abundance of the taxonomic groups 
+
+ habitat preferences of otus in eukaryotic biofilm community
+
+the otus of gomphonema parvulum hazenia basiliensis and ulothrix
+zonata were analyzed for intraspecific sequence variation and environ 
+mental preferences and responses fig gomphonema parvulum com 
+prised otus clustering roughly in three groups due to sequence
+similarity fig a the otus in the upper part of the tree indicated sim 
+ilar distribution patterns with occurrences in nacl ± sedi 
+ment ± nacl low flow ± and nacl sediment
+ ± the control group is rarely represented among these otus
+ ± the responses are consistent and show read increasing
+responses in mainly nacl treatments and sediment treatments the
+otus in the middle part of the tree were more abundant in sediment
+ ± and nacl sediment ± only n 
+showed a read decreasing response in the low flow treatments the re 
+sponses of theotus in the lower part of the treewere characterized by a
+relative read decrease in the sediment and nacl treatments the otus
+occured in the all ± control ± low flow ±
+ nacl ± and partially sediment ± treatment 
+only the otu n responded with a read increase to nacl we
+used otus for the phylogenetic analysis of the chlorophyte ulothrix
+zonata fig b the otus in this analysis were very similar and indi 
+cated a consistent distribution pattern i e the occurrence of otus
+were mostly restricted to the nacl ± treatment and with
+lower proportions low flow ± control ± and all
+ ± only of these otus showed a response to the stressors 
+four otus n n n n decreased in presence of sediment
+whereas one n increased in relative abundance n and n 
+which belong to the core community decreased in the nacl treatment 
+n and n decreased in abundance in the low flow treatments 
+while n increased when treated with low flow 
+
+for the phylogenetic analysis ofhazenia basiliensis we used otus
+for the calculation of the sequence similarity tree the otus clustered in
+three groups otus of the upper and themiddle part of the tree showed
+a similar distribution pattern in thenacl upper ± middle 
+± low flow upper ± middle ± and with
+lower relative abundances in all upper ± middle ±
+ and control upper ± middle ± fig c addi 
+tionally these otus consistently showed a low relative abundance in
+the sediment treatment only the otu n showed a relative in 
+crease in the response to sediment treatment the otus in the lower
+part of the tree had in addition to nacl low flow all and control treat 
+ments a relatively high abundance in the nacl sediment ±
+ the response patterns in these otus were more diverse the
+otus n and n only responded to the sediment treat 
+ment while n and n responded to low flow and nacl
+and n and n to nacl only 
+
+ discussion
+
+ general community composition
+
+the composition of the eukaryotic community in the biofilm control
+group was similar to findings in other studies battin et al a 
+
+
+
+table 
+anova of diversity indices taxon abundance and otus of abundant taxa in eukaryotic biofilm 
+
+response variable salinity n sediment s velocity l salinity ∗ sediment salinity ∗ velocity sediment ∗ velocity salinity ∗ sediment ∗
+velocity
+
+p value es n p value es s p value es l p value es c p value es c p value es c p value es c
+
+diversity indices and abundances shannnon diversity ↑
+pielou s evenness ↑ a 
+total taxon richness ↑ 
+otu richness chlorophyta ↑ 
+otu richness bacillariophyta ↑ 
+chytridiomycota 
+basidiomycota 
+bacillariophyta ↑ ↑ a a a
+gomphonema ↑ ↑ a a a
+sellaphora 
+
+chlorophyta ↓ a a a
+ulothrix ↓ a
+hazenia b ↓ a a
+planophila ↓ b a b a b a 
+pseudendocloniopsis ↑ b a s a 
+monostroma ↓ ↓ a a 
+
+flexible flexible total ↓ 
+gomphonema flexible a a a
+ulothrix flexible ↓ a a a
+hazenia flexible ↓ 
+planophila flexible ↑ ↓ a a a 
+pseudendocloniopsis flexible 
+monostroma flexible ↓ a a 
+
+core core total 
+gomphonema core ↑ a 
+ulothrix core 
+hazenia core ↓ a
+planophila core ↑ ↓ a a a 
+pseudendocloniopsis core a a a 
+monostroma core ↓ ↓ ↑ 
+
+es effect size n s l response directions to “nacl” n “sediment” s “low flow velocity” l c combined response types a antagonistic syn synergistic bold numbers indicate significant p values and its corresponding effect
+sizes besides 
+
+ 
+j k
+
+ n
+uy
+
+etal science
+ofthe
+
+totalenvironm
+ent
+
+ 
+ 
+
+ – 
+
+
+
+pielous evenness
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f i
+
+nd
+ex
+
+ v
+al
+
+ue
+s
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+otu richness chlorophyta
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f o
+
+tu
+s
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+otu richness bacillariophycea
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f o
+
+tu
+s
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+chlorophyta
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+bacillariophyceae
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+gomphonema
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+ulothrix
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+hazenia
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+planophila
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+pseudoendocloniopsis
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+monostroma
+m
+
+ea
+n 
+
+nu
+m
+
+be
+r o
+
+f n
+or
+
+m
+al
+
+iz
+ed
+
+ re
+ad
+
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+flexible total
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+gomphonema flexible
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+ulothrix flexible
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+hazenia flexible
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+planophila flexible
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+pseudendocloniopsis flexible
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+monostroma flexible
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+gomphonema core
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+hazenia core
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+planophila core
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+pseudendocloniopsis core
+
+m
+ea
+
+n 
+nu
+
+m
+be
+
+r o
+f n
+
+or
+m
+
+al
+iz
+
+ed
+ re
+
+ad
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flow velocity − flow velocity −
+sediment 
+
+fig responses of biofilm taxa white bars represent ambient and grey bars increased salinity error bars represent standard errors sample size for each treatment combination is n 
+
+ j k nuy et al science of the total environment – 
+
+
+
+fig otu composition similarity of control and all stressor treatment mainly otus of chlorophyta are abundant in both control and all stressor treatment bacillariophyta and fungi are
+dominant in the remaining treatments heatmap based on the relative abundance of an otu over all treatments only shared otus from the control and the all stressor treatment are
+indicated the colors represent the proportion of an otu in a treatment from a low proportion white medium proportion dark orange to a high proportion magenta the otus
+are sorted by their taxonomic group i e fungi stramenopiles chlorophyta 
+
+ j k nuy et al science of the total environment – 
+ b besemer et al graba et al röhl et al when
+the biofilm forms under the influence of light phototrophic organ 
+isms such as cyanobacteria prokaryotes representatives of the
+bacillariophyta and chlorophyta are usually dominant whereas 
+the fungi are rare graba et al biofilms have succession
+stages during maturation our study results concurred with earlier
+studies with bacillariophyta being dominant in early stages battin
+et al a and filamentous or coccal chlorophyta being dominant
+in mature biofilm stages besemer et al 
+
+our analyses of the bacterial biofilm composition agreed partly with
+other studies besemer et al salis et al with biofilms
+being composed of proteobacteria flavobacteria actinobacteria 
+bacteroidetes cyanobacteria bacilli od chlamydiae and optitutae 
+although the bacterial community underlies a succession during matu 
+ration of the biofilm battin et al a besemer et al 
+betaproteobacteria usually dominate biofilm assemblages as they at 
+tach to surfaces more easily than other bacterial groups araya et al 
+ however in our study the prokaryotic biofilm community was
+dominated by alphaproteobacteria this finding corresponds to the
+study of jones et al who suggested that artificial substrates for
+biofilm formation may favour alphaproteobacteria it is also possible
+that the taxonomic dominance of alphaproteobacteria may be a result
+of a primer bias 
+
+the leaf litter community composition of the control treatments also
+corresponded to the findings of other studies see below for example 
+eukaryotic leaf litter assemblages were dominated by diverse groups of
+
+
+
+fig flexible and core community the core community comprises themajority of reads but theminority of otus the flexible community shows a similar relative abundance pattern of
+reads and otus a composition of the core community and c flexible community within each treatment based on the relative abundance of reads b relative abundance of otus of the
+core and d flexible community in all treatments the core otu composition is shown in a single bar as it is representative for each treatment a b c d the colors represent the taxonomic
+affiliation according to the legend from left to right 
+
+ j k nuy et al science of the total environment – 
+fungi bärlocher gessner et al in particular ascomycota 
+basidiomycota and chytridiomycota emilson et al the eukary 
+otic leaf litter community and especially fungi were already intensively
+investigated by röhl et al ascomycota were the dominant
+fungal group which may be explained by ascomycota s func 
+tional role in the decomposition of submerged wood hyde
+et al prokaryotic leaf litter assemblages are colonized
+by acidobacteria actinobacteria bacteroidetes firmicutes 
+planctomycetes proteobacteria verrucomicrobia and other bac 
+teria newman et al in our study the bacterial leaf litter
+community at day and onward was very similar to the day 
+community in the study by newman et al in which the
+succession of leaf litter communities grown on different leaf spe 
+cies was investigated obviously the composition is quite similar
+for in the tested leaf species newman et al on this tax 
+onomic level 
+
+even though leaf litter communities have been discussed as being
+highly responsive to environmental changes emilson et al we
+found no visible response in the shift of eukaryotic nor in the bacterial
+community this is not that surprising as leaf litter communities are
+probably more dependent on decomposition stages das et al 
+newman et al duarte et al than on any environmental
+changes however we cannot exclude the possibility that the applied
+stressor level was insufficient to induce responses fungi are however 
+in general known to be more resistant to disturbances such as lower
+water potentials and salinity compared to bacteria griffin fur 
+thermore the leaf litter environment might buffer disturbances as the
+eps matrix of bacterial biofilms does decho the buffering
+aspect is a possible reason for the slight community shifts in the bacte 
+rial biofilm here all treatments differed individually from the control
+treatment not only on a high taxonomic level but also on otu level 
+however the stressor treatments cannot be clearly distinguished from
+each other based on community composition or otus 
+
+ single stressor responses
+
+ sediment
+sediment affected the community composition above all
+
+phototrophic eukaryotes i e chlorophyta and bacillariophyta however 
+only chlorophyta were strongly affected by sediment treatments prob 
+ably secondarily due to the light limiting effect because the sand cov 
+ered the surface van nieuwenhuyse and laperriere davies 
+colley and smith and maybe additionally due to the reduction
+of the surface area for colonization stanley and lazazzera 
+bacillariophyta in contrast benefited from sediment this inverse re 
+sponse of the two phototrophic taxa can be explained by the hypothesis
+introduced by passy on high and low profile communities the
+hypothesis differentiates between epilithic communities or high profile
+communities and epipsammic or low profile communities epilithic
+communities are according to the hypothesis comparatively resource
+unlimited nutrients and light but disturbance stressed graze distur 
+bance in contrast epipsammic communities cope with resource limi 
+tation but low disturbances wagenhoff et al found that
+epilithic or high profile communities dominate to a certain extent of
+fine sediment discharge the epipsammic communities sediment at 
+tached communities persisted independently from fine sediment
+
+
+
+gomphonema parvulum
+
+↓
+
+↓
+
+↓
+
+ 
+snl
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓↓
+
+↓
+
+↓
+
+↓
+
+↓
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+↓
+
+↓
+
+↓
+↓
+
+all control low flow nacl sediment nacl
+ 
+
+low flow
+
+sediment
+ 
+
+low flow
+
+nacl
+ 
+
+sediment
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+main 
+effects
+
+c
+or
+
+e 
+o
+
+tu
+
+proportion of an 
+otu across all 
+
+samples
+
+ 
+
+ 
+
+ 
+
+ 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+a
+
+ulothrix zonata
+
+all control low flow nacl sediment nacl
+ 
+
+low flow
+
+sediment
+ 
+
+low flow
+
+nacl
+ 
+
+sediment
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓ ↓
+
+↓
+
+↓
+
+↓
+
+snl
+main 
+
+effects
+
+c
+or
+
+e 
+o
+
+tu
+
+proportion of an 
+otu across all 
+
+samples
+
+ 
+
+ 
+
+ 
+
+ 
+
+ n n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ n 
+ n 
+ n 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+
+ 
+
+b
+
+ j k nuy et al science of the total environment – 
+
+
+
+hazenia basiliensis
+
+↓
+
+↓
+
+all control low flow nacl sediment nacl
+ 
+
+low flow
+
+sediment
+ 
+
+low flow
+
+nacl
+ 
+
+sediment
+
+↓
+
+↓
+
+↓
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+↓
+
+↓
+
+↓
+
+snl
+main 
+
+effects
+
+c
+or
+
+e 
+o
+
+tu
+
+n 
+n 
+n 
+n 
+
+n 
+n 
+n 
+n 
+n 
+n 
+
+n 
+n 
+n 
+
+n 
+n 
+n 
+
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+
+n 
+n 
+n 
+
+n 
+n 
+n 
+n 
+n 
+
+n 
+n 
+
+n 
+n 
+
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+
+n 
+n 
+n 
+n 
+n 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+n 
+
+proportion of an 
+otu across all 
+
+samples
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c
+
+↓
+
+↓
+↓
+
+↓
+
+fig habitat preferences of otuswithin taxonomic groups gomphonema parvulum shows a high otu sequence diversity in the stressor treatments except for the all stressor treatment 
+these different sequences show a similar response according to the grouping heatmaps of a gomphonema parvulum b ulothrix zonata and c hazenia basiliensis based on the proportion
+of otus over all normalized treatments a b c colors represent the proportion of otus in a treatment from a low proportion white over medium proportion dark orange to a high
+proportion magenta trees were calculated with mega using the neighbor joining method based on maximum composite likelihood optimal trees with the sums of branch
+lengths equal to a b and c are shown analyses involved a b and c nucleotide sequences with a total of positions in the final
+dataset a b c trees are rooted with the fungal otu n the root is not shown bootstrap values higher than are shown replicates tables on the right side show
+responses of the otus to the main effects obtained from the results of the anova which can be found in table s 
+
+ j k nuy et al science of the total environment – 
+increase as unexceptional chlorophyta taxa are strongly affected by sed 
+iment they might be considered as high profile community while
+bacillariophyta in particular the highly abundant gomphonema parvulum
+taxon as potential low profile community they might strongly benefit
+from sediment as an additional microhabitat washington et al 
+ 
+
+ salinity
+the overall otu richness of microbial eukaryotes as well as the rich 
+
+ness of bacillariophyta and chlorophyta increased as a result of in 
+creased salinity high species richness is commonly observed in saline
+environments sogin et al zettler et al but for protists
+in a marine environment the highest species richness was found in
+the so called “horohalinicum”which describes themoderate salinity be 
+tween and g kg− telesh et al even though a higher salin 
+ity seems to promote species richness of protists the increase in
+richness detected here was a surprise as aquatic microorganisms
+possess particular adaptions to the ion composition of their natural en 
+vironments potapova and charles potapova dupont et al 
+ dunlop et al and as an increase in richness as a result to
+increased salinity has to our knowledge not been observed for fresh 
+water environments before however it needs to be emphasized that no
+high salt concentrations that might have been detrimental for the
+tested protists were reached in this experiment furthermore the in 
+crease in salinity was only driven by an increase in nacl disregarding
+the ion composition which might be important to cause response in
+certain taxa not only the taxa richness but also bacillariopyhceae abun 
+dance increased when salinity increased saline environments are
+known to inhibit the ability to initially form biofilms stanley and
+lazazzera but still to increase freshwater microbial community
+biomass at the same time the exopolymeric substances in the extracel 
+lular matrix of formed biofilms produce sticky coatings when exposed
+to increased saline conditions decho which might protect the
+community and cause an increase in richness 
+
+
+
+ j k nuy et al science of the total environment – 
+ flow
+in contrast to sediment and salinity we foundonlyweak community
+
+shifts and responses to decreased flow although flow velocity has an
+impact on the distribution of nutrients and oxygen in streams
+ stevens and hurd eriksson battin et al b flow re 
+lated responses are reported to bemainly accompaniedwith changes in
+biomass and not necessarily in a community shift battin et al b 
+dewson et al matthaei et al although we considered
+chlorophyta as high profile communities which were supposed to ben 
+efit from low flow regimes passy and larson the relative abun 
+dance declines in particular otus affiliatedwith the taxa planophila and
+monostroma it should be noted however that the flow velocity reduc 
+tion here is rathermoderate as both conditions normal and alternated 
+are rather typically for streamareas in slowflowing lowmountain range
+streams we maybe did not find measureable responses 
+
+ multiple stressor responses
+
+multiple stressors may have unpredictable effects on biota in fresh 
+water ecosystems paine et al sala et al christensen et al 
+ we only found antagonistic effects which reduced the relative
+importance of individual stressors when applied in combination this
+finding may be explained by the fact that tolerance to one stressor can
+improve the tolerance to a second stressor that acts through similar
+mechanisms blanck this finding has been reported to be typical
+for freshwater habitats in general passy and larson jackson
+et al additionally antagonistic effects were found to occur
+mainly among marine autotrophs heterotrophs in contrast are sup 
+posed to respond synergistic to stressors crain et al based on
+these findings in literature and the antagonistic responses in autotrophs
+in our study we consider that responses to multiple stressors may sys 
+tematically differ depending on the mode of nutrition autotrophic 
+heterotrophic 
+
+responses of taxonomic groups differ as well when particular stressor
+combinations were applied in our study sediment interacted antagonis 
+tically with salt and decreased flow and over of all antagonistic re 
+sponses accounted for sediment salt interactions while over 
+accounted for sediment andflow interactions we found themost distinct
+interactions in bacillariophyta i e gomphonema parvulum and chloro 
+phyta i e planophila laetevirens and pseudendocloniopsis botryoides 
+
+communities exposed to all applied stressors appeared to be more
+similar to the control community than any of the single stressor or
+two stressor treatments this effect was even visible on the otu level 
+although protistan communities show responses to changes in their en 
+vironment quickly it may be that a different assessment endpoint of the
+all stressor treatmentmayprovide different results the stressor distinct
+stressor responses may have occurred later or even earlier a different
+explanation for the similarity of the all stressor community might be
+that antagonistic interactions nearly neutralized the stressor effects 
+maybe this neutralization occurs only in this specific stressor combina 
+tion as an alternative approach specialist taxa adapted to distinct
+stressors may become abundant in single stressor treatments whereas
+they are rare or missing both in the unstressed control treatments as
+well as in treatments exposed to multiple stressors this could mean
+that in terms of the relative abundances we may even expect the con 
+trol and all stressor treatments to be most similar most taxa in partic 
+ular chlorophyta otus showed such a pattern other taxa such as many
+bacillariophyta were not as abundant in control or all treatment as the
+sediment treatments bacillariophyta seemed to respond to sediment
+whereas they seem less affected by other stressors and thus indicate a
+specialization to sediment stress 
+
+ differential responses
+
+the dataset of this project comprised some otus which occurred in
+each channel core community and several otus which occurred only
+in some treatments flexible community the core otus which were
+present in all treatments were at the same time the most abundant
+ones 
+
+the core and flexible community revealed a similar trend on the
+community level interestingly the community response to sediment
+treatments seems to be largely due to the flexible community as the
+core community did not indicate a distinct effect of sediment on the
+level of distinct taxa patterns between core and flexible community
+were not consistent it is obviously important to include also rare
+otus in the assessment of responses as important information might
+be missed or even misidentified monostroma evidence for that also
+comes from salis et al who stated that information may go un 
+noticed when analyzing bacterial response patterns at high taxonomic
+levels not surprisingly our analyses on the otu level indicated more
+interactions than analyses performed using higher taxonomic level
+such as genus level which can be biased to the more tolerant species
+in the genus griffith et al yang et al we observed the
+strongest differences between otus with similar sequences affiliated
+with gomphonema parvulum we suggested that these otus in fact re 
+flect several subspecies each of these clustering otus showed similar
+responses but the pattern deviated between them exactly these otus
+with frequent occurrences in the sediment and nacl treatments were
+rarely found in the control community and vice versa a closer inspec 
+tion of the sequences revealed a highly variable its and some sequence
+variations already in the v region we consider it therefore likely that
+this clade affiliated with gomphonema parvulum consists of many sub 
+species or possibly a species with different ecotypes a potential lack
+of reference sequences in the databases may also contribute to this
+finding 
+ conclusion
+
+our multiple stressor field experiment demonstrates a high poten 
+tial for analyses of community responses to stressors using molecular
+techniques we could show that the eukaryotic biofilm community spe 
+cifically responded to stressor treatments deposited fine sediment as a
+single stressor caused the most distinct effects on the phototrophic
+community in the biofilm however the response of phototrophs dif 
+fered systematically between taxonomic groups in particular between
+chloropyta and bacillariophyta salt had an effect on taxa richness of
+the biofilm community most multiple stressor applications showed
+antagonistic response patterns in the eukaryotic phototrophic biofilm
+communities suggesting that multiple stressors have less effects than
+anticipated from the individual additive responses inferred multiple
+stressors shifted the microbial community more towards the control
+community composition in terms of relative otu abundance 
+bacillariophyta otus seemed to benefit from single and stressor pair
+treatments compared to chlorophyta as they are rare in the control
+and the all treatment analyses on otu level provided additional infor 
+mation that is overlooked using higher taxonomic level including infor 
+mation about sequence differences andmode of nutritionmight help to
+facilitate analyses and clarify the understanding of amplicon based oc 
+currence patterns however our research does not definitively resolve
+all the ecological questions but other published scientific literature
+helps to explain our results continued investigation of taxonomic reso 
+lution distinct functions of species within an ecosystem and analysis of
+the combined influences of different environmental parameters within
+a wider gradient of exposure levels could further improve our
+understanding of stream community responses under multiple
+stressors different sequencing methods and especially metagenomic
+and metatranscriptomic analyses will contribute to a better under 
+standing of multiple stressor effects on microorganismic communities
+in the future as functional potential and expression patterns can be di 
+rectly linked to ecosystem functions and their potential change under
+stressor exposure 
+
+
+
+ j k nuy et al science of the total environment – 
+funding
+
+theworkwas partially funded by theministry of innovation science
+and research north rhinewestphalia germany within the framework
+of the fortschrittskolleg future water we thank the dfg project bo
+ for financial support ab ve and fl were supported through
+the “genestream” junior research group grant by the kurt eberhard
+bode foundation 
+
+acknowledgements
+
+wealso thank jay piggott and christophd matthaei for their contin 
+uous support with respect to exstreamexperiments we are thankful to
+christina bock who supported the phylogenetic work with knowledge
+and advice finally we thank nadine graupner and two anonymous re 
+viewers for critically reviewing the paper and providing helpful advice 
+
+appendix a supplementary data
+
+supplementary data to this article can be found online at https doi 
+org j scitotenv 
+
+references
+
+abelho m from litterfall to breakdown in streams a review sci world j 
+ – 
+
+araya r t k takagi t yamagachi n nasu m bacterial activity and community
+composition in stream water and biofilm from an urban river determined by fluores 
+cent in situ hybridization and dgge analysis fems microbiol ecol – 
+
+bärlocher f freshwater fungal communities in renkema j ed introduction to
+discourse studies john benjamins publishing company amsterdam p 
+
+battin t j kaplan l a denis newbold j hansen c m e a contributions of micro 
+bial biofilms to ecosystem processes in stream mesocosms nature – 
+
+battin t j kaplan l a newbold j d cheng x hansen c b effects of current ve 
+locity on the nascent architecture of stream microbial biofilms appl environ 
+microbiol – 
+
+beermann a j elbrecht v karnatz s ma l matthaei c d piggott j j leese f 
+multiple stressor effects on streammacroinvertebrate communities a mesocosm ex 
+periment manipulating salinity fine sediment and flow velocity sci total environ 
+ – 
+
+besemer k singer g limberger r chlup a k hochedlinger g hodl i baranyi c 
+battin t j biophysical controls on community succession in stream biofilms 
+appl environ microbiol – 
+
+besemer k peter h logue j b langenheder s lindstrom e s tranvik l j battin t j 
+ unraveling assembly of stream biofilm communities isme j – 
+
+blanck h a critical review of procedures and approaches used for assessing
+pollution induced community tolerance pict in biotic communities hum ecol 
+risk assess – 
+
+breitburg d l baxter j w hatfield c a howarth r w jones c g lovett g m wigand 
+c understanding effects of multiple stressors ideas and challenges successes
+limitations front ecosyst sci – 
+
+cañedo argüelles m kefford b j piscart c prat n schäfer r b schulz c j 
+salinisation of rivers an urgent ecological issue environ pollut – 
+
+cañedo argüelles m hawkins c p kefford b j schäfer r b dyack b j brucet s 
+buchwalter d dunlop j frör o lazorchak j coring e fernandez h r 
+goodfellow w achem a l g hatfield dodds s karimov b k mensah p olson 
+j r piscart c prat n ponsá s schulz c j timpano a j water saving
+freshwater from salts science – 
+
+cardinale b j the influence of substrate heterogeneity on biofilm metabolism in a
+stream ecosystem ecology – 
+
+chapin iii f s walker b h hobbs r j hooper d u lawton j h sala o e tilman d 
+ biotic control over the functioning of ecosystems science – 
+https doi org science 
+
+christensen m r graham m d vinebrooke r d findlay d l paterson m j turner 
+m a multiple anthropogenic stressors cause ecological surprises in boreal
+lakes glob chang biol – 
+
+costerton j bacterial biofilms in nature and disease annu rev microbiol 
+ – 
+
+crain c m kroeker k halpern b s interactive and cumulative effects of multiple
+human stressors in marine systems ecol lett – 
+
+das m royer t v leff l g diversity of fungi bacteria and actinomycetes on
+leaves decomposing in a stream appl environ microbiol – 
+
+davies colley r j smith d g offsite measurement of the visual clarity of waters 
+j am water resour assoc – 
+
+decho a w microbial biofilms in intertidal systems an overview cont shelf res 
+ – 
+
+dewson z s james a b w death r g a review of the consequences of decreased
+flow for instream habitat andmacroinvertebrates j n am benthol soc – 
+duarte s cassio f ferreira v canhoto c pascoal c seasonal variability may af 
+fect microbial decomposers and leaf decomposition more than warming in streams 
+microb ecol – 
+
+dudgeon d arthington a h gessner m o kawabata z i knowler d j leveque c 
+naiman r j prieur richard a h soto d stiassny m l j sullivan c a fresh 
+water biodiversity importance threats status and conservation challenges biol rev 
+camb philos soc – 
+
+duffy j e cardinale b j france k e mcintyre p b thébault e loreau m the
+functional role of biodiversity in ecosystems incorporating trophic complexity 
+ecol lett – 
+
+dunlop j mann r hobbs d smith r nanjappa v vardy s vink s assessing
+the toxicity of saline waters the importance of accommodating surface water ionic
+composition at the river basin scale australas bull ecotoxicol environ chem – 
+
+dupont c l larsson j yooseph s ininbergs k goll j asplund samuelsson j 
+mccrow j p celepli n allen l z ekman m lucas a j hagstrom a thiagarajan 
+m brindefalk b richter a r andersson a f tenney a lundin d 
+tovchigrechko a nylander j a a brami d badger j h allen a e rusch d b 
+hoffman j norrby e friedman r pinhassi j venter j c bergman b func 
+tional tradeoffs underpin salinity driven divergence in microbial community compo 
+sition plos one e 
+
+elbrecht v beermann a j goessler g neumann j tollrian r wagner r wlecklik a 
+piggott j j matthaei c d leese f multiple stressor effects on stream inverte 
+brates a mesocosm experiment manipulating nutrients fine sediment and flow ve 
+locity freshw biol – 
+
+emilson c e kreutzweiser d p gunn j m mykytczuk n c s effects of land use
+on the structure and function of leaf litter microbial communities in boreal streams 
+freshw biol – 
+
+eriksson p g interaction effects of flow velocity and oxygen metabolism on nitri 
+fication and denitrification in biofilms on submersed macrophytes biogeochemistry
+ – 
+
+folt c l chen c y moore m v burnaford j synergism and antagonism among
+multiple stressors limnol oceanogr – 
+
+fried j mayr g berger h traunspurger w psenner r lemmer h monitoring
+protozoa and metazoa biofilm communities for assessing wastewater quality im 
+pact and reactor up scaling effects iwa publishing pp – 
+
+gessner m o gulis v kuehn k a chauvet e suberkropp k fungal decom 
+posers of plant litter in aquatic ecosystems in kubicek c druzhinina i eds envi 
+ronmental and microbial relationships the mycota springer verlag berlin 
+
+gieswein a hering d feld c k additive effects prevail the response of biota to
+multiple stressors in an intensively monitored watershed sci total environ 
+ – – 
+
+graba m sauvage s moulin f y urrea g sabater s sanchez pérez j m inter 
+action between local hydrodynamics and algal community in epilithic biofilm water
+res – 
+
+griffin d m ecology of soil fungi chapman and hall london 
+griffith m b zheng l cormier s m using extirpation to evaluate ionic tolerance
+
+of freshwater fish environ toxicol chem – 
+grime j p brown v k thompson k masters g j hillier s h clarke i p askew a p 
+
+corker d kielty j p the response of two contrasting limestone grasslands
+to simulated climate change science 
+
+hieber m gessner m o contribution of stream detrivores fungi and bacteria to
+leaf breakdown based on biomass estimates ecol soc am – 
+
+hyde k d fryar s tian q bahkali a h xu j lignicolous freshwater fungi along
+a north–south latitudinal gradient in the asian australian region can we predict the
+impact of global warming on biodiversity and function fungal ecol – 
+
+jackson m c loewen c j g vinebrooke r d chimimba c t net effects of multiple
+stressors in freshwater ecosystems a meta analysis glob chang biol – 
+
+james k r cant b ryan t responses of freshwater biota to rising salinity levels
+and implications for saline water management a review aust j bot 
+
+jones p r cottrell m t kirchman d l dexter s c bacterial community structure
+of biofilms on artificial surfaces in an estuary microb ecol – 
+
+karaouzas i smeti e vourka a vardakas l mentzafou a tornés e sabater s 
+muñoz i skoulikidis n t kalogianni e assessing the ecological effects of
+water stress and pollution in a temporary river implications for watermanagement 
+sci total environ – 
+
+kumar s stecher g tamura k mega molecular evolutionary genetics analysis
+version for bigger datasets mol biol evol – 
+
+lane d j s s rrna sequencing in stackebrandt e goodfellow m eds 
+nucleici acid techniques in bacterial systematics wiley chichester pp – 
+
+lange a hoffmann d statistical analysis of amplicon data of the same sample to
+identify artefacts r package version 
+
+lange a jost s heider d bock c budeus b schilling e strittmatter a boenigk 
+j hoffmann d ampliconduo a split sample filtering protocol for high 
+throughput amplicon sequencing of microbial communities plos one 
+e 
+
+lauber c l zhou n gordon j i knight r fierer n effect of storage conditions
+on the assessment of bacterial community structure in soil and human associated
+samples fems microbiol lett – 
+
+legendre p gallagher e d ecologically meaningful transformations for ordination
+of species data oecologia – 
+
+lock m a wallace r r costerton j w ventullo r m charlton s e river
+epilithon toward a structural functional model oikos – 
+
+loreau m naeem s inchausti p bengtsson j grime j p hector a hooper d u 
+huston m a raffaelli d schmid b tilman d wardle d a biodiversity
+and ecosystem functioning current knowledge and future challenges science
+ 
+
+https doi org j scitotenv 
+https doi org j scitotenv 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+https doi org science 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+
+
+ j k nuy et al science of the total environment – 
+macgillivray c w grime j p the integrates screening programme isp team 
+testing predictions of the resistance and resilience of vegetation subjected to ex 
+treme events funct ecol – 
+
+mahé f rognes t quince c de vargas c dunthorn m swarm robust and fast
+clustering method for amplicon based studies peerj e 
+
+manetas y petropoulou y karabourniotis g compatible solutes and their effects
+on phosphoenolpyruvate carboxylase of c halophytes plant cell environ 
+ – 
+
+marshall k c interfaces inmicrobial ecology harvard university press cambridge 
+matthaei c d piggott j j townsend c r multiple stressors in agricultural
+
+streams interactions among sediment addition nutrient enrichment and water ab 
+straction j appl ecol – 
+
+millennium ecosystem assessment ecosystems and humanwell being synthesis 
+island press washington dc 
+
+nakagawa s a farewell to bonferroni the problems of low statistical power and
+publication bias behav ecol – 
+
+nakagawa s cuthill i c effect size confidence interval and statistical significance 
+a practical guide for biologists biol rev camb philos soc – 
+
+newman m m liles m r feminella j w litter breakdown and microbial succes 
+sion on two submerged leaf species in a small forested stream plos one 
+e 
+
+nõges p argillier c borja Á garmendia j m hanganu j kodeš v pletterbauer f 
+sagouis a birk s quantified biotic and abiotic responses to multiple stress
+in freshwater marine and ground waters sci total environ – 
+
+oksanen j blanchet f g kindt r legendre p minchin p r o hara r b simpson g l 
+solymos p stevens m h h wagner h community ecology package r pack 
+age version 
+
+ormerod s j dobson m hildrew a g townsend c r multiple stressors in fresh 
+water ecosystems freshw biol – 
+
+paine r t tegner m j johnson e a compounded perturbations yield ecological
+surprises ecosystems – 
+
+palmer r j white d c developmental biology of biofilms implications for treat 
+ment and control trends microbiol – 
+
+pascoal c cássio f contribution of fungi and bacteria to leaf litter decomposition
+in a polluted river appl environ microbiol – 
+
+pascoal c cássio f marcotegui a sanz b gomes p role of fungi bacteria and
+invertebrates in leaf litter breakdown in a polluted river j n am benthol soc 
+ – 
+
+passy s i diatom ecological guilds display distinct and predictable behavior along
+nutrient and disturbance gradients in running waters aquat bot – 
+
+passy s i larson c a succession in stream biofilms is an environmentally driven
+gradient of stress tolerance microb ecol – 
+
+persoh d theuerl s buscot f rambold g towards a universally adaptable
+method for quantitative extraction of high purity nucleic acids from soil 
+j microbiol methods – 
+
+peter h beier s bertilsson s lindström e s langenheder s tranvik l j 
+function specific response to depletion of microbial diversity isme j – 
+
+pope r j gordon a m kaushik n leaf litter colonization by invertebrates in the
+littoral zone of a small oligotrophic lake hydrobiologia – 
+
+potapova m relationships of soft bodied algae towater quality andhabitat char 
+acteristics in u s rivers analysis of the national water quality assessment
+ nawqa program data set the academy of natural sciences of drexel university 
+philadelphia pa http diatom acnatsci org autecology uploads report october 
+pdf 
+
+potapova m charles d f distribution of benthic diatoms in u s rivers in relation
+to conductivity and ionic composition freshw biol – 
+
+r core team r a language and environment for statistical computing r founda 
+tion for statistical computing vienna austria 
+
+röhl o peršoh d mittelbach m elbrecht v brachmann a nuy j boenigk j leese 
+f begerow d distinct sensitivity of fungal freshwater guilds to water quality 
+mycol prog – 
+
+rousseeuw p silhouettes a graphical aid to the interpretation and validation of
+cluster analysis j comput appl math – 
+
+sala o e chapin iii s armesto j j berlow e bloomfield j dirzo r huber sarnwald 
+e huenneke l f jackson r b kinzig a leermans r lodge d m mooney h a 
+oesterheld m poff n l sykes m t walker b h walker m wall d h 
+global biodiversity scenarios for the year science 
+
+salis r k bruder a piggott j j summerfield t c matthaei c d high throughput
+amplicon sequencing and stream benthic bacteria identifying the best taxonomic
+level for multiple stressor research sci rep 
+
+saunders d l meeuwig j j vincent a c j freshwater protected areas strategies
+for conservation conserv biol – 
+
+saunders a m albertsen m vollertsen j nielsen p h the activated sludge eco 
+system contains a core community of abundant organisms isme j – 
+
+singer g besemer k schmitt kopplin p hödl i battin t j physical heterogene 
+ity increases biofilm resource use and its molecular diversity in stream mesocosms 
+plos one e 
+
+sogin m l morrison h g huber j a markwelch d huse s m neal p r arrieta j m 
+herndl g j microbial diversity in the deep sea and the underexplored “rare
+biosphere” proc natl acad sci u s a – 
+
+sponseller r a benfield e f influences of land use on leaf breakdown in southern
+appalachian headwater streams a multiple scale analysis n am benthol soc 
+ – 
+
+stanley n r lazazzera b a environmental signals and regulatory pathways that
+influence biofilm formation mol microbiol – 
+
+steudel b hector a friedl t lofke c lorenz m wesche m kessler m gessner m 
+ biodiversity effects on ecosystem functioning change along environmental
+stress gradients ecol lett – 
+
+stevens c l hurd c l boundary layers around bladed aquatic macrophytes 
+hydrobiologia – 
+
+suberkopp k weyers h application of fungal and bacterial production method 
+ologies to decomposing leaves in streams appl environ microbiol 
+
+telesh i v schubert h skarlato s o size seasonality or salinity what drives the
+protistan species maximum in the horohalinicum estuar coast shelf sci 
+ – 
+
+thomas c d cameron a green r e bakkenes m beaumont l j collingham y c 
+erasmus b f n ferreira de siqueira m grainger a hannah l hughes l 
+huntley b van jaarsveld a s midgley g f miles l ortega huerta m a 
+townsend peterson a phillips o l williams s e extinction risk from climate
+change nature – 
+
+tilman d knops j wedin d reich p ritchie m siemann e the influence of
+functional diversity and composition on ecosystem processes science 
+ – 
+
+townsend c r uhlmann s s matthaei c d individual and combined responses
+of stream ecosystems to multiple stressors j appl ecol – 
+
+van nieuwenhuyse e e laperriere j d effects of placer gold mining on primary
+production in subarctic streams of alaska water resour bull – 
+
+wagenhoff a townsend c r matthaei c d macroinvertebrate responses along
+broad stressor gradients of deposited fine sediment and dissolved nutrients a stream
+mesocosm experiment j appl ecol – 
+
+wagenhoff a lange k townsend c r matthaei c d patterns of benthic algae
+and cyanobacteria along twin stressor gradients of nutrients and fine sediment a
+stream mesocosm experiment freshw biol – 
+
+washington v j lear g neale m w lewis g d environmental effects on biofilm
+bacterial communities a comparison of natural and anthropogenic factors in new
+zealand streams freshw biol – 
+
+webster j r waide j b effects of forest clearcutting on leaf breakdown in a south 
+ern appalachian stream freshw biol – 
+
+white t j bruns t lee s taylor j w amplification and direct sequencing of
+fungal ribosomal rna genes for phylogenetics pcr protocols a guide to methods
+and applications academic press new york ny pp – 
+
+yachi s loreau m biodiversity and ecosystem productivity in a fluctuating envi 
+ronment the insurance hypothesis proc natl acad sci u s a – 
+
+yang j zhang x xie y song c sun j zhang y giesy j p yu h ecogenomics
+of zooplankton community reveals ecological threshold of ammonia nitrogen envi 
+ron sci technol – 
+
+zettler m l schiedek d bobertz b benthic biodiversity indices versus salinity
+gradient in the southern baltic sea mar pollut bull – 
+
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http diatom acnatsci org autecology uploads report october pdf
+http diatom acnatsci org autecology uploads report october pdf
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+
+	responses of stream microbes to multiple anthropogenic stressors in a mesocosm study
+	 introduction
+	 methods
+	 study site and experimental design
+	 dna isolation sequencing and bioinformatic processing
+	 statistical and phylogenetic analyses
+
+	 results
+	 community composition of eukaryota and bacteria in different microhabitats
+	 similarity of replicates and distance of treatments of eukaryotic biofilm communities
+	 responses to the treatments
+	 unstressed and stressed biofilm communities are similar in composition
+	 core community and flexible community of biofilm
+	 habitat preferences of otus in eukaryotic biofilm community
+
+	 discussion
+	 general community composition
+	 single stressor responses
+	 sediment
+	 salinity
+	 flow
+
+	 multiple stressor responses
+	 differential responses
+
+	 conclusion
+	funding
+	acknowledgements
+	appendix a supplementary data
+	references
+
+
+

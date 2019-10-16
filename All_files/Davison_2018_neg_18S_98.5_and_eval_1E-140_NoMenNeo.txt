@@ -1,0 +1,4487 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of root symbiotic fungal communities
+
+
+the isme journal – 
+https doi org s 
+
+article
+
+microbial island biogeography isolation shapes the life history
+characteristics but not diversity of root symbiotic fungal
+communities
+
+john davison ● mari moora ● maarja Öpik ● leho ainsaar ● marc ducousso ● inga hiiesalu ● teele jairus ●
+
+nancy johnson ● philippe jourand ● rein kalamees ● kadri koorem ● jean yves meyer ● kersti püssa ●
+
+Ülle reier ● meelis pärtel ● marina semchenko ● anna traveset ● martti vasar ● martin zobel 
+
+received january revised march accepted march published online june 
+© international society for microbial ecology 
+
+abstract
+island biogeography theory is one of the most influential paradigms in ecology that island characteristics including
+remoteness can profoundly modulate biological diversity has been borne out by studies of animals and plants by contrast 
+the processes influencing microbial diversity in island systems remain largely undetermined we sequenced arbuscular
+mycorrhizal am fungal dna from plant roots collected on islands worldwide and compared am fungal diversity on
+islands with existing data from mainland sites am fungal communities on islands even those km from the closest
+mainland comprised few endemic taxa and were as diverse as mainland communities thus in contrast to patterns recorded
+among macro organisms efficient dispersal appears to outweigh the effects of taxogenesis and extinction in regulating am
+fungal diversity on islands nonetheless am fungal communities on more distant islands comprised a higher proportion of
+previously cultured and large spored taxa indicating that dispersal may be human mediated or require tolerance of
+significant environmental stress such as exposure to sunlight or high salinity the processes driving large scale patterns of
+microbial diversity are a key consideration for attempts to conserve and restore functioning ecosystems in this era of rapid
+global change 
+
+introduction
+
+islands have figured prominently in the development of
+ecological theory e g – with their theory of island
+biogeography macarthur and wilson argued that the
+equilibrium number of species inhabiting an island or other
+isolated habitat patch is determined by the balance between
+immigration and speciation on one hand and emigration and
+extinction on the other they also suggested that island
+characteristics—notably the size of an island and its remo 
+teness from potential source communities i e mainlands 
+—modulate the importance of these processes such that a
+positive species–area relationship leads to higher species
+richness on large islands while a negative species–isolation
+relationship results in lower richness on remote islands 
+descriptive and rarely experimental studies have lent
+empirical support to the theory and have confirmed both
+species–area and species–isolation relationships the
+theory has become one of the most influential ecological
+paradigms and is central to several applied e g con 
+servation ecology and theoretical e g metapopulation and
+
+ john davison
+john davison ut ee
+
+ institute of ecology and earth sciences university of tartu lai
+ tartu estonia
+
+ cirad umr lstm montpellier cedex france
+ department of biological sciences school of earth and
+
+sustainability northern arizona university flagstaff az 
+ usa
+
+ ird umr lstm montpellier france
+ délégation à la recherche de la polynésie française bâtiment du
+
+gouvernement avenue pouvanaa a oopa b p 
+papeete tahiti french polynesia
+
+ school of earth and environmental sciences university of
+manchester oxford road manchester m pl uk
+
+ global change research group mediterranean institute of
+advanced studies csic uib miquel marqués 
+esporles mallorca spain
+
+electronic supplementary material the online version of this article
+ https doi org s contains supplementary
+material which is available to authorised users 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+http crossmark crossref org dialog doi s domain pdf
+http crossmark crossref org dialog doi s domain pdf
+http crossmark crossref org dialog doi s domain pdf
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+mailto john davison ut ee
+https doi org s 
+
+
+metacommunity theories disciplines moreover the
+study of island systems continues to provide new insights
+into a range of ecological questions including those related
+to the process of community assembly 
+
+most empirical tests of island biogeography theory have
+focused on animals or plants and attempts to understand
+equivalent processes acting on micro organisms have
+mainly studied habitat fragmentation at the landscape level
+or below – despite notable work on certain taxonomic
+groups e g fungi information about the large scale
+biogeography of micro organisms is lacking one
+group of micro organisms whose global biogeography has
+been relatively well characterised is the arbuscular mycor 
+rhizal am fungi am fungi subphylum glo 
+meromycotina live in association with the roots of
+about of terrestrial plant species gaining plant 
+assimilated carbon while supplying their hosts with nutri 
+ents mainly p and resistance to abiotic stress and patho 
+gens at small scales the diversity patterns of these
+essential plant symbionts are influenced by both niche and
+neutral processes including some degree of dis 
+persal limitation i e an inability of taxa to reach potentially
+suitable habitats in a given time frame nonetheless 
+am fungi are found on all continents and many approxi 
+mately species level phylogroups phylogenetically defined
+groupings of taxa described by dna sequences have been
+shown to exhibit wide distributions frequently spanning
+multiple continents am fungi are soil dwelling
+organisms and may disperse using spores or by transport of
+hyphal or colonised root fragments limited evidence
+exists for a number of potential dispersal vectors including
+wind invertebrates mammals birds and
+water but the relative importance of each remains
+unquantified it is even unclear whether the wide distribu 
+tions of am fungal taxa are the result of incremental small 
+scale movement or long distance dispersal events 
+
+evidence from plants indicates that taxon arrival and
+persistence on isolated islands is correlated with aspects of
+life history such as the traits influencing propagule pro 
+duction dispersal and establishment though see ref 
+ for example pteridophytes—a group of wind 
+dispersed plants with very small diaspores—are randomly
+distributed throughout the galápagos islands while the
+distributions of comparatively larger seeded plants are
+correlated with island size and isolation within the archi 
+pelago by contrast assigning life history char 
+acteristics to micro organisms in environmental samples
+remains extremely challenging though metagenomic stu 
+dies represent a promising avenue and there have
+been few attempts to connect micro organism life history
+and biogeography – 
+
+some am fungal taxa produce spores but dna based
+surveys of environmental samples have revealed a
+
+significant proportion of am fungal diversity that does not
+correspond to known sporulating taxa while some
+taxa known only from environmental dna may yet be
+shown to produce spores abundantly sporulating and
+easily cultured taxa hereafter ‘cultured’ are presumed to
+be relatively efficient dispersers and have been broadly
+characterised as ruderals i e tolerant of disturbance 
+ among such taxa certain spore characteristics can
+also be used to infer a more detailed life history strategy
+ e g spore size this means that a small number of
+life history characteristics are available for a fraction
+of recorded am fungal diversity but that alternative
+traits and methods e g dna based are required for a
+complete survey of naturally occurring am fungal
+communities 
+
+all else being equal smaller fungal propagules are more
+efficiently transported by wind therefore if wind
+is an important dispersal vector for am fungi one might
+expect cultured i e known to be spore producing and
+specifically small spored am fungal taxa to predominate on
+islands conversely among vascular plants and other fungi 
+large propagules are associated with establishment success
+in harsh conditions this may equally apply to am
+fungal spores for instance large spored gigaspora are
+capable of multiple germinations and such spores stay
+viable for several years and through changing environ 
+mental conditions in addition vascular plants may
+arrive at islands via floating in seawater in which
+case the plant propagules are often relatively large if
+transport in seawater or other long distance dispersal
+mechanisms that impose significant stress are important for
+am fungi large spored cultured taxa might be expected to
+predominate on islands finally the origin of fungal pro 
+pagules may be an important determinant of island am
+fungal life history characteristics human mediated trans 
+port might favour cultured taxa since these are known to be
+associated with anthropogenic habitats 
+
+we sampled am fungal communities on oceanic islands
+worldwide allowing us to test hypotheses related to am
+fungal biogeography and dispersal we predicted that diver 
+sity or trait responses to island conditions should be most
+apparent on small or isolated islands reflecting species–area
+and species–isolation relationships furthermore we expected
+that the effects of isolation on the prevalence of culturable
+taxa and spore size estimates in am fungal communities
+should provide evidence about the dispersal characteristics of
+am fungi if am fungal dispersal is largely conducted
+through incremental small scale dispersal events then island
+isolation should represent a significant barrier to dispersal and
+consequently island community composition should be sto 
+chastic and characterised by lower diversity and greater
+endemism than mainland communities conversely if am
+fungi are efficient long distance dispersers then the taxon
+
+ j davison et al 
+
+
+
+pools capable of colonising island and mainland communities
+should be similar and endemism should not be particularly
+pronounced on islands if small spored taxa predominate on
+islands this might indicate an important role of wind dis 
+persal however if large spored taxa predominate it might
+indicate a dispersal or establishment route that requires sig 
+nificant stress tolerance e g seawater transport equally a
+predominance of cultured am fungal taxa on islands might
+indicate that human mediated transport plays a role 
+
+materials and methods
+
+sampling island am fungal communities
+
+we collected samples from islands worldwide in the
+arctic ocean svalbard baltic sea Öland and saaremaa 
+caribbean guadeloupe pacific ocean new caledonia 
+tikehau tahiti tasman sea tasmania atlantic ocean
+ iceland sal santiago and mediterranean sea mallorca 
+crete fig supplementary methods and supplementary
+table s all islands besides mallorca tasmania and
+possibly new caledonia were of oceanic i e volcanic 
+origin or were submerged following isolation from a con 
+tinental mainland supplementary methods this means
+that vicariance was not a factor in the formation of most of
+the island am fungal communities under investigation 
+rather taxa must have colonised following island formation 
+we compared island data with an existing global mainland
+
+data set collected and analysed in an identical manner by
+davison et al 
+
+on each island we identified one or two sites in the locally
+present ecosystems that were least disturbed by human
+activities following the design used by davison et al 
+we sampled two plots at each study site representing visually
+homogeneous vegetation and habitat conditions the plots
+were approximately × m and the distance between plots
+generally ranged between several hundreds of metres and
+several km in each plot we generally selected four locally
+abundant am plant species and excavated four randomly
+chosen individuals of each plant species supplementary
+table s however fewer species were sampled on tikehau
+and tahiti and in these cases more individuals up to per
+species were sampled supplementary table s soil and
+other material adhering to plant roots was carefully removed
+by hand a root sample of approximately cm was wrapped
+in tissue paper and placed in a plastic bag containing silica
+gel a pooled topsoil sample approximately g com 
+prising individual samples was collected from all plots
+except tasmania for details of soil chemical analyses and
+other recorded environmental variables see supplementary
+methods and table s 
+
+molecular methods and bioinformatics
+
+we followed the molecular methods and bioinformatics
+used by davison et al a full description of these
+methods is presented in the supplementary methods 
+
+fig map of study island and mainland sites used for comparison 
+island sites sampled in this study are shown by red symbols mainland
+sites from davison et al are shown by black symbols large
+
+symbols indicate those mainland sites that were closest to an island site
+and were paired in certain analyses see fig s 
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of 
+
+
+
+briefly we amplified am fungal dna partial ssu rrna
+gene from root samples and subjected this to high 
+throughput sequencing we used blast to
+match i the obtained ‘island’ sequence reads and ii the
+‘mainland’ sequencing reads from davison et al 
+against known virtual taxa vt i e phylogroups from the
+maarjam database supplementary table s using
+the same classification criteria used to define vt in maar 
+jam we then searched for previously unrecorded vt
+among the reads not matching an existing vt supple 
+mentary table s we used the maarjam database to
+identify those vt that could be associated with an am
+fungal morphospecies i e species described on the basis of
+spore traits from a cultured organism supplementary
+table s vt were defined as ‘cultured’ if they contained
+sequences derived from an isolate of known morphospecies
+identity for cultured vt we estimated a mean spore dia 
+meter based on the spore characteristics of component
+morphospecies supplementary table s finally we
+coestimated evolutionary timescale and phylogeny for all
+known vt using beast the phylogeny vt 
+morphospecies associations and spore diameter estimates
+are shown on fig sequencing data generated in this
+study have been submitted to embl study accession
+prjeb this includes raw sequencing reads from all
+runs and a set of representative sequences matched against
+different vt where available two sequences per vt from
+each host plant in each plot accessions
+lt –lt sequencing data from davison
+et al used for reanalysis in this study are also available
+from embl study accession prjeb 
+
+statistical analysis
+
+we primarily focused on am fungal diversity and life history
+characteristics derived from taxon lists i e 
+presence–absence since the predictions of island biogeo 
+graphy theory mainly relate to the distribution rather than
+abundance of organisms however since organism abun 
+dance is expected to influence the functional properties of
+communities and ecosystems we included several ana 
+logous approaches incorporating the relative abundance of vt
+in samples estimated from the relative abundance of
+sequencing reads we expected these parallel analyses to
+provide an indication of whether island biogeographic pro 
+cesses were reflected by ecologically relevant changes in
+community assembly 
+
+for each island and mainland site we estimated local
+endemism by calculating the number of vt that were
+recorded at the site and nowhere else we also calculated
+an index of vt distribution for each site the mean
+number of other sites globally occupied by the vt
+present 
+
+for further analysis of am fungal communities on
+islands and in the mainland set we pooled the replicates
+within each host plant species per plot based on these
+plant species level community estimates hereafter referred
+to as samples we investigated community diversity 
+composition and trait characteristics using two modelling
+approaches i island biogeography models ib only
+containing the explanatory variables ‘set’ island vs main 
+land set or ‘island area’ and ‘island remoteness’ and ii 
+island biogeography and environment models ibe which
+in addition to ib variables incorporated all available
+explanatory variables related to soil chemistry ph n p 
+altitude and climate mean annual precipitation map 
+mean annual temperature mat the purpose of the ibe
+models was to test the importance of island biogeographic
+processes after accounting for measured environmental
+differences among island and mainland samples in all
+analyses besides those describing multivariate community
+composition the variable ‘island remoteness’ was calcu 
+lated as the haversine distance accounting for the curvature
+of the earth separating each island from the closest con 
+tinental coastline in analyses of composition each island
+site was paired with the closest measured mainland site
+ from and in these cases geographic separation was
+calculated as the haversine distance separating the paired
+sites this measure was highly correlated with the distance
+of each island from the closest continent pearson’s r 
+ p though the rank order of islands changed 
+
+we used permanova function adonis from r
+package vegan with sørensen abundance unweigh 
+ted and bray curtis abundance weighted distance to
+estimate compositional differences between island and
+mainland samples we also calculated mean pairwise dis 
+tances between samples from each island and a paired
+mainland site the geographically closest mainland site to
+each island supplementary figure s these distances
+were regressed against island area and the geographic dis 
+tance separating each island from its paired site to place
+the effect of geographic separation on compositional dis 
+tance in the context of compositional decay over continental
+land masses we also included data points corresponding to
+all pairwise distances compositional and geographic 
+between mainland sites within individual continents in the
+geographic distance analysis we visualised community
+composition using non metric multidimensional scaling
+ nmds function metamds from vegan sørensen dis 
+tance stress 
+
+for all island and mainland samples we calculated vt
+richness and two diversity estimators that incorporate
+organism abundance the asymptotic estimators for expo 
+nential shannon and reciprocal simpson diversity we
+did not generate an extrapolated estimate of richness
+ chao since this estimator is not reliable beyond double
+
+ j davison et al 
+
+
+
+fig bayesian phylogeny of glomeromycotina virtual taxa vt 
+ssu rrna gene sequences the relative abundance of reads derived
+from each vt is shown for mainland and island sites collectively and
+for each island separately i e symbol areas sum to within each
+column islands are ordered by increasing remoteness blue symbols
+
+indicate islands of oceanic origin green symbols indicate islands of
+continental origin vt containing sequences from known morphos 
+pecies cultured are indicated by an open symbol a mean estimate of
+spore diameter could be calculated for some cultured vt shown in
+barplot in right hand panel 
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of 
+
+
+
+the observed sample size and the corresponding sample
+completeness by contrast the abundance sensitive diversity
+measures are generally robust in extrapolation to an
+asymptote among the pacific island samples where as
+many as replicates were sampled per host plant species 
+we randomly selected replicates per host prior to calcu 
+lating diversity in order to balance sampling effort with the
+rest of the data set supplementary table s 
+
+we also characterised each sample in terms of certain
+taxonomic and life history characteristics of its component
+vt the proportion of vt in each sample that belonged to the
+order glomerales the phylogenetic diversity mean pairwise
+distance function mpd from r package picante of vt
+present in each sample the proportion of cultured vt in each
+sample i e representing cultured morphospecies and the
+mean spore diameter of vt in each sample using those vt
+for which we had an estimate of this measure we calculated
+these taxonomic and life history indices using abundance 
+unweighted using presence–absence data and abundance 
+weighted using the relative abundance of vt reads in sam 
+ples approaches we used linear or generalised linear mixed
+models to assess how the community parameters
+ diversity and taxonomic or life history characteristics dif 
+fered between island and mainland samples and in relation to
+island remoteness and area a detailed description of the
+modelling and randomisation procedures used for inference is
+presented in the supplementary methods 
+
+results
+
+taxon distribution and endemism
+
+we recorded am fungal vt i e phylogenetically
+defined sequence groupings from plant root samples col 
+lected on islands worldwide fig supplementary
+tables s and s and vt from reanalysis of davison
+et al ’s global mainland data set also derived from
+plant roots and generated using identical field and bioin 
+formatics methods supplementary table s two hundred
+and twenty three vt were recorded from both island and
+mainland sites with and vt recorded solely from
+island and mainland sites respectively of previously
+unrecorded vt all were recorded from multiple sites 
+though the new claroideoglomus vt is cl was only
+present on the remote atoll of tikehau in the south pacific 
+island sites were more likely than mainland sites to harbour
+taxa that were recorded only at a single study site i e 
+endemic within our data set of island sites contained
+ – such endemic vt whereas of mainland sites
+contained such endemic vt wilcoxon z p 
+ correspondingly island sites were composed of
+slightly less well distributed vt than mainland sites mean
+
+± se number of other sites occupied by component vt 
+island sites ± mainland sites ± f 
+ p 
+
+island vs mainland communities
+
+there was a systematic but minor difference in am fungal
+community composition between island and mainland
+samples both in models excluding ib and accounting for
+ ibe measured environmental characteristics perma 
+nova sørensen distance ib model r p 
+ibe model r p fig and supplementary
+figure s models accounting for vt relative abundance
+indicated a similar pattern permanova bray curtis
+distance ib model r p ibe model r 
+ p however island and mainland samples
+were dominated by the same taxa fig and supplemen 
+tary figure s and did not differ significantly in any
+measure of diversity fig and table or in the level of
+any measured trait connected with taxonomy or life history
+ glomerales proportion mean pairwise genetic distance 
+proportion of cultured taxa mean spore diameter table 
+
+island remoteness and size
+
+mean compositional distance sørensen between am
+fungal communities was positively related to the geographic
+distance separating them fig ib model prand 
+ibe model prand and was greater between island
+and paired mainland sites than between mainland sites an
+equivalent distance apart fig ib model prand 
+ibe model prand relationships based on relative
+abundance bray curtis distance were similar supple 
+mentary figure s mean compositional distance between
+paired island and mainland sites did not vary significantly in
+relation to island area ib model prand ibe model 
+prand 
+
+no measures of diversity differed significantly in relation
+to island remoteness or island area table however 
+island remoteness significantly explained the proportion of
+glomerales vt in samples lower on distant islands ib and
+ibe models the unweighted phylogenetic diversity of
+samples higher on distant islands ibe model the pro 
+portion of cultured vt in samples higher on distant islands 
+ibe model and the mean spore diameter of vt in samples
+ higher on distant islands ib model table fig island
+area explained variation in the proportion of glomerales vt
+in samples lower on large islands ibe model table 
+supplementary figure s island remoteness and area both
+significantly explained the mean spore diameter of vt in
+samples in abundance weighted analyses greater on small
+and distant islands supplementary table s supplemen 
+tary figures s and s 
+
+ j davison et al 
+
+
+
+discussion
+
+here we report a first attempt to measure oceanic island
+biogeographic patterns in a group of microbial organisms 
+plant symbiotic am fungi we recorded only very minor
+compositional differences between island and mainland
+fungal communities and found no evidence of high ende 
+mism on islands or significant differences between main 
+land and island fungal communities in terms of diversity or
+characteristics reflecting taxonomy and life history fur 
+thermore neither island remoteness nor island area sig 
+nificantly explained am fungal diversity these results
+indicate that isolation does not perceivably restrict immi 
+gration or promote endemism as a result of taxogenesis in
+island compared with mainland communities and suggest
+that long distance dispersal might be effective within this
+group of organisms such a pattern deviates considerably
+from those typically recorded among macroscopic organ 
+isms nonetheless we found that compositional dis 
+tances between am fungal communities on islands and
+paired mainland sites exceeded those observed between
+mainland sites of equivalent geographic separation fur 
+thermore island remoteness was associated with certain
+taxonomic and life history characteristics that provide clues
+about am fungal dispersal and establishment on distant
+islands 
+
+few endemic taxa among island am fungal
+communities
+
+some case studies have identified previously unrecorded
+am fungal phylogroups or morphospecies from island
+
+systems measuring endemism is however con 
+tingent on the availability of comparative global data while
+interpretation is also shaped by the taxonomic resolution of
+observations see the supplementary methods for a
+discussion of vt resolution using the most comprehen 
+sive available comparative data set we discovered six
+previously unrecorded am fungal vt in this analysis but
+only one was endemic to a single island present at both
+sites on tikehau an atoll in french polynesia in the south
+pacific ocean furthermore all taxa that were recorded
+from a single island site in this analysis had previously been
+reported from mainland or other island locations as indi 
+cated by their presence in the maarjam database our
+sampling approach may have overlooked endemic taxa in
+unsampled areas of study islands or indeed in sampling
+plots if the taxa were present at low abundance none 
+theless the apparent lack of endemism in island commu 
+nities—even large or isolated island communities—strongly
+suggests that the contribution to island diversity of in situ
+taxogenesis at the level of vt is low compared with that
+of immigration furthermore the fact that taxonomic
+diversity was similar at island and mainland sites indicates
+that strong immigration is not significantly outweighed by
+local extinctions on islands 
+
+our inference that long distance dispersal of am fungal
+vt is relatively efficient compared with that of many
+animal and plant species is not entirely unexpected a
+global survey of mainland am fungal communities indi 
+cated that many am fungal vt have distribution areas
+encompassing multiple continents with vt lists exhibiting
+low turnover at large spatial scales furthermore recent
+genetic evidence has shown that individual genotypes
+
+fig estimates of diversity in
+island and mainland arbuscular
+mycorrhizal fungal
+communities three different
+diversity metrics are presented a
+raw richness and the asymptotic
+estimators for b exponential
+shannon diversity and c
+reciprocal simpson diversity 
+the violin plots show the
+distribution of diversity values
+ filled curves as well as the
+median value white point 
+quartiles black bar and range
+ whiskers diversity was
+measured at the level of host
+plant species per plot i e 
+pooling up to individual
+samples 
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of 
+
+
+
+ta
+bl
+e
+ 
+
+t
+he
+
+ef
+fe
+ct
+s
+of
+
+is
+la
+nd
+
+vs
+ 
+m
+ai
+nl
+an
+d
+lo
+ca
+tio
+
+n
+ s
+et
+ 
+up
+
+pe
+r
+se
+ct
+io
+n 
+
+an
+d
+is
+la
+nd
+
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+ a
+
+re
+a 
+
+r
+em
+
+ot
+en
+es
+s 
+lo
+w
+er
+
+se
+ct
+io
+n 
+
+on
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+of
+
+a
+m
+
+fu
+ng
+
+al
+co
+m
+m
+un
+
+iti
+es
+
+w
+or
+ld
+w
+id
+e
+
+d
+iv
+er
+si
+ty
+
+m
+et
+ri
+cs
+
+t
+ax
+on
+
+om
+ic
+
+an
+d
+lif
+e
+hi
+st
+or
+y
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+
+r
+ic
+hn
+
+es
+s
+
+s
+ha
+nn
+
+on
+s
+im
+
+ps
+on
+
+g
+lo
+m
+er
+al
+es
+
+pr
+op
+
+or
+tio
+
+n
+m
+p
+d
+
+p
+ro
+po
+
+rt
+io
+n
+cu
+ltu
+
+re
+d
+
+s
+po
+
+re
+si
+ze
+
+is
+la
+nd
+
+vs
+ 
+m
+ai
+nl
+an
+d
+
+ib
+m
+od
+
+el
+
+s
+et
+
+ i
+sl
+an
+d 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+ 
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ib
+e
+n
+v
+m
+od
+
+el
+
+s
+et
+
+ i
+sl
+an
+d 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ph
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+p
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+n
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+m
+a
+t
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+m
+a
+p
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+a
+lti
+tu
+de
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+is
+la
+nd
+
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+
+ib
+m
+od
+
+el
+
+a
+re
+a
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+r
+em
+
+ot
+en
+es
+s
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ib
+e
+n
+v
+m
+od
+
+el
+
+a
+re
+a
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+r
+em
+
+ot
+en
+es
+s
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+
+ 
+ 
+
+ 
+b
+ 
+ 
+
+ 
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ph
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+p
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+n
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ j davison et al 
+
+
+
+within the rhizophagus irregularis species group are pre 
+sent on multiple continents the diversity and com 
+position of local am fungal communities on distant oceanic
+islands presented in this study suggest that the wide dis 
+tribution of am fungal vt cannot be explained solely by
+incremental small scale dispersal events i e in soil 
+rather long distance dispersal must explain am fungal
+presence on islands and the apparent magnitude of immi 
+gration relative to taxogenesis and local extinction suggests
+that dispersal is relatively efficient rather than occasional 
+
+island remoteness favours certain life history
+characteristics
+
+am fungal communities on distant islands were char 
+acterised by relatively high phylogenetic diversity and
+comprised relatively more spore forming cultured taxa and
+taxa from outside of the order glomerales even once the
+environmental characteristics of islands were accounted for 
+we also found that islands generally harboured somewhat
+less well distributed taxa in terms of the total number of
+sites occupied compared with mainland sites suggesting
+that the traits allowing taxa to establish on islands do not
+confer a generally widespread distribution furthermore 
+among cultured taxa we recorded relatively more large 
+spored am fungal taxa on distant islands on one hand a
+predominance of large spored taxa may indicate that the
+germination and establishment phases are critical stages in
+the survival of am fungal spores reaching distant islands 
+irrespective of the mode of dispersal there is some evi 
+dence that large spored fungi are characterised by high
+germinability and establishment and predominate
+under resource limitation but information about the
+significance of spore size for am fungal establishment is
+limited also it is unclear why the harshness of the
+local environment should increase with island remoteness 
+however in support of this interpretation the effect of
+island remoteness on mean spore diameter was apparent in
+the ib model but not in the ibe model where measured
+environmental variables were accounted for on the other
+hand large spores may indicate that conditions during the
+dispersal process require a high degree of stress tolerance 
+in the context of dispersal to distant oceanic islands 
+transport by seawater appears a plausible dispersal
+mechanism as am fungal spores maintain germinability
+after storage in seawater though they vary in their
+tolerance of salinity among plants larger diaspores
+tend to be better able to survive transport in seawater 
+analysis of seawater currents suggests that microbial pro 
+pagules might take less than years to be transported
+between any two oceanic locations globally such a
+timescale suggests that transport in seawater is a process
+potentially capable of producing the cosmopolitan patternsta
+
+bl
+e
+ 
+ c
+on
+
+tin
+ue
+d 
+
+d
+iv
+er
+si
+ty
+
+m
+et
+ri
+cs
+
+t
+ax
+on
+
+om
+ic
+
+an
+d
+lif
+e
+hi
+st
+or
+y
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+
+r
+ic
+hn
+
+es
+s
+
+s
+ha
+nn
+
+on
+s
+im
+
+ps
+on
+
+g
+lo
+m
+er
+al
+es
+
+pr
+op
+
+or
+tio
+
+n
+m
+p
+d
+
+p
+ro
+po
+
+rt
+io
+n
+cu
+ltu
+
+re
+d
+
+s
+po
+
+re
+si
+ze
+
+m
+a
+t
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+m
+a
+p
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+b
+ 
+−
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+a
+lti
+tu
+de
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+±
+ 
+
+ 
+f
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+χ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+±
+ 
+ 
+
+f
+ 
+ 
+ 
+ 
+ 
+
+is
+la
+nd
+
+bi
+og
+
+eo
+gr
+ap
+hy
+
+m
+od
+
+el
+s
+ i
+b
+m
+od
+
+el
+ 
+te
+st
+th
+e
+ef
+fe
+ct
+of
+
+s
+et
+or
+
+a
+re
+a
+an
+d
+r
+em
+
+ot
+en
+es
+s
+in
+
+is
+ol
+at
+io
+n 
+
+w
+hi
+le
+is
+la
+nd
+
+bi
+og
+
+eo
+gr
+ap
+hy
+
+an
+d
+en
+vi
+ro
+nm
+
+en
+tm
+
+od
+el
+s
+ i
+b
+e
+m
+od
+
+el
+ 
+do
+
+so
+af
+te
+r
+ac
+co
+un
+
+tin
+g
+fo
+r
+th
+e
+
+ef
+fe
+ct
+s
+of
+
+en
+vi
+ro
+nm
+
+en
+ta
+la
+nd
+
+cl
+im
+
+at
+ic
+va
+ri
+ab
+le
+s 
+f
+ix
+ed
+
+ef
+fe
+ct
+co
+ef
+fi
+ci
+en
+ts
+ b
+
+±
+s
+e
+ 
+te
+st
+st
+at
+is
+tic
+s
+ f
+
+w
+ith
+
+k
+en
+w
+ar
+d 
+r
+og
+
+er
+es
+tim
+
+at
+ed
+
+de
+gr
+ee
+s
+of
+
+fr
+ee
+do
+
+m
+or
+
+χ 
+ 
+an
+d
+st
+at
+is
+tic
+al
+si
+gn
+
+ifi
+ca
+nc
+e
+fr
+om
+
+lin
+ea
+r
+
+or
+ge
+ne
+ra
+lis
+ed
+
+lin
+ea
+r
+m
+ix
+ed
+
+m
+od
+
+el
+s
+ar
+e
+pr
+es
+en
+te
+d 
+
+t
+he
+
+ef
+fe
+ct
+
+of
+ea
+ch
+
+va
+ri
+ab
+le
+
+is
+te
+st
+ed
+
+af
+te
+r
+ac
+co
+un
+
+tin
+g
+fo
+r
+al
+l
+ot
+he
+r
+va
+ri
+ab
+le
+s
+ t
+yp
+
+e
+ii
+ 
+s
+ha
+nn
+
+on
+an
+d
+s
+im
+
+ps
+on
+
+ar
+e
+as
+ym
+
+pt
+ot
+ic
+
+es
+tim
+
+at
+or
+s
+of
+
+th
+e
+
+ex
+po
+
+ne
+nt
+ia
+ls
+
+ha
+nn
+
+on
+an
+d
+re
+ci
+pr
+oc
+al
+s
+im
+
+ps
+on
+
+di
+ve
+rs
+ity
+
+in
+di
+ce
+s 
+a
+ll
+en
+vi
+ro
+nm
+
+en
+ta
+lv
+
+ar
+ia
+bl
+es
+
+w
+er
+e
+sc
+al
+ed
+
+ b
+y
+on
+
+e
+st
+an
+da
+rd
+
+de
+vi
+at
+io
+n 
+
+an
+d
+is
+la
+nd
+
+ar
+ea
+
+an
+d
+re
+m
+ot
+en
+es
+s
+w
+er
+e
+lo
+g
+tr
+an
+sf
+or
+m
+ed
+
+pr
+io
+r
+to
+
+in
+cl
+us
+io
+n
+in
+
+m
+od
+
+el
+s
+
+m
+a
+t
+m
+ea
+n
+an
+nu
+
+al
+te
+m
+pe
+ra
+tu
+re
+ 
+m
+a
+p
+m
+ea
+n
+an
+nu
+
+al
+pr
+ec
+ip
+ita
+tio
+
+n 
+m
+p
+d
+
+m
+ea
+n
+pa
+ir
+w
+is
+e
+ph
+
+yl
+og
+
+en
+et
+ic
+
+di
+st
+an
+ce
+ 
+n
+ni
+tr
+og
+
+en
+ 
+p
+ph
+
+os
+ph
+
+or
+us
+
+p
+ 
+ 
+ 
+
+ p
+ 
+ 
+ 
+
+ 
+ 
+
+p
+ 
+ 
+ 
+
+ p
+ 
+ 
+ 
+
+in
+bo
+
+ld
+ 
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of 
+
+
+
+observed in this organism group while at the same time
+highlighting the potential benefit of a stress tolerant dis 
+persal strategy though am fungal sequences have been
+detected from ocean water direct empirical evidence
+with respect to transport of fungal spores in seawater is
+lacking 
+
+an alternative explanation for the high diversity of island
+am fungal communities and for some of the characteristics
+exhibited by am fungal communities on distant islands is
+
+that they reflect the role of human mediated transport 
+human activities are believed to have transported some am
+fungi over long distances although the actual means
+and rates of human mediated dispersal are not known 
+humans may preferentially facilitate dispersal of cultured
+taxa simply because these occur disproportionately in dis 
+turbed systems including agricultural settings and
+produce relatively abundant propagules though not
+directly recorded human transport is believed to have led
+highly similar genetic lineages of another soil organism
+group collembola to occur on several continental land 
+masses and remote islands worldwide 
+
+we recorded relatively more non glomerales taxa and
+greater phylogenetic diversity on distant islands case stu 
+dies have suggested that disturbed habitats tend to be
+characterised by a relatively low proportion of glomeraceae
+ which may again reflect favouring of stress tolerance 
+however these results and evidence from elsewhere 
+ demonstrate that trait–environment relationships
+must be considered in light of the phylogenetic con 
+servatism in traits considered for analysis in this analysis 
+cultured vt are more likely to belong to non glomerales
+clades and spore size is also conserved at a lower taxonomic
+level within the cultured set such patterns mean that
+observed trait–environment relationships might be a proxy
+for responses attributable to other conserved traits 
+
+area effects may operate at smaller scales
+
+recorded am fungal community characteristics did not
+vary as much in relation to island area as they did in relation
+to island remoteness a similarly weak effect of area has
+been reported at a smaller scale from remnant forest patches
+in an agricultural landscape we see multiple reasons
+why island area was generally not associated with char 
+acteristics of am fungal communities first it is possible
+that our measures of local diversity did not adequately
+capture particular island biogeographic processes for
+instance a measure of whole island gamma diversity might
+be more sensitive to processes immigration taxogenesis 
+extinction that define island taxon pools but which are
+modulated by local conditions in determining the alpha
+diversity of samples second island area is expected to
+determine the rate of stochastic local extinction our
+results might therefore indicate that either island diversity is
+not importantly limited by extinction or that this process
+operates at a scale below the range of island sizes in our
+study e g well below km a related point to note is that
+our study incorporated a relatively small number of islands
+located over a vast area essentially global by collecting a
+geographically widespread set of samples we were able to
+conduct a general test of the effects of isolation per se 
+however this generality may have come at the expense of
+
+fig mean compositional distance sørensen between root 
+associated am fungal communities as a function of the geographic
+distance haversine natural log km separating them points represent
+community pairs islands and paired mainland sites i e the geo 
+graphically closest mainland site large blue or green points or pairs of
+mainland sites within the same continent small grey points a island
+biogeography ib model not accounting for environmental char 
+acteristics b island biogeography and environment ibe model
+accounting for environmental characteristics separate regression lines
+are shown for island–mainland solid and mainland–mainland
+ dashed points compositional distances in the ibe model were cal 
+culated among the residuals of a distance based redundancy analysis
+model against measured environmental variables blue symbols indi 
+cate islands of oceanic origin green symbols indicate islands of
+continental origin
+
+ j davison et al 
+
+
+
+some power to detect relationships between diversity and
+island characteristics compared with studying multiple
+islands in a single archipelago while we accounted for
+important environmental variables in our analyses it is to be
+expected that the variable physical climatic and biogeo 
+graphic context of such a widespread set of islands 
+introduces noise into area–diversity and isolation–diversity
+relationships for similar reasons a degree of caution must
+be exercised when interpreting the relationships we identi 
+fied since our explanatory variables island vs mainland 
+island area island remoteness could have been confounded
+with other unmeasured variables 
+
+covariation in mutualist responses to isolation 
+
+different am fungal communities are known to differen 
+tially affect plant performance and there is evi 
+dence of differences in effect between glomerales vs non 
+
+glomerales am fungal taxa and between taxa characterised
+as cultured vs uncultured or large vs small spored 
+ equally the presence and density of suitable host
+plants may limit the establishment of certain am fungal
+taxa passenger hypothesis thus it is possible that
+the dispersal characteristics of either symbiont community
+have shaped the functional attributes of both plant and am
+fungal communities on islands our results suggest that
+dispersal limitation of am fungi to distant islands is likely
+to be slight overall so it is perhaps more plausible that
+over representation of ruderal plant species with small
+propagules efficient dispersers has favoured the estab 
+lishment of ruderal large spored efficient disperser am
+fungal taxa on islands nonetheless if am fungal taxa
+represent the more efficient group of dispersers the early
+and efficient arrival of ruderal am fungal taxa to islands
+may have had an effect on colonising plants in the past
+ driver hypothesis 
+
+fig relationship between island remoteness natural log haversine
+distance in km from the closest mainland and several abundance 
+unweighted taxonomic and life history characteristics of plant root 
+associated am fungal communities a the mean proportion of glo 
+merales vt b the mean pairwise phylogenetic distance mpd 
+
+between vt c the proportion of cultured vt and d the mean spore
+diameter of vt lines show predicted values from island biogeo 
+graphy ib generalised linear mixed models blue symbols indicate
+islands of oceanic origin green symbols indicate islands of continental
+origin vt virtual taxa phylogenetically defined dna based taxa 
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of 
+
+
+
+conclusion
+
+our results provide a first indication of the oceanic island
+biogeographic processes influencing a microbial organism
+group the island biogeography of am fungi is char 
+acterised by efficient dispersal outweighing potential effects
+of endemism and extinction nonetheless we found that
+remote island am fungal communities are functionally
+distinct due to their high phylogenetic diversity and relative
+predominance of cultured taxa from non glomerales clades
+and those exhibiting relatively large spores these char 
+acteristics suggest that stress tolerance is an important trait
+that either reflects the origin of colonising taxa e g 
+anthropogenic systems or facilitates dispersal and estab 
+lishment in the abiotic and biotic conditions associated with
+island systems 
+
+acknowledgements we acknowledge andres koppel hendrik
+moora jodi price riin tamme and anna zobel for help with field 
+work we are grateful to josé maría fernández palacios for com 
+menting on an earlier version of the manuscript 
+
+funding this study was supported by the estonian research council
+ iut iut put putjd the european regional
+development fund centre of excellence ecolchange and gip
+cnrt gipcnrt 
+
+compliance with ethical standards
+
+conflict of interest the authors declare that they have no conflict of
+interest 
+
+references
+
+ darwin c journal of researches into the natural history
+and geology of the countries visited during the voyage of h m 
+s beagle round the world under the command of capt fitz
+roy r n john murray uk 
+
+ macarthur rh wilson eo the theory of island biogeography 
+nj usa princeton university press 
+
+ simberloff ds wilson eo experimental zoogeography of
+islands a two year record of colonization ecology 
+ – 
+
+ whittaker rj fernandez palacios jm island biogeography 
+ecology evolution and conservation oxford uk oxford uni 
+versity press 
+
+ patiño j whittaker rj borges pa fernández‐palacios jm ah‐
+peng c araújo mb et al a roadmap for island biology 
+fundamental questions after years of the theory of island
+biogeography j biogeogr https doi org mec jbi 
+ 
+
+ santos a field r ricklefs re new directions in island bio 
+geography glob ecol biogeogr – 
+
+ andrews jh kinkel ll berbee fm nordheim ev fungi 
+leaves and the theory of island biogeography microb ecol 
+ – 
+
+ mangan sa eom ah adler gh yavitt jb herre ea diversity
+of arbuscular mycorrhizal fungi across a fragmented forest in
+panama insular spore communities differ from mainland com 
+munities oecologia – 
+
+ peay kg garbelotto m bruns td evidence of dispersal lim 
+itation in soil microorganisms isolation reduces species richness
+on mycorrhizal tree islands ecology – 
+
+ bell t newman ja thompson ip lilley ak van der gast cj 
+bacteria and island biogeography response science 
+ – 
+
+ tedersoo l bahram m põlme s kõljalg u yorou ns wije 
+sundera r et al global diversity and geography of soil fungi 
+science 
+
+ bardgett rd van der putten wh belowground biodiversity and
+ecosystem functioning nature – 
+
+ davison j moora m Öpik m adholeya a ainsaar l ba a 
+et al global assessment of arbuscular mycorrhizal fungus diver 
+sity reveals very low endemism science – 
+
+ Öpik m moora m liira j zobel m composition of root 
+colonizing arbuscular mycorrhizal fungal communities in different
+ecosystems around the globe j ecol – 
+
+ spatafora jw chang y benny gl lazarus k smith me 
+berbee ml et al a phylum level phylogenetic classification of
+zygomycete fungi based on genome scale data mycologia 
+ – 
+
+ smith se read dj mycorrhizal symbiosis ny usa academic
+press 
+
+ dumbrell aj nelson m helgason t dytham c fitter ah 
+relative roles of niche and neutral processes in structuring a soil
+microbial community isme j – 
+
+ lekberg y koide rt rohr jr aldrich wolfe l morton jb 
+role of niche restrictions and dispersal in the composition of
+arbuscular mycorrhizal fungal communities j ecol 
+ – 
+
+ davison j moora m jairus t vasar m Öpik m zobel m 
+hierarchical assembly rules in arbuscular mycorrhizal am fun 
+gal communities soil biol biochem – 
+
+ savary r masclaux fg wyss t droh g cruz corella j 
+machado ap et al a population genomics approach shows
+widespread geographical distribution of cryptic genomic forms of
+the symbiotic fungus rhizophagus irregularis isme j 
+ – 
+
+ egan c li dw klironomos jn detection of arbuscular
+mycorrhizal fungal spores in the air across different biomes and
+ecoregions fungal ecol – 
+
+ gange ac translocation of mycorrhizal fungi by earthworms
+during early succession soil biol biochem – 
+
+ lekberg y meadow j rohr jr redecker d zabinski ca 
+importance of dispersal and thermal environment for mycorrhizal
+communities lessons from yellowstone national park ecology 
+ – 
+
+ nielsen kb kjøller r bruun hh schnoor tk rosendahl s 
+colonization of new land by arbuscular mycorrhizal fungi fungal
+ecol – 
+
+ harner mj opitz n geluso k tockner k rillig mc arbuscular
+mycorrhizal fungi on developing islands within a dynamic river
+floodplain an investigation across successional gradients and soil
+depth aquat sci – 
+
+ jacquet c mouillot d kulbicki m gravel d extensions of
+island biogeography theory predict the scaling of functional trait
+composition with habitat area and isolation ecol lett 
+ – 
+
+ carvajal endara s hendry ap emery nc davies tj habitat
+filtering not dispersal limitation shapes oceanic island floras 
+species assembly of the galápagos archipelago ecol lett 
+ – 
+
+ adsersen h intra archipelago distribution patterns of vascular
+plants in galapagos monogr syst bot mo bot gard 
+ – 
+
+ j davison et al 
+
+https doi org mec jbi 
+https doi org mec jbi 
+
+
+ vargas p nogales m jaramillo p olesen jm traveset a heleno
+r plant colonization across the galápagos islands success of the
+sea dispersal syndrome bot j linn soc – 
+
+ louca s parfrey lw doebeli m decoupling function and tax 
+onomy in the global ocean microbiome science 
+ – 
+
+ nelson mb martiny ac martiny jbh global biogeography of
+microbial nitrogen cycling traits in soil proc natl acad sci usa 
+ – 
+
+ green jl bohannan bjm whitaker rj microbial biogeography 
+from taxonomy to traits science – 
+
+ halbwachs h heilmann clausen j bässler c mean spore size
+and shape in ectomycorrhizal and saprotrophic assemblages show
+strong responses under resource constraints fungal ecol 
+ – 
+
+ andrew c heegaard e halvorsen r martinez peña f egli s 
+kirk pm et al climate impacts on fungal community and trait
+dynamics fungal ecol – 
+
+ Öpik m davison j uniting species and community oriented
+approaches to understand arbuscular mycorrhizal fungal diversity 
+fungal ecol – 
+
+ van der heijden mg bardgett rd van straalen nm the unseen
+majority soil microbes as drivers of plant diversity and pro 
+ductivity in terrestrial ecosystems ecol lett – 
+
+ ohsowski bm zaitsoff pd Öpik m hart mm where the wild
+things are looking for uncultured glomeromycota new phytol 
+ – 
+
+ nathan r schurr fm spiegel o steinitz o trakhtenbrot a 
+tsoar a mechanisms of long distance seed dispersal trends ecol
+evol – 
+
+ norros v rannik Ü hussein t petäjä t vesala t ovaskainen
+o do small spores disperse further than large spores ecology 
+ – 
+
+ norros v karhu e norden j vahatalo av ovaskainen o spore
+sensitivity to sunlight and freezing can restrict dispersal in wood 
+decay fungi ecol evol – 
+
+ westoby m falster ds moles at vesk pa wright ij plant
+ecological strategies some leading dimensions of variation
+between species annu rev ecol syst – 
+
+ bago b zipfel w williams rm chamberland h lafontaine jg 
+webb ww et al in vivo studies on the nuclear behaviour of the
+arbuscular mycorrhizal fungus gigaspora rosea grown under
+axenic conditions protoplasma – 
+
+ klironomos jn hart mm gurney je moutoglis p interspecific
+differences in the tolerance of arbuscular mycorrhizal fungi to
+freezing and drying can j bot – 
+
+ varga s finozzi c vestberg m kytoviita mm arctic arbuscular
+mycorrhizal spore community and viability after storage in cold
+conditions mycorrhiza – 
+
+ heleno r vargas p how do islands become green glob ecol
+biogeogr – 
+
+ van der pijl l principles of dispersal in higher plants berlin 
+springer 
+
+ altschul sf gish w miller w myers ew lipman dj basic
+local alignment search tool j mol biol – 
+
+ Öpik m vanatoa a vanatoa e moora m davison j kalwij jm 
+et al the online database maarjam reveals global and ecosystem
+distribution patterns in arbuscular mycorrhizal fungi glomer 
+omycota new phytol – 
+
+ drummond aj suchard ma xie d rambaut a bayesian
+phylogenetics with beauti and the beast mol biol evol 
+ – 
+
+ grime jp benefits of plant diversity to ecosystems immediate 
+filter and founder effects j ecol – 
+
+ oksanen j blanchet fg kindt r legendre p minchin pr 
+o’hara rb et al vegan community ecology package r
+
+package version https cran r project org packa
+ge vegan 
+
+ chao a chiu ch jost l unifying species diversity phyloge 
+netic diversity functional diversity and related similarity and
+differentiation measures through hill numbers annu rev ecol
+evol syst – 
+
+ kembel sw cowan pd helmus mr cornwell wk morlon h 
+ackerly dd et al picante r tools for integrating phylogenies and
+ecology bioinformatics – 
+
+ pinheiro j bates d debroy s sarkar d r core team nlme 
+linear and nonlinear mixed effects models r package version
+ http cran r project org package nlme 
+
+ bates d maechler m bolker b walker s fitting linear mixed 
+effects models using lme j stat softw – 
+
+ koske r gemma jn arbuscular mycorrhizal fungi on hawaiian
+sand dunes island of kaua’i pac sci – 
+
+ melo cd luna s krüger c walker c mendonça d fonseca
+hm et al communities of arbuscular mycorrhizal fungi under
+picconia azorica in native forests of azores symbiosis 
+https doi org s 
+
+ powell jr monaghan mt Öpik m rillig mc evolutionary
+criteria outperform operational approaches in producing ecologi 
+cally relevant fungal species inventories mol ecol 
+ – 
+
+ marleau j dalpe y st arnaud m hijri m spore development
+and nuclear inheritance in arbuscular mycorrhizal fungi bmc
+evol biol 
+
+ koske r bonin c kelly j martinez c effects of sea water on
+spore germination of sand dune inhabiting arbuscular mycorrhizal
+fungus mycologia – 
+
+ juniper s abbott lk soil salinity delays germination and limits
+growth of hyphae from propagules of arbuscular mycorrhizal
+fungi mycorrhiza – 
+
+ jönsson bf watson jr the timescales of global surface ocean
+connectivity nat commun 
+
+ li w wang m pan h burgaud g liang s guo j et al 
+highlighting patterns of fungal diversity and composition shaped
+by ocean currents using the east china sea as a model mol ecol 
+ https doi org mec mec 
+
+ rosendahl s mcgee p morton jb lack of global population
+genetic differentiation in the arbuscular mycorrhizal fungus glo 
+mus mosseae suggests a recent range expansion which may have
+coincided with the spread of agriculture mol ecol 
+ – 
+
+ cicconardi f borges pa strasberg d oromí p lópez h pérez‐
+delgado aj et al mtdna metagenomics reveals large‐scale
+invasion of belowground arthropod communities by introduced
+species mol ecol https doi org mec mec 
+ 
+
+ moora m davison j Öpik m metsis m saks Ü jairus t et al 
+anthropogenic land use shapes the composition and phylogenetic
+structure of soil arbuscular mycorrhizal fungal communities 
+fems microbiol ecol – 
+
+ veresoglou sd caruso t rillig mc modelling the environmental
+and soil factors that shape the niches of two common arbuscular
+mycorrhizal fungal families plant soil – 
+
+ de bello f berg mp dias at diniz filho jaf götzenberger l 
+hortal j et al on the need for phylogenetic ‘corrections’ in
+functional trait based approaches folia geobot – 
+
+ grilli g urcelay c galetto l davison j vasar m saks Ü et al 
+the composition of arbuscular mycorrhizal fungal communities in
+the roots of a ruderal forb is not related to the forest fragmentation
+process environ microbiol – 
+
+ weigelt p jetz w kreft h bioclimatic and physical character 
+ization of the world’s islands proc natl acad sci usa 
+ – 
+
+microbial island biogeography isolation shapes the life history characteristics but not diversity of 
+
+https cran r project org package vegan
+https cran r project org package vegan
+http cran r project org package nlme
+https doi org s 
+https doi org mec mec 
+https doi org mec mec 
+https doi org mec mec 
+
+
+ uibopuu a moora m Öpik m zobel m temperate forest
+understorey species performance is altered by local arbuscular
+mycorrhizal fungal communities from stands of different succes 
+sional stages plant soil – 
+
+ williams a ridgway hj norton da growth and competitive 
+ness of the new zealand tree species podocarpus cunninghamii is
+reduced by ex agricultural amf but enhanced by forest amf 
+soil biol biochem – 
+
+ hoeksema jd chaudhary vb gehring ca johnson nc karst j 
+koide rt et al a meta analysis of context dependency in plant
+
+response to inoculation with mycorrhizal fungi ecol lett 
+ – 
+
+ koch am antunes pm maherali h hart mm klironomos jn 
+evolutionary asymmetry in the arbuscular mycorrhizal symbiosis 
+conservatism in fungal morphology does not predict host plant
+growth new phytol – https doi org mec 
+ nph 
+
+ hart mm reader rj klironomos jn life history strategies of
+arbuscular mycorrhizal fungi in relation to their successional
+dynamics mycologia – 
+
+ j davison et al 
+
+https doi org mec nph 
+https doi org mec nph 
+
+	microbial island biogeography isolation shapes the life history characteristics but not diversity of root symbiotic fungal communities
+	abstract
+	introduction
+	materials and methods
+	sampling island am fungal communities
+	molecular methods and bioinformatics
+	statistical analysis
+
+	results
+	taxon distribution and endemism
+	island vs mainland communities
+	island remoteness and size
+
+	discussion
+	few endemic taxa among island am fungal communities
+	island remoteness favours certain life history characteristics
+	area effects may operate at smaller scales
+	covariation in mutualist responses to isolation 
+
+	conclusion
+	compliance with ethical standards
+
+	acknowledgments
+	references
+
+
+
+
+

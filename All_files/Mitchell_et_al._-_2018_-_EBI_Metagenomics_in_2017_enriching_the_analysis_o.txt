@@ -1,0 +1,1195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d –d nucleic acids research vol database issue published online october 
+doi nar gkx 
+
+ebi metagenomics in enriching the analysis of
+microbial communities from sequence reads to
+assemblies
+alex l mitchell maxim scheremetjew hubert denise simon potter 
+aleksandra tarkowska matloob qureshi gustavo a salazar sebastien pesseat 
+miguel a boland fiona m i hunter petra ten hoopen blaise alako clara amid 
+darren j wilkinson thomas p curtis guy cochrane and robert d finn 
+
+ embl ebi european bioinformatics institute wellcome trust genome campus hinxton cambridge cb sd 
+uk school of mathematics statistics newcastle university newcastle upon tyne ne ru uk and school of
+civil engineering and geosciences newcastle university newcastle upon tyne ne ru uk
+
+received september editorial decision october accepted october 
+
+abstract
+
+ebi metagenomics http www ebi ac uk 
+metagenomics provides a free to use platform
+for the analysis and archiving of sequence data
+derived from the microbial populations found in a
+particular environment over the past two years 
+ebi metagenomics has increased the number of
+datasets analysed fold in addition to increased
+throughput the underlying analysis pipeline has
+been overhauled to include both new or updated
+tools and reference databases of particular note is
+a new workflow for taxonomic assignments that has
+been extended to include assignments based on
+both the large and small subunit rna marker genes
+and to encompass all cellular micro organisms we
+also describe the addition of metagenomic assembly
+as a new analysis service our pilot studies have
+produced over assemblies from datasets in the
+public domain from these assemblies we have pro 
+duced a searchable non redundant protein database
+of over million sequences to provide improved
+access to the data stored within the resource we
+have developed a programmatic interface that pro 
+vides access to the analysis results and associated
+sample metadata finally we have integrated the
+results of a series of statistical analyses that provide
+estimations of diversity and sample comparisons 
+
+introduction
+
+the term ‘metagenomics’ describes the collective analysis of
+microbial genomes sampled from a particular environment 
+such as soil seawater or a human body site such genomic
+analyses can provide powerful insights into microbial com 
+munity composition and function underpinned by dra 
+matically falling dna sequencing costs metagenomic anal 
+yses have become increasingly mainstream in recent years
+and have been applied to a diverse variety of fields includ 
+ing marine ecology agriculture food manufacture bioen 
+ergy production and human health notable recent metage 
+nomic studies have helped to identify new microbial phyla
+with distinct metabolic repertoires to discover novel
+crispr–cas systems with potential application in gene
+editing to rapidly expand the library of known protein
+structures and to link the microbiome to a host of dis 
+orders from rheumatoid arthritis to parkinson’s disease
+ 
+
+despite widespread interest and uptake by the research
+community metagenomic analyses can be challenging due
+to the volume and nature of the underlying sequence data 
+single metagenomic whole genome shotgun wgs se 
+quencing runs can yield hundreds of millions of sequences 
+representing tens of gigabytes gb of uncompressed data
+on disk with many experiments involving tens or hun 
+dreds of such runs data volumes can quickly overwhelm the
+storage capacities and analysis capabilities of individual re 
+searchers the sequences themselves meanwhile tend to be
+relatively short ranging from approximately to bp
+ with a mean of ∼ base pairs following merging and
+quality trimming for typical illumina paired end runs the
+dominant sequencing platform for metagenomics this can
+pose a problem when trying to determine the functional ac 
+
+ to whom correspondence should be addressed tel email mitchell ebi ac uk
+correspondence may also be addressed to robert d finn tel email rdf ebi ac uk
+
+c© the author s published by oxford university press on behalf of nucleic acids research 
+this is an open access article distributed under the terms of the creative commons attribution license http creativecommons org licenses by which
+permits unrestricted reuse distribution and reproduction in any medium provided the original work is properly cited 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www ebi ac uk metagenomics
+
+
+nucleic acids research vol database issue d 
+
+tivity encoded within a metagenome typically short reads
+represent only small fragments of the underlying full length
+gene sequences predicted protein coding sequences based
+on these fragments often lack the distinguishing features
+of full length proteins such as binding sites active sites or
+other important amino acid motifs that can be used to infer
+function 
+
+assembly of sequences in silico into longer contigs helps
+to address this problem allowing more detailed functional
+annotation in addition the generation of longer assemblies
+enables detection of larger and more complex genomic fea 
+tures such as operons and crisprs and allows inference
+of function based upon genome context it also potentially
+allows taxonomic binning of contigs and partial or even
+complete reconstruction of genomes however many
+of the best performing assembly tools require substantial
+computational resources for example assembly of a soil
+wgs run with gb paired end gzipped fastq files from
+alaskan tundra ena study accession prjeb 
+run accession err requires over gb ram to
+assemble using metaspades version not all re 
+searchers have access to this kind of computational power 
+
+another common problem is the effect that different se 
+quence processing tools analysis software and reference
+databases exert upon analysis results differences in al 
+gorithms and or parameters at each sequence processing
+stage from initial quality control qc to gene predic 
+tion through to assembly can all substantially
+impact the number quality and average length of sequences
+in a metagenomic dataset alongside this choice of anal 
+ysis tools reference databases and software settings can
+profoundly influence taxonomic classification and function
+prediction – as a result it is hard to make meaning 
+ful comparisons between the analysis results of two different
+datasets that have been processed using different pipelines 
+
+ebi metagenomics https www ebi ac uk 
+metagenomics aims to address many of these issues
+as a freely available hub for the analysis exploration and
+archiving of metagenomic data in common with analysis
+platforms such as mg rast and img m ebi
+metagenomics provides standardised processing and anal 
+ysis pipelines that allow functional and taxonomic analyses
+of user submitted sequences it also offers a variety of
+analytical and visualization tools to support examination
+and comparison of datasets through partnership with the
+european nucleotide archive ena ebi metagenomics
+also has a unique archiving remit datasets submitted for
+analysis are accessioned and stored permanently within
+ena which operates under the international nucleotide
+sequence database collaboration insdc for public
+reference 
+
+ebi metagenomics supplements its analysis of user 
+submitted data by processing publicly available metage 
+nomic datasets drawn from the ena enabling large scale
+data analysis using standardised pipelines allows new user 
+submitted studies to be placed in context with other data
+ e g does a marine study drawn from a particular loca 
+tion have the same microbial community structure as a
+similar study performed by another research group in 
+creasing data reuse and maximizing the knowledge that can
+be extracted from both datasets the strategy of pursuing
+
+publicly available data has led ebi metagenomics to grow
+rapidly over the last years to become one of the world’s
+largest metagenomic data repositories it currently houses
+over publicly available datasets sampled from a
+wide range of environments ranging from insect digestive
+tracts to hydrothermal vents 
+
+here we report a number of significant new develop 
+ments with ebi metagenomics over the last two years in 
+cluding two new analysis pipeline updates an upgrade to
+the taxonomic analysis component to enable eukaryotic
+classification along with a fold increase in the number of
+datasets analysed by the resource in addition we report the
+development of a detailed web based faceted search facil 
+ity underpinned by extensive indexing of contextual meta 
+data and a first iteration of a new restful api to allow
+programmatic access to metadata and analysis results we
+also discuss the resource’s recent move towards provision
+of assembly of metagenomic datasets and the concomitant
+development of a searchable non redundant metagenomic
+peptide database representing s of millions of novel se 
+quences 
+
+updates to data content
+
+‘metagenomics’ is often used as a catch all term and
+can refer to several different experiment types within
+ebi metagenomics data is divided into wgs sequencing
+of dna extracted from environmental samples metage 
+nomics whole transcriptome shotgun sequencing meta 
+transcriptomics and metagenetic studies that target mark 
+ers such as the small subunit ssu ribosomal ribonucleic
+acid gene amplicon or other genes metabarcoding such
+as its or cox in order to assign taxonomy in addition 
+the resource provides analysis of user submitted assembled
+sequence data assembly in a recent change to our pipeline
+capability outlined in the assembly and peptide database
+creation section below ebi metagenomics has begun to
+offer assembly of public metagenomes and user submitted
+data upon request 
+
+analysed data in ebi metagenomics are structured into
+projects samples and runs mimicking the organisation
+found in ena these are arranged in potential one to 
+many relationships where one project may contain several
+samples that can each have a number of associated runs 
+such multiple runs can take the form of technical replicates
+or different experiments performed upon the same sample
+material eg metagenomic analysis of wgs data plus anal 
+ysis of the assembled underlying reads 
+
+ebi metagenomics currently contains over publicly
+available projects comprising ∼ samples and ∼ 
+ runs representing a fold increase in the number of
+datasets over the last two years the majority of this data
+ ∼ runs are s rrna gene amplicon datasets fol 
+lowed by wgs metagenomic datasets ∼ runs with
+a smaller number of metatranscriptomic studies and as 
+semblies this is broadly consistent with the breakdown of
+metagenomic data submission to the ena the number of
+runs for each study type split according to source environ 
+ment also known as ‘biome’ is shown in figure 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+https www ebi ac uk metagenomics 
+
+
+d nucleic acids research vol database issue
+
+figure illustration of the number of projects and runs analysed from each biome the number of projects and runs from different study types are shown
+on consecutive log axes this figure was produced using the itol server 
+
+pipeline updates
+
+the ebi metagenomics team continually evaluates new
+tools and approaches for potential inclusion in the pipeline
+with the aim of providing the best possible analyses an
+updated version of the analysis pipeline version out 
+lined in figure a was released in july with updates
+to a number of tools and algorithms interproscan 
+ based on interpro release trimmomatic 
+ fraggenescan qiime and a new
+gene ontology slim for visualization the qc steps
+of the pipeline were also extended to cover additional met 
+rics such as distribution of read lengths gc content and
+relative nucleotide abundances in addition to enriching the
+data outputs this also brought the qc visualizations on
+the site into closer alignment with those provided by mg 
+rast providing consistency and helping users transi 
+tion from one site to the other 
+
+the analysis pipeline underwent a more substantial up 
+date in august to version figure b with the
+entire taxonomic profiling section replaced the rrnase 
+lector based component which was previously used to
+identify s rrna genes was replaced with infernal 
+ running in hmm only mode using a library of riboso 
+mal rna models from rfam families compris 
+ing rfam clans cl ssu and cl lsu this
+allows accurate identification of both large and small sub 
+
+unit lsu and ssu ribosomal ribonucleic acid genes in 
+cluding the eukaryotic s rrna gene in addition to the
+ribosomal subunit rnas the pipeline also extracts other
+non coding rnas ncrnas such as srp rna trna 
+tmrna and rnase using the following libraries cl 
+ trna clan cl rnase p clan and cl srp
+rna clan 
+
+the qiime taxonomic classification component of the
+analysis pipeline was replaced with mapseq version 
+ which offers fast and accurate classification of reads 
+and provides corresponding confidence scores for assign 
+ment at each taxonomic level the greengenes reference
+database was replaced with silva ssu lsu version
+ which includes eukaryotic as well as prokaryotic
+sequences thus enabling eukaryotic taxonomic classifica 
+tion in order to make it compatible with mapseq the
+silva database was remapped to an level taxonomy us 
+ing in house scripts the resulting classification system was
+compared to qiime greengenes and benchmarked using
+both mock community and real world datasets to confirm
+validity of results 
+
+prodigal version was added to run alongside
+fraggenescan version as part of a combined gene
+caller component for assembled sequences the predictions
+from prodigal are supplemented by any non overlapping
+regions called by fraggenescan for short reads fragge 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+
+
+nucleic acids research vol database issue d 
+
+figure schematic representations of the ebi metagenomics pipeline versions a and b tools and reference databases updated in each release
+are indicated by a magenta circle and described in detail within the text processing steps are indicated in the colour rounded boxes yellow blue green 
+tools in dark grey boxes and databases in light grey boxes input and output files as white squares the combined gene caller component is indicated as
+cgc 
+
+nescan alone is used finally interproscan was updated to
+version based on interpro release 
+
+extended taxonomic analysis to all cellu 
+lar life
+
+the adoption of infernal using a comprehensive library of
+ribosomal models means that the pipeline now identifies
+ssus s and s rrnas comparing these against the
+silva database that includes both prokaryotic and eukary 
+otic references allows rich classification and a reduction in
+the number of sequences labelled as unclassified see figure
+ 
+
+update of the metagenomics go slim
+
+as part of the pipeline update the metagenomics go
+slim which is used to summarize functional annotations
+for visualization on the website was rebuilt this was based
+upon the analysis of all go terms that had been assigned
+to approximately billion protein coding sequences us 
+
+ing pipeline version the updated slim provides sum 
+marization for of terms compared to previ 
+ously and therefore gives a better representation of the
+underlying annotations the updated metagenomics go
+slim is available at http www geneontology org ontology 
+subsets goslim metagenomics obo 
+
+data discovery and retrieval interfaces
+
+with the rapid expansion in the number of datasets it
+has become increasingly important to improve access to
+the data contained within ebi metagenomics for explo 
+ration and discovery to this end we have made use of the
+embl ebi search infrastructure to implement more
+powerful browsing and searching a search input box is
+present on all pages allowing entry of free text eg ‘hu 
+man’ or colon separated fields and values eg ‘experi 
+ment type amplicon’ searches are subdivided into three
+levels projects samples and runs as each level has differ 
+ent metadata available the results are displayed in separate
+tabs and can be filtered by facets and numerical search con 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www geneontology org ontology subsets goslim metagenomics obo
+
+
+d nucleic acids research vol database issue
+
+figure krona plots showing taxonomic classification of run err from ocean sampling day ena project accession prjeb a 
+produced using version of the pipeline and b using version prokaryotic taxonomic lineages are shown in red eukaryotic in blue and unclassified
+in grey the total number of s rrna ssu input sequences was similar in each case with version versus with version 
+
+trols as appropriate for the data type for example run 
+level has the richest set of indexed facets that can be used
+for filtering with organism go terms and interpro anno 
+tations the latter two can also be used as search terms 
+and the results can then be filtered by fields such as tem 
+perature or depth using this search interface it is possi 
+ble to rapidly and easily narrow down datasets for exam 
+ple to discover all runs that contain antibiotic biosynthesis
+monooxygenase sequences in soil where actinobacteria are
+found determined using metatranscriptomics 
+
+to provide a richer search and retrieval interface we
+have begun development of a restful api providing
+programmatic access to the data the base address to
+the api is https www ebi ac uk metagenomics api v 
+there are several top level resources such as studies sam 
+ples runs experiment types biomes and annotations links
+to a resource eg https www ebi ac uk metagenomics api 
+v biomes return a json object formatted data structure
+that contains the resource type in this example ‘biomes’ 
+associated object identifier id and attributes where ap 
+propriate relationships and links are provided to other
+resources allowing complex queries to be constructed 
+for example https www ebi ac uk metagenomics api v 
+ studies retrieves a list of all studies while https www ebi 
+ac uk metagenomics api v studies erp retrieves
+a single study with the accession erp the samples
+contained within this study can be retrieved using the fol 
+lowing url https www ebi ac uk metagenomics api v 
+ studies erp samples 
+
+lists of resources can be filtered and sorted by selected
+attributes allowing the construction of more complex
+queries for instance in order to retrieve oceanographic
+samples from metagenomic studies taken at temperature
+less than or equal to ◦c the following query could
+
+be constructed https www ebi ac uk metagenomics 
+api v biomes root environmental aquatic marine 
+samples experiment type metagenomic metadata key 
+temperature metadata value lte ordering 
+accession the provision of such complex queries al 
+lows metadata to be combined with annotation for
+powerful data analysis and visualisation see figure 
+
+as some queries can result in a large response the api
+supports pagination using a page number and size of results
+per page as query parameters the api response also distin 
+guishes between attributes and relationships allowing cus 
+tomization of the response by passing fields or including re 
+lations as parameters in the initial query we have utilized an
+interactive documentation framework swagger ui to vi 
+sualize and simplify interaction with the api’s resources via
+an html interface detailed explanations of the purpose
+of all resources along with many examples are provided
+to guide end users documentation on how to use the end 
+points is available at https www ebi ac uk metagenomics 
+api docs 
+
+diversity estimation and sample compar 
+isons
+
+as part of pipeline v we have added additional informa 
+tion regarding metagenomic community diversity estima 
+tion and information to allow comparisons between runs
+and samples for each run and sample we produce plots
+to graphically illustrate the taxa abundance distribution 
+and use otu counts to compute diversity indices includ 
+ing several estimates of the total diversity of the commu 
+nity sampled these estimates are computed using r pack 
+ages for community ecology such as sads https cran 
+r project org package sads and vegan https cran r 
+project org package vegan estimates are also computed
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+https www ebi ac uk metagenomics api v 
+https www ebi ac uk metagenomics api v biomes
+https www ebi ac uk metagenomics api v studies
+https www ebi ac uk metagenomics api v studies erp 
+https www ebi ac uk metagenomics api v studies erp samples
+https www ebi ac uk metagenomics api v biomes root environmental aquatic marine samples experiment type metagenomic metadata key temperature metadata value lte ordering accession
+https www ebi ac uk metagenomics api docs 
+https cran r project org package sads
+https cran r project org package vegan
+
+
+nucleic acids research vol database issue d 
+
+figure correlation between temperature a and depth b and photosynthesis related go term counts normalized by number of interpro annotations 
+for tara oceans project prjeb metadata and annotations were retrieved from the api and combined on the fly to generate the visualizations 
+
+at the level of sample based on simple pooling of otu
+counts from all runs in a sample additionally estimates
+are provided for the number of individuals that would need
+to be sequenced in order to see a given fraction of the to 
+tal population diversity based on the assumption of an un 
+derlying poisson log normal taxa abundance distribution 
+these provide guidance for the sequencing effort likely to
+be required for a more complete characterisation of the mi 
+crobial community of interest 
+
+additional diagnostic plots have also been added which
+allow for the comparison of samples and runs within a
+study in addition to a pca plot for the identification of
+outlying runs these provide a robust estimate of the fold 
+change difference in taxonomic composition between a ref 
+erence sample or run and all other samples or runs in
+the study estimates of differences are computed using the
+deseq software via the bioconductor package phy 
+loseq these estimates are most robust for studies with
+replication in the form of multiple runs per sample 
+
+assembly and peptide database creation
+
+in we undertook a feasibility study aimed at inves 
+tigating assembly of metagenomic datasets given current
+infrastructural resources during this study we evaluated
+a number of different assembly algorithms with respect to
+processing speed and memory usage as well as quality of as 
+semblies based on the results we believe it is feasible to of 
+fer assembly of user submitted metagenomic datasets sub 
+ject to request we have chosen a panel of three assemblers
+for use with the pipeline metaspades megahit and
+minia this selection is based on the quality of assem 
+bly across a range of biomes and the resources required to
+produce an assembly 
+
+metaspades and megahit have been found to be
+amongst the best performing assemblers for metagenomic
+data according to independent review minia mean 
+while has very low memory requirements and can be used
+to assemble very large datasets from diverse communities 
+these assertions have also been confirmed by other bench 
+marking initiatives such as cami http dx doi org 
+ which also demonstrated that minia excelled
+at assembling abundant circular elements 
+
+to enable the selection of the optimal assembly pipeline
+ for a given data set and available compute resources 
+we have developed a neural network built using tensor 
+flow https arxiv org abs this considers in 
+puts such as source biome sequencing platform file size 
+read count and base count to estimate and assign the ap 
+propriate assembler and memory parameters metaspades
+is used as the default with minia as the alternative if pre 
+dicted metaspades memory requirements are too high 
+megahit which offers a middle ground in term of mem 
+ory usage can be used in place of metaspades if requested
+by users 
+
+as part of the assembly tool evaluation process we
+assembled a number of publicly available metagenomic
+datasets from ena drawn from a diverse range of environ 
+ments to date we have assembled different shotgun
+metagenomics datasets from different projects all bar
+nine of these have been assembled using metaspades with
+eight assembled using minia and one using megahit of
+the assemblies are from a range of human micro 
+biome projects including the hmp project that was
+previously absent from ebi metagenomics these are ac 
+companied by smaller numbers of assemblies from a range
+of biomes marine from soil wastewater sludge 
+ freshwater animal gut microbiomes and others as
+ebi metagenomics has remits to both analyse and archive 
+these assemblies have also been submitted to the ena ac 
+cessions summarised in supplementary table s before
+being retrieved for analysis with the ebi metagenomics
+pipeline combined with the pre existing assemblies ebi
+metagenomics now contains over assembled datasets 
+corresponding to of the shotgun metagenomics data 
+having established that it is possible to offer assembly as an
+analysis service we will continue to assemble public datasets
+internally and respond to user request to assemble other
+datasets either their own private data or public data un 
+til our user interfaces are enriched to allow the selection of
+the analysis type directly 
+
+as a compendium to the assemblies and their associated
+analysis results we have developed a workflow to produce a
+non redundant set of peptides from an initial assem 
+bly datasets a non redundant peptide database of almost
+ million sequences has been produced over million
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http dx doi org 
+https arxiv org abs 
+
+
+d nucleic acids research vol database issue
+
+figure hmmer search results using the assembled peptide database searching the full length subdivision of the assembled peptide database with an
+arginine deiminase from streptococcus sanguinis sk uniprot identifier f btu identified over sequences with a significant match e value 
+ e– to the query sequence with sequences having an identical counterpart in uniprotkb 
+
+of these are predicted to be full length yet only ∼ million
+have exact counterparts in the uniprotkb database 
+to allow the querying of this sequence database by users
+with a target sequence we have deployed a hmmer web
+search engine and server this interface can be accessed
+via a tab on the front page of the website sequences can
+be queried against either the entire database or just the
+full length sequences or the fragment subset matching se 
+quences are displayed along with alignments between the
+query and matches and cross links to any matching coun 
+terparts in uniprotkb see figure sequences are also
+mapped to the runs and or samples from which they orig 
+inated allowing contextual metadata to be associated we
+expect this database to grow rapidly reaching s of mil 
+lions or even billions of sequences as we assimilate more
+and more proteins from our assemblies 
+
+data submission services and growth
+
+data submission to ebi metagenomics is routed via ena 
+which offers interactive and programmatic interfaces sup 
+ported by an active submissions helpdesk and training ma 
+terials there have been incremental updates to this ser 
+vice through including improvements to sample de 
+scription and assembly submission user workflows from
+its inception ebi metagenomics has had a commitment to
+supporting data standards to allow full discoverability in 
+teroperability and reusability of data focusing especially
+on contextual data standards around sample descriptions 
+which are essential in interpreting metagenomics studies 
+ena implements the mixs standards in its submission sys 
+tem ena has continued to track developments in
+mixs and its underlying structured vocabularies a third
+
+of metagenomics samples submitted through embl ebi
+see users appropriately selecting mixs sample checklists
+during the submission process an ongoing discussion with
+insdc partners assures uptake of these standards for
+those datasets not routed through submissions services at
+embl ebi 
+
+the rate of growth of metagenomic sequence submission
+to ena is increasing as illustrated in figure at the same
+time the rate of data analysis by ebi metagenomics has
+also increased following a major pipeline improvement in
+ aimed at optimising analysis throughput while a siz 
+able volume of data has now been analysed this represents
+only a small proportion of overall available data and fur 
+ther pipeline improvements will be required to keep pace 
+however not all of the data identified within the ena will
+be tractable for analysis for example some samples are
+metabarcoding studies targeting specific marker genes out 
+side of the scope of the pipeline others are isolate genomes
+from retrieved from an environmental sample which is also
+outside of the current scope of the resource 
+
+improved documentation
+
+over the past two years our range of services has changed
+and expanded substantially while we endeavour to inform
+our user community via blogs or social media information
+disseminated in this way can be transient in the past our
+help pages have been relatively brief and lacked search func 
+tionality to overcome these deficiencies we now provide
+revised and expanded documentation for both the pipeline
+and website hosted externally at read the docs http 
+emg docs readthedocs io the advantages offered by this
+service include the ability to search within documentation 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http emg docs readthedocs io 
+
+
+nucleic acids research vol database issue d 
+
+figure growth of metagenomics data housed in ena and processed by ebi metagenomics emg this graph shows the cumulative growth of envi 
+ronmental data in the two resources ena solid lines emg dashed lines according to two different metrics numbers of samples blue and number of
+bases orange 
+
+to export the documents in numerous formats and to sup 
+port concurrent versions for different pipeline website re 
+leases furthermore as this documentation is available in
+github it allows team members external collaborators and
+users to contribute to the documentation
+
+discussion
+
+as the field of metagenomics develops data volumes grow 
+and sequence processing and analysis algorithms mature 
+it is important that analysis pipelines evolve to keep pace 
+ebi metagenomics began life several years ago as a small
+resource largely devoted to processing roche metage 
+nomic data it has grown to become one of the largest
+metagenomic repositories in the world supporting the anal 
+ysis of a range of study types generated with a variety of
+different sequencing technologies from a range of differ 
+ent biomes the next stage in its development has been to
+extend and improve its processing and analyses to keep up
+with progress in the field at the same time it has looked to
+extend access to captured contextual metadata and analysis
+results to become more useful to the research community 
+
+to this end the last two years have seen ebi metage 
+nomics pipeline changes aimed at updating tools and broad 
+ening the scope of analyses these have included new com 
+ponents to enable eukaryotic taxonomic analysis and bet 
+ter representation of functional annotation using updated
+reference databases at the same time extensive data index 
+ing to support web based searches and a new restful api
+
+serving contextual metadata and results have been devel 
+oped to offer powerful entry points for browsing searching
+and discovery of data from both a manual and program 
+matic perspective 
+
+a more fundamental change is the shift towards provi 
+sion of assembly of both user submitted and publicly avail 
+able metagenomic datasets this represents a new and ex 
+citing development for the resource which will provide the
+opportunity to compare the differences between raw reads
+and assembly analysis outputs a comparison that will re 
+quire tracking of raw reads to contigs to maintain abun 
+dance counts 
+
+assembly also opens the door to more in depth func 
+tional annotation for example provision of full length pro 
+tein sequences potentially allows their annotation using the
+complete set of interpro member databases some of
+which are excluded from the current ebi metagenomics
+pipeline as they do not perform well at annotating sequence
+fragments the ability to annotate at a very deep functional
+level e g classifying sequences into specific protein subfam 
+ilies and identifying precise enzymatic functions in turn al 
+lows more sophisticated analyses such as reconstruction of
+precise metabolic pathways within a microbial community
+at very high resolution furthermore assembly also unlocks
+the possibility of taxonomic binning genome reconstruc 
+tion and annotation which brings the potential for identi 
+fication of new organisms 
+
+such developments will provide new analysis types and
+entry points to the resource the first of these is already
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+
+
+d nucleic acids research vol database issue
+
+accessible in the form of the nascent non redundant pep 
+tide database described above the generation of such a
+database––and the ability to run sequence based searches
+against it––addresses a feature frequently requested from
+our user community other entry points or views of the
+data such as intuitive visualisations of assembled contigs
+and their associated annotations are currently lacking and
+will need to be developed 
+
+as ebi metagenomics continues to evolve careful
+thought will need to be given as to how new features scale 
+to balance usability with sustainability for example gener 
+ating one vast peptide database based on all assembled se 
+quence data will not address community needs as the data
+needs to be structured in meaningful ways for example 
+mapping the sequences back to particular biomes and or
+environmental conditions at the same time we will need
+to monitor our assembly strategy since without algorithm
+development there will be many projects where it is sim 
+ply computationally too expensive to assemble all sequence
+data without impacting analysis of user submitted data and
+the day to day activities of the resource dealing with these
+issues and with those outlined above will be a key priority
+for ebi metagenomics in the forthcoming years 
+
+availability
+
+all of the assemblies produced by this work have been sub 
+mitted to the ena accession numbers are given in supple 
+mentary table s 
+
+supplementary data
+
+supplementary data are available at nar online 
+
+funding
+
+biotechnology and biological sciences research
+council bbsrc bb m bb n 
+bb m european commission within the
+research infrastructures programme of horizon 
+ elixir excelerate innovateuk
+ funding for open access charge research
+councils uk rcuk 
+conflict of interest statement none declared 
+
+references
+ wilson m c mori t rückert c uria a r helf m j takada k 
+
+gernert c steffens u a e heycke n schmitt s et al an
+environmental bacterial taxon with a large and distinct metabolic
+repertoire nature – 
+
+ spang a saw j h jørgensen s l zaremba niedzwiedzka k 
+martijn j lind a e van eijk r schleper c guy l and
+ettema t j g complex archaea that bridge the gap between
+prokaryotes and eukaryotes nature – 
+
+ burstein d harrington l b strutt s c probst a j 
+anantharaman k thomas b c doudna j a and banfield j f 
+ new crispr cas systems from uncultivated microbes 
+nature – 
+
+ ovchinnikov s park h varghese n huang p s 
+pavlopoulos g a kim d e kamisetty h kyrpides n c and
+baker d protein structure determination using metagenome
+sequence data science – 
+
+ chen j wright k davis j m jeraldo p marietta e v murray j 
+nelson h matteson e l and taneja v an expansion of rare
+lineage intestinal microbes characterizes rheumatoid arthritis 
+genome med 
+
+ sampson t r debelius j w thron t janssen s shastri g g 
+ilhan z e challis c schretter c e rocha s gradinaru v et al 
+ gut microbiota regulate motor deficits and neuroinflammation
+in a model of parkinson’s disease cell – 
+
+ luo c tsementzi d kyrpides n c and konstantinidis k t 
+individual genome assembly from complex community short read
+metagenomic datasets isme j – 
+
+ tully b j sachdeva r graham e d and heidelberg j f 
+metagenome assembled genomes from the mediterranean sea a
+resource for marine microbiology peer j e 
+
+ johnston e r rodriguez r l m luo c yuan m m wu l 
+he z schuur e a g luo y tiedje j m zhou j et al 
+metagenomics reveals pervasive bacterial populations and reduced
+community diversity across the alaska tundra ecosystem front 
+microbiol 
+
+ nurk s meleshko d korobeynikov a and pevzner p a 
+metaspades a new versatile metagenomic assembler genome res 
+ – 
+
+ schmieder r and edwards r quality control and
+preprocessing of metagenomic datasets bioinformatics – 
+
+ yok n and rosen g benchmarking of gene prediction
+programs for metagenomic data conf proc ieee eng med biol 
+soc – 
+
+ rho m tang h and ye y fraggenescan predicting genes
+in short and error prone reads nucleic acids res e 
+
+ vollmers j wiegand s and kaster a k comparing and
+evaluating metagenome assembly tools from a microbiologist’s
+perspective––not only size matters plos one e 
+
+ lindgreen s adair k l and gardner p p an evaluation of
+the accuracy and speed of metagenome analysis tools sci rep 
+ 
+
+ siegwald l touzet h lemoine y hot d audebert c and
+caboche s assessment of common and emerging
+bioinformatics pipelines for targeted metagenomics plos one 
+e 
+
+ golob j l margolis e hoffman n g and fredricks d n 
+evaluating the accuracy of amplicon based microbiome
+computational pipelines on simulated human gut microbial
+communities bmc bioinformatics 
+
+ meyer f paarmann d d’souza m olson r glass e m 
+kubal m paczian t rodriguez a stevens r wilke a et al 
+ the metagenomics rast server a public resource for the
+automatic phylogenetic and functional analysis of metagenomes 
+bmc bioinformatics 
+
+ chen i m a markowitz v m chu k palaniappan k szeto e 
+pillay m ratner a huang j andersen e huntemann m et al 
+ img m integrated genome and metagenome comparative
+data analysis system nucleic acids res d –d 
+
+ jones p binns d chang h y fraser m li w mcanulla c 
+mcwilliam h maslen j mitchell a nuka g et al 
+interproscan genome scale protein function classification 
+bioinformatics – 
+
+ bolger a m lohse m and usadel b trimmomatic a flexible
+trimmer for illumina sequence data bioinformatics – 
+
+ caporaso j g kuczynski j stombaugh j bittinger k 
+bushman f d costello e k fierer n peña a g goodrich j k 
+gordon j i et al qiime allows analysis of high throughput
+community sequencing data nat methods – 
+
+ courtot m mitchell a scheremetjew m pinero j furlong l i 
+finn r d and parkinson h slim o matic a semi automated
+way to generate gene ontology slims swat ls 
+
+ ashburner m ball c a blake j a botstein d butler h 
+cherry j m davis a p dolinski k dwight s s eppig j t et al 
+ gene ontology tool for the unification of biology the gene
+ontology consortium nat genet – 
+
+ lee j h yi h and chun j rrnaselector a computer
+program for selecting ribosomal rna encoding sequences from
+metagenomic and metatranscriptomic shotgun libraries j 
+microbiol – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+
+
+nucleic acids research vol database issue d 
+
+ nawrocki e p and eddy s r infernal fold faster
+rna homology searches bioinformatics – 
+
+ nawrocki e p burge s w bateman a daub j eberhardt r y 
+eddy s r floden e w gardner p p jones t a tate j et al 
+rfam updates to the rna families database nucleic acids res 
+ d –d 
+
+ matias rodrigues j f schmidt t s b tackmann j and von
+mering c mapseq highly efficient k mer search with
+confidence estimates for rrna sequence analysis bioinformatics 
+doi bioinformatics btx 
+
+ desantis t z hugenholtz p larsen n rojas m brodie e l 
+keller k huber t dalevi d hu p and andersen g l 
+greengenes a chimera checked s rrna gene database and
+workbench compatible with arb appl environ microbiol 
+ – 
+
+ quast c pruesse e yilmaz p gerken j schweer t yarza p 
+peplies j and glöckner f o the silva ribosomal rna gene
+database project improved data processing and web based tools 
+nucleic acids res d –d 
+
+ hyatt d chen g l locascio p f land m l larimer f w and
+hauser l j prodigal prokaryotic gene recognition and
+translation initiation site identification bmc bioinformatics 
+
+ park y m squizzato s buso n gur t and lopez r the
+ebi search engine ebi search as a service making biological data
+accessible for all nucleic acids res w –w 
+
+ love m i huber w and anders s moderated estimation of
+fold change and dispersion for rna seq data with deseq genome
+biol 
+
+ mcmurdie p j and holmes s phyloseq an r package for
+reproducible interactive analysis and graphics of microbiome census
+data plos one e 
+
+ li d liu c m luo r sadakane k and lam t w 
+megahit an ultra fast single node solution for large and complex
+metagenomics assembly via succinct de bruijn graph bioinformatics 
+ – 
+
+ chikhi r and rizk g space efficient and exact de bruijn
+graph representation based on a bloom filter algorithms mol biol 
+ 
+
+ gevers d knight r petrosino j f huang k mcguire a l 
+birren b w nelson k e white o methé b a and
+huttenhower c the human microbiome project a
+community resource for the healthy human microbiome plos biol 
+ e 
+
+ the uniprot consortium uniprot the universal protein
+knowledgebase nucleic acids res d –d 
+
+ finn r d clements j arndt w miller b l wheeler t j 
+schreiber f bateman a and eddy s r hmmer web server 
+ update nucleic acids res w –w 
+
+ yilmaz p kottmann r field d knight r cole j r 
+amaral zettler l gilbert j a karsch mizrachi i johnston a 
+cochrane g et al minimum information about a marker gene
+sequence mimarks and minimum information about any x 
+sequence mixs specifications nat biotechnol – 
+
+ cochrane g karsch mizrachi i takagi t and international
+nucleotide sequence database collaboration the
+international nucleotide sequence database collaboration nucleic
+acids res d –d 
+
+ hunter s corbett m denise h fraser m gonzalez beltran a 
+hunter c jones p leinonen r mcanulla c maguire e et al 
+ ebi metagenomics–a new resource for the analysis and
+archiving of metagenomic data nucleic acids res d –d 
+
+ finn r d attwood t k babbitt p c bateman a bork p 
+bridge a j chang h y dosztányi z el gebali s fraser m et al 
+ interpro in beyond protein family and domain
+annotations nucleic acids res d –d 
+
+ letunic i and bork p interactive tree of life itol v an
+online tool for the display and annotation of phylogenetic and other
+trees nucleic acids res w –w 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+
+

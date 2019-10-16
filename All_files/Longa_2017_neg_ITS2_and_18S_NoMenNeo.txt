@@ -1,0 +1,2275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+soil microbiota respond to green manure in organic vineyards
+
+
+original article
+
+soil microbiota respond to green manure in organic
+vineyards
+c m o longa l nicola l antonielli e mescalchin r zanzotti e turco and i pertot
+
+research and innovation centre fondazione edmund mach fem san michele all’ adige tn italy
+
+keywords
+
+bacteria biodynamic vineyard fungi green
+
+manure microbial community structure 
+
+microbial diversity organic vineyard soil
+
+microbiology soil vineyard 
+
+correspondence
+
+claudia m o longa research and innova 
+
+tion centre fondazione edmund mach
+
+ fem via e mach san michele
+
+all’adige tn italy 
+
+e mail claudia longa fmach it
+
+ received may revised 
+
+september and accepted october
+
+ 
+
+doi jam 
+
+abstract
+
+aims the aim of this work was to investigate the effects of biodynamic
+
+management with and without the addition of green manure in comparison
+
+with organic management on the microbiota in vineyards soil 
+
+methods and results high throughput sequencing was used to compare the
+
+taxonomic structure of the soil bacterial and fungal communities from
+
+vineyards managed with different methods organic biodynamic or
+
+biodynamic with green manure our results showed that microbial
+
+communities associated with biodynamic and organic farming systems were
+
+very similar while green manure was the greatest source of soil microbial
+
+biodiversity and significantly changed microbial richness and community
+
+composition compared with other soils green manure also significantly
+
+enriched bacterial taxa involved in the soil nitrogen cycle e g microvirga sp 
+
+pontibacter sp and nitrospira sp 
+
+conclusions our results showed that the diversity and composition of the
+
+microbial communities associated with biodynamic and organic farming
+
+systems were similar indicating that the use of biodynamic preparations 
+
+and did not cause any significant detectable changes to the soil microbial
+
+community in the short term while the effects of green manure were
+
+significant in soil microbiota 
+
+significance and impact of the study the microbiological richness and
+
+structure of soil are used as a sensitive indicator of soil quality the extension
+
+of organic biodynamic farming associated with green manure application 
+
+could contribute to increase the abundance of functional groups of biological
+
+and agronomical relevance and maintaining microbial biodiversity in vineyard
+
+soils 
+
+introduction
+
+since there are vineyards dating back to pre roman times
+
+in europe the grapevine offers a unique opportunity to
+
+study extremely long term monocultures schlegel 
+
+the physical and chemical properties of soil generally
+
+have a major effect in shaping the microbial population
+
+of vineyard soil corneo et al compared with
+
+other agro ecosystems vineyard soils receive lower nitro 
+
+gen fertilizer input and are subjected to relatively infre 
+
+quent tilling and fewer herbicide applications which may
+
+be reflected in the composition of microbial communities
+
+ steenwerth et al however in recent years grape 
+
+growing areas have been subjected to cropping intensifi 
+
+cation thus traditional vineyards planted along the con 
+
+tours of hills on small terraces have often been
+
+abandoned and replaced by larger plots on low to moder 
+
+ate slopes with chemical fertilization and weed control 
+
+which increases grape production but also intensifies soil
+
+degradation lopez pineiro et al indeed in terms
+
+of biochemical properties vineyard soils are usually
+
+highly degraded miguens et al long term use of
+
+certain inorganic pesticides in particular copper based
+
+fungicides has resulted in increased concentrations of
+
+heavy metals in the soil affecting the environmental
+
+compartments of soil komarek et al many
+
+journal of applied microbiology © the society for applied microbiology 
+
+journal of applied microbiology issn 
+
+
+
+studies have demonstrated that conventional agricultural
+
+practices can significantly impact microbial communities
+
+in soil ecosystems villanueva rey et al hartmann
+
+et al although the grapevine is an important crop
+
+worldwide and preserving the biological quality of soil is
+
+mandatory for sustainable agriculture knowledge about
+
+soil microbiological processes in vineyards is generally
+
+limited probst et al 
+
+the addition of organic substances is of vital impor 
+
+tance for soil quality and health baldi et al 
+
+organic fertilizers can be a good solution for maintaining
+
+soil health since the release of nutrients in soil is slower
+
+than for chemical fertilizers and often better matches
+
+plant needs in the growing season of the different
+
+organic fertilizers green manure consists of growing
+
+specific crops in the inter rows of the vineyard and then
+
+ploughing them into the terrain to improve soil quality 
+
+green manure crops usually include grass mixtures and
+
+legume plants such as vetch clover barley and others 
+
+multiple benefits are produced by green manure the
+
+physical structure of soil is improved because green
+
+manure tends to reduce soil erosion and leaching ingels
+
+et al this practice can also help to provide eco 
+
+logical niches supporting predators parasitoids improving
+
+pest control in the vineyard irvin et al green
+
+manure influences the grapevine plant and its fruit by
+
+enhancing the organoleptic characteristics of the grapes
+
+ rotaru et al moreover the organic carbon avail 
+
+able for soil micro organisms is significantly increased by
+
+green manure which also enhances the activity of numer 
+
+ous soil enzymes especially those involved in the n cycle
+
+ okur et al although the advantages of using
+
+green manure have been recognized little is known about
+
+the possible modifications that it could cause in soil
+
+microbial communities 
+
+organic agriculture is codified by the council of the
+
+european union ec as a management that
+
+uses living organisms and mechanical production meth 
+
+ods excludes the use of genetically modified organisms
+
+ gmo and the products derived from them reduces the
+
+external inputs that are limited to natural or naturally
+
+derived substances and bans the use of chemically syn 
+
+thesized inputs biodynamic agriculture can be regarded
+
+as a pioneer version of organic agriculture kirchmann
+
+ and it is currently a certification and labelling sys 
+
+tem included in the organic production the principles
+
+of biodynamic agriculture were established in germany
+
+by rudolf steiner in the s it adopts a holistic
+
+approach to the exploitation of natural resources taking
+
+into consideration the sustainability of different elements 
+
+such as the crops themselves animal life preservation or
+
+the maintenance of high quality soil in order to recover 
+
+preserve or improve ecological harmony the biodynamic
+
+approach in farm practices reflects the metaphysical
+
+concepts proposed by its founder it uses a set of specific
+
+compost preparations to be applied to crops to aid fertil 
+
+ization and the application of other homoeopathic treat 
+
+ments based on infusions or plant extracts lotter 
+
+whose effect did not received scientific validation so far
+
+ chalker scott for example preparations and
+
+ consist in cow manure and quartz powder respec 
+
+tively placed in a cow horn and buried and then used in
+
+the field after a period of maturation 
+
+knowledge of how soil management affects soil micro 
+
+bial species richness and abundance is important because
+
+microbial diversity and stability determine the soil’s abil 
+
+ity to react to external changes the impact and degrada 
+
+tion munoz et al beneficial microbial processes
+
+are essential for crop production as they determine the
+
+soil’s ability to supply nutrients to the plant they retain
+
+nutrients in the profile contribute to the formation of
+
+soil structure suppress plant pathogens and contribute to
+
+soil humus formation ingels et al 
+
+the main goal of this study was to investigate the
+
+effects of biodynamic viticulture on the microbial com 
+
+munity structure and diversity of vineyard soils with or
+
+without the addition of green manure using high
+
+throughput sequencing in comparison to organic man 
+
+agement 
+
+materials and methods
+
+sampling site and vineyard management
+
+the study site was located at an experimental site
+
+ � ha in the trentino south tyrol region in northern
+italy san michele all’adige � n � e the
+experiment was repeated in two vineyards according a
+
+“split plot” design with the vineyards field and field
+
+ as first factor and vineyard management organic o 
+
+biodynamic bd or biodynamic with green manure
+
+ bdgm as second factor starting from the autumn of
+
+ the vineyards were both planted with cabernet
+
+franc variety clones and on so rootstock
+
+in and the guyot vine training system was adopted
+
+ � m � m in the o plots pneumatic leaf removal
+and mechanical hedging were adopted for canopy man 
+
+agement while in the bd and bdgm plots pneumatic
+
+leaf removal was substituted with manual removal of lat 
+
+eral shoots and instead of hedging the shoots were
+
+rolled onto the last couple of wires in the vegetative wall 
+
+chemical fertilizers were not applied to any of the plots 
+
+while all plots were treated with copper � kg ha� 
+and sulphur kg ha� to control fungal disease in
+the bd and bdgm plots biodynamic preparations 
+
+ g ha� and g ha� were used to stimulate
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+
+
+humus formation while no fertilizers were applied in the
+
+o the inter rows in the bdgm plots were sown with
+
+cover crops seed mixture for green manure kg ha� 
+table on october to limit physical degradation
+
+by compaction and dissolution green manure plants
+
+ dry weight of � kg m� were mown on may
+ and incorporated into the soil specifically in the
+
+bdgm plots a chisel plough set at cm was used
+
+before cover crop seeding followed by a rotating harrow 
+
+mechanical weed control was performed during inter row
+
+mowing in all the plots 
+
+soil sampling and processing
+
+soil sampling was carried out on october three
+
+sampling points were chosen along two grapevine rows
+
+ at the two ends and a central point in each field and
+
+for each type of vineyard management a total of sam 
+
+ples replicates rows fields vineyard man 
+
+agements were collected 
+
+for each sampling point three soil cores Ø cm 
+
+depth cm were collected from the topsoil and trans 
+
+ferred into sterile bags after removing the first cm of
+
+the soil layer mostly humus the soil samples were
+
+sieved separately to a mm particle size and an equal
+amount of soil from each sampling point was transferred
+
+into a ml sterile falcon tube sarstedt germany lyo 
+
+philized and stored at � °c for metagenomic analysis 
+physical and chemical analysis was carried out on the
+
+remaining soil after pooling by field vineyard manage 
+
+ment and row n the analyses were carried out
+following the official methods for soil chemical analysis
+
+ dm and dm the following parame 
+
+ters were measured total sand � – � mm silt
+ � – � mm and clay � mm were deter 
+mined by measuring the volumetric mass of the water–
+soil suspension and the distribution of the elementary
+
+particles by wet sieving and hydrometer total soil organic
+
+matter som and total nitrogen content n were deter 
+
+mined by elemental analysis using the dumas method 
+
+carbon nitrogen c n ratio calculated from total c and
+
+n the ph was measured in � soil water suspension 
+total caco by gas volumetric determination of
+
+co after hcl treatment iso and active lime 
+
+stone using the drouineau method mg k exchangeable
+
+cations by extraction with ammonium acetate m at ph
+
+ p using the olsen method total cu fe mn zn pb
+
+and cd were quantified in aqua regia 
+
+dna extraction amplification and pyrosequencing
+
+total genomic dna was extracted from � g of lyophi 
+lized soil using a fastdna� spin kit mp biomedicals 
+
+france following the manufacturer’s instructions and
+
+quantified using a nanodrop spectrophotometer 
+
+for bacterial identification the v –v hypervariable
+region of s rrna was pcr amplified using the primer
+
+set f weisburg et al and r muyzer et al 
+
+ at the end the forward primer carried the 
+adaptor a with a specific roche nt multiplex identifier
+
+ mid for each soil sample each sample was amplified
+
+in triplicate in a ll reaction following the amplifica 
+tion protocol by nicola et al the s rrna– � s
+rrna internal spacer its of fungal rrna was amplified
+
+using the primer pair its f gardes and bruns 
+
+its white et al one way amplicon sequencing
+
+was carried out as in nicola et al three indepen 
+
+dent pcr reactions technical replicates were performed
+
+for each sample and pooled together all the pcr prod 
+
+ucts were then analysed with gel electrophoresis and
+
+cleaned using an ampure xp beads kit beckman coul 
+
+ter brea ca two final and distinct libraries s and
+
+its were constructed from the pcr products pyrose 
+
+quencing was performed on a gs flx system roche 
+mannheim germany using xl chemistry following the
+manufacturer’s instructions 
+
+ s rrna gene and its sequence processing
+
+pyrosequence quality was checked in prinseq sch 
+
+mieder and edwards and flowgrams were filtered
+
+and denoised using flowclus gaspar and thomas 
+
+denoised microbial reads were processed using metaxa 
+
+v � � bengtsson palme et al to target the extrac 
+tion and to verify the s rrna variable regions simi 
+
+larly but for fungal reads itsx v � � bengtsson palme
+et al was used to target the its usearch v 
+
+ edgar was used to de replicate sort and cluster
+
+the extracted regions with pairwise sequence iden 
+
+tity chimeras were removed by adopting both de novo
+
+and reference based methods as features of the above 
+
+mentioned tool the rdp classifier train set n 
+
+ was used as a reference database for microbial chi 
+
+meras whereas the unite reference sequences version n 
+
+table composition of the cover crop seed mixture sown on 
+
+october for green manure and average productivity of the
+
+cover crops and natural grass measured on may as dry
+
+weight
+
+cover crops weight
+
+vicia sativa � 
+pisum sativum � 
+vicia faba � 
+secale cereale � 
+brassica napus � 
+
+journal of applied microbiology © the society for applied microbiology 
+
+c m o longa et al soil microbiota in organic vineyards
+
+
+
+ � were chosen for fungal its chimera detec 
+tion in uchime edgar et al taxonomy assign 
+
+ment was performed by employing naive bayesian rdp
+
+classifier v � wang et al in qiime caporaso
+et al with a minimum confidence of � against
+the silva database release quast et al 
+
+ and the unite database version n � 
+ abarenkov et al for s rrna based and its 
+
+based sequences respectively sequence data were made
+
+available in the ncbi sra database under bioproject
+
+number prjna 
+
+ s rrna gene based microbial and its based fungal
+
+community analysis and statistics
+
+otu based analysis was carried out in qiime to calcu 
+
+late richness and diversity after multiple rarefaction
+
+ and read depth for bacteria and fungi 
+
+respectively the otus observed were counted and the
+
+diversity within each individual sample was estimated
+
+using simpson’s diversity index richness and diversity
+
+values were separately analysed in r fitting all the factors
+
+in generalized linear models glms assuming a gamma
+
+distribution and validated via graphical representation of
+
+residuals vs fitted values the statistical significance of
+
+the glms was inferred by adopting the chi square test 
+
+and post hoc pairwise comparisons were calculated using
+
+tukey’s hsd test in the multcomp r package hothorn
+
+et al microbial and fungal richness and diversity
+
+values were graphically represented as box plots using the
+
+ggplot r package 
+
+multivariate analysis of community structure and
+
+diversity was performed according to the recommenda 
+
+tions of anderson and willis i unconstrained
+
+ordination offered by principal coordinate analysis
+
+ pcoa data not shown ii constrained multidimen 
+
+sional scaling using constrained analysis of principal
+
+coordinates cap as re implemented in the vegan r
+
+package oksanen et al iii permutation test to
+
+assess the significance of the constraints and permuta 
+
+tional multivariate analysis of variance permanova 
+
+ iv identification and correlation of otus responsible
+
+for shaping the diversity structure the effects of rare spe 
+
+cies were downweighted by applying hellinger transfor 
+
+mation to the rarefied otu tables 
+
+in more detail the differences between bacterial com 
+
+munities were investigated using the bray–curtis dissimi 
+larity distance and the ordination methods applied to the
+
+same distance matrices all the ordination analyses were
+
+computed and cap plotted in phyloseq points and 
+
+the significance of the treatment grouping factor used as
+
+a constraint in cap was assessed via the permutation test
+
+in the vegan r package the null hypothesis of no
+
+differences between a priori defined groups was investi 
+
+gated using the permanova approach implemented in
+
+vegan as the adonis function and applied to the bray–
+curtis dissimilarity distances 
+
+permutational pairwise comparisons between the treat 
+
+ments were carried out with the rvaidememoire r pack 
+
+age herv�e and p values were fdr adjusted point
+
+ indicator otu analysis was applied for calculation of
+
+differential otu abundance in treatments using the
+
+indicspecies r package de caceres and legendre 
+
+and p values were fdr adjusted procrustes analysis lis 
+
+boa et al was then applied to cap ordinations to
+
+correlate bacterial and fungal beta diversity in response to
+
+different farming practices point differential otu
+
+abundance for treatments at genus level was assessed via
+
+permutation anova rvaidememoire r package for
+
+both the bacterial and fungal dataset significantly differ 
+
+ent genera fdr adjusted p values were then shown as
+
+bar plots mean � sd of number of reads and for each
+genus the pairwise permutation t test was applied to all
+
+treatment combinations 
+
+results
+
+the physical and chemical analysis of soil table did
+
+not reveal statistically significant differences between the
+
+types of management 
+
+pyrosequencing yielded a total of raw pyrotags
+
+reads for bacteria and reads for fungi after qual 
+
+ity filtering and chimera removal a total of s
+
+rrna sequences and its sequences remained for
+
+community analysis corresponding to an average � sd
+of � reads and � reads per
+sample for bacteria and fungi respectively a total of
+
+ bacterial otus and fungal otus were detected
+
+ figs s and s 
+
+the most abundant bacterial phyla in all soil samples 
+
+were actinobacteria � proteobacteria � 
+acidobacteria � and gemmatimonadetes � 
+a total of phyla classes orders families
+
+and genera were detected as regards genera the
+
+most abundant in vineyard soil were gaiella sp � 
+bacillus sp � arthrobacter sp � and nitro 
+spira sp � for bacteria the fungal communities
+were instead dominated by ascomycota basid 
+
+iomycota and zygomycota overall a total
+
+of six phyla classes orders families and 
+
+genera were found in the soil samples the ascomycota
+
+mostly consisted of sordariomycetes followed in decreas 
+
+ing order of relative abundance by dothideomycetes and
+
+eurotiomycetes more than of the sordariomycetes
+
+reads belonged to the hypocreales order and within this
+
+order nectriaceae were the most abundant family 
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+
+
+clonostachys sp � coprinellus sp � exo 
+phiala sp � and fusarium sp � were the
+most abundant genera of fungi 
+
+the glomeromycota phylum an important soil micro 
+
+bial group that forms one of the most common types of
+
+symbiosis arbuscular mycorrhizal fungi amf presented
+
+a low abundance � in all soils and the manage 
+ment systems did not influence its diversity three classes
+
+—archaeosporales glomerales and paraglomerales—rep 
+resented this phylum the glomeraceae family was more
+
+abundant compared with the ambisporaceae and para 
+
+glomeraceae families the glomus and funneliformis gen 
+
+era were common with all the management systems 
+
+while the genus septoglomus was present in o and bd
+
+soils and was almost absent in bdgm soils 
+
+the alpha within sample diversity observed otus 
+
+found in bacterial communities in biodynamic soils with
+
+green manure bdgm was significantly higher than that
+
+in organic o and biodynamic bd soils fig a 
+
+table s moreover the bacterial richness in field was
+
+significantly greater than in field and the same trend
+
+was observed in fungal communities fig b however 
+
+the different types of soil management did not influence
+
+fungal alpha diversity when looking at simpson’s diver 
+
+sity values no significant differences were found between
+
+grouping factors p � 
+when beta between sample diversity was analysed
+
+using permanova both fungal and bacterial commu 
+
+nities were significantly different according to the type of
+
+soil management the field of origin and the interaction
+
+between the two p � table s with permuta 
+tional pairwise comparisons it was ascertained that the
+
+microbiome of bdgm soils was significantly different
+
+from those in o and bd soils p � p � 
+respectively building on these results constrained analy 
+
+sis of principal coordinates cap was performed on bac 
+
+teria and fungi fig using the factors that appeared
+
+to be significant in permanova as constraints the
+
+samples were divided according to the type of soil man 
+
+agement bdgm vs o and bd and the field of origin 
+
+both for bacteria and fungi procrustes correlation testing
+
+for cap analysis was performed and a correlation of � 
+ m � with a significance p � was found 
+meaning that bacterial and fungal diversity reacted in a
+
+similar way to soil management bacterial and fungal
+
+indicator otus significant for soil management were
+
+identified in bdgm and bd soils the bacterial indicator
+
+species were mainly genera associated with the soil nitro 
+
+gen cycle such as nitrospira sp pontibacter sp and fran 
+
+kia sp table the fungal indicator species were
+
+instead mainly saprobic fungi in each type of soil man 
+
+agement table exophiala sp a black yeast often
+
+associated with soil enriched with organic waste was the
+
+indicator species in o soils in bd soils mortierella sp 
+
+mortierella antarctica humicola nigrescens and the antag 
+
+onistic fungus acremonium persicinum were the indicator
+
+otus however bdgm soils contained the biocontrol
+
+agent and plant growth promoting cladorrhinum sp 
+
+table physical chemical analysis of soil samples divided according to the management system applied average � sd o samples from
+organically managed soil bd samples from biodynamically managed soil bdgm samples from biodynamically managed soil with the addition of
+
+green manure as fertilizer
+
+parameter o bd bdgm
+
+ph � � � � � � � � � 
+total limestone g kg� caco � � � � � � � � � 
+active limestone g kg� � � � � � � � � � 
+organic substance g kg� � � � � � � � � � 
+n g kg� � � � � � � � � � 
+c n � � � � � � � � � 
+p o mg kg
+
+� � � � � � � � � � 
+k o mg kg
+
+� � � � � � � � � � 
+mgo mg kg� � � � � � � � � � 
+csc meq per g � � � � � � � � � 
+cu dtpa mg kg� � � � � � � � � � 
+fe dtpa mg kg� � � � � � � � � � 
+mn dtpa mg kg� � � � � � � � � � 
+zn dtpa mg kg� � � � � � � � � � 
+pb dtpa mg kg� � � � � � � � � � 
+cd dtpa mg kg� � � � � � � � � � 
+sand g kg� � � � � � � � � � 
+silt g kg� � � � � � � � � � 
+clay g kg� � � � � � � � � � 
+
+journal of applied microbiology © the society for applied microbiology 
+
+c m o longa et al soil microbiota in organic vineyards
+
+
+
+capnobotryella sp a black pigmented fungi cystofiloba 
+
+sidium capitatum a pectinolytic yeast and exophiala sp 
+
+as regards the differences in otu abundance in o soil
+
+and bd and bdgm soil calculated by permutation
+
+anova we found two nitrogen fixing bacterial genera
+
+ microvirga sp and pontibacter sp to be significantly
+
+more abundant in bdgm soils together with actino 
+
+planes sp which has an important role both in the
+
+degradation of fallen leaves and as an antagonist of
+
+oomycetes like pythium and phytophthora fig 
+
+figure box plots representing observed otus and simpson indices of bacterial a and fungal b communities in vineyard soils managed with
+
+different sustainable approaches o samples from organically managed soil bd samples from biodynamically managed soil bdgm samples
+
+from biodynamically managed soil with the addition of green manure ● soil samples from field ▲ soil samples from field colour figure
+can be viewed at wileyonlinelibrary com 
+
+figure constrained analysis of principal coordinates cap based on the bray–curtis dissimilarity distance of sequencing bacterial a and
+
+fungal b data for soil samples from vineyard soils managed with different sustainable approaches o samples from organically managed soil 
+
+bd samples from biodynamically managed soil bdgm samples from biodynamically managed soil with the addition of green manure ● soil
+samples from field ▲ soil samples from field colour figure can be viewed at wileyonlinelibrary com 
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+
+
+table s however the genus terrimonas involved in s
+
+cycling in soil was significantly more abundant in o soil
+
+than in bd and bdgm soil in fungal analysis the genera
+
+cladorrhinum cystofilobasidium and myrmecridium and
+
+the psychrophilic basidiomycetous yeast mrakiella sp 
+
+were significantly more abundant in bdgm soils fig 
+
+table s in addition the genera colletotrichum gib 
+
+berella and leptosphaeria which include pathogenic spe 
+
+cies of plants were abundant where green manure was
+
+applied in contrast clonostachys sp and pyrenochaeta
+
+sp associated with biocontrol and plant pathogens
+
+respectively were more abundant in o and bd samples
+
+than in bdgm samples 
+
+discussion
+
+scientific studies on biodynamic management in vine 
+
+yards and its effect on soil microbiota are rare burns
+
+et al since most works tend to concentrate on the
+
+effects on plants or grapes recent work on biodynamic
+
+viticulture has affirmed that in terms of grape health the
+
+microbiological and chemical characteristics in these
+
+vineyards were comparable or better to those in vineyards
+
+cultivated using conventional methods guzzon et al 
+
+ 
+
+there are several theories regarding the way in which
+
+the biodynamic preparations may interact with crops and
+
+may include hormonal stimulation enhancing crop
+
+growth especially at root level villanueva rey et al 
+
+ as regards the effects of biodynamic preparations 
+
+according to chalker scott the addition of these
+
+products did not affect the yield of the crops analysed 
+
+and other authors have also stated that biodynamic
+
+preparations had little influence on plant biotic parame 
+
+ters doring et al baskar and shanmugham 
+
+we used the high resolution power of pyrosequen 
+
+cing to investigate soil microbial biodiversity in sustain 
+
+ably managed vineyards specifically studying the short 
+
+term effects of two types of farming management o 
+
+bd and green manure application bd bdgm on the
+
+diversity richness and composition of soil microbial
+
+communities in our study no difference in alpha or beta
+
+diversity was noticed between o and bd soil samples 
+
+this is in agreement with previous studies on biodynamic
+
+management which have indicated similar behaviour for
+
+organic and biodynamic farming systems in terms of
+
+microbial soil composition and diversity in fact carpen 
+
+ter boggs et al found that organically and biody 
+
+namically managed soils had a similar microbial
+
+composition but they were more biotically active than
+
+soils that did not receive organic fertilization moreover 
+
+organic management enhanced soil biological activity but
+
+additional use of biodynamic preparations did not signifi 
+
+cantly affect the soil biotic parameters tested in this
+
+study we have to consider the short term exposure of
+
+the soil microbiota to the different vineyard manage 
+
+ments according to hartmann et al the short 
+
+term effect of agricultural management has shown a fewer
+
+impact than the long term effects mainly on bacterial
+
+community and the spatiotemporal variability was impor 
+
+tant to reveal the shift of the structure of the soil micro 
+
+biota 
+
+green manure application had a major impact on soil
+
+micro organisms our results showed the crucial impor 
+
+tance of green manure for soil microbiota since it pro 
+
+moted higher bacterial richness and significant changes in
+
+the microbial communities found in bdgm soils bacte 
+
+ria and fungi responded in a similar way to green manure
+
+application these results are in accordance with ingels
+
+et al who analysed microbial communities using
+
+phospholipid fatty acid plfa analysis showing that
+
+biodynamic management associated with green manure
+
+application increased the taxonomic and phylogenetic
+
+richness diversity and heterogeneity of soil microbiota
+
+compared with other farming systems furthermore 
+
+table bacterial indicator otus for the different types of vineyard
+
+soil management obtained with the indicspecies r package p values
+
+corrected using fdr o samples from organically managed soil 
+
+bdgm samples from biodynamically managed soil with the addition
+
+of green manure as fertilizer
+
+soil management bacterial otus p values
+
+o lactobacillus sp � 
+bdgm nitrospira sp � 
+
+catelliglobosispora sp � 
+planosporangium sp � 
+paenibacillus sp � 
+pontibacter sp � 
+
+table fungal indicator otus for the different types of vineyard soil
+
+management obtained with the indicspecies r package p values cor 
+
+rected using fdr o samples from organically managed soil bd 
+
+samples from biodynamically managed soil bdgm samples from
+
+biodynamically managed soil with the addition of green manure as
+
+fertilizer
+
+soil management fungal otus p values
+
+o exophiala sp � 
+bd mortierella antarctica � 
+
+acremonium persicinum � 
+mortierella sp m � 
+humicola nigrescens � 
+
+bdgm exophiala sp � 
+capnobotryella sp ma � 
+cystofilobasidium capitatum � 
+cladorrhinum sp � 
+
+journal of applied microbiology © the society for applied microbiology 
+
+c m o longa et al soil microbiota in organic vineyards
+
+
+
+wittwer et al highlighted other benefits of cover
+
+crops such as providing various ecological services to
+
+agro ecosystems protection against soil erosion reduc 
+
+tion of nutrient losses improvement of soil and water
+
+quality and to some extent a reduction in weeds and
+
+pests 
+
+moreover the addition of green manure significantly
+
+enriched the population of bacteria potentially active in
+
+the soil nutrient cycle such as microvirga sp pontibacter
+
+sp and actinoplanes sp microvirga sp is a nitrogen fixing
+
+bacterium that is often found in symbiosis in the root
+
+nodules of legumes ardley et al reeve et al 
+
+ pontibacter sp is a gram negative genus isolated
+
+from different environments such as different kinds of
+
+soil muddy water and marine water srinivasan et al 
+
+ and some strains carry out nitrogen fixing activity
+
+in soil xu et al however actinoplanes sp is
+
+often found in leaf litter nurkanto et al and may
+
+have an important role in the degradation of fallen leaves
+
+and organic matter hop et al in addition to
+
+exercising antagonistic activities against several soil borne
+
+pathogens such as pythium spp and phytophthora
+
+megasperma filonow and lockwood el tarabily
+
+et al green manure also increased the presence of
+
+some fungal otus such as the genus cladorrhinum a
+
+fungal group of prime importance for agriculture and
+
+livestock since some species have biocontrol potential or
+
+have been shown to promote plant growth and produce
+
+phytases carmaran et al and the cold adapted
+
+heterobasidiomycetous genus cystofilobasidium which
+
+can utilize d glucuronate and inositol as sole carbon
+
+sources and the assimilation of nitrate as sole nitrogen
+
+source linkind et al other increased fungal
+
+otus in bdgm were myrmecridium a fungal genus
+
+whose members are either saprobes or plant endophytes
+
+ peintner et al and the psychrophilic basidiomyce 
+
+tous yeast mrakiella the genera colletotrichum gib 
+
+berella and leptosphaeria which include important
+
+phytopathogens of many economically significant plants
+
+cultivated around the world were also more abundant
+
+where green manure was applied 
+
+as regards bacterial composition the two most abun 
+
+dant bacterial phyla in these soil samples actinobacteria
+
+and proteobacteria are copiotrophs in soil and they are
+
+figure bar plots of the different bacterial otu abundance at genus level for different types of vineyard soil management obtained via permu 
+
+tation anova only significantly different genera p values corrected using fdr are shown mean � sd of number of reads o samples from
+organically managed soil bd samples from biodynamically managed soil bdgm samples from biodynamically managed soil with the addition of
+
+green manure 
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+
+
+plentiful in conditions of high nutrient availability 
+
+exhibiting high growth rates fierer et al the
+
+third phylum in order of abundance was acidobacteria 
+
+which instead comprises oligotrophic soil bacteria fierer
+
+et al schimel and schaeffer as regards
+
+fungi otus belonging to the phylum ascomycota were
+
+figure bar plots of the different fungal otu abundance at genus level for different types of vineyard soil management obtained via permuta 
+
+tion anova only significantly different genera p values corrected using fdr are shown mean � sd of number of reads o samples from
+organically managed soil bd samples from biodynamically managed soil bdgm samples from biodynamically managed soil with the addition of
+
+green manure 
+
+journal of applied microbiology © the society for applied microbiology 
+
+c m o longa et al soil microbiota in organic vineyards
+
+
+
+dominant in all types of soil management which is com 
+
+mon in cultivated soil sugiyama et al franke 
+
+whittle et al abujabhah et al and were fol 
+
+lowed by those of basidiomycota zygomycota and
+
+chytridiomycota a similar trend was observed by
+
+orgiazzi et al when analysing its fragments from
+
+different soil types with pyrosequencing 
+
+in this work almost all the microbial genera were
+
+found indiscriminately in each of the management sys 
+
+tems at both sites however differences in abundance
+
+could be detected and some otus could be associated
+
+with specific types of soil management as their indicator
+
+otus in o soils only two indicator otus were found 
+
+the bacterium lactobacillus sp and the fungus exophiala
+
+sp lactobacillus sp often grows on grape skin bae et al 
+
+ nisiotou et al but it can also be isolated
+
+from soil and it shows antifungal activity against several
+
+fungi among which fusarium spp baffoni et al 
+
+gajbhiye and kapadnis according to franke whit 
+
+tle et al the genus exophiala includes black yeasts
+
+that had negative correlations with apple plant growth
+
+and that were significant due to the high abundance in
+
+the soil black yeasts is a terminus technicus describing a
+
+heterogeneous group of fungi that have in common mel 
+
+anized cell walls and the formation of cells by yeast like
+
+budding sterflinger while no bacteria were signif 
+
+icantly associated with this treatment four common
+
+saprotrophic soil fungi were indicator otus in bd soils 
+
+these were mortierella sp and mortierella antarctica 
+
+which occur mainly in the soil of different ecosystems 
+
+including terrestrial habitats of antarctica adams et al 
+
+ humicola nigrescens a thermophilic mould capable
+
+of efficiently degrading organic materials by secreting
+
+thermostable enzymes singh et al and acremo 
+
+nium persicinum an endophytic fungus of the grapevine
+
+with antagonistic activity against both the asexual and
+
+sexual spores of plasmopara viticola burruano et al 
+
+ acremonium persicinum also hydrolyses cellulose
+
+and produces cephalosporin c which is a major precur 
+
+sor of semisynthetic cephalosporin antibiotics used to
+
+treat a wide range of bacterial infections sarookhani and
+
+moazzami 
+
+as regards the bacterial indicator species of bdgm
+
+soils there were three bacterial genera involved in the soil
+
+nitrogen cycle nitrospira sp paenibacillus sp and the
+
+aforementioned nitrogen fixing pontibacter sp nitro 
+
+spira sp belongs to nitrite oxidizing bacteria nob 
+
+ hayatsu et al and is widely distributed in many
+
+habitats including soil oceans freshwater and wastewater
+
+treatment plants koch et al in soil it is often
+
+associated with an increased supply of nitrogen from
+
+mineral fertilization zhou et al another nitro 
+
+gen fixing bacterium is paenibacillus sp which is also
+
+considered a plant growth promoter due to its production
+
+of iaa indole acetic acid and it also has biocontrol
+
+potential against grapevine pathogens such as botrytis
+
+cinerea and neofusicoccum parvum grady et al 
+
+haidar et al as regards fungi four black yeasts
+
+ cladorrhinum sp capnobotryella sp cystofilobasidium
+
+capitatum and exophiala were fungal indicator otus in
+
+bdgm soils most of these genera are found as saprobes
+
+colonizing inert surfaces or in hydrocarbon or heavy 
+
+metal polluted habitats and several are potential human
+
+pathogens seyedmousavi et al currently little
+
+information about the ecophysiology of other detected
+
+indicator otus catelliglobosispora sp planosporangium
+
+sp and capnobotryella sp is available in order to deduce
+
+any putative ecological role in the soil system two differ 
+
+ent techniques that are commonly used to investigate the
+
+differences in microbial communities indicator species
+
+and otu identified by permutational anova detected
+
+different groups of otus both techniques individuated
+
+planosporangium sp and pontibacter sp as significant
+
+bacterial otus in bdgm soils while no correspondences
+
+were found in fungal otus these discrepancies in meth 
+
+ods indicate how difficult can be a univocal characteriza 
+
+tion of microbial communities since different valid
+
+statistical tools can give different answers depending on
+
+the algorithms applied for this reason we decided to
+
+maintain and analyse both results in exploiting two dif 
+
+ferent techniques of analysis 
+
+arbuscular mycorrhizal fungi occur in the roots of
+
+most plants and are an ecologically important component
+
+of the soil microbiome analysis of the otus belonging
+
+to glomeromycota showed a low level of amf relative
+
+abundance also hartmann et al have observed
+
+only few glomeromycota associated to different organic
+
+and conventional management systems using pyrose 
+
+quencing analysis according to orgiazzi et al 
+
+ectomycorrhizal phylotypes are numerous in natural sites
+
+covered by trees but they are almost completely lacking
+
+in anthropogenic and grass covered sites ciccolini et al 
+
+ on studying the community of amf with 
+
+pyrosequencing reported a low level of amf richness in
+
+intense cropping systems however we should also con 
+
+sider the limited coverage by the primers used in this
+
+work to be partly responsible for the few glomeromycota
+
+observed stockinger et al the genus glomus was
+
+most abundant and present in all soils in accordance
+
+with other studies which have found this genus to be the
+
+most abundant amf in the grapevine schreiner and
+
+mihara 
+
+soil is a nonrenewable resource and most vineyard
+
+soils are considered to be highly degraded in terms of loss
+
+of organic carbon as a result of a decrease in nutrient
+
+content an accumulation of metals and organic
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+
+
+pollutants coll et al the effect of agricultural
+
+management systems on soil micro organisms is generally
+
+studied with plants undergoing rotation but less is
+
+known about soils used for perennial plants such as the
+
+grapevine this is one of the few works comparing the
+
+microbial communities of soil in organic and biodynamic
+
+vineyards using pyrosequencing overall our results
+
+showed that the diversity and composition of the micro 
+
+bial communities associated with biodynamic and organic
+
+farming systems were similar indicating that the use of
+
+biodynamic preparations and did not cause any
+
+significant detectable changes to the soil microbial com 
+
+munity in the short term while the effects of green man 
+
+ure were significant in soil microbiota the increase in
+
+soil microbial diversity associated with the use of green
+
+manure could have possible benefits for plant nutrition 
+
+considering that in organic farming systems mineraliza 
+
+tion of organic matter depends on soil micro organism
+
+activity the incorporation of green manure was shown
+
+to increase the diversity of micro organisms in soil par 
+
+ticularly the abundance of specific bacteria and fungi 
+
+evidence of increased nitrogen fixing and nitrite oxidiz 
+
+ing bacteria populations in soil as a response to the use
+
+of green manure suggests that they can potentially be
+
+adopted to increase nitrogen availability an extension of
+
+organic biodynamic farming associated with green man 
+
+ure application could contribute to maintaining higher
+
+microbial biodiversity in vineyard soil and consequently
+
+positively influence overall soil quality 
+
+acknowledgements
+
+we acknowledge vivienne frankell for the english review
+
+of the manuscript 
+
+conflict of interest
+
+the authors declare that they have no competing interests 
+
+references
+
+abarenkov k nilsson r h larsson k h alexander i j 
+
+eberhardt u erland s hoiland k kjoller r et al 
+
+ the unite database for molecular identification
+
+of fungi – recent updates and future perspectives new
+phytol – 
+
+abujabhah i s bound s a doyle r and bowman j p 
+
+ effects of biochar and compost amendments on
+
+soil physico chemical properties and the total community
+
+within a temperate agricultural soil appl soil ecol 
+
+ – 
+adams b j bardgett r d ayres e wall d h aislabie j 
+
+bamforth s bargagli r cary c et al diversity
+
+and distribution of victoria land biota soil biol biochem
+
+ – 
+anderson m j and willis t j canonical analysis of
+
+principal coordinates a useful method of constrained
+
+ordination for ecology ecology – 
+ardley j k parker m a de meyer s e trengove r d 
+
+o’hara g w reeve w g yates r j dilworth m j 
+
+et al microvirga lupini sp nov microvirga
+
+lotononidis sp nov and microvirga zambiensis sp nov are
+
+alphaproteobacterial root nodule bacteria that specifically
+
+nodulate and fix nitrogen with geographically and
+
+taxonomically separate legume hosts int j syst evol
+
+microbiol – 
+bae s fleet g h and heard g m lactic acid
+
+bacteria associated with wine grapes from several
+
+australian vineyards j appl microbiol – 
+baffoni l gaggia f dalanaj n prodi a nipoti p pisi 
+
+a biavati b and di gioia d microbial
+
+inoculants for the biocontrol of fusarium spp in durum
+
+wheat bmc microbiol 
+
+baldi e toselli m marcolini g quartieri m cirillo e 
+
+innocenti a and marangoni b compost can
+
+successfully replace mineral fertilizers in the nutrient
+
+management of commercial peach orchard soil use
+
+manag – 
+baskar p and shanmugham p m performance of
+
+chillies sunflower cropping system under organic
+
+nutrient management int j agric stat sci 
+
+ – 
+bengtsson palme j ryberg m hartmann m branco s 
+
+wang z godhe a de wit p sanchez garcia m 
+
+et al improved software detection and extraction
+
+of its and its from ribosomal its sequences of fungi
+
+and other eukaryotes for analysis of environmental
+
+sequencing data methods eco evol – 
+bengtsson palme j hartmann m eriksson k m pal c 
+
+thorell k larsson d g j and nilsson r h 
+
+metaxa improved identification and taxonomic
+
+classification of small and large subunit rrna in
+
+metagenomic data mol ecol resour – 
+burns k n bokulich n a cantu d greenhut r f 
+
+kluepfel d a o’geen a t strauss s l and steenwerth 
+
+k l vineyard soil bacterial diversity and
+
+composition revealed by s rrna genes differentiation
+
+by vineyard management soil biolo biochem –
+ 
+
+burruano s mondello v and conigliaro g 
+
+endophytic fungi in asymptomatic vitis vinifera l and
+
+their effects on plasmopara viticola in biocontrol of major
+
+grapevine diseases leading research ed compant s and
+
+mathieu f p oxfordshire cab international 
+
+caporaso j g kuczynski j stombaugh j bittinger k 
+
+bushman f d costello e k fierer n pena a g et al 
+
+ qiime allows analysis of high throughput
+
+community sequencing data nat methods – 
+
+journal of applied microbiology © the society for applied microbiology 
+
+c m o longa et al soil microbiota in organic vineyards
+
+
+
+carmaran c c berretta m martinez s munaut v b f 
+
+and gasoni l species diversity of cladorrhinum
+
+in argentina and description of a new species 
+
+cladorrhinum australe mycolo prog 
+
+carpenter boggs l kennedy a c and reganold j p 
+
+organic and biodynamic management effects on soil
+
+biology soil sci soc am j – 
+chalker scott l the science behind biodynamic
+
+preparations a literature review horttechnology –
+ 
+
+ciccolini v ercoli l davison j vasar m opik m and
+
+pellegrino e land use intensity and host plant
+
+simultaneously shape the composition of arbuscular
+
+mycorrhizal fungal communities in a mediterranean
+
+drained peatland fems microbiol ecol pii fiw 
+
+epub sep 
+
+coll p le cadre e blanchart e hinsinger p and villenave 
+
+c organic viticulture and soil quality a long term
+
+study in southern france appl soil ecol – 
+corneo p e pellegrini a cappellin l roncador m 
+
+chierici m gessler c and pertot i microbial
+
+community structure in vineyard soils across altitudinal
+
+gradients and in different seasons fems microbiol ecol
+
+ – 
+council regulation ec no on organic
+
+production and labelling of organic products and
+
+repealing regulation eec no off j eur union
+
+ – http eur lex europa eu lexuriserv lexurise
+rv do uri oj l en pdf
+
+de caceres m and legendre p associations between
+
+species and groups of sites indices and statistical
+
+inference ecology – 
+doring j frisch m tittmann s stoll m and kauer r 
+
+ growth yield and fruit quality of grapevines under
+
+organic and biodynamic management plos one 
+
+e 
+
+edgar r c uparse highly accurate otu sequences
+
+from microbial amplicon reads nat methods – 
+edgar r c haas b j clemente j c quince c and knight 
+
+r uchime improves sensitivity and speed of
+
+chimera detection bioinformatics – 
+el tarabily k a hardy g e s and sivasithamparam k 
+
+ performance of three endophytic actinomycetes in
+
+relation to plant growth promotion and biological control
+
+of pythium aphanidermatum a pathogen of cucumber
+
+under commercial field production conditions in the
+
+united arab emirates eur j plant pathol – 
+fierer n bradford m a and jackson r b toward an
+
+ecological classification of soil bacteria ecology –
+ 
+
+filonow a b and lockwood j l evaluation of several
+
+actinomycetes and the fungus hyphochytrium catenoides
+
+as biocontrol agents for phythophthora root rot of
+
+soybean plant dis – 
+
+franke whittle i h manici l m insam h and stres b 
+
+ rhizosphere bacteria and fungi associated with
+
+plant growth in soils of three replanted apple orchards 
+
+plant soil – 
+gajbhiye m h and kapadnis b p antifungal activity 
+
+producing lactic acid bacteria as biocontrol agents in
+
+plants biocontrol sci technol – 
+gardes m and bruns t d its primers with enhanced
+
+specificity for basidiomycetes – application to the
+identification of mycorrhizae and rusts mol ecol –
+ 
+
+gaspar j m and thomas w k flowclus efficiently
+
+filtering and denoising pyrosequenced amplicons bmc
+
+bioinformatics 
+
+grady e n macdonald j liu l richman a and yuan 
+
+z c current knowledge and perspectives of
+
+paenibacillus a review microb cell fact 
+
+guzzon r gugole s zanzotti r malacarne m larcher 
+
+r von wallbrunn c and mescalchin e 
+
+evaluation of the oenological suitability of grapes grown
+
+using biodynamic agriculture the case of a bad vintage j
+
+appl microbiol – 
+haidar r deschamps a roudet j calvo garrido c 
+
+bruez e rey p and fermaud m multi organ
+
+screening of efficient bacterial control agents against two
+
+major pathogens of grapevine biol control – 
+hartmann m frey b mayer j m€ader p and widmer f 
+
+ distinct soil microbial diversity under long term
+
+organic and conventional farming the isme j –
+ 
+
+hayatsu m tago k and saito m various players in
+
+the nitrogen cycle diversity and functions of the
+
+microorganisms involved in nitrification and
+
+denitrification soil sci plant nutr – 
+herv�e m diverse basic statistical and graphical
+
+functions r package version https cranr projec
+
+torg package rvaidememoire
+
+hop d v sakiyama y chu t t b otoguro m hang 
+
+d t miyadoh s luong d t and ando k 
+
+taxonomic and ecological studies of actinomycetes from
+
+vietnam isolation and genus level diversity j antibiot 
+
+ – 
+hothorn t bretz f and westfall p simultaneous
+
+inference in general parametric models biom j –
+ 
+
+ingels c a scow k m whisson d a and drenovsky r e 
+
+ effects of cover crops on grapevines yield juice
+
+composition soil microbial ecology and gopher activity 
+
+am j enol vitic – 
+irvin n a pinckard t r perring t m and hoddle m s 
+
+ evaluating the potential of buckwheat and cahaba
+
+vetch as nectar producing cover crops for enhancing
+
+biological control of homalodisca vitripennis in california
+
+vineyards biol control – 
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+http eur lex europa eu lexuriserv lexuriserv do uri oj l en pdf
+http eur lex europa eu lexuriserv lexuriserv do uri oj l en pdf
+https cranr projectorg package rvaidememoire
+https cranr projectorg package rvaidememoire
+
+
+kirchmann h biological dynamic farming – an occult
+form of alternative agriculture j agricenviron ethics 
+
+ – 
+koch h lucker s albertsen m kitzinger k herbold c 
+
+spieck e nielsen p h wagner m et al 
+
+expanded metabolic versatility of ubiquitous nitrite 
+
+oxidizing bacteria from the genus nitrospira proc natl
+
+acad sci usa – 
+komarek m cadkova e chrastny v bordas f and
+
+bollinger j c contamination of vineyard soils
+
+with fungicides a review of environmental and
+
+toxicological aspects environ int – 
+linkind d gadanho m van broock m and sampaio j p 
+
+ cystofilobasidium lacus mascardii sp nov a
+
+basidiomycetous yeast species isolated from aquatic
+
+environments of the patagonian andes and
+
+cystofilobasidium macerans sp nov the sexual stage of
+
+cryptococcus macerans int j syst evol microbiol –
+ 
+
+lisboa f j g peres neto p r chaer g m jesus e d 
+
+mitchell r j chapman s j and berbara r l l 
+
+much beyond mantel bringing procrustes association
+
+metric to the plant and soil ecologist’s toolbox plos one
+
+ e 
+
+lopez pineiro a albarran a nunes j m r pena d and
+
+cabrera d long term impacts of de oiled two 
+
+phase olive mill waste on soil chemical properties enzyme
+
+activities and productivity in an olive grove soil tillage
+
+res – 
+lotter d w organic agriculture j sustain agr –
+
+ 
+
+miguens t leiros m c gil sotres f and trasar cepeda 
+
+c biochemical properties of vineyard soils in
+
+galicia spain sci total environ – 
+munoz a lopez pineiro a and ramirez m soil
+
+quality attributes of conservation management regimes in
+
+a semi arid region of south western spain soil tillage res
+
+ – 
+muyzer g dewaal e c and uitterlinden a g 
+
+profiling of complex microbial populations by denaturing
+
+gradient gel electrophoresis analysis of polymerase chain
+
+reaction amplified genes coding for s ribosomal rna 
+
+appl environ microbiol – 
+nicola l turco e albanese d donati c thalheimer 
+
+m pindo m insam h cavalieri d et al 
+
+fumigation with dazomet modifies soil microbiota in
+
+apple orchards affected by replant disease appl soil ecol
+
+ – 
+nisiotou a a dourou d filippousi m e diamantea e 
+
+fragkoulis p tassou c and banilas g genetic
+
+and technological characterisation of vineyard and winery 
+
+associated lactic acid bacteria biomed res int 
+
+nurkanto a lisdiyanti p hamada m ratnakomala s 
+
+shibata c and tamura t actinoplanes
+
+bogoriensis sp nov a novel actinomycete isolated from
+
+leaf litter j antibioti – 
+oksanen j blanchet f g friendly m kindt r legendre 
+
+p mcglinn d minchin p r o’hara r b et al 
+
+vegan community ecology package r package version 
+
+https cranr projectorg package vegan
+
+okur n kayikcioglu h h ates f and yagmur b 
+
+a comparison of soil quality and yield parameters under
+
+organic and conventional vineyard systems in
+
+mediterranean conditions west turkey biol agric hortic
+
+ – 
+orgiazzi a lumini e nilsson r h girlanda m vizzini 
+
+a bonfante p and bianciotto v unravelling soil
+
+fungal communities from different mediterranean land 
+
+use backgrounds plos one e 
+
+peintner u knapp m fleischer v walch g and dresch 
+
+p myrmecridium hiemale sp nov from snow 
+
+covered alpine soil is the first eurypsychrophile in this
+
+genus of anamorphic fungi int j syst evol microbiol 
+
+ – 
+probst b schuler c and joergensen r g vineyard
+
+soils under organic and conventional management –
+microbial biomass and activity indices and their relation
+
+to soil chemical properties biol fertil soils – 
+quast c pruesse e yilmaz p gerken j schweer t 
+
+yarza p peplies j and glockner f o the silva
+
+ribosomal rna gene database project improved data
+
+processing and web based tools nucleic acids res 
+
+d –d 
+reeve w ardley j tian r de meyer s terpolilli j 
+
+melino v tiwari r yates r et al genome
+
+sequence of the listia angolensis microsymbiont
+
+microvirga lotononidis strain wsm t stand
+
+genomic sci – 
+rotaru l stoleru v and mustea m fertilization
+
+with green manure on chasselas dore grape vine as an
+
+alternative for sustainable viticulture j food agric environ
+
+ – 
+sarookhani m r and moazzami n isolation of
+
+acremonium species producing cephalosporine c cpc 
+
+from forest soil in gilan province iran afri j biotechnol
+
+ – 
+schimel j p and schaeffer s m microbial control over
+
+carbon cycling in soil front microbiol 
+
+schlegel w der weinbau in der schweiz pp – 
+wiesbaden steiner 
+
+schmieder r and edwards r quality control and
+
+preprocessing of metagenomic datasets bioinformatics 
+
+ – 
+schreiner r p and mihara k l the diversity of
+
+arbuscular mycorrhizal fungi amplified from grapevine
+
+roots vitis vinifera l in oregon vineyards is seasonally
+
+stable and influenced by soil and vine age mycologia 
+
+ – 
+
+journal of applied microbiology © the society for applied microbiology 
+
+c m o longa et al soil microbiota in organic vineyards
+
+https cranr projectorg package vegan
+
+
+seyedmousavi s netea m g mouton j w melchers w j g 
+
+verweij p e and de hoog g s black yeasts and
+
+their filamentous relatives principles of pathogenesis and
+
+host defense clin microbiol rev – 
+singh b pocas fonseca m j johri b n and satyanarayana 
+
+t thermophilic molds biology and applications 
+
+crit rev microbiol – 
+srinivasan s lee j j lee s s and kim m k 
+
+pontibacter humi sp nov isolated from mountain soil 
+
+curr microbiol – 
+steenwerth k l drenovsky r e lambert j j kluepfel 
+
+d a scow k m and smart d r soil
+
+morphology depth and grapevine root frequency
+
+influence microbial communities in a pinot noir vineyard 
+
+soil biol biochem – 
+sterflinger k black yeasts and meristematic fungi 
+
+ecology diversity and identification in biodiversity and
+
+ecophysiology of yeasts part of the series the yeast
+
+handbook ed peter g rosa c and leao c pp –
+ heidelberg berlin springer berlin 
+
+stockinger h kruger m and schussler a dna
+
+barcoding of arbuscular mycorrhizal fungi new phytol
+
+ – 
+sugiyama a vivanco j m jayanty s s and manter d k 
+
+ pyrosequencing assessment of soil microbial
+
+communities in organic and conventional potato farms 
+
+plan dis – 
+villanueva rey p vazquez rowe i moreira m o t and
+
+feijoo g comparative life cycle assessment in the
+
+wine sector biodynamic vs conventional viticulture
+
+activities in nw spain j clean prod – 
+wang q garrity g m tiedje j m and cole j r 
+
+naive bayesian classifier for rapid assignment of rrna
+
+sequences into the new bacterial taxonomy appl environ
+
+microbiol – 
+weisburg w g barns s m pelletier d a and lane d j 
+
+ s ribosomal dna amplification for phylogenetic
+
+study j bacteriol – 
+white t j bruns t lee s taylor j amplification
+
+and direct sequencing of fungal ribosomal rna genes for
+
+phylogenetics in pcr protocols a guide to methods
+
+and applications ed innis m a gelfand g h sninsky 
+
+j j white t j p – new york academic press 
+wittwer r a dorn b jossi w and dervan heijden m g a 
+
+ cover crops support ecological intensification of
+
+arable cropping systems sci rep 
+
+xu l h zeng x c nie y luo x s zhou e m zhou 
+
+l l pan y f and li w j pontibacter
+
+diazotrophicus sp nov a novel nitrogen fixing
+
+bacterium of the family cytophagaceae plos one 
+
+e 
+
+zhou x fornara d wasson e a wang d m ren g d 
+
+christie p and jia z j effects of years of
+
+chronic nitrogen fertilization on the soil nitrifying
+
+community of permanent grassland soil biol biochem 
+
+ – 
+
+supporting information
+
+additional supporting information may be found in the
+
+online version of this article 
+
+figure s rarefaction curves indicating the observed
+
+number of operational taxonomic units otus related
+
+to the number of sequences retrieved in each of the dif 
+
+ferent soil vineyard managements with s primer set o 
+
+samples from organically managed soil bd samples from
+
+biodynamically managed soil bdgm samples from bio 
+
+dynamically managed soil with the addition of green
+
+manure the solid line and the dashed line represent 
+
+respectively samples from fields and 
+
+figure s rarefaction curves indicating the observed
+
+number of operational taxonomic units otus related
+
+to the number of sequences retrieved in each of the dif 
+
+ferent soil vineyard managements with its primer set o 
+
+samples from organically managed soil bd samples from
+
+biodynamically managed soil bdgm samples from bio 
+
+dynamically managed soil with the addition of green
+
+manure the solid line and the dashed line represent 
+
+respectively samples from field and 
+
+table s alpha diversity analysis for bacteria and
+
+fungi calculated with a generalized linear model glm 
+
+and tukey contrasts as post hoc analysis 
+
+table s beta diversity analysis for bacteria and fungi
+
+calculated with permanova on bray–curtis dissimilar 
+ities and permutational pairwise comparisons 
+
+table s differentially abundant bacterial genera cal 
+
+culated with permutational anova 
+
+table s differentially abundant fungal genera calcu 
+
+lated with permutational anova 
+
+journal of applied microbiology © the society for applied microbiology 
+
+soil microbiota in organic vineyards c m o longa et al 
+
+
+

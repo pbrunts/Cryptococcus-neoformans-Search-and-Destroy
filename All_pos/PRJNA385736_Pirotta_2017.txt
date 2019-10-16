@@ -1,0 +1,1672 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+an economical custom built drone for assessing whale health
+
+
+original research
+published december 
+
+doi fmars 
+
+frontiers in marine science www frontiersin org december volume article 
+
+edited by 
+
+peter h dutton 
+
+national oceanic and atmospheric
+
+administration noaa united states
+
+reviewed by 
+
+nuno queiroz 
+
+university of porto portugal
+
+gail schofield 
+
+deakin university australia
+
+ correspondence 
+
+vanessa pirotta
+
+vanessa pirotta hdr mq edu au
+
+specialty section 
+
+this article was submitted to
+
+marine megafauna 
+
+a section of the journal
+
+frontiers in marine science
+
+received october 
+
+accepted december 
+
+published december 
+
+citation 
+
+pirotta v smith a ostrowski m 
+
+russell d jonsen id grech a and
+
+harcourt r an economical
+
+custom built drone for assessing
+
+whale health front mar sci 
+
+doi fmars 
+
+an economical custom built drone
+for assessing whale health
+
+vanessa pirotta alastair smith martin ostrowski dylan russell ian d jonsen 
+
+alana grech and robert harcourt 
+
+ marine predator research group department of biological sciences macquarie university sydney nsw australia 
+ heliguy pty ltd sydney nsw australia macquarie marine research centre chemistry and biomolecular sciences 
+
+macquarie university sydney nsw australia arc centre of excellence for coral reef studies james cook university 
+
+townsville qld australia
+
+drones or unmanned aerial vehicles uavs have huge potential to improve the safety
+
+and efficiency of sample collection from wild animals under logistically challenging
+
+circumstances here we present a method for surveying population health that uses
+
+uavs to sample respiratory vapor ‘whale blow ’ exhaled by free swimming humpback
+
+whales megaptera novaeangliae and coupled this with amplification and sequencing
+
+of respiratory tract microbiota we developed a low cost multirotor uav incorporating
+
+a sterile petri dish with a remotely operated ‘blow’ to sample whale blow with
+
+minimal disturbance to the whales this design addressed several sampling challenges 
+
+accessibility safety cost and critically minimized the collection of atmospheric and
+
+seawater microbiota and other potential sources of sample contamination we collected
+
+ samples of blow from northwardmigrating humpbackwhales off sydney australia and
+
+used high throughput sequencing of bacterial ribosomal gene markers to identify putative
+
+respiratory tract microbiota model based comparisons with seawater and drone 
+
+captured air demonstrated that our system minimized external sources of contamination
+
+and successfully captured sufficient material to identify whale blow specific microbial
+
+taxa whale specific taxa included species and genera previously associated with
+
+the respiratory tracts or oral cavities of mammals e g pseudomonas clostridia 
+
+cardiobacterium as well as species previously isolated from dolphin or killer whale
+
+blowholes corynebacteria others many examples of exogenous marine species were
+
+identified including tenacibaculum and psychrobacter spp that have been associated
+
+with the skin microbiota of marine mammals and fish and may include pathogens this
+
+information provides a baseline of respiratory tract microbiota profiles of contemporary
+
+whale health customized uavs are a promising new tool for marine megafauna research
+
+and may have broad application in cost effective monitoring and management of whale
+
+populations worldwide 
+
+keywords uav uas drone blow humpback whale microbiota technology conservation
+
+introduction
+
+conservation biology is entering a new era of innovation with unprecedented growth across a
+range of techniques from genetics and genomics to telemetry and remote sensing allendorf
+et al hussey et al rapid advances in the technology underpinning unmanned
+aerial vehicles uavs also known as unmanned aircraft systems or drones are driving new and
+
+https www frontiersin org journals marine science
+https www frontiersin org journals marine science editorial board
+https www frontiersin org journals marine science editorial board
+https www frontiersin org journals marine science editorial board
+https www frontiersin org journals marine science editorial board
+https doi org fmars 
+http crossmark crossref org dialog doi fmars domain pdf date stamp 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+https creativecommons org licenses by 
+mailto vanessa pirotta hdr mq edu au
+https doi org fmars 
+https www frontiersin org articles fmars full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+
+
+pirotta et al using drones to sample whale blow
+
+innovative environmental applications koh and wich 
+anderson and gaston christie et al smith et al 
+ duffy et al the application of uavs in conservation
+science makes it possible to collect information from dangerous
+and inaccessible environments and answer research questions
+that were previously limited to the hypothetical harvey et al 
+ uavs also provide an alternative safer quieter and
+often cost effective option for monitoring fauna and flora from
+individuals and populations to entire ecosystems and in so doing
+are replacing expensive manned systems such as helicopters and
+fixed wing aircraft christiansen et al christie et al 
+uav applications in wildlife research now encompass almost all
+environments from arid deserts through rainforests oceans to
+polar regions linchant et al durban et al 
+goebel et al duffy et al 
+
+uavs are transforming the way scientists monitor and
+conserve wildlife gonzalez et al in the terrestrial
+world uavs have been used for a wide variety of conservation
+applications van gemert et al gonzalez et al 
+some examples include counting elephants loxodonta africana 
+ linchant et al vermeulen et al uav surveillance
+ anti poaching tools for elephants and rhinoceros diceros
+bicornis and ceratotherium simum marks mulero 
+pázmány et al hahn et al locating chimpanzee
+nests pan troglodytes van andel et al and mapping
+sumatran orangutan pongo abelii habitat distribution and
+density wich et al szantoi et al uav applications
+now extend to the polar regions where they have been used
+to monitor and estimate abundance of penguin populations
+ gentoo pygoscelis papua and chinstrap pygoscelis antarctica 
+and estimate size and condition of leopard seals hydrurga
+leptonyx goebel et al ratcliffe et al in the
+marine environment uavs are revolutionizing the way marine
+species can be studied due to their small size apparent minimal
+disturbance of wildlife and improved safety for both operators
+and animals nowacek et al fiori et al uavs
+have been utilized for a wide variety of applications including
+aerial surveys monitoring habitat use abundance estimates 
+photogrammetry and biological sampling e g whale “blow”
+ hogg et al acevedo whitehouse et al hodgson
+et al durban et al pomeroy et al schofield
+et al 
+
+there are widespread concerns about the health of marine
+mammal populations in the face of global anthropogenic
+stressors gulland and hall yet health assessments
+typically involves collecting samples from stranded animals 
+which are often biased as these animals are most likely to be
+health compromised geraci and lounsbury sampling
+exhaled breath or ‘blow’ from wild whales may therefore
+provide a more representative assessment of the health status
+of individuals because samples can be randomly taken from
+the population from a single sample of whale blow scientists
+may be able to collect respiratory bacteria lipids proteins 
+dna and hormones hogg et al schroeder et al 
+ acevedo whitehouse et al hunt et al 
+thompson et al burgess et al de mello and
+de oliveira raverty et al this information is
+
+important for whale conservation as it can be collected over
+time to help monitor the recovery of whale populations post 
+whaling early approaches to sampling whale blow involved
+passing a cotton gauze or nylon stocking on the end of a
+carbon fiber pole through the blow when the animal surfaced
+ hogg et al hunt et al recent advancements
+on this method have seen the use of a pole with a number
+of petri dishes with lids to sample wild killer whales raverty
+et al however this method requires extremely close
+vessel approaches to whales hogg et al given the
+large size mass and power of whales this approach involves
+high risk to both researchers and to the whale itself even
+under ideal circumstances this method is likely to disturb
+the animal potentially compromising the validity of some of
+the measures such as stress hormones which elevate rapidly
+ harcourt et al accordingly alternative approaches have
+long been sought acevedo whitehouse et al deployed
+a single rotor uav a remote controlled helicopter to sample
+whale blow their study demonstrated the feasibility of the
+approach but loss of samples from the uav as it careers through
+the sea air proved a potential issue as did contamination from
+airborne particulate not expired by the whale 
+
+here we describe a purpose built uav designed to sample
+whale blow in the field with minimal contamination our goal
+was to provide a snapshot of whale health we specifically
+targeted northward migrating humpback whales megaptera
+novaeangliae off the east coast of sydney australia for the
+collection of baseline microbiota information the uav used in
+our study has a unique combination of features that represent
+a significant advance over existing uavs it is fast highly
+maneuverable durable waterproof low cost usd and
+provides flexible payloadmounting options the uav is scaled to
+the sampling gear in this case a mm petri dish which is held
+in a mechanism that allows the dish to be opened closed during
+flight–minimizing sample contamination or loss 
+
+materials and methods
+
+study site and species
+all flights were conducted offshore sydney australia figure 
+each year from may to november migratory group v stock
+e humpback whales migrate past sydney as they swim from
+high latitude feeding areas in antarctica to low latitude breeding
+waters off queensland chittleborough all sampling took
+place in coastal waters nautical miles from sydney between 
+may and june 
+
+uav design
+the uav is a motor electric multirotor quadcopter 
+ mm across motor to motor diagonally figure a it
+has a relatively high power to weight ratio making it fast 
+maneuverable resistant to strong wind gusts and relatively
+quiet while hovering it carries the bare minimum of hardware
+and is operated in ‘manual mode’ no gps or autolevelling
+assistance with a heavy reliance of the onboard video feed
+for control navigation and sampling operations the airframe
+structure of the uav is a ‘sandwich’ style construction cut from
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+figure study site indicated by black star on insert all samples were collected in coastal waters nm off sydney australia blow samples were collected only
+
+from northward migrating east coast australian humpback whales water samples were collected over a number of years from port hacking indicated by star outside
+
+of insert 
+
+carbon fiber plate with a top shell molded from impact resistant
+polycarbonate this seals against the airframe to create a
+waterproof compartment which houses the power distribution 
+flight control motor control radio control transceiver and video
+transmitter components the float booms legs were cut from
+expanded polypropylene epp —a closed cell foam chosen for
+high strength resistance to bending loads and excellent water
+resistance a clear acrylic tube at the front of the aircraft
+houses a forward facing tilting camera that provides a real 
+time position reference to the pilot first person view the
+resulting composite structure is light stiff strong and waterproof 
+buoyancy is provided by the two watertight compartments and
+epp foam floats under the arms in the event of a crash or forced
+landing over water the uav floats in an upright position so it
+can be recovered or take off again two reinforced mounting
+areas on the top shell accept payloads of around g for this
+configuration the blow sampling apparatus was mounted at the
+front this is a hinged frame which opens to degrees and
+holds a mm diameter petri dish with suction cups a servo
+motor opens and closes the dish remotely during flight airflow
+testing using smoke indicated the best position for the sampling
+dish relative to the propellers a forward looking waterproof
+video camera gopro r© hero sessiontm is positioned at the rear
+and logs video to an internal memory card the dish is in the
+frame of the recorded video so the footage can be used to confirm
+the source of the sampled material 
+
+sampling method
+this study was approved by the macquarie university animal
+ethics committee and carried out in accordance with the
+
+animal research authority this research was
+permitted by new south wales national parks and wildlife
+services nswnpws to fly uavs over whales in new south
+wales coastal waters permit number sl to adhere to
+australian legislative requirements the uavs including backup
+uav were registered with the civil aviation safety authority
+ casa and operated by a casa certified operator heliguy
+pty ltd all flights were conducted in good weather no rain 
+beaufort from small research vessels where the uav was
+launched and landed on a launch pad at the bow or stern of the
+boat a closed sterile petri dish with nutrient agar covering the
+base of the petri dish was secured using eight suction cups affixed
+on the uav before each flight 
+
+members of the team scanned the area for humpback
+whales once an individual was selected the vessel was driven
+maintaining a constant speed and distance from the whale
+ m once the respiratory rhythm of an individual was
+determined downtime length in minutes the uav was
+launched to coincide with the individual surfacing the uav
+pilot was directed by spotters on the vessel and positioned the
+uavwith the aid of the live feed from the forward facing camera 
+to minimize sample contamination the petri dish remained
+closed until just before the whale surfaced when the dish
+remotely opened as the uav accelerated toward and through the
+densest part of the whale blow collecting the maximum amount
+of sample in the dish and lid figures b c and supplementary
+video the petri dish was immediately closed and the uav
+was returned to the vessel the petri dish containing the sample
+was removed from the uav and parafilm r© was wrapped around
+the closed petri dish to secure the sample all samples were
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+figure a purpose built uav designed to sample whale blow the uav consists of a sandwich style carbon fiber body white foam floats support the uav
+
+during take off and landings and provide floatation in water the yellow shell houses all electrical equipment a gopro® hero session is mounted at the back of the
+
+yellow shell to record flights a hinge mechanism with disposable petri dish is located in the center of the yellow shell this can be remotely operated to minimize
+
+sample contamination in the field the clear round tube at the front of the uav houses the first person camera to assist with sampling b uav sampling whale blow 
+
+this photo was taken just as the uav had passed through the visible blow plume of spray the petri dish is still in the open position sample was collected on both
+
+the lid and bottom nutrient agar filled side the petri dish was shut immediately after collection to minimize sample contamination and the drone was flown back to
+
+the research vessel meters away c screenshot from the uavs on board gopro® camera mid whale sample collection this footage shows the petri dish at
+
+the bottom of the picture the whale is located on the right hand side the petri dish is completely extended open with blow droplets visible on both sides of the dish
+
+and gopro® lens 
+
+temporarily stored in a cooler box on ice until further processing
+in the laboratory at the end of each day 
+
+attempts were made to sample a different whale each
+flight individuals within a pod were chosen based upon
+unique markings e g white flanks patterns scarring barnacle
+arrangements to ensure the same individual was not sampled
+twice a live video feed was used to target individuals cross
+contamination among whales was avoided by not triggering the
+opening of the flip lid until only the targeted whale respired 
+footage collected from the gopro r© throughout each flight
+was used to validate sample collection and eliminate repeated
+sampling of the same individuals by post hoc identification the
+behavioral response of whales was recorded for each pass using
+by scoring system of one to three one ‘no response ’ two ‘minor
+response’ minor surface activity such as logging spy hopping and
+three ‘severe elevated response’ e g breaching peduncle throw
+or chin slap 
+
+air and seawater samples
+to enable direct comparison of uav captured air and whale
+blow samples with bacteria inhabiting the adjacent seawater the
+data were combined with s sequence libraries prepared from
+ surface seawater samples this represents a complete annual
+cycle collected from the national time series station known
+as port hacking ph all uav captured samples were
+collected within km of ph 
+
+laboratory processing of samples
+initial processing of samples occurred in two stages first in
+an ultra violet sanitized class ii biosafety hood the top of
+the petri dish lid non agar side was swabbed using a dry
+sterile cotton tip and then placed in a sterile ml tube and
+stored in the freezer at − ◦c secondly the petri dish both
+the lid and nutrient base was placed in an incubator at ◦c
+after the lid was swabbed simulating average mammalian body
+temperature – ◦c whittow cuyler et al plates
+were observed daily for colony growth if growth occurred 
+colonies were counted and a representative number of colonies
+were picked from each plate resuspended in µl of sterile
+water vortexed for s and immediately frozen at − ◦c until
+further processing plates were then stored in the fridge for future
+reference if needed 
+
+bacterial dna extraction
+dna extractions were conducted using the quick dnatm
+
+fungal bacterial miniprep kit zymo research irvine 
+california usa with minor modifications to the manufacturer’s
+instructions each swab was transferred to a tube containing
+ g of zr bashingbeadstm equivalent to ∼half of the portion
+supplied for each extraction the original storage tube was
+rinsed with lysis solution µl to ensure the complete transfer
+of material into the extraction tube the swab was then bead 
+beaten on a vortex genie r© mo bio laboratories qiagen 
+california usa for min at room temperature all other steps
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+were followed according to the manufacturer’s instructions with
+the exception that two successive final elutions were carried out 
+each with µl of sterile dna elution buffer 
+
+amplification and sequencing
+amplicons targeting the bacterial s rrna gene f− r 
+lane et al lane were generated and sequenced
+for each sample at the ramaciotti centre for genomics
+ unsw sydney australia using bp paired end illumina
+sequencing according to established protocols http www 
+bioplatforms com wp content uploads base illumina s 
+amplicon methods pdf 
+
+amplicons generated fromdrone captured air andwhale blow
+were combined with f− r sequences generated from 
+surface m and m depth seawater samples collected over
+a complete annual cycle from the nearby national reference
+station ph time series dec –mar monthly
+microbial sampling has been conducted at the port hacking 
+reference station since seymour et al all uav 
+captured whale and air samples were collected within km
+upstream of this reference station within – km from shore 
+we reasoned that this dataset which was sampled and sequenced
+using standardized protocols at the same sequencing center 
+would provide a comprehensive and unbiased assessment of
+bacterial species characteristic of seawater in this region which
+could be excluded as potential contaminants from the whale blow
+samples whale air and seawater samples analyzed in this study
+are detailed in supplementary tables 
+
+sequence operational taxonomic units otus tables were
+prepared after bissett et al briefly paired end reads
+were filtered using trimmomatic illuminaclip nexterape 
+pe fa slidingwindow minlen bolger
+et al then merged using pear zhang et al 
+the combined amplicon data were clustered into otus at
+ sequence similarity using an open reference otu picking
+pipeline in usearch bit v edgar which
+included de novo chimera detection clusters with sequences
+were removed and reads were mapped to representative
+otu sequences using usearch id to calculate read
+abundances from an initial pool of million paired end
+reads a total of million filtered merged sequences with
+chimeras removed were added to the otu table otu tables
+were sub sampled to a constant sampling depth of 
+sequences using rarefy in vegan oksanen all subsequent
+analyses were conducted on sub sampled otu tables sequences
+generated over the course of this project are deposited in the
+european nucleotide archive under project prjeb all
+seawater sequence data are deposited in the ncbi sequence read
+archive prjna 
+
+data analyses
+hierarchal clusters of otu abundance profiles generated from
+seawater drone captured air and whale blow were compared
+using the simprof test following square root transformation
+and conversion to a bray curtis dissimilatory matrix in the
+r package clustsig whitaker and christman data
+from samples that were near misses which would reflect a
+
+mixture of air and whale blow microbiota were set aside from
+the subsequent statistical analyses the community structure
+dissimilarity between samples was observed with non metric
+multidimensional scaling significant differences in communities
+sampled in seawater uav captured air or whale blow samples
+were defined using generalized linear models within mvabund
+ wang et al briefly a negative binomial model was
+fit to the otu abundance data and the sample grouping was
+analyzed using analysis of variance anova otus that were
+significantly overrepresented in seawater drone captured air or
+specific for whale blow samples were defined using anova
+with the ‘p uni “adjusted”’ option otus were classified against
+the silva release database quast et al using mothur
+“classify seqs” with default parameters v schloss et al 
+ 
+
+identifying bacteria isolated from agar plates
+bacterial s rrna genes were directly amplified from cell
+suspensions obtained from colony picks using conserved primers
+ f and r lane et al lane pcr amplifications
+consisted of µl of template and cycle specific for s consisted
+of ◦c for min ◦c for s ◦c for s ◦c for
+ s and ◦c for min and taq dna polymerase qiagen 
+amplified dna was prepared for sanger sequencing using
+agencourt r©ampure r© xp beads beckman coulter sequences
+were trimmed to q and classified against the silva database
+ version 
+
+results
+
+a total of flights were conducted over days of sampling 
+each pod was considered independent as all whales were on
+their annual northern migration pirotta et al overall 
+ successful samples were collected from at least different
+whales whales were sampled but not identified via video due
+to occasional failure of the gopro r© camera e g low battery
+or maximum storage capacity reached sample volume varied
+between and µl of exhaled breath the average opening
+time of the flip lid was s min s max s the uav had
+a maximum flight time battery time of min and sampling
+attempts on average were min s long range s to min 
+the majority of flight time was used to search for the whale’s next
+surfacing position the time that the uav was in close proximity
+to a whale uav approximately within m horizontal distance 
+varied but was on average s range s to min or s 
+the most number of samples collected in day was in all
+cases there was no behavioral response to the drone level n
+ twice there were strong social interactions that occurred
+prior to the drone approaching the whales one tail slap one
+breach but sampling was continued on the group in each case
+and samples successfully collected 
+
+next generation sequencing results
+a total of million filtered bacterial s ribosomal gene
+sequences were produced from uav captured whale blow
+and six air samples these were combined with m sequences
+generated from seawater samples to generate bacterial otu
+
+frontiers in marine science www frontiersin org december volume article 
+
+http www bioplatforms com wp content uploads base illumina s amplicon methods pdf
+http www bioplatforms com wp content uploads base illumina s amplicon methods pdf
+http www bioplatforms com wp content uploads base illumina s amplicon methods pdf
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+abundance profiles distance based clustering of blow air or
+seawater bacterial community profiles defined at least three
+significant clusters simprof p encompassing one
+group exclusively composed of seawater one group exclusively
+composed of whale blow samples and a third group which
+clustered the six air samples along with whale blow samples
+ figure a whale blow samples in this group may correspond
+to uav sorties that missed or narrowly missed capturing whale
+blow material and were highly correlated with low capture scores
+based on a visual score of the amount of whale material recovered
+ supplementary table 
+
+bacterial otus correlated with seawater whale blow or air
+samples were identified using analysis of variance anova 
+based on generalized linear models fit to the data wang et al 
+ otu diversity and abundance profiles for air and whale
+blow were significantly different p from each other
+and bear little similarity with communities characteristic of the
+adjacent seawater at the class level whale blow bacteria were
+dominated by gammaprotobacteria flavobacteriia clostridia
+and fusobacteria in contrast to seawater communities where
+species composition reflected values typical for sub tropical
+waters of the tasman sea i e ∼ alphaproteobacteria 
+cyanobacteria and smaller proportions of gammaproteobacteria
+and flavobacteriia figure b seymour et al 
+
+overall whale blow samples displayed the greatest otu
+diversity followed by seawater and air supplementary figure 
+model basedmultivariate analyses identified otus that were
+seawater specific and otus that were significantly correlated
+with air samples anova p supplementary tables
+ successfully collected whale blow samples contained a
+small proportion seawater and air specific otus contributing
+on average ± and ± respectively of total
+sequences the proportion of air specific and seawater otus in
+near miss samples was significantly higher and 
+respectively subtraction of seawater and air specific otus
+from the total enabled us to define otus that were
+highly specific to whale samples anova p figure 
+supplementary table abundant bacterial species identified
+as whale blow specific include multiple otus belonging to the
+genera cardiobacteriaceae and species tenacibaculum followed
+by otus related to pseudomonas sp strain wp leptotrichia
+sp and corynebacteria spp while these analyses identified
+which otus were highly specific for whale air and seawater 
+an addition set of whale related otus could be identified in
+the remaining non significant otus we used the following
+criteria present in greater than five whales and sequences 
+to add an additional otus that were highly specific to
+whales but found only in a small proportion of the sampled
+whale population – individuals out of a total of 
+ supplementary table many of the otus in this group are
+closely related to whale specific otus at the genus and species
+levels e g cardiobacteriaceae tenacibaculum and fusibacter
+strains however potential respiratory pathogens were also
+detected such as balneatrix gammaproteobacteria and a range
+of gram positive clostridia and bacilli such as staphylococcus
+and streptococcus in the context of monitoring whale respiratory
+health potential pathogens may be present in a subset of the
+
+population only otus in this whale associated group were
+present in low abundance and on average constituted ± 
+of the total sequences detected in each whale sample 
+
+comparison with culture dependent
+identification of whale blow microbiota
+bacterial growth was observed on uav mounted agar plates
+exposed to whale blow unexposed control plates displayed no
+bacterial growth sequencing of rrna genes amplified from
+single colonies identified different bacteria taxa isolated
+from different whales supplementary table overall the
+most common bacteria identified at the phylum level included
+proteobacteria n firmicutes n and actinobacteria
+ n two samples were identified to the family level 
+brucellaceae n and microbacteriaceae n at the
+genus level micrococcus n acidovorax n bacillus
+ n enterobacteriaceae n paenibacillus n 
+streptococcus n and staphylococcus n were most
+common seven whales had more than one bacterium identified 
+staphylococcus was identified in both an individual sampled via
+our uav 
+
+discussion
+
+uavs are rapidly transforming the way scientists collect
+information on their study species christie et al lowman
+and voirin nowacek et al duffy et al in
+whale research uavs have enabled sampling methods to be
+refined and have eliminated the need for close vessel approaches 
+to our knowledge this study is the first to successfully
+demonstrate the use of a purpose built uav designed to sample
+humpback whale blow in southern hemisphere waters the
+minimal behavioral disturbance observed suggests this method
+is an excellent low impact alternative to pole sampling methods
+for large migrating whales humpback whales may have been
+aware of the uav and did not react or mostly likely were
+not even aware of the uav’s presence underwater noise
+generated from the uav was likely to be very low level at
+the heights flown m as it is smaller lighter and has a
+lower disc loading than comparable off the shelf uavs shown to
+transmit minimal noise transmission underwater e g swellpro
+splashdrone and the dji inspire pro christiansen et al 
+the combination of the waterproof design and the remotely
+operated flip lid petri dish designed to minimize airborne
+contamination is a significant improvement over existing uav
+types 
+
+our results demonstrate that whale blow can be effectively
+sampled while minimizing species associated with likely sources
+of contamination i e air and seawater to define microbes
+specifically associated with whales amplification of dna
+extracted from uav captured air highlights the sensitivity of
+pcr based approaches for detecting microbiota even from
+low amounts of extracted dna while also demonstrating the
+sensitivity of this approach to contamination from external
+sources the development of a flip lid sampling system using
+sterile petri dishes enabled us to effectively reduce contamination
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+figure similarity analysis of operational taxonomic units otus abundance profiles and comparison of bacterial classes identified in sampled whale blow air
+
+and seawater a non metric multidimensional scaling plot of bacterial otu abundance profiles the size of each whale plotting character is scaled to a visual score
+
+of the amount of whale blow captured on the petri dish e g bigger the triangle greater amount of sample otus were defined at nucleotide identity 
+
+ b relative abundance of taxonomic classes identified as whale air or seawater specific in each sample type 
+
+from typical seawater bacteria which may exist in aerosols
+above the sea surface while the presence of abundant seawater
+species alphaproteobacteria sar and cyanobacteria in air
+and whale blow samples is not surprising the source of
+some major species detected in air samples is less clear 
+some of the most abundant species detected in air samples 
+propionobacteria arthrobacter and staphylococcus are common
+commensal organisms of mammalian human skin and nasal
+cavities human microbiome project consortium prussin
+andmarr a potential source of some non marinematerial
+may have been contamination during the dna extraction or
+amplification procedure especially when the amount of captured
+material was low i e for air or near miss samples in the context
+of developing indicators of whale health the presence or absence
+of species that are common in humans should be interpreted
+cautiously nevertheless in the uav sampled blow where a
+sufficient amount of material was collected our analyses indicate
+that∼ of the total sequences were specific to whales a group
+of whale associated sequences accounted for a further ∼ and
+the remainder could be confidently identified as seawater or
+air specific 
+
+to our knowledge this is the first study to utilize a long term
+seawater dataset to identify and subtract seawater bacteria from
+community profiles of field captured mammalian samples the
+seawater data provided a comprehensive temporal assessment
+of the composition of microbial communities present in sea
+water off sydney critically a much larger quantity of seawater
+was collected l and analyzed in comparison to the whale
+samples this method minimized the impact of external sources
+of contamination and allowed for the greater coverage of the
+seawater community diversity we used this resource to filter
+out all sequences characteristic of seawater to produce a whale
+blow dataset that could be used as a diagnostic for whale health 
+the distinct differences observed between statistically defined
+
+bacteria in whale sea water and air samples indicates that
+this method was effective for collecting whale microbiota with
+minimal contamination 
+
+the successful collection of bacterial dna in this study
+provides baseline information of microbiota found in migrating
+humpback whale blow due to the infancy of sampling
+whale breath as an assessment of whale health acevedo 
+whitehouse et al hunt et al it is not clear as
+to the type of microflora bacteria species that are considered
+‘normal’ for northward migrating humpback whales off sydney 
+despite this there are similarities in our collection of bacterial
+genera from the few studies that have collected blow for the
+assessment of microbiota acevedo whitehouse et al 
+denisenko et al hunt et al for example 
+streptococcus and staphylococcus genera were detected in our
+samples and have been detected in the blow of blue whales
+ balaenoptera musculus gray whales eschrichtius robustus and
+southern resident killer whales acevedo whitehouse et al 
+ denisenko et al hunt et al raverty et al 
+ bacteria from the streptococcus genus is common in
+mucous membranes of animals and humans and is known
+to be found in the upper respiratory tract krzyściak et al 
+ streptococcus bacteria has previously been responsible
+for pneumonia causing death in cetaceans acevedo whitehouse
+et al bacillus sp was also identified via blow collection
+from western north pacific gray whales and southern resident
+killer whales denisenko et al hunt et al raverty
+et al 
+
+next generation sequencing identified cardiobacteriaceae
+ family and tenacibaculum genus to be the most abundant
+bacterial rrna genes in whale blow cardiobacteriaceae has
+previously been isolated as a dominant taxa in the respiratory
+system of “healthy” captive bottlenose dolphins tursiops
+aduncus and t truncates and free ranging species t truncates 
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+figure relative abundance of bacterial taxa identified in seawater uav captured air and whale blow otus with abundance across the entire dataset were
+
+omitted for clarity relative abundances are presented for each group i e seawater air plus “near miss” samples and whales as well as for each sample taxa names
+
+correspond to the highest taxonomic level identification full taxonomies are present in supplementary tables – only the top taxa by abundance are shown in the
+
+legend 
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+ johnson et al lima et al these findings may
+indicate that these genes are part of the normal microflora of
+dolphins whilst presence in whales until now was unknown 
+cardiobacteriaceae are abundant on humpback whale skin
+ gammaproteobacteria genus as is tenacibaculum apprill
+et al it may be possible that bacteria found on whale
+skin also occur within the respiratory tract or epithelial cells 
+tenacibaculum has been associated with the microbiome of other
+marine species such as southern bluefin tuna thunnus maccoyii
+castelnau valdenegro vega et al while psychrobacter is
+part of the thresher shark and rainbow trout skin microbiome
+ lowrey et al doane et al 
+
+the collection of bacterial microbiota is as an indicator
+of cetacean health is growing hogg et al schroeder
+et al acevedo whitehouse et al lima et al 
+ hunt et al nelson et al raverty et al 
+ we were able to sample a number of individuals from
+a single population over a very short time frame the use of
+the waterproof gopro r© camera made identification of different
+individuals reliable and therefore reduced repeated sampling 
+our remotely operated “flip dish” design proved effective at
+reducing possible contamination from the pilot research team
+ e g breath touch clothing and vessel vapor fumes the
+placement of parafilm r© around the dish after sampling ensured
+that the sample remained unexposed until back in the laboratory
+for processing recently published work by burgess et al 
+found polystyrene dishes petri dish to be the most effective
+surface for sampling whale blow in comparison to other sampling
+materials like veil nylon and nitex nylon mesh in addition the
+use of ice chilling of our samples for temporary storage was
+also consistent with burgess et al which found storage
+in cooler box with ice packs was appropriate for preserving
+samples at least for hormones for daylong fieldwork at sea
+ h our samples only contained a fine mist we estimated
+between and µl per sample similar to amounts collected
+by hogg et al and so we were unable to directly
+pipette samples but we found that swabbing the non agar lid
+of the petri dishes to be effective variability in blow sample
+volumes appear to be a common issue hogg et al 
+acevedo whitehouse et al and therefore the need for
+repeated sampling is recommended sample success increased
+with effort experience and we recommend effort be made early
+in any study to improve pilot skill sample collection quality and
+quantity 
+
+while overall highly successful uavs still require a high
+level of skill and effort predicting when the whale is about
+to surface positioning the uav and opening the petri dish
+in time remains challenging this may be complicated when
+a whale comes to the surface to breath but does not respire
+forcefully when this happens the plate is exposed to the air
+and so the uav must return to the boat so the petri dish
+can be exchanged our miss near miss rate was 
+second not using an off the shelf product requires a high level
+of uav competence both to fly and to fix problems as they
+arise third the flight time for this uav is min restricting
+the number of opportunities for sampling before the uav must
+return to the vessel in order to replace the battery flight time
+
+will increase as battery technology progresses nowacek et al 
+ 
+
+our dataset details the diversity and abundance of the
+microbiota found in a migrating whale population which
+provides the baseline to identify pathogenic species ultimately 
+the isolation of pathogens from healthy or diseased animals
+will be an important step toward understanding the causes of
+disease and the factors that contribute to virulence culture 
+dependent techniques remain a viable option for the surveillance
+of pathogens in populations in this study nutrient agar was an
+effective way of culturing a subset of whale blow microbiota 
+including species commonly associated with respiratory disease
+in mammals the use of both sides of the petri dish effectively
+doubled the chance of obtaining bacterial samples while
+next generation sequencing has the capacity to probe the
+diversity of whale blow microbiota at present the isolation
+and identification bacteria from agar plates can be achieved
+within – days compared to a practical timeframe of weeks
+for illumina sequencing selective media could be used to target
+potential pathogens in conjunction with opportunistic sampling
+of diseased or distressed animals 
+
+conclusions
+
+our purpose built uav proved highly successful in sampling
+whale blow for microbial community analysis it is cost effective 
+has low risk of contamination and greatly reduces disturbance
+of whales future applications include other free ranging whale
+species e g southern right whales eubalaena australis as
+well as sampling smaller cetaceans e g dolphins our uav is
+useful addition to the conservation scientist’s tool box enabling
+collection of health information and therefore the ability to
+monitor changes in individual health as populations recover and
+to provide an early warning system for potential future changes 
+
+author contributions
+
+paper conception vp as rh mo ij and ag experiment
+design vp as rh and ij field work vp as and rh 
+laboratory work vp dr and mo analysis and interpretation
+of data vp mo rh ij ag and dr wrote paper vp mo rh 
+ij ag dr and as 
+
+funding
+
+this project was supported by macquarie university 
+
+acknowledgments
+
+this research was conducted under the macquarie university
+animal ethics committee animal research authority 
+and the nsw office of environment and heritage scientific
+research permit sl vpirotta was supported by an
+australian postgraduate award research scholarship molecular
+work was supported by the australian research council grant
+dp thank you to guy alexander from heliguy for
+
+frontiers in marine science www frontiersin org december volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+providing the legal requirements for the commercial uav
+operations and workshop resources for building and testing the
+uavs we would like to thank roads and maritime services 
+nsw and dean cropp from barefoot charters for their support
+in this research project we appreciate their time and use
+of vessels for sampling we thank oliver masens jemma
+geoghegan adam wilkins gemma carroll and ben pitcher for
+their assistance in the field we thank the cape solander whale
+migration study in particularly wayne reynolds sue rennie
+wright and mark mcgeachie thank you duan march from
+dolphin marine magic and shona lorigan from orrca for
+their collection and transport of blow sample from the stranded
+humpback whale in sawtell beach new south wales we thank
+patrick da roza for assistance in the laboratory thank you to
+sally browning and airpig productions for their donation of
+uav batteries and finn lewis for providing uav components 
+
+monthly sampling at the port hacking reference station was
+
+supported by the integrated marine observing system imos 
+we would like to acknowledge the contribution of the marine
+microbes project consortium https data bioplatforms com 
+organization pages bpa marine microbes consortium in the
+generation of data used in this publication the marine microbes
+project is supported by funding from bioplatforms australia 
+bioplatforms and imos are supported through the australian
+government national collaborative research infrastructure
+strategy ncris 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmars 
+ full supplementary material
+
+references
+
+acevedo whitehouse k rocha gosselin a and gendron d a
+
+novel non invasive tool for disease surveillance of free ranging whales
+
+and its relevance to conservation programs anim conserv – 
+
+doi j x
+
+allendorf f w hohenlohe p a and luikart g genomics
+
+and the future of conservation genetics nat rev genet – 
+
+doi nrg 
+
+anderson k and gaston k j lightweight unmanned aerial vehicles
+
+will revolutionize spatial ecology front ecol environ – 
+
+doi 
+
+apprill a mooney t a lyman e stimpert a k and rappé m s 
+
+humpback whales harbour a combination of specific and variable skin bacteria 
+
+environ microbiol rep – doi j x
+
+apprill a robbins j eren a m pack a a reveillaud j mattila d 
+
+et al humpback whale populations share a core skin bacterial
+
+community towards a health index for marine mammals plos one e 
+
+doi journal pone 
+
+bissett a fitzgerald a meintjes t mele p m reith f dennis p g et al 
+
+ introducing base the biomes of australian soil environments soil
+
+microbial diversity database gigascience doi s 
+
+bolger a m lohse m and usadel b trimmomatic a flexible
+
+trimmer for illumina sequence data bioinformatics – 
+
+doi bioinformatics btu 
+
+burgess e a hunt k e kraus s d and rolland r m get themost out
+
+of blow hormones validation of samplingmaterials field storage and extraction
+
+techniques for whale respiratory vapour samples conserv physiol cow 
+
+doi conphys cow 
+
+chittleborough r g dynamics of two populations of the humpback
+
+whale megaptera novaeangliae borowski mar freshw res – 
+
+doi mf 
+
+christiansen f rojano do ate l madsen p t and bejder l 
+
+noise levels of multi rotor unmanned aerial vehicles with implications for
+
+potential underwater impacts on marine mammals front mar sci 
+
+doi fmars 
+
+christie k s gilbert s l brown c l hatfield m and hanson l 
+
+ unmanned aircraft systems in wildlife research current and future
+
+applications of a transformative technology front ecol environ – 
+
+doi fee 
+
+cuyler l wiulsrød r and Øritsland n a thermal infrared
+
+radiation from free living whales mar mamm sci – 
+
+doi j tb x
+
+demello d m d and de oliveira c a biological matrices for sampling
+
+free ranging cetaceans and the implications of their use for reproductive
+
+endocrine monitoring mamm rev – doi mam 
+
+denisenko t sokolova o and vertyankin v “microbiology
+
+investigation of blow samples of gray whale eschrichtius robustus as one way
+
+of estimating the health status of a population ” in th european cetacean
+
+society conference galway 
+
+doane m p haggerty j m kacev d papudeshi b and dinsdale e a 
+
+the skin microbiome of the common thresher shark alopias vulpinus has
+
+low taxonomic and potential metabolic β diversity environ microbiol rep 
+
+ – doi 
+
+duffy j p cunliffe a m debell l sandbrook c wich s a shutler 
+
+j d et al location location location considerations when using
+
+lightweight drones in challenging environments remote sens ecol conserv 
+
+doi rse epub ahead of print 
+
+durban j fearnbach h barrett lennard l perryman w and leroi d 
+
+photogrammetry of killer whales using a small hexacopter launched at sea j 
+
+unmanned vehicle syst – doi juvs 
+
+edgar r c search and clustering orders of magnitude faster
+
+than blast bioinformatics – doi bioinformatics 
+
+btq 
+
+fiori l doshi a martinez e orams m b and bollard breen b the
+
+use of unmanned aerial systems in marine mammal research remote sens 
+
+ doi rs 
+
+geraci j r and lounsbury v j marine mammals ashore a field guide
+
+for strandings nd edn baltimore ma national aquarium in baltimore 
+
+goebel m e perryman w l hinke j t krause d j hann n a gardner s 
+
+et al a small unmanned aerial system for estimating abundance and size
+
+of antarctic predators polar biol – doi s 
+
+gonzalez l f montes g a puig e johnson s mengersen k and
+
+gaston k j unmanned aerial vehicles uavs and artificial
+
+intelligence revolutionizing wildlife monitoring and conservation sensors
+
+ doi s 
+
+gulland f m and hall a j is marine mammal health deteriorating 
+
+trends in the global reporting of marine mammal disease ecohealth 
+
+ – doi s 
+
+hahn n mwakatobe a konuche j de souza n keyyu j goss m 
+
+et al unmanned aerial vehicles mitigate human–elephant conflict
+
+on the borders of tanzanian parks a case study oryx – 
+
+doi s 
+
+harcourt r turner e hindell m waas j and hall a 
+
+effects of capture stress on free ranging reproductively active male
+
+weddell seals j comp physiol a – doi s 
+
+ 
+
+harvey m rowland j and luketina k drone with thermal infrared
+
+camera provides high resolution georeferenced imagery of the waikite
+
+geothermal area new zealand j volcanol geothermal res – 
+
+doi j jvolgeores 
+
+hodgson a kelly n and peel d unmanned aerial vehicles uavs 
+
+for surveying marine fauna a dugong case study plos one e 
+
+doi journal pone 
+
+hogg c vickers e and rogers t determination of testosterone
+
+in saliva and blow of bottlenose dolphins tursiops truncatus using
+
+frontiers in marine science www frontiersin org december volume article 
+
+https data bioplatforms com organization pages bpa marine microbes consortium
+https data bioplatforms com organization pages bpa marine microbes consortium
+https www frontiersin org articles fmars full supplementary material
+https doi org j x
+https doi org nrg 
+https doi org 
+https doi org j x
+https doi org journal pone 
+https doi org s 
+https doi org bioinformatics btu 
+https doi org conphys cow 
+https doi org mf 
+https doi org fmars 
+https doi org fee 
+https doi org j tb x
+https doi org mam 
+https doi org 
+https doi org rse 
+https doi org juvs 
+https doi org bioinformatics btq 
+https doi org rs 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org j jvolgeores 
+https doi org journal pone 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+liquid chromatography–mass spectrometry j chromatogr b – 
+
+doi j jchromb 
+
+hogg c rogers t shorter a barton k miller p and nowacek d 
+
+determination of steroid hormones in whale blow it is possible mar mamm 
+
+sci – doi j x
+
+human microbiome project consortium structure function and diversity
+
+of the healthy human microbiome nature doi nature 
+
+hunt k e moore m j rolland r m kellar n m hall a j kershaw j 
+
+et al overcoming the challenges of studying conservation physiology
+
+in large whales a review of available methods conserv physiol – 
+
+doi conphys cot 
+
+hunt k e rolland r m and kraus s d detection of steroid
+
+and thyroid hormones via immunoassay of north atlantic right whale
+
+ eubalaena glacialis respiratory vapor mar mamm sci – 
+
+doi mms 
+
+hussey n e kessel s t aarestrup k cooke s j cowley p d fisk 
+
+a t et al aquatic animal telemetry a panoramic window into the
+
+underwater world science doi science 
+
+johnson w r torralba m fair p a bossart g d nelson k e and
+
+morris p j novel diversity of bacterial communities associated
+
+with bottlenose dolphin upper respiratory tracts environ microbiol rep 
+
+ – doi j x
+
+koh l and wich s dawn of drone ecology low cost autonomous
+
+aerial vehicles for conservation trop conserv sci – 
+
+doi 
+
+krzyściak w pluskwa k jurczak a and kościelniak d the
+
+pathogenicity of the streptococcus genus eur j clin microbiol infect dis 
+
+ – doi s 
+
+lane d j pace b olsen g j stahl d a sogin m l and pace 
+
+n r rapid determination of s ribosomal rna sequences
+
+for phylogenetic analyses proc natl acad sci u s a – 
+
+doi pnas 
+
+lane d “ s s rrna sequencing nucleic acid techniques in bacterial
+
+systematics ” in nucleic acid techniques in bacterial systematics eds e 
+
+stackebrandt and m goodfellow chichester wiley – 
+
+lima n rogers t acevedo whitehouse k and brown m v 
+
+temporal stability and species specificity in bacteria associated with the
+
+bottlenose dolphins respiratory system environ microbiol rep – 
+
+doi j x
+
+linchant j vermeulen c lisein j lejeune p and bouche p “using
+
+drones to count the elephants a new approach of wildlife inventories ” in paper
+
+presented at the st congress of the international union of game biologists
+
+ brussels 
+
+linchant j lisein j semeki j lejeune p and vermeulen c 
+
+are unmanned aircraft systems uass the future of wildlife monitoring 
+
+a review of accomplishments and challenges mammal rev – 
+
+doi mam 
+
+lowman m and voirin b drones – our eyes on the environment front 
+
+ecol environ – doi fee 
+
+lowrey l woodhams d c tacchi l and salinas i topographical
+
+mapping of the rainbow trout oncorhynchus mykiss microbiome reveals
+
+a diverse bacterial community with antifungal properties in the skin appl 
+
+environ microbiol – doi aem 
+
+marks p elephants and rhinos benefit from drone surveillance new sci 
+
+ doi s 
+
+mulero pázmány m stolper r van essen l negro j j and sassen t 
+
+remotely piloted aircraft systems as a rhinoceros anti poaching tool in africa 
+
+plos one e doi journal pone 
+
+nelson t m apprill a mann j rogers t l and brown m v 
+
+the marine mammal microbiome current knowledge and future directions 
+
+microbiol austr – doi ma 
+
+nowacek d p christiansen f bejder l goldbogen j a and
+
+friedlaender a s studying cetacean behaviour new technological
+
+approaches and conservation applications anim behav – 
+
+doi j anbehav 
+
+oksanen j package ‘vegan an introduction to ordination’ r package
+
+version r available online at http cran polytechnic edu 
+
+na web packages vegan vignettes intro vegan pdf
+
+pirotta v slip d jonsen i d peddemors v m cato d h ross 
+
+g et al migrating humpback whales show no detectable response
+
+to whale alarms off sydney australia endanger species res – 
+
+doi esr 
+
+pomeroy p o’connor l and davies p assessing use of and reaction
+
+to unmanned aerial systems in gray and harbor seals during breeding and
+
+molt in the uk j unmanned vehicle syst – doi juvs 
+
+ 
+
+prussin a j and marr l c sources of airborne microorganisms in the
+
+built environment microbiome doi s z
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al 
+
+the silva ribosomal rna gene database project improved data processing
+
+and web based tools nucleic acids res d –d doi nar 
+
+gks 
+
+ratcliffe n guihen d robst j crofts s stanworth a and enderlein p 
+
+ a protocol for the aerial survey of penguin colonies using uavs j 
+
+unmanned vehicle syst – doi juvs 
+
+raverty s a rhodes l d zabek e eshghi a cameron c e hanson m b 
+
+et al respiratory microbiome of endangered southern resident killer
+
+whales and microbiota of surrounding sea surface microlayer in the eastern
+
+north pacific sci rep doi s 
+
+schloss p d westcott s l ryabin t hall j r hartmann m 
+
+hollister e b et al introducing mothur open source platform 
+
+independent community supported software for describing and comparing
+
+microbial communities appl environ microbiol – 
+
+doi aem 
+
+schofield g katselidis k a lilley m k reina r d and hays g c 
+
+detecting elusive aspects of wildlife ecology using drones new insights on
+
+the mating dynamics and operational sex ratios of sea turtles funct ecol 
+
+ – doi 
+
+schroeder p raverty s cameron c zabek e eshghi a bain d et al 
+
+ investigation into the microbial culture and molecular screening of
+
+exhaled breaths of endangered southern resident killer whales srkw and
+
+pathogen screening of the seasurface microlayer sml in puget sound report
+
+to the northwest fisheries science center national oceanic and atmospheric
+
+administration seattle wa 
+
+seymour j r doblin m a jeffries t c brown m v newton k ralph 
+
+p j et al contrasting microbial assemblages in adjacent water
+
+masses associated with the east australian current environ microbiol rep 
+
+ – doi j x
+
+smith c e sykora bodie s t bloodworth b pack s m spradlin t 
+
+r and leboeuf n r assessment of known impacts of unmanned
+
+aerial systems uas on marine mammals data gaps and recommendations
+
+for researchers in the united states j unmanned vehicle syst – 
+
+doi juvs 
+
+szantoi z smith s e strona g koh l p and wich s a mapping
+
+orangutan habitat and agricultural areas using landsat oli imagery augmented
+
+with unmanned aircraft system aerial photography int j remote sens 
+
+ – doi 
+
+thompson l a spoon t r goertz c e hobbs r c and romano 
+
+t a blow collection as a non invasive method for measuring
+
+cortisol in the beluga delphinapterus leucas plos one e 
+
+doi journal pone 
+
+valdenegro vega v naeem s carson j bowman j tejedor del real 
+
+j and nowak b culturable microbiota of ranched southern
+
+bluefin tuna thunnus maccoyii castelnau j appl microbiol – 
+
+doi jam 
+
+van andel a c wich s a boesch c koh l p robbins m m 
+
+kelly j et al locating chimpanzee nests and identifying fruiting
+
+trees with an unmanned aerial vehicle am j primatol – 
+
+doi ajp 
+
+van gemert j c verschoor c r mettes p epema k koh l p and wich s 
+
+ “nature conservation drones for automatic localization and counting of
+
+animals ” inworkshop at the european conference on computer vision cham 
+
+springer – 
+
+vermeulen c lejeune p lisein j sawadogo p and bouché p 
+
+ unmanned aerial survey of elephants plos one e 
+
+doi journal pone 
+
+frontiers in marine science www frontiersin org december volume article 
+
+https doi org j jchromb 
+https doi org j x
+https doi org nature 
+https doi org conphys cot 
+https doi org mms 
+https doi org science 
+https doi org j x
+https doi org 
+https doi org s 
+https doi org pnas 
+https doi org j x
+https doi org mam 
+https doi org fee 
+https doi org aem 
+https doi org s 
+https doi org journal pone 
+https doi org ma 
+https doi org j anbehav 
+http cran polytechnic edu na web packages vegan vignettes intro vegan pdf
+http cran polytechnic edu na web packages vegan vignettes intro vegan pdf
+https doi org esr 
+https doi org juvs 
+https doi org s z
+https doi org nar gks 
+https doi org juvs 
+https doi org s 
+https doi org aem 
+https doi org 
+https doi org j x
+https doi org juvs 
+https doi org 
+https doi org journal pone 
+https doi org jam 
+https doi org ajp 
+https doi org journal pone 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+pirotta et al using drones to sample whale blow
+
+wang y naumann u wright s t and warton d i mvabund–
+
+an r package for model based analysis of multivariate abundance
+
+data methods ecol evol – doi j x 
+
+ x
+
+whitaker d and christman m package ‘clustsig’ r package version 
+
+ available online at https cran hafro is web packages clustsig clustsig 
+
+pdf
+
+whittow g c thermoregulatory adaptations in marine
+
+mammals interacting effects of exercise and body mass a rev 
+
+mar mammal sci – doi j tb
+
+ x
+
+wich s dellatore d houghton m ardi r and koh l p a
+
+preliminary assessment of using conservation drones for sumatran orang utan
+
+ pongo abelii distribution and density j unmanned vehicle syst – 
+
+doi juvs 
+
+zhang j kobert k flouri t and stamatakis a pear a fast
+
+and accurate illumina paired end read merger bioinformatics – 
+
+doi bioinformatics btt 
+
+conflict of interest statement the authors declare that the research was
+
+conducted in the absence of any commercial or financial relationships that could
+
+be construed as a potential conflict of interest 
+
+copyright © pirotta smith ostrowski russell jonsen grech and harcourt 
+
+this is an open access article distributed under the terms of the creative commons
+
+attribution license cc by the use distribution or reproduction in other forums
+
+is permitted provided the original author s or licensor are credited and that the
+
+original publication in this journal is cited in accordance with accepted academic
+
+practice no use distribution or reproduction is permitted which does not comply
+
+with these terms 
+
+frontiers in marine science www frontiersin org december volume article 
+
+https doi org j x x
+https cran hafro is web packages clustsig clustsig pdf
+https cran hafro is web packages clustsig clustsig pdf
+https doi org j tb x
+https doi org juvs 
+https doi org bioinformatics btt 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+	an economical custom built drone for assessing whale health
+	introduction
+	materials and methods
+	study site and species
+	uav design
+	sampling method
+	air and seawater samples
+	laboratory processing of samples
+	bacterial dna extraction
+	amplification and sequencing
+	data analyses
+	identifying bacteria isolated from agar plates
+
+
+	results
+	next generation sequencing results
+	comparison with culture dependent identification of whale blow microbiota
+
+	discussion
+	conclusions
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

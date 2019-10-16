@@ -1,0 +1,1915 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+relic dna is abundant in soil and obscures estimates of soil microbial diversity
+
+
+relic dna is abundant in soil and obscures
+estimates of soil microbial diversity
+paul carini patrick j marsden jonathan w leff emily e morgan michael s strickland 
+and noah fierer 
+
+extracellular dna from dead microorganisms can persist in soil
+for weeks to years – although it is implicitly assumed that the
+microbial dna recovered from soil predominantly represents
+intact cells it is unclear how extracellular dna affects molecu 
+lar analyses of microbial diversity we examined a wide range
+of soils using viability pcr based on the photoreactive dna 
+intercalating dye propidium monoazide we found that on
+average of both prokaryotic and fungal dna was extra 
+cellular or from cells that were no longer intact extracellular
+dna inflated the observed prokaryotic and fungal richness by
+up to and caused significant misestimation of taxon rela 
+tive abundances including the relative abundances of taxa inte 
+gral to key ecosystem processes extracellular dna was not
+found in measurable amounts in all soils it was more likely to
+be present in soils with low exchangeable base cation concen 
+trations and the effect of its removal on microbial community
+structure was more profound in high ph soils together 
+these findings imply that this ‘relic dna’ remaining in soil
+after cell death can obscure treatment effects spatiotemporal
+patterns and relationships between microbial taxa and
+environmental conditions 
+
+microbes play critical roles in terrestrial biogeochemistry and the
+maintenance of soil fertility microbiologists biogeochemists and
+ecologists now routinely use dna based approaches such as ampli 
+con marker gene sequencing quantitative polymerase chain reac 
+tion qpcr and shotgun metagenomics to determine the
+composition and diversity of soil microbial communities these
+methods have advanced our understanding of terrestrial micro 
+biology in a myriad of ways by revealing that thousands of
+microbial taxa can inhabit a single gram of soil – uncovering
+novel soil microbial diversity and identifying putative
+functions of undescribed taxa 
+
+linking the activities of microbes to soil processes necessitates
+distinguishing viable cells both metabolically active and dormant
+cells from those that are dead previous work has shown that
+after a cell dies amplifiable extracellular dna can persist in soils
+for weeks to years reviewed in refs – the longevity and size
+of this extracellular dna pool is controlled by a myriad of
+complex physical and biological factors for example soil mineral 
+ogy ph and ionic strength can control the sorption of dna to the
+soil matrix as well as the molecular integrity of the dna itself 
+sorbed extracellular dna has reduced accessibility to microbes 
+thereby limiting its removal from the environment by anabolic or
+catabolic processes or as a source of transformable genetic material
+ reviewed in ref although it is well established that soils can
+harbour significant amounts of extracellular dna we do not
+
+understand how this extracellular dna pool may influence
+dna based assessments of soil microbial communities 
+
+given the potential for extracellular dna to persist in soil we
+hypothesized that extracellular dna may obscure dna based esti 
+mates of the diversity and structure of soil microbial commu 
+nities differentiating between dna originating from living
+microbes versus extracellular sources is important because ecologi 
+cal definitions of community level diversity and structure should
+only encompass organisms that are alive in a sample here we
+define ‘relic dna’ as dna that is either extracellular or in cells
+that are no longer intact and thus removed by the photoreactive via 
+bility pcr indicator propidium monoazide pma we report
+the amount of microbial dna derived from relic dna pools and
+show how relic dna affects the observed richness and composition
+of microbial communities we also identify which soil character 
+istics are linked to greater relic dna effects and discuss the impli 
+cations of relic dna on molecular analyses of microbial
+communities in soil and other environments 
+
+results and discussion
+we investigated the effect of relic dna on microbial diversity esti 
+mates in soils collected from a wide variety of ecosystem types
+across the usa selected to encompass a broad range in edaphic
+characteristics supplementary table sub samples of each soil
+were either treated with pma n or left untreated n 
+pma is a photoreactive dna intercalating dye that is generally
+excluded by cells with intact membranes but binds relic dna
+ extracellular dna and dna of cells with compromised cyto 
+plasmic membranes when exposed to light intercalated pma
+permanently modifies dna rendering it un amplifiable by pcr 
+we used qpcr to calculate the amount of relic dna by subtracting
+the abundance of amplifiable prokaryotic s rrna genes or fungal
+internal transcribed spacer its amplicons in pma treated
+samples dna from intact cells from the abundance of these
+amplicons in untreated samples total dna dna from intact
+cells relic dna microbial communities were characterized
+by high throughput sequencing of amplified rrna gene regions
+ s rrna for prokaryotes or the its region for fungi from both
+pma treated and untreated soil sub samples we compared esti 
+mates of microbial richness overall community composition and
+the relative abundances of individual taxa after standardizing all
+libraries to equivalent sequencing depths 
+
+relic dna represented a large fraction of microbial dna in many
+soils across all soils ± mean ± s e n of ampli 
+fiable prokaryotic s rrna genes were derived from the relic dna
+pool ‘all soils’ fig a similar patterns were observed for fungi 
+
+ cooperative institute for research in environmental sciences university of colorado boulder colorado usa department of chemistry 
+metropolitan state university of denver denver colorado usa department of ecology and evolutionary biology university of colorado 
+boulder colorado usa department of biological sciences virginia tech university blacksburg virginia usa 
+ e mail paul carini gmail com noah fierer colorado edu
+
+letters
+published december volume article number 
+
+nature microbiology doi nmicrobiol www nature com naturemicrobiology 
+
+© macmillan publishers limited part of springer nature all rights reserved 
+
+mailto paul carini gmail com
+mailto noah fierer colorado edu
+http dx doi org nmicrobiol 
+http www nature com naturemicrobiology
+
+
+where ± mean ± s e n of fungal its amplicons
+originated from the relic dna pool ‘all soils’ fig b several
+lines of evidence suggest that these estimates of the percent of relic
+dna are conservative first because some dead cells retain intact
+membranes pma probably underestimates dead cell concen 
+trations second when we experimentally added extracellular
+dna to soil our approach completely removed the added extracellu 
+lar dna from most soil samples but only reduced extracellular dna
+spiked into a soil with large amounts of relic dna supplementary
+fig this demonstrates that our approach is effective across a
+broad range of soil types and is conservative in soils where relic
+dna is abundant conversely it is unlikely that our approach
+removed dna from living cells because studies have shown the
+effects of pma on intact microbial cells are minimal and pma pri 
+marily targets extracellular dna or dna from cells that are no
+longer intact our own tests confirmed pma treatment
+did not significantly reduce the amount of dna from live
+escherichia coli or saccharomyces cerevisiae cells spiked into buffer
+ supplementary fig and we did not observe relic dna in
+all soils fig a b suggesting that pma treatment did not inflate
+estimates of the percent relic dna by entering live cells 
+
+removal of relic dna significantly reduced estimates of soil
+microbial diversity across all samples the total prokaryotic richness
+was reduced by ± mean ± s e n after relic dna
+was removed fig c in soils the prokaryotic richness was sig 
+nificantly lower by up to after relic dna was removed two 
+tailed t test q value of ≤ fig c the percent decrease in the
+number of prokaryotic taxa after relic dna was removed was posi 
+tively correlated with the proportional abundance of s rrna
+genes present in the relic dna pool supplementary fig a that
+is soils with more relic dna tended to have lower richness once
+relic dna was removed similar results were observed when we
+analysed fungal dna fungal richness decreased by an average of
+ ± mean ± s e n after relic dna was removed
+ fig d the percent decrease in fungal richness after relic dna
+removal was significant in soils two tailed t test q value of
+≤ and reduced estimates of fungal diversity by up to fig d 
+
+removal of relic dna can substantially reduce estimates of soil
+microbial diversity indicating that commonly used molecular
+
+methods for assessing soil microbial diversity may inflate richness
+estimates due to the detection of dna from cells that are unlikely
+to be viable however similar to previous studies the removal of
+relic dna did not result in a significant reduction of prokaryotic
+diversity in several soils fig c suggesting that in some soils 
+the diversity detected in the relic dna pool is reflective of the diver 
+sity obtained in the total dna pool similarly although an average
+of ∼ of the total fungal dnawas derived from relic dna pools
+ fig b the effect of relic dna removal on fungal richness was
+variable across the soils examined as highlighted by the lack of a sig 
+nificant correlation between the percent fungal relic dna and the
+percent decrease in richness after relic dna removal
+ supplementary fig b these between sample differences in the
+magnitude of the effects of relic dna on estimates of fungal diver 
+sity may be a product of differences in the temporal variability of
+fungal communities at individual sites 
+
+estimates of microbial community composition were also signifi 
+cantly influenced by the presence of relic dna soil type was the
+strongest predictor of community differences permutational multi 
+variate analysis of variance permanova r p≤ 
+for prokaryotes r p≤ for fungi that is we could
+still discriminate between the distinct microbial communities
+found in the different soils whether relic dna was removed or not
+ supplementary figs – however the effects of relic dna removal
+on community composition across soils was also significant for both
+prokaryotic and fungal communities permanova p≤ 
+for prokaryotes p≤ for fungi on an individual soil basis 
+the composition of prokaryotic communities was significantly
+affected by the removal of relic dna in all of the soils tested
+ permanova r – q value≤ fig a in of
+the soils removal of relic dna also had a significant effect on the
+composition of fungal communities permanova r – 
+q value≤ fig b the effects of relic dna on the compo 
+sition of both prokaryotic and fungal communities were positively
+correlated supplementary fig highlighting that the magnitude
+of relic dna effects on community composition were similar for
+both prokaryotic and fungal communities moreover the mean
+difference in microbial community composition after relic dna
+removal was negatively correlated with the mean abundance of
+
+a
+
+c d
+
+al
+l s
+
+oi
+ls 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+− 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pe
+rc
+
+en
+t r
+
+el
+ic
+
+ d
+n
+
+a
+pe
+
+rc
+en
+
+t d
+ec
+
+re
+as
+
+e
+ in
+
+ ri
+ch
+
+ne
+ss
+
+pe
+rc
+
+en
+t r
+
+el
+ic
+
+ d
+n
+
+a
+pe
+
+rc
+en
+
+t d
+ec
+
+re
+as
+
+e
+ in
+
+ ri
+ch
+
+ne
+ss
+
+prokaryotes fungi
+
+soil sample soil sample
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+b
+
+al
+l s
+
+oi
+ls
+
+figure relic dna inflates soil microbial diversity estimates a b percent of total prokaryotic s rrna gene copies a or fungal its copies b in the relic
+dna pool as quantified by qpcr c d percent decrease in total prokaryotic c or fungal d richness after removal of relic dna as estimated from rarefied
+amplicon sequence data soils are ordered from left to right by decreasing mean percent prokaryotic relic dna with the ‘all soils’ category illustrating the
+distribution of the percent relic dna and percent richness decrease across all soils across all soils we detected significant differences in richness with relic
+dna removed the mean reductions in richness were and for prokaryotes and fungi respectively two tailed t test p≤ in both cases soil
+sample numbers marked with an asterisk had significant differences in richness after relic dna was removed two tailed t test q≤ box plots illustrate
+interquartile range ± × interquartile range the horizontal line in each box plot is the median outliers × interquartile range are shown as points 
+except in the all soils category where all points are shown some box plots are truncated see supplementary dataset for complete data set and the
+abundance of s rrna gene copies or its amplicon copies per gram of soil for each subsample supplementary table shows the mean percent of relic
+dna and mean percent decrease in richness for each soil 
+
+letters nature microbiology
+
+nature microbiology doi nmicrobiol www nature com naturemicrobiology 
+
+© macmillan publishers limited part of springer nature all rights reserved 
+
+http dx doi org nmicrobiol 
+http www nature com naturemicrobiology
+
+
+ s rrna gene or its amplicons per gram in untreated soil spearman’s
+ρ − p for prokaryotes and ρ − p for
+fungi this correlation is probably the result of the communities
+in replicate sub samples being more distinct from one another
+when overall biomass is lower an effect that is taken into account
+in our statistical analyses 
+
+the relative abundances of numerous microbial lineages changed
+after the removal of relic dna but the taxa that changed and the
+direction of observed shifts varied across soils for example in a
+grassland soil from the northeastern usa soil actinobacteria
+and α proteobacteria significantly increased in relative abundance
+after relic dna was removed but verrucomicrobia decreased
+ fig in many cases the changes in estimated relative abundances
+after relic dna removal approached or exceeded fig the
+relative abundances of α proteobacteria were consistently greater
+after relic dna removal mann–whitney u two tailed p≤ 
+ supplementary fig a suggesting that the relative abundances
+of viable α proteobacteria are underestimated in many soil
+studies in contrast agaricomycete fungi were significantly less
+abundant after relic dna was removed mann–whitney u two 
+tailed p≤ supplementary fig b suggesting that either
+agaricomycetes are less abundant than commonly reported or
+other fungal taxa are relatively more abundant after relic dna
+removal or viable agaricomycetes are broadly permeable to
+pma these results highlight that the effects of relic dna removal
+vary depending on the taxon in question are not predictable
+a priori and vary depending on the soil in question 
+
+relating the relative abundances of microbial taxa or protein 
+coding genes to soil biogeochemical process rates has been challen 
+ging hindering attempts to link microbial communities to the
+ecosystem level processes they can control because the relative
+abundances of living microbial populations may be considerably
+higher or lower than estimated based on analyses of the total
+dna pool the presence of relic dna probably obscures correlations
+between the relative abundances of individual microbial taxa and
+specific biogeochemical processes for example in several soils relic
+dna resulted in the misestimation of the relative abundances of
+ammonia oxidizing archaea aoa and nitrite oxidizing bacteria
+
+ nob by supplementary fig a b we use aoa and nob
+as examples because these taxa were relatively abundant across all
+soils and several studies have attempted to link their abundances to
+nitrification rates for example ref as another example we
+found that the measured abundances of glomeraceae a family of arbus 
+cular mycorrhizal fungi important to plant health increased by 
+in two soils and decreased by in seven soils after removal of relic
+dna supplementary fig c thus failure to remove relic dna before
+investigating relationships between specific soil processes and dna 
+based quantification of abundances can obscure associations between
+microbial abundances and key soil processes 
+
+consistent with previous studies we found that edaphic
+characteristics known to influence electrostatic interactions
+between dna and soil particles were significant predictors of the
+presence of microbial relic dna table for example soils
+with few exchangeable bases especially k were likely to contain
+relic dna from both prokaryotic and fungal sources table and
+supplementary fig although soils with low ph electrical con 
+ductivity and cation exchange capacity were more likely to harbour
+relic dna this pattern was stronger for prokaryotes than for fungi
+ table interestingly ph predicted the magnitude of the overall
+change in both prokaryotic and fungal community composition
+after relic dna removal as soils with higher ph were likely to
+have larger community differences after relic dna was removed
+ supplementary fig however the proportional abundance of
+relic dna was not correlated with the community differences
+after pma treatment supplementary table these results high 
+light that the effects of relic dna are variable across different soil
+types in particular both prokaryotic and fungal relic dna is
+more likely to be present in soils with few exchangeable base
+cations below ∼ meq per g table but the microbial
+community differences apparent after relic dna removal are
+more pronounced in higher ph soils supplementary fig 
+
+our finding that relic dna can lead to significant overestimation
+of soil microbial diversity and reduce the ability to accurately quan 
+tify prokaryotic and fungal community structure has several impor 
+tant implications first it suggests that the actual microbial diversity
+in soil is lower than often reported fig second although the
+
+soil sample
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+fu
+ng
+
+al
+ b
+
+ra
+y–
+
+c
+ur
+
+tis
+ d
+
+is
+si
+
+m
+ila
+
+rit
+y
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+pr
+ok
+
+ar
+yo
+
+tic
+ b
+
+ra
+y–
+
+c
+ur
+
+tis
+ d
+
+is
+si
+
+m
+ila
+
+rit
+y
+
+a b
+
+soil sample
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+figure relic dna removal can have a significant effect on community structure within a given soil sample a b mean dissimilarity in soil prokaryotic a 
+and fungal b communities after relic dna removal relative to untreated soils soils in a and b are ordered from left to right by decreasing order of the
+mean dissimilarity for prokaryotic communities asterisks next to soil sample numbers denote significant community differences between relic and total dna
+pools permanova q≤ box plots illustrate interquartile range ± × interquartile range the horizontal line in each box plot is the median outliers
+ × interquartile range are shown as points supplementary table presents mean bray–curtis dissimilarities for each soil 
+
+nature microbiology letters
+
+nature microbiology doi nmicrobiol www nature com naturemicrobiology 
+
+© macmillan publishers limited part of springer nature all rights reserved 
+
+http dx doi org nmicrobiol 
+http www nature com naturemicrobiology
+
+
+presence of relic dna is unlikely to obscure broad biogeographical
+patterns for example those reported in refs – relic dna may
+obscure subtle spatiotemporal patterns or treatment effects in exper 
+imental manipulations of soil conditions for example shifts in soil
+microbial communities across seasons or with plant species
+growing on a site are often difficult to detect from dna based ana 
+lyses similarly long term soil transplant experiments investi 
+gating the effects of climate change on soil microbial communities
+
+have shown minimal change in microbial community compo 
+sition we expect that the ability to detect meaningful shifts in
+soil microbial communities should increase if the ‘noise’ generated
+from non living microbes is reduced by first removing relic dna 
+finally the extreme diversity of soil microbial communities presents
+multiple computational problems for metagenomic assembly and
+analysis because a significant portion of this diversity is coming
+from relic dna pools removal of relic dna from samples before
+shotgun metagenomic analyses should result in more effective meta 
+genomic assemblies and improve our ability to infer the genomic
+attributes of undescribed soil microbes 
+
+relic dna dynamics may have important ramifications for under 
+standing microbial communities in other ecosystems besides soil for
+example deep sea sediments harbour large amounts of extracellular
+dna suggesting that removal of relic dnamay affect diversity esti 
+mates in the deep biosphere specific analyses of the relic dna pool
+in deep biosphere samples may have particular utility as a ‘fossil
+record’ to distinguish extinct microbial taxa from living organisms
+and more accurately reconstruct the subsurface paleome more
+generally relic dna probably influences studies where dna from
+dead organisms is abundant or where dna is particularly resistant
+to degradation including studies of the microbes found on aquatic
+particles on mineral surfaces or in the built environment 
+
+methods
+soil collection and characteristics a total of surface soils – cm mineral soils
+only were collected from locations in colorado new hampshire virginia and
+kansas usa in august or september supplementary table samples from
+outside colorado that is non local were shipped cool overnight importantly as a
+
+relative abundance in total dna 
+
+relative abundance in total dna relative abundance in total dna 
+
+relative abundance in total dna 
+
+re
+la
+
+tiv
+e 
+
+ab
+un
+
+da
+nc
+
+e 
+af
+
+te
+r r
+
+el
+ic
+
+d
+n
+
+a
+ re
+
+m
+ov
+
+al
+ 
+
+ 
+
+re
+la
+
+tiv
+e 
+
+ab
+un
+
+da
+nc
+
+e 
+af
+
+te
+r r
+
+el
+ic
+
+d
+n
+
+a
+ re
+
+m
+ov
+
+al
+ 
+
+ 
+re
+
+la
+tiv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+af
+te
+
+r r
+el
+
+ic
+d
+
+n
+a
+
+ re
+m
+
+ov
+al
+
+ 
+ 
+
+re
+la
+
+tiv
+e 
+
+ab
+un
+
+da
+nc
+
+e 
+af
+
+te
+r r
+
+el
+ic
+
+d
+n
+
+a
+ re
+
+m
+ov
+
+al
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actinobacteria
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eurotiomycetes
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agaricomycetes
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+α proteobacteria
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+relative abundance in total dna 
+
+re
+la
+
+tiv
+e 
+
+ab
+un
+
+da
+nc
+
+e 
+af
+
+te
+r r
+
+el
+ic
+
+d
+n
+
+a
+ re
+
+m
+ov
+
+al
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+verrucomicrobia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+significant shift in prokaryotes q ≤ 
+± change
+± change
+
+no significant change 
+significant shift in fungi q ≤ 
+
+ relative abundance no change 
+
+cba
+
+d e
+
+figure the relative abundances of several microbial lineages change significantly in individual soils after removal of relic dna a–e points are the
+mean relative abundances of actinobacteria a α proteobacteria b verrucomicrobia c agaricomycetes d and eurotiomycetes e before n and
+after n relic dna removal as calculated from rarefied amplicon sequence data the relative abundances of coloured points are significantly different
+after relic dna removal two tailed mann–whitney u test q≤ numbers correspond to soil sample supplementary table these plots display all
+significant changes in taxa comprising ≥ of the total prokaryotic and ≥ of the fungal communities across all soils in all plots dashed lines represent
+no change in relative abundances line the dark grey shaded region represents ± change in relative abundance and the light grey shaded region
+represents ± change in relative abundance supplementary dataset shows the mean relative abundances ± s e of each taxon in each soil 
+
+table p values for logistic regression models fitting
+edaphic characteristics to the presence ≥ of total dna
+for prokaryotes ≥ for fungi or absence of relic dna 
+
+soil characteristic prokaryotic fungal
+mwdw ns
+ph ns
+electrical conductivity mmhos cm− ns
+no 
+
+− n ppm 
+k ppm 
+exchangeable ca meq per g 
+exchangeable mg meq per g ns
+exchangeable na meq per g 
+exchangeable k meq per g 
+total exchangeable bases
+ meq per g 
+
+ 
+
+cation exchange capacity
+ meq per g 
+
+ ns
+
+all relationships are inverse except mean weight diameter mwdw is a proxy for the amount of
+water stable aggregates ns not significant at p≤ 
+
+letters nature microbiology
+
+nature microbiology doi nmicrobiol www nature com naturemicrobiology 
+
+© macmillan publishers limited part of springer nature all rights reserved 
+
+http dx doi org nmicrobiol 
+http www nature com naturemicrobiology
+
+
+precaution against potential freezing induced damage to cell membranes soils were
+deliberately not frozen before pma treatment on arrival in the laboratory soils
+were sieved to mm homogenized and stored at °c until pma treatment the
+dates of collection and pma treatment are detailed in supplementary table soils
+were chosen to capture a broad range of ecosystem types and edaphic factors
+ supplementary table standard soil characteristics were measured at the
+colorado state university soil water and plant testing laboratory using their
+standard protocols supplementary table these analyses included ph electrical
+conductivity mmhos cm– percent organic matter no 
+
+− n ppm p ppm 
+k ppm zn ppm fe ppm mn ppm cu ppm texture percent sand silt
+and clay exchangeable bases meq per g and cation exchange capacity
+ meq per g percent moisture was determined gravimetrically on sieved soils
+before and after drying at °c for h mean weight diameter mwdw a proxy for
+the amount of water stable aggregates was determined using the wet sieving method 
+
+pma treatment and dna extraction ten replicate sub samples of each soil g 
+were homogenized and resuspended in ml sterile pbs ph in transparent
+plastic tubes pmawas added to five of the sub samples the pma treated at a final
+concentration of µm in a dark room the concentration of µm pmawas used
+because it is in the range of concentrations used in other studies for example 
+refs our own experiments showed µm was sufficient to remove spikes of
+naked extracellular dna in six soils supplementary fig and our own
+laboratory experiments also showed insignificant penetration into exponentially
+growing e coli or s cerevesiae supplementary fig the five pma treated and the
+five untreated sub samples were gently vortexed for min in the dark at room
+temperature after the incubation both pma treated and untreated samples were
+exposed to a w halogen lamp placed cm from the sample tubes for four
+consecutive s s light dark cycles while continually vortexing after light
+exposure samples were frozen at − °c until dna extraction dna was extracted
+from µl of homogenized soil pbs slurry using a mobio powersoil dna
+extraction kit following the manufacturer’s instructions transferring µl of the
+bead beaten supernatant for dna extraction to enable comparisons of relic dna
+amounts across samples we treated each soil type identically 
+
+rationale for using pma and method limitations several techniques have been
+developed to investigate microbial viability in different environments reviewed in
+ref the advantages of the pma based approach we apply here include the
+following it is relatively easy to implement meaning it can be used for high 
+throughput analyses the utility of pma for the purposes of distinguishing
+extracellular dna from dna contained within cells is well documented and
+typically conservative relative to ethidium monoazide based studies because not all
+dead cells are permeable to pma – and key assumptions in other
+approaches remain untested although rrna based approaches are thought to
+discriminate between metabolically active and inactive cells this is not necessarily
+true furthermore the assumption that extracellular rrna cannot persist in soil
+has not been explicitly tested it is possible that as with dna there could be
+substantial amounts of rrna in soil coming from extracellular pools or cells that are
+no longer living but additional studies are required to determine if this is the case 
+
+in some laboratory studies of pure bacterial cultures grown on nutrient rich
+medium a fraction of the presumably viable population was found to be susceptible
+to pma – thus one potential limitation of this technique is that the effectiveness
+of pma exclusion by intact cells has not been tested on the broad diversity of
+microbes found in soil however consistent with previous work reviewed in
+refs we observed that few taxa were consistently under or over estimated
+across soil samples after relic dna was removed suggesting that there are minimal
+systematic taxon specific differences in the susceptibility of intact cells to pma
+treatment supplementary fig a second potential limitation is that in turbid
+sample preparations such as soils the effectiveness of pma binding of relic dna
+may be reduced because of pma adsorption to soil particles or ineffective
+photoactivation of pma ref and references therein in our experiments pma
+retained the capacity to completely remove naked dna spikes in all but one soil
+sample supplementary fig this suggests that in this study the photoactivation
+of pma was sufficient and pma adsorption to soil particles was negligible 
+
+qpcr qpcr reactions were conducted in µl total volumes on a eppendorf
+realplex mastercycler ep gradient s the reaction mixture was as follows µl
+each of f and r primer sequences follow µl x qpcr mix thermo scientific
+absolute qpcr sybr green mix µl pcr grade water and µl template dna 
+the following qpcr primers were used prokaryotic s rrna— f ′ gtgcca
+gcmgccgcggtaa ′ and r ′ ggactachvgggtwtctaat ′ fungal
+its— ′ cttggtcatttagaggaagtaa ′ and its ′ gctgcgttcttca
+tcgatgc ′ cycling conditions °c for min followed by cycles of °c
+ s °c s °c s and a final extension of °c for min all reactions
+were run in triplicate and compared to standard curves containing purified
+e coli dh b genomic dna for s rrna gene quantification or purified
+aspergillus fumigatus atcc mya d genomic dna for its amplicon
+quantification s rrna gene and its amplicon copies per g of soil were calculated
+for each sub sample supplementary dataset using seven s rrna gene
+copies per genome for e coli dh b and its region copies per genome for
+
+a fumigatus each qpcr reaction was calculated to contain dna extracted from
+∼ mg of soil a qpcr ‘no template’ negative control was included with each
+qpcr run none of which amplified successfully 
+
+amplicon sequencing and analytical methods for sequence based analyses of s
+rrna and its gene regions we used approaches described previously briefly we
+amplified each of the dna samples in duplicate in µl pcr reactions
+containing µl of promega gotaq hot start colorless master mix µl of each
+barcoded primer bacterial s f ′ gtgccagcmgccgcggtaa ′ and
+ r ′ ggactachvgggtwtctaat ′ fungal its ′ cttggtcatttaga
+ggaagtaa ′ and its ′ gctgcgttcttcatcgatgc ′ µl water 
+ µl of template dna program °c for min followed by cycles of °c
+ s °c s °c s and a final extension at °c min several negative
+controls including ‘no template’ controls and ‘dna extraction kit’ controls were
+included alongside the soil dna samples and sequenced duplicate reactions were
+pooled cleaned and normalized using the thermofisher scientific sequalprep
+normalization plate kit cleaned and normalized amplicons were pooled spiked with
+ phix and sequenced on an illumina miseq using v cycle paired end kits 
+reads were processed as described previously briefly raw amplicon sequences were
+demultiplexed with the associated barcodes and processed with the uparse pipeline 
+a database of ≥ similar sequence clusters was constructed in usearch version
+ after merging paired end reads using a ‘maxee’ value of when quality filtering
+sequences dereplicating identical sequences removing singleton sequences clustering
+sequences after singleton removal and filtering out representative sequences that were
+not ≥ similar to any sequence in greengenes for prokaryotes version or
+unite for fungi databases demultiplexed sequences were mapped against the
+de novo constructed databases to generate counts of sequences matching clusters that
+is taxa for each sample taxonomy was assigned to each taxon using the rdp classifier
+with a threshold of ref and trained on the greengenes or unite databases to
+normalize the sequencing depth across samples samples were rarefied to and
+ sequences per sample for the s rrna and its analyses respectively 
+
+statistical analyses the percent relic dna was calculated by comparing the mean
+qpcr abundances n sub samples of s rrna genes or its amplicons from
+untreated soil to the abundances of the amplicons from each individual pma 
+treated sub sample n by subtracting the abundance of the targeted gene in each
+pma treated sub sample from the mean abundance in untreated samples and then
+dividing this difference by the mean abundance in untreated samples the percent
+decrease in microbial richness after relic dna removal was calculated from rarefied
+amplicon data by comparing the mean prokaryotic or fungal richness determined
+from sub samples n of untreated soil to the prokaryotic or fungal richness
+determined from each individual pma treated sub sample n by subtracting the
+richness prokaryotic or fungal in each pma treated sub sample from the mean
+richness prokaryotic or fungal in untreated samples divided by the mean richness
+ prokaryotic or fungal in untreated samples because the replicates are sub samples
+of a given soil and thus unlikely to harbour identical communities we focused on
+overall differences in richness and did not specifically identify which taxa were
+exclusively found in the relic dna pool microbial richness and bray–curtis
+dissimilarities were calculated in the mctoolsr r package bray–curtis
+dissimilarities were calculated on square root transformed taxon relative
+abundances where appropriate statistical tests were corrected for multiple
+comparisons using the qvalue r package using a significance threshold of
+q value≤ spearman correlation coefficients and associated p values were
+calculated with the hmisc r package logistic regression models were used to
+identify which edaphic characteristics predicted the presence of relic dna our
+rationale for using logistic regression for this analysis is that although we obtained
+negative median relic dna percentages fig there cannot be less than relic
+dna it is likely that our estimates of negative relic dna amounts are the result of
+small scale heterogeneity in the proportional abundance of relic dna across sub 
+samples of a given soil this heterogeneity probably obscures our ability to accurately
+quantify the precise amount of relic dnawhen the amounts are near zero for these
+logistic analyses we defined relic dna as being present in soils with 
+prokaryotic relic dna and fungal relic dna these cutoffs were chosen
+because they are ± the most negative median percent relic dnavalue across all soils 
+
+data availability raw sequence data are available in the ncbi sequence read
+archive project accession no srp the full data set for fig mean percent
+of each taxa per soil per treatment and amplicon copies per replicate per gram of soil
+are provided in supplementary dataset 
+
+received july accepted october 
+published december corrected july 
+
+references
+ nielsen k m johnsen p j bensasson d daffonchio d release and persistence
+
+of extracellular dna in the environment environ biosafety res – 
+ pietramellara g et al extracellular dna in soil and sediment fate and
+
+ecological relevance biol fertil soils – 
+
+nature microbiology letters
+
+nature microbiology doi nmicrobiol www nature com naturemicrobiology 
+
+© macmillan publishers limited part of springer nature all rights reserved 
+
+https www ncbi nlm nih gov sra term srp 
+http dx doi org nmicrobiol 
+http www nature com naturemicrobiology
+
+
+ levy booth d j et al cycling of extracellular dna in the soil environment soil
+biol biochem – 
+
+ nocker a sossa fernandez p burr m d camper a k use of propidium
+monoazide for live dead distinction in microbial ecology appl environ 
+microbiol – 
+
+ roesch l f w et al pyrosequencing enumerates and contrasts soil microbial
+diversity isme j – 
+
+ gans j wolinsky m dunbar j computational improvements reveal
+great bacterial diversity and high metal toxicity in soil science 
+ – 
+
+ fierer n et al metagenomic and small subunit rrna analyses reveal the
+genetic diversity of bacteria archaea fungi and viruses in soil appl environ 
+microbiol – 
+
+ brown c t et al unusual biology across a group comprising more than of
+domain bacteria nature – 
+
+ jones m d m et al discovery of novel intermediate forms redefines the fungal
+tree of life nature – 
+
+ mackelprang r et al metagenomic analysis of a permafrost microbial
+community reveals a rapid response to thaw nature – 
+
+ ogram a sayler g s gustin d lewis r j dna adsorption to soils and
+sediments environ sci technol – 
+
+ saeki k kunito t in current research technology and education topics in
+applied microbiology and microbial biotechnology vol ed méndez vilas a 
+ – formatex research center 
+
+ nielsen k m calamai l pietramellara g in nucleic acids and proteins in
+soil eds nannipieri p smalla k ch – springer 
+
+ agnelli a et al distribution of microbial communities in a forest soil profile
+investigated by microbial biomass soil respiration and dgge of total and
+extracellular dna soil biol biochem – 
+
+ dlott g maul j e buyer j yarwood s microbial rrna rdna gene ratios
+may be unexpectedly low due to extracellular dna preservation in soils 
+j microbiol methods – 
+
+ nocker a cheung c y camper a k comparison of propidiummonoazide
+with ethidium monoazide for differentiation of live vs dead bacteria by selective
+removal of dna from dead cells j microbiol methods – 
+
+ cangelosi g a meschke j s dead or alive molecular assessment of
+microbial viability appl environ microbiol – 
+
+ fittipaldi m nocker a codony f progress in understanding preferential
+detection of live cells using viability dyes in combination with dna
+amplification j microbiol methods – 
+
+ nocker a richter heitmann t montijn r schuren f kort r 
+discrimination between live and dead cellsin bacterial communities from
+environmental water samples analyzed by pyrosequencing int microbiol 
+ – 
+
+ wagner a o praeg n reitschuler c illmer p illmer p effect of dna
+extraction procedure repeated extraction and ethidium monoazide ema 
+propidium monoazide pma treatment on overall dna yield and impact on
+microbial fingerprints for bacteria fungi and archaea in a reference soil appl 
+soil ecol – 
+
+ rocca j d et al relationships between protein encoding gene abundance and
+corresponding process are commonly assumed yet rarely observed isme j 
+ – 
+
+ wertz s leigh a k k grayston s j effects of long term fertilization of
+forest soils on potential nitrification and on the abundance and community
+structure of ammonia oxidizers and nitrite oxidizers fems microbiol ecol 
+ – 
+
+ bolan n s a critical review on the role of mycorrhizal fungi in the uptake of
+phosphorus by plants plant soil – 
+
+ tedersoo l et al global diversity and geography of soil fungi science 
+ 
+
+ lauber c l hamady m knight r fierer n pyrosequencing based
+assessment of soil ph as a predictor of soil bacterial community structure at the
+continental scale appl environ microbiol – 
+
+ griffiths r i et al the bacterial biogeography of british soils environ 
+microbiol – 
+
+ zhang x barberán a zhu x zhang g han x water content differences
+have stronger effects than plant functional groups on soil bacteria in a steppe
+ecosystem plos one e 
+
+ docherty k m et al key edaphic properties largely explain temporal and
+geographic variation in soil microbial communities across four biomes plos
+one e 
+
+ bond lamberty b et al soil respiration and bacterial structure and function
+after years of a reciprocal soil transplant experiment plos one 
+e 
+
+ howe a c et al tackling soil diversity with the assembly of large complex
+metagenomes proc natl acad sci usa – 
+
+ ramirez k s et al biogeographic patterns in below ground diversity in
+new york city’s central park are similar to those observed globally proc r soc 
+b 
+
+ dell’anno a danovaro r extracellular dna plays a key role in deep sea
+ecosystem functioning science – 
+
+ coolen m j l et al evolution of the plankton paleome in the black sea from
+the deglacial to anthropocene proc natl acad sci usa – 
+
+ inagaki f okada h tsapin a i nealson k h microbial survival the
+paleome a sedimentary genetic record of past microbial communities 
+astrobiology – 
+
+ kemper w d rosenau r c in methods of soil analysis part —physical
+and mineralogical methods ed klute a – soil science society of
+america 
+
+ barbau piednoir e et al evaluation of viability qpcr detection system on viable
+and dead salmonella serovar enteritidis j microbiol methods – 
+
+ pinheiro e t neves v d reis c c longo p l mayer m p evaluation
+of the propidiummonoazide–quantitative polymerase chain reaction method for
+the detection of viable enterococcus faecalis j endod – 
+
+ taylor m j bentham r h ross k e limitations of using propidium
+monoazide with qpcr to discriminate between live and dead legionella in
+biofilm samples microbiol insights – 
+
+ blazewicz s j barnard r l daly r a firestone m k evaluating rrna as
+an indicator of microbial activity in environmental communities limitations and
+uses isme j – 
+
+ durfee t et al the complete genome sequence of escherichia colidh b insights
+into the biology of a laboratory workhorse j bacteriol – 
+
+ herrera m l vallor a c gelfond j a patterson t f wickes b l 
+strain dependent variation in s ribosomal dna copy numbers in aspergillus
+fumigatus j clin microbiol – 
+
+ leff j w et al consistent responses of soil microbial communities to elevated
+nutrient inputs in grasslands across the globe proc natl acad sci usa 
+ – 
+
+ edgar r c uparse highly accurate otu sequences from microbial amplicon
+reads nat methods – 
+
+ edgar r c search and clustering orders of magnitude faster than blast 
+bioinformatics – 
+
+ mcdonald d et al an improved greengenes taxonomy with explicit ranks
+for ecological and evolutionary analyses of bacteria and archaea isme j 
+ – 
+
+ abarenkov k et al the unite database for molecular identification of fungi—
+recent updates and future perspectives new phytol – 
+
+ wang q garrity g m tiedje j m cole j r naive bayesian classifier for
+rapid assignment of rrna sequences into the new bacterial taxonomy appl 
+environ microbiol – 
+
+ leff j w mctoolsr microbial community data analysis tools v 
+ http leffj github io mctoolsr 
+
+ storey j d a direct approach to false discovery rates j r stat soc b 
+ – 
+
+ harrell f e jr dupont c hmisc harrell miscellaneous v 
+https cran r project org web packages hmisc index html
+
+acknowledgements
+the authors thank s grandy and j schnecker at the university of new hampshire 
+c bueno de mesquita and l vimercati at the university of colorado boulder e skokan
+at black cat farms and k mclachlan at kansas state university for soil collection or access
+to collection sites the authors also thank j henley r hacker cary and k vaccarello for
+assistance with dna extractions sequencing was performed at the university of colorado
+biofrontiers institute’s next gen sequencing core facility funding to support this work
+was provided by the national science foundation deb ear due
+ and ear and a visiting postdoctoral fellowship award to p c from the
+cooperative institute for research in environmental sciences 
+
+author contributions
+p c and n f conceived the project and wrote the manuscript p c p j m and e e m 
+performed experiments p c p j m n f and m s s collected samples p c j w l and
+m s s analysed data 
+
+additional information
+supplementary information is available for this paper 
+
+reprints and permissions information is available at www nature com reprints 
+
+correspondence and requests for materials should be addressed to p c and n f 
+
+how to cite this article carini p et al relic dna is abundant in soil and obscures estimates of
+soil microbial diversity nat microbiol 
+
+competing interests
+the authors declare no competing financial interests 
+
+letters nature microbiology
+
+nature microbiology doi nmicrobiol www nature com naturemicrobiology 
+
+© macmillan publishers limited part of springer nature all rights reserved 
+
+http leffj github io mctoolsr 
+https cran r project org web packages hmisc index html
+http dx doi org nmicrobiol 
+http www nature com reprints
+http dx doi org nmicrobiol 
+http www nature com naturemicrobiology
+
+	relic dna is abundant in soil and obscures estimates of soil microbial diversity
+	results and discussion
+	methods
+	soil collection and characteristics
+	pma treatment and dna extraction
+	rationale for using pma and method limitations
+	qpcr
+	amplicon sequencing and analytical methods
+	statistical analyses
+	data availability
+
+	figure relic dna inflates soil microbial diversity estimates 
+	figure relic dna removal can have a significant effect on community structure within a given soil sample 
+	figure the relative abundances of several microbial lineages change significantly in individual soils after removal of relic dna 
+	table p values for logistic regression models fitting edaphic characteristics to the presence ≥ of total dna for prokaryotes ≥ for fungi or absence of relic dna 
+	references
+	acknowledgements
+	author contributions
+	additional information
+	competing interests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ ascii encodepages false
+ allowtransparency false
+ autopositionepsfiles true
+ autorotatepages none
+ binding left
+ calgrayprofile 
+ calrgbprofile srgb iec 
+ calcmykprofile u s web coated swop v 
+ srgbprofile srgb iec 
+ cannotembedfontpolicy error
+ compatibilitylevel 
+ compressobjects off
+ compresspages true
+ convertimagestoindexed true
+ passthroughjpegimages true
+ createjobticket false
+ defaultrenderingintent default
+ detectblends true
+ detectcurves 
+ colorconversionstrategy leavecolorunchanged
+ dothumbnails false
+ embedallfonts true
+ embedopentype false
+ parseiccprofilesincomments true
+ embedjoboptions true
+ dscreportinglevel 
+ emitdscwarnings false
+ endpage 
+ imagememory 
+ lockdistillerparams true
+ maxsubsetpct 
+ optimize true
+ opm 
+ parsedsccomments true
+ parsedsccommentsfordocinfo true
+ preservecopypage false
+ preservedicmykvalues true
+ preserveepsinfo true
+ preserveflatness true
+ preservehalftoneinfo false
+ preserveopicomments false
+ preserveoverprintsettings true
+ startpage 
+ subsetfonts true
+ transferfunctioninfo apply
+ ucrandbginfo remove
+ useprologue true
+ colorsettingsfile none 
+ alwaysembed true
+ 
+ neverembed true
+ 
+ antialiascolorimages false
+ cropcolorimages true
+ colorimageminresolution 
+ colorimageminresolutionpolicy ok
+ downsamplecolorimages true
+ colorimagedownsampletype bicubic
+ colorimageresolution 
+ colorimagedepth 
+ colorimagemindownsampledepth 
+ colorimagedownsamplethreshold 
+ encodecolorimages true
+ colorimagefilter dctencode
+ autofiltercolorimages true
+ colorimageautofilterstrategy jpeg
+ coloracsimagedict 
+ qfactor 
+ hsamples vsamples 
+ 
+ colorimagedict 
+ qfactor 
+ hsamples vsamples 
+ 
+ jpeg coloracsimagedict 
+ tilewidth 
+ tileheight 
+ quality 
+ 
+ jpeg colorimagedict 
+ tilewidth 
+ tileheight 
+ quality 
+ 
+ antialiasgrayimages false
+ cropgrayimages true
+ grayimageminresolution 
+ grayimageminresolutionpolicy ok
+ downsamplegrayimages true
+ grayimagedownsampletype bicubic
+ grayimageresolution 
+ grayimagedepth 
+ grayimagemindownsampledepth 
+ grayimagedownsamplethreshold 
+ encodegrayimages true
+ grayimagefilter dctencode
+ autofiltergrayimages true
+ grayimageautofilterstrategy jpeg
+ grayacsimagedict 
+ qfactor 
+ hsamples vsamples 
+ 
+ grayimagedict 
+ qfactor 
+ hsamples vsamples 
+ 
+ jpeg grayacsimagedict 
+ tilewidth 
+ tileheight 
+ quality 
+ 
+ jpeg grayimagedict 
+ tilewidth 
+ tileheight 
+ quality 
+ 
+ antialiasmonoimages false
+ cropmonoimages true
+ monoimageminresolution 
+ monoimageminresolutionpolicy ok
+ downsamplemonoimages true
+ monoimagedownsampletype bicubic
+ monoimageresolution 
+ monoimagedepth 
+ monoimagedownsamplethreshold 
+ encodemonoimages true
+ monoimagefilter ccittfaxencode
+ monoimagedict 
+ k 
+ 
+ allowpsxobjects false
+ checkcompliance 
+ none
+ 
+ pdfx acheck true
+ pdfx check false
+ pdfxcompliantpdfonly false
+ pdfxnotrimboxerror false
+ pdfxtrimboxtomediaboxoffset 
+ 
+ 
+ 
+ 
+ 
+ pdfxsetbleedboxtomediabox false
+ pdfxbleedboxtotrimboxoffset 
+ 
+ 
+ 
+ 
+ 
+ pdfxoutputintentprofile ofcom po p f 
+ pdfxoutputconditionidentifier 
+ pdfxoutputcondition ofcom po p f 
+ pdfxregistryname 
+ pdfxtrapped false
+
+ createjdffile false
+ syntheticboldness 
+ description 
+ jpn feff e a d b a f d b cd b f e a a b f f f c b d b f f e e a d b a f c f f f f a e ee d a d e 
+ deu feff e e e c c e e a d c c e f e d f b d e e c d e a c e e a e f e e f b d e e a a c e e d f b d e b f e e e d f f d d e e f f e e e 
+ fra feff f f e d e e f d e f f e e c c f c c f e c d f e e c f c f f d e e f c f e e f c e e 
+ ptb feff c a f e e f f d e f f d d c a e e f d e f f d e f f d e f f d e f f d f f d f f c e f f e 
+ dan feff e c c e c f d f b d e c e c e c c e e f b e e f e e f b d e e d f b d e e b e e e d f f e f e e 
+ nld feff b a e c c e e f d d f d e e d b e b a a e f d a b c a b f d e e f e e b b e e d f d e e b e e e f e f e d f e e e f e 
+ esp feff f f e f d e f d e c a d d f d e f d e f d c e c f f d e f e f e f e f e f f e 
+ suo feff e e e e c c f c f a c f d b a f a c a f e b c e e e e c f c f c f b e e d b a f e f d a e d f a c d c c d d c c f c c e 
+ ita feff d f a f e f d e c d c c a a a f e f d e a e c e f d e f f e f f e f e f e e 
+ nor feff b e e c c e e c e f d f b d e f d f e c c e e f b f e e f b d e e d f b d e e b e e e d f f e f e e 
+ sve feff e e e e e e c c e e e e e c c b d f b d e f d f e c c e e f b e f b d e e d f b d e e b e f e d f f e c c e e 
+ enu npg print pdf job options th september pdf compatibility adds trim and bleed boxes top nature pages where none exist 
+ 
+ setdistillerparams
+ 
+ hwresolution 
+ pagesize 
+ setpagedevice
+
+

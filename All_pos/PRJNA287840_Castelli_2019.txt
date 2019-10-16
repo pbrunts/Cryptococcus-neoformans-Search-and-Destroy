@@ -1,0 +1,1580 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the hidden world of rickettsiales symbionts “candidatus spectririckettsia obscura ” a novel bacterium found in brazilian and indian paramecium caudatum
+
+
+host microbe interactions
+
+the hidden world of rickettsiales symbionts bcandidatus
+spectririckettsia obscura a novel bacterium found in brazilian
+and indian paramecium caudatum
+
+michele castelli valentina serra marcus v x senra charan k basuri carlos a g soares 
+sergei i fokin letizia modeo giulio petroni 
+
+received june accepted august published online august 
+ springer science business media llc part of springer nature corrected publication august 
+
+abstract
+symbioses between bacteria and eukaryotes are widespread and may have significant impact on the evolutionary history of
+symbiotic partners the order rickettsiales is a lineage of intracellular alphaproteobacteria characterized by an obligate asso 
+ciation with a wide range of eukaryotic hosts including several unicellular organisms such as ciliates and amoebas in this work 
+we characterized the rickettsiales symbionts associated with two different genotypes of the freshwater ciliate paramecium
+caudatum originated from freshwater environments in distant geographical areas phylogenetic analyses based on s rrna
+gene showed that the two symbionts are closely related to each other identity belong to the familyrickettsiaceae but are
+far related with respect to previously characterized rickettsiales consequently they were assigned to a new species of a novel
+genus namely bcandidatus spectririckettsia obscura screening on a database of short reads from s rrna gene amplicon 
+based profiling studies confirmed that bacterial sequences related to the new symbiont are preferentially retrieved from freshwater
+environments apparently with extremely scarce occurrence positive samples the present work provides new infor 
+mation on the still under explored biodiversity of rickettsiales in particular those associated to ciliate host cells 
+
+keywords protist bacterial symbiont imngs rickettsiaceae
+
+introduction
+
+symbiotic associations are widespread phenomena among liv 
+ing beings and actually most eukaryotic organisms represent
+holobionts in their natural environment – in this regard 
+symbiosis is considered according to the original definition by
+anton de bary as bthe living together of unlike organisms 
+ simply meaning the even temporary association of or 
+ganisms from different species therefore all kinds of rela 
+tionships between host and symbionts are included namely
+mutualism commensalism and parasitism moreover the ac 
+tual borders between those definitions are frequently blurred 
+so that the same symbiotic association can shift from mutual 
+ism to parasitism and vice versa depending on internal e g 
+genotype or life cycle stages or external environmental fac 
+tors e g exposure to light or nutrients – 
+
+the endosymbioses between intracellular bacteria and eu 
+karyotic hosts are notable because of their natural abundance
+and considering the broad taxonomic range and ecological
+adaptations of the partners involved – at the same
+time some phylogenetic groups of bacteria appear to be
+
+michele castelli and valentina serra contributed equally to this work 
+
+electronic supplementary material the online version of this article
+ https doi org s contains supplementary
+material which is available to authorized users 
+
+ michele castelli
+miccast tiscali it
+
+ giulio petroni
+giulio petroni unipi it
+
+ romeo and enrica invernizzi pediatric research center department
+of biosciences university of milan milan italy
+
+ department of biology university of pisa pisa italy
+ departamento de genética universidade federal do rio de janeiro 
+
+ufrj rio de janeiro brazil
+ present address departamento de zoologia universidade federal de
+
+juiz de fora ufjf rio de janeiro brazil
+ department of zoology andhra university visakhapatnam india
+ department of invertebrate zoology saint petersburg state
+
+university saint petersburg russia
+
+microbial ecology – 
+https doi org s 
+
+http crossmark crossref org dialog doi s domain pdf
+https doi org s 
+mailto miccast tiscali it
+mailto giulio petroni unipi it
+
+
+composed only by symbionts of eukaryotes suggesting for
+such cases an evolutionary stable adaptation to such lifestyle 
+in particular all the currently known members of the mono 
+phyletic order rickettsiales alphaproteobacteria as defined
+by szokoli and coauthors are obligate intracellular bac 
+teria living in association with a wide range of eukaryotes 
+rickettsiales were once considered as primarily arthropod 
+associated bacteria that can be transferred to humans or to
+other vertebrates usually causing pathogenic effects 
+ it is now evident that a wide variety approximately two
+thirds of known genera of rickettsiales are borne exclusively 
+or at least partially by aquatic organisms mostly unicellular
+eukaryotes such as amoebae ciliates e g – 
+and some photosynthetic species e g – according to
+the phylogeny rickettsiales repeatedly shifted host species
+along their evolutionary history most likely the ancestral
+rickettsiales lived in an aquatic environment and the adapta 
+tion to terrestrial hosts apparently occurred several times in 
+dependently probably at least six times 
+
+although some rickettsialeswere classified as pathogens or 
+more rarely as mutualists in most other cases the relationships
+with their hosts were not clarified in detail because in general 
+no evident effect on the host biology was observed three fam 
+ilies of rickettsiales are now recognized namely rickettsiaceae 
+anaplasmataceae and bcandidatus from now on ca 
+midichloriaceae well known representatives of
+rickettsiaceae are pathogens such as rickettsia prowazekii 
+rickettsia rickettsii and orientia tsutsugamushi 
+these bacteria are carried by lice ticks and mites and might
+cause mild to severe disease such as epidemic typhus rocky
+mountain spotted fever and scrub typhus from a phylogenetic
+point of view the genus orientia occupies an early divergent
+position within the family similarly to the tick endosymbiont
+boccidentia massiliensis the ciliate endosymbiont bca 
+cryptoprodota formerly cryptoprodotis polytropus 
+and bca arcanobacter lacustris the latter bacterium is in 
+triguing since it was identified only from a partial genome se 
+quence obtained during an environmental screening in a fresh 
+water lake thus direct experimental information is not available
+either concerning its life cycle or on a potential host the
+other members of the family can be divided into three main
+clades namely the rickettsia clade the bca trichorickettsia 
+clade and the bca megaira clade the rickettsia clade in 
+cludes together with pathogens many other bacteria associated
+to non hematophagous arthropods as well as endosym 
+bionts of leeches and nucleariid amoebae – these non 
+pathogenic rickettsia do not show any direct evidence of trans 
+mission to vertebrates and their impact on the host were not
+fully clarified although a potential role as mutualists or repro 
+ductive manipulators was proposed in some cases the
+bca trichorickettsia clade is constituted only by two species
+of endosymbionts of ciliates i e bca trichorickettsia mobilis 
+and bca gigarickettsia flagellata which display in most
+
+investigated host strains a peritrichous flagellation 
+although flagella and or flagellar genes were retrieved also in
+other representatives of each rickettsiales family 
+ – only for the members of bca trichorickettsia clade
+a flagellar driven motility was observed the general effects of
+bca trichorickettsia and bca gigarickettsia on the host are
+still unclear but at least in some specific strains they might
+produce parasitic effects under certain conditions 
+members of the clade bca megaira are highly diverse in terms
+of sequence divergence several species level sub clades identi 
+fied and display a broad host range and diffusion indeed its
+representatives were found associated to a great variety of aquat 
+ic organisms such as hydras corals e g montastraea
+faveolata annelid worms micro and macro 
+algae such as mesostigma viride volvox carteri carteria
+cerasiformis pleodorina japonica and bryopsis sp 
+ haplosporidians rhizarians and several cili 
+ates including free living diophrys oligothrix euplotes
+octocarinatus paramecium caudatum spirostomum minus 
+and parasitic ichthyophthirius multifiliis forms 
+
+the knowledge on the diversity of rickettsiales and their
+hosts is increasing year by year adding new pieces to the
+puzzle of their evolutionary history and ecological adaptations
+ many new findings are coming from previously under 
+explored locations in particular aquatic environments and or
+under explored geographic locations – 
+
+in this work we report the molecular characterization of a
+new bacterial species retrieved in association with two differ 
+ent genotypes of the ciliate p caudatum collected from geo 
+graphically separated locations as distant as brazil and india 
+the results of phylogenetic analysis which allowed placing
+the symbiont into a novel genus of family rickettsiaceae and
+a discussion on its ecological and geographical distribution are
+presented 
+
+materials and methods
+
+host strains origin and maintenance
+
+p caudatum pcpb was isolated as monoclonal strain from a
+sample collected in the paraibuna river in proximity of the
+city of juiz da fora minas gerais brazil in june it was
+maintained in laboratory conditions by feeding with a bacte 
+rized medium inoculated with raoultella planticola see serra
+and coauthors for details dna extraction was per 
+formed employing the nucleospin™ plant ii kit macherey 
+nagel germany from approximately cells previously
+fixed in ethanol 
+
+p caudatum population sh was sampled in araku hills
+ andhra pradesh india further details on geographical ori 
+gin laboratory maintenance and dna extraction were pre 
+sented in a previous study 
+
+the hidden world of rickettsiales symbionts “candidatus spectririckettsia obscura ” a novel bacterium 
+
+
+
+molecular characterization of hosts and symbionts
+
+all pcr reactions were carried out with takara pcr re 
+agents and ex taq takara bio japan using a c ™
+thermal cycler bio rad ca usa in case of direct se 
+quencing pcr products were cleaned with the eurogold
+cycle pure kit euroclone italy and sent to gatc biotech
+ germany for sequencing 
+
+the s rrna gene sequence of p caudatum pcpb was
+amplified and sequenced with internal primers as previously
+described supplementary table 
+
+the s rrna gene sequence of p caudatum sh was
+characterized in a previous study 
+
+for the characterization of the bacterial endosymbiont of p 
+caudatum pcpb an initial first broad range pcr was per 
+formed supplementary table the pcr products were
+inserted in pcr® topo® plasmidic vectors invitrogen 
+ca usa and the plasmids were transformed to competent
+escherichia coli cells mach ® t r invitrogen positive bac 
+terial colonies were screened by restriction fragment length
+polymorphism rflp i e through digestion with bsuri
+ fermentas usa restriction enzyme of a control pcr product
+obtained with primers annealing on the cloning vector in the
+flanking regions of the insertion site m and t four distinct
+restriction patterns were identified and up to two clones for each
+pattern were sent to macrogen europe the netherlands for
+sequencing using them and t primers in a blastn search
+against the ncbi nucleotide database one clone sequence
+showed high similarity with members of the obligate intracellu 
+lar bacterial order rickettsiales and was therefore putatively
+assigned to the symbiont the corresponding s rrna gene
+was amplified again for direct sequencing using a new reverse
+primer spectririck r designed on purpose
+ supplementary table the product was sequenced using a
+combination of suitable internal primers and the forward ampli 
+fication primer supplementary table 
+
+the s rrna gene sequence of p caudatum sh endo 
+symbiont was amplified with a suitable primer pair
+ supplementary table the product was cleaned and initially
+directly sequenced using bacterial universal primers as previ 
+ously described szokoli et al b supplementary table 
+since the electropherograms showed double peaks due to the
+simultaneous presence of another alphaproteobacterium inside
+the same host i e holospora obtusa species specific
+primers were designed and used for selective sequencing on
+the same pcr product supplementary table 
+
+phylogenetic analyses
+
+the s rrna genes of the hosts and the s rrna genes of
+the newly characterized symbionts were aligned with the au 
+tomatic aligner of the arb software package version 
+on the ssu ref nr silva database 
+
+for the phylogenetic analysis on the hosts other se 
+quences of the paramecium genus using the subgenera
+chloroparamecium and helianter as outgroup were included
+ dataset 
+
+for the analysis on the symbionts other sequences were
+selected namely belonging to therickettsiaceae family plus
+six additional rickettsiales sequences as outgroup dataset 
+
+after manual editing to optimize base pairing in the pre 
+dicted rrna stem regions in each dataset each of the two
+alignments was trimmed at both ends to the length of the
+shortest sequence resulting respectively in dataset 
+and dataset nucleotide columns which were used for
+phylogenetic analyses and for building the similarity matrix
+ dataset only 
+
+for each phylogenetic dataset the optimal substitution
+model was selected with jmodeltest according to
+the akaike information criterion aic maximum likelihood
+ ml trees were calculated with the phyml software version
+ from the arb package performing pseudo 
+replicates bayesian inference bi trees were inferred with
+mrbayes using three runs each with one cold and
+three heated monte carlo markov chains with a burn in of
+ iterating for generations convergence was
+verified by checking the average standard deviation of the
+split frequencies and the potential scale reduction
+factor psrf values 
+
+fluorescence in situ hybridization
+
+p caudatum pcpb cells were washed at least three times in
+sterile water prior to fixation in formaldehyde in pbs × 
+on microscope slides fluorescence in situ hybridization
+ fish was performed according to the protocol by manz
+and coauthors manz et al using the probes eub 
+ ′ gctgcctcccgtaggagt ′ targeting over
+ of domain bacteria and the alf b ′ cgtt
+c g y t c t g a g c c a g ′ t a r g e t i n g
+alphaproteobacteria unfortunately it was not possible to
+perform fish experiments on p caudatum sh since this
+population became extinct weeks after isolation 
+
+screening of s rrna gene amplicon data sets
+
+a screening of short sequence reads from the s rrna gene
+amplicon based profiling studies available in sra sequence
+read archive was performed on the imngs integrated mi 
+crobial next generation sequencing platform the endo 
+symbionts of p caudatum strain pcpb and population sh 
+were queried in parallel on all metagenomic samples available
+on imngs built with similarity threshold of and
+minimum size of bp the outputs were compared and
+otus operational taxonomic units were obtained with
+uclust with threshold identity 
+
+ castelli m et al 
+
+
+
+results
+
+host characterization and phylogeny
+
+an almost complete s rrna gene sequence bp was
+obtained for the p caudatum strain pcpb mh this
+sequence was found to be identical to six other p 
+caudatum strains supporting the preliminary species
+identification based on morphological features data not shown 
+the sequence identity respect to p caudatum sh sequence
+ lt was with indel and mismatches 
+
+the reconstructed phylogeny showed that within the
+paramecium subgenus the sequence of p caudatum sh 
+branched as the sister group of the clade composed of the other
+co specific sequences i e p caudatum pcpb and other six
+previously published identical sequences ab 
+ab af kf he but with a
+longer branch suggesting a faster sequence evolution rate
+ fig the phylogenetic position of other species within
+the paramecium cypriostomum and viridoparamecium sub 
+species is consistent with previous studies fig e g 
+
+endosymbiont characterization and phylogeny
+
+the fish screening of p caudatum pcpb cells with the probe
+alf b revealed that they harbored alphaproteobacterial sym 
+bionts fig a the same host cells resulted negative to the
+almost universal bacterial probe eub fig b which tar 
+gets over of the sequences of domain bacteria on silva
+database the s rrna sequence of the putative endo 
+symbiont of p caudatum pcpb obtained by direct sequencing
+was bp long the highest retrieved identity was
+with the s rrna gene of a bca trichorickettsia mobilis 
+ hg supplementary table 
+
+the symbiont s rrna gene sequence obtained from the
+sh population was bp long and showed identity
+ mismatches no gaps with the pcpb symbiont this value
+is well above the commonly accepted species threshold for
+bacterial species – indicating that the two
+symbionts belong to the same species 
+
+consistent with fish results the sequences of the two
+endosymbionts identical in eub probe target region 
+showed two consecutive mismatches with respect to this
+probe followed by a putative single nucleotide deletion data
+not shown unfortunately it was not possible to test in vivo
+the targeting of endosymbionts of either host strain with a
+species specific probe because the strain pcpb lost the en 
+dosymbionts few weeks after the initial fish and dna ex 
+traction experiments while the host population sh could be
+maintained in laboratory just weeks 
+
+in the phylogenetic analysis the two symbionts clustered
+with high support within the family rickettsiaceae fig 
+whose characterized members are all obligate intracellular
+
+bacteria consistently with the high sequence identity the two
+symbionts formed together a highly supported new clade 
+ml bi which we named bca spectririckettsia the
+bca spectririckettsia clade formed a monophyletic group to 
+gether with the rickettsia bca trichorickettsia and bca 
+megaira clades although the precise relationships among
+some of these lineages rickettsia plus bca trichorickettsia 
+bca megaira and the new clade were not fully resolved the
+phylogenetic placement of the other rickettsiaceae namely
+bca arcanobacter orientia boccidentia and bca 
+cryptoprodota resulted consistent with previous analyses
+ namely in earlier divergent positions with respect
+to the aforementioned bacteria
+
+endosymbiont environmental screening on imngs
+platform
+
+the hits of the screening on imngs were identical for the
+endosymbionts of pcpb and sh consistent with the very
+high sequence identity of the almost full length s rrna
+gene sequences very few hits were found both in terms of
+number of samples with sequence hits and in terms of abun 
+dance of reads within each sample indeed only out of
+ total samples were positive belonging
+to bfreshwater metagenome category of total
+samples and one to buncultured bacterium category 
+of total samples additionally for each sample the
+proportion of positive reads was extremely low always less
+than of total reads per sample table in terms of
+sample provenance most came from british columbia
+ canada bioproject prjna while the other
+two came respectively from baseline lake michigan us 
+ bioproject prjna and from a wastewater aer 
+obic bioreactor in daejeon south korea bioproject 
+prjdb 
+
+the clustering of sequence hits retrieved a single otu its
+centroid sequence showed identity with the sequence
+of pbpc symbiont from brazil and with sh sym 
+biont from india respectively 
+
+discussion
+
+rickettsiales are a conspicuous lineage of obligate intracellular
+bacteria that engage a variegated range of interactions with
+many different eukaryotes in particular the family
+rickettsiaceae is really notable for the numerous clades includ 
+ed and the variety of hosts in the present study we report the
+characterization of two rickettsiaceae bacteria associated to
+different strains of the ciliate protist p caudatum from geo 
+graphically distant locations namely brazil and india 
+
+our analyses reconstructed phylogenetic relationships
+within the family rickettsiaceae confirming the general
+
+the hidden world of rickettsiales symbionts “candidatus spectririckettsia obscura ” a novel bacterium 
+
+https www ncbi nlm nih gov nuccore mh 
+
+
+results from previous studies indeed the rickettsia clade 
+mainly constituted by arthropod associated bacteria includ 
+ing arthropod vector borne pathogens was recovered with
+high support and consistently as the sister group of the mono 
+phyletic bca trichorickettsia clade formed only by endo 
+symbionts of ciliates the monophyly of bca 
+megaira clade which includes several endosymbionts of cil 
+iates was also recovered as well as the mono 
+phyly of the novel bca spectririckettsia clade ml 
+bi consistent with the high sequence identity 
+supplementary table this new clade appeared phyloge 
+netically associated with high support ml bi with
+rickettsia bca trichorickettsia and bca megaira clades
+
+all together however the precise phylogenetic relationship
+between bca spectririckettsia and those three lineages still
+remains unclear this can be tentatively linked to a putative
+high evolutionary rate shown by bca spectririckettsia 
+which in turn can be inferred on the basis of the extremely
+long branch sustaining them and in line with the high se 
+quence divergence with respect to the other rickettsiaceae
+ ≥ supplementary table further analyses with en 
+larged taxonomic sets and or employing additional sequence
+markers may help in elucidating this point we can foresee
+that in the next future such analyses will take profit from even
+more taxonomically enlarged datasets considering that in re 
+cent years an increasing amount of research has been focused
+
+paramecium caudatum af 
+
+paramecium sp fj 
+
+paramecium caudatum strain sh from india 
+
+paramecium multimicronucleatum af 
+
+ eucandidatus paramecium hungarianum km 
+
+ eucandidatus paramecium brazilianum aj 
+
+paramecium tetraurelia af 
+
+paramecium jenningsi af 
+
+paramecium nephridiatum af 
+
+paramecium caudatum he 
+
+paramecium multimicronucleatum he 
+
+paramecium bursaria ab 
+
+paramecium bursaria kc 
+
+paramecium cf bursaria aldg ln 
+
+paramecium putrinum af 
+
+paramecium woodruffi af 
+
+paramecium polycaryum af 
+
+paramecium buetschlii km 
+
+paramecium calkinsi af 
+
+paramecium multimicronucleatum ab 
+
+paramecium chlorelligerum km 
+
+paramecium caudatum ab 
+
+paramecium calkinsi af 
+
+paramecium duboscqui he 
+
+paramecium duboscqui am 
+
+paramecium caudatum ab 
+
+paramecium sp he 
+
+paramecium caudatum ab 
+
+paramecium nephridiatum af 
+
+paramecium tetraurelia ab 
+
+paramecium multimicronucleatum hg 
+
+paramecium caudatum kf 
+
+ eucandidatus paramecium germanicum km 
+
+paramecium sp he 
+
+paramecium caudatum strain pcpb from brazil
+
+paramecium sp fr 
+
+paramecium bursaria ab 
+
+paramecium bursaria kc 
+
+paramecium sp he 
+
+paramecium schewiakoffi aj 
+
+paramecium chlorelligerum kx 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+paramecium
+
+cypriostomum
+
+viridoparamecium
+
+chloroparamecium
+
+helianter
+
+fig bayesian inference phylogenetic tree of representatives of the genus
+paramecium built with mrbayes employing the gtr i g model 
+numbers on branches indicate bootstrap values inferred with 
+pseudo replicates for maximum likelihood analysis and bayesian posterior
+probabilities after generations values below are not
+
+shown the two sequences of p caudatum pcpb and p caudatum sh 
+characterized in the present study are highlighted in bold and a gray square
+box encloses the species p caudatum the members of the five subgenera
+of paramecium are evidenced on the right scale bar stands for estimated
+proportional sequence divergence of 
+
+ castelli m et al 
+
+
+
+on obtaining new genomes from under explored rickettsiales
+sub lineages given that the identity values with
+the other rickettsiaceae ≥ supplementary table 
+largely outreach the genus level threshold according to
+yarza and coauthors we propose that the new
+clade bca spectririckettsia corresponds to a novel genus 
+
+the chance to perform microscopical analyses on the two
+host strains was limited indeed it was not possible to maintain
+the p caudatum sh population in laboratory conditions 
+for what concerns the strain pcpb initial fish experiments
+confirmed the presence of alphaproteobacterial rod shaped en 
+dosymbionts fig a while subsequently paramecium cells
+became negative to all tested fish probes data not shown 
+this result can be attributed to an apparent instability of the
+
+symbiotic association possibly due to changes in the physiolog 
+ical state with respect to the natural environment after a
+prolonged permanence under laboratory conditions 
+nevertheless several coherent data led to the conclusion that
+the characterized sequence indeed derived from the observed
+endosymbiotic bacteria in detail the endosymbiotic bacteria
+initially observed in the pcpb strain showed positive match to
+the alphaproteobacterial fish probe but were negative for the
+probe eub targeting over of bacteria similar to the
+in silico prediction using the retrieved sequences which showed
+two mismatches and an indel with respect to this probe 
+additionally the reconstructed phylogeny strongly supports
+the position of the symbiont sequences within rickettsiaceae 
+a well known group composed of obligate intracellular
+
+fig bayesian inference phylogenetic tree of representatives of the family
+rickettsiaceae built with mrbayes employing the gtr i g model 
+numbers on branches indicate bootstrap values inferred with 
+pseudo replicates for maximum likelihood analysis and bayesian posterior
+probabilities after generations values below are not
+shown the two sequences of the bca spectririckettsia obscura 
+
+symbionts of p caudatum pcpb and p caudatum sh characterized in
+the present study are highlighted in bold the sequences belonging to the
+main clades of rickettsiaceae are evidenced on the right the outgroup 
+consisting in other rickettsiales sequences is shown collapsed as a trape 
+zoidal shape scale bar stands for estimated proportional sequence diver 
+gence of ca is an abbreviation for candidatus
+
+fig fluorescence microscopy images from a fish assay on a p 
+caudatum pcpb cell hybridized with the alphaproteobacteria targeted
+probe alf b labeled with cy a and with the almost universal
+bacterial probe eub labeled with fitc b a detail of the pcpb 
+
+cell is shown a b in a several rod shaped bacterial cells are fluores 
+cently labeled in red in b no probe green fluorescent signal is visible
+nor for the alf b labeled bacterial cells nor for any other intracellular
+bacterium scale bars stand for μm
+
+the hidden world of rickettsiales symbionts “candidatus spectririckettsia obscura ” a novel bacterium 
+
+
+
+symbionts of eukaryotic organisms interestingly also the appar 
+ent rarity of sequences related to these symbionts retrieved in
+ s rrna amplicon based profiling studies is consistent with
+an obligate intracellular lifestyle therefore we propose the new
+genus and species name bca spectririckettsia obscura be 
+cause it is phylogenetically related to rickettsia and its morpho 
+logical features and relation with the host were not fully
+disclosed remaining partially obscure 
+
+the finding of two closely related new symbionts in p 
+caudatum strains originating from very distant places clearly
+indicates that this kind of interactions are more widely spread
+than expected furthermore considering that they both oc 
+curred in tropical regions this could be interpreted as a
+
+distinctive ecological trait of this symbiont at the same time 
+it should be considered that all the closely related sequence hits
+retrieved from imngs screening originated from temperate
+locations table these data might suggest a wider geograph 
+ical distribution in any case given the overall paucity of se 
+quences affiliated to bca spectririckettsia including imngs
+hits and the present study further records would be necessary
+to evaluate the effective distribution of this symbiont and
+whether it has some climatic preference or responds to seasonal
+fluctuations at present only a few studies treated the distribu 
+tion of endosymbionts of ciliates – nevertheless with
+the increasing number of retrievals the biogeography and sea 
+sonality of such interactions might become useful information
+
+table list of bca spectririckettsia obscura positive samples
+retrieved in the imngs platform for each sample the environmental
+category and geographical origin as well as the number of hits with
+
+different identity thresholds and the proportion of hits with 
+threshold on total reads from the respective sample the highest value in
+italic are reported
+
+ sampleid total sequences category origin identity
+threshold
+
+proportion of 
+hits on total sequences
+
+ 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome usa michigan allegan county baseline lake 
+
+drr uncultured bacterium south korea wastewater bioreactor 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+srr freshwater metagenome canada southwestern british columbia 
+
+ castelli m et al 
+
+
+
+in the study of such symbioses despite the two hosts being
+conspecific it seems highly unlikely that the symbionts could
+have been vertically inherited because no other p caudatum
+strain especially referring to those in the same clade of pcpb 
+resulted positive for bca spectririckettsia infection fig 
+even though they have been carefully screened in the past for
+the presence of endosymbionts e g intriguingly the
+alternative scenario could suggest a preference of bca 
+spectririckettsia towards p caudatum as target host in hori 
+zontal transmission although only further analyses might con 
+firm this aspect 
+
+the presence of coexisting symbionts in the same ciliate host
+strain is another relevant feature as for p caudatum from india
+ sh the occurrence of another endosymbiont i e holospora
+obtusa was documented in detail interestingly 
+rickettsiales as well as the phylogenetically related
+holosporales appear somehow inclined and flexible in
+cohabiting together with other bacteria inside ciliate cell com 
+partments for example in one strain of freshwater euplotes
+aediculatus from india four bacterial endosymbionts namely
+bca trichorickettsia mobilis the bca midichloriaceae bac 
+terium bca cyrtobacter zanobii the betaproteobacterium
+polynucleobacter necessarius and the gammaproteobacterium
+bca nebulibacter formerly nebulobacter yamunensis were
+detected in a stable association – another example is
+a strain of euplotes woodruffi from brazil hosting two cohab 
+iting symbionts namely the bca midichloriaceae bacterium
+bca bandiella woodruffii and polynucleobacter necessarius
+ among those symbionts polynucleobacter necessarius
+ betaproteobacteria burkholderiales is notable since it is
+known to be a necessary endosymbiont for survival of several
+euplotes species bca bandiella woodruffii on the other
+side has been detected so far only once nevertheless 
+phylogenetically close microorganisms were found in associa 
+tion with other ciliates euglenoids and metazoans from fresh 
+water and marine environments therefore covering a wide
+range of hosts interestingly the same
+pair of bacterial endosymbionts namely the two holosporales
+preeria caryophila andcaedimonas varicaedens was found in
+two strains of paramecium biaurelia sampled independently in
+italy and germany in general the ecological role of
+bacterial endosymbiont communities of ciliates is still far from
+being understood although these associations appear more
+common than previously thought in addition the dynamics
+between these coexisting prokaryotic endosymbionts are not
+completely explained although it was hypothesized that p 
+necessarius might play a crucial role in facilitating the estab 
+lishment of a secondary symbiosis in the same ciliate host 
+and the role of holospora and holospora like bacteria as vec 
+tors for the entrance of other symbionts was repeatedly sug 
+gested in different studies – perhaps even some
+rickettsiales symbionts could play a similar role as carriers
+for other bacteria 
+
+our results constitute another little piece of progress in the
+study of rickettsiales and of bacterial symbionts of ciliates 
+reinforcing the evidences on the broad diversity within this
+order of alphaproteobacteria and underpinning how much
+more should be done to undercover this still hidden treasure
+of bacterial biodiversity 
+
+references
+
+ nowack ec melkonian m endosymbiotic associations
+within protists philos t r soc b – https doi org 
+ rstb 
+
+ schweikert m fujishima m görtz hd symbiotic associa 
+tions between ciliates and prokaryotes in rosenberg e delong
+ef stackebrandt e lory s thompson f eds the prokaryotes 
+prokaryotic biology and symbiotic associations springer verlag 
+berlin heidelberg pp – https doi org 
+ 
+
+ hardoim pr van overbeek ls berg g pirttilä am compant s 
+campisano a döring m sessitsch a the hidden world
+within plants ecological and evolutionary considerations for defin 
+ing functioning of microbial endophytes microbiol mol biol 
+rev – 
+
+ mcfall ngai m hadfield mg bosch tcg carey hv domazet 
+lošo t douglas ae dubilier n eberl g fukami t gilbert sf 
+hentschel u king n kjelleberg s knoll ah kremer n 
+mazmanian sk metcalf jl nealson k pierce ne rawls jf 
+reid a ruby eg rumpho m sanders jg tautz d wernegreen
+jj animals in a bacterial world a new imperative for the life
+sciences proc natl acad sci u s a – https 
+doi org pnas 
+
+ de bary a die erscheinung der symbiose karl j trübner
+verlag strassburg
+
+the hidden world of rickettsiales symbionts “candidatus spectririckettsia obscura ” a novel bacterium 
+
+description of bcandidatus spectririckettsia obscura 
+
+spectririckettsia obscura spec tri ric ket’tsi a n l nt n 
+spectrum image ghost n l fem n rickettsia a related bac 
+terial genus n l fem n spectririckettsia an image of
+rickettsia ob scu’ra l fem adj obscura hidden unseen 
+
+rod shaped bacterial symbiont of p caudatum strains 
+sampled in freshwater bodies of brazil and india type strain
+is the symbiont of p caudatum pcpb from brazil 
+
+basis of assignment s rrna gene sequence ncbi da 
+tabase accession number mh and in s rrna 
+targeting fish experiments combined positive signal with
+probe alf b and negative signal with probe eub 
+
+acknowledgments the authors wish to thank aharon oren for advice in
+bacterial nomenclature and species description simone gabrielli for as 
+sistance in graphical artwork and franziska szokoli for invaluable sup 
+port and inspiration in the project 
+
+funding information this project was funded by the european
+commission fp people irses grant project
+cinar pathobacter to gp and by the university of pisa grant
+pra to gp 
+
+https doi org rstb 
+https doi org rstb 
+https doi org 
+https doi org 
+https doi org pnas 
+https doi org pnas 
+
+
+ klironomos jn variation in plant response to native and
+exotic arbuscular mycorrhizal fungi ecology – 
+https doi org 
+
+ stat m morris e gates rd functional diversity in coral 
+dinoflagellate symbiosis proc natl acad sci u s a –
+ https doi org pnas 
+
+ regus ju gano ka hollowell ac sofish v sachs jl 
+lotus hosts delimit the mutualism parasitism continuum of
+bradyrhizobium j evol biol – https doi org 
+ jeb 
+
+ bella c koehler l grosser k berendonk tu petroni g 
+schrallhammer m fitness impact of obligate intranuclear
+bacterial symbionts depends on host growth phase front 
+microbiol 
+
+ schu mg schrallhammer m cultivation conditions can
+cause a shift from mutualistic to parasitic behavior in the symbiosis
+between paramecium and its bacterial symbiont caedibacter
+taeniospiralis curr microbiol – https doi org 
+ s 
+
+ simonet p gaget k balmand s lopes mr parisot n buhler k 
+duport g vulsteke v febvay g heddi a charles h callaerts p 
+calevro f bacteriocyte cell death in the pea aphid buchnera
+symbiotic system proc natl acad sci u s a e –
+e 
+
+ leisch n pende n weber pm gruber vodicka hr verheul j 
+vischer noe abby ss geier b den blaauwen t bulgheresi s
+ asynchronous division by non ring ftsz in the
+gammaproteobacterial symbiont of robbea hypermnestra nat
+microbiol – 
+
+ szokoli f castelli m sabaneyeva e schrallhammer m krenek s 
+doak tg berendonk tu petroni g disentangling the tax 
+onomy of rickettsiales and description of two novel symbionts
+ bcandidatus bealeia paramacronuclearis and bcandidatus
+fokinia cryptica sharing the cytoplasm of the ciliate protist
+paramecium biaurelia appl environ microbiol – 
+https doi org aem 
+
+ perlman sj hunter ms zchori fein e the emerging diver 
+sity of rickettsia proc biol sci – https doi org 
+ rspb 
+
+ weinert la werren jh aebi a stone gn jiggins fm 
+evolution and diversity of rickettsia bacteria bmc biol 
+https doi org 
+
+ castelli m sassera d petroni g biodiversity of bnon 
+model rickettsiales and their association with aquatic organisms 
+in thomas s ed rickettsiales springer international publishing 
+cham pp – https doi org 
+
+ schulz f martijn j wascher f lagkouvardos i kostanjšek r 
+ettema tjg horn m a rickettsiales symbiont of amoebae
+with ancient features environ microbiol – https 
+doi org 
+
+ gong j qing y zou s fu r su l zhang x zhang q 
+protist bacteria associations gammaproteobacteria and
+alphaproteobacteria are prevalent as digestion resistant bacteria
+in ciliated protozoa front microbiol https doi org 
+ fmicb 
+
+ senra mv dias rj castelli m silva neto id verni f soares ca 
+petroni g a house for two double bacterial infection in
+euplotes woodruffi sq ciliophora euplotia sampled in south 
+eastern brazil microb ecol – https doi org 
+s 
+
+ schrallhammerm ferrantini f vannini c galati s schweikert m 
+görtz hd verni f petroni g bcandidatus megaira
+polyxenophila gen nov sp nov considerations on evolutionary
+history host range and shift of early divergent rickettsiae plosone
+ e https doi org journal pone 
+
+ kuo rc lin s ectobiotic and endobiotic bacteria associated
+with eutreptiella sp isolated from long island sound protist 
+ – https doi org j protis 
+
+ kawafune k hongoh y hamaji t nozaki h molecular
+identification of rickettsial endosymbionts in the non 
+phagotrophic volvocalean green algae plos one e 
+https doi org journal pone 
+
+ kawafune k hongoh y hamaji t sakamoto t kurata t hirooka
+s miyagishima sy nozaki h two different rickettsial bac 
+teria invading volvox carteri plos one e https doi 
+org journal pone 
+
+ yang a narechania a kim e rickettsial endosymbiont in
+the bearly diverging streptophyte green algamesostigma viride j 
+phycol – https doi org jpy 
+
+ yurchenko t Ševčíková t přibyl p el karkouri k klimeš v 
+amaral r zbránková v kim e raoult d santos lma eliáš m
+ a gene transfer event suggests a long term partnership be 
+tween eustigmatophyte algae and a novel lineage of endosymbiotic
+bacteria isme j https doi org s y
+
+ ogata h la scola b audic s renesto p blanc g robert c 
+fournier pe claverie jm raoult d genome sequence of
+rickettsia bellii illuminates the role of amoebae in gene exchanges
+between intracellular pathogens plos genet e https doi 
+org journal pgen 
+
+ dumler js barbet af bekker cp dasch ga palmer gh ray sc 
+rikihisa y rurangirwa fr reorganization of genera in the
+families rickettsiaceae and anaplasmataceae in the order
+rickettsiales unification of some species of ehrlichia with
+anaplasma cowdria with ehrlichia and ehrlichia with
+neorickettsia descriptions of six new species combinations and
+designation of ehrlichia equi and ‘hge agent’ as subjective syno 
+nyms of ehrlichia phagocytophila int j syst evol microbiol 
+ – https doi org 
+
+ montagna m sassera d epis s bazzocchi c vannini c lo n 
+sacchi l fukatsu t petroni g bandi c bcandidatus
+midichloriaceae fam nov rickettsiales an ecologically wide 
+spread clade of intracellular alphapreoteobacteria appl environ 
+microbiol – https doi org aem 
+
+ dumler js walker dh rickettsiales in whitman wb 
+rainey f kämpfer p trujillo m chun j de vos p hedlund b 
+dedyshed s eds bergey’s manual of systematics of archaea and
+bacteria john wiley sons ltd https doi org 
+ obm 
+
+ dantas torres f chomel bb otranto d ticks and tick 
+borne diseases a one health perspective trends parasitol 
+ – https doi org j pt 
+
+ mediannikov o nguyen tt bell sakyi l padmanabhan r 
+fournier pe raoult d high quality draft genome sequence
+and description of occidentia massiliensis gen nov sp nov a
+new member of the family rickettsiaceae stand genomic sci 
+ https doi org 
+
+ ferrantini f fokin s modeo l andreoli i dini f görtz hd verni
+f petroni g bcandidatus cryptoprodotis polytropus a
+novel rickettsia l ike organism in the ciliated protist
+pseudomicrothorax dubius ciliophora nassophorea j 
+eukaryot microbiol – https doi org j 
+ x
+
+ oren a a plea for linguistic accuracy–also for candidatus
+taxa int j syst evol microbiol – https doi org 
+ ijsem 
+
+ martijn j schulz f zaremba niedzwiedzka k viklund j 
+stepanauskas r andersson sg horn m guy l ettema tj
+ single cell genomics of a rare environmental
+alphaproteobacterium provides unique insights into rickettsiaceae
+evolution isme j – https doi org ismej 
+ 
+
+ castelli m et al 
+
+https doi org 
+https doi org pnas 
+https doi org jeb 
+https doi org jeb 
+https doi org s 
+https doi org s 
+https doi org aem 
+https doi org rspb 
+https doi org rspb 
+https doi org 
+https doi org 
+https doi org 
+https doi org 
+https doi org fmicb 
+https doi org fmicb 
+https doi org s 
+https doi org s 
+https doi org journal pone 
+https doi org j protis 
+https doi org journal pone 
+https doi org journal pone 
+https doi org journal pone 
+https doi org jpy 
+https doi org s y
+https doi org journal pgen 
+https doi org journal pgen 
+https doi org 
+https doi org aem 
+https doi org obm 
+https doi org obm 
+https doi org j pt 
+https doi org 
+https doi org j x
+https doi org j x
+https doi org ijsem 
+https doi org ijsem 
+https doi org ismej 
+https doi org ismej 
+
+
+ dyková i veverkovám fiala i machácková b pecková h 
+nuclearia pattersoni sp n filosea a new species of amphizoic
+amoeba isolated from gills of roach rutilus rutilus and its rickett 
+sial endosymbiont folia parasitol – 
+
+ kikuchi y sameshima s kitade o kojima j fukatsu t 
+novel clade of rickettsia spp from leeches appl environ 
+microbiol – https doi org aem 
+ 
+
+ kikuchi y fukatsu t rickettsia infection in natural leech
+populations microb ecol – https doi org 
+s 
+
+ vannini c boscaro v ferrantini f benken ka mironov ti 
+schweikert m görtz hd fokin si sabaneyeva ev petroni g
+ flagellar movement in two bacteria of the family
+rickettsiaceae a re evaluation of motility in an evolutionary
+perspective plos one e https doi org 
+journal pone 
+
+ sabaneyeva e castelli m szokoli f benken k lebedeva n 
+salvetti a schweikert m fokin s petroni g host and
+symbiont intraspecific variability the case of paramecium calkinsi
+and candidatus trichorickettsia mobilis eur j protistol –
+ https doi org j ejop 
+
+ sassera d lo n epis s d auria g montagna m 
+comandatore f horner d peretó j luciano am franciosi
+f ferri e crotti e bazzocchi c daffonchio d sacchi l 
+moya a latorre a bandi c phylogenomic evidence
+for the presence of a flagellum and cbb oxidase in the free 
+living mitochondrial ancestor mol biol evol – 
+https doi org molbev msr 
+
+ kwan jc schmidt ew bacterial endosymbiosis in a chor 
+date host long term co evolution and conservation of secondary
+metabolism plos one e https doi org journal 
+pone 
+
+ boscaro v schrallhammer m benken ka krenek s szokoli f 
+berendonk tu schweikert m verni f sabaneyeva ev petroni g
+ rediscovering the genus lyticum multiflagellated symbi 
+onts of the order rickettsiales sci rep https doi org 
+ srep 
+
+ fraune s bosch tc long term maintenance of species 
+specific bacterial microbiota in the basal metazoan hydra proc 
+natl acad sci u s a – https doi org 
+ pnas 
+
+ sunagawa s desantis tz piceno ym brodie el desalvo mk 
+voolstra cr weil e andersen gl medina m bacterial
+diversity and white plague disease associated community changes
+in the caribbean coral montastraea faveolata isme j – 
+https doi org ismej 
+
+ penn k wu d eisen ja ward n characterization of bac 
+terial communities associated with deep sea corals on gulf of
+alaska seamounts appl environ microbiol – 
+https doi org aem 
+
+ murakami t segawa t dial r takeuchi n kohshima s hongoh
+y bacterial microbiota associated with the glacier ice worm
+is dominated by both worm specific and glacier derived facultative
+lineages microbes environ – https doi org 
+jsme me 
+
+ hollants j leliaert f verbruggen h willems a de clerck o
+ permanent residents or temporary lodgers characterizing
+intracellular bacterial communities in the siphonous green alga
+bryopsis proc biol sci – https doi org rspb 
+ 
+
+ hine pm wakefield s diggles bk webb vl maas ew 
+ultrastructure of a haplosporidian containing rickettsiae associat 
+ed with mortalities among cultured paua haliotis iris dis aquat 
+org – https doi org dao 
+
+ hess s description of hyalodiscus flabellus sp nov 
+ vampyrellida rhizaria and identification of its bacterial endo 
+symbiont bcandidatus megaira polyxenophila rickettsiales 
+alphaproteobacteria protist – https doi org 
+ j protis 
+
+ sun hy noe j barber j coyne rs cassidy hanley d clark tg 
+findly rc dickerson hw endosymbiotic bacteria in the
+parasitic ciliate ichthyophthirius multifiliis appl environ 
+microbiol – https doi org aem 
+
+ zaila ke doak tg ellerbrock h tung ch martins ml kolbin
+d yao mc cassidy hanley dm clark tg chang wj 
+diversity and universality of endosymbiotic rickettsia in the fish
+parasite ichthyophthirius multifiliis front microbiol 
+https doi org fmicb 
+
+ fokin si przyboś e chivilev sm beier cl horn m 
+skotarczak d wodeckeva b fuj ishima m 
+morphological and molecular investigations of paramecium
+schewiakoffi sp nov ciliophora oligohymenophorea and
+current status of taxonomy eur j protistol – 
+https doi org j ejop 
+
+ görtz hd towards an understanding of the distribution 
+dynamics and ecological significance of bacterial symbioses in pro 
+tists denisia – 
+
+ fokin si sera v the hidden biodiversity of ciliate 
+endosymbionts systems jsm microbiol 
+
+ serra v fokin si castelli m basuri ck nitla v verni f sandeep
+bv kalavati c petroni g bcandidatus gortzia
+shahrazadis a novel endosymbiont of paramecium
+multimicronucleatum and a revision of the biogeographical distri 
+bution ofholospora like bacteria front microbiol https 
+doi org fmicb 
+
+ szokoli f sabaneyeva e castelli m krenek s schrallhammer m 
+soares ca da silva neto id berendonk tu petroni g b 
+bcandidatus fokinia solitaria a novel bstand alone symbiotic
+lineage of midichloriaceae rickettsiales plos one 
+e https doi org journal pone 
+
+ westram r bader k pruesse e kumar y meier h glöckner
+fo ludwig w arb a software environment for se 
+quence data in de bruijn fj ed handbook of molecular mi 
+crobial ecology i metagenomics and complementary ap 
+proaches wiley blackwell publishing pp https 
+doi org ch 
+
+ quast c pruesse e yilmaz p gerken j schweer t yarza p peplies
+j glöckner fo the silva ribosomal rna gene database
+project improved data processing and web based tools nucleic
+acids res d –d https doi org nar gks 
+
+ darriba d taboada gl doallo r posada d jmodeltest 
+more models new heuristics and parallel computing nat methods
+ https doi org nmeth 
+
+ guindon s gascuel o a simple fast and accurate algo 
+rithm to estimate large phylogenies by maximum likelihood syst 
+biol – https doi org 
+
+ ronquist f teslenko m van der mark p ayres dl darling a 
+höhna d larget b liu l suchard ma huelsenbeck jp 
+mrbayes efficient bayesian phylogenetic inference and model
+choice across a large model space syst biol – https 
+doi org sysbio sys 
+
+ amann ri binder bj olson rj chisholm sw devereux r stahl
+da combination of s rrna targeted oligonucleotide
+probes with flow cytometry for analyzing mixed microbial popula 
+tions appl environ microbiol – 
+
+ manz w amann ri ludwig w wagner m schleifer kh 
+phylogenetic oligodeoxynucleotide probes for the major subclasses
+of proteobacteria problems and solutions syst appl microbiol 
+ – https doi org s 
+
+the hidden world of rickettsiales symbionts “candidatus spectririckettsia obscura ” a novel bacterium 
+
+https doi org aem 
+https doi org aem 
+https doi org s 
+https doi org s 
+https doi org journal pone 
+https doi org journal pone 
+https doi org j ejop 
+https doi org molbev msr 
+https doi org journal pone 
+https doi org journal pone 
+https doi org srep 
+https doi org srep 
+https doi org pnas 
+https doi org pnas 
+https doi org ismej 
+https doi org aem 
+https doi org jsme me 
+https doi org jsme me 
+https doi org rspb 
+https doi org rspb 
+https doi org dao 
+https doi org j protis 
+https doi org j protis 
+https doi org aem 
+https doi org fmicb 
+https doi org j ejop 
+https doi org fmicb 
+https doi org fmicb 
+https doi org journal pone 
+https doi org ch 
+https doi org ch 
+https doi org nar gks 
+https doi org nmeth 
+https doi org 
+https doi org sysbio sys 
+https doi org sysbio sys 
+https doi org s 
+
+
+ lagkouvardos i divya j kapfhammer m giritli s horn m 
+haller d clavel t imngs a comprehensive open re 
+source of processed s rrna microbial profiles for ecology
+and diversity studies sci rep https doi org 
+ srep 
+
+ edgar rc search and clustering orders of magnitude faster
+than blast bioinformatics – https doi org 
+ bioinformatics btq 
+
+ lanzoni o fokin si lebedeva n migunova a petroni g 
+potekhin a rare freshwater ciliate paramecium
+chlorelligerum kahl and its macronuclear symbiotic bacteri 
+um bcandidatus holospora parva plos one e 
+https doi org journal pone 
+
+ kim m oh hs park sc chun j towards a taxonomic
+coherence between average nucleotide identity and s rrna
+gene sequence similarity for species demarcation of prokary 
+otes int j syst evol microbiol – https doi org 
+ ijs 
+
+ van rossum t uyaguari diaz mi vlok m peabody ma tian
+a cronin ki chan m croxen ma hsiao wwl isaac renton
+j tang pkc prystajecky n suttle ca brinkman fsl 
+spatiotemporal dynamics of river viruses bacteria and
+microeukaryotes biorxiv doi https doi org 
+ 
+
+ schmidt ml white jd denef vj phylogenetic conserva 
+tion of freshwater lake habitat preference varies between abundant
+bacterioplankton phyla environ microbiol – https 
+doi org 
+
+ werren jh baldo l clark me wolbachia master manipu 
+lators of invertebrate biology nat rev microbiol – 
+https doi org nrmicro 
+
+ floriano am castelli m krenek s berendonk tu bazzocchi c 
+petroni g sassera d the genome sequence of bcandidatus
+fokinia solitaria insights on reductive evolution in rickettsiales 
+genome biol evol – 
+
+ yarza p yilmaz p pruesse e glöckner fo ludwig w schleifer
+kh whitman wb euzéby j amann r rosselló móra r 
+uniting the classification of cultured and uncultured bacteria and
+archaea using s rrna gene sequences nat rev microbiol 
+ – https doi org nrmicro 
+
+ boscaro v vannini c fokin si verni f petroni g 
+characterization of candidatus nebulobacter yamunensis from
+the cytoplasm of euplotes aediculatus ciliophora spirotrichea 
+and emended description of the family francisellaceae syst 
+appl microbiol – 
+
+ boscaro v petroni g ristori a verni f vannini c 
+bcandidatus defluviella procrastinata and bcandidatus
+cyrtobacter zanobii two novel ciliate endosymbionts belonging
+to the bmidichloria clade microb ecol – https doi 
+org s 
+
+ vannini c ferrantini f ristori a verni f petroni g 
+betaproteobacterial symbionts of the ciliate euplotes origin and
+tangled evolutionary path of an obligate microbial association 
+environ microbiol – https doi org j 
+ x
+
+ driscoll t gillespie jj nordberg ek azad af sobral bw 
+bacterial dna sifted from the trichoplax adhaerens animalia 
+placozoa genome project reveals a putative rickettsial endosymbiont 
+genome biol evol – https doi org gbe evt 
+
+ frade pr roll k bergauer k herndl gj archaeal and
+bacterial communities associated with the surface mucus of
+caribbean corals differ in their degree of host specificity and com 
+munity turnover over reefs plos one e https doi 
+org journal pone 
+
+ schrallhammer m castelli m petroni g phylogenetic rela 
+tionships among endosymbiotic r body producer bacteria provid 
+ing their host the killer trait syst appl microbiol – 
+https doi org j syapm 
+
+ potekhin a schweikert m nekrasova i vitali v schwarzer s 
+anikina a kaltz o petroni g schrallhammer m complex
+life cycle broad host range and adaptation strategy of the intranuclear
+paramecium symbiont preeria caryophila comb nov fems
+microbiol ecol fiy https doi org femsec fiy 
+
+ görtz hd freiburg m bacterial symbionts in the micronu 
+cleus of paramecium bursaria endocyt cell res – 
+
+ fokin si karpov sa bacterial endocytobionts inhabiting
+the perinuclear space of protista endocytobiosis cell res – 
+
+ fokin si skovorodkin in experimental analysis of the re 
+sistance of paramecium caudatum ciliophora against infection by
+bacterium holospora undulata eur j protistol – 
+https doi org s 
+
+ fokin si skovorodkin in schweikert m görtz h d co 
+infection of the macronucleus of paramecium caudatum by free 
+living bacteria together with the infectious holospora obtusa j 
+eukaryot microbiol – https doi org j 
+ tb x
+
+ fokin si görtz hd diversity of holospora bacteria in
+paramecium and their characterization in fujishima m ed 
+endosymbionts in paramecium springer verlag berlin heidelberg 
+pp https doi org 
+
+ castelli m et al 
+
+https doi org srep 
+https doi org srep 
+https doi org bioinformatics btq 
+https doi org bioinformatics btq 
+https doi org journal pone 
+https doi org ijs 
+https doi org ijs 
+https doi org 
+https doi org 
+https doi org 
+https doi org 
+https doi org nrmicro 
+https doi org nrmicro 
+https doi org s 
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org gbe evt 
+https doi org journal pone 
+https doi org journal pone 
+https doi org femsec fiy 
+https doi org s 
+https doi org j tb x
+https doi org j tb x
+https doi org 
+
+	the 
+	abstract
+	introduction
+	materials and methods
+	host strains origin and maintenance
+	molecular characterization of hosts and symbionts
+	phylogenetic analyses
+	fluorescence in situ hybridization
+	screening of s rrna gene amplicon data sets
+
+	results
+	host characterization and phylogeny
+	endosymbiont characterization and phylogeny
+	endosymbiont environmental screening on imngs platform
+
+	discussion
+	description of ldquo candidatus spectririckettsia obscura rdquor 
+
+	references
+
+
+

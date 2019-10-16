@@ -1,0 +1,545 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+broadscale ecological patterns are robust to use of exact
+sequence variants versus operational taxonomic units
+
+sydney i glassman a b jennifer b h martinya
+
+adepartment of ecology and evolutionary biology university of california—irvine irvine california usa
+bdepartment of microbiology and plant pathology university of california—riverside riverside california 
+usa
+
+abstract recent discussion focuses on the best method for delineating microbial
+taxa based on either exact sequence variants esvs or traditional operational taxo 
+nomic units otus of marker gene sequences we sought to test if the binning ap 
+proach esvs versus otus affected the ecological conclusions of a large field
+study the data set included sequences targeting all bacteria s rrna and fungi
+ internal transcribed spacer its across multiple environments diverging markedly
+in abiotic conditions over three collection times despite quantitative differences in
+microbial richness we found that all � and � diversity metrics were highly positively
+correlated r � between samples analyzed with both approaches moreover 
+the community composition of the dominant taxa did not vary between approaches 
+consequently statistical inferences were nearly indistinguishable furthermore esvs
+only moderately increased the genetic resolution of fungal and bacterial diversity
+ and times otu richness respectively we conclude that for broadscale e g 
+all bacteria or all fungi � and � diversity analyses esv or otu methods will often
+reveal similar ecological results thus while there are good reasons to employ esvs 
+we need not question the validity of results based on otus 
+
+importance microbial ecologists have made exceptional improvements in our un 
+derstanding of microbiomes in the last decade due to breakthroughs in sequencing
+technologies these advances have wide ranging implications for fields ranging from
+agriculture to human health due to limitations in databases the majority of micro 
+bial ecology studies use a binning approach to approximate taxonomy based on
+dna sequence similarity there remains extensive debate on the best way to bin
+and approximate this taxonomy here we examine two popular approaches using a
+large field based data set examining both bacteria and fungi and conclude that
+there are not major differences in the ecological outcomes thus it appears that
+standard microbial community analyses are not overly sensitive to the particulars of
+binning approaches 
+
+keywords illumina miseq bacteria exact sequence variants esvs fungi microbial
+ecology operational taxonomic units otus 
+
+characterization of microbial communities by amplicon sequencing introduces bi ases and errors at every step hence choices concerning all aspects of molecular
+processing from dna extraction method to sequencing platform are debated 
+further downstream the choices for computational processing of amplicon sequences
+are similarly deliberated e g see references to yet despite these ongoing debates 
+microbial ecology has made great strides toward characterizing and testing hypotheses
+in environmental and host associated microbiomes e g see references and 
+
+within microbiome studies operational taxonomic units otus have been used to
+delineate microbial taxa as the majority of microbial diversity remains unrepresented
+
+received march accepted june
+ published july 
+
+citation glassman si martiny jbh 
+broadscale ecological patterns are robust to
+use of exact sequence variants versus
+operational taxonomic units msphere 
+e https doi org msphere
+ 
+
+editor susannah green tringe doe joint
+genome institute
+
+copyright © glassman and martiny this
+is an open access article distributed under the
+terms of the creative commons attribution 
+international license 
+
+address correspondence to sydney i 
+glassman sydney glassman ucr edu 
+
+although exact sequence variants offer
+additional genetic resolution of a microbial
+community operational taxonomic units
+based on sequence similarity yield
+similar broadscale ecological results in a large
+field study sydneyglassman
+ uci microbiome
+
+observation
+ecological and evolutionary science
+
+crossm
+
+july august volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org msphere 
+https doi org msphere 
+https creativecommons org licenses by 
+https creativecommons org licenses by 
+mailto sydney glassman ucr edu
+https crossmark crossref org dialog doi msphere domain pdf date stamp 
+msphere asm org
+http msphere asm org 
+
+
+in global databases while any degree of sequence similarity could be used to
+denote individual taxa a sequence similarity cutoff became standard within
+microbial community analyses this cutoff attempted to balance previous standards for
+defining microbial species and recognition of spurious diversity accumulated
+through pcr and sequencing errors 
+
+recently it has been suggested that taxa should be defined based on exact
+nucleotide sequences of marker genes delineation of taxa by exact sequence variants
+ esvs also termed amplicon sequence variants asvs or zero radius otus zotus
+ is not only expected to increase taxonomic resolution but could also simplify
+comparisons across studies by eliminating the need for rebinning taxa when data sets
+are merged due to these advantages there has been a surge in bioinformatic pipelines
+that seek to utilize esvs and minimize specious sequence diversity – moreover 
+some proponents have stated that esvs should replace otus altogether however 
+as with the adoption of any new approach there remains a need to quantify how this
+new method compares to a large body of previous research furthermore otu
+classifications remain biologically useful for comparing diversity across large data sets
+ or identifying clades that share traits 
+
+here we tested if use of esvs versus otus affected the ecological conclusions 
+including treatment effects and � and � diversity patterns from a large field study of
+leaf litter communities this study included a “site” and “inoculum” treatment in which
+all microbial communities were reciprocally transplanted into all five sites see
+text s in the supplemental material along an elevation gradient we sequenced
+both bacteria s rrna and fungi internal transcribed spacer its from litterbags
+collected at three time points and months after deployment in separate
+sequencing runs while we expected that the binning approach would alter observed
+richness we hypothesized that it might not alter trends in � and � diversity but that
+these results might differ based on the amplicon sequenced 
+
+in total we analyzed � million bacterial and � million fungal sequences using
+uparse v see table s in the supplemental material which allowed for a direct
+comparison of esv versus otu approaches by keeping all other aspects of quality
+filtering and merging consistent we selected a direct comparison with otus
+as it is the most standard threshold and the clustering algorithms appear to be most
+effective at this level r edgar personal communication a recent study also found that
+clustering thresholds from to yield highly stable results 
+
+esv and otu � diversity was strongly correlated across samples using four metrics
+for both bacteria and fungi mean pearson’s r � � all p values are � 
+for three metrics berger parker shannon and simpson the esv and otu approaches
+were not only highly correlated mean pearson’s r � � but nearly equivalent
+in their values mean slope � see table s in the supplemental material for
+observed richness esv versus otu was also highly correlated across all time points 
+sequencing runs pearson’s r � fig a and b however bacterial otu richness
+was approximately half of esv richness for the same sample mean slope � and
+fungal otu richness was approximately three quarters of esv richness mean slope �
+ we speculate that this difference between bacteria and fungi is due to the coarser
+phylogenetic breadth of the s versus its genetic regions 
+
+� diversity metrics were also strongly correlated across samples for esvs and otus
+ bray curtis average mantel’s r � for bacteria and for fungi all p values are
+� fig c and d whether assessed by abundance based bray curtis or
+presence absence jaccard metrics table s moreover the values of the � diversity
+metrics were nearly identical regardless of binning approach slopes of 
+
+the highly correlated � and � diversity metrics indicated that results based on these
+metrics should yield similar ecological conclusions indeed the patterns of bacterial and
+fungal richness and community composition across the elevation gradient were nearly
+indistinguishable fig see fig s in the supplemental material as were the statistical
+tests for both richness see table s in the supplemental material and community
+composition see tables s and s in the supplemental material moreover family and
+
+glassman and martiny
+
+july august volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+genus level compositions at each site along the gradient were virtually identical for
+bacteria see fig s in the supplemental material and highly similar for fungi see
+fig s in the supplemental material with no taxa being over or underrepresented in
+the esv versus otu approaches for bacteria fig s c and only one for fungi fig s c 
+we also included a mock community of eight distinct bacterial species in our pcr and
+sequencing runs both approaches resulted in highly similar mock community compo 
+sition see fig s in the supplemental material thus we found no evidence that esvs
+yield better taxonomic resolution or are more sensitive to detecting treatment effects
+ if anything the esv method appeared to be slightly less sensitive to detecting
+treatment effects on richness than the otu method especially for fungi in which fewer
+significant treatment effects were detected using esvs table s 
+
+despite quantitative differences in microbial richness ecological interpretation of
+our large bacterial and fungal community data set was robust to the use of esvs versus
+ otus thus even though there are good reasons to take an esv approach we
+need not question the validity of ecological results based on otus indeed while
+previous studies have found that esvs can help explain additional variation among
+samples the � and � diversity patterns of esvs and otus in these studies were
+also quite similar in general we suspect that the robustness of such comparisons will
+vary depending on the breadth of the microbial community targeted for instance here
+we characterized all bacteria and fungi in a diverse environmental community as
+opposed to a narrower subset of taxa or a less diverse host associated community 
+
+fig a and b comparison of observed � diversity for a bacteria and b fungi as assayed by the richness
+of similar operational taxonomic units otus versus exact sequence variants esvs numbers are total
+observed richness after normalizing to sequences per sample from three time points and
+ months c and d comparison of observed � diversity for c bacteria and d fungi as assayed by the
+bray curtis dissimilarity for otus versus esvs from three time points months 
+
+otus and esvs yield ecologically robust results
+
+july august volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+finally both otus and esvs mask ecologically important trait variation of
+individual taxa in our study esvs only slightly increased the detection of fungal
+and bacterial diversity and times otu richness respectively highlighting that
+ribosomal marker genes at any resolution are generally poor targets for improving
+genetic resolution within a microbial community for example it is widely known that
+many taxa can share the same s rrna or its thus if strain identification is
+critical then a full genome or amplicon of a less conservative marker gene is
+required however for broadscale community � and � diversity patterns although the
+vagaries of molecular and bioinformatics processing inevitably add noise to microbial
+sequencing data strong community level signals will likely emerge with suitable study
+designs and statistics regardless of binning approach 
+
+data availability sequences were submitted to the national center for biotech 
+nology information sequence read archive under accession no srp and bio 
+project no prjna all data and scripts to recreate all figures and statistics from
+this article can be found on github at https github com sydneyg otuvesv 
+
+supplemental material
+supplemental material for this article may be found at https doi org 
+
+msphere 
+text s pdf file mb 
+fig s docx file mb 
+fig s docx file mb 
+fig s docx file mb 
+
+fig a and b comparison of � diversity results using a operational taxonomic units otus versus b exact
+sequencing variants esvs for bacteria across the elevation gradient at three time points and months 
+each point represents mean observed richness per litterbag per site and lines indicated standard error averaged
+across five inoculum treatments and four replicates n � letters represent tukey’s honestly significant
+difference hsd test significant differences across sites within a time point c and d comparison of � diversity
+results using nonmetric multidimensional scaling nmds ordination of bray curtis community dissimilarity of c 
+bacterial otus and d bacterial esvs colored by site at the final time point months ellipses represent 
+confidence intervals around the centroid colors represent sites along the elevation gradient ranging from the
+lowest elevation red � m to highest elevation purple � m with middle elevation sites colored as
+follows green � m orange � m and blue � m 
+
+glassman and martiny
+
+july august volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https www ncbi nlm nih gov sra term srp 
+https www ncbi nlm nih gov bioproject prjna 
+https github com sydneyg otuvesv
+https doi org msphere 
+https doi org msphere 
+msphere asm org
+http msphere asm org 
+
+
+fig s docx file mb 
+table s docx file mb 
+table s docx file mb 
+table s docx file mb 
+table s docx file mb 
+table s docx file mb 
+
+acknowledgments
+we thank c weihe j li m b n albright c i looby a c martiny k k treseder 
+
+s d allison m goulden a b chase k e walters and k isobe for their assistance in
+setting up the reciprocal transplant experiment and data collection used for this
+analysis we thank a a larkin a b chase k e walters and k isobe for helpful
+comments on the manuscript 
+
+this work was supported by the national science foundation deb and
+the u s department of energy office of science office of biological and environmental
+research de sc 
+
+references
+ frostegård a courtois s ramisse v clerc s bernillon d le gall f 
+
+jeannin p nesme x simonet p quantification of bias related to
+the extraction of dna directly from soils appl environ microbiol 
+ – 
+
+ claesson mj wang qo o’sullivan o greene diniz r cole jr ross rp 
+o’toole pw comparison of two next generation sequencing tech 
+nologies for resolving highly complex microbiota composition using
+tandem variable s rrna gene regions nucleic acids res e 
+https doi org nar gkq 
+
+ caporaso jg kuczynski j stombaugh j bittinger k bushman fd 
+costello ek fierer n peña ag goodrich jk gordon ji huttley ga kelley
+st knights d koenig je ley re lozupone ca mcdonald d muegge bd 
+pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j 
+yatsunenko t zaneveld j knight r qiime allows analysis of
+high throughput community sequencing data nat methods – 
+https doi org nmeth f 
+
+ edgar rc uparse highly accurate otu sequences from microbial
+amplicon reads nat methods – https doi org nmeth
+ 
+
+ schloss pd westcott sl ryabin t hall jr hartmann m hollister eb 
+lesniewski ra oakley bb parks dh robinson cj sahl jw stres b 
+thallinger gg van horn dj weber cf introducing mothur open 
+source platform independent community supported software for de 
+scribing and comparing microbial communities appl environ microbiol
+ – https doi org aem 
+
+ thompson lr sanders jg mcdonald d amir a ladau j locey kj prill
+rj tripathi a gibbons sm ackermann g navas molina ja janssen s 
+kopylova e vázquez baeza y gonzález a morton jt mirarab s zech xu
+z jiang l haroon mf kanbar j zhu q jin song s kosciolek t bokulich
+na lefler j brislawn cj humphrey g owens sm hampton marcell j 
+berg lyons d mckenzie v fierer n fuhrman ja clauset a stevens rl 
+shade a pollard ks goodwin kd jansson jk gilbert ja knight r earth
+microbiome project consortium a communal catalogue reveals
+earth’s multiscale microbial diversity nature – https doi
+ org nature 
+
+ delgado baquerizo m oliverio am brewer te benavent gonzález a 
+eldridge dj bardgett rd maestre ft singh bk fierer n a global
+atlas of the dominant bacteria found in soil science – 
+https doi org science aap 
+
+ moyer cl dobbs fc karl dm estimation of diversity and com 
+munity structure through restriction fragment length polymorphism
+distribution analysis of bacterial s rrna genes from a microbial mat at
+an active hydrothermal vent system loihi seamount hawaii appl
+environ microbiol – 
+
+ stackebrandt e goebel bm a place for dna dna reassociation
+and s rrna sequence analysis in the present species definition in
+bacteriology int j syst bacteriol – 
+
+ kunin v engelbrektson a ochman h hugenholtz p wrinkles in
+the rare biosphere pyrosequencing errors can lead to artificial inflation
+
+of diversity estimates environ microbiol – https doi org 
+ j x 
+
+ acinas sg sarma rupavtarm r klepac ceraj v polz mf pcr 
+induced sequence artifacts and bias insights from comparison of two
+ s rrna clone libraries constructed from the same sample appl envi 
+ron microbiol – https doi org aem 
+ 
+
+ callahan bj mcmurdie pj holmes sp exact sequence variants
+should replace operational taxonomic units in marker gene data analy 
+sis isme j – https doi org ismej 
+
+ edgar rc unoise improved error correction for illumina s and
+its amplicon reads biorxiv https doi org 
+
+ callahan bj mcmurdie pj rosen mj han aw johnson aja holmes sp 
+ dada high resolution sample inference from illumina amplicon
+data nat methods – https doi org nmeth 
+
+ amir a mcdonald d navas molina ja kopylova e morton jt zech xu
+zz kightley ep thompson lr hyde er gonzalez a knight r 
+deblur rapidly resolves single nucleotide community sequence patterns 
+msystems e https doi org msystems 
+
+ martiny ac tai apk veneziano d primeau f chisholm sw 
+taxonomic resolution ecotypes and the biogeography of prochlorococ 
+cus environ microbiol – https doi org j 
+ x 
+
+ baker nr allison sd extracellular enzyme kinetics and thermody 
+namics along a climate gradient in southern california soil biol biochem
+ – https doi org j soilbio 
+
+ botnen ss davey ml halvorsen r kauserud h sequence cluster 
+ing threshold has little effect on the recovery of microbial community
+structure mol ecol resour https doi org 
+
+ needham dm sachdeva r fuhrman ja ecological dynamics and
+co occurrence among marine phytoplankton bacteria and myoviruses
+shows microdiversity matters isme j – https doi org 
+ ismej 
+
+ eren am morrison hg lescault pj reveillaud j vineis jh sogin ml 
+ minimum entropy decomposition unsupervised oligotyping for
+sensitive partitioning of high throughput marker gene sequences isme
+j – https doi org ismej 
+
+ chase ab karaoz u brodie el gomez lunar z martiny ac martiny jbh 
+ microdiversity of an abundant terrestrial bacterium encompasses
+extensive variation in ecologically relevant traits mbio e 
+https doi org mbio 
+
+ dettman jr jacobson dj taylor jw multilocus sequence data reveal
+extensive phylogenetic species diversity within the neurospora discreta
+complex mycologia – https doi org mycologia 
+ 
+
+ larkin aa martiny ac microdiversity shapes the traits niche space 
+and biogeography of microbial taxa environ microbiol rep – https 
+doi org 
+
+otus and esvs yield ecologically robust results
+
+july august volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org nar gkq 
+https doi org nmeth f 
+https doi org nmeth 
+https doi org nmeth 
+https doi org aem 
+https doi org nature 
+https doi org nature 
+https doi org science aap 
+https doi org j x
+https doi org j x
+https doi org aem 
+https doi org aem 
+https doi org ismej 
+https doi org 
+https doi org nmeth 
+https doi org msystems 
+https doi org j x
+https doi org j x
+https doi org j soilbio 
+https doi org 
+https doi org ismej 
+https doi org ismej 
+https doi org ismej 
+https doi org mbio 
+https doi org mycologia 
+https doi org mycologia 
+https doi org 
+https doi org 
+msphere asm org
+http msphere asm org 
+
+	data availability 
+	supplemental material
+	acknowledgments
+	references
+
+

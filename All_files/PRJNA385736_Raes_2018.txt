@@ -1,0 +1,1387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oceanographic boundaries constrain microbial diversity gradients in the south pacific ocean
+
+
+oceanographic boundaries constrain microbial
+diversity gradients in the south pacific ocean
+eric j raesa b c levente bodrossyc jodie van de kampc andrew bissettc martin ostrowskid mark v browne 
+swan l s sowc f bernadette sloyanc and anya m waitea g
+
+aalfred wegener institute helmholtz centre for polar and marine research bremerhaven germany bthe oceans institute m university of
+western australia crawley wa australia coceans and atmosphere commonwealth scientific and industrial research organisation hobart tas
+ australia ddepartment of chemistry and biomolecular sciences macquarie university sydney nsw australia eschool of environmental and
+life sciences faculty of science university of newcastle callaghan nsw australia finstitute for marine and antarctic studies university of tasmania 
+hobart tas australia and gfb biology chemistry universität bremen d bremen germany
+
+edited by edward f delong university of hawaii at manoa honolulu hi and approved july received for review november 
+
+marine microbes along with microeukaryotes are key regulators of
+oceanic biogeochemical pathways here we present a high resolution
+ every ° of latitude dataset describing microbial pro and eukary 
+otic richness in the surface and just below the thermocline along a
+ km transect from °s at the antarctic ice edge to the equator
+in the south pacific ocean the transect conducted in austral winter 
+covered key oceanographic features including crossing of the polar
+front pf the subtropical front stf and the equatorial upwelling
+region our data indicate that temperature does not determine pat 
+terns of marine microbial richness complementing the global model
+data from ladau et al ladau j et al isme j – 
+rather nh 
+
+ nanophytoplankton and primary productivity were
+the main drivers for archaeal and bacterial richness eukaryote rich 
+ness was highest in the least productive ocean region the tropical
+oligotrophic province we also observed a unique diversity pattern in
+the south pacific ocean a regional increase in archaeal and bacterial
+diversity between °s and the equator rapoport’s rule describes the
+tendency for the latitudinal ranges of species to increase with lati 
+tude our data showed that the mean latitudinal ranges of archaea
+and bacteria decreased with latitude we show that permanent
+oceanographic features such as the stf and the equatorial upwelling 
+can have a significant influence on both alpha diversity and beta 
+diversity of pro and eukaryotes 
+
+prokaryotes eukaryotes rapoport’s rule richness latitude
+
+global climate change is impacting a wide variety of marineecosystems and developing an adequate understanding
+of the base of the marine food web including the richness of bac 
+teria archaea and hetero mixo and phototrophic eukaryotes 
+ is an urgent priority if we are to predict its consequences 
+ocean salinity and temperature have been shown to covary with
+species distributions suggesting that oceanographic changes can
+shift geographic boundaries and alter phenology and community
+structures in organisms ranging from bacteria to planktonic eu 
+karyotes and to higher trophic levels – alterations in the bio 
+geographic patterns of prokaryotic and eukaryotic microorganisms
+in the upper ocean could impact the efficiency of carbon c fixa 
+tion nutrient cycling and ultimately the export of organic c to the
+deep ocean as microorganisms are key biogeochemical regulators
+ 
+much literature agrees on the consistent increase in richness
+
+from the poles toward the equator for all major groups of ter 
+restrial aquatic and marine taxa see hillebrand we note
+that there are exceptions such as pinnipeds which peak at higher
+latitudes however diversity patterns for prokaryotic and
+unicellular eukaryotic organisms were underrepresented in
+the latitudinal gradients assembled from the literature by
+hillebrand the latter noted that diversity gradients weaken
+when eukaryotic size decreases and that no gradients at all are
+expected when data are extrapolated to unicellular organisms 
+the large population sizes and high transportability along with
+rapid generation times for prokaryotes and unicellular eukary 
+
+otes increase the probability for repeated short term reestab 
+lishment of populations in new habitats 
+a growing body of evidence however suggests that pelagic
+
+marine microorganisms can exhibit large scale biogeographical
+patterns that resemble those of multicellular macroorganisms
+ – the findings of pommier et al and fuhrman et al 
+ showed that marine planktonic bacterial richness is corre 
+lated with temperature on a global scale ladau et al ’s 
+model outputs suggest that marine bacterial richness has a sea 
+sonal peak during the boreal and austral winters at temperate
+latitude the work by gilbert et al complemented the
+changes in diversity with season reported by ladau et al 
+the former concluded from a study spanning y that bacterial
+richness peaked during winter in the english channel their
+results highlighted that seasonal changes in environmental pa 
+rameters with day length explaining of the variance are in
+some cases more important than trophic interactions 
+
+significance
+
+high resolution data covering marine microbes and micro 
+eukaryotes are sparse even though these organisms control
+global biogeochemical cycles here we present a dataset de 
+scribing the microbial pro and eukaryotic diversity along a
+ km transect from the antarctic ice edge to the equator in
+the south pacific ocean we show that i temperature is not a
+primary driver of richness gradients ii prokaryotic richness
+increases with productivity and iii oceanographic features
+can structure the diversity of pro and eukaryotes our data
+have given us a better understanding of how diversity re 
+lates to dissolved inorganic nitrogen and productivity as well
+as insights into the potential shifts in the geographical
+range of marine microbe communities in light of the rapidly
+changing climate 
+
+author contributions e j r l b j v d k and a m w designed research e j r and s l s s 
+performed research j v d k a b and b s analyzed data m o m v b and b s contrib 
+uted new reagents analytic tools and e j r l b j v d k a b m o m v b s l s s b s 
+and a m w wrote the manuscript 
+
+the authors declare no conflict of interest 
+
+this article is a pnas direct submission 
+
+published under the pnas license 
+
+data deposition the genomic data have been deposited to the national center for bio 
+technology information database https www ncbi nlm nih gov bioproject ac 
+cession no prjna all physical and chemical data are available at the clivar 
+carbon hydrographic data office cchdo https cchdo ucsd edu under go ship pro 
+gram voyage p s expocode u links to the genomics and physical data
+are also stored at pangaea data publisher https doi pangaea de pangaea 
+ 
+ to whom correspondence should be addressed email eric raes csiro au 
+
+this article contains supporting information online at www pnas org lookup suppl doi 
+ pnas dcsupplemental 
+
+published online august 
+
+e –e pnas vol no www pnas org cgi doi pnas 
+
+http crossmark crossref org dialog doi pnas domain pdf
+http www pnas org site aboutpnas licenses xhtml
+https www ncbi nlm nih gov bioproject 
+http www ncbi nlm nih gov geo query acc cgi acc prjna 
+https cchdo ucsd edu 
+https doi pangaea de pangaea 
+https doi pangaea de pangaea 
+mailto eric raes csiro au
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+www pnas org cgi doi pnas 
+
+
+the mechanisms supporting biodiversity gradients see mittelbach
+et al are better understood for larger size taxa and the
+controls for marine unicellular pro and eukaryotic diversity
+trends remain more elusive due to the paucity of the spatial
+resolution here we generated a high resolution dataset
+in austral winter describing microbial diversity on the surface
+and just below the thermocline along with environmental pa 
+rameters every half degree along a km transect spanning
+latitudes ∼ °s to °s and temperatures from − °c to °c we
+use this dataset to test the hypotheses concerning the ecological
+mechanisms controlling pro and eukaryotic richness in the
+south pacific ocean that h richness increases with increasing
+temperature higher temperatures increase the rates of bio 
+chemical and metabolic pathways e g q coefficient and h 
+richness increases with increasing productivity more resources
+support higher numbers of species mittelbach et al in
+addition we hypothesized that h stable fronts and hydrographic
+features can act as control mechanisms on microbial assemblages
+ structuring of unique microbial oceanic provinces via ecological
+boundaries testing these hypotheses has given us a better under 
+standing of how pro and eukaryotic richness relates to ecosystem
+processes such as primary productivity as well as insights into the
+potential shifts in the geographical range of marine microbe
+communities in light of the rapidly changing global climate 
+
+results
+physical and biochemical data from the ice edge to the equator sea
+surface temperatures increased gradually from − °c to °c
+between °s and the equator fig a–c colder waters at a
+depth of ∼ m near the equator showed a clear signal indicating
+equatorial upwelling fig c lowest salinities were measured in
+the southern latitudes with values around practical salinity
+units psu while they reached their maximum around °s at
+about psu prominent features along the p s go ship
+transect are the polar front pf ∼ °s and the subtropical
+front stf ∼ °s gray rectangles in fig c and d the pf
+separates the sub antarctic waters from the antarctic circumpolar
+waters the stf separates the colder less saline and nutrient rich
+sub antarctic waters of the southern ocean from the warmer and
+saltier subtropical waters fig c and d clear temperature
+increases were measured passing the pf from to °c 
+both temperature and salinity increased when passing the stf
+ from to °c and from to psu respectively 
+oxygen concentrations decreased from ∼ μmol·kg− in the
+surface waters at higher latitudes to ∼ μmol·kg− near the
+equator lower oxygen concentrations between – μmol·kg− 
+were measured near the equator at a depth of ∼ m fig e 
+all nutrient concentrations within the mixed layer depth showed
+
+a similar latitudinal trend concentrations increased from south to
+north toward the pf and declined after the stf oligotrophic
+surface waters dominated the transect thereafter equatorial up 
+welling resulted in a local supply of new nutrients into the mixed 
+layer depth mld fig a nitrate no 
+
+− concentrations within the
+mixed layer showed a steady decline after the pf from μmol·l− 
+to μmol·l− between °s and °s no − concentrations
+increased up to μmol·l− near the equator figs b and a 
+phosphate po 
+
+ − concentrations within the mld decreased from
+ μmol·l− north of the pf to μmol·l− at the stf 
+thereafter po 
+
+ − decreased further reaching the detection limit of
+the autoanalyzer po 
+
+ − increased again from ∼ °s toward the
+equator reaching μmol·l− fig b nitrite no − and
+ammonium nh 
+
+ concentrations were relatively elevated up to
+ μmol·l− in the colder waters south of the stf however 
+no 
+
+− concentrations from themld to m below themld were
+lower than the concentrations within the mld both no 
+
+− and
+nh 
+
+ concentrations increased again toward the equator fig c
+and d silicate si decreased rapidly north of the pf toward the
+stf from to μmol·l− and the concentration stayed low
+
+ μmol·l− in the tropical waters with a slight rise ∼ μmol·l− 
+toward the equator fig e 
+all measured biochemical parameters showed a similar lat 
+
+itudinal trend with a sharp decline north of the pf and north of
+the stf and a more modest increase near the equator chlo 
+rophyll a concentrations were elevated south of the stf and in
+the equatorial upwelling region transmission data a proxy for
+particle concentration see karageorgis et al showed elevated
+concentrations along the stf and the equatorial upwelling region
+ si appendix fig s a and b primary productivity in the surface
+
+fig a the p s go ship transect with bathymetry in color the red line
+denotes ctd conductivity temperature depth stations b a plot of
+temperature in degrees centigrade and salinity in practical salinity units using
+all depth data with nox no 
+
+− no 
+− concentrations in micromoles per liter 
+
+overlaid in color black dots denote sampling depths where nox concentrations
+were measured the latitudinal transect could be divided in four oceanic prov 
+inces defined by longhurst and are denoted equatorial upwelling eq pf 
+southern ocean s o stf and tropical oligotrophic province trop oligo 
+ c temperature profile to a m depth along the transect filled white circles
+highlight mlds calculated as Δ °c seematerials andmethods the black line
+is a running average through the mlds the thick black arrow highlights the
+colder water and nutrient injection seen in b from equatorial upwelling 
+ d salinity profile from bottle data highlighted by black dots to a m
+depth black arrows denote salt fingers where warm salty subtropical water
+intrudes between the cooler and fresher southern ocean waters e profile of
+oxygen concentrations in micromoles per kilogram from bottle data high 
+lighted by black dots to a m depth the pf stf and equatorial upwelling
+provinces are highlighted by gray rectangles 
+
+raes et al pnas vol no e 
+
+ec
+o
+lo
+
+g
+y
+
+http www pnas org lookup suppl doi pnas dcsupplemental
+
+
+waters increased steadily from to nmol c·l− ·h− between
+∼ °s and ∼ °s we did not see an increase in productivity near
+the pf south of the stf around °s productivity increased to a
+maximum of nmol c·l− ·h− thereafter no 
+
+− no 
+− and nh 
+
+ 
+
+concentrations dropped to μmol·l− and productivity rates
+decreased and remained low ∼ nmol c·l− ·h− between °s
+and ∼ °s productivity rates increased north of °s fig 
+
+richness data from the ice edge to the equator our high resolution
+data revealed that archaeal richness peaked at operational
+taxonomic units otus at °s and at otus at the equator
+in the surface waters fourth polynomial fit r p 
+ fig a otu richness in the surface waters showed an ap 
+proximate doubling from the ice edge °s otus to the
+stf °s otus we did not measure a distinct change in
+richness when we crossed the pf however the stf denoted a
+distinct physical barrier and separated the colder higher lat 
+itudinal waters from the warmer saltier subtropical waters fig 
+ c and d north of the stf the archaeal richness decreased to
+∼ – otus around °s archaeal richness then showed a
+ fold increase from °s to the equator linear regression p 
+ the archaeal richness was significantly greater just be 
+low the mld than in the surface waters dunn’s test p 
+n but revealed a distribution similar to that in the surface
+samples fourth polynomial fit r p fig b 
+bacterial richness in the surface waters showed peaks near the
+
+stf and the equator fourth polynomial fit r p 
+ fig c we did not measure a distinct change in bacterial
+richness when we crossed the pf however bacterial richness
+approximately doubled from the sub antarctic waters to the
+stf from the stf to °s bacterial richness declined again
+from about otus to otus richness showed a steep
+and significant increase from °s to the equator linear re 
+gression p the bacterial richness was significantly
+greater just below the mld than in the surface waters dunn’s
+test p n richness below the mld showed a
+trend similar to that of the surface samples but with a lower fit
+ fourth polynomial fit r p fig d north of
+the stf the bacterial richness decreased to ∼ otus at °s
+
+ linear regression p richness increased again up to
+ otus at the equator 
+the eukaryotic richness in the surface waters peaked at °s
+
+with a modest increase near the equator fourth polynomial fit
+r p fig e we did not measure a distinct
+change in eukaryotic richness when we crossed the pf north 
+wards in contrast to observations in the surface waters the
+eukaryotic richness just below the thermocline showed three
+richness peaks and an increase near the equator a fourth order
+polynomial fit r p fig e did not emphasize
+these eukaryotic trends which are clearer when denoted by a
+negative exponential smoothing curve thick red line in fig f 
+richness peaked at otus at °s and at otus at
+ °s the richness was significantly greater just below the mld
+than at the surface dunn’s test p n 
+fifteen predictor parameters were investigated to explain varia 
+
+tion in pro and eukaryotic richness using boosted regression trees
+ brt models and spearman rank correlations brtmodel outputs
+using only the surface samples showed that oxygen concentrations 
+along with nh 
+
+ salinity the nanophytoplankton fraction and pri 
+mary productivity were the main predictors for archaeal richness
+ table salinity the nanophytoplankton fraction nh 
+
+ and pri 
+mary productivity were the main predictors describing patterns in
+bacterial richness table oxygen did not show a positive or
+negative relationship to richness si appendix fig s a salinity 
+the nanophytoplankton component and primary productivity all
+revealed positive relationships to archaeal and bacterial richness 
+whereas nh 
+
+ showed a negative relationship si appendix fig 
+s a nanophytoplankton and primary productivity showed a
+strong positive relationship patterns in eukaryotic richness in
+surface waters were primarily explained by variability in si sa 
+linity oxygen the microphytoplankton nh 
+
+ and the nano 
+phytoplankton table and si appendix fig s a spearman
+correlations and brts showed that latitude and temperature
+were not significant drivers for archaeal and bacterial richness in
+the surface 
+in the mld models showed that temperature primary pro 
+
+ductivity measured in the overlaying surface waters and no 
+−
+
+concentrations explained of the trends in archaeal and
+bacterial richness along the transect si appendix table s 
+primary productivity revealed positive relationships and no 
+
+−
+
+revealed negative relationships for both archaeal and bacterial
+
+fig nutrient data no 
+− a po 
+
+ − b nh 
+ c no 
+
+− d and sio e 
+concentrations expressed in micromoles per liter along the p s go ship
+transect gray circles are data from the surface to the base of the mld in 
+cluding all data within the mld thick red lines are negative exponential
+smoothing curves with a first polynomial degree black circles include the
+data from the base of the mld to m below the base of the mld thick
+blue lines are negative exponential smoothing curves with a first polynomial
+degree the black arrows on all panels highlight the oceanic pf stf and
+equatorial upwelling and divide the latitudinal transect into oceanic prov 
+inces defined by longhurst 
+
+fig surface primary productivity data expressed in nanomoles of c per
+liter per hour along the p s go ship transect the red line is a negative
+exponential smoothing curve gray rectangles highlight the pf the stf and
+the equatorial upwelling eq 
+
+e www pnas org cgi doi pnas raes et al 
+
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+www pnas org cgi doi pnas 
+
+
+richness si appendix fig s b patterns in mld eukaryotic
+richness were primarily explained by strong negative relation 
+ships of si and no 
+
+− and a positive relationship with tempera 
+ture si appendix fig s b and table s 
+overall all nutrients except no 
+
+− showed a significant negative
+correlation with richness for all domains in the surface waters on
+the other hand we note that all nutrients showed a positive cor 
+relation with total chlorophyll a in the surface waters no 
+
+− just
+below the mld was the only nutrient which displayed a positive
+relationship with latitude and temperature along with a negative
+relationship with oxygen si appendix fig s a and b 
+salinity revealed an equally strong positive correlation for the
+
+archaeal and bacterial richness in the surface sfc waters with
+a stronger correlation for eukaryotic richness salinity is the main
+physical parameter structuring oceanic fronts such as the stf
+ fig d which relates to our third hypothesis that stable fronts
+and hydrographic features can act as control mechanisms on
+microbial assemblages 
+
+richness vs productivity in surface waters of distinct oceanic
+provinces the strong positive salinity correlation for eukaryotic
+richness table along with the clear primary productivity
+peaks near the fronts fig and the sharp dissolved inorganic
+nutrient inflection points along the transect encouraged us to
+explore our richness and primary productivity data from surface
+samples further to do so we divided our data according to the
+
+oceanic provinces defined by longhurst these provinces
+overlap where we measured sharp no 
+
+− concentration inflection
+points near the stf ∼ °s and the equatorial upwelling
+ ∼ °s fig a spearman correlations between richness and
+primary productivity in surface waters were higher for all do 
+mains correlations are reported below when we divided our
+data along the longhurst provinces when we analyzed these
+significant correlations in more detail we found strong posi 
+tive linear and cubic relationships for archaeal bacterial and
+eukaryotic richness archaea fig a and b all linear regres 
+sions r r r and r all p for
+the southern ocean the stf the tropical oligotrophic and the
+equatorial upwelling provinces respectively bacteria fig c
+and d linear regressions for the southern ocean the tropical
+oligotrophic and the equatorial upwelling provinces with r 
+ r and r all p respectively and a
+cubic regression for the stf with r p eukaryotes
+ fig e and f linear regressions for the southern ocean the
+tropical oligotrophic and the equatorial upwelling provinces
+with r r and r all p respectively 
+and a cubic regression for the stf with r p 
+the stf province showed the absolute highest richness for the
+
+archaea and bacteria the highest richness for the eukaryotes
+was measured in the tropical oligotrophic province fig e and
+f the stations with the highest eukaryotic richness and highest
+productivity were found just north of the stf see also fig 
+
+fig richness gradients for archaea in the surface
+waters gray circles a and just below the mld
+ filled black circles b for bacteria in the surface
+waters c and just below the mld d and for eu 
+karyotes in the surface waters e and just below the
+mld f along the p s go ship transect fourth 
+order polynomial fits for all plots are shown by
+thin black lines blue lines represent confidence
+bands and thin red lines represent predictions
+bands the thick red line in f is a negative expo 
+nential smoothing curve with a first polynomial de 
+gree to highlight the bimodal trend also denoted by
+three black arrows in f the pf stf and equatorial
+upwelling eq are shown by black arrows in a c 
+and e 
+
+raes et al pnas vol no e 
+
+ec
+o
+lo
+
+g
+y
+
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+
+
+richness showed the highest values for all three domains in
+the tropical oligotrophic province for the productivity range
+ nmol·l− ·h− denoted by asterisks in fig b d and f 
+spearman correlations for the surface data within the distinct
+
+oceanic provinces si appendix fig s revealed that latitude
+and temperature showed positive and negative relationships with
+pro and eukaryotic richness dissolved inorganic nutrients
+revealed negative correlations with pro and eukaryotic richness
+in the southern ocean and the stf in the tropical oligotrophic
+region lower levels of dissolved inorganic nutrients resulted in a
+positive correlation for no 
+
+− these results complement those
+from the overall latitudinal correlation plot si appendix fig 
+s a in the equatorial upwelling however most nutrients
+showed a positive correlation with pro and eukaryotic richness 
+nh 
+
+ showed a negative correlation with pro and eukaryotic
+richness in the southern ocean the stf and the tropical oli 
+gotrophic province but a positive correlation in the equatorial
+province we note that in the correlation plots si appendix fig 
+s b–d primary productivity was not always significantly cor 
+related with the pro and eukaryotic richness in the oceanic
+provinces as we used the average c fixation rates from three
+replicates however primary productivity always showed signifi 
+cant regressions with pro and eukaryotic richness when we in 
+cluded all replicates fig the nano and picophytoplankton
+revealed significantly positive relationships with productivity in the
+southern ocean the different phytoplankton size classes did not
+show significant relationships between productivity within the stf 
+the micro and nanophytoplankton fractions showed positive
+relationships in the tropical oligotrophic waters whereas the pico 
+phytoplankton fraction showed a negative correlation all phyto 
+plankton size classes showed a positive correlation with productivity
+in the equatorial upwelling region si appendix fig s 
+
+beta diversity from the ice edge to the equator changes in com 
+munity composition for all domains presented as nonmetric
+multidimensional scaling plots in fig a–c showed strong
+significant differences between all oceanographic biomes except
+between the tropical oligotrophic and the equatorial upwelling
+
+ see analysis of similarities anosim in si appendix table s 
+the absolute latitudinal range the difference between the maxi 
+mum and minimum latitudes where an otu was present increased
+for all domains from south to north r and for
+the archaea bacteria and eukaryotes respectively all p 
+the slope for the eukaryotes was very weak however and showed
+only a ° increase from south to north the latitudinal range of the
+bacteria on the other hand increased by ° from south to north 
+with the steepest increases in the southern ocean covering both
+the pf and stf and near the equatorial upwelling fig d–f 
+heatmaps of the most abundant otus for all domains confirmed
+strong differences in community composition in the different bi 
+omes si appendix fig s in the archaeal domain a key finding
+was a high abundance of nitrifying organisms such as candidatus
+nitrosopumilus and nitrosopelagicus in the southern ocean 
+overall we saw clear changes in the archaeal beta diversity but 
+because the taxonomy for archaea is not as well resolved as for the
+bacterial domain most of the dominant archaeal otus belonged to
+thermoplasmatales marine group ii in the bacterial domain 
+sequences from sar clade a sar rickettsiales thio 
+globaceae planktomarina and pseudoaltermonas revealed an
+abundant presence in the southern ocean the flavobacteriaceae 
+marinimicrobia syncechococcus cc and candidatus actino 
+marina showed a higher abundance in the stf procholoroccus 
+sar claded iv and ib deltaproteobacteria and candidatus
+actinomarina on the other hand showed a high abundance in the
+tropical biomes fig key findings for the eukaryotic domain
+were a high abundance of dinophyceae and copepoda in the
+southern ocean and stf along with a high presence of phaeocystis
+ which was also visually confirmed by a bloom in the southern
+ocean we also noted a very high read abundance of collodaria 
+phylum radiolaria copepods also showed a high read abundance
+in the tropical oligotrophic and the equatorial regions 
+
+discussion
+our dataset describing pro and eukaryotic diversity from the ice
+edge to the equator along °w longitude in the south pacific
+ocean has reconfirmed that h temperature is not always a
+
+table relative influence of predictor variables in explaining variation in pro and eukaryotic richness in surface
+samples n along the p s go ship transect determined by brt see also elith et al 
+
+archaeal richness–sfc bacterial richness–sfc eukaryote richness–sfc
+
+predictor variable
+ relative
+influence predictor variable
+
+ relative
+influence predictor variable
+
+ relative
+influence
+
+oxygen salinity si 
+nh 
+
+ nanoplankton salinity 
+salinity nh 
+
+ oxygen 
+nanoplankton pp microplankton 
+pp diatoms nh 
+
+ 
+temperature temperature nanoplankton 
+diatoms oxygen diatoms 
+tchl a si temperature 
+microplankton tchl a picoplankton 
+si picoplankton pp 
+picoplankton po 
+
+ − mld 
+mld mld phosphate 
+po 
+
+ − microplankton tchl a 
+no 
+
+− no 
+− no 
+
+− 
+dinoflagellates no 
+
+− no 
+− 
+
+no 
+− dinoflagellates dinoflagellates 
+
+training data correlation training data correlation training data correlation 
+cv correlation ± se ± cv correlation ±se ± cv correlation ± se ± 
+
+cv coefficient of variation nox no 
+− no 
+
+− pp primary productivity tchl a total chlorophyll a phytoplankton size classes micro 
+plankton – μm nanoplankton – μm picoplankton – μm and taxonomic groups diatoms and dinoflagellates were derived
+from hplc analysis 
+
+e www pnas org cgi doi pnas raes et al 
+
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+www pnas org cgi doi pnas 
+
+
+primary driver of richness gradients complementing the global
+model data from ladau et al h archaeal and bacterial
+richness increased significantly with productivity and h 
+oceanographic features such as fronts and upwelling can in 
+fluence pro and eukaryotic richness our data complement the
+work by ladau et al and gilbert et al and because of
+our high resolution spatial sampling add to our understanding of
+the marine microbial diversity in ways that were not possible with
+previous datasets 
+overall archaeal bacterial and eukaryotic richness were all
+
+positively correlated to each other and displayed bimodal dis 
+tributions along our transect bounded by key oceanographic
+features including the pf the stf and the equatorial upwelling
+region these physical features were associated with strong
+changes in temperature salinity dissolved inorganic n concen 
+trations and po 
+
+ − concentrations both archaeal and bacterial
+richness peaked at borders of the stf and near the equatorial
+upwelling archaea and bacteria were significantly correlated
+with primary productivity in these regions these results show
+that permanent oceanographic features such as the stf and the
+equatorial upwelling region can act as ecological boundaries 
+our data suggest a different latitudinal trend in archaeal and
+
+bacterial diversity than previously thought ladau et al 
+predicted a decrease in winter from ∼ ° toward the equator to
+the best of our knowledge no research has shown or modeled
+the steady increase for both archaea and bacteria toward the
+equatorial upwelling region it is worth noting that the increase
+in eukaryotic richness toward the equator was more modest than
+
+that seen in archaea and bacteria our findings also show that
+temperature is not as suggested on a global scale by ladau et al 
+ a primary driver for pro or eukaryotic richness in the south
+pacific ocean these findings complement those from marañón
+et al who showed that variability in phytoplankton growth
+is driven by changes in resource supply rather than by seawater
+temperature boosted regression trees analysis showed that
+patterns of archaeal and bacterial richness in the surface waters
+could be largely explained by salinity a main identifier for fronts
+along our transect and by nh 
+
+ the nanophytoplankton frac 
+tion and primary productivity 
+the nanophytoplankton fraction was dominated by dinophyceae
+
+and prymnesiophytes which reaffirms that these groups
+could be an important player in co fixation as mentioned by
+jardillier et al in subtropical and tropical ecosystems 
+nh 
+
+ is a preferred substrate for a wide range of organisms and
+the link between nh 
+
+ and primary productivity is explained
+below in more detail the nanophytoplankton fraction showed
+the strongest positive correlation with productivity of the three
+phytoplanktonic size fractions overall our data suggest that
+further exploration of whether primary productivity supports
+greater richness or whether a higher richness stimulates greater
+primary productivity would be useful 
+eukaryotic richness was influenced up to by salinity and
+
+si in the surface waters and by si alone just below the mld 
+these data suggest that eukaryotic richness is strongly controlled
+by the sharp abiotic inflection points seen near the oceano 
+graphic features in the south pacific ocean and again that
+
+fig a c and e surface primary productivity rates vs richness data total otus in the distinct oceanic provinces in the south pacific ocean for archaea a 
+bacteria c and eukaryotes e gray rectangles in the archaeal a bacterial b and eukaryote c plots highlight the primary productivity data nmol·l− ·h− 
+ b d and f correlations with richness for these three domains data for the southern ocean are denoted by green circles linear regression fits in green lines 
+data for the stf are denoted by open black circles linear quadratic and cubic regression fits are denoted by black lines data for the tropical oligotrophic province
+are denoted by blue circles blue lines are linear regressions and data for the equatorial upwelling province are denoted by red circles red lines are the linear
+regression all fits are significant with a p the asterisks in plots b d and f denote the finding that richness normalized to primary productivity is highest in
+the tropical oligotrophic region for archaea bacteria and eukaryotes for the productivity range nmol·l− ·h− note all replicate c fixation data are plotted 
+
+raes et al pnas vol no e 
+
+ec
+o
+lo
+
+g
+y
+
+
+
+oceanographic features can structure eukaryotic richness as seen
+elsewhere the negative correlation with si also suggests
+that a more diverse eukaryotic community depletes the si from
+the water 
+richness for all domains was higher just below the mld 
+
+which is supported by the global data analysis of ladau et al 
+in which proximity to the nutricline also a hot spot for organic
+and inorganic particle accumulation was presented as a
+strong predictor for bacterial richness in particular particles
+and marine aggregates often at fronts and at density interfaces
+such as the mld are able to provide extra niches such as an 
+aerobic microhabitats in oxygenated waters for prokaryotes 
+which in turn can increase their diversity near the equatorial
+upwelling relatively elevated no 
+
+− and nh 
+ concentrations
+
+coincided with higher primary productivity rates note that no 
+−
+
+and nh 
+ concentrations were also high in the southern ocean 
+
+but there iron limits primary productivity near the
+equator no 
+
+− nh 
+ and oxygen showed positive relationships
+
+with archaeal richness 
+oceanographic fronts are generally characterized by a transi 
+
+tion between mixed and stratified waters and we suggest that
+they can act as ecological boundaries for pro and eukaryotes in
+the ocean as supported by recent research oceanographic
+features such as the stf and the equatorial upwelling region 
+stimulate primary productivity which drives enhanced recycling
+processes such as ammonification and nh 
+
+ oxidation 
+fronts provide a source of buoyancy through mesoscale and
+submesoscale instabilities which enhance nutrient supply
+ via upwelling and light availability through mixing salt
+
+fingering which occurs when warm salty water intrudes into
+cooler and fresher water could also clearly be noted in the stf
+ fig d here layers of warm salty subtropical water intrude
+into the cooler and fresher southern ocean waters salt fingers
+have the capacity to transport dissolved organic matter and
+nutrients horizontally and vertically through molecular and
+turbulence driven diffusivities this can play an impor 
+tant role in the supply of new n which stimulates phytoplankton
+productivity and eukaryotic richness as seen in our dataset and
+by others these results complement reports that productive
+ high fertility regions support a greater richness as seen in
+regional studies in the eastern indian ocean 
+fronts are also zones of seasonal convergences which
+
+lead to the passive accumulation of organic material e g high
+biomass and particle loads see si appendix fig s this in turn
+increases the recycling of particulate organic material and dis 
+solved organic material through bacterial degradation 
+these processes will increase the no 
+
+− and nh 
+ concentra 
+
+tions which in our data could clearly be noted near the stf and
+near the equatorial upwelling where we measured elevated
+nh 
+
+ concentrations and high chlorophyll a concentrations we
+note that the highest primary productivity rates near the stf
+were measured at low nh 
+
+ concentrations as expected because
+nh 
+
+ is rapidly assimilated and as also confirmed by the negative
+spearman correlation it is interesting that dissolved inorganic
+nutrients showed a negative correlation with productivity except
+in the equatorial upwelling whereas pro and eukaryotic rich 
+ness was positively correlated with productivity these findings
+suggest that the conversion rates of resources to biomass is more
+
+fig a–c nmds plots for archaea a bacteria b and eukaryotes c environmental parameters are overlaid as vectors din nitrate and ammonium p 
+phosphorus pp primary productivity s salinity t temperature d–f rapoport’s analysis the mean latitudinal range sizes showed significant increases
+toward the equator for archaea d bacteria e and eukaryotes f all p all samples were from the surface quadratic fits for all plots are shown by
+red lines blue lines present confidence bands note the difference in the y axis for the eukaryotes black arrows in e highlight the pf the stf and the
+equatorial upwelling eq 
+
+e www pnas org cgi doi pnas raes et al 
+
+http www pnas org lookup suppl doi pnas dcsupplemental
+www pnas org cgi doi pnas 
+
+
+important than the resources themselves increasing productiv 
+ities were noted near two key oceanographic features along the
+p transect the stf and the equatorial upwelling near the
+equatorial upwelling the positive correlation of nh 
+
+ with pro 
+karyotic richness can be related to increased eukaryotic primary
+productivity we note that we did not see distinct changes in
+the primary productivity rates or in the beta diversity when we
+crossed the pf 
+within each oceanic province pro and eukaryotic richness
+
+increased linearly within the – nmol c·l− ·h− productivity
+range and richness saturated at higher primary productivity 
+productive ecosystems have been reported to support high spe 
+cies richness in our data we note that eukaryotic richness
+was highest in the least productive oceanic province the tropical
+oligotrophic region eukaryotic diversity increased from the
+polar waters to the stf overall richness did not peak at the
+highest productivity rate measurements a possible explanation
+is that productive regions tend to be associated with lower
+eukaryotic diversity possibly due to being dominated by fast 
+growing organisms which can outcompete other species
+through resource competition generally we need more
+information to disentangle the question whether primary pro 
+ductivity controls richness or whether higher richness stimulates
+greater primary productivity 
+
+we observed clear patterns in the richness across the three
+domains alpha diversity but also in the diversity among com 
+munities beta diversity from south to north we noted distinct
+differences in the community structures and in the abundance of
+distinct genera for the pro and eukaryotic domains in the dif 
+ferent biomes our data showed that oceanographic boundaries
+can constrain beta diversity gradients in the south pacific ocean 
+overall we noted strong differences among all biomes except
+between the tropical oligotrophic region and the equatorial up 
+welling interestingly our high resolution data revealed an in 
+crease in the latitudinal ranges from the most southern to the
+most northern stations for the archaea and bacteria the mean
+latitudinal ranges of archaea and bacteria decreased with in 
+creasing latitude thus not supporting the existence of a rapoport’s
+effect in early winter in the south pacific ocean rapoport’s rule
+suggests that range sizes are larger near the poles and decrease near
+the equator amend et al and sul et al did confirm a
+global rapoport’s effect for marine bacterioplankton gaston et al 
+ and rohde on the other hand note that the rapoport’s
+rule is a strictly local phenomenon our data do show a latitudinal
+trend but one opposite the reports in the current literature these
+data especially in the southern ocean where the latitudinal range
+was the smallest highlight the strong need to understand the cor 
+relations between the different biotic and abiotic parameters that
+
+fig heatmap of the bacterial domain the most abundant sequences of the rarefied otu matrix are displayed sequence reads were square root
+transformed note chloroplasts included in the s amplicon data were removed from the analysis the color bar denotes sequence abundance blue orange 
+green and red symbols above the heatmap denote ctd stations in the respective oceanographic biomes the southern ocean s o the stf the tropical
+oligotrophic trop oligo and the equatorial upwelling eq 
+
+raes et al pnas vol no e 
+
+ec
+o
+lo
+
+g
+y
+
+
+
+structure marine pro and eukaryotic richness so we can build a
+mechanistic understanding of patterns of global marine microbial
+diversity the southern ocean is a region that stands out as a
+sentinel for responses to climate change changes in the
+physical and biogeochemical properties of the southern ocean 
+will likely impact pro and eukaryotic richness and thereby vital
+ecosystem services therefore a good understanding of the alpha 
+and beta diversity at the base of the food web is of important 
+taxonomic heatmaps demonstrated strong differences in com 
+
+munity structure and revealed that distinct taxa for all domains were
+present in the different oceanographic biomes the alphaproteo 
+bacteria and in particular the sar clades showed distinct dif 
+ferences in the southern ocean the stf and the tropical
+oligotrophic biomes as also seen by others across frontal zones
+in the southern ocean from a functional ecosystem perspective
+the higher read abundance of nitrifying archaeal organisms in the
+southern ocean raises the interesting question of whether we can
+link nitrification rates to these higher abundances in the southern
+ocean in the eukaryotic domain the calanoida showed different
+genera across and at opposing ends of the transect copepods have
+been used as an indicator of changes in ocean and climate condi 
+tions continued high resolution dna sampling along re 
+peated transect lines in the ocean using different eukaryotic
+marker genes see the topic of environmental dna could
+potentially help in teasing apart differences in community structures
+in response to climatic changes 
+
+conclusion
+our high resolution data gave insights into the trends in pro and
+eukaryotic richness along a vast latitudinal transect complementing
+the model data of ladau et al showing that temperature is not
+always a prime control in richness gradients here we show that
+archaeal and bacterial diversity increases from around °s to the
+equator and that the richness of these domains shows a strong and
+positive correlation with primary productivity these results update
+the findings of pommier et al and fuhrman et al in which
+bacterial richness was only weakly related to primary productivity
+ which was calculated from satellite data our data showed that
+permanent oceanographic features can act as ecological boundaries
+which can influence pro and eukaryotic richness as reported by
+zinger et al wilkins et al amend et al wolf et al 
+ and baltar and arístegui interestingly our high resolution
+data did not confirm the effect of rapoport’s rule in early winter in
+the south pacific ocean our data showed that the mean latitudinal
+ranges of archaea and bacteria decreased with latitude overall our
+data support a potential link between productivity and diversity
+gradients and highlight the need for more information on how local
+environmental forces can modulate the correlation between di 
+versity and productivity within ocean provinces 
+
+materials and methods
+study region samples were collected along the latitudinal p s go ship
+transect a km decadally repeated transect from the ice edge ∼ °s 
+to the equator °s fig a from april to june late austral autumn 
+early winter in www go ship org voyage u the four
+main oceanographic provinces along the transect are defined by orsi et al 
+ and longhurst in this dataset we refer to these oceanic provinces as
+ i southern ocean waters between °s and °s including the pf at °s 
+ ii the stf between °s and °s iii tropical oligotrophic waters between
+ °s and °s and iv equatorial upwelling between °s and °s 
+
+biophysical and chemical metadata biophysical and chemical parameters were
+collected at stations at depths samples for dissolved inorganic nutrient
+concentrations included si po 
+
+ − no 
+− no 
+
+− and nh 
+ all were assayed on
+
+a bran luebbe aa hr segmented flow analyzer at sea by the common 
+wealth scientific and industrial research organisation csiro hydrochemistry
+group following standard spectrophotometric methods detection limits
+were and μmol·l− respectively detailed methodology
+for detection limits and data accessibility are provided in the si appendix 
+
+genomics analyses for dna analysis l of seawater from the surface and just
+below the mld si appendix fig s were filtered through a μm pore
+sterivex gp filter catalog no svgpl rc millipore with a peristaltic pump 
+a modified organic phenol chloroform isoamyl based dna extraction protocol
+ was used with the powerwater sterivex dna isolation kit mo bio labora 
+tories see si appendix for the dna extraction protocol amplicons targeting the
+bacterial s rrna gene f– r archaeal s rrna gene a f– r 
+ and eukaryotic s rrna gene sv f and sv r modified from
+stoeck et al were generated and sequenced for each sample at the
+ramaciotti centre for genomics university of new south wales sydney s
+rrna gene amplicons were sequenced using bp paired end sequencing 
+while s rrna gene amplicon reads were generated using bp paired end
+sequencing sequence otu tables were prepared after bissett et al briefly 
+paired end reads merged using flash sequences were clustered into otus
+at sequence similarity using the open reference otu picking pipeline in
+usearch bit v with the uparse algorithm reads were
+mapped to the resultant otu representative sequences using usearch 
+identity to calculate read abundances per otu otu tables were subsampled
+to a constant sampling depth of and sequences per
+sample for archaea bacteria and eukaryotes respectively rarefaction curves
+are shown in si appendix figs s and s taxonomy was derived from silva
+database version https www arb silva de genomic data are avail 
+able at https www ncbi nlm nih gov bioproject under the accession
+no prjna 
+
+pigment analysis and c assimilation chlorophyll a extractions were carried
+out according to parsons et al on l of sample water via gentle
+vacuum filtration pressure drop kpa using mm gf f filters at five
+sampling depths within the mixed layer samples were measured on a
+turner trilogy laboratory fluorometer four liters of sample water from the
+surface at each station were filtered in dim light on mm whatman gf f
+filters for analysis of taxonomically significant chlorophylls and caroten 
+oids samples were snap frozen and stored in liquid n photosynthetic
+pigments were analyzed using hplc according to hooker et al hplc
+data were analyzed using diagnostic pigments of dominant phytoplankton
+functional guilds as well as size classes according to hirata et al see
+si appendix supplementary information text and table s for detailed
+methodology 
+
+water samples to measure c assimilation rates were taken from the clean
+underway flowthrough system intake at m triplicate c assimilation experi 
+ments were initiated by adding μmol·l− of nah co to polycarbonate l
+incubation bottles the natural abundance of particulate organic c used as t 
+zero values to calculate assimilation rates was obtained by filtering l of water
+onto precombusted gf f filters for each station determination of total c
+and δ c was carried out using a continuous flow system consisting of a
+sercon – mass spectrometer connected with an automated c analyzer
+at the stable isotope facility of the university of california davis see si
+appendix supplementary information text for detailed protocols 
+
+richness and statistical analyses all analyses utilized subsampled otu
+tables as described above pro and eukaryotic richness were calculated as
+the number of otus observed per sample absolute latitudinal
+ranges of otus were calculated as the difference between the maximum
+and minimum latitudes where an otu was present correlations
+were calculated using the spearman coefficient rs as a measure of rank
+correlation using the corrplot and vegan packages in r studio non 
+metric multidimensional scaling nmds analysis and anosim were per 
+formed in primer v brt predictor variable influence on pro and
+eukaryotic richness was assessed using brt see si appendix for
+further information 
+
+acknowledgments we thank dr susan wijffels and dr bernadette sloyan
+for the opportunity to piggyback on the p go ship transect voyage number
+in v bernhard tschitschko nicole gail hellessey and gabriela paniagua
+cabarrus for their sampling efforts at sea the officers and crew of the r v in 
+vestigator during cruise in v for their technical assistance while at sea 
+and the marine microbes project consortium https data bioplatforms com for
+contributions to the generation of data used in this publication the marine
+microbes project is supported by funding from bioplatforms australia and in 
+tegratedmarine observing system through the australian government national
+collaborative research infrastructure strategy and the education investment
+fund super science initiative this work was supported by csiro the australian
+climate change science program and the marine national facility a m w was
+supported by grants from alfred wegener institute and university of western
+australia work at csiro was supported by csiro office of community engage 
+ment science leader fellowship r to l b and by csiro oceans and
+atmosphere environmental genomics grant r 
+
+e www pnas org cgi doi pnas raes et al 
+
+http www go ship org 
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+https www arb silva de 
+https www ncbi nlm nih gov bioproject 
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+http www pnas org lookup suppl doi pnas dcsupplemental
+https data bioplatforms com 
+www pnas org cgi doi pnas 
+
+
+ burrows mt et al the pace of shifting climate in marine and terrestrial eco 
+systems science – 
+
+ pachauri rk meyer la eds climate change synthesis report contribu 
+tion of working groups i ii and iii to the fifth assessment report of the intergov 
+ernmental panel on climate change ipcc geneva 
+
+ sunagawa s et al tara oceans coordinators ocean plankton structure and
+function of the global ocean microbiome science 
+
+ hutchins da fu f microorganisms and ocean global change nat microbiol 
+ 
+
+ barnosky ad et al has the earth’s sixth mass extinction already arrived 
+nature – 
+
+ richardson aj schoeman ds climate impact on plankton ecosystems in the
+northeast atlantic science – 
+
+ frederiksen m edwards m richardson aj halliday nc wanless s from
+plankton to top predators bottom up control of a marine food web across four
+trophic levels j anim ecol – 
+
+ johnson cr et al climate change cascades shifts in oceanography species’
+ranges and subtidal marine community dynamics in eastern tasmania j exp mar biol
+ecol – 
+
+ brown mv et al global biogeography of sar marine bacteria mol syst biol
+ 
+
+ barton ad dutkiewicz s flierl g bragg j follows mj patterns of diversity in
+marine phytoplankton science – 
+
+ brown mv et al microbial community structure in the north pacific ocean 
+isme j – 
+
+ hillebrand h on the generality of the latitudinal diversity gradient am nat
+ – 
+
+ tittensor dp et al global patterns and predictors of marine biodiversity across
+taxa nature – 
+
+ finlay bj global dispersal of free living microbial eukaryote species science
+ – 
+
+ pommier t et al global patterns of diversity and community structure in
+marine bacterioplankton mol ecol – 
+
+ ladau j et al global marine bacterial diversity peaks at high latitudes in
+winter isme j – 
+
+ amend as et al macroecological patterns of marine bacteria on a global
+scale j biogeogr – 
+
+ fuhrman ja et al a latitudinal diversity gradient in planktonic marine bac 
+teria proc natl acad sci usa – 
+
+ gilbert ja et al defining seasonal marine microbial community dynamics 
+isme j – 
+
+ mittelbach gg et al evolution and the latitudinal diversity gradient specia 
+tion extinction and biogeography ecol lett – 
+
+ rusch db et al the sorcerer ii global ocean sampling expedition northwest
+atlantic through eastern tropical pacific plos biol e 
+
+ mittelbach gg et al what is the observed relationship between species
+richness and productivity ecology – 
+
+ burrows mt et al geographical limits to species range shifts are suggested by
+climate velocity nature – 
+
+ karageorgis ap et al particle dynamics in the eastern mediterranean sea a
+synthesis based on light transmission pmc and poc archives – deep sea
+res part i oceanogr res pap – 
+
+ longhurst ar ecological geography of the sea elsevier amsterdam nd ed 
+ marañón e et al resource supply overrides temperature as a controlling factor
+
+of marine phytoplankton growth plos one e 
+ jardillier l zubkov mv pearman j scanlan dj significant co fixation by small
+
+prymnesiophytes in the subtropical and tropical northeast atlantic ocean isme j 
+ – 
+
+ rodríguez j et al mesoscale vertical motion and the size structure of phyto 
+plankton in the ocean nature – 
+
+ macintyre s alldredge al gotschalk cc accumulation of marines now at
+density discontinuities in the water column limnol oceanogr – 
+
+ woebken d fuchs bm kuypers mm amann r potential interactions of
+particle associated anammox bacteria with bacterial and archaeal partners in the
+namibian upwelling system appl environ microbiol – 
+
+ geider rj la roche j the role of iron in phytoplankton photosynthesis and
+the potential for iron limitation of primary productivity in the sea photosynth res 
+ – 
+
+ church mj hutchins da ducklow hw limitation of bacterial growth by dis 
+solved organic matter and iron in the southern ocean appl environ microbiol 
+ – 
+
+ baltar f arístegui j fronts at the surface ocean can shape distinct regions of
+microbial activity and community assemblages down to the bathypelagic zone the
+azores front as a case study front mar sci 
+
+ azam f et al the ecological role of water column microbes in the sea mar
+ecol prog ser – 
+
+ smith s mackenzie f the ocean as a net heterotrophic system implications
+from the carbon biogeochemical cycle global biogeochem cycles – 
+
+ kahru m mitchell b gille s hewes c holm‐hansen o eddies enhance bio 
+logical production in the weddell‐scotia confluence of the southern ocean 
+geophys res lett gl 
+
+ floodgate g fogg g jones d lochte k turley c microbiological and zoo 
+plankton activity at a front in liverpool bay nature – 
+
+ gregg mc sanford tb shear and turbulence in thermohaline staircases deep
+sea res a oceanogr res pap – 
+
+ fernández castro b et al importance of salt fingering for new nitrogen supply
+in the oligotrophic ocean nat commun 
+
+ oschlies a dietze h kähler p salt finger driven enhancement of upper ocean
+nutrient supply geophys res lett gl 
+
+ raes ej bodrossy l van de kamp j bissett a waite am marine bacterial
+richness increases towards higher latitudes in the eastern indian ocean limnol
+oceanogr lett – 
+
+ ward bb nitrification and the marine nitrogen cycle microbial ecology of the
+oceans ed kirchman dl wiley new york – 
+
+ rosenzweig ml species diversity in space and time cambridge univ press 
+ irigoien x huisman j harris rp global biodiversity patterns of marine phy 
+
+toplankton and zooplankton nature – 
+ sul wj oliver ta ducklow hw amaral zettler la sogin ml marine bacteria
+
+exhibit a bipolar distribution proc natl acad sci usa – 
+ gaston kj blackburn tm spicer ji rapoport’s rule time for an epitaph 
+
+trends ecol evol – 
+ rohde k rapoport’s rule is a local phenomenon and cannot explain latitudinal
+
+gradients in species diversity biodiversity lett – 
+ liu w lu j xie s p fedorov a southern ocean heat uptake redistribution 
+
+and storage in a warming climate the role of meridional overturning circulation 
+j clim – 
+
+ matear r hirst a mcneil b changes in dissolved oxygen in the southern ocean
+with climate change geochem geophys geosyst gc 
+
+ giebel ha brinkhoff t zwisler w selje n simon m distribution of rose 
+obacter rca and sar lineages and distinct bacterial communities from the sub 
+tropics to the southern ocean environ microbiol – 
+
+ richardson aj in hot water zooplankton and climate change ices j mar sci 
+ – 
+
+ thomsen pf willerslev e environmental dna–an emerging tool in conserva 
+tion for monitoring past and present biodiversity biol conserv – 
+
+ zinger l et al global patterns of bacterial beta diversity in seafloor and
+seawater ecosystems plos one e 
+
+ wilkins d et al biogeographic partitioning of southern ocean microorganisms
+revealed by metagenomics environ microbiol – 
+
+ wolf c frickenhaus s kilias es peeken i metfies k protist community com 
+position in the pacific sector of the southern ocean during austral summer 
+polar biol – 
+
+ orsi ah whitworth t iii nowlin wd jr on the meridional extent and fronts
+of the antarctic circumpolar current deep sea res part i oceanogr res pap 
+ – 
+
+ hansen hp koroleff f determination of nutrients methods of seawater
+analysis eds grasshoff k kremling k ehrhardt m wiley vch weinheim ger 
+many rd ed pp – 
+
+ appleyard s abell g watson r tackling microbial related issues in cultured
+shellfish via integrated molecular and water chemistry approaches seafood crc final
+report april australian seafood cooperative research centre 
+deakin australia p 
+
+ lane d s s rrna sequencing nucleic acid techniques in bacterial
+systematics john wiley and sons new york 
+
+ lane dj et al rapid determination of s ribosomal rna sequences for
+phylogenetic analyses proc natl acad sci usa – 
+
+ delong ef archaea in coastal marine environments proc natl acad sci usa 
+ – 
+
+ stoeck t et al multiple marker parallel tag environmental dna sequencing
+reveals a highly complex eukaryotic community in marine anoxic water mol ecol 
+ – 
+
+ bissett a et al introducing base the biomes of australian soil environments
+soil microbial diversity database gigascience 
+
+ magoč t salzberg sl flash fast length adjustment of short reads to improve
+genome assemblies bioinformatics – 
+
+ edgar rc search and clustering orders of magnitude faster than blast 
+bioinformatics – 
+
+ edgar rc uparse highly accurate otu sequences from microbial amplicon
+reads nat methods – 
+
+ parsons tr takahashi m hargrave b biological oceanographic processes
+ elsevier oxford 
+
+ hooker sb et al the second seawifs hplc analysis round robin experiment
+ seaharre nasa goddard space flight center greenbelt md tech memo
+ p 
+
+ hirata t et al synoptic relationships between surface chlorophyll a and di 
+agnostic pigments specific to phytoplankton functional types biogeosciences 
+ – 
+
+ team r rstudio integrated development for r rstudio inc boston version
+ available at https www rstudio com 
+
+ clarke kr warwick r change in marine communities an approach to
+statistical analysis and interpretation primer e ltd plymouth marine laboratory 
+plymouth uk 
+
+ elith j leathwick jr hastie t a working guide to boosted regression trees 
+j anim ecol – 
+
+raes et al pnas vol no e 
+
+ec
+o
+lo
+
+g
+y
+
+https www rstudio com 
+
+

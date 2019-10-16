@@ -1,0 +1,1651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the eukaryotic life on microplastics in brackish ecosystems
+
+
+fmicb march time 
+
+original research
+published march 
+
+doi fmicb 
+
+edited by 
+senjie lin 
+
+university of connecticut 
+united states
+
+reviewed by 
+william d orsi 
+
+ludwig maximilian university
+of munich germany
+
+roberta fulthorpe 
+university of toronto scarborough 
+
+canada
+
+ correspondence 
+hans peter grossart
+
+hgrossart igb berlin de
+
+specialty section 
+this article was submitted to
+
+aquatic microbiology 
+a section of the journal
+
+frontiers in microbiology
+
+received july 
+accepted march 
+published march 
+
+citation 
+kettner mt oberbeckmann s 
+
+labrenz m and grossart h p 
+the eukaryotic life on microplastics
+
+in brackish ecosystems 
+front microbiol 
+
+doi fmicb 
+
+the eukaryotic life on microplastics
+in brackish ecosystems
+marie therese kettner sonja oberbeckmann matthias labrenz and
+hans peter grossart 
+
+ department of experimental limnology leibniz institute of freshwater ecology and inland fisheries berlin germany 
+ institute for biochemistry and biology university of potsdam potsdam germany environmental microbiology working
+group leibniz institute for baltic sea research warnemünde rostock germany
+
+microplastics mp constitute a widespread contaminant all over the globe rivers
+and wastewater treatment plants wwtp transport annually several million tons of
+mp into freshwaters estuaries and oceans where they provide increasing artificial
+surfaces for microbial colonization as knowledge on mp attached communities is
+insufficient for brackish ecosystems we conducted exposure experiments in the coastal
+baltic sea an in flowing river and a wwtp within the drainage basin while reporting
+on prokaryotic and fungal communities from the same set up previously we focus
+here on the entire eukaryotic communities using high throughput s rrna gene
+sequencing we analyzed the eukaryotes colonizing on two types of mp polyethylene
+and polystyrene and compared them to the ones in the surrounding water and on
+a natural surface wood more than different taxa across almost all kingdoms of
+the eukaryotic tree of life were identified on mp dominated by alveolata metazoa and
+chloroplastida the eukaryotic community composition on mp was significantly distinct
+from wood and the surrounding water with overall lower diversity and the potentially
+harmful dinoflagellate pfiesteria being enriched on mp co occurrence networks which
+include prokaryotic and eukaryotic taxa hint at possibilities for dynamic microbial
+interactions on mp this first report on total eukaryotic communities on mp in brackish
+environments highlights the complexity of mp associated biofilms potentially leading to
+altered microbial activities and hence changes in ecosystem functions 
+
+keywords microeukaryotes plastic associated biofilms baltic sea polyethylene polystyrene diversity profiles 
+network analysis next generation sequencing
+
+introduction
+
+along with the exponential increase of plastic products in the past decades the environmental
+pollution with plastic is constantly growing galloway et al geyer et al nowadays 
+“microplastics” mp plastic particles with a size below mm can be found in most aquatic
+environments eerkes medrano et al law where they interact with organisms
+ranging from bacteria and algae to mammals zettler et al gall and thompson clark
+et al an important aspect of this pollution is that plastic provides an enormous surface
+for microbial colonization and drifting mp can function as a vector for micro organism dispersal
+ keswani et al for a long time it is known that various eukaryotes such as diatoms and
+hydroids settle on mp carpenter and smith however it took more than years until
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org journals microbiology editorial board
+https www frontiersin org journals microbiology editorial board
+https doi org fmicb 
+http creativecommons org licenses by 
+https doi org fmicb 
+http crossmark crossref org dialog doi fmicb domain pdf date stamp 
+https www frontiersin org articles fmicb full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+the colonization of plastic received more scientific attention 
+questions were raised whether mp could facilitate the spread of
+harmful algae masó et al potential pathogens kirstein
+et al viršek et al or invasive species barnes 
+the majority of studies in the field are focused on bacterial mp
+colonization hoellein et al mccormick et al 
+ whereas eukaryotic communities were often considered
+secondarily or analyzed solely microscopically allowing for a
+relatively low coverage and taxonomic resolution masó et al 
+ carson et al zettler et al oberbeckmann
+et al reisser et al bryant et al though mp
+biofilms comprise a high number of different micro eukaryotes 
+solely a few systematic and detailed studies exist oberbeckmann
+et al debroas et al kettner et al this
+scientific field is still at an early stage in describing the occurrence
+of micro eukaryotes on this anthropogenically introduced 
+artificial habitat and we are far away from understanding the
+ecological consequences neither on local communities nor on
+the global ecosystem scale hence a more holistic knowledge is
+required to better understand ecosystem and health related issues
+emerging from plastic pollution 
+
+it has been shown that location based on differences in
+environmental conditions is one significant factor influencing
+the microbial community composition on mp hoellein et al 
+ oberbeckmann et al emphasizing the need that
+studies should cover a wide range of ecosystems around the globe 
+
+our study area the baltic sea is one of the world’s largest
+brackish ecosystems its catchment area includes countries
+with approximately rivers and million people it is known 
+that rivers play a crucial role in transporting mp to seas and
+oceans lechner et al talvitie et al mccormick
+et al lebreton et al mintenig et al as
+the surface area of the baltic sea is four times smaller than
+its drainage area and since the average water residence time
+is three to four decades its ecosystem suffers eminently from
+severe anthropogenic pressures such as eutrophication chemical
+contamination overfishing and intense shipping traffic snoeijs 
+leijonmalm and andrén today the baltic sea ranks
+among the most polluted seas worldwide helcom 
+and mp have emerged as additional anthropogenic pressure 
+quantitative information on mp pollution in the baltic sea and
+its drainage basin however is scarce talvitie et al setälä
+et al lebreton et al mp including synthetic fibers
+seem to be nearly omnipresent in samples from baltic beaches
+in germany stolte et al poland graca et al 
+and the kaliningrad region esiukova in the surface
+water of the river warnow and baltic coast around rostock 
+germany polyethylene pe and polystyrene ps are among the
+most commonly found types of mp unpublished data leibniz
+institute for baltic sea research warnemünde 
+
+we did set up a day incubation experiment investigating
+the microbial colonization of two types of mp namely pe and
+ps in comparison with the natural surface wood in the baltic
+sea the river warnow and a wwtp detailed analyses of the
+prokaryotic and fungal communities within these biofilms have
+already been published kettner et al oberbeckmann et al 
+ here we now focus on the entire eukaryotic diversity 
+
+beyond our project prokaryotic and eukaryotic mp colonization
+in brackish ecosystems has not been investigated thoroughly 
+
+we used results from illumina miseq sequencing to test
+our hypothesis that eukaryotic mp attached communities are
+distinct from communities on a natural surface wood and the
+surrounding water wood was chosen as a reference material
+since it occurs widely in natural aquatic systems is degraded
+slowly and has a specific gravity similar to our plastics used 
+further we analyzed if the beta diversity is different on these
+tested substrate types and we evaluate whether eukaryotic
+assemblages differ among seven incubation sites located in
+a salinity gradient from the river warnow into the baltic
+sea we performed network analyses comprising prokaryotic
+and eukaryotic taxa to reveal which organisms co occur and
+might interact with each other our detailed and holistic view
+into community compositions will provide new insights into
+the microbial life on mp in aquatic ecosystems and related
+consequences for ecosystem functioning 
+
+materials and methods
+
+incubation experiments
+polyethylene particles pe exxonmobiltm hdpe hta 
+exxonmobil chemical europe belgium diameter – mm 
+density g cm− polystyrene particles ps polystyrol 
+e basf germany diameter – mm density g cm−ł and
+wood particles heiz r©holzpellets heiz r©pellets ag germany 
+density g cm− were exposed in triplicate to natural
+aquatic communities at seven different stations in north east
+germany particles were sampled after incubation for days
+in surface water to m depth in containers surrounded by
+a nylon mesh with µm mesh size particles were rinsed
+with sterile station water and stored at − ◦c until further
+processing additionally we retrieved water samples on day
+ at each station for comparing the eukaryotic communities
+on the plastic substrates pe ps the natural substrate wood 
+and the natural eukaryotic communities in the surrounding
+water water samples to replicates à l were filtered
+onto µm pore size membranes whatman r©nuclepore track 
+etch membrane polycarbonate ge healthcare germany to
+concentrate the eukaryotes the filtrate to replicates à 
+l was subsequently filtered onto µm pore size membranes
+ durapore r©membrane filters polyvinylidene fluoride merck
+millipore ltd ireland to detect also the picoeukaryotes and
+eventual environmental dna samples were stored at − ◦c
+until further processing we conducted the first incubation
+experiment in august september at stations to for
+map see supplementary figure s station is located at the
+pier heiligendamm in the coastal baltic sea station and are
+situated close to the estuary mouth of the river warnow thereby
+station is in the canal alter strom and station in a marina
+on the other side of the estuary station and are located
+ca and km respectively upstream in the river warnow 
+the second incubation experiment was conducted in april may
+ in an anonymous wastewater treatment plant wwtp 
+station is in the outlet of the last sedimentation treatment 
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+where conventional wwtps would discharge into the receiving
+waters this wwtp has an additional treatment stage with an
+oxygenated biofilm reactor station is located at the outlet
+of that reactor further details on the incubation experiments
+and sampling locations including environmental parameters and
+coordinates are given by kettner et al 
+
+dna extraction pcr amplification 
+sequencing and sequence processing
+dna extraction from pe ps wood and filtered water samples
+was carried out based on a protocol published by nercessian
+et al which was optimized for our samples the
+procedure includes a chemical mechanical and enzymatic cell
+lysis step followed by phenol chloroform extraction and an
+ethanol precipitation of extracted nucleic acids dna was
+amplified by pcr using the universal eukaryote primers eu f
+and eu r stoeck et al with addition of the bases
+ tga at the ′ end of the reverse primer according to
+lgc genomics berlin germany which target the highly
+variable v region of the s rrna gene allowing for one
+mismatch these primers cover of al eukaryota in the
+silva database v while excluding bacteria and archaea
+ supplementary table s pcr amplifications and subsequent
+sequencing on the illumina miseq platform ∗ bp paired
+end miseq reagent kit v were performed by lgc genomics 
+berlin germany raw illumina reads were demultiplexed then
+barcodes adapters and primers were clipped reads were further
+processed in mothur v schloss et al released in
+march following the mothur miseq sop adapted to our
+target region kozich et al url https www mothur 
+org wiki miseq sop online access may processed reads
+were classified in mothur using silva’s non redundant small
+subunit rrna database v quast et al released in
+september taxonomy was based on the current silva
+taxonomy yilmaz et al database v with the deepest
+possible taxonomic resolution at the genus level eukaryotic
+taxa are herein named according to their genus for instance
+ostreococcus or – if no genus could be assigned – after the next
+higher classified level with the prefix “unclassified” for instance
+unclassified rhinosporidiosis further details on methods
+from dna extraction to sequence processing were described
+previously by kettner et al raw reads were made
+available under biosample accessions from samn to
+samn of the bioproject prjna at the short
+read archive sra of ncbi 
+
+data evaluation and statistics
+the final output is a read abundance table with all taxonomic
+levels the lists of the top taxa per substrate were created
+based on relative abundances after a transformation of the data
+ legendre and gallagher bar charts were compiled on
+kingdom level for the different substrates types pe ps wood 
+water µm and µm water µm and locations
+ station and second we statistically evaluated
+the read abundance table for the deepest taxonomic levels using
+r version r core team and the r package
+
+vegan oksanen et al to test whether the factors
+“substrate type” and “location” had a significant effect p 
+on the eukaryotic community composition we performed a
+permutational multivariate analysis of variance permanova 
+and pairwise permanova adonis function in vegan 
+permutations prior to that the table was hellinger transformed
+ legendre and gallagher and converted into a bray curtis
+similarity matrix a prerequisite for correct interpretation of
+permanova results is to check for homogeneity of dispersion 
+which we did with the betadisper and permutest function in
+vegan permutations a two dimensional nmds plot was
+created to visualize the bray curtis similarity among the 
+samples in addition we calculated the bray curtis similarity
+between each pair of substrates and stations respectively the
+eukaryotic diversity on different substrate types was calculated
+with the “chaojost” estimator for continuous diversity profiles
+ chao and jost applying the diversity function of the r
+package spader version chao et al before that 
+read abundances were added up for each substrate type and
+rarefied to reads to assure for comparability of diversity
+among substrates continuous diversity profiles function qḋ 
+see chao and jost and specific hill numbers richness
+for q shannon diversity for q and simpson diversity
+for q were plotted with confidence intervals using the
+r package ggplot version wickham to check if
+specific taxa were significantly associated with a single substrate
+type we performed an “indicator species analysis” r package
+indicspecies de cáceres and legendre de cáceres
+and jansen obtained p values from multiple testing
+in pairwise permanova and indicator species analysis were
+adjusted according to benjamini and hochberg 
+
+phylogenetic trees
+phylogenetic trees were compiled of the most abundant taxa
+per substrate type representative sequences most abundant
+sequence within the according taxon were aligned using the
+sina aligner v pruesse et al and phylogenetically
+analyzed using the arb software package arb ludwig
+et al with the silva non redundant small subunit
+rrna database v quast et al reduced to eukaryotic
+sequences after adding the aligned sequences to the arb
+database the alignment was checked manually and the –
+ bp long sequences along with their close relatives were
+used to calculate the trees the phylogenetic relationships were
+deduced by the neighbor joining method and bootstrap values
+were obtained by calculating bootstrap trees 
+
+network analysis
+for the network analyses of pe ps and wood associated
+biofilms we combined both prokaryote oberbeckmann et al 
+ and eukaryote datasets which were independently
+hellinger transformed legendre and gallagher 
+beforehand water samples were not included as the objective
+was herein to characterize interaction possibilities within biofilm
+communities only with regard to the strong differences in
+community composition we calculated the networks separately
+for experiment i river warnow to baltic sea stations – in
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www mothur org wiki miseq sop
+https www mothur org wiki miseq sop
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+total samples per substrate type and experiment ii wwtp 
+station and in total samples per substrate type exclusively
+taxa which occurred in at least half of the samples and had
+a relative abundance of more than within the dataset 
+were used for the analysis network analyses were conducted
+in cytoscape version shannon et al with the
+conet beta application following the recommendations
+of faust and raes taxa correlations were validated
+running networks with iterations as we focused on
+possible co occurrences we chose only positive edges for
+network visualization topological parameters of co occurrence
+networks were analyzed with the network analyzer tool release
+ assenov et al in cytoscape 
+
+results
+
+eukaryotic communities across
+different substrate types and locations
+from all samples with more than million reads we
+were able to identify different eukaryotic taxa on pe and
+ps we detected and different taxa respectively the
+ taxa were assigned to different kingdoms common
+representatives of our samples were from the sar supergroup
+ stramenopiles alveolata rhizaria fungi holozoa
+including metazoa and different algae especially chloroplastida 
+the composition of kingdoms varied across the substrate types
+and locations figure for instance water samples had a higher
+proportion of cryptophyceae whereas pe and ps had more reads
+assigned to a kingdom within holozoa mainly from the order
+rhinosporideacae compared to samples from the river warnow
+and the baltic sea stations to wwtp samples stations
+ and had almost no cryptophyceae and haptophyta fewer
+chloroplastida but more holozoa 
+
+we compiled a list of the most abundant taxa by read
+counts for a rough description of eukaryotic communities of the
+different substrate types supplementary table s these top
+ taxa comprise ca to of the respective community 
+additionally we calculated phylogenetic trees for all substrate
+types that show the closest relatives of these top taxa 
+i e their representative sequence respectively supplementary
+figure s when comparing the top taxa across the different
+substrate types supplementary figure s and table s we
+observe omnipresent taxa as well as taxa differentially abundant
+on one substrate or another among the top taxa on pe and
+ps we found organisms from different trophic levels green algae
+from the genus ulva sea lettuce and the class trebouxiophyceae
+were common primary producers in mp biofilms as primary
+or secondary consumers we detected different ciliates assigned
+to peritrichia the conthreep group specifically zoothamnium
+and the suctorian ephelota consumers from the kingdom
+metazoa animalia were the rotifers adinetida and ploimida 
+the nematodes diplogasterida and rhabditida the mollusk
+caenogastropoda and the crustacean podocopida with the
+ability to retain kleptochloroplasts from their prey burkholder
+and marshall we found the dinoflagellate pfiesteria as
+a potential temporary mixotroph we further identified fungi
+
+from chytridiomycota for instance chytridium as well as fungal 
+like organisms such as rhinosporideacae rhizidiomyces and
+pythium which can have saprotrophic or parasitic life styles 
+common organisms from the smaller water fraction to
+ µm were picoeukaryotic green algae such as ostreococcus
+and micromonas the cryptophytes leucocitos and teleaulax or
+the heterotrophic picomonas which were all rare on the solid
+substrates in comparison to pe and ps the larger water fraction
+ µm contained more phototrophs such as the diatoms
+skeletonema and thalassiosira or the green algae scenedesmus 
+the compilation of the top taxa on wood were similar to
+those on pe and ps but included the fungus lkm among the
+dominant organisms 
+
+when comparing the eukaryotic communities at the deepest
+classified taxon level ideally genus we observed a significant
+impact of the factors substrate type p r location
+ p r and their interaction p r 
+on the community composition all results of the permutational
+multivariate analysis of variance short permanova are
+shown in supplementary table s a homogeneous data
+dispersion among the factor groups which is necessary for
+a clear interpretation of permanova results was given
+ supplementary table s we tested further with pairwise
+permanova supplementary table s which substrates and
+locations differed from each other the eukaryotic community
+differed significantly among all substrate types p 
+supplementary table s with the exception of pe and
+ps p supplementary table s communities on
+both mp types displayed a bray–curtis similarity of 
+ supplementary table s the lowest bray curtis similarities
+ to supplementary table s were observed between
+communities on the solid substrates pe ps and wood vs the
+surrounding water communities size fraction to µm 
+also each location had a significantly different community
+composition than any other station p ≤ supplementary
+table s we found the highest bray curtis similarities between
+stations that were geographically close to each other namely
+station and supplementary table s the two
+estuary stations and supplementary table s and
+both wwtp stations and supplementary table
+s the bray–curtis similarity matrix for individual samples
+is illustrated in a non metric multidimensional scaling nmds 
+plot figure the plot visualizes a grouping by location 
+a separation between the communities associated with solid
+substrates and water lower similarity and the proximity of
+mp associated communities higher similarity 
+
+diversity of eukaryotes on different
+substrate types
+continuous diversity profiles for the different substrate types
+are depicted in figure with “chaojost” as the estimated
+diversity qḋ over the diversity order q chao and jost 
+these profiles allow for a quick comparison of diversities since 
+e g non overlapping graphs indicate a higher diversity of the
+upper graph i e the respective substrate type the continuous
+diversity profiles comprise further three classical alpha diversity
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+figure eukaryotic community composition on kingdom level across different substrate types a and locations b proportions in bar charts are based on read
+counts after a hellinger transformation ∗others amoebozoa discicristoidea “incertae sedis” and an unclassified kingdom in eukaryota 
+
+figure non metric multidimensional scaling nmds ordination visualizing bray curtis similarities of eukaryotic communities among individual samples stress
+value with increasing similarity the points have a closer proximity colors represent different substrate types symbols and numbers indicate different
+locations 
+
+estimators as special cases along the graph as explained in legend
+of figure when comparing the estimated taxon richness
+ q both water size fractions were more diverse than the
+solid substrates pe ps and wood this ranking changes when we
+follow the profiles with increasing q while the influence of rare
+taxa on diversity estimations decreases for q≥ we still observe
+a lower taxon diversity of pe and ps but the smaller size fraction
+in water between and µm had a similarly low diversity 
+whereas wood had an even higher diversity than the larger size
+fraction of water µm since diversity profiles and their
+ confidence intervals of the water size fraction µm
+and those of pe and ps never overlapped we can conclude that
+
+eukaryotic communities in water µm had a significantly
+higher diversity than on mp 
+
+potential eukaryotic key taxa
+we conducted an “indicator species analysis” de cáceres
+and legendre to identify eukaryotic taxa which were
+significantly more abundant on certain substrate types only
+one taxon each was associated with pe and ps a rotifer and a
+chlorophyte supplementary table s wood associated taxa
+were assigned mainly to fungi from the phylum ascomycota
+or to alveolata from the phylum ciliophora supplementary
+table s the lists of taxa that were associated with water
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+figure eukaryotic taxon diversity presented as continuous diversity profiles with confidence intervals for the substrates pe ps and wood as well as the
+small between and µm and large water size fraction µm diversity estimator “chaojost” as proposed by chao and jost on the y axis and
+diversity order q on the x axis estimated richness q shannon diversity q exponential of shannon entropy and simpson diversity q inverse simpson
+concentration are enlarged in boxes 
+
+were substantially longer and comprised a greater variety of
+eukaryotic kingdoms several small eukaryotes were associated
+with the smaller water fraction between and µm such as
+ochromonas ochrophyta picomonas picozoa micromonas 
+and ostreococcus both chlorophyta or geminigera and
+teleaulax both cryptomonadales supplementary table
+s associated with the larger water fraction µm 
+were a number of nematodes and arthropods many
+different chlorophytes for instance monoraphidium and
+scenedesmus or ochrophytes such as thalassiosira cyclotella 
+and nannochloropsis as well as many other taxa across different
+phyla supplementary table s 
+
+pfiesteria was the most abundant genus by reads counts 
+on pe and the second most abundant on ps it was detected
+mainly at the stations and together supplementary
+tables s s read counts from pfiesteria originated with
+more than from mp pe ps and less than from
+water supplementary table s this signifies a strong
+enrichment of pfiesteria on mp and indicates a preference
+toward these substrate types to obtain more information
+about potential relatives of pfiesteria a representative sequence
+ most abundant read get oturep function in mothur was
+checked with the ncbi’s blastn program blastn 
+default settings zhang et al morgulis et al 
+the top search results are presented in supplementary
+table s among those hits were pfiesteria piscicida with
+ query coverage and identity to our representative
+sequence the close phylogenetic relation is further supported
+by the positioning of our representative sequence next
+
+to pfiesteria piscicida in our calculated phylogenetic
+trees supplementary figure s 
+
+co occurrence networks
+to evaluate interaction possibilities among taxa within
+communities on the different solid substrate types pe ps 
+and wood we constructed co occurrence networks which
+contain not only eukaryotic but also prokaryotic taxa figure 
+and supplementary figure s with nodes labeled with taxon
+names each node of a network represents a different taxon
+and the edges are significant positive correlations between the
+nodes taxa for all substrate types we observed numerous
+positive correlations among prokaryotes eukaryotes as well
+as between prokaryotic and eukaryotic taxa particularly in
+the wwtp figure table and supplementary figure
+s beside the variety of bacterial taxa eukaryotic taxa of
+the kingdoms chloroplastida alveolata and stramenopiles
+dominated within the co occurrence networks especially on
+pe and ps bacteria appeared to be highly interconnected with
+eukaryotes figures a–d whereas on wood bacteria were
+primarily correlated to other bacteria figure e fungi were
+represented more often on wood and all substrate types inside
+the wwtp figures b d f than in networks of pe or ps
+in the baltic sea and river warnow figures a c archaea
+occurred very rarely and exclusively in wwtp networks
+ figures b d all networks are highly heterogeneous and on
+average rather decentralized meaning that only few nodes have
+a central position within the network table this is also
+reflected in the formation of several clusters denser grouping of
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+figure co occurrence networks of prokaryotic and eukaryotic taxa for pe ps and wood from both incubation experiments i baltic sea to river warnow 
+stations to and ii wwtp stations and each node is a taxon and the node diameter increases with the number of direct neighbors edges represent
+significant positive correlations p between nodes taxa colors indicate different kingdoms a pe in baltic sea river warnow stations to b pe in
+wwtp stations and c ps in baltic sea river warnow stations to d ps in wwtp stations and e wood in baltic sea river warnow stations 
+to f wood in wwtp stations and 
+
+nodes within networks resulting often in entirely dis connected
+clusters see table for number of connected components 
+wherein a connected component is defined as a cluster in
+which all nodes are directly or indirectly i e via further nodes 
+connected to each other for instance in the wwtp both
+pe and ps networks formed two large dis connected clusters
+and additionally some smaller clusters figures b d when
+looking at the respective taxa within these large clusters it became
+apparent that those taxa in the left cluster for pe figure b
+and supplementary figure s b and in the lower cluster for
+ps figure d and supplementary figure s d were more
+abundant in station whereas the other taxa dominated in
+stations the same location dependent formation of clusters
+holds true for the other networks 
+
+discussion
+
+effect of substrate type and location on
+eukaryotic communities
+our results support the hypothesis that substrate type has
+a significant impact on eukaryotic community composition
+in aquatic systems eukaryotic communities on mp differed
+from those on floating wood and in the surrounding water 
+the lowest similarities were found between communities of
+the smaller water size fraction to µm and solid
+substrates pe ps and wood and might be a result of the
+lifestyle of certain picoeukaryotes dominating in these water
+samples small organisms such as ostreococcus and micromonas
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+have a high surface to volume ratio which is advantageous
+for the uptake of nutrients i e they are well adapted for
+living freely in the water column and this could explain their
+lower abundances on the solid substrates distinct differences
+between communities on mp on natural surfaces and in
+water have been shown previously also for bacterial and fungal
+communities from the same experimental set up kettner et al 
+ oberbeckmann et al as well as in other marine
+and freshwater studies hoellein et al mccormick et al 
+ oberbeckmann et al this suggests that
+plastic affects both prokaryotic and eukaryotic community
+compositions alike no significant differences were detected
+between the eukaryotic communities on pe and ps which is in
+accordance with other studies comparing microbial communities
+between plastic and other hard substrates hoellein et al 
+oberbeckmann et al despite low sample replication 
+other studies however hint at distinct microbial colonization
+patterns among different plastic polymer types zettler et al 
+ debroas et al plastic associated communities also
+differ from organic substrates hoellein et al mccormick
+et al which is confirmed by our comparison of
+communities on mp vs wood 
+
+besides the outlined effect of substrate type we identified
+a strong impact of location on eukaryotic community
+composition location dependency of plastic associated
+microbial communities has been observed previously hoellein
+et al oberbeckmann et al amaral 
+zettler et al kettner et al and as it is generally
+accepted that local environmental factors are influencing
+microbial colonization patterns we will not further discuss
+this in more detail 
+
+in general the existing studies on microbial plastic
+colonization are difficult to compare especially due to differences
+in sampling environments seasons plastic types biofilm age
+or approaches to identify species nevertheless we can see
+several similarities i e the occurrence of diatoms as early
+colonizers a high frequency of organisms from the sar group
+including dinoflagellates and the suctorian ephelota as well as
+
+different algae and holozoans carpenter and smith masó
+et al carson et al zettler et al hoellein
+et al bryant et al oberbeckmann et al 
+debroas et al despite the small particle sizes of mp 
+we identified numerous organisms assigned to the kingdom
+metazoa animalia such as nematodes rotifers or annelids
+suggesting they attach to mp mainly as eggs larvae and juveniles 
+or their environmental dna edna adsorbed to the particle 
+we assume that the retrieved high read abundances of metazoans
+might rather reflect their multicellularity than the actual number
+of individuals in contrast to previous studies our incubation
+experiment revealed a remarkably diversity fungal taxa kettner
+et al and enabled us to report here for the first time a
+pfiesteria related dinoflagellate as the dominant taxon on mp 
+the high sequencing depth and sample number allowed us to
+capture a higher eukaryotic diversity and at the same time we
+obtained a deeper taxonomic resolution than previous studies 
+
+diversity and co occurrence patterns of
+microorganisms on mp
+taking together all mp samples we identified more than 
+different eukaryotic taxa and the majority of eukaryotic kingdoms
+from the tree of life were present yet the eukaryotic diversity was
+significantly lower on mp than on wood or in the surrounding
+water µm also in other studies mp communities were
+found to be less diverse than in water zettler et al 
+debroas et al as we detected respectively solely one
+taxon that was specifically associated with pe or ps and due to
+the lower diversity we assume that mp was colonized mainly by
+opportunistic eukaryotes possibly pe and ps rather excluded
+organisms than attracting a specialized mp community maybe
+a longer incubation time would lead to more mature biofilms
+with possibly more micro niches for a number of additional
+organisms though wood was exposed over the same time span it
+showed the highest eukaryotic diversity the higher attractiveness
+of wood for microeukaryotic colonization compared to mp may
+have been caused by its rougher surface facilitating microbial cell
+
+table topological parameters of co occurrence networks for pe ps and wood from both incubation experiments i baltic sea to river warnow stations to 
+and ii wwtp stations and 
+
+pe stations – pe stations – ps stations – ps stations – wood stations – wood station – 
+
+input taxa 
+
+number of nodes output taxa taxa 
+
+number of edges 
+
+clustering coefficient 
+
+connected components 
+
+network diameter 
+
+network centralization 
+
+network heterogeneity 
+
+shortest paths 
+
+shortest paths in percent 
+
+average shortest path length 
+
+average number of neighbors 
+
+networks were analyzed in cytoscape version shannon et al with the network analyzer tool release assenov et al 
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+attachment additionally bacteria and fungi can utilize wood
+as a substrate source which renders nutrients available also to
+other organisms and thus increases organismic diversity other
+researchers provide hints that also plastic might be degraded to
+a certain degree by the attached bacterial and fungal community
+ zettler et al mccormick et al debroas et al 
+although we did not check for mp bio degradation we assume it
+is an inferior process since easier accessible nutrient and carbon
+sources are available in the mp biofilms mainly provided by
+photoautotrophic algae 
+
+biofilms on mp and wood harbored various organisms
+simultaneously which suggests a number of possible interactions
+such as symbiosis predator prey relationships infections or the
+collective degradation of organic matter indeed our network
+analyses revealed many positive correlations among eukaryotes
+and especially among bacteria as well as between bacteria
+and different eukaryotic kingdoms for instance the numerous
+positive correlations between fungal and bacterial taxa on
+wood could support the idea of a collective metabolization
+of this substrate amoebophyra a dinoflagellate known to
+infect other dinoflagellates kim et al was positively
+correlated to the occurrence of suessiaceae on pe and another
+unclassified dinoflagellate on ps which could indicate a
+parasitic relationship the positive correlations on pe and ps
+of the suctorian ephelota and different bacterial taxa might
+be explained by ectosymbiosis which has been previously
+observed microscopically on mp by zettler et al 
+interestingly even with a sulfite oxidizing bacterium on ps 
+the picoeukaroyte micromonas was positively correlated to the
+bacterium eudoraea family flavobacteriaceae and on pe to
+another bacterium of the order flavobacteriales as well as
+to litoreibacter familiy rhodobacteraceae in experimental
+studies several flavobacteria and alphaproteobacteria including
+rhodobacteraceae were able to assimilate micromonas derived
+proteins orsi et al which could hint at interactions
+between these organisms for the cycling of nitrogen also in our
+experiment beside bacteria micromonas was further correlated
+to protists while this picoeukaryote is mainly grazed by
+dinoflagellates in open seawater orsi et al it might
+have been consumed by ciliates in biofilms since micromonas
+co occurred with vorticella zoothamnium and holosticha on
+pe a significant co occurrence can unfortunately only indicate
+but not prove for a microbial interaction faust and raes 
+ certainly many organisms simply co exist together as
+they prefer similar environmental niches e g the photosynthetic
+bacterium erythrobacter which occurred on pe and ps together
+with the algae picochlorum although pe and ps associated
+community compositions had a high bray curtis similarity it
+seems challenging to identify many similarities in their co 
+occurrence patterns this might give a first hint that other
+interaction possibilities exist on pe and ps even though their
+biofilm communities are overlapping moreover on pe and ps
+bacterial communities were more tightly linked to eukaryotic
+communities than on the natural substrate wood this interesting
+finding hints to the fact that both plastic types do not serve as a
+bacterial substrate source rather than surfaces for colonization 
+the tight linkage of prokaryotic with eukaryotic communities
+implies that bacterial communities on mp are to a large
+
+extent controlled by the dynamics of micro eukaryotes both
+as a substrate source and interaction partner another relevant
+observation from the pe ps and wood co occurrence networks
+was the obvious cluster formation by sampling locations this
+highlights that not merely the substrate type but rather the
+locations – i e the local environmental factors – influenced the
+community compositions as well as their associated patterns of
+taxon co occurrence meaning their interaction possibilities 
+
+relevance of mp colonization for
+aquatic ecosystems
+a plastic item with a mass of one gram floating in the open
+sea can harbor significantly more organismic biomass compared
+to one thousand liter of surrounding seawater mincer et al 
+ hence the colonization of floating mp can have various
+implications for aquatic ecosystems 
+
+first we observed a strong enrichment of pfiesteria reads
+on mp in comparison to the surrounding water the respective
+sequence was closely related to the species pfiesteria piscicida 
+which is able to produce toxins moeller et al and is
+associated with harmful blooms and major fish kills glasgow
+et al toxic pfiesteria strains can harm fishes by the
+toxin release itself but also by physically attacking the epidermis
+ burkholder and marshall further pfiesteria piscicida
+is able to form resting stages coyne et al which is
+particularly relevant for the survival and transport on mp to
+habitats far away also the dinoflagellate heterocapsa was present
+on mp certain species within the heterocapsa genus are able to
+form toxic red tides which can cause mass mortality of bivalves
+ horiguchi moreover we detected numerous potentially
+parasitic eukaryotes such as zoosporic fungi kettner et al 
+or the peronosporomycetes former oomycetes pythium and
+lagenidium unfortunately the short fragment length required
+for illumina amplicon sequencing does not provide a resolution
+to species or strain level and is not giving any information on the
+life stage making predictions of toxicity or infection potentials
+difficult nevertheless we show that various potentially harmful
+eukaryotes or their close relatives can colonize and even enrich on
+mp consequently our results support findings from masó et al 
+ who suggested plastic debris as a vector for harmful algal
+bloom species in marine environments 
+
+second we need to consider the persistence of mp due to
+extremely low degradation rates shah et al andrady 
+ compared to naturally occurring particles such as fecal
+pellets algal aggregates or driftwood mp offers a durable
+dispersal medium for the above mentioned harmful organisms
+as well as potential human pathogens kirstein et al fish
+pathogens viršek et al or bloom forming dinoflagellates
+ masó et al potentially transporting them with ocean
+currents over thousands of kilometers law et al this
+poses a serious threat to aquaculture horiguchi moestrup
+et al wildlife and humans barnes estimated
+that human litter whereof the majority is plastic more than
+doubles the rafting opportunities for all kinds of organisms 
+which may threaten the global marine biodiversity for the baltic
+sea maritime transport is currently the most important factor for
+the introduction of non indigenous species oesterwind et al 
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+ our study highlights that also mp has to be considered
+as an additional and even more frequent transport medium for
+numerous species in the baltic sea 
+
+third floating colonized mp has the potential to change
+carbon nutrient and energy dynamics in the aquatic
+realm recently yokota et al reported on increased
+photosynthetic activities of cyanobacteria on mp since we
+detected numerous different algae on mp we can also assume
+an increase in eukaryotic photosynthetic activity following mp
+colonization bryant et al concluded that mp creates
+net autotrophic hot spots in the oligotrophic sea furthermore 
+the colonization of mp kaiser et al as well as the
+incorporation of mp into algal aggregates long et al or
+zooplankton fecal pellets cole et al alters the overall load 
+leading either to enhanced sinking or floating of particles since
+organic aggregates represent the main vehicles for transport of
+organic matter from the sea surface to the bottom ducklow
+et al mp has the potential to affect the oceanic carbon
+pump and vertical fluxes of nutrients 
+
+conclusion
+
+our study demonstrates that mp biofilms in brackish and
+freshwater ecosystems comprise complex communities
+representing several trophic levels and interaction possibilities
+between them when judging the potential ecological impact
+and the risk of dispersal of invasive or harmful organisms 
+the complexity and dynamic nature of mp biofilms have to be
+considered especially in terms of their location dependency 
+our study provides evidence that biodiversity on mp is limited
+compared to natural surfaces and that potential pathogens
+and parasites can thrive and even enrich on plastic surfaces in
+the future studies on survival rates during mp migration as
+well as systematic risk assessments regarding the impact of mp
+on biodiversity and infection potentials as well as ecosystem
+functions are vitally needed 
+
+originality significance
+statement
+
+the pollution of aquatic environments with microplastics is
+of increasing relevance due to the high persistence toward
+mineralization leading to global debris accumulation with
+potential effects on organisms of all trophic levels microplastics
+can serve as transport vehicles for attached microbes including
+potentially invasive or harmful organisms with yet unknown
+consequences for wildlife so far the colonization of microplastics
+in brackish waters has been understudied and little attention
+has been paid to microeukaryotic colonizers herein we
+present a detailed report on eukaryotic community compositions
+in the baltic sea a river and a wastewater treatment
+plant based on next generation sequencing results we show
+how microplastic associated eukaryotic communities differ
+from natural communities in water or on wood regarding
+their composition and diversity moreover this is the first
+study providing co occurrence networks for polyethylene 
+
+polystyrene and wood while including prokaryotes as well
+as eukaryotes highlighting their vast interaction possibilities 
+taking all results together we provide an in depth view
+into microplastic associated assemblages while discussing their
+potential environmental implications which will push forward
+our understanding of the eukaryotic life in microplastic biofilms 
+
+data availability
+
+raw reads were made available under biosample accessions
+from samn to samn of the bioproject
+prjna at the short read archive sra of ncbi 
+https www ncbi nlm nih gov sra term prjna all
+datasets which are not included in this article or supplementary
+material will be made available by the authors upon request 
+without undue reservation to any qualified researcher 
+
+author contributions
+
+so ml and h pg created the project idea the study was
+designed by so and ml sampling was performed by so and
+mtk for eukaryotes mtk was processing the samples and
+evaluated the datasets including bioinformatics and statistics 
+for prokaryotes so was processing the samples including
+bioinformatics networks for eukaryotes and prokaryotes
+were calculated by mtk mtk prepared figures tables and
+supplementary material the manuscript was written by mtk
+and revised by so ml and h pg 
+
+funding
+
+the financial support of this study was provided by the leibniz
+association in the frame of the saw project “mikromik”
+ saw iow so was financially supported by the
+bonus micropoll project which was supported by bonus
+ art and jointly funded by the european union and
+the german federal ministry of education and research
+ bmbf f a 
+
+acknowledgments
+
+for access to the sampling stations we want to thank the
+marine science center hohe düne namely prof dr dehnhardt
+and dr wieskotten as well as the staff of the wwtp and
+bootsterrassen warnemünde special thanks to luca zoccarato
+and jason woodhouse for giving helpful advice on network
+analysis we would like to thank two reviewers for their valuable
+comments and suggestions 
+
+supplementary material
+
+the supplementary material for this article can be found online
+at https www frontiersin org articles fmicb 
+ full supplementary material
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www ncbi nlm nih gov sra term prjna 
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+references
+amaral zettler l a zettler e r slikas b boyd g d melvin d w morrall 
+
+c e et al the biogeography of the plastisphere implications for policy 
+front ecol environ – doi 
+
+andrady a l microplastics in the marine environment mar pollut bull 
+ – doi j marpolbul 
+
+assenov y ramírez f schelhorn s e lengauer t and albrecht m 
+computing topological parameters of biological networks bioinformatics 
+ – doi bioinformatics btm 
+
+barnes d k a biodiversity invasions by marine life on plastic debris 
+nature – doi a
+
+benjamini y and hochberg y controlling the false discovery rate a
+practical and powerful approach to multiple testing j r stat soc ser b 
+ – doi j tb x
+
+bryant j a clemente t m viviani d a fong a a thomas k a 
+kemp p et al diversity and activity of communities inhabiting plastic
+debris in the north pacific gyre msystems e doi msystems 
+ 
+
+burkholder j a m and marshall h g toxigenic pfiesteria species 
+updates on biology ecology toxins and impacts harmful algae – 
+doi j hal 
+
+carpenter e j and smith k l plastics on the sargasso sea surface science
+ – doi science 
+
+carson h s nerheim m s carroll k a and eriksen m the plastic 
+associated microorganisms of the north pacific gyre mar pollut bull 
+ – doi j marpolbul 
+
+chao a and jost l estimating diversity and entropy profiles via discovery
+rates of new species methods ecol evol – doi x 
+ 
+
+chao a ma k h hsieh t c and chiu c h spader species 
+richness prediction and diversity estimation in r an r package in cran
+ www document available at http chao stat nthu edu tw wordpress 
+software download https cran r project org package spader
+
+clark j r cole m lindeque p k fileman e blackford j lewis c et al 
+ marine microplastic debris a targeted plan for understanding and
+quantifying interactions with marine life front ecol environ – 
+doi fee 
+
+cole m lindeque p k fileman e clark j lewis c halsband c et al 
+ microplastics alter the properties and sinking rates of zooplankton
+faecal pellets environ sci technol – doi acs est 
+ b 
+
+coyne k j hare c e popels l c hutchins d a and cary s c 
+ distribution of pfiesteria piscicida cyst populations in sediments of the
+delaware inland bays usa harmful algae – doi j hal 
+ 
+
+de cáceres m and jansen f indicspecies relationship between species
+and groups of sites r package version www document available at 
+https cran r project org package indicspecies
+
+de cáceres m and legendre p associations between species and groups
+of sites indices and statistical inference ecology – doi 
+ 
+
+debroas d mone a and ter halle a plastics in the north atlantic
+garbage patch a boat microbe for hitchhikers and plastic degraders 
+sci total environ – – doi j scitotenv 
+ 
+
+ducklow h steinberg d and buesseler k upper ocean carbon export
+and the biological pump oceanography – doi oceanog 
+ 
+
+eerkes medrano d thompson r c and aldridge d c microplastics
+in freshwater systems a review of the emerging threats identification of
+knowledge gaps and prioritisation of research needs water res – 
+doi j watres 
+
+esiukova e plastic pollution on the baltic beaches of kaliningrad
+region russia mar pollut bull – doi j marpolbul 
+ 
+
+faust k and raes j microbial interactions from networks to models nat 
+rev microbiol – doi nrmicro 
+
+faust k and raes j conet app inference of biological association
+networks using cytoscape f res doi f research 
+ 
+
+gall s c and thompson r c the impact of debris on marine life mar 
+pollut bull – doi j marpolbul 
+
+galloway t s cole m and lewis c interactions of microplastic debris
+throughout the marine ecosystem nat ecol evol doi s 
+ 
+
+geyer r jambeck j r and law k l production use and
+fate of all plastics ever made sci adv doi sciadv 
+ 
+
+glasgow h b burkholder j m mallin m a deamer melia n j and reed 
+r e field ecology of toxic pfiesteria complex species and a conservative
+analysis of their role in estuarine fish kills environ health perspect 
+doi 
+
+graca b szewc k zakrzewska d dołęga a and szczerbowska 
+boruchowska m sources and fate of microplastics in marine and
+beach sediments of the southern baltic sea—a preliminary study environ sci 
+pollut res – doi s 
+
+helcom “hazardous substances in the baltic sea – an integrated thematic
+assessment of hazardous substances in the baltic sea ” in proceedings of the baltic
+sea environment proceedings no b helsinki helsinki commission 
+
+hoellein t rojas m pink a gasior j and kelly j anthropogenic
+litter in urban freshwater ecosystems distribution and microbial interactions 
+plos one e doi journal pone 
+
+hoellein t j mccormick a r hittie j london m g scott j w and kelly 
+j j longitudinal patterns of microplastic concentration and bacterial
+assemblages in surface and benthic habitats of an urban river freshw sci 
+ – doi 
+
+horiguchi t heterocapsa circularisquama sp nov peridiniales 
+dinophyceae a new marine dinoflagellate causing mass mortality of
+bivalves in japan phycol res – doi j 
+tb x
+
+kaiser d kowalski n and waniek j j effects of biofouling on the
+sinking behavior of microplastics environ res lett doi 
+ aa e b
+
+keswani a oliver d m gutierrez t and quilliam r s microbial
+hitchhikers on marine plastic debris human exposure risks at bathing waters
+and beach environments mar environ res – doi j 
+marenvres 
+
+kettner m t rojas jimenez k oberbeckmann s labrenz m and grossart 
+h p microplastics alter composition of fungal communities in
+aquatic ecosystems environ microbiol – doi 
+ 
+
+kim s park m g kim k y kim c h yih w park j s et al 
+genetic diversity of parasitic dinoflagellates in the genus amoebophrya and its
+relationship to parasite biology and biogeography j eukaryot microbiol 
+ – doi j x
+
+kirstein i v kirmizi s wichels a garin fernandez a erler r löder m 
+et al dangerous hitchhikers evidence for potentially pathogenic vibrio
+spp on microplastic particles mar environ res – doi j 
+marenvres 
+
+kozich j j westcott s l baxter n t highlander s k and schloss p d 
+ development of a dual index sequencing strategy and curation pipeline
+for analyzing amplicon sequence data on the miseq illumina sequencing
+platform appl environ microbiol – doi aem 
+ 
+
+law k l plastics in the marine environment ann rev mar sci 
+ – doi annurev marine 
+
+law k l morét ferguson s e goodwin d s zettler e r deforce e 
+kukulka t et al distribution of surface plastic debris in the eastern
+pacific ocean from an year data set environ sci technol – 
+doi es 
+
+lebreton l c m zwet j van der damsteeg j slat b andrady a and
+reisser j river plastic emissions to the world’s oceans nat commun 
+ – doi ncomms 
+
+lechner a keckeis h lumesberger loisl f zens b krusch r tritthart m 
+et al the danube so colourful a potpourri of plastic litter outnumbers
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https doi org 
+https doi org j marpolbul 
+https doi org bioinformatics btm 
+https doi org a
+https doi org j tb x
+https doi org msystems 
+https doi org msystems 
+https doi org j hal 
+https doi org science 
+https doi org j marpolbul 
+https doi org x 
+https doi org x 
+http chao stat nthu edu tw wordpress software download 
+http chao stat nthu edu tw wordpress software download 
+https cran r project org package spader
+https doi org fee 
+https doi org acs est b 
+https doi org acs est b 
+https doi org j hal 
+https doi org j hal 
+https cran r project org package indicspecies
+https doi org 
+https doi org 
+https doi org j scitotenv 
+https doi org j scitotenv 
+https doi org oceanog 
+https doi org oceanog 
+https doi org j watres 
+https doi org j marpolbul 
+https doi org j marpolbul 
+https doi org nrmicro 
+https doi org f research 
+https doi org f research 
+https doi org j marpolbul 
+https doi org s 
+https doi org s 
+https doi org sciadv 
+https doi org sciadv 
+https doi org 
+https doi org s 
+https doi org journal pone 
+https doi org 
+https doi org j tb x
+https doi org j tb x
+https doi org aa e b
+https doi org aa e b
+https doi org j marenvres 
+https doi org j marenvres 
+https doi org 
+https doi org 
+https doi org j x
+https doi org j marenvres 
+https doi org j marenvres 
+https doi org aem 
+https doi org aem 
+https doi org annurev marine 
+https doi org es 
+https doi org ncomms 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+fish larvae in europe’s second largest river environ pollut – doi 
+ j envpol 
+
+legendre p and gallagher e d ecologically meaningful transformations
+for ordination of species data oecologia – doi 
+s 
+
+long m moriceau b gallinari m lambert c huvet a raffray j et al 
+ interactions between microplastics and phytoplankton aggregates 
+impact on their respective fates mar chem – doi j 
+marchem 
+
+ludwig w strunk o westram r richter l meier h yadhukumar a et al 
+ arb a software environment for sequence data nucleic acids res 
+ – doi nar gkh 
+
+masó m garcés e pagès f and camp j drifting plastic debris as a
+potential vector for dispersing harmful algal bloom hab species sci mar 
+ – doi scimar n 
+
+mccormick a hoellein t j mason s a schluep j and kelly j j 
+microplastic is an abundant and distinct microbial habitat in an urban river 
+environ sci technol – doi es r
+
+mccormick a r hoellein t j london m g hittie j scott j w and
+kelly j j microplastic in surface waters of urban rivers concentration 
+sources and associated bacterial assemblages ecosphere e doi 
+ecs 
+
+mincer t j zettler e r and amaral zettler l a “biofilms on
+plastic debris and their influence on marine nutrient cycling productivity 
+and hazardous chemical mobility ” in the handbook of environmental
+chemistry volume hazardous chemicals associated with plastics in the marine
+environment eds h takada and h k karapanagioti switzerland springer
+international publishing doi 
+
+mintenig s m int veen i löder m g j primpke s and gerdts g 
+identification of microplastic in effluents of waste water treatment plants using
+focal plane array based micro fourier transform infrared imaging water res 
+ – doi j watres 
+
+moeller p d r beauchesne k r huncik k m davis w c christopher 
+s j riggs gelasco p et al metal complexes and free radical toxins
+produced by pfiesteria piscicida environ sci technol – doi 
+ es 
+
+moestrup Ø hansen g daugbjerg n lundholm n overton j 
+vestergård m et al the dinoflagellates pfiesteria shumwayae
+and luciella masanensis cause fish kills in recirculation fish farms in denmark 
+harmful algae – doi j hal 
+
+morgulis a coulouris g raytselis y madden t l agarwala r and
+schäffer a a database indexing for production megablast
+searches bioinformatics – doi bioinformatics 
+btn 
+
+nercessian o noyes e kalyuzhnaya m g lidstrom m e and
+chistoserdova l bacterial populations active in metabolism of
+c compounds in the sediment of lake washington a freshwater lake 
+appl environ microbiol – doi aem 
+ 
+
+oberbeckmann s kreikemeyer b and labrenz m environmental
+factors support the formation of specific bacterial assemblages on microplastics 
+front microbiol doi fmicb 
+
+oberbeckmann s loeder m g gerdts g and mark osborn a 
+spatial and seasonal variation in diversity and structure of microbial biofilms
+on marine plastics in northern european waters fems microbiol ecol 
+ – doi 
+
+oberbeckmann s osborn a m and duhaime m b microbes on a
+bottle substrate season and geography influence community composition of
+microbes colonizing marine plastic debris plos one e doi 
+journal pone 
+
+oesterwind d dewitz b von döring r eero m goti l kotta j et al 
+ bio c biodiversity changes causes consequences and management
+implications available at https climate adapt eea europa eu metadata 
+projects biodiversity changes investigating causes consequences and 
+management implications 
+
+oksanen j blanchet f g friendly m kindt r legendre p mcglinn d et al 
+ vegan community ecology package r package version – www
+document available at https cran r project org package vegan
+
+orsi w d smith j m liu s liu z sakamoto c m wilken s et al 
+diverse uncultivated bacteria and archaea underlying the cycling of dissolved
+protein in the ocean isme j – doi ismej 
+
+orsi w d wilken s del campo j heger t james e richards t a et al 
+ identifying protist consumers of photosynthetic picoeukaryotes in the
+surface ocean using stable isotope probing environ microbiol – 
+doi 
+
+pruesse e peplies j and glockner f o sina accurate high throughput
+multiple sequence alignment of ribosomal rna genes bioinformatics 
+ – doi bioinformatics bts 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al 
+the silva ribosomal rna gene database project improved data processing
+and web based tools nucleic acids res – doi nar 
+gks 
+
+r core team r a language and environment for statistical computing 
+r version www document vienna r foundation for statistical
+computing available at https www r project org 
+
+reisser j shaw j hallegraeff g proietti m barnes d k a thums m 
+et al millimeter sized marine plastics a new pelagic habitat for
+microorganisms and invertebrates plos one e doi journal 
+pone 
+
+schloss p d westcott s l ryabin t hall j r hartmann m hollister 
+e b et al introducing mothur open source platform independent 
+community supported software for describing and comparing microbial
+communities appl environ microbiol – doi aem 
+ 
+
+setälä o magnusson k lehtiniemi m and norén f distribution and
+abundance of surface water microlitter in the baltic sea a comparison of two
+sampling methods mar pollut bull – doi j marpolbul 
+ 
+
+shah a a hasan f hameed a and ahmed s biological degradation
+of plastics a comprehensive review biotechnol adv – doi 
+j biotechadv 
+
+shannon p markiel a ozier o baliga n s wang j t ramage d 
+et al cytoscape a software environment for integrated models of
+biomolecular interaction networks genome res – doi 
+gr 
+
+snoeijs leijonmalm p and andrén e “why is the baltic sea so special to
+live in ” in biological oceanography of the baltic sea eds p snoeijs leijonmalm 
+h schubert and t radziejewska dordrecht springer – doi 
+ 
+
+stoeck t bass d nebel m christen r jones m d m breiner h w et al 
+ multiple marker parallel tag environmental dna sequencing reveals a
+highly complex eukaryotic community in marine anoxic water mol ecol 
+ – doi j x x
+
+stolte a forster s gerdts g and schubert h microplastic
+concentrations in beach sediments along the german baltic coast mar pollut 
+bull – doi j marpolbul 
+
+talvitie j heinonen m paakkonen j p vahtera e mikola a setala o 
+et al do wastewater treatment plants act as a potential point source
+of microplastics preliminary study in the coastal gulf of finland baltic sea 
+water sci technol – doi wst 
+
+viršek m k lovšin m n koren Š kržan a and peterlin m 
+microplastics as a vector for the transport of the bacterial fish pathogen
+species aeromonas salmonicida mar pollut bull – doi j 
+marpolbul 
+
+wickham h ggplot elegant graphics for data analysis nd edn new
+york ny springer publishing company 
+
+yilmaz p parfrey l w yarza p gerken j pruesse e quast c et al 
+the silva and “all species living tree project ltp ” taxonomic frameworks 
+nucleic acids res – doi nar gkt 
+
+yokota k waterfield h hastings c davidson e kwietniewski e and
+wells b finding the missing piece of the aquatic plastic pollution
+puzzle interaction between primary producers and microplastics limnol 
+oceanogr lett – doi lol 
+
+zettler e r mincer t j and amaral zettler l a life in the
+“plastisphere” microbial communities on plastic marine debris environ sci 
+technol doi es x
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https doi org j envpol 
+https doi org j envpol 
+https doi org s 
+https doi org s 
+https doi org j marchem 
+https doi org j marchem 
+https doi org nar gkh 
+https doi org scimar n 
+https doi org es r
+https doi org ecs 
+https doi org ecs 
+https doi org 
+https doi org j watres 
+https doi org es 
+https doi org es 
+https doi org j hal 
+https doi org bioinformatics btn 
+https doi org bioinformatics btn 
+https doi org aem 
+https doi org aem 
+https doi org fmicb 
+https doi org 
+https doi org journal pone 
+https doi org journal pone 
+https climate adapt eea europa eu metadata projects biodiversity changes investigating causes consequences and management implications
+https climate adapt eea europa eu metadata projects biodiversity changes investigating causes consequences and management implications
+https climate adapt eea europa eu metadata projects biodiversity changes investigating causes consequences and management implications
+https cran r project org package vegan
+https doi org ismej 
+https doi org 
+https doi org bioinformatics bts 
+https doi org nar gks 
+https doi org nar gks 
+https www r project org 
+https doi org journal pone 
+https doi org journal pone 
+https doi org aem 
+https doi org aem 
+https doi org j marpolbul 
+https doi org j marpolbul 
+https doi org j biotechadv 
+https doi org j biotechadv 
+https doi org gr 
+https doi org gr 
+https doi org 
+https doi org 
+https doi org j x x
+https doi org j marpolbul 
+https doi org wst 
+https doi org j marpolbul 
+https doi org j marpolbul 
+https doi org nar gkt 
+https doi org lol 
+https doi org es x
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+kettner et al eukaryotic communities on microplastics
+
+zhang z schwartz s wagner l and miller w a greedy algorithm
+for aligning dna sequences j comput biol – doi 
+ 
+
+conflict of interest statement the authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest 
+
+copyright © kettner oberbeckmann labrenz and grossart this is an open 
+access article distributed under the terms of the creative commons attribution
+license cc by the use distribution or reproduction in other forums is permitted 
+provided the original author s and the copyright owner s are credited and that the
+original publication in this journal is cited in accordance with accepted academic
+practice no use distribution or reproduction is permitted which does not comply
+with these terms 
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https doi org 
+https doi org 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+	the eukaryotic life on microplastics in brackish ecosystems
+	introduction
+	materials and methods
+	incubation experiments
+	dna extraction pcr amplification sequencing and sequence processing
+	data evaluation and statistics
+	phylogenetic trees
+	network analysis
+
+	results
+	eukaryotic communities across different substrate types and locations
+	diversity of eukaryotes on different substrate types
+	potential eukaryotic key taxa
+	co occurrence networks
+
+	discussion
+	effect of substrate type and location on eukaryotic communities
+	diversity and co occurrence patterns of microorganisms on mp
+	relevance of mp colonization for aquatic ecosystems
+
+	conclusion
+	originality significance statement
+	data availability
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

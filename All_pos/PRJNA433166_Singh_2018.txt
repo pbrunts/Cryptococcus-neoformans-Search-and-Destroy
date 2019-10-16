@@ -1,0 +1,1192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+trichoderma polysporum selectively inhibits white nose syndrome fungal pathogen pseudogymnoascus destructans amidst soil microbes
+
+
+research open access
+
+trichoderma polysporum selectively inhibits
+white nose syndrome fungal pathogen
+pseudogymnoascus destructans amidst soil
+microbes
+amanpreet singh erica lasek nesselquist vishnu chaturvedi and sudha chaturvedi 
+
+abstract
+
+background pseudogymnoascus destructans pd the causative fungal agent of white nose syndrome wns has
+led to the deaths of millions of hibernating bats in the united states of america usa and canada efficient strategies
+are needed to decontaminate pd from the bat hibernacula to interrupt the disease transmission cycle without affecting
+the native microbes previously we discovered a novel trichoderma polysporum tp strain wpm which inhibited
+the growth of pd in autoclaved soil samples in the present investigation we used culture based approaches to determine
+tp induced killing of native and enriched pd in the natural soil of two bat hibernacula we also assessed the impact of tp
+treatment on native microbial communities by metagenomics 
+
+results our results demonstrated that tp at the concentration of conidia g soil caused killing of native pd in
+culture within weeks of incubation a fold higher concentration of tp conidia g soil killed an enriched pd
+population conidia g soil the fungal operational taxonomic units otus dominated by ascomycota and
+basidiomycota and bacterial otus dominated by acidobacteria and proteobacteria comprised the native soil
+microbes of the two bat hibernacula no significant differences in fungal and bacterial relative abundances were observed
+between untreated and tp treated soil tp conidia g soil p≤ 
+
+conclusions our results suggest that tp induced killing of pd is highly specific with minimal to no impact on the
+indigenous microbes present in the soil samples these findings provide the scientific rationale for the field trials of tp
+in the wns affected hibernacula for the effective decontamination of pd and the control of wns 
+
+keywords white nose syndrome pseudogymnoascus destructans trichoderma polysporum biological decontamination 
+biocontrol agent selective inhibition bat hibernacula native soil microbiota metagenomics
+
+background
+pseudogymnoascus destructans pd the etiological agent
+of white nose syndrome wns has caused significant
+reductions in hibernating bat populations across the
+usa and canada – mortality was first observed in
+hibernating bats in howes cave near albany new york
+ ny in and has since spread extensively to us
+states and canadian provinces recently pd was
+
+detected in a little brown bat myotis lucifugus as far
+away as washington state several species of bats are
+already threatened with extinction including myotis
+lucifugus little brown bat myotis sodalis indiana bat 
+and myotis septentrionalis northern long eared bat 
+ pseudogymnoascus destructans a psychrophilic fungus 
+is well adapted to grow in the cold conditions prevailing
+in caves and mines it has been shown to secrete
+proteolytic enzymes similar to the fungi that cause skin
+infections dermatophytes and has a clonal popula 
+tion in the usa – low body temperature along
+with reduced immune system in hibernating bats provides
+the optimal growth environment for pd – 
+
+ correspondence sudha chaturvedi health ny gov
+ mycology laboratory wadsworth center new york state department of
+health new scotland avenue albany ny usa
+ department of biomedical sciences school of public health university at
+albany albany ny usa
+full list of author information is available at the end of the article
+
+© the author s open access this article is distributed under the terms of the creative commons attribution 
+international license http creativecommons org licenses by which permits unrestricted use distribution and
+reproduction in any medium provided you give appropriate credit to the original author s and the source provide a link to
+the creative commons license and indicate if changes were made the creative commons public domain dedication waiver
+ http creativecommons org publicdomain zero applies to the data made available in this article unless otherwise stated 
+
+singh et al microbiome 
+https doi org s 
+
+http crossmark crossref org dialog doi s domain pdf
+mailto sudha chaturvedi health ny gov
+http creativecommons org licenses by 
+http creativecommons org publicdomain zero 
+
+
+alarmingly pd has been found to survive in the affected
+hibernacula even in the absence of bats – thus an
+infected hibernaculum could remain contaminated with
+pd for prolonged periods of time and serve as the foci for
+new infections mathematical models have predicted
+that reducing pd in caves and mines may prevent wns 
+associated bat mortality currently efforts are be 
+ing devoted to the development and testing of chemical
+and biological agents for the effective eradication of pd
+from bat hibernacula and hibernating bats although these
+control strategies appear to be promising they are not
+being used for the large scale decontamination of hiber 
+nacula because of the likely off target effects on the native
+microbial communities – considering the mass
+mortality of bats caused by wns and the economic loss
+of billion dollars to agricultural pest control in the
+usa annually imminent steps are needed to decon 
+taminate pd from bat hibernacula and break its transmis 
+sion cycle 
+previously we characterized a novel psychrotolerant
+
+trichoderma polysporum tp strain wpm from
+the william preserve mine ulster county ny one of
+the mines at the epicenter of the wns zoonotic tp
+grew well at low temperatures of – °c and inhibited
+pd in laboratory media and autoclaved soil samples 
+the present study aimed at further evaluation of tp as
+an effective biocontrol agent against pd specifically we
+examined a if tp could act as an effective biocontrol
+agent against pd in the natural soil from bat hibernacula
+and b whether tp treatment impacted the native micro 
+bial communities in the natural soil from bat hibernacula 
+
+methods
+fungal strains and media
+pseudogymnoascus destructans pd strain m and
+tp strain wpm were used as described previously
+ all fungal isolates were maintained on sabour 
+aud dextrose agar sda slants at °c and stored in
+ glycerol at − °c in sterile cryogenic vials sabour 
+aud dextrose agar fortified with an enhanced panel of
+antibacterials sda a additional file sda a with
+cycloheximide g l and rose bengal agar with chlor 
+amphenicol rbc μg ml were used for the isolation
+of pd tp and other fungi from bat hibernacula as
+described previously potato dextrose agar pda 
+and water agar wa were used to induce spore forma 
+tion in pd and tp millet seeds extract was used to for 
+tify nutrients in the soil samples from bat hibernacula for
+tp and pd interaction studies in brief g of millet seeds
+was added in ml water was autoclaved at °c for
+ min and was mixed with an additional ml steril 
+ized water the resulting extract was passed through mus 
+lin cloth autoclaved as above allowed to cool and stored
+
+at °c until used all the experiments were performed in
+the biosafety cabinet in a biosafety level laboratory 
+
+biocontrol application of tp in natural soil
+to determine tp induced killing of pd in a natural soil 
+one soil sample from aeolus cave ac bennington
+county vt dark black in color collection date of 
+ and one soil sample from barton hill mine bhm 
+essex county ny course sediments collection date of
+ were used soil samples approximately
+ g from each site were weighed transferred to an
+autoclaved mortar and pestle and mixed gently to obtain
+a homogeneous mixture the mixture was aliquoted into
+eight vials for each site with each vial containing g of
+soil four vials were inoculated with pd conidia g
+soil and the remaining four vials received sterilized
+water following week post incubation two of the four
+pd containing vials received tp conidia g soil to ob 
+tain a ratio of pd to tp the other two pd containing
+vials received sterilized water pd only of the remaining
+four vials in which pd was not inoculated two received
+tp conidia g soil which served as tp only controls 
+while the remaining two vials received sterilized water and
+served as soil only controls additional file all the vials
+were incubated at °c for weeks 
+to determine the number of tp required for killing
+
+pd in subsequent experiments fold conidia g
+soil and fold conidia g soil higher concentra 
+tions of tp conidia than pd conidia conidia g soil 
+were added and these soil samples were incubated at °
+c and then processed at and weeks post incubation
+ additional file 
+
+culture recovery of pd tp and other fungi
+following incubation of soil samples at °c for – weeks 
+ mg of soil sample was removed from each vial in dupli 
+cate and transferred into ml screw cap vials the soil
+sample was suspended in μl of sterilized water and vor 
+texed vigorously ten fold dilutions of the supernatant were
+prepared and μl of each dilution was plated onto various
+media plates mm diameter in duplicate the plates
+were incubated at °c and checked periodically for the re 
+covery of pd tp and other fungi as described previously
+ in brief sda a medium was used to determine the
+tp colony forming units cfus sda a with cyclohexi 
+mide was used to determine pd cfu and the rbc medium
+was used for the determination of other fungi present in
+the cave and mine soil samples the percent killing of pd
+by tp was calculated using a formula − pd cfu experi 
+ment pd cfu control × 
+
+dual culture challenge studies
+for dual culture challenge studies approximately × mm
+of freshly grown tp fungal hyphal mat was inoculated on
+
+singh et al microbiome page of 
+
+
+
+one side of the sda plate similarly freshly grown fungal
+hyphal mat from various fungi obtained from both ac and
+bhm were inoculated on the opposite side of the plate 
+the interactions between tp and other fungal isolates were
+assessed by measuring colony diameter following days
+post incubation at °c the tp and different fungal iso 
+late cultures alone served as a control 
+statistical analysis for culture based assays cfu enumer 
+
+ation and colony diameter was performed using graphpad
+prism software graphpad san diego ca usa the com 
+parison of two groups was performed using a two tailed un 
+paired t test with a p value of ≤ accepted as significant 
+
+metagenomics of soil samples
+dna libraries
+for the microbial community analysis dna from mg
+of untreated and tp treated and conidia g soil for
+ac and conidia g soil for bhm soil samples in du 
+plicate were extracted with the powersoil dna isolation
+kit mo bio laboratories carlsbad ca usa add 
+itional file dna concentrations were measured using a
+nanodrop spectrophotometer nd nano drop
+technologies wilmington de usa dna libraries were
+prepared using a two step pcr in the first pcr the pri 
+mer sets targeted the its region of the ribosomal rna
+ rrna gene of fungi and the hypervariable region
+v of the s rrna gene of bacteria and archaea 
+the same illumina adaptor sequences were added to both
+fungal and bacterial archaeal primers thus the primer
+set used for the first pcr for fungi had the following
+sequence forward primer ′ tcgtcggcagcgtcag
+atgtgtataagagacagaactttyrrcaayggat
+cwct ′ locus specific sequence in bold and reverse
+primer ′ gtctcgtgggctcggagatgtgtataag
+agacagagcctccgcttattgatatgcttaart ′
+ locus specific sequence in bold the primer set used for
+the first pcr for bacteria archaea had the following se 
+quence forward primer ′ tcgtcggcagcgtcaga
+tgtgtataagagacaggtgycagcmgccgcggta
+a ′ locus specific sequence in bold and reverse primer
+ ′ gtctcgtgggctcggagatgtgtataagagac
+agggactacnvgggtwtctaat ′ locus specific se 
+quence in bold pcr reactions were carried out in a total
+volume of μl three microliters of extracted dna ng 
+μl was added to the pcr reaction containing μl of ster 
+ile water μl of bovine serum albumin μl of accutaq
+la buffer μl of dntps μl of accutaq™ la dna poly 
+merase sigma aldrich st louis mo usa and μl each
+of fungal and bacterial archaeal forward and reverse primers 
+all the pcr reactions were carried out in triplicate on a
+c touchthermal cycler biorad hercules ca usa 
+the thermocycling conditions for fungal specific pcr were
+initial denaturation at °c for min followed by cycles
+of denaturation at °c for s annealing at °c for
+
+ min extension at °c for min followed by final exten 
+sion at °c for min for bacterial archaeal specific pcr 
+thermocycling conditions were °c for min followed by
+ cycles of denaturation at °c for s annealing at °
+c for min extension at °c for min and a final exten 
+sion at °c for min the first stage pcr products were
+run on the agarose gel to confirm the length of the respect 
+ive bands triplicate samples were pooled to limit possible
+pcr artifacts an agencourt ampure xp pcr purification
+kit beckman coulter inc indianapolis in usa was used
+for the purification of the pcr products the second pcr
+step added dual indices barcode along with illumina se 
+quencing adaptors using the nextera xt index kit illumi 
+na s metagenomics protocol pcr reactions were
+carried out in a total volume of μl which contained μl
+of pcr product from the first pcr and the × kapa hifi
+hotstart ready mix the reaction conditions were initial de 
+naturation at °c for min followed by eight cycles of de 
+naturation at °c for s annealing at °c for s 
+extension at °c for s and a final extension at °c for
+ min all pcr reactions were performed in triplicate the
+pcr products were cleaned using an agencourt ampure
+xp pcr purification kit dna concentration was measured
+using a qubit fluorometer invitrogen carlsbad ca 
+usa and the size was measured with an agilent tapesta 
+tion using the d high sensitivity kit the resulting
+dna libraries were pooled denatured and sequenced on
+miseq using miseq reagent kit v cycles illumina
+inc san diego ca usa by the wadsworth center ad 
+vanced sequencing core facility 
+
+sequence processing
+the wadsworth sequencing core demultiplexed reads
+and removed primer and linker sequences before ana 
+lysis the subroutines of bbtools v bbmerge
+and bbduk merged all pairs of forward and reverse
+reads quality trimmed merged pairs with the parame 
+ters trimq minq minlength minavgqual 
+ity efilter mininsert mininsert 
+and removed any remaining forward and reverse primers
+for fungal and bacterial samples the its region for
+taxonomic identification was extracted from fungal se 
+quences using itsx v which removed s
+and s regions from merged sequences chimeric
+sequences were removed using usearch with a modi 
+fied unite “its only” reference dataset version 
+release which was designed to serve as a
+chimera free reference database chimeric s sequences
+were removed from bacterial samples in qiime v 
+ via usearch and the most recent version of
+the greengenes database gg minor release of
+gg from using default parameters 
+qiime further processed quality filtered sequences which
+were then clustered into operational taxonomic units
+
+singh et al microbiome page of 
+
+
+
+ otus at similarity by the uclust algorithm 
+and assigned taxonomy by mothur v with the
+pick open reference otu option and a default confidence
+level of the latest releases of the greengenes s
+ gg and unite datasets version release
+ both clustered at similarity served
+as the reference databases for clustering and taxonomic
+assignment of bacterial and fungal sequences respectively 
+
+sample statistics
+for bacterial and fungal datasets chao observed spe 
+cies and simpson’s index estimates of alpha diversity
+were calculated in qiime with rarefied otu tables sig 
+nificant differences across treatments and locations were
+assessed via a non parametric t test with permuta 
+tions of the p value qiime also calculated beta diversity
+with bray curtis and euclidean metrics and significant
+differences in community composition were identified
+with an analysis of similarities anosim principal
+component analysis plots were generated in r v 
+with euclidean distance matrices to confirm consistency
+among replicates and verify that most of the variation in
+datasets was derived from differences in treatment and lo 
+cation data not shown 
+bacterial and fungal samples were rarefied to depths of
+
+ and respectively and relative abundances
+were summarized to a genus level if possible abundance
+count at the phylum and genus levels were exported from
+qiime and analyzed in deseq v in r to identify
+significant changes in taxonomic composition only taxa
+with four or more counts across samples were included in
+deseq analyses to remove sparse otus 
+
+fungal identification
+all fungi recovered from the soil samples were identified
+by morphological and molecular methods for mo 
+lecular testing dna from pure fungal colonies was ex 
+tracted using masterpuretm complete dna and rna
+purification kits epicenter madison wi usa as per
+manufacturer’s instructions the extracted dna was
+used for the amplification of internal transcribed spacer
+ its regions and its s and its of the ribo 
+somal gene as described previously in some in 
+stances where the its region failed to provide fungal
+identification the d d region of the large subunit
+ lsu of the s rdna gene was amplified pcr
+was carried out as described in white et al pcr
+products were cleaned with exosap it usb corp 
+cleveland oh usa and sequenced at the wadsworth
+center advanced genomics core the sequences were
+assembled and edited for accuracy using sequencher
+software gen codes corp ann arbor mi usa 
+all unknown sequences were compared to the ncbi
+genbank database with blast and the westerdijk
+
+fungal biodiversity institute database for fungal
+identifications identity of ≥ was used for species
+confirmation in case of discrepant results between the
+two databases the westerdijk fungal biodiversity insti 
+tute database was preferred as it has curated sequences 
+
+results
+biocontrol of pd in natural soil – a culture based approach
+pd was recovered from native ac soil at cfu g soil
+ fig pd recovery was very low from bhm cfu g
+soil consistent with our previous observations 
+treatment of ac soil with tp conidia g soil resulted
+in inhibition of the native pd population within
+ weeks post incubation at °c confirming high biocon 
+trol potential of tp fig however when ac and bhm
+soil samples were enriched with pd conidia g soil 
+the tp induced killing of pd was markedly reduced to
+approximately to data not shown maximum
+killing of pd in enriched soil was observed when tp in 
+oculum was increased from fold conidia g soil to
+ fold conidia g soil to that of pd conidia g
+soil although tp killed pd as early as week
+post incubation killing was achievable at week
+post incubation fig a further increase in tp to
+ fold of pd was not effective as the killing of pd was
+observed to be only at week post incubation
+ fig a enriching soil nutrients by adding millet seeds
+extract did not impact tp induced killing of pd as only
+ and pd was killed with the additions of fold
+and fold more tp respectively fig b these re 
+sults indicated that the ratio of tp to pd of 
+
+fig inhibition of native pd by tp in ac soil samples untreated
+soil soil alone and soil treated with tp conidia g soil were
+incubated at °c five weeks post incubation two aliquots from
+each sample were processed for the recovery of pd tp induced
+ killing of native pd in the ac soil samples p 
+
+singh et al microbiome page of 
+
+
+
+appeared to optimally render the maximum inhibitory
+effect the soil microbial communities did not hamper
+tp growth in any of the soil samples tested the tp
+growth was not only sustained but also increased with
+prolonged incubation data not shown 
+
+effect of tp treatment on microbial communities of cave
+and mine soil samples—a metagenomics approach
+sequence analysis
+a total of fungal sequences passed initial
+quality filters of these passed qiime’s
+
+quality standards as well while were
+flagged as chimeric and removed table this re 
+sulted in an average of sequences per sample
+ n which were clustered into otus for
+all bacterial samples a total of sequences
+passed the initial quality filters of bbtools with of
+these sequences accepted by qiime and
+ identified as chimeric and removed
+ table on average there were sequences
+per sample n which clustered into 
+otus 
+
+fig inhibition of enriched pd by tp in ac soil samples a soil samples from ac were inoculated with pd conidia g soil in duplicate following
+ days post incubation at °c tp at fold conidia g soil or fold conidia g soil to that of pd conidia g soil was added untreated soil
+ soil alone and soil containing tp served as controls two aliquots from each sample were processed for the recovery of pd in culture at week and 
+post incubation approximately and killing of pd was observed with fold and fold higher tp at week post incubation which gradually
+increased to and at week post incubation and and at week post incubation b soil samples were inoculated with pd and treated with
+tp as explained in a except that these samples also received millet seeds extract addition of millet seeds extract did not enhance tp killing of pd 
+
+table fungal and bacterial community analyses by high throughput sequencing
+
+sample fungi bacteria
+
+bbmerge and bbduk qiime and usearch bbmerge and bbduk qiime and usearch 
+
+ac soil alone 
+
+ac soil alone 
+
+ac soil tp a 
+
+ac soil tp a 
+
+ac soil tp b 
+
+ac soil tp b 
+
+bh soil alone 
+
+bh soil alone 
+
+bh soil tp a 
+
+bh soil tp a 
+
+total 
+
+soil samples from aeolus cave ac and barton hill mine bhm were treated with tp at the concentration of conidia g soil a a or conidia g soil b 
+b followed by gdna extraction pcr and high throughput sequencing untreated soil samples soil alone were included for comparison note due to small
+number of pd recovered from bhm soil the tp treatment was limited to conidia g soil
+
+singh et al microbiome page of 
+
+
+
+tp treatment and location effects on alpha and beta diversity
+of soil samples
+no significant differences in the alpha diversity were ob 
+served across treatments or geographical locations for
+either bacterial or fungal communities additional file 
+fungal community composition changes as assessed by
+the beta diversity estimates also did not differ signifi 
+cantly due to tp treatment of either ac or bhm soils 
+however there was a significant difference in commu 
+nity composition between the two locations anosim
+test statistic p value similarly bacterial beta
+diversity was not significantly altered by tp treatment
+within ac or bhm but varied significantly between
+sites 
+
+treatment effect on the abundance of fungal and bacterial
+communities at the phylum and genus levels
+for fungi of all sequences could be assigned at the
+phylum level with seven phyla identified from ac and
+five phyla identified from bhm both ac and bhm
+were dominated by otus from ascomycota and basid 
+iomycota which comprised over of the fungal com 
+munities fig a soil subjected to tp treatment 
+
+conidia g soil showed no significant differences in the
+phylum abundances for fungi at either ac or bhm
+ additional file however there was a significant in 
+crease in ascomycota for ac soil subjected to a higher
+tp treatment conidia g soil additional file 
+which reflected the dramatic increase in trichoderma in
+these samples fig b similarly analysis at the genus
+level revealed highly significant increases in trichoderma
+for both ac and bhm for both treatments with few
+other taxa being affected fig b additional file al 
+though no significant changes in pseudogymnoascus
+abundance were observed additional file the genus
+encompasses several species which might not be influ 
+enced by tp treatment 
+for bacteria archaea a total of phyla were identified
+
+from ac whereas only were identified from bhm
+with of the sequences designated as unclassified
+ bacteria other the five most abundant phyla in ac
+were acidobacteria proteobacteria plancto 
+mycetes chloroflexi and actinobacteria
+ fig c the most abundant phyla identified
+from bhm included planctomycetes acidobac 
+teria firmicutes and actinobacteria 
+with proteobacteria comprising almost half of the
+bhm bacterial community fig c despite apparent
+differences in the community richness and evenness be 
+tween the ac and bhm there were no significant differ 
+ences in alpha diversity additional file there were
+also no significant differences in bacterial relative abun 
+dances between untreated and tp treated soil tp
+conidia g soil for ac at the phylum or genus level
+
+ additional files and for ac soil samples treated
+with tp conidia g soil phyla and genera were
+significantly affected compared to untreated soil samples
+ additional files and for bhm soil samples treated
+with tp conidia g soil no phyla and only genera
+showed significant changes additional files and 
+
+tp interaction with other cave mine fungi—a culture based
+approach
+a total of fungal species were recovered from ac and
+of these belonged to ascomycota belonged to
+early diverging fungal lineage edfl and belonged to
+basidiomycota fig a additional file of the fun 
+gal species recovered from bhm belonged to asco 
+mycota belonged to edfl and belonged to
+basidiomycota fig a additional file thus ascomy 
+cota dominated the fungal species followed by edfl and
+basidiomycota from both ac and bhm 
+
+dual challenge study
+the dual interaction studies indicated that tp is highly
+specific in inhibiting pd in addition to pd only one fun 
+gal isolate belonging to genus microascus was inhibited 
+the rest of the fungal species collectively identified
+from both ac and bhm were not inhibited including
+the closely related species pseudogymnoascus pannorum
+ fig b additional files and 
+
+discussion
+we demonstrated that the biocontrol agent tp inhibited
+pd in the presence of microbes that are native to the soil
+from the affected hibernacula this finding further ex 
+panded our earlier observations of the efficacy of tp in
+killing of pd in autoclaved soil samples another
+important finding of this study was the specificity of tp
+for killing pd with minimal to no impact on the micro 
+bial diversity and community structures of soil samples
+tested from both ac and bhm even though the micro 
+bial community compositions of ac and bhm were
+significantly different they were not affected by tp treat 
+ment suggesting that the soil communities are relatively
+robust and indifferent to tp treatment the combined
+culture based and metagenomics approaches allowed us
+to follow the fate of the biocontrol agent and its target
+in the treated soil culture based monitoring of pd and
+tp was important to estimate loss of viable organisms
+while dna based approaches provided better census of
+microbial communities 
+several dna and culture based studies have revealed
+
+wide distribution and persistence of pd in bat hibernac 
+ula other published cave fungal surveys
+indicate that pd could survive and persist in bat hiber 
+nacula for prolonged periods and can have impact on
+both wns disease management and epidemiology 
+
+singh et al microbiome page of 
+
+
+
+fig see legend on next page 
+
+singh et al microbiome page of 
+
+
+
+to eradicate pd from bat hibernacula we need highly
+competent biocontrol agent which can grow sustain 
+and selectively kill pd without impacting the hibernacula
+ecosystem the tp strain used in this investigation ful 
+fills all these criteria thereby strengthening the argu 
+ment for application of tp as a potential biocontrol
+agent against pd in caves and mines 
+in concordance with metagenomics analysis the
+
+dual culture challenge studies of tp with several fungi
+recovered from ac and bhm revealed that except for
+one isolate of microascus species the growth of other
+fungi was not affected by tp microascus is a soil sapro 
+phyte and a common agent of bio deterioration 
+since other species in the genus microascus were not
+inhibited by tp we do not anticipate deleterious effects
+on cave mine ecosystem conversely tp grew well in
+the presence of both fast and slow growing fungi as
+well as in the presence of other microbial communities
+indigenous to the soil samples tested the high survival
+potential of tp in hibernacula soil suggests its ability to
+survive under unfavorable conditions and high repro 
+ductive capacity 
+microbial communities play several critical roles in
+
+the soil including organic matter decomposition and
+
+control of its cycle regulation of mineral nutrient
+availability and nitrogen fixation thousands of
+bacterial archaeal and eukaryotic organisms are
+present in natural soil and collectively contribute to
+maintaining the myriad of functions of soil microbial
+inoculation of a biocontrol agent can cause tremen 
+dous changes in the number and composition of
+taxonomic groups these changes can increase the di 
+versity of the soil samples while also having toxic ef 
+fects on the indigenous microbes thus the
+practical use of any microbial inoculation should be
+rigorously tested in a laboratory setting to avoid any
+deleterious effects to microbial diversity in soils to
+this end we have rigorously tested the use of tp as a
+biocontrol agent for the eradication of pd in cave and
+mine soil samples and tp treatment in large had no
+impact on the native microbial communities other
+than pd 
+
+conclusions
+the present study demonstrates the remarkable speci 
+ficity and high potency of tp for killing pd in the
+presence of indigenous microbial communities with
+minimal to no impact on the microbial community
+
+ see figure on previous page 
+fig relative abundance of fungal and bacterial communities in soil samples from bat hibernacula with or without tp treatment the soil samples
+from aeolus cave ac and barton hill mine bhm were treated with tp at the concentration of conidia g soil a a or conidia g soil b 
+b untreated soil samples soil alone were included for comparison gdna was extracted followed by pcr and high throughput sequencing a the
+relative abundance of fungal phyla is shown ascomycota dominated followed by basidiomycota and early diverging fungal lineages chytridiomycota 
+entomophthoromycota mortierellomycota mucormycota and rozellomycota from both ac and bhm b the relative distribution of most abundant
+fungal genera is shown the increases in trichoderma as represented by “t” in both ac and bhm were due to the exogenous addition of tp c the
+relative abundance of bacterial phyla is shown acidobacteria dominated ac soil and protobacteria dominated bhm soil
+
+fig fungal recovery from bat hibernacula and their interaction with tp a soil samples from aeolus cave ac and barton hill mine bhm were
+suspended in sterile water and then spread on culture media plates colonies recovered were identified by sequencing of the its and d d 
+regions of the ribosomal gene followed by blast search pie charts represent the relative distributions of fungal phyla ascomycota dominated
+followed by early diverging fungal lineage and basidiomycota in both ac and bhm b interaction of tp with other fungal species isolated from
+ac and bhm was carried out on sda plate and the results of these interactions were assessed days post incubation at °c upper panel
+denotes tp induced inhibition of pd and microascus species ms lower panel denotes fungal species not inhibited by tp two such examples are
+mortierella clonocystis mc and penicillium sopii ps 
+
+singh et al microbiome page of 
+
+
+
+structure or diversity present in ac and bhm soil
+samples the study rigorously tested the application
+of tp in natural soil samples in a lab setting with re 
+sults that strengthens the argument for tp’s applica 
+tion as a biocontrol agent under field conditions 
+
+additional files
+
+additional file concentrations of extended panel of antibiotics in
+sabouraud dextrose agar docx kb 
+
+additional file flow chart of pd and tp ratio interaction in ac
+and bhm soil samples tif kb 
+
+additional file flow chart of pd and tp and ratio 
+interaction in ac soil samples tif kb 
+
+additional file flow chart of pd and tp interaction and ratio 
+in ac soil and pd and tp interaction ratio in bhm soil followed by
+dna extraction and metagenomics analysis tif kb 
+
+additional file comparison of alpha diversity among tp treatments
+and locations using a non parametric t test xlsx kb 
+
+additional file deseq analysis of changes in the abundance of
+fungal phyla in soil from bat hibernacula with or without tp treatment 
+ xlsx kb 
+
+additional file deseq analysis of changes in the abundance of
+fungal genera in soil from bat hibernacula with or without tp treatment 
+ xlsx kb 
+
+additional file deseq analysis of changes in the abundance of
+bacterial phyla in soil from bat hibernacula with or without tp treatment 
+ xlsx kb 
+
+additional file deseq analysis of changes in abundance of bacterial
+genera in soil from bat hibernacula with or without tp treatment 
+ xlsx kb 
+
+additional file fungi recovered from ac soil and assessed for
+growth inhibition by tp docx kb 
+
+additional file fungi recovered from bhm soil and assessed for
+growth inhibition by tp docx kb 
+
+abbreviations
+ac aeolus cave anosim analysis of similarities bhm barton hill mine 
+cfu colony forming unit edfl early diverging fungal lineage its internal
+transcribed spacer lsu large subunit otus operational taxonomic units 
+pd pseudogymnoascus destructans pda potato dextrose agar rbc rose
+bengal agar with chloramphenicol rrna ribosomal rna sda sabouraud
+dextrose agar tp trichoderma polysporum wa water agar wns white nose
+syndrome
+
+acknowledgements
+we are thankful to the wadsworth center media tissue culture core for
+the preparation of various media and reagents and wadsworth center
+advanced genomics core for sequencing of dna samples we also thank
+mr al hicks for providing us soil samples for both ac and bhm the
+members of chaturvedi lab are acknowledged for their support and help 
+
+funding
+this study was supported in part with funds from fish and wildlife service
+ f as to sc and vc and in part with funds from the national science
+foundation to vc and sc the funders had no role in study
+design data collection and analysis decision to publish or preparation of
+the manuscript 
+
+availability of data and materials
+the datasets generated and analyzed during the current study have been
+deposited in the ncbi bioproject database accession number prjna 
+ https www ncbi nlm nih gov bioproject raw sequences and metadata are
+available in the sra database with the following accession numbers 
+srr aeolus cave soil alone fungal data replicate srr 
+
+aeolus cave soil alone fungal data replicate srr aeolus cave
+soil tp conidia g soil fungal data replicate srr aeolus
+cave soil tp conidia g soil fungal data replicate srr 
+aeolus cave soil tp conidia g soil fungal data replicate 
+srr aeolus cave soil tp conidia g soil fungal data replicate
+ srr barton hill mine soil alone fungal data replicate 
+srr barton hill mine soil alone fungal data replicate 
+srr barton hill mine soil tp conidia g soil fungal data 
+replicate srr barton hill mine soil tp conidia g soil fungal
+data replicate srr aeolus cave soil alone bacterial data replicate
+ srr aeolus cave soil alone bacterial data replicate 
+srr aeolus cave soil tp conidia g soil bacterial data 
+replicate srr aeolus cave soil tp conidia g soil bacterial
+data replicate srr aeolus cave soil tp conidia g soil 
+bacterial data replicate srr aeolus cave soil tp conidia g
+soil bacterial data replicate srr barton hill mine soil alone 
+bacterial data replicate srr barton hill mine soil alone bacterial
+data replicate srr barton hill mine soil tp conidia g soil 
+bacterial data replicate srr barton hill mine soil tp 
+
+conidia g soil bacterial data replicate a permanent link to the data can
+be found at https www ncbi nlm nih gov traces study acc srp 
+
+authors’ contributions
+aps and sc conceived and designed the experiments aps performed the
+experiments aps eln and sc analyzed the data aps eln sc and vc
+wrote the paper all authors read and approved the final manuscript 
+
+ethics approval and consent to participate
+the collection of soil samples from barton hill mine in new york state nys 
+was done with the permission and cooperation of dec as supplemental
+activities during standard winter hibernacula surveys conducted by the nys
+department of environmental conservation nysdec aeolus cave soil
+samples were collected with the permission and cooperation of the vermont
+department of fish and wildlife vdfw as a supplemental activity during a
+scheduled visit to the site the samples were collected as members of the
+agency teams were counting the bats with no additional disturbance
+events no visitation and sampling permits were required in either state 
+
+consent for publication
+not applicable 
+
+competing interests
+the authors declare that they have no competing interests 
+
+publisher’s note
+springer nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations 
+
+author details
+ mycology laboratory wadsworth center new york state department of
+health new scotland avenue albany ny usa bioinformatics
+core wadsworth center new york state department of health albany ny 
+usa department of biomedical sciences school of public health university
+at albany albany ny usa 
+
+received february accepted july 
+
+references
+ blehert ds hicks ac behr m meteyer cu berlowski zier bm buckles el et
+
+al bat white nose syndrome an emerging fungal pathogen science 
+ pubmed pmid epub eng
+
+ chaturvedi v springer dj behr mj ramani r li x peck mk et al 
+morphological and molecular characterizations of psychrophilic fungus
+geomyces destructans from new york bats with white nose syndrome
+ wns plos one e pubmed pmid pubmed
+central pmcid pmc epub eng
+
+ frick wf pollock jf hicks ac langwig ke reynolds ds turner gg et al an
+emerging disease causes regional population collapse of a common north
+american bat species science – pubmed pmid 
+ epub eng
+
+singh et al microbiome page of 
+
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https www ncbi nlm nih gov bioproject 
+https www ncbi nlm nih gov traces study acc srp 
+
+
+ blehert ds fungal disease and the developing story of bat white nose
+syndrome plos pathog e pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ o reagan sm magori k pulliam jt zokan ma kaul rb barton hd et al 
+multi scale model of epidemic fade out will local extirpation events inhibit
+the spread of white nose syndrome ecol appl – pubmed
+pmid epub eng
+
+ white nosesyndrome org http www whitenosesyndrome org about 
+where is it now accessed june 
+
+ white nosesyndrome org http www whitenosesyndrome org resources 
+map accessed june 
+
+ lorch jm palmer jm lindner dl ballmann ae george kg griffin k et al 
+first detection of bat white nose syndrome in western north america 
+msphere e – pubmed pmid pubmed central
+pmcid pmc epub eng
+
+ langwig ke frick wf bried jt hicks ac kunz th kilpatrick am sociality 
+density dependence and microclimates determine the persistence of
+populations suffering from a novel fungal disease white nose syndrome ecol
+lett – pubmed pmid epub eng
+
+ gargas a trest m christensen m volk tj blehert ds geomyces
+destructans sp nov associated with bat white nose syndrome 
+mycotaxon – 
+
+ ren p haman kh last la rajkumar ss keel mk chaturvedi v clonal
+spread of geomyces destructans among bats midwestern and southern
+united states emerg infect dis – pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ rajkumar ss li x rudd rj okoniewski jc xu j chaturvedi s et al clonal
+genotype of geomyces destructans among bats with white nose syndrome 
+new york usa emerg infect dis – pubmed pmid 
+ pubmed central pmcid pmc epub eng
+
+ drees kp lorch jm puechmaille sj parise kl wibbelt g hoyt jr et al 
+phylogenetics of a fungal invasion origins and widespread dispersal of
+white nose syndrome mbio e – pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ boyles jg willis ckr could localized warm areas inside cold caves reduce
+mortality of hibernating bats affected by white nose syndrome frontiers
+ecol environment – 
+
+ webb pi speakman jr racey pa how hot is a hibernaculum a review of the
+temperatures at which bats hibernate canadian j zoology – 
+
+ bouma hr carey hv kroese fg hibernation the immune system at rest j
+leukoc biol – pubmed pmid epub eng
+
+ verant ml boyles jg waldrep w jr wibbelt g blehert ds temperature 
+dependent growth of geomyces destructans the fungus that causes bat
+white nose syndrome plos one e pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ lorch jm muller lk russell re o connor m lindner dl blehert ds 
+distribution and environmental persistence of the causative agent of white 
+nose syndrome geomyces destructans in bat hibernacula of the eastern united
+states appl environment microbiol – pubmed pmid 
+ pubmed central pmcid pmc epub eng
+
+ raudabaugh db miller an nutritional capability of and substrate suitability
+for pseudogymnoascus destructans the causal agent of bat white nose
+syndrome plos one e pubmed pmid pubmed
+central pmcid pmc epub eng
+
+ reynolds ht ingersoll t barton ha modeling the environmental growth of
+pseudogymnoascus destructans and its impact on the white nose syndrome
+epidemic j wildl dis – pubmed pmid epub
+ eng
+
+ lindner dl gargas a lorch jm banik mt glaeser j kunz th et al dna 
+based detection of the fungal pathogen geomyces destructans in soils from
+bat hibernacula mycologia – pubmed pmid 
+epub eng
+
+ meyer ad stevens df blackwood jc predicting bat colony survival
+under controls targeting multiple transmission routes of white nose
+syndrome j theor biol – pubmed pmid epub
+ eng
+
+ hoyt jr cheng tl langwig ke hee mm frick wf kilpatrick am bacteria
+isolated from bats inhibit the growth of pseudogymnoascus destructans the
+causative agent of white nose syndrome plos one e 
+pubmed pmid pubmed central pmcid pmc epub
+ eng
+
+ cornelison ct keel mk gabriel kt barlament ck tucker ta pierce ge et al 
+a preliminary report on the contact independent antagonism of
+pseudogymnoascus destructans by rhodococcus rhodochrous strain
+dap bmc microbiol pubmed pmid pubmed
+central pmcid pmc epub eng
+
+ cheng tl mayberry h mcguire lp hoyt jr langwig ke nguyen h et al 
+efficacy of a probiotic bacterium to treat bats affected by the disease white 
+nose syndrome j appl ecol – 
+
+ cornelison ct gabriel kt barlament c crow sa jr inhibition of
+pseudogymnoascus destructans growth from conidia and mycelial extension
+by bacterially produced volatile organic compounds mycopathologia 
+ – – pubmed pmid epub eng
+
+ wilcox a willis ckr energetic benefits of enhanced summer roosting
+habitat for little brown bats myotis lucifugus recovering from white nose
+syndrome conservation physiol cov –cov 
+
+ boyles jg cryan pm mccracken gf conservation kth economic
+importance of bats in agriculture science – pubmed
+pmid epub eng
+
+ zhang t chaturvedi v chaturvedi s novel trichoderma polysporum strain
+for the biocontrol of pseudogymnoascus destructans the fungal etiologic
+agent of bat white nose syndrome plos one e 
+pubmed pmid pubmed central pmcid pmc epub
+ eng
+
+ zhang t victor tr rajkumar ss li x okoniewski jc hicks ac et al mycobiome
+of the bat white nose syndrome affected caves and mines reveals diversity of
+fungi and local adaptation by the fungal pathogen pseudogymnoascus
+ geomyces destructans plos one e pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ taylor dl walters wa lennon nj bochicchio j krohn a caporaso jg et al 
+accurate estimation of fungal diversity and abundance through improved
+lineage specific primers optimized for illumina amplicon sequencing appl
+environment microbiol – pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ earth microbiome project http www earthmicrobiome org emp standard 
+protocols s accessed jun 
+
+ bbmap https sourceforge net projects bbmap 
+ bengtsson palme j ryberg m hartmann m branco s wang z godhe a et
+
+al improved software detection and extraction of its and its from
+ribosomal its sequences of fungi and other eukaryotes for analysis of
+environmental sequencing data methods ecol evol – 
+
+ nilsson rh tedersoo l ryberg m kristiansson e hartmann m unterseher m 
+et al a comprehensive automatically updated fungal its sequence dataset for
+reference based chimera control in environmental sequencing efforts 
+microbes environments – pubmed pmid pmc 
+
+ caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello
+ek et al qiime allows analysis of high throughput community sequencing
+data nat methods – pubmed pmid pmc 
+
+ edgar rc search and clustering orders of magnitude faster than blast 
+bioinformatics oxford england – pubmed pmid 
+ epub eng
+
+ edgar rc haas bj clemente jc quince c knight r uchime improves
+sensitivity and speed of chimera detection bioinformatics oxford england 
+ – pubmed pmid pubmed central pmcid 
+pmc epub eng
+
+ schloss pd westcott sl ryabin t hall jr hartmann m hollister eb et al 
+introducing mothur open source platform independent community 
+supported software for describing and comparing microbial communities 
+appl environment microbiol – pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ wang q garrity gm tiedje jm cole jr naive bayesian classifier for rapid
+assignment of rrna sequences into the new bacterial taxonomy appl
+environment microbiol – pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ unite community https unite ut ee 
+ the r project for statistical computing https www r project org 
+ love mi huber w anders s moderated estimation of fold change and
+
+dispersion for rna seq data with deseq genome biol 
+ de hoog gsgj gene j figueras mj atlas of clinical fungi utrecht 
+
+centraalbureau voor schimmelcultures universitat rovira i virgili 
+ white tj bruns t lee s taylor j amplification and direct sequencing of
+
+fungal ribosomal rna genes for phylogeneticcs in innis dhg ma snisky jj 
+
+singh et al microbiome page of 
+
+http white nosesyndrome org
+http www whitenosesyndrome org about where is it now
+http www whitenosesyndrome org about where is it now
+http white nosesyndrome org
+http www whitenosesyndrome org resources map
+http www whitenosesyndrome org resources map
+http www earthmicrobiome org emp standard protocols s 
+http www earthmicrobiome org emp standard protocols s 
+https sourceforge net projects bbmap 
+https unite ut ee
+https www r project org 
+
+
+white tj editors pcr protocols a guide to methods and applications new
+york ny academic press inc p – 
+
+ basic local alignment search tool blast ncbi nih https blast ncbi nlm 
+nih gov blast cgi 
+
+ westerdijk fungal biodiveristy institute http www westerdijkinstitute nl 
+ puechmaille sj wibbelt g korn v fuller h forget f muhldorfer k et al pan 
+
+european distribution of white nose syndrome fungus geomyces destructans 
+not associated with mass mortality plos one e pubmed
+pmid pubmed central pmcid pmc epub eng
+
+ shuey mm drees kp lindner dl keim p foster jt highly sensitive
+quantitative pcr for the detection and differentiation of pseudogymnoascus
+destructans and other pseudogymnoascus species appl environmental
+microbiol – pubmed pmid pubmed central
+pmcid pmc epub eng
+
+ onions ahs allsopp d eggins how smith s introduction to industrial
+mycology th ed cambridge in uk cambridge university press isbn
+ 
+
+ fierer n leff jw adams bj nielsen un bates st lauber cl et al cross biome
+metagenomic analyses of soil microbial communities and their functional
+attributes proc natl acad sci – pubmed pmid 
+pubmed central pmcid pmc epub eng
+
+ trabelsi d mhamdi r microbial inoculants and their impact on soil
+microbial communities a review biomed res internat 
+
+singh et al microbiome page of 
+
+https blast ncbi nlm nih gov blast cgi
+https blast ncbi nlm nih gov blast cgi
+http www westerdijkinstitute nl
+
+	abstract
+	background
+	results
+	conclusions
+
+	background
+	methods
+	fungal strains and media
+	biocontrol application of tp in natural soil
+	culture recovery of pd tp and other fungi
+	dual culture challenge studies
+	metagenomics of soil samples
+	dna libraries
+	sequence processing
+	sample statistics
+
+	fungal identification
+
+	results
+	biocontrol of pd in natural soil – a culture based approach
+	effect of tp treatment on microbial communities of cave and mine soil samples—a metagenomics approach
+	sequence analysis
+	tp treatment and location effects on alpha and beta diversity of soil samples
+	treatment effect on the abundance of fungal and bacterial communities at the phylum and genus levels
+
+	tp interaction with other cave mine fungi—a culture based approach
+	dual challenge study
+
+
+	discussion
+	conclusions
+	additional files
+	abbreviations
+	acknowledgements
+	funding
+	availability of data and materials
+	authors’ contributions
+	ethics approval and consent to participate
+	consent for publication
+	competing interests
+	publisher’s note
+	author details
+	references
+
+

@@ -1,0 +1,1278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a quantitative smrt cell sequencing method for ribosomal amplicons
+
+
+journal of microbiological methods – 
+
+contents lists available at sciencedirect
+
+journal of microbiological methods
+
+j ourna l homepage www e lsev ie r com locate jmicmeth
+a quantitative smrt cell sequencing method for ribosomal amplicons
+bethan m jones a ⁎ adam b kustka a
+a department of earth and environmental sciences rutgers university newark newark nj united states
+⁎ corresponding author 
+e mail address bethan jones science oregonstate edu
+
+ present address department of botany and plant path
+corvallis or united states of america 
+
+http dx doi org j mimet 
+ © elsevier b v all rights reserved 
+a b s t r a c t
+a r t i c l e i n f o
+article history 
+received october 
+received in revised form january 
+accepted january 
+available online february 
+advances in sequencing technologies continue to provide unprecedented opportunities to characterizemicrobial
+communities for example the pacific biosciences single molecule real time smrt platform has emerged as a
+unique approach harnessing dna polymerase activity to sequence template molecules enabling long reads at
+low costs with the aim to simultaneously classify and enumerate in situ microbial populations we developed
+a quantitative smrt qsmrt approach that involves the addition of exogenous standards to quantify ribosomal
+amplicons derived fromenvironmental samples the v – regions of s ssu rdnawere targeted and quantified
+from protistan community samples collected in the ross sea during the austral summer of we used three
+standards of different length and optimized conditions to obtain accurate quantitative retrieval across the range
+of expected amplicon sizes a necessary criterion for analyzing taxonomically diverse s rdna molecules from
+natural environments the ability to concurrently identify and quantify microorganisms in their natural environ 
+ment makes qsmrt a powerful rapid and cost effective approach for defining ecosystem diversity and function 
+
+© elsevier b v all rights reserved 
+keywords 
+ s
+qsmrt
+quantitative
+ribosomal
+ross sea
+sequencing
+silicoflagellate
+smrt
+ introduction
+
+the enumeration and classification of organisms in the environment
+is crucial for our understanding of ecosystem structure and function 
+over the past two decades advances in genomic technologies have rev 
+olutionized our abilities to characterize microbial communities previ 
+ously s and s ribosomal gene cloning and sanger sequencing
+ sanger et al were used to discover representatives of many un 
+cultured clades from environmental libraries revealing extensive bacte 
+rial and eukaryotic diversity e g giovannoni et al pace 
+lopez garcia et al moon van der staay et al rappé and
+giovannoni second generation sequencing techniques such as
+ pyrosequencing margulies et al illumina sequencing
+ bentley et al and ion torrent rothberg et al have
+since yielded sequence data from environmental microbial communi 
+ties on an unprecedented scale e g sogin et al gilbert and
+dupont it is now possible to generate millions of sequences
+fromhundreds of samples e g de vargas et al giving us insights
+into the cosmopolitan nature of microbial communities and their di 
+verse functions worden et al 
+
+despite our newfound ability to rapidly characterizemicrobial com 
+munities it is still surprisingly difficult to obtain highly resolved abun 
+dance information for many groups of organisms in the marine
+ b m jones 
+ology oregon state university 
+environment for example hplc data on photosynthetic pigments can
+only provide broad phylogenetic resolution additionally chlorophyll 
+based enumeration techniques are often inappropriate because chloro 
+phyll content does not always reflect biomass concentration geider 
+ halsey and jones culture based methods are often not
+suitable because most microbes are not amendable to laboratory
+cultivation staley and konopka flow cytometry has been used
+to address fundamental questions regarding the abundance and distri 
+bution of microbial communities legendre et al but autofluo 
+rescence and side scatter cannot finely resolve taxa microscopic
+enumeration is time consuming and challenging considering most
+prokaryotes and many protists can only be discriminated by cellular
+characteristics that often are non distinct with standard bright field
+microscopy simon et al massana likewise automated
+imaging systems e g flow cytobot olson et al imaging flow
+cytobot olson and sosik provide excellent opportunities for in
+situ imaging and enumeration but many phytoplankton species 
+particularly picoeukaryotes are cryptic and difficult to solely identify
+using image based analyses fluorescent probes amann et al 
+and q pcr based techniques e g howard et al have been used
+to revealfine scalemicrobial population dynamics but are not amenable
+to high throughput studies and require a priori knowledge of nucleotide
+sequences 
+
+understanding species abundance is fundamental to constrain rate 
+based measurements assisting interpretations of carbon sequestration
+and the flow of energy through ecosystems quantification of microbial
+communities using high throughput sequencing techniques would pro 
+vide a rapid and powerful approach for enumeration coupling abundance
+
+http crossmark crossref org dialog doi j mimet domain pdf
+http dx doi org j mimet 
+mailto bethan jones science oregonstate edu
+http dx doi org j mimet 
+http www sciencedirect com science journal 
+www elsevier com locate jmicmeth
+
+
+table 
+sequences of primers developed and used to amplify the genomic hypervariable v – 
+regions of s ssu rdna 
+
+sequence reference
+
+forward primer v – f ′ atg gcc gtt ctt agt
+tgg tgg ′
+
+this study
+
+reverse primer v – r ′ cct tcy gca ggt tca
+cct ac ′
+
+medlin et al 
+amaral zettler et al 
+
+forward primer barcode 
+ v – f 
+
+ ′ tgtagtct atg gcc
+gtt ctt agt tgg tgg ′
+
+this study
+
+forward primer barcode 
+ v – f 
+
+ ′ gttctctt atg gcc gtt
+ctt agt tgg tgg ′
+
+this study
+
+reverse primer barcode 
+ v – r 
+
+ ′ atgc cct tcy gca ggt
+tca cct ac ′
+
+this study
+
+reverse primer barcode 
+ v – r 
+
+ ′ tttt cct tcy gca ggt
+tca cct ac ′
+
+this study
+
+ b m jones a b kustka journal of microbiological methods – 
+and composition metrics however sequence proportions derived from
+second generation sequencing platforms do not always correlate with
+the actual proportional abundance of species in the environment
+ amend et al deagle et al second generation techniques
+are amplification based so quantitative inaccuracies may be a result of
+amplicon bias during sequencing quail et al additionally quan 
+tification artifacts may result if amplicon generating or sequencing reac 
+tions are stopped during the quasi linear or plateau stage of amplification 
+
+there is no amplification step during single molecule real time
+ smrt sequencing instead sequencing data is directly obtained as
+nucleotides are incorporated into single template molecules eid et al 
+ the pacific biosciences smrt platform has a single pass read
+error rate of due to misincorporation of incorrect nucleotides
+ eid et al koren et al but this is overcome by ligating
+dna molecules into hairpin structures to form circularized fragments
+ smrt bells enabling multiple pass coverage because the error is
+random this process termed circular consensus sequencing ccs 
+improves empirical quality scores travers et al a handful of
+studies have already applied smrt cell ribosomal phylotyping to
+characterize bacterial communities e g marshall et al mosher
+et al singer et al 
+
+we applied the smrt ccsmethod to characterize and quantify pro 
+tistan sequences from environmental samples collected in the ross sea
+between january–february following dna extraction environ 
+mentally derived s rdna molecules were quantified via qpcr 
+three exogenous standards were subsequently added to the unampli 
+fied environmental dna pcr amplicons of the hypervariable v – 
+region of s rdna – bp were generated from the resulting
+dna mixture environmental dna standards amplification
+was stopped before pcr reactions entered a non linear stage and
+amplicons were sequenced using the pacific biosciences rs ii platform 
+standards were quantitatively recovered using bioinformatic
+techniques thus allowing the back calculation of otu specific copy
+numbers of s rdna per milliliter of seawater this new quantitative
+smrt sequencing approach termed “qsmrt” provides a reproducible
+and low cost method for the concurrent identification and quantifica 
+tion of rdna derived from microbial communities 
+
+ materials and methods
+
+ sample collection
+
+sampleswere collected at various locations in the ross sea in january–
+february during research conducted onboard the r v nathaniel b 
+palmer fig this was part of the larger multidisciplinary slocam
+enhancedadaptive fealgal research in theross sea seafarers project
+fig bathymetric map of the ross showing location of the stations sampled for qsmrt cell se
+ joides basin station referred to inkustka et al as joides trough the shelf break
+bouhet 
+ cruise nbp – known volumes of seawater − l were taken
+directly from l go flo bottles attached to a trace metal clean rosette
+ measures et al gently filtered onto mm supor polyether 
+sulfone filters pall life sciences ann arbor mi and stored at − °c
+prior to dna extraction ancillary data for all samples collected can be
+found in kustka et al 
+ primers
+
+we targeted a continuous section of the s ssu rrna gene
+that encompasses the hypervariable v – region of the molecule 
+primer design followed recommended guidelines for highly efficient
+and reproducible amplification bustin full length s rrna
+gene sequences that aligned to the reverse primer sequences
+ v – r of medlin et al and amaral zettler et al were
+compiled from v of the eukaryotic arb silva database quast et
+al following alignment using the clustalx algorithm larkin et
+al the forward primer v – f was designed by locating con 
+served regions n similarity of all sequences on the ′ end of the
+v region sequences from the arb silva database targeted by our
+primers were – bp in length 
+
+to enable duplexed smrt cell sequencing bp barcodes were
+placed on the ′ end of primer v – r v – r and v – r table 
+for the first samples sequenced for the remaining samples bp
+barcodes were placed on the ′ – end of primer v – f v – f and
+v – f table during this initial phase the smrt compatible
+barcodes designed by pacific biosciences were not available approxi 
+mately of sequences were recovered after processing irrespective
+of barcode sequence 
+ 
+
+ 
+ 
+ 
+
+ 
+
+quencing samples were collected at pennell bank station north pennell bank station
+ station andmawson bank station map plotted usingmarmap pante and simon 
+
+
+
+ b m jones a b kustka journal of microbiological methods – 
+ dna extraction
+
+a schematic illustrating the procedure from dna extraction to data
+analysis is provided fig dna was extracted from cells using a
+modified hot lysis buffer and hexadecyltrimethylammonium bromide
+ ctab method with mechanical disruption kuske et al gast
+et al dna pellets were eluted with μl × te buffer
+ ph all reagents were molecular grade and dna dnase free 
+nucleic acid concentrations were determined using picogreen dsdna
+quantitation reagent molecular probes eugene or with lambda
+dna standards bracketed in the appropriate range fig step 
+
+ construction of standards for quantitative smrt cell sequencing
+
+three standards spanning the range of expected amplicon sizes for
+the v – region of s ssu rrna genes were constructed from
+saccharomyces cerevisiae and schizosaccharomyces pombe genomic
+dna kindly provided by chaoyang xue and nancy walworth rutgers
+medical school nj these standards are termed “sc” s cerevisiae 
+“sp” s pombe and “spmod” modified s pombe sc bp and sp
+ bp were amplicons generated from ng genomic dna ampli 
+fied in μl reactions containing mm dntps u redtaq dna po 
+lymerase sigma aldrich st louis mo × redtaq reaction buffer and
+ μm of forward v – f and reverse primer v – r cycling
+consisted of an initial denaturing stage of °c for min followed by
+ cycles of °c for s °c for s and °c for s and a final
+extension step of °c for min we used cycles to ensure that
+sufficient quantities of standards were generated for all subsequent
+reactions 
+
+productswere cleaned using aqiaquick pcrpurification kit qiagen 
+valencia ca spmod bp was constructed frompurified sp standard 
+whichwas digested usinghpy i new england biolabs ipswich ma to
+yield three fragments digestswere run on a agarose gel at v for h
+and the fragments containing the v – f andv – rprimer siteswere ex 
+cised and bp gel purified using a qiaquick gel extraction kit
+fig schematic illustrating the process of quantitative smrt qsmrt cell sequencing step 
+and amplified by qpcr to determine a suitable dilution factor for the generation of amplicons 
+inhibitory to pcr reactions for the current study the genomic v – region of s rrna was
+current study amplicons of the v – region of saccharomyces cerevisiaewere used as a standa
+added to extracted dna this ensures that of the sample to be amplified is from the en
+current study the standards were amplicons generated from the genomic v – region of
+modified s pombe construct spmod bp step sample is amplified by pcr with reg
+reactions are stopped as early in the reaction as possible to prevent quasi linear dynamics 
+quantity for sequencing samples are sequenced using smrt ccs technology and standards
+environmental sample is calculated 
+ qiagen and ligated with t ligase new england biolabs to yield a
+ bp fragment after ligation the sample was cleaned using a pcr
+purification kit as before and amplified as previously described full 
+length sequences of the three standards were confirmed by forward
+sanger dna sequencing genewiz inc south plainfield nj 
+
+the copy number of each standard copy μl− was calculated using
+the concentration of gel purified pcr product and amplicon length ac 
+cording to 
+
+copy μl− ¼ ng dna μl
+− ∙ � 
+
+bp length∙ � ∙ 
+ð Þ
+
+ s ssu rdna amplification for smrt cell sequencing
+
+prior to the generation of amplicons for smrt cell sequencing dna
+from each sample was serially diluted and amplified in order to obtain a
+suitable dilution factor to minimize the effects of pcr inhibitors and en 
+able optimal amplicon generation fig step a thepresence of inhib 
+itors from samples collected on this research cruise has been previously
+noted gast et al trials indicated that extracted dna required a
+dilution factor of to to reduce inhibitory effects for these
+samples amplification efficiencies were around 
+
+the number of copies of s in each sample was determined by
+qpcr alongside the simultaneous generation of sc standard curves
+ fig step b cross contamination of yeast amplicons and environ 
+mental dna samples was avoided by use of separate positive pressure
+hepa filtered pcr hoods quantitative pcr amplifications were per 
+formed using high fidelity platinum taq dna polymerase in μl reac 
+tions containing mm dntps mm mgcl u polymerase ×
+platinum pcr buffer invitrogen grand island ny μm of each
+hplc purified primer integrated dna technologies coralville ia 
+and μl of dna × sybr green i nucleic acid stain invitrogen was
+added to each sample following initial denaturing and platinum taq
+environmental dna is extracted and quantified step a extracted dna is serially diluted
+this is important because environmental dna extracts often contain substances that are
+amplified step b simultaneously the number of s rrna genes is determined in the
+rd for quantification step following dilution and quantification of each standard is
+vironmental dna and of the sample is derived from exogenous standards in the
+ s rrna of schizosaccharomyces pombe sp bp s cerevisiae sc bp and a
+ion specific barcoded primers the number of pcr cycles is calculated to ensure that
+stage amplicons from multiple concurrent reactions are pooled to ensure a suitable
+are bioinformatically retrieved the number of s rrna genes present in the original
+
+
+
+ b m jones a b kustka journal of microbiological methods – 
+activation at °c for min pcr cycles °c for s °c for min
+and °c for s were applied all pcr reactions were carried out
+using a lightcycler ii real time pcr system roche applied sci 
+ence indianapolis in using white lightcycler well plates
+ roche applied science cat no 
+
+following quantification all samples were standardized to the same
+ s rdna copy number and copies of s rdnawere used to gen 
+erate amplicons for sequencing prior to amplicon generation copies
+of each of the three standards sp sc spmod were also added to the
+startingmixture this ensured that each pcr reaction startedwith en 
+vironmental sequence and of each of the three yeast standards fig 
+step triplicate samples amended with × sybr green i were ampli 
+fied in tandem to allow real time reaction tracking fig step we
+stopped reactions at cycles to ensure that pcr reactions did not enter
+a quasi linear or plateau stage assuming a starting concentration of
+ amplicons we calculated that × ampliconswouldbe gen 
+eratedper reaction × all sampleswere cycledusing the same
+conditions as the standard generation reactions with μl of the sample 
+yeast mix per reaction a final extension step of °c for min was ap 
+plied at the end of cycling negative controls were included in all steps 
+
+each smrt cell required μg of dna for sequencing since we were
+duplexing μg of amplicons were therefore required from each sam 
+ple based on the length of standard sc bp we calculated that
+ × amplicons would be needed for each duplexed sequencing
+reaction to ensure a sufficient number of amplicons for sequencing 
+six sister reactions were pooled and processed for sequencing this is
+because there are often heavy losseswhen amplicons are purified puri 
+fication is a requirement prior to smrt sequencing overall this result 
+ed in the generation of μl product for each sample which was
+cleaned using a qiaquick pcr purification kit as before and assayed
+for dna concentration and purity using a nanodrop spectrophotometer
+ thermo fisher scientific wilmington de aliquots were also run on a
+ agarose gel to confirm sample quality and expected size two sam 
+ples with different barcodes μg of each were combined and sub 
+jected to smrt cell sequencing at the university of delaware
+sequencing and genotyping center sgc newark de usa 
+
+ smrt cell sequencing
+
+at the sgc samples were prepared for circular consensus sequenc 
+ing using the standard pacific biosciences bp template preparation
+and sequencing protocol available at http www smrtcommunity 
+com sampleprep sequencingwas conducted using × minmovies
+on a pacific biosciences rs ii single molecule sequencer pacific biosci 
+ences menlo park ca using a c c dna polymerase binding kit and
+dna sequencing kit pacific biosciences 
+
+ data analysis
+
+poor quality sequences based on a minimum predicted accuracy of
+ were removed using the qualityfilter tool author brett bowman 
+pacific biosciences barcodes were found using a perl code find 
+adapt pl kindly provided by daniel nasko university of delaware 
+we observed instances of barcode mismatching a phenomenon that
+other groups have also encountered schloss et al we therefore
+only included sequences in downstream analyses if ≥ nucleotides of
+the barcode were present all sequence analysis and statistical tests
+were conducted using mothur v for linux schloss et al 
+on a systemwith × intel xeon processors with cores each resulting
+in nodes gb ram and tb storage 
+
+using the pacbio rs ii platform sequences were obtained
+from smrt cells and samples sequence data have been uploaded
+to the national center for biotechnology information ncbi sequence
+read archive and can be found using accession number srp 
+following the removal of poor quality sequences and barcode identifica 
+tion sequences were available for subsequent processing
+within the mothur pipeline of these sequences were unique 
+we stress that there is active discussion in the literature regarding
+how to analyze smrt cell data e g schloss et al since
+the purpose of this paper was to develop a quantification approach
+rather than technically assess the merits of the sequencing chemistry 
+we have followed a standard protocol for sequence curation 
+
+sequences containing homopolymers n nucleotides long were
+removed and any sequences n bp were eliminated to disregard
+concatamers sometimes produced during smrt bell formation fichot
+and norman we note that schloss et al also established a
+curation procedure to cull repeats that were or more nucleotides in
+length which reduced overall experiment wide error in s rrna genes
+sequenced using the smrt platform following homopolymer removal 
+sequences were aligned against a silva based reference alignment
+ pruesse et al using a profile based aligner schloss et al 
+the resulting alignment was screened to exclude sequences b bp re 
+maining sequences that differed by b bp were pre clustered using the
+pre cluster command in mothur huse et al de novo chimera de 
+tection was performed using the abundance based algorithm present in
+uchime edgar et al this process identified and removed chi 
+meras unique sequences representing of the input se 
+quences this low rate probably relates to two relevant factors known to
+decrease pcr chimera formation lahr and katz a low starting
+concentration of template and a low cycle number n 
+
+following chimera removal sequences were classified against a refer 
+encefile of s ssu rrnagene sequences arb silva v quast
+et al using a negative bayesian classifier implemented within
+mothur and a cutoff bootstrap value of wang et al at this
+point metazoan sequences were removed exogenous standard reads
+were also removed and binned according to their identity with sc sp or
+spmod reference sequences the remaining reads were binned
+into operational taxonomic units otus at similarity using an aver 
+age neighbor clustering algorithm schloss andwestcott despite
+the multiple pass coverage obtained by ccs and the low chimera detec 
+tion rate calculated by uchime analysis we erred on the side of caution
+and only gave genus level designations if the representative sequence
+for a given otu possessed ≥ homology to an item in the arb silva
+taxonomy file or the ncbi non redundant database in all other instances 
+the next order designation with ≥ homology was given 
+
+an exogenous retrieval conversion factor yeastcf was determined
+by dividing the number of sequences of yeast standard added to the pcr
+reaction by the resulting number of reads obtained by smrt cell se 
+quencing using this metric the otu specific number of sequences
+per volume of seawater was calculated this represents fig step 
+and can be calculated according to 
+
+ s ssu rdna copies vol− ¼ otu reads∙ yeastcf
+pcrdf
+
+� voldna
+volsw
+
+ð Þ
+
+whereby pcrdf is the dilution factor of dna entering the pcr reaction 
+voldna is the volume of dna extracted volsw is the volume of seawater
+filtered and otu reads is the number of otu specific reads obtained 
+
+to explore regional differences in protist distributions thetayc
+distances were generated from otu specific s rdna copy numbers 
+distanceswere subjected tononmetricmultidimensional scaling analysis
+ nmds using the mothur package spearman rank correlation coeffi 
+cientswere generated to ascertainwhich otuswere responsible for ordi 
+nation trends significant otus p b were plotted alongside nmds
+coordinates using a biplot macro for excel lipkovich and smith 
+
+ results and discussion
+
+ smrt cell sequencing
+
+thirty two libraries yielded sequences and 
+were of suitable quality for downstream analysis these reads had a
+
+http www smrtcommunity com sampleprep
+http www smrtcommunity com sampleprep
+
+
+ b m jones a b kustka journal of microbiological methods – 
+mean length of bp and were – bp libraries contained
+between and bioinformatically retrievable reads before
+the removal of metazoa and fungi because samples were duplexed 
+we expected that we would obtain reads from each sample if
+each zero mode wavelength zmw in a smrt cell led to a sequence
+that was suitable for downstream bioinformatic analysis since only
+ of potential reads were removed due to poor fastq sequence
+quality most of the low sequence retrieval was likely due to unsuccess 
+ful zmw occupation 
+
+we hereafter describe data derived from five libraries stations 
+ pennell bank shelf break joides basin north pennell
+bank and mawson bank these five libraries yielded reads
+that were binned into otus at identity yielding protistan
+otus our sequences were obtained using the older c c chemistry
+compared to the newer sequencing chemistry used in later studies e g 
+mosher et al schloss et al wagner et al but
+despite this potential shortcoming of our top otus are identical
+to ross sea clonal sequences present in the ncbi nr database 
+
+overall data indicate that themicrobial eukaryotic communities of the
+ross sea were not particularly diverse during late january–february
+ this finding is consistent with other seasonal observations from
+this region sedwick et al sedwick et al olson et al 
+ singletons formed otus similar to the value of 
+that was recently obtained during smrt cell sequencing of s rrna
+gene amplicons franzén et al in our dataset only otus
+were represented by n reads for each sample only copies of
+ s rdnawere used to generate amplicons and not all zmwswere occu 
+pied so it remains to be seen if community coverage was optimal we
+also did not conduct mock community analysis to obtain error rates for
+our sequencing runs nor assess reproducibility this omission may
+suggest that our diversity estimates are not well constrained however 
+replicate incubation experiments exhibited exceptional similarity in the
+relative abundance of otus kustka et al for example the coeffi 
+cient of variation for moderately abundant otus above collected
+from replicate treatments averaged ± kustka et al 
+fig contribution of the top otus to the communities at five locations in the ross sea pen
+parentheses are otus 
+ quantitative smrt cell sequencing qsmrt and its application to
+describe ross sea communities
+
+high throughput sequencing has provided an unparalleled opportu 
+nity to describemicrobial communities but quantification has remained
+a challenge quantitative smrt cell sequencing qsmrt is a significant
+step towards this goal enabling the simultaneous identification and
+quantification of environmental amplicons application of the qsmrt
+approach to the v – region of s ssu rdna was highly reproducible 
+the mean percentage ± se of reads from each of three spiked stan 
+dards sp sc and spmod was ± ± and ±
+ respectively consistent with the addition of each standard
+prior to pcr amplification and sequencing one wayanova analysis in 
+dicated that therewas no significant difference in the proportions of any
+of the three sequences p since the standards varied in length
+ – bp this contrasts with previous reports of size selectivity
+during smrt cell sequencing fichot and norman 
+
+quantitative smrt sequencing was used to investigate the distribu 
+tion and dynamics of protistans present in the ross sea during the aus 
+tral summer of quantification data for the most numerically
+dominant otus obtained during this study are given in supplemental
+data s the overwhelming majority of s rdna molecules isolated
+from this regionwere derived from bacillariophytes fig confirming
+microscopic and biogeochemical evidence over of the copies of s
+rdna observed in this study were derived from otu an unknown
+bacillariophyta this otu comprised of the copies frommawson
+bank where it was present at × copies ml− fig mawson
+bank is a highly turbulent area with a deepmixed layer depth kohut et
+al so this could suggest a preference for the resulting physical
+and chemical features generated by this topographic feature since the
+closest matches to otu exhibited only sequence homology to
+chaetoceros sp it is tempting to describe this identification as an en 
+demic species the possibility that the ross sea has a diverse range of
+endemic protistan communities was previously suggested by gast et
+al who applied denaturing gradient gel electrophoresis to
+nell bank shelf break station joides basin north pennell and mawson bank numbers in
+
+
+
+ b m jones a b kustka journal of microbiological methods – 
+ s fragments and found that most bands only exhibited – simi 
+larity to accessions within the ncbi non redundant database 
+
+an interesting observation was that ribosomal dna from the genus
+dictyocha was often abundant e g × copies s rdna·ml− 
+
+at the shelf break fig and supplemental data s only recently has
+the abundance of silicoflagellates in this region been considered in any
+detail fragoso and smith first observed blooms of dictyocha
+speculumwithin the southwestern to eastern ross sea during february
+ fragoso and smith silicoflagellates were also observed in
+the ross sea in january–february at a mean concentration of
+ × cells l− mossby and smith at present almost noth 
+ing is known about the biogeochemical roles or ecological controls of
+this silicifying mixotrophic genus 
+
+to further explore the distribution of eukaryote microbes in the
+sampled region nmds analyses were conducted using the qsmrt de 
+rived data a diverse taxonomic range of protistan otus were observed
+to drive ordinances and exhibit differential distribution patterns fig 
+associated otus could represent groups of protists transiently
+inhabiting the same body of water they could also represent associa 
+tions between microzooplankton grazers and phytoplankton e g cili 
+ates and diatoms at pennell bank or other lifestyles and interactions 
+such as parasitism e g syndiniales paulsenella and related communi 
+ties a large number of otus n drove ordinances towards pen 
+nell bank indicating that a diverse and unique protistan community
+was associatedwithwaters above this topographic feature this concurs
+with observations that pennell bank is both physically and chemically
+distinct from the other locations studied with a sedimentary source of
+iron and shallow mixed layer depth kohut et al 
+
+ advantages of the qsmrt approach and future directions for research
+
+standard based methods have been attempted for some second
+generation sequencing technologies gifford et al jiang et al 
+ however to our knowledge this is the first to attempt quantita 
+tive sequencing using the smrt platform the identification and quan 
+tification of protists was more highly resolved than flow cytometry
+fig biplot showing significant drivers of the nmds ordinance calculated using qsmrt corre
+given in supplemental data s 
+allows more rapid than microscopy and culture independent quanti 
+tative smrt methods enabled substantially more identifications than
+targeted genomic techniques such as qpcr or nucleic acid probes 
+which require species or genus specific optimizations we applied
+qsmrt to eukaryote ribosomal dna which enabled an easy and concur 
+rent way to analyze phytoplankton and microzooplankton populations 
+however this method could easily be applied to bacterial or archaeal
+samples sequencing using the smrt platform is rapid and it only
+costs to sequence a single smrt cell as of january use of
+the new pacific biosciences sequel system that enables seven times
+more reads for each smrt cell could substantially increase qsmrt
+coverage therefore qsmrt has the potential to become a universally
+effective rapid and low cost quantification technique contributing to 
+wards a numerical understanding of themicrobial species that underpin
+biogeochemical cycling and ecosystem function 
+
+an advantage of the smrt platform is that substantially longer reads
+can be obtained in comparison to any illumina based platform we only
+targeted the v – regions of s ribosomal dna because variability in
+amplification efficiency increases with larger amplicon size kleter et
+al bustin however given appropriate testing it is still
+possible that full length ribosomal sequences could be amplified and
+subjected to qsmrt sequencing to enable more accurate identifications
+ singer et al coupled with the use of newer chemistries that
+generate ribosomal sequence data of comparable quality to reads ob 
+tained using the or miseq platforms schloss et al wagner
+et al finer scale taxonomic qsmrt identifications are an exciting
+possibility 
+
+quantitative smrt is designed to enumerate s rdna copy number
+but additional steps would be required to obtain cell concentrations 
+many marine protists have multiple copies of rdna within their ge 
+nomes and the problem of copy number bias is common to all methods
+of eukaryote ribosomal gene sequencing reported copy numbers of
+rrna genes in dinoflagellates range from – per cell
+ galluzzi et al godhe et al while diatoms may contain
+b zhu et al to n copies of rdna per cell godhe et
+al some ciliates may possess up to copies per cell
+cted reads numbers in parentheses represent otus identifications for groups a and b are
+
+
+
+ b m jones a b kustka journal of microbiological methods – 
+ gong et al ribosomal dna copy number data are lacking for
+mostmarine protists and are clearly needed to enable amore robust un 
+derstanding of microbial ecosystem structure for example our data for
+laackmaniella otu leads to very high and somewhat unrealistic in
+situ concentrations × individuals l− supplemental data s 
+but if individuals from this otu had a similar number of s rrna
+genes per cell as the related genera tintinnopsis × cell− 
+gong et al a more realistic value of individuals l− would be
+obtained we note that when strictly confining observations to phyto 
+plankton and smaller protists differences in otu copy number per cell
+may be less important because rdna copy number appears to be corre 
+lated with biovolume godhe et al for example an otu with
+similarity to mast b stramenopiles was prevalent over mb at a
+concentration of copies of s ssu rdna·ml− epifluorescent mi 
+croscopy following fish labeling has indicated that this group is univer 
+sally distributed at a maximum density of cells ml− massana et
+al congruence of these values further validates the approach
+of qsmrt for enumeration of enigmatic marine protistan groups 
+
+given the speed with which the field of sequencing has advanced it
+should comeas no surprise that innovative platformswill continue to be
+developed we suggest that the use of amplification free sequencing
+technologies facilitate the accurate quantification of amplicons generat 
+ed from environmental samples this is complemented by choices in ex 
+perimental design such as ensuring that amplicons are generated
+before a rate limiting stage of pcr by applying the qsmrt method to
+environmental protistan samples we show that it is now possible to
+identify and quantify hundreds of ribosomal amplicons derived from
+microbial communities as more information becomes available about
+ribosomal copy number the direct quantification of cell number from
+sequencing data should soon be possible 
+
+supplementary data to this article can be found online at http dx 
+doi org j mimet 
+
+acknowledgments
+
+the authors would like to thank the officers and crew of the
+nathaniel b palmer for support during cruise nbp we also thank
+josh kohut phoebe lam chris measures raytheon polar services con 
+tractors and the other participants of nbp for assistance during
+thismultidisciplinary project we give special thanks to tobywestberry
+for enabling access to computational facilities darren hansen for addi 
+tional laboratory facilities andwe acknowledge the exceptional support
+of lora mcguinness and ashley new during sampling additionally we
+would like to thankdaniel nasko for providing an adapterfinding script 
+brett bowman for bioinformatic discussions and rené groben and
+sigmar karl stefánsson for the mothur compatible arb silva v file 
+we are incredibly grateful to brewster kingham and olga shevchenko
+at the university of delaware sequencing and genotyping center for
+smrt cell sequencing operations and technical discussions we thank
+two anonymous reviewers for their comments on this manuscript this
+work was supported by grant nsf opp to abk 
+
+references
+
+amann r ludwig l schleifer k phylogenetic identification and in situ detection
+of individual microbial cells without cultivation microbiol rev – 
+
+amaral zettler l a mccliment e a ducklow h w huse s m a method for
+studying protistan diversity using massively parallel sequencing of v hypervariable
+regions of small subunit ribosomal rna genes plos one e 
+
+amend a s seifert k a bruns t quantifying microbial communities with 
+pyrosequencing does read abundance count mol ecol – 
+
+bentley d r balasubramanian s swerdlow h p smith g p milton j brown c g hall 
+k p evers d j barnes c l bignell h r boutell j m bryant j carter r j keira
+cheetham r cox a j ellis d j flatbush m r gormley n a humphray s j 
+irving l j karbelashvili m s kirk s m li h liu x maisinger k s murray l j 
+obradovic b ost t parkinson m l pratt m r rasolonjatovo i m reed m t 
+rigatti r rodighiero c ross m t sabot a sankar s v scally a schroth g p 
+smith m e smith v p spiridou a torrance p e tzonev s s vermaas e h 
+walter k wu x zhang l alam m d anastasi c aniebo i c bailey d m 
+bancarz i r banerjee s barbour s g baybayan p a benoit v a benson k f 
+bevis c black p j boodhun a brennan j s bridgham j a brown r c brown 
+a a buermann d h bundu a a burrows j c carter n p castillo n chiara e 
+catenazzi m chang s neil cooley r crake n r dada o o diakoumakos k d 
+dominguez fernandez b earnshaw d j egbujor u c elmore d w etchin s s 
+ewan m r fedurco m fraser l j fuentes fajardo k v scott furey w george 
+d gietzen k j goddard c p golda g s granieri p a green d e gustafson d l 
+hansen n f harnish k haudenschild c d heyer n i hims m m ho j t 
+horgan a m hoschler k hurwitz s ivanov d v johnson m q james t huw
+jones t a kang g d kerelska t h kersey a d khrebtukova i kindwall a p 
+kingsbury z kokko gonzales p i kumar a laurent m a lawley c t lee s e 
+lee x liao a k loch j a lok m luo s mammen r m martin j w mccauley 
+p g mcnitt p mehta p moon k w mullens j w newington t ning z ling
+ng b novo s m o neill m j osborne m a osnowski a ostadan o paraschos 
+l l pickering l pike a c pike a c chris pinkard d pliskin d p podhasky j 
+quijano v j raczy c rae v h rawlings s r chiva rodriguez a roe p m 
+rogers j rogert bacigalupo m c romanov n romieu a roth r k rourke n j 
+ruediger s t rusman e sanches kuiper r m schenker m r seoane j m shaw 
+r j shiver m k short s w sizto n l sluis j p smith m a ernest sohna sohna 
+j spence e j stevens k sutton n szajkowski l tregidgo c l turcatti g 
+vandevondele s verhovsky y virk s m wakelin s walcott g c wang j 
+worsley g j yan j yau l zuerlein m rogers j mullikin j c hurles m e 
+mccooke n j west j s oaks f l lundberg p l klenerman d durbin r smith 
+a j accurate whole human genome sequencing using reversible terminator
+chemistry nature – 
+
+bustin s absolute quantification of mrna using real time reverse transcription
+polymerase chain reaction assays j mol endocrinol – 
+
+de vargas c audic s henry n decelle j mahé f logares r lara e berney c le
+bescot n probert i carmichael m poulain j romac s colin s aury j m 
+bittner l chaffron s dunthorn m engelen s flegontova o guidi l horák a 
+jaillon o lima mendez g lukeš j malviya s morard r mulot m scalco e 
+siano r vincent f zingone a dimier c picheral m searson s kandels lewis 
+s coordinators tara oceans acinas s g bork p bowler c gorsky g grimsley 
+n hingamp p iudicone d not f ogata h pesant s raes j sieracki m e 
+speich s stemmann l sunagawa s weissenbach j wincker p karsenti e 
+ eukaryotic plankton diversity in the sunlight ocean nature 
+
+deagle b e thomas a c shaffer a k trites a w jarman s n quantifying se 
+quence proportions in a dna based diet study using ion torrent amplicon sequenc 
+ing which counts what mol ecol resour – 
+
+edgar r c haas b j clemente j c quince c knight r uchime improves sensi 
+tivity and speed of chimera detection bioinformatics – 
+
+eid j fehr a gray j luong k lyle j otto g peluso p rank d baybayan p bettman 
+b bibillo a bjornson k chaudhuri b christians f cicero r clark s dalal r 
+dewinter a dixon j foquet m gaertner a hardenbol p heiner c hester k 
+holden d kearns g kong x x kuse r lacroix y lin s lundquist p ma c c 
+marks p maxham m murphy d park i pham t phillips m roy j sebra r 
+shen g sorenson j tomaney a travers k trulson m vieceli j wegener j 
+wu d yang a zaccarin d zhao p zhong f korlach j turner s real 
+time dna sequencing from single polymerase molecules science – 
+
+fichot e b norman r s microbial phylogenetic profiling with the pacific biosci 
+ences sequencing platform microbiome 
+
+fragoso g m smith jr w o influence of hydrography on phytoplankton distribu 
+tion in the amundsen and ross sseas antarctica j mar syst – 
+
+franzén o hu j bao x itzkowitz s h peter i bashir a improved otu picking
+using long read s rrna gene amplicon sequencing and generic hierarchical clus 
+tering microbiome 
+
+galluzzi l penna a bertozzini e vila m garces e magnani m development
+of a real time pcr assay for rapid detection and quantification of alexandrium
+minutum a dinoflagellate appl environ microbiol – 
+
+gast r j dennett m r caron d a characterization of protistan assemblages in
+the ross sea by denaturing gradient gel electrophoresis appl environ microbiol 
+ – 
+
+gast r j mckie krisberg z m fay s a rose j m sanders r w antarctic
+mixotrophic protist abundance by microscopy and molecular methods fems
+microbiol ecol – 
+
+geider r j light and temperature dependence of the carbon to chlorophyll ratio in
+microalgae and cyanobacteria implications for physiology and growth of phyto 
+plankton new phytol – 
+
+gifford s m sharma s rinta kanto j m moran m a quantitative analysis of a
+deeply sequenced marine metatranscriptome isme – 
+
+gilbert j a dupont c l microbial metagenomics beyond the genome annu rev 
+mar sci – 
+
+giovannoni s j britschgi t b moyer c l field k g genetic diversity in sargasso
+sea bacterioplankton nature – 
+
+godhe a asplund m e härnström k saravanan v tyagi a karunasagar i 
+quantification of diatom and dinoflagellate biomasses in coastal marine seawater
+samples by real time pcr appl environ microbiol – 
+
+gong j dong j liu x massana r extremely high copy numbers and polymor 
+phisms of the rdna operon estimated from single cell analysis of oligotrich and
+peritrich ciliates protist – 
+
+halsey k h jones b m phytoplankton strategies for photosynthetic energy alloca 
+tion annu rev mar sci – 
+
+howard m d a jones a c schnetzer a countway p d tomas c r kudela r m 
+hayashi k cia p caron d a quantitative real time polymerase chain reac 
+tion for cochlodinium fulvescens dinophyceae a harmful dinoflagellate from califor 
+nia coastal waters j phycol – 
+
+http dx doi org j mimet 
+http dx doi org j mimet 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+
+
+ b m jones a b kustka journal of microbiological methods – 
+huse s m welch d m morrison h g sogin m l ironing out the wrinkles in the
+rare biosphere through improved otu clustering environ microbiol 
+ – 
+
+jiang l schlesinger f davis c a zhang y li r salit m gingeras t r oliver b 
+synthetic spike in standards for rna seq experiments genome res 
+ – 
+
+kleter b van doorn l j ter schegget j schrauwen l van krimpen k burger m ter
+harmsel q w novel short fragment pcr assay for highly sensitive broad 
+spectrum detection of anogenital human papillomaviruses am j pathol 
+ – 
+
+kohut j kustka a b hiscock m lam p measures c milligan a j white a carvalho 
+f hatta m jones b m ohnemus d c swartz j m mesoscale variability of
+the summer bloom over the northern ross sea shelf a tale of two banks j mar 
+syst – 
+
+koren s schatz m c walenz b p martin j howard j t ganapathy g wang z 
+rasko d a mccombie w r jarvis e d phillippy a m hybrid error correction
+and de novo assembly of single molecule sequencing reads nat biotechnol 
+ – 
+
+kuske c r banton k l adorada d l stark p c hill k k jackson p j small scale
+dna sample preparation method for field pcr detection of microbial cells and spores
+in soil appl environ microbiol – 
+
+kustka a b jones b m hatta m field m p milligan a j the influence of iron
+and siderophores on eukaryotic phytoplankton growth rates and community compo 
+sition in the ross sea mar chem – 
+
+lahr d j g katz l a reducing the impact of pcr mediated recombination in mo 
+lecular evolution and environmental studies using a new generation high fidelity
+dna polymerase biotechniques – 
+
+larkin m a blackshields g brown n p chenna r mcgettigan p a mcwilliam h 
+valentin f wallace i m wilm a lopez r thompson j d gibson t j higgins 
+d g clustal w and clustal x version bioinformatics – 
+
+legendre l courties c trousellier m flow cytometry in oceanography –
+ environmental challenges and research trends cytometry – 
+
+lipkovich i smith e biplot and singular value decomposition macros for excel 
+j stat softw – 
+
+lopez garcia p rodriguez valera d pedros alio c moreira d unexpected di 
+versity of small eukaryotes in deep sea antarctic plankton nature – 
+
+margulies m egholm m altman w e attiya s bader j s bemben l a berja j 
+braverman m s chen y j chen z dewell s b du l fierro j m gomes x v 
+godwin b c he w helgesen s ho c h irzyk g p jando s c alenquer m l i 
+jarvie t p jirage t p kim j b knight j r lanza j r leamon j h lefkowitz 
+s m lei m li j lohman k l lu h makhijani v b mcdade k e mckenna m p 
+myers e w nickerson e nobile j r plant r puc b p ronan m t roth g t 
+sarkis g j simons j f simpson j w srinivasan m tartaro k r tomasz a vogt 
+k a volkmer g a wang s h wang y weiner m p yu p begley r f 
+rothberg j m genome sequencing in microfabricated high density picolitre
+reactors nature – 
+
+marshall c w ross d e fichot e b norman r s may h d electrosynthesis of
+commodity chemicals by an autotrophic microbial community appl environ 
+microbiol – 
+
+massana r eukaryotic picoplankton in surface oceans annu rev microbiol 
+ – 
+
+massana r terrado r frorn i lovejoy c pedrós alió c distribution and abun 
+dance of uncultured heterotrophic flagellates in world oceans environ microbiol 
+ – 
+
+measures c landing w m brown m t buck c s a commercially available ro 
+sette system for trace metal clean sampling limnol oceanogr methods – 
+
+medlin l elwood h j stickel s sogin m l the characterization of enzymatically
+amplified eukaryotic s like rrna coding regions gene – 
+
+moon van der staay s y de wachter r vaulot d oceanic s rdna sequences
+from picoplankton reveal unsuspected eukaryotic diversity nature – 
+
+mosher j j bernberg e l shevchenko o kan j kaplan l a efficacy of a rd gen 
+eration high throughout sequencing platform for analyses of s rrna genes from
+environmental samples j microbiol methods – 
+
+mosher j j bowman b bamberg e l shevchenko o kan j korlach j kaplan l a 
+ improved performance of the pacbio smrt technology for s rdna sequenc 
+ing j microbiol methods – 
+
+mossby a f smith jr w o phytoplantkon growth rates in the ross sea antarcti 
+ca aquat microb ecol – 
+
+olson r j sosik h m a submersible imaging in flow instrument to analyze nano 
+and microplankton imaging flowcytobot limnol oceanogr methods – 
+
+olson r j sosik h m chekalyuk a shalapyonok a a effects of iron enrichment
+on phytoplankton in the southern ocean during later summer active fluorescence
+and flow cytometric analyses deep sea res ii top stud oceanogr – 
+
+olson r j shalapyonok a a sosik h m an automated submersible flow
+cytometer for pico and nanophytoplankton flowcytobot deep sea res i oceanogr 
+res pap – 
+pace n r a molecular view of microbial diversity and the biosphere science 
+ – 
+
+pante e simon bouhet b marmap a package for importing plotting and analyz 
+ing bathymetric and topographic data in r plos one e 
+
+pruesse e quast c knittel k fuchs b m ludwig w peplies j glöckner f o 
+silva a comprehensive online resource for quality checked and aligned ribosomal
+rna sequence data compatible with arb nucleic acids res – 
+
+quail m a smith m coupland p otto t d harris s r connor t r bertoni a 
+swerdlow h p gu y a tale of three next generation sequencing platforms 
+comparison of ion torrent pacific biosciences and illumina sequences bmc genomics
+ 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p peplies j glöckner f o 
+ the silva ribosomal rna gene database project improved data processing and
+web based tools nucleic acids res d –d 
+
+rappé m s giovannoni s j the uncultured microbial majority annu rev 
+microbiol – 
+
+rothberg j m hinz w rearick t m schultz j mileski w davey m leamon j h 
+johnson k milgrew m j edwards m hoon j simons j f marran d myers 
+j w davidson j f branting a nobile j r puc b p light d clark t a huber m 
+branciforte j t stoner i b cawley s e lyons m fu y homer n sedova m 
+miao x reed b sabina j feierstein e schorn m alanjary m dimalanta e 
+dressman d kasinskas r sokolsky t fidanza j a namsaraev e mckernan k j 
+williams a roth g t bustillo j an integrated semiconductor device en 
+abling non optical genome sequencing nature – 
+
+sanger f nicklen s coulson a r dna sequencing with chain terminating inhib 
+itors proc natl acad sci u s a – 
+
+schloss p d westcott s l assessing and improving methods used in operational
+taxonomic unit based approaches for s rrna gene sequence analysis appl envi 
+ron microbiol – 
+
+schloss p d westcott s l ryabin t hall j r hartmann m hollister e b lesniewski 
+r a oakley b b parks d h robinson c j sahl j w stres b thallinger g g van
+horn d j weber c f introducing mothur open source platform indepen 
+dent community supported software for describing and comparing microbial com 
+munities appl environ microbiol – 
+
+schloss p d westcott s l jenior m l highlander s k sequencing s rrna gene
+fragments using the pacbio smrt dna sequencing system peerj preprints e v 
+
+schloss p d jenior m l koumpouras c c westcott s l highlander s k 
+sequencing s rrna gene fragments using the pacbio smrt dna sequencing
+system peerj e 
+
+sedwick p n edwards p r mackey d j griffiths f b parslow j s iron and man 
+ganese in surface waters of the australian subantarctic region deep sea res i
+oceanogr res pap – 
+
+sedwick p n ditullio g r mackey d j iron and manganese in the ross sea ant 
+arctica seasonal iron limitation in antarctic shelf waters j geophys res 
+ – 
+
+simon n lebot n marie d partensky f vaulot d fluorescent in situ hybridi 
+zation with rrna targeted oligonucleotide probes to identify small phytoplankton by
+flow cytometry appl environ microbiol – 
+
+singer e bushnell b coleman derr d bowman b bowers r m levy a gies e a 
+cheng j f copeland a klenk p hallam s j hugenholtz p tringe s g woyke 
+t high resolution phylogenetic microbial community profiling isme 
+ – 
+
+sogin m l morrison h g huber j a welch d m huse s m neal p r arrieta j m 
+herndl g j microbial diversity in the deep sea and the underexplored “rare
+biosphere” proc natl acad sci u s a – 
+
+staley j t konopka a measurement of in situ activities of nonphotosynthetic mi 
+croorganisms in aquatic and terrestrial habitats annu rev microbiol – 
+
+travers k j chin c s rank d r eid j s turner s w a flexible and efficient tem 
+plate format for circular consensus sequencing and snp detection nucleic acids res 
+ e 
+
+wagner j coupland p browne h p lawley t d francis s c parkhill j evalua 
+tion of pacbio sequencing for full length bacterial s rrna gene classification bmc
+microbiol 
+
+wang q garrity g m tiedje j m cole j r naïve bayesian classifier for rapid as 
+signment of rrna sequences into the new bacterial taxonomy appl environ 
+microbiol – 
+
+worden a z follows m j giovannoni s j wilken s zimmerman a e keeling p j 
+ rethinking the marine carbon cycle factoring in the multifarious lifestyles of
+microbes science 
+
+zhu f massana r not f marie d vaulot d mapping of picoeucaryotes in the
+marine ecosystems with quantitative pcr of the s rrna gene fems microbiol 
+ecol – 
+
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+
+	a quantitative smrt cell sequencing method for ribosomal amplicons
+	 introduction
+	 materials and methods
+	 sample collection
+	 primers
+	 dna extraction
+	 construction of standards for quantitative smrt cell sequencing
+	 s ssu rdna amplification for smrt cell sequencing
+	 smrt cell sequencing
+	 data analysis
+
+	 results and discussion
+	 smrt cell sequencing
+	 quantitative smrt cell sequencing qsmrt and its application to describe ross sea communities
+	 advantages of the qsmrt approach and future directions for research
+
+	acknowledgments
+	references
+
+
+

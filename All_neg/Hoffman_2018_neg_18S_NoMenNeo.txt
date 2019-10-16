@@ -1,0 +1,3396 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+diversity and the environmental drivers of spatial variation in bacteria and micro eukarya communities from the hawaiian anchialine ecosystem
+
+
+primary research paper
+
+diversity and the environmental drivers of spatial variation
+in bacteria and micro eukarya communities
+from the hawaiian anchialine ecosystem
+
+stephanie k hoffman kiley w seitz justin c havird david a weese 
+
+scott r santos
+
+received april revised july accepted august published online august 
+
+� springer international publishing ag 
+
+abstract little is currently known regarding micro 
+
+bial community structure and the environmental
+
+factors influencing it within the anchialine ecosystem 
+
+defined as near shore land locked water bodies with
+
+subsurface connections to the ocean and groundwater
+
+aquifer the hawaiian archipelago is home to
+
+numerous anchialine habitats with some on the
+
+islands of maui and hawaii harboring unique lami 
+
+nated orange cyanobacterial–bacterial crusts that
+
+independently assembled in relatively young basalt
+
+fields here benthic and water column bacterial and
+
+micro eukaryotic communities from nine anchialine
+
+habitats on oahu maui and hawaii were surveyed
+
+using high throughput amplicon sequencing of the v 
+
+ bacteria specific and v eukarya biased hyper 
+
+variable regions of the s and s rdna genes 
+
+respectively while benthic communities from habi 
+
+tats with cyanobacterial–bacterial crusts were more
+
+similar to each other than to ones lacking it on the
+
+same island each habitat had distinct benthic and
+
+water column microbial communities analyses of the
+
+survey data in the context of environmental factors
+
+identified salinity site aquifer and watershed as
+
+having the highest explanatory power for the observed
+
+variation in microbial diversity and community struc 
+
+ture with lesser drivers being annual rainfall longi 
+
+tude ammonium and dissolved organic carbon our
+
+results epitomize the abiotic and biotic uniqueness
+
+characteristic of individual habitats comprising the
+
+hawaiian anchialine ecosystem 
+
+keywords illumina amplicon sequencing � v 
+hypervariable region s rdna gene � v 
+hypervariable region s rdna gene � microbial
+diversityelectronic supplementary material the online version of
+
+this article doi s contains supple 
+mentary material which is available to authorized users 
+
+handling editor stefano amalfitano
+
+s k hoffman � k w seitz � j c havird �
+d a weese � s r santos
+department of biological sciences and molette
+
+laboratory for climate change and environmental
+
+studies auburn university auburn al usa
+
+e mail ski auburn edu
+
+k w seitz
+
+marine science institute university of texas at austin 
+
+port aransas tx usa
+
+j c havird
+
+department of biology colorado state university 
+
+fort collins co usa
+
+d a weese
+
+department of biological and environmental sciences 
+
+georgia college and state university milledgeville 
+
+ga usa
+
+ 
+
+hydrobiologia – 
+
+https doi org s 
+
+http dx doi org s 
+http crossmark crossref org dialog doi s amp domain pdf
+http crossmark crossref org dialog doi s amp domain pdf
+https doi org s 
+
+
+introduction
+
+examining microbial communities from unusual
+
+habitats and ecosystems has proved invaluable in
+
+growing our biological understanding of the world as
+
+well as in developing new technologies for example 
+
+research on laminated microbial mats found in
+
+hotsprings of yellowstone national park montana 
+
+usa led to the discovery of taq polymerase chien
+
+et al ishino ishino which revolu 
+
+tionized genetic lab techniques while also providing
+
+insight into how life evolved on earth walter et al 
+
+ konhauser et al and may evolve on other
+
+planets walker et al furthermore microbial
+
+mat communities with bioremediation potential have
+
+been identified from ‘‘extreme’’ environments created
+
+by aquaculture effluent paniagua michel garcia 
+
+ bender phillips and mine drainages
+
+ bender et al phillips et al given that
+
+the examination of microbial communities from
+
+unusual environments can lead to potential advances
+
+in biotechnology and increased scientific knowledge
+
+in fields like microbial ecology and evolution it is
+
+surprising that some habitats and ecosystems remain
+
+understudied to the point that even basic information
+
+regarding the taxonomic diversity contained within
+
+them remains largely lacking microbial communities
+
+from the anchialine ecosystem are one such example
+
+of this situation 
+
+the anchialine ecosystem is characterized as near 
+
+shore bodies of water with both fluctuating volumes
+
+and salinities but lacking surface connections to the
+
+ocean holthuis maciolek stock et al 
+
+ sket habitats fitting this definition are
+
+found worldwide across the tropics holthuis 
+
+maciolek thomas et al sket 
+
+humphreys bishop et al garman et al 
+
+ menning et al and occur within a variety
+
+of basin substrates including karst caves blue holes 
+
+cenotes natural wells and springs fossilized coral
+
+reefs and basalt i e lava fields of varying ages
+
+ holthuis maciolek sket due to
+
+their simultaneous connections to the ocean and
+
+groundwater aquifer anchialine habitats can exhibit
+
+complex clines in nutrient concentration and temper 
+
+ature in addition to widely varying salinities over the
+
+tidal cycle stock et al humphreys 
+
+bishop et al although high levels of species
+
+richness and endemism have been well documented
+
+among macroorganisms from the anchialine ecosys 
+
+tem holthuis maciolek brock 
+
+yager brock bailey brock iliffe 
+
+ kano kase mejı́a ortı́z et al 
+
+much less is known regarding the microbial commu 
+
+nities that occur within it sarbu et al pohlman
+
+et al seymour et al gonzalez et al 
+
+ humphreys et al thus hampering efforts
+
+towards understanding the potential roles microbes
+
+play in the functioning of this ecosystem 
+
+in the few studies done to date microbial commu 
+
+nities of the anchialine ecosystem were found to play
+
+major roles in nutrient cycling and primary production
+
+ sarbu et al pohlman et al including
+
+being the autotrophic basis of the food web dalton
+
+et al furthermore microbial community
+
+compositions and distributions in anchialine habitats
+
+can be strongly affected by environmental factors like
+
+water chemistry resulting in variable community
+
+structures along clines for instance vertically struc 
+
+tured microbial communities correlating with depth
+
+and clines of dissolved oxygen hydrogen sulfide and
+
+dissolved inorganic nitrogen were reported from the
+
+bundera sinkhole seymour et al humphreys
+
+et al and between adjacent km 
+bahamian blue holes with differing hydrogen sulfide
+
+clines gonzalez et al in the hawaiian
+
+archipelago home to the world’s highest concentra 
+
+tion of anchialine habitats a number of pools or ponds
+
+harbor distinctive laminated orange cyanobacterial–
+
+bacterial crusts endemic to the anchialine ecosystem
+
+of the islands maciolek brock wong 
+
+brock et al bailey brock brock 
+
+while previous surveys of these crusts via light and
+
+scanning electron microscopy revealed numerous
+
+cyanobacteria diatoms and ciliates they were limited
+
+to the identification of morphologically distinct taxa
+
+and only briefly mentioned the presence of
+
+‘‘various cocci and bacilli’’ prokaryotic cells with no
+
+assessment of their taxonomic affinities and the
+
+environmental factors potentially influencing their
+
+distribution wong bailey brock brock 
+
+ 
+
+in the above context the objectives of this study
+
+were to survey the diversity composition and
+
+structure among benthic and water column microbial
+
+ i e bacterial and micro eukaryotic communities
+
+from anchialine habitats on the three hawaiian islands
+
+where they naturally occur and identify potential
+
+ hydrobiologia – 
+
+ 
+
+
+
+environmental factors driving microbial diversity and
+
+community structure across these hawaiian anchialine
+
+habitats notably habitats were chosen to span a
+
+breadth of chemical geological and physical factors 
+
+including likely variation in water chemistry such as
+
+nutrient concentrations and salinity differing basin
+
+substrates and examples of open pools or ponds versus
+
+caves given the breadth of factors occurring either
+
+singularly or in combination we hypothesized that
+
+each habitat across this sampling of the hawaiian
+
+anchialine ecosystem possessed a unique microbial
+
+community that reflects its particular geographic
+
+location and environmental characteristics we further
+
+hypothesized that if similarities in microbial commu 
+
+nity structure were identified between habitats these
+
+would correlate with similarities in their environmen 
+
+tal factors this study to the best of our knowledge is
+
+the first to examine both bacterial and micro eukary 
+
+otic communities across a range of habitats belonging
+
+to the anchialine ecosystem 
+
+methods
+
+sites and sampling
+
+in the hawaiian archipelago benthic and water
+
+column samples were collected during the summer
+
+of from nine anchialine habitats on the islands of
+
+oahu maui and hawaii fig a given that envi 
+
+ronmental factors vary greatly across the hawaiian
+
+anchialine ecosystem craft et al havird et al 
+
+ the sampled open pools or ponds
+
+ fig b and caves fig c were each characterized
+
+by categorical e g basin type and continuous e g 
+
+dissolved organic carbon concentration environmen 
+
+tal factors fig table additional environmental
+
+factors were drawn from the hawaii statewide gis
+
+program such as aquifer designation annual rainfall 
+
+and mean annual solar radiation data ‘‘office of
+
+planning hawaii statewide gis program ’’ n d 
+
+giambelluca et al notably anchialine habitats
+
+harboring orange cyanobacterial–bacterial crusts
+
+ fig b d are primarily restricted to the cape kinau
+
+and kona regions of the islands of maui and hawaii 
+
+respectively fig a and although these crust com 
+
+munities across the two islands appear visually
+
+identical they have assembled independently of
+
+each other since maui and hawaii have never shared a
+
+physical connection and relatively quickly and
+
+repetitively on each island due to the comparatively
+
+young i e years old lava fields in which they
+occur being rendered sterile by high temperatures
+
+during their formation 
+
+samples were collected over days to minimize
+
+the potential for temporal bias approximately g
+
+of the orange cyanobacterial–bacterial crust or benthic
+
+material when crusts were absent was collected from
+
+three sampling locations at each site with disposable
+
+sterile spoons and preserved in both rnalater
+
+ thermo fisher scientific ma usa and 
+
+ethanol as well as flash frozen in dimethyl
+
+sulfoxide dmso and glycerol with liquid n 
+
+ethanol dmso and glycerol preserved samples
+
+were archived as part of the hawaiian anchialine
+
+microbial repository in conjunction with the ocean
+
+genome legacy center http www oglf org under
+
+accession numbers s –s furthermore 
+
+water column microbial communities were sampled at
+
+two sampling locations at each site by filtering l of
+water collected cm below the surface through
+sterile lm sterivex millipore ma usa filter
+units and preserved by flooding with cell lysis buffer
+
+ qiagen ca usa for water chemistry analyses 
+
+ l of filtered water from one sampling location
+at each site was submitted to the university of hawaii
+
+at hilo analytical laboratory to quantify dissolved
+
+organic carbon doc ammonium nh 
+ nitrite
+
+ no 
+ nitrate no 
+
+ total dissolved nitrogen
+
+ tdn orthophosphate po 
+ total dissolved
+
+phosphorus tdp silica si and salinity statistical
+
+differences in nutrient concentrations between sites
+
+were tested using one way analyses of variance
+
+ anova followed by a tukey’s honestly signifi 
+
+cant differences hsd post hoc test in the package
+
+agricolae v of the r v statistical environ 
+
+ment r development core team de mendi 
+
+buru with p considered significant 
+
+sequence data generation
+
+mobio powersoil dna isolation kits mobio ca 
+
+usa were utilized to extract dna from rna later 
+
+preserved benthic materials or whole crust samples
+
+according to the manufacturer’s instructions except
+
+for utilizing bead beating rather than vortexing dna
+
+from water column filters was isolated with gentra
+
+puregene yeast bacteria kits qiagen ca usa 
+
+hydrobiologia – 
+
+ 
+
+http www oglf org
+
+
+according to amaral zettler et al with the
+
+modification that dna was pelleted by centrifugation
+
+at – g for min washed in ll 
+ethanol and centrifuged again at – g for
+
+ min the supernatant was then discarded and the
+
+dna pellet allowed to air dry for – min before
+
+being resuspended in ll of gentra dna rehydra 
+tion buffer qiagen ca usa warmed to � c to
+examine whether taxa were heterogeneously dis 
+
+tributed within a site dna was extracted in most
+
+cases from samples belonging to two of the sampling
+
+locations within a site as well as with two separate
+
+extractions of benthic whole crust samples for the qb
+
+and maka sites 
+
+extracted dna was shipped to the hudsonalpha
+
+institute for biotechnology inc genomic services
+
+laboratory huntsville al for amplification via the
+
+polymerase chain reaction pcr in duplicate
+
+ fig s with each reaction using ng of dna
+
+template except in cases of low dna concentration
+
+where the template volume was divided equally
+
+between the two pcrs two ribosomal dna gene
+
+ rdna regions fig s were pcr amplified per
+
+sample the v hypervariable region of the s rdna
+
+gene using the bacteria specific primers f
+
+and r from gloor et al and the v 
+
+hypervariable region of the s rdna gene using the
+
+eukarya biased primers f and r from
+
+amaral zettler et al additionally two
+
+sequencing runs were performed of the dual barcoded
+
+amplicons fig s to obtain bp paired end pe 
+
+reads on an illumina hiseq with each run done
+
+on independent flow cells to minimize the potential for
+
+sample handling errors 
+
+fig amap depicting sites of anchialine habitats surveyed in
+summer on the islands of oahu maui and hawaii with the
+
+regions of cape kinau maui and kona hawaii indicated open
+
+circles b example of a hawaiian anchialine open pool habitat
+ i e site skip with the orange cyanobacterial–bacterial crust
+
+found in cape kinau maui and kona hawaii c example of a
+hawaiian anchialine cave habitat i e site pu on hawaii 
+
+d close up of dissected laminated orange cyanobacterial–
+bacterial crust found exclusively in the cape kinau region of
+
+maui and the kona region of hawaii
+
+ hydrobiologia – 
+
+ 
+
+
+
+table anchialine habitats from the islands of hawaii maui and oahu and their corresponding categorical and continuous
+environmental factors surveyed in summer 
+
+categorical
+
+environmental factors
+
+sites
+
+owai hm qb skip wc kbi maka pb pu
+
+island oahu maui maui maui maui hawaii hawaii hawaii hawaii
+
+habitat type pond pond pond pond cave pond pond pond cave
+
+benthic substrate calcium
+carbonate
+
+basalt basalt basalt basalt basalt basalt basalt basalt
+
+orange cyanobacterial–
+bacterial crust
+
+no yes yes yes no yes yes yes no
+
+goats no yes yes yes no no yes no no
+
+open to public no no no no yes yes yes no no
+
+fish no fish no fish no fish no fish poecilids tilapia poecilids 
+marine
+
+no fish no fish
+
+aquifer waianae kahikinui central kahikinui hana hualalai hualalai sw
+mauna
+loa
+
+se
+mauna
+loa
+
+watershed kaupuni kanaio ahihi
+kinau
+
+ahihi
+kinau
+
+honomaele kiholo kiholo kauna south
+point
+
+potential warm
+groundwater 
+
+no yes yes yes no no yes no no
+
+continuous
+environmental factors
+
+latitude 
+
+longitude 
+
+annual rainfall mm 
+
+mean annual solar
+radiation watts m 
+
+ 
+
+salinity ppt c d a b f f g e g
+
+nitrite and nitrate
+ no no lm 
+
+ b c g h f a d j e
+
+orthophosphate po 
+lm 
+
+ e d ndh ndh b f a g c
+
+silica si lm b f g h j d a e c
+
+ammonium nh lm 
+ ndf c ndf ndf b c d a e
+
+dissolved organic carbon
+ doc lm 
+
+ a c b e g f h d j
+
+total dissolved nitrogen
+ tdn lm 
+
+ b c g h f a d g e
+
+total dissolved
+phosphorus tdp 
+lm 
+
+ d e ndh ndh b f a g c
+
+superscript letters indicate statistically different nutrient concentrations at p according to one way analysis of variance
+ anova tests followed by tukey’s honestly significant differences post hoc tests site abbreviations owai waianae oahu hm 
+
+hanamanioa maui qb queen’s bath maui skip skippy’s pond maui wc waianapanapa cave maui kbi keawaiki bay 
+
+hawaii maka makalawena beach hawaii pb pohue bay hawaii pu puhi’ula cave hawaii
+ not detectable nd 
+ not detectable nd 
+ not detectable nd 
+ ‘‘office of planning hawaii statewide gis program ’’ n d 
+ giambelluca et al 
+
+hydrobiologia – 
+
+ 
+
+
+
+operational taxonomic unit otu clustering
+
+sequence reads were processed in pandaseq v 
+
+ masella et al to align the paired ends trim off
+
+primer sequences and filter out those with uncalled
+
+bases the fastq quality filter part of the fastx 
+
+toolkit v gordon hannon was then
+
+used to filter reads using a conservative quality score
+
+cut off of over at least of the sequenced
+
+nucleotides potentially chimeric sequences were fil 
+
+tered using usearch edgar as distributed
+
+in the qiime v pipeline caporaso et al b 
+
+within qiime sequences were clustered into opera 
+
+tional taxonomic units otus at a conservative 
+
+sequence similarity and abundance through the
+
+pick open reference otus py workflow
+
+using uclust edgar and the clustered
+
+greengenes desantis et al and the 
+
+clustered silva quast et al databases as
+
+initial cluster references for the v and v hypervari 
+
+able regions respectively notably we adopted the
+
+ otu abundance filter as recommended by
+
+bokulich et al for improvement of clustering
+
+results furthermore a sequence similarity param 
+
+eter was selected to lump rather than split otus the
+
+use of a sequence similarity resulted in and 
+
+additional v and v otus respectively data not
+
+shown suggesting sequence similarity stringency did
+
+not significantly impact otu richness for each otu
+
+cluster the most abundant sequence was selected to act
+
+as the reference for that cluster taxonomic identities
+
+were then assigned to cluster references using mega 
+
+blast v altschul et al to the appro 
+
+priate curated database mentioned above at a sequence
+
+identity of c and e value of all otus
+
+were aligned against the appropriate curated database
+
+with pynast v caporaso et al a under
+
+default parameters i e minimum length of 
+
+median input length minimum identity and any
+
+otus failing to align were filtered from the final
+
+tables see below 
+
+analyses of community composition
+
+and environmental factors
+
+alpha diversity measured as the number of observed
+
+otus as well as chao chao shannon
+
+ shannon and inverse simpson simpson 
+
+ diversity indices were calculated on the final
+
+otu abundance tables and plotted using phyloseq
+
+v in r r development core team 
+
+mcmurdie holmes specifically chao 
+
+estimates the total number of taxa by assuming a
+
+sample with many rare otus taxa likely contains
+
+additional ones that escaped initial detection chao 
+
+ on the other hand shannon diversity quantifies
+
+the uncertainty in predicting what otus taxa the next
+
+sampled sequence would belong to such that higher
+
+shannon values reflect greater diversity shannon 
+
+ lastly simpson’s index quantifies the proba 
+
+bility that two random sequences belong to the same
+
+otus taxa with a lower index reflecting greater
+
+diversity due to the inverted relationship between
+
+simpson’s index and diversity we used its inverse
+
+since it reports the richness of a perfectly even
+
+community that would have the same diversity as the
+
+observed sample rarefaction curves were generated
+
+for these diversity indices in r using ten replicates of
+
+ and 
+
+randomly selected sequences per sample to gauge
+
+the effectiveness of our sampling depth at capturing
+
+the diversity and composition of the hawaiian
+
+anchialine bacterial and micro eukaryotic communi 
+
+ties under examination 
+
+microbial community compositions elucidated
+
+from the v and v rdna gene hypervariable regions
+
+were visualized as stacked bar plots of the proportion
+
+of each taxonomic group present at a sample site using
+
+the summarize taxa through plots py
+
+script from the qiime v pipeline caporaso
+
+et al b additionally core otus i e ones
+
+shared by all samples from a specified group for
+
+benthic and water column communities of both orange
+
+cyanobacterial–bacterial crust and cave sites were
+
+identified using the script compute core mi 
+
+crobiome py caporaso et al b 
+
+to compare community composition and examine
+
+how categorical and continuous environmental factors
+
+contributed to microbial diversity and structure
+
+between sites a non metric multidimensional scaling
+
+ nmds ordination with confidence ellipses was
+
+created using both a jaccard dissimilarity coefficient
+
+matrix and a bray–curtis dissimilarity matrix calcu 
+
+lated from otu and environmental matrices trans 
+
+formed to even sampling depth in the r package
+
+phyloseq v specifically the jaccard dissimi 
+
+larity coefficient returns the proportion of unshared
+
+taxa between samples and only considers their
+
+ hydrobiologia – 
+
+ 
+
+
+
+presence or absence jaccard while the bray–
+
+curtis dissimilarity metric is based on the abundance
+
+of otus shared between communities bray curtis 
+
+ the individual explanatory power of the
+
+continuous environmental factors on sample ordina 
+
+tions was investigated with the envfit function 
+
+permutations in the r package vegan v oksa 
+
+nen et al fitted vectors generated from
+
+continuous environmental factors with significant
+
+explanatory power of the sample ordinations
+
+ a were then scaled by their explanatory
+power r and overlaid onto the nmds ordinations 
+
+using the bioenv function in the r package vegan
+
+v we additionally identified the combination of
+
+categorical and continuous environmental factors that
+
+best predicted the observed otu abundances calcu 
+
+lated as the subset whose euclidean distance resem 
+
+blance matrix had a maximum spearman correlation
+
+with the final otu tables in other words this
+
+approach elucidates the combination of environmental
+
+factors whose distance matrices best approximate the
+
+v and v otu abundance based distance matrices
+
+ clarke ainsworth finally we utilized an
+
+analysis of similarity anosim as proposed by
+
+clarke with the bray–curtis dissimilarity
+
+matrix to determine whether there was a significant
+
+difference in otu composition between samples
+
+grouped by site and whether sampling was from the
+
+benthos or water column in the r package vegan
+
+v under permutations 
+
+data accessibility
+
+raw illumina sequence reads were deposited into the
+
+national center for biotechnology information
+
+ ncbi sequence read archive sra database under
+
+bioproject id number prjna and sra sam 
+
+ple accession numbers srs srs 
+
+srs srs srs srs 
+
+ srs srs srs srs 
+
+ srs srs srs sr
+
+s srs srs srs 
+
+srs srs srs srs 
+
+ srs srs srs srs 
+
+ srs srs furthermore 
+
+documentation of all r code qiime scripts and
+
+additional commands utilized in our analyses can be
+
+downloaded from http www auburn edu santosr 
+sequencedatasets htm 
+
+results
+
+sites and sampling
+
+a total of biological samples from three non crust
+
+and six orange cyanobacterial–bacterial crust sites
+
+were successfully amplified via pcr and sequenced
+
+for the v and v rdna gene hypervariable regions
+
+ table of the and were benthic and water
+
+column samples respectively water chemistry anal 
+
+yses from these anchialine habitats revealed that they
+
+ranged from fresh to saline with statistically signifi 
+
+cant differences in their nutrient concentrations 
+
+including orthophosphate silica and dissolved
+
+organic carbon as well as variation in other environ 
+
+mental factors such as annual rainfall and mean
+
+annual solar radiation table notably sites sharing
+
+aquifers and or watersheds did not necessarily have
+
+similar nutrient or environmental profiles for exam 
+
+ple kbi and maka occur in the same aquifer and
+
+watershed yet were more dissimilar than skip and
+
+qb that only share a watershed table 
+
+sequence data generation and otu clustering
+
+the v sequencing produced a total of 
+
+demultiplexed illumina pe reads with an average �x 
+of reads sequencing replicate sample hereafter
+
+referred to as a sample for v a total of 
+
+pe reads were generated �x reads sample 
+following alignment quality filtering chimera check 
+
+ing and abundance filtering v and
+
+ v sequences were retained representing
+
+ and reductions respectively in each dataset 
+
+while significant proportions of our sequence data
+
+were eliminated via filtering we elected to use such
+
+stringent parameters due to the short length of the
+
+illumina reads see below as well as to reduce our
+
+noise to signal ratio thus the post processing aver 
+
+age number of sequences per sample for v and v 
+
+were and respectively lengths of the
+
+v sequences ranged from to bp �x bp 
+while those of v ranged from to bp
+
+ �x bp no v otus were removed due to
+
+failure to align in pynast resulting in otus
+
+in the final dataset in contrast v otus failed to
+
+align and were excluded from the final otu table 
+
+removal of the sequences associated with these
+
+excluded otus reduced the v total to 
+
+hydrobiologia – 
+
+ 
+
+http www auburn edu santosr sequencedatasets htm
+http www auburn edu santosr sequencedatasets htm
+
+
+ �x reads sample and otus the
+majority i e of v otus were assigned
+
+taxonomy using the greengenes database
+
+ desantis et al with the exception being 
+
+otus encompassing sequences e g 
+
+of the total sequences in the final otu table 
+
+comparisons of sequences from these unassignable
+
+otus to ncbi’s genbank nr database benson et al 
+
+ sayers et al using blastn v 
+
+ altschul et al revealed affiliations with
+
+uncultured samples primarily belonging to the
+
+alphaproteobacteria cytophaga flavobacteria bac 
+
+teroidetes group and deltaproteobacteria but also
+
+acidobacteria actinobacteria chlorobi chloroflexi 
+
+chlorophyte chloroplasts cyanobacteria deinococ 
+
+cus thermi enterobacteria firmicutes fusobacteria 
+
+planctomycetes and verrucomicrobia at low e values
+
+ data not shown additionally v otus were
+
+identified via the greengenes database as coming
+
+from eukaryotic chloroplasts representing of
+
+the total v sequences e g – per sample 
+
+�x classified to this organelle ten v otus 
+
+composed of sequences or of the total
+
+number failed to be assigned taxonomy using the
+
+silva database quast et al comparisons
+
+of sequences from these unassigned v otus against
+
+ncbi’s genbank nr database with blastn identi 
+
+fied matches with alveolata amoebozoa apusozoa 
+
+bacillariophyta chlorophyceae ciliophora crypto 
+
+phyceae dinoflagellata mycetozoa oomycota rhi 
+
+zaria rhodophyta and stramenopiles again at low
+
+e values data not shown 
+
+analyses of community composition
+
+and environmental factors
+
+samples from the same site and environment e g 
+
+benthos or water column were most similar to each
+
+other regardless of which biological sample dna
+
+extraction pcr or sequencing run data were
+
+generated from data not shown for this reason 
+
+all replicates for any given benthic or water column
+
+sample were combined per site for most downstream
+
+analyses rarefaction analyses suggested that otu
+
+table number of biological samples successfully amplified
+via pcr technical samples produced by duplicate pcr
+
+reactions from a single biological sample and the total
+
+number of samples sequenced from two illumina runs analyzed
+
+in this study from anchialine habitats on the islands of hawaii 
+
+maui and oahu surveyed in summer 
+
+owai hm qb skip wc kbi maka pb pu
+
+v 
+
+benthos
+
+biological samples 
+
+duplicated samples 
+
+total samples sequenced 
+
+column
+
+biological samples a a a
+
+duplicated samples a a a
+
+total samples sequenced a a a
+
+v 
+
+benthos
+
+biological samples a 
+
+duplicated samples a 
+
+total samples sequenced a 
+
+column
+
+biological samples a a a
+
+duplicated samples a a a
+
+total samples sequenced a a a
+
+a samples were collected and sent for sequencing but failed to amplify
+
+ hydrobiologia – 
+
+ 
+
+
+
+richness as measured via alpha diversity was not
+
+saturated at sampling depths of sequences
+
+per sample for either the bacteria v fig s a or
+
+eukarya biased v datasets fig s b in contrast 
+
+curves of chao shannon and inverse simpson
+
+diversity flattened and reached apparent saturation at
+
+sampling depths equal or greater than 
+
+sequences per sample fig s a and s b rarefying
+
+without replacement at and sequences
+
+for v and v respectively estimating the same
+
+three diversity metrics times and testing the
+
+results with the kruskal–wallis rank sum test failed
+
+to identify significant differences between samples
+
+grouped by site or whether they were from the
+
+benthos or water column data not shown this
+
+implies estimates of alpha diversity were not struc 
+
+tured by site or whether they were from the benthos
+
+or water column in contrast alpha diversity
+
+estimates were highly significant and positively
+
+correlated with salinity for the v observed
+
+r p chao r 
+
+p shannon r p 
+
+invsimpson r p and v 
+
+ observed r p chao 
+r p shannon r 
+
+ p invsimpson r 
+
+p datasets fig relative to other
+
+environmental factors 
+
+at the phylum level orange cyanobacterial–bacte 
+
+rial crust and cave anchialine microbial communities
+
+shared most taxa but at differing levels of abundance
+
+ v fig a v fig b using the compute 
+
+core microbiome py script in qiime all
+
+crust site samples from both the benthos and water
+
+column had core v and v otus belonging to
+
+actinobacteria alphaproteobacteria bacteroidetes 
+
+gammaproteobacteria verrucomicrobia and hetero 
+
+konta cyanobacteria were identified as core v otus
+
+in benthic crust samples from both maui and hawaii 
+
+but were only core otus in the water column samples
+
+of crust sites from hawaii on the other hand all
+
+samples from the two cave sites had core v and v 
+
+otus belonging to alphaproteobacteria bacteroide 
+
+tes betaproteobacteria deltaproteobacteria epsilon 
+
+proteobacteria fusobacteria gammaproteobacteria 
+
+verrucomicrobia ciliophora and dinoflagellata 
+
+fungal groups were identified as members of the core
+
+water column communities from orange cyanobacte 
+
+rial–bacterial crust sites on hawaii but not maui as
+
+well as from all cave site samples thaumarchaeota 
+
+ a 
+
+ b 
+
+fig diversity estimates as number of observed otus 
+chao shannon diversity and inverse simpson diversity for
+
+a bacteria specific v hypervariable region of the s rdna
+gene b eukarya biased v hypervariable region of the s 
+rdna gene samples are grouped by benthos and water column
+
+communities within sites from anchialine habitats surveyed in
+
+summer on the islands of oahu blue solid circles 
+
+maui red solid circles and hawaii orange solid circles 
+
+solid lines indicate linear model fits between salinity parts per
+
+thousand ppt and the respective diversity estimate while
+
+dashed lines represent the confidence intervals of the
+
+model fits
+
+hydrobiologia – 
+
+ 
+
+
+
+maui crust maui crust hawaii crust hawaii crust 
+ b 
+
+ a 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ o
+
+f t
+ot
+
+al
+ s
+
+eq
+ue
+
+nc
+es
+
+thermi
+ws 
+verrucomicrobia
+tenericutes
+tm 
+spirochaetes
+proteobacteria
+planctomycetes
+od 
+nitrospirae
+nkb 
+nc 
+lentisphaerae
+gemmatimonadetes
+gouta 
+gn 
+fusobacteria
+firmicutes
+fibrobacteres
+cyanobacteria
+chloroflexi
+chlorobi
+chlamydiae
+caldithrix
+bacteroidetes
+armatimonadetes
+actinobacteria
+acidobacteria
+bacteria
+no blast hit other
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ o
+
+f t
+ot
+
+al
+ s
+
+eq
+ue
+
+nc
+es
+
+n
+mulo
+
+c
+c
+
+w
+n
+
+mulo
+c
+
+ia
+w
+
+o
+
+sohtneb
+m
+
+h
+sohtneb
+b
+
+q
+
+sohtneb
+piks
+sohtneb
+ia
+
+w
+o
+
+sohtneb
+pu
+
+sohtneb
+c
+
+w
+
+n
+mulo
+
+c
+kb
+
+i n
+mulo
+
+c
+pb
+
+n
+mulo
+
+c
+m
+
+h
+n
+
+mulo
+c
+
+piks
+
+sohtneb
+kb
+
+i sohtneb
+ aka
+
+m
+
+sohtneb
+pb
+
+n
+mulo
+
+c
+c
+
+w
+
+n
+mulo
+
+c
+ia
+
+w
+o
+
+sohtneb
+m
+
+h
+
+sohtneb
+b
+
+q
+
+sohtneb
+piks
+
+sohtneb
+ia
+
+w
+o
+
+sohtneb
+pu
+
+n
+mulo
+
+c
+kb
+
+i n
+mulo
+
+c
+pb
+
+n
+mulo
+
+c
+m
+
+h
+
+n
+mulo
+
+c
+piks
+
+sohtneb
+kb
+
+i sohtneb
+ aka
+
+m
+
+sohtneb
+pb
+
+maui crust maui crust hawaii crust hawaii crust 
+
+no blast hit other
+zeuk 
+sar
+sa c 
+opisthokonta
+kathablepharidae
+incertae sedis
+haptophyta
+excavata
+cryptophyceae
+centrohelida
+archaeplastida
+amoebozoa
+verrucomicrobia
+spirochaetes
+proteobacteria
+planctomycetes
+nitrospirae
+npl upa 
+lentisphaerae
+gemmatimonadetes
+firmicutes
+fibrobacteres
+chloroflexi
+candidate div od 
+bacteroidetes
+actinobacteria
+acidobacteria
+thaumarchaeota
+
+ hydrobiologia – 
+
+ 
+
+
+
+the only recovered archaeal phylum was exclusive
+
+to the benthic community at one cave site i e pu 
+
+and found nowhere else furthermore the two cave
+
+sites occurring on different islands shared relatively
+
+high numbers of benthic bacterial v otus i e 
+
+ table conversely the benthic and water
+
+column microbial communities of orange cyanobac 
+
+terial–bacterial crust sites from maui and hawaii
+
+possessed relatively few mutual otus for example 
+
+only and v and v otus respectively were
+
+shared across islands while benthic crust samples
+
+from either maui or hawaii had – x more v 
+and v otus in common among sites table a
+
+similar pattern of low otu sharing was also
+
+identified among water column microbial communi 
+
+ties from orange cyanobacterial–bacterial crust sites
+
+on the two islands table the specific v and
+
+v otus identified as core community constituents
+
+from benthic and water column samples of the
+
+hawaiian anchialine ecosystem are provided in
+
+online resource 
+
+in the nmds plots samples grouped by both site
+
+and whether they were from the benthos or water
+
+column formed in nearly all cases tight and distinct
+
+clusters with limited overlap between them fig a 
+
+b differences between the jaccard or bray–curtis
+
+nmds ordinations and fitted envfit vectors were
+
+minimal data not shown and thus only the bray–
+
+curtis ordinations for the v fig a and v 
+
+ fig b otus are presented while the benthic
+
+orange cyanobacterial–bacterial crust communities on
+
+maui and hawaii were more similar to each other than
+
+to their water column communities they clustered
+
+with minimal overlap and correlate with the environ 
+
+mental factors and water chemistry at each site
+
+ table these trends were also apparent in the
+
+analysis of similarity anosim with otu compo 
+
+sition of samples grouping by site and whether they
+
+were from the benthos or water column also being
+
+significantly different i e v r 
+
+p v r p 
+
+consideration of individual environmental factors
+
+with the envfit analysis revealed all categorical factors
+
+as being significant at p with environment
+ i e benthic or water column accounting for the least
+
+variation i e v r v r and
+
+site for the most variation i e v r v 
+
+r furthermore the bioenv function tested
+
+ possible combinations between site 
+
+sample id and whether a sample originated from the
+
+benthos or water column the ten categorical
+
+factors table and the twelve continuous
+
+environmental factors table for both datasets 
+
+these analyses identified the presence or absence of
+
+the cyanobacterial–bacterial crust community 
+
+whether the sample originated from the benthos or
+
+water column and salinity as the best model
+
+ r for the bacterial v otus on the other
+
+hand the presence or absence of the cyanobacterial–
+
+bacterial crust community whether the sample orig 
+
+inated from the benthos or water column whether the
+
+site was an open pond or cave and longitude were
+
+identified as the best model r for the
+
+eukarya biased v otus while all continuous
+
+environmental factors were significant predictors of
+
+the bacterial v sample ordination only nine of the
+
+twelve were such for the eukarya biased v fig 
+
+specifically nitrite no 
+ nitrate no 
+
+ silica
+
+ si and total dissolved nitrogen tdn were only
+
+predictive for the v data while salinity was the single
+
+continuous environmental factor with the strongest
+
+explanatory power for both the bacterial and micro 
+
+eukaryotic communities from this sampling of hawai 
+
+ian anchialine habitats fig online resource 
+
+discussion
+
+microbial diversity of the hawaiian anchialine
+
+ecosystem
+
+although our analyses suggest that every member of
+
+the microbial community was not sampled flattened
+
+rarefaction curves of chao shannon and inverse
+
+simpson diversities fig s a and s b imply recovery
+
+of the major taxonomic players from the examined
+
+anchialine habitats in the hawaiian archipelago in
+
+support of this comparison of taxa from our genetic
+
+bfig relative abundance of taxa identified in samples
+grouped by sample type and site from anchialine habitats
+
+surveyed in summer on the islands of oahu maui and
+
+hawaii a bacterial phyla identified by the bacteria specific v 
+hypervariable region of the s rdna gene using the greenge 
+
+nes database b clades identified by the eukarya biased v 
+hypervariable region of the s rdna gene using the silva 
+
+database lines denote some of the bacterial phyla and micro 
+
+eukaryotic clades highlighted in the results or discussion
+
+section
+
+hydrobiologia – 
+
+ 
+
+
+
+survey with prior light wong and scanning
+
+electron bailey brock brock microscopy
+
+surveys of orange cyanobacterial–bacterial crust
+
+materials from maui and hawaii identified apprecia 
+
+ble overlap with specific cyanobacteria diatoms 
+
+dinoflagellates and green algae online resource 
+
+including members of the historic cyanobacterial
+
+subsections i iv as well as of diatom of 
+
+dinoflagellate and of green algae genera wong 
+
+ potential reasons for our inability to recover all
+
+of the previously identified taxa include the fact that
+
+the exact same sites were not sampled differing
+
+recovery biases between microscopy and sequencing 
+
+based approaches and that regional environmental
+
+conditions on each island may have shifted in the
+
+ years since these previous surveys with subse 
+
+quent changes in community composition of these
+
+orange cyanobacterial–bacterial crusts additionally 
+
+revisions in species names and taxonomic ranks since
+
+ and the years in which these other surveys
+
+were published wong bailey brock brock 
+
+ may also contribute to our failing to recover the
+
+exact same taxa that were previously identified 
+
+of the few studies examining the microbial diver 
+
+sity of hawaii’s soils or freshwaters phyla identified
+
+as occurring in young volcanic soils and forests on
+
+the island of hawaii included acidobacteria acti 
+
+nobacteria alphaproteobacteria betaproteobacteria 
+
+chloroflexi clostridia cyanobacteria gammapro 
+
+teobacteria deltaproteobacteria epsilonproteobacte 
+
+ria fibrobacteres firmicutes and planctomycetes
+
+ nüsslein tiedje dunfield king 
+
+ gomez alvarez et al which were also
+
+recovered in our survey of habitats from the hawaiian
+
+anchialine ecosystem furthermore most phyla iden 
+
+tified in a survey of five hawaiian lakes donachie
+
+et al were also found in our study with the
+
+exception of euryarchaeota and the candidate divi 
+
+sions while the distinctive orange cyanobacterial–
+
+bacterial crust communities found in the cape kinau
+
+and kona regions of maui and hawaii respectively 
+
+are endemic to the hawaiian anchialine ecosystem 
+
+some of the same constituent phyla are also found in
+
+other anchialine habitats for example an anchialine
+
+pool on pearl and hermes atoll in the northwest
+
+hawaiian islands possessed members of the
+
+cyanobacteria firmicutes and gammaproteobacteria
+
+ donachie et al with a subsequently cultured
+
+gammaproteobacterium appearing to belong to a
+
+novel genus zepeda et al along with this a
+
+survey of the microbial communities of two anchialine
+
+caves on mljet island in the adriatic sea identified
+
+deltaproteobacteria epsilonproteobacteria and
+
+gammaproteobacteria as the major resident bacterial
+
+lineages with abundances of the latter and former
+
+being concentrated at the surface and below m 
+
+respectively and epsilonproteobacteria distributed
+
+ubiquitously krstulović et al while epsilon 
+
+proteobacteria and deltaproteobacteria might be con 
+
+sidered relatively minor contributors to the hawaiian
+
+anchialine microbial communities examined here 
+
+gammaproteobacteria accounted for of the
+
+total v sequences generated in our survey specifi 
+
+cally most of the gammaproteobacteria sequences
+
+belonged to members of the alteromonadales 
+
+oceanospirillales thiotrichales and vibrionales 
+
+likewise all of the bacterial phyla previously iden 
+
+tified in two anchialine bahamian blue holes were also
+
+table number of bacterial v and micro eukaryotic v otus shared by all samples in specified sample groups n number
+of samples sequenced from anchialine habitats on the islands of hawaii and maui surveyed in summer 
+
+sample groups v core otus v core otus
+
+all cave benthos n n d a
+
+all cave water column n n 
+
+maui orange crust benthos n n 
+
+hawaii orange crust benthos n n 
+
+all orange crust benthos n n 
+
+maui orange crust water column n n 
+
+hawaii orange crust water column n n 
+
+all orange crust water column n n 
+
+a not determined due to v amplification failure of benthic samples from wc
+
+ hydrobiologia – 
+
+ 
+
+
+
+recovered from the hawaiian anchialine ecosystem 
+
+including chlorobi deltaproteobacteria gammapro 
+
+teobacteria planctomycetes verrucomicrobia firmi 
+
+cutes lentisphaerae bacteroidetes spirochaetes and
+
+nitrospirae gonzalez et al 
+
+while the two cave sites on different islands shared
+
+relatively high numbers of benthic bacterial otus 
+
+identification of core bacterial and micro eukaryotic
+
+otus i e ones shared by all samples from a specific
+
+group among the orange cyanobacterial–bacterial
+
+crust communities of maui and hawaii revealed
+
+limited overlap between islands with both the benthos
+
+and water columns on the same island having higher
+
+numbers of shared core otus and more similar
+
+communities than with the other island table 
+
+interestingly no specific cyanobacterial otus were
+
+identified as core constituents among the orange
+
+cyanobacterial–bacterial crust communities of both
+
+maui and hawaii despite higher taxonomic groups of
+
+cyanobacteria being common between sites along
+
+with this larger numbers of bacterial and micro 
+
+eukaryotic otus were found as shared core commu 
+
+nity members on hawaii than maui despite orange
+
+cyanobacterial–bacterial crust sites on hawaii having
+
+greater geographic separation and the potential for
+
+isolation by distance than those on maui one
+
+possibility for the greater core community diversity
+
+on hawaii may be due in part to the lower salinity of
+
+these habitats compared to orange cyanobacterial–
+
+bacterial crust habitats on maui table which
+
+allows for the persistence of a wider range of taxa 
+
+such a situation where diversity and structure in
+
+aquatic microbial communities negatively correlated
+
+with increasing salinities also see below has been
+
+reported from numerous high altitude tibetan lakes
+
+ wu et al yang et al which share a
+
+number of abiotic factors e g strong uv radiation 
+
+oligotrophy low terrestrial input of organic carbon
+
+resources with many hawaiian anchialine habitats
+
+possessing these distinctive orange cyanobacterial–
+
+bacterial crust communities table 
+
+environmental factors driving microbial diversity
+
+in the hawaiian anchialine ecosystem
+
+although this survey did not explicitly test whether
+
+anchialine habitats in the hawaiian islands possess the
+
+vertical stratification observed in water column micro 
+
+bial community of other anchialine habitats due to
+
+various physical and chemical clines humphreys 
+
+ seymour et al humphreys et al 
+
+spatial variation even in geographically adjacent
+
+habitats was identified by both the nmds ordination
+
+and anosim unique microbial communities despite
+
+geographic proximity have also been reported from
+
+anchialine blue holes in the bahamas gonzalez et al 
+
+ as well as anchialine pools in a single cave in
+
+mallorca spain where distinct communities occurred
+
+within m of each other menning et al our
+
+nh 
+po 
+
+annual rainfall
+solar rad 
+
+no no 
+
+salinity doclatitude
+longitude
+
+tdntdp
+si
+
+wc
+
+pu
+
+wc
+
+owai
+owai
+
+pb
+
+kbi
+
+kbi
+pbmaka 
+
+hm
+
+qb
+
+skip
+
+hm
+
+skip
+
+owai
+
+skip
+
+hm
+
+wc
+
+qb
+
+pukbi
+maka 
+
+pb
+
+owai
+
+kbi
+
+pb
+
+hm
+
+skip
+
+salinity
+
+nh 
+
+solar rad 
+
+longitude
+latitude
+
+annual rainfall
+
+po 
+tdp
+
+doc
+
+ b 
+
+ a 
+
+fig non metric multidimensional scaling nmds ordina 
+tion using the bray–curtis dissimilarity index of samples
+
+grouped by benthic or water column microbial communities
+
+from anchialine habitats surveyed in summer on the
+
+islands of oahu maui and hawaii a samples generated using
+the bacteria specific v hypervariable region of the s rdna
+
+gene b samples generated using the eukarya biased v 
+hypervariable region of the s rrna gene environmental
+
+factors were fitted and overlaid to represent gradients in
+
+ordination space while ellipses represent confidence
+
+levels grouping samples by benthic or water column microbial
+
+communities within sites
+
+hydrobiologia – 
+
+ 
+
+
+
+results as well as those of these previous studies 
+
+exemplify the fact that similarity in environmental
+
+factors does not always result from close proximity
+
+and further emphasize the abiotic complexity of
+
+anchialine habitats and this ecosystem in general
+
+ stock et al sket humphreys 
+
+bishop et al marrack et al 
+
+of the environmental factors examined here salin 
+
+ity had some of the highest explanatory power for both
+
+the observed alpha diversity estimates i e fig and
+
+otu composition based community variation i e 
+
+fig online resource suggesting it may be the
+
+dominant water chemistry parameter as similarly
+
+determined for high altitude tibetan lakes wu et al 
+
+ yang et al concerning the eukarya 
+
+biased v longitude was also identified as influential
+
+and corresponds to both island as well as the presence
+
+of the unique orange cyanobacterial–bacterial crust
+
+since such sites occur across short longitudinal
+
+gradients on maui and hawaii but a relatively longer
+
+latitudinal gradient on hawaii fig examination of
+
+other individual environmental factors also identified
+
+the categorical factors of site aquifer and watershed
+
+as well as the continuous factors of ammonium and
+
+doc as also having high explanatory power given
+
+this we propose that the presence of unique benthic
+
+and water column communities at each site results in
+
+the significance of site aquifer and watershed with
+
+salinity ammonium and doc being major drivers of
+
+bacterial and micro eukaryotic community diversity
+
+and structure in the hawaiian anchialine ecosystem at
+
+the level of individual habitats for example and as
+
+mentioned earlier salinity of the anchialine habitats
+
+examined here correlated with island such that sites
+
+on hawaii had the lowest and those on maui had the
+
+highest table which likely drives differences in
+
+overall community diversity these findings corre 
+
+spond with those of wong wong who
+
+identified salinity as important in dictating the dom 
+
+inant algal or cyanobacterial taxa in anchialine
+
+habitats at cape kinau maui in riverine bacterio 
+
+plankton communities increased salinity results in
+
+alterations to both community composition and
+
+metabolism by favoring a shift in the community
+
+towards saline tolerant members leading to less
+
+efficiency in the consumption of doc langenheder
+
+et al coincidently the anchialine habitats
+
+examined here with greater salinity also had higher
+
+levels of doc table suggesting an analogous
+
+situation where the bacterial and micro eukaryotic
+
+communities at higher salinity sites are less efficient at
+
+consuming doc in support of this benthic epilithon
+
+communities from orange cyanobacterial–bacterial
+
+crust containing anchialine habitats on hawaii
+
+responded differentially with subsequent shifts in
+
+community composition to nitrogen n and phos 
+
+phorus p enrichment depending on salinity sakihara
+
+et al given that lower salinity sites exhibited
+
+an increase in epilithon chlorophyll a while suppres 
+
+sion of epilithon chlorophyll a occurred at higher
+
+salinity sites in response to n and p enrichment
+
+ sakihara et al the authors inferred that
+
+salinity and to a lesser extent other environmental
+
+factors ultimately impact nutrient utilization by and
+
+subsequent function of these hawaiian anchialine
+
+microbial communities via influencing their member
+
+composition 
+
+considerations of microbial diversity
+
+in conservation efforts for hawaiian anchialine
+
+habitats
+
+given that the abiotic and biotic uniqueness of individ 
+
+ual hawaiian anchialine habitats is only now being
+
+appreciated seidel et al it is unfortunate that
+
+they have been vulnerable both historically and cur 
+
+rently to destruction and degradation primarily due to
+
+coastal development and invasive species introductions
+
+ bailey brock brock brock bailey brock 
+
+ marrack et al unfortunately these threats
+
+to habitats and biota of the hawaiian anchialine
+
+ecosystem are expected to continue or intensify via
+
+processes like ongoing and future urbanization or global
+
+climate change allowing dispersal of invasive species
+
+into uninvaded habitats marrack while a
+
+number of shrimp species found in hawaii’s anchialine
+
+ecosystem are listed as state of hawaii and federal
+
+candidates for protection http dlnr hawaii gov 
+
+wildlife files fact sheet anchialine shrimps 
+
+pdf there are currently no conservation efforts seeking
+
+to protect anchialine habitats in the islandswith the goal
+
+of preserving their bacterial and micro eukaryotic
+
+diversity and communities indeed the need for specific
+
+attention towards preserving global microbial diversity
+
+has been highlighted by the scientific community
+
+ colwell cockell jones griffith 
+
+given this future conservation efforts would greatly
+
+benefit from considering that the phenotypic similarity
+
+ hydrobiologia – 
+
+ 
+
+http dlnr hawaii gov wildlife files fact sheet anchialine shrimps pdf
+http dlnr hawaii gov wildlife files fact sheet anchialine shrimps pdf
+http dlnr hawaii gov wildlife files fact sheet anchialine shrimps pdf
+
+
+between the unique orange cyanobacterial–bacterial
+
+crust communities found on maui and hawaii masks
+
+their distinctiveness and that unique microbial diversity
+
+and communities apparently occupy each habitat across
+
+the islands 
+
+while the technological advancement of high 
+
+throughput amplicon sequencing allowed us to eluci 
+
+date the diverse bacterial and micro eukaryotic com 
+
+munities present in a range of habitats belonging to the
+
+hawaiian anchialine ecosystem much remains to be
+
+investigated for example finer taxonomic assignment
+
+is difficult given the relatively short length of illumina
+
+sequence reads and our conservative clustering param 
+
+eters removed both otus failing to align with the
+
+reference databases and rare otus which potentially
+
+represent novel taxa or the controversial ‘rare bio 
+
+sphere’ pedrós alió huse et al kunin
+
+et al additionally the influence of temporal
+
+dynamics and subsequent changes in microbial com 
+
+munity diversity and or composition spanning from
+
+habitat creation to senescence are unknown in any
+
+case the data and analyses presented here illustrate
+
+howgeographic location and associated environmental
+
+factors such as salinity significantly drive bacterial and
+
+micro eukaryotic diversity composition and structure
+
+among benthic and water column microbial commu 
+
+nities of the hawaiian anchialine ecosystem 
+
+conclusion
+
+this study represents both the first detailed genetic
+
+survey of bacterial and micro eukaryotic diversity as
+
+well as the first attempt to identify potential environ 
+
+mental factors driving spatial variation in microbial
+
+community composition and structure across
+
+hawaii’s anchialine ecosystem here high through 
+
+put amplicon sequencing identified significant differ 
+
+ences in bacterial and micro eukaryotic diversity 
+
+composition and structure across anchialine habitats
+
+on the hawaiian islands of oahu maui and hawaii 
+
+each habitat proved to have a unique microbial
+
+community and multiple categorial and continuous
+
+environmental factors including salinity site water 
+
+shed and doc appear to be significant drivers for
+
+these patterns while the distinctive and endemic
+
+orange cyanobacterial–bacterial crust communities
+
+from maui and hawaii were more similar to each
+
+other in community composition than with non crust
+
+communities they were distinguishable not only by
+
+island but by site as well 
+
+acknowledgements we thank k l kim and r a kinzie iii
+for generous help and support associated with fieldwork p m 
+
+brannock and d s waits graciously assisted with processing of
+
+sequence data we are indebted to p m brannock and m 
+
+newman for providing helpful comments and feedback during
+
+the writing process m ramsey assisted and provided comments
+
+and photos regarding work at the wc site site access and
+
+collections were conducted under the following scientific
+
+permits state of hawaii native invertebrate research permit
+
+ fhm and maka kamehameha schools permit 
+
+ the experiments conducted in this study comply with
+
+current laws of the united states and the state of hawaii 
+
+funding support for this work came from the national science
+
+foundation deb to s r s this represents
+
+contributions no and no to the auburn university
+
+ au marine biology program and molette biology laboratory
+
+for environmental and climate change studies respectively 
+
+funding this study was funded by the national science
+foundation deb to s r s 
+
+compliance with ethical standards
+
+conflict of interest the authors declare that they have no
+conflict of interest 
+
+references
+
+altschul s f w gish w miller e w myers d j lip 
+
+man basic local alignment search tool journal of
+
+molecular biology – 
+
+amaral zettler l a e a mccliment h w ducklow s 
+
+m huse a method for studying protistan diversity
+
+using massively parallel sequencing of v hypervariable
+
+regions of small subunit ribosomal rna genes plosone
+
+ e 
+
+bailey brock j h r e brock feeding reproduction 
+
+and sense organs of the hawaiian anchialine shrimp
+
+halocaridina rubra atyidae pacific science 
+
+ – 
+
+bender j p phillips microbial mats for multiple
+
+applications in aquaculture and bioremediation biore 
+
+source technology – 
+
+bender j r f lee p phillips uptake and transfor 
+
+mation of metals and metalloids by microbial mats and
+
+their use in bioremediation journal of industrial micro 
+
+biology – 
+
+benson d a i karsch mizrachi d j lipman j ostell e 
+
+w sayers genbank nucleic acids research 
+
+d –d 
+
+bishop r e b kakuk j j torres life in the hypoxic
+
+and anoxic zones metabolism and proximate composition
+
+of caribbean troglobitic crustaceans with observations on
+
+hydrobiologia – 
+
+ 
+
+
+
+the water chemistry of two anchialine caves journal of
+
+crustacean biology – 
+
+bokulich n a s subramanian j j faith d gevers j 
+
+i gordon r knight d a mills j g caporaso 
+
+quality filtering vastly improves diversity estimates from
+
+illumina amplicon sequencing nature methods – 
+
+bray j r j t curtis an ordination of the upland
+
+forest communities of southern wisconsin ecological
+
+monographs – 
+
+brock r e j h bailey brock an unique anchialine
+
+pool in the hawaiian islands international review of
+
+hydrobiology – 
+
+brock r e j e norris d a ziemann m t lee 
+
+characteristics of water quality in anchialine ponds of
+
+kona hawaii coast pacific science – 
+
+caporaso j g k bittinger f d bushman t z desantis g 
+
+l andersen r knight a pynast a flexible tool
+
+for aligning sequences to a template alignment bioinfor 
+
+matics – 
+
+caporaso j g j kuczynski j stombaugh k bittinger f 
+
+d bushman e k costello n fierer a g pena j 
+
+k goodrich j i gordon g a huttley s t kelley d 
+
+knights j e koenig r e ley c a lozupone d 
+
+mcdonald b d muegge m pirrung j reeder j 
+
+r sevinsky p j turnbaugh w a walters j widmann 
+
+t yatsunenko j zaneveld r knight b qiime
+
+allows analysis of high throughput community sequencing
+
+data nature methods – 
+
+chao a nonparametric estimation of the number of
+
+classes in a population scandinavian journal of statistics
+
+ – 
+
+chien a d b edgar j m trela deoxyribonucleic
+
+acid polymerase from the extreme thermophile thermus
+
+aquaticus journal of bacteriology – 
+
+clarke k r non parametric multivariate analyses of
+
+changes in community structure australian journal of
+
+ecology – 
+
+clarke k r m ainsworth a method of linking
+
+multivariate community marine ecology progress series
+
+ – 
+
+cockell c s h l jones advancing the case for
+
+microbial conservation oryx – 
+
+colwell r r microbial diversity the importance of
+
+exploration and conservation journal of industrial
+
+microbiology biotechnology 
+
+craft j d a d russ m n yamamoto t y iwai s hau j 
+
+kahiapo c t chong s ziegler chong c muir y 
+
+fujita d a polhemus r a kinzie s r santos 
+
+islands under islands the phylogeography and evolution
+
+of halocaridina rubra holthuis crustacean dec 
+
+apoda atyidae in the hawaiian archipelago limnology
+
+and oceanography – 
+
+dalton c m a mokiao lee t s sakihara m g weber c 
+
+a roco z han b dudley r a mackenzie n 
+
+g hairston density and trait mediated top–down
+
+effects modify bottom–up control of a highly endemic
+
+tropical aquatic food web oikos – 
+
+de mendiburu f agricolae statistical procedures for
+
+agricultural research r package version – 
+
+desantis t z p hugenholtz n larsen m rojas e 
+
+l brodie k keller t huber d dalevi p hu g 
+
+l andersen greengenes a chimera checked s
+
+rrna gene database and workbench compatible with
+
+arb applied and environmental microbiology 
+
+ – 
+
+donachie s p s hou k s lee c w riley a pikina c 
+
+belisle s kempe t s gregory a bossuyt j boerema 
+
+j liu t a freitas a malahoff m alam the
+
+hawaiian archipelago a microbial diversity hotspot 
+
+microbial ecology – 
+
+dunfield k e g m king molecular analysis of
+
+carbon monoxide oxidizing bacteria associated with recent
+
+hawaiian volcanic deposits applied and environmental
+
+microbiology – 
+
+edgar r c search and clustering orders of magnitude
+
+faster than blast bioinformatics – 
+
+garman k h rubelmann d karlen t wu j garey 
+
+comparison of an inactive submarine spring with an active
+
+nearshore anchialine spring in florida hydrobiologia 
+
+ – 
+
+giambelluca t w x shuai m l barnes r j alliss r 
+
+j longman t miura q chen a g frazier r g mudd 
+
+ l cuo evapotranspiration of hawai ‘i final
+
+report submitted to the us army corps of engineers –
+
+honolulu district and the commission onwater resource
+
+management state of hawai ‘i 
+
+gloor g b r hummelen j m macklaim r j dickson a 
+
+d fernandes r macphee g reid microbiome
+
+profiling by illumina sequencing of combinatorial
+
+sequence tagged pcr products plos one e 
+
+gomez alvarez v g m king k nüsslein com 
+
+parative bacterial diversity in recent hawaiian volcanic
+
+deposits of different ages fems microbiology ecology
+
+ – 
+
+gonzalez b t iliffe j macalady i schaperdoth b kakuk 
+
+ microbial hotspots in anchialine blue holes initial
+
+discoveries from thebahamas hydrobiologia – 
+
+gordon a g j hannon fastx toolkit fastq a
+
+short reads preprocessing tools unpublished http 
+
+hannonlab cshl edu fastx toolkit 
+
+griffith g w do we need a global strategy for microbial
+
+conservation trends in ecology evolution – 
+
+havird j j weeks s hau s santos invasive fishes in
+
+the hawaiian anchialine ecosystem investigating potential
+
+predator avoidance by endemic organisms hydrobiologia
+
+ – 
+
+havird j c s r santos r p henry osmoregulation
+
+in the hawaiian anchialine shrimp halocaridina rubra
+
+ crustacea atyidae expression of ion transporters 
+
+mitochondria rich cell proliferation and hemolymph
+
+osmolality during salinity transfers journal of experi 
+
+mental biology – 
+
+holthuis l b on red coloured shrimps decapoda 
+
+caridea from tropical land locked saltwater pools zool 
+
+ogische mededelingen – 
+
+holthuis l b caridean shrimps found in land locked
+
+saltwater pools at four indo west pacific localities sinai
+peninsula funafuti atoll maui and hawaii islands with
+
+the description of one new genus and four new species 
+
+zoologische verhandelingen – 
+
+humphreys w f physico chemical profile and energy
+
+fixation in bundera sinkhole an anchialine remiped habitat
+
+ hydrobiologia – 
+
+ 
+
+http hannonlab cshl edu fastx toolkit
+http hannonlab cshl edu fastx toolkit
+
+
+in north western australia journal of the royal society of
+
+western australia – 
+
+humphreys w s tetu l elbourne m gillings j seymour 
+
+j mitchell i paulsen geochemical and microbial
+
+diversity of bundera sinkhole an anchialine system in the
+
+eastern indian ocean natura croatica – 
+
+huse s m d m welch h g morrison m l sogin 
+
+ironing out the wrinkles in the rare biosphere through
+
+improved otu clustering environmental microbiology
+
+ – 
+
+iliffe t m conservation of anchialine cave biodiversity 
+
+in martin j b c m wicks i d sasowsky eds 
+
+hydrogeology and biology of post paleozoic carbonate
+
+aquifers karst waters institute charles town – 
+
+ishino s y ishino dna polymerases as useful
+
+reagents for biotechnology – the history of developmental
+
+research in the field frontiers in microbiology http 
+
+www ncbi nlm nih gov pmc articles pmc 
+
+jaccard p nouvelles recherches sur la distribution flo 
+
+rale bulletin de la société vaudoise des sciences natur 
+
+elles – 
+
+kano y t kase genetic exchange between anchia 
+
+line cave populations by means of larval dispersal the case
+
+of a new gastropod species neritilia cavernicola zoolog 
+
+ica scripta – 
+
+konhauser k o b jones a l reysenbach r w renaut 
+
+ hot spring sinters keys to understanding earth’s
+
+earliest life forms canadian journal of earth sciences 
+
+ – 
+
+krstulović n m šolić d šantić j maršić lučić m ordulj
+
+ s šestanović microbial community structure in
+
+two anchialine caves on mljet island adriatic sea acta
+
+adriatica – 
+
+kunin v a engelbrektson h ochman p hugenholtz 
+
+ wrinkles in the rare biosphere pyrosequencing
+
+errors can lead to artificial inflation of diversity estimates 
+
+environmental microbiology – 
+
+langenheder s v kisand j wikner l j tranvik 
+
+salinity as a structuring factor for the composition and
+
+performance of bacterioplankton degrading riverine doc 
+
+fems microbiology ecology – 
+
+maciolek j a distribution and biology of indo pacific
+
+insular hypogeal shrimps bulletin of marine science 
+
+ – 
+
+maciolek j a r e brock aquatic survey of the kona
+
+coast ponds hawaii island u s department of commerce
+
+and hawaii cooperative fishery unit honolulu hi 
+
+marrack l modeling potential shifts in hawaiian
+
+anchialine pool habitat and introduced fish distribution due
+
+to sea level rise estuaries coasts doi s 
+
+ 
+
+marrack l s beavers p o’grady the relative
+
+importance of introduced fishes habitat characteristics 
+
+and land use for endemic shrimp occurrence in brackish
+
+anchialine pool ecosystems hydrobiologia 
+
+ – 
+
+masella a p a k bartram j m truszkowski d g brown
+
+ j d neufeld pandaseq paired end assembler
+
+for illumina sequences bmc bioinformatics 
+
+mcmurdie p j s holmes phyloseq an r package for
+
+reproducible interactive analysis and graphics of micro 
+
+biome census data plos one e 
+
+mejı́a ortı́z l m g yánez m lópez mejı́a 
+
+echinoderms in an anchialine cave in mexico marine
+
+ecology – 
+
+menning d l m boop e d graham j r garey 
+
+molecular analyses of microbial abundance and diversity
+
+in the water column of anchialine caves inmallorca spain 
+
+international journal of speleology 
+
+nüsslein k j m tiedje characterization of the
+
+dominant and rare members of a young hawaiian soil
+
+bacterial community with small subunit ribosomal dna
+
+amplified from dna fractionated on the basis of its gua 
+
+nine and cytosine composition applied and environmen 
+
+tal microbiology – 
+
+nüsslein k j m tiedje soil bacterial community
+
+shift correlated with change from forest to pasture vege 
+
+tation in a tropical soil applied and environmental
+
+microbiology – 
+
+office of planning hawaii statewide gis program http 
+
+planning hawaii gov gis 
+
+oksanen j f g blanchet r kindt p legendre p 
+
+r minchin r b o’hara g l simpson p solymos m 
+
+h h stevens h wagner vegan community
+
+ecology package r package version http cran 
+
+r project org package vegan 
+
+paniagua michel j o garcia ex situ bioremediation
+
+of shrimp culture effluent using constructed microbial
+
+mats aquacultural engineering – 
+
+pedrós alió c dipping into the rare biosphere science
+
+ – 
+
+phillips p j bender r simms s rodriguez eaton c britt 
+
+ manganese removal from acid coal mine drainage
+
+by a pond containing green algae and microbial mat water
+
+science and technology – 
+
+pohlman j w t m iliffe l a cifuentes a
+
+stable isotope study of organic cycling and the ecology of
+
+an anchialine cave ecosystem marine ecology progress
+
+series – 
+
+quast c e pruesse p yilmaz j gerken t schweer p 
+
+yarza j peplies f o glöckner the silva
+
+ribosomal rna gene database project improved data
+
+processing and web based tools nucleic acids research
+
+ d –d 
+
+r development core team r a language and envi 
+
+ronment for statistical computing r development core
+
+team vienna 
+
+sakihara t s b d dudley r a mackenzie j p beets 
+
+ endemic grazers control benthic microalgal growth
+
+in a eutrophic tropical brackish ecosystem marine ecology
+
+progress series – 
+
+sarbu s m t c kane b k kinkle a chemoau 
+
+totrophically based cave ecosystem science 
+
+ – 
+
+sayers e w t barrett d a benson s h bryant k canese 
+
+v chetvernin d m church m dicuccio r edgar s 
+
+federhen m feolo l y geer w helmberg y 
+
+kapustin d landsman d j lipman t l madden d 
+
+hydrobiologia – 
+
+ 
+
+http www ncbi nlm nih gov pmc articles pmc 
+http www ncbi nlm nih gov pmc articles pmc 
+http dx doi org s 
+http dx doi org s 
+http planning hawaii gov gis 
+http planning hawaii gov gis 
+http cran r project org package dvegan
+http cran r project org package dvegan
+
+
+r maglott v miller i mizrachi j ostell k d pruitt g 
+
+d schuler e sequeira s t sherry m shumway k 
+
+sirotkin a souvorov g starchenko t a tatusova l 
+
+wagner e yaschenko j ye database resources
+
+of the national center for biotechnology information 
+
+nucleic acids research d – 
+
+seidel b a brasher k auerswald j geist physic 
+
+ochemical characteristics community assemblages and
+
+food web structure in anchialine pools along the kona
+
+coast on the island of hawaii usa hydrobiologia 
+
+ – 
+
+seymour j r w f humphreys j g mitchell 
+
+stratification of the microbial community inhabiting an
+
+anchialine sinkhole aquatic microbial ecology – 
+
+shannon c e a mathematical theory of communica 
+
+tion sigmobile mobile computing and communica 
+
+tions review – 
+
+simpson e h measurement of diversity nature 
+
+ 
+
+sket b the ecology of anchihaline caves trends in
+
+ecology evolution – 
+
+stock j h t m iliffe d williams the concept
+
+‘anchialine’reconsidered stygologia – 
+
+thomas m l h a logan k e eakins s m mathers 
+
+ biotic characteristics of the anchialine ponds of
+
+bermuda bulletin of marine science – 
+
+walker j j j r spear n r pace geobiology of a
+
+microbial endolithic community in the yellowstone
+
+geothermal environment nature – 
+
+walter m r j bauld t d brock siliceous algal and
+
+bacterial stromatolites in hot spring and geyser effluents of
+
+yellowstone national park science – 
+
+wong d c l algae of the anchialine pools at cape
+
+kinau maui and aspects of the trophic ecology of halo 
+
+caridina rubra holthuis decapoda atyidae master of
+
+science thesis university of hawaii 
+
+wu q l g zwart m schauer m p k agterveld m 
+
+w hahn bacterioplankton community composition
+
+along a salinity gradient of sixteen high mountain lakes
+
+located on the tibetan plateau china applied and envi 
+
+ronmental microbiology – 
+
+yager j remipedia a new class of crustacea from a
+
+marine cave in the bahamas journal of crustacean biol 
+
+ogy – 
+
+yang j l ma h jiang g wu h dong salinity
+
+shapes microbial diversity and community structure in
+
+surface sediments of the qinghai tibetan lakes scientific
+
+reports http www ncbi nlm nih gov pmc articles 
+
+pmc 
+
+zepeda v k h j busse j golke j h saw m alam s 
+
+p donachie terasakiispira papahanaumokua 
+
+keensis gen nov sp nov a gammaproteobacterium from
+
+pearl and hermes atoll northwestern hawaiian islands 
+
+international journal of systematic and evolutionary
+
+microbiology – 
+
+ hydrobiologia – 
+
+ 
+
+http www ncbi nlm nih gov pmc articles pmc 
+http www ncbi nlm nih gov pmc articles pmc 
+
+	diversity and the environmental drivers of spatial variation in bacteria and micro eukarya communities from the hawaiian anchialine ecosystem
+	abstract
+	introduction
+	methods
+	sites and sampling
+	sequence data generation
+	operational taxonomic unit otu clustering
+	analyses of community composition and environmental factors
+	data accessibility
+
+	results
+	sites and sampling
+	sequence data generation and otu clustering
+	analyses of community composition and environmental factors
+
+	discussion
+	microbial diversity of the hawaiian anchialine ecosystem
+	environmental factors driving microbial diversity in the hawaiian anchialine ecosystem
+	considerations of microbial diversity in conservation efforts for hawaiian anchialine habitats
+
+	conclusion
+	acknowledgements
+	references
+
+
+
+
+

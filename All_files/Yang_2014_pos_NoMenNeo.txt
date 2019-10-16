@@ -1,0 +1,2076 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+using metabarcoding to ask if easily collected soil and leaf litter samples can be used as a general biodiversity indicator
+
+
+u
+s
+
+c
+c
+a
+
+b
+
+c
+
+d
+
+e
+
+c
+f
+
+a
+
+a
+r
+r
+a
+
+k
+s
+l
+d
+b
+r
+c
+m
+t
+s
+s
+t
+
+ 
+
+t
+
+t
+ 
+
+w
+m
+ 
+ 
+
+m
+o
+
+h
+ 
+
+ecological indicators – 
+
+contents lists available at sciencedirect
+
+ecological indicators
+
+journa l homepage www e lsev ier com locate eco l ind
+
+sing metabarcoding to ask if easily collected soil and leaf litter
+amples can be used as a general biodiversity indicator
+
+henxue yanga b xiaoyang wanga jeremy a millerc marleen de blécourtd yinqiu ji a 
+hunyan yanga rhett d harrisone douglas w yua f ∗
+
+state key laboratory of genetic resources and evolution kunming institute of zoology chinese academy of sciences kunming yunnan china
+kunming college of life sciences university of chinese academy of sciences kunming yunnan china
+department of terrestrial zoology nationaal natuurhistorisch museum naturalis ra leiden the netherlands
+soil science of tropical and subtropical ecosystems büsgen institute georg august universität göttingen büsgenweg göttingen germany
+key laboratory for tropical forest ecology xishuangbanna tropical botanical garden chinese academy of sciences menglun mengla yunnan 
+hina
+school of biological sciences university of east anglia norwich research park norwich norfolk nr tj uk
+
+r t i c l e i n f o
+
+rticle history 
+eceived november 
+eceived in revised form june 
+ccepted june 
+
+eywords 
+oil fauna
+eaf litter
+na barcoding
+iodiversity
+estoration ecology
+limate change
+
+a b s t r a c t
+
+the targeted sequencing of taxonomically informative genetic markers sometimes known as metabar 
+coding allows eukaryote biodiversity to be measured rapidly cheaply comprehensively repeatedly 
+and verifiably metabarcoding helps to remove the taxonomic impediment which refers to the great
+logistical difficulties of describing and identifying species and thus promises to improve our ability to
+detect and respond to changes in the natural environment now sampling has become a rate limiting
+step in biodiversity measurement and in an effort to reduce turnaround time we use arthropod sam 
+ples from southern china and vietnam to ask whether soil leaf litter and aboveground samples provide
+similar ecological information a soil or leaf litter sample can be collected in minutes whereas an above 
+ground sample such as from malaise traps or canopy fogging can require days to set up and run during
+which time they are subject to theft damage and deliberate contamination here we show that while
+the taxonomic compositions of soil and leaf litter samples are very different from aboveground sam 
+etabarcoding
+ropical forest
+ystematic conservation planning
+urveillance monitoring
+argeted monitoring
+
+ples both types of samples provide similar ecological information in terms of ranking sites by species
+richness and differentiating sites by beta diversity in fact leaf litter samples appear to be as or more pow 
+erful than malaise trap and canopy fogging samples at detecting habitat differences we propose that
+metabarcoded leaf litter and soil samples be widely tested as a candidate method for rapid environmental
+monitoring in terrestrial ecosystems 
+
+© the authors published by elsevier ltd this is an open access article under the cc by nc nd
+ introduction
+the environmental monitoring and indicator literature collec 
+ively calls for the efficient measurement of total biodiversity or
+
+∗ corresponding author at state key laboratory of genetic resources and evolu 
+ion kunming institute of zoology chinese academy of sciences kunming yunnan
+ china tel 
+
+e mail addresses xu anwomingren happy com c yang 
+angxiaoy hotmail com x wang jeremy miller naturalis nl j a miller 
+arleendeblecourt hotmail com m de blécourt jiyinqiu hotmail com
+
+y ji yangyahan mail kiz ac cn c yang r harrison cgiar org
+r d harrison dougwyu gmail com d w yu 
+
+ current address world agroforestry centre east asia node heilongtan kun 
+ing china and centre for mountain ecosystem studies kunming institute
+
+f botany kunming china 
+
+ttp dx doi org j ecolind 
+ x © the authors published by elsevier ltd this is an open access article un
+license http creativecommons org licenses by nc nd 
+
+a substantial non biased sample andelman and fagan 
+cushman et al dolman et al edwards et al 
+knight et al lindenmayer and likens newton 
+ nicholson et al possingham et al stuart et al 
+ which seem to be contradictory goals given the infamous
+“taxonomic impediment” ebach et al the impediment
+refers to the great logistical difficulties of describing and identifying
+species 
+
+however metabarcoding technology baird and hajibabaei 
+ bik et al ji et al taberlet et al is a
+strong candidate for achieving both goals metabarcoding combines
+dna taxonomy with high throughput dna sequencing to identify
+
+mass samples of eukaryotes amplicons of species discriminating
+‘barcode’ genes from soil water or collections of organisms reveal
+the presence and more noisily the frequencies of species of fungi 
+plants and animals bienert et al bohmann et al 
+
+der the cc by nc nd license http creativecommons org licenses by nc nd 
+
+dx doi org j ecolind 
+http www sciencedirect com science journal x
+http www elsevier com locate ecolind
+http crossmark crossref org dialog doi j ecolind domain pdf
+http creativecommons org licenses by nc nd 
+mailto xu anwomingren happy com
+mailto wangxiaoy hotmail com
+mailto jeremy miller naturalis nl
+mailto marleendeblecourt hotmail com
+mailto jiyinqiu hotmail com
+mailto yangyahan mail kiz ac cn
+mailto r harrison cgiar org
+mailto dougwyu gmail com
+dx doi org j ecolind 
+http creativecommons org licenses by nc nd 
+
+
+ indicators – 
+
+c
+e
+e
+e
+m
+y
+s
+t
+a
+t
+h
+f
+ 
+i
+e
+c
+a
+
+b
+i
+t
+s
+s
+
+b
+l
+g
+a
+p
+a
+l
+t
+t
+a
+j
+d
+f
+a
+l
+o
+o
+c
+e
+
+p
+e
+n
+w
+c
+i
+b
+o
+t
+
+ 
+
+ 
+
+p
+t
+c
+f
+a
+t
+
+fig sampling maps a meng song china twenty eight total samples are
+divided amongst closed canopy forest sites open canopy forest sites and 
+open land sites b bach ma vietnam c vu quang vietnam each vietnam location
+was sampled in sites acacia plantations and protected forests protected forest
+ c yang et al ecological
+
+alvignac spencer et al fonseca et al hajibabaei
+t al hiiesalu et al ovaskainen et al thomsen
+t al yoccoz et al yu et al and can recover
+cological information in the form of alpha and beta diversity esti 
+ates fonseca et al hiiesalu et al yoccoz et al 
+
+u et al importantly such collections are auditable because
+ites can be sampled by independent parties and analyzed by cer 
+ified entities following a standard protocol metabarcode datasets
+re also taxonomically more comprehensive many times quicker
+o produce and less reliant on taxonomic expertise baird and
+ajibabaei bik et al ji et al taberlet et al 
+inally ji et al have shown that metabarcode and standard
+ morphologically identified species biodiversity datasets result
+n very similar management decisions for monitoring restoration
+cology and systematic conservation planning in sum metabar 
+oding promises reliable verifiable taxonomically comprehensive 
+nd cost effective biodiversity measurement 
+
+despite this promise however considerable work remains
+efore metabarcoding can be considered for widespread adoption 
+
+n this paper we focus on a seemingly simple but very useful ques 
+ion is it possible to substitute ground level soil or leaf litter 
+amples for aboveground samples when conducting biodiversity
+urveys ibáñez et al taberlet et al 
+
+an important advantage of a ground level sample is that it can
+e cheaply collected in minutes followed by processing in the
+
+ab whereas an aboveground sample such as from canopy fog 
+ing or various traps e g malaise flight intercept pitfall light 
+nd baited are more expensive and can require days and multi 
+le personnel and traps are subject to theft damage vandalism 
+nd deliberate contamination for instance we have observed col 
+eagues losing malaise traps to elephants and to children leading
+o unbalanced sampling effort the need to retrieve aboveground
+raps incurs extra field expenses and logistical complications as
+
+result if an environmental certification organization were to
+udge say whether a set aside area were truly maintaining bio 
+iversity following the potential example of ewers et al 
+or oil palm plantations aboveground traps would be problem 
+tic because such samples could be deliberately adulterated by
+ocal managers newton meijaard sheil in short 
+ne shot ground level samples coupled with metabarcoding to
+vercome the taxonomic impediment could let us squeeze out
+osts and possibilities for fraud in our monitoring data thus accel 
+rating environmental measurement 
+
+we have previously designed pipelines to metabarcode arthro 
+od biodiversity from aboveground samples yu et al ji
+t al and from soil and leaf litter yang et al we
+ow use these pipelines to compare soil and leaf litter samples
+ith malaise trap samples in southern china meng song and to
+
+ompare leaf litter samples with canopy fogging and morpholog 
+cally identified spider samples in central vietnam vu quang and
+ach ma the samples were deliberately placed over a gradient
+f anthropogenic disturbance and we ask if the different sample
+ypes all differentiate habitats in the same way 
+
+ materials and methods
+
+ meng song china
+
+meng song is a village administrative unit in the xishuangbanna
+refecture of southern yunnan china fig a ◦ n ◦ e 
+he landscape includes part of the bulong nature reserve which is
+
+omposed of seasonal montane rain forest and broadleaf evergreen
+orest zhu et al the main cash crop is tea which is grown
+s ∼ m tall understory trees in plots within thinned portions of
+he nature reserve essentially a kind of ‘shade tea ’ analogous to
+sampling sites were clustered due to limited accessibility the sample marked with a
+black x indicates the sample that was omitted for contamination bach ma – acacia 
+ a meng song china 
+
+shade coffee additionally monoculture tea plantations have pre 
+
+viously been cultivated on cleared land that consists of rows of
+tea shrubs in a matrix of grass plus scattered individual trees and
+shrubs in this landscape ha quadrats were established for a
+large biodiversity census project making mekong connected xu
+
+
+
+indica
+
+e
+t
+p
+p
+c
+t
+g
+u
+c
+e
+s
+s
+c
+f
+a
+
+ 
+
+b
+w
+o
+q
+w
+a
+c
+b
+
+ 
+
+a
+s
+ 
+s
+e
+s
+f
+s
+s
+n
+a
+w
+a
+s
+m
+
+ 
+
+a
+f
+s
+v
+l
+r
+t
+v
+a
+i
+s
+
+a
+t
+m
+o
+u
+r
+
+c yang et al ecological
+
+t al quadrat sites were selected using a stratified by dis 
+urbance class and location random approach a × grid of
+oints was generated over the entire ∼ km landscape and each
+oint was classified to one of the three habitat disturbance classes 
+losed canopy forest open canopy forest with the understory tea
+rees and open land monoculture tea plantation next after
+round truthing the study area was divided into equal area
+nits out of the units units were randomly selected and one
+losed canopy and one open canopy forest point were selected from
+ach unit open land points were randomly selected from every
+econd unit since we expected this disturbance class to be more
+elf similar beckschäfer et al each point became the sw
+orner of a m × m quadrat these quadrats were surveyed
+or vegetation soil and other components of biodiversity between
+pr and mar 
+
+ malaise trap samples
+in meng song insects were trapped over two periods separated
+
+y – months sep–nov and apr–jun every quadrat
+as trapped in each period using five malaise traps over days 
+ne trap was placed in the center and one in each corner of the
+uadrat as in the number five on a die the bottles were half filled
+ith ethanol and after collection the alcohol was replaced
+
+nd the samples stored in a − ◦c freezer until transport to kunming
+ity where the samples were stored in a − ◦c freezer for month
+efore being metabarcoded 
+
+ soil and leaf litter samples
+each quadrat was subdivided into nine m radius subquadrats 
+
+soil – cm and a leaf litter sample were taken from each
+ubquadrat and then pooled within each quadrat for leaf litter a
+m × m sample per subquadrat was sifted through a mm litter 
+
+ifter for min to remove whole leaves and larger impurities yang
+t al to avoid cross contamination the litter sifter was
+oaked in bleach for min and then rinsed between quadrats 
+or soil approximately g of mineral soil from cm below the
+urface was sampled using a trowel and spoon in each subquadrat 
+oil was combined from four points which were approximately m
+orth east south and west from the subquadrat’s center point to
+void cross contamination between quadrats the trowel and spoon
+ere flamed in alcohol all samples were stored in ethanol
+
+nd in a − ◦c freezer until transport to kunming city where the
+amples were stored in a − ◦c freezer for month before being
+etabarcoded 
+
+ vu quang and bach ma vietnam
+
+vu quang ha tinh province and bach ma mang cà province 
+re national parks in vietnam fig b in and near both parks 
+our sites in protected forest and four in acacia plantation were
+ampled the region of vu quang sampled is near a network of
+illages including kim quang huong quang and tung quang vil 
+agers exploit man chan forest which is part of the park for natural
+esources among the settlements are scattered small acacia plan 
+ations plot areas vq m vq m vq m 
+q m estimated visually using google earth pro which
+re grown for wood and pulp sample sites were located at approx 
+mately ◦ n ◦ e and range in elevation from to m 
+ampling occurred between and april 
+
+the region of bach ma sampled straddles the park border the
+rea inside the park is moderately sloped while the area outside
+he park is flat outside the park is a large semi continuous acacia
+onoculture plot areas bm m and bm all part
+f one semi continuous area of m estimated visually
+sing google earth pro we encountered no signs of natural
+esource exploitation inside the park sample sites were located
+tors – 
+
+at approximately ◦ n ◦ e sites within the park range in
+elevation between and m sites outside the park are below
+ m sampling occurred between and april 
+
+ fogging samples
+at each sample site m sheets were arranged on the for 
+
+est floor or among understory vegetation we used an iz fog device
+ http foggers co kr to deliver approximately l of permethrin 
+ec hockley international ltd diluted with diesel arthro 
+pods were allowed to accumulate on the sheets for – h before
+collecting into sample bags containing ethanol half the sheets
+per sample site were pooled for metabarcoding specimens from
+the remaining sheets were sorted to morphospecies and morphos 
+pecies concepts were later checked with dna barcode sequencing
+ j a miller data not shown due to limited taxonomic resources 
+only the vu quang spiders were sorted to morphospecies n 
+samples this is a clear example of how the taxonomic impediment
+can vitiate biodiversity monitoring 
+
+ leaf litter samples
+for leaf litter samples m of leaf litter were gathered into a
+
+sifter and agitated the concentrate was then collected and left to
+dry in a winkler litter extractor www entowinkler at for – h 
+a winkler litter extractor is a tent like apparatus with hanging
+mesh bags that can be filled with concentrated leaf litter and a
+jar of alcohol at the bottom shaw and ozanne as the litter
+dries arthropods leave the bags and fall into the ethanol below 
+
+all samples for metabarcoding were stored in the original 
+ethanol at room temperature until transferred to kunming city
+where the samples were stored in a − ◦c freezer for month
+before being metabarcoded 
+
+ metabarcode protocols dna extraction pcr and 
+pyrosequencing
+
+ coi amplicons from malaise trap and canopy fogging
+samples
+
+we prepared the aboveground samples by using two legs
+from all specimens equal to or larger than a mosquito and
+whole bodies of everything smaller adding ml qiagen atl
+buffer hilden germany mg ml proteinase k per g
+of sample homogenizing with sterile inch ceramic spheres
+in a fastprep system mp biomedicals santa ana ca set
+on m s for s at room temperature incubating overnight at
+ ◦c and using of the lysed solution for genomic dna
+extraction with qiagen dneasy blood tissue kits using no
+more than �l per spin column the quantity and qual 
+ity of purified dna was assessed using the nanodrop 
+spectrophotometer thermo fisher scientific wilmington de 
+samples were pcr amplified using the degenerate primers fol 
+degen for ′ tcnacnaaycayaarrayatygg ′ and fol degen rev
+ ′ tanacytcnggrtgnccraaraayca ′ which amplify a 
+base pair portion of the mitochondrial cytochrome c oxidase
+subunit i coi gene the standard roche a adaptor and a unique
+ bp mid tag for each sample were attached to the forward primer 
+each sample was amplified in three independent reactions and
+pooled pcrs were performed in �l reaction volumes contain 
+ing �l of × buffer mm mgcl mm dntps �m each
+primer u hotstart taq dna polymerase takara biosystems 
+ohtsu japan and approximately ng of pooled genomic dna 
+we used a touchdown thermocycling profile of ◦c for min 
+cycles of ◦c for s ◦c for s ◦c for min decreasing
+
+the annealing temperature by ◦c every cycle then cycles of
+ ◦c for s ◦c for s ◦c for min and a final extension of
+ ◦c for min we used non proofreading taq and fewer longer
+cycles to reduce chimera production lenz and becker yu
+
+http foggers co kr 
+http www entowinkler at 
+
+
+ indica
+
+e
+b
+t
+a
+o
+
+ 
+
+t
+l
+w
+f
+y
+f
+e
+a
+e
+r
+s
+g
+g
+s
+r
+a
+t
+e
+m
+ 
+m
+b
+l
+c
+ 
+ 
+s
+w
+
+ 
+
+c
+q
+u
+s
+a
+ 
+q
+w
+r
+ 
+t
+f
+c
+
+p
+ 
+s
+r
+s
+r
+
+ 
+ 
+
+a
+q
+
+ c yang et al ecological
+
+t al for pyrosequencing pcr products were gel purified
+y using a qiagen qiaquick pcr purification kit quantified by using
+he quant it picogreen dsdna assay kit invitrogen pooled and
+ amplicon sequenced on a roche gs flx at the kunming institute
+f zoology further details are provided in yu et al 
+
+ s amplicons from soil and leaf litter samples
+we prepared the ground level samples by using mm and
+
+hen �m cylindrical steel sieves to separate soil fauna from
+arger soil and leaf litter particles for soil samples we also used
+
+ater decantation in ml graduated cylinders to separate soil
+auna which float from heavier sand particles creer et al 
+ang et al decantation cannot be used to separate fauna
+
+rom leaf litter particles which both float the floating portion of
+ach soil sample and the leaf litter samples were homogenized in
+fastprep system using steel beads at m s for s yang
+
+t al the powersoil dna isolation kit mo bio laborato 
+ies carlsbad ca usa was used to extract dna from g per
+ample following fonseca et al we used ssu fo ′ gctt
+tctcaaagattaagcc ′ and ssu r ′ gcctgctgccttcctt
+ga ′ primers which amplify a bp portion of the s nuclear
+mall subunit nssu ribosomal rna rrna gene the standard
+oche a adaptor and a unique bp mid tag for each sample were
+ttached to the forward primer pcrs were carried out in �l reac 
+ion volumes containing �l of dntp mixture mmol l− 
+
+ach base �l of distilled water �l of taq dna poly 
+erase takara biosystems ohtsu japan �l of × pcr buffer
+
+ mmol l− tris–hcl ph mmol l− kcl mmol l− 
+
+gcl �l of each primer �mol l− �l dmso �l
+sa and �l dna template non proofreading taq and fewer 
+
+onger cycles were used to reduce chimera production thermal
+ycling conditions for amplification of the s sequences were
+min at ◦c followed by cycles of s at ◦c s at ◦c and
+min at ◦c and a final elongation stage of min at ◦c each
+
+ample was amplified three times independently and the products
+ere pooled for sequencing �l total per sample 
+
+ pyrosequencing
+all pcr products were gel purified using a qiaquick pcr purifi 
+
+ation kit qiagen gmbh hilden germany quantified using the
+uant it picogreen dsdna assay kit invitrogen carlsbad ca 
+sa pooled and a amplicon sequenced on a roche gs flx ‘ ’
+ystem for one of the meng song quadrats we separately pcr 
+mplified and sequenced the subquadrats resulting in a total of
+ pcr products subquadrats within one quadrat pooled
+uadrats for soil and another for leaf litter our reason
+as to see if deeper sequencing separate subquadrats would
+
+eveal qualitatively different results and we found that it did not
+c yang data not shown so we merged the sequence data from
+hese subquadrats into one quadrat for all downstream processing 
+rom vietnam we sequenced pcr products leaf litter 
+anopy fogging 
+
+the meng song samples were sequenced on four regions 
+roducing raw reads and post quality control
+qc reads mean read length bp the vietnam leaf litter
+amples were sequenced on one region producing raw
+eads and post qc reads bp the vietnam canopy
+amples were sequenced on three regions producing 
+aw reads and post qc reads bp 
+
+ bioinformatic extraction of operational taxonomic units
+otus from raw sequence data
+for the coi data we used yu et al ’s pipeline to denoise
+nd cluster the reads into operational taxonomic units otus 
+uality control header sequences and low quality reads were
+tors – 
+
+removed from the raw output in the qiime environment
+ split libraries py l l h m b caporaso et al 
+ b denoising and chimera removal pynast caporaso
+et al a was used to align reads against a high quality 
+aligned dataset of arthropoda sequences yu et al at a min 
+imum similarity of and sequences that failed to align were
+removed the remaining sequences were clustered at sim 
+ilarity with usearch edgar a consensus sequence
+was chosen for each cluster and the uchime function was used
+to perform de novo chimera detection and removal a cluster 
+ing step is required for chimera detection because chimeric reads
+are expected to be rare and thus should belong to small clusters
+only the final denoising step used macse b ranwez et al 
+ which aligns at the amino acid level to high quality refer 
+ence sequences and uses any stop codons in coi to infer frameshift
+mutations caused by homopolymers we removed any sequences
+ bp otu picking and taxonomic assignment sequences were
+clustered into similarity otus using crop hao et al 
+ otus were assigned taxonomies using sap munch
+et al keeping only taxonomic levels for which the poste 
+rior probability was otus containing only one read were
+removed computations were performed on a combination of apple
+imacs and a linux computing cluster at the university of east
+anglia rscs uea ac uk high performance computing accessed 
+may sequence data will be deposited at datadryad org and
+in genbank’s short read archive 
+
+for the s data we followed yang et al ’s use 
+arch crop pipeline which mostly follows the coi pipeline above
+but assigns taxonomies to otus by blasting against the silva
+rdna database release pruesse et al at maxi 
+mum e value we discovered that one leaf litter sample from bach
+ma was comprised almost entirely of insects from canopy fogging
+traps and we therefore deemed the sample to be mislabelled or
+contaminated and we omitted it from downstream analysis 
+
+the end result was three otu x sample tables from meng song 
+soil sieved and bead beaten n leaf litter bead beaten n 
+and malaise traps n and three tables from vietnam leaf lit 
+ter winkler funnel n canopy fogging n and spiders
+ morphology n 
+
+ statistical analyses
+
+analyses were performed using r r core team 
+vegan oksanen qiime caporaso et al b and
+mvabund warton et al to compare species richness 
+we used incidence coverage estimators which were calculated
+with vegan’s specpool function the number of reads per otu cor 
+relates noisily with otu biomass and abundance amend et al 
+ yu et al we thus converted read number to pres 
+ence absence using vegan’s decostand function gentleman et al 
+ oksanen and we used only otus that had been
+assigned to arthropoda as our coi primers were designed for
+this phylum to visualize the effects of environmental treatment
+levels on community compositions we used principal coordi 
+nates analysis pcoa ordination of sørensen dice dissimilarity
+matrices faith et al which were created in qiime to
+compare pcoa ordinations between datasets we used vegan’s
+protest procrustes correlation tests for hypothesis testing we used
+mvabund to test the effects of environmental predictors on com 
+munity composition mvabund is a multivariate implementation of
+generalized linear models and unlike dissimilarity matrix based
+methods mvabund does not confound location with dispersion
+
+effects which can inflate type and errors wang et al 
+warton et al we corrected for multiple tests using the
+p adjust method “fdr” function in r’s base package benjamini and
+hochberg zuur et al 
+
+
+
+c yang et al ecological indicators – 
+
+table 
+taxonomic assignment of otus operational taxonomic units for above and below ground samples soil and leaf litter samples were assigned taxonomies using the silva
+ s database and malaise traps and canopy fogging samples were assigned taxonomies using sap see section for assignment details at each taxonomic level 
+the number of otus assigned to that level is reported all otu frequencies below the level of metazoa are calculated relative to all metazoan otus some small taxonomic
+groups are omitted for clarity so subgroup frequencies do not add up to the higher group frequency e g insecta collembola otus hexapoda otus a meng song china 
+ b vu quang and bach ma vietnam insecta otus dominate the malaise traps and canopy fogging samples whereas arachnida are more frequent in the soil and leaf litter
+samples as expected note also that a higher proportion of eukaryote otus in the winkler funneled leaf litter samples b vietnam are assigned to metazoa compared
+to purely bead beaten leaf litter samples a china suggesting that metazoan specific s primers nonetheless amplify many non metazoans when applied to dna
+extracted directly from soil or leaf litter 
+
+a meng song china 
+ sample and 
+
+marker eukaryota metazoa arthropoda nematoda annelida 
+
+soil otus 
+ 
+
+ of metazoa 
+
+ 
+ sieved and 
+
+bead beaten 
+ of 
+
+total 
+ of 
+eukaryota 
+
+ of 
+metazoa 
+
+ of 
+metazoa 
+
+ s arachnida hexapoda myriapoda 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+insecta collembola 
+
+ 
+ 
+
+ 
+ 
+
+ 
+leaf litter 
+
+ of metazoa 
+
+ 
+
+ bead beaten of total 
+ of 
+eukaryota 
+
+ of 
+metazoa 
+
+ of 
+metazoa 
+
+ s arachnida hexapoda myriapoda 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+insecta collembola 
+
+ 
+ 
+
+ 
+ 
+
+ 
+malaise traps 
+
+ 
+ of metazoa 
+
+ 
+
+coi of total 
+ of 
+eukaryota 
+
+ of 
+metazoa 
+
+ of 
+metazoa 
+
+arachnida hexapoda myriapoda 
+
+ 
+ 
+
+ 
+ 
+
+ 
+insecta collembola 
+
+ 
+ 
+
+ 
+
+b vu quang and bach ma vietnam
+
+sample and 
+marker eukaryota metazoa arthropoda nematoda annelida
+
+leaf litter otus 
+ 
+
+ of metazoa 
+
+ 
+ winkler 
+funnel 
+
+ of 
+total 
+
+ of 
+eukaryota 
+
+ of 
+metazoa 
+
+ of 
+metazoa 
+
+ s arachnida hexapoda myriapoda
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+insecta collembola
+
+ 
+ 
+
+ 
+ 
+
+canopy 
+fogging 
+
+ of metazoa 
+
+ 
+
+coi of total 
+ of 
+eukaryota 
+
+ of 
+metazoa 
+
+ of 
+metazoa 
+
+arachnida hexapoda myriapoda
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+insecta collembola
+
+ 
+ 
+
+ 
+ 
+
+
+
+ c yang et al ecological indicators – 
+
+fig comparisons of asymptotic arthropod species otu richness estimates alpha diversity and community composition beta diversity across three habitat types and
+three sample types superscripts above the vertical bars indicate whether habitat types differ significantly in species richness function specpool in vegan welch’s t tests 
+letters in parentheses in the bottom row of each figure indicate whether habitat types differ significantly in species composition mvabund generalized linear model binomial
+errors to aid visual comparison the chao species richness estimates for the three habitats have been connected with a dashed line within each sample type significance
+values are bonferroni corrected for three simultaneous tests per sample type in china using the p adjust method “fdr” function in vegan and a type significance threshold
+of p after correction we report corrected p values here a meng song china species richness for soil and leaf litter samples species richness is higher in the two
+
+
+
+indica
+
+d
+e
+
+ 
+
+ 
+
+a
+a
+s
+p
+s
+z
+s
+a
+a
+
+m
+w
+o
+a
+ 
+f
+o
+
+d
+e
+m
+s
+
+ 
+
+s
+c
+s
+a
+
+ 
+
+s
+t
+e
+s
+i
+e
+t
+ 
+d
+
+f
+p
+h
+l
+p
+d
+s
+c
+d
+ 
+a
+l
+s
+b
+c
+
+c yang et al ecological
+
+example qiime and r scripts for the pipelines and analyses con 
+ucted here are available in yang et al yu et al ji
+t al 
+
+ results
+
+ taxonomic compositions
+
+in table we present the higher level taxonomies that were
+ssigned to the otus from the soil leaf litter malaise trap 
+nd canopy fogging samples otu tables with their respective
+equences are provided in supplementary materials a higher
+roportion of eukaryote otus in the winkler funneled leaf litter
+amples table b vietnam were assigned to the meta 
+oa relative to the bead beaten leaf litter samples table a meng
+ong showing that the metazoan specific s primers still
+mplify many non metazoans mostly green plants and fungi when
+pplied to dna extracted directly from soil or leaf litter 
+
+within the metazoan otus the taxonomic compositions of the
+etabarcode datasets were consistent with the microhabitats from
+hich the samples were collected table soil and leaf litter
+tus were broadly distributed across the arthropoda annelida 
+nd nematoda within the arthropoda arachnida made up around
+ of the metazoan otus in contrast malaise trap and canopy 
+ogging otus were dominated by the insecta – of metazoan
+tus 
+
+we can now ask our original motivating question do these very
+ifferent samples from different microhabitats return the same
+cological information that is do ground level and aboveground
+etabarcoded samples differentiate sites and habitat classes in the
+
+ame way 
+
+ species richness
+
+for all datasets each treatment level here habitat type was
+ampled multiple times making it possible to use incidence 
+overage estimators gotelli and colwell to extrapolate total
+pecies richness per treatment level we used chao jackknife 
+nd bootstrap from the specpool function in vegan 
+
+ meng song china
+in all three datasets soil leaf litter and malaise observed
+
+pecies richness was lower in the open land habitat fig a in
+he soil and leaf litter datasets two of the three total richness
+stimators jackknife and bootstrap found this difference to be
+tatistically significant after correcting for three post hoc compar 
+sons in the malaise trap dataset the confidence intervals for the
+
+stimators were larger and only open canopy forest was deemed
+o be significantly more species rich than the open land habitat
+chao and bootstrap estimators we did not record any significant
+ifferences in species richness between the two forest habitats in
+
+orested habitats closed and open canopy than in the open land habitat with the differe
+ and bootstrap all p malaise trap species richness is also weakly highe
+igher richness than open land habitat for two of the richness estimators chao and boots
+
+and habitat from the two forest habitats mvabund malaise traps df deviance 
+ the two forest habitat communities open canopy and closed canopy are no
+f deviance p soil df deviance p leaf litter df 
+pecies richness is not significantly different between acacia and protected forest habita
+anopy fogging and spiders community composition the leaf litter and canopy foggin
+eviance df p leaf litter deviance df p only can
+mvabund location habitat interaction effect df deviance p bach m
+nd leaf litter samples also show indications that acacia and protected forest habitats ar
+
+ocation habitat interaction effect df deviance p habitat main effect i
+amples the spider samples also do not differentiate acacia and protected forest habitats i
+e used to test for habitat differences between vu quang and bach ma because the bach
+omparisons for each extrapolation method separately chao jackknife and bootstrap
+tors – 
+
+sum both ground level and aboveground datasets found forested
+habitats to be more species rich and the ground level datasets
+showed this more consistently 
+
+ vu quang and bach ma vietnam
+all datasets leaf litter canopy fogging and spider morphos 
+
+pecies and all estimators within each dataset agreed that total
+species richness did not differ across forest type acacia vs pro 
+tected forest fig b in fact observed species richness was
+sometimes non significantly higher in acacia forest than in neigh 
+boring protected forest sites 
+
+ community composition
+
+here we used the software mvabund to test whether community
+compositions change across habitats and also across locations in
+vietnam in the same way for the different sample types 
+
+ meng song
+only leaf litter samples separated open land from the two for 
+
+est habitats the two forest habitats were not differentiated by any
+of the sample types bottom row of subscripts in parentheses in
+fig a we also used procrustes tests of pcoa ordinations to visual 
+ize and test for correlations between datasets hamady et al 
+the malaise trap ordination was significantly correlated with the
+leaf litter ordination fig a but only marginally correlated with
+soil samples fig b although in both pairwise comparisons 
+the correlation coefficients were high rmalaise leaf p 
+rmalaise soil p in short the malaise trap and ground 
+level datasets appear to contain similar ecological information
+about the differences in the three habitat types despite being com 
+posed of very different species 
+
+ vietnam
+both the leaf litter and canopy fogging samples separated the
+
+bach ma and vu quang locations bottom row of subscripts
+in parentheses in fig b there was also a significant loca 
+tion × habitat interaction effect the leaf litter and canopy fogging
+samples both differentiated acacia from protected forest but only
+did so in bach ma second to bottom row of subscripts in parenthe 
+ses in fig b in contrast in vu quang acacia and protected forest
+community compositions were statistically fig b and visually
+ fig c indistinguishable in all three datasets leaf litter canopy
+fogging and spider morphospecies unfortunately our lack of tax 
+onomic resources means that we had no spider morphospecies
+data from bach ma to test if the spider dataset also detects a loca 
+tion × habitat effect 
+we also bioinformatically extracted the spider araneae otus
+from the metabarcode datasets pcoa procrustes correlation
+between the canopy fogging araneae otus and the spider mor 
+phospecies was non significant fig d but leaf litter araneae
+
+nce being statistically significant for two of the richness estimators jackknife all
+r in the two forest habitats only open canopy forest has statistically significantly
+trap all p community composition only leaf litter samples differentiate open
+ p soil df deviance p leaf litter df deviance 
+t themselves differentiated by any of the sample types mvabund malaise traps 
+deviance p b vu quang and bach ma vietnam species richness 
+ts for any of the three estimators nor for any of the three sample types leaf litter 
+g samples both differentiate bach ma from vu quang mvabund canopy fogging 
+opy fogging samples differentiate acacia from protected forest and only in bach ma
+a only habitat main effect deviance df p vu quang p 
+e compositionally different in bach ma the habitat effect is significant mvabund 
+
+n reduced model df deviance p consistent with metabarcoding
+n vu quang mvabund df deviance p the spider dataset cannot
+ma samples were not processed species richness superscripts indicate pairwise
+
+ b vu quang and bach ma vietnam 
+
+
+
+ c yang et al ecological indicators – 
+
+fig principal coordinate analysis pcoa ordinations pairwise compared with procrustes tests between sample types soil leaf litter malaise traps and canopy fogging 
+line segments connect paired samples and ovals are used to help visualize compositional differences amongst habitats and localities a meng song china malaise traps vs 
+leaf litter r p b meng song china malaise traps vs soil procrustes r p red closed canopy blue open canopy and yellow open land c 
+vu quang vietnam canopy fogging vs leaf litter procrustes r p d vu quang vietnam canopy fogging vs spider procrustes r p e vietnam 
+leaf litter vs spider procrustes r p l leaf litter f fogging s spiders b bach ma v vu quang a acacia p protected forest the key result is that in
+the china and vietnam studies leaf litter and aboveground samples malaise traps and canopy fogging respectively differentiate sites similarly a meng song china b meng
+
+
+
+indica
+
+o
+ 
+
+ 
+
+ 
+r
+s
+t
+w
+i
+p
+ 
+
+a
+a
+w
+p
+p
+u
+r
+o
+w
+s
+i
+w
+t
+t
+
+ 
+
+b
+l
+h
+c
+
+p
+i
+
+ 
+
+h
+
+t
+a
+t
+m
+a
+t
+m
+c
+s
+n
+v
+o
+t
+d
+c
+
+s
+ 
+
+c yang et al ecological
+
+tus and spider morphospecies were significantly correlated
+fig e 
+
+ discussion
+
+we show that metabarcoding technology baird and hajibabaei 
+ bik et al ji et al taberlet et al could
+ecover biodiversity data from whole collections of arthropods in
+amples of soil leaf litter winkler funneled leaf litter malaise
+raps and canopy fogging ground level samples from which s
+as amplified were dominated by otus assigned to arachnids 
+
+nsects myriapods nematodes and annelids aboveground sam 
+les from which coi was amplified were mostly insect otus
+table 
+
+we caution that the higher prevalence of nematodes and
+nnelids in the ground level samples could reasonably be
+ttributed to the different genetic markers used the s primers
+ere designed to amplify across the metazoa whereas our coi
+rimers are only known to amplify successfully across the arthro 
+oda ji et al yu et al our coi primers cannot be
+sed to amplify from soil and leaf litter samples because of
+eturned otus are bacterial yang et al regardless the tax 
+nomic compositions of the metabarcode datasets are consistent
+ith the microhabitats from which the samples were collected 
+
+oil and leaf litter microhabitats are indeed highly species rich
+n spiders mites centipedes millipedes roundworms and ringed
+
+orms fierer et al ji et al roger estrade et al 
+hiele bruhn et al whereas canopy fogging and malaise 
+rap samples do capture mostly insects 
+
+ species richness
+
+in meng song soil and leaf litter samples consistently found that
+oth forest habitats were more species rich than was the open 
+
+and habitat and malaise trap samples also found the two forest
+abitats to be more species rich than is open land but did so less
+onsistently 
+
+in vietnam all three sample classes including the spider mor 
+hospecies dataset concurred in finding no significant difference
+
+n richness between acacia and protected forest habitats 
+
+ community composition
+
+ground level and aboveground datasets also differentiated
+abitats similarly figs and especially in vietnam 
+
+in meng song leaf litter samples significantly differentiated
+he two forest habitats from the open land habitat fig a soil
+nd malaise trap samples did not do so significantly however 
+he significant procrustes correlation between the leaf litter and
+
+alaise trap ordinations fig b suggests that malaise trap data
+re just less statistically powerful for differentiating these habi 
+ats in other words the discrepancy between the procrustes and
+vabund analyses is due to the different questions asked in pro 
+
+rustes tests we ask only if community compositions vary in the
+ame way across samples in mvabund tests we ask if an exoge 
+ous environmental predictor variable can explain some of that
+ariance also unlike standard community analyses that are based
+
+n distance matrices mvabund avoids ascribing significant effects
+o environmental variables simply due to heteroscedasticity in the
+ataset warton et al meaning that mvabund tends to be
+onservative in this respect 
+
+ong china malaise traps vs soil samples c vu quang and bach ma vietnam canopy
+morphology samples e vu quang vietnam leaf litter vs spider morphology sample
+tors – 
+
+in vietnam the leaf litter and canopy fogging samples both
+exhibited the same location x habitat interaction effect separating
+the two locations of bach ma and vu quang and also separating aca 
+cia from protected forest habitats in bach ma only figs b and c 
+the spider morphospecies dataset concurred with the metabarcode
+datasets in finding no significant difference between habitats in vu
+quang fig b this appears to be a reasonable result because the
+acacia forests in vu quang are small plots see section embedded
+within a much larger natural forest habitat so we expect con 
+siderable dispersal of arthropods between acacia and protected
+forest habitats in vu quang ‘spillover ’ koh lucey and hill 
+ dispersal might also explain the lack of difference in species
+richness between habitats fig b even though tropical tree plan 
+tations generally are known to support low species richness lugo 
+ in contrast in bach ma the acacia plantations are ∼ – 
+times larger than those in vu quang and we should therefore
+expect more habitat differentiation as we observed fig b 
+
+ potential advantages of leaf litter as an environmental
+indicator
+
+our meng song results suggest that leaf litter might be more
+ecologically informative than soil and malaise trap samples since
+leaf litter samples more consistently showed that the two forest
+habitats are more species rich and are compositionally different
+from open land habitats figs a and a we speculate that the
+malaise trap samples did not differentiate forest from open land
+habitats because flying arthropods move more easily between the
+two koh lucey and hill in vietnam the leaf litter
+samples matched the canopy fogging samples in detecting the
+habitat × location interaction effect figs b and c 
+
+it is possible that leaf litter samples being at the interface of
+belowground and aboveground communities end up integrating
+ecological information from both to date the leaf litter micro 
+habitat has posed a severe taxonomic impediment graça 
+henderson and walker but metabarcoding technology
+could unlock this information our results also show that using
+winkler and we presume berlese funnels to filter leaf litter sam 
+ples will result in a greater proportion of metazoan otus when
+metabarcoding table a vs b whether this additional processing
+is worth the extra time and cost depends on particular situations 
+
+finally an important advantage of a ground level sample is that
+it can be cheaply collected in minutes followed by processing in
+the lab whereas an aboveground sample can require multiple col 
+lection days leaving traps subject to theft damage vandalism and
+deliberate contamination alternatively if canopy fogging is used 
+costs are higher 
+
+as for processing costs ji et al estimated a cost range
+of us – per sample for metabarcode samples using the
+roche gs flx ‘ ’ sequencer illumina sequencers are consider 
+ably cheaper to run and can now produce full bp coi barcodes
+ liu et al so future costs are likely to be near the low end
+of that range plus a profit margin should this technology even 
+tually become commercially available as for processing times ji
+et al found that the “active workload” lab computer 
+facing work of metabarcoding was approximately one quarter that
+of visually sorting indicator taxa to morphospecies where the taxa
+ranged from moths to carabid beetles to spiders to ants for the
+
+microscopic taxa typical of ground level samples table the time
+advantage of metabarcoding is certainly many times greater 
+
+however note that the increased detection power of
+metabarcoding requires greater efforts to guard against sample
+
+fogging vs leaf litter samples d vu quang vietnam canopy fogging vs spider
+s 
+
+
+
+ indica
+
+c
+m
+e
+
+ 
+
+g
+c
+r
+g
+t
+l
+m
+t
+t
+o
+b
+s
+
+e
+c
+a
+f
+i
+t
+t
+d
+o
+t
+a
+t
+s
+s
+s
+h
+p
+i
+p
+t
+
+a
+h
+c
+s
+m
+t
+a
+ 
+ 
+c
+v
+l
+c
+
+m
+l
+m
+f
+i
+t
+b
+o
+w
+
+ c yang et al ecological
+
+ross contamination e g our bleaching of the collection equip 
+ent because pcr next generation sequencing is able to detect
+
+ven small amounts of dna see liu et al 
+
+ conclusions
+
+our study tested the hypothesis that metabarcoding will allow
+round level samples to substitute for aboveground samples when
+haracterizing biodiversity patterns pulleman et al the
+esult is that although the two classes of metabarcode data 
+round level and aboveground were composed of very different
+axa we still found that these two classes of data returned simi 
+ar ecological information that is ground level and aboveground
+
+etabarcoded samples differentiated sites and habitat classes in
+he same way and therefore to answer our motivating ques 
+ion it could indeed be possible to substitute ground level soil
+r leaf litter samples for aboveground samples when conducting
+iodiversity surveys making large efficiency gains possible at the
+ampling stage 
+
+all sampling methods have their own biases and noise and there
+xists no ‘true’ biodiversity dataset to test against we can only
+ompare different methods and look for statistical concord 
+nce and similar policy conclusions in this study we tested
+or statistical concordance what is needed now are case studies
+n which ground level and aboveground samples are compared for
+heir policy level conclusions ji et al for instance do the
+wo sample types produce similar systematic conservation plans 
+etect similar community trends after a restoration treatment or
+ther environmental change and or return similar results when
+esting basic ecological hypotheses as an example using only
+boveground samples edwards et al compared the indica 
+or performance of metabarcoded malaise trap samples and taxon
+ubsets thereof with conventionally identified datasets of birds 
+cavenging mammals dung beetles and leaf litter ants seven sub 
+ets birds leaf litter ants dung beetles plus metabarcoded beetles 
+ymenoptera flies and true bugs proved to be consistently good
+redictors of the response of the other taxa to logging and oil palm 
+
+n that they made similar recommendations for how to optimally
+rotect species richness across a matrix of logged and unlogged
+ropical forest 
+
+more generally our results and the many others that are rapidly
+ccumulating in the metabarcoding literature reviews in baird and
+ajibabaei bik et al bohmann et al 
+alvignac spencer et al ji et al taberlet et al 
+uggest that metabarcoding shows great promise in allowing us to
+ove away from indicator taxa and toward the measurement of
+
+otal biodiversity thereby improving our ability to track and man 
+ge the natural environment breure et al dolman et al 
+ edwards et al lindenmayer and likens newton 
+ nicholson et al using convenient taxonomic subsets
+an lead to inflated or out of date estimates of the biodiversity
+alue of particular habitats if the taxa used are wide ranging or have
+ong generation times and thus respond slowly to environmental
+hange reviewed in edwards et al 
+
+high efficiency in biodiversity surveys is a fundamental require 
+ent if ecosystems are to be managed over the spatial scale of
+
+andscapes meaning thousands to tens of thousands of square kilo 
+eters at a time this is to help achieve policy additionality e g 
+
+orest protection in one site does not merely lead to deforestation
+n a neighboring site to cover large scale processes such as migra 
+
+ion and the emergent effects of landscape complexity and simply
+ecause it is more efficient to be sure it is remote sensing technol 
+gy that will be the primary mode by which large scale monitoring
+ill be achieved but efficient sampling techniques combined with
+tors – 
+
+metabarcoding will be needed to interpret the high volume of
+earth observation data that is anticipated lynch et al 
+
+acknowledgments
+
+we thank ding zhaoli for sequencing logistical support for field
+work in vietnam was provided by pham dinh sac and the institute
+of ecology and biological resources vietnam academy of science
+and technology students phung thi hong luong and dang van an 
+and rangers cai van tuan and nguyen thanh son participated in
+the field work field work was funded by the naturalis biodiversity
+center jan van tol naturalis biodiversity center and le xuan canh
+provided administrative support fieldwork in meng song china
+and rdh were supported by the german agency for international
+cooperation g i z and the german ministry for economic cooper 
+ation b m z project mmc making the mekong connected project
+no y c x w x y j y q c y y and d w y were
+supported by yunnan province a the chinese academy
+of sciences kscx yw z the national natu 
+ral science foundation of china the ministry of science
+and technology of the people’s republic of china fy 
+the university of east anglia and the state key laboratory of
+genetic resources and evolution at the kunming institute of zool 
+ogy 
+
+appendix a supplementary data
+
+supplementary data associated with this article can be found in
+the online version at doi j ecolind 
+
+references
+
+amend a s seifert k a bruns t d quantifying microbial communities with
+ pyrosequencing does read abundance count mol ecol – 
+
+andelman s j fagan w f umbrellas and flagships efficient conservation
+surrogates or expensive mistakes pnas – 
+
+baird d j hajibabaei m biomonitoring a new paradigm in ecosystem
+assessment made possible by next generation dna sequencing mol ecol 
+ – 
+
+beckschäfer p fehrmann l harrison r d xu j kleinn c mapping leaf
+area index in subtropical upland ecosystems using rapideye imagery and the
+randomforest algorithm iforest – 
+
+benjamini y hochberg y controlling the false discovery rate a practical
+and powerful approach to multiple testing j roy stat soc b – 
+
+bienert f de danieli s miquel c coissac e poillot c brun j j taberlet p 
+tracking earthworm communities from soil dna mol ecol – 
+
+bik h m porazinska d l creer s caporaso j g knight r thomas w k 
+sequencing our way towards understanding global eukaryotic biodiversity 
+trends ecol evol – 
+
+bohmann k schnell i b gilbert m t p when bugs reveal biodiversity mol 
+ecol – 
+
+bohmann k evans a gilbert m t p carvalho g r creer s knapp m yu d w 
+de bruyn m environmental dna for wildlife biology and biodiversity
+monitoring tree – 
+
+breure a m de deyn g b dominati e eglin t hedlund k van orshoven j 
+posthuma l ecosystem services a useful concept for soil policy making 
+curr opin environ sustain – 
+
+calvignac spencer s leendertz f h gilbert m t p schubert g an inver 
+tebrate stomach’s view on vertebrate ecology bioessays – 
+
+caporaso j g bittinger k bushman f d desantis t z andersen g l knight r 
+ a pynast a flexible tool for aligning sequences to a template alignment 
+bioinformatics – 
+
+caporaso j g kuczynski j stombaugh j bittinger k bushman f d costello 
+e k fierer n peña a g goodrich j k gordon j i huttley g a kelley s t 
+knights d koenig j e ley r e lozupone c a mcdonald d muegge b d 
+pirrung m reeder j sevinsky j r turnbaugh p j walters w a widmann 
+j yatsunenko t zaneveld j knight r b qiime allows analysis of high 
+throughput community sequencing data nat methods – 
+
+creer s fonseca v g porazinska d l giblin davis r m sung w power d m 
+
+packer m carvalho g r blaxter m l lambshead p j d thomas w k 
+ultrasequencing of the meiofaunal biosphere practice pitfalls and promises 
+mol ecol – 
+
+cushman s a mckelvey k s noon b r mcgarigal k use of abundance of
+one species as a surrogate for abundance of others conserv biol – 
+
+http dx doi org j ecolind 
+
+
+indica
+
+d
+
+e
+
+e
+
+e
+
+e
+
+f
+
+f
+
+f
+
+g
+
+g
+
+g
+
+h
+
+h
+
+h
+
+h
+
+h
+
+i
+
+j
+
+k
+
+k
+
+k
+
+l
+
+l
+
+l
+
+l
+
+c yang et al ecological
+
+olman p m panter c j mossman h l the biodiversity audit approach
+challenges regional priorities and identifies a mismatch in conservation j appl 
+ecol – 
+
+bach m c valdecasas a g wheeler q d impediments to taxonomy
+and users of taxonomy accessibility and impact evaluation cladistics 
+ – 
+
+dgar r c search and clustering orders of magnitude faster than blast 
+bioinformatics – 
+
+dwards d p magrach a woodcock p lim n t l edwards f a larsen t h 
+hsu w w benedick s khen c v chung a y c hamer k c wilcove d s yu 
+d w quantifying the biological impacts of commercial logging and forest
+conversion to oil palm ecol appl in press 
+
+wers r m didham r k fahrig l ferraz g hector a holt r d kapos v 
+reynolds g sinun w snaddon j l turner e c a large scale forest
+fragmentation experiment the stability of altered forest ecosystems project 
+philos trans r soc london ser b – 
+
+aith d p minchin p r belbin l compositional dissimilarity as a robust
+measure of ecological distance vegetation – 
+
+ierer n leff jonathan w byron j a cross biome metagenomic analy 
+ses of soil microbial communities and their functional attributes pnas 
+ – 
+
+onseca v g carvalho g r sung w johnson h f power d m neill s p packer 
+m blaxter m l lambshead p j d thomas w k creer s second 
+generation environmental sequencing unmasks marine metazoan biodiversity 
+nat commun 
+
+entleman r hornik k parmigiani g g numerical ecology with r use r 
+pp – 
+
+otelli n j colwell r k estimating species richness in biological diversity 
+frontiers in measurement and assessment pp – 
+
+raça a s m the role of invertebrates on leaf litter decomposition in streams
+ a review int rev hydrob – 
+
+ajibabaei m spall j l shokralla s van konynenburg s assessing
+biodiversity of a freshwater benthic macroinvertebrate community through
+non destructive environmental barcoding of dna from preservative ethanol 
+bmc ecol 
+
+amady m lozupone c knight r fast unifrac facilitating high 
+throughput phylogenetic analyses of microbial communities including analysis
+of pyrosequencing and phylochip data isme j – 
+
+ao x jiang r chen t clustering s rrna for otu prediction a method
+of unsupervised bayesian clustering bioinformatics – 
+
+enderson p a walker i on the leaf litter community of the amazonian
+blackwater stream tarumazinho j trop ecol – 
+
+iiesalu i opik m metsis m lilje l davison j vasar m moora m zobel 
+m wilson s d pärtel m plant species richness belowground higher
+richness and new patterns revealed by next generation sequencing mol ecol 
+ – 
+
+báñez j j krasilnikov p v saldaña a archive and refugia of soil organisms 
+applying a pedodiversity framework for the conservation of biological and non 
+biological heritages j appl ecol – 
+
+i y ashton l pedley s m edwards d p tang y nakamura a kitching r 
+dolman p m woodcock p edwards f a larsen t h hsu w w benedick s 
+hamer k c wilcove d s bruce c wang x levi t lott m emerson b c 
+yu d w reliable verifiable and efficient monitoring of biodiversity via
+metabarcoding ecol lett – 
+
+night a t bode m fuller r a grantham h s barometer of life more
+action not more data science 
+
+night a t cowling r m rouget m knowing but not doing selecting pri 
+ority conservation areas and the research – implementation gap conserv biol 
+ – 
+
+oh l p can oil palm plantations be made more hospitable for forest butter 
+flies and birds j appl ecol – 
+
+enz t l becker s simple approach to reduce pcr artefact formation leads
+to reliable genotyping of mhc and other highly polymorphic loci – implications
+for evolutionary analysis gene – 
+
+indenmayer d b likens g e direct measurement versus surrogate indi 
+cator species for evaluating environmental change and biodiversity loss 
+ecosystems – 
+iu s li y lu j su x tang m zhang r soapbarcode revealing arthropod
+biodiversity through assembly of illumina shotgun sequences of pcr amplicons 
+methods ecol evol – 
+
+ucey j m hill j k spillover of insects from rain forest into adjacent oil palm
+plantations biotropica – 
+tors – 
+
+lugo a e comparison of tropical tree plantations with secondary forests of
+similar age ecol monogr 
+
+lynch j maslin m balzter h sweeting m sustainability choose satellites
+to monitor deforestation nature – 
+
+meijaard e sheil d the dilemma of green business in tropical forests how
+to protect what it cannot identify conserv lett – 
+
+munch k boomsma w huelsenbeck j p willerslev e nielsen r statis 
+tical assignment of dna sequences using bayesian phylogenetics syst biol 
+ – 
+
+newton a c implications of goodhart’s law for monitoring global biodiver 
+sity loss conserv lett – 
+
+nicholson e collen b barausse a blanchard j l costelloe b t sullivan k m e 
+underwood f m burn r w fritz s jones j p g mcrae l possingham h p 
+milner gulland e j making robust policy decisions using global biodiver 
+sity indicators plos one e 
+
+oksanen j multivariate analysis of ecological communities in r vegan tuto 
+rial pp – 
+
+ovaskainen o nokso koivisto j hottola j rajala t pennanen t ali kovero 
+h miettinen o oinonen p auvinen p paulin l larsson k h mäkipää 
+r identifying wood inhabiting fungi with sequencing – what is the
+probability that blast gives the correct species fungal ecol – 
+
+possingham h p wintle b a fuller r a the conservation return on invest 
+ment from ecological monitoring in biodiversity monitoring in australia pp 
+ – 
+
+pruesse e quast c knittel k fuchs b m ludwig w peplies j glöckner f o 
+ silva a comprehensive online resource for quality checked and aligned
+ribosomal rna sequence data compatible with arb nucleic acids res 
+ – 
+
+pulleman m creamer r hamer u helder j pelosi c pérès g rutgers m 
+soil biodiversity biological indicators and soil ecosystem services—an overview
+of european approaches curr opin environ sustain – 
+
+ranwez v harispe s delsuc f douzery e j p macse multiple alignment
+of coding sequences accounting for frameshifts and stop codons plos one 
+e 
+
+roger estrade j anger c bertrand m richard g tillage and soil ecology 
+partners for sustainable agriculture soil tillage res – 
+
+shaw p ozanne c a calibration of the efficiency of winkler eclectors for
+extracting collembola at different humidities soil org – 
+
+stuart s n wilson e o mcneely j a mittermeier r a rodriguez j p the
+barometer of life science 
+
+taberlet p coissac e hajibabaei m rieseberg l h environmental dna 
+mol ecol – 
+
+thiele bruhn s bloem j de vries f t kalbitz k wagg c linking soil
+biodiversity and agricultural soil management curr opin environ sustain 
+ – 
+
+thomsen p f kielgast j iversen l l wiuf c rasmussen m gilbert m t p 
+orlando l willerslev e monitoring endangered freshwater biodiversity
+using environmental dna mol ecol – 
+
+wang y naumann u wright s t warton d i mvabund – an r package
+for model based analysis of multivariate abundance data methods ecol evol 
+ – 
+
+warton d i wright s t wang y distance based multivariate analyses con 
+found location and dispersion effects methods ecol evol – 
+
+xu j grumbine r e beckschäfer p landscape transformation through the
+use of ecological and socioeconomic indicators in xishuangbanna southwest
+china mekong region ecol indic – 
+
+yang c ji y wang x yang c yu d w testing three pipelines for s
+rdna based metabarcoding of soil faunal diversity sci china ser c – 
+
+yoccoz n g bråthen k a gielly l haile j edwards m e goslar t von stedingk 
+h brysting a k coissac e pompanon f sønstebø j h miquel c valentini a 
+de bello f chave j thuiller w wincker p cruaud c gavory f rasmussen 
+m gilbert m t p orlando l brochmann c willerslev e taberlet p 
+dna from soil mirrors plant taxonomic and growth form diversity mol ecol 
+ – 
+
+yu d w ji y emerson b c wang x ye c yang c ding z biodiver 
+sity soup metabarcoding of arthropods for rapid biodiversity assessment and
+biomonitoring methods ecol evol – 
+zhu h shi j p zhao c j species composition physiognomy and plant diver 
+sity of the tropical montane evergreen broad leaved forest in southern yunnan 
+biodivers conserv – 
+
+zuur a f ieno e n elphick c s a protocol for data exploration to avoid
+common statistical problems methods ecol evol – 
+
+
+	using metabarcoding to ask if easily collected soil and leaf litter samples can be used as a general biodiversity indicator
+	 introduction
+	 materials and methods
+	 meng song china
+	 malaise trap samples
+	 soil and leaf litter samples
+
+	 vu quang and bach ma vietnam
+	 fogging samples
+	 leaf litter samples
+
+	 metabarcode protocols dna extraction pcr and pyrosequencing
+	 coi amplicons from malaise trap and canopy fogging samples
+	 s amplicons from soil and leaf litter samples
+	 pyrosequencing
+
+	 bioinformatic extraction of operational taxonomic units otus from raw sequence data
+	 statistical analyses
+
+	 results
+	 taxonomic compositions
+	 species richness
+	 meng song china
+	 vu quang and bach ma vietnam
+
+	 community composition
+	 meng song
+	 vietnam
+
+
+	 discussion
+	 species richness
+	 community composition
+	 potential advantages of leaf litter as an environmental indicator
+
+	 conclusions
+	acknowledgments
+	appendix a supplementary data
+	references
+
+
+

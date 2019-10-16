@@ -1,0 +1,1348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+intracellular nitrate in sediments of an oxygen deficient marine basin is linked to pelagic diatoms
+
+
+fems microbiology ecology fiy 
+
+doi femsec fiy 
+advance access publication date june 
+research article
+
+research article
+
+intracellular nitrate in sediments of an
+oxygen deficient marine basin is linked to pelagic
+diatoms
+anja kamp caitlin petro hans røy susanne nielsen pedro carvalho 
+peter stief and andreas schramm 
+
+ aias aarhus institute of advanced studies aarhus university aarhus denmark center for
+geomicrobiology and section for microbiology department of bioscience aarhus university aarhus 
+denmark department of environmental science aarhus university roskilde denmark and nordcee 
+department of biology university of southern denmark odense denmark
+∗corresponding author nordcee department of biology university of southern denmark campusvej odense m denmark tel 
+ e mail peterstief biology sdu dk
+
+one sentence summary intracellular nitrate stored by pelagic diatoms is transported to the seafloor by settling phytoplankton blooms implying a so
+far overlooked ’biological nitrate pump’ 
+
+editor hendrikus laanbroek
+
+abstract
+
+intracellular nitrate is an important electron acceptor in oxygen deficient aquatic environments either for the
+nitrate storing microbes themselves or for ambient microbial communities through nitrate leakage this study links the
+spatial distribution of intracellular nitrate with the abundance and identity of nitrate storing microbes in sediments of the
+bornholm basin an environmental showcase for severe hypoxia intracellular nitrate up to nmol cm− sediment was
+detected at all stations along a km transect through the basin and typically extended as deep as cm into the
+sediment intracellular nitrate contents were particularly high at stations where chlorophyll contents suggested high
+settling rates of pelagic primary production the depth distribution of intracellular nitrate matched that of the
+diatom specific photopigment fucoxanthin in the upper cm and calculations support that diatoms are the major
+nitrate storing microbes in these sediments in contrast other known nitrate storing microbes such as sulfide oxidizing
+bacteria and foraminifers played only a minor role if any strikingly s rrna gene sequencing revealed that the majority
+of the diatoms in the sediment were pelagic species we conclude that intracellular nitrate stored by pelagic diatoms is
+transported to the seafloor by settling phytoplankton blooms implying a so far overlooked ’biological nitrate pump’ 
+
+keywords bornholm basin hypoxia anoxia diatoms large sulfur bacteria beggiatoa thioploca photopigments 
+fucoxanthin eutrophication
+
+introduction
+
+oxygen is the energetically most favorable electron accep 
+tor that enables respiration coupled to energy conservation
+across the tree of life in oxygen deficient environments many
+
+prokaryotes and a few microbial eukaryotes can alternatively
+use no − for anaerobic respiration through denitrification and
+other pathways of dissimilatory no − reduction unlike the gas
+o no − can be accumulated and stored inside living cells 
+which enables the uncoupling of no − uptake and use in space
+
+received april accepted june 
+
+c© fems all rights reserved for permissions please e mail journals permissions oup com
+
+ 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+http www oxfordjournals org
+mailto peterstief biology sdu dk
+mailto journals permissions oup com
+
+
+ fems microbiology ecology vol no 
+
+and time intracellular no − can also become available for ambi 
+ent microbes incapable of no − storage through cell leakage
+driven by the huge concentration gradient or upon cell death
+and lysis kamp et al 
+
+intracellular no − storage is widespread in marine sedi 
+ments both geographically and phylogenetically jørgensen and
+gallardo sayama høgslund et al stief kamp
+and de beer kamp et al garcı́a robledo et al 
+known nitrate storing organisms in marine sediments include
+the large sulfide oxidizing bacteria sob and the eukaryotic
+diatoms foraminifers and gromiids all of which can store no −
+
+in concentrations of up to a few mmol l− fossing et al 
+ schulz and jørgensen risgaard petersen et al 
+piña ochoa et al a b kamp et al høgslund et al 
+in sediments overlain by oxygen deficient bottom water such
+as in deep basins or oxygen minimum zones carstensen et al 
+ sommer et al intracellular no − storage might be of
+particular importance microsensor measurements show that o 
+is depleted in the upper few μm of hypoxic sediments stief 
+nazarova and de beer lichtschlag et al and no −
+
+is generally scarce in the porewater of anoxic sediment layers
+ preisler et al heisterkamp et al prolonged anoxia
+in bottom waters leads to sulfide release from anoxic sediments
+ lichtschlag et al sommer et al that are often col 
+onized by large sob many of which are capable of intracellu 
+lar no − storage schulz and jørgensen however since
+bottom water hypoxia or anoxia are often coupled with high
+pelagic primary production wright konwar and hallam 
+the question arises as to whether nitrate storing diatoms are
+also quantitatively important in hypoxic or anoxic sediments
+upon settling of phytoplankton blooms wasmund nausch and
+matthaus wasmund and uhlig van beusekom et al 
+ 
+
+the strong halocline and the persistent eutrophication in the
+baltic sea promote the formation of severe hypoxia in its deep
+basins carstensen et al hansson and andersson 
+lindberg among these the permanently hypoxic born 
+holm basin displays spatial gradients regarding water depth –
+ m and thickness of an organic rich holocene mud layer –
+ m with implications for sediment biogeochemistry jensen
+and endler organic matter degradation in the holocene
+mud layer leads to the production of amongst others nh and
+sulfide that partially diffuse into the hypoxic bottom water karl 
+son rosenberg and bonsdorff jensen and endler at
+sites with high sedimentation rates huge areas with methane 
+saturated sediments occur jensen and endler tóth spiess
+and jensen enabling sulfide production through anaerobic
+ch oxidation hinrichs et al boetius et al the spring
+phytoplankton bloom in the baltic sea is typically dominated by
+dinoflagellates and diatoms but the vertical flux of particulate
+organic matter following the bloom is mainly composed of fast 
+sinking diatoms tamelander and heiskanen recent stud 
+ies found that sinking diatom aggregates have intracellular no −
+
+stores kamp et al stief et al and that diatoms indeed
+dominate the community of microbial eukaryotes in hypoxic
+sediments of the baltic sea broman et al these find 
+ings imply that sinking diatom aggregates carry a highly reactive
+form of inorganic nitrogen i e no − to the seafloor where it can
+be readily used in dissimilatory metabolic pathways it can be
+anticipated that intracellular no − will allow a faster and more
+efficient cycling of aggregate derived nitrogen than particulate
+organic nitrogen that first has to be mineralized to nh and
+then further nitrified to no − before it can be used for e g ben 
+thic denitrification marzocchi et al 
+
+the main research questions of the current study were i 
+where how much and in which sediment depth layers is intra 
+cellular no − found along a km transect through the perma 
+nently hypoxic bornholm basin ii which organisms are mainly
+responsible for intracellular no − storage and iii which envi 
+ronmental factors control the spatial temporal distribution of
+intracellular no − in the sediment 
+
+materials and methods
+
+study area
+
+sediment samples were taken at stations along a km tran 
+sect through the hypoxic bornholm basin northeast of the dan 
+ish island bornholm baltic sea fig during the expedition
+aubo of rv aurora in the first week of june the transect
+was running in north–south direction towards greater water
+depths – m the sediment was retrieved with a haps
+corer kanneworff and nicolaisen and immediately sub 
+sampled with two homemade core liners for each station inner
+� cm the cores were sliced at 
+ and cm sediment depth one
+sediment core per station was used for nitrogen analyses the
+second core was used for the quantification of photopigments
+and for abundance determination and molecular identification
+of nitrate storing microbes bottom water o concentration and
+light penetration was measured with a ctd sbe sea bird
+scientific at four stations along the transect and bottom water
+samples for no − measurements were taken with niskin bot 
+tles 
+
+nitrogen analyses
+
+for analysis of porewater no − approximately cm sedi 
+ment from each depth layer was transferred into spin filter tubes
+ μm nylon nordic biosite aps centrifuged g min 
+and the flow through was immediately frozen at − ◦c 
+
+for analysis of intracellular no − the remaining sediment
+of each depth layer was transferred into ml vials and imme 
+diately frozen at − ◦c for extraction of intracellular no − 
+nitrate free water was added to the sediment slices ml to
+the cm thick slices and ml to the and cm thick
+slices and each vial was heated at ◦c and frozen in liquid
+nitrogen three times one vial with ml nitrate free water was
+treated like the samples to serve as a blank after intracellu 
+lar no − extraction the vials were thawed but kept cold cen 
+trifuged g min and the supernatant was frozen at
+− ◦c for later no − analysis 
+
+for analysis of nh concentration measurements were
+made in the extracted sediment samples due to scarcity of pore 
+water thereby accepting potential contributions from intracel 
+lular nh 
+
+concentrations of nox− i e no − no − were measured
+with an nox analyzer cld s ecophysics using the vcl reduc 
+tion method braman and hendrix nitrite was analyzed
+with the griess reaction using the protocol by garcı́a robledo 
+corzo and papaspyrou nitrate concentrations were then
+obtained by subtraction no − concentrations are shown in
+table s supporting information ammonium was analyzed
+with the salicylate method bower and holm hansen for
+conformity with other sediment variables the no − and nh 
+
+contents were expressed in nmol cm− sediment 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+kamp et al 
+
+figure small map in the upper left corner shows the baltic sea region europe in which the danish island bornholm is located inner rectangle large map shows
+bornholm and the transect northeast of bornholm with sampling stations to towards greater water depth in the bornholm basin stars next to sampling stations
+ and indicate methane saturated sediment right color bar scales water depth 
+
+ammonium flux
+
+the vertical nh flux was calculated from the linear concen 
+tration gradient in the depth interval – cm thereby avoid 
+ing potential contributions by intracellular nh in the extracted
+samples from the depth interval – cm i e where intracellu 
+lar no − was abundant the effective diffusion coefficient of
+nh in sediment ds was calculated from the diffusion coeffi 
+cient in water d li and gregory as ds d × porosity 
+porosity was taken as the volumetric water content of the sedi 
+ment that was obtained from the weight loss by drying the sed 
+iment samples at ◦c for d 
+
+large filamentous sulfur bacteria
+
+for sediment fixation ml para formaldehyde was added
+to each sediment slice immediately after sampling to deter 
+mine the abundance and volume of large filamentous sulfur
+bacteria i e beggiatoa and thioploca each sediment layer was
+homogenized and a defined volume of a subsample ≥ μl
+for the cm thick layers and ≥ μl for the and 
+cm thick layers was carefully investigated under the dissect 
+ing microscope all cores were screened down to – cm the
+first depth interval in which beggiatoa and thioploca were usually
+absent if beggiatoa and thioploca were found in that depth inter 
+val then screening was continued in the subjacent depth inter 
+vals until no further beggiatoa and thioploca were found all fila 
+ments were carefully picked with a glass needle and transferred
+to i a sedgewick rafter counting chamber for length determi 
+nation and ii placed on a microscope slide with a micrometer
+scale for measuring the filament width under the microscope
+ × magnification each sediment layer was also investigated
+
+for other large nitrate storing microbes i e thiomargarita and
+foraminifers neither of which were detected 
+
+fucoxanthin and chlorophyll a
+
+exactly one half of each sediment slice was frozen immediately
+after sampling at − ◦c and later freeze dried for d for extrac 
+tion of photopigments ice cold acetone was added to the sedi 
+ment slices ml to the cm thick slices and ml to the 
+and cm thick slices sediment and acetone were vigorously
+mixed and then sonicated for min in a sonication bath kept
+at ◦c the samples were left over night at − ◦c vigorously
+mixed again and centrifuged at g for min the super 
+natants were filtered acrodisc r© cr mm syringe filter with
+ μm versapor r© membrane gelman laboratory and filled
+into ml glass vials stief kamp and de beer 
+
+the extracted photopigments were analyzed using a high 
+performance liquid chromatograph hplc thermo scientific
+ultimate provided with a diode array detector automatic
+sampler and column oven the chromatographic conditions
+were based on hou et al with some modifications sam 
+ples were separated on a kinetex μc å column mm
+× mm id using methanol m ammonium acetate 
+as mobile phase a and methanol as mobile phase b the
+mobile phase gradient started with of a of b lin 
+early decreased to of a of b within min and finally
+returned to the initial conditions in min and held for extra
+ min a flow rate of ml min− was held for the min
+run while the column oven was set to ◦c the sampler was
+set at ◦c sample injection volume was set at μl and the
+detector signal was monitored at λ nm chromatograms
+were integrated using chromeleon r© software identification
+of pigments was conducted based on a combination of retention
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+ fems microbiology ecology vol no 
+
+time and absorbance spectra compared to individual standards
+obtained by dhi hørsholm denmark quantification was per 
+formed by external calibration using a series of mixed standards
+ range to μg l− n limits of detection and quantifica 
+tion were and μg l− for chlorophyll a and and μg l− 
+
+for fucoxanthin respectively 
+
+illumina miseq sequencing
+
+sequencing was performed on three depth intervals consisting
+of pooled sediment collected at – cm – cm and –
+ cm from five sampling sites site dna was
+extracted from g of sediment using the fastdna spin kit for
+soil mp biomedicals santa ana ca usa prior to extraction 
+the sediment was subjected to an enzymatic lysis step kjeldsen
+et al followed by incubation in sds sodium dodecyl
+sulfate at ◦c for h 
+
+sequencing of both the bacterial s rrna gene and the
+eukaryotic s rrna gene communities was performed ampli 
+fication of the s rrna gene is described in the supporting
+information the s rrna gene was amplified using two differ 
+ent primer pairs euk a euk r to target all eukaryotes sogin
+and gunderson amann et al and d f d r to
+specifically target diatoms zimmermann jahn and gemein 
+holzer pcr was performed in two rounds prior to sequenc 
+ing for both primer pairs the initial amplification was run
+in μl reactions containing μl template dna μl x
+kapa hifi hotstart readymix kapa biosystems μl bovine
+serum albumin mg ml− μl dh o and μl of each
+primer pmol μl− for euk a euk r the cycling condi 
+tions included an initial denaturation at ◦c for min followed
+by cycles of ◦c for s ◦c for s and ◦c for s 
+with a final elongation at ◦c for min for the primer pair
+d f d r the cycling conditions used were ◦c for min 
+followed by cycles of ◦c for s ◦c for s and ◦c for
+ s with a final elongation at ◦c for min the pcr prod 
+ucts were visualized on a agarose gel and purified with the
+agencourt ampure xp pcr purification system beckman coul 
+ter 
+
+the purified pcr products were amplified in a second round
+of pcr with reactions consisting of μl kapa hifi hot 
+start readymix μl of purified pcr product and μl of
+each primer carrying the forward and reverse adapter over 
+hang sequences at their ’ ends the adapter sequence infor 
+mation is provided in illumina’s s metagenomic sequencing
+library preparation protocol illumina the cycling conditions
+used were ◦c for min cycles of ◦c for s ◦c euk a 
+adapt euk r adapt or ◦c d f adapt d r adapt for
+ s and ◦c for s with a final elongation at ◦c for
+ min subsequent addition of indices library quantification 
+quality control and illumina miseq sequencing using a cycle
+miseq v reagent kit was performed according to illumina’s s
+metagenomic sequencing and library preparation protocol 
+
+sequence analysis
+
+forward and reverse reads were merged using the make contigs
+command of the program mothur schloss et al which
+was also used for all further analyses unless otherwise noted 
+the assembled contigs were quality filtered by removing all
+reads shorter than bp or containing or more homopoly 
+meric stretches the filtered sequences were aligned to custom
+databases created by extracting all eukaryotic sequences tar 
+geted by the pcr primers from the silva ssu ref nr database
+
+ release quast et al with separate databases cre 
+ated for primer sets euk a euk r and d f d r follow 
+ing alignment the sequences were inspected and all reads align 
+ing outside the targeted region were removed the aligned reads
+were denoised using the pre cluster command and screened for
+chimeric sequences by the chimera uchime algorithm edgar
+et al reads were taxonomically classified using the pr 
+reference database for eukaryotes guillou et al and clus 
+tered into otus using the vsearch abundance based greedy clus 
+tering algorithm the classified otus were transferred to the r
+statistical environment and analyzed using the phyloseq pack 
+age mcmurdie and holmes eukaryotic sequences are
+available in the genbank sequence read archive database under
+accession numbers srr srr 
+
+results
+
+environmental settings
+
+at the time of the research cruise the water masses in the born 
+holm basin were stratified the water temperature below the
+thermocline was ◦c and salinity was below the halo 
+cline bottom water o and no − concentrations were μmol
+l− mg l− air saturation and μmol l− respec 
+tively light intensity in the bottom water was below the detec 
+tion limit sediment porosity was in the top sediment layers
+and in cm deep layers with the exception of station 
+at which sediment porosity was ≤ below cm sediment
+depth and in cm deep layers the sediment type was mud
+at all stations but clay at station below cm depth 
+
+porewater nitrate
+
+porewater samples collected in spin filter tubes generally
+showed no − concentrations of ∼ nmol cm− in all sediment
+layers down to the maximum depth of cm below a depth of
+ cm however no − concentrations in the extracted sediment
+samples i e the sum of porewater no − and intracellular no − 
+were zero indicating that sample processing with the spin fil 
+ter tubes gave false positive results for the porewater samples 
+to cope with these false results porewater no − concentrations
+were set to zero in the depth interval – cm for the depth
+interval – cm however the porewater no − concentration
+was conservatively estimated to equal the bottom water no −
+
+concentration μmol l− but re calculated to a porewater
+no − concentration of nmol cm− at all stations 
+
+intracellular nitrate and ammonium
+
+intracellular no − was stored in the sediment at all stations 
+with a tendency of highest intracellular no − concentrations
+in the upper sediment layers fig at sediment depths of
+ cm intracellular no − was below the detection limit at
+most stations highest intracellular no − concentrations were
+measured with and nmol cm− in the upper sediment
+layers of stations and averaged depth integration of sedi 
+mentary no − contents across all stations shows that intracel 
+lular no − made up ∼ while porewater no − in the depth
+interval – cm see previous paragraph made up ∼ of the
+total sedimentary no − 
+
+ammonium concentrations increased with sediment depth
+at all stations except for station at which nh concentra 
+tions were particularly low in the clay layer below cm sedi 
+ment depth fig on average the nh concentration in the
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+kamp et al 
+
+figure vertical profiles of intracellular no − icno and nh concentrations in sediments from the sampling stations along the transect from north to south 
+values are expressed per cm of sediment stars indicate scale breaks 
+
+top sediment layer was ± nmol cm− mean ± sd
+of all stations ammonium concentrations in the deeper sed 
+iment layers were typically in the order of a few nmol cm− 
+
+and reached a maximum concentration of nmol cm− in
+the deepest sediment layer of station the nh flux also
+increased significantly along the transect from station to 
+ spearman’s r p fig s supporting informa 
+tion 
+
+fucoxanthin and chlorophyll a
+
+both the diatom specific photopigment fucoxanthin and chloro 
+phyll a were detected in the non photic sediments of all stations
+from the top sediment layer and down to ≥ cm except for
+station at which photopigments could not be detected below
+ cm fig the molar fucoxanthin chlorophyll a ratio var 
+ied between – which indicates a dominance of diatoms
+over other phototrophic organisms fig supporting informa 
+tion variations in vertical profiles among the different sta 
+tions were very large and both photopigments showed subsur 
+face peaks and concentration maxima at different sediment
+depths however in and out of the stations sampled the
+highest fucoxanthin and chlorophyll a concentrations respec 
+tively were measured in the depth interval – cm indicating
+a general trend for higher concentrations in the top layers com 
+pared to deeper layers across all sediment layers of the depth
+
+interval – cm and across all sampling stations fucoxanthin
+and intracellular no − concentrations were positively correlated
+ pearson’s r p fig s a supporting informa 
+tion 
+
+large filamentous sulfur bacteria
+
+beggiatoa sp and thioploca sp were detected by microscopy at 
+out of investigated stations with strong differences in abun 
+dance and depth distribution of filaments fig on average fil 
+ament abundance peaked in the depth interval – cm yet beg 
+giatoa sp and thioploca sp filaments were detected down to 
+and cm sediment depth respectively in sediments of station
+ highest values of both biovolume and numbers of filaments
+were found in the depth interval – cm of station fig 
+here the sum of filamentous sulfur bacteria reached a total
+biovolume of nl cm− diverging patterns in depth profiles
+of biovolume and number of filaments were observed for station
+ but not for station which hints to a large variation in fil 
+ament size between stations across all sediment layers of the
+depth interval – cm and across all sampling stations sob
+biovolumes and intracellular no − concentrations were not sig 
+nificantly correlated pearson’s r p fig s b 
+supporting information sequencing bacterial s rrna genes
+in five selected stations identified the large sulfur bacteria as
+members of the candidate genera maribeggiatoa parabeggiatoa 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure vertical concentration profiles of the photopigments fucoxanthin and chlorophyll a in sediments from the sampling stations along the transect from north
+to south values are expressed per cm of sediment star indicates scale break 
+
+halobeggiatoa and marithioploca fig s supporting informa 
+tion other nitrate storing bacteria e g thiomargarita were not
+detected 
+
+depth integration along the transect
+
+depth integrated intracellular no − contents showed maxi 
+mum values at stations and fig a depth integrated
+nh contents increased significantly from station to 
+ p fig b depth integrated photopigment contents
+showed large variations between different stations with the
+exception that chlorophyll a contents were significantly higher
+in sediments of station compared to all other stations fig c
+and d depth integrated biovolumes of beggiatoa sp and thio 
+ploca sp were highest in sediments of stations and 
+ fig e 
+
+eukaryotic and diatom community
+
+sequencing of the s rrna gene in five selected stations
+revealed that diatoms accounted for – of all eukary 
+otic s rrna gene sequences with highest relative abun 
+dances at stations and fig s supporting information 
+other nitrate storing eukaryotes i e foraminifers and gromi 
+ids were not detected in any of the samples analysis of the
+diatom specific sequences revealed that the vast majority of
+the retrieved diatom s rrna gene sequences were related to
+
+centric diatoms that most likely have a pelagic life style fig 
+ sequences related to araphid pennate and raphid pennate
+diatoms with a benthic life style were only retrieved in low num 
+bers mainly in the depth interval – cm at station centric
+diatoms of the genus chaetoceros were abundant in the depth
+interval – cm at all stations and often had the highest rela 
+tive sequence abundance the ubiquitous pelagic diatom skele 
+tonema marinoi was mainly found in the depth interval – cm
+and had the highest relative sequence abundance at stations 
+and the pelagic diatom thalassiosira hispida was found at all
+stations in different sediment depths and detonula confervacea
+was present in sediments from all stations except station 
+the presence of pelagic and benthic diatoms was also confirmed
+during the microscopic screening of formaldehyde fixed sedi 
+ment samples for large filamentous sulfur bacteria see above 
+
+discussion
+
+the vertical distribution and the total contents of intracellular
+no − in sediments of the oxygen deficient bornholm basin are
+similar to what is found in various marine sediments kamp
+et al intracellular no − reaches into the sediment in the
+centimeter range e g risgaard petersen et al høgslund 
+nielsen and nielsen heisterkamp et al and total
+contents amount to – nmol cm− kamp et al strik 
+ingly though intracellular no − contents in the bornholm basin
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+kamp et al 
+
+figure vertical profiles of biovolumes and numbers of filamentous sob i e beggiatoa and thioploca in sediments from the sampling stations along the transect
+from north to south values are expressed per cm of sediment stars indicate scale breaks 
+
+varied by more than one order of magnitude i e – nmol
+cm− along the km transect studied here this stimulates
+the quest for the organisms and environmental factors that
+cause the observed small and large scale variation several
+lines of evidence indicate that the distribution of intracellu 
+lar no − is governed by the settling of diatom blooms onto
+the sediment i intracellular no − concentrations were sig 
+nificantly correlated with fucoxanthin concentrations ii sed 
+imentary intracellular no − concentrations can be reconciled
+with diatom specific intracellular no − concentrations and iii 
+pelagic diatoms dominated over benthic diatoms in contrast 
+other organisms and environmental factors can be ruled out to
+have a major influence on the sedimentary intracellular no −
+
+pool i intracellular no − concentrations were not significantly
+correlated with sob biovolumes ii sedimentary intracellular
+no − concentrations cannot be reconciled with sob specific
+intracellular no − concentrations and iii nitrate storing organ 
+isms other than diatoms and sob were absent or rare 
+
+diatoms as the main nitrate storing microbes
+
+the diatom marker fucoxanthin and intracellular no − concen 
+trations were significantly correlated in the upper cm of sed 
+iment across all stations assuming a cellular fucoxanthin con 
+tent of fmol and a biovolume of pl kamp et al 
+the depth integrated abundance and total biovolume of diatoms
+were estimated for the depth interval – cm on average the
+
+measured sedimentary intracellular no − concentration corre 
+sponded to a calculated diatom specific intracellular no − con 
+centration of ∼ mmol l− since diatoms are known to store
+nitrate in concentrations of up to mmol l− the diatoms
+present in the sediment readily explain the measured sedimen 
+tary intracellular no − it needs to be noted though that the
+cellular fucoxanthin content may vary with environmental fac 
+tors and the physiological state of the diatoms for instance 
+the cellular fucoxanthin content decreases by ∼ within days
+to weeks after shifts from light oxic to dark anoxic conditions
+that diatoms may experience when they settle onto hypoxic
+or anoxic sediments kamp et al thus the same mea 
+sured sedimentary fucoxanthin concentration would then cor 
+respond to a ∼ fold higher diatom abundance which requires
+an even lower diatom specific intracellular no − concentration
+to explain the sedimentary intracellular no − concentration 
+fucoxanthin was also found well below the intracellular no −
+
+layer where it is likely associated with diatom cells that have
+entered a resting stage härnström et al piredda et al 
+obviously these resting diatom cells do not store intracellular
+no − because of the high energy demand for establishing and
+maintaining a steep concentration gradient across the cell wall
+ harold in contrast fucoxanthin degradation proceeds
+relatively slowly even in pelagic diatoms that are exposed to
+dark anoxic conditions kamp et al and therefore fucox 
+anthin persists also in deeper sediment layers 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure depth integrated – cm contents of a intracellular no − icno 
+ b nh c fucoxanthin and d chlorophyll a e biovolume of filamentous
+sob at the stations along the transect from north to south black bars for
+sampling stations and indicate methane saturated sediment 
+
+the relatively high molar fucoxanthin chlorophyll a ratios
+in the sediment indicate a dominance of diatoms over other
+phototrophic organisms cf stief kamp and de beer for
+non photic marine sediments high fucoxanthin chlorophyll a
+ratios have been explained by the settling of live cells of pelagic
+
+diatoms josefson and hansen consistent with this sce 
+nario s rrna gene sequencing revealed that the diatom com 
+munity in the sediment – cm was dominated by centric
+species that typically inhabit the pelagic zone of the ocean the
+by far most abundant s rrna gene sequences were related
+to skeletonema marinoi chaetoceros spp and thalassiosira hispida 
+which all are ubiquitous bloom forming diatoms the spring
+bloom in the bornholm basin is also dominated by these three
+genera wasmund nausch and matthaus fluorescence
+measurements of sinking diatom blooms down to m water
+depth in the bornholm basin showed that the spring bloom set 
+tles from april to may van beusekom et al thus in our
+survey in the beginning of june the diatom community in the
+top sediment layers was obviously marked by the freshly set 
+tled spring bloom together with the above reasoning on the
+vertical distribution of fucoxanthin it appears that much of the
+intracellular no − in the sediment of the bornholm basin is
+imported and stored by settled pelagic diatoms in contrast pen 
+nate diatoms with a benthic life style were only marginally rep 
+resented in the s rrna gene sequence libraries 
+
+the settling of diatom blooms is mediated through aggre 
+gated cells that rapidly sink through the water column all 
+dredge and gotschalk at typical sinking velocities of –
+ m d− alldredge and gotschalk ploug iversen and fis 
+cher such diatom aggregates will reach the sediment of
+the bornholm basin within less than a day and carry along –
+ nmol no − per aggregate stief et al a similar no −
+
+transport mechanism has earlier been suggested for a shallow
+coastal bay lomstein jensen and sørensen and is sup 
+ported here by the very high intracellular no − concentrations
+in the methane saturated sediments that experience the high 
+est sedimentation rates within the bornholm basin jensen and
+endler we estimate that the diatom biomass during the
+spring bloom in the bornholm basin contains – μmol
+intracellular no − m− van beusekom et al marzocchi
+et al which is within the range of the sedimentary intra 
+cellular no − found in this study i e – μmol intra 
+cellular no − m− the consumption of intracellular no − by
+diatoms and diatom aggregates exposed to completely anoxic
+conditions kamp et al kamp et al raises the ques 
+tion about the fate of the imported intracellular no − in oxygen 
+deficient sediments two different metabolic pathways for sur 
+viving dark anoxic conditions have only recently been discov 
+ered in diatoms dissimilatory nitrate reduction to ammonium
+ dnra kamp et al and dark fermentation bourke et al 
+ the intracellular no − of decaying diatom cells however 
+will leak into the immediate microenvironment where it can be
+used by other microbes as previously observed in sinking diatom
+aggregates kamp et al this process continues once the
+diatom aggregates have settled onto the sediment marzocchi
+et al 
+
+filamentous sob and other nitrate storing microbes
+
+diatoms and sob co occurred at the same stations also where
+the total intracellular no − contents were high however the
+vertical distribution of beggiatoa and thioploca was very patchy
+and consequently sob biovolume and intracellular no − were
+not significantly correlated furthermore our data imply that
+sob cannot account for much of the sedimentary intracellular
+no − sob in the depth interval – cm would need to store
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+kamp et al 
+
+figure relative sequence abundance of diatom species genus or taxa retrieved with the d f d r primer pair in three sediment layers from five sampling
+stations the sum of all other diatom sequences was ≤ of the total sequence abundance and was excluded from the pie charts 
+
+no − at concentrations mmol l− to explain the sedimen 
+tary intracellular no − contents such high sob specific intra 
+cellular no − concentrations exceed the known maximum val 
+ues at least fold fossing et al assuming a more realis 
+tic sob specific intracellular no − concentration of mmol
+l− sob can store only up to of the total intracellular
+no − other large nitrate storing sob e g thiomargarita that
+might explain the intracellular no − not accounted for by beg 
+giatoa and thioploca were not detected the same is true for other
+microbes known to store no − at very high concentrations such
+as the eukaryotic foraminifers and gromiids risgaard petersen
+et al høgslund et al which were neither detected
+by microscopy nor by s rrna gene sequencing eukaryotic
+microbes known or suspected to store no − at very low concen 
+trations such as dino flagellates chlorophytes and ascomycete
+fungi dortch et al lomas and glibert stief et al 
+kamp et al were occasionally retrieved by s rrna gene
+sequencing but had low relative sequence abundances at sta 
+tions with high intracellular no − concentrations therefore 
+the role of settled pelagic diatoms as the main nitrate storing
+microbes in sediments of the bornholm basin is not seriously
+challenged by any other group of microbes 
+
+environmental controls
+
+the proposed mechanism of no − transport to the seafloor by
+settling diatom blooms implies that pelagic primary produc 
+tion and sedimentation rates are important environmental con 
+trol factors the baltic sea is well known for its high and still
+increasing level of eutrophication that entails extensive phyto 
+plankton blooms and o deficiency in deep basins wasmund 
+nausch and matthaus tamelander and heiskanen 
+carstensen et al hansson and andersson how 
+ever the pulse like settling events in the wake of phytoplankton
+blooms vary both locally and in their timing wasmund nausch
+and matthaus in the bornholm basin the settling of the
+spring bloom is expected in april and may van beusekom et al 
+ at station and the interplay of particle sedimenta 
+tion and water currents leads to a particularly strong accumu 
+lation of mud that is followed by intense organic matter degra 
+dation and methanogenesis jensen and endler pimenov
+et al consequently the sedimentary chlorophyll a con 
+tents as a proxy for the settling rate of phytoplankton blooms 
+
+were significantly correlated with the intracellular no − con 
+tents along the transect it can be expected that the intracellular
+no − stored by settled diatoms shows a pulse like seasonal pat 
+tern at least directly at the sediment surface lomstein jensen
+and sørensen 
+
+filamentous sob and other non phototrophic microbes
+capable of no − storage are more likely influenced by organic
+matter degradation in the sediment the thickness of the
+holocene mud layer increases along the transect towards greater
+water depths jensen and endler accordingly the extent
+of organic matter degradation increases which results in higher
+nh fluxes and sulfate reduction rates additionally the ch 
+entrapped in the thickest mud layer allows sulfide production
+through anaerobic ch oxidation pimenov et al leading
+to a sulfide flux into the bottom water karlson rosenberg and
+bonsdorff in this setting sob may readily use their intra 
+cellular no − for sulfide oxidation through dnra otte et al 
+ while the motile filamentous sob can meet their no −
+
+demands by stretching out into the bottom water dunker et al 
+ non motile microbes might be limited by no − availabil 
+ity in the sediment the very low o concentration at the sed 
+iment surface is likely inhibiting nitrification activity despite
+a high nh flux towards the sediment surface consequently 
+nitrification cannot drive the intracellular nitrate accumulation
+of other microbes in contrast to what was previously shown for
+diatoms in oxygen rich intertidal sediments heisterkamp et al 
+ it is therefore not surprising that nh fluxes as a proxy
+for organic matter degradation in the sediment and intracel 
+lular no − contents were not significantly correlated along the
+transect in contrast to the pulse like nitrate import through set 
+tling diatom blooms many biogeochemical processes in the sed 
+iment and bottom water show only a weak seasonality and thus
+the sob specific intracellular no − pool is small but probably
+more stable over time 
+
+conclusions
+
+this study demonstrates that pelagic diatoms rather than ben 
+thic microbes represent the major cellular reservoir of no −
+
+in the sediment of a strongly hypoxic marine basin settling
+diatom blooms presumably transport the intracellular no −
+
+pool to the seafloor where it may serve as an energetically
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+
+ fems microbiology ecology vol no 
+
+favorable electron acceptor in dissimilatory processes in con 
+trast microbes commonly considered to harbor the bulk of
+intracellular no − in low oxygen environments such as fila 
+mentous sob and foraminifers were unimportant no − reser 
+voirs at the time of this study we anticipate that the proposed
+no − transport mechanism through settling diatom blooms
+can be found in a wide range of shallow aquatic ecosystems
+with high pelagic primary production for instance in coastal
+marine areas and freshwater lakes experiencing eutrophication 
+diatom associated intracellular no − pools in sediments may
+thus be more ubiquitous than sob associated pools but more
+likely show seasonal variation it is worth noting that the settling
+of diatom blooms will promote no − removal from the euphotic
+zone and thus corresponds to a ’biological nitrate pump’ the
+efficiency of this pump is re inforced by settled diatom aggre 
+gates that stimulate benthic denitrification in oxygen deficient
+sediments partially also at the expense of the intracellular
+no − stored by the diatoms pelagic benthic coupling of nitro 
+gen cycling as mediated by the ’biological nitrate pump’ is fur 
+ther expected to be more immediate than through mineraliza 
+tion and nitrification of settled particulate organic nitrogen 
+
+supplementary data
+
+supplementary data are available at femsec online 
+
+funding
+
+financial support was provided by a grant from the german
+research foundation awarded to ak dfg grant agreement no
+ka the european union’s seventh framework pro 
+gramme for research technological development and demon 
+stration awarded to aarhus institute of advanced studies grant
+agreement no the danish national research founda 
+tion grant agreement no dnrf and the european research
+council erc grant agreement no 
+
+acknowledgments
+
+the crew and scientists on board of rv aurora aubo are
+thanked for help with sampling nikolaj bang thøgersen and
+marco mandolesi are acknowledged for laboratory assistance
+and britta poulsen fur running the illumina miseq system bo
+barker jørgensen is thanked for discussions 
+
+conflict of interest none declared 
+
+references
+
+alldredge al gotschalk cc direct observations of the mass floc 
+culation of diatom blooms—characteristics settling veloci 
+ties and formation of diatom aggregates deep sea res pt a
+ – 
+
+amann r binder b olson r et al combination of s rrna 
+targeted oligonucleotide probes with flow cytometry for ana 
+lyzing mixed microbial populations appl environ microbiol
+ – 
+
+boetius a ravenschlag k schubert cj et al a marine micro 
+bial consortium apparently mediating anaerobic oxidation of
+methane nature – 
+
+bourke mf marriott pj glud rn et al metabolism in anoxic per 
+meable sediments is dominated by eukaryotic dark fermen 
+tation nature geosci – 
+
+bower ce holm hansen t a salicylate hypochlorite method
+for determining ammonia in seawater can j fish aquat sci
+ – 
+
+braman rs hendrix sa nanogram nitrite and nitrate determi 
+nation in environmental and biological materials by vana 
+dium iii reduction with chemiluminescence detection anal
+chem – 
+
+broman e sachpazidou v dopson m et al diatoms dominate the
+eukaryotic metatranscriptome during spring in coastal ‘dead
+zone’ sediments proc r soc b 
+
+carstensen j andersen jh gustafsson bg et al deoxygenation
+of the baltic sea during the last century proc natl acad sci
+usa – 
+
+dortch q clayton jr jr thoresen ss et al species differences in
+accumulation of nitrogen pools in phytoplankton mar biol
+ – 
+
+dunker r røy h kamp a et al motility patterns of filamentous
+sulfur bacteria beggiatoa spp fems microbiol ecol –
+ 
+
+edgar r haas b clemente j et al uchime improves sensitivity
+and speed of chimera detection bioinformatics –
+ 
+
+fossing h gallardo va jørgensen bb et al concentration and
+transport of nitrate by the mat forming sulphur bacterium
+thioploca nature – 
+
+garcı́a robledo e corzo a papaspyrou s a fast and direct spec 
+trophotometric method for the sequential determination of
+nitrate and nitrite at low concentrations in small volumes 
+mar chem – 
+
+garcı́a robledo e bohorquez j corzo a et al dynamics
+of inorganic nutrients in intertidal sediments porewa 
+ter exchangeable and intracellular pools front microbiol
+ 
+
+guillou l bachar d audic s et al the protist ribosomal reference
+database pr a catalog of unicellular eukaryote small sub 
+snit rrna sequences with curated taxonomy nucleic acids
+res d –d 
+
+hansson m andersson l oxygen survey in the baltic sea—
+extent of anoxia and hypoxia rep oceanogr
+ – issn 
+
+härnström k ellegaard m andersen tj et al hundred years of
+genetic structure in a sediment revived diatom population 
+proc natl acad sci usa – 
+
+harold fm the vital force a study of bioenergetics new york ny 
+freeman and co 
+
+heisterkamp im kamp a schramm at et al indirect control of
+the intracellular nitrate pool of intertidal sediment by the
+polychaete hediste diversicolor mar ecol prog ser –
+ 
+
+hinrichs ku hayes jm sylva sp et al methane consuming
+archaebacteria in marine sediments nature – 
+
+høgslund s revsbech np kuenen jg et al physiology and
+behaviour of marine thioploca isme j – 
+
+høgslund s nielsen jl nielsen lp distribution ecology and
+molecular identification of thioploca from danish brackish
+water sediments fems microbiol ecol – 
+
+høgslund s cedhagen t bowser ss et al sinks and sources of
+intracellular nitrate in gromiids front microbiol 
+
+hou ys liang w zhang lp et al freshwater algae chemotax 
+onomy by high performance liquid chromatographic hplc 
+analysis front environ sci en – 
+
+jensen jb endler r methane distribution in holocene marine
+sediments in the bornholm basin southern scandinavia 
+geol surv denmark greenland bull – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+https academic oup com femsec article lookup doi femsec fiy supplementary data
+
+
+kamp et al 
+
+jørgensen bb gallardo va thioploca spp filamentous sulfur bac 
+teria with nitrate vacuoles fems microbiol ecol –
+ 
+
+josefson ab hansen jls quantifying plant pigments and
+live diatoms in aphotic sediments of scandinavian coastal
+waters confirms a major route in the pelagic benthic cou 
+pling mar biol – 
+
+kamp a de beer d nitsch jl et al diatoms respire nitrate to
+survive dark and anoxic conditions proc natl acad sci usa
+ – 
+
+kamp a stief p knappe j et al response of the ubiqui 
+tous pelagic diatom thalassiosira weissflogii to darkness and
+anoxia plos one e 
+
+kamp a høgslund s risgaard petersen n et al nitrate storage
+and dissimilatory nitrate reduction by eukaryotic microbes 
+front microbiol 
+
+kamp a stief p bristow la et al intracellular nitrate of marine
+diatoms as a driver of anaerobic nitrogen cycling in sinking
+aggregates front microbiol 
+
+kanneworff e nicolaisen w the haps a frame supported bot 
+tom corer ophelia – 
+
+karlson k rosenberg r bonsdorff e temporal and spatial large 
+scale effects of eutrophication and oxygen deficiency on
+benthic fauna in scandinavian and baltic waters—a review 
+in gibson rn barnes m atkinson rja eds oceanography
+marine biology taylor francis london – 
+
+kjeldsen k loy a jakobsen t et al diversity of sulfate reducing
+bacteria from an extreme hypersaline sediment great salt
+lake utah fems microbiol ecol – 
+
+li yh gregory s diffusion of ions in sea water and in deep sea
+sediments geochimi cosmochim acta – 
+
+lichtschlag a donis d janssen f et al effects of fluctuating
+hypoxia on benthic oxygen consumption in the black sea
+ crimean shelf biogeosciences – 
+
+lindberg a hydrography and oxygen in the deep basins helcom
+baltic sea environment fact sheets http www helc
+om fi baltic sea trends environment fact sheets 
+
+lomas m glibert p comparisons of nitrate uptake storage 
+and reduction in marine diatoms and flagellates j phycol
+ – 
+
+lomstein e jensen mh sørensen j intracellular nh and
+no − pools associated with deposited phytoplankton in a
+marine sediment aarhus bight denmark mar ecol prog ser
+ – 
+
+marzocchi u thamdrup b stief p et al effect of settled diatom 
+aggregates on benthic nitrogen cycling limnol oceanogr
+ – 
+
+mcmurdie p holmes s phyloseq an r package for reproducible
+interactive analysis and graphics of microbiome census data 
+plos one – 
+
+otte s kuenen jg nielsen lp et al nitrogen carbon and sulfur
+metabolism in natural thioploca samples appl environ micro 
+biol – 
+
+pimenov nv kanapatskii ta sigalevich pa et al sulfate
+reduction methanogenesis and methane oxidation in the
+holocene sediments of the vyborg bay baltic sea microbiol
+ – 
+
+piña ochoa e høgslund s geslin e et al widespread occurrence
+of nitrate storage and denitrification among foraminifera
+and gromiida proc natl acad sci usa a – 
+
+piña ochoa e koho ka geslin e et al survival and life strategy of
+the foraminiferan globobulimina turgida through nitrate stor 
+age and denitrification mar ecol prog ser b – 
+
+piredda r sarno d lange cb et al diatom resting stages in
+surface sediments a pilot study comparing next genera 
+tion sequencing and serial dilution cultures cryptogam algol
+ – 
+
+ploug h iversen mh fischer g ballast sinking velocity and
+apparent diffusivity within marine snow and zooplankton
+fecal pellets implications for substrate turnover by attached
+bacteria limnol oceanogr – 
+
+preisler a de beer d lichtschlag a et al biological and chemical
+sulfide oxidation in a beggiatoa inhabited marine sediment 
+isme j – 
+
+quast c pruesse e yilmaz p et al the silva ribosomal rna gene
+database project improved data processing and web based
+tools nucleic acids res – 
+
+risgaard petersen n langezaal am ingvardsen s et al evidence
+for complete denitrification in a benthic foraminifer nature
+ – 
+
+sayama m presence of nitrate accumulating sulfur bacteria
+and their influence on nitrogen cycling in a shallow coastal
+marine sediment appl environ microbiol – 
+
+sommer s gier j treude t et al depletion of oxygen nitrate
+and nitrite in the peruvian oxygen minimum zone cause
+an imbalance of benthic nitrogen fluxes deep sea res i
+ – 
+
+schloss p westcott s ryabin t et al introducing mothur open 
+source platform independent community supported soft 
+ware for describing and comparing microbial communities 
+appl environ microbiol – 
+
+schulz hn jørgensen b big bacteria annu rev microbiol
+ – 
+
+sogin m gunderson j structural diversity of eukaryotic small
+subunit ribosomal rnas ann new york acad sci –
+ 
+
+stief p nazarova l de beer d chimney construction by chi 
+ronomus riparius larvae in response to hypoxia microbial
+implications for freshwater sediments j north am benthol soc
+ – 
+
+stief p kamp a de beer d role of diatoms in the spatial 
+temporal distribution of intracellular nitrate in intertidal
+sediment plos one e 
+
+stief p fuchs ocklenburg s kamp a et al dissimilatory nitrate
+reduction by aspergillus terreus isolated from the seasonal
+oxygen minimum zone in the arabian sea bmc microbiol
+ 
+
+stief p kamp a thamdrup b et al anaerobic nitrogen turnover
+by sinking diatom aggregates at varying ambient oxygen lev 
+els front microbiol 
+
+tamelander t heiskanen as effects of spring bloom phyto 
+plankton dynamics and hydrography on the composition of
+settling material in the coastal northern baltic sea j mar syst
+ – 
+
+tóth z spiess v jensen j seismo acoustic signatures of shal 
+low free gas in the bornholm basin baltic sea cont shelf res
+ – 
+
+van beusekom jee mengedoht d augustin cb et al phytoplank 
+ton protozooplankton and nutrient dynamics in the born 
+holm basin baltic sea in during the german
+globec project int j earth sci – 
+
+wasmund n nausch g matthaus w phytoplankton spring
+blooms in the southern baltic sea—spatio temporal develop 
+ment and long term trends j plankton res – 
+
+wasmund n uhlig s phytoplankton trends in the baltic sea 
+ices j mar sci – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+http www helcom fi baltic sea trends environment fact sheets 
+
+
+ fems microbiology ecology vol no 
+
+wright jj konwar km hallam sj microbial ecology of expanding
+oxygen minimum zones nat rev microbiol – 
+
+zimmermann j jahn r gemeinholzer b barcoding diatoms 
+evaluation of the v subregion on the s rrna gene includ 
+ing new primers and protocols org divers evol –
+ 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by kresge law
+ library user on june 
+
+
+

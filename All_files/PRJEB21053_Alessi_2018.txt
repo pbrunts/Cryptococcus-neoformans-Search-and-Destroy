@@ -1,0 +1,6096 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+defining functional diversity for lignocellulose degradation in a microbial community using multi omics studies
+
+
+alessi et al biotechnol biofuels 
+https doi org s 
+
+research
+
+defining functional diversity 
+for lignocellulose degradation in a microbial 
+community using multi omics studies
+anna m alessi susannah m bird nicola c oates yi li adam a dowle etelvino h novotny 
+eduardo r deazevedo joseph p bennett igor polikarpov j peter w young simon j mcqueen‑mason 
+and neil c bruce 
+
+abstract 
+background lignocellulose is one of the most abundant forms of fixed carbon in the biosphere current industrial 
+approaches to the degradation of lignocellulose employ enzyme mixtures usually from a single fungal species which 
+are only effective in hydrolyzing polysaccharides following biomass pre‑treatments while the enzymatic mechanisms 
+of lignocellulose degradation have been characterized in detail in individual microbial species the microbial commu‑
+nities that efficiently breakdown plant materials in nature are species rich and secrete a myriad of enzymes to perform 
+“community‑level” metabolism of lignocellulose single‑species approaches are therefore likely to miss important 
+aspects of lignocellulose degradation that will be central to optimizing commercial processes 
+
+results here we investigated the microbial degradation of wheat straw in liquid cultures that had been inoculated 
+with wheat straw compost samples taken at selected time points were subjected to multi‑omics analysis with the 
+aim of identifying new microbial mechanisms for lignocellulose degradation that could be applied in industrial pre‑
+treatment of feedstocks phylogenetic composition of the community based on sequenced bacterial and eukaryotic 
+ribosomal genes showed a gradual decrease in complexity and diversity over time due to microbial enrichment taxo‑
+nomic affiliation of bacterial species showed dominance of bacteroidetes and proteobacteria and high relative abun‑
+dance of genera asticcacaulis leadbetterella and truepera the eukaryotic members of the community were enriched 
+in peritrich ciliates from genus telotrochidium that thrived in the liquid cultures compared to fungal species that were 
+present in low abundance a targeted metasecretome approach combined with metatranscriptomics analysis identi‑
+fied proteins and showed the presence of numerous carbohydrate‑active enzymes extracted from the biomass‑
+bound fractions and from the culture supernatant this revealed a wide array of hydrolytic cellulases hemicellulases 
+and carbohydrate‑binding modules involved in lignocellulose degradation the expression of these activities corre‑
+lated to the changes in the biomass composition observed by ftir and ssnmr measurements 
+
+conclusions a combination of mass spectrometry‑based proteomics coupled with metatranscriptomics has 
+enabled the identification of a large number of lignocellulose degrading enzymes that can now be further explored 
+for the development of improved enzyme cocktails for the treatment of plant‑based feedstocks in addition to the 
+expected carbohydrate‑active enzymes our studies reveal a large number of unknown proteins some of which may 
+play a crucial role in community‑based lignocellulose degradation 
+
+keywords cazy metasecretome lignocellulose
+
+© the author s this article is distributed under the terms of the creative commons attribution international license 
+ http creat iveco mmons org licen ses by which permits unrestricted use distribution and reproduction in any medium 
+provided you give appropriate credit to the original author s and the source provide a link to the creative commons license 
+and indicate if changes were made the creative commons public domain dedication waiver http creat iveco mmons org 
+publi cdoma in zero applies to the data made available in this article unless otherwise stated 
+
+open access
+
+biotechnology for biofuels
+
+ correspondence neil bruce york ac uk 
+ department of biology centre for novel agricultural products 
+university of york york yo dd uk
+full list of author information is available at the end of the article
+
+http orcid org 
+http creativecommons org licenses by 
+http creativecommons org publicdomain zero 
+http creativecommons org publicdomain zero 
+http crossmark crossref org dialog doi s domain pdf
+
+
+page of alessi et al biotechnol biofuels 
+
+background
+soil and composting microbiomes are diverse and com 
+plex microbial communities that degrade plant cell wall 
+biomass globally these microbiomes make a significant 
+contribution to the release of nutrients and recycling of 
+carbon from this highly abundant yet recalcitrant mate 
+rial however due to the complexity and the diversity 
+of species questions about the roles of community mem 
+bers remain unanswered furthermore an understanding 
+of how microbial communities interact in deconstructing 
+lignocellulose conveys important benefits from an indus 
+trial perspective and has the potential to provide sources 
+of biocatalysts for the conversion of agricultural residues 
+into biofuels and commodity chemicals 
+
+lignocellulose degradation in ecosystems like compost 
+and soil is governed by the synergistic action of oxidative 
+and hydrolytic enzymes that break the linkages within 
+and between cellulose hemicellulose and lignin in 
+order to facilitate this process a variety of interactions 
+occur between different groups of microorganisms the 
+community structure depends on many environmental 
+factors such as oxygen content plant origin soil resi 
+dues temperature ph phase of the lignocellulose degra 
+dation and chemical nature of the exposed biomass 
+additionally microbial competition driven by the pres 
+ence of sugars and other nutrients enzymatically released 
+from the lignocellulose results in a network of metabolic 
+interactions and dependencies between individual spe 
+cies rendering many of the species present unculturable 
+in isolation a comprehensive assessment of the micro 
+bial community to degrade lignocellulose therefore can 
+only be achieved through the combination of ‘omics tech 
+niques – 
+
+whole metagenome shotgun sequencing studies have 
+proven invaluable to predict the functional potential of 
+complex microbial communities the recent devel 
+opment of transcriptome sequencing allows a direct 
+measure of the community function under specific 
+growth conditions in combination with metapro 
+teomics or metabolomics metatranscriptomics has the 
+potential to create multi dimensional reports of how the 
+microbes in communities respond to a dynamic environ 
+ment multiple studies have employed ‘omics approaches 
+to investigate the response of the microbiome to external 
+factors such as dietary or xenobiotic stimuli 
+the majority of these reports have largely focused on a 
+human gi tract microbiome and though an increasing 
+number of studies have been performed on ex vivo eco 
+systems such as marine soil acid mine drain 
+age and anaerobic systems to the best of 
+our knowledge limited attempts have been made to link 
+the microbial diversity metabolic activities and respec 
+tive protein abundances in lignocellulose degrading 
+
+communities by using a combination of culture inde 
+pendent approaches – 
+
+in this paper we evaluate time driven changes in gene 
+expression with extracellular protein production from a 
+lignocellulose degrading microbial community and link 
+these patterns to stages of wheat straw degradation 
+
+results
+dynamics of wheat straw degradation
+wheat straw was selected as the sole carbon source for 
+shake flask cultures which were inoculated with wheat 
+straw compost initially to determine the rate of degra 
+dation of this substrate biomass samples were removed 
+over periods of time and the dry weight was determined 
+a rapid loss of of the dry weight was observed over 
+the first three weeks followed by a slower reduction in 
+weight loss over the next five weeks dry mass reduc 
+tion after  weeks and an increase of ph from to 
+ fig   a significant morphological changes in the wheat 
+straw biomass were also observed which were consistent 
+with the common effects of plant decay such as reduc 
+tion of straw particle size darkening and biomass soften 
+ing additional file  fig s 
+
+dried and milled wheat straw samples were subse 
+quently analysed by ftir the principal component anal 
+ysis pca of ftir spectra separated the control sample 
+ time point from the culture samples collected in later 
+weeks pc fig   c the pca also showed the sepa 
+ration between samples from early and later time points 
+ pc the major peak in the loading plot for pc was 
+observed at wavenumber –   cm− and corre 
+sponds to cell wall polysaccharides fig   d how 
+ever the loading plot for pc showed an enhanced area 
+at wavenumber   cm− and –   cm− 
+that corresponds to deformation of c–h c–o bonds of 
+cellulose xylan and lignin deformation of syringyl 
+and guaiacyl residues fig   c 
+
+further to ftir analysis we collected ssnmr spec 
+tra for the control and compost inoculated wheat straw 
+samples fig   e typical polysaccharide and lignin peaks 
+were assigned based on rezende et al a direct vis 
+ual inspection of the spectra showed that the intensity of 
+signals due to polysaccharides gradually decrease relative 
+to the lignin signals indicating a decrease in the relative 
+content of polysaccharides in the biomass samples to 
+provide a more systematic evaluation of the variability 
+in the ssnmr spectra a pca followed by a multivari 
+ate curve resolution mcr procedure was performed 
+the pca showed that the variability of the ssnmr spec 
+tra among the samples can be explained by two compo 
+nents a and b both associated to the main structural 
+polysaccharide and lignin polymers in the biomass as 
+shown in fig   e the major signals in the mcr predicted 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+spectra of component a are assigned to polysaccharides 
+ –  ppm from o alkyl of polysaccharides and  ppm 
+typical of hemicellulose the predicted spectra of compo 
+nent b have signals assigned to lignin for instance at 
+ and  ppm and also signals of partially oxidized 
+polysaccharides to glucuronic acids there is an expected 
+spectral broadening of the polysaccharide signals due 
+to the increase in the heterogeneity of the material pro 
+duced from the microbial degradation of the lignocel 
+lulose the estimated spectrum corresponds to band 
+broadening with concomitant reduction of the intensity 
+in the central region of the spectrum which generates an 
+inverted central peak flanked by positive signals there is 
+a contribution in the carboxyl region ppm which 
+could be derived from partially oxidized moieties in the 
+sample including glucuronic acids 
+
+thus we denote component a as unaltered polysaccha 
+rides and component b as lignin plus partially oxidized 
+polysaccharides based on mcr analysis we calculated 
+the amount of each spectral component in wheat straw 
+untreated and treated samples fig   f it was observed 
+
+that the relative amount of unaltered polysaccharides 
+in the samples linearly decreased by up to after 
+ week post inoculation and remains mostly constant 
+afterwards the decrease of unaltered polysaccharides 
+results in the relative increase of the component b i e 
+recalcitrant lignin and partially oxidized polysaccharides 
+the relative increase in the lignin content of the wheat 
+straw samples is supported by the ftir results 
+
+consistent with the observed polysaccharide degrada 
+tion xylanase and endo cellulase activities were detected 
+in the culture supernatants we observed the high 
+est enzymatic activity during the first week of growth 
+ fig   b however both xylanase and cellulase activity 
+dropped dramatically to – of the initial enzyme 
+activity week post inoculation xylanase and endo 
+cellulase activity dropped to and of the ini 
+tial activity in week three samples respectively after 
+the third week post inoculation the level of xylanase 
+and endo cellulase activities in the culture supernatant 
+reached a plateau and no further significant differences 
+were observed in line with the ssnmr mcr results 
+
+fig compositional analysis of wheat straw biomass a the weight of dried wheat straw residues collected from weekly time points of 
+compost‑derived cultures and ph of the culture supernatants b cellulase and xylanase activity in the culture supernatant assayed using 
+carboxymethyl cellulose cmc and xylan from beechwood as substrates enzyme activity is expressed as μmol of glucose or xylose equivalents 
+released per minute per ml of supernatant iu ml data in a and b represent mean ± sd and n x‑axis week c principal component analysis 
+ pca of baseline corrected and peak normalized ftir spectra in the range of – cm− n d loading plots of pc‑ and pc‑ from the 
+pca in c e c ssnmr spectra of untreated and degraded wheat straw indicating qualitative differences in the lignocellulosic fraction between 
+analysed time points inset figure shows results of the mcr analysis of the c ssnmr data on the spectral variation that can be separated into two 
+components associated with polysaccharides and lignin f relative abundance of polysaccharide and lignin components in wheat straw samples 
+collected from weekly time points of compost‑inoculated cultures x‑axis week
+
+
+
+page of alessi et al biotechnol biofuels 
+
+based on the data obtained from the biomass analy 
+sis we selected three time points for further study—
+early mid and late stages of lignocellulose degradation 
+corresponding to week one three and six a combina 
+tion of various culture independent approaches was 
+applied in order firstly to determine the taxonomic 
+diversity of the culture community by sequence analy 
+sis of s and s rrna amplicons secondly to evalu 
+ate gene expression using metatranscriptome mt 
+rna sequencing and thirdly to identify proteins 
+produced by the community at distinct time points by 
+shotgun lc–ms ms based metaexoproteomics mp 
+overall   m raw reads were generated from ampli 
+con sequencing using an ion torrent platform  m 
+raw reads from the rna seq using an illumina hiseq 
+platform and   m peptide spectra using a maxis 
+qtof lc–ms ms additional file  table s –s 
+
+amplicon sequencing to study culture community 
+structure and dynamics
+we assessed the bacterial and eukaryotic community 
+structure of the initial wheat straw compost inoculum 
+and liquid in  vitro cultures using amplicon sequencing 
+of s and s ssu rrna from the sequencing of the 
+eukaryotic s gene a total of operational taxo 
+nomic units otus were identified at identity level 
+across all samples a greater number of prokaryotic spe 
+cies were observed from the sequencing of the s ampli 
+con in total bacterial otus were constructed for 
+all sequenced samples n 
+
+the highest number of bacterial fig   a and eukar 
+yotic otus fig   d was detected in the compost 
+inoculum with an average of and otus 
+respectively across two biological replicates this was 
+reflected by the inoculum showing the highest microbial 
+
+fig taxonomic distribution of bacterial and eukaryotic community obtained by rrna amplicon sequencing a and d number of observed 
+species in wheat straw compost inoculum in and compost‑derived samples collected at week and floating bars represent minimum mean 
+and maximum number of detected otus ordinary one‑way anova test was performed to show significant differences in bacterial a f 
+p and eukaryotic d f p richness between samples b and e relative abundance of the bacterial phyla and highest 
+eukaryotic rank in inoculum in and samples collected at week and error bars represent s e m n c and f venn diagrams represent number 
+of shared and unique bacterial c and eukaryotic f otus between wheat straw compost inoculum in and weekly samples week and 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+diversity and richness based on alpha diversity estimation 
+and rarefaction analysis additional file  fig s and a 
+higher number of identified unique otus compared to 
+the liquid culture samples fig   c f 
+
+the eukaryotic community within the compost inocu 
+lum was dominated by metazoa with the major 
+phyla being annelida annelid worms and nematoda 
+ roundworms accounting for and reads of this 
+division fungi were also observed at high abundance 
+within the inoculum accounting for of reads 
+of which were identified as belonging to the ascomycota 
+lineage and the basidiomycota fig   e significant 
+changes however in the eukaryotic community were 
+observed under liquid growth conditions with both a 
+decrease of identifiable otus n additional file  
+table s detected in the first week post inoculation and 
+a change in lineage composition fig   e metazoan and 
+fungal assigned otus decreased to a level of  week 
+after inoculation with an increase in protozoa of which 
+ of otus were classified as belonging to the ciliate 
+genus telotrochidium 
+
+similarly a decrease in diversity and richness of the 
+prokaryotic community was observed once the compost 
+inoculum was transferred into a liquid environment 
+reducing from ca predicted otus in the inocu 
+lum n to an average of ca otus in the liquid 
+cultures n additional file  table  s the com 
+positional change in the prokaryotic community after 
+inoculation was less affected than the eukaryotic com 
+munity and throughout the experiment the majority of 
+the bacterial otus detected from the lignocellulose 
+degrading community were assigned to three major line 
+ages bacteroidetes proteobacteria and ver 
+rucomicrobia to a lesser extent planctomycetes 
+ and thermi were also present within the 
+community although thermi decreased in relative abun 
+dance during the first week post inoculation they went 
+on to recover in number by the sixth week fig   b the 
+three most abundant bacterial genera in week and 
+were respectively asticcacaulis leadbetterella 
+ and truepera 
+
+general overview of the metatranscriptome 
+and metasecretome
+to investigate functional activity of the wheat straw 
+enriched community we sequenced the metatranscrip 
+tome additional file  table  s additional file  fig 
+s and analysed the metasecretome using the resulting 
+metatranscriptomics data as a reference database for the 
+spectra searches additional file  table s we identi 
+fied proteins by lc–ms ms analysis across all the 
+time points within the culture supernatant week 
+and in addition to this and to ensure that our analysis 
+
+included proteins that had bound tightly to the insoluble 
+components of the wheat straw cultures we utilized an 
+ez link sulfo nhs ss biotin label ez link sulfo 
+nhs ss biotin is a membrane impermeable probe 
+which crosslinks spontaneously to exposed primary 
+amines enabling the labelling of extracellular proteins 
+and subsequent purification by affinity chromatography 
+after stringent washing of the biomass samples from 
+this analysis distinct proteins were identified 
+of which were unique to the biotin labelled samples fur 
+thermore hierarchical clustering analysis differentiated 
+metasecretomes of supernatant and biotin labelled frac 
+tions into two separate groups and confirmed the repro 
+ducibility of the methodology additional file  fig s 
+
+to compare the functionality of the metasecretome to 
+metatranscriptomics data we analysed the most 
+abundant transcripts that were selected based on their 
+normalized expressed sequence tag est counts the 
+relative abundance of clusters of orthologous groups 
+ cogs in metatranscriptome and metasecretome data 
+showed similar functional distributions for most of the 
+groups with the enrichment of genes in the metatran 
+scriptome involved in replication recombination and 
+repair ratio and defense mechanisms ratio 
+additional file  fig s 
+
+blastp searches however demonstrated that the 
+proteomic samples from the biotin labelled fractions 
+contained a number of transporters and membrane 
+associated proteins additional file  tonb dependent 
+ tbdt adenosine triphosphate atp binding cas 
+sette abc and tripartite atp independent periplas 
+mic trap transporters accounted for annotated 
+proteins the variety of transporters and mem 
+brane proteins such as ompa motb containing pro 
+teins expressed by the microbial community indicates 
+a variety of nutritional strategies which will benefit the 
+microorganism when sugar and amino acids monomers 
+oligomers are available for uptake transporters and 
+membrane associated proteins were reported as ubiqui 
+tous in other metasecretomes of complex communities 
+ other abundant functional groups were proteins 
+required for intracellular trafficking secretion and vesic 
+ular transport and cell wall membrane envelope 
+biogenesis and motility 
+
+phylogenetic origin of putative proteins
+the phylogenetic origin of all the putative proteins as 
+assessed by sequence similarity showed that two major 
+phylogenetic groups bacteria s d and 
+eukaryota s d contributed to the metase 
+cretomes consistent with the community analysis 
+described previously the proteins assigned to eukaryota 
+originated mainly from the alveolata group and orders 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+hymenostomatida including tetrahymena and penicu 
+lida including paramecium of the proteins identi 
+fied as belonging to tetrahymena and paramecium only 
+six were present in the supernatant and all but two were 
+preferentially present within the biotin labelled fraction 
+these proteins were not predicted to have lignocellulose 
+degrading capabilities and instead were predicted 
+to have protease activities and were assigned as 
+hypothetical 
+
+the majority of prokaryotic proteins identified were 
+affiliated with phyla proteobacteria and bacteroidetes 
+these accounted for s d and 
+ s d of the proteins detected in the metase 
+cretome respectively proteins derived from orders 
+xanthomonadales and rhizobiales were 
+the most abundant in the proteobacteria phylum sev 
+eral genera such as leadbetterella bacteroidetes and 
+α proteobacteria devosia mesorhizobium and rhizo 
+bium contributed of putative transporters identified 
+in the metasecretome suggesting an ability to transport 
+nutrients more rapidly than other microorganisms in the 
+cultures overall the metasecretome proteins were pre 
+dicted to be produced by genera with the major 
+ity being of bacterial origin indicating a high microbial 
+diversity that accounts for the functionality of the com 
+munity additional file  
+
+analysis of community lignocellulose degrading capability 
+in early mid and late stages of the wheat straw cultures
+both the wheat straw loss of mass and qualitative analy 
+sis of its cell wall composition showed that rapid car 
+bohydrate degradation was occurring within the liquid 
+
+cultures to identify the carbohydrate active enzymes 
+in the metasecretome we performed a similarity search 
+of the identified proteins from the microbial commu 
+nity against the entire non redundant sequences of 
+the cazy database using the dbcan server fig   a 
+table  using this analysis we demonstrated the 
+presence of proteins assigned as putative cazymes 
+within the wheat straw degrading community 
+
+degradation of lignocellulosic biomass such as wheat 
+straw is governed by the combined action of modular 
+glycosyl hydrolases lytic polysaccharide monooxy 
+genases lpmos and lignin modifying enzymes 
+proteins containing glycosyl hydrolase domains as 
+annotated by the dbcan server were the most abun 
+dant accounting for of the cazymes identified 
+this was followed by carbohydrate esterases two 
+glycosyltransferases one pectin lyase and seven pro 
+teins identified as belonging to the auxiliary activities 
+grouping carbohydrate binding modules cbms were 
+identified on twelve of the predicted cazyme proteins 
+seven cbms were associated with glycoside hydrolase 
+assigned proteins and five cbms were appended with 
+carbohydrate esterase domains an additional pro 
+teins contained cbms but they were linked with no 
+identifiable cazyme domain a summary of these pro 
+teins and their closest blast hits is shown in table  
+all putative cazymes were of bacterial origin apart 
+from a carbohydrate esterase that showed similarity to 
+a protein from the protozoan ciliate stylonychia and a 
+lysozyme gh affiliated with tetrahymena family of 
+protozoan ciliates proteobacteria of the genera cellvi 
+brio and luteimonas made the largest contribution to 
+
+fig overview of proteins and transcripts assigned to cazymes a relative abundance of cazy families identified in metatranscriptome mt and 
+metasecretome mp of wheat straw compost‑derived communities b multi‑dimensional scaling mds plot of the transcripts encoding proteins 
+identified in metasecretome of wheat straw compost‑inoculated cultures distances correspond to leading log‑fold‑changes between each pair 
+of rna samples the leading log‑fold‑change is the average root‑mean‑square of the largest absolute log‑fold changes between each pair of 
+samples
+
+
+
+page of alessi et al biotechnol biofuels 
+
+ta
+bl
+
+e 
+ 
+
+ca
+rb
+
+oh
+yd
+
+ra
+te
+
+ a
+ct
+
+iv
+e 
+
+en
+zy
+
+m
+es
+
+ id
+en
+
+ti
+fie
+
+d 
+in
+
+ th
+e 
+
+m
+et
+
+as
+ec
+
+re
+to
+
+m
+e 
+
+of
+ a
+
+ w
+he
+
+at
+ s
+
+tr
+aw
+
+ d
+eg
+
+ra
+di
+
+ng
+ c
+
+om
+po
+
+st
+ d
+
+er
+iv
+
+ed
+ c
+
+om
+m
+
+un
+it
+
+y
+
+pr
+ot
+
+ei
+n 
+
+id
+pr
+
+ed
+ic
+
+te
+d 
+
+ do
+m
+
+ai
+na
+
+pr
+ed
+
+ic
+te
+
+d 
+ca
+
+zy
+ 
+
+cl
+as
+
+s
+
+d
+es
+
+cr
+ip
+
+tio
+n
+
+h
+it 
+
+ac
+ce
+
+ss
+io
+
+n
+e 
+
+va
+lu
+
+e
+se
+
+q 
+id
+
+ 
+ 
+
+ 
+co
+
+ve
+ra
+
+ge
+ 
+
+ 
+ 
+
+ta
+xo
+
+no
+m
+
+ic
+affi
+
+lia
+tio
+
+n
+ta
+
+xo
+no
+
+m
+ic
+
+ 
+ki
+
+ng
+do
+
+m
+
+pr
+ot
+
+ei
+ns
+
+ u
+ni
+
+qu
+e 
+
+to
+ b
+
+io
+tin
+
+‑la
+be
+
+lle
+d 
+
+fra
+ct
+
+io
+n
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ ‑
+c
+
+bm
+ 
+
+‑g
+h
+
+ 
+g
+
+h
+be
+
+ta
+‑ 
+
+ 
+‑x
+
+yl
+an
+
+as
+e
+
+ba
+d
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ps
+eu
+
+do
+m
+
+on
+as
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+ 
+c
+
+e
+es
+
+te
+ra
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+lu
+te
+
+im
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+a
+
+lp
+ha
+
+‑n
+‑a
+
+ra
+bi
+
+no
+fu
+
+ra
+no
+
+si
+da
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ps
+eu
+
+do
+xa
+
+nt
+ho
+
+m
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+en
+
+do
+gl
+
+uc
+an
+
+as
+e
+
+a
+if
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+al
+te
+
+ro
+m
+
+on
+ad
+
+ac
+ea
+
+e
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ ‑
+c
+
+bm
+ 
+
+‑g
+h
+
+ 
+g
+
+h
+en
+
+do
+‑ 
+
+ 
+‑b
+
+et
+a‑
+
+xy
+la
+
+na
+se
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ce
+llv
+
+ib
+rio
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+ce
+
+llo
+bi
+
+oh
+yd
+
+ro
+la
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ce
+
+llu
+lo
+
+m
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ ‑
+c
+
+bm
+ 
+
+‑g
+h
+
+ 
+g
+
+h
+ce
+
+llo
+bi
+
+oh
+yd
+
+ro
+la
+
+se
+a
+
+c
+e 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ce
+llv
+
+ib
+rio
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+h
+
+yp
+ot
+
+he
+tic
+
+al
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+lu
+
+te
+im
+
+on
+as
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+ 
+c
+
+e
+pe
+
+pt
+id
+
+as
+e 
+
+s 
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+lu
+
+te
+im
+
+on
+as
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ ‑
+c
+
+bm
+ 
+
+c
+bm
+
+en
+do
+
+‑ 
+ 
+
+‑b
+et
+
+a‑
+xy
+
+la
+na
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ce
+
+llv
+ib
+
+rio
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+h
+
+yp
+ot
+
+he
+tic
+
+al
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+h
+
+yp
+ho
+
+m
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+ i
+ 
+
+ 
+c
+
+e 
+ 
+
+c
+e
+
+h
+yp
+
+ot
+he
+
+tic
+al
+
+ p
+ro
+
+te
+in
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+lu
+te
+
+im
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+su
+
+bt
+ili
+
+si
+n‑
+
+lik
+e 
+
+pr
+op
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ae
+
+qu
+or
+
+iv
+ita
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+ 
+c
+
+e
+u
+
+nk
+no
+
+w
+n
+
+c
+d
+
+w
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+st
+
+yl
+on
+
+yc
+hi
+
+a
+eu
+
+ka
+ry
+
+ot
+a
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+ 
+g
+
+t 
+g
+
+t
+h
+
+yp
+ot
+
+he
+tic
+
+al
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+la
+
+ut
+ro
+
+pi
+a
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+sl
+h
+
+sl
+h
+
+s‑
+la
+
+ye
+r p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+tr
+ue
+
+pe
+ra
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+‑c
+
+bm
+ 
+
+g
+h
+
+ 
+ ‑
+
+be
+ta
+
+‑x
+yl
+
+an
+as
+
+e
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ce
+llv
+
+ib
+rio
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+g 
+ i
+
+ 
+ 
+
+c
+bm
+
+ ‑
+c
+
+bm
+ 
+
+c
+bm
+
+h
+yp
+
+ot
+he
+
+tic
+al
+
+ p
+ro
+
+te
+in
+
+es
+q
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+u
+nc
+
+ul
+tu
+
+re
+d 
+
+de
+su
+
+lfo
+‑
+
+fu
+st
+
+is
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+pe
+
+pt
+id
+
+og
+ly
+
+ca
+n‑
+
+bi
+nd
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+lu
+te
+
+im
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+ 
+c
+
+e
+h
+
+yp
+ot
+
+he
+tic
+
+al
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+so
+
+ra
+ng
+
+iu
+m
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+c
+
+a
+rd
+
+b 
+do
+
+m
+ai
+
+n‑
+co
+
+nt
+ai
+
+ni
+ng
+
+ p
+ro
+
+te
+in
+
+a
+ev
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+o
+w
+
+en
+w
+
+ee
+ks
+
+ia
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+sl
+h
+
+sl
+h
+
+h
+yp
+
+ot
+he
+
+tic
+al
+
+ p
+ro
+
+te
+in
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+fi
+sc
+
+he
+re
+
+lla
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ ‑
+g
+
+h
+ 
+
+g
+h
+
+en
+do
+
+‑ 
+ 
+
+‑b
+et
+
+a‑
+d
+
+‑g
+lu
+
+ca
+na
+
+se
+a
+
+c
+y 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+u
+nc
+
+ul
+tu
+
+re
+d 
+
+m
+ic
+
+ro
+or
+
+ga
+ni
+
+sm
+
+ c
+ 
+
+ 
+ 
+
+g 
+ i
+
+ 
+ 
+
+c
+bm
+
+ ‑
+c
+
+bm
+ 
+
+‑c
+e 
+
+c
+e
+
+h
+yp
+
+ot
+he
+
+tic
+al
+
+ p
+ro
+
+te
+in
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+m
+ar
+
+in
+im
+
+ic
+ro
+
+bi
+um
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+g 
+ i
+
+ 
+ 
+
+a
+a
+
+ 
+a
+
+a
+ca
+
+ta
+la
+
+se
+ p
+
+er
+ox
+
+id
+as
+
+e 
+h
+
+pi
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ 
+m
+
+yc
+ob
+
+ac
+te
+
+riu
+m
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+ 
+
+g
+h
+
+gf
+o 
+
+id
+h 
+
+m
+oc
+
+a
+ fa
+
+m
+ily
+
+ o
+xi
+
+do
+re
+
+du
+ct
+
+as
+e
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ch
+
+th
+on
+
+io
+ba
+
+ct
+er
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+a
+a
+
+ 
+a
+
+a
+n
+
+a
+d
+
+ph
+‑d
+
+ep
+en
+
+de
+nt
+
+ f
+m
+
+n
+ re
+
+du
+ct
+
+as
+e
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+ch
+th
+
+on
+io
+
+ba
+ct
+
+er
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+gl
+
+yc
+os
+
+yl
+ h
+
+yd
+ro
+
+la
+se
+
+ fa
+m
+
+ily
+ 
+
+ 
+pr
+
+ot
+ei
+
+n
+xp
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+te
+
+tr
+ah
+
+ym
+en
+
+a
+eu
+
+ka
+ry
+
+ot
+a
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+ce
+
+llo
+bi
+
+oh
+yd
+
+ro
+la
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ce
+
+llv
+ib
+
+rio
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+ 
+
+ ‑
+be
+
+ta
+‑d
+
+‑g
+lu
+
+ca
+n 
+
+gl
+uc
+
+oh
+yd
+
+ro
+la
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+lu
+te
+
+im
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+en
+
+do
+gl
+
+uc
+an
+
+as
+e
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ce
+llv
+
+ib
+rio
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+d
+
+u
+f 
+
+ 
+ 
+
+do
+m
+
+ai
+n‑
+
+co
+nt
+
+ai
+ni
+
+ng
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ce
+
+llv
+ib
+
+rio
+ba
+
+ct
+er
+
+ia
+
+
+
+page of alessi et al biotechnol biofuels 
+
+ta
+bl
+
+e 
+ 
+
+ c
+on
+
+ti
+nu
+
+ed
+ 
+
+pr
+ot
+
+ei
+n 
+
+id
+pr
+
+ed
+ic
+
+te
+d 
+
+ do
+m
+
+ai
+na
+
+pr
+ed
+
+ic
+te
+
+d 
+ca
+
+zy
+ 
+
+cl
+as
+
+s
+
+d
+es
+
+cr
+ip
+
+tio
+n
+
+h
+it 
+
+ac
+ce
+
+ss
+io
+
+n
+e 
+
+va
+lu
+
+e
+se
+
+q 
+id
+
+ 
+ 
+
+ 
+co
+
+ve
+ra
+
+ge
+ 
+
+ 
+ 
+
+ta
+xo
+
+no
+m
+
+ic
+affi
+
+lia
+tio
+
+n
+ta
+
+xo
+no
+
+m
+ic
+
+ 
+ki
+
+ng
+do
+
+m
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+c
+e
+
+s 
+ fa
+
+m
+ily
+
+ p
+ep
+
+tid
+as
+
+e
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+lu
+te
+
+im
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+g
+
+ly
+co
+
+si
+de
+
+ h
+yd
+
+ro
+la
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+g
+
+ilv
+im
+
+ar
+in
+
+us
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+ce
+
+llu
+lo
+
+se
+ 
+
+ 
+‑b
+
+et
+a‑
+
+ce
+llo
+
+bi
+os
+
+id
+as
+
+e
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+th
+er
+
+m
+oa
+
+na
+er
+
+ob
+ac
+
+te
+ 
+
+riu
+m
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+o
+w
+
+en
+w
+
+ee
+ks
+
+ia
+ba
+
+ct
+er
+
+ia
+
+pr
+ot
+
+ei
+ns
+
+ u
+ni
+
+qu
+e 
+
+to
+ s
+
+up
+er
+
+na
+ta
+
+nt
+ fr
+
+ac
+tio
+
+n
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+d
+o
+
+c
+ke
+
+ri
+n
+
+d
+oc
+
+ke
+rin
+
+n 
+d
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ 
+ch
+
+ry
+se
+
+ob
+ac
+
+te
+riu
+
+m
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+g 
+ i
+
+ 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+h
+
+yp
+ot
+
+he
+tic
+
+al
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ 
+fl
+
+av
+ob
+
+ac
+te
+
+riu
+m
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+m
+
+ar
+in
+
+ira
+di
+
+us
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+a
+a
+
+ 
+a
+
+a
+n
+
+a
+d
+
+ph
+‑d
+
+ep
+en
+
+de
+nt
+
+ o
+xi
+
+do
+re
+
+du
+ct
+
+as
+e
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ps
+
+eu
+do
+
+m
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+pl
+ ‑
+
+pl
+ 
+
+pl
+n
+
+itr
+ou
+
+s 
+ox
+
+id
+as
+
+e 
+ac
+
+ce
+ss
+
+or
+y 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+o
+w
+
+en
+w
+
+ee
+ks
+
+ia
+ba
+
+ct
+er
+
+ia
+
+pr
+ot
+
+ei
+ns
+
+ c
+om
+
+m
+on
+
+ b
+et
+
+w
+ee
+
+n 
+bi
+
+ot
+in
+
+‑la
+be
+
+lle
+d 
+
+an
+d 
+
+su
+pe
+
+rn
+at
+
+an
+t f
+
+ra
+ct
+
+io
+ns
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+to
+
+nb
+‑d
+
+ep
+en
+
+de
+nt
+
+ re
+ce
+
+pt
+or
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ps
+eu
+
+do
+xa
+
+nt
+ho
+
+m
+on
+
+as
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+ce
+
+llo
+bi
+
+oh
+yd
+
+ro
+la
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+m
+
+ar
+in
+
+im
+ic
+
+ro
+bi
+
+um
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+ca
+
+rb
+oh
+
+yd
+ra
+
+te
+‑b
+
+in
+di
+
+ng
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ce
+
+llv
+ib
+
+rio
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+‑c
+bm
+
+ 
+c
+
+bm
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ru
+ne
+
+lla
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+yc
+
+ei
+ fa
+
+m
+ily
+
+ p
+ro
+
+te
+in
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ce
+llv
+
+ib
+rio
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+a
+a
+
+ 
+a
+
+a
+fa
+
+d
+‑b
+
+in
+di
+
+ng
+ p
+
+ro
+te
+
+in
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+sa
+nd
+
+ar
+ac
+
+in
+us
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+m
+oh
+
+ei
+ba
+
+ct
+er
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+ 
+c
+
+e
+h
+
+yp
+ot
+
+he
+tic
+
+al
+ p
+
+ro
+te
+
+in
+pc
+
+j 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+fl
+av
+
+ob
+ac
+
+te
+ria
+
+le
+s
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+g
+h
+
+ 
+g
+
+h
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+m
+oh
+
+ei
+ba
+
+ct
+er
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+g 
+ i
+
+ 
+ 
+
+g
+h
+
+ 
+g
+
+h
+ex
+
+og
+lu
+
+ca
+na
+
+se
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ce
+llu
+
+lo
+m
+
+on
+as
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+c
+e
+
+fe
+ru
+
+lo
+yl
+
+ e
+st
+
+er
+as
+
+e
+w
+
+p 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ e
+
+‑ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+fi
+br
+
+ob
+ac
+
+te
+r
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+bm
+
+ 
+c
+
+bm
+t 
+
+ss
+ c
+
+‑t
+er
+
+m
+in
+
+al
+ ta
+
+rg
+et
+
+ d
+om
+
+ai
+n‑
+
+co
+nt
+
+ai
+n‑
+
+in
+g 
+
+pr
+ot
+
+ei
+n
+
+w
+p 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+cr
+
+oc
+in
+
+ito
+m
+
+ix
+ba
+
+ct
+er
+
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+sl
+h
+
+sl
+h
+
+h
+yp
+
+ot
+he
+
+tic
+al
+
+ p
+ro
+
+te
+in
+
+o
+g
+
+i 
+ 
+
+ 
+ 
+
+ e
+‑ 
+
+ 
+ 
+
+ 
+ 
+
+n 
+d
+
+ba
+ct
+
+er
+ia
+
+ c
+ 
+
+ 
+ 
+
+ g
+ 
+
+i 
+ 
+
+c
+e 
+
+c
+e
+
+n 
+d
+
+a 
+d
+
+om
+ai
+
+n 
+st
+
+ru
+ct
+
+ur
+e 
+
+fo
+r e
+
+ac
+h 
+
+pr
+ot
+
+ei
+n 
+
+w
+as
+
+ p
+re
+
+di
+ct
+
+ed
+ b
+
+as
+ed
+
+ o
+n 
+
+ca
+zy
+
+ d
+at
+
+ab
+as
+
+e 
+se
+
+ar
+ch
+
+es
+
+
+
+page of alessi et al biotechnol biofuels 
+
+detected cazymes in the metasecretome by producing 
+ of identified putative cazymes 
+
+the molar abundance of the cazyme assigned pro 
+teins in both the biotin labelled fraction and the super 
+natant accounted for of the total metasecretome 
+the importance of analysing the biotin labelled fraction 
+was demonstrated by the greater diversity of cazyme 
+assigned proteins observed compared to the superna 
+tant fraction alone just eighteen of the proteins with 
+cazyme domains were identified in the supernatant 
+whilst were identified in the biotin labelled fraction 
+there was however no significant difference in molar 
+abundance of cazymes detected between these sam 
+ples in part due to the abundance of a predicted pecti 
+nase that was found in supernatant fractions at a molar 
+abundance of in comparison to in the bio 
+tin labelled fractions 
+
+we then analysed the production of lignocellulose 
+degrading enzymes by the wheat straw degrading micro 
+bial community over time fig   in the early stage of 
+wheat straw degradation the community produced xyla 
+nases and cellulases from families gh these 
+were predominantly identified within the biotin labelled 
+metasecretome fractions and represented a total of 
+of the molar abundance of identified proteins in the first 
+week the relative abundance of these putative xylan and 
+cellulose degrading enzymes receded throughout the 
+time course falling to by the third week and 
+by the sixth a putative gh cellobiohydrolase from the 
+proteobacteria genus cellvibrio was the most abundant 
+glycoside hydrolase in the biotin labelled samples and 
+the only hypothetical cellulase to persist in the cultures 
+throughout the week culture period without significant 
+reduction interestingly this protein contains a long ser 
+ine repeat at the n terminus—a characteristic that was 
+found in multiple proteins within the secretome all of 
+which were predicted to have lignocellulolytic or hypo 
+thetical functions 
+
+in contrast to the first week of incubation when pro 
+teins with similarities to cellulose and xylan degrad 
+ing enzymes were dominant the two most abundant 
+cazymes in the third week were identified as belonging 
+to the ce family a family whose known members are 
+exclusively pectin methylesterases this apparent upreg 
+ulation of proteins relating to pectin degradation in the 
+third week was also demonstrated by the appearance of 
+a polysaccharide lyase pl which has been character 
+ized as containing activities including pectate degrada 
+tion by the third week of incubation the abundance of 
+chitinases and enzymes relating to peptidoglycan degra 
+dation had also significantly increased suggesting a turn 
+over of microbial biomass within the community 
+
+similarly the metatranscriptome database was 
+searched for cazy encoding genes overall orfs 
+ of the total predicted orfs in the metatranscrip 
+tome were assigned as putative carbohydrate active 
+enzymes belonging to different cazy families 
+the transcripts containing carbohydrate binding mod 
+ules cbm family were the most abundant 
+cazymes in the metatranscriptome family cbm is 
+poorly characterized but is predicted to participate in 
+binding cellulose xyloglucan the second most abun 
+dant group of cazymes in the metatranscriptome was 
+cbm which are attached to many ghs that cleave 
+either chitin or peptidoglycan in contrast the third most 
+abundant group of cazyme transcripts encoded gly 
+cosyltransferases gt from family members 
+of this gt family show activity towards the synthesis of 
+various oligo and polysaccharides including cellulose 
+chitin and peptidoglycan amongst the most abundant 
+glycosyl hydrolases were α n acetylgalactosaminidase 
+from gh and lysozymes from gh and 
+gh which suggests significant competition within the 
+community in agreement with the previously described 
+meta proteome 
+
+discussion
+lignocellulose degrading communities in environments 
+like soil and compost are known to contain organ 
+isms that represent all domains of life and are involved 
+in nutrient recycling including heterotrophic carbon 
+consumption and turnover of fixed carbon during deg 
+radation of plant biomass in this study we used 
+compost to inoculate shake flasks containing wheat 
+straw as the sole carbon source a significant reduction 
+of the wheat straw biomass demonstrated that the micro 
+bial community had successfully colonized and utilized 
+wheat straw as a carbon source an increase in ph was 
+observed over the course of the incubations the alkaliza 
+tion during lignocellulose degradation has been reported 
+previously with the degradation of carboxylic acids and 
+phenols causing an increase in ph from neutral range 
+to alkaline it has also been reported that although lig 
+nocellulose mineralization occurs preferably in neutral 
+or slightly acid environments the lignin solubilization 
+and lignin by products release are greatest when the ph 
+is alkaline in addition studies have shown that 
+multiple carbohydrate active enzymes express alkaliphi 
+lic behaviour and are most active in higher ph ranges 
+ increase in external ph in our batch cultures 
+might be also attributed to protein degradation as excess 
+ammonia generated during amino acid catabolism may 
+be secreted into the medium furthermore the bacterial 
+community in liquid cultures with a limited and hard to 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+access carbon source are likely to have a decreased respi 
+ration rate that would prevent acidogenesis 
+
+to identify key members of the lignocellulose degrad 
+ing community and monitor the changes in the com 
+munity composition at sampled time points amplicon 
+sequencing of s and s ssu rrna was performed 
+targeted amplicon sequencing of these regions has been 
+widely used to predict relative abundance of prokaryotic 
+and eukaryotic microorganisms the num 
+ber of otus constructed during this study is significantly 
+higher than reported elsewhere and the depth of 
+sequencing approach increased the sensitivity of detect 
+ing otus giving a deeper insight into the complexity of 
+the microbial community 
+
+the most striking changes to the community structure 
+occurred during the transfer of the solid state compost 
+inoculum to liquid cultures the eukaryotic community 
+in the compost inoculum resembled forest soil commu 
+nities with a small contribution from the ‘protists’ 
+group this community structure underwent a dramatic 
+transformation once transferred to liquid medium fungi 
+which are one of the major contributors to lignocellulose 
+degradation in the terrestrial environment were seen 
+to decrease to less than of the total otus 
+whilst the eukaryotic community in the liquid cultures 
+was instead dominated by protists these protists were 
+assigned to the genus telotrochidium a peritrich ciliate 
+which is known to thrive in liquid environments in 
+
+fig overview on metasecretome from wheat straw degrading compost‑derived community a and b venn diagrams on unique and shared 
+proteins in biotin‑labelled bf and supernatant snt fraction from week and c distribution of carbohydrate‑active enzymes across the 
+ ‑week course in biotin‑labelled bf and supernatant snt fractions rows are coloured by the z‑score of the molar percentage of each detectable 
+protein and the attached dendrogram displays bray–curtis clustering
+
+
+
+page of alessi et al biotechnol biofuels 
+
+contrast many of the fungal otus which dominated the 
+inoculum were from the phylum ascomycota and as such 
+are expected to be xerophilic and hence transfer to 
+the liquid medium may have impaired their growth in 
+addition to changing the community composition trans 
+fer from the solid state to a liquid culture also reduced 
+the number of distinct otus detectable within both the 
+eukaryotic and prokaryotic communities as a result of 
+the enrichment process the three most abundant bacte 
+rial genera were asticcacaulis leadbetterella and truep 
+era the genus asticcacaulis has been found to be highly 
+abundant in lignocellulolytic consortia from decaying 
+wood canal sediment soil and forest litter and com 
+posted sugarcane bagasse asticcacaulis produce 
+lignocellulose modifying enzymes such as glucosidases 
+galactosidases and xylosidases and actively degrade plant 
+materials similarly bacteroidetes of genus leadbet 
+terella are capable of degrading starch and a variety of 
+other saccharides and have previously been isolated from 
+cotton waste compost and samples associated with lig 
+nocellulose degradation in leaf cutter ant refuse dumps 
+ finally a higher abundance of thermi in week 
+was possibly due to the depletion of easily available car 
+bon sources and the increasing ph the genus truepera 
+belonging to the deinococcus thermus phylum is less 
+often associated with plant cell wall degradation but has 
+recently been reported in compost enrichment sam 
+ples truepera isolates are known to resist harsh 
+growth conditions including high ph and temperature 
+and exposure to toxic compounds which could drive 
+their proliferation in the wheat straw liquid cultures in 
+later stages of the experiment 
+
+though the protists dominated the eukaryotic com 
+munity within the cultures the extent of which they are 
+directly involved in lignocellulose degradation remains 
+unclear though some protists and their bacterial endo 
+symbionts have been reported as active producers of lig 
+nocellulolytic enzymes in the termite gut and cow 
+rumen with no known lignocellulose degrading pro 
+teins from protist detected in the metasecretomes their 
+role in the wheat straw liquid cultures may be predatory 
+in line with previously reported results 
+
+much of the functionality of lignocellulose degrada 
+tion appeared to be driven by the prokaryotic commu 
+nity the dominance of bacteroidetes and proteobacteria 
+in the wheat straw cultures is similar to previous studies 
+ and although the representation of proteobacteria 
+decreased during the time course members of this phy 
+lum specifically from orders pseudomonadales rhizobi 
+ales and xanthomonadales contributed to the majority 
+of the secreted proteins here the genera cellvibrio and 
+luteimonas appeared to contribute significantly to ligno 
+cellulose degradation by providing array of cazymes in 
+
+line with previous studies these genera however 
+appeared to be present in low relative abundance based 
+on the s evaluation whilst genera that produced the 
+most membrane transporters such as leadbetterella 
+ bacteroidetes and α proteobacteria devosia mes 
+orhizobium and rhizobium accounted for the majority of 
+the s sequencing reads 
+
+the release of carbon from the wheat straw over time 
+appeared to be sequential in the first week consistent 
+with the observation that both the xylanase and cellulose 
+activities peak within this time point the majority of cel 
+lulases and xylanases related proteins are found within 
+the metasecretome subsequently a rise in the number of 
+proteins related to chitin and pectin degradation occurred 
+  weeks post inoculation perhaps signifying a change in 
+nutrient acquisition strategy as the easily accessible plant 
+cell wall polysaccharides are removed wheat straw con 
+tains c a of pectin which is partially acetylated and 
+has a low level of methoxylation but a moderate con 
+tent of galacturonic acid alkaline pre treatment 
+studies on wheat straw showed a higher removal rate of 
+hemicellulose than pectin fraction suggesting that this 
+polysaccharide is more recalcitrant to degradation 
+others also showed that reduction of de methyl esterified 
+homogalacturonan pectin in plants increases the effi 
+ciency of enzymatic saccharification reducing the need of 
+biomass pre treatment – the observation that pec 
+tin related enzymes such as those belonging to the ce 
+family and pectin lyase class are present   weeks post 
+inoculation is intriguing however not unprecedented as 
+pectinolytic enzymes have been reported as being preva 
+lent in composting microbial communities 
+
+other interesting targets for further characterization 
+are proteins with predicted carbohydrate binding 
+modules and no identifiable cazyme domain attached 
+raising the possibility for the discovery of new enzymatic 
+domains 
+
+further targets for the discovery of new lignocellu 
+lose degrading enzymes were identifiable using a biotin 
+affinity labelling that targets proteins bound to wheat 
+straw via carbohydrate binding modules we previously 
+described the advantage of this affinity tagging approach 
+to identify lignocellulose active proteins bound tightly to 
+their substrates which render them unobservable using 
+traditional extraction techniques by sequencing 
+the biotin labelled fraction we were able to increase the 
+number of carbohydrate active enzymes observed in our 
+analysis by over 
+
+conclusion
+in summary the work presented here offers an insight 
+into the microbial digestion of wheat straw and dynamic 
+microbial communities that govern the process though 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+much of the full functionality of the microbial com 
+munity remains unclear due to the complex nature of 
+the samples and the difficulties in assigning divergent 
+sequences functions broad patterns of lignocellulo 
+lytic enzyme production have been described through 
+out a week time course along with the identification 
+of proteins which could convey novel functions against 
+lignocellulose 
+
+materials and methods
+compost liquid cultures
+wheat straw compost that had been enriched by periodic 
+addition of straw over a period of  months was used as 
+an inoculum for the cultures the compost was mixed 
+thoroughly and homogenized using an electric blender 
+flasks litre containing  ml of mineral medium per 
+litre kcl—  g kh po —  g k hpo —  g 
+ mgso —   g nano —   g × hutner’s trace 
+elements—  ml ph and w v wheat straw as a 
+sole carbon source were inoculated with w v of the 
+compost material cultures three independent biological 
+replicates were used were incubated at  °c at  rpm 
+for   weeks weekly aliquots   ml were harvested to 
+collect wheat straw biomass and culture supernatant by 
+centrifugation at ×g at   °c for   min the latter 
+fractions were processed separately for nucleic acids and 
+protein extraction 
+
+nucleic acid extraction and purification
+total nucleic acids dna and rna extraction from 
+freshly collected aliquots of the wheat straw cultures 
+were performed using an adapted protocol by grif 
+fiths et  al briefly   g of wheat straw material 
+from the liquid cultures was lysed by bead beating qia 
+gen tissuelyser ii  min at speed s in a presence 
+of   ml ctab solution ctab in   m nacl 
+  mm potassium phosphate buffer ph and  ml 
+of phenol chloroform isoamyl alcohol ph 
+ subsequently tubes were centrifuged at ×g 
+for   min at   °c the aqueous phase was collected and 
+extracted with volume of chloroform isoamyl alcohol 
+ the nucleic acid was precipitated by adding vol 
+umes of   m nacl peg buffer and samples 
+were incubated overnight at  °c the pellet was washed 
+twice with ice cold ethanol and once dried was 
+resuspended in rnase dnase free water samples were 
+stored at −   °c 
+
+processing dna samples for community profiling 
+and analysis
+prokaryotic primers s d bact a s ayt ggg 
+ydtaaagng and s d bact b a tacn 
+vggg tat cta atc c and eukaryotic primers 
+
+f ata aca ggt ctg tga tgc and r tac 
+aaa ggg cag gga cgt aat were used to 
+amplify the s and s ssu rrna genes respectively 
+the reactions were carried out in   µl volumes con 
+taining   µm of dntps   µm of each primer 
+u phusion high fidelity dna polymerase finnzymes 
+oy espoo finland and × phusion hf buffer contain 
+ing   mm mgcl the following pcr conditions were 
+used initial denaturation at   °c for   min followed 
+by cycles consisting of denaturation   °c for   s 
+annealing  s and extension  °c for  s and a final 
+extension step at  °c for  min annealing temperature 
+for s primer pair was set at   °c and for s primer 
+pair was set to   °c the expected amplicon sizes for 
+ s and s rrna gene were and   bp respec 
+tively the quantity and quality of the purified pcr prod 
+ucts were analysed by agilent tape station using agilent 
+dna kit the sequencing was performed by the 
+biorenewables development centre bdc york using 
+the ion torrent platform the individual sequence reads 
+were filtered using the pgm software to remove low 
+quality reads and polyclonal reads sequences match 
+ing the pgm barcodes were trimmed and fastq format 
+files were produced for processing using qiime 
+the split library py script was applied to remove prim 
+ers exclude poor quality reads q and sequences 
+outside the defined read length the chimeric sequenced 
+were removed using usearch the remaining non 
+chimeric sequences were clustered by pick open refer 
+ence otus py into otus operational taxonomic units 
+at similarity using uclust as a clustering method 
+the bacterial otus were taxonomically annotated using 
+greengenes gg march database the eukary 
+otic otus were assigned to taxonomy using silva 
+database biom formatted otu tables were created 
+and filtered to exclude otus containing fewer than ten 
+sequences alpha diversity was evaluated by rarefaction 
+curves to the maximum sequence depth obtained per 
+sample and additionally by calculating indices includ 
+ing chao richness shannon and simpson diversity 
+and number of otus observed species using relevant 
+qiime scripts raw reads in fastq format were submit 
+ted to the european nucleotide archive ena and are 
+available under accession number prjeb 
+
+processing rna samples for metatranscriptomics 
+sequencing and analysis
+rna extracted from the samples was treated with rts 
+dnase mobio followed by elimination of small rnas 
+and purification zymo research the quality and quan 
+tity of rna samples was assessed using an agilent tape 
+station with agilent rna screen tape a   µg sample 
+of total rna was used for mrna enrichment epicentre 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+epidemiology ribosomal rna depleted samples were 
+purified zymo research and their profile assessed 
+by agilent bioanalyser mrna analysis samples were 
+sequenced at the earlham institute previously tgac 
+norwich uk using illumina hiseq  technology 
+nine ×   bp illumina trueseq rna libraries were 
+generated million reads combined with an aver 
+age insert size of  bp additional file  table s the 
+sequenced libraries were searched against silva 
+database to identify ribosomal rna genes using bowtie 
+software on average ± of the cdna 
+sequences were identified as ribosomal rna ranging 
+from to as reported in other metatran 
+scriptomic studies the depletion of rrna from 
+the total rna samples was not sufficient especially in 
+early time points possibly due to unsuccessful removal 
+of protozoan rrna those reads as well as orphans and 
+poor quality sequences were removed with the ngss 
+hort software and pooled prior assembly with de novo 
+trinity package the total number of reads used 
+for assembly was million which resulted in 
+contigs with an average length of   bp open 
+reading frames orfs were predicted using emboss 
+orf finder the abundance of each transcript from every 
+sequenced library was defined as est count which was 
+subsequently normalized to count per million the map 
+ping of original individual libraries to the trinity tran 
+scriptomic assembly was done with the bwa software to 
+estimate raw counts for individual contig in each library 
+the wheat straw metatranscriptome has been depos 
+ited to the ena and is available under accession number 
+prjeb 
+
+processing protein samples for metasecretome analysis
+fractionated metasecretome samples of the wheat straw 
+cultures were prepared and analysed as described pre 
+viously briefly soluble extracellular proteins were 
+obtained by precipitation with five volumes on ice cold 
+acetone of the culture supernatant which was clari 
+fied and filtered sterilized  µm pes filter unit prior 
+extraction the concentrated protein pellet was washed 
+twice with ice cold acetone air dried and resus 
+pended in × pbs  mm nacl  mm kcl  mm 
+ na hpo  mm kh po ph buffer 
+
+cell wall bound and biomass adherent proteins were 
+labelled using sulfo nhs ss biotin and affinity purified 
+two grams of washed × pbs wheat straw biomass 
+was resuspended in × pbs supplemented with  mm 
+ez link sulfo nhs ss biotin thermo scientific fol 
+lowing h incubation at  °c on the rotator the reaction 
+was stopped by the addition of  mm tris–hcl ph 
+the residual biotin was removed by a biomass wash 
+ing with ice cold × pbs twice for a total protein 
+
+extraction pre warmed sds   °c was added and 
+samples were incubated for   h at room temperature 
+the mixture was centrifuged and proteins were precipi 
+tated as described above biotin labelled protein pellets 
+were solubilized in × pbs  mm nacl  mm kcl 
+   mm na hpo   mm kh po containing 
+sds and passed through a µm pes filter unit before 
+being loaded onto pre washed sds in × pbs 
+buffer streptavidin columns ge thermo 
+scientific proteins were incubated on the column for  h 
+at  °c to aid binding before being washed with sds 
+in × pbs columns were incubated overnight at   °c 
+with elution buffer of  mm dtt in × pbs sequen 
+tial elution of proteins from the streptavidin column was 
+done by loading times   ml   mm dtt in × pbs 
+collecting the fraction and incubating the column for  h 
+before next elution eluted fractions were freeze dried 
+resuspended in   ml distilled water and desalted zeba 
+  k mwco thermo scientific supernatant and biotin 
+labelled protein samples were subjected to sds page on 
+ – bis–tris gels and protein bands were excised and 
+cut into mm pieces which were stored at −   °c prior 
+to analysis 
+
+lc–ms ms analysis was performed and peptides were 
+identified using the mascot search engine against pro 
+tein sequences from the metatranscriptomics database as 
+described before 
+
+wheat straw biomass analysis
+fourier transform infrared ftir and nuclear magnetic 
+resonance nmr analysis were carried out on ground 
+freeze dried wheat straw material obtained from the 
+wheat straw cultures ftir analysis was performed using 
+spectrum one perkin elmer equipped with a diamond 
+top plate accessory that enables analysis of powdered 
+materials dried and ground wheat straw taken from 
+the culture flasks was applied directly to the diamond 
+and pressed using a pressure arm spectra were acquired 
+for the wavenumber range –   cm− at the spec 
+tral resolution  cm− and scans were taken for each 
+spectrum three spectra were obtained for each sample 
+and the triplicate averaged spectrum was used to per 
+form principal component analysis pca using the 
+unscrambler software camo spectra were peak nor 
+malized and were linear corrected before performing 
+pca nuclear magnetic resonance nmr experiments 
+were performed using a bruker avance spectrom 
+eter equipped with a bruker mm mas double res 
+onance probe head at c and h frequencies of 
+and   mhz respectively the spinning frequencies 
+ at  khz were controlled by a pneumatic system that 
+ensures a rotation stability higher than   hz typical 
+π pulse lengths of and  µs were applied for c 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+and h respectively proton decoupling field strength of 
+γb π  khz was used c quantitative spectra were 
+measured by using the multiple cp multicp method 
+described by johnson and schmidt rohr a total 
+of nine cp blocks were implemented with  ms and rf 
+amplitude increment – while the last cp before 
+acquisition was executed with   ms and the same 
+amplitude increment the recycle delay was   s and the 
+duration of the repolarization period tz was  s to 
+aid in the analyses of the ssnmr results the multivariate 
+curve resolution mcr procedure was carried out 
+using the software the unscrambler x® v camo 
+software as the basic goals of mcr are as follows the 
+determination of the number of components co existing 
+in the chemical system the extraction of the pure spectra 
+of the components qualitative analysis and the extrac 
+tion of the concentration profiles of the components 
+ quantitative analysis this analysis is preceded by prin 
+cipal component analysis pca to estimate the number 
+of components in the mixture after this the rotation of 
+the pc is calculated without orthonormality constrains 
+ in this way it will have infinite solutions to solve this 
+new constrains are adopted e g non negative concen 
+trations and non negative spectra in this way when the 
+goals of mcr are achieved it is possible to unravel the 
+“true” underlying sources of data variation and then the 
+results with physical meaning are easily interpretable 
+
+enzyme activity
+release of reducing sugars was determined with lever 
+assay filtered sterilized μm pes filter unit 
+culture supernatant was incubated with w v of the 
+appropriate polysaccharide substrate in  mm sodium 
+phosphate buffer ph at  °c for different time inter 
+vals the reaction was stopped by adding p hydrobenzoic 
+acid pahbah reagent followed by heating at  °c for 
+  min the release of reducing sugars was determined in 
+a microtitre plate tecan sunrise plate reader at  nm 
+dilutions of a stock solution of   mg ml of glucose or 
+xylose were assayed to obtain a standard curve 
+
+data analysis
+nucleotide sequences for contigs identified by mascot 
+database searching as having matches to observed pro 
+teins were retrieved from the metatranscriptomic data 
+bases using blast standalone emboss 
+application getorf was used to generate all possible open 
+reading frames orfs from these matched contigs 
+defined as any region bases between a start atg 
+and stop codon these orf libraries were converted 
+into amino acid sequences and then used as the databases 
+for a second round of searches with the original tandem 
+
+mass spectral data results were filtered through mas 
+cot percolator and adjusted to accept only peptides with 
+an expect score of or lower an estimation of rela 
+tive protein abundance was performed as described by 
+ishihama molar percentage values were calculated 
+by normalizing the mascot derived empai values against 
+the sum of all empai values for each sample 
+
+protein sequences from orfs identified as being 
+present in the metasecretomes were annotated using 
+blastp searching against the non redundant ncbi 
+database with an e value threshold of × − the 
+blastx xml output files were used to taxonomi 
+cally assign metasecretome in megan 
+and compare taxonomic distribution between time 
+points and proteome fraction additionally protein 
+sequences were annotated using dbcan to iden 
+tify likely carbohydrate active domains if alignment 
+length aa e value × − was used otherwise 
+e value × − was applied subcellular localisa 
+tion was predicted using tmhmm v and sig 
+nalp v servers with default cut off values the 
+protein sequences were functionally annotated using 
+webmga server and rpsblast program on cog 
+database venn diagrams were constructed using 
+package venndiagram v in r hierarchical clus 
+tering was performed using package ecodist v 
+ or vegan v in r to evaluate the relationship 
+between samples based on the otu counts protein 
+molar abundance and expression pattern heatmaps 
+were constructed using ggplot v package in r 
+
+abbreviations
+ftir fourier transform infrared spectroscopy pca principal component 
+analysis ssnmr solid‑state nuclear magnetic resonance mt metatranscrip‑
+tome lc–ms ms liquid chromatography‑tandem mass spectrometry otu 
+operational taxonomic unit cog cluster of orthologous group lpmo lytic 
+polysaccharide monooxygenase cazy carbohydrate‑active enzymes gh 
+
+additional files
+
+additional file  table s number of sequences otus and alpha 
+indices from ion torrent sequencing of s and s amplicons of sam‑
+ples table s number of raw rrna and quality filtered sequences from 
+the rna‑seq metatranscriptomics table s number of unassigned and 
+assigned spectra through analysis of biotin‑labelled bf and supernatant 
+ snt fractions of the wheat straw cultures 
+
+additional file   figure s morphological changes of the wheat 
+straw biomass collected from weekly time points figure s rarefaction 
+analysis of prokaryotic a and eukaryotic b community from the wheat 
+straw cultures based on rrna amplicon sequencing figure s overview 
+of the wheat straw degrading community metatranscriptome figure s 
+overview of the metasecretome of wheat straw degrading commu‑
+nity figure s comparison of clusters of orthologous groups cogs in 
+the metasecretome mp and metatranscriptome mt 
+
+additional file  overview of proteins detected in the metasecretome of 
+the wheat straw compost‑derived community 
+
+http doi org s 
+http doi org s 
+http doi org s 
+
+
+page of alessi et al biotechnol biofuels 
+
+glycosyl hydrolase aa auxiliary activities cbm carbohydrate‑binding module 
+gt glycosyl transferase pl polysaccharide lyase orf open reading frame 
+
+authors’ contributions
+ams smb designed and performed wheat straw experiment ama nco ana‑
+lysed the data and drafted the manuscript yl performed rna‑assembly and 
+assist with bioinformatics analysis of rna‑seq data aad performed the mass 
+spectrometry and assisted with the ms ms analysis ncb and sjmm conceived 
+the idea designed experiments provided expertise ip ehn era assisted with 
+nmr data analysis and provided expertise jpb and jpwy provided expertise 
+all authors read edited and approved final manuscript 
+
+author details
+ department of biology centre for novel agricultural products university 
+of york york yo dd uk department of biology bioscience technology 
+facility university of york york yo dd uk embrapa solos rio de janeiro 
+rj brazil grupo de biotecnologia molecular instituto de física de são carlos 
+universidade de são paulo são carlos sp brazil department of biology 
+university of york york yo dd uk 
+
+acknowledgements
+this work was funded by biotechnology and biological sciences research 
+council bbsrc grants bb bb k and bb p the 
+bbsrc network in biotechnology and bioenergy biocatnet and são paulo 
+research foundation fapesp grant ‑ erda thanks embrapa 
+instrumentation são carlos and dr luiz alberto colnago for providing the 
+nmr facility and cnpq grant ‑ the authors would like to thank 
+deborah rathbone and susan heywood from the biorenewables develop‑
+ment centre for technical assistance in rrna amplicon sequencing 
+
+competing interests
+the authors declare that they have no competing interests 
+
+availability of data and materials
+all sequencing data are available from the european nucleotide archive 
+database accession numbers for metatranscriptomics dataset and amplicon 
+sequencing are prjeb and prjeb respectively 
+
+consent for publication
+all authors consent to the publication of this manuscript 
+
+ethics approval and consent to participate
+not applicable 
+
+publisher’s note
+springer nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations 
+
+received january accepted june 
+
+references
+ lópez‑gonzález ja lópez mj vargas‑garcía mc suárez‑estrella f jurado 
+
+m moreno j tracking organic matter and microbiota dynamics during 
+the stages of lignocellulosic waste composting bioresour technol 
+ – 
+
+ lynd lr weimer pj van zyl wh pretorius is microbial cellulose 
+utilization fundamentals and biotechnology microbiol mol biol rev 
+ – 
+
+ neher da weicht tr bates st leff jw fierer n changes in bacterial and 
+fungal communities across compost recipes preparation methods and 
+composting times plos one e 
+
+ jiménez dj chaves‑moreno d van elsas jd unveiling the metabolic 
+potential of two soil‑derived microbial consortia selected on wheat 
+straw sci rep 
+
+ jiménez dj de lima brossi mj schückel j kračun sk willats wgt van 
+elsas jd characterization of three plant biomass‑degrading microbial 
+
+consortia by metagenomics‑ and metasecretomics‑based approaches 
+appl microbiol biotechnol 
+
+ heiss‑blanquet s fayolle‑guichard f lombard v hébert a coutinho pm 
+groppi a et al composting‑like conditions are more efficient for enrich‑
+ment and diversity of organisms containing cellulase‑encoding genes 
+than submerged cultures plos one e 
+
+ wang c dong d wang h müller k qin y wang h et al metagenomic 
+analysis of microbial consortia enriched from compost new insights into 
+the role of actinobacteria in lignocellulose decomposition biotechnol 
+biofuels 
+
+ antunes lp martins lf pereira rv thomas am barbosa d lemos ln et al 
+microbial community structure and dynamics in thermophilic compost‑
+ing viewed through metagenomics and metatranscriptomics sci rep 
+ 
+
+ garber m grabherr mg guttman m trapnell c computational methods 
+for transcriptome annotation and quantification using rna‑seq nat 
+methods – 
+
+ franzosa ea hsu t sirota‑madi a shafquat a abu‑ali g morgan xc et al 
+sequencing and beyond integrating molecular “omics” for microbial 
+community profiling nat rev microbiol – 
+
+ mcnulty np yatsunenko t hsiao a faith jj muegge bd goodman al 
+et al the impact of a consortium of fermented milk strains on the gut 
+microbiome of gnotobiotic mice and monozygotic twins sci transl med 
+ ra 
+
+ mason ou hazen tc borglin s chain psg dubinsky ea fortney jl et al 
+metagenome metatranscriptome and single‑cell sequencing reveal 
+microbial response to deepwater horizon oil spill isme j – 
+
+ pérez‑cobas ae gosalbes mj friedrichs a knecht h artacho a eismann 
+k et al gut microbiota disturbance during antibiotic therapy a multi‑
+omic approach gut – 
+
+ teeling h fuchs bm becher d klockow c gardebrecht a bennke cm 
+et al substrate‑controlled succession of marine bacterioplankton popu‑
+lations induced by a phytoplankton bloom science – 
+
+ chen l hu m huang l hua z kuang j li s et al comparative metagen‑
+omic and metatranscriptomic analyses of microbial communities in acid 
+mine drainage isme j – 
+
+ ram rj verberkmoes nc thelen mp tyson gw baker bj blake rc 
+et al community proteomics of a natural microbial biofilm science 
+ – 
+
+ xia y wang y fang hhp jin t zhong h zhang t thermophilic microbial 
+cellulose decomposition and methanogenesis pathways recharacterized 
+by metatranscriptomic and metagenomic analysis sci rep 
+
+ jiménez dj maruthamuthu m van elsas jd metasecretome analysis of a 
+lignocellulolytic microbial consortium grown on wheat straw xylan and 
+xylose biotechnol biofuels 
+
+ wei h tucker mp baker jo harris m luo y xu q et al tracking dynamics 
+of plant biomass composting by changes in substrate structure micro‑
+bial community and enzyme activity biotechnol biofuels 
+
+ wilson rh smith ac kačuráková m saunders pk wellner n waldron 
+kw the mechanical properties and molecular dynamics of plant cell wall 
+polysaccharides studied by fourier‑transform infrared spectroscopy plant 
+physiol – 
+
+ xiao b sun xf sun r chemical structural and thermal characterizations 
+of alkali‑soluble lignins and hemicelluloses and cellulose from maize 
+stems rye straw and rice straw polym degrad stab – 
+
+ rezende ca de lima ma maziero p deazevedo er garcia w polikarpov i 
+chemical and morphological characterization of sugarcane bagasse sub‑
+mitted to a delignification process for enhanced enzymatic digestibility 
+biotechnol biofuels 
+
+ alessi am bird sm bennett jp oates n li y dowle aa et al revealing the 
+insoluble metasecretome of lignocellulose‑degrading microbial com‑
+munities sci rep 
+
+ johnson‑rollings as wright h masciandaro g macci c doni s calvo‑
+bado la et al exploring the functional soil‑microbe interface and 
+exoenzymes through soil metaexoproteomics isme j – 
+
+ varma vs das s sastri cv kalamdhad as microbial degradation of lig‑
+nocellulosic fractions during drum composting of mixed organic waste 
+sustain environ res – 
+
+ liang j lin y li t mo f microbial consortium oem cultivation for 
+higher lignocellulose degradation and chlorophenol removal rsc adv 
+ – 
+
+
+
+page of alessi et al biotechnol biofuels 
+
+ pometto al crawford dl effects of ph on lignin and cellulose degrada‑
+tion by streptomyces viridosporus appl environ microbiol – 
+
+ mello bl alessi am riaño‑pachón dm deazevedo er guimarães feg 
+espirito santo mc et al targeted metatranscriptomics of compost‑
+derived consortia reveals a gh exerting an unusual exo‑ ‑β‑xylanase 
+activity biotechnol biofuels 
+
+ simmons cw reddy ap simmons ba singer sw vandergheynst js 
+effect of inoculum source on the enrichment of microbial communities 
+on two lignocellulosic bioenergy crops under thermophilic and high‑
+solids conditions j appl microbiol – 
+
+ de gannes v eudoxie g hickey wj prokaryotic successions and diversity 
+in composts as revealed by ‑pyrosequencing bioresour technol 
+ – 
+
+ de gannes v eudoxie g hickey wj insights into fungal communities 
+in composts revealed by ‑pyrosequencing implications for human 
+health and safety front microbiol 
+
+ mhuantong w charoensawan v kanokratana p tangphatsornruang s 
+champreda v comparative analysis of sugarcane bagasse metagenome 
+reveals unique and conserved biomass‑degrading enzymes among 
+lignocellulolytic microbial communities biotechnol biofuels 
+
+ damon c lehembre f oger‑desfeux c luis p ranger j fraissinet‑tachet 
+l et al metatranscriptomics reveals the diversity of genes expressed by 
+eukaryotes in forest soils plos one e 
+
+ schneider t keiblinger km schmid e sterflinger‑gleixner k ellersdorfer 
+g roschitzki b et al who is who in litter decomposition metaproteom‑
+ics reveals major microbial players and their biogeochemical functions 
+isme j – 
+
+ floudas d binder m riley r barry k blanchette ra henrissat b et al the 
+paleozoic origin of enzymatic lignin decomposition reconstructed from 
+ fungal genomes science – 
+
+ martín‑cereceda m guinea a bonaccorso e dyal p novarino g 
+foissner w classification of the peritrich ciliate opisthonecta matiensis 
+ martín‑cereceda et al as telotrochidium matiense nov comb 
+based on new observations and ssu rdna phylogeny eur j protistol 
+ – 
+
+ medina a schmidt‑heydt m rodríguez a parra r geisen r magan 
+n impacts of environmental stress on growth secondary metabolite 
+biosynthetic gene clusters and metabolite production of xerotolerant 
+xerophilic fungi curr genet – 
+
+ cortes‑tolalpa l jiménez dj brossi mj salles jf van elsas jd different 
+inocula produce distinctive microbial consortia with similar lignocellulose 
+degradation capacity appl microbiol biotechnol – 
+
+ mello bl alessi am mcqueen‑mason s bruce nc polikarpov i nutrient 
+availability shapes the microbial community structure in sugarcane 
+bagasse compost‑derived consortia sci rep 
+
+ piao h froula j du c kim t‑w hawley er bauer s et al identification of 
+novel biomass‑degrading enzymes from genomic dark matter populat‑
+ing genomic sequence space with functional annotation biotechnol 
+bioeng – 
+
+ lewin gr johnson al soto rdm perry k book aj horn ha et al 
+cellulose‑enriched microbial communities from leaf‑cutter ant atta 
+colombica refuse dumps vary in taxonomic composition and degrada‑
+tion ability plos one e 
+
+ eichorst sa joshua c sathitsuksanoh n singh s simmons ba singer sw 
+substrate‑specific development of thermophilic bacterial consortia using 
+chemically pretreated switchgrass appl environ microbiol 
+
+ ivanova n rohde c munk c nolan m lucas s del rio tg et al complete 
+genome sequence of truepera radiovictrix type strain rq‑ t stand 
+genomic sci – 
+
+ ni j tokuda g lignocellulose‑degrading enzymes from termites and 
+their symbiotic microbiota biotechnol adv – 
+
+ newbold cj de la fuente g belanche a ramos‑morales e mcewan nr 
+the role of ciliate protozoa in the rumen front microbiol 
+
+ saleem m fetzer i harms h chatzinotas a diversity of protists and 
+bacteria determines predation performance and stability isme j 
+ – 
+
+ bates st berg‑lyons d caporaso jg walters wa knight r fierer n 
+examining the global distribution of dominant archaeal populations in 
+soil isme j – 
+
+ sun r lawther jm banks wb influence of alkaline pre‑treatments on the 
+cell wall components of wheat straw ind crops prod – 
+
+ lionetti v francocci f ferrari s volpi c bellincampi d galletti r et al 
+engineering the cell wall by reducing de‑methyl‑esterified homogalac‑
+turonan improves saccharification of plant tissues for bioconversion proc 
+natl acad sci – 
+
+ francocci f bastianelli e lionetti v ferrari s de lorenzo g bellincampi 
+d et al analysis of pectin mutants and natural accessions of arabidopsis 
+highlights the impact of de‑methyl‑esterified homogalacturonan on 
+tissue saccharification biotechnol biofuels 
+
+ biswal ak hao z pattathil s yang x winkeler k collins c et al down‑
+regulation of gaut in populus deltoides by rna silencing results in 
+reduced recalcitrance increased growth and reduced xylan and pectin in 
+a woody biofuel feedstock biotechnol biofuels 
+
+ martins lf antunes lp pascon rc de oliveira jcf digiampietri la bar‑
+bosa d et al metagenomic analysis of a tropical composting operation at 
+the são paulo zoo park reveals diversity of biomass degradation functions 
+and organisms plos one e 
+
+ griffiths ri whiteley as o’donnell ag bailey mj rapid method for 
+coextraction of dna and rna from natural environments for analysis of 
+ribosomal dna‑ and rrna‑based microbial community composition 
+appl environ microbiol – 
+
+ klindworth a pruesse e schweer t peplies j quast c horn m et al 
+evaluation of general s ribosomal rna gene pcr primers for classical 
+and next‑generation sequencing‑based diversity studies nucleic acids 
+res e 
+
+ hadziavdic k lekang k lanzen a jonassen i thompson em troedsson c 
+characterization of the s rrna gene for designing universal eukaryote 
+specific primers plos one e 
+
+ quast c pruesse e yilmaz p gerken j schweer t yarza p et al the silva 
+ribosomal rna gene database project improved data processing and 
+web‑based tools nucleic acids res d – 
+
+ trapnell c roberts a goff l pertea g kim d kelley dr et al differential 
+gene and transcript expression analysis of rna‑seq experiments with 
+tophat and cufflinks nat protoc – 
+
+ petrova oe garcia‑alcalde f zampaloni c sauer k comparative 
+evaluation of rrna depletion procedures for the improved analysis of 
+bacterial biofilm and mixed pathogen culture transcriptomes sci rep 
+ 
+
+ grabherr mg haas bj yassour m levin jz thompson da amit i et al 
+full‑length transcriptome assembly from rna‑seq data without a refer‑
+ence genome nat biotechnol – 
+
+ johnson rl schmidt‑rohr k quantitative solid‑state c nmr with sig‑
+nal enhancement by multiple cross polarization j magn reson san diego 
+calif – 
+
+ novotny eh hayes mhb madari be bonagamba tj de azevedo er de 
+souza aa et al lessons from the terra preta de Índios of the amazon 
+region for the utilisation of charcoal for soil amendment j braz chem 
+soc – 
+
+ lever m carbohydrate determination with ‑hydroxybenzoic acid hydrazide 
+ pahbah effect of bismuth on the reaction anal biochem – 
+
+ rice p longden i bleasby a emboss the european molecular biology 
+open software suite trends genet tig – 
+
+ ishihama y oda y tabata t sato t nagasu t rappsilber j et al expo‑
+nentially modified protein abundance index empai for estimation of 
+absolute protein amount in proteomics by the number of sequenced 
+peptides per protein mol cell proteomics mcp – 
+
+ huson dh mitra s introduction to the analysis of environmental 
+sequences metagenomics with megan methods mol biol clifton nj 
+ – 
+
+ yin y mao x yang j chen x mao f xu y dbcan a web resource for 
+automated carbohydrate‑active enzyme annotation nucleic acids res 
+ w – 
+
+ krogh a larsson b von heijne g sonnhammer ell predicting trans‑
+membrane protein topology with a hidden markov model application to 
+complete genomes j mol biol – 
+
+ nielsen h engelbrecht j brunak s von heijne g identification of prokary‑
+otic and eukaryotic signal peptides and prediction of their cleavage sites 
+protein eng – 
+
+ wu s zhu z fu l niu b li w webmga a customizable web server for 
+fast metagenomic sequence analysis bmc genomics 
+
+ goslee sc urban dl the ecodist package for dissimilarity‑based analysis 
+of ecological data j stat softw – 
+
+
+	defining functional diversity for lignocellulose degradation in a microbial community using multi omics studies
+	abstract 
+	background 
+	results 
+	conclusions 
+
+	background
+	results
+	dynamics of wheat straw degradation
+	amplicon sequencing to study culture community structure and dynamics
+	general overview of the metatranscriptome and metasecretome
+	phylogenetic origin of putative proteins
+	analysis of community lignocellulose degrading capability in early mid and late stages of the wheat straw cultures
+
+	discussion
+	conclusion
+	materials and methods
+	compost liquid cultures
+	nucleic acid extraction and purification
+	processing dna samples for community profiling and analysis
+	processing rna samples for metatranscriptomics sequencing and analysis
+	processing protein samples for metasecretome analysis
+	wheat straw biomass analysis
+	enzyme activity
+	data analysis
+
+	authors’ contributions
+	references
+
+
+
+
+

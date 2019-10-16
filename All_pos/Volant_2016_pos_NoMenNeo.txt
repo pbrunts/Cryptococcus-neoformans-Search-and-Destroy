@@ -1,0 +1,2822 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spatial distribution of eukaryotic communities using high throughput sequencing along a pollution gradient in the arsenic rich creek sediments of carnoulès mine france
+
+
+environmental microbiology
+
+spatial distribution of eukaryotic communities using
+high throughput sequencing along a pollution gradient
+in the arsenic rich creek sediments of carnoulès mine france
+
+a volant m héry a desoeuvre c casiot g morin p n bertin 
+o bruneel 
+
+received october accepted july published online august 
+ springer science business media new york 
+
+abstract microscopic eukaryotes play a key role in ecosys 
+tem functioning but their diversity remains largely unexplored
+in most environments to advance our knowledge of eukary 
+otic microorganisms and the factors that structure their commu 
+nities high throughput sequencing was used to characterize
+their diversity and spatial distribution along the pollution gra 
+dient of the acid mine drainage at carnoulès france a total of
+ reads were retrieved leading to the identification of 
+otus after normalization phylogenetic analysis revealed a
+quite diverse eukaryotic community characterized by a total
+of eight high level lineages including classes the majority
+of sequences were clustered in four main groups fungi 
+stramenopiles alveolata and viridiplantae the reigous sed 
+iments formed a succession of distinct ecosystems hosting
+contrasted eukaryotic communities whose structure appeared
+to be at least partially correlated with sediment mineralogy 
+the concentration of arsenic in the sediment was shown to be
+
+a significant factor driving the eukaryotic community structure
+along this continuum 
+
+keywords eukaryotic diversity community spatial
+dynamics acidmine drainage arsenic
+
+introduction
+
+acid mine drainage amd refers to extreme aquatic environ 
+ments resulting from the dissolution of pyrite rich mining
+wastes because of their acid ph and their high concentrations
+of toxic metals and metalloids they are an environmental and
+public health threat in these ecosystems adapted microor 
+ganisms are involved in biogeochemical mechanisms that con 
+trol the behavior of metals and metalloids at the water sediment
+interface indeed the microorganisms that colonize amd are
+responsible for the release of metals and metalloids and for the
+acidification resulting from oxidation of pyrite rich waste 
+microbial metabolism can also mitigate pollution for example 
+by co precipitation of arsenic with iron the prokaryotic
+communities that colonize amd particularly bacteria have
+been extensively studied and generally include organisms in 
+volved in the iron sulfur or arsenic cycles – on the other
+hand studies of the eukaryotic members of the microbial com 
+munities are rare and the involvement of eukaryotes in the
+biogeochemical cycles of these extreme environments is poorly
+understood – culture independent gene surveys have re 
+vealed relatively high eukaryotic richness in the río tinto
+river in spain including members of the bacillariophyta 
+chlorophyta rhodophyta and euglenophyta phyla as well as
+ciliates cercomonads amoebae stramenopiles fungi 
+heliozoans and rotifers in contrast studies at
+the richmond mine an extremely acid ph subsurface
+amd site at iron mountain in california evidenced low
+
+electronic supplementary material the online version of this article
+ doi s contains supplementary material 
+which is available to authorized users 
+
+ a volant
+aurelie volant univ montp fr
+
+ laboratoire hydrosciences montpellier umr université de
+montpellier cc mse rue auguste broussonet 
+ montpellier france
+
+ institut de minéralogie et de physique des milieux condensés 
+impmc umr cnrs université pierre et marie curie paris
+ place jussieu paris france
+
+ laboratoire de génétique moléculaire génomique microbiologie 
+gmgm umr université de strasbourg cnrs 
+département microorganismes génomes environnement rue
+goethe strasbourg france
+
+microb ecol – 
+doi s 
+
+http dx doi org s 
+http crossmark crossref org dialog doi s domain pdf
+
+
+eukaryotic diversity mainly dominated by fungi associated
+with the presence of a small proportion of heterolobosea and
+protists affiliated with the deeply branching lineage named the
+acidophilic protist clade apc 
+
+the ecological role of eukaryotic microorganisms is of
+great importance in mining environments some protists
+isolated from amd graze on specific acidophilic bacteria
+ suggesting they impact the abundance and the
+community composition of prokaryotes involved in key
+biogeochemical processes such as acid mine generation
+or mitigation via oxidation or reduction of iron and sulfur
+compounds a strain of the algae cyanidioschyzon sp 
+isolated from the yellowstone national park was shown
+to be directly implicated in the as cycle oxidizing
+as iii reducing as v and methylating as iii to form
+trimethylarsine oxide and dimethylarsenate some
+photosynthetic organisms like euglena mutabilis or the
+filamentous algae klebsormidium not only provide oxy 
+gen but can also be directly involved in the development
+of stromatolite like and organo sedimentary structures
+that are rich in iron and play an important role in remedi 
+ation because of their ecological importance and
+their potential for bioremediation the full diversity and
+the precise role of eukaryotes in amd along with the
+environmental parameters that structure their communities
+require further investigation 
+
+the level of pollution at carnoulès france is particu 
+larly high with arsenic concentrations ranging from to
+ mg l− in the reigous creek spring which corre 
+sponds to the amd draining the site microbial activ 
+ity is involved in the natural attenuation process that oc 
+curs at this site and results in a pollution gradient along
+reigous creek in particular microbial iron and arsenic
+oxidation leads to the removal of dissolved arsenic by
+co precipitation with fe iii and formation of as iii 
+fe iii and as v fe iii phases associated with sulfate
+in the reigous riverbed the concentration of
+arsenic subsequently decreases by nearly between
+the source of reigous creek and its confluence with the
+amous river m downstream bacterial and archaeal
+communities have been extensively studied at this site 
+ – however to date the eukaryotic community thriv 
+ing in this ecosystem remains largely unexplored although
+cultivation based studies revealed the presence of fungi
+along the creek and the presence of the acidophilic
+protozoan euglena mutabilis this photosynthetic
+organism may play an indirect but important role in natural
+amd attenuation through primary production 
+indeed an increase in the concentration of dissolved oxy 
+gen in these oligotrophic waters probably increases metal
+precipitation rates furthermore euglena mutabilis is
+able to sequester and store iron and other metals both in 
+tracellularly and extracellularly 
+
+determining eukaryotic diversity is the first step in
+assessing the potential influence of eukaryotes on metal and
+metalloid cycling and on ecosystem functioning in the
+carnoulès as rich amd to this end eukaryotic diversity in
+reigous riverbed sediments was investigated using a
+barcoded pyrosequencing approach targeting the hypervari 
+able v v regions of the eukaryotic small subunit s ribo 
+somal rna rrna gene to help understand how
+environmental stressors determine the structure of the micro 
+bial community the eukaryotic spatial pattern was character 
+ized in relation with the physicochemical and mineralogical
+conditions observed in situ along the pollution gradient 
+
+methods
+
+site description
+
+the pb zn carnoulès mine is located in southern france in the
+drainage basin of the river rhône mining activity stopped in
+ but left about mt of solid wastes containing pb 
+ fe and as stored behind a dam water percolating
+through the wastes emerges at the base of the tailing dam and
+forms the source of reigous creek this water is acidic ph
+around sub oxic dissolved oxygen concentration below
+ mg l− and rich in dissolved sulfate iron and arsenic
+ – – and – mg l− respectively 
+iron and arsenic are mainly present in their reduced forms
+fe ii and as iii mean annual rainfall is mm with
+a distribution typical of the mediterranean climate character 
+ized by long periods of drought and intense rainfall events
+mainly in spring and fall 
+
+sampling procedure and physicochemical analysis
+
+a sampling campaign was carried out in november at
+five sampling sites along reigous creek samples were col 
+lected at the spring s m downstream cowg m
+downstream at two sampling sites characterized by different
+sediment textures stromatolite like structure with laminated
+hard concretions called gal and soft and creamy sediment
+called galm and m downstream conf just before
+the confluence of the reigous and the amous river fig 
+around cm deep pale yellow loosely packed sediments
+were collected in triplicate at the bottom of the creek using a
+sterile spatula the three samples were pooled and homoge 
+nized solid phases were harvested by centrifugation and dried
+under vacuum prior to mineralogical and spectroscopic anal 
+yses the main physicochemical parameters ph temperature 
+redox potential and dissolved oxygen concentration and con 
+centrations of so 
+
+ fe and as in the running water covering
+the sediments were measured as previously described 
+
+eukaryotic communities variation in arsenic rich creek sediments 
+
+
+
+physicochemical characterization of sediments
+
+the total concentrations of arsenic iron sulfate lead and zinc
+were measured in sediments after bulk mineralization about
+ mg of sediment was digested in closed teflon reactors on
+hot plates at °c for h successively with h o 
+ a ml concentrated hno hf hclo mixture 
+a ml concentrated hno hcl mixture samples were
+cooled and evaporated to dryness between each step and at
+the end of the procedure samples were brought to ml
+using ml of hno and double deionized water milli 
+q® finally samples were filtered to remove possible resi 
+dues for each set of samples method blanks and international
+certified reference materials digestion stream sediments
+lgc from the uk accreditation service and ncs
+
+dc from lgc standards were performed chemical
+analysis was then carried out as previously described 
+
+the mineralogical composition of the collected sediment
+samples was determined qualitatively using powder x ray dif 
+fraction analysis xrd data were collected with co k alpha
+radiation on an x’pert pro p analytical diffractometer
+equipped with an x’celerator detector in continuous mode
+and a h counting time per sample x ray absorption spectros 
+copy data were collected on the five sediment phases x ray
+absorption near edge structure xanes and extended x ray
+absorption fine structure exafs spectra were recorded at a
+temperature of – k in fluorescence mode on the fame
+bm b bendingmagnet beamline at esrf grenoble france 
+data for the cowg sample were previously collected and an 
+alyzed in volant et al experimental details and data
+
+fig map of the carnoulès
+mining site and location of the
+sampling sites 
+
+ a volant et al 
+
+
+
+reduction procedures are reported in previous studies 
+ xanes and exafs data were interpreted by linear com 
+bination fitting using a set of model compound spectra this set
+includes as v and as iii –fe iii oxyhydroxides and
+oxyhydroxysulfates synthesized via biotic and abiotic pathways
+ 
+
+dna isolation
+
+genomic dna was extracted in triplicate from sediments
+using the ultraclean soil dna isolation kit mobio
+laboratories inc carlsbad ca usa according to the man 
+ufacturer’s recommendations the three extractions were
+pooled before pcr amplification all extracted genomic
+dna samples were stored at − °c until further analysis 
+
+pyrosequencing of eukaryotic s rrna genes
+
+the set of primers s f ′ axxxgaaactgc
+gaatggctc ′ and ek r ′ bxxxaccagact
+tgccctcc ′ was used to amplify a bp region
+targeting the complete v and v domains of all eukaryote
+ssu s rrna genes a and b represent the two
+flx titanium adapters a adapter sequence ′ cgta
+tcgcctccctcgcgcc atcag ′ b adapter sequence 
+ ′ ctatgcgccttgccagcccgctcag ′ and xxx rep 
+resent the sample specific barcode sequence triplicate pcr
+amplifications were performed with the same barcode on each
+sample the reaction mixture contained μl of dna tem 
+plate μl of both primers μm and μl of pcr
+master mix ampli taq gold applied biosystems 
+foster city ca usa sterile distilled water was added to
+obtain a final volume of μl pcr conditions were as fol 
+lows denaturation at °c for min cycles at °c for
+ s °c for s and °c for s followed by min at
+ °c the pcr products with a proximal length of bp
+were excised from a agarose gel and purified with the
+qiaquick gel extraction kit qiagen inc valencia ca 
+usa dna concentrations of the purified pcr products
+were measured using a qubit fluorometer invitrogen 
+carlsbad ca usa to minimize random pcr bias tripli 
+cates were pooled in equimolar ratios to obtain a total of
+ ng of dna per sample pyrosequencing of the five
+amplicon libraries was performed on a gs flx titanium se 
+quencer roche life sciences at gatc biotech
+ konstanz germany 
+
+ s rrna gene sequence analysis and taxonomic
+classification
+
+preliminary quality checks sorting and trimming of the
+ reads were performed by gatc biotech according to
+the manufacturer’s recommendations the sequences were
+
+then analyzed with mothur software version 
+preprocessing of unaligned sequences included removing
+sequences pb all sequences containing ambiguous
+characters and sequences with more than eight homopoly 
+mers in addition we removed sequences that did not align
+over the same span of nucleotide positions identical se 
+quences were grouped and representative sequences were
+aligned against the silva eukaryotic reference database
+using the needleman–wunsch algorithm chimeric
+sequences were detected and removed using the implemen 
+tation of chimera uchime a further screening step
+ pre cluster was applied to reduce sequencing noise by
+clustering reads that differed by only one base every 
+bases the remaining high quality reads were used to
+generate a distance matrix and clustered into operational
+taxonomic units otus defined at cutoff using the
+average neighbor algorithm the similarity level has
+been shown to be the most suitable to reproduce original
+eukaryotic diversity next taxonomic affiliation of the
+otus was determined using the naïve bayesian classifier
+ confidence threshold trained on the rdp’s taxo 
+nomic outline implemented in mothur with the pr data 
+base note that otus classified as metazoa and
+embryophyta were excluded from further analysis to re 
+duce the number of non microbial eukaryotes sequences
+were deposited in the national center for biotechnology
+information ncbi sequence read archive sra under
+the accession number srp 
+
+statistical analysis
+
+non parametric chao and shannon alpha diversity esti 
+mates as well as coverage and rarefaction curves were
+calculated with mothur v to obtain comparable data 
+we performed random sampling so that the number of se 
+quences per sample was the same sequences to es 
+timate community similarity among samples a distance
+matrix was calculated based on the bray–curtis dissimilar 
+ities of the otu composition of all sampling sites the
+normalized abundances of otus were square root trans 
+formed before analysis a second dissimilarity matrix was
+computed based on the euclidean distance of log n 
+sediments chemical characteristics table variations in
+the structure of eukaryotic communities among the sites
+were visualized using principal coordinate analysis
+ pcoa based on the distance matrix of normalized otu
+abundances environmental variables were vector fitted to
+the pcoa ordination to assess possible explanatory vari 
+ables pearson correlations were used to identify the rela 
+tionships between physicochemical parameters and the rel 
+ative abundance of dominant taxa of total abun 
+dance per sample in addition to pairwise comparison 
+venn diagrams were constructed for graphical descriptions
+
+eukaryotic communities variation in arsenic rich creek sediments 
+
+
+
+of unshared and shared otus between two three four 
+and five samples all statistical analyses were performed
+with r using the packages vegan and stats and
+custom r scripts 
+
+results
+
+water and sediment characteristics
+
+the main physicochemical characteristics of the water collect 
+ed from the different sites are listed in esm table s 
+reigous creek was characterized by a low ph around that
+remained relatively constant along the creek redox potential
+ eh showed an increasing trend with values ranging from
+ to mv extremely high concentrations of as
+ mg l− i ron mg l− and sul fa te
+ mg l− were found at the almost anoxic upstream site
+s however natural remediation occurred along the m
+of the creek characterized by a clear decreasing gradient of
+arsenic to mg l− iron to mg l− and
+sulfate to mg l− associated with a substantial
+increase in the concentration of dissolved oxygen to
+ mg l− the reduced forms fe ii and as iii were dom 
+inant at all sites except at the downstream site conf which
+was the most oxygenated and had the lowest concentrations of
+iron sulfate and arsenic 
+
+unlike the clear pollution gradient evidenced in waters 
+metals and metalloid concentrations in the sediments were
+unevenly distributed along the reigous table the con 
+centration of as was particularly high in samples gal s 
+and galm and mg g− respectively and
+lower at cowg mg g− and conf mg g− no clear
+trend was observed along the reigous for fe and s whose
+concentrations remained stable at all the sampling sites pb
+concentrations ranged between and mg g− with
+the highest concentration measured at cowg the concen 
+tration of znwas one order of magnitude higher at conf than
+in the other sediments table 
+
+the nature and structure of the sediment samples were
+also investigated using mineralogical and spectroscopic
+methods xrd analyses esm figure s showed that
+the mineralogical composition evolved from mainly
+tooeleite fe aso so oh · h o upstream sample
+s spring to amorphous ferric arsenate hydroxysulfate
+ samples gal and galm and to schwertmannite down 
+stream fe o oh so sample conf sample cowg
+was sandy with quartz and micas xanes analyses for
+cowg gal galm and conf at the arsenic k edge 
+showed that despite the presence of an as iii component
+accounting for – ± of total arsenic the oxidized
+arsenic form as v predominated in these samples esm
+ figure s in contrast sample s was characterized by a
+larger proportion of as iii reaching ± of total ar 
+senic which was expected since this sample essentially
+consisted of tooeleite a rare iron arsenite mineral found
+in large amounts in the carnoulès sediments exafs
+data confirmed that as iii dominated over as v in sam 
+ple s with the presence of tooeleite and as iii sorbed
+schwertmannite esm figure s downstream in
+reigous creek as v was mainly present as amorphous
+fe iii –as v hydroxysulfate phase as iii likely being
+sorbed to poorly ordered schwertmannite these findings
+are in good agreement with previously observed as speci 
+ation in reigous creek in winter 
+
+eukaryotic community composition
+
+a total of sequence reads were generated in a single
+run of pyrosequencing from the five independent s
+rrna libraries after trimming and processing with mothur 
+ reads remained including classified as metazoa
+and embryophyta table as this study focuses on micro 
+organisms metazoa and embryophyta sequences were re 
+moved from the dataset however they accounted for highly
+variable percentages of eukaryotic sequences at the different
+sites and respectively for s 
+cowg galm gal and conf leading to a significant
+
+table concentrations mg g− of the main major and trace elements
+present in the sediments at each sampling site in the reigous creek
+riverbed obtained after bulk mineralization and icp ms analyses r 
+
+correlation coefficient and corresponding p value indicating goodness
+of fit and significance determined by vector fitting to the pcoa italic
+font with p 
+
+sampling s cowg galm gal conf vector fit
+
+stations r p
+
+fe mg g− ±sd ± ± ± ± ± 
+
+as mg g− ±sd ± ± ± ± ± 
+
+s mg g− ±sd ± ± ± ± ± 
+
+pb mg g− ±sd ± ± ± ± ± 
+
+zn mg g− ±sd ± ± ± ± ± 
+
+sd standard deviation
+
+ a volant et al 
+
+
+
+decrease in the number of sequences in some samples to
+compare the five samples we randomly resampled each
+dataset to make the number of sequences the same for each
+sample sequences clustering of the remaining
+sequences led to the identification of otus including
+ singletons defined at identity 
+
+the relative abundance of each taxon in each sample was
+determined at a confidence threshold of table across
+all the samples eight high level eukaryotic lineages were iden 
+tified including a total of classes the majority of the se 
+quences clustered into four high level taxonomic groups 
+fungi stramenopiles alveolata 
+and viridiplantae four minor taxa represented less
+than of the sequences amoebozoa choanoflagellida 
+rhizaria and apusozoa fungi formed the dominant group 
+they were highly diverse and distributed among classes
+mainly associated with two dominant phyla basidiomycota
+and ascomycota and of the total sequences 
+ table these phyla were dominated bymicrobotryomycetes
+and leotiomycetes respectively fig a the stramenopiles
+were related to six taxonomic groups characterized by the dom 
+inance of the photosynthetic lineages chrysophyceae 
+synurophyceae fig b alveolata were composed of four
+distinct groups apicomplexa ciliophora dinoflagellida and
+perkinsea fig c ciliophora was dominant and
+mainly characterized by spirotrichea and colpodea most of
+the viridiplantae were affiliated with the chlorophyta
+phylum mainly represented by trebouxiophyceae the
+streptophyta phylum was composed of klebsormidiophyceae
+and mainly poorly characterized sequences fig d 
+
+spatial variation along the reigous creek
+
+diversity and species richness of the eukaryotic community
+varied considerably in the streambed sediments table the
+shannon diversity h and chao richness indices ranged
+
+from to and to respectively while the
+arsenic rich sediments s galm and gal displayed similar
+levels of species richness and diversity cowg located only
+ m downstream from reigous spring exhibited the highest
+values chao h this is consistent with the
+rarefaction curves that tended to reach an asymptote for all
+the samples except cowg fig the conf site represent 
+ed an intermediate situation chao h good’s
+coverage ranged from to with an average value of
+ suggesting that the majority of eukaryotic phylotypes
+were recovered in the majority of samples table 
+
+to investigate the spatial distribution of the eukaryotic com 
+munity along the reigous creek we compared eukaryotic com 
+munities based on community membership a venn diagram
+showing the unique and the shared otus at the five sites re 
+vealed that a high proportion of otus in each sediment sample
+was site specific and respectively for s 
+cowg galm gal and conf table fig only one
+otu corresponding to sequences was common to the five
+sediments and showed of similarity with escovopsis sp 
+esc the samples galm and gal retrieved from distinct
+sediments located at the same site in the creek shared only 
+otus corresponding to and of their respective taxa 
+more generally the proportion of shared otus between at least
+two sites was very low but corresponded to a high pro 
+portion of the total sequences fig to analyze these
+shifts in community composition along the pollution gradient in
+more detail we examined the dynamics of the four dominant
+taxa the distribution of fungi varied along the creek with the
+dominance of basidiomycota in the as rich sediments s gal
+and galm whereas a major proportion of ascomycota was
+found at both cowg and conf fig a table within
+the stramenopiles the clade c of the chrysophyceae 
+synurophyceae was dominant at all sites in varying proportions
+along the creek fig b alveolata were characterized by the
+dominance of ciliophora at all sites except at gal and galm
+
+table diversity indices estimated otu richness and coverage for each s rrna gene library
+
+sampling
+sites
+
+no reads
+after quality
+filtering
+
+no reads excluding
+metazoa and
+embryophyta
+
+no reads
+after
+normalization
+
+no 
+otusa
+
+singletons coverageb shannonc
+
+diversity
+chao 
+richness
+
+s 
+
+cowg 
+
+galm 
+
+gal 
+
+conf 
+
+results are presented for the normalized data set randomly resampled to make the size of all the samples the same values in brackets are confidence
+intervals
+a otus were defined at cutoff
+b good coverage sum of probabilities of observed classes calculated as — n n where n is the number of singleton sequences and n is the total
+number of sequences
+c takes into account the number and evenness of species
+
+eukaryotic communities variation in arsenic rich creek sediments 
+
+
+
+ fig c these two sites were characterized by significantly
+lower abundances of alveolata than the other sites 
+among viridiplantae chlorophyta prevailed at all sites again
+except at gal and galm where no viridiplantae were re 
+trieved fig d table 
+
+analyses at the genus level also highlighted variations in
+community composition table rhodotorula were partic 
+ularly abundant at the as rich sediment site s gal and
+galm representing respectively around and of
+the sequences while at the upstream site s rhodotorula 
+
+pezizomycotina arthrinium unc oxytrichidae and
+escovopsis were the main genera detected the downstream
+site conf was mainly characterized by distinct genera
+ calyptrozyma monascostroma ochromonas microscypha 
+calyptrozyma and escovopsis 
+
+environmental factors as drivers of eukaryotic
+community structure
+
+to disentangle the environmental factors shaping the eukary 
+otic community a principal coordinate analysis pcoa based
+on normalized abundance of otus was performed to explore
+the relationships between the microbial diversity patterns and
+the sediment physicochemical characteristics pcoa ordina 
+tion demonstrated that the eukaryotic community composition
+varied significantly along reigous creek fig the first
+ordination axis accounted for of the community variabil 
+ity separated the samples into two clusters opposing the most
+diverse communities cowg and conf and the least di 
+verse communities s galm and gal cowg and
+conf were characterized by higher concentrations of zn
+and pb whereas the others were particularly rich in as the
+second ordination axis separated the samples into three clus 
+ters cowg s galm gal and conf according to
+fe and s concentrations and accounted for an additional 
+of community variability vector fitting of possible explanato 
+ry environmental parameters revealed that the concentration
+of as was the main factor shaping the eukaryotic communities
+along reigous creek r p table 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s cowg galm gal conf
+
+chlorophyceae
+trebouxiophyceae
+ulvophyceae
+unclassified chlorophyta
+klebsormidiophyceae
+unclassified viridiplantae
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+viridiplantaed
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s cowg galm gal conf
+
+apicomplexa x
+colpodea
+litostomatea
+nassophorea
+oligohymenophorea
+spirotrichea
+dinophyceae
+perkinsida
+unclassified alveolata
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s cowg galm gal conf
+
+dothideomycetes
+eurotiomycetes
+lecanoromycetes
+leotiomycetes
+saccharomycetes
+sordariomycetes
+unclassified
+agaricomycetes
+agaricostilbomycetes
+cystobasidiomycetes
+exobasidiomycetes
+microbotryomycetes
+pucciniomycetes
+tremellomycetes
+unclassified
+blastocladiomycetes
+chytridiomycetes
+monoblepharidomycetes
+entomophthoromycetes
+unclassified fungi
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+fungi
+
+dinoflagellida
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+alveolata
+
+a
+
+c
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s cowg galm gal conf
+
+bacillariophyceae
+
+chrysophyceae synurophyceae 
+clade b 
+
+clade c
+
+clade e
+
+unclassified
+
+bicoecaceae
+
+pseudodendromonadales x
+
+thraustochytriaceae
+
+mast c
+
+peronosporales
+
+saprolegniales
+
+unclassified oomycota
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+stramenopilesb
+
+ascomycota
+
+basidiocomycota
+
+chitridiocomycota
+
+blastocladiomycota
+
+entomophthoromycota
+
+bacillaryophyta
+
+chrysophyceae synurophyceae
+
+oomycota
+
+labyrinthulomycota
+mast
+
+bicoecea
+
+ciliophora
+
+apicomplexa
+
+perkinsea
+
+chlorophyta
+
+streptophyta
+
+fig taxonomic distribution of the reads retrieved from the five sediments and assigned to fungi a stramenopiles b alveolata c and
+viridiplantae d 
+
+table relative abundance of eukaryotic s rrna gene sequences
+in each sample assigned to different high level taxonomic groups
+
+kingdoms phyla totala s cowg galm gal conf
+
+fungi basidiomycota 
+fungi ascomycota 
+stramenopiles 
+alveolata 
+viridiplantae chlorophyta 
+fungi chytridiomycota 
+fungi cryptomycota 
+viridiplantae unclassified 
+amoebozoa 
+viridiplantae streptophyta 
+fungi unclassified 
+choanoflagellida 
+rhizaria 
+apusozoa 
+fungi blastocladiomycota 
+fungi entomophthoromycota 
+fungi mucoromycota 
+unclassified 
+
+a calculated relatively to the total number of sequences retrieved in this
+study
+
+ a volant et al 
+
+
+
+fig thus the eukaryotic community structure at cowg
+and conf was mainly correlated with low concentrations of
+as whereas high concentrations explained the composition of
+the community at s gal and galm 
+
+to go further in the identification of physicochemical param 
+eters potentially controlling the abundance of eukaryotic taxa 
+
+we also performed pearson correlation tests on dominant otus
+ of total abundance per sample as displayed in table 
+seven of the dominant otus exhibited significant correla 
+tions with environmental variables the relative abundances of
+four otus and respectively calyptrozyma 
+monascostroma ochromonas and microscypha were posi 
+tively correlated with the concentration of zn moreover as
+concentrations were significantly correlated with rhodotorula
+muci laginosa otu posi t ive correlat ion and
+monascostroma sphagnophilum otu negative correlation 
+unclassifiedoxytrichidae otu were positively correlated
+with the concentration of s and penidiella columbiana otu
+ was positively correlated with the concentration of pb 
+
+discussion
+
+diversity patterns and methodological considerations
+
+in agreement with a previous study conducted at richmond
+mine our results suggest that despite the extreme char 
+acteristics of these systems diverse organisms can grow in
+amd although they are dominated by a few taxa 
+
+fig venn diagram showing
+the number of shared and unique
+operational taxonomic units
+ otus between the eukaryotic
+communities at the five sampling
+sites the number of sequences
+associated with otu is in
+brackets otus are defined by
+ sequence similarity
+
+fig rarefaction curves of eukaryotic s rrna gene sequences from
+the five sediments based on operational taxonomic units otus calculated
+at identity
+
+eukaryotic communities variation in arsenic rich creek sediments 
+
+
+
+most of the sequences retrieved correspond to lineages
+previously found in other amds including members of the
+chlorophyta streptophyta and bacillariophyta phyla as
+well as rhizaria alveolata amoebozoa stramenopiles
+and fungi however some taxa detected in the
+present study have not been previously identified in any
+amd system such as choanoflagellida fungi were the
+dominant group in carnoulès sediments and exhibited high
+diversity with different classes identified this phyloge 
+netic group was previously evidenced in this ecosystem
+using culture based approaches that led to the detection of
+ yeast species mainly belonging to the phylum
+basidiomycota moreover the eukaryotic community
+appears to be more diverse than previously described in
+other amd ecosystems however substantial
+eukaryotic diversity was encountered in the río tinto river
+in spain where the eukaryotic community was mainly com 
+posed of photosynthetic algae using cloning sequencing
+techniques or pyrosequencing 
+
+in the present study euglena mutabilis was not detected 
+this photosynthetic acidophilic protist isolated from the
+carnoulès ecosystem forming continuous green macroscop 
+ic biofilms has been shown to be particularly abundant at the
+cowg sampling site we probably only captured a
+portion of the entire eukaryotic diversity present in the amd 
+because a single pcr primer set does not amplify the s
+rrna from all eukaryotes furthermore different
+targeted ssu rrna gene sequences might not be pcr 
+amplified with equal efficiency by the different primers and
+variability within the amplified regions may have a significant
+effect on the apparent species richness in addition rich 
+ness results should be interpreted with caution given the tech 
+nological limits e g differential cell lysis pyrosequencing
+errors etc and the unknown variability of the multiple
+copies of rrna operons from the same organism 
+
+ecological role of microbial eukaryotes
+
+the eukaryotic populations found in reigous creek can be
+grouped according to their potential ecological role as primary
+producers decomposers and consumers inferred from the
+metabolic capabilities of related microorganisms 
+
+previous studies showed that archaea and bacteria in
+carnoulès amd sediment mainly derive energy from sulfur 
+iron oxidation or reduction the chemolithoautrotrophic
+prokaryotes together with the photosynthetic eukaryotes evi 
+denced in this study act as primary producers of biomass in this
+ecosystem the photosynthetic eukaryotes detected in
+carnoulès mainly belonged to the chlorophyta green algae 
+streptophyta and autotrophic classes of the stramenopiles such
+as the bacillariophyceae diatoms chrysophyceae golden
+algae synurophyceae or euglena photoautrotrophic eukary 
+otes may sustain the development of diverse heterotrophicta
+
+bl
+e
+ 
+
+ta
+xo
+no
+m
+ic
+id
+en
+tif
+ic
+at
+io
+n
+of
+do
+m
+in
+an
+tt
+ax
+a
+ 
+ 
+ 
+
+of
+to
+ta
+la
+bu
+nd
+an
+ce
+
+pe
+rs
+am
+
+pl
+e 
+an
+d
+co
+ef
+fi
+ci
+en
+ts
+of
+pe
+ar
+so
+n’
+s
+co
+rr
+el
+at
+io
+ns
+
+be
+tw
+ee
+n
+th
+ei
+rr
+el
+at
+iv
+e
+ab
+un
+da
+nc
+e
+an
+d
+co
+nc
+en
+tr
+at
+io
+ns
+
+of
+th
+e
+m
+ai
+n
+m
+aj
+or
+
+an
+d
+tr
+ac
+e
+el
+em
+
+en
+ts
+in
+
+se
+di
+m
+en
+ts
+ac
+ro
+ss
+
+al
+ls
+ite
+s
+
+o
+t
+u
+nu
+m
+be
+r
+
+ta
+xo
+no
+m
+ic
+cl
+as
+si
+fi
+ca
+tio
+
+n
+pr
+op
+or
+tio
+
+n
+of
+
+se
+qu
+en
+ce
+s
+ 
+
+ 
+p
+ea
+rs
+on
+
+s’
+co
+ef
+fi
+ci
+en
+tc
+or
+re
+la
+tio
+
+n
+w
+ith
+
+m
+aj
+or
+
+an
+d
+tr
+ac
+e
+el
+em
+
+en
+ts
+
+co
+nc
+en
+tr
+at
+io
+ns
+
+in
+se
+di
+m
+en
+ts
+
+ph
+yl
+um
+
+c
+la
+ss
+
+sp
+ec
+ie
+s
+
+s 
+c
+o
+w
+g
+
+g
+a
+l
+
+g
+a
+l
+m
+
+c
+o
+n
+f
+
+f
+e
+
+a
+s
+
+s
+pb
+
+z
+n
+
+ 
+b
+as
+id
+io
+m
+yc
+ot
+a
+
+m
+ic
+ro
+bo
+tr
+yo
+m
+yc
+et
+es
+
+r
+ho
+do
+to
+ru
+la
+
+m
+uc
+ila
+
+gi
+no
+sa
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+le
+ot
+io
+m
+yc
+et
+es
+
+p
+ez
+iz
+om
+
+yc
+ot
+in
+a
+sp
+ 
+
+m
+h
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+e
+ur
+ot
+io
+m
+yc
+et
+es
+
+c
+al
+yp
+tr
+oz
+ym
+
+a
+ar
+xi
+is
+tr
+ai
+n
+c
+b
+s 
+
+ 
+ 
+ 
+t
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+d
+ot
+hi
+de
+om
+
+yc
+et
+es
+
+c
+la
+do
+sp
+or
+iu
+m
+sp
+ha
+er
+os
+pe
+rm
+
+um
+st
+ra
+in
+
+g
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+
+ 
+b
+as
+id
+io
+m
+yc
+ot
+a
+
+c
+ys
+to
+ba
+si
+di
+om
+
+yc
+et
+es
+
+r
+ho
+do
+to
+ru
+la
+
+sl
+oo
+ffi
+ae
+
+st
+ra
+in
+
+d
+b
+sc
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+− 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+so
+rd
+ar
+io
+m
+yc
+et
+es
+
+e
+sc
+ov
+op
+si
+s
+sp
+ e
+
+sc
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+d
+ot
+hi
+de
+om
+
+yc
+et
+es
+
+m
+on
+as
+co
+st
+ro
+m
+a
+sp
+ha
+gn
+op
+hi
+lu
+m
+is
+ol
+at
+e
+m
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+st
+ra
+m
+en
+op
+ile
+s
+
+c
+hr
+ys
+op
+hy
+ce
+ae
+
+o
+ch
+ro
+m
+on
+as
+
+sp
+ 
+ 
+×
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+so
+rd
+ar
+io
+m
+yc
+et
+es
+
+a
+rt
+hr
+in
+iu
+m
+ja
+po
+ni
+cu
+m
+st
+ra
+in
+ i
+fo
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+c
+ili
+op
+ho
+ra
+
+sp
+ir
+ot
+ri
+ch
+ea
+
+o
+xy
+tr
+ic
+hi
+da
+e
+ge
+n 
+sp
+ t
+
+s 
+ 
+ 
+a
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+so
+rd
+ar
+io
+m
+yc
+et
+es
+
+sa
+ro
+cl
+ad
+iu
+m
+sp
+ 
+h
+ 
+s 
+
+ p
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+d
+ot
+hi
+de
+om
+
+yc
+et
+es
+
+p
+en
+id
+ie
+lla
+
+co
+lu
+m
+bi
+an
+a
+st
+ra
+in
+
+c
+b
+s
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+− 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+a
+sc
+om
+
+yc
+ot
+a
+
+le
+ot
+io
+m
+yc
+et
+es
+
+m
+ic
+ro
+sc
+yp
+ha
+
+ca
+ja
+ni
+en
+si
+s
+is
+ol
+at
+e
+m
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+− 
+ 
+ 
+
+ 
+ 
+ 
+
+c
+or
+re
+la
+tio
+
+n
+co
+ef
+fi
+ci
+en
+ts
+in
+
+ita
+lic
+
+fo
+nt
+
+w
+ith
+
+ 
+ar
+e
+st
+at
+is
+tic
+al
+ly
+
+si
+gn
+if
+ic
+an
+t 
+b
+on
+fe
+rr
+on
+ic
+or
+re
+ct
+ed
+ p
+
+ 
+ 
+ 
+ 
+
+ a volant et al 
+
+
+
+lineages such asacidiphilium detected in this ecosystem halter
+et al showed that the acidophilic protist euglena mutabilis
+isolated at the water sediment interface of carnoulès amd
+promotes the growth of heterotrophic bacteria by providing
+them with organic substrates like amino acids polyamine com 
+pounds urea or some sugars moreover as suggested by
+gonzalez toril et al the aerobic oxidation of iron sulfur 
+or arsenic by prokaryotes acidithiobacillus ferrooxidans 
+thiomonas spp thermoplasmatales could be enhanced by
+the oxygen produced by photosynthesis thereby highlighting
+an indirect role for eukaryotes in the bio attenuation processes
+that occur at carnoulès 
+
+our study also revealed the predominance and diversity
+of fungi in all the sampling sites fungi are decomposers
+and the main producers of organic substances the concen 
+tration of easily degradable organic carbon in carnoulès
+sediment is probably very low since in acid water the
+degradation of organic carbon such as leaves is limited
+by the absence of invertebrates thus fungi may
+play an important role as primary degraders of complex
+organic matter moreover by maintaining low organic
+carbon levels and by producing dissolved carbonate ions 
+they could promote the growth of chemolithoautotrophic
+acidophilic prokaryotes they may also allow the de 
+velopment of less metal tolerant species by removing toxic
+metals from their environment through several mecha 
+nisms such as biosorption sequestration or extracellular
+precipitation indeed the most abundant
+otu affiliated with rhodotorula mucilaginosa retrieved
+from s gal and galm may accumulate zn and pb and
+
+produce siderophores involved in metal resistance and
+complexation – members of rhodotorula genus
+are also known to enhance ferrous iron oxidation carried
+out by acid i th iobaci l lus ferrooxidans fo rmely
+thiobacillus ferrooxidans which are active in this ecosys 
+tem they also can convert arsenate to arsenite 
+dimethylarsinic acid and methylarsonic acid 
+furthermore the filamentous fungi eurotiomycetes and
+dothideomycetes detected in the present study may im 
+prove the anchorage of biofilms to pyrite rich sediment in
+amd by increasing their rigidity and organization 
+
+the carnoulès microbial consumer community consists
+of heterotrophic protozoa characterized by representatives
+of the rhizaria alveolata amebozoa apusozoa and
+choanoflagellida protozoa such as oxytrichidae sp pres 
+ent in relatively high proportions in s can impact micro 
+bial populations and biomass by grazing on heterotrophic
+and acidophilic bacteria including iron sulfur oxidizers
+and archaea top down control of the bacterial
+community by the mixotrophic flagellate ochromonas
+sp commonly encountered in amd and in this
+study was also evidenced by schmidtke et al 
+moreover acidophilic protozoa have been reported to
+graze preferentially on acidithiobacillus ferrooxidans over
+leptospirillum ferrooxidans resulting in the dominance of
+l ferrooxidans in mixed cultures of iron oxidizers and
+revealing the impact of protozoa on prokaryotic communi 
+ty structure 
+
+our results confirm that diverse eukaryotes colonize ex 
+treme environments like amd where they probably play a
+substantial role particularly in carbon and metal cycling
+through direct or indirect mechanisms making them good
+candidates for remediation strategies 
+
+spatial distribution of the eukaryotic community
+and influence of environmental drivers
+
+the sediment samples were retrieved from different locations
+along the amd reflecting distinct environmental conditions 
+the water chemistry varied significantly with a clear decreas 
+ing gradient of as fe and sulfates associated with an increas 
+ing trend of oxygen content and ph between the spring s 
+the most extreme site and the confluence with the amous
+river conf the least extreme site the composition of
+the sediments also differed according to the mineralogical
+analyses including the two samples collected in the same area
+ galm and gal however no upstream to downstream
+gradient in sediment composition was identified 
+
+these variations in geochemical and mineralogical condi 
+tions along reigous creek were associated with important
+variations in the structure and composition of the eukaryotic
+community only one otu corresponding to sequences
+was common to the five sediments and a small proportion
+
+fig principal coordinate analysis pcoa of the eukaryotic community
+matrix for normalized otu abundances arrows are projections of possible
+explanation variables gained by vector fitting the red and blue arrows
+represent significant and non significant fittings respectively bonferroni
+corrected p the corresponding r correlation coefficients and p 
+values are listed in table 
+
+eukaryotic communities variation in arsenic rich creek sediments 
+
+
+
+of otus was shared between at least two sites the marked
+differences in the sediment eukaryotic community along
+reigous creek show that distinct communities occupy specif 
+ic niches however the shared otus correspond to a high
+proportion of the total sequences the distribution of the eu 
+karyotic community is thus characterized by a low proportion
+of dominant otus omnipresent along the creek and a high
+proportion of minor taxa specific to each site moreover the
+samples galm and gal retrieved from distinct sediments
+geographically close in the creek shared only otus 
+highlighting the probable selective pressure of local sediment
+characteristics on eukaryotic membership patterns 
+
+contrary to what was observed in the río tinto by amaral 
+zettler et al eukaryotic richness was not highest at the
+most extreme sites of the amd nevertheless diversity was
+linked to the composition of the sediment indeed the sedi 
+ments sampled at the most diverse site cowg had the low 
+est fe and as concentrations while the least diverse site
+ gal had the highest concentration of as the eukaryotic
+diversity encountered at cowg could be indicative of mature
+and well established communities able to sustain relatively
+complex trophic interactions sediments present along
+reigous creek are flushed away during the intensive rainfall
+events that characterize the mediterranean climate of this re 
+gion generally in spring and fall however the cowg sam 
+pling site is located in a small depression and is protected by a
+low wall allowing the sediments to remain in place over the
+years and could thus sustain the development of more com 
+plex communities 
+
+based on pcoa analysis the reigous riverbed sediments
+formed a succession of distinct ecosystems hosting contrasted
+eukaryotic communities whose structure was linked to sedi 
+ment composition the concentration of arsenic in the sedi 
+ment was identified as the main factor controlling the compo 
+sition of the eukaryotic community a high level of as being
+associated with low eukaryotic diversity in addition to arse 
+nic pearson’s correlation revealed that s zn and pb were
+also significantly correlated with the composition of the eu 
+karyotic community in accordance with our results the pres 
+ence of other heavy metals zn cu ni has been previously
+suggested to shape eukaryotic community diversity and bio 
+mass in the río tinto more than the influence of ph a
+recent study suggested that seasonality associating light in 
+tensity and water temperature significantly influences eukary 
+otic distribution in amd biofilms 
+
+distinct mineralogical conditions were evidenced in this
+study they impacted the microbial assemblages in carnoulès
+sediments andmay have selected specific communities adapted
+to the local environmental properties these selected commu 
+nities probably influence biogeochemical processes and eco 
+system functioning as an illustration the most abundant
+otu retrieved from the as rich sediments s gal and
+galm belonged to the genus rhodotorula which is known
+
+to be involved in arsenic cycling this genus was not
+detected at other sites characterized by a lower concentration
+of as revealing a possible selective effect of arsenic 
+
+the present study showed that eukaryotic community
+structure and composition both responds to and impacts eco 
+system characteristics to gain insight into the specific contri 
+bution of eukaryotes in carnoulès ecosystem functioning 
+further characterizations of the species their mode of nutrition
+ autotrophy heterotrophy mixotrophy their interactions
+ food web saprotrophism parasitism commensalism etc 
+are now required the capacity of eukaryotic microorganisms
+to interact with arsenic thereby impacting the fate of arsenic in
+the aquatic ecosystem also requires future investigation the
+potential for arsenic methylation was recently evidenced in
+reigous creek and the river amous since
+eukaryotes fungi algae etc are known for their biometh 
+ylation capacity targeting this microbial function to
+assess its contribution to arsenic cycling in amd impacted
+water will be of particular interest 
+
+acknowledgments the study was financed by the bobservatoire de
+recherche méditerranéen en environnement osu oreme aurélie
+volant was supported by a grant from the french ministry of education
+and research 
+
+references
+
+ motsi t rowson na simmons mjh adsorption of heavy
+metals from acid mine drainage by natural zeolite int j miner
+process – 
+
+ morin g juillot f casiot c et al bacterial formation of
+tooeleite and mixed arsenic iii or arsenic v iron iii gels in the
+carnoulès acid mine drainage france a xanes xrd and sem
+study environ sci technol – 
+
+ johnson db hallberg kb the microbiology of acidic mine
+waters res microbiol – 
+
+ johnsondb geomicrobiology of extremely acidic subsurface
+environments fems microbiol ecol – 
+
+ volant a desoeuvre a casiot c et al archaeal diversity 
+temporal variation in the arsenic rich creek sediments of carnoulès
+mine france extremophiles – 
+
+ aguilera a eukaryotic organisms in extreme acidic environ 
+ments the río tinto case life – 
+
+ amaral zettler la zettler er theroux sm palacios c aguilera a 
+amils r microbial community structure across the tree of life
+in the extreme río tinto isme j – 
+
+ amils r gonzález toril e fernández remolar d et al 
+extreme environments asmars terrestrial analogs the río tinto case 
+planet space sci – 
+
+ baker bj tyson gw goosherst l banfield jf insights into
+the diversity of eukaryotes in acidmine drainage biofilm communities 
+appl environ microbiol – 
+
+ aguilera a manrubia sc gómez f rodríguez n amils r 
+eukaryotic community distribution and its relationship towater phys 
+icochemical parameters in an extreme acidic environment río tinto
+ southwestern spain appl environ microbiol – 
+doi aem 
+
+ a volant et al 
+
+http dx doi org aem 
+
+
+ aguilera a zettler e gómez f amaral zettler l rodríguez n 
+amils r distribution and seasonal variability in the benthic
+eukaryotic community of río tinto sw spain an acidic high
+metal extreme environment syst appl microbiol – 
+
+ baker bj lutz ma dawson sc bond pl banfield jf 
+metabolically active eukaryotic communities in extremely acidic
+mine drainage appl environ microbiol – 
+
+ mcginness s johnson db grazing of acidophilic bacteria by
+a flagellated protozoan microb ecol – 
+
+ qin j lehr cr yuan c le xc mcdermott tr rosen bp 
+biotransformation of arsenic by a yellowstone thermoacidophilic
+eukaryotic alga proc natl acad sci u s a – 
+
+ brake ss arango i hasiotis st burch kr spatial and
+temporal distribution and characteristics of eukaryote dominated mi 
+crobial biofilms in an acid mine drainage environment implications
+for development of iron rich stromatolites environ earth sci 
+ – 
+
+ casiot c morin g juillot f et al bacterial immobilization
+and oxidation of arsenic in acid mine drainage carnoulès creek 
+france water res – 
+
+ egalm casiot c moring elbaz p françoise cordierma bruneel
+o an updated insight into the natural attenuation of as con 
+centrations in reigous creek southern france anglais 
+ – 
+
+ bertin pn heinrich salmeron a pelletier e et al metabolic
+diversity among main microorganisms inside an arsenic rich ecosys 
+tem revealed bymeta and proteo genomics isme j – 
+
+ bruneel o duran r casiot c elbaz poulichet f personné jc
+ diversity of microorganisms in fe as rich acid mine drain 
+age waters of carnoulès france appl environ microbiol 
+ – doi aem 
+
+ bruneel o pascault n egal m et al archaeal diversity in a
+fe as rich acid mine drainage at carnoulès france extremophiles
+ – 
+
+ bruneel o volant a gallien s et al characterization of the
+active bacterial community involved in natural attenuation processes
+in arsenic rich creek sediments microb ecol – 
+
+ delavat f lett m c lièvremont d yeast and bacterial diver 
+sity along a transect in an acidic as fe rich environment revealed by
+cultural approaches sci total environ – – 
+
+ casiot c bruneel o personne jc leblanc m elbaz poulichet f
+ arsenic oxidation and bioaccumulation by the acidophilic
+protozoan euglena mutabilis in acid mine drainage carnoulès 
+france sci total environ – 
+
+ halter d goulhen chollet f gallien s et al in situ proteo 
+metabolomics reveals metabolite secretion by the acid mine drainage
+bio indicator euglena mutabilis isme j – 
+
+ brake ss dannelly hk connors ka controls on the nature
+and distribution of an alga in coal mine waste environments and its
+potential impact on water quality environ geol – 
+
+ lópez garcía p philippe h gail f moreira d 
+autochthonous eukaryotic diversity in hydrothermal sediment and
+experimental microcolonizers at the mid atlantic ridge proc natl
+acad sci u s a – 
+
+ monchy s sanciu g jobard m et al exploring and quanti 
+fying fungal diversity in freshwater lake ecosystems using rdna
+cloning sequencing and ssu tag pyrosequencing environ
+microbiol – 
+
+ hohmann c morin g ona nguema g guigner j m brown ge jr 
+kappler a molecular level modes of as binding to fe iii 
+ oxyhydr oxides precipitated by the anaerobic nitrate reducing
+fe ii oxidizing acidovorax sp strain bofen geochim
+cosmochim acta – 
+
+ ona nguema g morin g juillot f calas g brown ge jr 
+exafs analysis of arsenite adsorption onto two line ferrihydrite 
+
+hematite goethite and lepidocrocite environ sci technol 
+ – 
+
+ maillot f morin g juillot f et al structure and reactivity of
+as iii and as v rich schwertmannites and amorphous ferric arse 
+nate sulfate from the carnoulès acid mine drainage france compar 
+ison with biotic and abiotic model compounds and implications for
+as remediation geochim cosmochim acta – 
+
+ díez b pedrós alió c marsh tl massana r application of
+denaturing gradient gel electrophoresis dgge to study the diversity
+of marine picoeukaryotic assemblages and comparison of dgge with
+other molecular techniques appl environmicrobiol – 
+
+ schloss pd westcott sl ryabin t et al introducing mothur 
+open source platform independent community supported software
+for describing and comparing microbial communities appl environ
+microbiol – doi aem 
+
+ needleman sb wunsch cd a general method applicable to
+the search for similarities in the amino acid sequence of two proteins 
+j mol biol – 
+
+ edgar rc haas bj clemente jc quince c knight r 
+uchime improves sensitivity and speed of chimera detection 
+bioinformatics – 
+
+ huse sm welch dm morrison hg sogin ml ironing out
+the wrinkles in the rare biosphere through improved otu clustering 
+environ microbiol – 
+
+ behnke a engel m christen r nebel m klein rr stoeck t
+ depicting more accurate pictures of protistan community
+complexity using pyrosequencing of hypervariable ssu rrna gene
+regions environ microbiol – 
+
+ guillou l bachar d audic s et al the protist ribosomal
+reference database pr a catalog of unicellular eukaryote small
+sub unit rrna sequences with curated taxonomy nucleic acids res
+ d d –d 
+
+ r development core team r a language and environment
+for statistical computing r foundation for statistical computing 
+http www r project org edn vienna austria
+
+ aliaga goltsman ds comolli lr thomas bc banfield jf 
+community transcriptomics reveals unexpected high microbial di 
+versity in acidophilic biofilm communities isme j – 
+
+ amaral zettler la eukaryotic diversity at ph extremes front
+microbiol 
+
+ zirnstein i arnold t krawczyk barsch e jenk u bernhard g 
+roske i eukaryotic life in biofilms formed in a uraniummine 
+microbiologyopen – 
+
+ amaral zettler la gomez f zettler e keenan bg amils r sogin
+ml microbiology eukaryotic diversity in spain’s river of
+fire nature – 
+
+ amaral zettler la messerli ma laatsch ad smith pj sogin ml
+ from genes to genomes beyond biodiversity in spain’s río
+tinto biol bull – 
+
+ caron da countway pd brown mv the growing contribu 
+tions of molecular biology and immunology to protistan ecology mo 
+lecular signatures as ecological tools j eukaryotmicrobiol – 
+
+ stoeck t hayward b taylor gt varela r epstein ss a
+multiple pcr primer approach to access the microeukaryotic diver 
+sity in environmental samples protist – 
+
+ casamayor eo massana r benlloch s et al changes in
+archaeal bacterial and eukaryal assemblages along a salinity gradient
+by comparison of genetic fingerprintingmethods in amultipond solar
+saltern environ microbiol – 
+
+ gonzález toril e aguilera a souza egipsy v lopez pamo e 
+sanchez espana j amils r geomicrobiology of la zarza 
+perrunal acid mine effluent iberian pyritic belt spain appl
+environ microbiol – 
+
+ siefert j mutz m processing of leaf litter in acid waters of the
+post mining landscape in lusatia germany ecol eng – 
+
+eukaryotic communities variation in arsenic rich creek sediments 
+
+http dx doi org aem 
+http dx doi org aem 
+http www r project org 
+
+
+ das bk roy a koschorreck m mandal sm wendt potthoff k 
+bhattacharya j occurrence and role of algae and fungi in acid
+mine drainage environment with special reference to metals and sul 
+fate immobilization water res – 
+
+ zafar s aqil f ahmad i metal tolerance and biosorption
+potential of filamentous fungi isolated from metal contaminated ag 
+ricultural soil bioresour technol – 
+
+ ji ly zhang ww yu d cao yr xu h effect of heavy
+metal solubilizing microorganisms on zinc and cadmium extractions
+from heavymetal contaminated soil with tricholoma lobynsis world
+j microbiol biotechnol – 
+
+ purchase d scholes ln revitt dm shutes rb effects of
+temperature onmetal tolerance and the accumulation of zn and pb by
+metal tolerant fungi isolated from urban runoff treatment wetlands j
+appl microbiol – 
+
+ rajpert l sklodowska a matlakowska r biotransformation
+of copper from kupferschiefer black shale fore sudetic monocline 
+poland by yeast rhodotorula mucilaginosa lm chemosphere
+ – 
+
+ fournier d lemieux r couillard d essential interactions
+between thiobacillus ferrooxidans and heterotrophic microorgan 
+isms during a wastewater sludge bioleaching process environ
+pollut – 
+
+ vidal fv vidal vmv arsenic metabolism in marine bacteria
+and yeast mar biol – doi bf 
+
+ johnson db rang l effects of acidophilic protozoa on pop 
+ulations of metal mobilizing bacteria during the leaching of pyritic
+coal j gen microbiol – doi 
+ 
+
+ schmidtke a bell em weithoff g potential grazing impact
+of the mixotrophic flagellate ochromonas sp chrysophyceae on
+bacteria in an extremely acidic lake j plankton res –
+ doi plankt fbl 
+
+ héry m casiot c resongles e et al release of arsenite 
+arsenate and methyl arsenic species from streambed sediment affect 
+ed by acid mine drainage a microcosm study environ chem 
+ – doi en 
+
+ desoeuvre a casiot c hery m diversity and distribution of
+arsenic related genes along a pollution gradient in a river affected by
+acid mine drainage microb ecol – 
+
+ bentley r chasteen tg microbial methylation of metalloids 
+arsenic antimony and bismuth microbiol mol biol rev –
+ doi mmbr 
+
+ egal m casiot c morin g et al kinetic control on the for 
+mation of tooeleite schwertmannite and jarosite by acidithiobacillus
+ferrooxidans strains in an as iii rich acid mine water chem geol
+ – 
+
+ bruneel o personne jc casiot c et al mediation of arsenic
+oxidation by thiomonas sp in acid mine drainage carnoulès 
+france j appl microbiol – 
+
+ a volant et al 
+
+http dx doi org bf 
+http dx doi org 
+http dx doi org 
+http dx doi org plankt fbl 
+http dx doi org en 
+http dx doi org mmbr 
+
+	spatial 
+	abstract
+	introduction
+	methods
+	site description
+	sampling procedure and physicochemical analysis
+	physicochemical characterization of sediments
+	dna isolation
+	pyrosequencing of eukaryotic s rrna genes
+	 s rrna gene sequence analysis and taxonomic classification
+	statistical analysis
+
+	results
+	water and sediment characteristics
+	eukaryotic community composition
+	spatial variation along the reigous creek
+	environmental factors as drivers of eukaryotic community structure
+
+	discussion
+	diversity patterns and methodological considerations
+	ecological role of microbial eukaryotes
+	spatial distribution of the eukaryotic community and influence of environmental drivers
+
+	references
+
+
+

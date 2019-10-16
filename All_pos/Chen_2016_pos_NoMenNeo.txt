@@ -1,0 +1,1409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ article 
+
+
+original paper
+
+microbial communities of an arable soil treated for years
+with organic and inorganic fertilizers
+
+chen chen jianan zhang min lu chun qin yahua chen li yang 
+qiwei huang jichen wang zhenguo shen qirong shen 
+
+received september revised january accepted january published online january 
+ springer verlag berlin heidelberg 
+
+abstract the use of organic compost combined with inor 
+ganic fertilizer can enable balanced fertilization under inten 
+sive farming conditions but little is known about how these
+fertilization practices affect the composition of microbial in
+arable soils in this study a field trial of a rice–wheat cropping
+system was established to examine the effects of years of
+fertilization with inorganic fertilizers ifs and the organic
+manure–inorganic fertilizers omifs on composition of mi 
+crobial communities the fungal s and bacterial s rrna
+gene fragments were amplified from each soil sample and
+sequenced significantly lower fungal richness and higher
+bacterial richness were observed for the omif treatment com 
+pared to the other treatments no obvious changes in fungal
+diversity were observed among the treatments with a decrease
+bacterial diversity detected in the if treatment variations in
+relative abundance were observed in the fungal phyla
+g l o m e r om y c o t a b l a s t o c l a d i o m y c o t a a n d
+schizoplasmodiida and in the bacterial phyla acidobacteria 
+gemmatimonadetes and cyanobacteria most of which were
+
+significantly correlated with soil organic matter om and or
+nitrate n no 
+
+− n contents additionally the fungal
+abundance based coverage estimator ace showed a signif 
+icant negative correlation with the soil no 
+
+− n om content 
+while the correlation was positive for the bacterial ace esti 
+mate this study suggests that the fungal and bacterial com 
+munities respond differently to the long term organic inorgan 
+ic fertilization which may result from different effects of
+no 
+
+− n om content of soil on the composition of fungal
+and bacterial communities 
+
+keywords fertilization fungal and bacterial community 
+
+manure next generation sequencing soil nitrate organic
+matter
+
+introduction
+
+long term fertilization can alter the soil quality and function 
+ality by directly or indirectly affecting the physical chemical 
+and biochemical properties of soil as it affects the available
+nutrient levels and soil fertility steiner et al isbell et al 
+ liu et al traditionally fertilizers have usually
+been inorganic with the straw being removed or burnt 
+however some studies reported that the application of inor 
+ganic fertilizers ifs alone is often accompanied by ineffi 
+ciencies that lead to soil pollution and degradation and re 
+duced crop yields ju et al cui et al indicating
+that the use of if alone cannot effectively solve the problem of
+nutrient deficiency in soil organic fertilizers made from ani 
+mal manure have been shown to neutralize soil acidity and
+provide micronutrients essential for crop production and the
+organic amendments can improve agricultural soil health by
+increasing nutrient levels aggregation and biological activity
+and by reducing bulk density haynes and naidu the
+
+electronic supplementary material the online version of this article
+ doi s contains supplementary material 
+which is available to authorized users 
+
+ zhenguo shen
+zgshen njau edu cn
+
+ college of life sciences nanjing agricultural university 
+nanjing people’s republic of china
+
+ jiangsu collaborative innovation center for solid organic waste
+resource utilization nanjing agricultural university 
+nanjing people’s republic of china
+
+ jiangsu provincial key laboratory of coastal wetland bioresources
+and environmental protection yancheng teachers university 
+yancheng people’s republic of china
+
+biol fertil soils – 
+doi s 
+
+http dx doi org s 
+http crossmark crossref org dialog doi s domain pdf
+
+
+application of organic materials mixed with if can achieve
+sustainable high crop yields eneji et al therefore 
+the use of organic compost combined with smaller doses of
+if may provide balanced fertilization under intensive farming
+conditions which could replenish some of the exhausted nu 
+trients in soil however it is also recognized that some com 
+posts such as manure and other waste products can contain
+heavy metals which may be harmful to agriculture when used
+as organic fertilizers usman et al chen et al in
+addition pathogens or otherwise harmful microorganisms that
+might be present in organic fertilizers could induce potentially
+detrimental effects schönning et al thus these disad 
+vantages should be assessed 
+
+balanced fertilization leads to high soil productivity by
+increasing nutrient availability for plants however soil qual 
+ity also depends on abundance activity and composition of
+soil microbial communities chu et al islam et al 
+ as the long term application of fertilizers may affect
+the underground ecosystems and influence the soil microbial
+community in agricultural crop soils joergensen et al 
+murugan and kumar understanding the changes in
+microbial community composition following different fertili 
+zation practices may be important for selecting suitable fertil 
+ization strategies to improve the ecosystem services acosta 
+martinez et al singh et al for example it has
+been shown that if can decrease microbial biomass and en 
+zyme activities zhong and cai ramirez et al 
+and have important effects on the composition of bacterial and
+fungal communities in cropped soils geisseler and scow
+ inorganic n fertilizer can markedly modify the compo 
+sition but not the taxonomic richness of fungal communities
+in soil and promote activity and growth of fungal genera with
+known pathogenic traits paungfoo lonhienne et al 
+meanwhile organic fertilizers have generally been shown to
+increase soil microbial biomass enzyme activities and func 
+tional diversity ebhin et al ge et al lv et al 
+ however poulsen et al reported that long term
+fertilization with urban and agricultural organic wastes did not
+result in a major change in the bacterial community composi 
+tion additionally the combined application of inorganic and
+manure fertilizers can significantly enhance bacterial diversity
+ zhao et al compared to if organic fertilizers in 
+creased microbial biomass in soils in long term n fertilization
+trials börjesson et al 
+
+the rice–wheat cropping system is one of the main
+cropping systems for cereal food production in south and
+east asia in china there are several million hectares of low 
+land paddy fields with rice–wheat rotations which are primar 
+ily distributed in the middle and lower yangtze plain dawe et
+al it has been reported that short term management
+practices or fertilizer treatments could affect soil properties 
+microbial biomass and bacterial community composition in a
+rice–wheat cropping system zhao et al guo et al 
+
+ however the influence of long term fertilization with
+if and organic manure–inorganic fertilizers omifs on com 
+position of soil microbial community under the rice–wheat
+cropping system in paddy soil is unknown the soil environ 
+ment is characterized by many interactions between the bac 
+terial and fungal community which may affect soil properties
+and have implications in crop production wargo and hogan
+ miransari furthermore a recent study reported
+that the application of biofertilizer could affect composition of
+both bacterial and fungal communities shen et al 
+however most studies focus on the influence of fertilization
+on composition of bacterial and fungal communities separate 
+ly jones et al poulsen et al zhao et al 
+paungfoo lonhienne et al it has been reported that
+microbial communities would evolve according to different
+soil properties delmont et al thus we have hypoth 
+esized that fungal and bacterial communities can simulta 
+neously respond to the changes of soil under fertilizer treat 
+ments and some soil properties may play important roles in
+this process in recent years amplicons have provided a large
+number of parallel reads to achieve an in depth analysis of
+different amendments on the composition of microbial com 
+munities shen et al in this study a field fertilization
+experiment was established in a rice–wheat cropping system
+in lowland paddy fields of southeast china to examine the
+potential effects of application of if and omif on soil chem 
+ical properties then we further analyzed the simultaneous
+effects of fertilization on composition of both fungal and bac 
+terial communities and the relationship between changes
+of soil properties under fertilizer treatments and composition
+of microbial communities by miseq sequencing this study is
+expected to provide insight into the various effects of organic
+and inorganic fertilization on composition of soil microbial
+communities 
+
+materials and methods
+
+field experiment
+
+the field fertilization experiment was conducted in changshu
+city jiangsu province china n ° ′ e ° ′ the
+mean annual precipitation map was mm with 
+of the precipitation occurring from june to september the
+mean annual temperature mat in the research area was
+ °c with the mean monthly temperature ranging from
+ °c in january to °c in july the soil on site was
+classified as paddy soil according to the chinese classifica 
+tion and the parent material for this location was alluvial soil
+from the yangtze river the soil contained g kg− organ 
+ic matter om g total n kg− mg available p kg− 
+and mg available k kg− and had a ph of at the
+beginning of the experiment in the crop succession was
+
+ biol fertil soils – 
+
+
+
+winter wheat yangmai no triticum aestivum l and
+summer rice changyou no oryza sativa l 
+
+the omif was produced from if and pig manure compost
+ pmc pmc which was incorporated with rice husk and
+straw contained om n p o and
+ k o thirteen treatments with three replicates in
+completely randomized blocks were established for a total
+of plots × m each all treatments contained the same
+amount of calcium superphosphate kg p ha− and
+muriate of potash kg k ha− the treatments included
+the following ck control no nitrogen addition fer 
+tilizers with kg n ha− including if or regarded as
+omif pmc omif kg pmc ha− omif 
+ kg pmc ha− omif kg pmc ha− 
+fertilizers with kg n ha− including if or regarded as
+omif pmc omif pmc kg ha− omif 
+ pmc kg ha− omif kg pmc ha− 
+fertilizers with kg n ha− including if or regarded as
+omif pmc omif kg pmc ha− omif 
+ kg pmc ha− omif kg pmc ha− for the
+application of omif the n deficient pmc was supplemented
+with urea and urea was also used as an n source in the if 
+spring wheat medium maturing variety was sown in
+november and harvested in early june of the next year 
+single season late rice was sown in june and harvested in late
+october the n p k and organic fertilizers were applied as a
+single basal application during the rice season this was also
+the method used for the wheat season the duration of the
+field experiment was years from june to october
+ 
+
+soil sampling
+
+soil samples were collected in october at the rice har 
+vesting stage for each plot ten soil cores were randomly
+taken from the first cm of topsoil – cm depth then
+mixed and homogenized by passing through a mm sieve to
+remove aboveground plant materials roots and stones and
+stored at °c for soil chemical analysis and at – °c for
+dna extraction 
+
+soil chemical analysis
+
+all three replicated soils were analyzed for their chemical
+properties soil were air dried at room temperature and passed
+through a mm nylon sieve soil ph was determined with
+a glass electrode using a soil to m cacl solution ratio of
+ both nh 
+
+ n and no 
+− n were extracted with m kcl
+
+ soil to water ratio of and then measured with a contin 
+uous flow analyzer aa bran luebbe hamburg 
+germany total organic c was measured according to
+yeomans and bremner and omwas calculated avail 
+able p in soil was extracted with sodium bicarbonate and
+
+determined using the molybdenum blue method watanabe
+and olsen the available k in soil was extracted with
+ammonium acetate merwin and peech and determined
+by flame photometry aas novaa analytik jena ag 
+jena germany soil total n was determined by micro 
+kjeldahl method bremner and mulvaney and mea 
+sured with a continuous flow analyzer aa bran luebbe 
+hamburg germany to determine the total p total k and
+heavy metal cu zn pb cr ni cd as and mn contents of
+soil soil samples were air dried at room temperature dried
+again at °c for h passed through a mm nylon
+sieve and then digested with a mixture of hno and hclo 
+ v v bansal and kapoor inductively coupled plas 
+ma optical emission spectrometry icp oes series 
+agilent technologies palo alto ca usa was used to de 
+termine the cu zn ni as mn k and p concentrations of the
+resulting solution while cd cr and pb concentrations of
+solution were determined by inductively coupled plasmamass
+spectrometry icp ms nexion x perkin elmer 
+norwalk ct usa to determine available heavy metal con 
+centration ml of the modified morgan’s solution m
+ammonium acetate at ph were added to g of soil into
+ ml erlenmeyer flasks then the soil mixture was shaken
+on a rotary shaker at rpm for min and filtered through
+filter paper to produce clear solutions the extracts were ana 
+lyzed for heavy metals cu zn pb cr ni cd as and mn 
+by icp ms 
+
+dna extraction and pcr amplification
+
+considering sample similarity and sequencing cost the three
+most representative treatments ck if with the maximum
+total n contents and treated only by if and omif with
+equal total n contents to if and fertilizers at the highest
+pmc rate were selected for dna extraction and further
+illumina miseq sequencing all three replicated soils of each
+treatment were analyzed and dna extracted from each repli 
+cated soils was sequenced independently genomic dnawas
+extracted from g of soil using a fastdna spinkit for soil
+ mp biomedicals santa ana ca usa according to the
+manufacturer’s instructions the extracted soil dnawas dis 
+solved in μl te buffer quantified by spectrophotometry 
+and stored at − °c 
+
+for fungi dnawas amplified using the conserved fungal 
+specific s primers f ′ tta gca tgg aat aat
+rra ata gga ′ and r ′ tct gga cct ggt
+gag ttt cc ′ kivlin et al these primers were
+chosen as they flank a conserved region of the s gene that
+differs among fungal families but it is similar enough to be
+aligned in multiple sequence alignments this s region is
+often considered to be more conserved than the its or s
+ribosomal regions thus the use of s region may lower
+diversity estimates and make the obtained data at the family
+
+biol fertil soils – 
+
+
+
+resolution level for bacteria pcr amplification was carried
+out using the primer set f ′ act cctacg gga ggc
+agc a ′ and r ′ gga cta chv ggg twt cta
+at ′ amplifying the v –v region of the s rrna gene
+ lee et al the reverse primer contains a bp error 
+correcting barcode characterizing each sample the pcr was
+carried out in a final volume of μl with ng template
+dna μl × fastpfu buffer μl mm dntps μl
+fastpfu polymerase transgen biotech beijing china 
+ μl bovine serum albumin bsa takara biotechnology 
+dalian china and μl μm of each primer the pcr
+conditions were as follows °c for min cycles of
+denaturation at °c for s primer annealing at °c for
+ s and extension at °c for s followed by a final
+extension period of min at °c 
+
+illumina miseq sequencing
+
+to minimize the impact of potential early round pcr errors 
+three independent pcr products for each sample were com 
+bined to construct pcr amplicon libraries the amplified
+dna was subjected to agarose gel electrophoresis then 
+amplicons were extracted from agarose gels and purified
+using the axyprep dna gel extraction kit axygen
+biosciences union city ca usa according to the manu 
+facturer’s instructions and quantified using quantifluor™ st
+ promega madison wi usa purified amplicons were
+pooled in equimolar volumes and paired end sequenced
+ × on an illumina miseq platform according to the
+standard protocols at majorbio bioinformatics technology
+co ltd shanghai china 
+
+illumina data analysis
+
+the illumina reads were quality filtered using qiime
+ caporaso et al with the following criteria i the reads
+were truncated at any site receiving an average quality score
+ over a bp sliding window discarding the truncated
+reads that were shorter than bp ii sequences with two
+nucleotide mismatches in the primer and reads containing am 
+biguous characters were removed iii only sequences with a
+ bp overlap were assembled according to their overlap
+sequence and reads that could not be assembled were
+discarded the assembled reads shorter than bp were
+eliminated the operational taxonomic units otus were
+chosen using the uparse pipeline edgar 
+sequences were assigned to otus at identity 
+chimeric sequences were identified and removed using
+uchime edgar et al the rdp classifier caporaso
+et al was used to pick representative sequences for each
+otu and to assign taxonomic data to each representative se 
+quence at the threshold the beta diversity estimates
+ bray–curtis and hellinger distances were conducted using
+
+the qiime pipeline caporaso et al the chao rich 
+ness index ace richness index shannon diversity index 
+simpson diversity index and rarefaction curves were gener 
+ated using the mothur software schloss et al 
+hierarchical cluster analysis based on hellinger distances
+and principal coordinates analysis pcoa based on bray–
+curtis similarities were performed using r http www r 
+project org the similarities and differences among the
+communities were described using a venn diagram with
+shared and unique otus with canoco for windows
+ etten redundancy analysis rda was carried out to
+examine the relationship between samples the frequencies of
+fungal and bacterial phyla and environmental variables 
+
+statistical analysis
+
+statistical analyses were performed using spss version 
+ spss inc chicago il usa parameters were analyzed
+using a one way analysis of variance anova and tukey
+test was performed for multiple comparisons p the
+histogram was created using microsoft excel 
+ microsoft redmond wa usa 
+
+results
+
+soil chemical analysis
+
+increased n in fertilization treatments resulted in increased
+total n contents of soil table the addition of n fertilizer
+had no significant effect on the soil nh 
+
+ n concentration
+ table but it significantly increased soil no 
+
+− n concen 
+tration p table which significantly increased by
+increasing the pmc percentage in the omif p 
+table on the other hand the application of n fertilizers
+significantly increased the contents of soil om which also
+increased with increases in the ratio of pmc in omif
+ p table no differences in ph total p available
+k or available p except for omif contents were found
+among treatments by considering ck if and omif 
+treatments total k content of soil was not a significant factor
+affecting the composition of microbial communities table 
+in addition the application of omif did not significantly in 
+crease both the total and available heavy metal cu zn cr 
+ni cd as mn and pb contents of soil online resource 
+online resource 
+
+overall illumina miseq sequencing information
+
+a total of and paired end sequences were
+obtained with the f r fungal s rrna and
+ f r bacterial s rrna primer sets respectively 
+after filtering paired end reads were overlapped to obtain
+
+ biol fertil soils – 
+
+http www r project org 
+http www r project org 
+
+
+high quality tag sequences and and effec 
+tive tag sequences were obtained with average lengths of 
+and bp for the fungal and bacterial communities respec 
+tively the details of the tag sequences obtained from each of
+the samples are provided in the online resource these
+effective tag sequences were normalized for the following
+analyses 
+
+based on species identity and otus were
+found for the fungal and bacterial communities respectively 
+of them of fungal otus were shared among the three
+treated soil samples and the number of shared bacterial otus
+was fig 
+
+for bacterial sequences similar results were observed after
+comparing the rarefaction curves representing sequence
+identity for each treatment online resource however 
+for fungal sequences the rarefaction curves differed
+among treatments online resource with the
+omif treatment showing the lowest number of
+otus and shannon indexes all of the rarefaction
+
+curves reached saturation online resource suggest 
+ing that the number of analyzed reads was sufficient to
+detect the majority of sequence types 
+
+fungal and bacterial community composition
+
+the compositions of the fungal and bacterial communities
+from soils treated with different fertilizer treatments ck 
+if omif were similar fig however marked vari 
+ations in the relative contents of phyla were detected among
+different treatments the classified sequences for each treat 
+ment were affiliated with ten fungal phyla the remaining se 
+quences were unclassified fungi ∼ uncultured fungi
+ ∼ unclassified eukaryota ∼ and other classified
+eukaryota such as cercozoa and centrohelida 
+ascomycota basidiomycota zygomycota glomeromycota 
+and chytridiomycota were the most abundant phyla in all treat 
+ments with approximate relative abundances of and
+ respectively four phyla blastocladiomycota 
+
+table chemical characteristics of the paddy soil after the addition of inorganic fertilizer if and the organic manure–inorganic fertilizer omif of
+various quantities
+
+fertilizer treatment ph total p mg kg− available p
+ mg kg− 
+
+total k
+ mg kg− 
+
+available k
+ mg kg− 
+
+total n
+ g kg− 
+
+nh 
+ n
+
+ mg kg− 
+
+control ± a ± a ± a ± b ± a ± a ± a
+
+if ± a ± a ± a ± a ± a ± b ± a
+
+if ± a ± a ± ab ± a ± a ± bc ± a
+
+if ± a ± a ± ab ± b ± a ± bc ± a
+
+omif ± a ± a ± ab ± a ± a ± b ± a
+
+omif ± a ± a ± ab ± a ± a ± bc ± a
+
+omif ± a ± a ± b ± a ± a ± bc ± a
+
+omif ± a ± a ± a ± b ± a ± bc ± a
+
+omif ± a ± a ± ab ± a ± a ± bc ± a
+
+omif ± a ± a ± ab ± b ± a ± bc ± a
+
+omif ± a ± a ± − ab ± a ± a ± bc ± a
+omif ± a ± a ± ab ± a ± a ± bc ± a
+
+omif ± a ± a ± ab ± b ± a ± c ± a
+
+data are means ± se n different letters indicate statistically significant differences p according to the tukey test
+
+table nitrate n no 
+− n and organic matter om contents g kgdw in paddy soil after application of the inorganic fertilizer if and pig manure
+
+compost pmc in various quantities
+
+amount of total
+n in fertilizer
+ kg hm 
+
+soil no 
+− n content g kg dw soil om content g kg dw 
+
+amount of pmc in fertilizer kg hm 
+
+ 
+
+ ± a ± a
+
+ ± ab ± abc ± bc ± bc ± ab ± abc ± abc ± bcd
+
+ ± abc ± abc ± bc ± c ± ab ± cde ± def ± efg
+
+ ± bc ± c ± d ± e ± abc ± efg ± fg ± g
+
+different letters indicate statistically significant differences p according to the tukey test
+
+biol fertil soils – 
+
+
+
+choanomonada schizoplasmodiida and lkm were found
+at relative abundances of but significant vari 
+a t ions in glomeromycota blas toc lad iomycota 
+schizoplasmodiida and lkm abundances were detected
+among the fertilizer treatments fig b 
+
+for the bacterial community composition the classified se 
+quences for each treatment were affiliated with bacterial phy 
+la fig the most abundant phyla chloroflexi 
+
+proteobacteria actinobacteria and acidobacteria were found
+in all treatments at approximate relative abundances of 
+ and respectively and seven phyla nitrospirae 
+bacteroidetes gemmatimonadetes candidate division ws 
+firmicutes verrucomicrobia and chlorobi were found at rela 
+tive abundances of but decreased abundances of
+acidobacteria candidate division ws and cyanobacteria
+and increased abundances of gemmatimonadetes were detected
+
+fig comparison of otus in
+the fungal a and bacterial b 
+communities of soils subjected to
+the various fertilizer treatments 
+the venn diagram depicts otus
+that were shared or unique for the
+inorganic fertilizer if the
+organic manure–inorganic
+fertilizer omif and control
+ ck treatments
+
+fig the relative abundances of the phyla for the if omif and
+ck treatments a c the abundance percentage of the fungal a and
+bacterial c phyla b d the fungal b and bacterial d phyla that
+exhibited significant variation among fertilizer treatments bars
+
+represent the standard errors of the three replicates and different letters
+above each phylum indicate significant differences p according
+to the duncan test
+
+ biol fertil soils – 
+
+
+
+in omif treated soil samples compared to the other treat 
+ments fig d 
+
+fungal and bacterial richness and diversity
+
+the fungal and bacterial richness and diversity of the various
+treatments were calculated based on randomly selected se 
+quences until the count reached saturation in the rarefaction
+curves table the richness indices chao and ace 
+showed that the omif treated soil exhibited the lowest
+number of fungal otus while the ck treated soil had the
+highest number with significant difference between omif 
+ and ck samples no significant differences in shannon and
+simpson diversity indices for fungal communities were ob 
+served among the treatments for the bacterial community the
+highest number and diversity of otus were detected in the
+omif treated soil which had higher ace richness index
+and shannon diversity index compared to the ck and if 
+treated soils all treatments exhibited high good’s query cov 
+erage and no significant differences were observed 
+
+fungal and bacterial community composition
+
+the hierarchical cluster analysis of the fungal communities
+revealed three clusters comprising samples from the three re 
+spective fertilizer treatment groups with the exception of sam 
+ple omif fig a likewise with the exception of
+sample ck the samples from the three fertilizer treatments
+formed three respective clusters in bacterial community anal 
+ysis fig c moreover the fungal community composition
+of the if and omif treatments clustered together while
+the bacterial communities of the ck and if treatments were
+grouped together suggesting that the fertilizer treatments af 
+fected the composition of fungal and bacterial communities
+differently 
+
+consistent with the hierarchical cluster tree pcoa based
+on the otu composition also showed that samples within
+each treatment clustered tightly except for omif in
+the fungal community analysis and ck in the bacterial
+community analysis and differentiated treatments fig b 
+d that is with similarities among the samples from same
+fertilizer treatments and variations among samples from dif 
+ferent treatments a total of and of the variations in
+the composition of fungal and bacterial communities could be
+explained by the first two principal components respectively 
+
+correlation between the composition of microbial
+communities and soil chemical properties
+
+the rda which was performed on the soil chemical proper 
+ties and phyla data showed that the first two rda compo 
+nents could explain of the total variation fig the
+first component rda separated the ck treatment from the
+other fertilizer treatments and explained of the varia 
+tion the second component rda which separated the if 
+from the omif treatment explained of the varia 
+tion the soil total n tn no 
+
+− n and om contents which
+showed a significant p correlation between each var 
+iable and the ordination scores were the most important in
+separating the omif treatment from other treatments along
+the rda and rda axes the monte carlo test showed that
+the soil chemical properties of tn no 
+
+− n and om suffi 
+ciently explained the variation in phyla data p a
+significant negative correlation between the fungal ace rich 
+ness index and the no 
+
+− n content in soil r 
+p was observed while the no 
+
+− n content in soil
+was positively correlated r p with the bac 
+terial ace richness index fig a linear regression analyses
+showed that the relative abundances of glomeromycota
+ r p blastocladiomycota r 
+p and schizoplasmodiida r p 
+
+table richness estimators and diversity indices for the if omif and ck treatments at a identity threshold
+
+treatments fungal community bacterial community
+
+ck if omif a ck if b omif 
+
+reads ± ± ± ± ± ± 
+
+otu ± ± ± ± ± ± 
+
+coverage ± ± ± ± ± ± 
+
+ace ± a ± ab ± b ± b ± ab ± a
+
+chao ± a ± ab ± b ± b ± ab ± a
+
+shannon ± a ± a ± a ± b ± c ± a
+
+simpson ± a ± a ± a ± b ± a ± b
+
+values are means followed by standard error different letters indicate statistically significant differences p according to the tukey test
+a the replicate omif was excluded from the analysis for its poor repeatability compared to the two other replicates
+b the replicate if was excluded from the analysis for its poor repeatability compared to the two other replicates
+
+biol fertil soils – 
+
+
+
+were significantly weakly for glomeromycota correlated to
+the soil no 
+
+− n content fig c the abundances of four
+bacterial phyla were significantly correlated with the soil
+no 
+
+− n content and their relative abundances fig d the
+four bacterial phyla were acidobacteria r 
+p candidate division ws r p 
+c y a n o b a c t e r i a r p a n d
+gemmatimonadetes r p moreover the
+soil om and no 
+
+− n contents showed a significant and pos 
+itive correlation r p fig b 
+
+discussion
+
+effect of fertilization on soil characters
+
+the investigated soils have received substantial amounts of n 
+fertilizers including if and omif resulting in increased
+levels of no 
+
+− n and om while no significant differences
+of nh 
+
+ n p k and heavy metal contents and ph were
+
+detected similar to our findings long term fertilizations with
+inorganic n and agricultural organic wastes in the broadbalk
+experiment and danish urban waste field showed an increase
+in om and no 
+
+− n contents while the ph did not change
+ ogilvie et al poulsen et al an increase in heavy
+metal contents resulting from the application of organic fertil 
+izer has been reported by usman et al and chen et al 
+ however the application of omif did not significant 
+ly increase heavy metal contents in our soils demonstrating
+that the use of omif is not detrimental to soil function and
+microbial diversity in long term fertilization at least in the
+present study as the ecotoxicological limits for heavy metals
+were not exceeded 
+
+effect of fertilization on fungal and bacterial community
+
+in recent years the effects of long term fertilization on the
+biodiversity of specific fungal groups such as arbuscular my 
+corrhizal fungi amf and ectomycorrhizal fungi emf 
+have been investigated extensively jones et al liu et
+
+fig hierarchical cluster and
+principal coordination analysis
+ pcoa of the if omif and
+ck treatments a c hierarchical
+cluster tree constructed based on
+the hellinger distances of fungal
+ a and bacterial c communities 
+b d pcoa plots with bray–curtis
+distances of fungal b and
+bacterial d communities
+
+ biol fertil soils – 
+
+
+
+al chen et al however to our knowledge the
+response of the whole fungal community to different fertiliza 
+tion strategies is poorly known in this study high throughput
+sequencing technology was used to analyze the composition
+
+of fungal communities in soils treated with different fer 
+tilizers not surprisingly the relative abundance of
+glomeromycota also known as amf showed signifi 
+cant variation among the soil treatments in addition 
+significant variations were also observed in three addi 
+tional phyla blastocladiomycota schizoplasmodiida 
+and lkm analysis of the most abundant genera
+ also revealed significant differences between
+the composition of fungal communities from different
+treatments the relative abundances of of fungal
+genera were significantly different among the different
+fertilizer treatments online resource these findings
+show that the changes in relative abundance in the fun 
+gal population in response to fertilization were not re 
+stricted to amf and emf but span a wide range of
+fungal taxa 
+
+a decrease in the abundance of glomeromycota 
+resulting from n fertilizer application was detected 
+which has also been reported in several long term field
+experiments egerton warburton and allen chen
+et al one possible reason is that n enrichment
+may cause the significant reductions in spore abundance
+and root colonization egerton warburton and allen
+ it was also demonstrated that n fertilization
+could significantly alter amf community richness and
+diversity porras alfaro et al chen et al 
+
+fig correlation analysis between a the ace index b soil organic matter content c the relative abundance of three fungal phyla and d the relative
+abundance of the four bacteria phyla and the soil no 
+
+− n content for the if omif and ck treatments
+
+fig redundancy analysis rda of the abundant phyla and properties
+of if omif and ck soils
+
+biol fertil soils – 
+
+
+
+although fertilizer had no obvious influence on amf
+abundance in soil corkidi et al johnson et al 
+ chen et al interestingly a significant re 
+duction in amf colonization was found in three of four
+sites located in sugar maple dominated forests through 
+out michigan while the fourth site showed only a mar 
+ginal decline in amf abundance in july and a trend
+toward an increase in october with n addition van
+diepen et al these results suggest a variable
+response of amf abundance to n fertilization which
+may depend on the edaphic conditions and host plant
+diversity 
+
+it is notable that increased n fertilizer rates can promote
+fungal genera with known pathogenic traits paungfoo 
+lonhienne et al consistent with our results the highest
+abundance of cladosporium some species of which are plant
+pathogens rivas and thomas was observed in the if 
+treatment however no significant difference in the relative
+abundance of cladosporium was found between the ck and
+omif treatments online resource suggesting that
+with the omif in contrast to the if the negative effects of
+intensive fertilization were minimal at least for certain
+pathogens 
+
+bacteria from the chloroflexi proteobacteria 
+actinobacteria acidobacteria and nitrospirae were al 
+ways the most common which roughly corresponds to
+previous studies of agricultural soils roesch et al 
+poulsen et al an exception is the chloroflexi 
+which was present at relatively higher abundance com 
+pared to other studies but similar to the levels reported
+by zhao et al one possible explanation is that the
+periodic flooding of the arable soils in the rice season 
+leading to an anaerobic environment may significantly
+impact this facultatively anaerobic phylum zhao et al 
+ variations in relative abundance were found for
+four bac te r i a l phy la inc lud ing acidobac te r i a 
+gemmatimonadetes candidate division ws and
+cyanobacteria previous studies have shown that the
+abundance of acidobacteria has a negative correlation to
+ph lauber et al rousk et al no ph vari 
+ation was detected among the soil treatments suggesting
+no obvious relationship between the acidobacteria abun 
+dance and ph which was also reported by poulsen et al 
+ gemmatimonadetes is a recently proposed phy 
+lum that is widely present in several terrestrial and aquatic
+habitats zhang et al debruyn et al sug 
+gested that the members of this phylum which prefer
+dryer soils have an adaptation to low soil moisture yin
+et al reported that the genus gemmatimonas was
+found at a high frequency in the rhizosphere of healthy
+plants however little is known about the ecological
+functions and the factors influencing the abundance of
+th i s phy lum compared to the fe r t i l i z ed so i l 
+
+cyanobacteria abundance was higher in the unfertilized
+soil suggesting that the low n content in the unfertilized
+soil may stimulate the growth of n fixing cyanobacteria 
+
+it has been reported that the alpha diversity of bacteria
+significantly increased whereas the value of the fungi was
+significantly reduced following two consecutive years of
+biofertilizer application shen et al consistent with
+that analysis of chao and ace estimates showed that the
+fungal otu numbers for the omif treatment were signif 
+icantly lower than for the other treatments while the bacterial
+otu numbers of the omif treatment were higher than for
+the other treatments these results revealed that the omif 
+treatment affected the taxonomic richness of the fungal and
+bacterial communities differently for the fungal community 
+no significant changes in the shannon index were observed
+between omif and the other treatments suggesting the
+relative stability of the fungal community for the bacterial
+community the if treatment decreased bacterial diversity
+compared to the ck treatment based on the shannon index 
+which had a lower influence no significant differences were
+detected between the ck and omif treatments indicating
+that the omif treatment had a lesser influence on bacterial
+diversity than the if treatment and that the soil bacterial
+community responds differently to different compost amend 
+ments furthermore the hierarchical cluster and pcoa analy 
+ses showed that the fungal and bacterial communities of
+omif treated soils differed from those of soils subjected
+to the if and ck treatments these results indicate that long 
+term omif application may alter the composition of both
+fungal and bacterial communities in arable soils which has
+also been reported previously ros et al chen et al 
+ shen et al 
+
+the relationship between microbial communities and soil
+om no 
+
+− n contents
+
+recently an interesting study by delmont et al 
+showed that after months of incubation two distinct micro 
+bial communities possessed similar functional and taxonomi 
+cal structures when colonizing the same soil while the same
+microbial community evolved differently when incubated in
+the different soil which revealed that the composition of mi 
+crobial communities may change responding to the variations
+of soil properties e g ph available nutrients heavy metals 
+in the present study our results revealed that the long term
+application of omif fertilizers alters both the soil properties
+and the composition of microbial community in arable soils 
+furthermore rda based on the soil chemical properties and
+phyla data indicated that tn no 
+
+− n and om contents were
+related to changes in the composition of soil microbial com 
+munities changes in both fungal and bacterial abundances
+were significantly correlated to the variations in the soil
+no 
+
+− n om contents the fungal ace estimate showed
+
+ biol fertil soils – 
+
+
+
+significant negative correlation with the soil no 
+− n om
+
+contents while the correlation was positive for the bacterial
+ace estimate all these results suggested that the variations in
+the composition of microbial community may be caused by
+their responses to variations of soil no 
+
+− n om contents 
+the om contents and composition of microbial com 
+
+munities are related for example om content of – 
+mm aggregate was related to changes in the composi 
+tion of soil microbial groups guo et al the
+accumulation of om can promote the macroaggregation
+and reduce the effective diffusion of oxygen and then
+changes microhabitats with effects on the composition
+of microbial communities zhang et al besides 
+it is likely that the om in the fertilizer treatment was a
+c source for microbial activity and improved microbial
+environmental conditions given the dependence of mi 
+crobial community composition on resource quality and
+availability helgason et al furthermore bacte 
+rial proliferation following the increase of labile organic
+substrates had antagonistic effects on fungal growth
+ lazcano et al hence compared to bacterial
+abundances in soil the inherently much lower fungal
+abundance and inhibiting effect of bacteria might be
+the reasons for the positive correlation between the bac 
+terial richness and soil om content which was negative 
+ly correlated with the fungal richness 
+
+interestingly a significant positive correlation be 
+tween no 
+
+− n and om concentrations was detected in
+this study one possible reason is that the added n
+generally had negative or neutral effects on om decom 
+position keeler et al which may have led to the
+accumulation of om in soil the om addition by the
+omif treatment has improved aerobic conditions favor 
+ing nitrification a recent study has showed that om
+accumulation can change microbial community compo 
+sition and this change can favor accumulation of soc
+in turn zhang et al these results suggested that
+the properties of om which could influence the micro 
+bial activity and growth in soils may affect the micro 
+bial community composition directly and soil no 
+
+− n
+may also be involved in this process considering the
+interactive relationship among om n contents and
+composition of microbial communities 
+
+in summary the results from the present study demonstrate
+that the application of omif could affect the fungal and bac 
+terial communities simultaneously and the changes of fungal
+and bacterial community under omif treatment could be the
+result of their responses to variations of soil no 
+
+− n om
+contents 
+
+acknowledgment this work was funded by the national natural sci 
+ence foundation of china the science foundation of jiangsu
+province china be 
+
+compliance with ethical standards
+
+conflict of interest the authors declare that they have no conflict of
+interest 
+
+references
+
+acosta martinez v dowd s sun y allen v tag encoded pyro 
+sequencing analysis of bacterial diversity in a single soil type as
+affected by management and land use soil biol biochem 
+ – 
+
+bansal s kapoor kk vermicomposting of crop residues and
+cattle dung with eisenia foetida bioresour technol – 
+
+börjesson g menichetti l kirchmann h kätterer t soil micro 
+bial community structure affected by years of nitrogen
+fertilisation and different organic amendments biol fert soils 
+ – 
+
+bremner jm mulvaney cs nitrogen total in page al ed 
+methods of soil analysis part chemical andmicrobiological prop 
+erties vol agronomy no asa sssa madison pp – 
+
+caporaso jg kuczynski j stombaugh j bittinger k bushman fd 
+costello ek fierer n peña ag goodrich jk gordon ji huttley
+ga kelley st knights d koenig je ley re lozupone ca 
+mcdonald d muegge bd pirrung m reeder j sevinsky jr 
+turnbaugh pj walters wa widmann j yatsunenko t zaneveld
+j knight r qiime allows analysis of high throughput com 
+munity sequencing data nat methods – 
+
+caporaso jg lauber cl walters wa berg lyons d lozupone ca 
+turnbaugh pj fierer n knight r global patterns of s
+rrna diversity at a depth of millions of sequences per sample proc
+natl acad sci u s a – 
+
+chen m cui y bai f wang j effect of two biogas residues
+application on copper and zinc fractionation and release in different
+soils j environ sci china – 
+
+chen yl zhang x ye js han hy wan sq chen bd six year
+fertilization modifies the biodiversity of arbuscular mycorrhizal fun 
+gi in a temperate steppe in inner mongolia soil biol biochem 
+ – 
+
+chu h lin x fujii t morimoto s yagi k hu jl zhang j soil
+microbial biomass dehydrogenase activity bacterial community
+structure in response to long term fertilizer management soil biol
+biochem – 
+
+corkidi l rowland dl johnson nc allen eb nitrogen fertil 
+ization alters the functioning of arbuscular mycorrhizas at two semi 
+arid grasslands plant soil – 
+
+cui zl yue sc wang gl meng qf wu l yang zp li sq zhang fs 
+chen xp closing the yield gap could reduce projected green 
+house gas emissions a case study of maize production in china 
+glob chang biol – 
+
+dawe d frolking s li c trends in rice wheat area in china 
+field crops res – 
+
+debruyn jm nixon lt fawazmn johnson am radosevichm 
+global biogeography and quantitative seasonal dynamics of
+gemmatimonadetes in soil appl environ microb – 
+
+delmont to francioli d jacquesson s laoudi l mathieu a nesme j 
+ceccherini mt nannipieri p simonet p vogel tm 
+microbial community development and unseen diversity recovery
+in inoculated sterile soil biol fertil soils – 
+
+ebhin mr chhonkar p singh d patra a changes in soil biolog 
+ical and biochemical characteristics in a long term field trial on a
+sub tropical inceptisol soil biol biochem – 
+
+biol fertil soils – 
+
+
+
+edgar rc uparse highly accurate otu sequences frommicro 
+bial amplicon reads nat methods – 
+
+edgar rc haas bj clemente jc quince c knight r uchime
+improves sensitivity and speed of chimera detection bioinformatics
+ – 
+
+egerton warburton lm allen eb shifts in arbuscular mycorrhi 
+zal communities along an anthropogenic nitrogen deposition gradi 
+ent ecol appl – 
+
+eneji ae yamanioto s honna t ishiguro a physicochemical
+changes in livestock feces during composting commun soil sci
+plant anal – 
+
+etten ev multivariate analysis of ecological data using
+canoco austral eco – 
+
+ge g li z fan f chu g hou z liang yc soil biological
+activity and their seasonal variations in response to long term appli 
+cation of organic and inorganic fertilizers plant soil – 
+
+geisseler d scow km long term effects of mineral fertilizers on
+soil microorganisms—a review soil biol biochem – 
+
+guo lj zhang zs wang dd li cf cao cg effects of short 
+term conservation management practices on soil organic carbon
+fractions and microbial community composition under a rice 
+wheat rotation system biol fertil soils – 
+
+haynes rj naidu r influence of lime fertilizer and manure
+applications on soil organic matter content and soil physical condi 
+tions a review nutr cycl in agroecosys – 
+
+helgason bl walley fl germida jj long term no till manage 
+ment affects microbial biomass but not community composition in
+canadian prairie agroecosytems soil biol biochem – 
+
+isbell f reich pb tilman d hobbie se polasky s binder s 
+nutrient enrichment biodiversity loss and consequent declines in
+ecosystem productivity proc natl acad sci u s a –
+ 
+
+islam mr chauhan ps kim y kim m sa t community level
+functional diversity and enzyme activities in paddy soils under dif 
+ferent longterm fertilizer management practices biol fert soils 
+ – 
+
+joergensen rg mäder p fließbach a long term effects of or 
+ganic farming on fungal and bacterial residues in relation to micro 
+bial energy metabolism biol fertil soils – 
+
+johnson nc rowland dl corkidi l egerton warburton lm allen eb
+ nitrogen enrichment alters mycorrhizal allocation at five
+mesic to semiarid grasslands ecology – 
+
+jones md phillips la treu r ward v berch sm functional
+responses of ectomycorrhizal fungal communities to long term fer 
+tilization of lodgepole pine pinus contorta dougl ex loud var 
+latifolia engelm stands in central british columbia appl soil
+ecol – 
+
+ju xt xing gx chen xp zhang sl zhang lj liu xj cui zl yin b 
+christie p zhu zl zhang fs reducing environmental risk
+by improving n management in intensive chinese agricultural sys 
+tems proc natl acad sci u s a – 
+
+keeler bl hobbie se kellogg le effects of long term nitrogen
+addition on microbial enzyme activity in eight forested and grass 
+land sites implications for litter and soil organic matter decomposi 
+tion ecosystems – 
+
+kivlin sn winston gc goulden ml treseder kk 
+environmental filtering affects soil fungal community composition
+more than dispersal limitation at regional scales fungal ecol –
+ 
+
+lauber cl hamady m knight r fierer n pyrosequencing 
+based assessment of soil ph as a predictor of soil bacterial commu 
+nity structure at the continental scale appl environ microb 
+ – 
+
+lazcano c brandón gómez m revilla p domínguez j 
+shortterm effects of organic and inorganic fertilizers on soil micro 
+bial community structure and function biol fertil soils – 
+
+lee ck barbier ba bottos em mcdonald ir cary sc the
+inter valley soil comparative survey the ecology of dry valley
+edaphic microbial communities isme j – 
+
+liu x zhang y hanw tang ah shen jl cui zl vitousek p erisman
+jw goulding k christie p fangmeier a zhang f 
+enhanced nitrogen deposition over china nature – 
+
+liu y shi g mao l cheng g jiang s ma x an l du g collins
+johnson n feng h direct and indirect influences of yr of
+nitrogen and phosphorus fertilization on glomeromycota in an al 
+pine meadow ecosystem new phytol – 
+
+lv m li z che y han f liu m soil organic c nutrients 
+microbial biomass and grain yield of rice oryza sativa l after
+ years of fertilizer application to an infertile paddy soil biol fert
+soils – 
+
+miransari m interactions between arbuscular mycorrhizal fungi
+and soil bacteria appl microbiol biotechnol – 
+
+merwin hd peech m exchangeability of soil potassium in sand 
+silt and clay fractions as influenced by the nature of the complemen 
+tary cation soil sci soc am j – 
+
+murugan r kumar s influence of long term fertilisation and crop
+rotation on changes in fungal and bacterial residues in a tropical
+ricefield soil biol fertil soils – 
+
+ogilvie la hirsch pr johnston awb bacterial diversity of the
+broadbalk ‘classical’ winter wheat experiment in relation to long 
+term fertilizer inputs microbial ecol – 
+
+paungfoo lonhienne c yeoh yk kasinadhuni nrp lonhienne tg 
+robinson n hugenholtz p ragan ma schmidt s 
+nitrogen fertilizer dose alters fungal communities in sugarcane soil
+and rhizosphere sci rep 
+
+porras alfaro a herrera j natvig do sinsabaugh rl effect of
+long term nitrogen fertilization onmycorrhizal fungi associated with
+a dominant grass in a semiarid grassland plant soil – 
+
+poulsen ph al soud wa bergmark l magid j hansen lh sørensen
+sj effects of fertilization with urban and agricultural organic
+wastes in a field trial–prokaryotic diversity investigated by pyrose 
+quencing soil biol biochem – 
+
+ramirez ks craine jm fierer n consistent effects of nitrogen
+amendments on soil microbial communities and processes across
+biomes global change biol – 
+
+rivas s thomas cm molecular interactions between tomato and
+the leaf mold pathogen cladosporium fulvum annu rev
+phytopathol – 
+
+roesch lf fulthorpe rr riva a casella g hadwin ak kent ad 
+daroub sh camargo fa farmerie wg triplett ew 
+pyrosequencing enumerates and contrasts soil microbial diversity 
+isme j – 
+
+rosm pascual ja garcia c hernandezmt insam h hydrolase
+activities microbial biomass and bacterial community in a soil after
+long term amendment with different composts soil biol biochem
+ – 
+
+rousk j bååth e brookes pc lauber cl lozupone c caporaso jg 
+knight r fierer n soil bacterial and fungal communities
+across a ph gradient in an arable soil isme j – 
+
+schloss pd westcott sl ryabin t hall jr hartmann m hollister eb 
+lesniewski ra oakley bb parksdh robinsoncj sahl jw stres
+b thallinger gg van horn dj weber cf introducing
+mothur open source platform independent community supported
+software for describing and comparing microbial communities 
+appl environ microb – 
+
+schönning c leeming r stenström ta faecal contamination of
+source separated human urine based on the content of faecal sterols 
+water res – 
+
+shen z ruan y chao x zhang j li r shen q rhizosphere
+microbial community manipulated by years of consecutive
+biofertilizer application associated with banana fusarium wilt dis 
+ease suppression biol fertil soils – 
+
+ biol fertil soils – 
+
+
+
+singh bk campbell cd sorenson sj zhou j soil genomics nat
+rev microbiol – 
+
+steiner c teixeira wg lehmann j nehls t de macêdo jlv blum
+weh zech w long term effects of manure charcoal and
+mineral fertilization on crop production and fertility on a
+highly weathered central amazonian upland soil plant soil
+ – 
+
+usman ara kuzyakov y stahr k dynamics of organic c min 
+eralization and the mobile fraction of heavy metals in a calcareous
+soil incubated with organic wastes water air soil poll – 
+
+van diepen lta lilleskov ea pregitzer ks miller rm decline
+of arbuscular mycorrhizal fungi in northern hardwood forests ex 
+posed to chronic nitrogen additions new phytol – 
+
+wargo mj hogan da fungal—bacterial interactions a mixed
+bag of mingling microbes curr opin microbiol – 
+
+watanabe fs olsen sr test of an ascorbic acid method for
+determining phosphorus in water and nahco extracts from soil 
+soil sci soc am j – 
+
+yeomans jc bremner jm a rapid and precise method for routine
+determination of organic carbon in soil commun soil sci plant 
+ – 
+
+yin c hulbert sh schroeder kl mavrodi o mavrodi d dhingra a
+ role of bacterial communities in the natural suppression of
+rhizoctonia solani bare patch of wheat triticum aestivum l appl
+environ microb – 
+
+zhang h ding w yu h he x linking organic carbon accumu 
+lation to microbial community dynamics in a sandy loam soil result
+of years compost and inorganic fertilizers repeated application
+experiment biol fertil soils – 
+
+zhang h sekiguchi y hanada s hugenholtz p kim h kamagata y 
+nakamura k gemmatimonas aurantiaca gen nov sp nov 
+a gram negative aerobic polyphosphate accumulating micro or 
+ganism the first cultured representative of the new bacterial phylum
+gemmatimonadetes phyl nov int j syst evol microbiol –
+ 
+
+zhao j ni t li y xiongw ranw shen b zhang r responses
+of bacterial communities in arable soils in a rice wheat cropping
+system to different fertilizer regimes and sampling times plos one
+ e 
+
+zhong w cai z long term effects of inorganic fertilizers on
+microbial biomass and community functional diversity in a paddy
+soil derived from quaternary red clay appl soil – 
+
+biol fertil soils – 
+
+
+	microbial communities of an arable soil treated for newnbsp years with organic and inorganic fertilizers
+	abstract
+	introduction
+	materials and methods
+	field experiment
+	soil sampling
+	soil chemical analysis
+	dna extraction and pcr amplification
+	illumina miseq sequencing
+	illumina data analysis
+	statistical analysis
+
+	results
+	soil chemical analysis
+	overall illumina miseq sequencing information
+	fungal and bacterial community composition
+	fungal and bacterial richness and diversity
+	fungal and bacterial community composition
+	correlation between the composition of microbial communities and soil chemical properties
+
+	discussion
+	effect of fertilization on soil characters
+	effect of fertilization on fungal and bacterial community
+	the relationship between microbial communities and soil om no − n contents
+
+	references
+
+
+

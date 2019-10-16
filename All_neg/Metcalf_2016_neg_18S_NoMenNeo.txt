@@ -1,0 +1,735 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+science journals — aaas
+
+
+microbiome
+
+microbial community assembly and
+metabolic function during
+mammalian corpse decomposition
+jessica l metcalf zhenjiang zech xu sophie weiss simon lax 
+
+will van treuren embriette r hyde se jin song amnon amir peter larsen 
+
+naseer sangwan daniel haarmann greg c humphrey gail ackermann 
+
+luke r thompson christian lauber alexander bibat catherine nicholas 
+
+matthew j gebert joseph f petrosino sasha c reed jack a gilbert 
+
+aaron m lynne sibyl r bucheli david o carter rob knight 
+
+vertebrate corpse decomposition provides an important stage in nutrient cycling in most
+terrestrial habitats yet microbially mediated processes are poorly understood here we
+combine deep microbial community characterization community level metabolic
+reconstruction and soil biogeochemical assessment to understand the principles governing
+microbial community assembly during decomposition of mouse and human corpses on
+different soil substrates we find a suite of bacterial and fungal groups that contribute to
+nitrogen cycling and a reproducible network of decomposers that emerge on predictable time
+scales our results show that this decomposer community is derived primarily from bulk soil 
+but key decomposers are ubiquitous in low abundance soil type was not a dominant factor
+driving community development and the process of decomposition is sufficiently reproducible
+to offer new opportunities for forensic investigations 
+
+t
+he process of decay and decomposition in
+mammalian and other vertebrate taxa is a
+key step in biological nutrient cycling with 
+out the action of vertebrate and invertebrate
+scavengers bacteria archaea fungi and pro 
+
+tists chemical decomposition of animal waste
+would proceed extremely slowly and lead to res 
+ervoirs of biochemical waste the coevolution
+of microbial decomposers with the availability of
+vertebrate corpses over the past million years
+is expected to result in conservation of key bio 
+
+chemicalmetabolic pathways and cross kingdom
+ecological interactions for efficient recycling of
+nutrient reserves although mammalian corpses
+likely represent a relatively small component of
+the detritus pool in most ecosystems their
+role in nutrient cycling and community dynam 
+ics may be disproportionately large relative to
+input size owing to the high nutrient content of
+corpses and their rapid rates of decom 
+position e g up to three orders of magnitude
+faster than plant litter these qualities make
+corpses a distinct and potentially critical driver
+of terrestrial function 
+when a mammalian body is decomposing 
+
+microbial and biochemical activity results in a
+series of decomposition stages that are as 
+sociated with a reproducible microbial succession
+across mice swine and human corpses
+ yet the microbial metabolism and succes 
+sional ecology underpinning decomposition are
+still poorly understood at present we do not
+fully comprehend i whether microbial taxa that
+drive decomposition are ubiquitous across envi 
+ronment season andhost phylogeny ii whether
+microbes that drive decomposition derive primar 
+ily from the host or from the environment and
+ iii whether the metabolic succession of micro 
+bial decomposition is conserved across the phys 
+icochemical context of decay and host phylogeny 
+several questions arise are microbial decom 
+
+poser communities ubiquitous what is the origin
+of the microbial decomposer community how
+does mammalian decomposition affect the meta 
+bolic capacity of microbial communities to an 
+swer these questions we used mouse corpses in
+laboratory settings and human donors in outdoor
+settings see supplementary materials andmeth 
+
+ods we observedmouse decomposition on three
+different soil types under constant temperature
+and humidity with insects excluded we sampled
+microbial communities on the skin abdominal
+cavity and gravesoil soils associatedwith decom 
+position by destructively sampling five mice per
+soil type per time point every days for the first
+ weeks and less frequently thereafter over days
+of decomposition fig s outdoor experiments
+on human corpses were conducted at the sam
+houston stateuniversity shsu southeast texas
+applied forensic science stafs facility awilled 
+body donation facility where human bodies were
+exposed to all natural elements including inver 
+tebrate and vertebrate scavengers we sampled
+the skin and gravesoil associated with four decom 
+posing human bodies—two of which were placed
+in the winter and two in the spring—over days
+and days respectively fig s human donors
+were sampled either daily or every other day dur 
+ing the firstmonth and less frequently thereafter 
+weusedhigh throughputamplicon basedsequenc 
+ing of s ribosomal rna rrna genes archaeal
+and bacterial community s rrna genes mi 
+crobial eukaryotic community and internal tran 
+scribed spacer regions fungal community to
+characterize the full microbial diversity associated
+with decomposition figs s to s 
+a mammalian corpse is a disturbance habitat
+
+that selects for a specializedmicrobial community
+capable of decomposing a highly concentrated
+source of proteins and lipids rather than the
+plant derived polysaccharides from which most
+detritus is derived our results show that micro 
+bial communities change significantly during
+decomposition tables s to s and become
+more similar to each other across body sites and
+gravesoils supplementary materials although
+mice were decomposed on soils with different
+chemical properties table s soil type was not
+amajor driver of skin decomposer bacterial struc 
+ture fig a a randomforests regressionmodel
+trainedonourmicrobial data resulted in estimates
+of thepostmortem interval pmi with errors to
+ days over first weeks of decomposition fig s 
+additionally estimates of pmi remained accurate
+when bacterial data associated with one soil type
+were used to train a regression model and predict
+pmi for samples associated with other soil types
+ fig s in our human experiments we also ob 
+served a reproducible succession ofmicrobes across
+bodies within the same season fig b and fig s 
+aswell as accurate estimates of pmi across seasons
+andhost species fig c and fig s wediscovered
+that important features i e microbes in our
+experiment specific regressionmodelswere similar
+across experiments fig d together these results
+confirm that microbial succession was predicta 
+ble across soil types seasons and host species 
+the microbial decomposer community may
+
+emerge frommultiple environments in which de 
+composer organisms are often rare low abun 
+dance before decomposition begins for the
+mouse experiment we used dynamic bayesian
+inference neural information flow networks 
+which revealed that soil was significantly more
+likely to be a source of bacteria and archaea for
+
+ january • vol issue sciencemag org science
+
+ department of ecology and evolutionary biology university of
+colorado boulder co usa department of pediatrics 
+university of california san diego san diego ca usa 
+ department of chemical and biological engineering university
+of colorado boulder co usa department of ecology
+and evolution university of chicago east th street 
+chicago il usa institute for genomic and systems
+biology university of chicago east th street chicago il
+ usa department of microbiology and immunology 
+stanford university stanford ca usa biosciences
+division argonne national laboratory south cass avenue 
+argonne il usa department of surgery university of
+chicago a south maryland avenue chicago il usa 
+ department of biological sciences sam houston state
+university huntsville tx usa nestlé institute of
+health sciences École polytechnique fédérale lausanne 
+bâtiment h lausanne switzerland biofrontiers institute 
+university of colorado boulder co usa alkek center
+for metagenomics and microbiome research department of
+molecular virology and microbiology baylor college of medicine 
+houston tx usa u s geological survey southwest
+biological science center moab ut usa marine
+biological laboratory mbl st woods hole ma usa 
+ laboratory of forensic taphonomy forensic sciences unit 
+division of natural sciences and mathematics chaminade
+university of honolulu honolulu hi usa department
+of computer science and engineering university of california 
+san diego san diego ca usa 
+ corresponding author e mail robknight ucsd edu r k 
+jessica metcalf colorado edu j l m 
+
+research reports
+on a
+
+pril 
+ 
+
+http science sciencem
+ag org 
+
+d
+ow
+
+nloaded from
+ 
+
+http science sciencemag org 
+
+
+science sciencemag org january • vol issue 
+
+fig microbial decomposer communities are similar across environments 
+ a results of principal coordinates analysis pcoa basedon unweightedunifrac
+distances for mouse skin bacterial and archaeal communities samples are
+colored by days of decomposition left and soil type right b log scale
+heat map of s rrna operational taxonomic units otus colonizing the skin
+of human corpses c a s rrna–based random forests rf model using
+
+our winter season skin and soil data set to train the model and predict the pmi of
+human bodies in the spring each point indicates a sample collected at a certain pmi 
+withrf predictedpmisshown in redand randomlyguessedpmis ingray rmse root
+mean square error d percentage of top pmi regression features from each
+environment thatwere shared colored lines versus number of shared features from
+randomly selected subsets of size gray lines its internal transcribed spacer 
+
+fig bacterial and archaeal decomposers emerge from multiple environments but primarily from soil a dynamic bayesian inference networks a
+neural information flow network of microbial taxa during decomposition shows soils as the most common source of decomposers b results from deeply
+sequencing s rrna amplicons from samples collected on the first day of each experiment the y axis indicates the proportion of abdominal skin and soil decomposer
+otus x axis detected in each environment at the start of the experiment bars with standard error are ordered by soil type desert d shortgrass s 
+and forest f left or season winter w and spring s right decomposers were detected in soils more frequently than in the abdomen in every comparison
+ mann whitney u test p 
+
+research reports
+on a
+
+pril 
+ 
+
+http science sciencem
+ag org 
+
+d
+ow
+
+nloaded from
+ 
+
+http science sciencemag org 
+
+
+the colonization of mice fig a to identify
+the potential sources of decomposer microbial
+communities we deeply sequenced s rrna
+amplicons from samples collected on the first
+day of each experiment we searched these deeply
+
+sequenceddata for decomposers whichwedefined
+as microbes that differentially increased during
+decomposition and found that of micro 
+bial decomposersweredetected at very low relative
+abundances in soils at the start of experiments
+
+ supplementary text fig b to understand the
+extent to which the blow fly a common postmor 
+tem scavenger insect may contribute to themicro 
+bial decomposer community we also sequenced
+the bacterial and archaeal communities on blow
+
+ january • vol issue sciencemag org science
+
+fig succession of decomposer communities in the abdominal cavity a dynamic bayesian network of interactions between archaea bacteria microbial
+eukaryotes and environmental abundance measurements during decomposition arrows indicate the direction of causality and the network is arranged
+hierarchically so that it is a proxy for succession b and c results of pcoa of cecum with all of the picrust predicted kegg orthologies kos b or kos only
+classified as “metabolism” in kegg functional hierarchies c d picrust predicted nitrite reductase lysine decarboxylase and ornithine decarboxylase
+enzyme level genes in the mouse abdominal cavity during decomposition 
+
+research reports
+on a
+
+pril 
+ 
+
+http science sciencem
+ag org 
+
+d
+ow
+
+nloaded from
+ 
+
+http science sciencemag org 
+
+
+fly tarsi supplementarymaterials anddiscovered
+that they were a potential source for microbial
+decomposers particularly in the human model
+experiment that occurred in the spring fig s 
+our results show that soilmay be themain source
+of the microbial decomposer community even
+though soil type is not important 
+when a mammal dies its immune system no
+
+longer functions and its internal temperatures
+change radically altering the environment
+for microbial colonization and growth most en 
+dogenous mammalian microbes reside in the
+gastrointestinal tract and postmortem changes
+in the gut microbial community lead to corpse
+bloating and eventually rupture to investi 
+gate the microbial community dynamics of the
+abdominal cavity during decomposition we used
+longitudinal data from themouse abdomen sam 
+ples to construct a dynamic bayesian network of
+interactions between different taxa and several
+soil environmental factors as a proxy for the ab 
+dominal environment nematodes are dependent
+on the actions of fungi and bacteria with kineto 
+plastids discicristata playing a key role in com 
+munity succession fig a fungi in the groups
+eurotiales and ascomycota are strong drivers of
+community structure whereas fungi in hypocre 
+ales appear to depend on the presence of bacteria
+for colonization of the abdomen these shifts in
+
+microbial taxa are associated with large shifts in
+functional gene abundances as predicted from
+ s rrna data analysis using the picrust phy 
+logenetic investigation of communities by recon 
+struction of unobserved state software fig b 
+ particularly for kyoto encyclopedia of genes
+and genomes kegg orthology group “metabo 
+lism” fig c we detected predicted increases in
+genes related to nitrogen cycling and amino acid
+degradation including those required for thebreak 
+down of lysine and arginine into the foul smelling
+decomposition by products cadaverine and putres 
+cine fig d 
+after corpse rupture ammonia rich fluids per 
+
+meate the soil resulting in extreme and signifi 
+cant effects on the nitrogen concentration and ph
+of gravesoil fig a fig s and table s this
+rich source of nutrients and the marked changes
+to soil chemistry initiate a clear ecological succes 
+sion of soil microbial organisms with increased
+capacity for nitrogen cycling and tolerance for
+the altered soil chemical environment fig b
+and fig s predicted functions of bacterial
+communities increased in relative abundance of
+genes for amino acid degradation and subsequent
+ammonia production fig c surprisingly al 
+though we observed increases in soil nitrate con 
+centrations and processes that consume nitrate
+ figs s and s we did not see genetic signs of
+
+increased nitrification rates figs s and s 
+this suggests that nitrification pulses induced by
+vertebrate decomposition may occur on finer
+spatial or temporal scales or alternatively that
+the picrust reference database lacks genomes
+from the vertebrate corpse microbial nitrifier
+community e g fungal genomes taken togeth 
+er analysis of the full community of predicted
+metabolism related functional genes in associa 
+tion with the pmi and soil chemistry data re 
+vealed marked changes in functional potential
+during decomposition the large and rapid taxo 
+nomic changes in microbial communities—as
+well as their subsequent effect on the predicted
+metabolic capacity of both the corpse fig 
+and its surrounding environment fig and fig 
+s during decomposition—may be part of a mi 
+crobial strategy to outcompete insects and scav 
+engers for an ephemeral nutrient rich resource 
+the dramatic changes in community structure and
+function may also reflect the selective pressures
+applied by the biogeochemical hotspot formed
+during corpse decomposition fig a as a
+consequence microbial succession during decom 
+position appears to be a predictable process that
+has implications for biogeochemical cycling and
+forensic science 
+these data are important in the context of eco 
+
+system function decomposition is a fundamental
+
+science sciencemag org january • vol issue 
+
+fig effect of mammalian decomposition on soils a ph ammonium and nitrate concentrations in mouse gravesoils and control soils error bars
+indicate sd from the mean of five sample measurements b canonical correspondence analysis cca of gravesoil bacterial predicted gene ontologies
+during decomposition picrust predicted function data are based on kos with only genes classified as “metabolism” included in this analysis c predicted
+gene abundances of glutamate dehydrogenase and nitrate reductase in soils during decomposition 
+
+research reports
+on a
+
+pril 
+ 
+
+http science sciencem
+ag org 
+
+d
+ow
+
+nloaded from
+ 
+
+http science sciencemag org 
+
+
+microbial function spanning terrestrial ecosys 
+tems and though plant inputs are the dominant
+source of organicmatter vertebrate corpse inputs
+can be important resources for example 
+one rain forest in panamawas estimated to receive
+ kg in mammal corpses annually per square
+kilometer although this represents less than
+ of the mass of plant litter received by another
+panamanian rain forest corpse nutrient
+sources can be an order of magnitude more con 
+centrated than plant litter and direct com 
+parisons between plant and animal decomposition
+resources are rare thus much is still unclear
+about the role of corpse inputs in larger scale
+biogeochemical cycling e g global carbon and
+nitrogen cycling and in supporting specific com 
+munities and microbial diversity and our
+results provide an importantmicrobial perspective 
+a societal impact of these results is the value of
+
+microbial data as physical evidence in medico 
+legal death investigation we show that decom 
+poser microbial communities could potentially
+serve as temporal succession based and spatial
+ origin based supplementary text forms of
+physical evidence such as the time elapsed since
+death pmi and the location of death our obser 
+vation that postmortem microbial communities
+changed in a clock like manner that provided
+an estimate of absolute pmi is similar to using
+the development of fly larvae to estimate pmi 
+however the fly larvae pmi proxy is limited by
+corpse accessibility and season resulting in pmi
+estimates in the range of weeks months and
+even years taken together our findings dem 
+onstrate that postmortem microorganisms can
+provide both spatial and temporal insight into
+the events surrounding death 
+
+references and notes
+
+ j a gilbert j d neufeld plos biol e 
+ 
+
+ r r parmenter j a macmahon ecol monogr – 
+ 
+
+ m swift o heal j anderson decomposition in terrestrial
+ecosystems blackwell scientific oxford 
+
+ j c moore et al ecol lett – 
+ d o carter d yellowlees m tibbett naturwissenschaften 
+
+ – 
+ p s barton in carrion ecology evolution and their
+
+applications m e benbow j k tomberlin a m tarone eds 
+ crc press pp – 
+
+ j l metcalf et al elife e 
+ j l pechal et al int j legal med – 
+ e r hyde d p haarmann j f petrosino a m lynne 
+
+s r bucheli int j legal med – 
+ w e d evans the chemistry of death charles c thomas 
+
+springfield il 
+ m g i langille et al nat biotechnol – 
+ d houston in neotropical ornithology american ornithologists’
+
+union monograph no washington dc pp – 
+ m kaspari et al ecol lett – 
+ p s barton s a cunningham d b lindenmayer 
+
+a d manning oecologia – 
+ j amendt et al int j legal med – 
+
+acknowledgments
+
+the data reported in this paper are available in the qiita database
+ http qiita ucsd edu accession numbers to and
+ and the european bioinformatics institute european
+nucleotide archive www ebi ac uk ena accession numbers
+erp erp erp and erp we thank
+the donors and their families for their contribution to scientific
+research the stafs facility at shsu and the molecular cellular 
+and developmental biology transgenic facility at the university of
+
+colorado boulder for providing the space and opportunity for this
+research n fierer j zelikova and j leff for assistance with
+project logistics and data processing and the mountain research
+station and shortgrass steppe long term ecological research for
+permission to collect soils mice were euthanized humanely under
+approved protocol no ack principal investigator g a 
+this research was funded by the office of justice programs
+national institute of justice awards nij dn bx k j l m 
+d o c r k and nij dn bx k s r b and a m l 
+research capacity and infrastructure at chaminade university of
+honolulu is supported by nih building research infrastructure and
+capacity program p w v t and s w were supported
+by the national human genome research institute grant r 
+hg s and nih grant u hg j l m was
+partially supported by a templeton foundation grant r k and
+v mckenzie use of trade product or firm names is for
+informational purposes only and does not constitute an
+endorsement by the u s government j f p is chief scientific
+
+officer and founder of diversigen c n is an employee of miragen
+therapeutics and r k is chief science officer and employee of
+biota technology a member of the scientific advisory panel at
+temasek life sciences laboratory and a speaker at nestec nestle
+research center 
+
+supplementary materials
+
+www sciencemag org content suppl dc 
+materials and methods
+supplementary text
+figs s to s 
+tables s to s 
+references – 
+
+ august accepted november 
+published online december 
+ science aad 
+
+ancient microbiome
+
+the year old helicobacter pylori
+genome of the iceman
+frank maixner † ben krause kyora † dmitrij turaev † alexander herbig †
+michael r hoopmann janice l hallows ulrike kusebauch eduard egarter vigl 
+
+peter malfertheiner francis megraud niall o’sullivan giovanna cipollini 
+
+valentina coia marco samadelli lars engstrand bodo linz robert l moritz 
+
+rudolf grimm johannes krause ‡ almut nebel ‡ yoshan moodley ‡
+thomas rattei ‡ albert zink ‡
+
+the stomach bacterium helicobacter pylori is one of the most prevalent human pathogens 
+it has dispersed globally with its human host resulting in a distinct phylogeographic pattern
+that can be used to reconstruct both recent and ancient human migrations the extant
+european population of h pylori is known to be a hybrid between asian and african bacteria 
+but there exist different hypotheses about when and where the hybridization took place 
+reflecting the complex demographic history of europeans here we present a year old
+h pylori genome from a european copper age glacier mummy the “iceman” h pylori is a
+nearly pure representative of the bacterial population of asian origin that existed in europe
+before hybridization suggesting that the african population arrived in europe within
+the past few thousand years 
+
+t
+hehighly recombinant pathogenhelicobacter
+pylori has evolved to live in the acidic en 
+vironment of the human stomach today 
+this gram negative bacterium is found in
+approximately half the world’s human pop 
+
+ulation but fewer than of carriers develop
+disease that manifests as stomach ulcers or gas 
+tric carcinoma predominant intrafamilial
+transmission of h pylori and the long term
+association with humans has resulted in a phylo 
+geographic distribution pattern of h pylori that
+is shared with its host this observation
+suggests that the pathogen not only accompa 
+nied modern humans out of africa but that
+it has also been associated with its host for at
+least years thus the bacterium has
+been used as a marker for tracing complex demo 
+graphic events in human prehistory mod 
+ernh pylori strains have been assigned to distinct
+populations according to their geographic ori 
+gin hpeurope hpsahul hpeastasia hpasia 
+hpneafrica hpafrica and hpafrica that are
+derived from at least six ancestral sources 
+
+the modern h pylori strain found in most eu 
+ropeans hpeurope putatively originated from
+recombination of the two ancestral populations
+ancestral europe and ae and ae it
+has been suggested that ae originated in cen 
+tral asia where it evolved into hpasia which
+is commonly found in south asia on the other
+hand ae appears to have evolved in northeast
+africaandhybridizedwithae tobecomehpeurope
+ however the precise hybridization zone of
+the parental populations and the true origin of
+hpeurope are controversial early studies observed
+a south to north cline in ae ae frequency in
+europe this finding has been attributed to
+independent peopling events that introduced these
+ancestral h pylori components which eventually
+recombined in europe since theneolithic period 
+more recently it has been suggested that the
+ae ae admixture might have occurred in the
+middle east orwestern asia between and
+ years ago and that recombinant strains
+were introduced into europe with the first human
+recolonizers after the last glacial maximum 
+
+ january • vol issue sciencemag org science
+
+research reports
+on a
+
+pril 
+ 
+
+http science sciencem
+ag org 
+
+d
+ow
+
+nloaded from
+ 
+
+http science sciencemag org 
+
+
+decomposition
+microbial community assembly and metabolic function during mammalian corpse
+
+m lynne sibyl r bucheli david o carter and rob knight
+lauber alexander bibat catherine nicholas matthew j gebert joseph f petrosino sasha c reed jack a gilbert aaron
+amir peter larsen naseer sangwan daniel haarmann greg c humphrey gail ackermann luke r thompson christian 
+jessica l metcalf zhenjiang zech xu sophie weiss simon lax will van treuren embriette r hyde se jin song amnon
+
+originally published online december doi science aad 
+ science 
+
+ this issue p science
+whose signature may persist in the soil long after a corpse has been removed 
+specialists that convert proteins and lipids into foul smelling compounds such as cadaverine putrescine and ammonia 
+nutrients that allow soil and insect associated fungi and bacteria to grow these microorganisms are metabolic 
+microbial succession during decomposition was a predictable measure of time since death an overlying corpse leaches
+activity during the decomposition of mouse and human cadavers regardless of soil type season or species the 
+
+ monitored microbialet al the death of a large animal represents a food bonanza for microorganisms metcalf 
+decomposition spawns a microbial zoo
+
+article tools http science sciencemag org content 
+
+materials
+supplementary http science sciencemag org content suppl science aad dc 
+
+content
+related http science sciencemag org content sci full
+
+references
+
+http science sciencemag org content bibl
+this article cites articles of which you can access for free
+
+permissions http www sciencemag org help reprints and permissions
+
+terms of serviceuse of this article is subject to the 
+
+ is a registered trademark of aaas science
+licensee american association for the advancement of science no claim to original u s government works the title 
+science new york avenue nw washington dc © the authors some rights reserved exclusive 
+
+ print issn online issn is published by the american association for the advancement ofscience 
+
+on a
+pril 
+
+ 
+http science sciencem
+
+ag org 
+d
+
+ow
+nloaded from
+
+ 
+
+http science sciencemag org content 
+http science sciencemag org content suppl science aad dc 
+http science sciencemag org content sci full
+http science sciencemag org content bibl
+http www sciencemag org help reprints and permissions
+http www sciencemag org about terms service
+http science sciencemag org 
+
+

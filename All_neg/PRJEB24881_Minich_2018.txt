@@ -1,0 +1,1625 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microbial effects of livestock manure fertilization on freshwater aquaculture ponds rearing tilapia oreochromis shiranus and north african catfish clarias gariepinus 
+
+
+microbiologyopen e 	 		 	   	 of 
+https doi org mbo 
+
+www microbiologyopen com
+
+ 
+
+received 	 	april	     revised 	 	july	     accepted 	 	august	 
+doi mbo 
+
+o r i g i n a l a r t i c l e
+
+microbial effects of livestock manure fertilization on 
+freshwater aquaculture ponds rearing tilapia oreochromis 
+shiranus and north african catfish clarias gariepinus 
+
+jeremiah j minich     qiyun zhu    zhenjiang zech xu    amnon amir     
+maxon ngochera    moses simwaka    eric e allen    hastings zidana    rob knight 
+
+this	is	an	open	access	article	under	the	terms	of	the	creative	commons	attribution	license 	which	permits	use 	distribution	and	reproduction	in	any	medium 	
+provided the original work is properly cited 
+©	 	the	authors 	microbiologyopen	published	by	john	wiley	 	sons	ltd 
+
+ marine	biology	research	division 	scripps	
+institution	of	oceanography 	university	of	
+california	san	diego 	la	jolla 	california
+ department	of	pediatrics 	university	of	
+california	san	diego 	la	jolla 	california
+ department	of	fisheries 	fisheries	
+research	unit 	monkey	bay 	malawi
+ center	for	microbiome	innovation 	jacobs	
+school	of	engineering 	university	of	
+california	san	diego 	la	jolla 	california
+ national	aquaculture	center 	domasi 	
+malawi
+ department	of	computer	science	and	
+engineering 	university	of	california	san	
+diego 	la	jolla 	california
+
+correspondence
+rob	knight 	professor 	director	of	center	
+for	microbiome	innovation 	university	of	
+california	san	diego 	la	jolla 	ca 
+email 	robknight ucsd edu
+and
+hastings	zidana 	director 	national	
+aquaculture	centre 	domasi 	zomba 	
+malawi 
+email 	hastingszidana yahoo co uk
+
+funding information
+the	first	author 	jeremiah	j	minich	was	
+supported	by	the	fulbright	program	research	
+grant	to	carry	out	this	research	in	malawi 	
+
+abstract
+the	majority	of	seafood	is	farmed 	with	most	finfish	coming	from	freshwater	ponds 	
+ponds	are	often	fertilized	to	promote	microbial	productivity	as	a	natural	feed	source	
+to	fish 	to	understand	if	pond	fertilization	with	livestock	manure	induces	a	probiotic	
+or	prebiotic	effect 	we	communally	reared	tilapia	 oreochromis shiranus 	and	north	
+african	catfish	 clarias gariepinus 	 for	 	weeks	under	seven	manure	treatments	 in 
+cluding	 layer	 chicken 	 broiler	 chicken 	 guinea	 fowl 	 quail 	 pig 	 cow 	 vs 	 commercial	
+feed	to	evaluate	microbial	community	dynamics	of	the	manure 	pond	water 	and	fish	
+feces	using	 s	and	 s	rrna	marker	genes	along	with	metagenome	sequencing 	
+catfish	growth 	but	not	tilapia 	was	positively	associated	with	plankton	abundance	
+ p	 	 	r 	 	 	and	greatest	in	ponds	fertilized	with	quail	manure	 anova 	
+p	 	 	manure	was	unique	and	influenced	the	 s	microbiome	in	pond	water 	ti 
+lapia	 gut 	 and	 catfish	 gut	 and	 s	 community	 in	 pond	 water	 and	 catfish	 guts	
+ permanova 	p	 	 	on	average 	 	 	and	 	of	manure	bacteria	
+sotus 	 sub 	operational	taxonomic	units 	were	present	in	the	water	column 	catfish	
+feces 	and	tilapia	feces	which	comprised	 	 	and	 	of	the	total	micro 
+bial	richness	of	the	communities 	respectively 	antibiotic	resistance	genes	were	high 
+est	in	the	manure	and	water	samples	followed	by	tilapia	feces	and	lowest	in	catfish	
+feces	 p	 	 	in	this	study 	we	demonstrate	how	the	bacterial	and	eukaryotic	
+microbial	composition	of	fish	ponds	are	influenced	by	specific	livestock	manure	in 
+puts	and	 that	 the	gut	microbiome	of	 tilapia is more sensitive and responsive than 
+catfish	to	these	changes 	we	conclude	that	animal	manure	used	as	fertilizer	induces	
+a	primarily	prebiotic	effect	on	the	pond	ecosystem	rather	than	a	direct	probiotic	ef 
+fect	on	fish 
+
+k e y w o r d s
+
+ s	rrna 	 s	rrna 	african	catfish 	antibiotic	resistance	genes 	aquaculture 	fish	
+microbiome 	freshwater	ecology 	metagenomics 	microbiome 	tilapia
+
+www microbiologyopen com
+http orcid org x
+http creativecommons org licenses by 
+mailto robknight ucsd edu
+mailto hastingszidana yahoo co uk
+
+
+ of        minich et al 
+
+    introduc tion
+
+aquaculture	is	required	to	feed	the	world	in	the	 st	century 	while	
+doing	 so	 sustainably	 is	 required	 to	 preserve	 ecosystems 	 in	 	
+for	the	first	time	in	history 	the	amount	of	seafood	consumed	from	
+aquaculture	 farms	 surpassed	 seafood	 harvested	 from	 the	 wild	
+ http www fao org a i e pdf 	 fish	 farming	 makes	 up	 	
+of	all	aquaculture	production	with	 	of	production	occurring	 in	
+freshwater	 systems	 as	 opposed	 to	marine	 moffitt	 	 cajas 	cano 	
+ 	 across	 continents 	 aquaculture	 is	 growing	 fastest	 in	 africa	
+at	 	annual	growth 	thus	improving	production	for	fish	farmers	
+while	 ensuring	 seafood	 safety	 for	 human	 consumption	 is	 needed 	
+with	over	 	species	of	fish	being	farmed	globally 	tilapia	and	cat 
+fish	species	are	grown	worldwide	in	over	 	countries	and	are	con 
+sidered	the	fastest	growing	markets	making	up	a	large	proportion	of	
+the	total	farmed	fish	biomass	 moffitt	 	cajas 	cano 	 	in	many	
+developing	 countries 	 particularly	 throughout	 africa 	 the	 aquacul 
+ture	 industry	 is	growing	to	meet	fish	consumption	demands 	while	
+providing	numerous	job	opportunities 	malawi 	a	country	with	over	
+ 	million	people 	was	designated	the	poorest	country	in	the	world	
+by	the	world	bank	in	 	while	fishery 	related	activities	were	es 
+timated	to	provide	jobs	to	 	people	and	to	account	for	 	of	
+the	nation’s	gdp	 munthali 	 	annual	per	capita	fish	consump 
+tion	 in	malawi 	however 	still	 remains	 low	at	 	kg	making	malawi	
+one	 of	 the	 lowest	 in	 africa	 moffitt	 	 cajas 	cano 	 	 lake	
+malawi 	which	was	estimated	to	harbor	over	 	species	of	 fish	
+ snoeks 	 	has	experienced	a	steady	decline	in	wild	caught 	high	
+value	tilapia	species	with	an	 increase	 in	 low	value	sardine	species 	
+engraulicypris sardella 	which	is	thought	to	be	due	to	overfishing	and	
+ecosystem	degradation	through	habitat	loss	 jamu 	banda 	njaya 	 	
+hecky 	 	aquaculture	currently	comprises	approximately	 	of	
+the	total	fish	production	in	malawi	but	has	been	estimated	to	have	
+grown	 	in	the	past	 	years 	these	efforts	are	helping	to	alle 
+viate	malnutrition	by	increasing	total	fish	protein	consumption	while	
+providing	sustainable	economic	enterprises	into	the	future	 moffitt	
+ 	cajas 	cano 	 	determining	 best	 practices	 to	 promote	 safe	
+aquaculture	while	ensuring	natural	ecosystem	conservation	is	an	im 
+portant	concern	 in	sub 	sahara	africa	where	government	 resource	
+management	is	often	limited	by	financial	resources 
+
+freshwater	fish	ponds	are	often	comprised	of	multiple	species	of	
+fish	reared	together	to	most	efficiently	utilize	feed	and	habitat 	many	
+countries	across	asia	and	africa	employ	these	methods	to	polycul 
+ture	fish	such	as	tilapia 	carp 	and	catfish	which	have	varied	feeding	
+strategies	including	habitat	depth	 surface	vs 	benthic 	and	ecology	
+ herbivory 	omnivory 	 and	or	 carnivory 	 hofer 	 	willoughby	
+ 	tweddle 	 	increasing	the	genetic	diversity	through	polycul 
+ture	of	multiple	carp	varieties	led	to	increased	growth	rates	 moav	 	
+wohlfarth 	 	almost	 	of	all	aquaculture	species	in	malawi	is	
+comprised	of	the	indigenous	tilapia 	oreochromis shiranus 	followed	
+by	the	red	breasted	tilapia 	coptodon rendalli	at	 	and	the	african	
+catfish 	clarias gariepinus 	at	 	 russell 	grötz 	kriesemer 	 	pemsl 	
+ 	only	one	commercial	fish	feed	is	available	in	malawi	 maldeco	
+starter	feed 	maldeco	fisheries 	press	corporation	plc 	mangochi 	
+
+malawi 	 which	 is	 a	 hard	 pressed	 sinking	 feed	 with	 various	 pellet	
+sizes 	although	little	to	no	published	research	exists	on	effects	of	ti 
+lapia	or	catfish	performance 	tilapia	and	catfish	are	primarily	reared	
+together	 in	 earthen	ponds	which	 are	 fertilized	weekly	or	monthly	
+with	fresh	chicken	manure 	a	natural 	 low	cost	biofertilizer 	provid 
+ing	nutrients	for	the	growth	of	plankton 	in	malawi 	best	practices	
+for	 stocking	 densities	 for	 farmers	 are	 at	 	 fish	 per	m or m with 
+all	ponds	being	no	deeper	than	 	m	while	other	research	has	used	
+densities	of	 – 	fish	per	m 	 kang’ombe 	brown 	 	halfyard 	 	
+mataka	 	kang’ombe 	 	chicken	manure	has	been	shown	to	be	
+more	efficient	than	chemical	fertilizer	at	promoting	growth	of	phyto 
+plankton	in	ponds	 boyd 	 	livestock	manures	promote	various	
+zooplankton	 species	 populations	 depending	 on	 the	 animal	 source	
+with	chicken	manure	out	performing	both	cow 	pig 	and	no	manure	
+groups	 in	 terms	of	 fish	production	of	c rendalli	 kang’ombe	et	al 	
+ 	 probiotic	 research	 in	 aquaculture	 has	 demonstrated	 how	
+bacteria	and	other	microbes	can	benefit	fish	health	by	maintaining	
+water	quality 	producing	antimicrobials	to	reduce	mucosal	diseases 	
+and	contributing	enzymes	to	digestion	of	food	 balcázar	et	al 	 	
+lazado	 	caipang 	 	wang 	ran 	ringø 	 	zhou 	 	by	evalu 
+ating	the	microbial	ecology	of	fish	ponds 	we	aim	to	understand	if	the	
+livestock	manure	has	a	primarily	probiotic	or	prebiotic	effect	on	the	
+pond	water	and	fish 	we	further	aim	to	discover	specific	microbial	
+species	which	are	associated	with	positive	fish	growth	in	the	most	
+important	aquaculture	species	in	malawi 	tilapia 	and	catfish 
+
+while	 fertilizing	 fish	 ponds	 with	 livestock	 manure	 has	 been	
+shown	 to	 have	 positive	 impacts	 on	 tilapia	 production	 kang’ombe	
+et	al 	 	 it	 is	 important	to	evaluate	potential	public	health	and	
+environmental	health	concerns	on	fish	consumption	and	pond	efflu 
+ent	discharge 	fish	is	often	the	primary	protein	source	in	developing	
+countries	and	has	been	touted	as	a	way	to	improve	nutrition	in	poor	
+communities	 kawarazuka	 	béné 	 	reducing	malnutrition	by	
+increasing	protein	consumption	and	household	income	is	a	proven 	
+effective	 strategy	 in	 developing	 countries 	 in	 several	 sub 	saharan	
+african	countries 	animal	food	consumption	was	higher	 in	children	
+living	 with	 dairy	 cows	 or	 chickens	 hetherington 	 wiethoelter 	
+negin 	 	 mor 	 	 while	 living	 close	 to	 animals	 can	 improve	
+protein	consumption 	 increased	exposure	to	disease	and	antibiotic	
+resistance	genes	are	of	concern	as	some	microbes	associated	with	
+livestock	 can	 impact	 human	health 	use	 of	 antibiotics	 in	 livestock	
+production	has	led	to	an	emergence	of	antibiotic	resistant	bacteria	
+ davies	 	davies 	 	su 	cui 	chen 	an 	 	zhu 	 	antibiotic	
+resistant	bacteria	can	be	found	in	animal	intestinal	tissue	 su	et	al 	
+ 	 and	 can	 be	 transmitted	 to	 humans	 through	manure 	 these	
+antibiotic	 resistance	 genes	 can	 spread	 from	 livestock	 to	 humans	
+through	human	consumption	of	 crops	 contaminated	with	 infected	
+green	manure	 fertilizer	 heuer 	 schmitt 	 	 smalla 	 	 thanner 	
+drissner 	 	walsh 	 	or	composted	manure	fertilizer	especially	
+if	the	livestock	is	fed	antibiotics	 zhu	et	al 	 	although	antibi 
+otics	are	rarely	used	directly	in	aquaculture	in	malawi 	they	are	used	
+in	terrestrial	livestock	agriculture	and	further	 	of	these	antimi 
+crobials	remain	active	in	aquaculture	water	systems	 cabello	et	al 	
+ 	thus 	understanding	the	microbial	ecology	and	transmission	
+
+http www fao org a i e pdf
+
+
+       of minich et al 
+
+of	livestock	manure	microbes	in	a	freshwater	pond	setting	will	pro 
+vide	context	for	human	exposure	risks	to	water	and	fish	from	these	
+environments 
+
+to	 understand	 the	 mechanisms	 for	 the	 beneficial	 effects	 of	
+livestock	 manure	 fertilization	 in	 aquaculture	 ponds	 and	 transmis 
+sion	 impacts 	 we	 evaluated	 the	 fish	 pond	 microbiome	 using	 tra 
+ditional	 marker	 gene	 amplicon	 methods	 and	 untargeted	 shotgun	
+metagenomics 	 over	 	weeks 	 tilapia	 and	 catfish	 were	 commonly	
+reared in m 	 concrete	 ponds	 receiving	 either	 commercial	 feed	
+or	 fresh	manure	 fertilizer	 in	 triplicate	 sourced	 from	 layer	 chicken 	
+broiler	chicken 	cow 	pig 	guinea	fowl 	or	quail	and	applied	at	 	kg	
+ha− week− 	beginning	 	weeks	prior	to	fish	stocking 	for	the	no	ma 
+nure	tank 	fish	were	fed	with	maldeco	starter	fish	feed	at	 	body 
+weight day− 	 maldeco	fisheries 	press	corporation	plc 	mangochi 	
+malawi 	at	the	end	of	 	weeks 	water	quality	and	fish	performance	
+was	assessed 	a	total	of	 	samples	from	pond	water 	tilapia	feces 	
+and	catfish	feces	were	dna	extracted	and	analyzed	using	 s	rrna	
+ 	 s	rrna	 	and	community	metagenome	sequencing	 	
+to assess microbiome dynamics 
+
+    methods
+
+    experimental design
+
+    tank setup
+
+at	the	national	aquaculture	center	in	domasi 	malawi 	 	outdoor	
+concrete	 tanks	 	m	×	 	m	×	 	m 	were	 thoroughly	 cleaned 	 filled	
+with	 fresh	water	 from	 the	domasi	 river 	 the	water	 levels	were	
+maintained	at	 	m	throughout	the	experiment	to	combat	evapora 
+tion 	but	were	not	replenished	so	as	to	mimic	standard	aquaculture	
+pond	practices 	livestock	manures	including	layer	chicken 	broiler	
+chicken 	quail 	guinea	fowl 	pig 	and	cow	were	sourced	at	the	be 
+ginning	of	 the	experiment	 from	 local	 farms	and	stored	 in	plastic	
+bags	in	the	dark	for	the	duration	of	the	 	week	experiment 	to	ini 
+tialize	development	of	microbial	biomass	 e g 	algal	bloom 	tanks	
+ n	 	 	were	 fertilized	 in	 triplicate	with	one	of	 the	 six	 livestock	
+manures	for	 	weeks	at	the	standard	rate	of	 	kg	ha− week− 
+at	the	 	week	mark	 week	 	each	tank	was	stocked	with	four	cat 
+fish	and	six	tilapia	 	fish m 	at	 	and	 	months	of	age 	respec 
+tively 	 smaller 	 younger	 catfish	were	used	 to	minimize	predation	
+on	 tilapia 	 for	 the	 next	 	weeks 	 tanks	 were	 continually	 ferti 
+lized	at	 	kg	ha− week− 	for	a	positive	control	 n	 	 	tanks 	
+which	we	expected	maximum	fish	growth 	we	substituted	manure	
+for	the	only	commercially	available	fish	feed	 in	malawi 	maldeco	
+starter	feed 	with	a	pellet	size	of	 	mm	and	advertised	crude	pro 
+tein	 content	 of	 	 in	 these	 tanks 	 fish	were	 fed	 at	 	body	
+weight	per	day 	twice	daily 	fish	were	previously	conditioned	by	a	
+ 	day	fast 	fish	mass	and	total	lengths	were	taken	at	the	beginning	
+ week	 	and	end	of	 the	experiment	 week	 	with	 total	biomass	
+per	species	being	equal	across	tanks 	unfortunately 	due	to	lack	of	
+available	catfish	fingerlings 	the	total	biomass	of	the	four	catfish	
+
+replicates	 in	 the	maldeco	 feed	 tank	was	 slightly	 larger	 one 	way	
+anova 	p	 	 	than	the	other	tanks 	so	maldeco	feed	growth	
+rates	were	excluded	from	comparisons	of	growth	in	the	analyses 	
+as	a	reference 	however 	the	bar	charts	are	still	included	in	the	fig 
+ures 	mortalities	were	monitored	and	counted	for	each	tank 	fish	
+were	collected	from	the	tanks	with	mass	and	length	measured 	a	
+secchi 	disk	was	used	to	measure	water	visibility	at	the	end	of	the	
+experiment 	the	depth	at	which	the	disk	 is	no	 longer	visible	was	
+recorded	and	is	related	to	turbidity	influenced	by	primary	produc 
+tivity 	fish	feces 	and	detritus	 almazan	 	boyd 	 
+
+    fish performance
+
+the	following	equations	were	used	to	measure	fish	performance	over	
+the	course	of	the	experiment 	for	species	specific	performance 	sur 
+vival	 rate 	 average	 daily	 growth 	 specific	 growth	 rate 	 and	 percent	
+weight	 gain	 was	 compared	 using	 an	 unpaired	 student’s	 t	 test 	 fish	
+growth	and	performance	was	tested	for	normality	and	then	compared	
+across	fertilization	treatments	by	a	one 	way	anova	and	tukey’s	post	
+hoc	test	 if	significant 	mortalities	were	determined	by	daily	monitor 
+ing	of	dead	fish	on	the	surface 	fish	mortalities	due	to	cannibalism	or	
+carnivory	were	determined	by	counting	the	total	fish	at	the	end	of	the	
+experiment	and	subtracting	known	mortalities	during	the	 	weeks 
+
+to	measure	the	total	change	in	biomass	of	a	specific	fish	species	
+over	the	course	of	the	treatment 
+
+percent weight gain	 hopkins 	 	 lugert 	 thaller 	 tetens 	
+schulz 	 	krieter 	 
+
+wt	 	total	mass	 grams 	at	end	of	experiment
+wi	 	total	mass	 grams 	at	start	of	experiment
+average daily growth	 hopkins 	 
+
+t 	number	of	days
+specific growth rate	 hopkins 	 
+
+survival rate	is	measured	by	 qf qi 	×	 
+qf	 	quantity	of	fish	at	end	of	experiment
+qi	 	quantity	of	fish	at	beginning	of	experiment
+to	measure	the	plumpness	of	the	fish	which	is	an	indirect	mea 
+
+surement	of	health 
+condition factor	 froese 	 	 fulton 	 	 lugert	 et	al 	
+
+ 
+
+    microbiome sampling and processing
+
+water	was	collected	from	the	 	ponds	at	week	 	and	week	 	to	
+determine	microbial	diversity	pre 		and	postfish	stocking	during	a	
+
+ pwg wt−wi ∕wi× 
+
+ adg g day− wt−wi∕tdays
+
+ sgr × lnwf− lnwi ∕tdays
+
+ k ×massgrams∕ lengthcm 
+ 
+
+
+
+ of        minich et al 
+
+fertilization	regime 	at	week	 	 	ml	of	water	was	sampled	from	
+the	upper	 	cm	of	pond	water	 from	each	of	 the	 	 tanks	with	
+replicate treatment tanks pooled and then μm	filtered	to	col 
+lect	 all	microbes	 bacteria 	 phytoplankton 	 and	 zooplankton 	at	
+the	end	of	week	 	 week	 	with	fish 	 	ml	of	water	from	each	of	
+the	individual	 	tanks	was	collected	and	 	μm	filtered 	fecal	
+samples	were	collected	by	stomach	massaging	from	 	fish	of	each	
+species	per	tank	for	a	total	of	 	tilapia	and	 	catfish	samples 	in	
+addition 	four	catfish	were	processed	after	the	initial	fasting	as	a	
+time	zero	control 	these	fish	included	two	adult	broodstock	and	
+two	 juveniles 	one	 adult	 and	 one	 juvenile	were	 also	 processed	
+whole	 for	 skin 	 intestinal 	 stomach 	 and	 fecal	 samples 	three	 ti 
+lapia	were	also	processed	after	 the	 initial	 fasting	as	a	 time	zero	
+control	for	fecal	samples	only 	as	a	control	reference	for	compar 
+ing	 concrete	 ponds	 to	 large	 earthen	 ponds 	 two	water	 samples	
+were	also	taken	from	earthen	ponds	at	the	national	aquaculture	
+center	 nac 	along	with	fecal	samples	from	three	coptodon ren 
+dalli or tilapia rendalli 	another	commonly	cultured	tilapia	species	
+in	malawi 	 as	 an	 additional	 control 	 we	 collected 	 isolated 	 and	
+processed	 the	 five	 primary	 zooplankton	 found	 in	 lake	 malawi	
+at	 senga	 bay	 including	 the	 calanoid	 copepod	 tropodiaptomus 
+cunningtoni 	 the	 cyclopoid	 copepods	 mesocyclops aequatoria 
+lis aequatorialis	 	 thermocyclops neglectus 	 and	 the	 cladocerans	
+diaphanosoma excisum	 	 bosmina longirostris	 irvine	 	 waya 	
+ 	genomic	dna	was	extracted	from	livestock	manure	input 	
+water	filters	at	time	 	and	week	 	tilapia	feces 	and	catfish	feces	
+at	 chancelor	 college	 using	 the	 mobio	 powersoil	 kit	 carlsbad 	
+usa 	 following	 the	 earth	microbiome	 project	 protocols	 earth 
+microbiome org 
+
+for	 amplicon	 methods 	 the	 earth	 microbiome	 project	 proto 
+cols	were	followed	 thompson	et	al 	 	briefly 	the	gdna	was	
+amplified	in	triplicate	for	 	pcr	cycles	using	the	 s	 f rb	
+v 	region	prokaryote	primers	 caporaso	et	al 	 	walters	et	al 	
+ 	and	broad	range	 s	 	v 	region	eukaryote	prim 
+ers	 amaral 	zettler 	mccliment 	ducklow 	 	huse 	 	 and	 se 
+quenced	at	 	×	 	bp	v 	illumina	chemistry	 caporaso	et	al 	 	
+ 	walters	 et	al 	 	 the	 analysis	 was	 performed	 in	 qiita	
+and	qiime	 	 caporaso	et	al 	 	and	visualized	in	emperor	
+ vázquez 	baeza 	 pirrung 	 gonzalez 	 	 knight 	 	 with	 pcoa	
+plots	 generated	 by	 calculating	 unweighted	 and	 weighted	 unifrac	
+distances	 lozupone	 	 knight 	 	 finer 	grained	 de	 novo	 se 
+quence	 analysis	was	 performed	 by	 deblur	 amir	 et	al 	 	 and	
+visualized	 in	calour	 github com amnona calour 	 providing	 single 	
+snp	resolution	of	sotus	 sub 	operational	taxonomic	unit 	for	both	
+ s	 and	 s	 deblurred	 biom	 tables 	 only	 samples	 with	 at	 least	
+ 	reads	and	sotus	which	had	at	least	 	reads	across	all	sam 
+ples	were	included	in	downstream	analysis 	microbial	richness	was	
+calculated	by	counting	the	total	observed	sotus	per	sample 	to	de 
+termine	if	microbial	richness	was	associated	with	fish	performance	
+or	water	 column	microbial	 growth 	 linear	 regressions	 of	 pwg	vs 	
+secchi disk visibility and microbial richness vs secchi disk variability 
+were	performed 
+
+for	whole	genome	shotgun	 wgs 	metagenomics 	 gdna	was	
+fragmented	 and	 made	 into	 libraries	 using	 the	 kapa	 hyper	 plus	
+kit	 f 	 hoffmann 	la	 roche	 ltd 	 swiss 	 final	 libraries	 were	 size	
+selected	 at	 – 	bp	 using	 a	 pippin	 prep	 sage	 science 	usa 	
+and	 sequenced	 on	 an	 illumina	 	×	 	bp	 rapid	 run 	 to	 remove	
+as	much	host	associated	dna	sequences	as	possible 	 reads	were	
+processed	 through	bowtie 	 langdon 	 	 for	 tilapia	 samples 	
+the	 closest	 relative	 with	 a	 genome	 reference	 was	 o niloliticus 
+ mkqe 	 while	 the	 nearest	 phylogenetic	 catfish	 refer 
+ence was ictalurus punctatus	 genbank 	 lbml 	 fol 
+lowed	 by	 trimming	 of	 poor	 quality	 reads	 and	 visualization	 using	
+trimmomatic	 bolger 	 lohse 	 	 usadel 	 	 and	 fastqc 	 re 
+spectively 	sequences	were	 then	assigned	 taxonomy	using	 the	k 
+mer 	based	metagenome	profiler	kraken	 wood	 	salzberg 	 	
+differential	abundances	of	sotus	or	metagenome	associated	taxa	
+were	 determined	 using	 a	 permutation 	based	 group 	mean	 com 
+parison	with	fdr	controlled	to	 	using	the	benjamini 	hochberg	
+procedure	within	deblur	and	calour	 benjamini	 	hochberg 	 	
+for	 the	 analysis	 of	 antibiotic	 resistant	 genes	 args 	 reads	were	
+translated	 into	 partial	 protein	 sequences	 using	 the	 gene	 calling	
+program	fraggenescan	 rho 	tang 	 	ye 	 	this	was	followed	
+by	search	against	the	hmm	database	for	antibiotic	resistance	pro 
+tein	 families 	 resfams	 gibson 	 forsberg 	 	dantas 	 	 using	
+hmmer	v b 	 finn 	clements 	 	eddy 	 	agr	abundances	
+were	computed	as	the	count	of	partial	protein	sequences	matching	
+each	antibiotic	 resistance	 protein	 family	 and	 normalized	 by	 total	
+number	of	reads	for	each	sample 
+
+    effect of manure
+
+to	determine	which	sotus	from	the	manure	fertilizer	may	be	influenc 
+ing	the	gut	communities	 in	the	fish	through	direct	transmission	from	
+ingestion	or	through	the	water	column 	the	number	of	sotus	present	
+in	both	manure	and	 the	various	environments	 water	week	 	water	
+week	 	tilapia	feces and	catfish	feces 	was	determined	for	each	ma 
+nure	 type 	any	sotu	present	 in	both	a	manure	primary	sample	and	
+one	of	the	three	replicate	environment	types	was	considered	shared	
+and	included 	a	two 	way	anova	with	multiple	comparisons	was	run	
+to	determine	if	environment	types	differed	in	the	number	of	manure	
+sotus	present	and	if	there	was	an	effect	of	manure	type 	this	compari 
+son	was	only	performed	for	 s	and	not	 s	due	to	a	higher	success	
+rate	with	 s	 	vs 	 	sample	drop	out	did	not	permit	a	 large	
+enough	sample	size	to	perform	the	calculations	on	 s 	guinea	fowl	
+was	excluded	because	the	week	 	water	sample	was	dropped	out 	the	
+manure	sotus	present	in	the	tilapia	and	catfish	feces	for	both	 s	and	
+ s	was	visualized	in	a	venn	diagram	to	determine	if	there	was	a	core	
+set	of	manure	derived	microbes	 shared	with	either	 fish 	 specifically 	
+core	microbes	were	defined	as	being	present	in	at	least	 	of	samples 	
+to	determine	if	livestock	manure 	when	used	as	a	fertilizer	in	fish	ponds 	
+influences	the	microbial	communities	 s 	 s 	and	wgs 	of	the	water	
+column 	tilapia	feces 	and	catfish	feces 	we	performed	a	permanova	
+ anderson 	 	in	qiime	 	 caporaso	et	al 	 
+
+
+
+       of minich et al 
+
+    results
+
+    fish performance
+
+fish	 performance	 as	 determined	 by	 survival	 rates 	 growth	 rates 	
+sgr 	 adg 	 and	 condition	 factor	 differed	 between	 the	 tilapia	 and	
+catfish	which	were	reared	together	 figure	 	supplementary	table	
+s 	of	all	 	tanks 	only	five	catfish	mortalities	were	recorded	and	
+all	attributed	to	carnivory 	whereas	 	tilapia	died	with	 	attrib 
+uted	to	carnivory	and	the	rest 	natural	causes	or	stress 	across	all	
+ 	tanks 	catfish	 m 	se 	 	 	had	a	significantly	 p 
+higher	survival	rate	than	tilapia	 	 	with	the	pig	treatment	
+having	the	highest	mortalities	with	both	species 	guinea	fowl	ponds	
+had	the	highest	survival	rates	for	tilapia	followed	by	broiler	and	quail	
+although	this	was	not	significant 	the	average	daily	growth	rate	 in	
+grams	 per	 day	was	 higher	 in	 tilapia	 	 	 compared	 to	 cat 
+fish	 	 	 p	 	 	 supplementary	table	s 	whereas	spe 
+cific	 growth	 rates	 supplementary	table	s 	 for	 tilapia	 	 	
+and	catfish	 	 	 and	percent	weight	gain	 for	 tilapia	 	
+ 	and	catfish	 	 	followed	the	trend	with	tilapia	having	
+higher	growth	performance	values	although	this	was	not	significant	
+ supplementary	table	s 
+
+    manure influence on fish performance
+
+the	manure	fertilizer	treatments	had	a	greater	influence	on	catfish	
+performance	than	tilapia	as	demonstrated	by	a	greater	variability	
+
+and	significance	in	anova	testing	 figure	 a b 	for	catfish 	quail	
+manure	provided	the	best	conditions	for	growth	compared	to	cow	
+manure	while	broiler	manure	was	also	high	 figure	 b 	although	
+not	significant 	broiler	manure	also	had	 the	greatest	growth	per 
+formance	 in	 tilapia	 figure	 a 	 for	 both	 tilapia	 and	 catfish 	 the	
+condition	 factor	 increased	 from	week	 	 to	 week	 	 which	 is	 ex 
+pected	since	the	fish	were	fasting	in	the	beginning 	at	week	 	ma 
+nure	 treatments	did	not	 influence	 the	condition	 factor	of	 tilapia 	
+whereas	 catfish	 reared	 in	 broiler	manure	 had	 a	 higher	 condition	
+factor	than	those	in	quail	manure	 p	 	 	 figure	 c d 	manure	
+treatment	 influenced	 the	 secchi	 disk	 visibility	 across	 the	 study	
+ anova	 p	 	 	 r 	 	 	 f	 	 	 with	 the	 broiler	 ma 
+nure	pond	having	a	higher	plankton	density	than	the	pig	manure	
+pond	 figure	 e 	further 	high	plankton	growth	 lower	water	vis 
+ibility was correlated with increased percent weight gain in cat 
+fish	 p	 	 	r 	 	 	but	not	tilapia	 figure	 f 	plankton	
+growth was not associated with an increased microbial richness in 
+the	water	column	or	catfish	feces	 figure	 g 	but	was	associated	
+with	 an	 increased	microbial	 richness	 in	 tilapia	 feces	 p	 	 	
+r 	 	 	 figure	 g 
+
+catfish	 performance	 was	 more	 responsive	 than	 tilapia	 to	 fer 
+tilizer	 input	and	microbial	production	 in	 the	ponds 	for	 tilapia 	 the	
+pwg	was	higher 	although	not	significant 	 in	quail	and	broiler	ma 
+nure	 tanks	 compared	 to	 the	 positive	 control	 tanks	 of	 commercial	
+maldeco	fish	feed	only	 figure	 a 	tilapia	did 	however 	grow	more	
+than	catfish	in	the	commercial	feed	pond 
+
+f igure    tilapia	and	catfish	performance	metrics	during	a	four	week	growout	experiment	under	seven	fertilization	strategies 	tilapia	
+ a 	and	catfish	 b 	growth	performance	according	to	the	fertilization	strategy 	condition	factor	comparisons	across	fertilization	regimes	for	
+ c 	tilapia	and	 d 	catfish 	the	influence	of	fertilization	method	on	water	visibility	 e 	as	measured	by	secchi	disk	at	week	 	was	compared 	
+one 	way	anova	with	tukey’s	multiple	comparisons	test	was	used	to	compare	means	by	fertilization	method	across	the	species	specific	
+performances 	 f 	the	pwg	of	tilapia	 green	squares 	and	catfish	 red	squares 	was	compared	to	water	visibility	using	linear	regression 	 g 	
+the	microbial	richness	or	total	number	of	sotus	found	in	the	fish	guts	and	water	column	were	compared	to	water	visibility	which	is	a	proxy	
+for	microbial	growth 	 p	 	 	 p	 	 	 p	 	 	 p	 	 
+
+
+
+ of        minich et al 
+
+    microbiome
+
+there	were	 	 of	 	 samples	 for	 s	 rrna 	 	 of	 	 for	 s	
+rrna 	and	 	 of	 	 for	whole	genome	shotgun	 wgs 	metagen 
+omes	which	had	sufficient	reads	and	were	included	in	the	microbi 
+ome	analysis 	there	were	 	sotus	with	 s 	 	sotus	for	 s 	
+and	 	 taxonomic	 sotus	 for	 wgs 	 manure	 microbiomes	 were	
+successfully	sequenced	for	four	manure	types	with	 s 	three	with	
+ s 	and	all	six	with	shotgun	metagenomics	 figure	 	the	number	
+of	observed	sotus	or	microbial	 richness	for	 s	and	 s	differed	
+
+across	environment	types	 kruskal 	wallis	p	 	 	 figure	 a b 	
+microbial	richness	in	manure	samples	was	substantially	lower	than	
+other	environments	 like	water	and	fish	 feces 	for	 s 	both	water	
+column	 time	 points 	week	 	week	 	 and	 tilapia	 feces	 had	 higher	
+microbial	 richness	 	 	 	 	 and	 	fold 	 than	 the	 manure	 sam 
+ples 	while	catfish	was	only	 ×	higher	 figure	 a 	for	 s 	which	
+evaluates	eukaryotic	diversity 	microbial	 richness	 in	water	at	week	
+ 	 and	week	 	was	 		 and	 	fold	 higher	 than	manure	 samples	
+ figure	 b 	while	tilapia	was	only	 	fold	higher 	water	at	week	 	
+and	week	 	had	higher	richness	than	tilapia	and	catfish	feces	while	
+tilapia	had	a	higher	number	of	sotus	than	catfish	 figure	 b 
+
+    manure effect on pond microbiome
+
+next 	 we	 used	 metagenomic	 sequencing	 methods	 to	 evaluate	 if	
+animal	 manures	 differed	 in	 their	 microbial	 diversity	 and	 if	 these	
+differences	altered	the	pond	water	and	fish	fecal	communities	in	a	
+specific	way 	manure	samples	from	different	 livestock	species	had	
+highly	 variable	microbial	 communities	 as	 expected	 from	other	mi 
+crobiome	studies 	for	 s 	bird	manure	generally	had	a	higher	com 
+position	of	actionbacteria and firmicutes 	specifically	bacilli 	whereas	
+the	 pig	 sample	 was	 dominated	 by	 bacteroidetes	 and	 specifically	
+bacteroidia	 with	minor	 amounts	 of	 flavobacteria	 figure	 a 	 quail	
+manure	had	high	amounts	of	 chloroplast	 reads	and	elevated	com 
+position	of	alphaproteobacteria	 figure	 a 	although	only	 three	of	
+the	six	manure	samples	yielded	sufficient	reads	for	the	 s	analysis 	
+bird	samples	had	higher	amounts	of	plant	 embryophyta 	associated	
+reads	and	fungi	associated	reads	from	basidiomycota and ascomycota 
+ figure	 b 	wgs	sequencing	revealed	manure	samples	having	vari 
+able	types	of	archaea 	bacteria 	eukaryotes 	and	viruses	depending	
+on	 the	animal	 source 	within	 the	bacteria 	bird	manure 	especially	
+broiler	chicken 	had	a	high	composition	of	actinobacteria	 figure	 c 	
+tenericutes	were	noticeably	higher	in	the	cow	and	pig	manure	sam 
+ples	 figure	 c 	while	firmicutes	and	viruses	were	present	across	
+all	samples 	they	were	the	lowest	in	the	broiler	manure	 figure	 c 
+
+to	determine	 if	manure	 fertilizer	 treatment	 influenced	 the	mi 
+crobial	communities	of	individual	sample	types	 water 	tilapia	feces 	
+and	catfish	feces 	a	permanova	was	performed	on	the	 s	and	
+ s	 datasets 	 for	 unweighted	 unifrac	 distances	 of	 s 	 fertilizer	
+type	significantly	influenced	the	beta	diversity	of	water	at	week	 	
+tilapia	feces 	and	catfish	feces	 permanova 	p	 	 	see	figure	
+s 	whereas	for	unweighted	unifrac	 s	distances 	fertilizer	type	
+influenced	the	beta	diversity	of	only	the	water	column	at	week	 	and	
+the	catfish	feces	 permanova 	p	 	 	see	figure	s 	livestock	
+manure	 type	 influenced	 the	 fish	pond	microbiomes	 in	a	variety	of	
+ways 	 particularly	within	 the	bacteria	domain	 s 	 therefore 	 the	
+next	goal	was	to	determine	which	specific	microbial	sotus 	within	
+the	communities 	were	being	most	influenced 
+
+we	next	 investigated	 if	 specific	 sotus	 from	 the	manure	were	
+directly	influencing	the	pond	ecosystem 	the	number	of	 s	sotus	
+in	guinea	fowl 	layer	chicken 	pig 	and	quail	manure	was	 	 	 	
+and	 	respectively 	there	were	a	total	of	 	unique	sotus	from	
+the	manure	 samples	 of	which	 	were	 present	 in	 at	 least	 	of	
+
+f igure    microbial	composition	differs	across	livestock	
+manure 	microbial	composition	organized	by	phylogenetic	grouping	
+for	 a 	 s	rrna 	 b 	 s	rrna 	and	dom	 c 	k 	mer	profile	from	
+whole	genome	sequencing
+
+
+
+       of minich et al 
+
+the	 livestock	manure	 samples 	the	majority	of	 these	 core	manure	
+sotus 	 	sotus	or	 	were	not	shared	across	any	other	envi 
+ronment’s	core	microbiome	indicating	that	the	manure	contributes	
+very	 little	diversity	directly	to	the	water	and	fish	gut	communities	
+ see	figure	s 	of	 the	 five	manure	 s 	derived	 sotus	 that	were	
+present	 in	other	environments 	succinivibrio was a core microbe in 
+both	 water	 time 	points	 and	 tilapia 	 clostridiaceae	 smb 	 was	 in	
+water week and tilapia a lwoffi	in	water	week	 	and	an	escherichia 
+coli or shigella flexneri	strain	was	shared	with	the	catfish	core	micro 
+biome 	there	were	 	core	 s	sotus	in	the	manure	samples	while	
+none	of	these	were	detected	in	the	water	or	fish	feces	 see	figure	
+s 	 the	majority	 of	 s	 reads	 in	 the	 fish	 samples	were	 from	 the	
+host	 see	figure	s a 	with	rotifera	 reads	mostly	present	 in	 tilapia	
+and	 plant	 based	 angiosperm	 reads	 in	 the	 catfish	 see	 figure	 s b 	
+the	 water	 column	 was	 mostly	 dominated	 by	 vampyrella	 amoeba 	
+rhizaria 	and	rotifera 
+
+in	addition	to	the	core	analysis 	we	also	evaluated	the	frequency	
+of	manure	sotus	 s	and	 s 	in	the	various	environments	 pond	
+water 	 tilapia	 feces 	and	catfish	 feces 	within	each	specific	manure	
+type 	the	type	of	manure	did	not	 influence	how	many	manure	as 
+sociated	 s	 or	 s	 sotus	were	 present	 in	 the	water	 column	 or	
+in	the	fish	feces 	water	samples 	tilapia	feces 	and	catfish	feces	all	
+had	 significantly	 less	 sotus	 present	 compared	 to	 manure	 tukey	
+hsd 	p	 	 	 figure	 c 	different	environments 	however 	had	
+varying	 amounts	 of	 manure	 associated	 sotus	 two 	way	 anova	
+
+p	 	 	 f	 	 	 specifically 	 water	 at	week	 	 had	 less	ma 
+nure	derived	sotus	than	catfish	feces	while	tilapia	feces	had	more	
+manure	derived	sotus	than	catfish	feces	 tukey	hsd 	p 
+ figure	 c 	tilapia	feces	contained	a	total	of	 	unique	sotus	from	
+the	 four	manure	 samples 	with	 	 of	 the	 sotus	 present	 in	 at	
+least	one	other	manure	sample	 figure	 e 
+
+looking	more	closely	 at	 the	manure	associated	bacteria	 found	
+in	 the	 various	 environments 	 four	 bacterial	 sotus	 were	 found	 in	
+all	 four	 manure	 types	 and	 were	 shared	 with	 tilapia	 feces	 includ 
+ing	 vibrionaceae 	 clostridiaceae	 smb 	 corynebacterium 	 and	
+brevibacterium aureum 	 catfish	 had	 only	 	 unique	 sotus	 shared	
+with	manure	with	 	shared	in	at	least	one	other	manure	sam 
+ple	 figure	 g 	one	sotu 	vibrionaceae 	was	present	in	all	manure	
+and	catfish	samples 	for	both	 tilapia	and	catfish 	 several	microbes	
+were	 shared	 from	 unique	 manure	 sources 	 both	 fish	 species	 had	
+lactobacillus and e coli	sotus	shared	with	guinea	fowl 	layer	chicken 	
+and	quail	manure 	lastly 	acinetobacter	was	present	in	both	fish	and	
+manure	from	pig	and	quail	ponds 
+
+the	number	of	 s	sotus	 in	broiler	chicken 	guinea	 fowl 	and	
+pig	manure	was	 	 	and	 	sotus 	respectively	 figure	 d 	only	
+one	 sotu	 from	 the	 manure	 samples	 were	 also	 present	 in	 either	
+of	the	fish	species	fecal	material	 figure	 f h 	aside	from	the	host	
+derived	sotus 	an	embryophyta	plant	sotu	was	present	in	tilapia	
+from	broiler	and	guinea	 fowl	 treated	 tanks	while	a	chlorophyceae	
+was	present	in	pig	manure	and	tilapia 
+
+f igure     influence	of	manure	associated	microbes	on	pond	ecology 	 a 	 s	and	 b 	 s	microbial	richness	across	sample	types	were	
+compared	with	non 	parametric	kruskal 	wallis	test	with	benjamini 	hochberg	 	fdr 	presence	of	manure	specific	sotus 	 c 	 s	and	 d 	
+ s 	were	counted	across	the	sample	types	and	 s	compared	with	a	two 	way	anova	with	tukey	multiple	comparisons	test 	 s	was	not	
+compared	due	to	multiple	sample	drop	out 	the	core	sotus	shared	between	manure	inputs	and	fish	guts	were	determined	for	 e 	f 	tilapia	
+and	 g 	h 	catfish
+
+
+
+ of        minich et al 
+
+    microbial community analysis
+
+the	 sample	 type	 manure 	 tilapia	 feces 	 catfish	 feces 	water	week	
+ 	water	week	 	and	various	controls 	had	the	strongest	effect	on	
+explaining	significant	differences	in	the	beta	diversity	of	the	micro 
+bial	 communities	 across	 the	 samples	 permanova 	 s	 n	 	 	
+ 	 groups 	 f	 	 	 p	 	 	 s	 n	 	 	 	 groups 	 f	 	 	
+p 	 	wgs	n	 	 	 	groups 	f	 	 	p	 	 	to	evaluate	
+microbial	community	level	similarity	in	the	manure 	pond	water 	tila 
+pia 	and	catfish	fecal	microbiomes 	the	 s 	 s 	and	wgs	sequenc 
+ing	taxonomies	of	individual	samples	summarized	using	unweighted	
+unifrac	 distances	 are	 visualized	 using	 the	 principal	 coordinates	
+
+analysis	 pcoa 	 figure	 a–c 	 individual	 samples	and	 their	 respec 
+tive	sotus	were	also	visualized	with	a	heatmap	 figure	 d–f 	depict 
+ing	several	emerging	trends 	although	manure	samples	were	highly	
+variable	 with	 respect	 to	 each	 other 	 at	 the	 community	 level	 they	
+form	a	unique	cluster	 brown 	differentiated	from	the	other	sample	
+types	 figure	 a–c 	further 	the	co 	occurring	manure	sotus	were	
+in	 low	proportional	abundance	 in	 the	water	column	and	fish	 feces	
+ figure	 d–f 	 tilapia	 and	 catfish	were	 reared	 in	 polyculture 	 shar 
+ing	 the	 same	 exposure	 to	 water	 microbes	 and	 food	 sources 	 but	
+here	we	demonstrate	the	 large	dissimilarity	between	the	fish	 tila 
+pia—green	spheres 	catfish—red	spheres 	fecal	microbiomes	both	at	
+the	community	level	 figure	 a–c 	and	at	the	individual	sotu	level	
+
+f igure    community	level	comparison	of	microbiome	associations	across	sample	types	in	the	fish	pond	system 	principal	coordinate	
+analysis	 pcoa 	plots	are	based	on	unweighted	 a 	b 	and	weighted	 d 	e 	unifrac	distance	matrix	of	the	deblurred	 s	rdna	amplicon	libraries	
+ a 	d 	deblurred	 s	rdna	amplicon	libraries	 b 	e 	the	shotgun	metagenomics	is	based	on	jaccard	and	bray 	curtis	distances	from	kraken	
+k 	mer	profiling	libraries	 c 	f 	circles	represent	primary	samples	from	the	concrete	growout	tanks	whereas	squares	are	controls	from	earthen	
+ponds 	heatmap	of	individual	sotus	y 	axis	and	samples	x 	axis	for	 g 	 s 	 h 	 s 	and	 i 	shotgun	tables	are	depicted
+
+
+
+       of minich et al 
+
+ figure	 d–f 	the	fish	fecal	microbiomes	were	also	distinct	from	the	
+water	column	indicating	a	unique	host	associated	microbial	commu 
+nity	although	the	tilapia	feces	did	share	more	core	microbes	with	the	
+water	column	such	as	cyanobacteria	 figure	 d–f 	see	figure	s a b 	
+fish	 feces	 shared	 high	 compositions	 of	 fusobacteriales	 primarily	
+cetobacterium somerae 	clostridiales 	bacillales 	and	several	orders	
+of	 proteobacteria	 including	 enterobacteriales 	 burkholderiales 	
+and	 xanthomonadales	 see	 figure	 s a 	 catfish	 were	 enriched	 in	
+clostridiales 	 bacillales 	 and	 lactobacillus	 within	 the	 firmicutes	
+along	 with	 bacteroidales	 and	 thermales	 orders	 see	 figure	 s a 	
+tilapia	were	 enriched	with	neisseriales 	 rhodobacterales 	 various	
+cyanobacteria 	and	verrucomicrobia	compared	to	the	catfish 	when	
+comparing	 s 	 tilapia	 feces	consistently	contained	higher	propor 
+tions	of	rotifers 	while	catfish	feces	were	mostly	comprised	of	reads	
+associated	with	angiosperms	 flowering	plant 	lastly 	the	water	col 
+umn	differed	slightly	at	 the	 two	 time 	points	with	a	 shift	 in	micro 
+bial	composition	 figure	 	there	was	an	increase	in	actinobacteria 	
+saprospirales 	 and	 pirellulales	 and	 a	 decrease	 in	 burkholderiales 	
+rhodospirillales 	 and	 cyanobacteria	 s	 sequences	 between	 the	
+two	water	time 	points	 see	figure	s a 	along	with	a	notable	shift	in	
+rotifer	and	cercozoa	composition	within	 s	 see	figure	s a 
+
+    fish microbiomes differ by species
+
+polycultured	 tilapia	 and	 catfish	 shared	 only	 a	 few	 common	 fish	
+specific	fecal	microbes 	largely	having	unique	host 	specific	micro 
+biomes	different	from	manure	type 	tilapia	had	a	higher	microbial	
+richness	than	the	catfish	with	a	median	richness	of	 	vs 	 	for	
+ s	 p	 	 	and	 	vs 	 	for	 s	 p	 	 	 figure	 a b 	the	
+core	microbiome	 community	 of	 the	 tilapia	 consisted	 of	 	 s	
+sotus	while	 the	catfish	had	only	 	 s	sotus 	ten	of	 the	core	
+catfish	microbes	were	also	part	of	the	tilapia	core	microbiome	with	
+seven	of	 these	not	being	 shared	with	 the	water	 column	or	other	
+environment 	these	seven	 included	two	xanthomonadaceae 	one	
+chelatococcus 	 and	 three	 bacillaceaeae 	 geobacillus 	 geobacillus 
+thermodenitrificans 	 and	 bacillus selenatarsenatis 	 although	 some	
+microbes	were	 shared 	 the	majority	of	 the	microbial	 composition	
+between	 the	 two	 fish	 species	was	 different	 as	 demonstrated	 by	
+unique	clustering	 in	 the	pcoa	 figure	 	tilapia	and	catfish	 fecal	
+microbiomes	 were	 distinguished	 by	 	 s	 see	 figure	 s 	 	
+ s	 see	 figure	 s 	 and	 	 wgs	 features	 see	 figure	 s 	 of	
+ 	 	 and	 	 total	 features 	 respectively 	 tilapia	 were	 en 
+riched	in	many	cyanobacteria 	pirellulales 	green	algae 	and	other	
+
+f igure    prevalence	of	antibiotic	resistance	genes	 args 	within	the	fish	pond	ecosystem 	 a 	total	number	of	args	detected	across	
+sample	types	colored	by	type	of	manure	used	as	fertilizer 	nonparametric	kruskal 	wallis	testing	with	post	hoc	multiple	comparisons	
+ benjamini 	hochberg	fdr 	was	performed	on	total	arg	composition	in	metagenomes	across	sample	types 	 b 	heatmap	depicting	absolute	
+arg	composition	in	metagenomes	across	all	samples	grouped	by	sample	type	and	ordered	by	manure	types 	broiler 	cow 	guinea	fowl 	layer 	
+maldeco	feed 	pig 	quail	 green—high 	blue	low 	 c 	top	 	args	averaged	across	sample	types
+
+
+
+ of        minich et al 
+
+phytoplankton	microbes	while	 catfish	was	mostly	distinguishable	
+by	 its	 bacteria	 including	 several	 lactobacilli 	 xanthomonadacea 	
+mycoplasmataceae 	and	numerous	viruses	 see	figure	s b 	figure	
+s b 	figure	s b 	the	catfish	 s	gene	represented	 	of	the	
+composition	 of	 the	 s	 genes	with	 few	 fungi	 and	 plant	material	
+making	 up	 the	 remainder 	 tilapia	 and	 catfish	 reared	 in	 the	 same	
+pond	 had	 species	 specific	 fecal	 microbiomes	 indicating	 external	
+components	such	as	diet	preference	or	niche 	pond	habitat	type 	or	
+genetics driving the microbiomes 
+
+the	proportion	of	args	varied	across	the	five	sample	types 	ma 
+nure 	water	week	 	water	week	 	 tilapia	 feces 	 and	catfish	 feces	
+ kruskal 	wallis	p	 	 	kw	statistics	 	 	specifically 	args	
+were	highest	in	manure	samples	 representing	 – 	of	reads 	
+followed	by	water	week	 	 – 	water	week	 	 – 	
+tilapia	 feces	 – 	 and	 catfish	 with	 the	 least	 –
+ 	 figure	 a 	of	the	 	arg	families	in	the	resfams	database 	
+there	were	 	args	detected	 in	the	fish	pond	dataset	 figure	 b 	
+when	 averaging	 the	 compositions	 of	 individual	args	within	 each	
+sample	type 	the	top	five	args	were	three	abc	transporters	 abc	
+efflux	 pump 	 abc tran 	 and	 macb 	 one	 glycopeptide	 resistance	
+ vanr 	and	one	quinolone	resistance	 fluor res dna topo 	mak 
+ing	up	 – 	of	all	args	 figure	 c 	tanks	that	did	not	receive	
+any	animal	manure	input 	but	instead	were	given	fish	feed 	had	the	
+same	levels	of	args	in	the	water	and	fish	feces 
+
+    discussion
+
+globally 	 finfish	 aquaculture	production 	which	 is	 highest	 in	china	
+and	india 	is	primarily	performed	in	freshwater	open	pond	systems	
+ zhao	 	shen 	 	where	livestock	manure	is	often	used	to	ferti 
+lize	ponds	“integrated	agriculture	systems”	 prein 	 	providing	
+a	 low	 cost	 feed	 alternative	 but	 posing	potential	 threats	 to	 human	
+health	 sapkota	 et	al 	 	 xiong	 et	al 	 	we	 evaluate	 the	
+mechanisms	by	which	seven	types	of	fertilizer	input	influences	the	
+free 	living	 and	 host	 associated	 microbial	 communities	 of	 ponds 	
+specifically 	we	use	high 	throughput	 sequencing	of	 three	 types	of	
+metagenomic	endpoints	 s 	 s 	and	whole	genome	sequencing 	
+to	evaluate	how	bacterial	and	eukaryote	microbial	communities	of	
+pond	water	and	polycultured	tilapia	and	africa	catfish	respond	to	fer 
+tilizer	treatment 	tilapia	and	catfish	grew	most	in	the	broiler	chicken	
+and	 quail	 manure	 treatments	 although	 the	 catfish	 overall	 growth	
+response	was	greatest	to	varying	manure	treatments 	livestock	ma 
+nure	microbiome	composition	differed	depending	on	the	host	spe 
+cies	source	and	significantly	 influenced	the	water	column	and	fish	
+gut	microbiomes 	 tilapia	 gut	microbiomes	were	more	 affected	 by	
+these	changes	than	catfish 	with	the	catfish	microbiome	being	more	
+stable 	the	majority	of	manure	microbes	were	not	detected	 in	the	
+water	 column	or	 fish	guts	 suggesting	a	primarily	prebiotic	mecha 
+nism	on	pond	communities	by	way	of	 contributing	organic	matter	
+rather	than	living	microbes	to	the	system 	our	results	provide	one	
+of	 the	 first	experimental	microbiome	studies	 ghanbari 	kneifel 	 	
+domig 	 	tarnecki 	burgos 	ray 	 	arias 	 	on	two	different	
+
+fish	species	grown	in	polyculture	and	provides	evidence	to	suggest	
+manure	having	a	primarily	prebiotic	effect	on	a	pond	ecosystem 
+
+growing	fish	in	polyculture	is	an	applied	ecological	technique	to	
+increase	sustainability	by	improving	feed	and	water	utilization 	the	
+focus	of	 this	 study	was	 to	evaluate	how	 the	microbial	 community	
+of	fish	ponds	changed	with	fertilization	type 	fish	performance	was	
+measured	 and	 related	 to	 the	 water	 the	 fish	 gut	 microbiome 	 but	
+should	be	scaled	to	 larger	sample	sizes	and	ponds	 in	the	future	to	
+follow	up	on	findings 	fish	growth	varied	across	manure	treatments	
+and	was	species	specific	although	both	tilapia	and	catfish	grew	the	
+most	 in	 the	 broiler	 chicken	 and	 quail	 manure	 treatments 	 tilapia	
+growth 	however 	was	more	variable	across	replicate	tanks	whereas	
+catfish	growth	was	less	variable	and	more	differentiated 	this	is	sur 
+prising	because	 tilapia	are	generally	considered	 to	occupy	a	 lower	
+trophic	level	as	they	are	omnivorous	and	herbivorous	filter	feeders	
+while	 catfish	 are	 generally	 carnivorous	 in	 the	wild 	 indeed 	 tilapia	
+feces	had	higher	microbial	 richness	and	higher	 frequencies	of	ma 
+nure	associated	sotus	compared	to	catfish	including 	it	is	possible	
+that	the	differences	in	growth	rates	could	also	be	attributed	to	the	
+fact	that	the	fish	ages	of	tilapia	and	catfish	differed	at	the	beginning	
+of	the	experiment	with	catfish	being	younger 	as	catfish	growth	was	
+strongly	 associated	 with	 pond	 primary	 productivity 	 the	 fish	 may	
+directly	 benefit	 by	 decreased	 visibility	 or	 light	 intensity	 hossain 	
+beveridge 	 	haylor 	 	increased	sedimentation	from	microbial	
+turnover 	or	free	living	plankton	consumption	from	the	water	column	
+or	benthic	 bok	 	jongbloed 	 	while	catfish	fry 	recent	hatch 
+lings 	 are	known	 to	have	high	survival	 rates	and	 increased	growth	
+with	live	zooplankton	feed 	juvenile 	or	adult	catfish	may	also	benefit	
+from	green	water	microorganisms	 neori 	 	catfish	growth	and	
+survival	 is	 also	 improved	with	 lower	 light	 penetration	 or	 shade	 in	
+ponds	 appelbaum	 	mcgeer 	 	which	would	also	be	associated	
+with	increased	microbial	growth	as	seen	in	this	study 	cannibalism	
+and	predation	of	other	fish	 is	expected	with	african	catfish	and	 is	
+increased	during	 low	stocking	density	 haylor 	 	 lack	of	 shel 
+ter 	 and	 decreased	 food	 availability	 hecht	 	 appelbaum 	 	
+although	we	had	to	exclude	the	catfish	growth	performance	in	the	
+maldeco	 feed	 due	 to	 a	 higher	 initial	 biomass 	 the	 percent	 weight	
+gain	 pwg 	was	 very	 low	 at	week	 	 suggesting	manure	 fertilizing	
+had	better	performance	than	commercial	fish	feed	for	catfish 	the	
+maldeco	feed	was	not	extruded 	thus	instead	of	floating	on	the	sur 
+face	it	sank	rapidly	leaving	a	narrow	window	of	time	for	the	fish	to	
+actually	consume	it 	for	this	reason	along	with	measuring	satiation	
+occurrence 	floating	feeds	are	preferred	over	sinking	feeds	 yaqoob 	
+ali 	 	mehmood 	 	as	 fish	growth	 tilapia	or	catfish 	was	not	
+statistically	 improved	with	 the	use	of	 fish	 feed 	 this	 suggests	 that	
+fish	 feed	 in	 its	 current	 status	may	 only	 contribute	 organic	matter	
+and	thus	act	as	a	fertilizer	rather	than	direct	feed 	as	expected 	fish	
+performance	was	poorest	in	the	cow	and	pig	manure	for	both	tila 
+pia	 and	 catfish	 likely	 due	 to	 decreased	microbial	 production	 from	
+decreased	nutrient	 inputs	 eghball 	wienhold 	gilley 	 	eigenberg 	
+ 	the	sgr	for	tilapia	was	previously	determined	to	be	 	
+with	 demonstrated	 improvements	 due	 to	 consumption	 of	 pond	
+plankton	 chikafumbwa 	costa 	pierce 	jamu 	kadongola 	 	balarin 	
+
+
+
+       of minich et al 
+
+ 	our	study	used	 	smaller	experimental	concrete	ponds	with	
+a	stocking	density	of	 	fish	per	m 	which	is	the	common	stocking	
+density in earthen ponds in malawi since aeration is generally not 
+available 	any	potential	benefits	offered	by	the	broiler	and	quail	ma 
+nure	for	polyculture	of	tilapia	and	catfish	should	be	replicated	in	a	
+larger	growout	earthen	pond	for	further	validation 
+
+livestock	manure	applied	to	fertilize	ponds	may	benefit	the	eco 
+system	by	providing	macronutrients	like	nitrate	and	phosphate	for	
+supporting	photosynthetic	microalgae 	organic	matter	as	an	energy	
+source	for	heterotrophic	bacteria 	or	living	bacteria	which	can	pro 
+mote	pond	water	stability	or	a	gut	probiotic	for	fish 	water	visibil 
+ity	in	ponds	can	be	used	as	a	direct	indicator	of	microbial	plankton	
+growth	 or	 primary	 productivity	 almazan	 	 boyd 	 	 various	
+aspects	influence	the	microbial	ecology	of	the	fish	gastrointestinal	
+system	 including	 diet 	 trophic	 level	 liu	 et	al 	 	 habitat 	 and	
+phylogeny	 tarnecki	et	al 	 	wong	et	al 	 	despite	occu 
+pying	 the	same	environment	and	being	exposed	to	 the	same	food	
+sources 	 polycultured	 tilapia 	 and	 catfish	 shared	 only	 a	 few	 com 
+mon	fish	specific	fecal	microbes 	largely	having	unique	host 	specific	
+microbiomes 	 various	 microbes	 including	 bacilli	 cutting 	 	
+have	been	demonstrated	to	have	probiotic	potential	in	the	fish	gut	
+through	antimicrobial	production 	immunostimulation 	and	compet 
+itive	exclusion	 gatesoupe 	 	newaj 	fyzul 	al 	harbi 	 	austin 	
+ 	ringø	 	gatesoupe 	 	and	since	bacillus were prominent 
+microbial	members	of	the	bird	manures	it	could	be	a	direct	source 	
+actinobacteria	were	 also	 highly	 abundant	 in	manure	 samples	 and	
+can	have	high	production	rates	of	secondary	metabolites	such	as	an 
+timicrobials	and	growth	promoters	for	plants	 qin 	xing 	jiang 	xu 	 	
+li 	 	actinobacteria	are	also	coupled	to	microalgae	production	
+ das 	ward 	 	burke 	 	 thus 	bird	manure	may	promote	pond	
+phytoplankton	production	by	 contributing	probiotics	 to	 the	water	
+column 
+
+manure	fertilizer	type	influenced	the	fish	pond	microbial	ecology	
+including	the	water	column	and	polycultured	fish	feces 	but	only	a	
+subset	of	the	actual	manure	associated	microbes	were	detectable	in	
+the	pond	ecosystem 	this	suggests	that	manure	fertilizer	primarily	
+influences	ponds	through	providing	unique	sources	of	organic	matter	
+and	nutrients	rather	than	a	direct	source	of	microbes 	many	animal	
+gut	associated	microbes	are	anaerobic	 dowd	et	al 	 	occupy 
+ing	a	unique	niche	 thompson	et	al 	 	and	thus	may	not	be	ca 
+pable	of	surviving	in	an	aerobic	water	environment 	tilapia	did	have	
+a	higher	number	of	manure	associated	sotus	than	water	at	week	 	
+and	catfish	feces	implying	that	tilapia	gut	environments	may	be	most	
+favorable	 for	 colonization	 of	 manure	 microbes 	 feeding	 ecology	
+may	 also	 driver	 exposure	 since	 tilapia	 are	 generally	 filter	 feeders 	
+whereas	catfish	are	primarily	benthic	carnivores 	as	many	of	these	
+microbes	are	common 	it	is	also	possible	that	they	are	not	necessarily	
+transferred	from	the	animal	manure	but	simply	represent	microbial	
+populations	that	are	commonly	found	in	each	environment 	 it	may	
+also	suggest	that	tilapia	are	more	susceptible	to	pond	water	micro 
+biology	disturbances	than	catfish	which	could	have	important	con 
+servation	and	seafood	consumption	implications 	both	fish	species	
+had lactobacillus and e coli	 sotus	 shared	with	 guinea	 fowl 	 layer	
+
+chicken 	 and	 quail	 manure 	 similarly 	 cetobacterium somerae was 
+shared	from	guinea	fowl	and	layer	manure	in	both	catfish	and	tilapia 	
+c somerae	is	a	common	anaerobic	bacteria	found	in	many	freshwater	
+fish	guts	 tsuchiya 	sakata 	 	sugita 	 	thus	our	finding	implies	
+a	potential	source	of	this	microbe	in	the	pond	system 	the	presence	
+of	e coli or s flexneri	in	the	catfish	gut	and	shared	with	animal	ma 
+nure	samples	may	be	 important	 for	human	consumption	safety	as	
+strains	of	these	microbes	cause	over	 	million	diarrhea	infections	
+per	year	in	children	from	developing	countries	worldwide	 jennison	
+ 	verma 	 	understanding	how	environmental	microbes	may	
+influence	an	aquatic	ecosystem	such	as	a	 fish	pond	will	ultimately	
+depend	on	the	fish	species	being	reared	along	with	other	factors 	for	
+aquaculture	applications 	future	studies	should	focus	on	 long 	term	
+growout	studies	in	earthen	ponds	to	validate	the	enhanced	produc 
+tion	by	broiler	chicken	and	quail	manure	along	with	short 	term	com 
+parisons	across	various	development	stages	 fry 	fingerling 	juvenile 	
+and	adult 	conservation	studies	should	not	just	look	at	one	model	
+fish	species	but	many	 if	environmental	degradation	 is	of	question 	
+as	our	results	demonstrate	how	microbial	communities	 influenced	
+by	manure	treatments	can	have	a	beneficial	effect	on	catfish	finger 
+lings 	we	hypothesize	that	 further	optimization	could	also	 improve	
+catfish	fry	production	which	is	currently	a	limitation	in	many	african	
+countries	including	malawi	 chelewani 	kassam 	 	chiwanda 	 
+
+food	safety	 is	of	growing	concern	worldwide	particularly	 in	
+developed	countries	where	livestock	living	conditions	and	clean 
+liness	 can	 have	 significant	 influence	 on	 consumer	 preferences 	
+an	important	concern	with	meat	quality	is	exposure	or	presence	
+of	antibiotics	which	freshwater	fish	ponds	have	been	shown	to	be	
+potential	 reservoirs	 of	 antibiotic	 resistance	genes	 xiong	et	al 	
+ 	one	of	the	primary	concerns	with	growing	fish	intended	
+for	human	consumption	in	manure	fertilized	ponds	is	the	poten 
+tial	 transfer	 of	 antibiotics	 from	 terrestrial	 agriculture	 animals	
+to	 fish	 which	 over	 time	 could	 lead	 to	 an	 increase	 in	 antibiotic	
+resistance	 genes 	 in	 our	 study 	 antibiotic	 resistant	 genes	were	
+highest	 in	manure	 and	water	 samples 	 while	 tilapia	 had	 higher	
+amounts	 than	 catfish 	 no	 tetracycline	 resistance	 genes	 were	
+observed	 which	 have	 been	 mostly	 associated	 with	 agriculture	
+practices	 gibson	et	al 	 	abc	transporters	have	been	pri 
+marily	associated	with	firmicutes	 forsberg	et	al 	 	which	
+in	 our	 study	 is	 associated	with	manure	 and	 fish	 fecal	 samples 	
+actinobacteria	 were	 also	 prevalent	 in	 bird	 manure 	 water 	 and	
+fish	 fecal	 samples	 and	 are	 generally	 associated	with	 high	 anti 
+biotic	resistance	genes 	particularly	mfs	transporters	 forsberg	
+et	al 	 	lastly 	fluoroquinolone	antibiotics	have	been	used	
+to	treat	malaria	for	many	decades	 divo 	sartorelli 	patton 	 	bia 	
+ 	 but	 was	 replaced	 in	 	 by	 other	 drugs	 laufer	 et	al 	
+ 	 although	 this	 class	 of	 antibiotics	 is	 still	 widely	 used	 to	
+treat	 a	 variety	 of	 gram	 negative	 bacterial	 infections	 as	 cipro 
+floxacin	 makoka	 et	al 	 	 antibiotics	 are	 used	 broadly	 in	
+hospital	and	other	 rural	clinics	 in	malawi 	while	agriculture	use	
+is	not	well	documented 	it	 is	possible	that	the	livestock	manure	
+contribute	 to	arg	prevalence	 in	 fish	 ponds 	 but	 it	 is	 also	 very	
+likely	 that	 the	 primary	 source	 is	 from	 the	 river	water	 irrigated	
+
+
+
+ of        minich et al 
+
+at	the	site 	tanks	that	did	not	receive	any	animal	manure	input 	
+but	instead	were	given	fish	feed 	had	the	same	levels	of	args	in	
+the	water	and	fish	feces	 figure	 a 	this	provides	evidence	for	a	
+common	source	such	as	the	water 
+
+    conclusion
+
+the	present	 study	 is	 the	 first	 to	evaluate	 the	microbial	 effects	
+of	manure 	based	fertilization	methods	in	freshwater	aquaculture	
+ponds	and	examine	influences	on	performance	of	tilapia	and	cat 
+fish	grown	 in	polyculture 	the	objective	was	to	understand	the	
+prebiotic	 or	 probiotic	mechanisms	 of	 livestock	manure	 applied	
+as	fertilizer	in	aquaculture	ponds 	our	results	demonstrate	that	
+while	manure	 type	 influences	 the	microbial	 composition	of	 the	
+water	 column	and	 fish	guts	with	broiler	 chicken	and	quail	 hav 
+ing	 a	 positive	 influence	 on	 fish	 production 	 manure	 microbes	
+are	 largely	undetectable	 in	 the	pond	water	and	 fish	 feces 	this	
+suggests	 that	 fertilization	with	 livestock	manure	 has	 a	 primar 
+ily	 prebiotic	 effect	on	 the	 system	by	 contributing	organic	mat 
+ter 	macronutrients 	and	micronutrients	which	in	turn	influences	
+the	 pond	microbes 	 furthermore 	 this	 finding	 suggests	 that	 as	
+microbial	 transmission	 from	 animal	 manure	 to	 fish	 is	 low 	 that	
+human	 consumption	 concerns	 should	 instead	 focus	 on	 storage	
+and	 processing	 safety 	while	 manure	 samples	 had	 the	 highest	
+amounts	of	args 	few	args	were	detected	in	the	fish	fecal	sam 
+ples 	 in	 turn 	 of	 the	 few	manure	 associated	microbes	 detected	
+in	 the	 fish	 feces 	 some	were	 potentially	 probiotic	 bacteria	 and	
+suggest	further	follow 	up	studies	to	focus	on	optimizing	manure	
+fertilization	of	hatchery	fry	to	fingerling	nursery	systems	espe 
+cially	for	catfish 
+
+acknowledg ments
+
+the	aquaculture	experiment	was	carried	out	at	national	aquaculture	
+center 	nac 	in	domasi	malawi	during	the	months	of	june	and	july	
+ 	under	the	supervision	of	dr 	hastings	zidana 	all	appropriate	
+animal	 handling	 protocols	 were	 followed	 in	 accordance	 to	 the	
+government	 and	 international	 standards 	 samples	were	 processed	
+for	dna	extraction	 in	 the	 laboratory	of	dr 	wisdom	changadeya 	
+we	thank	the	fulbright	program	for	providing	funding	to	jeremiah	j 	
+minich	during	 	to	carry	out	this	research	in	malawi 	we	thank	
+children	 of	 the	nations	malawi	 for	 the	 opportunity	 to	work	with	
+their	 high	 school	 students	 and	 introduce	 them	 to	 research	 with	
+nac 	we	thank	gail	ackermann	for	advice	on	metadata	and	antonio	
+gonzalez	pena	for	assistance	with	qiita 	we	also	thank	the	ucsd	
+chancellor’s	 initiative	 in	 the	 microbiome	 and	 microbial	 sciences	
+for	providing	opportunities	with	the	ucsd	center	for	microbiome	
+innovation 	we	thank	the	alfred	p 	sloan	foundation	for	funding	and	
+training 	all	data	are	publically	available	on	the	qiita	database	 qiita	
+study	 id	 	 https qiita ucsd edu study description 	
+and	through	ena	 ebi 	erp 
+
+e thic s approval
+
+all	 research	 conducted	 on	 fish	 was	 approved	 by	 the	 government	
+of	malawi 	the	fish	were	not	harmed	in	any	manner 	in	addition	to	
+the	pond	experiment 	three	additional	catfish	were	purchased	from	
+nac	during	a	public	fish	sale 	these	fish	were	part	of	another	experi 
+ment	at	nac	and	which	were	harvested	from	nac	and	sold	to	the	
+community 
+
+avail abilit y of data and material s
+
+the	 s 	 s 	 and	metagenomics	 datasets	 generated	 and or	 ana 
+lyzed	during	the	current	study	are	available	at	qiita ucsd edu	server	
+under	study	id	 	in	addition 	all	data	have	been	submitted	to	
+ebi 	erp 
+
+compe ting intere s ts
+
+the	authors	declare	 that	 they	have	no	competing	 interests	 in	 this	
+section 
+
+author contributions
+
+jjm	involved	with	experiment	design	and	carried	out	experiment	
+in	malawi 	 performed	 all	 microbiome	 processing 	 performed	 am 
+plicon	 and	wgs	 analysis 	 and	 was	 the	 primary	 composer	 of	 the	
+manuscript 	qz	helped	with	shotgun	metagenomics	processing	and	
+analysis	 and	 assisted	 in	writing 	 zx	performed	 the	arg	analysis 	
+aa	assisted	in	the	 s	and	 s	processing	and	data	generation 	mn	
+collected 	identified 	and	isolated	the	 	zoo	plankton	isolates	used	
+as	controls 	ms	oversaw	and	helped	with	carrying	out	fish	cultur 
+ing	 experiment 	 eea	provided	guidance	on	microbiome	analyses 	
+hz	provided	supervision	in	carrying	out	fish	culturing	experiment 	
+assisted	in	experimental	design 	and	helped	in	analysis	of	fish	per 
+formance 	rk	provided	supervision	for	microbiome	analyses 
+
+orcid
+
+jeremiah j minich http orcid org x 
+
+r e fe r e n c e s
+
+almazan 	g 	 	boyd 	c 	e 	 	an	evaluation	of	secchi	disk	visibility	
+for	 estimating	 plankton	 density	 in	 fish	 ponds 	hydrobiologia 	 	
+ – 	https doi org bf 
+
+amaral zettler 	l 	a 	mccliment 	e 	a 	ducklow 	h 	w 	 	huse 	s 	m 	
+ 	 a	method	 for	 studying	 protistan	 diversity	 using	massively	
+parallel	sequencing	of	v 	hypervariable	regions	of	small 	subunit	ri 
+bosomal rna genes plos one 	 	e 	https doi org 
+journal pone 
+
+amir 	 a 	 mcdonald 	 d 	 navas molina 	 j 	 a 	 kopylova 	 e 	 morton 	 j 	
+t 	zech	xu 	z 	…	knight 	r 	 	deblur	 rapidly	 resolves	single 	
+nucleotide	community	sequence	patterns 	msystems 	 	e 
+ https doi org msystems 	 
+
+https qiita ucsd edu study description 
+http orcid org x
+http orcid org x
+https doi org bf 
+https doi org journal pone 
+https doi org journal pone 
+https doi org msystems 
+
+
+       of minich et al 
+
+anderson 	m 	j 	 	a	new	method	for	non 	parametric	multivariate	
+analysis	of	variance 	austral ecology 	 	 – 	https doi org 
+ j 	pp 	x
+
+appelbaum 	s 	 	mcgeer 	 j 	c 	 	effect	of	diet	 and	 light	 regime	
+on	growth	and	survival	of	african	catfish	 clarias gariepinus larvae 
+and	early	juveniles 	aquaculture nutrition 	 	 – 	https doi 
+org j x
+
+balcázar 	 j 	 l 	 de	 blas 	 i 	 ruiz zarzuela 	 i 	 cunningham 	 d 	 vendrell 	
+d 	 	múzquiz 	 j 	 l 	 	 the	 role	 of	 probiotics	 in	 aquaculture 	
+veterinary microbiology 	 	 – 	 https doi org j 
+vetmic 
+
+benjamini 	y 	 	hochberg 	y 	 	controlling	the	false	discovery	rate 	
+a	practical	and	powerful	approach	to	multiple	testing 	journal of the 
+royal statistical society series b methodological 	 	 – 
+
+bok 	a 	h 	 	jongbloed 	h 	 	growth	and	production	of	sharptooth	
+catfish 	clarias gariepinus	 pisces 	clariidae 	 in	organically	 fertilized	
+ponds	 in	 the	cape	province 	south	africa 	aquaculture 	 	 –
+ 	https doi org 
+
+bolger 	a 	m 	 lohse 	m 	 	usadel 	 b 	 	 trimmomatic 	a	 flexible	
+trimmer	 for	 illumina	 sequence	 data 	 bioinformatics 	 	 –
+ 	https doi org bioinformatics btu 
+
+boyd 	 c 	 e 	 	 water quality management for pond fish culture 
+amsterdam 	netherlands 	elsevier	scientific	publishing	co 	retrieved	
+from	https www cabdirect org cabdirect abstract 
+
+cabello 	f 	c 	godfrey 	h 	p 	tomova 	a 	ivanova 	l 	dölz 	h 	millanao 	
+a 	 	buschmann 	a 	h 	 	antimicrobial	use	in	aquaculture	re 	
+examined 	its	relevance	to	antimicrobial	resistance	and	to	animal	and	
+human	health 	environmental microbiology 	 	 – 	https 
+doi org 
+
+caporaso 	 j 	 g 	 kuczynski 	 j 	 stombaugh 	 j 	 bittinger 	 k 	 bushman 	
+f 	d 	costello 	e 	k 	…	knight 	r 	 	qiime	allows	analysis	of	
+high 	throughput	community	sequencing	data 	nature methods 	 	
+ – 	https doi org nmeth f 
+
+caporaso 	j 	g 	lauber 	c 	l 	walters 	w 	a 	berg lyons 	d 	huntley 	
+j 	fierer 	n 	…	knight 	r 	 	ultra 	high 	throughput	microbial	
+community	 analysis	 on	 the	 illumina	hiseq	 and	miseq	 platforms 	
+the isme journal 	 	 – 	 https doi org 
+ismej 
+
+caporaso 	j 	g 	lauber 	c 	l 	walters 	w 	a 	berg lyons 	d 	lozupone 	
+c 	a 	turnbaugh 	p 	 j 	…	knight 	r 	 	global	patterns	of	 s	
+rrna	 diversity	 at	 a	 depth	 of	 millions	 of	 sequences	 per	 sample 	
+proceedings of the national academy of sciences 	 supplement	 	
+ – 	https doi org pnas 
+
+chelewani 	a 	p 	kassam 	d 	 	chiwanda 	v 	j 	m 	 	assessment	
+of	 growth	 and	 survival	 rates	 of	 african	 catfish	 clarias gariepinus 
+burchell	 	fry	fed	on	soybean	milk 	based	diets 	international 
+journal of aquaculture 	 	 – 	retrieved	from	http biopublisher 
+ca index php ija article view 
+
+chikafumbwa 	 f 	 j 	 k 	 t 	 costa pierce 	 b 	 a 	 jamu 	 d 	 m 	
+kadongola 	 w 	 k 	 	 balarin 	 j 	 d 	 	 investigations	
+on	 the	 use	 of	 on 	farm	 resources	 as	 pond	 inputs	 to	 culture	
+tilapia rendalli and oreochromis shiranus	 on	 smallholder	 farms	
+in	 rural	 malawi 	 aquaculture 	 	 – 	 https doi 
+org r
+
+cutting 	s 	m 	 	bacillus	probiotics 	food microbiology 	 	 –
+ 	https doi org j fm 
+
+das 	s 	ward 	l 	r 	 	burke 	c 	 	prospects	of	using	marine	ac 
+tinobacteria	 as	 probiotics	 in	 aquaculture 	 applied microbiology 
+and biotechnology 	 	 – 	 https doi org 
+s 
+
+davies 	 j 	 	davies 	d 	 	origins	 and	 evolution	 of	 antibiotic	 re 
+sistance microbiology and molecular biology reviews 	 	 – 	
+https doi org mmbr 
+
+divo 	a 	a 	sartorelli 	a 	c 	patton 	c 	l 	 	bia 	f 	j 	 	activity	of	
+fluoroquinolone	 antibiotics	 against	 plasmodium falciparum in vitro 
+
+antimicrobial agents and chemotherapy 	 	 – 	 https 
+doi org aac 
+
+dowd 	 s 	 e 	 callaway 	 t 	 r 	 wolcott 	 r 	 d 	 sun 	 y 	 mckeehan 	 t 	
+hagevoort 	r 	g 	 	edrington 	t 	 s 	 	evaluation	of	 the	bac 
+terial	diversity	 in	the	feces	of	cattle	using	 s	rdna	bacterial	 tag 	
+encoded	flx	amplicon	pyrosequencing	 btefap 	bmc microbiology 	
+ 	 	https doi org 
+
+eghball 	 b 	 wienhold 	 b 	 j 	 gilley 	 j 	 e 	 	 eigenberg 	 r 	 a 	 	
+mineralization	 of	 manure	 nutrients 	 journal of soil and water 
+conservation 	 	 – 
+
+finn 	 r 	 d 	 clements 	 j 	 	 eddy 	 s 	 r 	 	 hmmer	 web	 server 	
+interactive	 sequence	 similarity	 searching 	 nucleic acids research 	
+ suppl 	w –w 	https doi org nar gkr 
+
+forsberg 	k 	j 	patel 	s 	gibson 	m 	k 	lauber 	c 	l 	knight 	r 	fierer 	
+n 	 	 dantas 	 g 	 	 bacterial	 phylogeny	 structures	 soil	 resi 
+stomes across habitats nature 	 	 – 	 https doi 
+org nature 
+
+froese 	 r 	 	 cube	 law 	 condition	 factor	 and	 weight 	length	
+relationships 	 history 	 meta 	analysis	 and	 recommenda 
+tions journal of applied ichthyology 	 	 – 	 https doi 
+org j x
+
+fulton 	t 	 	the	rate	of	growth	of	fishes 	twenty second annual 
+report 	 – 
+
+gatesoupe 	f 	j 	 	the	use	of	probiotics	in	aquaculture 	aquaculture 	
+ 	 – 	https doi org s 
+
+ghanbari 	 m 	 kneifel 	w 	 	 domig 	 k 	 j 	 	 a	 new	 view	 of	 the	
+fish	 gut	 microbiome 	 advances	 from	 next 	generation	 sequenc 
+ing aquaculture 	 	 – 	 https doi org j 
+aquaculture 
+
+gibson 	m 	k 	forsberg 	k 	j 	 	dantas 	g 	 	improved	annotation	
+of	 antibiotic	 resistance	 determinants	 reveals	 microbial	 resistomes	
+cluster	 by	 ecology 	 the isme journal 	 	 – 	 https doi 
+org ismej 
+
+haylor 	g 	 s 	 	controlled	hatchery	production	of	clarias gariepi 
+nus	 burchell	 	 growth	 and	 survival	 of	 fry	 at	 high	 stock 
+ing density aquaculture research 	 	 – 	 https doi 
+org j tb x
+
+hecht 	 t 	 	 appelbaum 	 s 	 	 observations	 on	 intraspecific	 ag 
+gression	and	coeval	sibling	cannibalism	by	larval	and	juvenile	claias 
+gariepinus	 clariidae 	pisces 	under	controlled	conditions 	journal of 
+zoology 	 	 – 	 https doi org j 
+tb x
+
+hetherington 	 j 	 b 	 wiethoelter 	 a 	 k 	 negin 	 j 	 	 mor 	 s 	 m 	
+ 	 livestock	 ownership 	 animal	 source	 foods	 and	 child	 nu 
+tritional	 outcomes	 in	 seven	 rural	 village	 clusters	 in	 sub 	saharan	
+africa 	agriculture food security 	 	 	 https doi org 
+s z
+
+heuer 	h 	 schmitt 	h 	 	 smalla 	 k 	 	 antibiotic	 resistance	 gene	
+spread	 due	 to	 manure	 application	 on	 agricultural	 fields 	 current 
+opinion in microbiology 	 	 – 	 https doi org j 
+mib 
+
+hofer 	 r 	 	 morphological	 adaptations	 of	 the	 digestive	 tract	 of	
+tropical cyprinids and cichlids to diet journal of fish biology 	 	
+ – 	https doi org j tb x
+
+hopkins 	k 	d 	 	reporting	 fish	growth 	a	 review	of	 the	basics 	
+journal of the world aquaculture society 	 	 – 	https doi 
+org j tb x
+
+hossain 	m 	 a 	 r 	 beveridge 	m 	 c 	m 	 	 haylor 	 g 	 s 	 	 the	
+effects	 of	 density 	 light	 and	 shelter	 on	 the	 growth	 and	 survival	
+of	 african	 catfish	 clarias gariepinus	 burchell 	 	 finger 
+lings aquaculture 	 	 – 	 https doi org 
+s 
+
+irvine 	k 	 	waya 	r 	 	spatial	and	temporal	patterns	of	zooplank 
+ton	standing	biomass	and	production	in	lake	malawi 	hydrobiologia 	
+ 	 – 	https doi org a 
+
+https doi org j pp x
+https doi org j pp x
+https doi org j x
+https doi org j x
+https doi org j vetmic 
+https doi org j vetmic 
+https doi org 
+https doi org bioinformatics btu 
+https www cabdirect org cabdirect abstract 
+https doi org 
+https doi org 
+https doi org nmeth f 
+https doi org ismej 
+https doi org ismej 
+https doi org pnas 
+http biopublisher ca index php ija article view 
+http biopublisher ca index php ija article view 
+https doi org r
+https doi org r
+https doi org j fm 
+https doi org s 
+https doi org s 
+https doi org mmbr 
+https doi org aac 
+https doi org aac 
+https doi org 
+https doi org nar gkr 
+https doi org nature 
+https doi org nature 
+https doi org j x
+https doi org j x
+https doi org s 
+https doi org j aquaculture 
+https doi org j aquaculture 
+https doi org ismej 
+https doi org ismej 
+https doi org j tb x
+https doi org j tb x
+https doi org j tb x
+https doi org j tb x
+https doi org s z
+https doi org s z
+https doi org j mib 
+https doi org j mib 
+https doi org j tb x
+https doi org j tb x
+https doi org j tb x
+https doi org s 
+https doi org s 
+https doi org a 
+
+
+ of        minich et al 
+
+jamu 	 d 	 banda 	 m 	 njaya 	 f 	 	 hecky 	 r 	 e 	 	 challenges	
+to	 sustainable	 management	 of	 the	 lakes	 of	 malawi 	 journal 
+of great lakes research 	 	 – 	 https doi org j 
+jglr 
+
+jennison 	 a 	 v 	 	 verma 	 n 	 k 	 	 shigella flexneri	 infection 	
+pathogenesis	and	vaccine	development 	fems microbiology reviews 	
+ 	 – 	https doi org j femsre 
+
+kang’ombe 	 j 	 brown 	 j 	 a 	 	 halfyard 	 l 	 c 	 	 effect	 of	 using	
+different	 types	 of	 organic	 animal	 manure	 on	 plankton	 abun 
+dance 	 and	 on	 growth	 and	 survival	 of	 tilapia rendalli	 boulenger 	
+in ponds aquaculture research 	 	 – 	 https doi 
+org j x
+
+kawarazuka 	n 	 	béné 	c 	 	the	potential	role	of	small	fish	spe 
+cies	in	improving	micronutrient	deficiencies	in	developing	countries 	
+building	evidence 	public health nutrition 	 	 – 	https 
+doi org s 
+
+langdon 	 w 	 b 	 	 performance	 of	 genetic	 programming	 op 
+timised bowtie on genome comparison and analytic testing 
+ gcat 	benchmarks 	biodata mining 	 	 	https doi org 
+s 
+
+laufer 	m 	k 	thesing 	p 	c 	eddington 	n 	d 	masonga 	r 	dzinjalamala 	
+f 	k 	takala 	s 	l 	…	plowe 	c 	v 	 	return	of	chloroquine	anti 
+malarial	efficacy	in	malawi 	new england journal of medicine 	 	
+ – 	https doi org nejmoa 
+
+lazado 	c 	c 	 	caipang 	c 	m 	a 	 	mucosal	 immunity	and	pro 
+biotics	in	fish 	fish shellfish immunology 	 	 – 	https doi 
+org j fsi 
+
+liu 	h 	guo 	x 	gooneratne 	r 	lai 	r 	zeng 	c 	zhan 	f 	 	wang 	w 	
+ 	the	gut	microbiome	and	degradation	enzyme	activity	of	wild	
+freshwater	fishes	influenced	by	their	trophic	levels 	scientific reports 	
+ 	 	https doi org srep 
+
+lozupone 	c 	 	knight 	r 	 	unifrac 	a	new	phylogenetic	method	
+for	 comparing	 microbial	 communities 	 applied and environmental 
+microbiology 	 	 – 	 https doi org 
+aem 
+
+lugert 	v 	thaller 	g 	tetens 	j 	schulz 	c 	 	krieter 	j 	 	a	review	
+on	fish	growth	calculation 	multiple	functions	in	fish	production	and	
+their	specific	application 	reviews in aquaculture 	 	 – 	https 
+doi org raq 
+
+makoka 	m 	h 	miller 	w 	c 	hoffman 	 i 	f 	cholera 	r 	gilligan 	p 	h 	
+kamwendo 	d 	…	hosseinipour 	m 	c 	 	bacterial	infections	in	
+lilongwe 	malawi 	aetiology	and	antibiotic	resistance 	bmc infectious 
+diseases 	 	 	https doi org 
+
+mataka 	 l 	 	 kang’ombe 	 j 	 	 effect	 of	 substitution	 of	 maize	
+bran	 with	 chicken	 manure	 in	 semi 	intensive	 pond	 culture	 of	
+tilapia rendalli	 boulenger 	 aquaculture research 	 	 –
+ 	 retrieved	 from	 http agris fao org agris search search 
+do recordid us 
+
+moav 	r 	 	wohlfarth 	g 	w 	 	magnification	through	competition	
+of	genetic	differences	in	yield	capacity	in	carp heredity 	 	 –
+ 	https doi org hdy 
+
+moffitt 	 c 	 m 	 	 cajas cano 	 l 	 	 blue	 growth 	 the	 	 fao	
+state	of	world	fisheries	and	aquaculture 	fisheries 	 	 – 	
+https doi org 
+
+munthali 	 s 	 m 	 	 dwindling	 food 	fish	 species	 and	 fishers’	
+preference 	 problems	 of	 conserving	 lake	 malawi’s	 biodiver 
+sity biodiversity conservation 	 	 – 	 https doi 
+org a 
+
+neori 	a 	 	“green	water”	microalgae 	the	leading	sector	in	world	
+aquaculture 	journal of applied phycology 	 	 – 	https doi 
+org s 
+
+newaj fyzul 	 a 	 al harbi 	 a 	 h 	 	 austin 	 b 	 	 review 	
+developments	 in	 the	 use	 of	 probiotics	 for	 disease	 control	 in	
+aquaculture 	 aquaculture 	 	 – 	 https doi org j 
+aquaculture 
+
+prein 	m 	 	 integration	 of	 aquaculture	 into	 crop–animal	 systems	
+in asia agricultural systems 	 	 – 	https doi org 
+s x 
+
+qin 	 s 	xing 	k 	 jiang 	 j h 	xu 	 l h 	 	li 	w j 	 	biodiversity 	
+bioactive	 natural	 products	 and	 biotechnological	 potential	 of	
+plant associated endophytic actinobacteria applied microbiology 
+and biotechnology 	 	 – 	 https doi org 
+s 
+
+rho 	 m 	 tang 	 h 	 	 ye 	 y 	 	 fraggenescan 	 predicting	 genes	
+in short and error prone reads nucleic acids research 	 	
+e –e 	https doi org nar gkq 
+
+ringø 	 e 	 	gatesoupe 	 f j 	 	 lactic	 acid	 bacteria	 in	 fish 	 a	 re 
+view aquaculture 	 	 – 	 https doi org 
+s 
+
+russell 	 a 	 j 	m 	grötz 	 p 	 a 	 kriesemer 	 s 	 k 	 	 pemsl 	d 	 e 	 	
+country case study development and status of freshwater aquaculture 
+in malawi 	penang 	malaysia 	worldfish 
+
+sapkota 	a 	sapkota 	a 	r 	kucharski 	m 	burke 	j 	mckenzie 	s 	walker 	
+p 	 	lawrence 	r 	 	aquaculture	practices	and	potential	human	
+health	 risks 	 current	 knowledge	 and	 future	 priorities 	environment 
+international 	 	 – 	 https doi org j 
+envint 
+
+snoeks 	j 	 	how	well	known	 is	 the	 ichthyodiversity	of	 the	 large	
+east	 african	 lakes 	 advances in ecological research 	 	 – 	
+https doi org s 
+
+su 	j q 	cui 	l 	chen 	q l 	an 	x l 	 	zhu 	y g 	 	application	of	
+genomic	technologies	to	measure	and	monitor	antibiotic	resistance	
+in animals annals of the new york academy of sciences 	 	 –
+ 	https doi org nyas 
+
+tarnecki 	a 	m 	burgos 	f 	a 	ray 	c 	l 	 	arias 	c 	r 	 	fish	 in 
+testinal	microbiome 	diversity	 and	 symbiosis	 unraveled	 by	metag 
+enomics journal of applied microbiology 	 	 – 	 https doi 
+org jam 
+
+thanner 	s 	drissner 	d 	 	walsh 	f 	 	antimicrobial	resistance	in	
+agriculture 	 mbio 	 	 e 	 https doi org mbio 	
+ 
+
+thompson 	l 	r 	sanders 	j 	g 	mcdonald 	d 	amir 	a 	ladau 	j 	locey 	
+k 	j 	…	zhao 	h 	 	a	communal	catalogue	reveals	earth’s	mul 
+tiscale microbial diversity nature 	 	 – 	https doi 
+org nature 
+
+tsuchiya 	c 	 sakata 	t 	 	sugita 	h 	 	novel	 ecological	 niche	of	
+cetobacterium somerae 	 an	 anaerobic	 bacterium	 in	 the	 intestinal	
+tracts	of	freshwater	fish 	letters in applied microbiology 	 	 – 	
+https doi org j x x
+
+vázquez baeza 	 y 	 pirrung 	 m 	 gonzalez 	 a 	 	 knight 	 r 	 	
+emperor 	a	tool	for	visualizing	high 	throughput	microbial	community	
+data gigascience 	 	 	https doi org x 
+
+walters 	w 	hyde 	e 	r 	berg lyons 	d 	ackermann 	g 	humphrey 	g 	
+parada 	a 	…	knight 	r 	 	 improved	bacterial	 s	rrna	gene	
+ v 	 and	v 	 	 and	fungal	 internal	 transcribed	 spacer	marker	 gene	
+primers	 for	microbial	community	surveys 	msystems 	 	e 
+ 	https doi org msystems 	 
+
+wang 	a 	 r 	 ran 	 c 	 ringø 	 e 	 	 zhou 	 z 	g 	 	 progress	 in	 fish	
+gastrointestinal microbiota research reviews in aquaculture 	 	
+ – 	https doi org raq 
+
+willoughby 	n 	g 	 	tweddle 	d 	 	the	ecology	of	the	catfish	clarias 
+gariepinus and clarias ngamensis	in	the	shire	valley 	malawi 	journal of 
+zoology 	 	 – 	https doi org j 
+tb x
+
+wong 	s 	waldrop 	t 	summerfelt 	s 	davidson 	j 	barrows 	f 	kenney 	
+p 	b 	…	good 	c 	 	aquacultured	rainbow	trout	 oncorhynchus 
+mykiss possess a large core intestinal microbiota that is resistant 
+to variation in diet and rearing density applied and environmental 
+microbiology 	 	 – 	 https doi org 
+aem 
+
+https doi org j jglr 
+https doi org j jglr 
+https doi org j femsre 
+https doi org j x
+https doi org j x
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org nejmoa 
+https doi org j fsi 
+https doi org j fsi 
+https doi org srep 
+https doi org aem 
+https doi org aem 
+https doi org raq 
+https doi org raq 
+https doi org 
+http agris fao org agris search search do recordid us 
+http agris fao org agris search search do recordid us 
+https doi org hdy 
+https doi org 
+https doi org a 
+https doi org a 
+https doi org s 
+https doi org s 
+https doi org j aquaculture 
+https doi org j aquaculture 
+https doi org s x 
+https doi org s x 
+https doi org s 
+https doi org s 
+https doi org nar gkq 
+https doi org s 
+https doi org s 
+https doi org j envint 
+https doi org j envint 
+https doi org s 
+https doi org nyas 
+https doi org jam 
+https doi org jam 
+https doi org mbio 
+https doi org mbio 
+https doi org nature 
+https doi org nature 
+https doi org j x x
+https doi org x 
+https doi org msystems 
+https doi org raq 
+https doi org j tb x
+https doi org j tb x
+https doi org aem 
+https doi org aem 
+
+
+       of minich et al 
+
+wood 	 d 	 e 	 	 salzberg 	 s 	 l 	 	 kraken 	 ultrafast	 metagenomic	
+sequence	classification	using	exact	alignments 	genome biology 	 	
+r 	https doi org gb r 
+
+xiong 	 w 	 sun 	 y 	 zhang 	 t 	 ding 	 x 	 li 	 y 	 wang 	 m 	 	 zeng 	 z 	
+ 	 antibiotics 	 antibiotic	 resistance	 genes 	 and	 bacterial	 com 
+munity	 composition	 in	 fresh	 water	 aquaculture	 environment	 in	
+china 	microbial ecology 	 	 – 	 https doi org 
+s x
+
+yaqoob 	m 	 ali 	m 	 r 	 	mehmood 	 s 	 	 comparison	 of	 growth	
+performance	of	major	and	chinese	carps	fed	on	floating	and	sinking	
+pelleted	supplementary	feeds	in	ponds 	pakistan journal of zoology 
+lahore 	 	 – 	retrieved	from	https search proquest com 
+docview citation dec ca ffe bc pq 
+
+zhao 	w 	 	shen 	h 	 	a	statistical	analysis	of	china’s	fisheries	in	
+the	 th	five 	year	period 	aquaculture and fisheries 	 	 – 	https 
+doi org j aaf 
+
+zhu 	y g 	 johnson 	t 	a 	su 	 j q 	qiao 	m 	guo 	g x 	stedtfeld 	r 	
+d 	 …	 tiedje 	 j 	 m 	 	 diverse	 and	 abundant	 antibiotic	 resis 
+tance	 genes	 in	 chinese	 swine	 farms 	 proceedings of the national 
+
+academy of sciences 	 	 – 	 https doi org 
+pnas 
+
+supporting information
+
+additional	 supporting	 information	 may	 be	 found	 online	 in	 the	
+supporting	information	section	at	the	end	of	the	article 
+
+how to cite this article 	minich	jj 	zhu	q 	xu	zz 	et	al 	
+microbial	effects	of	livestock	manure	fertilization	on	
+freshwater	aquaculture	ponds	rearing	tilapia	 oreochromis 
+shiranus 	and	north	african	catfish	 clarias gariepinus 
+microbiologyopen e 
+https doi org mbo 
+
+https doi org gb r 
+https doi org s x
+https doi org s x
+https search proquest com docview citation dec ca ffe bc pq 
+https search proquest com docview citation dec ca ffe bc pq 
+https doi org j aaf 
+https doi org j aaf 
+https doi org pnas 
+https doi org pnas 
+https doi org mbo 
+
+

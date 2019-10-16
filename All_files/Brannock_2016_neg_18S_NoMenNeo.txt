@@ -1,0 +1,2564 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rev iss web mec 
+
+
+metabarcoding reveals environmental factors influencing
+spatio temporal variation in pelagic micro eukaryotes
+
+pamela m brannock alice c ortmann † ‡ § anthony g moss and
+kenneth m halanych 
+
+ department of biological sciences auburn university rouse life science building auburn al usa 
+
+†department of marine sciences university of south alabama university blvd mobile al usa ‡dauphin island
+sea lab b bienville blvd dauphin island al usa §department of fisheries and ocean canada centre for
+offshore oil gas and energy research bedford institute of oceanography dartmouth b y a canada
+
+abstract
+
+marine environments harbour a vast diversity of micro eukaryotic organisms protists
+
+and other small eukaryotes that play important roles in structuring marine ecosys 
+
+tems however micro eukaryote diversity is not well understood likewise knowledge
+
+is limited regarding micro eukaryote spatial and seasonal distribution especially over
+
+long temporal scales given the importance of this group for mobilizing energy from
+
+lower trophic levels near the base of the food chain to larger organisms assessing com 
+
+munity stability diversity and resilience is important to understand ecosystem health 
+
+herein we use a metabarcoding approach to examine pelagic micro eukaryote commu 
+
+nities over a year time series bimonthly surface sampling july to december
+
+ was conducted at four locations within mobile bay bay and along the alabama
+
+continental shelf shelf alpha diversity only showed significant differences in shelf
+
+sites with the greatest differences observed between summer and winter beta diver 
+
+sity showed significant differences in community composition in relation to season
+
+and the bay was dominated by diatoms while the shelf was characterized by dinoflag 
+
+ellates and copepods the northern gulf of mexico is heavily influenced by the
+
+mobile river basin which brings low salinity nutrient rich water mostly during win 
+
+ter and spring community composition was correlated with salinity temperature and
+
+dissolved silicate however species interactions e g predation and parasitism may
+
+also contribute to the observed variation especially on the shelf which warrants fur 
+
+ther exploration metabarcoding revealed clear patterns in surface pelagic micro eukar 
+
+yote communities that were consistent over multiple years demonstrating how these
+
+techniques could be greatly beneficial to ecological monitoring and management over
+
+temporal scales 
+
+keywords s rrna diversity gulf of mexico high throughput sequencing illumina
+
+received june revision received april accepted may 
+
+introduction
+
+the vast biodiversity of the marine environment is
+
+greatly understudied especially in reference to micro 
+
+eukaryotes which are defined as protists and other
+
+small eukaryotes these organisms are an essential mar 
+
+ine ecosystem component in both pelagic and benthic
+
+environments caron et al they are important
+
+primary producers especially in coastal environments 
+
+playing key roles in lower portions of marine food
+
+webs sherr sherr duffy stachowicz
+
+ caron et al likewise they are vital to nutri 
+
+ent and energy cycling within ecosystems caron et al 
+
+ dortch et al duffy stachowicz
+
+ therefore exploring micro eukaryote community
+
+composition and variability is vital to understanding
+
+ecosystem function as micro eukaryotes are integral to
+correspondence pamela m brannock fax 
+
+e mails pamela m brannock gmail com ken auburn edu
+
+© john wiley sons ltd
+
+molecular ecology – doi mec 
+
+
+
+transfer of energy between trophic levels and play a
+
+role in the microbial loop understanding and assessing
+
+their robustness and resiliency are paramount for main 
+
+taining and managing healthy coastal ecosystems 
+
+unfortunately the more open nature of pelagic systems
+
+complicates the ability to study stability diversity or
+
+resilience of micro eukaryote populations 
+
+pelagic micro eukaryotes are known to differ in com 
+
+munity composition between offshore and coastal
+
+regions lambert et al qian et al wu et al 
+
+ chakraborty lohrenz as well as with
+
+water depth qian et al schnetzer et al 
+
+kirkham et al kim et al wu et al 
+
+their composition can drastically shift over relatively
+
+small timescales e g days to weeks countway et al 
+
+ vigil et al kim et al however spatial
+
+and temporal variations over small scales are minimal
+
+when compared to those of larger scales lie et al 
+
+ moreover composition differences have been
+
+shown to be greater between rather than within water
+
+basins kirkham et al 
+
+in the northern gulf of mexico ngom little is
+
+known about spatial and temporal variation in pelagic
+
+micro eukaryotic community composition lambert
+
+et al qian et al species dominance has
+
+been observed to be dependent on depth and proximity
+
+to land lambert et al qian et al diatom
+
+dominated shelf waters are associated with fresh water
+
+outflows while prymnesiophytes and pelagophytes
+
+dominate offshore waters in the gom lambert et al 
+
+ qian et al suggesting fresh water inputs
+
+influence micro eukaryote community composition the
+
+mississippi river and mobile bay both bring fresh 
+
+nutrient rich water to the ngom previous studies have
+
+shown impacts of the mississippi river on small
+
+eukaryotic community composition e g fahnenstiel
+
+et al baguley et al chakraborty lohrenz
+
+ while the influence of mobile bay has been less
+
+readily examined the mobile bay river basin greatly
+
+influences mobile bay which in return flows into the
+
+ngom region primarily through the main pass schroe 
+
+der kim park this river basin seasonally
+
+inputs fresh nutrient rich water with maximum dis 
+
+charge in winter and spring stumpf et al ortell
+
+ ortmann how this fresh nutrient rich water
+
+discharged from the mobile river basin influences
+
+micro eukaryote community composition is not well
+
+understood 
+
+some understanding of the mobile river basin on
+
+local communities is a result of an interdisciplinary pro 
+
+gramme initiated in the autumn of by the dau 
+
+phin island sea lab disl on the coast of alabama 
+
+called the fisheries oceanography of coastal alabama
+
+ focal e g graham et al carassou et al 
+
+ortell ortmann ortmann ortell the
+
+focal program included investigators from a variety
+
+of fields whose main goal was to explore variability in
+
+alabama’s nearshore and continental shelf environ 
+
+ments mainly characterized by a transect of sample
+
+sites located from within mobile bay alabama and
+
+extending southward into the ngom region this pro 
+
+gram’s primary focus was to assess how variability
+
+within communities related to local fish production 
+
+more information about the focal programme can be
+
+found on their web page http www disl org pro 
+
+jects article fisheries oceanography of coastal alabama 
+
+focal 
+
+metabarcoding approaches that employ high through 
+
+put sequencing allow for a more holistic examination of
+
+small eukaryote community composition in comparison
+
+with traditional methods e g light microscopy cultur 
+
+ing and pigment analysis bik et al brannock
+
+et al logares et al de vargas et al 
+
+ metabarcoding approaches have been widely
+
+used to explore composition and variation within
+
+prokaryotic communities e g huber et al huse
+
+et al ortmann ortell but have been less
+
+readily implemented in eukaryotic systems when
+
+implemented in micro eukaryotic studies researchers
+
+have focused on sampling communities at either a sin 
+
+gle point spatially or temporally e g amaral zettler
+
+et al edgcomb et al logares et al 
+
+even though one of the advantages of this approach is
+
+the ability to quickly and holistically sample multiple
+
+localities over many time points 
+
+taking advantage of the focal time series data set 
+
+we wanted to explore the spatial and temporal variation
+
+in pelagic micro eukaryotic communities in the ngom 
+
+we employed a metabarcoding high throughput
+
+sequencing approach to examine micro eukaryote com 
+
+munity composition and variation along the focal
+
+transect over a year time series we explicitly assess
+
+ i how micro eukaryotic community composition dif 
+
+fers between mobile bay and ngom shelf locations and
+
+ ii how community composition and diversity differ
+
+over seasonal or yearly community trends the nature
+
+of the bay vs the shelf environments allows us to pre 
+
+dict that community composition in these regions will
+
+be markedly different also we predict that the fresh
+
+nutrient rich water will drive distinct micro eukaryote
+
+community composition between sampling locations
+
+within mobile bay and those on the more open ngom
+
+shelf we expect that micro eukaryote communities will
+
+be seasonally dependent and driven by river discharge 
+
+herein we test these predictions using a high through 
+
+put metabarcoding approach that allows for a more
+
+holistic consideration of organismal diversity than
+
+demonstrated previously 
+
+© john wiley sons ltd
+
+ p m brannock et al 
+
+http www disl org projects article fisheries oceanography of coastal alabama focal
+http www disl org projects article fisheries oceanography of coastal alabama focal
+http www disl org projects article fisheries oceanography of coastal alabama focal
+
+
+materials and methods
+
+sample collection
+
+surface water samples were collected from two loca 
+
+tions within mobile bay alabama middle bay mb
+
+and dauphin island offshore di and two locations
+
+south of mobile bay within the ngom compass port 
+
+t and t fig table over a year time
+
+frame mb di and t were collected bimonthly from
+
+july through december depending on sam 
+
+pling conditions t was added in may after the
+
+deepwater horizon dwh oil spill and concomitant col 
+
+lection were obtained through december twenty
+
+to twenty four litres of th top m of surface water
+was collected and prefiltered using a lm nitex
+screen to remove mesozooplankton from the sample 
+
+prefiltered water was stored at air temperature in opa 
+
+que carboys until processed from these samples the
+
+eukaryotic fraction was collected by filtering water
+
+through a mm diameter lm glass fibre filter
+ gff filters were folded and stored at ≤� °c until
+processed these procedures were described in ort 
+
+mann ortell that examined the bacterial frac 
+
+tion of the same water samples using a lm
+polyvinyl membrane 
+
+during sample collection environmental parameter
+
+measurements water temperature salinity dissolved
+
+oxygen do phosphate po� dissolved inorganic
+nitrogen din dissolved organic nitrogen don dis 
+
+solved silicate dsi and chlorophyll a chl a were
+
+recorded for each station at each time point ortell 
+
+ortmann ortmann ortell methods for
+
+environmental measurements and findings have already
+
+been reported in ortell ortmann and ortmann
+
+ ortell this time series spanned from july
+
+ through the dwh oil spill in april and
+
+ended in december even though oil was found at
+
+the shelf t and t sampling locations from june to
+
+august graham et al and a visible thin
+
+− ˚ − ˚ − ˚ − ˚ − ˚ 
+
+ ˚ 
+
+ ˚ 
+
+ ˚ 
+
+ ˚ 
+
+ km
+
+di
+
+t 
+
+mb
+
+t 
+
+mobile bay
+
+gulf of mexico
+
+mississippi 
+sound
+
+main pass
+
+fig water column sample locations
+
+within mobile bay and on the northern
+
+gulf of mexico ngom continental shelf
+
+off the coast of alabama more detail
+
+information about the locations is found
+
+within table 
+
+© john wiley sons ltd
+
+pelagic micro eukaryotes distribution 
+
+
+
+surface oil sheen was present at both t and t dur 
+
+ing the july sampling ortmann ortell no
+
+water samples were collected for hydrocarbon analysis
+
+for any time points or locations therefore we cannot
+
+directly measure the amount of oil present throughout
+
+the study other than the july shelf locations time
+
+point no oil was visually evident during any other
+
+sampling locations and time points ortmann ortell
+
+ 
+
+dna extraction
+
+genomic dna was extracted following a modified
+
+doyle doyle protocol using ctab solution
+
+ hexadecyltrimethylammonium bromide mm
+
+tris hcl ph mm edta ph m nacl and
+
+ beta mercaptoethanol containing polyvinyl 
+
+pyrrolidone and mg ml proteinase k this solution
+
+will be referred to as enhanced ctab solution for
+
+each sample two separate nd mm pieces of
+
+the gff were cut into smaller fragments and each 
+
+ nd portion was placed into a separate ml microcen 
+
+trifuge tube to each tube enhanced ctab solution
+
+was added and incubated at °c for h every
+ min samples were agitated to break up the gff and
+
+mix the solution after incubation the sample was
+
+extracted twice with chloroform isoamyl alcohol 
+
+to the isolated top aqueous layer volume of cold
+
+ m ammonium acetate and volume of cold 
+
+isopropanol were added and samples were placed in
+
+� °c for h to precipitate dna the resulting
+dna pellet was washed with cold ethanol and
+
+then cold ethanol before drying in an eppendorf
+
+vacufugetm – min once dry pellets were resus 
+pended in ll of milli q water and replicates were
+combined into one tube dna size and integrity was
+
+visualized on a sodium borate gel dna was stored
+
+at � °c until sent for processing 
+
+sequencing
+
+genomic dna was sent to the genomic services labora 
+
+tory gsl at hudson alpha institute for biotechnology
+
+ huntsville alabama for amplicon sequencing of the v 
+
+hypervariable region of the s small subunit ribosomal
+
+rna ssu rrna gene using eukaryotic specific primers
+
+ f and r amaral zettler et al this gene
+
+region was chosen due to sequencing length limitations
+
+of the illumina platform at the time data were collected 
+
+dna was amplified in duplicate with an initial concen 
+
+tration of ng per reaction duplicate reactions served
+
+as technical replicates and remained separated through
+
+initial portions of data analysis samples were sequenced
+
+using a dual barcode index system and bp paired 
+
+end reads were obtained from an illumina hiseq 
+
+platform demultiplexed raw reads were provided by the
+
+gsl and have been deposited in the national center for
+
+biotechnology information ncbi sequence read
+
+archive sra database biosample accession nos 
+
+srs srs and srs srs under
+
+bioproject accession no prjna 
+
+bioinformatics
+
+raw reads were overlapped and filtered following the
+
+protocol in brannock et al except sequence qual 
+
+ity filtering was performed using the fastq filter with a
+
+maximum expected error fastq maxee set to in
+
+uparse edgar as in brannock halanych
+
+ operational taxonomic unit otu clustering 
+
+taxonomic assignment and otu table filtering were
+
+completed in qiime version caporaso et al b 
+
+following brannock et al ’s protocol except the
+
+silva database pruesse et al quast et al 
+
+ was used as the reference sequence set for cluster 
+
+ing and taxonomic assignment the otu table that has
+
+been filtered to remove sequences that failed to align
+
+with pynast caporaso et al a or were classified
+
+as bacteria or archaea will be referred to from here on
+
+as the final otu fotu table representative sequences
+
+for otu clusters as well as the original and fotu tables
+
+have been deposited into the dryad digital repository
+
+ http dx doi org dryad dv 
+
+analysis
+
+a hierarchical clustering analysis based on the propor 
+
+tional otu table for the samples samples with
+
+site name abbreviation
+
+depth 
+
+ m latitude longitude region
+
+middle bay mb ° n ° w bay
+dauphin island offshore di ° n ° w bay
+compass port t ° n ° w shelf
+t t ° n ° w shelf
+
+ depth refers to bottom depth all samples taken at m below surface 
+
+table geographic information of four
+
+sample sites shown in fig 
+
+© john wiley sons ltd
+
+ p m brannock et al 
+
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore prjna 
+http dx doi org dryad dv
+
+
+two pcr replicates each was performed using the bio 
+
+diversityr package kindt coe in r ver r
+
+development core team following brannock
+
+et al ’s protocol all technical replicates clustered
+
+closest with each other in reference to any other sample
+
+ as shown in brannock et al and brannock hala 
+
+nych therefore sequences for technical replicates
+
+were combined and treated as one sample for the
+
+remainder of the analyses 
+
+in order to directly compare alpha and beta diversity
+
+measures between different samples the number of
+
+sequences per sample was normalized to an even num 
+
+ber of sequences this was done to alleviate differences
+
+observed due to difference in sequence depth a rar 
+
+efaction analysis was conducted by subsampling the
+
+complete data set from to sequences per
+
+sample in steps of sequences ten replicates for
+
+each of the ten subsampling levels were conducted an
+
+upper limit of sequences was chosen because it
+
+is close to the mean number of reads per sample in the
+
+data set sequences which each of the sub 
+
+sampling levels representing an addition of 
+
+sequences average alpha diversity measurements for
+
+each level were plotted against sequence depth to deter 
+
+mine a sufficient subsampling level to be conservative
+
+in our analyses the otu table was subsampled close to
+
+the number of sequences in our smallest sample with
+
+ sequences therefore all subsequent alpha and
+beta diversity measurements normalized each sample to
+
+ sequences four alpha diversity measurements
+
+ chao phylogenetic distance pd shannon diversity
+
+and number of otus were calculated for each normal 
+
+ized sample along with three beta diversity measure 
+
+ments weighted unifrac distance lozupone knight
+
+ bray–curtis dissimilarity and binary jaccard dis 
+similarity metrics all alpha and beta diversity analy 
+
+ses were conducted in qiime 
+
+a wilcoxon signed rank test was performed in r to
+
+compare alpha diversities between the shelf and bay
+
+regions a sequential bonferroni correction rice 
+
+was applied to account for multiple tests a one way
+
+analysis of variance anova was also performed in r to
+
+compare alpha diversities across seasons summer 
+
+june–august autumn september november winter 
+december–february and spring march–may separately
+in the bay and shelf locations if a significant difference
+
+was obtained a tukey’s honest significant difference
+
+ hsd test was conducted in r to examine all possible
+
+pairwise seasonal comparisons in order to compare
+
+community composition between years and
+
+ between regions shelf and bay as well as sea 
+
+sons an analysis of similarity anosim was performed
+
+using all three beta diversity matrices in primer version
+
+ primer e ltd uk again a sequential bonferroni
+
+correction rice for multiple tests was applied 
+
+likewise an examination of the environmental vari 
+
+ables that best explains or correlates the community
+
+composition differences observed was performed using
+
+bioenv analysis in primer version 
+
+community composition
+
+the summarize taxa through plots py script in qiime
+
+was used to examine community composition within
+
+samples see brannock et al when examining the
+
+proportion of taxa due to the number of otus present
+
+in this study and for purposes of reporting any phylum
+
+that had an overall average abundance through 
+out the whole fotu table was classified as either other
+
+metazoa or other eukaryote phyla with average abun 
+
+dances of ≥ were examined down to the family
+level taxonomically the silva database which
+
+was used to assign taxonomy to the otu reference
+
+sequences frequently has taxonomic level gaps within
+
+the sequence taxonomy string when this occurred the
+
+highest taxonomic level below the level desired was
+
+searched within the world register of marine species
+
+ worms www marinespecies org database to obtain
+
+the missing information silva assigns higher level
+
+taxonomy to sequences using a curated phylogenetic
+
+tree analysis whereas lower level taxa genus and spe 
+
+cies are determined with genbank as a result there
+
+were some discrepancies between taxonomic levels 
+
+when this occurred in the qiime pipeline missing
+
+information was characterized as ‘unknown’ therefore 
+
+we took a conservative approach and limited our taxo 
+
+nomic designations to the ordinal level families with
+
+an average abundance across the whole fotu
+table were combined into class level classifications the
+
+same collapsing scheme was used for higher classifica 
+
+tion levels as well for example if class classifications
+
+represented of the fotu table they were com 
+bined into phylum level classification sequences that
+
+did not result in a taxonomic assignment when com 
+
+pared to the silva database were reported in the
+
+‘no hit’ category 
+
+results
+
+sequencing analyses
+
+for the samples sample collections each with
+
+duplicate technical replicates raw reads
+
+were obtained in each direction table s supporting
+
+information a majority of the orig 
+
+inal reads went into the otu clustering algorithm with
+
+the largest amount of sequences removed 
+
+ sequences during the quality filtering stage
+
+© john wiley sons ltd
+
+pelagic micro eukaryotes distribution 
+
+http www marinespecies org
+
+
+ table s supporting information only six sequences
+
+were discarded after the chimera filtering step due to
+
+sequence length being shorter than bp after read
+
+overlap and sequence filtering sequences ranged from
+
+ to bp fragment table s supporting informa 
+
+tion with a majority within the range of – bp
+ table s fig s supporting information otu clus 
+
+tering of the remaining sequences resulted
+
+in otus present within the data set 
+
+otus were discarded due to failure of sequence align 
+
+ment with pynast of the remaining otus 
+
+ were discarded because they were taxonomically
+
+classified as bacteria or archaea otus of
+
+the original number were included in the fotu table 
+
+out of which otus were classified as no hit
+
+due to the taxonomic assignment portion of the pipe 
+
+line as in brannock et al most no hit otus
+
+ otus did not match any sequences when
+
+blasted against the ncbi genbank database the major 
+
+ity otus of otus in the data set were
+
+classified as non metazoa eukaryotes followed by
+
+metazoa otus and fungi 
+
+otus these percentages were the same for the
+
+subsampled otu table normalized to 
+
+sequences per sample non metazoa eukaryotes were
+
+dominated by dinoflagellates and diatoms while meta 
+
+zoa were predominately copepods table s support 
+
+ing information 
+
+diversity and environmental data
+
+samples di from july and may as well as cp
+
+from november were discarded and not included
+
+in downstream alpha and beta diversity analyses due
+
+to a combined sequence number of sequences
+ table s supporting information 
+
+the wilcoxon signed rank test showed no significant
+
+differences between alpha diversity metrics within the
+
+shelf compared to the bay fig there was no signifi 
+
+cant difference for any alpha diversity metric in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ph
+yl
+
+og
+en
+
+et
+ic
+
+ d
+is
+
+ta
+nc
+
+e 
+
+o
+pe
+
+ra
+tio
+
+na
+l t
+
+ax
+on
+
+om
+ic
+
+ u
+ni
+
+t
+sh
+
+an
+no
+
+n 
+di
+
+ve
+rs
+
+ity
+ 
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+n
+
+ov
+em
+
+be
+r
+
+ja
+nu
+
+ar
+y
+
+m
+ar
+
+ch
+m
+
+ay
+ju
+
+ly
+se
+
+pt
+em
+
+be
+r
+
+n
+ov
+
+em
+be
+
+r
+ja
+
+nu
+ar
+
+y
+m
+
+ar
+ch
+
+m
+ay
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+d
+
+ec
+em
+
+be
+r
+
+ 
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+n
+
+ov
+em
+
+be
+r
+
+ja
+nu
+
+ar
+y
+
+m
+ar
+
+ch
+m
+
+ay
+ju
+
+ly
+se
+
+pt
+em
+
+be
+r
+
+n
+ov
+
+em
+be
+
+r
+ja
+
+nu
+ar
+
+y
+m
+
+ar
+ch
+
+m
+ay
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+d
+
+ec
+em
+
+be
+r
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c
+ha
+
+o 
+ 
+
+ b 
+
+ a c 
+
+ d 
+
+bay
+
+shelf
+
+fig alpha diversity measurements for bay mb and di and shelf t and t regions throughout the total sampled time frame 
+
+ a phylogenetic distance pd b choa c shannon diversity and d number of operational taxonomic units otus open
+
+squares □ represents bay locations mb and di while black diamonds ♦ represents shelf locations t and t alpha diversity
+metrics are calculated based on rarefied otu table to sequences per sample mb di t or t for a given time point 
+
+© john wiley sons ltd
+
+ p m brannock et al 
+
+
+
+reference to season collected for the bay samples
+
+ f ≤ p ≥ shannon diversity was the only
+alpha diversity metric that did not show a significant
+
+difference between seasons in the shelf winter has a
+
+significantly higher pd chao and otu metric in com 
+
+parison with summer p ≤ and spring p ≤ 
+samples and fall had a significantly higher metrics than
+
+summer ≥ p ≤ in the shelf samples
+ fig s supporting information all other pairwise
+
+comparisons were not significant p ≥ 
+there was a significant spatial difference in commu 
+
+nity composition between sample sites for all three
+
+beta diversity metrics table and fig a pairwise
+
+comparisons showed that t and t had similar com 
+
+munity compositions and were both different from mb
+
+ table t had a significantly different community
+
+composition than di where t did not table mb
+
+and di were not significantly different in community
+
+composition in reference to each other table when
+
+grouping sample sites by region there was a significant
+
+difference between community composition values
+
+found between shelf t and t and bay di and
+
+mb ≤ r ≥ p localities for all three
+beta diversity metrics 
+
+there was also a significant temporal difference in
+
+pelagic micro eukaryotic community composition with
+
+regard to season when combining all samples table 
+
+fig b as well as within shelf and bay regions indi 
+
+vidually table examination across both shelf and
+
+bay or within separate regions revealed the largest dif 
+
+ference between community compositions was between
+
+summer and winter or spring table depending on
+
+the metric and region examined the smallest differ 
+
+ences were found between autumn and summer or win 
+
+ter and spring table again depending on the metric
+
+and region examined there was no significant differ 
+
+ence in community composition relative to sample year
+
+for any of the three beta diversity metrics used
+
+ r ≤ p ≥ the bioenv analysis revealed
+community composition is correlated with temperature 
+
+salinity and dsi the bray–curtis dissimilarity metric
+showed a significant correlation in the abundance of
+
+taxa q p with all temperature and dsi 
+while the jaccard metric showed a significant correla 
+
+tion in the presence and absence q p 
+of certain taxa with temperature and salinity however 
+
+the weighted unifrac metric showed no significant cor 
+
+relation between relatedness of the taxa present
+
+ q p and environmental factors 
+
+spatial community composition
+
+shelf locations were heavily dominated by arthropoda
+
+ copepod and myzozoa dinoflagellate taxa fig a
+
+majority of arthropoda within shelf samples were cala 
+
+noid copepods although myzozoa were comprised
+
+mainly of thoracosphareales and syndiniales dinoflag 
+
+ellates table s fig s supporting information the
+
+bay was predominately comprised of stramenopiles 
+
+myzozoa and chlorophyta fig stramenopiles
+
+within the bay were dominated by thalassiosirales
+
+ centric diatoms table s fig s supporting informa 
+
+tion myzozoa within this region consisted of a mixture
+
+of unknown dinophyceae syndiniales and gymno 
+
+diniales table s fig s supporting information 
+
+chlorophyta were almost exclusively chlorellales
+
+ table s fig s supporting information 
+
+temporal community composition
+
+copepods were in high presences – within
+the shelf in all seasons except winter when they drasti 
+
+cally decreased fig during winter the shelf
+
+community had an increase in ciliophora oligotrichida
+
+and choreotrichida and stramenopiles mainly thalas 
+
+siosirales table s fig s supporting information 
+
+dinoflagellate taxa also varied between seasons with
+
+thoracosphareales dominating spring samples while
+
+syndiniales were most prevalent in autumn and winter
+
+samples table s fig s supporting information 
+
+the bay had the highest presence of stramenopiles
+
+ mainly thalassiosirales during the spring and winter 
+
+these seasons also had the highest ciliophora and
+
+myzozoa fig dinoflagellates consisted of unknown
+
+dinophyceae during these seasons while summer and
+
+autumn were mainly syndiniales table s fig s 
+
+supporting information arthropods mainly cyclo 
+
+poida and chlorophyta chlorellales were more
+
+prevalent during the summer and autumn compared to
+
+table analysis of similarity anosim results of spatial com 
+
+munity composition comparison numbers represent anosim
+
+r statistic 
+
+comparison
+
+beta diversity metric
+
+jaccard bray–curtis weighted unifrac
+
+global 
+
+t t 
+
+t di 
+
+t mb 
+
+t di 
+
+t mb 
+
+di mb 
+
+bold indicates significant values r ≥ p ≤ with a
+sequential bonferroni correction applied rice 
+
+ an r statistic of represents complete random grouping and
+
+a value of indicates complete dissimilarity between groups 
+
+© john wiley sons ltd
+
+pelagic micro eukaryotes distribution 
+
+
+
+the other seasons table s figs s supporting infor 
+
+mation and 
+
+discussion
+
+surface pelagic micro eukaryotic community composi 
+
+tion varied both spatially table fig a and season 
+
+ally table fig b within and between mobile bay
+
+and ngom shelf regions variations within communi 
+
+ties were mainly driven by the environmental factors of
+
+salinity temperature and nutrient levels mainly dsi 
+
+these findings are consistent with those reported for
+
+the bacterial assemblages from the same water samples
+
+ ortmann ortell indicating that common envi 
+
+ronmental factors may be controlling both communities 
+
+the two communities are tightly linked or both 
+
+spatial variation
+
+community composition of pelagic micro eukaryotes
+
+differed by whether samples were collected from the
+
+bay or the shelf indicating a spatial component to vari 
+
+ation similar spatial trends have been observed in pela 
+
+gic bacterial communities ortmann ortell as
+
+well as meiobenthic communities located both inter 
+
+tidally brannock et al and subtidally brannock
+
+et al from the ngom high proportions of dia 
+
+toms dinoflagellates and chlorophytes figs and s 
+
+supporting information were found in the bay inter 
+
+estingly diatoms from the ngom inner shelf region
+
+have been associated with low salinity nutrient rich
+
+water letelier et al qian et al chakraborty
+
+ lohrenz approximately of the water flow
+
+out of mobile bay subsequently reaches the ngom
+
+shelf through main pass schroeder located at the
+
+mouth of the mobile bay fig as a barrier island
+
+system channels and flow fluctuate over time during
+
+the sampling time frame the bay had significantly
+
+lower yet more variable salinity and significantly
+
+higher yet more variable nutrient content in compar 
+
+ison with the shelf fig s b c supporting information 
+
+ ortmann ortell in contrast temperature was
+
+not significantly different between the two regions
+
+ fig s a supporting information ortmann ortell
+
+ although the regions between the bay and shelf
+
+site
+
+cp
+t 
+
+di
+mb
+
+ d stress 
+
+season
+
+winter
+
+spring
+
+autumn
+summer
+
+ d stress 
+
+ a 
+
+ b 
+
+fig nonmetric multidimensional scaling nmds plot based
+
+on binary jaccard beta diversity matrix and categorizing sam 
+
+ples either by a sample location or b season 
+
+table analysis of similarity anosim results of temporal community composition comparison for all samples combined as well as
+
+each region bay or shelf separately numbers represent anosim r statistic 
+
+comparison
+
+all samples bay shelf
+
+jaccard bray–curtis
+weighted
+
+unifrac jaccard bray–curtis
+weighted
+
+unifrac jaccard bray–curtis
+weighted
+
+unifrac
+
+global 
+
+spring–autumn 
+spring–summer 
+spring–winter 
+autumn–summer 
+autumn–winter 
+summer–winter 
+
+bold indicates significant values r ≥ p ≤ with a sequential bonferroni correction applied rice 
+ an r statistic of represents complete random grouping and a value of indicates complete dissimilarity between groups 
+
+© john wiley sons ltd
+
+ p m brannock et al 
+
+
+
+may act as mixing zone for a gradient of environmental
+
+parameters clear differences in community composition
+
+are found at all time points 
+
+discernable differences along this gradient included
+
+the greater abundances of dinoflagellates and copepods
+
+ mainly calanoida – within shelf samples
+ figs and s supporting information given samples
+
+were prefiltered the abundance of copepods was higher
+
+than expected however fragments of larger individuals 
+
+earlier life stages e g eggs and larvae and small adults
+
+may be able to go through the lm filter as previously
+reported turner nichols thompson poulin
+
+ chen marcus countway et al hidalgo
+
+ escribano although calanoida were not found
+
+in the bay cyclopoida were fig s supporting informa 
+
+tion which may be due to salt tolerance physiology 
+
+notably some cyclopoida species have a tolerance to
+
+wider temperature and salinities ranges in comparison
+
+with other copepod nishida as important grazers
+
+of the phytoplanktonic community abundances of cala 
+
+noids in ngom shelf regions signal different communi 
+
+ties but further investigation is needed to clearly define
+
+the drivers controlling these trophic interactions 
+
+temporal variation
+
+both bay and shelf regions displayed seasonality that
+
+was influenced by riverine discharge and temperature 
+
+but the relative roles of those factors apparently differed
+
+in the two environments in the bay river discharge
+
+appears to exert the greatest control on community com 
+
+position ortell ortmann ortmann ortell
+
+ temporal fluctuation in salinity and dsi is the
+
+most pronounced in the bay and we accordingly
+
+observed dominance of diatoms and dinoflagellates in
+
+the spring and winter months when salinity was lowest
+
+ figs and s supporting information in contrast 
+
+chlorophytes and copepods were more dominant in sum 
+
+mer and autumn when salinity was highest similar to
+
+shelf regions on the shelf copepods and dinoflagellates
+
+dominated with the former showing substantial decline
+
+only in the winter whereas salinity did seem to impact
+
+shelf localities the variation in salinity was lower than in
+
+the bay fig s b supporting information thus we sus 
+
+pect temperature may play more of a role in community
+
+turnover if temperature fig s a supporting informa 
+
+tion was playing a large role in variation in the composi 
+
+tion of bay communities spring and autumn should
+
+have been similar which they were not fig s a sup 
+
+porting information therefore input of fresh nutrient 
+
+rich water appears to be the more substantial driving fac 
+
+tor in community variation and imparts seasonality to
+
+this ecosystem 
+
+in additional to seasonal changes in abundance we
+
+also observed species turnover especially within
+
+dinoflagellates in particular composition shifted
+
+between seasons with syndiniales increasing in summer
+
+in both localities syndiniales remained dominate until
+
+thoracosphareales took over on the shelf in the spring 
+
+and an unknown dinoflagellate group increased in the
+
+bay in winter fig s supporting information like
+
+the bay mobile river discharge did appear to have an
+
+effect on community composition on the shelf albeit
+
+the effect was more attenuated in the fall a high pres 
+
+ence of chl a has been previously reported to extend
+
+into the ngom shelf during the spring high river dis 
+
+charge from the mississippi river qian et al 
+
+dinoflagellate blooms have been previously shown to
+
+reduce both survival and reproduction success of cer 
+
+tain copepods lin et al conversely they also
+
+pr
+op
+
+or
+tio
+
+n 
+of
+
+ ta
+xa
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ja
+nu
+
+ar
+y
+
+m
+ar
+
+ch
+
+m
+ay
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+
+d
+ec
+
+em
+be
+
+r
+
+ 
+
+ja
+nu
+
+ar
+y
+
+m
+ar
+
+ch
+
+m
+ay
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+
+n
+ov
+
+em
+be
+
+r
+
+ju
+ly
+
+se
+pt
+
+em
+be
+
+r
+
+n
+ov
+
+em
+be
+
+r
+bay
+
+shelf
+
+no hit
+other non metazoa eukaryotes
+other alveolata
+stramenopiles
+picozoa
+myzozoa
+haptophyta
+cryptophyta
+ciliophora
+chlorophyta
+cercozoa
+other metazoa
+urochordata
+rotifera
+cnidaria
+arthropoda
+fungi
+
+fig community composition of domi 
+
+nant pelagic microscopic eukaryotic taxa
+
+within the northern gulf of mexico
+
+ ngom continental shelf region off the
+
+coast of alabama and within mobile bay
+
+collected bimonthly from july to
+
+december defined sample site loca 
+
+tions are found within table and a geo 
+
+graphic representation of the collection
+
+sites is found within figure proportion
+
+of taxa illustrated based on unrarefied
+
+otu table 
+
+© john wiley sons ltd
+
+pelagic micro eukaryotes distribution 
+
+
+
+have been shown to decrease as copepod abundance
+
+increases implying copepods feed by grazing on
+
+dinoflagellates countway et al within our study 
+
+syndiniales was one of the most abundant dinoflagel 
+
+late groups in both the bay and shelf regions fig s 
+
+supporting information during the same seasons syn 
+
+diniales occurred pulses of copepods were also present
+
+ fig s supporting information several genera within
+
+syndiniales have been reported to parasitize either
+
+copepods or their eggs shields skovgaard et al 
+
+ co occurrence of the two groups raises the ques 
+
+tions about the health of the copepod population during
+
+the time of our study as copepod abundance drops 
+
+syndiniales could become host limited allowing other
+
+dinoflagellate groups to dominate perhaps high 
+
+throughput approaches such as those used here could
+
+help monitor the health of copepod populations a key 
+
+stone group in marine planktonic ecosystems 
+
+benefits of metabarcoding
+
+the high throughput metabarcoding approach used in
+
+this study was useful for examining micro eukaryotic
+
+community composition over space and time this
+
+method elucidated distinct seasonal and spatial variation
+
+and mirrors results from bacterial ortmann ortell
+
+ and meiobenthic bik et al brannock et al 
+
+ communities in the same geographic region 
+
+the ability to examine a majority of organisms in
+
+micro eukaryote communities allows for a more holistic
+
+examination of their composition in a faster time
+
+frame compared to traditional morphological based
+
+approaches nonetheless this is a relatively new
+
+approach and as with any approach has both strengths
+
+and limitations one of the main challenges is relating the
+
+number of sequence reads to organismal abundance
+
+which is difficult due to variation in rrna copy number
+
+and number of organismal cells sampled within and
+
+between taxa prokopowich et al creer et al 
+
+bik et al likewise taxonomic assignments espe 
+
+cially for genus and species require molecular informa 
+
+tion attached to properly identified vouchered
+
+specimens despite these concerns data herein document
+
+consistency of samples between years demonstrating
+
+how these techniques can be greatly beneficial to ecologi 
+
+cal monitoring and management along temporal scales 
+
+conclusions
+
+the ngom is a region known for being dynamic and
+
+variable as predicted based on prior knowledge we
+
+show both bay and shelf regions display seasonality in
+
+community composition interestingly in the bay this
+
+seasonality appears to be driven more by salinity and
+
+freshwater discharge than temperature however in
+
+shelf regions river discharge appears to have a reduced
+
+role and temperature a greater role on community com 
+
+position important differences in organismal composi 
+
+tion are noted between bay and shelf samples 
+
+particularly with regard to dinoflagellates diatoms and
+
+copepods closer inspection of the data yielded a picture
+
+of species turnover throughout the year perhaps the
+
+most notable example of this was syndiniales dinoflagel 
+
+lates whose abundances waxed and waned with cope 
+
+pods a group they are known to parasitize moreover 
+
+when considering previous microbial efforts with the
+
+same samples ortell ortmann ortmann ortell
+
+ and the copepod signatures of present data we
+
+gain a glimpse of ecosystem coordination across three
+
+distinct size scales the results show tight relationships
+
+in organism turnover driven by seasonality the nature
+
+of linkages between communities and whether control is
+
+top down bottom up or some combination will be an
+
+exciting area of future research 
+
+acknowledgements
+
+we thank fisheries oceanography of coastal alabama
+
+ focal program for providing samples as well as the cap 
+
+tains and staff of the e o wilson research vessel at dauphin
+
+island sea lab disl we appreciate the assistance of amanda
+
+o shaver with the dna extractions as well as dr scott r 
+
+santos and damien s waits for their bioinformatics support 
+
+this research was funded by year gulf of mexico research
+
+initiative gomri awarded by marine environmental science
+
+consortium mesc awarded to k m h the bp rapid
+
+response mesc grant t usa and bp northern gulf
+
+institute year and grants awarded to a c o and grants
+
+nsf eps usda hatch and nsf mcb 
+
+ awarded to a g m this is molette biology laboratory
+
+contribution and auburn university marine biology pro 
+
+gram contribution 
+
+references
+
+amaral zettler la mccliment ea ducklow hw huse sm
+
+ a method for studying protistan diversity using mas 
+
+sively parallel sequencing of v hypervariable regions of
+
+small subunit ribosomal rna genes plos one e 
+
+baguley jg montagna pa hyde lj kalke rd rowe gt 
+
+metazoan meiofauna abundance in relation to environmental
+
+variables in the northern gulf of mexico deep sea deep sea
+
+research part i oceanographic research papers – 
+bik hm halanych km sharma j thomas wk dramatic
+
+shifts in benthic microbial eukaryote communities following
+
+the deepwater horizon oil spill plos one e 
+
+bik hm fournier d sung w bergeron rd thomas wk
+
+ intra genomic variation in the ribosomal repeats of
+
+nematodes plos one e 
+
+brannock pm halanych km meiofaunal community
+
+analysis by high throughput sequencing comparison of
+
+extraction quality filtering and clustering methods marine
+
+genomics – 
+
+© john wiley sons ltd
+
+ p m brannock et al 
+
+
+
+brannock pm waits ds sharma j halanych km high 
+
+throughput sequencing characterizes intertidal meiofaunal
+
+communities in northern gulf of mexico dauphin island and
+
+mobile bay alabama the biological bulletin – 
+brannock pm wang l ortmann ac waits ds halanych km
+
+ genetic assessment of meiobenthic community com 
+
+position and spatial distribution in coastal sediments along
+
+northern gulf of mexico marine environmental research 
+
+ – 
+caporaso jg bittinger k bushman fd et al a pynast 
+
+a flexible tool for aligning sequences to a template align 
+
+ment bioinformatics – 
+caporaso jg kuczynski j stombaugh j et al b qiime
+
+allows analysis of high throughput community sequencing
+
+data nature methods – 
+carassou l hernandez fj graham wm change and
+
+recovery of coastal mesozooplankton community structure
+
+during the deepwater horizon oil spill environmental research
+
+letters 
+
+caron da dam hg kremer p et al the contribution of
+
+microorganisms to particulate carbon and nitrogen in surface
+
+waters of the sargasso sea near bermuda deep sea research
+
+part i oceanographic research papers – 
+caron da countway pd jones ac kim dy schnetzer a
+
+ marine protistan diversity annual review of marine
+
+science – 
+chakraborty s lohrenz se phytoplankton community
+
+structure in the river influenced continentalmargin of the north 
+
+erngulfofmexico marineecologyprogressseries – 
+chen f marcus nh subitaneous diapause and
+
+delayed hatching eggs of planktonic copepods from the
+
+northern gulf of mexico morphology and hatching success 
+
+marine biology – 
+countway pd gast rj savai p caron da protistan
+
+diversity estimates based on s rdna from seawater incu 
+
+bations in the western north atlantic journal of eukaryotic
+
+microbiology – 
+creer s fonseca vg porazinska dl et al ultrasequenc 
+
+ing of the meiofaunal biosphere practice pitfalls and pro 
+
+mises molecular ecology – 
+dortch q rabalais nn turner re qureshi na impacts
+
+of changing si n ratios and phytoplankton species composi 
+
+tion in coastal hypoxia consequences for living resources and
+
+ecosystems coastal and estuarine studies eds rabalais nn 
+
+turner re pp – american geophysical union wash 
+ington district of columbia 
+
+doyle jj doyle jl a rapid dna isolation procedure for
+
+small quantities of fresh leaf tissue phytochemical bulletin 
+
+ – 
+duffy je stachowicz jj why biodiversity is important to
+
+oceanography potential roles of genetic species and trophic
+
+diversity in pelagic ecosystem processes marine ecology pro 
+
+gress series – 
+edgar rc uparse highly accurate otu sequences
+
+from microbial amplicon reads nature methods – 
+edgcomb v orsi w bunge j et al protistan microbial
+
+observatory in the cariaco basin caribbean i pyrosequenc 
+
+ing vs sanger insights into species richness the isme jour 
+
+nal – 
+fahnenstiel gl mcconnick mj lang ga et al taxon 
+
+specific growth and loss rates for dominant phytoplankton
+
+populations from the northern gulf of mexico marine ecol 
+
+ogy progress series – 
+graham wm condon rh carmichael rh et al oil car 
+
+bon entered the coastal planktonic food web during the deep 
+
+water horizon oil spill environmental research letters 
+
+hidalgo p escribano r the life cycles of two coexisting
+
+copepods calanus chilensis and centropages brachiatus in the
+
+upwelling zone off northern chile s marine biology 
+
+ – 
+huber ja welch dbm morrison hg et al microbial
+
+population structures in the deep marine biosphere science 
+
+ – 
+huse sm dethlefsen l huber ja et al exploring micro 
+
+bial diversity and taxonomy using ssu rrna hypervariable
+
+tag sequencing plos genetics e 
+
+kim c k park k a modeling study of water and salt
+
+exchange for a micro tidal stratified northern gulf of mexico
+
+estuary journal of marine systems – – 
+kim dy countway pd gast rj caron da rapid shifts
+
+in the structure and composition of a protistan assemblage
+
+during bottle incubations affect estimates of total protistan
+
+species richness microbial ecology – 
+kim dy countway pd jones ac et al monthly to interan 
+
+nual variability of microbial eukaryote assemblages at four
+
+depths in the eastern north pacific the isme journal – 
+kindt r coe r tree diversity analysis a manual and
+
+software for common statistical methods for ecological and biodi 
+
+versity studies world agrofirestry centre nairobi kenya 
+
+kirkham ar lep�ere c jardillier le et al a global per 
+
+spective on marine photosynthetic picoeukaryote community
+
+structure the isme journal – 
+lambert cd bianchi ts santschi ph cross shelf
+
+changes in phytoplankton community composition in the
+
+gulf of mexico texas shelf slope the use of plant pig 
+
+ments as biomarkers continental shelf research – 
+letelier rm bidigare rr hebel dv et al temporal vari 
+
+ability of phytoplankton community structure based on pig 
+
+ment analysis limnology and oceanography – 
+lie aay kim dy schnetzer a caron da small scale
+
+temporal and spatial variations in protistan community com 
+
+position at the san pedro ocean time series station off the
+
+coast of southern california aquatic microbial ecology 
+
+ – 
+lin j n song j j yan t zhang q c zhou m j large 
+
+scale dinoflagellate bloom species prorocentrum donghaiense
+
+and karenia mikimotoi reduce the survival and reproduction
+
+of copepod calanus sinicus journal of the marine biological
+
+association of the united kingdom – 
+logares r audic s bass d et al patterns of rare and
+
+abundant marine microbial eukaryotes current biology 
+
+ – 
+lozupone c knight r unifrac a new phylogenetic
+
+method for comparing microbial communities applied and
+
+environmental microbiology – 
+nichols jh thompson ab mesh selection of copepodite
+
+and nauplius stages of four calanoid copepod species journal
+
+of plankton research – 
+nishida s taxonomy and distribution of the family
+
+pythonidae copepoda cyclopoida in the pacific and indian
+
+oceans bulletin of the ocean research institute university of
+
+tokyo – 
+
+© john wiley sons ltd
+
+pelagic micro eukaryotes distribution 
+
+
+
+ortell n ortmann ac interactions among members of
+
+the microbial loop in an estuary dominated by microzoo 
+
+plankton grazing aquatic microbial ecology – 
+ortmann ac ortell n changes in free living bacterial
+
+community diversity reflect the magnitude of environmental
+
+variability fems microbiology ecology – 
+poulin r clutch size and egg size in free living and par 
+
+asitic copepods a comparative analysis evolution –
+ 
+
+prokopowich cd gregory tr crease tj the correlation
+
+between rdna copy number and genome size in eukaryotes 
+
+genome – 
+pruesse e quast c knittel k et al silva a comprehen 
+
+sive online resource for quality checked and aligned riboso 
+
+mal rna sequence data compatible with arb nucleic acids
+
+research – 
+qian y jochens ae kennicutt ii mc biggs dc spatial
+
+and temporal variability of phytoplankton biomass and com 
+
+munity structure over the continental margin of the north 
+
+east gulf of mexico based on pigment analysis continental
+
+shelf research – 
+quast c pruesse e yilmaz p et al the silva ribosomal
+
+rna gene database project improved data processing and
+
+web based tools nucleic acids research d –d 
+r development core team r a language and environ 
+
+ment for statistical computing r foundation for statistical
+
+computing vienna austria 
+
+rice wr analyzing tables of statistical tests evolution 
+
+ – 
+schnetzer a moorthi sd countway pd et al depth
+
+matters microbial eukaryote diversity and community struc 
+
+ture in the eastern north pacific revealed through environ 
+
+mental gene libraries deep sea research part i oceanographic
+
+research papers – 
+schroeder ww dispersion and impact of mobile river sys 
+
+tem water in mobile bay alabama auburn university 
+
+auburn al water resources research insitute 
+
+sherr eb sherr bf bacterivory and herbivory key roles
+
+of phagotrophic protists in pelagic food webs microbial ecol 
+
+ogy – 
+sherr eb sherr bf significance of predation by protists
+
+in aquatic microbial food webs antonie van leeuwenhoek 
+
+ – 
+shields jd the parasitic dinoflagellates of marine crus 
+
+taceans annual review of fish diseases – 
+skovgaard a massana r balagu�e v saiz e phyloge 
+
+netic position of the copepod infesting parasite syndinium
+
+turbo dinoflagellata syndinea protist – 
+stumpf rp gelfenbaun g pennock jr wind and tidal
+
+forcing a buoyant plume mobile bay alabama continental
+
+shelf research – 
+turner jt the annual cycle of zooplankton in a long
+
+island estuary estuaries – 
+de vargas c audic s henry n et al eukaryotic plank 
+
+ton diversity in the sunlit ocean science 
+
+vigil p countway pd rose j et al rapid shifts in domi 
+
+nant taxa among microbial eukaryotes in estuarine ecosys 
+
+tems aquatic microbial ecology – 
+wu w huang b liao y sun p picoeukaryotic diversity
+
+and distribution in the subtropical tropical south china sea 
+
+fems microbiology ecology – 
+
+a c o and k m h initially conceived the project and
+
+secured funding a c o conducted field research along
+
+with some of the statistical analysis p m b conducted
+
+data collection along with the bioinformatics a majority
+
+of the statistical analysis and a majority of the writing
+
+of the manuscript a g m contributed organismal
+
+knowledge to interpretation of results all authors con 
+
+tributed to the writing of the manuscript 
+
+data accessibility
+
+raw high throughput reads national center for
+
+biotechnology information ncbi sequence read
+
+archive sra biosample accession nos srs 
+
+srs and srs srs under biopro 
+
+ject accession no prjna 
+
+dryad digital repository id http dx doi org 
+
+ dryad dv reference sequences used for
+
+otu cluster taxonomic assignments and alignment 
+
+original otu table with taxonomic assignments prior
+
+to any filtering final otu fotu table that has
+
+otus that failed to align with pynast and were
+
+classified as bacteria or archaea removed combined
+
+otu table that takes the fotu table and combines
+
+the technical replicates pcr duplicates 
+
+supporting information
+
+additional supporting information may be found in the online ver 
+
+sion of this article 
+
+fig s the number of sequences at each sequence length that
+
+remained after quality and chimera filtering 
+
+fig s the four different alpha beta diversity metrics phylo 
+
+genetic distance chao shannon diversity and number of
+
+operational taxonomic units over the four different seasons
+
+ summer fall winter and spring for bay □ and shelf ♦ 
+regions separately 
+
+fig s community composition of dominant pelagic micro 
+
+scopic eukaryotic taxa down the order level taxonomically 
+
+fig s environmental parameters that showed a correlation
+
+with surface micro eukaryote community composition 
+
+table s read and sequence numbers for collected samples 
+
+table s sequence length and frequency after all quality chi 
+
+mera and length filtering steps 
+
+table s the taxonomic breakdown of the most abundant
+
+operational taxonomic units otus 
+
+table s proportion of all sequences for a sample belonging to
+
+the major ordinal classifications present in samples 
+
+© john wiley sons ltd
+
+ p m brannock et al 
+
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore srs 
+http www ncbi nlm nih gov nuccore prjna 
+http dx doi org dryad dv
+http dx doi org dryad dv
+
+

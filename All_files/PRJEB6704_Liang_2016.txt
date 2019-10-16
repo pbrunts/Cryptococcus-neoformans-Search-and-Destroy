@@ -1,0 +1,1272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+switchgrass rhizospheres stimulate microbial biomass but deplete microbial necromass in agricultural soils of the upper midwest usa
+
+
+lable at sciencedirect
+
+soil biology biochemistry e 
+contents lists avai
+soil biology biochemistry
+
+journal homepage www elsevier com locate soi lb io
+switchgrass rhizospheres stimulate microbial biomass but deplete
+microbial necromass in agricultural soils of the upper midwest usa
+
+chao liang a b ederson da c jesus b c david s duncan b d john f quensen c 
+randall d jackson b d teri c balser b james m tiedje b c
+
+a state key laboratory of forest and soil ecology institute of applied ecology chinese academy of sciences shenyang china
+b doe great lakes bioenergy research center university of wisconsin madison wi usa
+c center for microbial ecology michigan state university mi usa
+d department of agronomy university of wisconsin madison wi usa
+a r t i c l e i n f o
+
+article history 
+received august 
+received in revised form
+ november 
+accepted november 
+available online december 
+
+keywords 
+pyrosequencing
+nifh
+lipid
+amino sugar
+plantemicrobe interaction
+rhizosphere
+switchgrass
+ corresponding author state key laboratory of for
+of applied ecology chinese academy of sciences shen
+ fax þ 
+
+e mail address cliang gmail com c liang 
+
+http dx doi org j soilbio 
+ © elsevier ltd all rights reserved 
+a b s t r a c t
+
+rhizosphere microbial communities play an essential role in determining plant productivity particularly
+in agriculturally marginal environments perennial plants like switchgrass panicum virgatum are
+thought to particularly influence microbial community composition and function within their rhizo 
+sphere we compared microbial communities in switchgrass rhizospheres and their associated bulk soils
+in two regions of the u s upper midwest michigan and wisconsin with contrasting soil types and at
+two site types with differing switchgrass establishment ages and management intensities we charac 
+terized microbial communities with a range of culture independent methods including amplicon
+sequencing of s s rrna and nifh genes and membrane lipid profiling in addition we quantified
+abundances of soil amino sugars a time integrative indicator of microbial necromass we found that
+amino sugar contents and microbial lipid profiles differed between rhizosphere and bulk soils while
+dna based assays did not provide this discriminatory power differences between rhizosphere and bulk
+soils were not significantly affected by region or site type rhizosphere soils had higher microbial lipid
+abundances particularly those associated with arbuscular mycorrhizal fungi and gram negative bacteria 
+while amino sugar abundances decreased in the rhizosphere our findings suggest switchgrass rhizo 
+spheres systematically stimulate microbial growth and microbial residue turnover 
+
+© elsevier ltd all rights reserved 
+ introduction
+
+to sustainably accommodate growing demand for both food and
+biologically based fuels it will be necessary to tap into and
+augment biomass production from agriculturally marginal lands
+ gelfand et al beneficial microbial interactions in plant
+rhizospheres will be essential to achieving adequate plant pro 
+ductivity in these environments johansson et al novel
+molecular methodologies have granted new insights into the na 
+ture and composition of rhizosphere microbial communities
+ philippot et al although our knowledge of this complex
+system is far from complete frank and groffman further
+est and soil ecology institute
+yang china tel þ 
+improving our understanding of bioenergy crop rhizosphere com 
+munities will facilitate development of sustainably productive 
+biologically based fuel systems 
+
+the plant rhizosphere is a highly dynamic environment within
+the soil milieu with much of the activity revolving around ex 
+changes of energy and nutrients root exudation and rhizodeposi 
+tion furnish labile carbon supporting increased microbial biomass
+and turnover joergensen bu�ee et al which spurs
+mineralization of soil organic matter and stable residues speeding
+nutrient turnover and potentially increasing nutrient availability
+ kuzyakov many plants notably warm season perennial
+grasses form symbiotic relationships with arbuscular mycorrhizal
+fungi amf that can provide their hosts with greater access to
+phosphorus nitrogen and other key resources gianinazzi et al 
+ a growing body of evidence indicates some potential bio 
+energy crop species may supplement their nitrogen supply through
+associations with nitrogen fixing bacteria steenhoudt and
+vanderleyden saravanan et al davis et al 
+
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+mailto cliang gmail com
+http crossmark crossref org dialog doi j soilbio domain pdf
+www sciencedirect com science journal 
+http www elsevier com locate soilbio
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+
+
+c liang et al soil biology biochemistry e 
+while the species of the host plant plays a major role in shaping
+rhizosphere communities factors such as soil type and manage 
+ment activities also contribute to determining microbial commu 
+nity composition and functionality garbeva et al berg and
+smalla it is thus necessary to understand not only how a
+crop s rhizosphere affects its associated microbiota but also how
+that effect varies among soil and management contexts 
+
+in this study we explore how the effects of switchgrass panicum
+virgatum l rhizospheres on their associated microbial commu 
+nities are altered by soil type and agronomic management in 
+tensity the study was conducted in two regions in the u s upper
+midwest with comparable climate but distinct soil types soils from
+the michigan mi region have significantly higher sand contents
+and lower fertility than those in the wisconsin wi region jesus
+et al in each region we contrasted two site types inten 
+sive sites in each state where switchgrass was recently established
+in replicated adjacent plots and was fertilized and harvested
+annually and extensive sites located in different areas through both
+states where switchgrass had been established for at least years
+and was not regularly fertilized or harvested werling et al 
+we characterized the microbial community using three culture 
+independent molecular methods pyrosequencing targeting the
+ribosomal genes of archaea bacteria fungi and lower eukaryotes
+to analyze microbial community composition and structure 
+pyrosequencing targeting the nitrogen reductase nifh gene to
+specifically analyze the composition of nitrogen fixing bacteria 
+and microbial cell membrane lipid profiling to characterize
+the living biomass of key functional groups jesus et al we
+used cell wall amino sugars to quantify microbial residues in the
+intensive sites these residues reflect time integrated turnover of
+non living microbial necromass which plays a critical role in long 
+term soil carbon and nitrogen cycles guggenberger et al 
+liang et al this collection of methods enables us to
+analyzemicrobial community dynamics frommultiple perspectives
+with a range of taxonomic and temporal resolutions 
+
+our aims in this study were to identify which microbial
+community metrics reflected rhizosphere influence determine
+whether rhizosphere influence differed between regions or site
+types describe rhizosphere effects on specific taxa and func 
+tional groups and measure the impact of the rhizosphere on
+microbial necromass abundance this knowledge will improve our
+understanding of the factors that regulate soil microbial commu 
+nities in switchgrass systems and how consistently these effects
+can be extrapolated 
+
+ materials and methods
+
+ site description and sampling
+
+intensive sites were located at the kellogg biological research
+station mi and the arlington agricultural research station wi 
+where they are planted as part of a replicated bioenergy cropping
+systems trial consisting of ca m plots with fully 
+randomized blocks of which were sampled years after estab 
+lishment for this study jesus et al we used a network of
+extensive sites in both regions mi and wi where switchgrass had
+been established at least years prior to sampling andwhich were
+selected to capture the range of soil conditions found in their
+respective region werling et al jesus et al for this
+study we randomly selected mi sites and wi sites from this
+network supplemental fig 
+
+for each sampled site we arbitrarily selected healthy
+switchgrass individuals from which we obtained bulk soil and
+rhizosphere samples by compositing the individuals within a site 
+bulk soil samples were taken from proximate bare groundwith a 
+cm diameter soil corer to a depth of cm the rhizosphere was
+functionally defined as the soil tightly adhering to roots after mild
+mechanical disturbance smalla et al collected samples
+were immediately placed on ice and stored at �c until being
+homogenized and stored at � �c the soil physicochemical
+properties for the two site types in the both regions under
+switchgrass systems are presented in table s 
+
+ microbial and environmental measurements
+
+ soil physicochemical measurements
+soil samples were analyzed by the university of wisconsin 
+
+madison soil and plant analysis lab elemental composition al 
+b ca cu fe k mg mn na p s and zn was determined by
+inductively coupled plasma optical emission spectrometry jarrel
+ash iris high resolution icpeoes total soil c and n contents were
+determined through combustion using a leco analyzer soil
+ph was measured in a water solution using a meter with a
+combination reference glass electrode soil texture was determined
+by hydrometer particle size analysis bouyoucos 
+
+ amplification and sequencing of s s rrna genes
+dna was extracted from mg of soil using power soil dna
+
+isolation kits mobio laboratories inc according to the manufac 
+turer s instructions and stored at � �c until use small ribosomal
+subunit ssu gene sequencing used f and r primers 
+which target bp of the v ev region in both prokaryotes and
+eukaryotes lane engelbrektson et al samples were
+amplified in triplicate pooled size selected by gel electrophoresis
+and purified prior to sequencing sequencing was conducted by the
+joint genome institute using a gs flx sequencer raw s s rrna
+sequences were analyzed using the pyrotagger pipeline http 
+pyrotagger jgi psf org with a quality threshold and a mini 
+mum trimmed length of bp and clustered using the markov
+cluster algorithm as described in engelbrektson et al 
+clustered sequences were assigned to operational taxonomic units
+ otus at identity taxonomic identity for each cluster was
+determined by the best hit in greengenes prokaryotic sequences 
+or silva eukaryotic sequences databases s s rrna gene
+nucleotide sequences were deposited in the european nucleotide
+archive http www ebi ac uk ena as part of two studies study
+prjeb under accession numbers err through
+err for rhizosphere communities and study prjeb 
+under accession numbers eer through err 
+err through err err through err 
+err and err for bulk soil communities 
+
+ nifh analysis
+dna extracted from the soil samples served as template in
+
+triplicate pcr reactions performed using the roche high fidelity
+pcr system roche diagnostics gmbh mannheim germany and
+bar coded poly primers poly et al procedures sequencing
+and data processing were as previously described jesus et al 
+ raw nifh sequences were processed using the rdp fun 
+gene pipeline http fungene cme msu edu reads were frame
+shift corrected and translated to protein sequences using framebot
+ wang et al within the fungene pipeline protein se 
+quences were aligned using hmmer and clustered at identity
+using complete linkage clustering with mcclust fish et al 
+representative sequences were classified in fungene fish et al 
+ to their nearest match from a curated reference set of 
+sequences wang et al sequences were deposited in the
+european nucleotide archive http www ebi ac uk ena as part of
+two studies study prjeb under accession numbers
+err through err for rhizosphere communities and
+
+http pyrotagger jgi psf org
+http pyrotagger jgi psf org
+http www ebi ac uk ena
+http fungene cme msu edu
+http www ebi ac uk ena
+
+
+fig proportional abundances of bacteria and fungi in the s s rrna and mem 
+brane lipid datasets plotted by samples 
+
+table 
+multivariate analysis of variance for three soil microbial community measures 
+
+ssu rrna nifh sequence lipid
+
+r f value r f value r f value
+
+region r 
+site type s 
+position p 
+r � s 
+r � p 
+s � p 
+r � s � p 
+residual e e e
+
+regions are mi and wi site type is either intensive or extensive position is either
+rhizosphere or bulk soil significance of f values was assessed by random
+permutations with the adonis function p p p 
+
+c liang et al soil biology biochemistry e 
+study prjeb under accession numbers err through
+err err through err err through
+err and err through err for bulk soil
+communities 
+
+ lipid analysis
+we used a hybrid procedure of phospholipid fatty acid plfa 
+
+and fatty acid methyl ester fame analysis to assay microbial
+community composition kao kniffin and balser liang et al 
+ the midi eukary method database was used to identify
+fatty acids we added nonadecanoic methyl ester and 
+ nonanoic methyl ester as internal standards to convert fatty acid
+peak areas to nmol lipid g� soil microbial biomass was estimated
+as the sum of all identifiable lipids with c ec the abundance of
+different microbial groups was estimated using the abundance of
+signature lipids liang et al a 
+
+ amino sugar analysis
+the amino sugar analysis method was adapted from the pro 
+
+tocol of guerrant and moss as modified by zhang and
+amelung and presented in greater detail by liang et al 
+ b amino sugars were extracted and converted to aldononi 
+trile acetates and quantified with internal standard myo inositol 
+glucosamine glun and muramic acid mura were used to indi 
+cate fungal and bacterial residues respectively all individual
+amino sugars were summed to estimate the soil microbial necro 
+mass pool liang et al 
+
+ statistical analysis
+
+data analysis was conducted in the r statistical environment r 
+ soil property differences among field sites were assessed
+using unpaired t tests multivariate analysis was conducted using
+the metamds and adonis functions of the vegan package oksanen
+et al using brayecurtis distances calculated from relative
+abundances of s s rrna otus nifh clusters and microbial
+lipids we tested the effects of geographic location management
+intensity and soil position on absolute abundances of microbial
+lipids and amino sugars using linear mixed models lmms in the
+nlme package pinheiro et al we used individual plots as a
+random term to account for the pairing of bulk and rhizosphere
+samples within a site 
+
+ results
+
+ microbial community patterns by s s rrna gene
+sequences nifh gene sequences and lipid analysis
+
+sequencing yields for the ssu rrna dataset varied between 
+and reads per sample with a median of reads there
+was good coverage over the entire dataset good s coverage 
+but some individual samples were less thoroughly explored
+ good s coverage e although we employed universal
+primers that targeted both prokaryotes and eukaryotes prokaryotic
+sequences comprised the overwhelming majority of our data
+ fig we analyzed the rrna profile of the entire microbial
+community including low abundance eukaryotic reads in contrast
+to the low prevalence of fungal rrna e of total reads fungal
+biomass formed a substantial component of themicrobial lipid pool
+ fig themost common bacterial phyla observed in the ssu rrna
+dataset were proteobacteria e median actinobacteria
+ e median and acidobacteria e median 
+sequencing yields were much more even for the nifh data
+ e reads per sample this nifh dataset was dominated by
+a small range of sequences the most abundant sequence clusters
+accounted for of reads table s good s coverage was 
+for all samples 
+
+all of the methods used to characterize microbial community
+composition revealed that community level patterns were signifi 
+cantly influenced by region mi vs wi and site type intensive vs 
+extensive table only the nifh data lacked an interaction be 
+tween region and site type for ssu rrna and nifh data tended to
+cluster by region and site type with rhizosphere communities
+strongly resembling those of their associated bulk soil fig a b in
+contrast microbial lipids exhibited consistent differences between
+bulk and rhizosphere soils fig c in both the ssu rrna and the
+nifh data variability among extensive site samples was greater than
+among intensive site samples variability in the lipid data was
+generally consistent across treatments 
+ rhizosphere effects on microbial and functional group lipid
+biomass
+
+total microbial and functional group lipid biomass were
+generally greater in the rhizosphere than in the bulk soil fig a
+and b at each location fungal to bacterial lipid ratios were similar
+
+
+
+fig non metric multidimensional scaling analysis of total operational taxonomic units otus as defined by clustering of s rrna genes a total nifh genes b and total
+microbial community lipids c mi and wi refer to the region michigan and wisconsin where samples were collected i and e refer to management intensive and extensive sites 
+and r denotes to rhizosphere samples for example miir indicates rhizosphere soil from the intensive site in mi 
+
+c liang et al soil biology biochemistry e 
+between rhizosphere and bulk soils fig b lipid markers for amf
+and gram negative gm� bacteria were more abundant in rhizo 
+spheres than their associated bulk soils fig c and d amf
+biomass was noticeably higher in thewi intensive site than in other
+locations fig c for both functional groups and total microbial
+biomass rhizosphere effects were not significantly different be 
+tween regions or between site types table and fig 
+
+ rhizosphere effects on microbial residue amino sugars
+
+we only measured amino sugar abundances in the intensive
+sites total amino sugar abundance as well as the abundances of the
+fungal residue biomarker glun and the bacterial residue biomarker
+murawere significantly lower in the rhizosphere than the bulk soil
+ fig these amino sugars also differed in abundance between
+two regions although rhizosphere effects were not significantly
+different between regions table 
+
+ discussion
+
+ biomass of amf and gm� bacteria increased in the rhizosphere
+
+we observed large and consistent rhizosphere effects on mi 
+crobial lipid profiles largely from increased biomass of lipid
+markers for amf and gm� bacteria these organisms exhibit
+greater incorporation of plant carbon than other taxa butler et al 
+ although this effect may be lessened by nitrogen fertilization
+ denef et al biomass of amf and gm� bacteria increases in
+the bulk soil when rhizospheres are introduced e g in potted plant
+experiments steer and harris and in field agricultural sys 
+tems liang et al a or expanded as occurs when perennial
+grasses are established in previously agricultural soils herzberger
+et al leading us to expect that overall soil microbial com 
+munity of a sitewould reflect the duration of influence by perennial
+grass rhizospheres this expectationwas realized for gm� bacteria 
+which were more abundant in the extensive sites with their longer
+histories of switchgrass establishment but not for amf whichwere
+substantially more abundant at the wi intensive site there is some
+indication that in prairie derived soils amf biomass increases
+rapidly in the years following establishment of perennial prairie
+species but then decreases as the ecosystem continues to develop
+ allison et al suggesting thewi intensive site could become
+similar to the wi extensive sites over time even as overall amf
+levels decline with site maturity our findings indicate the rhizo 
+sphere continues to support greater amf biomass than the sur 
+rounding bulk soils 
+ microbial necromass decreased in the rhizosphere
+
+microbial residues play an important role in long term soil
+carbon and nitrogen storage simpson et al liang and balser 
+ in earlier workwe found that across sites amino sugars were
+correlated to soil parameters such as soil carbon and clay contents 
+and minimally related to membrane lipids liang et al 
+within a site however the rhizosphere exhibits a substantial
+depletion of amino sugars alongside the increase in lipid biomass 
+similar to but larger than results reported by appuhn et al 
+plants are known to stimulate microbial activity and nutrient
+
+
+
+fig absolute abundance of fungi bacteria arbuscular mycorrhizal amf saprophytic fungi sf gram positive gmþ and gram negative bacteria gm� and the ratios of
+fungi bacteria amf sf and gm� gmþ in bulk and rhizosphere soils under extensive and intensive management of switchgrass in michigan and wisconsin as determined by lipid
+analysis error bars represent standard errors mi and wi refer to the region michigan and wisconsin where samples were collected i and e refer to management intensive and
+extensive sites and r denotes rhizosphere samples for example mii r indicates rhizosphere soil from the intensive site in mi 
+
+
+
+table 
+region site type and soil position effects on absolute lipid abundances mg g in
+switchgrass soils 
+
+total lipids fungal lipids bacterial lipids
+
+f p f p f p
+
+region r 
+site type s 
+r � s 
+position p 
+r � p 
+
+regions are mi and wi site type is either intensive or extensive position is either
+rhizosphere or bulk soil interactions of s � p and s � r � p could not be assessed
+with lipid data due to missing observations for rhizosphere samples from extensive
+sites values were calculated with a lmm bolded values are significant at p 
+
+fig absolute abundance in amino sugars and lipids in bulk and rhizosphere soils of
+intensive switchgrass systems in michigan and wisconsin error bars represent stan 
+dard errors mi and wi refer to the region michigan and wisconsin where samples
+were collected and r denotes rhizosphere samples for example mii r indicates
+rhizosphere soil from the intensive site in mi 
+
+c liang et al soil biology biochemistry e 
+cycling increasing mobilization of critical nutrients such as nitro 
+gen from soil organic matter hamilton and frank amino
+sugars are likely being mobilized and consumed as part of this
+process which is not the case in the bulk soil it is unclear whether
+this dynamic would change with system maturity or management
+intensity as we only had amino sugars from the intensive sites 
+nonetheless it would be enlightening to further study the relative
+importance of amino sugars to plant nitrogen nutrition as well as
+whether rhizosphere enhanced turnover differs betweenmicrobial
+residues and other soil organic matter 
+ rhizosphere effects not observed in dna based microbial
+community metrics
+
+while switchgrass rhizospheres strongly affected microbial
+community lipid profiles we saw no rhizosphere effects on rrna or
+table 
+region and soil position effects on amino sugar abundances mg g in intensive site swit
+
+galn glun
+
+f value p value f value p va
+
+region r 
+position p 
+r � p 
+
+regions are mi and wi position is either rhizosphere or bulk soil total is the sum of gala
+shown values are based on a lmm using plot as a random effect bolded values are sig
+nifh profiles there are multiple possible explanations including
+the level of taxonomic resolution for each method the actual
+community property measured and the responsiveness of the
+underlying biomarkers to environmental change 
+
+lipid biomarkers can only distinguish very coarse groupings 
+typically above the phylum level while ssu rrna amplicon
+sequencing with universal primers can potentially identify micro 
+organisms to the genus to species level kirk et al thus the
+lipid data may reflect a rhizosphere benefit to gm� bacteria in
+general while rrna could show variability inwhich taxawithin that
+group benefit the most 
+
+ssu rrna based methods approximate relative counts of in 
+dividuals with some complications from rrn copy number vari 
+ability klappenbach et al while lipid extraction estimates
+the absolute mass of different taxa compared to bacteria fungal
+biomass per rrn copy number is quite high potentially explaining
+the disparity we observed in the representation of fungi in the lipid
+and ssu rrna data fungi also exhibit protoplasmic streaming in
+which active protoplasm is moved in the hyphae klein and
+paschke often under stress which could affect sampling of
+its dna and assessment of where activity resides moreover much
+of the soil microbial population is dormant at any given time
+ lennon and jones dna based profiles would be dominated
+by dormant individuals while lipid profiling in principle primarily
+reflects active biomass 
+
+the way lipid and dna based assessments reflect dormancy
+may underlie the difference in their assessment how responsive
+microbial communities are to their environment lipid profiles
+exhibit clear seasonal differences in some environments where s
+rrna profiles do not jangid et al similarly ritz et al 
+ found microbial lipids were associated with vegetation
+composition and spatially structured at m range in an upland
+grassland while s rrna profiles showed no relationship to
+vegetation and were only spatially structured below the cm scale 
+as seen in our results lipid profiling characterize short term
+changes in complex microbial communities that are not visible to
+dna based methods 
+
+the lack of rhizosphere effects we observed in rrna profiles
+may be partially due to rhizosphere dynamics in established
+perennial grasslands these systems have very large root masses
+which turnover rapidly gill and jackson much of the “bulk”
+soil in such a system was likely recently part of this large and
+fluctuating rhizosphere over time this could increase numbers of
+rhizosphere organisms throughout the soil in areas outside of the
+rhizosphere at the time of sampling many of these organisms
+would likely be dormant lennon and jones thus having
+reduced influence on the taxonomic composition of biomass but
+maintaining comparable numbers of individuals in contrast 
+studies finding strong rhizosphere effects have typically been
+conducted in annual cropping systems costa et al peiffer
+et al or recently established perennial systems singh
+et al deangelis et al where much of the bulk soil
+is unlikely to have recently experienced rhizosphere influence 
+
+in addition our use of multiple sites with distinct environ 
+mental properties may have precluded identification of a uniform
+chgrass soils 
+
+mura total
+
+lue f value p value f value p value
+
+ 
+ 
+ 
+
+ctosamine galn glucosamine glun muramic acid mura and manosamine not
+nificant at p 
+
+
+
+c liang et al soil biology biochemistry e 
+rhizosphere effect on microbial community taxonomic composi 
+tion soil is the primary reservoir for rhizosphere biodiversity berg
+and smalla rhizosphere bacterial and archaeal communities
+are shaped by their associated bulk soil communities bakker et al 
+ moreover the extent and even direction of rhizosphere
+selection varies among soil types garbeva et al singh et al 
+ schreiter et al we did not observe significant changes
+in rhizosphere effects between our two regions or site types the
+variability among all of our sites which were selected to reflect the
+range of soil types within the two regions jesus et al and
+which had different establishment ages andmanagement histories 
+likely overwhelmed the more subtle locale specific effect 
+
+it should be noted that our rrna dataset profiles the entire
+microbial community due to our use of universal s s primers 
+in contrast to the exclusive focus most other studies place on bac 
+teria archaea despite our use of universal primers our rrna
+dataset is dominated by bacteria and thus largely reflects the dy 
+namics of the same taxa that are typically observed in studies like
+ours prior studies have reported soil type strongly influences
+rhizosphere effects on microbial community composition garbeva
+et al berg and smalla in contrast to those findings 
+we did not observe significantly stronger or weaker rhizosphere
+effects between the two regions we studied which have distinct
+soil types or the site types therein while there was a single
+intensive site per state there were multiple extensive sites in each
+state all with different times of establishment for their switchgrass
+stands and deliberately chosen to represent different soil types of
+the two regions jesus et al rhizosphere effects may have
+been overwhelmed by the variance among these sites due to dif 
+ferences in land use history and soil type steenwerth et al 
+garbeva et al the factors that limited detection of consis 
+tent rhizosphere effects on the taxonomic distribution of the soil
+microbial community likely also contributed to the limited influ 
+ence of the rhizosphere on the distribution of nifh genes addi 
+tionally communities of n fixers associated with switchgrass are
+very diverse bahulikar et al and nifh frequency is quite low
+in the rhizosphere metagenome of switchgrass of the popu 
+lation wang et al suggesting that the rhizosphere may not
+be an overly selective environment this potentially weak selection
+may have been overwhelmed by the differences among sites in
+particular our two intensive sites had historically been used for
+agronomic trials some involving legumes so the legacy of these
+trials likely accounts for the systematic difference kulmatiski and
+beard between these sites and the extensive sites 
+
+ conclusions
+
+we found that the impact of switchgrass rhizospheres is more
+easily discerned from microbial biomass and necromass than from
+the genetic makeup of the associated soil microbial community 
+our findings highlight how dna and biomass based methods
+characterize microbial communities differently as well as the
+benefits of combining both approaches rhizosphere effects did not
+differ significantly between regions or site types suggesting plant
+roots may exert a relatively systematic influence on microbial
+community composition biomass and residues the coupled in 
+crease of microbial biomass and decrease of amino sugar abun 
+dances in rhizosphere soils suggests switchgrass promotes a larger
+microbial population with faster nutrient cycling potentially
+improving plant access to nitrogen and other nutrients 
+
+acknowledgments
+
+we thank drs timothy meehan and hannah gaines for assis 
+tance with field sampling and dr harry read for analyzing lipid
+biomarkers this work was supported by the us doe great lakes
+bioenergy research center doe ber office of science de fc 
+ er and the national natural science foundation of china
+ no 
+
+appendix a supplementary material
+
+supplementary data related to this article can be found at http 
+dx doi org j soilbio 
+
+references
+
+allison v j miller r m jastrow j d matamala r zak d r changes in soil
+microbial community structure in a tallgrass prairie chronosequence soil sci 
+ence society of america journal e 
+
+appuhn a scheller e joergensen r g relationships between microbial
+indices in roots and silt loam soils forming a gradient in soil organic matter soil
+biology biochemistry e 
+
+bahulikar r a torres jerez i worley e craven k udvardi m k diversity
+of nitrogen fixing bacteria associated with switchgrass in the native tallgrass
+prairie of northern oklahoma applied and environmental microbiology 
+ e 
+
+bakker m chaparro j manter d vivanco j impacts of bulk soil microbial
+community structure on rhizosphere microbiomes of zea mays plant and soil
+ e 
+
+berg g smalla k plant species and soil type cooperatively shape the
+structure and function of microbial communities in the rhizosphere fems
+microbiology ecology e 
+
+bouyoucos g j hydrometer method improved for making particle size
+analysis of soils agronomy journal e 
+
+bu�ee m de boer w martin f van overbeek l jurkevitch e the rhizo 
+sphere zoo an overview of plant associated communities of microorganisms 
+including phages bacteria archaea and fungi and of some of their structuring
+factors plant and soil e 
+
+butler j l williams m a bottomley p j myrold d d microbial community
+dynamics associated with rhizosphere carbon flow applied and environmental
+microbiology e 
+
+costa r g€otz m mrotzek n lottmann j berg g smalla k effects of site
+and plant species on rhizosphere community structure as revealed by molec 
+ular analysis of microbial guilds fems microbiology ecology e 
+
+davis s c parton w j dohleman f g smith c m grosso s d kent a d 
+delucia e h comparative biogeochemical cycles of bioenergy crops
+reveal nitrogen fixation and low greenhouse gas emissions in a miscanthus �
+giganteus agro ecosystem ecosystems e 
+
+deangelis k m brodie e l desantis t z andersen g l lindow s e 
+firestone m k selective progressive response of soil microbial com 
+munity to wild oat roots isme journal e 
+
+denef k roobroeck d manimel wadu m c w lootens p boeckx p mi 
+crobial community composition and rhizodeposit carbon assimilation in
+differently managed temperate grassland soils soil biology biochemistry 
+ e 
+
+engelbrektson a kunin v wrighton k c zvenigorodsky n chen f ochman h 
+hugenholtz p experimental factors affecting pcr based estimates of
+microbial species richness and evenness isme journal e 
+
+fish j a chai b wang q sun y brown c t tiedje j m cole j r fun 
+gene the functional gene pipeline and repository frontiers in microbiology 
+ 
+
+frank d a groffman p m plant rhizospheric n processes what we don t
+know and why we should care ecology e 
+
+garbeva p van elsas j van veen j rhizosphere microbial community and
+its response to plant species and soil history plant and soil e 
+
+garbeva p van veen j a van elsas j d microbial diversity in soil selection
+of microbial populations by plant and soil type and implications for disease
+suppressiveness annual review of phytopathology e 
+
+gelfand i sahajpal r zhang x izaurralde r c gross k l robertson g p 
+sustainable bioenergy production from marginal lands in the us midwest 
+nature e 
+
+gianinazzi s gollotte a binet m n van tuinen d redecker d wipf d 
+agroecology the key role of arbuscular mycorrhizas in ecosystem services 
+mycorrhiza e 
+
+gill r a jackson r b global patterns of root turnover for terrestrial eco 
+systems new phytologist e 
+
+guerrant g o moss c w determination of monosaccharides as aldononi 
+trile o methyloxime alditol and cyclitol acetate derivatives by gas chroma 
+tography analytical chemistry e 
+
+guggenberger g frey s six j paustian k elliott e bacterial and fungal
+cell wall residues in conventional and no tillage agroecosystems soil science
+society of america journal e 
+
+hamilton e w frank d a can plants stimulate soil microbes and their own
+nutrient supply evidence from a grazing tolerant grass ecology 
+ e 
+
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+
+c liang et al soil biology biochemistry e 
+herzberger a j duncan d s jackson r d bouncing back plant associated
+soil microbes respond rapidly to prairie establishment plos one e 
+
+jangid k williams m a franzluebbers a j blair j m coleman d c 
+whitman w b development of soil microbial communities during tall 
+grass prairie restoration soil biology biochemistry e 
+
+jangid k williams m a franzluebbers a j schmidt t m coleman d c 
+whitman w b land use history has a stronger impact on soil microbial
+community composition than aboveground vegetation and soil properties soil
+biology biochemistry e 
+
+jesus d c e liang c quensen j f susilawati e jackson r d balser t c 
+tiedje j m influence of corn switchgrass and prairie cropping systems
+on soil microbial communities in the upper midwest of the united states gcb 
+bioenergy http dx doi org gcbb 
+
+joergensen r g ergosterol and microbial biomass in the rhizosphere of
+grassland soils soil biology biochemistry e 
+
+johansson j f paul l r finlay r d microbial interactions in the mycor 
+rhizosphere and their significance for sustainable agriculture fems microbi 
+ology and ecology e 
+
+kao kniffin j balser t c elevated co differentially alters belowground
+plant and soil microbial community structure in reed canary grass invaded
+experimental wetlands soil biology biochemistry e 
+
+kirk j l beaudette l a hart m moutoglis p klironomos j n lee h 
+trevors j t methods of studying soil microbial diversity journal of
+microbiological methods e 
+
+klappenbach j a dunbar j m schmidt t m rrna operon copy number
+reflects ecological strategies of bacteria applied and environmental microbi 
+ology e 
+
+klein d a paschke m w filamentous fungi the indeterminate lifestyle and
+microbial ecology microbial ecology e 
+
+kulmatiski a beard k h long term plant growth legacies overwhelm short 
+term plant growth effects on soil microbial community structure soil biology 
+biochemistry e 
+
+kuzyakov y review factors affecting rhizosphere priming effects journal of
+plant nutrition and soil science e 
+
+lane d j s s rrna sequencing in stackebrandt e goodfellow m 
+ eds nucleic acid techniques in bacterial systematics wiley chichester uk 
+pp e 
+
+lennon j t jones s e microbial seed banks the ecological and evolutionary
+implications of dormancy nature reviews microbiology e 
+
+liang c balser t c microbial production of recalcitrant organic matter in
+global soils implications for productivity and climate policy nature reviews
+microbiology 
+
+liang c duncan d s balser t c tiedje j m jackson r d soil microbial
+residue storage linked to soil legacy under biofuel cropping systems in southern
+wisconsin usa soil biology biochemistry e 
+
+liang c gutknecht j balser t microbial lipid and amino sugar responses to
+long term simulated global environmental changes in a california annual
+grassland frontiers in microbiology 
+
+liang c jesus e d c duncan d s jackson r d tiedje j m balser t c a soil
+microbial communities under model biofuel cropping systems in southern
+wisconsin usa impact of crop species and soil properties applied soil ecology
+ e 
+
+liang c read h w balser t c b gc based detection of aldononitrile acetate
+derivatized glucosamine and muramic acid for microbial residue determination
+in soil journal of visualized experiment e 
+
+oksanen j blanchet f g kindt r legendre p minchin p r o hara r b 
+simpson g l solymos p stevens m h h wagner h vegan commu 
+nity ecology package r package version ed 
+
+peiffer j a spor a koren o jin z tringe s g dangl j l buckler e s ley r e 
+ diversity and heritability of the maize rhizosphere microbiome under
+field conditions proceedings of the national academy of sciences of the united
+states of america e 
+
+philippot l raaijmakers j m lemanceau p van der putten w h going
+back to the roots the microbial ecology of the rhizosphere nature reviews
+microbiology e 
+
+pinheiro j bates d debroy s sarkar d nlme linear and nonlinear mixed
+effects models in team r c ed ed 
+
+poly f monrozier l j bally r improvement in the rflp procedure for
+studying the diversity of nifh genes in communities of nitrogen fixers in soil 
+research in microbiology e 
+
+r r a language and environment for statistical computing vienna austria 
+ritz k mcnicol j w nunan n grayston s millard p atkinson d gollotte a 
+
+habeshaw d boag b clegg c d griffiths b s wheatley r e glover l a 
+mccaig a e prosser j i spatial structure in soil chemical and microbi 
+ological properties in an upland grassland fems microbiology ecology 
+ e 
+
+saravanan v s madhaiyan m osborne j thangaraju m sa t m 
+ecological occurrence of gluconacetobacter diazotrophicus and nitrogen fixing
+acetobacteraceae members their possible role in plant growth promotion 
+microbial ecology e 
+
+schreiter s sandmann m smalla k grosch r soil type dependent
+rhizosphere competence and biocontrol of two bacterial inoculant strains and
+their effects on the rhizosphere microbial community of field grown lettuce 
+plos one e 
+
+simpson a j simpson m j smith e kelleher b p microbially derived in 
+puts to soil organic matter are current estimates too low environmental
+science technology e 
+
+singh b k munro s potts j m millard p influence of grass species and soil
+type on rhizosphere microbial community structure in grassland soils applied
+soil ecology e 
+
+smalla k wieland g buchner a zock a parzy j kaiser s roskot n heuer h 
+berg g bulk and rhizosphere soil bacterial communities studied by
+denaturing gradient gel electrophoresis plant dependent enrichment and sea 
+sonal shifts revealed applied and environmental microbiology e 
+
+steenhoudt o vanderleyden j azospirillum a free living nitrogen fixing
+bacterium closely associated with grasses genetic biochemical and ecological
+aspects fems microbiology reviews e 
+
+steenwerth k l jackson l e calderon f j stromberg m r scow k m soil
+microbial community composition and land use history in cultivated and
+grassland ecosystems of coastal california soil biology biochemistry 
+ e 
+
+steer j harris j a shifts in the microbial community in rhizosphere and
+non rhizosphere soils during the growth of agrostis stolonifera soil biology 
+biochemistry e 
+
+wang q fish j a gilman m sun y brown c t tiedje j m cole j r 
+xander employing a novel method for efficient gene targeted metagenomic
+assembly microbiome 
+
+wang q quensen j f fish j a kwon lee t sun y tiedje j m cole j r 
+ecological patterns of nifh genes in four terrestrial climatic zones explored with
+targeted metagenomics using framebot a new informatics tool mbio 
+e ee 
+
+werling b p dickson t l isaacs r gaines h gratton c gross k l liere h 
+malmstrom c m meehan t d ruan l robertson b a robertson g p 
+schmidt t m schrotenboer a c teal t k wilson j k landis d a 
+perennial grasslands enhance biodiversity and multiple ecosystem services in
+bioenergy landscapes proceedings of the national academy of sciences of the
+united states of america e 
+
+zhang x amelung w gas chromatographic determination of muramic acid 
+glucosamine mannosamine and galactosamine in soils soil biology 
+biochemistry e 
+
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http dx doi org gcbb 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+	switchgrass rhizospheres stimulate microbial biomass but deplete microbial necromass in agricultural soils of the upper mid 
+	 introduction
+	 materials and methods
+	 site description and sampling
+	 microbial and environmental measurements
+	 soil physicochemical measurements
+	 amplification and sequencing of s s rrna genes
+	 nifh analysis
+	 lipid analysis
+	 amino sugar analysis
+
+	 statistical analysis
+
+	 results
+	 microbial community patterns by s s rrna gene sequences nifh gene sequences and lipid analysis
+	 rhizosphere effects on microbial and functional group lipid biomass
+	 rhizosphere effects on microbial residue amino sugars
+
+	 discussion
+	 biomass of amf and gm− bacteria increased in the rhizosphere
+	 microbial necromass decreased in the rhizosphere
+	 rhizosphere effects not observed in dna based microbial community metrics
+
+	 conclusions
+	acknowledgments
+	appendix a supplementary material
+	references
+
+
+

@@ -1,0 +1,1502 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biogeography and diversity of collodaria radiolaria in the global ocean
+
+
+original article
+
+biogeography and diversity of collodaria radiolaria 
+in the global ocean
+
+tristan biard estelle bigeard stéphane audic julie poulain 
+andres gutierrez rodriguez stéphane pesant lars stemmann and fabrice not 
+ sorbonne universités upmc université paris cnrs laboratoire adaptation et diversité en milieu marin
+umr station biologique de roscoff roscoff france sorbonne universités upmc université paris 
+cnrs laboratoire d’océanographie de villefranche lov umr observatoire océanologique 
+villefranche sur mer france cea—institut de génomique genoscope evry france national institute
+of water and atmospheric research wellington new zealand pangaea data publisher for earth and
+environmental science university of bremen bremen germany and marum center for marine
+environmental sciences university of bremen bremen germany
+
+collodaria are heterotrophic marine protists that exist either as large colonies composed of hundreds
+of cells or as large solitary cells all described species so far harbour intracellular microalgae as
+photosymbionts although recent environmental diversity surveys based on molecular methods
+demonstrated their consistently high contribution to planktonic communities and their worldwide
+occurrence our understanding of their diversity and biogeography is still very limited here we
+estimated the s ribosomal dna rdna gene copies per collodarian cell for solitary ± 
+small subunit ssu rdna copies and colonial specimens ± ssu rdna copies for
+each individual cell within a colony using single specimen quantitative pcr we then investigated
+the environmental diversity of collodaria within the photic zone through the metabarcoding survey
+from the tara oceans expedition and found that the two collodarian families collosphaeridae
+and sphaerozoidae contributed the most to the collodarian diversity and encompassed mostly
+cosmopolitan taxa although the biogeographical patterns were homogeneous within each
+biogeochemical biome considered we observed that coastal biomes were consistently less diverse
+than oceanic biomes and were dominated by the sphaerozoidae while the collosphaeridae were
+dominant in the open oceans the significant relationships with six environmental variables suggest
+that collodarian diversity is influenced by the trophic status of oceanic provinces and increased
+towards more oligotrophic regions 
+the isme journal – published online march doi ismej 
+
+introduction
+
+radiolarians are skeleton bearing marine hetero 
+trophic protists belonging to the eukaryotic phylum
+retaria which is included within the super group
+rhizaria nikolaev et al adl et al 
+moreira et al radiolaria encompass 
+extant species classified in five well established
+orders among which the acantharia possess a
+skeleton made of strontium sulfate and the taxopodia 
+collodaria nassellaria and spumellaria a skeleton
+made of opaline silica suzuki and not as it is
+currently impossible to maintain them alive in culture 
+most of our knowledge on radiolarians come from
+
+paleontological studies wever et al and less is
+known about their actual diversity and ecology in
+modern oceans suzuki and not caron 
+
+among radiolarians collodaria are a poorly
+studied group in both paleontological and biological
+research each collodarian colony is composed of
+hundreds to thousands of collodarian cells
+embedded in a gelatinous matrix while the solitary
+specimens are composed of a single cell the size of
+collodarian colonies ranges from a few micrometres
+to a maximum recorded of three metres for a
+colonial specimen swanberg and harbison 
+some collodarian species harbour silicified struc 
+tures either as needle like spines or skeleton while
+other typically lack any mineral structures naked
+collodarian biard et al although our knowl 
+edge on their life cycle is still limited the releases of
+small – μm flagellate cells reproductive swar 
+mers have been reported on several occasions
+ anderson also very little is known with
+respect to the feeding behaviour of collodaria and
+
+correspondence t biard sorbonne universités upmc université
+paris cnrs laboratoire adaptation et diversité en milieu
+marin umr station biologique de roscoff place georges
+teissier roscoff france 
+e mail tristan biard hotmail fr
+received july revised december accepted
+ january published online march 
+
+the isme journal – 
+© international society for microbial ecology all rights reserved 
+www nature com ismej
+
+http dx doi org ismej 
+mailto tristan biard hotmail fr
+http www nature com ismej
+
+
+all species reported so far harbour numerous
+symbiotic microalgae photosymbionts mostly
+identified as the dinoflagellate brandtodinium nutri 
+cula hollande and enjumet probert et al 
+ the taxonomical delineation of the different
+collodarian species is challenging due to the limited
+number of morphological criteria available brandt 
+ haeckel however an integrative
+morpho molecular approach recently allowed to
+better understand the diversity of collodaria and
+clearly distinguished monophyletic families
+ collosphaeridae collophidiidae and sphaerozoidae 
+among collodaria and clades merging solitary
+and colonial species biard et al 
+
+so far only a few studies have described the
+geographical distribution of collodarian taxa
+throughout the world ocean and reported that
+collodaria are globally distributed across a large
+variety of marine environments pavshtiks and
+pan’kova strelkov and reshetnyak 
+swanberg they preferentially inhabit the
+near surface of oligotrophic waters where they can be
+locally abundant from to exceptionally 
+colonies m− khmeleva caron and swanberg 
+ dennett et al recent in situ estimation
+of collodarian abundances highlighted that collo 
+daria were the main contributors to the rhizarian
+biomass and represent a substantial fraction
+of the global carbon standing stock in the upper
+ m of the oceans biard et al though
+recent studies unravelled the importance of
+collodaria in marine ecosystems biard et al 
+guidi et al our understanding of the
+collodarian biodiversity its extent and distribution 
+is still very limited 
+
+in the past decade environmental molecular
+diversity surveys based on the s ribosomal rna
+ rrna gene regularly highlighted a high diversity
+and a relative important contribution of radiolarians
+to planktonic communities in marine ecosystems
+ countway et al not et al edgcomb
+et al and in particular of the collodaria from
+photic layers to the bathypelagic regions of the
+oceans de vargas et al pernice et al 
+similar molecular approaches applied to the ana 
+lyses of protist communities collected by sediment
+traps also highlighted the important contribution of
+collodaria in the particle export to the deep ocean
+ amacher et al fontanez et al yet
+these studies generally lacked taxonomic resolution 
+as no reliable reference database for the s rdna
+was available for detailed assignation of collodaria 
+and did not consider the quantification of the
+collodarian rdna copy number in each cell a
+parameter largely variable among marine protists
+ zhu et al godhe et al 
+
+in this study we investigated the global biogeo 
+graphy of the collodaria across the variety of marine
+ecosystems sampled during the tara oceans expedi 
+tion pesant et al we also investigated the
+relationships between the distribution of collodarian
+
+diversity across a variety of biogeochemical biomes
+and a set of environmental variables 
+
+materials and methods
+real time quantitative pcr qpcr analysis of single 
+specimen collodarian
+colonial and solitary collodarian specimens were
+collected in the bay of villefranche sur mer france 
+ ° ′ ″ n ° ′ ″ e using a regent net μm
+mesh size or a hand net supplementary figure s 
+for surface and vertical – m net tows each
+specimen was micropipette isolated cleaned into
+ μm filtered seawater and imaged under a bino 
+cular microscope dna from each specimen was
+extracted using the masterpure complete dna
+purification kit epicentre le perray france follow 
+ing the manufacturer’s instructions the s rrna
+gene was amplified and sequenced using the set of
+primers s col v r as previously described biard
+et al all sequences have been deposited in the
+genbank database under accession numbers
+ky ky –ky two colonial spe 
+cies sphaerozoum fuscum and collozoum pelagi 
+cum and one solitary species procyttarium
+primordialis were identified based on morphological
+and molecular identity according to the latest classi 
+fication of collodaria biard et al 
+
+in order to avoid eukaryote contaminations from
+preys or microalgal photosymbionts we designed
+two collodarian specific primers col f
+ ′ carctaggggttggcaaat ′ and col r
+ ′ cacatcttgtggtgccctt ′ primers were
+designed and optimized using a reference alignment
+of sphaerozoidae s rdna sequences and
+using primaclade gadberry et al and the
+oligoanalyzer software program integrated dna
+technologies leuven belgium the specificity of
+the newly designed primers was evaluated by pcr
+using genomic dna from acantharia nassellaria 
+spumellaria and the collodarian photosymbiont
+brandtodinium nutricula pcr was performed as
+previously described biard et al 
+
+we used the col f col r primer set to
+pcr amplify a bp fragment of a collozoum
+inerme accession no kr to be used as
+standard for qpcr assays the amplicon was cloned
+into escherichia coli plasmid dna was extracted
+using the nucleospin plasmid nolid kit
+ macherey nagel hœrdt france and newly con 
+structed plasmids were linearized using noti
+enzyme linearized plasmids were analysed by
+electrophoresis in agarose gel and concentration
+measured using a qubit fluorometer fischer scien 
+tific illkirch france the number of copies in the
+standard was calculated as previously described
+ zhu et al a serial fold dilutions
+ − – − were used to obtain standard curves 
+
+all reactions were performed in technical dupli 
+cate with a lightcycler real time pcr system
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+ roche boulogne billancourt france using the
+lightcycler sybr green i master kit roche 
+reactions were performed by denaturing at °c for
+ min followed by cycles of denaturation at °c
+for s annealing at °c for s and extension at
+ °c for s respectively data were retrieved at the
+extension step a melting curve analysis was added
+at the end of each run to ensure a specific
+amplification 
+
+metabarcoding sample acquisition and processing
+the environmental diversity of collodaria was
+explored in samples including size fractions 
+ – – – and – μm collected at
+the surface and the depth of the chlorophyll
+maximum dcm at sampling stations during
+the tara oceans expedition supplementary
+figure s pesant et al detailed descriptions
+of samples used in the present study and their
+environmental context are published in open
+access at pangaea biard et al the
+v s rdna metabarcodes from the tara oceans
+expedition – published in open access at
+pangaea de vargas et al a b and at the
+european nucleotide archive under project acces 
+sion number prjeb were extracted for each
+sample and processed with a bioinformatics pipeline
+previously described de vargas et al briefly 
+the pipeline consisted of quality checking 
+filtering metabarcodes present in o samples and
+witho reads were removed and clustering into
+operational taxonomic units otus using the
+swarm software mahé et al for the present
+analysis we only considered otus with ⩾ 
+sequences present in at least two different samples 
+this threshold led to the removal of of all
+sequences included in the initial data set while it
+removed of unique collodarian otus from
+this the otus were assigned by comparison to the
+protist ribosomal reference pr database guillou
+et al modified with the inclusion of new
+collodarian reference sequences biard et al 
+for otus having contentious assignation for
+example several matches with different reference
+sequences or low hit score they were classified as
+uncertain we finally eliminated the sampling
+stations having o samples to homogenize the final
+data set 
+
+to determine the most relevant identity threshold
+to analyse the collodarian biodiversity we calcu 
+lated pairwise identity values for the full length s
+rrna gene and its hypervariable regions v and v 
+ supplementary figure s using the seqidentity
+function implemented in the bio d package grant
+et al the reference alignment used for this
+analysis comprised collodarian s rdna
+sequences available on the genbank database 
+representing the most exhaustive collodarian data
+set up to date we consequently considered for the
+
+present study only the collodarian otus with ⩾ 
+identity to a reference sequence 
+
+data analyses
+all data analyses and statistics described below were
+performed using r r core team and
+the ggplot wickham hmisc harrell 
+ and vegan oksanen et al 
+packages as well as custom scripts for each
+sampling station we did not find significant differ 
+ences in otu composition between the four different
+size fractions nor the two depths and consequently
+pooled all the sequences from different samples
+collected in the same sampling station for statistical
+analyses of the otu composition and richness 
+
+we created an environmental data set composed of
+ environmental variables available online at
+pangaea biard et al recorded at the
+surface and the dcm to investigate their relation 
+ships with the collodarian biodiversity for each
+sampling stations we calculated the average value of
+the environmental variables recorded between the
+surface water and the dcm collodarian diversity
+ expressed here as the otu richness as well as
+other environmental variables were log transformed
+to normalize them and we calculated the pearson
+correlation coefficient between pairs of variables 
+because of the increased risk of a type i error when
+several tests of significance are performed simulta 
+neously legendre and legendre we used the
+sequential bonferroni adjustment to test the signifi 
+cance of the correlation coefficients rice 
+
+results
+
+quantification of s rrna gene copy number in
+colonial and solitary collodaria
+we quantified the number of s rrna gene copies
+of two colonial and one solitary collodarian species
+ table overall when normalized by the number
+of cells found within a colony that is estimated by
+the number of central capsules forming the colony 
+colonial specimens showed about sevenfold more
+copies than solitary specimens ± 
+ mean± s e m and ± respectively the
+rdna copy number between the two different
+colonial species appeared lower in sphaerozoum
+punctatum ± than in c pelagicum
+ ± we then compared the estimates
+for collodarian s rrna gene copy numbers with
+previous estimates for a broad range of marine
+protists extracted from the literature supplementary
+table s the number of rdna copies was sig 
+nificantly correlated with cell length f r adj 
+ po figure although all colonial speci 
+mens matched the general pattern the solitary
+specimens p primordialis display relatively low
+rdna copy numbers compared with their large
+cell size 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+biogeography of collodaria in the global ocean
+after filtering a total of quality checked
+v rdna gene sequences were assigned to the
+rhizaria and further clustered in otus out of
+these sequences collodaria accounted for a total of
+ sequences and otus based on
+relative sequence abundances we estimated that
+collodaria contributed for an average of of
+the total rhizarian sequences and at least of
+the rhizarians otus considering that we applied a
+strict cutoff excluding rare otu in this study
+ figure collodaria were the dominant lineage
+within the rhizaria within all biomes except in the
+antarctic biome where three sampling stations
+completely lacked collodaria overall variations of
+collodarian contribution to the rhizarian sequences
+matched very well their contribution to rhizarian
+otus except for a few sampling stations for
+example station in the indian ocean where
+the collodarian contribution to rhizarian otus
+was lower than their contribution to rhizarian
+sequences 
+
+the latitudinal variations of collodarian otu
+richness revealed a hump shaped relationship
+centred between and ° s and exhibiting higher
+diversity at low latitudes figure a additionally 
+the collodarian richness greatly varied within and
+between the different biogeochemical biomes 
+
+reaching the highest average value otus in
+the atlantic trade wind biome sat figure b 
+the mediterranean sea med was the least
+diverse biome with an average richness of otus 
+overall coastal biomes that is med–ico–pco–aco 
+had a significantly lower otu richness mean 
+s d compared with the open ocean biomes
+ that is ind–pac–nat–sat–ant mean 
+s d t po for each of the
+three oceanic basins indian ocean pacific ocean
+and atlantic ocean north and south we compared
+the otu richness between coastal and oceanic
+biomes figure b although we observed a small
+level of statistical difference po and po 
+respectively between the coastal and oceanic sam 
+pling stations for the pacific and atlantic oceans we
+did not observe any significant difference within the
+indian ocean 
+
+the environmental diversity of otus assigned to
+the collodaria covered all the currently recognized
+collodarian families for otus having uncertain
+assignations with the procedure used for the
+entire data set we identified the closest environ 
+mental and cultured match using the ncbi blastn
+tool and assigned them to the collophidiidae
+ otus the sphaerozoidae and the collo 
+sphaeridae according to the established collo 
+darian reference database supplementary table s 
+
+table quantification of rdna copy numbers in colonial and solitary collodaria with quantitative pcr
+
+organism id no clade
+affiliation
+
+accession
+no ssu 
+
+organism
+length mm 
+
+central cap 
+sules n a
+
+central capsule
+size μm b
+
+copies per central
+capsule n 
+
+s d 
+
+colonial collodarians
+sphaerozoum fuscum c ky ± 
+sphaerozoum fuscum c ky ± 
+sphaerozoum fuscum c ky ± 
+sphaerozoum fuscum c ky ± 
+sphaerozoum fuscum c ky ± 
+mean — — — — — 
+collozoum pelagicum c ky ± 
+collozoum pelagicum c ky ± 
+collozoum pelagicum c ky ± 
+collozoum pelagicum c ky ± 
+collozoum pelagicum c ky ± 
+collozoum pelagicum c ky ± 
+collozoum pelagicum c ky ± 
+mean — — — — — 
+mean for all colonial
+collodarians
+
+— — — — — 
+
+solitary collodarians
+procyttarium primordialis c ky 
+procyttarium primordialis c ky 
+procyttarium primordialis c ky 
+procyttarium primordialis c ky 
+procyttarium primordialis c ky 
+mean — — — — — 
+
+abbreviation ssu small subunit 
+acentral capsules are proxies for the number of collodarian cells 
+bfor colonial collodarian the central capsule size is the average size ± s d estimated from the measurement of randomly selected central
+capsules 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+biard et al when considering all the otus
+together the collosphaeridae clade a was the most
+sequence abundant family accounting for an aver 
+age of of all collodarian sequences
+ figure a although it was less abundant 
+of all sequences the sphaerozoidae clade c 
+was the most diverse family encompassing almost
+half of all collodarian otus otus while the
+
+collosphaeridae only gathered otus figure a 
+the third family the collophidiidae clade b 
+showed an overall low relative abundance 
+and was fairly diverse otus figure a we
+further distinguished clades among the three
+families clades a b and c being the most
+abundant and clades a b and c being the most
+diverse clades within each family figure a 
+
+figure correlation between the rdna copy number per cell estimated by quantitative pcr and the cell length across eukaryotic marine
+protists including the three different collodarian species filled circles detailed measurements are provided in supplementary table s 
+
+figure contribution of collodaria to the rhizaria lineage across the tara oceans expedition sampling stations upper panel 
+contribution of collodaria to the total number of rhizaria sequences lower panel contribution of collodaria to the total number of
+rhizaria otus the red lines display the mean contributions for each data set contributions are geographically divided according to
+longhurst’s biogeochemical biomes by longhurst a full colour version of this figure is available at the isme journal online 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+overall the clade a was the most abundant with
+ of all collodarian sequences 
+
+we observed that the most abundant otus
+were widely spread across the sampling stations
+ figure b and that each of the most abundant
+were distributed at least in sampling stations
+among a total of that is a few other ‘rare’
+otus occurred in a limited number of sampling
+locations typically being observed in two or three
+sampling stations 
+
+the geographical distribution of the different
+collodarian families and clades among nine different
+biogeochemical regions revealed a rather homoge 
+neous distribution with a few clades one or two 
+
+prevailing at each sampling station figure on
+average the collosphaeridae appeared dominant
+ – in open ocean waters that is ind pac 
+nat sat and ant while we observed a rather clear
+domination – of the sphaerozoidae at
+coastal biomes that is ico pco and aco with the
+exception of the mediterranean sea med with an
+overall domination of the collosphaeridae 
+figure collophidiidae were rare accounting for
+o of the collodarian sequences in all biomes 
+with the exception of a few sampling stations
+ for example and both in the pacific
+trade wind biome where they displayed signifi 
+cantly higher contribution figure within
+each biome the distribution patterns were rather
+homogeneous across sampling stations except
+for the mediterranean sea where a clear shift
+appeared in clade composition when going from
+the occidental basin sampling stations – to the
+oriental basin – the sphaerozoidae being
+dominant in the western part of the sea of
+collodarian sequences and replaced by collo 
+sphaeridae in the eastern part of collodarian
+sequences figure although the collodarian
+diversity was low throughout the two basins 
+higher diversity was observed locally in three
+sampling stations for example and this
+higher collodarian diversity consistently occurred
+with more even contribution of the two main
+collodarian family ratio collosphaeridae sphaero 
+zoidae figure 
+
+we then investigated the variation in collodarian
+diversity with regards to a set of environmental
+variables available for the samples considered
+ supplementary table s whether considering the
+ clades or the families illustrated in the data set 
+their relationships with environmental variables
+were not statistically significant yet we observed
+increasing or decreasing trends for a number of
+different variables supplementary figure s 
+instead of the taxonomic groups when considering
+the log transformed collodarian otu richness we
+found significant relationships with six environmen 
+tal variables the bathymetry that is bottom depth 
+the distance to the coast the depth of the mixed
+layer the backscattering coefficent of particles the
+silica concentration and the dcm figure and
+supplementary table s the pearson correlation
+coefficient between collodarian diversity and the
+bathymetry of each sampling station was the highest 
+r po figure a and explained
+ of the total variation in collodarian diversity 
+although the data were rather scattered on the
+plots the otu richness showed significant increases
+with the following log transformed variables the
+distance to the coast r po 
+ figure b the depth of the mixed layer 
+r po figure c the silica con 
+centration r po figure e and
+the depth of the dcm r po 
+ figure f the otu richness showed a sig 
+
+figure variation in collodarian diversity across oceanic basins
+and latitudes a latitudinal distribution of collodarian otu
+richness loess regression with polynomial fitting was computed
+to illustrate the latitudinal pattern pale colour area displays a 
+confidence interval around the trend b variation of otu
+richness across longhurst’s biomes sample size n for each
+biome is indicated along the x axis the dashed line represents the
+overall mean otu richness s p value ns p 
+ po po for welch test show the significant decrease
+in otu richness between coastal and oceanic biomes a full
+colour version of this figure is available at the isme journal online 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+nificant decrease with the log transformed back 
+scattering coefficient of particles a proxy for the
+particulate organic carbon r − po 
+ figure d 
+
+discussion
+
+quantifying the rdna copy numbers
+using specifically designed qpcr primers we deter 
+mined the number of s rrna gene copies for 
+collodarian specimens encompassing three different
+species table the times higher s rrna gene
+copy number observed between the colonial com 
+pared with the solitary specimens could be explained
+by the presence of multiple nuclei estimated from 
+to nuclei per cells in colonial forms suzuki et al 
+ while solitary specimens typically possess a
+single nucleus huth anderson suzuki
+et al other hypotheses such as the difference
+in ploidy between the two forms the solitary being a
+haploid stage of the colonial specimens biard et al 
+ cannot be ruled out 
+
+the number of rdna copies weighted by the
+number of central capsules that is actual number of
+cells showed a distribution consistent with that of
+other marine protists figure and similar com 
+pared with that of the foraminifera – 
+ s rrna gene copies weber and pawlowski 
+their closest relative in the overall comparison
+in the rdna copy content in marine protists
+ supplementary table s our results confirm and
+fit the previously reported correlation between size
+and number of rdna copies for marine protists zhu
+et al godhe et al when considering
+the full specimen that is the entire colony colonial
+collodarian displayed the highest rdna copy num 
+ber ever recorded in any marine protist among the
+
+ colonial specimens we analysed here the highest
+number of rdna copies rdna copies 
+was recorded for a c pelagicum colony measuring
+ × mm mm such high content is similar to
+the number of rdna copies estimated in the multi 
+cellular crustacean copepod mesocyclops edax
+ supplementary figure s wyngaard et al 
+as colonial collodarian often display sizes larger
+than several centimetres up to a few metres
+ swanberg and harbison we estimate that a
+ × mm cylindrical colony that is mm 
+the size of a colony reported in swanberg and
+harbison with a central capsule density of
+ capsulemm− dennett et al could
+possess almost one billion rdna copies these high
+values illustrate the difficulty to quantitatively
+appreciate the real significance of collodaria abun 
+dance inferred from metabarcoding surveys as they
+can potentially lead to an overestimation of their
+importance depending on the care with which the
+samples have been collected indeed colonial
+collodaria are easily broken upon collection with
+plankton net or during filtration procedures and
+dna signature along with the high rdna copy
+content could propagate to smaller size fractions for
+example – μm where the high diversity and
+contribution of collodaria have been reported on
+several occasions not et al sauvadet et al 
+ edgcomb et al massana 
+although we cannot rule out the impact of cell
+breakage in the propagation of collodarian dna the
+lack of differences in collodarian otu composition
+among the four size fractions collected during the
+tara oceans expedition could also be due to
+the presence of different collodarian life stages
+ for example flagellate reproductive swarmers 
+
+figure diversity of the collodaria a contribution of the different clades to the total collodarian otus height number of otus and
+the total number of collodarian sequence radius contribution b occupancy and spatial evenness of each collodarian v rdna otu
+identified across stations sampled a low value of spatial evenness indicates that the number of metabarcodes within an otu is not
+equally distributed over the sampling stations where the otu is present and vice versa each circle represents one of the collodarian v 
+rdna otu with its size being proportional to the total read abundance the most abundant otus are labelled according to their rank
+and taxonomic clade affiliation a full colour version of this figure is available at the isme journal online 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+figure relative abundance of rdna metabarcodes assigned to the different collodarian families and clades defined previously biard
+et al and across the tara oceans expedition sampling stations relative contributions are geographically divided according to
+longhurst’s biomes longhurst for each biome average contributions of the different collodarian families are shown on the right
+panel and the five most abundant clades are labelled according to their affiliation detailed numerical values are shown in supplementary
+table s 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+anderson which could represent collodarian
+dna also in the small size fractions 
+
+refining the data set accuracy
+interpretations of data from metabarcoding diversity
+surveys depend on a number of methodological and
+analytical processes such as pcr artefacts and
+sequencing errors which are known to inflate
+diversity estimates kunin et al lee et al 
+ quality control procedures of the sequences
+generated huse et al quince et al and
+intragenomic polymorphism recently demonstrated
+in several rhizarian taxa that is foraminifera 
+acantharia including the nassellaria the closest
+relative to collodaria in molecular phylogenies
+ pillet et al decelle et al using
+interspecific variability estimates across collodarian
+families supplementary figure s and a conserva 
+tive abundance threshold of sequences we
+
+defined a total of otus our estimates based on
+a global survey are times lower than previous
+estimates that is otus for a subset of
+sampling stations from the same tara oceans
+expedition de vargas et al yet twice more
+than the number of extant collodarian species
+described to date that is species dr n suzuki 
+personal communication additionally further
+efforts will be needed to fully assess the actual
+collodarian diversity such as the requirement for
+taxon specific delineation of sequence abundance or
+the use of clustering thresholds to limit potential
+diversity overestimations from environmental sur 
+vey analyses brown et al in the case of
+collodaria qpcr estimations of s rrna gene copy
+number for three species two colonial and one
+solitary suggested a major difference between
+solitary and colonial forms table two forms that
+cannot currently be differentiated based on the s
+and s rrna taxonomic gene marker resolution
+ biard et al in this regards estimations of
+central capsule abundance from sequence abun 
+dance will be biased until we are able to separate
+solitary from colonial forms based on molecular
+signature which could potentially be resolved using
+more variable marker such as mitochondrial gene
+marker leray et al 
+
+insight into the biodiversity and ecology of collodarian
+taxonomic assignment of the otus based on a
+recent morpho molecular reference framework for
+collodaria biard et al did not reveal new
+lineages represented by environmental sequences
+only at the family level at finer taxonomic resolu 
+tion a few dominant otus assigned mostly to the
+collosphaeridae and sphaerozoidae were consis 
+tently dominant throughout the different sampling
+stations suggesting that besides collophidiidae 
+collodaria as a whole are likely to be cosmopolitan
+organisms figures b and these observations
+are consistent with a previous examination of
+collodarian biodiversity distribution assessed from
+diverse locations suggesting that collodarian species
+can be divided into three groups widely
+distributed species typically belonging to the collo 
+sphaeridae clades a a and a or the sphaer 
+ozoidae clade c tropical distributed species
+such as clades a b or c confined to the surface
+waters and endemics species absent from any
+existing morpho molecular databases strelkov and
+reshetnyak biard et al the clades
+included in the first category were consistently
+found being the most abundant throughout the
+different sampling stations of the present data set
+ figures b and we did not find strong evidence
+suggesting the presence of endemic clades even
+though we recorded several ‘rare’ otus being
+present in few sampling stations figure b despite
+our extensive geographical coverage most of the
+stations sampled were located in tropical and
+
+figure diversity pattern of the collodaria across the mediter 
+ranean sea upper panel location of the sampling stations middle
+panel in filled black circles variation of ratio between the
+relative abundances of collosphaeridae and sphaerozoidae a high
+value of ratio meaning a domination of collosphaeridae a low
+ratio a domination of the sphaerozoidae and with inverted
+triangle the collodarian diversity expressed as the otus
+richness lower panel relative abundance of rdna metabarcodes
+across sampling stations 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+figure correlations between the collodarian diversity log of otu richness and mean environmental variables across the tara oceans
+sampling stations linear regression lines are displayed each sampling station dot is coloured according to one of the longhurst’s
+biomes a relation with the bathymetry m b relation with the log of the distance to the coast km c relation with the log of the
+mld m d relation with the log of the backscattering coefficient of particules nm bbp l m− e relation with the log of the
+silica concentration μmol m− f relation with the log of the dcm m 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+temperate zones with only a few coastal conditions
+and a limited number of polar sampling stations
+ supplementary figure s in this respect we
+cannot exclude that our sampling might have missed
+a number of ecological niches where additional
+collodarian taxa could have been found 
+
+the collophidiidae family with its unique genus
+collophidium biard et al was rather rarely
+encountered across the sampling stations investi 
+gated in our study figures a and which were all
+restricted to the shallow photic layers of the oceans
+ pesant et al this sampling strategy might
+have introduced a bias against this family as
+assignation of environmental sequences mostly
+obtained from previous clone libraries surveys 
+showed that the collophidiidae were consistently
+the dominant collodarian family in deep water
+samples biard et al this observation has
+been confirmed by a recent study from which a
+substantial number of metabarcodes assigned to the
+genus collophidium were extracted from deep 
+water samples – m acquired worldwide
+ pernice et al exploring further this deep 
+dwelling collodarian community might change our
+understanding of the ecology and diversity of
+collodaria in the global ocean 
+
+the observed decrease of collodarian richness
+towards high latitudes figure a is not only
+consistent with previous analyses strelkov and
+reshetnyak but also with other latitudinal
+trends observed for radiolarians boltovskoy et al 
+ or different marine organisms such as tintin 
+nids or copepods dolan et al rombouts
+et al when considering biogeochemical
+regions defined by longhurst we consistently
+observed a higher contribution of sequences
+affiliated to sphaerozoidae species mostly lacking
+silicified structure biard et al in low 
+diversity coastal biomes whereas collosphaeridae
+ skeleton bearing taxa biard et al were the
+dominant collodarians in the more diverse open 
+ocean biomes figures b and similar to our
+observations numerous surface sediment records
+suggested that collosphaeridae are likely to be
+encountered in open ocean waters boltovskoy
+et al but the lack of fossil record for
+spicule bearing and naked collodaria prevent accu 
+rate testing of this distribution pattern 
+
+links between collodarian diversity and environmental
+variables
+testing the relationships between the collodarian
+otu richness within each clade or family with the
+ environmental variables available did not provide
+any significant linear correlations supplementary
+figure s but significant relationships were found
+when considering the total collodarian otu richness
+instead figure the observed patterns of increas 
+ing or decreasing diversity suggest that all three
+families with the exception of the collophidiidae
+
+largely under represented displayed the same varia 
+tion for the variables considered and that none of the
+significant variability affected preferentially one of
+the families 
+
+overall both the bathymetry and the distance
+from the coast of each sampling station revealed the
+highest correlation with otu richness figures
+ a and b indicating that the collodarian diversity is
+likely to increase towards more oceanic conditions as
+it was previously suggested figure b swanberg 
+ we also found a positive correlation between
+the water column stratification estimated via the
+mixed layer depth suggesting that the collodarian
+diversity increase with a deeper stratification of the
+ocean figure c although the extent of the mixed
+layer depth mld is variable over seasons with
+deeper stratification in winter and a shallow mld in
+summer its extent in tropical regions is rather stable
+over time with a deep mld de boyer montégut et al 
+ in the present study most of the samples were
+collected in tropical regions supplementary
+figure s with deep mld suggesting an increasing
+diversity toward tropical and oligotrophic regions
+where collodaria are known to be more abundant
+ dennett et al biard et al such a
+pattern was supported by the significant increase of
+diversity with decreasing particulate organic carbon
+and increasing dcm we found no significant
+correlation between otu richness and sea tempera 
+ture supplementary table s whereas it has been
+suggested earlier that collodarian diversity may
+increase towards warmer waters strelkov and
+reshetnyak however our sampling coverage
+provided only a narrow range of temperature inter 
+quartile range °c between and °c and thus
+could have limited the significance of temperature in
+explaining the diversity patterns observed 
+
+although the silica concentrations were rather low
+across the sampling stations and typical of tropical
+waters the overall positive correlation between
+silica concentration and collodarian diversity
+ figure e was unexpected as most collodaria have
+reduced silicified structures spines or skeleton or
+even lack these structures biard et al 
+additionally while we could have expected a
+domination of naked sphaerozoidae for example 
+collozoum spp in low silica concentration waters 
+the analysis of otu composition did not reveal such
+a domination but rather suggested that the diversity
+of the three collodarian families increased with
+increasing silica concentration supplementary
+figure s although the decrease of radiolarian
+skeleton weight with decreasing silica availability in
+surface waters has been previously suggested
+through analysis of marine sediments from the
+cenozoic that is o million years lazarus et al 
+ the present pattern could however indicate
+that with increasing silica concentration a large
+morphological diversity in particular silicified
+collodarian that is spicules and skeleton bearing
+species could be encountered 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+
+the cosmopolitan distribution of collodarian
+families and clades observed in the present study
+provide insights into the ecology of collodaria and
+suggested that these protists have adapted to various
+environmental conditions although we recovered
+six significant relationships with different environ 
+mental parameters other processes might be
+considered to fully understand the distribution of
+collodarian diversity such as the influence of
+temporal scales as it has been proved to have
+potential impacts on plankton diversity rombouts
+et al egge et al or including biotic
+variables such as predation shurin or photo 
+symbiosis biard et al known to affect the
+distribution of plankton communities 
+
+conflict of interest
+
+the authors declare no conflict of interest 
+
+acknowledgements
+this work was supported by the phd fellowship emergence 
+upmc ‘desir’ from the université pierre et marie curie 
+we are grateful to the biogenouest genomics and genomer
+plateforme core facility for its technical support and to the
+dr john dolan villefranche sur mer for providing us
+sampling facilities we would like to thank dr ian probert
+for insightful comments and english proof reading we
+thank the french governement investissement d avenir 
+program oceanomics anr btbr and the anr
+project poseidon anr blan this article is
+contribution number of tara oceans for the tara
+oceans expedition we thank the commitment of the cnrs
+ in particular groupement de recherche gdr eur 
+opean molecular biology laboratory embl genoscope 
+cea vib stazione zoologica anton dohrn unimib fund
+for scientific research—flanders rega institute ku leu 
+ven the french ministry of research we also thank the
+support and commitment of agnès b and etienne bourgois 
+the veolia environment foundation région bretagne 
+lorient agglomération world courier illumina the edf
+foundation frb the prince albert ii de monaco founda 
+tion the tara schooner and its captains and crew we are
+also grateful to the french ministry of foreign affairs for
+supporting the expedition and to the countries who
+graciously granted sampling permissions tara oceans
+would not exist without continuous support from 
+institutes http oceans taraexpeditions org we further
+declare that all data reported herein are fully and freely
+available from the date of publication with no restrictions 
+and that all of the samples analyses publications and
+ownership of data are free from legal entanglement or
+restriction of any sort by the various nations whose waters
+the tara oceans expedition sampled in 
+
+references
+adl sm simpson agb farmer ma andersen ra 
+
+anderson or barta jr et al the new higher
+level classification of eukaryotes with emphasis on
+
+the taxonomy of protists j eukaryot microbiol 
+ – 
+
+amacher j neuer s anderson i massana r 
+molecular approach to determine contributions of the
+protist community to particle flux deep sea res pt i
+ – 
+
+anderson or a cytoplasmic fine structure study
+of two spumellarian radiolaria and their symbionts 
+mar micropaleontol – 
+
+anderson or radiolaria springer verlag new
+york usa pp 
+
+biard t bigeard e audic s poulain j gutierrez rodriguez
+a stemmann l et al abundances of metabar 
+codes and otus and contextual data of samples
+selected for a study of the biogeography and diversity
+of collodaria radiolaria in the global ocean 
+doi pangaea 
+
+biard t pillet l decelle j poirier c suzuki n not f 
+ towards an integrative morpho molecular
+classification of the collodaria polycystinea radi 
+olaria protist – 
+
+biard t stemmann l picheral m mayot n vandromme p 
+hauss h et al in situ imaging reveals the
+biomass of giant protists in the global ocean nature
+ – 
+
+boltovskoy d kling sa takahashi k bjørklund k 
+world atlas of distribution of recent polycystina
+ radiolaria palaeontol electron 
+
+de boyer montégut c madec g fischer as lazar a 
+iudicone d mixed layer depth over the global
+ocean an examination of profile data and a profile 
+based climatology j geophys res oceans c 
+
+brandt kah die koloniebildenden radiolarien
+ sphaerozoeen des golfes von neapel und der
+angrenzenden meeresabschnitte r friedlander 
+sohn berlin germany 
+
+brown ea chain fjj crease tj macisaac hj cristescu me 
+ divergence thresholds and divergent biodiversity
+estimates can metabarcoding reliably describe zoo 
+plankton communities ecol evol – 
+
+caron da the rise of rhizaria nature 
+ – 
+
+caron da swanberg nr the ecology of planktonic
+sarcodines rev aquat sci – 
+
+countway pd gast rj dennett mr savai p rose jm 
+caron da distinct protistan assemblages
+characterize the euphotic zone and deep sea m 
+of the western north atlantic sargasso sea and gulf
+stream environ microbiol – 
+
+de vargas c audic s tara oceans consortium c tara
+oceans expedition p a total v rdna informa 
+tion organized at the metabarcode level for the tara
+oceans expedition doi pan
+gaea 
+
+de vargas c audic s tara oceans consortium c tara
+oceans expedition p b total v rdna informa 
+tion organized at the otu level for the tara
+oceans expedition doi pan
+gaea 
+
+decelle j romac s sasaki e not f mahé f 
+intracellular diversity of the v and v regions of the
+ s rrna in marine protists radiolarians assessed by
+high throughput sequencing plos one e 
+
+dennett mr caron da michaels af gallager sm 
+davis cs video plankton recorder reveals high
+abundances of colonial radiolaria in surface waters of
+the central north pacific j plankton res – 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+http pangaea 
+
+
+dolan jr lemée r gasparini s mousseau l heyndrickx c 
+ probing diversity in the plankton using patterns
+in tintinnids planktonic marine ciliates to identify
+mechanisms hydrobiologia – 
+
+edgcomb v orsi w bunge j jeon s christen r leslin c
+et al protistan microbial observatory in the
+cariaco basin caribbean i pyrosequencing vs sanger
+insights into species richness isme j – 
+
+egge es johannessen tv andersen t eikrem w bittner l 
+larsen a et al seasonal diversity and dynamics
+of haptophytes in the skagerrak norway explored by
+high throughput sequencing mol ecol – 
+
+fontanez km eppley jm samo tj karl dm delong ef 
+ microbial community structure and function
+on sinking particles in the north pacific subtropical
+gyre aquat microbiol 
+
+gadberry md malcomber st doust an kellogg ea 
+ primaclade a flexible tool to find conserved
+pcr primers across multiple species bioinformatics
+ – 
+
+godhe a asplund me härnström k saravanan v 
+tyagi a karunasagar i quantification of
+diatom and dinoflagellate biomasses in coastal marine
+seawater samples by real time pcr appl environ
+microbiol – 
+
+grant bj rodrigues apc elsawy km mccammon ja 
+caves lsd bio d an r package for the
+comparative analysis of protein structures bioinfor 
+matics – 
+
+guidi l chaffron s bittner l eveillard d larhlimi a 
+roux s et al plankton networks driving carbon
+export in the oligotrophic ocean nature – 
+
+guillou l bachar d audic s bass d berney c bittner l
+et al the protist ribosomal reference database
+ pr a catalog of unicellular eukaryote small sub unit
+rrna sequences with curated taxonomy nucleic
+acids res d –d 
+
+haeckel e report on the radiolaria collected
+by h m s challenger during the years – 
+zoology – 
+
+harrell fe hmisc harrell miscellaneous 
+r package version available at http cran 
+r project org package hmisc 
+
+hollande a enjumet m contribution à l’étude
+biologique des sphaerocollides radiolaires collo 
+daires et radiolaires polycyttaires et de leurs para 
+sites ann sci nat zool – 
+
+huse s welch d morrison h sogin m ironing out
+the wrinkles in the rare biosphere through improved
+otu clustering environ microbiol – 
+
+huth w zur entwicklungsgeschichte der thalassi 
+collen arch für protistenkd – 
+
+khmeleva n role of radiolarians in the
+estimation of the primary production in the red sea
+and the gulf of aden dokl akad nauk sssr 
+ – 
+
+kunin v engelbrektson a ochman h hugenholtz p 
+ wrinkles in the rare biosphere pyrosequencing
+errors can lead to artificial inflation of diversity
+estimates environ microbiol – 
+
+lazarus d kotrc b wulf g schmidt d radiolar 
+ians decreased silicification as an evolutionary
+response to reduced cenozoic ocean silica availability 
+proc natl acad sci usa – 
+
+lee ck herbold cw polson sw wommack ke 
+williamson sj mcdonald ir et al groundtruthing
+next gen sequencing for microbial ecology–biases and
+
+errors in community structure estimates from pcr
+amplicon pyrosequencing plos one e 
+
+legendre p legendre l numerical ecology rd
+english ednelsevier amsterdam the netherlands 
+
+leray m yang jy meyer cp mills sc agudelo n 
+ranwez v et al a new versatile primer set
+targeting a short fragment of the mitochondrial coi
+region for metabarcoding metazoan diversity applica 
+tion for characterizing coral reef fish gut contents 
+front zool 
+
+longhurst ar ecological geography of the sea 
+academic press london uk 
+
+mahé f rognes t quince c de vargas c dunthorn m 
+ swarm robust and fast clustering method for
+amplicon based studies peerj e 
+
+massana r eukaryotic picoplankton in surface
+oceans annu rev microbiol – 
+
+moreira d von der heyden s bass d lópez garcía p 
+chao e cavalier smith t global eukaryote
+phylogeny combined small and large subunit riboso 
+mal dna trees support monophyly of rhizaria retaria
+and excavata mol phylogenet evol – 
+
+nikolaev si berney c fahrni jf bolivar i polet s 
+mylnikov ap et al the twilight of heliozoa and
+rise of rhizaria an emerging supergroup of amoeboid
+eukaryotes proc natl acad sci usa – 
+
+not f gausling r azam f heidelberg jf worden az 
+ vertical distribution of picoeukaryotic diversity
+in the sargasso sea environ microbiol – 
+
+oksanen j blanchet gf kindt r legendre p minchin pr 
+o’hara rb et al vegan community ecology
+package r package vegan vers 
+
+pavshtiks ea pan’kova la o pitanii pelagicheskoi
+molodi morskikh okunei roda sebastes planktonon v
+devisovom prolive mater nauchnoi sesii polyarnago
+nauchnoissledovatelskogo instituta morskogo rybn
+khozyaistva okeanogr – 
+
+pernice mc giner cr logares r perera bel j 
+acinas sg duarte cm et al large variability of
+bathypelagic microbial eukaryotic communities across
+the world’s oceans isme j – 
+
+pesant s not f picheral m kandels lewis s bescot nl 
+gorsky g et al open science resources for the
+discovery and analysis of tara oceans data sci data 
+ 
+
+pillet l fontaine d pawlowski j intra genomic
+ribosomal rna polymorphism and morphological varia 
+tion in elphidium macellum suggests inter specific
+hybridization in foraminifera plos one e 
+
+probert i siano r poirier c decelle j biard t tuji a et al 
+ brandtodinium gen nov and b nutricula
+comb nov dinophyceae a dinoflagellate commonly
+found in symbiosis with polycystine radiolarians 
+j phycol – 
+
+quince c lanzen a davenport rj turnbaugh pj 
+removing noise from pyrosequenced amplicons bmc
+bioinformatics 
+
+r core team r a language and environment for
+statistical computing http www r project org 
+
+rice wr analyzing tables of statistical tests 
+evolution – 
+
+rombouts i beaugrand g ibañez f gasparini s 
+chiba s legendre l a multivariate approach
+to large scale variation in marine planktonic copepod
+diversity and its environmental correlates limnol
+oceanogr – 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+http cran r project org package hmisc
+http cran r project org package hmisc
+http www r project org 
+
+
+rombouts i beaugrand g ibanez f gasparini s chiba s 
+legendre l global latitudinal variations in
+marine copepod diversity and environmental factors 
+proc r soc b biol sci – 
+
+sauvadet a l gobet a guillou l comparative
+analysis between protist communities from the deep 
+sea pelagic ecosystem and specific deep hydrothermal
+habitats protist associated with hydrothermal envir 
+onments environ microbiol – 
+
+shurin jb interactive effects of predation and
+dispersal on zooplankton communities ecology 
+ – 
+
+strelkov a reshetnyak v colonial spumellarian
+radiolarians of the world ocean acad sci ussr explor
+fauna seas – 
+
+suzuki n not f biology and ecology of
+radiolaria in ohtsuka s suzaki t horiguchi t 
+suzuki n not f eds marine protists springer japan 
+pp – 
+
+suzuki n ogane k aita y kato m sakai s kurihara t
+et al distribution patterns of the radiolarian
+nuclei and symbionts using dapi fluorescence bull
+natl mus nat sci ser b – 
+
+swanberg nr the ecology of colonial radiolar 
+ians their colony morphology trophic interactions
+and associations behavior distribution and the
+
+photosynthesis of their symbionts massachusetts
+institute of technology and woods hole oceano 
+graphic institution 
+
+swanberg nr harbison gr the ecology of
+collozoum longiforme sp nov a new colonial
+radiolarian from the equatorial atlantic ocean deep
+sea res part oceanogr res pap – 
+
+de vargas c audic s henry n decelle j mahé f 
+logares r et al eukaryotic plankton diversity
+in the sunlit ocean science 
+
+weber aa t pawlowski j can abundance of
+protists be inferred from sequence data a case study of
+foraminifera plos one e 
+
+wever pd dumitrica p caulet jp nigrini c caridroit m 
+ radiolarians in the sedimentary record crc
+press 
+
+wickham h ggplot elegant graphics for data
+analysis springer science business media 
+
+wyngaard ga mclaren ia white mm sévigny j m 
+ unusually high numbers of ribosomal rna
+genes in copepods arthropoda crustacea and their
+relationship to genome size genome – 
+
+zhu f massana r not f marie d vaulot d 
+mapping of picoeucaryotes in marine ecosystems with
+quantitative pcr of the s rrna gene fems
+microbiol ecol – 
+
+supplementary information accompanies this paper on the isme journal website http www nature com ismej 
+
+biogeography of collodaria
+t biard et al
+
+ 
+
+the isme journal
+
+
+	title link
+	introduction
+	materials and methods
+	real time quantitative pcr qpcr analysis of single specimen collodarian
+	metabarcoding sample acquisition and processing
+	data analyses
+
+	results
+	quantification of s rrna gene copy number in colonial and solitary collodaria
+	biogeography of collodaria in the global ocean
+
+	table quantification of rdna copy numbers in colonial and solitary collodaria with quantitative pcr
+	correlation between the rdna copy number per cell estimated by quantitative pcr and the cell length across eukaryotic marine protists including the three different collodarian species filled circles detailed measurements are provided in supplementary t
+	contribution of collodaria to the rhizaria lineage across the tara oceans expedition sampling stations upper panel contribution of collodaria to the total number of rhizaria sequences lower panel contribution of collodaria to the total number of rhiza
+	variation in collodarian diversity across oceanic basins and latitudes a latitudinal distribution of collodarian otu richness loess regression with polynomial fitting was computed to illustrate the latitudinal pattern pale colour area displays a 
+	discussion
+	quantifying the rdna copy numbers
+
+	diversity of the collodaria a contribution of the different clades to the total collodarian otus height number of otus and the total number of collodarian sequence radius  contribution b occupancy and spatial evenness of each collodarian v 
+	relative abundance of rdna metabarcodes assigned to the different collodarian families and clades defined previously biard etal and across the tara oceans expedition sampling stations relative contributions are geographically divided according 
+	refining the data set accuracy
+	insight into the biodiversity and ecology of collodarian
+
+	diversity pattern of the collodaria across the mediterranean sea upper panel location of the sampling stations middle panel in filled black circles variation of ratio between the relative abundances of collosphaeridae and sphaerozoidae a high value
+	correlations between the collodarian diversity log of otu richness and mean environmental variables across the tara oceans sampling stations linear regression lines are displayed each sampling station dot is coloured according to one of the longhur
+	links between collodarian diversity and environmental variables
+
+	this work was supported by the phd fellowship emergence upmc x desir x from the universit x e pierre et marie curie we are grateful to the biogenouest genomics and genomer plateforme core facility for its technical support and to the d
+	acknowledgements
+
+
+
+
+

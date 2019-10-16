@@ -1,0 +1,2992 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biodiversity data journal e 
+doi bdj e 
+
+research article 
+
+ngs based biodiversity and community structure
+
+analysis of meiofaunal eukaryotes in shell sand
+
+from hållö island smögen and soft mud from
+
+gullmarn fjord sweden
+
+quiterie haenel oleksandr holovachov ulf jondelius per sundberg sarah j bourlat
+‡ zoological institute university of basel basel switzerland
+§ swedish museum of natural history stockholm sweden
+ department of marine sciences university of gothenburg gothenburg sweden
+¶ seanalytics ab bohus björkö sweden
+
+corresponding author sarah j bourlat sarah bourlat gmail com 
+
+academic editor urmas kõljalg
+
+received mar accepted jun published jun 
+
+citation haenel q holovachov o jondelius u sundberg p bourlat s ngs based biodiversity and
+community structure analysis of meiofaunal eukaryotes in shell sand from hållö island smögen and soft mud
+from gullmarn fjord sweden biodiversity data journal e https doi org bdj e 
+
+abstract
+
+aim the aim of this study was to assess the biodiversity and community structure of
+swedish meiofaunal eukaryotes using metabarcoding to validate the reliability of the
+metabarcoding approach we compare the taxonomic resolution obtained using the
+mitochondrial cytochrome oxidase coi ‘mini barcode’ and nuclear s small ribosomal
+subunit s v v region with traditional morphology based identification of
+xenacoelomorpha and nematoda 
+
+location samples were analysed from two ecologically distinct locations along the west
+coast of sweden replicate samples of coarse shell sand were collected along the north 
+eastern side of hållö island near smögen while replicate samples of soft mud were
+collected in the gullmarn fjord near lysekil 
+
+‡ § § ¶ ¶
+
+© haenel q et al this is an open access article distributed under the terms of the creative commons attribution license cc by
+ which permits unrestricted use distribution and reproduction in any medium provided the original author and source are
+credited 
+
+https doi org bdj e 
+mailto sarah bourlat gmail com
+https doi org bdj e 
+
+
+methods meiofauna was extracted using flotation and siphoning methods both coi and
+ s regions were amplified from total dna samples using metazoan specific primers and
+subsequently sequenced using illumina miseq producing in total paired end
+reads of bp in length of which coi reads and s reads these
+were quality filtered resulting in coi sequences and s sequences 
+clustered into and representative otus respectively yielding metazoan
+otus for coi and metazoan otus for s using a sequence similarity threshold 
+
+results the metazoan fraction represents of the total dataset for coi otus and
+ of sequences for s otus annelida of coi metazoan otus and 
+of s metazoan otus and arthropoda of coi metazoan otus and of
+ s metazoan otus were the most otu rich phyla identified in all samples combined as
+well as annelida and arthropoda other otu rich phyla represented in our samples include
+mollusca platyhelminthes and nematoda in total coi otus and s otus were
+identified to species using a sequence similarity threshold revealing some non native
+species and highlighting the potential of metabarcoding for biological recording taxonomic
+community composition shows as expected clear differentiation between the two habitat
+types soft mud versus coarse shell sand and diversity observed varies according to
+choice of meiofaunal sampling method and primer pair used 
+
+keywords
+
+meiofaunal biodiversity community structure illumina mi seq metabarcoding coi s
+
+introduction
+
+microscopic interstitial marine organisms also termed ‘meiofauna’ are often defined as
+animals that pass a mm mesh but are retained on a µm sieve higgins 
+meiofauna are an important component of sedimentary and benthic habitats due to their
+small size abundance and rapid turnover rates moreover meiofaunal surveys represent a
+useful tool for environmental impact assessments underlying the urgent need for reliable 
+reproducible and rapid analytical methods the breadth of taxonomic groups present in
+marine sediments makes meiofauna an ideal tool for detecting the effects of ecological
+impacts on marine biodiversity moreno et al however traditional morphology
+based taxonomy assignment methods are labour intensive and time consuming leading us
+to explore recently developed metabarcoding methods for whole community analysis 
+metabarcoding has previously been used to characterize plankton assemblages lindeque
+et al de vargas et al marine benthic meiofaunal assemblages creer et al 
+ fonseca et al fonseca et al brannock and halanych cowart et
+al meiofaunal communities colonizing autonomous reef monitoring structures
+ leray and knowlton or fish gut contents leray et al the vast majority of
+studies have employed roche due to its long read lengths compared to other
+technologies table shokralla et al but illumina miseq is now able to provide
+
+ haenel q et al
+
+
+
+similarly long reads using paired end sequencing x base pairs as summarized in
+table there is no standardized method for metabarcoding of marine fauna and a variety
+of sample extraction methods sequencing platforms molecular markers bioinformatics
+pipelines and otu clustering thresholds have been used to date making these studies
+difficult to compare table 
+
+authors sample
+type 
+
+sample
+extraction
+method 
+
+sequencing
+platform 
+
+marker marker
+size bp 
+
+chimera
+screening 
+
+otu
+clustering
+method
+and
+threshold 
+
+database 
+
+leray et
+al 
+
+coral reef
+fish gut
+contents
+
+dissection of
+fish gut
+
+roche 
+gs flx
+
+coi uchime crop
+ 
+
+moorea
+biocode
+database 
+genbank
+
+leray
+and
+knowlton
+ 
+
+autonomous
+reef
+monitoring
+structures
+
+ fractions
+ sessile 
+ mm 
+ μm 
+ μm 
+
+ion torrent coi bold 
+genbank
+
+lindeque
+et al 
+ 
+
+zooplankton
+from m to
+the surface
+
+ μm mesh
+wp 
+plankton net
+
+roche 
+gs flx
+
+ s
+ v v 
+regions 
+
+ chimeraslayer
+ qiime 
+
+uclust
+ 
+ qiime
+ 
+
+silva 
+genbank
+
+de
+vargas et
+al 
+
+plankton fractions
+ μm 
+ μm 
+ μm 
+
+paired end
+illumina
+genome
+analyser iix
+system
+
+ s
+ v 
+region 
+
+ usearch v pr v 
+rdna 
+protistan
+ribosomal
+reference
+database
+
+fonseca
+et al 
+ 
+
+marine
+benthic
+meiofauna
+
+decanting
+ μm sieve
+ludox
+
+roche 
+gs flx
+
+ s
+ v v 
+regions 
+
+ 
+ 
+
+octopus octopus
+ 
+
+genbank
+
+fonseca
+et al 
+ 
+
+marine
+benthic
+meiofauna
+
+decanting
+ μm sieve
+ludox
+
+roche 
+gs flx
+
+ s
+ v v 
+regions 
+
+ amplicon 
+noise
+
+amplicon 
+noise
+ and
+ 
+
+genbank
+
+brannock
+and
+halanych
+ 
+
+marine
+benthic
+meiofauna
+
+directly from
+sediment 
+elutriated on
+ μm sieve
+
+paired end
+ bp
+reads
+illumina
+hiseq
+
+ s
+ v 
+region 
+
+ 
+ 
+
+usearch
+ qiime
+ 
+
+uparse
+ 
+uclust
+and
+usearch
+ qiime
+ 
+
+silva 
+
+table 
+
+methodological comparison of benthic and pelagic metabarcoding studies of marine fauna
+published to date
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+cowart
+et al 
+ 
+
+benthic
+meiofauna
+from
+seagrass
+meadows
+
+ mm sieve 
+ mm sieve 
+ mm sieve
+
+roche 
+gs flx
+
+coi
+ s
+
+ 
+ 
+
+usearch 
+ qiiime 
+
+uclust
+de novo
+ qiime
+ 
+
+genbank
+silva 
+
+this
+study
+
+meiofauna
+from coarse
+shell sand
+and muddy
+benthic
+sediment
+
+siphoning
+ μm 
+flotation
+ mgcl 
+ μm 
+flotation
+ h o 
+ μm μm
+
+paired end
+illumina mi 
+seq
+
+coi
+ s
+ v v 
+regions 
+
+ 
+ 
+
+uchime
+ part of
+usearch
+ 
+ qiime 
+
+crop
+coi 
+ 
+ s 
+ 
+
+bold 
+swebol and
+own
+databases
+for
+nemertea 
+acoela 
+oligochaeta 
+genbank
+silva 
+
+in this study we used samples from muddy and sandy marine sediments to examine how
+results of metabarcoding based surveys of meiofaunal communities are impacted by three
+different meiofaunal extraction methods and three different primer pairs for coi and s in
+order to validate the reliability of the metabarcoding approach we compare the results
+obtained with traditional morphology based taxonomic assignment for two test groups 
+xenacoelomorpha and nematoda the latter previously shown to be the dominant taxon in
+meiofaunal communities in terms of number of otus fonseca et al 
+
+materials and methods
+
+sampling
+
+samples were collected in two ecologically distinct locations along the west coast of
+sweden in august 
+
+hållö island samples coarse shell sand was sampled by dredging at m depth along
+the north eastern side of hållö island near smögen sotenäs municipality västra
+götalands county n ° e ° 
+
+gullmarn fjord samples soft mud was collected using a waren dredge at m depth in
+the gullmarn fjord near lysekil lysekil municipality västra götalands county n °
+ e ° 
+
+meiofaunal extraction
+
+hållö island hållö island samples were extracted in the lab using two different variations
+of the flotation decanting and sieving technique 
+
+flotation freshwater freshwater was used to induce an osmotic shock in meiofaunal
+organisms and force them to detach from heavy sediment particles ml of sediment
+were placed in a large volume of fresh water and thoroughly mixed to suspend meiofauna
+
+ haenel q et al
+
+
+
+and lighter sediment particles the supernatant was sieved through a µm sieve to
+separate the macrofaunal fraction which was then discarded the filtered sample was
+sieved again through a µm sieve to collect meiofauna and discard fine organic particles 
+this procedure was repeated three times meiofauna was then rinsed with seawater from
+the sieve into large falcon tubes twelve sediment samples were processed ten of them
+were fixed immediately in ethanol for molecular analysis and stored at °c the
+other two samples were first screened for live representatives of xenacoelomorpha and
+later preserved in formaldehyde for morphology based identification of nematodes 
+
+flotation mgcl solution a solution of mgcl was used to anesthetize meiofauna 
+as above twelve samples were processed in total ten of them were decanted through 
+µm sieve and fixed immediately in ethanol for molecular analysis and stored at °c 
+while two samples were decanted through a µm sieve which was subsequently placed
+in a petri dish with seawater after minutes the petri dish as well as the inside of the
+sieve were searched for xenacoelomorpha using a stereo microscope afterwards they
+were preserved in formaldehyde for morphology based identification of nematodes 
+
+gullmarn fjord meiofauna was extracted from the gullmarn fjord samples using two
+different methods flotation and siphoning 
+
+flotation freshwater freshwater was used to induce an osmotic shock in meiofaunal
+organisms l of sediment were placed in a large volume of freshwater thoroughly
+mixed to suspend meiofauna and lighter sediment particles the supernatant was sieved
+through a µm sieve in order to separate macrofauna which was then discarded the
+filtered sample was then sieved three times through a µm sieve to collect meiofauna and
+discard fine organic particles meiofauna was then rinsed with seawater from the sieve into
+a large container and equally divided between falcon tubes six samples were fixed in
+ ethanol for molecular analysis and stored at °c six samples were screened for
+live representatives of xenacoelomorpha and preserved in formaldehyde for
+morphology based identification of nematodes 
+
+siphoning a total volume of l of sediment was processed as follows an approximately
+ cm thick layer of mud was placed in a container and covered with cm of seawater 
+the sediment was allowed to settle for hours half of the sediment area was then
+siphoned through a µm sieve the residue in the sieve was immediately fixed in 
+ethanol large macrofauna was manually removed and the entire volume was split equally
+into six samples and placed at °c for subsequent molecular analysis the remaining
+half of the area was similarly siphoned through a µm sieve the sieve contents were
+stored in sea water large macrofauna manually removed the entire volume split into six
+samples which were screened for live representatives of xenacoelomorpha and
+preserved in formaldehyde for morphology based identification of nematodes 
+
+morphology based identification
+
+xenacoelomorpha four samples from hållö and samples from gullmarn fjord were
+used for morphology based assessment of the diversity of xenacoelomorpha all samples
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+were stored in seawater and searched for xenacoelomorpha with a stereo microscope all
+specimens found were immediately identified to the lowest taxonomic rank possible using a
+compound microscope equipped with dic 
+
+nematoda two samples from each location extraction method were used to assess
+nematode diversity using morphology based identification samples from hållö flotation
+with fresh water and mgcl and gullmarn fjord siphoning were processed whole and
+samples from gullmarn fjord extracted using flotation with fresh water were subsampled
+by taking of the entire sample formaldehyde–preserved samples were transferred to
+glycerin using seinhorst’s rapid method as modified by de grisse permanent
+nematode mounts on glass slides were prepared using the paraffin wax ring method it is
+common practice to estimate the diversity of marine nematodes by counting a
+predetermined number usually or of randomly picked nematodes per sample
+ vincx which may not provide sufficiently detailed results for samples with high
+diversity therefore all nematode specimens were counted and identified for each
+analyzed sample all nematode specimens were identified to genus and when possible to
+species level 
+
+dna extraction library preparation and sequencing
+
+dna extraction samples were processed for total dna extraction twelve from the
+gullmarn fjord and eighteen from hållö island using g of sediment and the powermax
+soil dna isolation kit mo bio laboratories according to manufacturer’s instructions 
+
+primer design illumina miseq reagent v produces paired end reads of bp in length 
+allowing a maximum marker length of bp when taking into account a bp overlap 
+universal coi primers available for the metazoa amplify a bp region folmer et al 
+ which is too long for most ngs applications 
+
+accordingly primers amplifiying a bp fragment of the mitochondrial cytochrome
+oxidase coi gene were used as described in bourlat et al the primers used for
+coi are modified from leray et al ’s ‘mini barcode’ coi primers mlcoiintf dghco 
+leray et al by adding the illumina miseq overhang adapter sequences the leray et
+al ‘mini barcode’ primers have been shown to amplify up to of metazoan diversity in a
+sample leray et al in combination with leray et al s mini barcode forward primer
+ mlcoiintf we used folmer et al s coi reverse primer dghco folmer et al 
+as well as a reverse primer developed by lobo et al shown to enhance amplification of the
+coi region in a wide range of invertebrates lobo et al 
+
+for the s region illumina overhang adapter sequences were appended to the primers
+from fonseca et al ssu fo ssu r fonseca et al yielding a bp
+fragment these primers target a homologous region of the gene and flank a region that is
+highly divergent corresponding to the v v region of the s gene lindeque et al 
+fonseca et al 
+
+®
+
+ haenel q et al
+
+
+
+sequence overlap in the paired end reads was calculated in geneious kearse et al 
+coi shows a sequence overlap of bp and s shows an overlap of bp 
+
+all primer sequences used are shown in table 
+
+marker primer
+name 
+
+illumina adapter overhang regular font with primer sequence in bold 
+
+coi
+leray 
+
+mlcoiintf ’ tcgtcggcagcgtcagatgtgtataagagacagggwacwggwtgaacw
+gtwtayccycc ’
+
+dghco ’ gtctcgtgggctcggagatgtgtataagagacagtaaacttcagggtgac
+caaaraayca ’
+
+coi
+lobo 
+
+mlcoiintf ’ tcgtcggcagcgtcagatgtgtataagagacagggwacwggwtgaacw
+gtwtayccycc ’
+
+lobor ’ gtctcgtgggctcggagatgtgtataagagacagtaaacytcwggrtgw
+ccraaraayca ’
+
+ s ssu fo ’ tcgtcggcagcgtcagatgtgtataagagacaggcttgtctcaaagatta agcc ’
+
+ssu r ’ gtctcgtgggctcggagatgtgtataagagacaggcctgctgccttcctt gga ’
+
+illumina miseq library preparation using fusion primers for illumina miseq library
+preparation we used a dual pcr amplification method as described in bourlat et al 
+ the first pcr the amplicon pcr uses amplicon specific primers including the
+illumina adapter overhang as described above the second pcr the index pcr allows
+the incorporation of illumina index adapters using a limited number of cycles bourlat et al 
+ 
+
+amplicon pcr pcr amplifications of the coi and s regions were set up as follows 
+for a µl reaction volume we used µl pfu polymerase buffer x µl dntp mix final
+concentration of each dntp µm µl of each primer at pm µl µl dna template
+ ng µl pfu dna polymerase promega and µl of nuclease free water each
+dna sample was amplified with the primer pairs described above coi leray coi lobo
+and s pcr cycling conditions were min at °c cycle min at °c s at °
+c min at °c cycles min at °c cycle the pcr was checked on a 
+agarose gel µl of each pcr reaction were then purified with agencourt ampure xp
+paramagnetic beads beckman coulter allowing size selection of pcr fragments by using
+different pcr product to bead ratios bourlat et al 
+
+index pcr for dual indexing we used the nextera xt index kit indices samples 
+illumina according manufacturers’ instructions dual indexing allows an increase in the
+multiplex level of sequencing per lane so that more samples can be sequenced on the
+same flow cell fadrosh et al it also eliminates cross contamination between
+samples and the occurrence of mixed clusters on the flow cell kircher et al the
+index pcr was set up as µl reactions using µl of cleaned up pcr amplicons µl of
+
+® ®
+
+table 
+
+primer sequences used in this study
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+nextera xt index primer i µl of nextera xt index primer i µl of x kapa hifi
+hotstart ready mix kapa biosystems and µl of nuclease free water pcr cycling
+conditions were min at °c cycle s at °c s at °c s at °c 
+cycles min at °c cycle a bead purification was carried out after the index pcr
+with agencourt ampure xp magnetic beads beckman coulter using a ratio of 
+allowing the selection of fragments larger than bp dna was quantified before
+sequencing using a qubit fluoremeter invitrogen and average fragment size was verified
+using tapestation agilent technologies further library normalization and pooling steps
+are described in bourlat et al 
+
+sequencing the pooled libraries were sequenced three times independently using
+illumina miseq reagent kit v producing in total paired end reads of bp in
+length of which coi reads and s reads table 
+
+marker sequencing run total 
+
+coi 
+
+ s 
+
+total 
+
+bioinformatic data processing and analysis
+
+most analytical steps were performed using qiime quantitative insight into microbial
+ecology version caporaso et al and custom python scripts fig 
+
+® ®
+
+ 
+
+table 
+
+number of reads per marker and per sequencing run
+
+figure 
+
+schematic workflow of bioinformatic analytical steps
+ 
+
+ haenel q et al
+
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https doi org bdj e figure 
+
+
+paired end joining 
+
+demultiplexed miseq paired end reads were joined using the qiime script
+multiple join paired ends py using the fastq join tool https code google com p ea utils 
+wiki fastqjoin data from three sequencing runs were merged producing a total of 
+ raw paired end reads reads for the coi dataset and reads for
+the s dataset table the number of reads remaining after various bioinformatic data
+processing steps is presented in table after paired end joining of sequences were
+lost leading to a total of reads due to an observed decrease in sequence
+quality at the end of the reads resulting in a bad overlap between the paired ends this
+loss is much more important for the longer s region reads after joining 
+corresponding to a loss than for the coi region reads after joining 
+corresponding to a loss 
+
+marker step raw data paired end joining primer trimming quality filtering chimera removal 
+
+coi 
+
+ s 
+
+total 
+
+primer trimming and quality filtering 
+
+dual indexes and illumina overhangs were removed by the sequencing platform coi and
+ s primer sequences were removed using a custom python script designed for this study 
+https github com quiterie primer removal the script retains and trims reads that
+have the exact sequence of the forward and reverse primers at the beginning and at the
+end of the reads respectively while other reads not meeting these criteria are discarded 
+the script takes into account the presence of ambiguous bases in the primer sequence
+ such as w r s y m k h d b and v in the case that an unassigned base n is found
+in the primer sequence the read is also discarded the primer trimming step resulted in 
+ reads remaining corresponding to a loss as the script is quite stringent it
+quality filters reads by removing incomplete reads or chimeras at this step 
+reads remained after trimming for the s dataset corresponding to a loss and 
+ reads remained after trimming for the coi dataset corresponding to a loss a
+quality filtering step was then carried out using the qiime script multiple split 
+libraries fastq py to remove reads with a q score inferior to corresponding to a base
+call accuracy of at least a total of of sequences were lost after the quality 
+filtering step leading to reads remaining of the reads were lost in the s
+dataset corresponding to a final reads and of the reads were lost in the
+coi dataset corresponding to a final reads 
+
+table 
+
+number of reads remaining after each bioinformatic step
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+https code google com p ea utils wiki fastqjoin
+https code google com p ea utils wiki fastqjoin
+https github com quiterie primer removal
+
+
+chimera removal and otu clustering 
+
+chimeric reads were removed with uchime edgar et al using the qiime scripts
+identify chimeric seqs py followed by filter fasta py based on the usearch software 
+after chimera removal sequences remained in the coi dataset loss and
+ sequences remained in the s dataset loss 
+
+for clustering sequences into operational taxonomic units otus we used crop a
+bayesian clustering algorithm that delineates otus based on the natural distribution of the
+data using a gaussian mixture model hao et al the program allows the user to
+define a lower and upper bound variance to cluster the sequences instead of a fixed
+sequence similarity value according to a benchmarking study by leray et al based on the
+moorea biocode barcode library http mooreabiocode org leray et al the best
+lower and upper bound values to cluster metazoan coi sequences are and 
+corresponding to sequence dissimilarities between and according to an s
+benchmarking experiment with a set of known nematode species carried out by
+porazinska et al a threshold most accurately reflects taxonomic richness yielding 
+octus whereas a threshold yielded octus porazinska et al according
+to this benchmark a range of sequence dissimilarities between and were used in
+crop and respectively for the lower and upper values corresponding to 
+similarity 
+
+parameters used in crop for the analysis were as follows 
+
+crop i b z l u o 
+
+crop i b z l u o 
+
+the coi sequences and the s sequences were clustered into 
+and representative otus respectively of which were identified to species for coi
+and of which were identified to species for s using a sequence similarity
+threshold table fig 
+
+phylum coi s 
+
+ otus percentage otus percentage 
+
+annelida 
+
+arthropoda 
+
+bryozoa 
+
+cephalorhyncha 
+
+chaetognatha 
+
+chordata 
+
+table 
+
+number of otus and percentage per phylum for coi and s for the metazoan fraction based on
+a similarity threshold 
+
+ haenel q et al
+
+http mooreabiocode org 
+
+
+cnidaria 
+
+echinodermata 
+
+gastrotricha 
+
+gnathostomulida 
+
+mollusca 
+
+nematoda 
+
+nemertea 
+
+platyhelminthes 
+
+phoronida 
+
+porifera 
+
+priapulida 
+
+rotifera 
+
+sipuncula 
+
+tardigrada 
+
+xenacoelomorpha 
+
+total otus metazoa 
+
+ 
+figure 
+
+taxonomic composition overview at species level based on a sequence similarity
+threshold a percentages and counts of otus for the coi gene with unassigned otus b 
+percentages and counts of otus for the coi gene without unassigned otus c percentages
+and counts of otus for the s gene with unassigned otus d percentages and counts of
+otus for the s gene without unassigned otus 
+
+ 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https doi org bdj e figure 
+
+
+taxonomic assignment 
+
+as qiime is normally used for metagenomic analyses of prokaryotes default databases are
+not suited for taxonomic assignment of metazoa custom databases consisting in a
+taxonomy file associated with a reference sequence file can be created or alternatively a
+preformatted database such as the silva database http www arb silva de no cache 
+download archive qiime can be used for the coi region a custom database of 
+ sequences was created consisting of the bold database http 
+www boldsystems org downloaded on october combined with own reference
+databases of nemertea xenacoelomorpha and oligochaeta and barcodes of swedish
+echinodermata mollusca cnidaria and arthropoda from the swedish barcode of life
+database swebol for the s rrna region a custom database of reference
+sequences was created using the silva database release http www arb silva de 
+no cache download archive qiime and own barcodes for acoela and oligochaeta 
+corresponding tab delimited taxonomy files were created including a sequence id and
+taxonomic lineage information phylum class order family genus and species derived
+from bold swebol silva and worms http www marinespecies org 
+
+taxonomic assignments were carried out using both and sequence similarity
+thresholds to obtain identifications at phylum and species levels respectively giongo et al 
+
+ 
+figure 
+
+percentages of metazoan phyla uncovered in the samples using coi and s molecular
+surveys blue bars correspond to the cumulated frequencies of otus assigned to a specific
+phylum using the coi gene and red bars correspond to the cumulated frequencies of otus
+assigned to a specific phylum using the s gene taxonomic assignment is based on a 
+sequence similarity threshold 
+
+ 
+
+ haenel q et al
+
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https doi org bdj e figure 
+http www arb silva de no cache download archive qiime 
+http www arb silva de no cache download archive qiime 
+http www boldsystems org 
+http www boldsystems org 
+http www arb silva de no cache download archive qiime 
+http www arb silva de no cache download archive qiime 
+http www marinespecies org
+
+
+ lanzén et al yielding metazoan otus for coi and metazoan otus
+for s at threshold and metazoan otus for coi and metazoan otus for
+ s at threshold for coi taxonomic assignment was done with the qiime script
+assign taxonomy py using the uclust software edgar with uclust a query
+sequence matches a database sequence if the identity is high enough the identity is
+calculated from a global alignment which differs from blast and most other database
+search programs which search for local matches by default uclust stops searching when
+it finds a match but also stops searching if it fails to find a match after eight failed attempts 
+within qiime uclust is the default algorithm for the assign taxonomy py script and two
+parameters are associated to the algorithm the minimum fraction of database hits that
+must have a specific taxonomic assignment to assign that taxonomy to a query that was
+fixed at and the number of database hits to consider when making an assignment that
+was fixed at corresponding to the default values to obtain matches for non metazoan
+taxa a megablast search with minimum coverage was done against the genbank nt
+ nucleotide database ftp ftp ncbi nlm nih gov blast db downloaded on june 
+using geneious kearse et al for taxonomic assignment of the s dataset the
+qiime script assign taxonomy py was used with uclust edgar default settings
+against the silva database some taxonomic errors were detected for nematodes in the
+silva database 
+
+note on the taxonomic assignement of nematodes the output from the qiime analysis
+included s otus assigned to the phylum nematoda three of them
+ he ssu he ssu and hf ssu suppl material were
+incorrectly placed among the nematodes due to errors in the reference database they
+derived from – they group among arthropod taxa by the megablast search and were
+excluded for that reason another otu ts ssu is placed among phoronida by
+the megablast search and was also excluded two more sequences that were assigned to
+nematoda appear to have long insertions within conserved regions he ssu and
+tf ssu both of them were found only in one sample each further supporting
+the idea that they are derived from erroneous amplification product and were removed
+from any further analysis 
+
+invasive alien species ias were detected in our samples by comparing our species list
+ suppl material to the helcom ospar list http www helcom fi about us partners ospar 
+and the swedish främmande arter invasive species lists http www frammandearter se 
+
+taxonomic composition bar plots fig were created using otu tables suppl materials
+ and the qiime scripts make otu table py split otu table by taxonomy 
+merge otu table py and summarize taxa through plots py the bar plots created for fig 
+ take into account the relative abundance or number of reads for each otu whereas
+table and fig do not take relative abundances of each otu into account fig 
+showing community composition per phylum and marker was created using phylot http 
+phylot biobyte de and evolview tools http www evolgenius info evolview html zhang et
+al 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+ftp ftp ncbi nlm nih gov blast db 
+http www helcom fi about us partners ospar
+http www frammandearter se 
+http phylot biobyte de 
+http phylot biobyte de 
+http www evolgenius info evolview html
+
+
+diversity analyses 
+
+alpha and beta diversity analyses were carried out with and without unassigned otus for
+both coi and s datasets unassigned otus were removed using the qiime script
+filter otus from otu table py alpha diversity species richness was calculated using the
+nonparametric chao index using rarefied datasets to correct bias in species number due
+to unequal sample size one of the samples in the coi dataset was removed prior to
+rarefaction analysis due to low sequence number sequences including unassigned
+otus and sequences excluding unassigned otus at sequence similarity using
+the qiime script filter sample from otu table py rarefaction alpha diversity calculation
+and generation of plots were performed using the qiime scripts i multiple rarefactions py 
+ii alpha diversity py iii collate alpha py and iv make rarefaction plots py rarefaction
+was done to a depth corresponding to the total number of sequences in the smallest
+dataset sequences including unassigned otus and sequences excluding
+unassigned otus at sequence similarity for coi and sequences including
+unassigned otus and sequences excluding unassigned otus at sequence
+similarity for s alpha diversities were compared between locations and extraction
+
+ 
+figure 
+
+community composition per phylum in hållö island and gullmarn fjord samples according to
+extraction method mgcl h o siphoning a for the coi gene b for the s gene the
+vertical axis corresponds to percentage of otus taxonomic assignment is based on a 
+similarity threshold the bar plots take into account number of reads for each otu 
+
+ 
+
+ haenel q et al
+
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https doi org bdj e figure 
+
+
+methods for both datasets and coi primer sets using the qiime script
+compare alpha diversity py the script performs monte carlo permutations to determine p 
+values 
+
+beta diversity was calculated using the abundance based bray curtis index for both coi
+and s datasets the qiime script beta diversity through plots py was used to compute
+beta diversity distance matrices from the rarefied samples and generate principal
+coordinate analysis pcoa plots beta diversity was compared according to location 
+extraction method and primer pair both with and without the unassigned otus using the
+qiime script compare categories py the script uses r and the vegan and ape libraries to
+compute statistical tests we performed anosim analysis of similarity tests which are
+nonparametric through permutations this method tests whether two or more groups
+of samples are significantly different by taking as null hypothesis that there is no difference
+between the two or more groups studied 
+
+alpha and beta diversities were calculated including and excluding the unassigned otus
+and results obtained were similar here we present plots including the unassigned otus
+ figs 
+
+ 
+figure 
+
+alpha diversity rarefaction plots for coi and s datasets including unassigned otus 
+according to location for coi a s b hållö island hi in red gullmarn fjord gf in blue 
+according to extraction method for coi c s d hi flotation in red hi mgcl in blue gf
+flotation in yellow gf siphoning in green according to primer pair for coi e co leray
+primer in red coi lobo primer in blue 
+
+ 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https doi org bdj e figure 
+
+
+data resources
+
+the data underpinning the analysis reported in this paper are deposited at the genbank
+sra under project number prjna https www ncbi nlm nih gov bioproject 
+prjna 
+
+results and discussion
+
+phylum level community composition of meiofaunal samples from the swedish
+west coast
+
+illumina miseq produced at total of raw reads of which coi reads
+and s reads these were quality filtered see methods section for details 
+resulting in coi sequences and s sequences these were clustered
+into and representative otus respectively yielding metazoan otus for coi
+and metazoan otus for s at sequence similarity see methods table fig 
+ 
+
+taxonomic assignment of otus at a similarity threshold shows community
+composition of the samples at the phylum level fig of coi otus were
+assigned to the metazoa to plants and algae to fungi otus
+remained unassigned corresponding to of coi otus 
+
+ 
+figure 
+
+beta diversity pcoa plots for coi and s datasets including unassigned otus according to
+extraction method for coi a s b hi flotation in red hi mgcl in blue gf flotation in
+yellow and gf siphoning in green according to primer for coi c coi leray primer in red 
+coi lobo primer in blue
+
+ 
+
+ haenel q et al
+
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+http arpha pensoft net display zoomed figure php fig id 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https doi org bdj e figure 
+https www ncbi nlm nih gov bioproject prjna 
+https www ncbi nlm nih gov bioproject prjna 
+
+
+for the s dataset of otus were assigned to metazoa to
+plants and algae to fungi and to protozoa otus remained
+unassigned corresponding to of all s otus 
+
+the large numbers of unassigned otus reflect the incompleteness of the databases used
+for coi and s when unassigned otus are disregarded differences between the
+taxonomic ocverage of the markers can be observed fig b and d coi is the
+‘standard’ animal barcode and is thus mostly useful for diversity surveys within the metazoa
+ hebert et al s has on the other hand much larger taxonomic coverage and can
+be used for biodiversity profiles of whole eukaryotic communities at higher taxonomic
+scales 
+
+of all otus classified as metazoa a detailed breakdown per phylum is presented in table
+ and fig annelida of co metazoan otus and of s metazoan otus 
+and arthropoda of co metazoan otus and of s metazoan otus 
+were the most otu rich phyla identified in all samples combined a similar pattern as
+observed in a recent study on coastal seagrass meadows in brittany france cowart et al 
+ 
+
+as well as annelida and arthropoda other phyla represented by a high number of otus in
+our samples include mollusca of coi metazoan otus and of s
+metazoan otus platyhelminthes of s metazoan otus and of co 
+metazoan otus and nematoda of s metazoan otus and of co metazoan
+otus table fig other benthic metabarcoding studies based on the s v v 
+region found nematoda and platyhelminthes as the most otu rich phyla represented
+ fonseca et al fonseca et al or nematoda and annelida bik et al b 
+alternatively nematoda and arthropoda bik et al a lallias et al 
+
+meiofaunal community composition differs according to location
+
+taxonomic community composition at both locations surveyed is illustrated in fig the
+bar plots in fig take into account the read counts for each otu whereas table and
+fig do not take these into account 
+
+in fig clear differentiation in biodiversity between the two habitat types soft mud versus
+coarse shell sand can be observed as expected echinodermata such as ophiurida 
+echinoidea and asteroidea mollusca bivalvia gastropoda annelida and arthropoda are
+represented by higher numbers of reads in samples from the muddy sediments in the
+gullmarn fjord samples grain size μm approx 
+
+in coarse shell sand in shallow areas such as in the hållö island samples annelida and
+arthropoda are represented by higher numbers of reads followed by chordata
+ cephalohordata such as branchiostoma sp ascidians and various fish species such as
+gobius sp ctenolabrus rupestris solea solea with in addition a larger diversity of small
+taxa such as bryozoa gnathosthomulida gastrotricha tardigrada rotifera sipuncula
+and phoronida reflecting the high diversity of insterstitial taxa found in sandy sediments 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+sample diversity and composition analyses
+
+a greater number of phyla were uncovered in the hållö island samples than in the
+gullmarn fjord samples fig a and b and this observation was corroborated by the
+alpha diversity rarefaction plots showing that hållö island samples in red present a higher
+diversity than the gullmarn fjord samples in blue p value regardless of the
+marker used fig a and b within the same location choice of extraction method does
+not have a significant impact on sample diversity p value fig c and d table 
+however for the s dataset the flotation method seems to be more effective for
+extraction of nematodes than the siphoning method in the gullmarn fjord samples fig a
+and b moreover the beta diversity pcoa results highlight the fact that sample
+composition is influenced by the choice of extraction method for both coi and s
+datasets p value leading to four different clusters fig and b table for the
+coi dataset in addition to extraction method as a factor of divergence choice of primer
+ coi leray or coi lobo also influences the grouping of the samples p value 
+excluding unassigned otus and including unassigned otus in particular for the
+hållö island samples fig c moreover the coi lobo primer seems to uncover a higher
+diversity of taxa than the coi leray primer fig e even if the results are considered to be
+non significant p value excluding unassigned otus and including
+unassigned otus table table 
+
+ coi dataset s dataset 
+
+ excluding unassigned
+otus
+
+including unassigned
+otus
+
+excluding
+unassigned otus
+
+including unassigned
+otus
+
+ test value p value test value p value test value p value test value p value
+
+location 
+
+hi vs gf 
+
+method 
+
+hi h o vs hi
+mgcl 
+
+ 
+
+gf flotation vs gf
+siphoning
+
+ 
+
+primer 
+
+coi leray vs coi
+lobo
+
+ 
+
+table 
+
+nonparametric t test results with monte carlo permutations for both datasets with and without
+unassigned otus taxonomic assignment 
+
+ haenel q et al
+
+
+
+ coi dataset s dataset 
+
+ho sample composition
+differs according to
+
+excluding
+unassigned otus
+
+including
+unassigned otus
+
+excluding
+unassigned otus
+
+including
+unassigned otus
+
+ r value p value r value p value r value p value r value p value
+
+location 
+
+method 
+
+primer 
+
+molecular identifications to species level
+
+using a sequence similarity search at similarity allowed us to identify coi otus
+and s otus to species level table and suppl material for the coi dataset 
+ species of which metazoans were found in both locations of which 
+metazoans were found in the gullmarn fjord only and of which metazoans were
+found in hållö island only for the s dataset species of which metazoans were
+found in both locations of which metazoans were found in the gullmarn fjord only
+and of which metazoans were found in hållö island only suppl material these
+species observations from metabarcoding represent molecular occurrence records that
+could be used in monitoring and other types of biodiversity surveys in the same way as
+physical observations such as for mapping species distributions bohmann et al 
+lawson handley 
+
+coi 
+
+otu id nb of
+
+reads
+
+phylum class order species hi gf
+
+he lobo annelida clitellata haplotaxida adelodrilus 
+
+pusillus 
+
+ 
+
+he lobo annelida clitellata haplotaxida grania 
+
+postclitellochaeta 
+
+ 
+
+hf lobo annelida clitellata haplotaxida grania 
+
+variochaeta 
+
+ 
+
+hf lobo annelida clitellata haplotaxida tubificoides 
+
+benedii 
+
+ 
+
+table 
+
+anosim test results permutations for both coi and s datasets with and without
+unassigned otus taxonomic assignment 
+
+table 
+
+metazoa identified to species level using sequence similarity hi hållö island gf gullmarn
+fjord 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+hf lobo annelida clitellata haplotaxida tubificoides 
+
+kozloffi 
+
+ 
+
+ts leray annelida polychaeta amphinomida paramphinome 
+
+jeffreysii 
+
+ 
+
+hf lobo annelida polychaeta canalipalpata polygordius 
+
+appendiculatus 
+
+ 
+
+tf lobo annelida polychaeta capitellida 
+
+ts lobo annelida polychaeta capitellida 
+
+tf lobo annelida polychaeta capitellida 
+
+ts leray annelida polychaeta eunicida 
+
+hf leray annelida polychaeta eunicida ophryotrocha 
+
+maculata 
+
+ 
+
+ts leray annelida polychaeta eunicida parougia eliasoni 
+
+tf leray annelida polychaeta opheliida 
+
+ts lobo annelida polychaeta opheliida 
+
+hf lobo annelida polychaeta opheliida 
+
+he leray annelida polychaeta phyllodocida 
+
+ts leray annelida polychaeta phyllodocida 
+
+ts leray annelida polychaeta phyllodocida 
+
+ts leray annelida polychaeta phyllodocida aphrodita 
+
+aculeata 
+
+ 
+
+ts lobo annelida polychaeta phyllodocida eumida 
+
+ockelmanni 
+
+ 
+
+he leray annelida polychaeta phyllodocida glycera alba 
+
+hf leray annelida polychaeta phyllodocida glycinde 
+
+nordmanni 
+
+ 
+
+tf leray annelida polychaeta phyllodocida gyptis mackiei 
+
+hf lobo annelida polychaeta phyllodocida gyptis propinqua 
+
+hf lobo annelida polychaeta phyllodocida lepidonotus 
+
+squamatus 
+
+ 
+
+he lobo annelida polychaeta phyllodocida myrianida edwarsi 
+
+hf lobo annelida polychaeta phyllodocida nereimyra 
+
+punctata 
+
+ 
+
+hf lobo annelida polychaeta phyllodocida pisione remota 
+
+ haenel q et al
+
+
+
+he leray annelida polychaeta phyllodocida platynereis 
+
+dumerilli 
+
+ 
+
+ts leray annelida polychaeta phyllodocida sige fusigera 
+
+he lobo annelida polychaeta 
+
+ts lobo annelida polychaeta sabellida galathowenia 
+
+oculata 
+
+ 
+
+ts leray annelida polychaeta spionida 
+
+ts lobo annelida polychaeta spionida 
+
+hf lobo annelida polychaeta spionida 
+
+ts leray annelida polychaeta spionida 
+
+tf lobo annelida polychaeta spionida 
+
+he leray annelida polychaeta spionida chaetopterus 
+
+sarsi 
+
+ 
+
+hf lobo annelida polychaeta spionida malacoceros 
+
+fuliginosus 
+
+ 
+
+hf leray annelida polychaeta spionida polydora cornuta 
+
+hf lobo annelida polychaeta spionida spiophanes 
+
+bombyx 
+
+ 
+
+tf leray annelida polychaeta terebellida 
+
+tf lobo annelida polychaeta terebellida 
+
+ts leray annelida polychaeta terebellida 
+
+he lobo annelida polychaeta terebellida 
+
+ts lobo annelida polychaeta terebellida 
+
+ts lobo annelida polychaeta terebellida 
+
+ts lobo annelida polychaeta terebellida 
+
+ts leray annelida polychaeta terebellida 
+
+tf lobo annelida polychaeta terebellida amphictene 
+
+auricoma 
+
+ 
+
+ts leray annelida polychaeta terebellida brada villosa 
+
+hf lobo annelida polychaeta terebellida cirratulus cirratus 
+
+hf lobo annelida polychaeta terebellida dodecaceria 
+
+concharum 
+
+ 
+
+ts leray annelida polychaeta terebellida lagis koreni 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+he lobo annelida polychaeta terebellida macrochaeta 
+
+clavicornis 
+
+ 
+
+tf leray annelida polychaeta terebellida sosane wahrbergi 
+
+he lobo arthropoda branchiopoda diplostraca evadne 
+
+nordmanni 
+
+ 
+
+tf lobo arthropoda branchiopoda diplostraca penilia avirostris 
+
+hf lobo arthropoda branchiopoda diplostraca pleopis 
+
+polyphemoides 
+
+ 
+
+ts leray arthropoda insecta diptera 
+
+ts lobo arthropoda insecta diptera chironomus 
+
+aprilinus 
+
+ 
+
+hf lobo arthropoda insecta diptera cryptochironomus
+
+supplicans 
+
+ 
+
+tf leray arthropoda insecta diptera procladius sp 
+
+hf lobo arthropoda insecta diptera psectrocladius 
+
+yunoquartus 
+
+ 
+
+he lobo arthropoda insecta diptera tanytarsus 
+
+usmaensis 
+
+ 
+
+he lobo arthropoda malacostraca amphipoda 
+
+hf leray arthropoda malacostraca amphipoda 
+
+he lobo arthropoda malacostraca amphipoda 
+
+he lobo arthropoda malacostraca amphipoda ampelisca 
+
+brevicornis 
+
+ 
+
+hf leray arthropoda malacostraca amphipoda atylus 
+
+vedlomensis 
+
+ 
+
+he leray arthropoda malacostraca amphipoda corophium 
+
+volutator 
+
+ 
+
+he lobo arthropoda malacostraca amphipoda leptocheirus 
+
+hirsutimanus 
+
+ 
+
+he lobo arthropoda malacostraca amphipoda monocorophium 
+
+insidiosum 
+
+ 
+
+tf leray arthropoda malacostraca amphipoda monoculodes 
+
+packardi 
+
+ 
+
+tf leray arthropoda malacostraca cumacea 
+
+hf leray arthropoda malacostraca decapoda athanas nitescens 
+
+ haenel q et al
+
+
+
+hf leray arthropoda malacostraca decapoda eualus cranchii 
+
+hf leray arthropoda malacostraca decapoda eualus cranchii 
+
+he lobo arthropoda malacostraca decapoda liocarcinus 
+
+navigator 
+
+ 
+
+tf lobo arthropoda malacostraca decapoda philocheras 
+
+bispinosus 
+
+bispinosus 
+
+ 
+
+he lobo arthropoda malacostraca decapoda pisidia longicornis 
+
+he leray arthropoda malacostraca decapoda processa modica 
+
+ts lobo arthropoda malacostraca isopoda asellus aquaticus 
+
+tf leray arthropoda maxillopoda calanoida acartia bifilosa 
+
+hf leray arthropoda maxillopoda calanoida acartia clausi 
+
+tf leray arthropoda maxillopoda calanoida acartia tonsa 
+
+hf leray arthropoda maxillopoda calanoida acartia tonsa 
+
+he lobo arthropoda maxillopoda calanoida anomalocera 
+
+patersoni 
+
+ 
+
+ts leray arthropoda maxillopoda calanoida calanus euxinus 
+
+hf lobo arthropoda maxillopoda calanoida centropages 
+
+hamatus 
+
+ 
+
+hf lobo arthropoda maxillopoda calanoida centropages 
+
+typicus 
+
+ 
+
+he leray arthropoda maxillopoda calanoida eurytemora affinis 
+
+he leray arthropoda maxillopoda calanoida paracalanus 
+
+parvus 
+
+ 
+
+hf leray arthropoda maxillopoda calanoida pseudocalanus 
+
+elongatus 
+
+ 
+
+ts leray arthropoda maxillopoda calanoida pseudocalanus 
+
+elongatus 
+
+ 
+
+ts lobo arthropoda maxillopoda calanoida scolecithricella 
+
+minor 
+
+ 
+
+tf lobo arthropoda maxillopoda calanoida temora 
+
+longicornis 
+
+ 
+
+tf leray arthropoda maxillopoda calanoida temora 
+
+longicornis 
+
+ 
+
+hf leray arthropoda maxillopoda cyclopoida 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+hf leray arthropoda maxillopoda harpacticoida 
+
+he lobo arthropoda maxillopoda harpacticoida harpacticoida sp 
+
+ts lobo arthropoda maxillopoda harpacticoida harpacticus flexus 
+
+he lobo arthropoda maxillopoda harpacticoida tachidius discipes 
+
+hf leray arthropoda maxillopoda poecilostomatoida 
+
+hf leray arthropoda maxillopoda sessilia balanus balanus 
+
+hf leray arthropoda maxillopoda sessilia balanus balanus 
+
+hf leray arthropoda maxillopoda sessilia verruca stroemia 
+
+he leray arthropoda pycnogonida pantopoda endeis spinosa 
+
+he lobo bryozoa gymnolaemata cheilostomatida escharella 
+
+immersa 
+
+ 
+
+hf leray bryozoa gymnolaemata cheilostomatida membranipora 
+
+membranacea 
+
+ 
+
+he lobo bryozoa gymnolaemata cheilostomatida scrupocellaria 
+
+scruposa 
+
+ 
+
+hf lobo bryozoa gymnolaemata ctenostomata amathia gracilis 
+
+hf lobo bryozoa stenolaemata cyclostomatida crisia eburnea 
+
+he leray chaetognatha sagittoidea aphragmophora 
+
+ts leray chordata actinopterygii gasterosteiformes gasterosteus 
+
+aculeatus 
+
+ 
+
+hf lobo chordata actinopterygii perciformes ammodytes 
+
+marinus 
+
+ 
+
+hf leray chordata actinopterygii perciformes ctenolabrus 
+
+rupestris 
+
+ 
+
+hf lobo chordata actinopterygii perciformes gobius niger 
+
+tf lobo chordata actinopterygii perciformes lesueurigobius 
+
+friesii 
+
+ 
+
+hf lobo chordata actinopterygii perciformes mullus surmuletus 
+
+hf lobo chordata actinopterygii perciformes trachinus draco 
+
+he lobo chordata actinopterygii pleuronectiformes limanda limanda 
+
+he lobo chordata actinopterygii pleuronectiformes solea solea 
+
+he lobo chordata actinopterygii salmoniformes salmo trutta 
+
+hf lobo chordata ascidiacea phlebobranchia phallusia ingeria 
+
+ haenel q et al
+
+
+
+he lobo chordata leptocardii branchiostoma 
+
+lanceolatum 
+
+ 
+
+tf leray cnidaria anthozoa pennatulacea funiculina sp 
+
+tf lobo cnidaria hydrozoa anthoathecata corymorpha 
+
+nutans 
+
+ 
+
+he lobo cnidaria hydrozoa anthoathecata lizzia blondina 
+
+tf leray cnidaria hydrozoa leptothecata eutima gracilis 
+
+hf lobo cnidaria scyphozoa semaeostomeae aurelia aurita 
+
+he leray cnidaria scyphozoa semaeostomeae cyanea capillata 
+
+he leray cnidaria staurozoa stauromedusae 
+
+he leray cnidaria staurozoa stauromedusae craterolophus 
+
+convolvulus 
+
+ 
+
+he leray echinodermata asteroidea forcipulatida asterias rubens 
+
+he leray echinodermata asteroidea forcipulatida marthasterias 
+
+glacialis 
+
+ 
+
+hf leray echinodermata echinoidea clypeasteroida echinocyamus 
+
+pusillus 
+
+ 
+
+he leray echinodermata echinoidea echinoida psammechinus 
+
+miliaris 
+
+ 
+
+he lobo echinodermata echinoidea spatangoida 
+
+tf leray echinodermata echinoidea spatangoida brissopsis lyrifera 
+
+hf leray echinodermata echinoidea spatangoida echinocardium 
+
+cordatum 
+
+ 
+
+ts lobo echinodermata holothuroidea dendrochirotida thyone fusus 
+
+ts leray echinodermata ophiuroidea ophiurida 
+
+ts leray echinodermata ophiuroidea ophiurida acrocnida 
+
+brachiata 
+
+ 
+
+tf lobo echinodermata ophiuroidea ophiurida ophiothrix fragilis 
+
+tf leray echinodermata ophiuroidea ophiurida ophiura albida 
+
+tf leray echinodermata ophiuroidea ophiurida ophiura sarsii 
+
+hf leray gastrotricha macrodasyida macrodasys sp 
+
+he lobo gnathostomulida bursovaginoidea gnathostomula 
+
+armata 
+
+ 
+
+ts leray mollusca bivalvia lucinoida thyasira equalis 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+hf leray mollusca bivalvia myoida corbula gibba 
+
+he lobo mollusca bivalvia mytiloida mytilus edulis 
+
+ts lobo mollusca bivalvia nuculida nucula nucleus 
+
+ts leray mollusca bivalvia veneroida abra nitida 
+
+he lobo mollusca bivalvia veneroida dosinia lupinus 
+
+tf leray mollusca bivalvia veneroida kurtiella bidentata 
+
+ts leray mollusca bivalvia veneroida lucinoma borealis 
+
+hf leray mollusca bivalvia veneroida spisula 
+
+subtruncata 
+
+ 
+
+he leray mollusca bivalvia veneroida tellimya 
+
+ferruginosa 
+
+ 
+
+hf lobo mollusca cephalopoda sepiida sepietta neglecta 
+
+ts lobo mollusca gastropoda cephalaspidea 
+
+ts lobo mollusca gastropoda cephalaspidea 
+
+hf lobo mollusca gastropoda littorinimorpha euspira nitida 
+
+he lobo mollusca gastropoda neogastropoda mangelia 
+
+attenuata 
+
+ 
+
+hf lobo mollusca gastropoda neogastropoda nassarius nitidus 
+
+he lobo mollusca gastropoda nudibranchia 
+
+he leray mollusca gastropoda nudibranchia 
+
+hf leray mollusca gastropoda nudibranchia favorinus 
+
+branchialis 
+
+ 
+
+he lobo mollusca gastropoda nudibranchia onchidoris 
+
+muricata 
+
+ 
+
+he lobo mollusca gastropoda nudibranchia polycera 
+
+quadrilineata 
+
+ 
+
+he lobo mollusca gastropoda nudibranchia polycera 
+
+quadrilineata 
+
+ 
+
+hf leray mollusca gastropoda pulmonata microhedyle 
+
+glandulifera 
+
+ 
+
+hf leray mollusca gastropoda sacoglossa elysia viridis 
+
+hf lobo mollusca gastropoda sorbeoconcha onoba 
+
+semicostata 
+
+ 
+
+ haenel q et al
+
+
+
+he lobo mollusca gastropoda sorbeoconcha pusillina 
+
+inconspicua 
+
+ 
+
+ts lobo nemertea anopla cerebratulus sp 
+
+he lobo nemertea palaeonemertea carinina ochracea 
+
+tf lobo nemertea palaeonemertea hubrechtella 
+
+dubia 
+
+ 
+
+hf lobo phoronida phoronis muelleri 
+
+he lobo porifera demospongiae chondrillida halisarca dujardini 
+
+he leray porifera demospongiae suberitida halichondria 
+
+panicea 
+
+ 
+
+ts leray priapulida priapulimorpha priapulimorphida priapulus 
+
+caudatus 
+
+ 
+
+hf leray rotifera eurotatoria flosculariaceae testudinella 
+
+clypeata 
+
+ 
+
+he leray rotifera monogononta ploima 
+
+hf lobo sipuncula sipunculidea golfingiida golfingia vulgaris 
+
+ts lobo xenacoelomorpha acoela archaphanostoma
+
+sp 
+
+ 
+
+ts lobo xenacoelomorpha acoela childia 
+
+macroposthium 
+
+ 
+
+hf lobo xenacoelomorpha acoela haplogonaria 
+
+viridis 
+
+ 
+
+hf lobo xenacoelomorpha acoela notocelis 
+
+gullmarnensis 
+
+ 
+
+ sa 
+
+otu id nb of
+
+reads
+
+phylum class order species hi gf
+
+tf ssu annelida 
+
+ts ssu annelida 
+
+hf ssu annelida clitellata enchytraeida grania sp 
+
+tf ssu annelida clitellata haplotaxida tubificoides 
+
+insularis 
+
+ 
+
+hf ssu annelida polychaeta aricia sp 
+
+hf ssu annelida polychaeta protodriloides 
+
+chaetifer 
+
+ 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+hf ssu annelida polychaeta scalibregma 
+
+inflatum 
+
+ 
+
+hf ssu annelida polychaeta trilobodrilus 
+
+heideri 
+
+ 
+
+ts ssu annelida polychaeta phyllodocida aphrodita sp 
+
+he ssu annelida polychaeta phyllodocida brania sp 
+
+he ssu annelida polychaeta phyllodocida glycera sp 
+
+hf ssu annelida polychaeta phyllodocida glycinde armigera 
+
+ts ssu annelida polychaeta phyllodocida goniada maculata 
+
+tf ssu annelida polychaeta phyllodocida harmothoe 
+
+imbricata 
+
+ 
+
+he ssu annelida polychaeta phyllodocida myrianida sp 
+
+hf ssu annelida polychaeta phyllodocida nereis pelagica 
+
+he ssu annelida polychaeta phyllodocida pisione remota 
+
+he ssu annelida polychaeta phyllodocida platynereis 
+
+dumerilii 
+
+ 
+
+he ssu annelida polychaeta phyllodocida progoniada 
+
+regularis 
+
+ 
+
+he ssu annelida polychaeta sabellida fabriciola 
+
+liguronis 
+
+ 
+
+hf ssu annelida polychaeta sabellida laeospira 
+
+corallinae 
+
+ 
+
+he ssu annelida polychaeta sabellida myriochele sp 
+
+ts ssu annelida polychaeta spionida apistobranchus
+
+sp 
+
+ 
+
+ts ssu annelida polychaeta spionida laonice sp 
+
+he ssu annelida polychaeta spionida spio sp 
+
+ts ssu annelida polychaeta terebellida diplocirrus 
+
+glaucus 
+
+ 
+
+hf ssu annelida polychaeta terebellida flabelligera sp 
+
+tf ssu annelida polychaeta terebellida pectinaria sp 
+
+ts ssu annelida polychaeta terebellida terebellides 
+
+stroemii 
+
+ 
+
+tf ssu arthropoda branchiopoda 
+
+ haenel q et al
+
+
+
+he ssu arthropoda malacostraca 
+
+he ssu arthropoda malacostraca decapoda nikoides sp 
+
+hf ssu arthropoda malacostraca decapoda praebebalia 
+
+longidactyla 
+
+ 
+
+tf ssu arthropoda maxillopoda 
+
+hf ssu arthropoda maxillopoda 
+
+hf ssu arthropoda maxillopoda 
+
+ts ssu arthropoda maxillopoda 
+
+tf ssu arthropoda maxillopoda 
+
+tf ssu arthropoda maxillopoda harpacticoida typhlamphiascus 
+
+typhlops 
+
+ 
+
+he ssu arthropoda ostracoda podocopida hemicytherura 
+
+kajiyamai 
+
+ 
+
+he ssu arthropoda ostracoda podocopida loxocorniculum 
+
+mutsuense 
+
+ 
+
+he ssu arthropoda pycnogonida pantopoda anoplodactylus 
+
+californicus 
+
+ 
+
+he ssu arthropoda pycnogonida pantopoda callipallene sp 
+
+he ssu bryozoa 
+
+he ssu bryozoa stenolaemata cyclostomatida plagioecia patina 
+
+he ssu bryozoa stenolaemata cyclostomatida tubulipora lobifera 
+
+tf ssu cephalorhyncha kinorhyncha homalorhagida pycnophyes 
+
+kielensis 
+
+ 
+
+he ssu chordata actinopteri perciformes hypseleotris sp 
+
+he ssu chordata ascidiacea 
+
+hf ssu chordata ascidiacea phlebobranchia ascidiella sp 
+
+hf ssu chordata ascidiacea phlebobranchia corella inflata 
+
+he ssu chordata ascidiacea stolidobranchia molgula sp 
+
+he ssu chordata ascidiacea stolidobranchia styela plicata 
+
+he ssu chordata leptocardii branchiostoma sp 
+
+tf ssu cnidaria anthozoa actiniaria nematostella 
+
+vectensis 
+
+ 
+
+ts ssu cnidaria hydrozoa 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+ts ssu cnidaria hydrozoa anthoathecata euphysa sp 
+
+he ssu cnidaria hydrozoa leptothecatha abietinaria filicula 
+
+tf ssu echinodermata 
+
+he ssu echinodermata 
+
+tf ssu echinodermata 
+
+ts ssu echinodermata 
+
+he ssu echinodermata holothuroidea apodida leptosynapta sp 
+
+hf ssu gastrotricha chaetonotida chaetonotus sp 
+
+he ssu gastrotricha macrodasyida diplodasys 
+
+meloriae 
+
+ 
+
+hf ssu gastrotricha macrodasyida lepidodasys sp 
+
+hf ssu gastrotricha macrodasyida macrodasys sp 
+
+hf ssu gastrotricha macrodasyida macrodasys sp 
+
+hf ssu gastrotricha macrodasyida mesodasys sp 
+
+he ssu gastrotricha macrodasyida tetranchyroderma
+
+thysanophorum 
+
+ 
+
+hf ssu gastrotricha macrodasyida thaumastoderma 
+
+ramuliferum 
+
+ 
+
+hf ssu gastrotricha macrodasyida urodasys sp 
+
+tf ssu mollusca bivalvia 
+
+hf ssu mollusca bivalvia anomalodesmata 
+
+hf ssu mollusca bivalvia limoida limaria hians 
+
+tf ssu mollusca bivalvia veneroida abra sp 
+
+he ssu mollusca bivalvia verenoida arctica islandica 
+
+tf ssu mollusca gastropoda neogastropoda nassarius festivus 
+
+hf ssu nematoda chromadorea araeolaimida odontophora sp 
+
+tf ssu nematoda chromadorea araeolaimida sabatieria sp 
+
+tf ssu nematoda chromadorea chromadorida 
+
+hf ssu nematoda chromadorea chromadorida chromadora 
+
+nudicapitata 
+
+ 
+
+hf ssu nematoda chromadorea plectida 
+
+hf ssu nematoda desmodorida microlaimidae 
+
+ haenel q et al
+
+
+
+he ssu nematoda enoplea enoplida enoploides sp 
+
+he ssu nematoda enoplea enoplida enoplus sp 
+
+he ssu nematoda enoplea enoplida symplocostoma
+
+sp 
+
+ 
+
+ts ssu nematoda enoplea enoplida viscosia viscosa 
+
+tf ssu nemertea 
+
+tf ssu nemertea anopla cerebratulus 
+
+marginatus 
+
+ 
+
+he ssu nemertea anopla lineus bilineatus 
+
+hf ssu nemertea paleonemertea callinera grandis 
+
+he ssu nemertea paleonemertea cephalothrix 
+
+filiformis 
+
+ 
+
+tf ssu nemertea paleonemertea hubrechtella 
+
+dubia 
+
+ 
+
+ts ssu platyhelminthes rhabditophora cestoda 
+
+he ssu platyhelminthes rhabditophora haplopharyngida haplopharynx 
+
+rostratus 
+
+ 
+
+hf ssu platyhelminthes rhabditophora prolecithophora allostoma 
+
+neostiliferum 
+
+ 
+
+he ssu platyhelminthes rhabditophora prolecithophora cylindrostoma sp 
+
+he ssu platyhelminthes rhabditophora prolecithophora euxinia baltica 
+
+hf ssu platyhelminthes rhabditophora prolecithophora plagiostomum 
+
+cinctum 
+
+ 
+
+ts ssu platyhelminthes rhabditophora prolecithophora plagiostomum 
+
+cuticulata 
+
+ 
+
+tf ssu platyhelminthes rhabditophora prolecithophora plagiostomum 
+
+striatum 
+
+ 
+
+tf ssu platyhelminthes rhabditophora prolecithophora ulianinia 
+
+mollissima 
+
+ 
+
+hf ssu platyhelminthes rhabditophora proseriata monocelis lineata 
+
+hf ssu platyhelminthes rhabditophora rhabdocoela phonorhynchus 
+
+helgolandicus 
+
+ 
+
+ts ssu platyhelminthes rhabditophora rhabdocoela proxenetes sp 
+
+hf ssu platyhelminthes rhabditophora seriata 
+
+he ssu porifera calcarea 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+he ssu porifera demospongiae chondrillida halisarca dujardini 
+
+hf ssu porifera demospongiae clionaida spheciospongia 
+
+vesparium 
+
+ 
+
+he ssu sipuncula sipunculidea golfingiida phascolopsis 
+
+gouldii 
+
+ 
+
+he ssu tardigrada eutardigrada parachela halobiotus crispae 
+
+tf ssu xenacoelomorpha 
+
+he ssu xenacoelomorpha acoela archaphanostoma
+
+sp 
+
+ 
+
+hf ssu xenacoelomorpha acoela archaphanostoma
+
+sp 
+
+ 
+
+ts ssu xenacoelomorpha acoela childia sp 
+
+ts ssu xenacoelomorpha acoela childia sp 
+
+hf ssu xenacoelomorpha acoela eumecynostomum
+
+sp 
+
+ 
+
+hf ssu xenacoelomorpha acoela haplogonaria sp 
+
+hf ssu xenacoelomorpha nemertodermatida flagellophora 
+
+apelti 
+
+ 
+
+ts ssu xenacoelomorpha nemertodermatida nemertoderma 
+
+westbladi 
+
+ 
+
+invasive and alien species detected in the samples
+
+five alien species were detected in in the sample of which two are considered invasive in
+bold table and the other three are on alert lists the two invasive species acartia 
+tonsa a copepod and alexandrium ostenfefeldii a dinoflagellate could easily be
+overlooked in routine monitoring programs species within the genus acartia are difficult to
+distinguish jensen and the invasive species can be confused with other native
+species also a ostenfeldii is easily misidentified as other alexandrium species detailed
+thecal plate observation is often necessary for proper identification balech this
+shows the potential of molecular techniques for monitoring invasive species and points to
+problems using traditional identification techniques many invasive species arrive in an area
+as spores larvae or juveniles all life stages that may be easily overlooked and
+problematic to identify to species level target barcoding of environmental dna edna 
+shows a great promise for detecting species without the need of costly sampling schemes 
+this would also allow for more random sampling in an area increasing the probability of
+actually finding a species even when they occur in low numbers 
+
+ haenel q et al
+
+
+
+species phylum coi s 
+
+hållö island gullmarn fjord hållö island gullmarn fjord
+
+acartia tonsa arthropoda x x 
+
+alexandrium ostenfeldii dinoflagellata x x
+
+bonnemaisonia hamifera rhodophyta x x x 
+
+penilia avirostris arthropoda x x 
+
+thalassiosira punctigera bacillariophyta x 
+
+comparison of metabarcoding versus morphology based identification of
+xenacoelomorpha 
+
+comparison of morphology based assessment of xenacoelomorpha diversity with
+metabarcoding using taxonomic assignments to the phylum level with similarity
+threshold suppl materials shows that extraction procedures have strong impact on
+the effectiveness of morphology based identification tables using freshwater for
+extraction of xenacoelomorpha rendered most of them unrecognizable and unidentifiable 
+but left their dna intact and suitable for metabarcoding no identifiable xenacoelomorpha
+were found in the hållö samples extracted using flotation with fresh water while all
+specimens found in gullmarn fjord were treated together as one taxon acoela sp for the
+lack of better alternative metabarcoding on the other hand recovered between and 
+taxa otus from the hållö samples extracted using flotation with fresh water table 
+and up to taxa otus from the same type of samples from the gullmarn fjord site
+ table depending on the barcoding region used just like for nematodes see below 
+ s barcodes always gave higher overall estimates of diversity number of otus 
+compared to coi table s also gave higher diversity estimates compared to
+morphology based identification for the hållö samples extracted using flotation with mgcl 
+ versus but lower for the gullmarn fjord site samples extracted using siphoning 
+versus coi leray primers were less effective compared to the coi lobo primers that
+recovered otus more in all samples table the most numerous of the
+morphologically identified species mecynostomum tenuissimum was present with 
+specimens in the manually sorted samples but was not detected at all in the s
+samples note that the s and coi sequences for all of the species identified in the
+visually sorted samples are present in the reference database this raises the question of
+the efficiacy of using the ssu fo ssu r s fragment for metabarcoding of
+acoelomorphs a recent study found a number of unknown xenacoelomorph taxa while
+data mining metabarcoding sequences from surveys of pelagial and deep benthic habitats
+ arroyo et al unknown xenacoelomorph species may exist also at the moderate
+sampling depths we sampled in the gullmarn fjord our siphoning technique relies on
+migration of specimens to the sediment surface in response to hypoxia it is possible that
+
+table 
+
+invasive species in bold and species on alert lists not bold found in the samples x indicates
+where the species were found 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+there are xenacoelomorphs with high tolerance for hypoxia that are not captured by the
+siphoning method and thus would not be found in the manually sorted samples but could
+be detected by metabarcoding of unprocessed samples it should be noted that the
+extraction method used on the hållö samples does not rely on migration of specimens to
+the surface 
+
+ gullmarn fjord hållö 
+
+ taxon siphoning flotation with
+fresh water 
+
+flotation with
+mgcl solution 
+
+flotation with
+fresh water 
+
+ acoela 
+
+ haploposthia rubropunctata 
+
+ childia brachyposthium 
+
+ childia submaculatum 
+
+ childia trianguliferum 
+
+ childia crassum 
+
+ childia sp 
+
+ mecynostomum tenuissimum 
+
+ mecynostomum auritum 
+
+ cf eumecynostomum altitudi 
+
+ philactinoposthia sp 
+
+ acoela sp 
+
+ faerlea glomerata 
+
+ archaphanostoma sp 
+
+ postmecynostomum glandulosum 
+
+ paramecynostomum sp 
+
+ eumecynostomum 
+macrobursalium 
+
+ 
+
+ isodiametra sp 
+
+ haplogonaria viridis archocelis
+macrorhabditis 
+
+ 
+
+ nemertodermatida 
+
+ nemertoderma westbladi 
+
+ flagellophora apelti 
+
+table 
+
+taxonomic composition and relative abundance of the total number of specimens of
+xenacoelomorpha species in gullmarn fjord and hållö sites 
+
+ haenel q et al
+
+
+
+site extraction method morphology based s coi lobo coi leray 
+
+hållo flotation with mgcl 
+
+hållö flotation with fresh water 
+
+hållö total 
+
+gullmarn fjord siphoning 
+
+gullmarn fjord flotation with fresh water 
+
+gullmarn fjord total 
+
+comparison of metabarcoding versus morphology based identification of
+nematoda 
+
+both study sites are characterized by rich and diverse nematode fauna the hållö site had
+a total of species of nematodes belonging to genera holovachov et al of
+these species belonging to genera were found in samples extracted by flotation with
+a mgcl solution and species belonging to genera were found in samples
+extracted by flotation with fresh water the gullmarn fjord site had a total of nematode
+species of nematodes belonging to genera holovachov et al of these 
+species belonging to genera were found in samples extracted by siphoning and 
+species belonging to genera were found in samples extracted by flotation with fresh
+water a certain small number of nematode individuals in each sample were not identified
+to species genus family either due to their developmental stage or quality of preservation 
+
+the final list of nematode otus includes s sequences only two s otus were
+positively identified using qiime to species level using similarity threshold viscosia 
+viscosa ts ssu and chromadora nudicapitata hf ssu six more were
+assigned to reference sequences identified to genus level only suppl material only 
+coi sequences were assigned to the phylum nematoda and none was identified to
+species level 
+
+when comparing the results of morphology based assessment of nematode diversity with
+metabarcoding using taxonomic assignments to the phylum level in this particular study
+ with similarity threshold suppl materials the detailed and extensive
+examination of samples and morphology based species identification provided more
+comprehensive estimates of nematode diversity species in hållö and species in
+gullmarn fjord than metabarcoding using either one of the molecular markers 
+independently of the extraction technique or locality table moreover coi barcodes
+were much harder to obtain for marine nematodes using either one of the primers 
+otus in hållö and otus in gullmarn fjord using lobo primers otus in hållö and 
+otus in gullmarn fjord using leray primers comparing to s otus in hållö and 
+
+table 
+
+total number of xenacoelomorpha taxa or otus distinguished based on morphology table 
+ s and coi from different sampling sites and extraction methods placement of otus is based on
+ similarity threshold suppl materials 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+
+
+otus in gullmarn fjord site table due to the very limited reference databases
+available for marine nematodes very few nematode otus can be identified to species or
+genus level making it difficult to use metabarcoding data in ecological studies 
+
+site extraction method morphology based s coi lobo coi leray 
+
+hållo flotation with mgcl 
+
+hållö flotation with fresh water 
+
+hållö total 
+
+gullmarn fjord siphoning 
+
+gullmarn fjord flotation with fresh water 
+
+gullmarn fjord total 
+
+acknowledgements 
+
+we would like to thank the genomics core facility platform at the sahlgrenska academy 
+university of gothenburg the swebol swedish barcode of life network and christer
+erséus are thanked for sharing barcode databases of swedish invertebrates we would
+also like to thank nicolas girard for help with scripting this work was in part supported by
+the project systematics of swedish free living nematodes of the orders desmodorida and
+araeolaimida swedish taxonomy initiative artdatabanken sweden awarded to oh and
+by the swedish research council project biodiversity genomics species
+identification pipelines for analyzing marine invertebrate larval stages community structure 
+and trophic interactions’ awarded to sjb 
+
+references
+
+• arroyo a lópez escardó d vargas cd ruiz trillo i hidden diversity of
+acoelomorpha revealed through metabarcoding biology letters 
+https doi org rsbl 
+
+• balech e the genus alexandrium halim dinoflagellata sherkin island marine
+station ireland isbn 
+
+• bik hm halanych km sharma j thomas wk a dramatic shifts in benthic
+microbial eukaryote communities following the deepwater horizon oil spill plos one 
+ e in english https doi org journal pone 
+
+• bik hm sung w de ley p baldwin jg sharma j rocha olivares a thomas wk
+ b metagenetic community analysis of microbial eukaryotes illuminates
+
+table 
+
+total number of nematode taxa or otus distinguished based on morphology after holovachov et
+al s and coi from different sampling sites and extraction methods placement of otus is
+based on similarity threshold suppl materials 
+
+ haenel q et al
+
+https doi org rsbl 
+https doi org journal pone 
+
+
+biogeographic patterns in deep sea and shallow water sediments molecular ecology 
+ ‑ in english https doi org j x x 
+
+• bohmann k evans a gilbert mtp carvalho gr creer s knapp m yu dw de bruyn
+m environmental dna for wildlife biology and biodiversity monitoring trends in
+ecology evolution ‑ https doi org j tree 
+
+• bourlat sj haenel q finnman j leray m metabarcoding of marine eukaryotes 
+illumina mi seq library preparation using fusion primer methods in bourlat sj ed 
+marine genomics methods and protocols springer new york isbn
+ 
+
+• brannock pm halanych km meiofaunal community analysis by high throughput
+sequencing comparison of extraction quality filtering and clustering methods marine
+genomics in press 
+
+• caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer
+n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley
+re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr 
+turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r 
+qiime allows analysis of high throughput community sequencing data nat methods 
+ ‑ in eng https doi org nmeth f 
+
+• cowart da pinheiro m mouchel o maguer m grall j mine j arnaud haond s 
+metabarcoding is powerful yet still blind a comparative analysis of morphological and
+molecular surveys of seagrass communities plos one e in english 
+https doi org journal pone 
+
+• creer s fonseca vg porazinska dl giblin davis rm sung w power dm packer m 
+carvalho gr blaxter ml lambshead pjd thomas wk ultrasequencing of the
+meiofaunal biosphere practice pitfalls and promises molecular ecology ‑ in
+english https doi org j x x 
+
+• de grisse at redescription ou modifications de quelques techniques utilisées
+dans l etude des nematodes phytoparasitaires mededelingen rijksfakulteit
+landbouwwetenschappen gent ‑ 
+
+• de vargas c audic s henry n decelle j mahe f logares r lara e berney c le
+bescot n probert i carmichael m poulain j romac s colin s aury jm bittner l 
+chaffron s dunthorn m engelen s flegontova o guidi l horak a jaillon o lima 
+mendez g lukes j malviya s morard r mulot m scalco e siano r vincent f 
+zingone a dimier c picheral m searson s kandels lewis s acinas sg bork p 
+bowler c gorsky g grimsley n hingamp p iudicone d not f ogata h pesant s 
+raes j sieracki me speich s stemmann l sunagawa s weissenbach j wincker p 
+karsenti e coordinators to eukaryotic plankton diversity in the sunlit ocean 
+science in english https doi org science 
+
+• edgar rc search and clustering orders of magnitude faster than blast 
+bioinformatics ‑ https doi org bioinformatics btq 
+
+• edgar rc haas bj clemente jc quince c knight r uchime improves
+sensitivity and speed of chimera detection bioinformatics ‑ https 
+doi org bioinformatics btr 
+
+• fadrosh dw ma b gajer p sengamalay n ott s brotman rm ravel j an
+improved dual indexing approach for multiplexed s rrna gene sequencing on the
+illumina miseq platform microbiome https doi org 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+https doi org j x x
+https doi org j tree 
+https doi org nmeth f 
+https doi org journal pone 
+https doi org journal pone 
+https doi org j x x
+https doi org science 
+https doi org bioinformatics btq 
+https doi org bioinformatics btr 
+https doi org bioinformatics btr 
+https doi org 
+
+
+• folmer o black m hoeh w lutz r vrijenhoek r dna primers for amplification
+of mitochondrial cytochrome c oxidase subunit i from diverse metazoan invertebrates 
+mol mar biol biotechnol ‑ in eng url http www ncbi nlm nih gov 
+pubmed 
+
+• fonseca vg carvalho gr nichols b quince c johnson hf neill sp lambshead jd 
+thomas wk power dm creer s metagenetic analysis of patterns of distribution
+and diversity of marine meiobenthic eukaryotes global ecology and biogeography 
+ ‑ in english https doi org geb 
+
+• fonseca vg carvalho gr sung w johnson hf power dm neill sp packer m 
+blaxter ml lambshead pjd thomas wk creer s second generation
+environmental sequencing unmasks marine metazoan biodiversity nature
+communications in english https doi org ncomms 
+
+• giongo a davis richardson a crabb d triplett e taxcollector modifying
+current s rrna databases for the rapid classification at six taxonomic levels 
+diversity ‑ https doi org d 
+
+• hao xl jiang r chen t clustering s rrna for otu prediction a method of
+unsupervised bayesian clustering bioinformatics ‑ in english https 
+doi org bioinformatics btq 
+
+• hebert pdn ratnasingham s dewaard jr barcoding animal life cytochrome c
+oxidase subunit divergences among closely related species proceedings of the royal
+society of london series b biological sciences in english https doi org 
+rsbl 
+
+• higgins rpth introduction to the study of meiofauna smithsoniam institution
+press washington d c london 
+
+• holovachov o haenel q bourlat sj jondelius u the choice of taxonomy
+assignment approach has strong impact on the efficiency of identification of anonymous
+metabarcodes of marine nematodes manuscript in preparation 
+
+• jensen k nobanis – invasive alien species fact sheet acartia tonsa from 
+identification key to marine invasive species in nordic waters www nobanis org 
+accessed on 
+
+• kearse m moir r wilson a stones havas s cheung m sturrock s buxton s cooper
+a markowitz s duran c thierer t ashton b meintjes p drummond a 
+geneious basic an integrated and extendable desktop software platform for the
+organization and analysis of sequence data bioinformatics ‑ https 
+doi org bioinformatics bts 
+
+• kircher m sawyer s meyer m double indexing overcomes inaccuracies in
+multiplex sequencing on the illumina platform nucleic acids res https 
+doi org nar gkr 
+
+• lallias d hiddink jg fonseca vg gaspar jm sung w neill sp barnes n ferrero t 
+hall n lambshead pjd packer m thomas wk creer s environmental
+metabarcoding reveals heterogeneous drivers of microbial eukaryote diversity in
+contrasting estuarine ecosystems isme journal ‑ in english https 
+doi org ismej 
+
+• lanzén a jørgensen s huson d gorfer m grindhaug sh jonassen i Øvreås l 
+urich t crest – classification resources for environmental sequence tags 
+plos one e https doi org journal pone 
+
+ haenel q et al
+
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+https doi org geb 
+https doi org ncomms 
+https doi org d 
+https doi org bioinformatics btq 
+https doi org bioinformatics btq 
+https doi org rsbl 
+https doi org rsbl 
+http www nobanis org
+https doi org bioinformatics bts 
+https doi org bioinformatics bts 
+https doi org nar gkr 
+https doi org nar gkr 
+https doi org ismej 
+https doi org ismej 
+https doi org journal pone 
+
+
+• lawson handley l how will the ‘molecular revolution’ contribute to biological
+recording biological journal of the linnean society ‑ https 
+doi org bij 
+
+• leray m knowlton n dna barcoding and metabarcoding of standardized
+samples reveal patterns of marine benthic diversity proceedings of the national
+academy of sciences of the united states of america ‑ in english 
+https doi org pnas 
+
+• leray m yang jy meyer cp mills sc agudelo n ranwez v boehm jt machida rj
+ a new versatile primer set targeting a short fragment of the mitochondrial coi
+region for metabarcoding metazoan diversity application for characterizing coral reef
+fish gut contents frontiers in zoology in english https 
+doi org 
+
+• lindeque pk parry he harmer ra somerfield pj atkinson a next generation
+sequencing reveals the hidden diversity of zooplankton assemblages plos one 
+ e in english https doi org journal pone 
+
+• lobo j costa pm teixeira ma ferreira ms costa mh costa fo enhanced
+primers for amplification of dna barcodes from a broad range of marine metazoans 
+bmc ecol https doi org 
+
+• moreno m vezzulli l marin v laconi p albertelli g fabiano m the use of
+meiofauna diversity as an indicator of pollution in harbours ices journal of marine
+science ‑ in english https doi org icesjms fsn 
+
+• porazinska dl giblin davis rm faller l farmerie w kanzaki n morris k powers to 
+tucker ae sung w thomas wk evaluating high throughput sequencing as a
+method for metagenomic analysis of nematode diversity mol ecol resour 
+ ‑ https doi org j x 
+
+• shokralla s spall jl gibson jf hajibabaei m next generation sequencing
+technologies for environmental dna research molecular ecology ‑ in
+english https doi org j x x 
+
+• vincx m meiofauna in marine and freshwater sediments in hall gs ed 
+methods for the examination of organismal diversity in soils and sediments 
+
+• zhang h gao s lercher mj hu s chen wh evolview an online tool for
+visualizing annotating and managing phylogenetic trees nucleic acids res ‑ 
+https doi org nar gks 
+
+supplementary materials
+
+suppl material otus identified to species level in the samples using sequence
+similarity all organism groups 
+
+authors quiterie haenel oleksandr holovachov ulf jondelius per sundberg and sarah j 
+bourlat
+data type occurrence records from metabarcoding for hållö island and gullmarsfjord sweden 
+brief description sequence similarity search at similarity allowed us to identify some
+otus to species level coi otus and s otus were identified to species from both
+sites hållö island and gullmarsfjord 
+filename tables xlsx download file kb 
+
+ngs based biodiversity and community structure analysis of meiofaunal eukaryotes 
+
+https doi org bij 
+https doi org bij 
+https doi org pnas 
+https doi org pnas 
+https doi org 
+https doi org 
+https doi org journal pone 
+https doi org 
+https doi org icesjms fsn 
+https doi org j x
+https doi org j x x
+https doi org nar gks 
+https doi org bdj e suppl 
+https doi org bdj e suppl 
+http arpha pensoft net getfile php filename oo xlsx
+
+
+suppl material otu table for s 
+
+authors quiterie haenel oleksandr holovachov ulf jondelius per sundberg and sarah j 
+bourlat
+data type metagenomic otu table
+brief description otu table showing all s otus their taxonomic assignment at 
+similarity and number of reads per sample he hållö flotation hf hållö flotation mgcl ts 
+gullmarn fjord siphoning tf gullmarn fjord flotation 
+filename s otu table txt download file kb 
+
+suppl material otu table for coi 
+
+authors quiterie haenel oleksandr holovachov ulf jondelius per sundberg and sarah j 
+bourlat
+data type metagenomic otu table
+brief description otu table showing all coi otus their taxonomic assignment at 
+similarity and number of reads per sample he hållö flotation hf hållö flotation mgcl ts 
+gullmarn fjord siphoning tf gullmarn fjord flotation 
+filename co otu table txt download file kb 
+
+ haenel q et al
+
+https doi org bdj e suppl 
+https doi org bdj e suppl 
+http arpha pensoft net getfile php filename oo txt
+https doi org bdj e suppl 
+https doi org bdj e suppl 
+http arpha pensoft net getfile php filename oo txt
+
+	abstract
+	keywords
+	introduction
+	materials and methods
+	sampling
+	meiofaunal extraction
+	morphology based identification
+	dna extraction library preparation and sequencing
+	bioinformatic data processing and analysis
+	paired end joining
+	primer trimming and quality filtering
+	chimera removal and otu clustering
+	taxonomic assignment
+	diversity analyses
+	data resources
+
+	results and discussion
+	phylum level community composition of meiofaunal samples from the swedish west coast
+	meiofaunal community composition differs according to location
+	sample diversity and composition analyses
+	molecular identifications to species level
+	invasive and alien species detected in the samples
+	comparison of metabarcoding versus morphology based identification of xenacoelomorpha
+	comparison of metabarcoding versus morphology based identification of nematoda
+
+	acknowledgements
+	references
+	supplementary materials
+
+

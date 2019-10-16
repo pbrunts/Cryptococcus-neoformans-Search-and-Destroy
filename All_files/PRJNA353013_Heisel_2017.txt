@@ -1,0 +1,1334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+high fat diet changes fungal microbiomes and interkingdom relationships in the murine gut
+
+
+high fat diet changes fungal
+microbiomes and interkingdom
+relationships in the murine gut
+
+timothy heisel a emmanuel montassier b abigail johnson c
+
+gabriel al ghalith d yi wei lin e li na wei e dan knights c f cheryl a galea
+
+department of pediatrics university of minnesota minneapolis minnesota usaa université de nantes ea
+ thérapeutiques cliniques et expérimentales des infections nantes franceb the biotechnology institute 
+university of minnesota st paul minnesota usac bioinformatics and computational biology university of
+minnesota minneapolis minnesota usad department of pharmacology university of minnesota 
+minneapolis minnesota usae department of computer science and engineering university of minnesota 
+minneapolis minnesota usaf
+
+abstract dietary fat intake and shifts in gut bacterial community composition are
+associated with the development of obesity to date characterization of microbiota
+in lean versus obese subjects has been dominated by studies of gut bacteria fungi 
+recently shown to affect gut inflammation have received little study for their role in
+obesity we sought to determine the effects of high fat diet on fungal and bacterial
+community structures in a mouse model using the internal transcribed spacer region
+ its of fungal ribosomal dna rdna and the s rrna genes of bacteria mice
+fed a high fat diet had significantly different abundances of bacterial and fun 
+gal taxa than did mice fed standard chow with high fat diet causing similar magni 
+tudes of change in overall fungal and bacterial microbiome structures we observed
+strong and complex diet specific coabundance relationships between intra and in 
+terkingdom microbial pairs and dramatic reductions in the number of coabundance
+correlations in mice fed a high fat diet compared to those fed standard chow fur 
+thermore predicted microbiome functional modules related to metabolism were sig 
+nificantly less abundant in high fat diet fed than in standard chow fed mice these
+results suggest a role for fungi and interkingdom interactions in the association be 
+tween gut microbiomes and obesity 
+
+importance recent research shows that gut microbes are involved in the devel 
+opment of obesity a growing health problem in developed countries that is linked
+to increased risk for cardiovascular disease however studies showing links between
+microbes and metabolism have been limited to the analysis of bacteria and have
+ignored the potential contribution of fungi in metabolic health this study provides
+evidence that ingestion of a high fat diet is associated with changes to the fungal
+ and bacterial microbiome in a mouse model in addition we find that interking 
+dom structural and functional relationships exist between fungi and bacteria within
+the gut and that these are perturbed by high fat diet 
+
+keywords fungal bacterial interactions fungi high fat diet microbiome obesity
+
+emerging evidence demonstrates that diet both independently and in conjunctionwith body composition modulates gut microbial community structure the
+resulting microbiome modulations from high fat diet in particular influence the risk for
+development of obesity and obesity related disorders such as diabetes and atheroscle 
+rosis – proposed mechanisms for microbially mediated obesity effects include
+increased energy extraction from the diet production of neuroactive factors that
+decrease satiety or increase hunger and induced inflammatory responses 
+
+received august accepted 
+september published october 
+
+citation heisel t montassier e johnson a 
+al ghalith g lin y w wei l n knights d gale
+ca high fat diet changes fungal
+microbiomes and interkingdom relationships
+in the murine gut msphere e 
+https doi org msphere 
+
+editor rosa krajmalnik brown arizona state
+university
+
+copyright © heisel et al this is an open 
+access article distributed under the terms of
+the creative commons attribution 
+international license 
+
+address correspondence to cheryl a gale 
+galex umn edu 
+
+t h and e m contributed equally to this work 
+
+research article
+host microbe biology
+
+crossm
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http orcid org 
+http orcid org 
+http orcid org 
+https doi org msphere 
+https creativecommons org licenses by 
+https creativecommons org licenses by 
+mailto galex umn edu
+http crossmark crossref org dialog doi msphere domain pdf date stamp 
+msphere asm org
+http msphere asm org 
+
+
+the majority of studies examining the links between gut microbes and metabolic
+health have focused almost exclusively on the bacterial component of the microbiota
+ – even though microbes from other microbial kingdoms are present within the
+intestinal tract in particular diverse fungal communities also colonize the intestinal
+tract of humans and mice – importantly perturbation of bacterial communities 
+for example by antibacterial antibiotics changes fungal communities as well as bac 
+terial communities underlining the importance of considering interkingdom in 
+teractions in studies seeking to understand microbiome mediated effects on human
+health 
+
+fungi have been reported to contribute less than of the microbes in the
+intestinal tract of humans however this number likely underestimates fungal
+numbers and importance of note there is underrepresentation of fungal sequences
+in annotated reference sequence databases as of july the national center for
+biotechnology information ncbi database listed complete fungal genomes
+compared to complete bacterial genomes and so fungi may be underdetected
+by shotgun sequencing efforts in addition fungal cells are more than fold larger
+than typical bacterial cells thus they provide a substantial mass of biomaterial and
+unique metabolic functions to the microbiota as well as surface area for host microbe
+interactions although they represent a small component of the microbiota fungal
+communities are significant in that they potentially serve as a reservoir for pathogens
+as well as for keystone species with critical roles in maintaining the function of the gut
+microbiome furthermore so called minor components of the microbiota can
+nevertheless proliferate under certain host conditions such as those occurring with
+antibiotic exposure with significant health consequences for the host 
+
+in this study we sought to gain an understanding of how an obesogenic diet affects
+host associated microbes beyond that which has been described for only one micro 
+bial kingdom the bacteria we hypothesized that fungal microbiomes and specifically 
+fungal bacterial microbiome interactions involved in metabolism would be disrupted
+by high fat diet overall the results of this study provide evidence that fungi and
+interkingdom interactions are disrupted by high fat diet thus supporting the inclusion
+of fungal community analyses in studies that seek to discover new connections
+between intestinal microbiomes and metabolic health 
+
+results
+mice fed a high fat diet harbor gut fungal and bacterial communities that
+
+differ from those in mice fed standard chow mice fed a high fat diet had increased
+weight gain and metabolic markers associated with obesity such as insulin resistance 
+compared to mice fed standard chow see table s at http galelab umn edu msphere
+ supplemental material which is consistent with the findings of previous studies
+utilizing a mouse model of diet induced obesity high fat diet in this study
+consisted of calories from fat and regular chow contained calories from fat 
+
+mice fed high fat and standard diets have comparable levels of identified fungal
+taxonomies in their feces as indicated by alpha diversity metrics for chao t test using
+monte carlo permutations p � shannon’s index t test p � and number
+of observed unique species t test using monte carlo permutations p � 
+however principal component analysis pcoa showed separation of microbial com 
+munities by diet as measured using bray curtis distance metrics analysis of similarities
+ anosim r � p � fig a furthermore using randomforest 
+unknown samples were classified with a � error rate which is nine times
+better than the baseline error rate for random guessing showing that the fecal fungal
+microbiotas are distinct between the two diets 
+
+high fat diet was associated with decreased bacterial richness and diversity as
+measured by phylogenetic diversity–whole tree t test using monte carlo permutations 
+p � and shannon t test using monte carlo permutations p � indices see
+fig s in the supplemental material moreover pcoa showed separation by diet as
+measured using unweighted unifrac distance metrics anosim r � p � and
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http galelab umn edu msphere supplemental material
+http galelab umn edu msphere supplemental material
+msphere asm org
+http msphere asm org 
+
+
+weighted unifrac distance metrics anosim r � p � fig b furthermore 
+using randomforest unknown samples were classified with an � error rate 
+which is nine times better than the baseline error rate for random guessing showing
+that fecal bacterial microbiotas are distinct between the two diets 
+
+procrustes analysis showed concordance between pcoa plots from the unweighted
+unifrac distance metrics bacteria and the bray curtis distance metrics fungal indi 
+cating consistency between bacterial and fungal profiles m � p � 
+ fig in comparing diet groups the plots of relative abundances of bacteria at genus
+level fig a and fungi at species level fig b were both visually distinct 
+
+we observed that the relative abundances of bacterial genus level and fungal
+ genus or species level taxa were significantly different mann whitney u test false
+discovery rate fdr corrected p value of � between the two diets for bacteria 
+
+fig beta diversity comparisons of fungal communities a and bacterial communities b of feces from mice fed high fat and standard diets pcoa of
+bray curtis distances is shown for fungi and weighted right and unweighted left unifrac distances are shown for bacteria the proportion of variance
+explained by each principal coordinate is denoted in the corresponding axis label 
+
+fig procrustes analysis comparing the spatial fit of unweighted unifrac principal coordinate matrices
+of bacterial communities yellow spheres and bray curtis principal coordinate matrices of fungal com 
+munities green spheres from mice fed high fat and standard diets concordance was observed between
+bacterial and fungal profile changes in response to diet m � p � 
+
+fungal bacterial dysbiosis and high fat diet
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+mice fed a high fat diet had increased bacteroides enterococcus proteus lactobacillus 
+ruminococcaceae streptococcus christensenellaceae and allobaculum numbers and
+decreased prevotella anaeroplasma erysipelotrichaceae turicibacter and “candidatus
+arthromitus” numbers fig s compared to mice fed standard chow overall these
+taxon changes represent an increase in firmicutes and a decrease in bacteroidetes in
+response to high fat diet fig s and are consistent with the results of other investi 
+gators 
+
+for fungi the abundances of the alternaria saccharomyces septoriella and tilleti 
+opsis genera saccharomyces cerevisiae and tilletiopsis washingtonensis were higher in
+mice fed standard chow fig s fdr corrected p value of � while no taxa were
+significantly higher in mice fed the high fat chow the numbers of differentiated taxa
+increased with less stringent fdr corrected p value cutoffs fig s fdr corrected
+p value of � with six taxa showing higher relative abundances in the high fat diet
+mice and taxa showing higher abundances in the standard chow mice 
+
+candida albicans the predominant colonizer and fungal pathogen of humans was
+detected in both groups of mice average relative abundances of and for
+high fat diet and standard chow fed mice respectively not statistically different 
+fdr corrected p value of this is in conflict with previous reports stating that
+c albicans is not a commensal of the intestinal tract of mice reviewed in reference 
+to confirm this finding in our samples we performed quantitative real time pcr qpcr 
+analysis using c albicans species specific primers on a subset of the samples from mice
+fed the standard chow qpcr confirmed the presence of small amounts of c albicans
+dna in all samples see table s at http galelab umn edu msphere supplemental
+ material and not in the negative control providing evidence that c albicans se 
+quences are present in the feces of mice analyzed in this study 
+
+fungal microbiomes of mouse feces differ from those present in the corre 
+sponding mouse chow to determine the extent to which the mouse chows used in
+
+fig abundance plots of sequencing results a relative abundance plots of bacterial taxa in mouse feces taxa were identified to similarity using the
+greengenes reference database as described in materials and methods b relative abundance plots of fungal taxa in mouse feces taxa were identified to the
+species level using the unite reference database as described in materials and methods for the results of statistical comparisons of taxon abundances between
+diets see fig s and s in the supplemental material 
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http galelab umn edu msphere supplemental material
+http galelab umn edu msphere supplemental material
+msphere asm org
+http msphere asm org 
+
+
+this study contributed to mouse fungal microbiomes fungal dna was extracted from
+the high fat and standard chows and analyzed using qpcr and sequencing by qpcr
+analysis the standard chow contained a much larger amount of fungal dna than did
+the high fat chow mean quantification cycle cq values of and respectively 
+overall standard chow contained a larger number of fungal taxa than did high fat
+chow and fungal taxa respectively in comparing fungal microbiomes of mice
+and their corresponding chows we observed that of fungal taxa in mice fed the
+standard diet were not present in the standard chow and of fungal taxa in mice
+fed the high fat diet were not present in the high fat chow the most abundant taxa in
+standard chow were the fusarium of sequences and alternaria of se 
+quences genera fig in contrast in mice fed the standard chow fusarium and
+alternaria contributed and respectively of fungal sequences similarly the most
+abundant taxon in mice fed standard chow was s cerevisiae which accounted for
+� of the sequences this taxon accounted for � of sequences in the standard
+chow in the high fat chow the most abundant taxon was identified as candida parap 
+silosis which accounted for of all sequences compared to only of sequences
+in mice fed this diet the most abundant taxon in mice fed the high fat diet was
+c albicans which accounted for of fungal sequences this taxon accounted for only
+ of sequences in the high fat chow qpcr analysis of dna isolated from the high fat
+chow confirmed a small amount of c albicans dna altogether these results provide
+evidence that mouse fecal fungal microbiomes are not solely structured by diet 
+
+diet specific intrakingdom coabundance correlations exist in the mouse gut 
+positive and negative coabundance correlations were observed between fungal taxa
+in the feces of both high fat and standard chow fed mice see tables s and s at
+http galelab umn edu msphere supplemental material also fig s and s in mice
+fed standard chow there were a total of significant fungal fungal correlations
+ fdr corrected p value of � correlations were negative and the remaining 
+were positive in contrast the number of coabundance correlations was reduced in
+mice fed a high fat diet where there were only significant correlations one
+correlation was negative and the remaining were positive no correlations were
+shared between diets 
+
+positive and negative coabundance correlations were also observed between bac 
+terial taxa in both the high fat and standard chow fed mice see tables s and s at
+http galelab umn edu msphere supplemental material also fig s and s in total 
+
+fig relative abundance plots of fungal taxa for mouse chows each chow was sequenced three
+individual times dna was isolated from different pieces of chow for each sequencing run and results
+for each chow were pooled after sequencing fungi were identified to the species level as described in
+materials and methods 
+
+fungal bacterial dysbiosis and high fat diet
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http galelab umn edu msphere supplemental material
+http galelab umn edu msphere supplemental material
+msphere asm org
+http msphere asm org 
+
+
+there were negative and positive correlations in the standard chow fed mice 
+similarly to the fungal fungal network analysis the number of bacterial bacterial
+coabundance correlations was decreased in mice fed a high fat diet with only 
+positive and no negative correlations observed 
+
+diet specific fungal bacterial interkingdom coabundance correlations exist in
+the mouse gut positive and negative interkingdom coabundance relationships were
+also observed between fungal and bacterial taxa in the gut for both standard and
+high fat diet fed mice fig in mice fed standard chow there were significant
+fungal bacterial coabundance correlations were positive and was negative fig 
+see also table s at http galelab umn edu msphere supplemental material in mice
+fed the high fat diet there was a reduction in coabundance correlations with only 
+being observed one positive and two negative fig b see also table s at http 
+galelab umn edu msphere supplemental material the specific interkingdom taxon
+correlations completely differed between the diets altogether these data support the
+idea that interkingdom interactions exist between bacteria and fungi in the gut and
+that these relationships depend upon diet 
+
+fungal taxa correlate with bacterial kegg modules inference of fungal micro 
+biome function from sequence data is not technically possible due to the paucity of
+fungal sequences in current databases complexities of fungal taxonomy calling and
+variability in functions expressed by fungi depending on specific environmental con 
+ditions compared to bacterial sequences nevertheless we were able to use bugbase
+ to infer bacterial community functions of mouse gut microbiomes in order to
+identify potential links between fungi and metabolic potential of gut bacterial micro 
+biomes of a total of potential kyoto encyclopedia of genes and genomes kegg 
+functional modules we determined that the relative abundances of modules
+were significantly different between the high fat and standard diet fed mice mann 
+whitney u test fdr corrected p value of � of these we subsequently focused
+our downstream analysis on those related to energy metabolism of these the majority
+of functional modules were decreased in mice fed the high fat diet compared to
+standard chow fig to determine if any fungal taxa were correlated with bacterial
+function we compared the relative abundances of significantly increased fungal taxa
+with kegg modules within each diet group in the high fat diet mice we identified
+significant positive correlations between aspergillus terreus and bacterial gamma 
+aminobutyric acid gaba biosynthesis methanogenesis the reductive acetyl coen 
+zyme a acetyl coa pathway and beta oxidation fig a spearman correlation fdr 
+corrected p value of � in the standard chow mice saccharomyces taxa were
+negatively correlated with the c dicarboxylic acid cycle neoascochyta europaea was
+positively correlated with leucine and methionine degradation tryptophan biosynthe 
+sis methane oxidation and pyruvate oxidation bullera alba was positively correlated
+with lysine biosynthesis and the reactive acetyl coa pathway and septoriella was
+positively correlated with gaba biosynthesis fig b spearman correlation fdr 
+corrected p value of � we also predicted microbial community phenotypes using
+bugbase e g “forms biofilms” and “stress tolerant” from mouse microbiomes and
+found that of the phenotypes were significantly different between diets fig s we
+also tested for correlations between the fungal taxa that were significantly different
+between diets and bugbase phenotypes to detect relationships that persist across the
+two dietary treatments and identified one potential positive correlation between the
+dioszegia taxon and the anaerobic bacterial phenotype permutation test of spearman
+correlation test statistics fdr corrected p value of while each dietary group had
+different correlation patterns there were no correlations between differentiated fungal
+taxa and bugbase phenotypes within each diet that reached statistical significance
+ permutation test fig s 
+
+discussion
+
+in this study ingestion of a high fat diet by mice resulted in major shifts in both gut
+bacterial and gut fungal community structures although this has been shown previ 
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http galelab umn edu msphere supplemental material
+http galelab umn edu msphere supplemental material
+http galelab umn edu msphere supplemental material
+msphere asm org
+http msphere asm org 
+
+
+ously for bacterial microbiomes this is the first report to our knowledge showing
+that fungal microbiomes are also affected by high fat diet in humans fungal micro 
+biomes have been reported to be influenced by diet but not high fat diet
+specifically and to differ between obese and lean adults and children in
+addition modulation of gut fungal community structure has been reported in associ 
+ation with intestinal inflammation – a process that potentially contributes to the
+
+fig interkingdom interactions between fungi and bacteria a heat map depicting fungal bacterial coabundance relationships in mice fed standard chow
+with the color gradient scale inset indicating the strength and direction of the correlation red positive correlation blue negative correlation b network
+maps of fungal bacterial interactions in mice fed either standard or high fat chow blue line positive correlation gray line negative correlation nodes are
+positioned using an edge weighted spring embedded layout color coding is as follows fungal nodes red node ascomycota phylum green node 
+basidiomycota phylum bacterial nodes purple node firmicutes phylum green node bacteroidetes phylum pink node deferribacteres phylum dark blue node 
+cyanobacteria phylum light blue node actinobacteria phylum 
+
+fungal bacterial dysbiosis and high fat diet
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+development of obesity and the metabolic syndrome these results along with the
+results that we report here support the idea that gut fungal communities could
+contribute to metabolic health 
+
+the high fat diet provided to the mice in this study contained calories from fat
+compared to for standard chow this high level of fat in a human diet would be
+extreme and encountered rarely but is used in rodent models to induce obesity
+because it allows the animals to gain more weight at a higher rate thus
+allowing researchers to screen for effects after a shorter period of time additional
+studies are needed to understand the effects on the mycobiome of diets containing
+ranges of fat content as well as differences in fat types e g saturated versus unsat 
+urated that are more typically consumed by human populations 
+
+in lean mice fed a standard chow we observed that the fungal species s cerevisiae
+was significantly more abundant than in obese mice fed a high fat diet this is
+consistent with a recent report showing that saccharomyces species had significantly
+lower abundance in the gut of obese children than in controls it remains unclear 
+however whether the s cerevisiae abundance difference has a direct role in the
+expression of obesity associated phenotypes by the host in support of a mechanistic
+connection between gut fungi and metabolic health the administration of either chitin
+or � glucan polysaccharide components of the cell walls of many fungal species 
+including s cerevisiae or live saccharomyces boulardii an asporogenous form of
+s cerevisiae to mice was shown to prevent obesity phenotypes induced by
+high fat diet – these effects were associated with modulation of gut bacterial
+community structure fungal microbiomes were not analyzed other fungal species
+have also been implicated in beneficial effects on the host for example metabolites
+from the penicillium genus have been reported to exhibit anti inflammatory and
+insulin sensitizing activities altogether these results support the hypothesis that
+gut fungal communities interact with the host to affect metabolism possibly via
+fungus derived molecules and or by modulation of bacterial community functions 
+
+our analysis of chow microbiomes revealed that they differ from the fungal micro 
+
+fig functional microbiome differences between high fat and standard chow diets relative abundance of each kegg module was predicted with bugbase 
+kegg modules displayed are metabolic modules that differ between high fat and standard chow diets kegg modules are shown grouped by kegg category 
+asterisks indicate significant differences mann whitney u test fdr corrected p value of � mean � standard error 
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+biomes of the murine gut we observed that although some fungal species were
+shared between gut and chow many gut fungi were not present in the chow these
+results indicate that recently ingested food is not the only source for gut fungi other
+potential sources include other chows ingested by the mice prior to purchase animal
+bedding and maternal sites with transfer of fungi occurring during birth and early life 
+additionally the differences in relative abundances between fungi in chow and the
+same fungal taxa found in the gut show that modulation of ingested fungal commu 
+nities occurs within the mammalian gut open questions remain as to how fungal com 
+munities are acquired and mature over time and which fungi persist in the mammalian gut
+over the long term 
+
+in this study intra and interkingdom coabundance relationships existed in the
+murine gut and these relationships were specific to diet type our functional analysis
+using bugbase and kegg pathways provides further evidence of shared physiochemical
+interactions between bacteria and fungi and points to potential functional relationships
+that may be disrupted by dietary changes in most environments fungi and bacteria
+coexist and interact physically communicate with each other via molecules and
+induction of signaling pathways modulate their shared physiochemical environment 
+and compete with or complement each other with respect to nutrients metabolism 
+and phoresis because of these interkingdom interactions mixed microbial com 
+munities often have functional properties that are significantly different from each
+single kingdom community for example in human subjects ingesting a high 
+carbohydrate diet a syntrophic relationship was observed between the fungal genus
+
+fig correlations between bacterial kegg modules and fungal taxa that increase with high fat a and standard chow b diet kegg modules were limited
+to those that were significantly different between diet groups for testing taxa were limited to those that significantly increased with each dietary treatment
+as described in materials and methods positive correlations are depicted in red and negative correlations are in blue asterisks indicate significant correlations
+ spearman correlation fdr corrected p value of � 
+
+fungal bacterial dysbiosis and high fat diet
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+candida and bacterial genera prevotella ruminococcus and methanobrevibacter 
+the investigators proposed that digestion of dietary starch by candida results in the
+release of simple sugars which are fermented by prevotella and ruminococcus metha 
+nobrevibacter then completes the breakdown of fermentation by products to carbon
+dioxide and or methane in our study mice fed a high fat diet had increased relative
+abundance of the fungus aspergillus terreus a fungus that produces the cholesterol 
+reducing agent lovastatin and this correlated with increases in bacterial genes
+involved in carbon energy metabolism methanogenesis acetyl coa synthesis and
+reductive acetyl coa pathways implying a compensatory response to exposure to
+high fat diet in a recent study rats receiving a terreus as a dietary supplement along
+with a high fat diet had reduced hepatic steatosis compared to those fed a high fat diet
+alone further supporting a role for a terreus in modulation of metabolism there
+is also evidence for fungal bacterial relationships in other scenarios that affect health 
+for example administration of s boulardii to treat antibiotic associated diarrhea caused
+by the bacterium clostridium difficile as well as intestinal inflammation caused by
+the bacterium citrobacter rodentium in addition in our study we found a potential
+correlation between the fungal taxon dioszegia and the phenotype “anaerobic bacte 
+ria” across diets dioszegia has been proposed to be a “hub” fungal taxon that is it
+influences total host microbiome structure and likely function via its numerous
+interactions with other microbes that affect their colonization dynamics e g by
+modulation of growth and or diversity altogether these collective results high 
+light the potential importance of interkingdom interactions within the intestine for
+their role in human metabolic health 
+
+the findings presented here provide a broader understanding of changes in the gut
+microbiome in association with high fat diet and obesity the role of microbes other
+than bacteria and of interkingdom interactions in the development of human health
+and disease should be a priority for future studies as the information gained could
+allow the discovery of novel targets for treatment and prevention of obesity 
+
+materials and methods
+animals all animal experiments were approved by the university of minnesota institutional animal
+
+care and use committee iacuc and all animals used in this study were treated and all animal
+experiments were performed in accordance with the university of minnesota iacuc protocol
+ a male c bl mice were purchased from the jackson laboratory housed according to
+treatment group and cared for by research animal resources at the university of minnesota which is
+accredited by the american association for accreditation of laboratory animal care mice were fed either
+standard chow with calories from fat and undetectable cholesterol catalog no harlan teklad 
+madison wi n � or a high fat diet with calories from fat and mg cholesterol kg of body
+weight catalog no f bio serv west chester pa n � beginning at weeks of age animals were
+euthanized at weeks of age by carbon dioxide inhalation 
+
+metabolic phenotyping i gtt and itt the glucose tolerance test gtt and insulin tolerance test
+ itt were carried out in mice during week of life after fasting the mice overnight mice were
+intraperitoneally injected with g kg d glucose for gtt or u kg insulin for itt blood glucose levels
+were measured with a standard glucometer before and after injection at and min 
+
+ ii oxygen consumption indirect calorimetry of mice was performed on mice of weeks of age
+ n � mice group to measure oxygen consumption vo before measurement mice were trained to
+habituate to metabolic cages for days and maintained in individual chambers with free access to food
+and water in the animal facility with h light dark cycles the vo measurement was recorded every
+ min for days and normalized to body weight using oxymax software columbus instrument 
+columbus oh 
+
+ iii metabolic biomarker assays blood samples were collected from animals at the time of sacrifice
+ weeks of age and metabolic biomarker levels were measured using commercially available
+enzyme linked immunosorbent assay elisa kits for plasma insulin and adiponectin emd millipore 
+billerica ma and a fluorimetric assay for total serum cholesterol cayman chemical ann arbor mi the
+l type tg m kit and nefa hr kit wako diagnostics richmond va which utilize an enzymatic
+colorimetric method were used to measure serum triglycerides and free fatty acids respectively 
+
+fungal its amplicon generation and sequencing dna was extracted from fecal pellets obtained
+from mice during week of life and from three separate samples of both the high fat diet and the
+standard mouse chow using the powersoil dna isolation kit mo bio laboratories inc carlsbad ca 
+according to the manufacturer’s protocol for difficult dna extractions samples were incubated at °c
+for min after suspension in solution c and isolated dna was suspended in �l of water and stored
+at � °c until use amplicons targeting the fungal internal transcribed spacer region its were
+generated in triplicate for all samples according to protocols previously described with the following
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+msphere asm org
+http msphere asm org 
+
+
+modifications its specific oligonucleotide primers were modified to include a barcode of bp for
+both the forward and the reverse primers this dual barcoding improves the amount of multiplexing that
+can be performed on a single sequencing run in addition degenerate base pairs were included on the
+ end of each primer this is thought to improve the quality of sequencing on miseq instruments
+due to increased length diversity and reduction in base pair homogeneity during photo acquisition
+during sequencing university of minnesota genomics center personal communication once
+generated amplicons were cleaned using the qiaquick pcr purification kit qiagen germantown 
+md as previously described and eluted into water cleaned amplicons were quantified using a
+qubit fluorometer invitrogen eugene or using the qubit dsdna hs assay kit invitrogen 
+equal amounts of dna from each sample were pooled in water and submitted to the university of
+minnesota genomics center for dna library preparation using the truseq nano kit and sequencing
+using the illumina miseq platform 
+
+bacterial s rrna gene amplification and sequencing fecal pellets were collected from mice
+during week of life and submitted to the university of minnesota genomics center for dna extraction 
+generation of s amplicons and sequencing briefly dna was extracted using the powersoil dna
+isolation kit followed by amplification of the v region of the s rrna gene using standard methods
+developed by the earth microbiome project dna libraries were generated from the resulting
+amplicons using the illumina truseq nano kit illumina san diego ca and amplicons were then
+sequenced by the illumina miseq platform using the by bp paired end v kit illumina 
+
+microbial community analysis i fungi fungal sequences were paired filtered for quality and
+aligned using an experimental new aligner burst which was developed to perform optimal exhaustive
+alignment and interpolate the taxonomy annotations for all reference database matches for each query
+read for instance if a given query read matched with a similar alignment score to references all of
+which have the same genus name but conflicting species names burst would annotate that read at the
+genus level without overconfidently committing to a single species for which there was conflicting
+sequence evidence to circumvent issues related to the uncurated nature of the unite database 
+its sequences were aligned to the refseq v targeted locus project its region database which
+contains a highly curated set of approximately full length fungal its markers that have been
+sequenced and characterized using a consistent protocol replicate samples were pooled bioinformati 
+cally prior to analyses to provide a more robust representation of taxa within the samples there was
+a mean of fungal sequences per sample with a range of to reads per sample the
+taxonomy table was rarefied to sequences to perform diversity analyses alpha diversity analyses
+were performed using shannon chao and unique observed species indices beta diversity analyses
+were performed using bray curtis distance metrics as implemented in quantitative insights into micro 
+bial ecology qiime 
+
+ ii bacteria the sequence data were processed in qiime data were quality filtered and demulti 
+plexed using default parameters sequences were assigned to identity operational taxonomic units
+ otus by comparison to the greengenes reference database using uclust the otu table
+was then rarefied to sequences to perform diversity analyses alpha diversity analyses were
+performed using shannon and phylogenetic diversity indices beta diversity analyses were performed
+using unweighted and weighted unifrac distance metrics as implemented in qiime the relative
+abundances of level kegg modules were predicted from the otu table using bugbase 
+
+ iii statistical analyses principal component analysis pcoa permutational analysis of variance
+ permanova tests and procrustes analysis were performed in qiime comparison of taxonomic count
+data and kegg modules between fecal samples collected from mice on a high fat diet and those
+collected from mice on a normal diet was performed using the mann whitney u test with false discovery
+rate fdr correction for multiple testing box plots bee swarm plots heat maps randomforest analyses 
+and two dimensional pcoa plots were generated using r we also performed spearman correlations
+between relative abundances of fungal and bacterial profiles and between relative abundances of fungal
+taxa and bacterial kegg modules and developed a permutation based test of the spearman correlation
+test statistic with permutations to test for conserved correlations between diets and bugbase
+phenotypes using r we plotted a network of fungal and bacterial pairs that significantly correlated with
+an fdr corrected p value of � with cytoscape 
+
+qpcr quantitative real time pcr qpcr analysis was performed on a limited number of samples as
+an additional method to characterize fungal presence in the samples all fecal dna samples were
+subjected to qpcr roche lightcycler roche indianapolis in with universal fungal primers in
+addition a subset of five fecal samples as well as chow samples was subjected to qpcr using fungal
+species specific primers qpcr protocols were performed as previously described by our research group
+ and included negative no template controls to study the potential for contamination of samples
+with exogenous fungal dna 
+
+availability of data sequencing results are available in the sequence read archive sra database
+at ncbi under bioproject id prjna r scripts are posted at http galelab umn edu 
+
+supplemental material
+supplemental material for this article may be found at https doi org 
+
+msphere 
+fig s pdf file mb 
+fig s pdf file mb 
+fig s pdf file mb 
+
+fungal bacterial dysbiosis and high fat diet
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http www ncbi nlm nih gov bioproject term prjna 
+http galelab umn edu 
+https doi org msphere 
+https doi org msphere 
+msphere asm org
+http msphere asm org 
+
+
+fig s pdf file mb 
+fig s pdf file mb 
+fig s pdf file mb 
+fig s pdf file mb 
+fig s pdf file mb 
+fig s pdf file mb 
+
+acknowledgments
+we are grateful to sara gonia for technical assistance and helpful discussions during
+
+preparation of the manuscript 
+e m was supported by the robert tournut award of the french national society of
+
+gastroenterology this work was further supported in part by nih dk and
+dk to l n w and a minnesota viking children’s research fund award to c a g 
+funding agencies had no role in study design data collection and interpretation or the
+decision to submit the work for publication 
+
+we declare that we have no competing financial interests 
+t h contributed to the design of the study prepared dna amplicons for sequenc 
+
+ing assisted with sequence and bioinformatic analyses and wrote the manuscript e m 
+a j and g a g performed microbiome bioinformatic analyses and contributed to
+manuscript writing y w l performed all metabolic testing of animals analyzed animal
+data and edited the manuscript l n w contributed to the conception and design of
+the study analyzed the data and edited the manuscript d k contributed to the
+conception and design of the study assisted with bioinformatic analyses and edited
+the manuscript c a g contributed to the conception and design of the study data
+analysis and manuscript writing 
+
+references
+ hildebrandt ma hoffmann c sherrill mix sa keilbaugh sa hamady m 
+
+chen yy knight r ahima rs bushman f wu gd high fat diet
+determines the composition of the murine gut microbiome indepen 
+dently of obesity gastroenterology – e https doi org 
+ j gastro 
+
+ ravussin y koren o spor a leduc c gutman r stombaugh j knight
+r ley re leibel rl responses of gut microbiota to diet compo 
+sition and weight loss in lean and obese mice obesity – 
+https doi org oby 
+
+ caesar r fåk f bäckhed f effects of gut microbiota on obesity
+and atherosclerosis via modulation of inflammation and lipid metabo 
+lism j intern med – https doi org j 
+ x 
+
+ tilg h moschen ar microbiota and diabetes an evolving relation 
+ship gut – https doi org gutjnl 
+
+ turnbaugh pj bäckhed f fulton l gordon ji diet induced obe 
+sity is linked to marked but reversible alterations in the mouse distal gut
+microbiome cell host microbe – https doi org j
+ chom 
+
+ bäckhed f ley re sonnenburg jl peterson da gordon ji 
+host bacterial mutualism in the human intestine science 
+ – https doi org science 
+
+ turnbaugh pj ley re mahowald ma magrini v mardis er gordon ji 
+ an obesity associated gut microbiome with increased capacity
+for energy harvest nature – https doi org 
+nature 
+
+ de la serre cb de lartigue g raybould he chronic exposure to
+low dose bacterial lipopolysaccharide inhibits leptin signaling in vagal
+afferent neurons physiol behav – https doi org j
+ physbeh 
+
+ de lartigue g barbier de la serre c espero e lee j raybould he 
+leptin resistance in vagal afferent neurons inhibits cholecystokinin
+signaling and satiation in diet induced obese rats plos one e 
+https doi org journal pone 
+
+ cani pd bibiloni r knauf c waget a neyrinck am delzenne nm burcelin
+r changes in gut microbiota control metabolic endotoxemia 
+
+induced inflammation in high fat diet induced obesity and diabetes in
+mice diabetes – https doi org db 
+
+ daniel h gholami am berry d desmarchelier c hahne h loh g 
+mondot s lepage p rothballer m walker a böhm c wenning m 
+wagner m blaut m schmitt kopplin p kuster b haller d clavel t 
+high fat diet alters gut microbiota physiology in mice isme j – 
+https doi org ismej 
+
+ human microbiome project consortium structure function and
+diversity of the healthy human microbiome nature – 
+https doi org nature 
+
+ turnbaugh pj hamady m yatsunenko t cantarel bl duncan a ley re 
+sogin ml jones wj roe ba affourtit jp egholm m henrissat b heath
+ac knight r gordon ji a core gut microbiome in obese and lean
+twins nature – https doi org nature 
+
+ dollive s chen yy grunberg s bittinger k hoffmann c vandivier l cuff
+c lewis jd wu gd bushman fd fungi of the murine gut 
+episodic variation and proliferation during antibiotic treatment plos
+one e https doi org journal pone 
+
+ heisel t podgorski h staley cm knights d sadowsky mj gale ca 
+complementary amplicon based genomic approaches for the study of
+fungal communities in humans plos one e https doi org 
+ journal pone 
+
+ iliev id funari va taylor kd nguyen q reyes cn strom sp brown j 
+becker ca fleshner pr dubinsky m rotter ji wang hl mcgovern dp 
+brown gd underhill dm interactions between commensal fungi
+and the c type lectin receptor dectin influence colitis science 
+ – https doi org science 
+
+ latuga ms ellis jc cotton cm goldberg rn wynn jl jackson rb seed
+pc beyond bacteria a study of the enteric microbial consortium in
+extremely low birth weight infants plos one e https doi org 
+ journal pone 
+
+ mar rodríguez m pérez d javier chaves f esteve e marin garcia p xifra
+g vendrell j jové m pamplona r ricart w portero otin m chacón mr 
+fernández real jm obesity changes the human gut mycobiome 
+sci rep https doi org srep 
+
+ suhr mj hallen adams he the human gut mycobiome pitfalls
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org j gastro 
+https doi org j gastro 
+https doi org oby 
+https doi org j x
+https doi org j x
+https doi org gutjnl 
+https doi org j chom 
+https doi org j chom 
+https doi org science 
+https doi org nature 
+https doi org nature 
+https doi org j physbeh 
+https doi org j physbeh 
+https doi org journal pone 
+https doi org db 
+https doi org ismej 
+https doi org nature 
+https doi org nature 
+https doi org journal pone 
+https doi org journal pone 
+https doi org journal pone 
+https doi org science 
+https doi org journal pone 
+https doi org journal pone 
+https doi org srep 
+msphere asm org
+http msphere asm org 
+
+
+and potentials—a mycologist’s perspective mycologia – 
+https doi org 
+
+ arumugam m raes j pelletier e le paslier d yamada t mende dr 
+fernandes gr tap j bruls t batto jm bertalan m borruel n casellas f 
+fernandez l gautier l hansen t hattori m hayashi t kleerebezem m 
+kurokawa k leclerc m levenez f manichanh c nielsen hb nielsen t 
+pons n poulain j qin j sicheritz ponten t tims s torrents d ugarte e 
+zoetendal eg wang j guarner f pedersen o de vos wm brunak s 
+doré j metahit consortium antolin m artiguenave f blottiere hm 
+almeida m brechot c cara c chervaux c cultrone a delorme c 
+denariaz g dervyn r foerstner ku friss c van de guchte m guedon e 
+haimet f huber w van hylckama vlieg j jamet a juste c kaci g knol
+j lakhdari o layec s le roux k maguin e mérieux a melo minardi r 
+m’rini c muller j oozeer r parkhill j renault p rescigno m sanchez n 
+sunagawa s torrejon a turner k vandemeulebrouck g varela e 
+winogradsky y zeller g weissenbach j ehrlich sd bork p en 
+terotypes of the human gut microbiome nature – https 
+doi org nature 
+
+ qin j li r raes j arumugam m burgdorf ks manichanh c nielsen t 
+pons n levenez f yamada t mende dr li j xu j li s li d cao j wang
+b liang h zheng h xie y tap j lepage p bertalan m batto jm hansen
+t le paslier d linneberg a nielsen hb pelletier e renault p sicheritz 
+ponten t turner k zhu h yu c li s jian m zhou y li y zhang x li
+s qin n yang h wang j brunak s dore j guarner f kristiansen k 
+pedersen o parkhill j weissenbach j a human gut microbial gene
+catalogue established by metagenomic sequencing nature – 
+https doi org nature 
+
+ national center for biotechnology information blast basic local
+alignment search tool national center for biotechnology information 
+national institutes of health bethesda md http blast ncbi nlm nih
+ gov blast cgi 
+
+ huffnagle gb noverr mc the emerging world of the fungal
+microbiome trends microbiol – https doi org j tim
+ 
+
+ liu ps lin yw lee b mccrady spitzer sk levine ja wei ln 
+reducing rip expression in macrophage alters atm infiltration fa 
+cilitates white adipose tissue browning and prevents high fat diet 
+induced insulin resistance diabetes – https doi org 
+ db 
+
+ liaw a wiener m classification and regression by randomforest 
+r news – 
+
+ ley re bäckhed f turnbaugh p lozupone ca knight rd gordon ji 
+ obesity alters gut microbial ecology proc natl acad sci u s a
+ – https doi org pnas 
+
+ koh ay murine models of candida gastrointestinal colonization
+and dissemination eukaryot cell – https doi org 
+ec 
+
+ ward t larson j meulemans j hillmann b lynch j sidiropoulos d 
+spear j caporaso g blekhman r knight r fink r knights d 
+bugbase predicts organism level microbiome phenotypes biorxiv
+https doi org 
+
+ kanehisa m goto s kegg kyoto encyclopedia of genes and
+genomes nucleic acids res – https doi org nar 
+ 
+
+ hoffmann c dollive s grunberg s chen j li h wu gd lewis jd 
+bushman fd archaea and fungi of the human gut microbiome 
+correlations with diet and bacterial residents plos one e 
+https doi org journal pone 
+
+ borgo f verduci e riva a lassandro c riva e morace g borghi e 
+relative abundance in bacterial and fungal gut microbes in obese
+children a case control study child obes – https doi org 
+ chi 
+
+ chehoud c albenberg lg judge c hoffmann c grunberg s bittinger
+k baldassano rn lewis jd bushman fd wu gd fungal signature
+in the gut microbiota of pediatric patients with inflammatory bowel
+disease inflamm bowel dis – https doi org mib
+ 
+
+ kühbacher t ott sj helwig u mimura t rizzello f kleessen b gionch 
+etti p blaut m campieri m fölsch ur kamm ma schreiber s 
+bacterial and fungal microbiota in relation to probiotic therapy vsl 
+in pouchitis gut – https doi org gut 
+
+ mukhopadhya i hansen r meharg c thomson jm russell rk berry sh 
+el omar em hold gl the fungal microbiota of de novo paediatric
+
+inflammatory bowel disease microbes infect – https doi
+ org j micinf 
+
+ ott sj kühbacher t musfeldt m rosenstiel p hellmig s rehman a drews
+o weichert w timmis kn schreiber s fungi and inflammatory
+bowel diseases alterations of composition and diversity scand j gastroen 
+terol – https doi org 
+
+ gao j ghibaudi l van heek m hwa jj characterization of diet 
+induced obese rats that develop persistent obesity after months of
+high fat followed by month of low fat diet brain res – https 
+doi org s 
+
+ johnston sl souter dm tolkamp bj gordon ij illius aw kyriazakis i 
+speakman jr intake compensates for resting metabolic rate
+variation in female c bl j mice fed high fat diets obesity 
+ – https doi org oby 
+
+ mccullough mj clemons kv mccusker jh stevens da species
+identification and virulence attributes of saccharomyces boulardii nom 
+inval j clin microbiol – 
+
+ de araujo dr tsuneda ss cereda cm carvalho fdgf preté ps fer 
+nandes sa yokaichiya f franco mk mazzaro i fraceto lf braga adfa 
+de paula e development and pharmacological evaluation of
+ropivacaine hydroxypropyl beta cyclodextrin inclusion complex eur j
+pharm sci – https doi org j ejps 
+
+ everard a matamoros s geurts l delzenne nm cani pd saccha 
+romyces boulardii administration changes gut microbiota and reduces
+hepatic steatosis low grade inflammation and fat mass in obese and
+type diabetic db db mice mbio e https doi org 
+mbio 
+
+ neyrinck am possemiers s verstraete w de backer f cani pd delzenne
+nm dietary modulation of clostridial cluster xiva gut bacteria
+ roseburia spp by chitin glucan fiber improves host metabolic altera 
+tions induced by high fat diet in mice j nutr biochem – https 
+doi org j jnutbio 
+
+ lee ds ko w quang th kim ks sohn jh jang jh ahn js kim yc oh
+h penicillinolide a a new anti inflammatory metabolite from the
+marine fungus penicillium sp sf mar drugs – https 
+doi org md 
+
+ frey klett p burlinson p deveau a barret m tarkka m sarniguet a 
+ bacterial fungal interactions hyphens between agricultural clini 
+cal environmental and food microbiologists microbiol mol biol rev
+ – https doi org mmbr 
+
+ shirtliff me peters bm jabra rizk ma cross kingdom interactions 
+candida albicans and bacteria fems microbiol lett – https doi
+ org j x 
+
+ wargo mj hogan da fungal bacterial interactions a mixed bag
+of mingling microbes curr opin microbiol – https doi org 
+ j mib 
+
+ treiber lr reamer ra rooney cs ramjit hg origin of monacolin
+l from aspergillus terreus cultures j antibiot – https doi org 
+ antibiotics 
+
+ jang je choi hr lee j h in jp lee jm kim sp jin jh park th choi mj 
+lee tb the effect of rice with aspergillus terreus on lipid metab 
+olism in rats korean j food sci technol – https doi org 
+ kjfst 
+
+ zanello g meurens f berri m salmon h saccharomyces boulardii
+effects on gastrointestinal diseases curr issues mol biol – 
+
+ wu x vallance ba boyer l bergstrom ks walker j madsen k o’kusky
+jr buchan am jacobson k saccharomyces boulardii ameliorates
+citrobacter rodentium induced colitis through actions on bacterial viru 
+lence factors am j physiol gastrointest liver physiol g –g 
+https doi org ajpgi 
+
+ agler mt ruhe j kroll s morhenn c kim st weigel d kemen em 
+microbial hub taxa link host and abiotic factors to plant microbiome
+variation plos biol e https doi org journal pbio
+ 
+
+ caporaso jg kuczynski j stombaugh j bittinger k bushman fd 
+costello ek fierer n peña ag goodrich jk gordon ji huttley ga kelley
+st knights d koenig je ley re lozupone ca mcdonald d muegge bd 
+pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j 
+yatsunenko t zaneveld j knight r qiime allows analysis of high 
+throughput community sequencing data nat methods – https 
+doi org nmeth f 
+
+ al ghalith g knights d burst an ultrafast optimal aligner for
+mapping large ngs data to large genome databases https github
+ com knights lab burst 
+
+fungal bacterial dysbiosis and high fat diet
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org 
+https doi org nature 
+https doi org nature 
+https doi org nature 
+http blast ncbi nlm nih gov blast cgi
+http blast ncbi nlm nih gov blast cgi
+https doi org j tim 
+https doi org j tim 
+https doi org db 
+https doi org db 
+https doi org pnas 
+https doi org ec 
+https doi org ec 
+https doi org 
+https doi org nar 
+https doi org nar 
+https doi org journal pone 
+https doi org chi 
+https doi org chi 
+https doi org mib 
+https doi org mib 
+https doi org gut 
+https doi org j micinf 
+https doi org j micinf 
+https doi org 
+https doi org s 
+https doi org s 
+https doi org oby 
+https doi org j ejps 
+https doi org mbio 
+https doi org mbio 
+https doi org j jnutbio 
+https doi org j jnutbio 
+https doi org md 
+https doi org md 
+https doi org mmbr 
+https doi org j x
+https doi org j x
+https doi org j mib 
+https doi org j mib 
+https doi org antibiotics 
+https doi org antibiotics 
+https doi org kjfst 
+https doi org kjfst 
+https doi org ajpgi 
+https doi org journal pbio 
+https doi org journal pbio 
+https doi org nmeth f 
+https doi org nmeth f 
+https github com knights lab burst
+https github com knights lab burst
+msphere asm org
+http msphere asm org 
+
+
+ kõljalg u nilsson rh abarenkov k tedersoo l taylor af bahram m 
+bates st bruns td bengtsson palme j callaghan tm douglas b dren 
+khan t eberhardt u dueñas m grebenc t griffith gw hartmann m kirk
+pm kohout p larsson e lindahl bd lücking r martín mp matheny pb 
+nguyen nh niskanen t oja j peay kg peintner u peterson m põldmaa
+k saag l saar i schüßler a scott ja senés c smith me suija a taylor
+dl telleria mt weiss m larsson kh towards a unified paradigm
+for sequence based identification of fungi mol ecol – 
+https doi org mec 
+
+ schoch cl seifert ka huhndorf s robert v spouge jl levesque ca 
+chen w fungal barcoding consortium nuclear ribosomal internal
+transcribed spacer its region as a universal dna barcode marker for
+fungi proc natl acad sci u s a – https doi org 
+pnas 
+
+ desantis tz hugenholtz p larsen n rojas m brodie el keller k huber
+
+t dalevi d hu p andersen gl greengenes a chimera checked
+ s rrna gene database and workbench compatible with arb appl
+environ microbiol – https doi org aem 
+
+ edgar rc search and clustering orders of magnitude faster
+than blast bioinformatics – https doi org 
+bioinformatics btq 
+
+ lozupone ca knight r species divergence and the measurement
+of microbial diversity fems microbiol rev – https doi org 
+ j x 
+
+ r core team r a language and environment for statistical com 
+puting r foundation for statistical computing vienna austria https 
+www r project org 
+
+ saito r smoot me ono k ruscheinski j wang pl lotia s pico ar bader
+gd ideker t a travel guide to cytoscape plugins nat methods
+ – https doi org nmeth 
+
+heisel et al 
+
+september october volume issue e msphere asm org 
+
+ on june by guest
+http m
+
+sphere asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org mec 
+https doi org pnas 
+https doi org pnas 
+https doi org aem 
+https doi org bioinformatics btq 
+https doi org bioinformatics btq 
+https doi org j x
+https doi org j x
+https www r project org
+https www r project org
+https doi org nmeth 
+msphere asm org
+http msphere asm org 
+
+	results
+	mice fed a high fat diet harbor gut fungal and bacterial communities that differ from those in mice fed standard chow 
+	fungal microbiomes of mouse feces differ from those present in the corresponding mouse chow 
+	diet specific intrakingdom coabundance correlations exist in the mouse gut 
+	diet specific fungal bacterial interkingdom coabundance correlations exist in the mouse gut 
+	fungal taxa correlate with bacterial kegg modules 
+
+	discussion
+	materials and methods
+	animals 
+	metabolic phenotyping i gtt and itt 
+	 ii oxygen consumption 
+	 iii metabolic biomarker assays 
+	fungal its amplicon generation and sequencing 
+	bacterial s rrna gene amplification and sequencing 
+	microbial community analysis i fungi 
+	 ii bacteria 
+	 iii statistical analyses 
+	qpcr 
+	availability of data 
+
+	supplemental material
+	acknowledgments
+	references
+
+

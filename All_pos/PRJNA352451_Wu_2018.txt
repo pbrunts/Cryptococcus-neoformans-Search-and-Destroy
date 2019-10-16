@@ -1,0 +1,1632 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contributions of ryegrass lignin and rhamnolipid to polycyclic aromatic hydrocarbon dissipation in an arable soil
+
+
+contents lists available at sciencedirect
+
+soil biology and biochemistry
+
+journal homepage www elsevier com locate soilbio
+
+contributions of ryegrass lignin and rhamnolipid to polycyclic aromatic
+hydrocarbon dissipation in an arable soil
+
+yucheng wua b qingmin dinga b qinghe zhua b c jun zenga b rong jid marc g dumonte 
+xiangui lina b ∗
+
+a key laboratory of soil environment and pollution remediation institute of soil science chinese academy of sciences nanjing china
+b joint open laboratory of soil and the environment hong kong baptist university institute of soil science chinese academy of sciences nanjing china
+cuniversity of chinese academy of sciences beijing china
+d state key laboratory of pollution control and resource reuse school of the environment nanjing university nanjing china
+e biological sciences university of southampton southampton so bj uk
+
+a r t i c l e i n f o
+
+keywords 
+polycyclic aromatic hydrocarbon
+biostimulation
+rhizoremediation
+biosurfactant
+mineralization
+microbial community
+
+a b s t r a c t
+
+bioremediation of polycyclic aromatic hydrocarbon pah contaminated soil is often limited by inadequate
+microbial activity and or low pah bioavailability a pot experiment was performed with an aged contaminated
+arable soil to explore the remediation potential of ryegrass and lignin which are believed to improve microbial
+degradation as well as the biosurfactant rhamnolipid on average the concentration of priority pahs was
+reduced by in the combined ryegrass lignin and rhamnolipid treatment after days in contrast there
+was no reduction in pah concentration when each treatment was used alone the rhamnolipid was beneficial for
+successful remediation as shown by the lack of pah transformation in all non rhamnolipid treatments the total
+amount of pahs that accumulated in ryegrass biomass was less than of the initial amount in the pot when
+the theoretical estimate of plant uptake was considered it suggested that rhizoremediation rather than direct
+uptake contributed to pah dissipation high throughput sequencing analysis demonstrated that lignin addition
+substantially changed the fungal and bacterial communities however there was no indication that lignin se 
+lected for known bacterial pah degraders nevertheless a c benz a anthracene spiked microcosm experi 
+ment showed that lignin amendment led to enhanced pah mineralization and nonextractable residue formation 
+taken together these findings highlight the importance of selecting bioremediation treatments that can si 
+multaneously stimulate microbial activity and increase pah bioavailability to achieve remediation effectively 
+treatments incorporating rhizoremediation biostimulation and biosurfactant addition hold promise for detox 
+ifying aged pah contaminated agricultural soil 
+
+ introduction
+
+polycyclic aromatic hydrocarbons pahs have two or more fused
+benzene rings and are predominantly formed during incomplete com 
+bustion of mineral fuels and biomass the most recent estimate in 
+dicates that more than × tons of the us environment
+protection agency usepa priority pahs are released into the en 
+vironment each year globally zhang and tao which may cause
+significant soil pollution through atmospheric deposition pahs are
+detected in soils around the world wilcke and have been
+identified as major organic pollutants in agricultural soils of china lu
+et al thus these chemicals pose potential human health risks
+via the food chain as such remediation measures should be taken for
+pah polluted agricultural soils 
+
+bioremediation is a promising approach to detoxifying pah con 
+taminated soil through biological processes gan et al many
+bacteria can use pahs as carbon and energy sources resulting in their
+mineralization however pahs with ≥ rings high molecular weight
+pahs hmw pahs are relatively resistant to bacterial degradation
+because of their high hydrophobicity and stability bamforth and
+singleton compared to bacteria fungi have different mechan 
+isms for transforming pahs such as extracellular ligninolytic enzymes
+and intracellular cytochrome p monooxygenases harms et al 
+ and mounting evidence suggests that fungi are a potential re 
+source for the clean up of hmw pah polluted soil aranda 
+
+a series of strategies have been developed to enhance microbial
+degradation of pahs biostimulation the addition of a bulking agent to
+stimulate soil microbes is among the most common in situ treatments of
+
+https doi org j soilbio 
+received june received in revised form november accepted november 
+
+∗ corresponding author key laboratory of soil environment and pollution remediation institute of soil science chinese academy of sciences nanjing china 
+e mail address xglin issas ac cn x lin 
+
+soil biology and biochemistry – 
+
+available online december 
+ © elsevier ltd all rights reserved 
+
+t
+
+http www sciencedirect com science journal 
+https www elsevier com locate soilbio
+https doi org j soilbio 
+https doi org j soilbio 
+mailto xglin issas ac cn
+https doi org j soilbio 
+http crossmark crossref org dialog doi j soilbio domain pdf
+
+
+agricultural soil for example successful reduction of hmw pahs was
+achieved by the addition of lignin rich materials lladó et al 
+because ligninolytic enzymes such as lip mnp and laccase have ex 
+ceptional capacities for pah transformation and may contribute to soil
+pah dissipation through co metabolic mechanisms wu et al b 
+phytoremediation is another green technology for remediation of con 
+taminated soil among others ryegrass has a vast root system and has
+been widely used in bioremediation gan et al plants may
+enhance pah dissipation by direct uptake phytoextraction or through
+rhizospheric processes rhizoremediation alkorta and garbisu 
+stimulation of rhizosphere microbes by root exudates tends to be the
+primary mechanism of rhizoremediation as shown by a comprehensive
+analysis of rhizospheric microbial degraders bourceret et al 
+nevertheless the contribution of plant uptake has rarely been assessed
+ gao and zhu 
+
+one crucial issue affecting biological transformation is the avail 
+ability of pollutants surfactants are often used to increase the water
+solubility of hydrophobic organic pollutants enhancing plant uptake
+ zhu and zhang and improving microbial degradation
+ fernando bautista et al compared to synthetic surfactants that
+could be toxic to microorganisms biosurfactants appear to be a safe
+alternative due to their biodegradability and biocompatibility
+ Ławniczak et al rhamnolipid is a biosurfactant produced by
+pseudomonas aeruginosa and has shown potential in improving pah
+bioavailability thus is useful in the remediation of aged contaminated
+soil mulligan 
+
+in practice remediation strategies are often combined for optimal
+pollutant removal for example surfactants coupled with biostimula 
+tion or phytoremediation combined with microbial inoculation are
+often more effective in remediation of aged polluted soil than any
+measure in isolation johnson et al lladó et al in this
+study we assessed the bioremediation of a long term polluted arable
+soil using three strategies namely phytoremediation ryegrass bios 
+timulation lignin addition and biosurfactant enhancement rhamno 
+lipid addition soil pah dissipation and plant uptake were monitored 
+also quantitative pcr and high throughput sequencing were used to
+detect shifts in the soil bacterial and fungal communities a second
+microcosm experiment was performed to examine the effects of lignin
+and rhamnolipid on freshly spiked c benz a anthracene in the same
+arable soil both mineralization and soil fractionation of the c pah
+were determined the aims of this study were therefore to evaluate
+the combined strategies in terms of soil detoxification to estimate
+the contributions of ryegrass lignin and rhamnolipid to pah dissipa 
+tion and to explore the mechanisms underlying the pah dissipa 
+tion 
+
+ materials and methods
+
+ soil
+
+the arable soil used in the study was collected on sep near a
+smelting plant in nanjing jiangsu province china ° ′ ″n 
+ ° ′ ″e at the time of sampling the farmland was used for maize
+cultivation the soil is a sandy loam with a ph of g kg− of
+total carbon g kg− of total nitrogen g kg− of total phos 
+phorus and g kg− of potassium as k o the bulk density of the
+soil was g cm− the total amount of usepa priority pahs
+ excluding acenaphthylene in this arable soil was mg kg− 
+consisting of ring ring ring and 
+ring pahs specifically the concentration of benz a anthracene in the
+soil was mg kg− the soil was air dried sieved mm homo 
+genized and stored at room temperature in the dark 
+
+ pot experiment
+
+for the pot experiment kg of air dried soil was added to each
+
+plastic pot of cm diameter and the soil moisture was adjusted to
+ water holding capacity whc at the beginning of the incubation 
+seven treatments including an unamended control were established in
+four replicates as shown in table for each planted pot ryegrass
+ lolium multiflorum lam plantlets from the germination of seeds on
+moist perlite for days were transplanted alkali lignin sigma aldrich 
+was spiked into the soil at a concentration of w w and well mixed 
+prior to the moisture adjustment on day and ml of g l− 
+
+rhamnolipid mixture of mono and di rhamnolipid critical mi 
+celle concentration cmc mg l− zijin biotech huzhou china 
+solution was slowly poured on the soil surface giving a final con 
+centration of mg kg− soil during the incubation the pots were
+irrigated every – days to keep the soil moisture 
+
+after a day incubation in a greenhouse a composite sample
+composed of five soil cores approximately cm in depth was col 
+lected from each pot with an auger sampler a g subsample was
+stored at − °c for molecular analysis and the remaining sample was
+air dried sieved and stored at °c until pah analysis ryegrass roots
+and shoots were separately harvested rinsed dried and homogenized
+prior to pah determination 
+
+ pah analysis
+
+pahs in soil and ryegrass were extracted and determined as pre 
+viously described with minor modifications wu et al b briefly 
+ g of soil or g of plant sample was spiked with μg fluor 
+opyrene dissolved in acetone as an internal standard and was extracted
+on a soxhlet apparatus with dichloromethane for h prior to the
+ultra fast liquid chromatography uflc system shimadzu kyoto 
+japan analysis the extracts were concentrated and purified with ac 
+tivated silica gel fifteen of the priority pahs excluding ace 
+naphthylene were determined with a reversed phase c column
+ shim pack xr odsii kyoto japan all concentrations are presented
+based on a soil dry weight the toxic equivalency factors tefs of pahs
+were obtained from the literature nisbet and lagoy 
+
+ dna extraction and quantitative pcr
+
+soil dna was extracted from about g of sample with a fastdna
+spin kit for soil mp biomedicals oh following the manufacturer s
+instructions the quality and quantity of dna were assessed with a
+nanodrop spectrophotometer thermo de and by electrophor 
+esis tenfold diluted dna was used in all downstream analyses to avoid
+the inhibition of co extracted soil contaminants 
+
+bacterial s rrna fungal s rrna and bacterial pah ring hy 
+droxylating dioxygenase pah rhdα genes were enumerated by
+quantitative pcr qpcr with the primer sets f r stahl and
+amann muyzer et al nu ssu ˈ nu ssu ˈ
+ borneman and hartin and gp f gp r cébron et al 
+respectively qpcr was performed on a cfx instrument bio rad 
+based on sybr green chemistry triplicate reactions were run for each
+sample and the qpcr was performed as described previously wu
+et al all qpcr standards were generated by cloning the re 
+spective gene fragments into the plasmid peasy t transgen biotech 
+
+table 
+experimental treatments in the pot experiment 
+
+treatment ryegrass p lignin l rhamnolipid r 
+
+control – – –
+p – –
+l – –
+r – – 
+pl –
+pr – 
+plr 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+
+
+beijing china a dilution series of the standard plasmids across seven
+orders of magnitude – copies μl− was used the negative
+control used water as the template instead of dna extract the qpcr
+amplification efficiency was with an r value of for the
+bacterial s rrna genes with an r value of for the
+fungal s rrna genes and with an r value of for the
+gram positive bacterial pah rhdα genes amplification specificity
+was assessed by both melting curve analysis and electrophoresis 
+
+ miseq sequencing of bacterial s and fungal s rrna genes
+
+soil bacterial and fungal communities were analysed on the
+illumina miseq sequencing platform briefly the bacterial s rrna
+and fungal s rrna genes were amplified using the primers described
+above with the forward primers tagged with a nucleotide nt bar 
+code after verification by agarose gel electrophoresis an equimolar
+mixture of pcr amplicons for each soil sample was submitted for se 
+quencing major bio shanghai china 
+
+ sequence processing and analysis
+
+raw paired illumina miseq reads were assembled and analysed
+using qiime as described previously chu et al reads with an
+average quality score of were discarded operational taxonomic
+units otus were assigned using uclust edgar based on a
+threshold of sequence identity the taxonomy of a representative
+of each otu was achieved by alignment against the greengenes rrna
+gene database http greengenes lbl gov nonmetric multi 
+dimensional scaling nmds analysis was performed with an otu table
+using the vegan package of r a heatmap was generated with centered
+dominant phylotypes data using the r package pheatmap version 
+with phylotypes and samples aggregated into clusters using the com 
+plete neighbor method 
+
+co occurrence patterns in bacterial and fungal communities were
+examined by network analysis as previously described banerjee et al 
+ briefly linear correlations between dominant otus in each
+dataset which comprised of four replicates from one treatment and four
+ day samples were calculated with the mine software reshef et al 
+ the calculation was based on the most abundant bacterial
+and fungal otus of which the relative abundances were 
+of the total sequences in each dataset the networks were visualized in
+cytoscape shannon et al with only strong correlations
+shown r or r − network topology parameters were
+calculated using the networkanalyzer tool implemented in cytoscape 
+
+the sequences obtained in this study were deposited in the ncbi
+sequence read archive sra under the bioproject accession no 
+prjna 
+
+ c benz a anthracene microcosm experiment
+
+the fate including mineralization and distribution of – c 
+benz a anthracene american radiolabeled chemicals inc 
+ mci mmol− dissolved in ethanol radiochemical purity in
+this arable soil amended with lignin or rhamnolipid alone treatments
+ c l c r and with both c lr or neither c control was
+
+examined in triplicate ml pyrex tubes the amounts of added lignin
+and rhamnolipid were the same as the pot experiment 
+
+both c and unlabeled benz a anthracene baa was spiked into
+the soil following a process described previously wu et al b 
+giving the final radioactivity of mbq kg− and concentration of
+ mg kg− respectively after adjusting to whc the tubes were
+closed with stoppers equipped with alkali traps ml of m naoh and
+statically incubated at °c for weeks the naoh solution was
+periodically removed from the trap and the radioactivity was measured
+with a liquid scintillation counter beckman coulter usa as described
+previously wang et al b 
+
+ soil fractionation
+
+after the incubation the soil from c baa microcosms was freeze 
+dried and extracted with ml dichloromethane dcm on a soxhlet
+apparatus for h the extracts were evaporated and dissolved in
+acetonitrile and the radioactivity quantified by lsc was defined as a
+dcm extracted fraction 
+
+the nonextractable residues ner kästner et al were fur 
+ther fractionated into fulvic acids fa humic acids ha and humin
+following the method described by shan et al briefly 
+the residual soil after dcm extraction was air dried and was extracted
+with m oxygen free naoh for h by horizontal shaking the al 
+kaline extract was separated by centrifugation at g for min 
+and was fractionated into fa and ha by acidification with m hcl the
+alkaline insoluble residues were defined as humin fraction radio 
+activities in the fa and ha fractions were determined by lsc the
+humin samples approximately g were combusted at °c for
+ min on a biological oxidizer ox zinsser analytic germany 
+the c labeled co produced was absorbed with ml of alkaline
+cocktail oxysolve c zinsser analytic germany and counted by
+lsc 
+
+ statistics
+
+for multiple comparisons one way anova and tukey s post hoc test
+were carried out using spss spss with an α value of se 
+lected for significance student s t test was performed to determine
+whether differences existed between groups 
+
+ results
+
+ dissipation of pahs in the pot experiment
+
+after the day remediation the total amount of the pahs
+ Σpahs in the control pots was unchanged compared to the initial
+value fig a indicating negligible natural attenuation ryegrass p 
+lignin l or rhamnolipid r when used separately did not sig 
+nificantly change the pah concentrations a combination of two or
+three of the measures promoted pah dissipation resulting in
+ ± and ± Σpah removal in the pr rye 
+grass rhamnolipid and plr ryegrass lignin rhamnolipid 
+treatments respectively 
+
+transformation of individual pahs was related to their molecular
+
+control p l r pl pr plr
+ 
+
+ 
+
+ 
+
+ 
+
+pa
+h
+
+ re
+m
+
+ai
+ni
+
+ng
+ 
+
+ 
+
+dcd
+bc
+
+ab
+aabab
+
+ b a 
+
+control p l r pl pr plr
+ 
+
+ 
+
+ 
+
+ 
+
+b
+aa
+
+re
+m
+
+ai
+ni
+
+ng
+ 
+
+ a
+ab ab
+
+a
+
+bc
+cd
+
+d
+
+fig residuals of the sum of a the epa pahs and b benz
+ a anthracene compared to the values before remediation the
+results represent the mean ± sd of four replicate pots bars with
+the same letter on top were not significantly different p 
+anova 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+http greengenes lbl gov 
+
+
+weight the dissipation of low molecular weight pahs lmw pahs 
+such as the ring phenanthrene anthracene fluorene and ace 
+naphthene were generally stronger across all treatments fig s pahs
+with ≥ rings were more recalcitrant but the concentration of and
+ ring pahs decreased considerably in the combined ryegrass and
+rhamnolipid treatments pr and plr in plr pots ± of 
+ring and ± of ring pahs were dissipated the pahs with
+tef ≥ were considerably reduced in pr and plr compared to
+control pots fig s in the case of benz a anthracene the removal
+was ± in pr and ± in plr while use of lignin
+alone did not improve the dissipation fig b compared to the pr
+treatment the plr treatment showed enhanced reduction of other
+hmw pahs including benzo b fluoranthene benzo k fluoranthene and
+benzo a pyrene fig s 
+
+ pahs in the roots and shoots of ryegrass
+
+lignin addition significantly decreased the biomass of both shoots
+and roots fig a pah concentrations in ryegrass biomass ranged
+from ± to ± μg kg− dry weight in treatments p and
+pl shoot pah concentrations were significantly higher than the root 
+pah concentrations while in rhamnolipid treatments pr and plr the
+pah concentrations in shoots and roots were not significantly different
+ fig b the calculated Σpahs in ryegrass shoots and roots per pot
+was between ± μg in the plr treatment to ± μg
+in the p treatment fig c which corresponds to less than of the
+pahs in the kg pot of polluted soil 
+
+despite the dominance of hmw pahs ≥ ring in the original soil 
+lmw pahs were the major component in ryegrass shoots and
+
+comprised of the total amount fig while and ring pahs
+were relatively less in contrast the roots had higher and ring
+fractions than the shoots addition of rhamnolipid did not significantly
+change the pah profile in the roots and shoots however lignin caused
+an increase of the ring fraction in the roots 
+
+ gene abundances
+
+significant p treatment effects were observed on the
+abundance of bacterial s rrna fungal s rrna and gp pah rhdα
+genes after the day remediation fig for the bacterial s rrna
+genes there were similar copy numbers in treatment p and control pots 
+rhamnolipid slightly enhanced the bacterial growth at a non significant
+level and a nearly two fold increase was observed in all lignin treated
+samples fig a this pattern of lignin stimulation was also found
+with the fungal s rrna gene fig b although the copies were
+normally two orders of magnitude lower than that of the bacterial
+counterpart despite a failure to detect the gn pah rhdα gene the gp
+pah rhdα gene was successfully amplified from all samples there
+was no relationship between pah dissipation and pah rhdα gene
+abundance as indicated by the similar copy numbers in pr and plr 
+treated soils with those in other treatments fig c 
+
+ changes in bacterial and fungal communities
+
+the illumina miseq sequencing generated million bacterial s
+rrna gene reads after quality control to reads for each
+sample were obtained the dominant phyla in the soils were
+proteobacteria acidobacteria actinobacteria chloroflexi and
+
+root
+
+shoot
+
+ c b a 
+
+p prpl plr
+ 
+
+ 
+
+ 
+
+ 
+
+d
+ry
+
+ w
+ei
+
+gh
+t 
+
+g 
+
+pa
+h
+
+co
+nc
+
+en
+tra
+
+tio
+n
+
+ μ
+g 
+
+kg
+ 
+
+ 
+
+p prpl plr
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pa
+h
+
+ μ
+g 
+
+p prpl plr
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a a
+
+bb
+
+a
+
+ab
+a
+
+a
+
+abab
+
+bc
+
+b
+
+b
+b
+
+c
+b
+
+a a
+a a
+
+a
+a
+
+b
+
+ab
+
+
+ 
+
+fig shoot and root biomass a pah concentration b and calculated pah amounts c in shoots and roots of ryegrass the values represent the mean ± sd of four replicate pots 
+bars with the same lowercase or uppercase letter on top were not significantly different p anova asterisks indicate a significant p or student s t test 
+difference between shoot and root 
+
+soil
+p pl pr plr p pl pr plr
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ ring
+ ring
+ ring
+ ring
+ ring
+
+pa
+h
+
+ c
+om
+
+po
+si
+
+tio
+n 
+
+ 
+ 
+
+shootroot
+
+fig pah compositions in the original soil 
+shoots and roots of ryegrass after day cultiva 
+tion the values represent the mean ± sd of four
+replicate pots 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+
+
+bacteroidetes of which the relative abundances were consistently 
+ across all treatments an nmds analysis revealed a clear separation
+of treatments depending on the presence or absence of lignin fig a 
+meanwhile the effects of ryegrass and rhamnolipid on community
+composition were comparatively small changes in relative abundance
+of the dominant bacterial phylotypes among the treatments were re 
+vealed by a heatmap analysis fig s interestingly the influence of
+lignin on the dominant bacterial otus was largely different across the
+treatments although a few phylotypes affiliated with xanthomonadales
+and myxococcales were consistently enriched 
+
+in total million eukaryotic s rrna gene reads were gener 
+ated with – sequences obtained from each library after
+removing non fungal sequences which varied from to of each
+library most sequences clustered with ascomycota within which those
+from sordariomycetes were the most abundant the fungal commu 
+nities of lignin amended soils were distinct from those in the other
+treatments fig b albeit there were two outliers from the pl treat 
+ment some phylotypes within ascomycota or chytridiomycota were
+consistently enriched or diminished in all lignin treated pots fig s 
+ryegrass appeared to be beneficial to glomeromycota a potential plant
+symbiont 
+
+the network analysis identified considerable changes in the co oc 
+currence patterns in response to the treatments the networks of
+combined treatments pl pr and plr had more average neighbors
+and shorter characteristic path lengths than when used alone p l r 
+or in the control table in particular ryegrass increased the number
+of edges connected to a few fungal nodes for example the arbuscular
+mycorrhizal fungus diversispora within glomeromycota fig s 
+
+ fate of baa in artificially contaminated microcosms
+
+in the arable soil ± of the spiked c baa was mi 
+neralized at an almost constant rate over the weeks in the c 
+control microcosms fig a addition of lignin increased the final
+mineralization to ± in c l microcosms rhamnolipid did
+not significantly stimulate c co emission but the highest miner 
+alization was observed in the combined lignin and rhamnolipid treat 
+ment ± in c lr indeed mineralization in the rham 
+nolipid microcosms c r and c lr was only slightly higher than in
+the respective non rhamnolipid microcosms c control and c l 
+
+in addition to assessing mineralization the residual c was as 
+sessed by fractionating into dcm extractable and nonextractable re 
+sidues ner fig b the dcm extract contained a major fraction of
+the spiked radioactivity – across the four treatments al 
+though the chemical species of the c atoms were unknown based on
+the solubility in alkaline and acidic solutions the ner was further
+fractionated into fa ha and humin bound residues the c asso 
+ciated with fa represented a tiny fraction approximately which
+was fold less than those bound to humin there was no significant
+difference between treatments for the fa and humin fractions how 
+ever as observed for the mineralization addition of lignin significantly
+increased the radioactivity bound to ha in the c l and c lr mi 
+crocosms 
+
+ discussion
+
+ enhanced pah dissipation by simultaneous improvement of microbial
+degradation and pollutant bioavailability
+
+the contaminated soil used in this study was collected from an
+agricultural plot near an iron smelting plant which has been in op 
+eration for more than years a previous study revealed wide pah
+contamination in agricultural soils around this smelting plant wu
+et al a the total amount of pahs before the remediation was
+much higher than that observed in agricultural soils from the yangtse
+delta of china ping et al and the ring benzo a pyrene con 
+centration was fold higher than an agricultural soil quality standard
+ μg kg− ccme 
+
+the pah dissipation in the pot experiment after the day in 
+cubation highlights the importance of simultaneous enhancement of
+
+ a bacterial s rrna b fungal s rrna c pah rhdα
+
+control p l r pl pr plr
+ 
+
+  
+
+  
+
+  
+
+c
+op
+
+ie
+s 
+
+g 
+ 
+
+a a
+
+b b
+
+ab
+
+ab ab
+
+a a
+
+b
+b
+
+b
+ab ab
+
+control p l r pl pr plr
+ 
+
+  
+
+  
+
+  
+
+  
+
+a
+
+b
+b b
+
+b
+
+ab
+
+control p l r pl pr plr
+ 
+
+  
+
+  
+
+  
+
+ab
+
+fig abundances of bacterial s rrna a fungal s rrna b and gram positive pah rhdα genes c the values represent the mean ± sd of four replicate pots and bars with
+the same lowercase letter on top were not significantly different p anova 
+
+control
+p
+l
+r
+pl
+pr
+plr
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+stress 
+
+nmds 
+
+n
+m
+
+d
+s 
+
+ a bacteria
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stress 
+
+nmds 
+
+n
+m
+
+d
+s 
+
+ b fungi
+fig nonmetric multidimensional scaling nmds 
+analysis of bacterial a and fungal b communities
+with otus classified at a sequence similarity the
+dashed lines separate the lignin amended treatments
+from other treatments 
+
+table 
+selected parameters for each microbial network in the pot experiment 
+
+network nodes diameter average
+neighbors
+
+clustering
+coefficient
+
+characteristics
+path length
+
+control 
+p 
+l 
+r 
+pl 
+pr 
+plr 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+
+
+biological transformation and pollutant bioavailability this became
+more evident when ryegrass and lignin were included as a combined
+stimulating factor pl for soil microbes neither pl nor r treatment
+significantly enhanced pah dissipation whereas a combination of pl
+and r treatment plr reduced pahs to a greater extent fig in 
+deed surfactant is often indispensable for the remediation of long term
+contaminated soils mulligan interestingly in the c micro 
+cosm experiment the co mineralized from baa was only marginally
+promoted by the addition of rhamnolipid compare c control to c 
+r and c l to c lr in fig a it can be assumed that the freshly
+added baa had high bioavailability resulting in the similar miner 
+alization rates between the treatments with or without rhamnolipid
+application 
+
+the substantial changes in microbial communities induced by the
+plr treatment as well as the increased co production in the lignin 
+amended microcosms suggest the pah dissipation must have been
+related to microbial stimulation due to the lack of a lignin rhamnolipid
+combination treatment lr in the pot experiment the difference be 
+tween the effects of ryegrass and lignin in the presence of rhamnolipid
+could not be determined nevertheless the mechanisms underlying
+ryegrass and lignin enhanced pah dissipation could be explored with
+further analyses 
+
+ involvement of ryegrass in pah dissipation
+
+plants enhance pah dissipation through various mechanisms
+ alagić et al despite the lack of information on pah dynamics
+in ryegrass biomass during the remediation the contribution of the
+uptake and subsequent accumulation or transformation in ryegrass to
+pah dissipation appears to be small for one thing the pahs in rye 
+grass represented of that in the original soil fig suggesting
+negligible phytoaccumulation for another pah transformation within
+plants is normally slow and is insufficient to explain the pah dissipa 
+tion in the arable soil for example the fastest pah transformation in
+tall fescue was μg g− biomass d− gao et al which would
+correspond to a decrease of μg kg− in the planted pots after days
+of remediation assuming the same transformation rate for ryegrass 
+together with the translocation limits of hmw pahs in plants tao
+et al the pah dissipation in this arable soil are more likely to be
+associated with processes independent of the ryegrass uptake 
+
+ryegrass can promote hmw pah dissipation through rhizospheric
+processes ortega calvo et al including stimulation of mi 
+crobes although the copies of ribosomal rna and pah rhdα genes
+remained stable fig the community changes and fungal network in
+planted soil fig fig s suggest an impact of roots on indigenous
+microorganisms this influence was reflected in a general stimulation of
+rhizosphere microbes rather than an enrichment of known pah de 
+graders more sensitive approaches such as omic technologies oburger
+and schmidt will facilitate a direct assessment of the pah de 
+gradation activity of rhizosphere microbes 
+
+ possible mechanisms underlying lignin assisted remediation
+
+lignin in conjunction with ryegrass and rhamnolipid enhanced the
+dissipation of hmw pahs plr in fig particularly the highly toxic
+benzo a pyrene fig s the overall ∼ decrease in Σpahs in plr
+pots is extraordinary in light of the long pollution history of the site and
+of the possible formation of pahs from lignin grice et al the
+ c experiment offered a valuable opportunity to probe the mechanisms
+underlying the lignin enhanced pah remediation fig firstly as
+demonstrated by the increase in ha bound c in c l and c lr
+microcosms lignin enhances the formation of ner this is related to
+the production of reactive intermediates through chemical and biolo 
+gical processes wang et al a however the contribution of
+lignin enhanced ner formation to soil remediation in the pot experi 
+ment could be small because no significant baa dissipation was ob 
+served in the l treatment on the other hand more baa dis 
+sipation in plr than in pr pots suggests lignin is capable of stimulating
+microbial degradation of pahs fig b it should be noted that lignin
+is a complex polymer and whether the production of aromatic inter 
+mediates during its decomposition bugg et al stimulates mi 
+crobial pah degradation merits further study 
+
+it is very likely that lignin contributes to the soil detoxification by
+modification of the microbial community the fungal community was
+susceptible to lignin amendment as exemplified by the enrichment of
+several ascomycetes ascomycota are a useful resource for remediation
+of hazardous chemicals aranda though very little information
+is available about pah transformation by the enriched ascomycetes in
+lignin treated samples successful remediation of pah contaminated
+soil has been achieved by ascomycete inoculation wu et al a or
+by fungal stimulation using mushroom cultivation substrates li et al 
+ an interesting observation is the preferential transformation of
+some hmw pahs by fungal p syed et al or ligninolytic
+enzymes wu et al b which is consistent with the increased
+transformation of and ring pahs in the plr compared to pr pots
+ fig s insight into the comprehensive influence of lignin on soil
+fungi is helpful for elucidating the mechanisms underlying the lignin 
+assisted pah dissipation 
+
+the increased abundances community changes as well as the en 
+richment of a few dominant taxa within xanthomonadales and
+myxococcales fig s indicate a functional succession of soil bacteria
+in all treatments with lignin although there was no evidence indicating
+an increase in bacterial pah degraders in plr soil fig c this does
+not indicate that bacterial pah transformation was not enhanced more
+sensitive and convincing methods such as transcriptional analyses de
+menezes et al and stable isotope probing rodgers vieira et al 
+ may provide new evidence of the relative contribution of bac 
+teria and fungi to the remediation of pah contaminated soil 
+
+ rhamnolipid as a safe biosurfactant
+
+one concern associated with surfactant application is its environ 
+mental impact some synthetic surfactants are toxic to functionally
+
+ a 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ c control
+ c l
+ c r
+ c lr
+
+time week 
+
+ 
+ o
+
+f s
+pi
+
+ke
+d 
+
+ 
+c
+
+co dcm fa ha humin
+ 
+
+ 
+
+ 
+
+ 
+
+ c control
+ c l
+ c r
+ c lr
+
+ 
+ o
+
+f s
+pi
+
+ke
+d 
+
+ 
+c
+
+ b 
+
+fractions
+
+a
+a
+
+a a
+
+a a a a
+a a
+
+b babab a
+
+a
+
+a
+
+a
+a
+
+fig mineralization during the incubation a and
+distribution at the end of the incubation b of the c
+radiolabel of – c baa spiked to soil micro 
+cosms the values represent the mean ± sd of three
+replicate microcosms and bars with the same lower 
+case letter on top were not significantly different
+ p anova 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+
+
+important bacteria brandt et al or change bacterial community
+composition singleton et al in contrast rhamnolipid is a
+carbon source supporting bacterial growth in soil fig a mulligan 
+ thus it is biocompatible rhamnolipid is also biodegradable
+ wen et al and has a minimal influence on plant growth
+ fig a and community succession fig overall these findings
+suggest that rhamnolipid is a safe biosurfactant in terms of its effects on
+plant biomass and indigenous microbial communities 
+
+to summarize the combination of ryegrass lignin and rhamnolipid
+resulted in considerable pah dissipation in an aged contaminated
+arable soil at laboratory scale ryegrass and lignin substantially altered
+microbial abundance composition and network structure implicating
+their potential in stimulating microbial pah degradation which be 
+came evident in the presence of the biosurfactant rhamnolipid 
+specifically lignin contributed to soil detoxification by enhanced pah
+mineralization and ner formation overall these findings highlight the
+importance of simultaneous improvement of microbial activity and
+pah bioavailability which should be considered in field scale bior 
+emediation of pah contaminated soil 
+
+acknowledgements
+
+we thank junli hu jun shan yu shi and kunkun fan for the helpful
+suggestions to the experiment design and data analysis this work was
+supported by the national natural science foundation of china
+ the programme of the ministry of science
+and technology of china cb and the state key
+laboratory of soil and sustainable agriculture y 
+
+appendix a supplementary data
+
+supplementary data related to this article can be found at http dx 
+doi org j soilbio 
+
+references
+
+alagić s Č maluckov b s radojičić v b how can plants manage polycyclic
+aromatic hydrocarbons may these effects represent a useful tool for an effective soil
+remediation a review clean technologies and environmental policy – 
+
+alkorta i garbisu c phytoremediation of organic contaminants in soils 
+bioresource technology – 
+
+aranda e promising approaches towards biotransformation of polycyclic aro 
+matic hydrocarbons with ascomycota fungi current opinion in biotechnology
+ – 
+
+bamforth s m singleton i bioremediation of polycyclic aromatic hydrocarbons 
+current knowledge and future directions journal of chemical technology 
+biotechnology – 
+
+banerjee s kirkby c a schmutter d bissett a kirkegaard j a richardson a e 
+ network analysis reveals functional redundancy and keystone taxa amongst
+bacterial and fungal communities during organic matter decomposition in an arable
+soil soil biology and biochemistry – 
+
+borneman j hartin r j pcr primers that amplify fungal rrna genes from
+environmental samples applied and environmental microbiology – 
+
+bourceret a leyval c de fouquet c cébron a mapping the centimeter scale
+spatial variability of pahs and microbial populations in the rhizosphere of two
+plants plos one e 
+
+brandt k k hesselsoe m roslev p henriksen k sorensen j toxic effects of
+linear alkylbenzene sulfonate on metabolic activity growth rate and microcolony
+formation of nitrosomonas and nitrosospira strains applied and environmental
+microbiology – 
+
+bugg t d h ahmad m hardiman e m singh r the emerging role for bac 
+teria in lignin degradation and bio product formation current opinion in
+biotechnology – 
+
+ccme canadian soil quality guidelines for carcinogenic and other polycyclic
+aromatic hydrocarbons environmental and human health effects pp 
+
+cébron a norini m p beguiristain t leyval c real time pcr quantification
+of pah ring hydroxylating dioxygenase pah rhdα genes from gram positive and
+gram negative bacteria in soil and sediment samples journal of microbiological
+methods – 
+
+chu h sun h tripathi b m adams j m huang r zhang y shi y 
+bacterial community dissimilarity between the surface and subsurface soils equals
+horizontal differences over several kilometers in the western tibetan plateau 
+environmental microbiology – 
+
+de menezes a clipson n doyle e comparative metatranscriptomics reveals
+widespread community responses during phenanthrene degradation in soil 
+
+environmental microbiology – 
+edgar r c search and clustering orders of magnitude faster than blast 
+
+bioinformatics – 
+fernando bautista l sanz r carmen molina m gonzález n sánchez d 
+
+effect of different non ionic surfactants on the biodegradation of pahs by diverse
+aerobic bacteria international biodeterioration biodegradation – 
+
+gan s lau e v ng h k remediation of soils contaminated with polycyclic
+aromatic hydrocarbons pahs journal of hazardous materials – 
+
+gao y zhu l plant uptake accumulation and translocation of phenanthrene and
+pyrene in soils chemosphere – 
+
+gao y zhang y liu j kong h metabolism and subcellular distribution of
+anthracene in tall fescue festuca arundinacea schreb plant and soil – 
+
+grice k lu h atahan p asif m hallmann c greenwood p maslen e tulipani 
+s williford k dodson j new insights into the origin of perylene in geo 
+logical samples geochimica et cosmochimica acta – 
+
+harms h schlosser d wick l y untapped potential exploiting fungi in bior 
+emediation of hazardous chemicals nature reviews microbiology – 
+
+johnson d l maguire k l anderson d r mcgrath s p enhanced dissipation
+of chrysene in planted soil the impact of a rhizobial inoculum soil biology and
+biochemistry – 
+
+kästner m nowak k m miltner a trapp s schäffer a classification and
+modelling of nonextractable residue ner formation of xenobiotics in soil – a
+synthesis critical reviews in environmental science and technology – 
+
+li x wu y lin x zhang j zeng j dissipation of polycyclic aromatic hy 
+drocarbons pahs in soil microcosms amended with mushroom cultivation sub 
+strate soil biology and biochemistry – 
+
+lladó s covino s solanas a m viñas m petruccioli m d’annibale a 
+comparative assessment of bioremediation approaches to highly recalcitrant pah
+degradation in a real industrial polluted soil journal of hazardous materials
+ – – 
+
+lladó s covino s solanas a m petruccioli m d’annibale a viñas m 
+pyrosequencing reveals the effect of mobilizing agents and lignocellulosic substrate
+amendment on microbial community composition in a real industrial pah polluted
+soil journal of hazardous materials – 
+
+lu y song s wang r liu z meng j sweetman a j jenkins a ferrier r c li 
+h luo w wang t impacts of soil and water pollution on food safety and
+health risks in china environment international – 
+
+mulligan c n environmental applications for biosurfactants environmental
+pollution – 
+
+muyzer g teske a wirsen c o jannasch h w phylogenetic relationships of
+thiomicrospira species and their identification in deep sea hydrothermal vent samples
+by denaturing gradient gel electrophoresis of s rdna fragments archives of
+microbiology – 
+
+nisbet i c t lagoy p k toxic equivalency factors tefs for polycyclic aromatic
+hydrocarbons pahs regulatory toxicology and pharmacology – 
+
+oburger e schmidt h new methods to unravel rhizosphere processes trends in
+plant science – 
+
+ortega calvo j j tejeda agredano m c jimenez sanchez c congiu e sungthong 
+r niqui arroyo j l cantos m is it possible to increase bioavailability but
+not environmental risk of pahs in bioremediation journal of hazardous materials
+ – 
+
+ping l f luo y m zhang h b li q b wu l h distribution of polycyclic
+aromatic hydrocarbons in thirty typical soil profiles in the yangtze river delta re 
+gion east china environmental pollution – 
+
+reshef d n reshef y a finucane h k grossman s r mcvean g turnbaugh p j 
+lander e s mitzenmacher m sabeti p c detecting novel associations in
+large data sets science – 
+
+rodgers vieira e a zhang z adrion a c gold a aitken m d identification
+of anthraquinone degrading bacteria in soil contaminated with polycyclic aromatic
+hydrocarbons applied and environmental microbiology – 
+
+shan j jiang b yu b li c sun y guo h wu j klumpp e schäffer a ji r 
+ isomer specific degradation of branched and linear nonylphenol isomers in
+an oxic soil environmental science technology – 
+
+shan j ji r yu y xie z yan x biochar activated carbon and carbon
+nanotubes have different effects on fate of c catechol and microbial community
+in soil scientific reports 
+
+shannon p markiel a ozier o baliga n s wang j t ramage d amin n 
+schwikowski b ideker t cytoscape a software environment for integrated
+models of biomolecular interaction networks genome research – 
+
+singleton d r adrion a c aitken m d surfactant induced bacterial commu 
+nity changes correlated with increased polycyclic aromatic hydrocarbon degradation
+in contaminated soil applied microbiology and biotechnology – 
+
+stahl d a amann r development and application of nucleic acid probes in 
+stackebrandt e goodfellow m eds nucleic acid techniques in bacterial
+systematics wiley new york pp – 
+
+syed k porollo a lam y w grimmett p e yadav j s cyp a a cataly 
+tically versatile fungal p monooxygenase capable of oxidizing higher molecular 
+weight polycyclic aromatic hydrocarbons alkylphenols and alkanes applied and
+environmental microbiology – 
+
+tao y zhang s zhu y g christie p uptake and acropetal translocation of
+polycyclic aromatic hydrocarbons by wheat triticum aestivum l grown in field 
+contaminated soil environmental science technology – 
+
+wang s sun f wang y wang l ma y kolvenbach b a corvini p f x ji r 
+ a formation characterization and mineralization of bound residues of tetra 
+bromobisphenol a tbbpa in silty clay soil under oxic conditions science of the
+total environment – – 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+
+wang y xu j shan j ma y ji r b fate of phenanthrene and mineralization
+of its non extractable residues in an oxic soil environmental pollution – 
+
+wen j stacey s p mclaughlin m j kirby j k biodegradation of rhamnolipid 
+edta and citric acid in cadmium and zinc contaminated soils soil biology and
+biochemistry – 
+
+wilcke w global patterns of polycyclic aromatic hydrocarbons pahs in soil 
+geoderma – 
+
+wu y luo y zou d ni j liu w teng y li z a bioremediation of poly 
+cyclic aromatic hydrocarbons contaminated soil with monilinia sp degradation and
+microbial community analysis biodegradation – 
+
+wu y teng y li z liao x luo y b potential role of polycyclic aromatic
+hydrocarbons pahs oxidation by fungal laccase in the remediation of an aged
+contaminated soil soil biology and biochemistry – 
+
+wu y tan l liu w wang b wang j cai y lin x profiling bacterial
+diversity in a limestone cave of the western loess plateau of china frontiers in
+
+microbiology 
+wu y lin x zhu q zeng j ding q a polycyclic aromatic hydrocarbons
+
+ pahs pollution and their effects on bacterial community in agricultural soils near a
+smelting plant asian journal of ecotoxicology – 
+
+wu y zhu q zeng j ding q gong y xing p lin x b effects of ph and
+polycyclic aromatic hydrocarbon pollution on thaumarchaeotal community in agri 
+cultural soils journal of soils and sediments – 
+
+zhang y tao s global atmospheric emission inventory of polycyclic aromatic
+hydrocarbons pahs for atmospheric environment – 
+
+zhu l zhang m effect of rhamnolipids on the uptake of pahs by ryegrass 
+environmental pollution – 
+
+Ławniczak Ł marecik r chrzanowski Ł contributions of biosurfactants to
+natural or induced bioremediation applied microbiology and biotechnology 
+ – 
+
+y wu et al soil biology and biochemistry – 
+
+ 
+
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+	contributions of ryegrass lignin and rhamnolipid to polycyclic aromatic hydrocarbon dissipation in an arable soil
+	introduction
+	materials and methods
+	soil
+	pot experiment
+	pah analysis
+	dna extraction and quantitative pcr
+	miseq sequencing of bacterial s and fungal s rrna genes
+	sequence processing and analysis
+	 c benz a anthracene microcosm experiment
+	soil fractionation
+	statistics
+
+	results
+	dissipation of pahs in the pot experiment
+	pahs in the roots and shoots of ryegrass
+	gene abundances
+	changes in bacterial and fungal communities
+	fate of baa in artificially contaminated microcosms
+
+	discussion
+	enhanced pah dissipation by simultaneous improvement of microbial degradation and pollutant bioavailability
+	involvement of ryegrass in pah dissipation
+	possible mechanisms underlying lignin assisted remediation
+	rhamnolipid as a safe biosurfactant
+
+	acknowledgements
+	supplementary data
+	references
+
+
+
+
+

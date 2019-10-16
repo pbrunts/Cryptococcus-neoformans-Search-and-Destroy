@@ -1,0 +1,2055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+evaluation of marine zooplankton community structure through environmental dna metabarcoding
+
+
+evaluation of marine zooplankton community structure
+through environmental dna metabarcoding
+
+anni djurhuus kathleen pitz natalie a sawaya jaimie rojas m�arquez 
+
+brianna michaud enrique montes frank muller karger mya breitbart 
+ college of marine science university of south florida st petersburg florida
+ monterey bay aquatic research institute monterey california
+ fundaci�on la salle de ciencias naturales estacion de investigaciones marinas isla de margarita venezuela
+
+abstract
+
+zooplankton dominate the abundance and biomass of multicellular animals in pelagic marine environ 
+
+ments however traditional methods to characterize zooplankton communities are invasive and laborious 
+
+this study compares zooplankton taxonomic composition revealed through metabarcoding of the cyto 
+
+chrome oxidase i coi and s rrna genes to traditional morphological identification by microscopy trip 
+
+licates of three different sample types were collected from three coral reef sites in the florida keys national
+
+marine sanctuary l surface seawater samples prefiltered through lm filters and subsequently collected
+on lm filters for edna pf edna l surface seawater samples filtered on lm pore size filters
+ environmental dna edna and zooplankton tissue samples from lm lm and lm mesh
+size net tows the zooplankton tissue samples were split with half identified morphologically and tissue
+
+dna t dna extracted from the other half the coi and s rrna gene metabarcoding of pf edna edna 
+
+and t dna samples was performed using illumina miseq of the families detected with coi and s rrna
+
+gene metabarcoding and respectively were also identified through morphological assessments 
+
+significant differences in taxonomic composition were observed between pf dna edna and t dna with
+
+both genetic markers pf edna resulted in detection of fewer taxa than the other two sample types thus 
+
+prefiltering is not recommended all dominant copepod taxa of total abundance were detected
+
+with edna t dna and morphological assessments demonstrating that edna metabarcoding is a promising
+
+technique for future biodiversity assessments of pelagic zooplankton in marine systems 
+
+an essential element of environmental conservation and
+
+monitoring programs is biodiversity assessment including
+
+describing community taxonomic composition at different
+
+trophic levels lodge et al traditional methods that
+
+characterize biodiversity are laborious i e visual surveys and
+
+can be environmentally destructive e g trawling wheeler
+
+et al wheeler and valdecasas genetic analysis of
+
+environmental dna edna which contains dna shed by
+
+organisms present in a given environment offers a high 
+
+throughput cheaper more sensitive and less destructive
+
+method for characterizing biodiversity davy et al flynn
+
+et al harvey et al the estimation of biodiversity
+
+from metabarcoding pcr and next generation sequencing of
+
+conserved genetic markers has become standard practice in
+
+the field of microbial ecology rusch et al caporaso
+
+et al for multicellular organisms the application of
+
+specific genetic assays to edna is frequently used for the detec 
+
+tion of rare or invasive organisms ardura et al meta 
+
+barcoding of edna is becoming increasingly applied for
+
+determining taxonomic composition of higher trophic levels
+
+in aquatic and terrestrial environments aylagas et al 
+
+kelly et al port et al valentini et al kelly
+
+et al such studies complement traditional surveys and
+
+frequently lead to the identification of organisms not com 
+
+monly detected using visual techniques kelly et al olds
+
+et al the challenge has been to relate this increased
+
+species detection to traditional methods of biodiversity
+
+assessment 
+
+metabarcoding of edna has not been thoroughly evaluated
+
+for assessing the biodiversity of marine zooplankton commu 
+
+nities zooplankton dominate the abundance and biomass of
+
+multicellular pelagic animals schminke holoplankton
+
+ correspondence anni djurhuus gmail com
+
+additional supporting information may be found in the online version
+
+of this article 
+
+this is an open access article under the terms of the creative commons
+
+attribution license which permits use distribution and reproduction in
+any medium provided the original work is properly cited 
+
+ 
+
+limnology
+and
+
+oceanography methods
+limnol oceanogr methods – 
+
+vc the authors limnology and oceanography methods published by wiley
+periodicals inc on behalf of association for the sciences of limnology and oceanography
+
+doi lom 
+
+http orcid org 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+
+
+ e g copepods chaetognaths and meroplankton e g fish
+
+larvae crab larvae communities are highly diverse occupy a
+
+variety of niches and contribute to ecosystem functions rich 
+
+ardson steinberg et al zooplankton play impor 
+
+tant roles in biogeochemical cycling through the biological
+
+pump and by transferring energy to higher trophic levels
+
+ ward et al turner despite their ecological
+
+importance the spatiotemporal variability in the composition
+
+of zooplankton assemblages is not well characterized primar 
+
+ily due to challenges with taxonomic identification many
+
+samples collected during oceanographic expeditions or moni 
+
+toring surveys for zooplankton taxonomic composition stud 
+
+ies are examined only partially or not at all roger et al 
+
+schminke 
+
+life in the sea is changing butchart et al and tech 
+
+niques for analyzing the biodiversity of communities across
+
+trophic levels are required to advance ecological research
+
+and ecosystem based management documenting such
+
+methods to facilitate wider use is one of the goals of the
+
+marine biodiversity observation network mbon a subdivi 
+
+sion of the group on earth observations biodiversity obser 
+
+vation network geo bon muller karger et al edna
+
+metabarcoding offers a practical means for assessing biodi 
+
+versity over time from tropical to polar ecosystems and at
+
+multiple trophic levels to inform policy and management
+
+across local regional national and international scales 
+
+to achieve this mbon vision we tested the effectiveness
+
+of edna metabarcoding for determining zooplankton taxo 
+
+nomic composition and monitoring community responses
+
+to environmental change previous studies have performed
+
+metabarcoding of cytochrome oxidase i coi and s rrna
+
+genes on zooplankton community tissues t dna i e net
+
+tow biomass revealing moderately accurate detection levels
+
+ i e correlations between biomass and the relative amount
+
+of sequences recovered for particular taxa lindeque et al 
+
+ harvey et al however noninvasive methods
+
+for assessing biodiversity particularly metabarcoding of
+
+edna collected from surface water samples have not previ 
+
+ously been tested for pelagic zooplankton communities 
+
+here we assess the taxonomic composition of the zoo 
+
+plankton community at three coral reef sites within the flor 
+
+ida keys national marine sanctuary using metabarcoding of
+
+edna and t dna with two genetic loci coi and s com 
+
+pared to traditional microscopy surveys morphological iden 
+
+tification this study is the first to our knowledge to
+
+compare edna metabarcoding data for pelagic marine zoo 
+
+plankton taxa with morphological taxonomic data for net
+
+tows based on previous studies lindeque et al har 
+
+vey et al we hypothesized that the patterns of mor 
+
+phological zooplankton taxonomic composition from net
+
+tows would be most similar to results obtained with t dna
+
+metabarcoding additionally we tested the impact of apply 
+
+ing a prefiltering step to the collection of edna to reduce
+
+biases associated with capturing whole animals this work
+
+lays the foundation for applying edna metabarcoding to
+
+marine pelagic zooplankton communities and provides
+
+insight for comparing results obtained using this method to
+
+traditional techniques 
+
+methods
+
+sample collection
+
+sampling was carried out on the r v walton smith univer 
+
+sity of miami as part of the south florida program noaa
+
+atlantic oceanographic and meteorological laboratory 
+
+aoml samples were collected at three stations in march
+
+ molasses reef n w th march 
+
+looe key n w th march and west 
+
+ern sambo n w th march at each
+
+station triplicate horizontal hauls surface water were per 
+
+formed with lm lm and lm mesh size bongo
+plankton nets each tow lasted min at knot we allowed at
+
+least min between replicate net tows to sample an undis 
+
+turbed water column jacobs and grant 
+
+the lm lm and lm zooplankton samples
+were halved using a folsom plankton splitter one fraction
+
+was preserved in formalin for morphological analysis 
+
+the other half was frozen immediately at c for genetic
+
+zooplankton community analysis “t dna” fig 
+
+for edna analyses triplicate l surface water samples �
+ m depth were collected from each station using niskin
+
+bottles arranged on a rosette the samples were filtered onto
+
+ lm pvdf sterivex filters millipore u s a to test the
+effect of prefiltering the edna sample pf edna another
+
+set of triplicate l surface water samples was collected from
+
+each station these were prefiltered through a lm pore size
+flat nitrocellulose filter millipore u s a and then filtered
+
+on to a lm pvdf sterivex filter millipore u s a fig 
+ all filters both edna and pf edna were flash frozen in
+
+liquid nitrogen and preserved at c 
+
+zooplankton identification methods will henceforth be
+
+referred to as “pf edna” for prefiltered environmental dna
+
+metabarcoding “edna” for non prefiltered environmental dna
+
+metabarcoding “t dna” for total zooplankton net tow tissue
+
+metabarcoding and “morphological” for microscope based
+
+visual analysis fig we collected a total of nine samples each
+
+ three from each station for pf edna and edna in addition to
+
+nine samples per station for t dna and morphological analyses
+
+with triplicates of each net tow size fraction fig 
+
+metabarcoding
+
+dna extraction
+
+dna was extracted from the pf edna edna and t dna
+
+using the dneasy blood and tissue kit qiagen u s a two
+
+extraction blanks i e an extraction with no filter and two
+
+filtration blanks l of milliq water filtered through a steri 
+
+vex filter then processed alongside the samples were
+
+included as controls 
+
+each t dna sample was thawed pelleted by centrifuga 
+
+tion x g for min and the supernatant was removed
+
+with a sterile pipette the pelleted zooplankton biomass was
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+then homogenized using a ml syringe and a g needle 
+
+according to lindeque et al the dna extraction
+
+protocol was modified to include an initial bead beating
+
+step specifically g of mm and g of mm glass
+
+beads biospec products along with ll atl buffer qia 
+gen were added to each tube before use the glass beads
+
+were sterilized by combustion at c for h tubes were
+
+shaken on a vortexer with a bead beater adapter at maxi 
+
+mum speed for s followed by incubation at c for 
+
+min and a second round of bead beating and incubation 
+
+next ll of proteinase k mg l final concentration 
+was added to each tube vortexed for s and incubated at
+
+fig schematic of sample collection and processing pipeline one liter water samples were collected and filtered for environmental dna edna 
+genetic analyses left and tissue samples were collected for dna and morphological analyses right prefiltered edna pf edna edna and tissue
+dna t dna samples were amplified using primers for the s rrna amaral zettler et al and coi folmer et al leray et al 
+
+genes and sequenced on an illumina miseq platform 
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+ c for h with shaking samples were vortexed for s
+
+and centrifuged for min at g the supernatant �
+ ll was then transferred to a new ml tube and centri 
+fuged for min at g then ll of bead free
+supernatant was transferred to a new ml tube thereafter 
+
+the manufacturer’s protocol was followed with the following
+
+modifications ll al buffer ll ethanol and final
+elution steps of ll ae buffer for each sample 
+
+pcr and library preparation
+
+dna extracts were amplified with primer sets targeting
+
+the s rrna gene sequences as follows f gta 
+
+cacaccgcccgtc eukbr tgatccttctgcaggttcacc 
+
+tac amaral zettler et al and the coi gene 
+
+sequences as follows mlcoiintf ggwacwggwt 
+
+gaacwgtwtayccycc and hco taaactt 
+
+cagggtgaccaaaaaatca folmer et al leray et al 
+
+ the pcr reaction mixture was the same for both
+
+genes pcr was performed in triplicate ll reactions for
+each sample using basepair golay barcoded reverse pri 
+
+mers amaral zettler et al each reaction was carried
+
+out using ll dna extract at a dilution ll ampli 
+taq gold master mix thermo fisher scientific u s a ll
+each of forward and reverse primers lm ll molecular 
+biology grade water sigma aldrich u s a and ll of 
+lm mammalian blocking primer gcccgtcgctactacc
+gattgg ideoxyi ideoxyi ideoxyi ideoxyi ideoxyi ttagt
+
+gaggccct spc for the s rrna gene only earth
+
+microbiome project vestheim and jarman pcr reac 
+
+tions were run in triplicate on well plates with a negative
+
+ no template added control on each plate s rrna cycling
+
+parameters were c for min cycles at c for s 
+
+ c for s c for s and c for s coi cycling
+
+parameters were c for min cycles at c for s 
+
+ c for s decreasing by c per cycle c for s 
+
+cycles at c for s c for s c for s and c
+
+for min 
+
+triplicate pcr products were pooled and quality was con 
+
+firmed by agarose gel electrophoresis pcr products
+
+were purified and size selected using the agencourt ampure
+
+xp bead system beckman coulter u s a a second agarose
+
+gel was run to confirm primer removal and retention of tar 
+
+get amplicons after purification purified products were
+
+quantified with a qubit dsdna hs assay kit invitrogen 
+
+u s a equimolar concentrations of nm sample were
+
+combined into a single library pool all sequencing was per 
+
+formed at the stanford functional genomics facility on an
+
+illumina miseq platform using paired end sequencing
+
+ miseq reagent kit v and a phix spike in control
+
+to improve the quality of low diversity samples kircher
+
+et al 
+
+bioinformatics
+
+sequence data were processed using a unix shell script
+
+written to analyze illumina generated edna metabarcoding
+
+data https github com jimmyodonnell banzai the fol 
+
+lowing steps were executed with the pipeline merging of
+
+paired reads using pear v zhang et al quality
+
+filtering with usearch edgar and primer removal
+
+with cutadapt v martin allowing for no mis 
+
+matches in the primer sequence operational taxonomic
+
+unit otu clustering was done using swarm cluster radius
+
+of mah�e et al taxonomic annotation by nucleo 
+
+tide blast blastn altschul et al against the ncbi
+
+nt reference database e value and secondary tax 
+
+onomic assignment using the lowest common ancestor
+
+ lca algorithm in megan at huson et al for
+
+both primer sets reads with homopolymers bases were
+
+also omitted all data from this study can be accessed from
+
+genbank accession no prjna 
+
+the otu tables were filtered for contaminants i e 
+
+humans cows or dogs using a suite of ad hoc r scripts
+
+developed by the u s mbon project https github com 
+
+marinebon mbon djurhuus et al we also removed
+
+all prokaryotes protists arachnids hominids fungi and
+
+phytoplankton from the data analysis using the r package
+
+phyloseq based on taxonomic annotation to focus exclu 
+
+sively on zooplankton for the purpose of this manuscript 
+
+morphological taxonomy
+
+morphological identification was performed according to
+
+international council for the exploration of the sea ices 
+
+protocols roger et al aiming to count at least 
+
+animals per sample due to a high number of organisms we
+
+subsampled to make counting feasible for the lm and
+ lm net tows zooplankton were resuspended in ml
+of sterile water and a – ml aliquot was removed depend 
+
+ing on the number of animals using a stempel pipette zoo 
+
+plankton were then identified and counted after each initial
+
+pass the entire sample was scanned for the presence of pre 
+
+viously undetected genera or species 
+
+animals collected with lm net tows were identified
+by microscopy from either a full sample a or a frac 
+
+tion of the sample subsampling was done with a folsom
+
+splitter until approximately – animals were retained 
+
+net tows were performed during copepod spawning periods 
+
+consequently copepod nauplii were abundant since cope 
+
+pod nauplii are difficult to identify morphologically we did
+
+not attempt to determine their taxonomy adult copepods
+
+were identified to genus or species level other zooplankton
+
+were identified to phylum and where possible to class 
+
+order or family i e chaetognatha and euphausiacea 
+
+zooplankton abundances density individuals m were
+
+calculated by dividing animal counts by the product of net
+
+mouth area tow speed and tow duration i e volume of
+
+water filtered by the net abundances of gastropods the
+
+copepod order harpacticoida and the genera paracalanus
+
+and oithona were converted to biomass after kelble et al 
+
+ these group specific biomass estimates were
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+https github com jimmyodonnell banzai
+https github com marinebon mbon
+https github com marinebon mbon
+
+
+compared to sequence abundances from the t dna samples
+
+from each station across all size fractions to evaluate possi 
+
+ble correlations 
+
+data analysis
+
+the otu table was randomly subsampled to a depth of
+
+ and sequences per sample for s rrna and coi
+
+genes respectively rarefaction accounts for uneven sam 
+
+pling depth obtained via high throughput sequencing
+
+ mcmurdie and holmes all statistical analyses were
+
+performed using the r package vegan oksanen et al 
+
+ 
+
+analyses of variance anova followed by tukey honest
+
+significant difference tukey hsd tests were performed to
+
+determine whether species richness differed significantly
+
+across methods nonmetric multidimensional scaling
+
+ nmds was performed using the bray curtis dissimilarity
+
+indices on the triplicate sequencing analyses pf edna 
+
+edna and t dna with the metamds function from r
+
+package phyloseq mcmurdie and holmes at the otu
+
+level we used the adonis function vegan oksanen et al 
+
+ to parse the data according to different treatments pf 
+
+edna edna and t dna a permutation analysis of vari 
+
+ance permanova was done to address significance in tax 
+
+onomic composition differences at the otu level 
+
+triplicate sequencing data for each sample were averaged
+
+with phyloseq mcmurdie and holmes to compare
+
+morphological and sequencing data we grouped taxonomic
+
+results at the class level we performed a detailed analysis
+
+on the holoplankton specifically the infraclass neocopepoda
+
+ maxillopoda containing the orders harpacticoida cala 
+
+noida and poecilostomatoida all data were plotted with
+
+phyloseq superheat barter and yu and ggplot 
+
+ wickham all statistical analyses were done using the
+
+r software package r development team 
+
+results
+
+molecular taxonomy
+
+observed richness
+
+dna metabarcoding resulted in the identification of
+
+ otus from the s rrna gene and otus from
+
+the coi gene overall observed otu richness was similar
+
+between the two genetic markers s rrna and coi and
+
+the individual treatments pf edna edna and t dna 
+
+one exception to this was the increased richness observed
+
+for the edna s rrna gene data tukey hsd p fig 
+
+ the lowest otu richness was observed for t dna using
+
+both genetic loci tukey hsd p fig approxi 
+
+mately and of the sequences were taxonomically
+
+assigned to the genus level for s rrna and coi genes 
+
+fig boxplot of observed richness on an otu level left and for otus assigned to genus right for the two genetic loci s rrna and coi from
+prefiltered environmental dna pf edna environmental dna edna and tissue dna t dna 
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+respectively table the edna coi data yielded a much
+
+lower richness when restricted to sequences annotated to the
+
+genus level at the genus level edna s rrna sequences
+
+showed a significantly higher richness than t dna and pf 
+
+edna tukey hsd p pf edna s rrna data had
+
+richness similar to t dna for both genetic markers how 
+
+ever prefiltering decreased the recovered richness compared
+
+to the non prefiltered edna 
+
+community differences
+
+based on nonmetric multidimensional scaling nmds prior
+
+to pooling data from triplicates or sites the pf edna edna 
+
+and t dna sample types each showed significantly different
+
+taxonomic composition at the otu level permanova 
+
+p the t dna samples had a larger variance than the pf 
+
+edna and edna samples although there were significant dif 
+
+ferences among all three treatments for both markers fig 
+
+the t dna s rrna sequences were dominated by maxillo 
+
+poda including barnacles copepods and related arthropods 
+
+with relatively higher counts of malacostraca including shrimp
+
+and amphipods at molasses reef fig the s rrna sequen 
+
+ces from the pf edna and edna samples were almost exclu 
+
+sively annotated to the classes maxillopoda gastropoda 
+
+malacostraca foraminifera and appendicularia the pf edna
+
+samples contained significantly fewer species of metazoans
+
+ anova p than the edna and t dna for both s
+
+rrna and coi figs – 
+
+large differences were detected among the stations using
+
+coi especially for t dna most t dna samples from looe
+
+key and western sambo were dominated by a mixture of the
+
+classes actinopteri phylum osteichtyes maxillopoda
+
+ superclass arthropoda hydrozoa phylum cnidaria and
+
+sagittoidea phylum chaetognatha all samples from
+
+molasses reef were dominated by ray finned fishes class 
+
+actinopteri fig from the three size fractions of net
+
+tows the only samples from the coi t dna samples domi 
+
+nated by maxillopoda were looe key and western sambo at
+
+ lm for coi the pf edna and edna samples were
+mostly dominated by ascidians class ascidiacea although
+
+the edna recovered additional classes 
+
+morphological taxonomy
+
+all samples collected for morphological assessments using
+
+microscopy were dominated by the class maxillopoda
+
+ arthropoda fig this was similar to the s rrna
+
+sequencing results there were slight differences in relative
+
+abundance among the different stations and also among net
+
+tow mesh sizes fig net tows with a lm mesh size
+recovered more of the larger animals such as arrow worms
+
+ family sagittoidea phylum chaetognatha and jellyfishes
+
+ family scyphozoa phylum cnidaria the morphological
+
+samples collected at western sambo with the lm and 
+lm mesh sizes and at molasses reef with the lm mesh
+size were the most different due to high abundances of
+
+bryozoans specifically class gymnolaemata phylum
+
+bryozoa 
+
+comparison of molecular and morphological taxonomy
+
+there was a large overlap between families detected using
+
+morphological vs molecular techniques coi � s
+rrna � supporting information fig s the families
+identified in edna that were not detected by microscopy
+
+were most frequently sessile animals such as corals and
+
+sponges that would not be captured with net tows overall 
+
+most sequences were annotated to maxillopoda coi 
+
+ s rrna for the edna s rrna data a large
+
+fraction of sequences was annotated to maxillopoda mala 
+
+costraca appendicularia and gastropoda and for coi 
+
+edna relatively more were annotated as ascidians class
+
+ascidiacea regardless of site fig most of the sequences
+
+that were annotated as chordates were ascidians class asci 
+
+diacea and ray finned fishes class actinopteri 
+
+ no chordate sequences were observed among the
+
+ s rrna sequences 
+
+paracalanus was not detected with the s rrna gene 
+
+and oithona was not detected with coi thus they could
+
+not be compared to biomass using those markers in some
+
+cases there were co occurring elevated biomass and
+
+sequence abundances although these relationships were
+
+never statistically significant supporting information fig 
+
+s unfortunately biomass conversion factors were only
+
+available for the copepod genera paracalanus and oithona 
+
+the copepod order harpacticoida and gastropoda kelble
+
+et al having conversion factors for more groups and
+
+a higher replication of sequenced samples could help con 
+
+duct additional comparisons between biomass and sequence
+
+abundance to get a more meaningful correlation 
+
+maxillopoda copepoda 
+
+combined morphological and genetic methods identified
+
+a total of different genera of the subclass copepoda from
+
+all samples figs eleven of these copepod genera 
+
+table results of metabarcoding of s rrna and coi loci
+from all combined sequences compared to morphologically
+assigned taxonomy not all groups were identified to family
+with morphological taxonomy in which case they were identi 
+fied to order or phylum e g chaetognatha were assigned at
+phylum but not family level if not assigned to a family the
+organism was added to the total unique families on the order or
+phylum level 
+
+ s coi morpho total
+
+total reads — 
+
+total otus — 
+
+annotated reads — 
+
+annotated otus — 
+
+families or groups —
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+fig nonmetric multidimensional scaling plot nmds of all sequenced samples at the otu level the three sampling stations are molasses reef
+ mr looe key lk and western sambo ws there was a statistically significant difference among the prefiltered environmental dna pf edna 
+
+environmental dna edna and tissue dna t dna p the pf edna and edna samples were more similar to each other compared to
+the t dna the t dna had a higher spread in variance among sites however triplicate samples of t dna from locations and mesh size were not
+
+significantly different from each other p 
+
+fig barplot of all data at the class level a morphology b s rrna c coi the two genetic loci coi and s rrna recover different
+organisms on a class level i e chordates ray finned fishes class actinopteri and ascidians class ascidiacea the tissue dna t dna resembled
+the zooplankton taxonomic composition identified by microscopy more closely than the environmental dna edna or prefiltered environmental
+
+dna pf edna the morphologically identified taxa were more similar to the s rrna taxonomy than to the coi both genes detected the same
+taxonomic groups but at quite different abundances the numbers on the labels for each bar refer to the mesh size in lm used in the net tows and
+letters represent the sampling stations molasses reef mr looe key lk and western sambo ws 
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+including most of the dominant taxa were identified by all
+
+three methods morphological and metabarcoding of coi
+
+and s rrna from both edna and t dna fig sixteen
+
+different copepod genera were detected using s rrna gene
+
+sequencing genera using coi sequencing and genera
+
+using morphological assessment only copepod genera
+
+were detected in edna figs all copepod genera
+
+detected in edna were also found in t dna 
+
+the pf edna did not yield any sequences annotated to
+
+maxillopoda from the s rrna sequences and only gen 
+
+era were detected with coi only and genera were
+
+detected from the s rrna and coi sequence data respec 
+
+tively from the edna samples only two families corycai 
+
+dea and sapphirinidae only assigned to family overlapped
+
+between the two genetic markers t dna obtained using dif 
+
+ferent net mesh sizes contained large differences in the
+
+detected genera when sequences from both loci s rrna
+
+gene and coi from all size fractions of the t dna were
+
+combined of the total detected copepod genera were
+
+represented fig when combining all the s rrna and
+
+coi data t dna edna and pf edna only five copepod
+
+genera identified in the morphological analysis were not
+
+detected namely copilia microsetella labidocera temoropia 
+
+and farranula fig even if microsetella were represented
+
+in the sequence data they would have been impossible to
+
+identify due to the lack of a reference sequence in the ncbi
+
+database however all the other genera are present in the
+
+database 
+
+the genus acartia was found in the pf edna and t dna 
+
+but was not identified based on morphology these samples
+
+were reanalyzed under the microscope to verify the absence
+
+of acartia none were found even after an extremely thor 
+
+ough assessment some sequences from the edna and t 
+
+dna were identified down to species e g corycaeus quasi 
+
+modo and oithona simplex while it was challenging to
+
+definitively identify these copepods to species by micros 
+
+copy the relative abundances of these two genera were com 
+
+parable between genetic and morphological approaches
+
+fig heatmap of all copepod data compared between the two loci s rrna and coi and morphological assessment the totals at the top repre 
+sent both genetic loci for pf edna and edna combined t dna of all three size fractions and morphology of all three size fractions the numbers on
+the left side refer to the mesh size used in the net tows the color scale indicates relative abundance between the different samples 
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+ supporting information fig s other copepod genera had
+
+different relative abundances between the two genetic loci
+
+and sample types the relative abundance of oncaea in the
+
+ s rrna from t dna was more comparable to the morpho 
+
+logical assessments for all net tow mesh sizes supporting
+
+information fig s most maxillopoda detected through
+
+ s rrna sequencing from the edna and t dna samples
+
+belonged to the calanidae family in contrast to the mor 
+
+phological data which showed dominance of the oncaeidae
+
+family genus oncaea the genera nannocalanus and clauso 
+
+calanus were more abundant among the sequences than in
+
+the morphological assessments with the enrichment in coi
+
+sequences more pronounced than in the s rrna gene
+
+sequences 
+
+discussion
+
+molecular taxonomy
+
+metabarcoding with next generation sequencing is well
+
+suited for large scale biodiversity analyses shokralla et al 
+
+ this technique has been successfully used to describe
+
+the diversity of mixed zooplankton tissue samples for the
+
+ s rrna coi and s rrna genetic loci lindeque et al 
+
+ harvey et al our results show similar richness
+
+estimates for s rrna and coi sequencing data from
+
+similarly treated samples i e pf edna edna and t dna 
+
+ fig 
+
+significantly higher total otu richness was recovered
+
+from edna than from the t dna this is likely due to the
+
+diversity of organisms in the ambient waters not captured by
+
+net tows while t dna will only capture plankton within
+
+the path of the net tow the edna samples will capture dna
+
+from both benthic and pelagic sessile and motile animals 
+
+thus increasing the diversity in those samples 
+
+to avoid biasing our sequence outcome by catching
+
+whole animals i e copepods or nauplii on the lm fil 
+ters used for collecting edna one treatment pf edna 
+
+involved pre filtering the edna samples through a lm fil 
+ter the lm pre filter was chosen based on standards in
+microbial and chemical oceanography where a lm filter is
+frequently used to separate particle associated vs free living
+
+microorganisms michaud et al this prefiltration step
+
+resulted in reduced sequence recovery reduced richness and
+
+a bias in estimated taxonomic composition fig c since
+
+fig venn diagram of copepod genera detected using genetic markers in tissue dna t dna left environmental dna edna right and mor 
+phological assessments bottom nearly all dominant red of total abundance copepod genera were identified by each treatment type 
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+edna is estimated to range in size between lm to lm
+ turner et al it is likely that the lm filter retained
+relevant genetic material we therefore recommend against
+
+pre filtering however future studies could evaluate the
+
+effect of pre filtering with a pore size greater than lm to
+ensure removal of animal specimens with minimal edna
+
+removal 
+
+the three molecular treatments i e pf edna edna and
+
+t dna yielded significantly different taxonomic composi 
+
+tions with triplicates grouping closely together with each
+
+other on the nmds fig although the triplicates for each
+
+treatment were similar we did encounter examples where
+
+taxa were only detected in one of the triplicates thus tripli 
+
+cate samples allowed detection of more taxa and gave higher
+
+confidence in the results due to increased statistical power in
+
+the analyses 
+
+for the coi edna sequences annotated to genera fig 
+
+table the total richness was significantly lower than for
+
+ s rrna edna sequences this raised the question of data 
+
+base choice for sequence comparisons of different genetic
+
+loci the silva database pruesse et al is superior for
+
+annotating s rrna sequences to finer taxonomic levels
+
+than the ncbi nt database lindeque et al however 
+
+since coi sequences are not included in the silva database 
+
+this study annotated all sequences using the ncbi database
+
+to allow comparison of diversity and taxonomy between the
+
+two loci the ncbi nt database consists of an annotated col 
+
+lection of all publicly available dna sequences and is popu 
+
+lated by both full and partial dna sequences benson et al 
+
+ the difference between richness of s rrna and coi
+
+sequences annotated to genera from edna is most likely due
+
+to fewer reference sequences available for coi than for s
+
+rrna it is also possible that the intraspecific variability
+
+within this portion of the coi gene is relatively high this
+
+would result in a higher otu richness than that seen
+
+amongst the annotated sequences as multiple otus may
+
+cluster together into a single genus such as has been shown
+
+previously for diptera meier et al 
+
+although the ncbi nt database offers the convenience of
+
+comparing multiple loci against an identical database better
+
+taxonomic assignments will likely be achieved through com 
+
+parisons to specialized databases such as silva for s rrna
+
+and bold for coi sequences min and hickey linde 
+
+que et al regardless of the specific database used the
+
+taxonomic assignment of otus may be biased or hindered
+
+by a lack of reference sequences as was the case for the
+
+copepod genus microsetella in this study it will be impossible
+
+to identify some taxa observed by microscopy if their
+
+sequences are not present in the databases additionally 
+
+submission of sequences to some databases including ncbi 
+
+does not require voucher specimens to prove species identifi 
+
+cation which could lead to incorrect or ambiguous annota 
+
+tions we caution that until the databases are better
+
+populated care must be taken with interpretation of
+
+sequence comparison results especially with respect to rare
+
+or unexpected species 
+
+morphological taxonomy
+
+the most common holoplankton in florida bay are the
+
+copepod genera paracalanus oithona and acartia kelble
+
+et al however in march samples acartia were
+
+not observed in the morphological assessments performed
+
+by microscopy both genetic markers detected acartia in
+
+both edna and t dna samples however never in signifi 
+
+cant abundances a few copepods from the genus acartia
+
+were found by microscopy in the same locations during
+
+other seasons but never more than individuals this
+
+genus may be rare and very patchy or more actively avoids
+
+nets than other copepods kaartvedt et al database
+
+limitations and misidentification of sequences submitted to
+
+the database could also yield false positives from the
+
+sequencing data and lead to a lower or higher sequence
+
+abundance of any copepod genus the sequencing methods
+
+can identify all life stages of organisms while microscopy
+
+can generally only identify adults therefore the detection of
+
+sequences from early life stages eggs or nauplii could
+
+explain the detection of copepod sequences in the absence
+
+of identifiable adults under the microscope 
+
+comparison of molecular and morphological taxonomy
+
+morphological and molecular techniques both detected a
+
+large variety of taxa supporting information fig s the
+
+edna samples detected a larger diversity of organisms than
+
+the t dna or microscopy biodiversity observations from
+
+edna are not biased by sampling method e g different
+
+mesh sizes net avoidance or destruction of gelatinous ani 
+
+mals yet these edna methods are sensitive to other biases 
+
+such as the integrity of dna exposed to temperature fluctua 
+
+tions bacterial activity variation in dna residence time uv
+
+exposure or differences in dna shedding rates by different
+
+organisms t dna performed better than edna at detecting
+
+the copepod genera identified in microscopy analyses thus 
+
+t dna reflected more closely what was detected by micros 
+
+copy of the net samples likely because the t dna and
+
+microscopy methods share the same net biases and originate
+
+from the same pool of animals in contrast edna metabar 
+
+coding was superior for detecting organisms other than
+
+copepods while still recovering most of the dominant cope 
+
+pod taxa fig and thus edna metabarcoding provides
+
+different insights into biodiversity of the zooplankton 
+
+therefore while t dna is more likely to correspond slightly
+
+better with traditional morphological analyses this study
+
+suggests that edna is a suitable technique for assessing the
+
+overall diversity of zooplankton communities in addition 
+
+edna data from s rrna seems to reflect a more similar
+
+relative abundance of taxa similar to that of morphological
+
+analysis 
+
+we propose that differences in total abundance from mor 
+
+phological vs metabarcoding assessments are due to
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+
+
+differences in the total biomass sampled by each technique 
+
+morphological analyses measure numerical abundance of
+
+organisms including their life stages whereas metabarcoding
+
+analysis is more closely related to biomass and does not yield
+
+any information on life stages the relationship between bio 
+
+mass and number of sequences is not linear since sequence
+
+generation is subject to biases that can be introduced at a
+
+number of different steps during sample processing such as
+
+dna extraction pcr and bioinformatic classification bik
+
+et al in addition a high gene copy number for differ 
+
+ent taxa or markers could inflate the sequence abundance
+
+relative to biomass klappenbach et al 
+
+the most abundant copepod genera identified by micros 
+
+copy were all detected by edna and t dna with the excep 
+
+tion of euterpina and labidocera fig this shows that
+
+both edna and t dna metabarcoding will detect the domi 
+
+nant copepod genera of the community with edna being
+
+the easiest and least invasive sample collection analysis
+
+method with the fewest opportunities for human error in
+
+terms of the relative abundance of copepods maxillopoda 
+
+the t dna sequences reflect the morphological assessment
+
+slightly better than edna globally most copepod commu 
+
+nities are dominated by a few genera e g calanus acartia 
+
+oithona clausocalanus paracalanus and pseudocalanus 
+
+which were all detected in this study making edna an
+
+applicable method for analysis of dominant copepod com 
+
+munities from other locations as well as for the florida keys 
+
+the two genetic loci analyzed in this study complement
+
+each other resulting in the identification of different taxa 
+
+since each primer set has different associated biases per 
+
+forming metabarcoding of multiple genetic loci will maxi 
+
+mize the recovery of ecosystem biodiversity additional
+
+markers e g s rrna gene as seen in harvey et al 
+
+would most likely yield additional taxa which could
+
+increase the diversity of recovered sequences 
+
+a few copepod groups euterpina pontella sapphirinidae 
+
+and temora were initially detected only through sequencing
+
+and not observed by morphology further targeted searches
+
+enabled their subsequent morphological identification
+
+through re analysis of total as opposed to split samples
+
+ figs subsampling using the folsom splitter of the
+
+zooplankton for morphological analysis results in removal of
+
+some of the more rare taxa this may not be the case with
+
+sequencing as some trace genetic material of all organisms
+
+will likely be present in all sub samples with recovery more
+
+dependent on sequencing depth combining techniques
+
+ sequencing of t dna and microscopy resulted in identifica 
+
+tion of the largest number of copepod genera and would be
+
+recommended for a thorough assessment of copepod diver 
+
+sity in marine systems 
+
+each of the different sampling methods and identification
+
+techniques yielded somewhat different taxonomic composi 
+
+tion of the zooplankton communities using edna for the
+
+detection of dominant taxa of zooplankton communities in
+
+marine systems is promising especially when combining
+
+two or more different genetic loci therefore each locus or
+
+method used represents a different “window” through which
+
+to view biodiversity each method complements the others 
+
+and using several different methods could yield a more com 
+
+plete picture of the biosphere our results indicate that
+
+sequencing the tissue from net tows yields the highest diver 
+
+sity of copepods although this method can be affected by
+
+limitations of databases and net avoidance by organisms it
+
+reduces the time and human error of microscope counts 
+
+diversity analyses performed using edna have the advan 
+
+tage of easier and less invasive sample collection plus the
+
+ability to recover species not captured through net tows 
+
+therefore edna metabarcoding provides complementary
+
+insights into zooplankton biodiversity metabarcoding of
+
+either tissues or edna will become progressively more accu 
+
+rate for estimating diversity as genetic databases become
+
+more taxonomically enriched over time 
+
+author contribution statement
+
+ad and mb conceived the study ad nas jrm bm and
+
+em conducted sample collection and lab analyses data anal 
+
+ysis was done by ad and kp ad drafted the manuscript all
+
+authors revised and edited the manuscript 
+
+references
+
+altschul s f w gish w miller e w myers and d j 
+
+lipman basic local alignment search tool j mol 
+
+biol – doi s 
+
+amaral zettler l a e a mccliment h w ducklow s m 
+
+huse and g langsley a method for studying protis 
+
+tan diversity using massively parallel sequencing of v 
+
+hypervariable regions of small subunit ribosomal rna genes 
+
+plos one e doi journal pone 
+
+ardura a a zaiko j l martinez a samulioviene a 
+
+semenova and e garcia vazquez edna and spe 
+
+cific primers for early detection of invasive species – a
+
+case study on the bivalve rangia cuneata currently spread 
+
+ing in europe mar environ res – doi 
+
+ j marenvres 
+
+aylagas e �a borja x irigoien and n rodr�ıguez ezpeleta 
+
+ benchmarking dna metabarcoding for biodiversity 
+
+based monitoring and assessment front mar sci 
+
+ doi fmars 
+
+barter r l and b yu superheat an r package for
+
+creating beautiful and extendable heatmaps for visualiz 
+
+ing complex data https arxiv org abs 
+
+benson d a m cavanaugh k clark i karsch mizrachi 
+
+d j lipman j ostell and e w sayers genbank 
+
+nucleic acids res d –d doi nar gks 
+
+bik h m d l porazinska s creer j g caporaso r 
+
+knight and w k thomas sequencing our way
+
+towards understanding global eukaryotic biodiversity 
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+http dx doi org s 
+http dx doi org journal pone 
+http dx doi org j marenvres 
+http dx doi org fmars 
+https arxiv org abs 
+http dx doi org nar gks 
+
+
+trends ecol evol – doi 
+
+j tree 
+
+butchart s h m and others global biodiversity 
+
+indicators of recent declines science – 
+
+doi science 
+
+caporaso j g and others ultra high throughput
+
+microbial community analysis on the illumina hiseq and
+
+miseq platforms isme j – doi 
+
+ismej 
+
+davy c m a g kidd and c c wilson develop 
+
+ment and validation of environmental dna edna 
+
+markers for detection of freshwater turtles plos one 
+
+e doi journal pone 
+
+djurhuus a and others evaluation of filtration and
+
+dna extraction methods for environmental dna biodi 
+
+versity assessments across multiple trophic levels front 
+
+mar sci doi fmars 
+
+edgar r c search and clustering orders of magnitude
+
+faster than blast bioinformatics – doi 
+
+ bioinformatics btq 
+
+flynn j m e a brown f j j chain h j macisaac and
+
+m e cristescu toward accurate molecular identifi 
+
+cation of species in complex environmental samples test 
+
+ing the performance of sequence filtering and clustering
+
+methods ecol evol – doi ece 
+
+folmer o m black w hoeh r lutz and r vrijenhoek 
+
+ dna primers for amplification of mitochondrial
+
+cytochrome c oxidase subunit from diverse metazoan
+
+invertebrates mol mar biol biotech – in 
+
+molecular marine biology and biotechnology springer 
+
+verlag new york issn 
+
+harvey j b j s b johnson j l fisher w t peterson 
+
+and r c vrijenhoek comparison of morphologi 
+
+cal and next generation dna sequencing methods for
+
+assessing zooplankton assemblages j exp mar biol ecol 
+
+ – doi j jembe 
+
+huson d h a f auch j qi and s c schuster 
+
+megan analysis of metagenomic data genome res 
+
+ – doi gr 
+
+jacobs f and g c grant guidelines for zooplank 
+
+ton sampling in quantitative baseline and monitoring
+
+programs us environmental protection agency ecologi 
+
+cal research series epa 
+
+kaartvedt s a staby and d l aksnes efficient
+
+trawl avoidance by mesopelagic fishes causes large under 
+
+estimation of their biomass mar ecol prog ser –
+
+ doi meps 
+
+kelble c r p b ortner g l hitchcock m j dagg and j 
+
+n boyer temporal and spatial variability of meso 
+
+zooplankton in a shallow sub tropical bay influence of
+
+top down control estuaries coast – doi 
+
+ s 
+
+kelly r p j l o’donnell n c lowell a o shelton j f 
+
+samhouri s m hennessey b e feist and g d williams 
+
+ genetic signatures of ecological diversity along an
+
+urbanization gradient peerj e doi peerj 
+
+kelly r p c j closek j l o’donnell j e kralj a o 
+
+shelton and j f samhouri genetic and manual
+
+survey methods yield different and complementary views
+
+of an ecosystem front mar sci doi 
+
+fmars 
+
+kircher m u stenzel and j kelso improved base
+
+calling for the illumina genome analyzer using machine
+
+learning strategies genome biol r doi 
+
+gb r 
+
+klappenbach j a j m dunbar and t m schmidt 
+
+rrna operon copy number reflects ecological strategies of
+
+bacteria appl environ microbiol – doi 
+
+ aem 
+
+leray m j y yang c p meyer s c mills n agudelo v 
+
+ranwez j t boehm and r j machida a new ver 
+
+satile primer set targeting a short fragment of the mito 
+
+chondrial coi region for metabarcoding metazoan
+
+diversity application for characterizing coral reef fish gut
+
+contents front zool doi 
+
+lindeque p k h e parry r a harmer p j somerfield a 
+
+atkinson and a ianora next generation sequencing
+
+reveals the hidden diversity of zooplankton assemblages 
+
+plos one e doi journal pone 
+
+lodge d m and others conservation in a cup of
+
+water estimating biodiversity and population abundance
+
+from environmental dna mol ecol – doi 
+
+ j x x
+
+mah�e f t rognes c quince c de vargas and m 
+
+dunthorn swarm robust and fast clustering
+
+method for amplicon based studies peerj e doi 
+
+ peerj 
+
+martin m cutadapt removes adapter sequences from
+
+high throughput sequencing reads embnet j doi 
+
+ ej 
+
+mcmurdie p j and s holmes phyloseq a biocon 
+
+ductor package for handling and analysis of high 
+
+throughput phylogenetic sequence data pac symp bio 
+
+comput – doi 
+
+mcmurdie p j and s holmes phyloseq an r pack 
+
+age for reproducible interactive analysis and graphics of
+
+microbiome census data plos one e doi 
+
+ journal pone 
+
+mcmurdie p j and s holmes waste not want not 
+
+why rarefying microbiome data is inadmissible plos com 
+
+put biol e doi journal pcbi 
+
+meier r k shiyang g vaidya p k l ng and m hedin 
+
+ dna barcoding and taxonomy in diptera a tale of
+
+high intraspecific variability and low identification success 
+
+syst biol – doi 
+
+michaud l j p blancheton v bruni and r piedrahita 
+
+ effect of particulate organic carbon on heterotro 
+
+phic populations and nitrification efficiency in biological
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+http dx doi org j tree 
+http dx doi org j tree 
+http dx doi org science 
+http dx doi org ismej 
+http dx doi org ismej 
+http dx doi org journal pone 
+http dx doi org fmars 
+http dx doi org bioinformatics btq 
+http dx doi org ece 
+http dx doi org j jembe 
+http dx doi org gr 
+http dx doi org meps 
+http dx doi org s 
+http dx doi org peerj 
+http dx doi org fmars 
+http dx doi org fmars 
+http dx doi org gb r 
+http dx doi org gb r 
+http dx doi org aem 
+http dx doi org 
+http dx doi org journal pone 
+http dx doi org j x x
+http dx doi org peerj 
+http dx doi org ej 
+http dx doi org 
+http dx doi org journal pone 
+http dx doi org journal pcbi 
+http dx doi org 
+
+
+filters aquac eng – doi 
+
+j aquaeng 
+
+min x j and d a hickey barcoding assessing
+
+the effect of varying sequence length on dna barcoding
+
+of fungi mol ecol notes – doi 
+
+j x
+
+muller karger f and others a framework for a
+
+marine biodiversity observing network within changing
+
+continental shelf seascapes oceanography – doi 
+
+ oceanog 
+
+oksanen j f g blanchet r kindt and p legendre 
+
+vegan community ecology r package version – 
+
+r 
+
+olds b p and others estimating species richness
+
+using environmental dna ecol evol – doi 
+
+ ece 
+
+port j a and others assessing vertebrate biodiversity
+
+in a kelp forest ecosystem using environmental dna 
+
+mol ecol – doi mec 
+
+pruesse e c quast k knittel b m fuchs w ludwig j 
+
+peplies and f o glockner silva a comprehen 
+
+sive online resource for quality checked and aligned ribo 
+
+somal rna sequence data compatible with arb nucleic
+
+acids res – doi nar gkm 
+
+r development team r a language and environ 
+
+ment for statistical computing r foundation for statisti 
+
+cal computing vienna 
+
+richardson a j in hot water zooplankton and cli 
+
+mate change ices j mar sci – doi 
+
+icesjms fsn 
+
+roger h w peter l jurgen s h rune and h mark 
+
+ ices zooplankton methodology manual elsevier 
+
+rusch d b and others the sorcerer ii global ocean
+
+sampling expedition northwest atlantic through eastern
+
+tropical pacific plos biol e doi 
+
+journal pbio 
+
+schminke h k entomology for the copepodologist j 
+
+plankton res i –i doi plankt fbl 
+
+shokralla s j l spall j f gibson and m hajibabaei 
+
+ next generation sequencing technologies for envi 
+
+ronmental dna research mol ecol – doi 
+
+ j x x
+
+steinberg d k b a s van mooy k o buesseler p w 
+
+boyd t kobari and d m karl bacterial vs zoo 
+
+plankton control of sinking particle flux in the ocean’s
+
+twilight zone limnol oceanogr – doi 
+
+ lo 
+
+turner j t zooplankton fecal pellets marine snow 
+
+phytodetritus and the ocean’s biological pump prog oce 
+
+anogr – doi j pocean 
+
+turner c r d j miller k j coyne j corush and l 
+
+orb�an improved methods for capture extraction 
+
+and quantitative assay of environmental dna from asian
+
+bigheaded carp hypophthalmichthys spp plos one 
+
+e doi journal pone 
+
+valentini a and others next generation monitoring
+
+of aquatic biodiversity using environmental dna metabar 
+
+coding mol ecol – doi mec 
+
+vestheim h and s n jarman blocking primers to
+
+enhance pcr amplification of rare sequences in mixed
+
+samples – a case study on prey dna in antarctic krill
+
+stomachs front zool doi 
+
+ward b a s dutkiewicz o jahn and m j follows 
+
+a size structured food web model for the global ocean 
+
+limnol oceanogr – doi 
+
+lo 
+
+wheeler q d p h raven and e o wilson taxon 
+
+omy impediment or expedient science – 
+
+doi science 
+
+wheeler q d and a g valdecasas ten challenges
+
+to transform taxonomy graellsia – doi 
+
+ graellsia v i 
+
+wickham h ggplot springer 
+
+zhang j k kobert t flouri and a stamatakis 
+
+pear a fast and accurate illumina paired end read
+
+merger bioinformatics – doi bioin 
+
+formatics btt 
+
+acknowledgments
+
+this publication is a contribution to the marine biodiversity observa 
+tion network mbon the authors acknowledge katherine hubbard
+
+and emily olesin for their constructive feedback on evaluating these
+methods and discussing the outcome we acknowledge dr ernst pee 
+
+bles and kate dubickas for assistance with zooplankton morphological
+identifications dr reiko michisaki for data management and dr chris
+kelble and lindsey visser for accommodating the sampling scheme this
+
+work was supported by nasa grant nnx ap a “national marine
+sanctuaries as sentinel sites for a demonstration marine biodiversity
+
+observation network mbon ” funded under the national ocean
+partnership program nopp rfp noaa nos ioos in
+partnership between noaa boem and nasa including the u s inte 
+
+grated ocean observing system ioos program office and the noaa
+ocean exploration program support was also provided by the national
+
+science foundation nsf u s a grant oce to fmk natalie
+sawaya was funded through the sanibel captiva shell club mary al
+
+bridell memorial fellowship 
+
+conflict of interest
+
+none declared 
+
+submitted october 
+
+revised december 
+
+accepted december 
+
+associate editor steven wilhelm
+
+djurhuus et al metabarcoding zooplankton from edna
+
+ 
+
+http dx doi org j aquaeng 
+http dx doi org j aquaeng 
+http dx doi org j x
+http dx doi org j x
+http dx doi org oceanog 
+http dx doi org ece 
+http dx doi org mec 
+http dx doi org nar gkm 
+http dx doi org icesjms fsn 
+http dx doi org icesjms fsn 
+http dx doi org journal pbio 
+http dx doi org journal pbio 
+http dx doi org plankt fbl 
+http dx doi org j x x
+http dx doi org lo 
+http dx doi org j pocean 
+http dx doi org journal pone 
+http dx doi org mec 
+http dx doi org 
+http dx doi org lo 
+http dx doi org lo 
+http dx doi org science 
+http dx doi org graellsia v i 
+http dx doi org bioinformatics btt 
+http dx doi org bioinformatics btt 
+
+

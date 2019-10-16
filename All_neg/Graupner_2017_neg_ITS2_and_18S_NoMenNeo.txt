@@ -1,0 +1,2328 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aquatic microbial ecology 
+
+
+aquatic microbial ecology
+aquat microb ecol
+
+vol – 
+https doi org ame 
+
+published online december 
+
+introduction
+
+life at the water–soil boundary is exposed to recur 
+ring floods in particular due to seasonal rain and
+thaw blom voesenek power et al but
+also due to summer inundations antheunisse ver 
+hoeven or other weather extremes flooding
+events are one trigger of biodiversity in aquatic and
+interlinked terrestrial ecosystems as they provide
+ways for the exchange of nutrients baldwin 
+mitchell beltman et al schulz et al 
+and organisms shearer et al schulz et al 
+ between both habitat types the river contin 
+
+uum concept of vannote et al describes soil as
+the resource donor and considers the biotic change
+along the river in contrast the flood pulse concept of
+junk et al described the flood pulse as a
+‘major force controlling biota in river floodplains’ of
+large tropical lowland rivers this concept considers
+the vertical connectivity of the river and the flood 
+plain and the resulting possible exchange between
+both habitats the extension of tockner et al 
+adapted this concept to the temperate zones with
+shorter and less predictable flood pulses concepts
+developed later like the meta ecosystem concept by
+loreau et al emphasize the reciprocal influ 
+
+© the authors open access under creative commons by
+attribution licence use distribution and reproduction are un 
+restricted authors and original publication must be credited 
+
+publisher inter research · www int res com
+
+ corresponding author nadine graupner uni due de
+
+effects of short term flooding on aquatic and
+terrestrial microeukaryotic communities 
+
+a mesocosm approach
+
+nadine graupner oliver röhl manfred jensen daniela beisser 
+dominik begerow jens boenigk 
+
+ biodiversity faculty of biology university of duisburg essen essen germany
+ ag geobotany faculty of biology and biotechnology ruhr universität bochum bochum germany
+
+ centre for water and environmental research zwu university of duisburg essen essen germany
+
+abstract freshwater and soil are not strictly isolated habitats in particular floods may facili 
+tate the exchange of organisms and nutrients flooding can have both a stimulating and a harmful
+effect on the organisms of the respective habitats the effects of short term flooding on
+microeukaryotic communities in the aquatic and terrestrial habitat have so far been scarcely stud 
+ied here we investigated the effect of a h artificial inundation on the microeukaryotic commu 
+nity composition in aquaflow mesocosm systems we investigated the shift of community compo 
+sition based on molecular amplicon diversity both on soil and water during flooding and for a
+period of d after flooding community composition was as expected strongly different
+between soil and water flooding had a significant effect on the freshwater community whereas
+the soil community was hardly affected in particular we observed a transfer of nutrients from the
+terrestrial habitat into the aquatic habitat and identified taxa that were transferred by the
+flooding event this effect of flooding was however overlaid by shifts of the communities with
+time presumably reflecting an acclimatization to the conditions in the aquaflow systems 
+
+key words flooding · inundation · microbial diversity · streams · nutrients · protists · fungi ·
+mesocosm experiment
+
+openpen
+ accessccess
+
+
+
+aquat microb ecol – 
+
+ence of ‘a set of ecosystems connected by spatial
+flows of energy materials and organisms across eco 
+system boundaries’ p aside from such poten 
+tial stimulating effects flooding events can also dis 
+turb the community of organisms lake 
+
+microeukaryotes predominantly protists and
+fungi are an important component in both habitats 
+in aquatic habitats protists are the dominant plank 
+tonic primary producers and effectively feed upon
+bacteria and thereby contribute to the self purifica 
+tion of water bodies fenchel Šimek et al 
+finlay esteban in terrestrial habitats pro 
+tists and microfungi are involved in soil respiration
+and decomposition processes coûteaux dar 
+byshire barrios rousk frey rønn
+et al p pointed out that most soil protists
+are ‘fundamentally aquatic creatures visiting a ter 
+restrial world’ many protist and microfungi taxa e g 
+chrysophytes ciliates oomycetes and chytrid 
+iomycetes indeed occur in both habitat types wong
+et al boenigk et al shearer et al 
+foissner et al findenig et al blackwell
+ nevertheless microeukaryotic communities
+distinctly differ between freshwater and terrestrial
+habitats grossmann et al flooding events are
+one potentially important route for the dispersal of
+organisms weisse and consequently may
+drive the distribution of these taxa between the dif 
+ferent habitat types shearer et al crump et al 
+ schulz et al taxa can be transferred
+from water to the soil where the soil pores may pro 
+vide an appropriate habitat for their survival vice
+versa taxa that occur in soil are washed out of the
+soil matrix into the water when substrate adhesion is
+not strong enough aside from the exchange of veg 
+etative cells a flooding event may transfer cysts and
+spores between habitats and stimulate the germina 
+tion of cysts shearer et al weisse foiss 
+ner such exchanges of organisms or immigra 
+tion may change the community composition or the
+abundances of taxa which in turn can affect ecosys 
+tem functions litchman identifying the extent
+of this exchange and the persistence of introduced
+microeukaryotes is therefore one objective of our
+study 
+
+most studies of flooding effects have so far focused
+on altered flow regimes within streams see e g 
+bunn arthington poff zimmerman for
+review the flux of nutrients bardgett et al 
+and changes in nutrient cycles see e g baldwin 
+mitchell for review floodplains and riparian
+zones see e g naiman decamps ward et al 
+ for review as well as on artificial long term
+
+inundations e g agricultural studies and mesocosm
+experiments leading to anoxic conditions in soil lie 
+sack et al unger et al b these studies
+investigated plant and microbial communities in
+floodplain or riparian zones blom voesenek 
+beltman et al kobayashi et al baldwin et
+al simoes et al effects of altered
+hydraulic conditions on fishes invertebrates and the
+algae community in streams growns growns
+ anderson et al mckay king or
+the effect of abiotic changes on the microbial com 
+munities in soils bossio scow however 
+most studies focused on one habitat type the effect
+of short term inundation is less well studied — partic 
+ularly for streams but also for the interconnected soils
+ but see mentzer et al muylaert vyverman
+ antheunisse verhoeven unger et al 
+ a wilson et al mentzer et al 
+unger et al a and wilson et al studied
+the effects of short term inundations on soil microbial
+communities with regard to the community composi 
+tion microbial biomass and activity by terminal
+restriction fragment length polymorphism analysis
+ t rflp phospholipid fatty acid analysis plfa 
+and activity analysis of several enzymes all studies
+identified a change in community structure in soil
+caused by flooding e g unger et al a found a
+decrease of fungal plfa markers compared to anaer 
+obic bacterial plfa markers muylaert vyverman
+ studied the effect of a short term inundation
+on the aquatic community composition they found
+shifts in community assemblage caused by the flood 
+ing event and the return to the original community
+composition after d 
+
+here we analyze the effect of short h ongoing
+flooding event on the eukaryotic community exclud 
+ing metazoa and embryophyta of both freshwater
+and the interconnected soil using experimental
+mesocosm systems i e the aquaflow systems in the
+greenhouses at the botanical garden of the uni 
+versity duisburg essen fig we investigated the
+shifts in community structure for a time period of
+ d further we analyzed the rate of exchange of
+organisms caused by the flooding event and the per 
+sistence of immigration of individual taxa 
+
+materials and methods
+
+experimental setup
+
+experiments were performed in experimental
+stream systems i e the aquaflow systems at the
+
+ 
+
+
+
+graupner et al effects of short term flooding on microeukaryotes
+
+university of duisburg essen fig each system 
+constructed as a circulatory system comprises a
+series of tanks and channels simulating the riffle and
+pool sequence of streams three tanks l l 
+ l are connected by channels m and m 
+which are exchangeable for channels with different
+profiles ranging from to cm width and a depth
+between and cm two large storage containers
+ l are used for defined media the systems
+can therefore be operated in circular flow or uniflow
+mode these systems allow for manipulation of water
+volumes flow velocity slope of the channels and
+water temperature further the systems allow alter 
+natively for natural illumination and or artificial illu 
+
+mination parameters such as room temperature 
+maximal light intensity of sunlight up to a defined
+limit beyond this limit the aquaflows are automati 
+cally shaded or artificial illumination as well as the
+water temperature by use of water refrigerators 
+can be adjusted 
+
+for our experiment the systems were used for sim 
+ulating soil–water interactions in the course of a
+flooding event the channels simulate the soil habi 
+tats whereas the water tanks simulate the aquatic
+habitat we used flow channels with cm width and
+ cm sediment depth so that total soil volume per
+system was l for the aquatic habitat we used
+the small water cycle excluding the containers i e 
+
+ 
+
+channel 
+
+storage container 
+
+storage container 
+
+pool 
+
+pumping and 
+cooling devices
+
+pool 
+
+pool 
+
+channel 
+
+ 
+
+ 
+
+fig schematic illustration of one ‘aquaflow’ the brown area shows the soil filled part of the aquaflow the blue area
+shows the water filled part of the aquaflow blue arrows highlight the water cycle of the flooded treatments whereas the
+dashed line shows the shortcut water cycle of the control treatments without pool and channel the marked positions 
+
+in channel and pool show the positions of sampling
+
+
+
+aquat microb ecol – 
+
+with pools to and both channels so that the total
+water volume per system was l 
+
+water originated from the river emscher ° ’
+ ’’ n ° ’ ’’ e germany and soil from an
+untreated meadow ° ’ ’’ n ° ’ ’’ e 
+germany soil i e the a horizon was taken and
+homogenized sieved mesh size cm to remove
+remnants of plant roots stones and visible inverte 
+brates immediately after transport the homoge 
+nized soil was filled into channel of each of the
+ aquaflow systems there it was stored under
+experimental conditions for d until the experi 
+ment started water was sampled from the river
+emscher by a generator driven pump mp a 
+gj güde wolpertshausen including a filter
+ mesh size mm to remove plant particle and
+invertebrates water was transported in a l
+ibc water tank barrel trading gaildorf and
+placed in pools to of each of the aquaflow
+systems immediately after sampling there it was
+stored under experimental conditions for d until
+the experiment started the experiment took d
+and was conducted from to september 
+during the experiment evaporating water was
+replaced with deionized uv irradiated water to
+maintain the water levels 
+
+natural illumination up to µe at higher light
+intensities the green house units were shaded was
+used for the experiment air temperature in the
+greenhouse units was adjusted to °c and water
+temperature was adjusted to ± °c sd by
+cooling with the water refrigerator tc teco
+srl ravenna ita the inclination of the channels
+was set to ° and the rotation of the peristaltic
+pump hei flow advantage heidolph instruments 
+schwabach was rpm corresponding to a water
+discharge of l h− 
+
+to investigate the effect of flooding we simulated
+a flooding event with a duration of h in of the 
+aquaflow systems the other aquaflow systems
+were used as controls in the control treatments 
+water circulation was shortcut by connecting pool 
+and pool with an mm silicon tube bypassing pool
+ and channel the soil in these channels stayed
+therefore separate from the water flow during the
+flooding water was pumped from pool into pool 
+through an mm silicon hose from there water
+could flow through channel into pool where it
+was mixed by an aquarium pump eheim deizisau 
+and further flow through channel into pool 
+water flow in the flooded treatments was shortcut
+after the end of the flooding event as described for
+the control treatment 
+
+sampling strategy and sample preparation
+
+the experiment ran for a total time period of d 
+each of the aquaflow systems was sampled at 
+different times table at each time point of sam 
+pling water samples were collected whereas soil
+samples were only collected when the aquaflow
+systems were not flooded no collection of samples at
+day and day water samples were collected
+near the surface in pool except the samples of day
+ here we collected the ‘first water’ from the out 
+put of channel and soil samples in the center of
+channel 
+
+at each sampling we measured various physico 
+chemical parameters in the water nitrate nitrite 
+phosphate ammonium and chloride concentration 
+as well as carbonate hardness temperature conduc 
+tivity and ph the levels of nitrite nitrate phos 
+phate ammonium carbonate hardness and chloride
+were measured using test kits of spectroquant® fol 
+lowing the instructions of the manufacturers there 
+fore ml subsamples were taken and filtered
+through µm pes membrane filters type sar 
+torius göttingen temperature conductivity and ph
+were measured within the aquaflows using the
+combi measuring instrument combo ph ec
+ hanna vöhringen in soil we measured tempera 
+ture soil moisture via suction tension of soil water 
+and oxygen availability via the redox potential to
+conduct measurements we used a probe thermome 
+ter tensiometers and redox electrodes maß feld 
+ecotech umwelt meßsysteme bonn measure 
+ments were performed within the aquaflow sys 
+tems the tensiometers and the redox electrodes
+were permanently installed during the whole experi 
+ment in the center of channel chemical parame 
+ters were determined once and all physical parame 
+ters in water and soil were determined twice
+independently mean values and standard deviations
+were calculated amongst the control treatments and
+the flooded treatments 
+
+further we collected water and soil samples 
+water samples were collected in sterile l glass bot 
+tles from each sample ml subsamples were
+taken and dark adapted min for measurement
+of the photosynthetic activity via chlorophyll a fluo 
+rescence using the aquapen c ap instrument
+ photon system instruments brno we performed
+the ojip protocol to measure the ‘fv fm’ ratio and
+the ‘fix area’ value the ‘fv fm’ ratio measures the
+performance of the photo system ii and thus indicates
+the extent of stress and vitality strasser et al 
+thwe kasemsap the ‘fix area’ value meas 
+
+
+
+graupner et al effects of short term flooding on microeukaryotes
+
+ures the area under the induction curve of fluores 
+cence during a saturating light flash duration s 
+which represents indirectly the chlorophyll a content
+ strasser et al thwe kasemsap addi 
+tional ml subsamples were preserved with formal 
+dehyde final concentration and another sub 
+sample of ml was filtered through a µm
+polycarbonate isopore™ membrane filter merck
+millipore® at mbar by a laboport® n 
+ft pump knf neuberger freiburg for enrich 
+ment of biomass we collected g soil per sample
+via sterile spatula biomass filters and soil samples
+were stored on ice until freezing at − °c on the
+same day to avoid cross contamination we used for
+each aquaflow separate or ethanol cleaned measur 
+ing instruments and sterile laboratory equipment 
+
+laboratory procedures
+
+bacteria from formol fixed samples were quantified
+by staining with dapi ’ diamidino phenylin 
+dole and visualization by fluorescence microscopy 
+
+dna from water samples was extracted using the
+extraction kit my budget dna mini kit biobudget
+technologies krefeld according to the manufac 
+turer s instructions except for the following steps 
+biomass filters were transferred to lysis tubes e mp
+biomedicals µl tls lysis buffer was added and
+incubated °c min then mechanical lysis ×
+ m s− s was performed with the fastprep 
+instrument mp biomedicals followed by centrifu 
+gation steps × g × min × min prior
+to the additional washing steps at least with the
+ms wash buffer we incubated the sample in the first
+ms washing for min elution was performed in
+ µl elution buffer extraction of dna from g soil
+samples was performed according to the protocol
+developed by peršoh et al with a modified
+amount of aluminium sulfate and elution buffer
+according to röhl et al the isolated dna of
+all samples was stored at − °c 
+
+pcr amplification targeting a bp long frag 
+ment including the ssu v region including the
+its forward primers are based on the euk f
+primer ‘ gta cac acc gcc cgt c ‘ lane
+ lange et al the reverse primers are
+based on the design by white et al and were
+modified by j nuy pers comm to cover a broad
+taxonomic spectrum primers with different wobble
+positions were combined in a ratio of ’ 
+gct gcg ccc ttc atc gkt g ’ its dino 
+ and ’ gct gcg ttc ttc atc gwt r ’
+
+ its broad pcr was carried out in accor 
+dance to the protocol published by röhl et al 
+for each sample separate pcr products were
+amplified with diverging primers a b variant for
+the amplicon duo pipeline lange et al short
+description below paired end hiseq sequen 
+cing with × bp reads using the ‘rapid run’ mode
+was carried out using the illumina platform of a
+sequencing provider fasteris geneva barcode
+sorting of samples as well as adapter and quality
+trimming was performed by the sequencing com 
+pany 
+
+data processing and statistical analyses
+
+raw sequence data are available at the genbank
+sequencing read archive under the accession num 
+ber prjna quality of the demutiplexed
+sequence reads was checked using the fastqc soft 
+ware v andrews subsequently the
+amplicon duo analysis pipeline lange et al 
+was used to filter reads for quality using prinseq 
+lite v parameters basequality mean 
+quality schmieder edwards assemble
+the paired end reads with pandaseq v parame 
+ters threshold minoverlap masella et al 
+ detect chimera sequences with uchime
+ v parameters default edgar et al 
+and remove otus which did not occur in subsample
+a and b reads remaining after a b filtering were
+clustered via the software swarm v default
+parameters mahé et al the resulting otus
+were additionally clustered by identical v se 
+quences bp ident r script ‘v clust r’
+by m jensen available at https github com 
+manfred uni essen v cluster and subsequently
+taxonomically assigned by searching the ncbi data 
+base ncbi blast parameter ident 
+e value ≤ − max target seqs representative
+otu maximum of log seq length × log taxlevel 
+× ident blast this resulted in otus and
+ reads whereby otus and reads
+were unassigned the remaining read counts ranged
+between and per sample except for
+ outlier with reads this water sample from
+day was excluded from further analyses all
+reads assigned to metazoa otus reads 
+and embryophyta otus reads were
+excluded from the dataset because microeukaryotes
+are the target organisms of this study the remaining
+read counts ranged between and per
+sample to balance differences in sequencing depth
+
+ 
+
+
+
+aquat microb ecol – 
+
+between the samples we performed ‘hellinger’ nor 
+malization square root from the relative abundance 
+and trimmed mean of m values tmm normaliza 
+tion for the statistical analyses in edger v 
+robinson et al finally we excluded repli 
+cate of the soil sample of day that was an outlier
+with regard to the otu richness fold otu rich 
+ness compared to the average otu richness of all
+other soil samples taxonomic affiliation at species
+or genus level of otus were mentioned if it was
+ all otu sequences and the abundance
+matrix number of reads per otu and samples used
+in this study are deposited at figshare under the doi
+ m figshare 
+
+otu richness and abundance were computed for
+each time of sampling and treatment therefore 
+mean values and standard deviations sd of repli 
+cates were calculated community structure analyses
+were based on the normalized read abundance of
+otus to investigate the most important variables
+explaining differences in community composition 
+hierarchical clustering analysis ward combined
+with principal coordinate analysis pcoa was per 
+formed based on the normalized read abundance of
+otus and percentage difference dissimilarity matrix
+ bray using the r package vegan v oksanen
+et al further beta diversity indices
+ sørensen presence absence of otus dice 
+sørensen ren konen ‘hellinger’ normalized
+read abundance of otus renkonen were cal 
+culated between water and soil samples between
+non flooded control and flooded samples as well as
+between different sampling times 
+
+otus were classified as invasive if they fulfilled all
+of the following criteria at the start of the exper 
+iment the otu was exclusively present in habitat
+type while after the flooding event the otu was
+present in both habitat types the otu did not
+occur in the control throughout the whole experi 
+ment further we investigated the effect of the flood 
+ing event by statistical testing for significant differen 
+tial otu abundances between non flooded control
+samples and flooded samples with the r package
+edger v robinson et al 
+
+all plots were created in r using the package
+ggplot wickham 
+
+results
+
+we investigated the effect of flooding on protist
+diversity and community composition within experi 
+mental stream systems called aquaflows fig 
+
+using molecular sampling at the start of the experi 
+ment the soil community and aquatic community dif 
+fered decisively 
+
+initial community structure
+
+we detected on average ± otus in the
+samples from the aquatic community see fig s in
+the supplement at www int res com articles suppl 
+a p supp pdf based on read abundance 
+green algae i e chlorophyta and steptophyta 
+ ± ascomycetes ± chrys 
+ophytes ± chytridiomycetes ±
+ and diatoms ± were the dominat 
+ing groups fig the most abundant sequences
+were affiliated with a chrysophyte a chlorophy 
+ceae the saccharomycete phaeosphaeria sp 
+identity the chrysophyte poteriospumella lacustris
+ identity an uncultured basidiomycete asco 
+mycete and glomeromy cete as well as a diatom a
+cercozoan and an agaricomycete these otus
+accounted for of the reads 
+
+in contrast the soil community initially comprised
+only ± otus based on read abundance 
+ascomycetes ± cercozoans ±
+ and basidiomycetes ± were the
+dominating groups fig the most abundant se 
+quences were affiliated with uncultured ascomy 
+cetes the fungi mortierella sp identity an
+uncultured zygomycete a cercozoan saccharo 
+mycetes the chlorophyceae coelastrella terrestris
+ identity as well as the oomycetes pythium
+heterothallicum identity and pythium plero 
+ticum identity these otus accounted for
+ of the reads 
+
+non flooded control treatment
+
+in the aquatic community taxon richness
+decreased steadily over time to an otu richness of
+ ± towards the end of the experiment table 
+fig s the overall decrease in otu richness was
+paralleled by a decrease of primary production as
+reflected by a decreasing ‘fix area’ value of chloro 
+phyll a fluorescence fig which is to be expected
+for bottom up controlled communities 
+
+the relative abundance of ascomycetes sharply
+decreased during the course of the experiment
+ fig in contrast the relative abundance of cili 
+ates choanoflagellates and diatoms increased during
+the experiment fig the relative abundance of
+
+ 
+
+http www int res com articles suppl a p supp pdf
+http www int res com articles suppl a p supp pdf
+
+
+graupner et al effects of short term flooding on microeukaryotes
+
+green algae decreased and the relative abundance of
+chrysophytes increased from day until the second
+day from the second day onwards this trend was
+reversed i e the relative abundance of green algae
+
+increased while the relative abundance of chryso 
+phytes decreased fig diatoms and green algae
+were among the dominating groups at the end of the
+experiment this was reflected by the most abundant
+
+ 
+
+water flooded soil flooded
+
+water control soil control
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+taxonomic group
+
+ciliates
+
+dinophyceae
+
+apicomplexa
+
+bicosoecids
+
+oomycetes
+
+cercozoa
+
+euglenids
+
+ascomycetes
+
+amoebozoa
+
+haptophytes
+others
+
+r
+ea
+
+d
+ a
+
+b
+un
+
+d
+an
+
+ce
+ in
+
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+
+da
+y 
+
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+da
+
+y 
+da
+
+y 
+
+da
+y 
+
+ 
+da
+
+y 
+
+da
+y 
+
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+da
+
+y 
+da
+
+y 
+
+choanoflagellates
+chytridiomycetes
+
+basidiomycetes
+
+glomeromycetes
+
+heterolobosea
+
+cryptophytes
+green algae
+
+chrysophytes
+
+katablepharidophytes
+
+diatoms
+
+kinetoplastids
+
+fig community composition based on read abundance for aquatic non flooded control samples and aquatic flooded
+samples left as well as terrestrial non flooded samples and terrestrial flooded samples right 
+
+day day day day day day day 
+
+description
+flooded start while flooding while flooding drying period drying drying drying
+samples value direct after start h after start direct after period period period 
+
+of flooding of flooding flooding d drying d drying d drying
+
+control samples start value sampling sampling sampling sampling sampling end sampling
+
+otu richness
+water control ± ± ± ± ± ± ± 
+water flooded ± ± ± ± ± ± ± 
+soil control ± – – ± ± ± ± 
+soil flooded ± – – ± ± ± ± 
+
+no of taxa with significantly different read abundance
+water control vs 
+water flooded
+
+soil control vs – – 
+soil flooded
+
+table timing scheme of sampling including description of experimental phases for the treatments ‘flooded’ and ‘control’ 
+otu richness and the number of taxa with significantly different read abundances p between the non flooded 
+
+control treatment and flooded treatment of water and soil samples data reported as mean ± sd – no sampling done
+
+
+
+aquat microb ecol – 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+– 
+
+– 
+
+– 
+
+– 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+treatment control flooded
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+ 
+
+da
+y 
+
+ 
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+ 
+
+ 
+da
+
+y 
+ 
+
+ 
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+ 
+
+ 
+da
+
+y 
+ 
+
+ 
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+da
+
+y 
+ 
+
+da
+y 
+
+ 
+
+ × 
+
+ × 
+
+ × 
+
+ × 
+
+ × 
+
+ × 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ × 
+
+ × 
+
+ × 
+
+ × 
+
+ × 
+
+ 
+
+ 
+
+ 
+
+ 
+
+m
+ea
+
+su
+re
+
+d
+ v
+
+al
+ue
+
+soil temperature °c soil moisture hpa soil redox potential mv 
+
+water fv fm water fix area water bacteria counts ml
+– 
+
+water nitrite mg l– water ammonium mg l– water phosphate mg l– 
+
+water chloride mg l– water hydrocarbonate mg l– water nitrate mg l– 
+
+water temperature °c water ph water conductivity µs cm– 
+
+
+
+graupner et al effects of short term flooding on microeukaryotes
+
+otus at the end of the experiment diatoms one
+affiliated to cyclotella meneghiniana iden 
+tity a chlorophyceae and a choanoflagellate were
+the most abundant taxa these community shifts
+were accompanied by changes in abiotic parameters 
+most pronounced were shifts in inorganic nitrogen
+concentrations e g nitrate concentration dropped
+from mg l− at the start of the experiment to
+ mg l− towards the end fig 
+
+the soil communities were much more stable 
+taxon richness as well as community structure
+hardly changed over time communities were domi 
+nated by ascomycetes and other fungi as well as by
+cercozoans throughout the course of the experiment 
+this trend was reflected by the most abundant otus 
+ uncultured ascomycetes and the fungi mortierella
+sp identity were the most abundant otus at
+the end of the experiment in contrast to the commu 
+nity composition the abiotic parameters changed
+considerably in soil during the course of the experi 
+ment in particular the redox potential and soil
+ moisture changed over time fig 
+
+flooded treatment
+
+in addition to the time dependent shifts in the non 
+flooded control samples which were also present in
+the flooded treatment we observed a clear effect of
+flooding flooding obviously resulted in nutrient dis 
+charge from soil to the aquatic phase this was partic 
+ularly pronounced for phosphorus but also distinct for
+nitrogen fig this fertilization of water was ac 
+companied by an increase of bacteria fig soil
+temperature was generally higher than water temper 
+ature but in the flooded treatments the temperature
+of soil and water converged during flooding fig 
+
+flooding also affected community composition 
+although this effect was only pronounced in the
+water whereas flooding related community changes
+were minor in the soil in the water flooding also
+resulted in an immediate decrease of otu richness
+to ± otus table fig s however diver 
+sity recovered quickly after the end of the flooding
+and subsequently followed the general decreasing
+trend observed in the non flooded control treatment 
+at the end of the experiment the otu richness in the
+water was ± otus table fig s the com 
+
+munity structure in the water was similar to the non 
+flooded control samples but shifts were more pro 
+nounced in the flooded treatment fig in particu 
+lar ciliates chrysophytes choanoflagellates and
+basidiomycetes increased during the experiment at
+the end of the experiment diatoms ciliates and
+green algae were the dominating groups however 
+the most abundant otus were affiliated with 
+uncultured basidiomycetes diatoms one affiliated
+to cyclotella meneghiniana identity a
+choanoflagellate and a ciliate 
+
+further flooding resulted in an organism exchange
+between both habitat types we identified otus
+that were definitively introduced into the water by
+the flood table s in particular several fungi
+including strains related to e g an unidentified
+mucoromycote identity rhizophlyctis rosea
+ identity as well as some cercozoans and cil 
+iates were initially only present in soil but were
+observed in water after flooding however most of
+these immigrating taxa failed to establish a stable
+population a total of otus were only found in the
+water during flooding whereas taxa were also
+found after the flooding event already d after the
+flooding event at day we detected only of the
+introduced taxa and only of these taxa were
+detected wk after the flooding e g strain related
+to the peronosporomycete lagenidium sp 
+identity the ascomycete aspergillus versicolor 
+identity and otu affiliated with mucoromycotina
+ identity the latter otus were detected at
+almost each sampling until the end of the experi 
+ment only otus originating from water were
+detected in the soil after flooding of these an uncul 
+tured chytridiomycete and one basidiomycete were
+detectable in soil at a later sampling i e at day 
+
+comparison
+
+the most important factors explaining differences
+in community composition as derived from pcoa
+were the habitat type followed by the duration of the
+experiment whereby the duration of the experiment
+only affected the water community fig the habi 
+tat type was clearly the variable with the strongest
+explanatory power this was further confirmed by a
+generally low community similarity between soil and
+
+ 
+
+fig physico chemical parameters chlorophyll a fluorescence and bacteria counts of aquatic samples for both treatments
+ non flooded control treatment and flooded treatment as well as physical parameters of terrestrial samples non flooded
+ control treatment and flooded treatment for all times of sampling parameters that were affected by the flooding event are 
+
+highlighted in blue
+
+
+
+aquat microb ecol – 
+
+water as reflected by low values of the renkonen and
+sørensen indices fig a our study revealed that
+within the experimental set up a temporal develop 
+ment of water communities was pronounced pre 
+sumably due to adaptions to the mesocosm systems 
+this community succession was reflected by
+decreasing renkonen and sørensen indices over
+time fig c 
+
+nevertheless flooding had a significant impact on
+the water community several taxa differed signifi 
+cantly p in their read abundance between the
+treatments table fig s the effect of the flood 
+ing was most pronounced directly after the flooding
+event at day at this time taxa differed signif 
+icantly in their read abundance between the water
+treatments approximately of these taxa were
+fungi soil biodiversity was much less affected by
+flooding for the whole duration of the experiment 
+we identified only mortierella sp that differed sig 
+nificantly in read abundance between the treat 
+ments the similarity of the soil community even
+increased after the initial flooding between treat 
+ments as indicated by increasing renkonen and
+sørensen indices fig b 
+
+further flooding initially decreased otu richness
+in water but richness recovered after this initial
+breakdown followed by the general decrease
+towards the end of the experiment this initial
+decrease of otu richness in water resulted in a
+strong drop of community similarity between the
+
+flooded treatment and control as reflected by the
+renkonen and sørensen index fig b while otu
+richness recovered after the initial decrease the ren 
+konen index remained low which indicated shifts in
+the abundances of the water community 
+
+discussion
+
+habitat specific community structure
+
+microeukaryotic community composition differed
+between water and soil during the whole experi 
+ment based on read abundances the community in
+stream waters was composed of algae in particular
+green algae chrysophytes and diatoms phago 
+trophs in particular ciliates and heterotrophic chrys 
+ophytes and fungi in particular chytridiomycetes
+and ascomycetes the soil community was strongly
+dominated by fungi in particular ascomycetes but
+cercozoans ciliates and some algae were also part of
+the community community composition was there 
+fore dominated by taxa typically reported for rivers
+ gamier et al lópez archilla et al weit 
+ere arndt muylaert vyverman 
+shearer et al kiss et al crump et al 
+ and soils o’brien et al barrios 
+crump et al baldwin et al geisen et al 
+ grossmann et al 
+
+in the water the most abundant otus re flected
+the community composition amongst these the
+ascomycete phaeosphaeria sp and the chrysophyte
+poteriospumella lacustris could be identified in the
+initial community phaeosphearia spp are distrib 
+uted from the arctic to the tropics they are common
+endophytic decomposers which can be found in soils
+ connell et al and on submerged materials in
+marine or freshwater environments bucher et al 
+ sakayaroj et al the chrysophyte pote 
+riospumella lacustris was previously described as a
+spumella like flagellate or reported under hetero 
+trophic nanoflagellates hnfs both ‘groups’ were
+reported to be abundant in freshwater by several
+authors e g nolte et al weitere arndt 
+phaeo sphaeria sp and poteriospumella lacustris
+seem to be generalists and thus can occur in high
+abundances after transfer from their original habitat
+to the experimental systems at the end of the exper 
+iment independent from flooding the diatom
+cyclotella mene ghiniana was amongst the most
+abundant otus high abundances or blooms in
+rivers of cyclotella meneghiniata have been reported
+several times mallin et al rojo et al 
+
+ 
+
+– – 
+
+– 
+
+ 
+
+ 
+
+ 
+
+pcoa 
+
+p
+c
+
+oa
+ 
+
+ 
+ 
+
+ 
+ 
+
+soil
+
+day 
+
+day to 
+day to 
+
+water
+
+fig principal coordinate analysis pcoa combined with
+ward cluster analysis of aquatic and terrestrial samples for 
+
+all time points of sampling
+
+
+
+graupner et al effects of short term flooding on microeukaryotes
+
+mitrovic et al in soil the fungi mortierella sp 
+the green algae coelastrella terrestris and the
+oomycetes pythium heterothallicum and pythium
+percoticum could be identified amongst the most
+abundant otus in the initial community coelas 
+trella terrestris also known under several synonyms
+e g scotiellopsis terrestris was reported as rarely
+
+occurring but globally distributed terrestrial green
+algae hoffmann darienko pythium spp are
+common plant pathogens that cause the disease root
+rot schroeder et al broders et al the
+abundance of pythium spp varies and depends on
+the type of land use but it is not reported as highly
+abundant mukundi et al xu et al in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+soil sørensen index
+
+water sørensen index
+
+soil renkonen index
+
+water renkonen index
+
+day day day 
+
+ 
+similarity
+
+a c
+
+day 
+
+day 
+
+b
+
+effect of flooding control vs flooded sørensen index
+
+effect of flooding control vs flooded renkonen index
+
+day day day day day 
+
+effect of habitat soil vs water sørensen index
+
+effect of habitat soil vs water renkonen index
+
+day day day day day 
+
+control flooded
+
+day 
+
+day 
+
+day 
+
+day 
+
+day 
+
+day 
+
+day 
+
+day 
+
+day 
+
+day 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+soil water
+
+fig renkonen and sørensen diversity indices of water and soil samples a the effect of the habitat soil vs water on the
+relative abundance of otus renkonen and on the presence absence of otus sørensen was calculated for the non flooded
+control treatments and the flooded treatments b the effect of flooding non flooded control treatment vs flooded treatment 
+on the relative abundance of otus renkonen and on the presence absence of otus sørensen was calculated for water and
+soil c the effect of time on the relative abundance of otus renkonen and on the presence absence of otus sørensen 
+was calculated for both treatments non flooded control treatments upper left triangle of matrix flooded treatments 
+lower right triangle of matrix of water and soil for the sampling times day vs day day vs day as well as day 
+
+vs day 
+
+
+
+aquat microb ecol – 
+
+contrast mortierella spp are typical decomposers
+and reported to be very abundant in soils warcup
+ but also in freshwaters gonçalves et al 
+likewise at the end of the experiment independent
+of flooding we found the fungi mortierella sp 
+amongst the most abundant otus hence the most
+abundant otus are in agreement with previously
+reported taxa their abundances and habitat types 
+
+however we suspect that fungi are overrepre 
+sented in the sequence libraries because specifically
+the reverse primers have originally been designed
+for fungi because fungi were expected to be a domi 
+nant component specifically in soil o’brien et al 
+ barrios baldwin et al a certain
+bias towards this group and a presumably good
+taxon coverage for this group was considered advan 
+tageous when selecting the primer set in contrast a
+low read abundance for e g kinetoplastids and
+amoebozoans which are among the typical soil pro 
+tists von der heyden cavalier smith fiore 
+donno et al indicates a certain underestima 
+tion of these taxa due to the selected primers this
+general underrepresentation of specific groups is
+known for broad primers because the ribosomal
+sequences of e g amoebozoans are particularly rich
+in inserts and thus underperform during pcr and the
+subsequent sequencing step geisen et al 
+fiore donno et al further the highly variable
+its can lead to a length bias for groups with long
+its sequences which may not be sequenced by the
+illumina technology and thus be underrepresented in
+the sequencing libraries thus as known for basi 
+cally any broad primer set the sequence read abun 
+dance does not reflect the real taxon abundance
+ pawlowski et al nevertheless despite a cer 
+tain taxon bias the analyses allow for comparative
+community analyses as has been demonstrated in
+numerous studies e g taib et al de vargas et
+al grossmann et al 
+
+shifts in aquatic community structure over time
+
+our results demonstrate a strong succession of the
+aquatic microeukaryotic community the temporal
+shift of the community composition is presumably
+reflecting events natural taxon turnover and the
+acclimation to the conditions in the aquaflow meso 
+cosms the chrysophyte read abundance increased
+during the first days of the experiment but decreased
+later on to be replaced by reads affiliated with green
+algae diatoms ciliates and choanoflagellates this
+development is in accordance with expectations het 
+
+erotrophic chrysomonad flagellates are r strategists
+and among the first taxa which respond to environ 
+mental stimuli and food availability reflected by
+increasing relative read abundances Šimek et al 
+ auer arndt boenigk et al impor 
+tant predators of chrysomonads are ciliates auer 
+arndt and thus maybe responsible for the later
+decline of chrysomonads during the experiment 
+choanoflagellates may benefit from the decline of
+chrysomonads and become the dominant bacteri 
+vores after the decline of heterotrophic chrysomon 
+ads carrias et al chlorophyceae and diatoms
+tend to be the dominating phytoplankton taxa and
+increase during later stages of succession gamier et
+al 
+
+further some taxa initially present in the aquatic
+community were presumably allochthonous these
+taxa decreased considerably during the first few days
+of the experiment for instance ascomycetes were
+the second most abundant group in water at the
+experiment start around aquatic fungi are
+known in the temperate region with most taxa
+belonging to ascomycetes and chytridiomycetes
+ goh hyde shearer et al they often
+occur in streams on submerged material such as
+leaves and wood where they degrade these plant
+materials wong et al shearer et al 
+however the massive decrease of ascomycetes dur 
+ing the experiment presumably indicates a terrestrial
+origin for many of the observed taxa that may have
+entered the water as spores or on plant material röhl
+et al 
+
+the soil community was much more stable this
+agrees with the expectations as ‘soils are buffered
+against environmental change by biophysical prop 
+erties’ bardgett et al however the extent of
+stability was unexpected maybe this is due to the
+dominance of fungi there is however evidence for
+natural taxon turnover in fungal communities
+ voríšková et al but these studies investigated
+the communities on longer temporal scales compared
+to ours 
+
+flooding as a factor for organism exchange and
+shifts in community
+
+we were able to demonstrate that short flooding
+events cause inter habitat dispersal of microeukary 
+otes in water a few allochthonous taxa originating
+from soil were observed throughout the whole exper 
+iment two fungi one taxa affiliated to mucoromy 
+cotina and the saccharomycete aspergillus versi 
+
+ 
+
+
+
+graupner et al effects of short term flooding on microeukaryotes
+
+color seemed to establish a stable population in the
+new habitat aspergillus versicolor is a resistant and
+ubiquitous fungus it is known from several habitats 
+e g soil baakza et al marine environments
+ baakza et al nazareth et al and fresh 
+water kinsey et al thus it is a good candi 
+date for persisting immigration but several taxa
+were only observed during the actual flooding or for
+a short time period after the flooding event indica 
+ting that they were only transferred from soil into the
+water and vice versa but unable to establish stable
+populations in the new habitat these results corre 
+spond to those of crump et al who demon 
+strated that freshwater was inoculated with soil taxa
+but the persistence of soil taxa was minor for eukary 
+ota compared to bacteria and archaea 
+
+upon flooding nutrient discharge from soil to
+water resulted in a massive change in physico chem 
+ical conditions in the water this nutrient pulse and
+the accompanied increase of bacteria resulted in a
+shift in community composition and relative abun 
+dance of taxa the shifts in community composition
+were similar in the flooded and the non flooded
+treatment this temporal succession was however 
+more pronounced in the flooded treatment — in par 
+ticular for heterotrophic chrysomonads choanofla 
+gellates and ciliates which may be due to the higher
+abundance of bacteria Šimek et al carrias et
+al the strong decrease of otu richness in the
+water during the initial phase of the flooding may be
+related to a retention of taxa by the soil due to a ‘fil 
+ter’ effect abu ashour et al however if this
+assumption is true the aquatic taxa hardly survive in
+the soil as we did not find evidence for a successful
+colonization of soil by aquatic taxa the subsequent
+increase of otu richness in the water may be a result
+of germination of taxa of the seedbank lennon 
+jones and potentially of an introduction of
+alien taxa by air ventilation in the greenhouse cham 
+bers the airborne introduction of species is in accor 
+dance with theoretical considerations and experi 
+mental evidence of e g rogerson detwiler 
+altenburger et al and genitsaris et al 
+
+in the soil contrary to the studies of wilson et al 
+ and others we found only minor changes in
+the community structure caused by flooding in wil 
+son et al the duration of the flood was con 
+siderably longer so we suspect that short term
+floods as in our study do not allow for successful
+establishment of taxa whereas longer flooding peri 
+ods may support the colonization and establishment
+of allochthonous taxa interestingly the similarity
+between control and flooded treatment of soil even
+
+increased after the initial flooding this finding was
+unexpected but may reflect the immigration of some
+airborne taxa even though temporal succession
+was hardly detectable in soil this low temporal suc 
+cession seems to override the effect of immigration 
+holding the communities relatively stable 
+
+conclusions
+
+the effect of short term flooding on the micro 
+eukaryotic community was analyzed in mesocosm
+systems called aquaflows the strongest effect on
+community structure was caused by the habitat type
+followed by the temporal succession and by flooding 
+the effects of flooding were pronounced in the
+aquatic phase but not in the soil further the onset of
+flooding was accompanied by a strong shift of nutri 
+ent concentrations in the water and a pronounced
+decrease of otu richness richness recovered lat 
+er on but the community did not develop towards
+the initial community composition as indicated by
+the similarity indices flooding had therefore a last 
+ing effect on the aquatic community composition 
+whereas soil biodiversity was hardly affected we
+demonstrate that even short floods significantly
+affect abiotic conditions and microeu karyotic com 
+munity structure however short term floods do not
+allow for a successful establishment of allochthonous
+species only a handful of taxa persisted for more
+than a few days 
+
+acknowledgements we thank the mercartor research
+center ruhr mercur for financial support project pr 
+ we thank the emschergenossenschaft und
+lippeverband eglv essen ger for the access to the river
+emscher and official permission to extract the river water 
+for the permission to extract soil we thank the green area
+department in bochum further we thank the staff of the
+greenhouse of the university duisburg essen for technical
+support we thank jana olefeld for assistance with labora 
+tory procedures and julia nuy for the modification of
+primers 
+
+literature cited
+
+abu ashour j joy dm lee h whiteley hr zelin s 
+transport of microorganisms through soil water air soil
+pollut − 
+
+altenburger a ekelund f jacobsen cs protozoa and
+their bacterial prey colonize sterile soil fast soil biol
+biochem − 
+
+anderson ep freeman mc pringle cm ecological
+consequences of hydropower development in central
+america impacts of small dams and water diversion on
+neotropical stream fish assemblages river res appl 
+ − 
+
+ 
+
+https doi org bf 
+https doi org j soilbio 
+https doi org rra 
+
+
+aquat microb ecol – 
+
+andrews s fastqc a quality control tool for high
+throughput sequence data available at https www 
+bioinformatics babraham ac uk projects fastqc 
+
+antheunisse am verhoeven jta short term re 
+sponses of soil nutrient dynamics and herbaceous river 
+ine plant communities to summer inundation wetlands
+ − 
+
+auer b arndt h taxonomic composition and biomass
+of heterotrophic flagellates in relation to lake trophy and
+season freshw biol − 
+
+baakza a vala ak dave bp dube hc a compara 
+tive study of siderophore production by fungi from mar 
+ine and terrestrial habitats j exp mar biol ecol − 
+
+baldwin ds mitchell am the effects of drying and
+re flooding on the sediment and soil nutrient dynamics of
+lowland river floodplain systems a synthesis regul
+rivers res manage − 
+
+baldwin ds colloff mj rees gn chariton aa and others
+ impacts of inundation and drought on eukaryote
+biodiversity in semi arid floodplain soils mol ecol 
+ − 
+
+bardgett rd anderson jm behan pelletier v brussaard l
+and others the influence of soil biodiversity on
+hydrological pathways and the transfer of materials
+between terrestrial and aquatic ecosystems ecosystems
+ − 
+
+barrios e soil biota ecosystem services and land pro 
+ductivity ecol econ − 
+
+beltman b willems jh güsewell s flood events
+overrule fertiliser effects on biomass production and spe 
+cies richness in riverine grasslands j veg sci − 
+
+blackwell m the fungi million species 
+am j bot − 
+
+blom cwpm voesenek lacj flooding the survival
+strategies of plants trends ecol evol − 
+
+boenigk j pfandl k stadler p chatzinotas a high
+diversity of the ‘spumella like’ flagellates an investiga 
+tion based on the ssu rrna gene sequences of isolates
+from habitats located in six different geographic regions 
+environ microbiol − 
+
+boenigk j pfandl k hansen pj exploring strategies
+for nanoflagellates living in a ‘wet desert’ aquat microb
+ecol − 
+
+bossio da scow km impact of carbon and flooding
+on the metabolic diversity of microbial communities in
+soils appl environ microbiol − 
+
+broders kd wallhead mw austin gd lipps pe paul pa 
+mullen rw dorrance ae association of soil
+chemical and physical properties with pythium species
+diversity community composition and disease inci 
+dence phytopathology − 
+
+bucher vvc pointing sb hyde kd reddy ca pro 
+duction of wood decay enzymes loss of mass and lignin
+solubilization in wood by diverse tropical freshwater
+fungi microb ecol − 
+
+bunn se arthington ah basic principles and ecolog 
+ical consequences of altered flow regimes for aquatic
+biodiversity environ manage − 
+
+carrias jf amblard c quiblier lloberas c bourdier g
+ seasonal dynamics of free and attached heterotro 
+phic nanoflagellates in an oligomesotrophic lake freshw
+biol − 
+
+connell l redman r craig s rodriguez r distribu 
+tion and abundance of fungi in the soils of taylor valley 
+antarctica soil biol biochem − 
+
+coûteaux mm darbyshire jf functional diversity
+amongst soil protozoa appl soil ecol − 
+
+crump bc amaral zettler la kling gw microbial
+diversity in arctic freshwaters is structured by inocula 
+tion of microbes from soils isme j − 
+
+de vargas c audic s henry n decelle j and others 
+eukaryotic plankton diversity in the sunlit ocean sci 
+ence 
+
+dice lr measures of the amount of ecologic associa 
+tion between species ecology − 
+
+edgar rc haas bj clemente jc quince c knight r 
+uchime improves sensitivity and speed of chimera
+detection bioinformatics − 
+
+fenchel t the ecology of heterotrophic microflagel 
+lates in marshall kc ed advances in microbial ecol 
+ogy springer us boston ma p – 
+
+findenig bm chatzinotas a boenigk j taxonomic
+and ecological characterization of stomatocysts of
+spumella like flagellates chrysophyceae j phycol 
+ − 
+
+finlay bj esteban gf freshwater protozoa biodiver 
+sity and ecological function biodivers conserv 
+ − 
+
+fiore donno am weinert j wubet t bonkowski m 
+metacommunity analysis of amoeboid protists in grass 
+land soils sci rep 
+
+foissner w dispersal of protists the role of cysts
+and human introductions in fontaneto d ed bio 
+geography of microscopic organisms is everything
+small everywhere cambridge university press cam 
+bridge p – 
+
+foissner w chao a katz la diversity and geo 
+graphic distribution of ciliates protista ciliophora bio 
+divers conserv − 
+
+gamier j billen g coste m seasonal succession of
+diatoms and chlorophyceae in the drainage network of
+the seine river observation and modeling limnol
+oceanogr − 
+
+geisen s tveit at clark im richter a svenning mm 
+bonkowski m urich t metatranscriptomic census
+of active protists in soils isme j − 
+
+genitsaris s moustaka gouni m kormas ka air 
+borne microeukaryote colonists in experimental water
+containers diversity succession life histories and estab 
+lished food webs aquat microb ecol − 
+
+goh tk hyde kd biodiversity of freshwater fungi 
+j ind microbiol − 
+
+gonçalves vn vaz abm rosa ca rosa lh diver 
+sity and distribution of fungal communities in lakes of
+antarctica fems microbiol ecol − 
+
+grossmann l jensen m heider d jost s and others 
+protistan community analysis key findings of a large 
+scale molecular sampling isme j − 
+
+growns io growns je ecological effects of flow
+ regulation on macroinvertebrate and periphytic diatom
+assemblages in the hawkesbury nepean river aus 
+tralia regul rivers res manage − 
+
+hoffmann l darienko t algal biodiversity on sand 
+stone in luxembourg ferrantia − 
+
+junk wj bayley pb sparks re the flood pulse con 
+cept in river floodplain systems can j fish aquat sci
+spec pub − 
+
+kinsey gc paterson rr kelley j methods for the
+determination of filamentous fungi in treated and
+untreated waters j appl microbiol s− s
+
+ 
+
+https www bioinformatics babraham ac uk projects fastqc 
+https doi org 
+https doi org j x
+https doi org j jembe 
+https doi org a c a aaid rrr e co b b
+https doi org mec 
+https doi org s 
+https doi org j ecolecon 
+https doi org j tb x
+https doi org ajb 
+https doi org 
+https doi org j x
+https doi org ame 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org phyto 
+https doi org s x
+https doi org s 
+https doi org j x
+https doi org j soilbio 
+https doi org s x
+https doi org ismej 
+https doi org science 
+https doi org 
+https doi org bioinformatics btr 
+https doi org j x
+https doi org a a 
+https doi org srep 
+https doi org s 
+https doi org lo 
+https doi org ismej 
+https doi org ame 
+https doi org bf 
+https doi org j x
+https doi org ismej 
+https doi org rrr 
+https doi org bf 
+https doi org j tb x
+
+
+graupner et al effects of short term flooding on microeukaryotes 
+
+kiss ak acs e kiss kt török jk structure and sea 
+sonal dynamics of the protozoan community heterotro 
+phic flagellates ciliates amoeboid protozoa in the
+plankton of a large river river danube hungary eur j
+protistol − 
+
+kobayashi t ryder ds gordon g shannon i ingleton t 
+carpenter m jacobs sj short term response of
+nutrients carbon and planktonic microbial communities
+to floodplain wetland inundation aquat ecol − 
+
+lake ps disturbance patchiness and diversity in
+streams j n am benthol soc − 
+
+lane d s s rrna sequencing in stackebrandt
+e goodfellow m eds nucleic acid techniques in bacte 
+rial systematics modern microbiological methods john
+wiley sons chichester p – 
+
+lange a jost s heider d bock c and others ampli 
+conduo a split sample filtering protocol for high 
+throughput amplicon sequencing of microbial communi 
+ties plos one e 
+
+lennon jt jones se microbial seed banks the eco 
+logical and evolutionary implications of dormancy nat
+rev microbiol − 
+
+liesack w schnell s revsbech np microbiology of
+flooded rice paddies fems microbiol rev − 
+
+litchman e invisible invaders non pathogenic inva 
+sive microbes in aquatic and terrestrial ecosystems ecol
+lett − 
+
+lópez archilla ai marin i amils r microbial commu 
+nity composition and ecology of an acidic aquatic envi 
+ronment the tinto river spain microb ecol − 
+
+loreau m mouquet n holt rd meta ecosystems a
+theoretical framework for a spatial ecosystem ecology 
+ecol lett − 
+
+mahé f rognes t quince c de vargas c dunthorn m
+ swarm robust and fast clustering method for
+amplicon based studies peerj e 
+
+mallin ma paerl hw rudek j seasonal phytoplank 
+ton composition productivity and biomass in the neuse
+river estuary north carolina estuar coast shelf sci 
+ − 
+
+masella ap bartram ak truszkowski jm brown dg 
+neufeld jd pandaseq paired end assembler for
+illumina sequences bmc bioinformatics − 
+
+mckay sf king aj potential ecological effects of
+water extraction in small unregulated streams river res
+appl − 
+
+mentzer jl goodman rm balser tc microbial
+response over time to hydrologic and fertilization treat 
+ments in a simulated wet prairie plant soil − 
+
+mitrovic sm chessman bc davie a avery el ryan n
+ development of blooms of cyclotella meneghini 
+ana and nitzschia spp bacillariophyceae in a shallow
+river and estimation of effective suppression flows 
+hydrobiologia − 
+
+mukundi nd okoth s mibey r influence of land use
+on the distribution and diversity of pythium spp j trop
+subtrop agroecosystems − 
+
+muylaert k vyverman w impact of a flood event on
+the planktonic food web of the schelde estuary bel 
+gium in spring hydrobiologia − 
+
+naiman rj decamps h the ecology of interfaces 
+riparian zones annu rev ecol syst − 
+
+nazareth s gonsalves v nayak s a first record of
+obligate halophilic aspergilli from the dead sea indian
+j microbiol − 
+
+nolte v pandey rv jost s medinger r ottenwälder b 
+boenigk j schlötterer c contrasting seasonal
+niche separation between rare and abundant taxa conceals
+the extent of protist diversity mol ecol − 
+
+o’brien he parrent jl jackson ja moncalvo jm vilgalys
+r fungal community analysis by large scale
+sequencing of environmental samples appl environ
+microbiol − 
+
+oksanen j blanchet fg friendly m kindt r and others
+ vegan community ecology package r package
+version available at https cran r project org 
+package vegan
+
+pawlowski j audic s adl s bass d and others cbol
+protist working group barcoding eukaryotic richness
+beyond the animal plant and fungal kingdoms plos
+biol e 
+
+peršoh d theuerl s buscot f rambold g towards a
+universally adaptable method for quantitative extraction
+of high purity nucleic acids from soil j microbiol meth 
+ods − 
+
+poff nl zimmerman jkh ecological responses to
+altered flow regimes a literature review to inform the
+science and management of environmental flows 
+freshw biol − 
+
+power me parker ms dietrich we seasonal
+reassembly of a river food web floods droughts and
+impacts on fishes ecol monogr − 
+
+renkonen o statistisch ökologische untersuchungen
+über die terrestrische käferwelt der finnischen bruch 
+moore phd societas zoologica botanica fennica
+vanamo helsinki
+
+robinson md mccarthy dj smyth gk edger a bio 
+conductor package for differential expression analysis of
+digital gene expression data bioinformatics − 
+
+rogerson a detwiler a abundance of airborne het 
+erotrophic protists in ground level air of south dakota 
+atmos res − 
+
+röhl o peršoh d mittelbach m elbrecht v and others
+ distinct sensitivity of fungal freshwater guilds to
+water quality mycol prog − 
+
+rojo c cobelas ma arauzo m an elementary struc 
+tural analysis of river phytoplankton in descy j p 
+reynolds cs padisák j eds phytoplankton in turbid
+environments rivers and shallow lakes proc th work 
+shop international association of phytoplankton taxon 
+omy and ecology iap mont rigi − july 
+springer dordrecht p – 
+
+rønn r vestergård m ekelund f interactions
+between bacteria protozoa and nematodes in soil acta
+protozool − 
+
+rousk j frey sd revisiting the hypothesis that fun 
+gal to bacterial dominance characterizes turnover of soil
+organic matter and nutrients ecol monogr − 
+
+sakayaroj j supaphon o jones eg phongpaichit s 
+diversity of higher marine fungi at hat khanom mu ko
+thale tai national park southern thailand songk 
+lanakarin j sci technol − 
+
+schmieder r edwards r quality control and prepro 
+cessing of metagenomic datasets bioinformatics 
+ − 
+
+schroeder kl okubara pa tambong jt lévesque ca 
+paulitz tc identification and quantification of
+pathogenic pythium spp from soils in eastern washing 
+ton using real time polymerase chain reaction phyto 
+pathology − 
+
+https doi org j ejop 
+https doi org s 
+https doi org 
+https doi org journal pone 
+https doi org nrmicro 
+https doi org j tb x
+https doi org j x
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org j x
+https doi org peerj 
+https doi org p
+https doi org 
+https doi org rra 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org annurev ecolsys 
+https doi org s z
+https doi org j x x
+https doi org aem 
+https cran r project org package vegan
+https doi org journal pbio 
+https doi org j mimet 
+https doi org j x
+https doi org 
+https doi org bioinformatics btp 
+https doi org s 
+https doi org s 
+https doi org 
+https doi org bioinformatics btr 
+https doi org phyto 
+
+
+aquat microb ecol – 
+
+schulz r bundschuh m gergs r bruhl ca and others
+ review on environmental alterations propagating
+from aquatic to terrestrial ecosystems sci total environ
+ − 
+
+shearer ca descals e kohlmeyer b kohlmeyer j and oth 
+ers fungal biodiversity in aquatic habitats bio 
+divers conserv − 
+
+Šimek k hartman p nedoma j pernthaler j springmann
+d vrba j psenner r community structure 
+picoplankton grazing and zooplankton control of hetero 
+trophic nanoflagellates in a eutrophic reservoir during
+the summer phytoplankton maximum aquat microb
+ecol − 
+
+simoes nr dias jd leal cm braghin ldm lansac toha
+fa bonecker cc floods control the influence of
+environmental gradients on the diversity of zooplankton
+communities in a neotropical floodplain aquat sci 
+ − 
+
+sørensen t a method of establishing groups of equal
+amplitude in plant sociology based on similarity of spe 
+cies and its application to analyses of the vegetation on
+danish commons biol skr − 
+
+strasser rj srivastava a tsimilli michael m the
+ fluorescence transient as a tool to characterize and
+screen photosynthetic samples in yanus m pathre u 
+mohanty p eds probing photosynthesis mechanisms 
+regulation and adaption taylor and francis london 
+p − 
+
+taib n mangot jf domaizon i bronner g debroas d
+ phylogenetic affiliation of ssu rrna genes gener 
+ated by massively parallel sequencing new insights into
+the freshwater protist diversity plos one e 
+
+thwe aa kasemsap p quantification of ojip fluo 
+rescence transient in tomato plants under acute ozone
+stress witthayasan kasetsat witthayasat − 
+
+tockner k malard f ward jv an extension of the
+flood pulse concept hydrol processes − 
+
+unger im kennedy ac muzika rm a flooding
+effects on soil microbial communities appl soil ecol 
+ − 
+
+unger im motavalli pp muzika rm b changes in soil
+chemical properties with flooding a field laboratory
+
+approach agric ecosyst environ − 
+vannote rl minshall gw cummins kw sedell jr cush 
+
+ing ce river continuum concept can j fish
+aquat sci − 
+
+von der heyden s cavalier smith t culturing and
+environmental dna sequencing uncover hidden kineto 
+plastid biodiversity and a major marine clade within
+ancestrally freshwater neobodo designis int j syst evol
+microbiol − 
+
+voříšková j brabcova v cajthaml t baldrian p sea 
+sonal dynamics of fungal communities in a temperate
+oak forest soil new phytol − 
+
+warcup jh the ecology of soil fungi trans br mycol
+soc − 
+
+ward jv tockner k schiemer f biodiversity of flood 
+plain river ecosystems ecotones and connectivity regul
+rivers res manage − 
+
+weisse t distribution and diversity of aquatic pro 
+tists an evolutionary and ecological perspective bio 
+divers conserv − 
+
+weitere m arndt h structure of the heterotrophic
+flagellate community in the water column of the river
+rhine germany eur j protistol − 
+
+white tj bruns t lee s taylor jw amplification
+and direct sequencing of fungal ribosomal rna genes
+for phylogenetics in innis ma gelfand dh sninsky jj 
+white tj eds pcr protocols a guide to methods and
+applications book academic press new york ny 
+p – 
+
+wickham h ggplot elegant graphics for data analy 
+sis springer verlag new york ny
+
+wilson js baldwin ds rees gn wilson bp the
+effects of short term inundation on carbon dynamics 
+microbial community structure and microbial activity in
+floodplain soil river res appl − 
+
+wong mkm goh tk hodgkiss j hyde kd and others
+ role of fungi in freshwater ecosystems biodivers
+conserv − 
+
+xu l ravnskov s larsen j nilsson rh nicolaisen m 
+soil fungal community structure along a soil health
+ gradient in pea fields examined using deep amplicon
+sequencing soil biol biochem − 
+
+ 
+
+editorial responsibility daniel vaulot 
+roscoff france
+
+submitted may accepted september 
+proofs received from author s november 
+
+https doi org j scitotenv 
+https doi org s z
+https doi org ame 
+https doi org s 
+https doi org journal pone 
+https doi org a c a aaid hyp e co b f
+https doi org j apsoil 
+https doi org j agee 
+https doi org f 
+https doi org ijs 
+https doi org nph 
+https doi org s 
+https doi org sici a c a aaid rrr e co b e
+https doi org s 
+https doi org 
+https doi org rra 
+https doi org a a 
+https doi org j soilbio 
+
+
+
+

@@ -1,0 +1,3602 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microbiome of a revegetated iron mining site and pristine ecosystems from the brazilian cerrado
+
+
+contents lists available at sciencedirect
+
+applied soil ecology
+
+journal homepage www elsevier com locate apsoil
+
+microbiome of a revegetated iron mining site and pristine ecosystems from
+the brazilian cerrado
+
+caroline krug vieiraa luiz gustavo dos anjos borgesb leticia marconattob adriana giongoa b 
+sidney luiz stürmera c ⁎
+
+auniversidade regional de blumenau furb programa de pós graduação em engenharia ambiental blumenau sc brazil
+b pontifícia universidade católica do rio grande do sul pucrs instituto do petróleo e dos recursos naturais porto alegre rs brazil
+cuniversidade regional de blumenau furb departamento de ciências naturais dcn blumenau sc brazil
+
+a r t i c l e i n f o
+
+keywords 
+canga
+iron mining
+metabarcoding
+neotropical savannas
+protists
+soil biodiversity
+
+a b s t r a c t
+
+the cerrado domain is composed of different phytophysiognomies and considered a hot spot of global diversity 
+however few studies have assessed the soil microbiome of this domain using metabarcoding approach this
+study aimed to determine the soil microbiome in a mining site under revegetation and compare with commu 
+nities of pristine ecosystems soil samples were collected in the dry and rainy seasons in an iron mining site
+under revegetation ra semi decidual forest fl canga ng and cerrado stricto sensu ce soil community
+was accessed by the amplification of the s and s ribosomal gene fragments using high throughput se 
+quencing the prokaryotic operational taxonomic units otus were assigned to phyla classes orders 
+ families and genera acidobacteria and proteobacteria were the most abundant phylum for fl ce and
+ra while actinobacteria and acidobacteria were dominant in ng relative abundance of families within each
+phylum varied mainly among sites but not seasons for eukarya otus were assigned to phyla classes 
+orders families and genera opisthokonta sar stramenopiles alveolates and rhizaria and
+archaeplastida were the most abundant groups for all phytophysiognomies and fungi accounted for – of
+total sequences principal coordinate analysis indicates that soil community composition was not influenced by
+season within each site we concluded that soil microbiome was dissimilar among sites at the family and genus
+level but sites shared the same dominant phyla and that differentiation of soil microbiome was driven mainly by
+plant community composition 
+
+ introduction
+
+the cerrado is the second largest morphoclimatic floristic domain in
+brazil occupying of the country’s territory with ca km 
+
+ araujo et al this domain pertains to the neotropical savanna
+biome olson et al and it is characterized by a strong dry season
+ southern winter low ph value and nutrient poor soils and vegetation
+comprising of different physiognomies oliveira filho and ratter 
+ this domain is characterized by a mosaic of different vegetation
+types including among others the cerrado lato sensu with trees and
+large shrubs forming a woody layer and subshrubs and herbs forming a
+ground layer deciduous and semideciduous forests with predominance
+of tree species with continuous or discontinuous canopy formation and
+rocky grasslands developing on the top of hills ridges where soils are
+shallow oliveira filho and ratter cerrado is one of the most
+threatened floristic domains in south america since more than of
+
+its pristine area has already been converted to pasture and crop fields 
+or are impacted by mining activities oliveira filho and ratter 
+
+mining industry is important economically despite having a sig 
+nificant impact on the landscape and soil microbial community as it
+dramatically changes the landscape influences soil structure and ph
+value reduces soil organic matter stock and decreases plant water
+availability oliveira et al iron mining particularly impacts the
+landscape as the entire biota has to be first removed before excavation
+ up to m in depth takes place to reach iron ore deposits skirycz
+et al restoration of mining areas can be achieved by various
+hard engineering technologies whereas phytomanagement with native
+plant species is a more sustainable intervention skirycz et al 
+often assisted by soil amendments increasing the metal sorption and
+neutralizing the soil ph value phytomanagement also preserve the soil
+resource and restore the microbial biochemical activity and microbial
+diversity xue et al touceda gonzalez et al 
+
+https doi org j apsoil 
+received may received in revised form july accepted july 
+
+⁎ corresponding author at departamento de ciências naturais universidade regional de blumenau blumenau sc brazil 
+e mail address sturmer furb br s l stürmer 
+
+applied soil ecology – 
+
+available online august 
+ © published by elsevier b v 
+
+t
+
+http www sciencedirect com science journal 
+https www elsevier com locate apsoil
+https doi org j apsoil 
+https doi org j apsoil 
+mailto sturmer furb br
+https doi org j apsoil 
+http crossmark crossref org dialog doi j apsoil domain pdf
+
+
+nevertheless restoration practices including transplanting of native
+woody species liming of soil and fertilizer application can result in a
+complete different microbiome compared to adjacent ecosystems 
+
+metarbacoding is an approach to identify multiple species using
+dna from complex and environmental samples taberlet et al 
+with the assumption that each operational taxonomic unit otu can
+be identified based on a specific sequence of dna orgiazzi et al 
+ the use of metarbacoding increased in recent years to study soil
+biodiversity either to understand soil communities structure and func 
+tion or to assess soil diversity levels and fluctuation that can be used to
+monitor its preservation orgiazzi et al the dna metarba 
+coding allows producing a snapshot of soil community and can be used
+in comparative studies to show the proportion of bacteria archaea 
+fungi and protists in a given time in brazil this approach has been used
+in several studies to understand changes of the soil microbiota in dis 
+tinct agricultural management practices souza et al and
+to compare soil microbial communities between floristic domains
+ pacchioni et al catão et al while diversity of bacteria 
+archaea and fungi in soils of some cerrado physiognomies such as
+cerrado stricto sensu e g riverine forests open grasslands and crop
+systems e g pasture soybean fields have been assessed by me 
+tarbarcoding approach castro et al quirino et al 
+araujo et al a b no similar studies were conducted on soils of
+areas impacted by fe mining and canga a particular ecosystems de 
+veloping over superficial iron crust skirycz et al moreover 
+most studies focused on prokaryotic and fungal diversity and had not
+analyzed the protist dimension of soil community in cerrado 
+
+the cerrado is considered one of the world’s hotspots of diversity 
+estimated to contain of the total world vascular plant species
+ myers et al and considered the world’s most species rich
+
+tropical savanna simon et al since the cerrado harbors more
+than plant species mendonça et al many of them en 
+demic to this floristic domain it is expected a peculiar soil microbial
+community in this study we choose different physiognomies in the
+quadrilatero ferrifero region minas gerais state within the cerrado to
+assess soil microbiome based on metabarcoding approach an area
+under restoration after iron mining a semi decidual forest cerrado
+stricto sensu and canga previous study demonstrated that the site under
+restoration harbors a diverse community of arbuscular mycorrhizal
+fungi similar to adjacent ecosystems vieira et al as a corollary
+of this work we tested the hypothesis that the soil biota of the iron
+mining site under ecological restoration is similar to the adjacent
+pristine ecosystems the aim of this study was to determine the mi 
+crobial diversity associated with plants used to recover an iron mining
+site and compare to communities occurring in native sites 
+
+ material and methods
+
+ study area and sampling design
+
+soil samples were collected in the quadrilatero ferrifero region 
+minas gerais state brazil the area is located within the cerrado do 
+main with different sites revegetated iron mining site ra ° ′ ″
+w ° ′ ″ s semi deciduous tropical forest fl ° ′ ″ w 
+ ° ′ ″ s cerrado stricto sensu ce ° ′ ″ w ° ′ ″ s 
+and canga ng ° ′ ″ w ° ′ ″ s fig canga is the
+brazilian name for an ecosystem developing over natural superficial fe 
+rich crusts with soils being shallow and acid ph value∼ nu 
+tritionally poor and with high content of aluminum and heavy metals 
+and with high levels of plant endemism skirycz et al climate
+
+fig map of brazil indicating the location of minas gerais state and the quadrilátero ferrífero region blue square and aerial photographs of sampling sites green
+rectangle corresponds to cerrado ce and canga ng sites and orange rectangle corresponds to revegetated area ra and forest fl sites for interpretation of
+the references to colour in this figure legend the reader is referred to the web version of this article 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+in this region is classified by köppen as cwa humid subtropical cli 
+mate with dry winter and hot summers alvares et al annual
+precipitation ranges from to mm and mean annual tem 
+perature is °c average altitude for ce and ng is m and
+ m for fl and ra soils are plintossolos in ce and ng and la 
+tossolos and cambissolos in fl according to coelho et al 
+which correspond to petroferric haplustox oxisols and inceptisols 
+respectively according to the american soil taxonom system soil
+survey staff 
+
+the ra site was previously used for fe mining site while ce ng and
+fl represent pristine ecosystems within each site two transects of
+ m each were established and five soil samples – cm depth 
+obtained from each transect soil samples were collected in the dry
+ winter and rainy season summer and samples from each season
+within each site were bulked to obtain a representative soil sample and
+stored at − °c for further dna extraction and microbial dna se 
+quencing analyses soil chemical characteristics are summarized in
+castro et al and vieira et al 
+
+ dna extraction high throughput sequencing and analysis
+
+total dna was extracted using dneasy powersoil kit quiagen 
+following the manufacturer’s instructions to characterize the prokar 
+yotic diversity fragments of the s rrna gene were amplified using
+universal primers f and r bates et al amplification
+was performed in a μl mixture consisting of mmmgcl μm of
+each primer mm of each dntp u platinum taq dna polymerase 
+ x pcr reaction buffer and approximately ng of genomic dna 
+pcr conditions were the following one initial denaturation step at
+ °c for min cycles including denaturation for s at °c an 
+nealing for min at °c and extension for min at °c with one
+final extension step for min at °c for the eukaryotic diversity 
+fragments of the s rrna gene were amplified using the pair of pri 
+mers fw and rv described by nolte et al the pcr conditions
+
+were the following one initial denaturation step at °c for min 
+cycles including denaturation for s at °c annealing for s at
+ °c and extension for min at °c one final extension step for min
+at °c after purifying pcr amplicons using agencount ampure beads
+ beckman coulter library construction was performed as described in
+the ion plus fragment library from an initial amount of ng of dna 
+since all samples were sequenced in a multiplexed pgm run barcode
+sequences were used to identify each sample from the total sequencing
+output sequencing was conducted on an ion pgm system thermo
+fisher using an ion chip following the manufacturer’s instruc 
+tions 
+
+the rrna reads generated were trimmed to a minimum length of
+ bp and minimum phred score of using prinseq schmieder and
+edwards the remaining sequences were dereplicated and sorted
+by decreasing read abundance and then filtered to exclude singletons
+using usearch v edgar according to the algorithm
+uparse edgar clusters were assembled using a minimum
+identity of and chimeras were removed using rdp reference da 
+tabase for s rrna cole et al for s fragments the taxo 
+nomic assignment was obtained using uclust while the rdp classifier
+was used for s fragments taxonomic assignment on qiime v 
+ caporaso et al otus were selected based on sequence
+similarity and s rrna taxonomic data were achieved through the
+classification algorithm using the greengenes desantis et al 
+ and silva database version quast et al for s and
+ rrna respectively multiple rarefactions were performed for the
+assigned otus with a maximum subsampling depth of otus 
+rarefaction steps with sequences each for prokaryotic datasets and
+ otus rarefaction steps with sequences each for eu 
+karyotic datasets metrics of alpha diversity were performed for chao 
+ estimates species richness and shannon the entropic information of
+the abundances of observed otus accounting both richness and
+evenness with a cutoff of using qiime v the jackknifed
+beta diversity analysis was calculated using unweighted unifrac metric 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ra fl ce ng ra fl ce ng
+
+acidobacteria
+
+actinobacteria
+
+ad 
+
+bacteroidetes
+
+chloroflexi
+
+firmicutes
+
+gemmatimonadetes
+
+nitrospirae
+
+proteobacteria
+
+verrucomicrobia
+
+wps 
+
+others
+
+unclassified
+
+ dry season rainy season
+
+ 
+ to
+
+ta
+l p
+
+ro
+ka
+
+ry
+ot
+
+ic
+ s
+
+eq
+ue
+
+nc
+es
+
+fig relative abundance of prokaryotes phyla with frequencies higher than in sampling sites during dry and rainy seasons ‘others’ represents taxa with
+abundance lower than of the total sequences sampling sites were revegetated area ra forest fl cerrado ce and canga ng 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+the principal coordinates analysis pcoa was generated to observe
+differences among groups and the results were visualized using em 
+peror software vázquez baeza et al sequencing results were
+deposited in the national center for biotechnology information ncbi 
+under bioproject prjna 
+
+ results
+
+after trimming low quality bases and removing short reads a total
+of s rrna sequences was employed in the downstream
+analyses representing an average of sequences per sample 
+eukaryotic communities were analyzed using s rrna frag 
+ments representing an average of sequences per sample 
+moreover we obtained an average s and s rrna sequence length
+of bp and bp respectively which allowed a functional taxo 
+nomic assignment 
+
+ bacteria and archaea diversity
+
+sequences of bacteria and archaea domains were distributed within
+ phyla or respective candidate division classes orders 
+families and genera or respective otu other prokaryotic groups
+that could not be identified averaged of the total sequences 
+
+the most representative phyla of prokaryotes were acidobacteria 
+actinobacteria proteobacteria and verrucomicrobia and the four
+phyla accounted for to of the total number of sequences
+ fig acidobacteria and proteobacteria were the most abundant
+phyla in fl in both seasons representing – and – 
+of the total sequences respectively while total number of sequences of
+proteobacteria were slightly higher than acidobacteria in ce in both
+seasons fig actinobacteria followed by acidobacteria were the
+most abundant phyla in ng in both seasons both accounting for
+ – and – of the total sequences respectively for
+
+fl ce and ng relative abundance of the main prokaryotic groups
+varied slightly between seasons fig proteobacteria represented the
+most abundant phylum in ra – of the sequences followed
+by acidobacteria or actinobacteria according to the season fig for
+ra relative abundance of some prokaryotic groups changed according
+to the season number of sequences of ad bacteroidetes and gem 
+matimonadetes decreased from the dry to the rainy season while those
+of verrucomicrobia and firmicutes increased from the dry to the rainy
+season fig 
+
+rare prokaryotic phyla of the total number of sequences 
+included bacterial phyla or candidate divisions and one archaeal
+phylum cyanobacteria were present only in ra in both seasons
+ of the total sequences while nitrospirae was observed in the
+dry season only elusimicrobia candidate divisions nc and ws 
+were observed only in one sample of the total sequences 
+the archaeal phylum crenarchaeota represented an average of of
+the total sequences in samples 
+
+relative abundance of families within the main four phyla varied
+mainly among sites but not seasons fig acidobacteria was re 
+presented by familes or respective otu four of them with abun 
+dance of the total reads fig the most abundant family for
+acidobacteria was koribacteraceae in ce and fl and solibacteraceae in
+ng for both sampling periods within actinobacteria abundance of
+conexibacteraceae ranged from to in ng in rainy and dry
+seasons respectively while micrococcaceae was dominant in ra ran 
+ging from to of the total sequences in dry and rainy seasons 
+respectively phylum proteobacteria was represented by families 
+but only bradyrhizobiaceae hyphomicrobiaceae and sinobacteraceae
+were observed with abundance of the total sequences in all sites
+in both seasons these three families were dominant in ce and fl in
+both seasons while bradyrhizobiaceae with sinobacteriaceae in the dry
+season or with sphingomonadaceae in the rainy season dominated in ra 
+bradyrhizobiaceae followed by hyphomicrobiaceae were dominant in ng
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+acidobacteriaceae ellin otu
+
+koribacteraceae solibacteraceae
+
+others 
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+acidimicrobiales otu ycetales otu
+
+conexibacteraceae micrococcaceae
+
+mycobacteriaceae nocardiaceae
+
+others 
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+alphaproteobacteria otu bradyrhizobiaceae
+burkholderiaceae comamonadaceae
+ellin otu hydrogenophilaceae
+hyphomicrobiaceae mnd otu
+myxococcales otu oxalobacteraceae
+rhizobiaceae rhodospirillaceae
+sinobacteraceae sphingomonadaceae
+others 
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+ 
+
+ra
+
+fl
+
+ce
+
+ng
+
+ chthoniobacteraceae 
+
+others 
+
+acidobact proteobacteria verrucomicr
+
+fig relative abundance of families or representative otus within the four most common prokaryotes phyla ≥ of the total sequences ‘others’ represent taxa
+with abundance lower than of the total sequences and are numbered in parenthesis sampling sites were revegetated area ra forest fl cerrado ce and
+canga ng 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+ta
+bl
+e
+ 
+
+r
+el
+at
+iv
+e
+ab
+
+un
+da
+
+nc
+e
+of
+
+th
+e
+m
+os
+tf
+re
+qu
+
+en
+tb
+
+ac
+te
+ri
+al
+
+ge
+nu
+
+s
+or
+
+re
+sp
+ec
+ti
+ve
+
+o
+tu
+
+ob
+se
+rv
+ed
+
+in
+th
+e
+di
+ff
+er
+en
+
+ts
+it
+es
+
+in
+dr
+y
+an
+
+d
+ra
+in
+y
+se
+as
+on
+
+s 
+sa
+
+m
+pl
+in
+g
+si
+te
+s
+w
+er
+e 
+
+r
+ev
+
+eg
+et
+at
+ed
+
+ar
+ea
+
+ r
+a
+ 
+fo
+
+re
+st
+ f
+l 
+ c
+
+er
+ra
+do
+
+ c
+e 
+ a
+
+nd
+c
+an
+
+ga
+ n
+
+g
+ 
+
+ph
+yl
+um
+
+c
+la
+ss
+
+o
+rd
+er
+
+fa
+m
+ily
+
+g
+en
+
+er
+a
+
+r
+a
+
+fl
+c
+e
+
+n
+g
+
+r
+a
+
+fl
+c
+e
+
+n
+g
+
+d
+ry
+
+se
+as
+on
+
+r
+ai
+ny
+
+se
+as
+on
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+le
+s
+
+k
+or
+ib
+ac
+te
+ra
+ce
+ae
+
+c
+an
+
+di
+da
+
+tu
+s
+k
+or
+ib
+ac
+te
+r
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+le
+s
+
+k
+or
+ib
+ac
+te
+ra
+ce
+ae
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+le
+s
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+ce
+ae
+
+ed
+ap
+
+ho
+ba
+
+ct
+er
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+le
+s
+
+a
+ci
+do
+
+ba
+ct
+er
+ia
+ce
+ae
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+d
+a
+ 
+
+ 
+el
+lin
+
+ 
+ 
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+so
+lib
+
+ac
+te
+re
+s
+
+so
+lib
+
+ac
+te
+ra
+le
+s
+
+so
+lib
+
+ac
+te
+ra
+ce
+ae
+
+c
+an
+
+di
+da
+
+tu
+s
+so
+
+lib
+ac
+te
+r
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+so
+lib
+
+ac
+te
+re
+s
+
+so
+lib
+
+ac
+te
+ra
+le
+s
+
+so
+lib
+
+ac
+te
+ra
+ce
+ae
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+a
+ct
+in
+ob
+
+ac
+te
+ri
+a
+
+a
+ct
+in
+ob
+
+ac
+te
+ri
+a
+
+a
+ct
+in
+om
+
+yc
+et
+al
+es
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+ct
+in
+ob
+
+ac
+te
+ri
+a
+
+a
+ct
+in
+om
+
+yc
+et
+al
+es
+
+m
+yc
+ob
+ac
+te
+ri
+ac
+ea
+e
+
+m
+yc
+ob
+ac
+te
+ri
+um
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+ct
+in
+ob
+
+ac
+te
+ri
+a
+
+a
+ct
+in
+om
+
+yc
+et
+al
+es
+
+m
+ic
+ro
+co
+cc
+ac
+ea
+e
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+th
+er
+m
+ol
+eo
+
+ph
+ili
+a
+
+so
+lir
+ub
+
+ro
+ba
+
+ct
+er
+al
+es
+
+c
+on
+
+ex
+ib
+ac
+te
+ra
+ce
+ae
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+g
+em
+
+m
+at
+im
+
+on
+ad
+
+et
+es
+
+g
+em
+
+m
+at
+im
+
+on
+ad
+
+et
+es
+
+n
+ 
+
+ 
+w
+l
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+r
+hi
+zo
+
+bi
+al
+es
+
+h
+yp
+ho
+
+m
+ic
+ro
+bi
+ac
+ea
+e
+
+r
+ho
+
+do
+pl
+an
+
+es
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+r
+hi
+zo
+
+bi
+al
+es
+
+br
+ad
+
+yr
+hi
+zo
+bi
+ac
+ea
+e
+
+br
+ad
+
+yr
+hi
+zo
+bi
+um
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+el
+lin
+
+ 
+ 
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+r
+hi
+zo
+
+bi
+al
+es
+
+br
+ad
+
+yr
+hi
+zo
+bi
+ac
+ea
+e
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+r
+ho
+
+do
+sp
+ir
+ill
+al
+es
+
+r
+ho
+
+do
+sp
+ir
+ill
+ac
+ea
+e
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+sp
+hi
+ng
+
+om
+on
+
+ad
+al
+es
+
+sp
+hi
+ng
+om
+
+on
+ad
+
+ac
+ea
+e
+
+k
+ai
+st
+ob
+ac
+te
+r
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+lp
+ha
+
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+be
+ta
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+bu
+rk
+ho
+
+ld
+er
+ia
+le
+s
+
+bu
+rk
+ho
+
+ld
+er
+ia
+ce
+ae
+
+bu
+rk
+ho
+
+ld
+er
+ia
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+d
+el
+ta
+pr
+ot
+eo
+
+ba
+ct
+er
+ia
+
+m
+yx
+
+oc
+oc
+
+ca
+le
+s
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+g
+am
+
+m
+ap
+
+ro
+te
+ob
+
+ac
+te
+ri
+a
+
+x
+an
+
+th
+om
+
+on
+ad
+
+al
+es
+
+si
+no
+
+ba
+ct
+er
+ac
+ea
+e
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+v
+er
+ru
+co
+
+m
+ic
+ro
+bi
+a
+
+ s
+pa
+
+rt
+ob
+
+ac
+te
+ri
+a 
+
+ c
+ht
+ho
+
+ni
+ob
+
+ac
+te
+ra
+le
+s 
+
+ c
+ht
+ho
+
+ni
+ob
+ac
+te
+ra
+ce
+ae
+ 
+
+d
+a
+ 
+
+ 
+o
+tu
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ s
+pa
+
+rt
+ob
+
+ac
+te
+ri
+a 
+
+ c
+ht
+ho
+
+ni
+ob
+
+ac
+te
+ra
+le
+s 
+
+ c
+ht
+ho
+
+ni
+ob
+ac
+te
+ra
+ce
+ae
+ 
+
+c
+an
+
+di
+da
+
+tu
+s
+x
+ip
+hi
+ne
+
+m
+at
+ob
+
+ac
+te
+r
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+to
+ta
+l
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+in both seasons burkholderiaceae was also representative in ce in the
+dry season of the total sequences and ra in the rainy season
+ of the total sequences for verrucomicrobia only chtronio 
+bacteraceae had abundance ranging from to of the total se 
+quences in all sites in both seasons 
+
+taxa with relative abundance of the total sequences in at
+least one soil sample at genus level are described in table for ng 
+otus from solibacteraceae and conexibacteraceae families were the most
+abundant while an otu from koribacteraceae family was the most
+abundant in fl and ce for ra otus from the gemmatimonadetes
+candidate order n bwl in dry season and da in rainy season
+were the most abundant table a total of bacterial genera and
+one archaeal genus were identified supplementary fig s 
+
+supplementary data associated with this article can be found in the
+online version at https doi org j apsoil 
+
+ eukarya diversity
+
+all supergroups of the eukarya amoebozoa archaeplastida 
+excavata opisthokonta and sar stramenopila alveolate and
+rhizaria were detected in soil samples sar and opisthokonta re 
+presented the dominant supergroups in all sites and seasons both ac 
+counting for – of the total number of sequences except in ce
+during the dry season where archaeplastida followed by opisthokonta
+were dominant eukarya were distributed within phyla or re 
+spective candidate division classes orders families and
+ genera or respective otu fungi opisthokonta and alveolata
+ sar groups accounted in a range between and of the total
+number of sequences in all sites in both season except in ce in the dry
+season where chloroplastida represented of the total number of
+sequences fig sequences of rhizaria showed a higher abundance
+during the rainy season of the total sequences compared to the
+dry season of the total sequences metazoa represented to
+
+ of the total number of sequences in fl both seasons and 
+in ng dry season and accounted for of the sequences in other
+sites and seasons a total of genera of eukarya were identified
+ supplementary fig s 
+
+the most abundant phylum within fungi was ascomycota in fl ng
+and ce in both seasons that accounted for – of the total number
+of fungal sequences followed by mucoromycotina that accounted for
+ – of fungal sequences fig in ra ascomycota was the most
+abundant group of fungi in the dry season followed by basidiomycota 
+while in the rainy season basidiomycota dominated followed by asco 
+myota in this site mucoromycotina accounted for – of total fungal
+sequences fig sequences within ascomycota pertained mainly to
+dothideomycetes and eurotiomycetes and other groups detected in 
+cluded lecanoromycetes leotiomycetes pezizomycetes sordar 
+iomycetes and saccharomycetes agaromycetes was the main class of
+fungi within the basidiomycota among agaricostilbomycetes exoba 
+sidiomycetes pucciniomycetes and tremellomycetes 
+
+the second most abundant eukaryotic group was the sar group 
+composed mainly by stramenopiles alveolata and rhizaria alveolata
+was the dominant group in fl and ng in both seasons – of the
+total sar sequences and co dominant with rhizaria in ce during the
+dry season fig rhizaria was the dominant group of total sar
+sequences in ra during the rainy season among alveolata organisms
+of phylum apicomplexa order gregarinorida dominated all samples 
+and represented – of the total alveolata sequences in fl the
+relative abundance of apicomplexa in ra was fold higher in the dry
+season than in the rainy season conversely it was fold higher in the
+rainy season compared to the dry season in ce other abundant al 
+veolata included order colpodea and subclass haptoria phylum ci 
+liophora that accounted for of the total alveolata sequences in ra
+during the rainy season and dinoflagellata that accounted for and
+ of the total alveolata sequences in the rainy and dry season in fl 
+respectively 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ra fl ce ng ra fl ce ng
+
+conosa
+
+discosea
+
+lobosa
+
+chloroplastida
+
+discoba
+
+fungi
+
+metazoa
+
+alveolata
+
+rhizaria
+
+stramenopiles
+
+others
+
+unclassified
+
+amoebozoa
+
+opistokonta
+
+sar
+
+archaeplastida
+
+excavata
+
+ 
+ to
+
+ta
+l e
+
+uk
+ar
+
+yo
+tic
+
+ s
+eq
+
+ue
+nc
+
+es
+
+ dry season rainy season
+
+fig relative abundance of the main eukaryotes groups with frequencies higher than in sampling sites during dry and rainy seasons ‘others’ represent taxa
+with abundance lower than of the total sequences sampling sites were revegetated area ra forest fl cerrado ce and canga ng 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+https doi org j apsoil 
+
+
+relative abundance of cercozoa groups heteromita and
+vampyrellidae represented – of the total rhizaria sequences in
+ra sequences of vampyrellidae were observed mainly in site ra 
+and of the total number of sequences during dry and rainy sea 
+sons respectively and less than of the total sequences in other
+sites cryomonadida was abundant only in ce and represented – 
+of the total rhizaria sequences in this site chrysophyceae was the main
+group and accounted for – of the total stramenopiles sequences
+in ra 
+
+ alpha and beta diversities
+
+a clear distinction was observed between the microbial commu 
+nities fig among different sites fl had a lower number of pro 
+karyotes otus compared with other sites that was reflected mainly in
+
+the chao richness fig a–c for the eukaryote sequences ce and fl
+had a lower number of otus shannon diversity and chao richness
+when compared to ra and ng fig e–g unweighted unifrac based
+pcoa revealed strong clustering for each microbial community re 
+gardless of sampling season fig 
+
+ discussion
+
+this study investigated the soil microbiome community in a re 
+vegetated fe mining site and adjacent pristine ecosystems within the
+brazilian floristic domain of cerrado and to our knowledge this is the
+first study that have also considered the protist dimension sar 
+amoebozoa excavata and archaeplastida of soil diversity and sur 
+veyed the microbiome communities in canga a distinct ecosystem de 
+veloping over iron crust microbiome community composition was very
+
+fig main groups within the fungi found in sampling sites during dry and rainy seasons ‘others’ represent groups with abundance lower than of the total
+sequences and are numbered in parenthesis sampling sites were revegetated area ra forest fl cerrado ce and canga ng 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ra fl ce ng ra fl ce ng
+
+alveolata
+
+rhizaria
+
+stramenopiles
+
+ dry season rainy season
+
+ 
+ o
+
+f t
+he
+
+ to
+ta
+
+l s
+a
+
+r
+ s
+
+eq
+ue
+
+nc
+es
+
+fig relative abundance of sar groups in sampling sites during dry and rainy seasons sampling sites were revegetated area ra forest fl cerrado ce and
+canga ng 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+dissimilar among sites but not between seasons within the same site as
+evidenced by pcoa profile the result do not support the hypothesis
+that soil communities in the iron mining site under revegetation site
+ra are similar to pristine ecosystems sites fl ce ng differences in
+the composition of microbial communities within distinct cerrado
+phytophysiognomies have been observed in previous studies which
+indicates that vegetation soil use and environmental conditions shape
+the soil microbial communities bresolin et al xiong et al 
+castro et al araujo et al a considering that sites sampled
+are geographically close to each other and are under the same climate 
+our results suggest a strong action of the vegetation over the compo 
+sition of soil community at the family and lower taxonomic levels at
+
+the higher taxonomic level e g phylum communities of prokaryotes
+and eukaryotes are dominated by the same two or three phyla re 
+gardless of site a pattern detected in other studies within the cerrado
+ castro et al araujo et al a b 
+
+the rarefaction curves for observed otus index did not tend toward
+an asymptote indicating that a higher number of sequences would be
+necessary to reveal all soil microbiome diversity associated with the
+four ecosystems studied it is noteworthy to indicate that data are re 
+presentative of both seasons for prokaryotic and eukaryotic diversity 
+suggesting that soil communities in plant physiognomies of the cerrado
+domain have a higher diversity then described herein conversely 
+shannon’s diversity reached an asymptote for all ecosystems which can
+
+eu
+ka
+
+ry
+ok
+
+ar
+y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o
+bs
+
+er
+ve
+
+d
+o
+
+tu
+s
+
+sequences per sample
+
+ra
+
+ng 
+
+ce 
+
+fl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s
+ha
+
+nn
+on
+
+sequences per sample
+
+ra
+
+ng 
+
+ce 
+
+fl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c
+ha
+
+o 
+
+sequences per sample
+
+ra
+
+ng 
+
+ce 
+
+fl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o
+bs
+
+er
+ve
+
+d
+o
+
+tu
+s
+
+sequences per sample
+
+ra
+
+ng 
+
+ce 
+
+fl
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s
+ha
+
+nn
+on
+
+sequences per sample
+
+ra
+
+ng 
+
+ce 
+
+fl
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c
+ha
+
+o 
+
+sequences per sample
+
+ra
+
+ng 
+
+ce 
+
+fl
+
+ a b 
+
+ d e 
+
+ c 
+
+ f 
+
+fig rarefaction plots a–d shannon diversity b–e and chao c–f for prokaryotic and eukaryotic communities in sampling sites bars indicate standard
+deviation sampling sites were revegetated area ra forest fl cerrado ce and canga ng 
+
+fig principal coordinate analysis pcoa profile of a prokaryotes and b eukaryotes communities across soil samples for revegetated area ra – blue dots 
+forest fl – green dots cerrado ce – orange dots canga ng – red dots circles around dots represent community profiles of dry and rainy seasons for
+interpretation of the references to colour in this figure legend the reader is referred to the web version of this article 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+be attributed to the high proportion of rare otus in all areas in this
+study as this index weights towards rare than frequent taxa hill et al 
+ interestingly the shannon index values for prokaryotes were
+very similiar among areas while they were lower for ce and fl com 
+pared to other sites for eucaryotes 
+
+at the highest taxonomic level sites also showed bacterial com 
+munities similar to other studies in the cerrado where the most
+abundant bacterial phyla were proteobacteria acidobacteria 
+actinobacteria verrucomicrobia and planctomycetes quirino et al 
+ araujo et al a rachid et al rampelotto et al 
+ pessoa filho et al in previous studies carried out in
+cerrado areas the dominance of proteobacteria was also observed
+ quirino et al araujo et al a which includes free 
+living or symbiotic bacteria involved in the process of nitrogen fixation 
+including the genera bradyrhizobium and burkholderia besides these
+five bacterial phyla araujo et al a detected firmicutes bacter 
+iodetes and wps in a decidual forest in this study we expanded the
+number of bacterial phyla detected for this physiognomy as phyla ni 
+trospirae gemmatimonadetes chloroflexi ad and crenarchaeota
+were also detected in fl sites families koribacteraceae acidobacteria 
+sinobacteraceae proteobacteria and chthoniobacteraceae verrucomi 
+crobia were dominants in semidecidual forest the first family also
+being reported as dominant in other woodlands ecosystems pershina
+et al our results contrast with those of araujo et al who
+detected acidobacteria and actinobacteria as dominant phyla in semi 
+decidual forest within the cerrado as actinobacteria was not a domi 
+nant component in soil samples from fl regardless of the season 
+
+in canga soil the relative abundance of classes thermoleophilia
+ actinobacteria and solibacteres acidobacteria were to fold
+higher compared to other sites actinobacteria play important roles in
+nutrient recycling soil organic matter formation kieser et al 
+and therefore may indicate the soil evolution towards an increase of
+organic matter in the soil of this peculiar ecosystem actinobacteria are
+known to dominate soil bacteria communities in arid ecosystems
+ neilson et al and to participate in the dissimilatory reduction of
+ferric iron jones and johnson which can explain its high
+abundance in canga an ecosystem that due to shallow soils experience
+long periods of drought and develops over rich fe rich crusts available
+fe levels in canga were mg dm− compared to – mg dm− 
+
+in ra fl and ce the high relative abundance observed for the
+candidate division wps in canga may be also related to the fe content
+found in this soil since this candidate group has already been observed
+by brantner et al and sun et al in streams and soils with
+high fe content due to contamination by mining waste according to
+these authors bacteria identified in these environments and associated
+with the fe cycle could be used for the bioremediation of contaminated
+environments relative abundance of wps may decrease during rainy
+periods being induced to enter dormancy stage lennon and jones 
+ castro et al conversely abundance of wps increased
+during the rainy compared to dry season suggesting that in canga 
+water might represent an environmental factor that triggers the grow of
+this group of bacteria 
+
+the relative abundance of phylum bacteroidetes was higher in ra
+during the dry season compared to other ecosystems and season which
+can be related with soil ph lauber et al observed that the re 
+lative abundance of phylum bacteroidetes increased with soil ph values
+over a large number of soil samples indeed the ra site had a sig 
+nificantly higher soil ph value ph compared to other sites ph
+value ranging from to castro et al which can explain
+the abundance of this phylum in this site moreover abundance of
+bacteriodetes was high in soils with low moisture evans et al as
+detected herein or high soil moisture sheik et al chodak et al 
+ highlighting the versatility of this bacterial group the bacterial
+phylum nitrospirae was detected in our study only from samples col 
+lected in the dry season bacteria of this phylum are nitrite oxidants in
+soil and are obligatory aerobes xue et al and this might
+
+explain its occurrence in the dry season since moisture affects soil
+aeration and nitrites are particularly susceptible to leaching by water
+infiltrating the soil during the rainy season dynia et al 
+
+cyanobacteria were detected only in the site undergoing revegeta 
+tion ra in line with previous results by halter et al who ob 
+served that cyanobacteria were among the most active groups in a soil
+after mining activity suggesting an adaptation of this group to soil
+contamination indeed ra site in this study had the highest levels of s
+and cu compared to other adjacent ecosystems in addition cyano 
+bacteria present in the soil act as stabilizing organisms because their
+cells or filaments are surrounded by extremely persistent and ag 
+gregating mucilage physically protecting the soil surface from erosion
+ bowker et al which represents an important environmental
+service provided by this group of bacteria in areas undergoing re 
+vegetation 
+
+among the eukaryotes the dominance of supergroup opisthokonta
+in all sites is due to the high abundance of fungi detected in soil
+samples and previously detected in the cerrado castro et al 
+ araujo et al b fungi are the main contributors to soil
+microbial biomass stahl and parkin and engage in different
+associations with plants ranging from mutualist to pathogenic and
+commensal benitez et al they are also important in the de 
+composition process that can improve soil health a condition desired in
+areas undergoing revegetation such as the ra in this study relative
+abundance of ascomycota and mucoromycotina in fl ce and ng
+differentiated these pristine ecosystems from the ra site where basi 
+diomycota and ascomycota were the major components of the fungal
+community considering the role of basidiomycetes as the main de 
+composers of lignin gessner et al its high frequency on ra site
+was unexpected once ra site is dominated by herbaceous plants mostly
+grasses and the pristine ecosystems are dominated by woody shrubs
+and trees with higher lignin content however proportion of cellulose
+and lignin increases in cell walls of grasses as these plants mature
+ bosch et al which can possible explain the high frequency of
+basidiomycetes in the ra site dothideomycetes was the main class of
+ascomycota detected in all sites and they include fungi associated with
+plants as pathogens endophytes or epiphytes and saprobes that degrade
+cellulose and more complex carbohydrates in the litter schoch et al 
+ and species that are adapted to nutrient poor and dry habitats
+ ruibal et al we speculate that ascomycota was the main group
+of fungi responsible for decomposition in the pristine ecosystems while
+this role is played by basidiomycetes in the ra site moreover some
+species of dothideomycetes are rock inhabiting fungi ruibal et al 
+ that could explain their abundance in canga ng an ecosystem
+characterized by vegetation developing over iron outcrops and shallow
+soils skirycz et al 
+
+chloroplastida includes a group formed by green algae and land
+plants adl et al it was one of the main groups in all sites during
+the rainy season and was the dominant group in the ce site during the
+dry season the ce site is considered a cerrado stricto sensu dominated
+by trees and shrubs with some herbaceous vegetation where soil water
+potential in the upper soil layers can be lower than − mpa during
+the dry season franco dominance of green algae in this site
+during the dry season can be associated with the formation of biocrusts 
+an important biological structure intimately associated with soil and
+major components of soil communities in dry environments with im 
+portant ecosystem functions castillo monroy et al 
+
+protist diversity was represented in all sites mainly by sar a group
+that harbors the stramenopiles e g water molds diatoms alveolata
+ e g dinoflagellates ciliates and rhizaria e g cercozoans adl et al 
+ alveolata and rhizaria were the most abundant groups within
+sar herein corroborating previous studies of urich et al and
+bates et al alveolata represented mainly by apicomplexa and
+dinoflagellata was the second or third dominant group in all sites re 
+gardless of season confirming that these taxa are important members of
+protist communities along with most commonly known cercozoa and
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+
+
+ciliophora bates et al rhizaria tended to increase its relative
+abundance in the rainy season compared to the dry season and it was
+represented by cercozoa a group of amoeboid shaped protists that are
+parasite and predators in aquatic and soil ecosystems harder et al 
+ observed that cercozoan organisms are sensitive to drought 
+which could explain the lower abundance of this group in the dry
+season conversely abundance of cercozoa tended to be lower in semi 
+humid and humid environments compared to arid and semi arid en 
+vironments in a global scale assessment of protist diversity bates et al 
+ protist diversity has been studied mainly from water bodies in
+brazil regali seleghim et al lansac toha et al and to
+the best of our knowledge this is the first report of protist taxa from soil
+samples of the brazilian cerrado floristic domain 
+
+ conclusions
+
+soil microbiome communities are dissimilar among different pris 
+tine ecosystems and an iron mining area under revegetation within the
+cerrado domain at the lower taxonomic levels family and genus but
+they shared the same dominant groups of eukaryota and prokaryota at
+the phylum level considering that sites sampled herein were within the
+same geographical region and under the same rainfall and temperature
+regime we concluded that differentiation of the soil microbiome
+community was driven mainly by plant community composition our
+study reports for the first time taxonomic composition of eukaryota and
+prokaryota for canga a highly threatened ecosystem within the cerrado
+that develops over iron outcrops and for an iron mining area under 
+going environmental restoration our study contributes to the knowl 
+edge of soil biodiversity of this floristic domain at the same time that
+revealed a high proportion of unclassified otus which can represent
+new species and potential source of organisms for biotechnological
+processes reinforcing that the cerrado is a hotspot of biodiversity
+ myers et al not only for animal and plants but also considering
+the soil dimension of the biodiversity 
+
+data accessibility statement
+
+sequencing results were deposited in the national center for
+biotechnology information ncbi under bioproject prjna 
+
+author contributions
+
+ckv and sls designed research lga lm and ag analyzed data 
+ckv wrote the first draft of the paper and all authors contributed to edit
+the paper 
+
+acknowledgements
+
+this study was supported by grants from fapemig fapesp 
+fapespa vale s a to the project “diversity of plants and soil organ 
+isms with biotechnological potential and indicators of environmental
+recovery in minas gerais” crardp and the fundação de
+amparo à pesquisa e inovação do estado de santa catarina
+ fapesc tr ckv thanks capes brazil for a master’s assis 
+tanship and sls thanks cnpq for a research assistanship grant
+ lgab thanks pega pucrs authors also thank the
+high performance computing lab lad pucrs for allowing access to
+run the high throughput sequences analyses we thank marcia rufini 
+paula ribeiro jessé dos santos aline silva jordana castro anita
+teixeira diego tassinari zélio souza warely carvalho carolline
+silva and mauricio coelho for soil sampling we are in debt with
+matheus nicoletti marascalchi for helping with figures and two anon 
+ymous reviewers for their suggestions to improve the manuscript 
+
+references
+
+adl s m simpson a g b lane c e lukes j bass d bowser s s brown m w 
+burki f dunthorn m hampl v heiss a hoppenrath m lara e le gall l 
+lynn d h mcmanus h mitchell e a mozley stanridge s e parfrey l w 
+pawlowski j rueckert s shadwick l schoch c l smirnov a spiegel f w 
+ the revised classification of eukaryotes j eukaryot microbiol – 
+
+alvares c a stape j l sentelhas p c gonçalves j l m sparovek g köppen s
+climate classification map for brazil meteor z – 
+
+araujo j f castro a p costa m m c togawa r c pappas junior g quirino b f 
+bustamante m m williamson l handelsman j krüger r h 
+characterization of soil bacterial assemblies in brazilian savanna like vegetation re 
+veals acidobacteria dominance microb ecol – 
+
+araujo a s f bezerra w m dos santos v m rocha s m b carvalho n s de lyra 
+m d figueiredo m d de almeida lopes a c melo v m a distinct bacterial
+communities across a gradient of vegetation from a preserved brazilian cerrado 
+antonie leeuwenhoek – 
+
+araujo a s f bezerra w m santos v m nunes l a lyra m d do vale barreto
+figueiredo m melo v m b fungal diversity in soils across a gradient of
+preserved brazilian cerrado j microbiol – 
+
+bates s t berg d l caporaso j g walters w a knight r fierer n 
+examining the global distribution of dominant archaeal populations in soil isme j 
+ – 
+
+bates s t clemente j c flores g e walters w a parfrey l w knight r fierer 
+n global biogeography of highly diverse protistan communities in soil isme
+j – 
+
+benitez m s taheri w i lehman r m selection of fungi by candidate cover
+crops appl soil ecol – 
+
+bosch m w tamminga s post g leffering c p muylaert j m influence of
+stage of maturity of grass silages on digestion processes in dairy cows 
+composition nylon bag characteristics digestibility and intake livestock prod sci 
+ – 
+
+bowker m a maestre f t escolar c biological crusts as a model system for
+examining the biodiversity ecosystem function relationship in soil soil biol 
+biochem – 
+
+brantner j s haake z j burwick j e menge c m hotchkiss s t senko j m 
+depth dependent geochemical and microbiological gradients in fe iii deposits re 
+sulting from coal mine derived acid mine drainage front microbiol – 
+
+bresolin j d bustamante m m c krüger r h silva m r s s perez k s 
+structure and composition of bacterial and fungal community in soil under soybean
+monoculture in the brazilian cerrado braz j microbiol – 
+
+caporaso j g kuczynski j stombaugh j bittinger k bushman f d costello e k 
+fierer n peña a g goodrich j k gordon j i huttley g a kelley s t 
+knights d koenig j e ley r e lozupone c a mcdonald d muegge b d 
+pirrung m reeder j sevinsky j r turnbaugh p j walters w a widmann j 
+yatsunenko t zaneveld j knight r qiime allows analysis of high 
+throughput community sequencing data nat methods – 
+
+castillo monroy a p benítez a reyes bueno f donoso d a cueva a 
+biocrust structure responds to soil variables along a tropical scrubland elevation
+gradient j arid environ – 
+
+castro a p da silva m r s s quirino b f bustamante m m c krüger r h 
+microbial diversity in cerrado biome neotropical savanna soils plos one – 
+
+castro a p quirino b f pappas junior g kurokawa a s leonardecz neto e 
+krüger r h diversity of soil fungal communities of cerrado and its closely
+surrounding agriculture fields arch microbiol – 
+
+castro j l gonçalves m rufini m guimarães a a rodrigues t l moreira f m s 
+ diversity and efficiency of rhizobia communities from areas under the iron
+mining influence by using cowpea as trap plant r bras ci solo – 
+
+catão e castro a p barreto c c krüger r h kyaw c m diversity of
+archaea in brazilian savanna soils arch microbiol – 
+
+chodak m golebiewski m ploskonka j m kuduk k niklinska m soil
+chemical properties affect the reaction of forest soil bacteria to drought and rewetting
+stress ann microbiol – 
+
+coelho m r vasques g m tassinari d souza z r oliveira a p moreira f m s 
+ solos do quadrilátero ferrífero sob diferentes coberturas vegetais e materiais
+de origem boletim de pesquisa e desenvolvimento embrapa solos rio de
+janeiro rj p 
+
+cole j r wang q fish j a chai b l mcgarrell d m sun y brown c t porras 
+alfaro a kuske c r tiedje j m ribosomal database project data and
+tools for high throughput rrna analysis nucl acids res – 
+
+desantis t z hugenholtz p larsen n rojas m brodie e l keller k huber t 
+dalevi d hu p andersen g l greengenes a chimera checked s rrna
+gene database and workbench compatible with arb appl environ microbiol 
+ – 
+
+dynia j f de souza m d boeira r c lixiviação de nitrato em latossolo cul 
+tivado com milho após aplicações sucessivas de lodo de esgoto pesq agropec bras 
+ – 
+
+edgar r c search and clustering orders of magnitude faster than blast 
+bioinformatics – 
+
+edgar r c uparse highly accurate otu sequences from microbial amplicons
+reads nat methods – 
+
+evans s e wallenstein m d burke i c is bacterial moisture niche a good
+predictor of shifts in community composition under long term drought ecology 
+ – 
+
+franco a c ecophysiology of woody plants in oliveira p s marquis r j eds 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+
+
+the cerrados of brazil – ecology and natural history of a neotropical savanna 
+columbia university press new york pp – 
+
+gessner m o swan c m dang c k mckie b g bardgett r d wall d h 
+hättenschwiler s diversity meets decomposition trends ecol evol 
+ – 
+
+halter d cordi a gribaldo s gallien s chollet f g salmeron a h carapito c 
+pagnout c montaut d seby f van dorsselaer a schaeffer c bertin p n 
+bauda p arsène ploetze f taxonomic and functional prokaryote diversity
+in mildly arsenic contaminated sediments res microbiol – 
+
+harder c b ronn r brejnrod a bass d al soud w a ekelund f local
+diversity of heathland cercozoa explored by in depth sequencing isme j 
+ – 
+
+hill t c j walsh k a harris j a moffett b f using ecological diversity
+measures with bacterial communities fems microb ecol – 
+
+jones r m johnson d b acidithrix ferrooxidans gen nov sp nov a fila 
+mentous and obligately heterotrophic acidophilic member of the actinobacteria that
+catalyzes dissimilatory oxido reduction of iron res microbiol – 
+
+kieser t bibb m j buttner m j chater k f hopwood d a general in 
+troduction to actinomycete biology in kieser t bibb m j buttner m j chater 
+k f hopwood d a eds practical streptomyces genetics john innes centre 
+norwich pp – 
+
+lansac toha f a velho l f m costa d m simoes n r alves g m structure
+of the testate amoebae community in different habitats in a neotropical floodplain 
+braz j biol – 
+
+lauber c l hamady m knight r fierer n pyrosequencing based assessment
+of soil ph as a predictor of soil bacterial community structure at the continental scale 
+appl environ microbiol – 
+
+lennon j t jones s e microbial seed banks the ecological and evolutionary
+implications of dormancy nat rev microbiol – 
+
+mendonça r c felfili j m walter b m t silva jr m c rezende a v filgueiras 
+t s nogueira p e fagg c w vascular flora of the cerrado biome checklist
+with species in sano s m almeida s p ribeiro j f eds cerrado 
+ecology and flora embrapa cerrados embrapa informação tecnológica brasilia pp 
+ – 
+
+myers n mittermeir r a mittermeir c g fonseca g a b kent j biodiversity
+hotspots for conservation priorities nature – 
+
+neilson j w quade j ortiz m nelson w m legatzki a tian f lacomb m 
+betancourt j l wing r a soderlund c a maier r m life at the hyperarid
+margin novel bacterial diversity in arid soils of the atacama desert chile 
+extremophiles – 
+
+nolte v pandey r v jost s medinger r ottenwalder b boenigk j schlotterer 
+c contrasting seasonal niche separation between rare and abundant taxa
+conceals the extent of protist diversity mol ecol – 
+
+oliveira filho a t ratter j a vegetation physiognomies and woody flora of the
+cerrado biome in oliveira p s marquis r j eds the cerrados of brazil –
+ecology and natural history of a neotropical savanna columbia university press 
+new york pp – 
+
+oliveira r s galvão h c campos m c r eller c b pearse s j lambers h 
+mineral nutrition of campos rupestres plant species on contrasting nutrient im 
+poverished soil types new phytol – 
+
+olson d m dinerstein e wikramanayake e d burgess n d powell g v n 
+underwood d’amico e c j a itoua i strand h e morrison j c loucks c j 
+allnutt t f ricketts t h kura y lamoreux j f wettengel w w hedao p 
+kassem k r terrestrial ecoregions of the world a new map of life on earth 
+bioscience – 
+
+orgiazzi a dunbar m b panagos p groot g a lemanceau p soil biodi 
+versity and dna barcodes opportunities and challenges soil biol biochem 
+ – 
+
+pacchioni r g carvalho f m thompson c e faustino a l f nicolini f pereira 
+t s silva r c cantão m e gerber a vasconcelos a t agnez lima l f 
+taxonomic and functional profiles of soils samples from atlantic forest and caating
+biomes in northeastern brazil microbiologyopen – 
+
+pershina e valkonen j kurki p ivanova e chirak e korvigo i provorov n 
+andronov e comparative analysis of prokaryotic communities associated
+with organic and conventional farming systems plos one – 
+
+pessoa filho m barreto c c reis junior f b fragoso r r costa f s mendes i c 
+andrade l r m microbiological functioning diversity and structure of bac 
+terial communities in ultramafic soils from a tropical savanna antonie leeuwenhoek
+ – 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p peplies j glöckner 
+f o the silva ribosomal rna gene database project improved data pro 
+cessing and web based tools nucl acids res – 
+
+quirino b f pappas g j tagliaferro a c collevatti r g neto e l silva m r s s 
+bustamante m m krüger r h molecular phylogenetic diversity of bacteria
+
+associated with soil of the savanna like cerrado vegetation microbiol res 
+ – 
+
+rachid c t c c santos a l piccolo m c balieiro f c coutinho h l c peixoto 
+r s tiedje j m rosado a s effect of sugarcane burning or green harvest
+methods on the brazilian cerrado soil bacterial community structure plos one
+ – 
+
+rampelotto p h ferreira a s barboza a d m roesch l f w changes in di 
+versity abundance and structure of soil bacterial communities in brazilian savanna
+under different land use systems microb ecol – 
+
+regali seleghim m h godinho m j l tundisi t m checklist dos
+“protozoários” de água doce do estado de são paulo brasil biota neotrop 
+ – 
+
+ruibal c gueidan c selbmann l gorbushina a a crous p w groenewald j z 
+muggia l grube m isola d schoch c l staley j t lutzoni f de hoog g s 
+ phylogeny of rock inhabiting fungi related to dothideomycetes stud mycol 
+ – 
+
+schmieder r edwards r quality control and preprocessing of metagenomic
+datasets bioinformatics – 
+
+schoch c l shoemaker r a seifert k a hambleton s spatafora j w crous p w 
+ a multigene phylogeny of the dothideomycetes using four nuclear loci 
+mycologia – 
+
+sheik c s beasley w h elshahed m s zhou x luo y krumholz l r effect
+of warming and drought on grassland microbial communities isme j – 
+
+simon m f grether r de queiroz l p skema c pennington r t hughes c e 
+ recent assembly of the cerrado a neotropical plant diversity hotspot by in situ
+evolution of adaptations to fire pnas early edition www pnas org cgi doi 
+ pnas 
+
+skirycz a castilho a chaparro c carvalho n tzotzos g siqueira j o 
+canga biodiversity a matter of mining front plant sci – 
+
+soil survey staff keys to soil taxonomy th ed united states department of
+agriculture natural resources conservation service washington dc 
+
+souza r c cantão m e vasconcelos a t r nogueira m a hungria m soil
+metagenomics reveals differences under conventional and no tillage with crop rota 
+tion or succession appl soil ecol – 
+
+souza r c hungria m cantão m e vasconcelos a t r nogueira m a vicente 
+v a metagenomics analysis reveals microbial functional redundancies and
+specificities in a soil under different tillage and crop management regimes appl soil
+ecol – 
+
+stahl p d parkin t b relationship of soil ergosterol concentration and fungal
+biomass soil biol biochem – 
+
+sun w xiao e krumins v dong y xiao t ning z chen h xiao q 
+characterization of the microbial community composition and the distribution of fe 
+metabolizing bacteria in a creek contaminated by acid mine drainage appl 
+microbiol biotechnol – 
+
+taberlet p coissac e pompanon f brochmann c willerslev e towards
+next generation biodiversity assessment using dna metabarcoding mol ecol 
+ – 
+
+touceda gonzalez m prieto fernandez a renella g giagnoni l sessitsch a 
+brader g kumpiene j dimitriou i eriksson j friesl hanl w galazka r 
+janssen j mench m muller i neu s puschenreiter m sievielec g 
+vangronsveld j kidd p s microbial community structure and activity in
+trace element contaminated soils phytomanaged by gentle remediation options
+ gro environ poll – 
+
+urich t lanzén a qi j huson d h schleper c schuster s c simultaneous
+assessment of soil microbial community structure and function through analysis of
+the meta transcriptome plos one – 
+
+vázquez baeza y pirrung m gonzalez a knight r emperor a tool for vi 
+sualizing high throughput microbial community data gigascience – 
+
+vieira c k marascalchi m n rodrigues a v armas r d stürmer s l 
+morphological and molecular diversity of arbuscular mycorrhizal fungi in re 
+vegetated iron mining site has the same magnitude of adjacent pristine ecosystems j 
+environ sci https doi org j jes 
+
+xiong j liu y lin x zhang h zeng j hou j yang y yao t knight r chu 
+h geographic distance and ph drive bacterial distribution in alkaline lake
+sediments across tibetan plateau environ microbiol – 
+
+xue k van nostrand j d vangronsveld j witers n janssen j o kumpiene j 
+sievielec g galazka r giagnoni l arenella m zhou j z renella g 
+management with willow short rotation coppice increase the functional gene di 
+versity and functional activity of a heavy metal polluted soil chemosphere 
+ – 
+
+xue c penton c r zhang b zhao m rothstein d e mladenoff d j forrester 
+j m shen q tiedje j m soil fungal and bacterial responses to conversion of
+open land to short rotation woody biomass crops glob change biol bioenergy 
+ – 
+
+c k vieira et al applied soil ecology – 
+
+ 
+
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+https www pnas org cgi doi pnas 
+https www pnas org cgi doi pnas 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+https doi org j jes 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+http refhub elsevier com s h 
+
+	microbiome of a revegetated iron mining site and pristine ecosystems from the brazilian cerrado
+	introduction
+	material and methods
+	study area and sampling design
+	dna extraction high throughput sequencing and analysis
+
+	results
+	bacteria and archaea diversity
+	eukarya diversity
+	alpha and beta diversities
+
+	discussion
+	conclusions
+	data accessibility statement
+	author contributions
+	acknowledgements
+	references
+
+
+
+
+

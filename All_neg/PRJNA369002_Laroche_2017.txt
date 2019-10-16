@@ -1,0 +1,1920 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submitted february 
+accepted april 
+published may 
+
+corresponding author
+olivier laroche 
+olar aucklanduni ac nz 
+olli laroche gmail com
+
+academic editor
+james reimer
+
+additional information and
+declarations can be found on
+page 
+
+doi peerj 
+
+copyright
+ laroche et al 
+
+distributed under
+creative commons cc by 
+
+open access
+
+metabarcoding monitoring analysis 
+the pros and cons of using co extracted
+environmental dna and rna data to
+assess offshore oil production impacts on
+benthic communities
+olivier laroche susanna a wood louis a tremblay gavin lear 
+joanne i ellis and xavier pochon 
+
+ school of biological sciences university of auckland auckland new zealand
+ environmental technologies coastal and freshwater group cawthron institute nelson new zealand
+ environmental research institute university of waikato hamilton new zealand
+ red sea research centre king abdullah university of science and technology thuwal saudi arabia
+ institute of marine science university of auckland auckland new zealand
+
+abstract
+sequencing environmental dna edna is increasingly being used as an alternative to
+traditional morphological based identification to characterize biological assemblages
+and monitor anthropogenic impacts in marine environments most studies only assess
+edna which compared to erna can persist longer in the environment after cell
+death therefore erna may provide a more immediate census of the environment
+due to its relatively weaker stability leading some researchers to advocate for the use of
+erna as an additional or perhaps superior proxy for portraying ecological changes a
+variety of pre treatment techniques for screening edna and erna derived operational
+taxonomic units otus have been employed prior to statistical analyses including
+removing singleton taxa i e otus found only once and discarding those not present
+in both edna and erna datasets in this study we used bacterial s ribosomal
+rna gene and eukaryotic s ribosomal rna gene edna and erna derived data
+from benthic communities collected at increasing distances along a transect from an
+oil production platform taranaki new zealand macro infauna visual classification
+of benthic invertebrates and physico chemical data were analyzed in parallel we
+tested the effect of removing singleton taxa and removing taxa not present in the
+edna and erna libraries from the same environmental sample trimmed by shared
+otus by comparing the impact of the oil production platform on alpha and beta 
+diversity of the edna erna based biological assemblages and by correlating these to
+the morphologically identified macro faunal communities and the physico chemical
+data when trimmed by singletons presence absence information from erna data
+represented the best proxy to detect changes on species diversity for both bacteria and
+eukaryotes however assessment of quantitative beta diversity from read abundance
+information of bacteria ernadid not contrary to edna reveal any impact from the oil
+production activity overall the data appeared more robust when trimmed by shared
+otus showing a greater effect of the platform on alpha and beta diversity trimming
+by shared otus likely removes taxa derived from legacy dna and technical artefacts
+
+how to cite this article laroche et al metabarcoding monitoring analysis the pros and cons of using co extracted environmental
+dna and rna data to assess offshore oil production impacts on benthic communities peerj e doi peerj 
+
+https peerj com
+mailto olar aucklanduni ac nz
+mailto olli laroche gmail com
+https peerj com academic boards editors 
+https peerj com academic boards editors 
+http dx doi org peerj 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http dx doi org peerj 
+
+
+introduced through reverse transcriptase polymerase chain reaction and sequencing 
+findings from our scoping study suggest that metabarcoding based biomonitoring
+surveys should if funds time and expertise allow be assessed using both edna and
+erna products 
+
+subjects bioinformatics environmental sciences marine biology molecular biology
+keywords biomonitoring oil and gas activities benthic ecology high throughput sequencing 
+bacteria s eukaryotes s method testing edna erna
+
+introduction
+environmental dna edna metabarcoding defined here as the combined use of
+universal dna barcodes and high throughput sequencing hts to characterize biological
+communities from genetic material collected from environmental samples sediment 
+water etc is increasingly being used to assess biodiversity and anthropogenic impacts
+in terrestrial e g yu et al taberlet et al ji et al beng et al and
+aquatic environments e g carew et al chariton et al visco et al 
+dowle et al pochon et al pawlowski et al a pawlowski et al b 
+abad et al lanzén et al metabarcoding is a cost effective method that can
+rapidly and simultaneously target multiple species to complement traditional ecosystem
+biomonitoring approaches valentini pompanon taberlet bourlat et al ji et
+al bohmann et al it also allows microbiota that are difficult or impossible
+to identify morphologically to be characterized micro organisms are at the bottom of the
+food chain have shorter life cycles and often have a higher diversity and abundance than
+macro fauna they may therefore be a better proxy for evaluating environmental impacts 
+and their use has been advocated for biomonitoring bourlat et al pawlowski et
+al pawlowski et al b pawlowski lejzerowicz esling lejzerowicz et al 
+ dowle et al lau et al 
+
+most metabarcoding monitoring studies use edna to characterize biological
+communities a limited number have also evaluated data from co extracted erna
+products e g pawlowski et al pawlowski et al a visco et al dowle et
+al pochon et al laroche et al because rna deteriorates rapidly after
+cell death erna likely provides a more accurate representation of viable communities
+ mengoni et al blazewicz et al suggested that the relative concentration
+of rna in the environment provides a robust indication of the growth and adaptation
+potential of microbial communities in general when environmental metabarcoding
+studies have used both edna and erna they have found slightly stronger correlations
+between community data generated from erna and environmental conditions pawlowski
+et al pawlowski et al a visco et al dowle et al pochon et al 
+laroche et al however working with erna adds additional complexities and
+expenses related to sampling and laboratory analysis including extra precaution during
+sampling transport and storage to avoid degradation a greater understanding of the
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+potential benefits of using edna versus erna is therefore desirable prior to incorporating
+metabarcoding methods into environmental monitoring programs 
+
+previous studies assessing edna and erna extracted from the same environmental
+sample have noted differing diversities of operational taxonomic units otus recovered
+from assessment of either molecule greater taxon richness derived from edna data can be
+explained through the detection of dna from dead organisms as well as extracellular dna
+ free floating or legacydna that has bound to sediment or other particles however many
+studies report an important number of taxa only detected from erna e g pawlowski et
+al pawlowski et al a pochon et al laroche et al hu et al 
+these otus may be the result of pcr sequencing artefacts or the detection of rare but
+very active taxa to date most studies have dealt with this by only retaining the data of
+taxa present in both edna erna datasets across the entire sample set pawlowski et al 
+ pawlowski et al a dowle et al pochon et al laroche et al or
+within the same sites hu et al 
+
+a further data treatment technique which is commonly applied to datasets is the use of
+minimal dna sequence read abundance thresholds for each unique taxon i e data related
+to any particular otu is discarded if insufficient numbers of that taxon are detected in
+the overall dataset typically – reads this is generally done to reduce sequencing
+artefacts hunt et al charvet vincent lovejoy visco et al the
+methods applied to the pre treatment of metabarcoding data i e use of a minimum
+abundance removal threshold or dataset trimming based on shared taxa abundances can
+have important implications on the final resolution number of available dna sequence
+reads and or taxa sensitivity smallest perceptible effect and accuracy confidence level 
+of the data used to assess anthropogenic impacts 
+
+the aims of this study was to compare the use of co extracted edna and erna products
+to assess the benthic environment around an offshore oil production platform and to
+determine whether edna or erna derived taxa provide more accurate data for assessing
+shifts in bacterial and micro meio eukaryotic communities we also evaluated the effects
+of two different trimming methodologies one using a minimum read abundance threshold
+per taxon i e ‘trimmed by singletons’ and one removing all taxa not simultaneously
+recovered from both edna and erna products of the same environmental sample
+ i e ‘trimmed by shared otus’ we hypothesized that bacterial and eukaryotic
+datasets with taxa trimmed by shared edna and erna products would yield more
+significant community shifts in response to the effect of the production platform from
+the removal of most irrelevant otus and that the use of erna derived bacterial
+and eukaryotic taxa would show stronger correlations with environmental variables
+and macro faunal communities than edna derived taxa as it mostly depicts the living
+community 
+
+material and methods
+field sampling
+the study area was located km off the west coast of new zealand’s north island in the
+south taranaki bight latitude − ◦ longitude ◦ fig a in this region 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+tasman sea
+
+taranaki peninsula
+
+study site
+ maari facility 
+
+cook strait
+
+a b
+
+major flow axis
+dominant current direction
+
+minor
+flow axis
+
+ m m m m m m
+
+ ° s
+
+ fpso platform
+
+ ° e
+
+eastwest
+
+kilometers
+ 
+
+n
+
+figure site map indicating a the study site situated in the taranaki bight maari facility black
+circle b the floating production storage and offloading fpso platform sampling stations are in
+full circle with numbers corresponding to the distance to the platform along the major water flow axis 
+modified from johnston et al 
+
+the seabed has a fairly uniform muddy texture with water depth ranging between and
+ m biological samples bacterial micro eukaryotic and macro faunal assemblages 
+and physico chemical data were collected along transects radiating to the east–west axis
+of one floating production storage and offloading fpso platform the fpso has been
+in activity since and has been processing and storing the well fluids coming from
+a wellhead platform whp situated km north west the main discharges from the
+fpso are production waters formation water and additives and operational discharges
+ sewage deck drainage etc mcconnell et al the fpso site is characterized by
+a prevalence of anthropogenic debris e g paint chips construction material etc and
+coarser hard packed and dark coloured sediments in its vicinity ≤ m possibly
+indicating lower oxygenation level elevated barium concentrations radiating away from
+the production water and drilling discharge point and differences in the structure of
+macro faunal assemblages on the east transect between the near field station ≤ m 
+and far field stations m johnston elvines newton 
+
+the sampling methodology was based on the offshore taranaki environmental
+monitoring protocol otemp johnston et al which consisted of a distance graded
+sample station allocation sampling stations were overlaid along the major flow axis with
+the fpso located at the center fig b the east–west axis constitutes the main trajectory
+along which the deposition of drilling mud and cuttings occurs with the strongest currents
+usually flowing in a westward direction at a mean speed of ms− mcconnell et al 
+ six stations were sampled at approximately and m from the fpso 
+
+sediment samples were collected in triplicate at stations for a total of samples on the
+ th and th of march table s samples were collected with a modified stainless
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+steel double van veen grab as described in laroche et al to avoid creating a bow
+wake effect on the seafloor the grab sampler was deployed at a constant rate of m s 
+recovery of the sampler was similarly processed to avoid displacing superficial sediments 
+once retrieved the top sediment layer was inspected and samples only taken when the
+surface was undisturbed the full content of the first grab compartment was sieved 
+µm and preserved in ethanol for analysis of macro faunal communities subsamples
+ g of undisturbed surface sediment approximately cm depth were collected from
+the second grab for edna erna metabarcoding these samples were placed in life
+guardtm soil preservation solution ml mobio new york ny usa to preserve
+microbial and environmental rna in stasis using disposable gloves and spatulas samples
+were stored on ice during transportation to the laboratory and kept frozen − ◦c until
+further processing the second grab compartment was subsampled for physicochemical
+analyses of sediment as described in johnston elvines newton 
+
+laboratory analyses
+sample processing
+the macro fauna was morphologically identified to the lowest practical taxonomic level
+and enumerated at the cawthron institute nelson new zealand sediment texture
+and chemical analyses were also performed at cawthron institute following the protocol
+described in johnston et al a summary of all analytical methods used and their
+detection limit for characterizing the physicochemical parameters of sediment is provided
+in supplementary information table s 
+
+total dna rna co extractions were conducted using the powersoiltm total rna
+isolation kit and the dna elution accessory kit mobio new york ny usa prior to
+cdna synthesis rna samples were given two consecutive dnase treatments as described
+in langlet et al to verify the complete elimination of trace dna polymerase
+chain reaction pcr amplifications of cycles were performed using the bacterial
+forward primers s d bact b s ′ cct acg ggn ggcwgc ag ′ and reverse
+primers s d bact a a ′ gac tac hvg ggt atc taa tcc ′ klindworth
+et al and the eukaryotic forward primers uni sf ′ agg gca aky ctg gtg
+cca gc ′and reverse primers uni sr ′ grc ggt atc tra tcg yct t ′ zhan
+et al these primers produce amplicons of ca bp and were chosen for their
+ability to capture most bacterial and eukaryotic especially protist phyla complementary
+dna cdna synthesis from single stranded rna was performed using random hexamer
+primers and the superscript r© iii reverse transcriptase thermo fisher scientific inc 
+waltham ma usa all according to the manufacturer’s manual 
+
+pcr amplification and high throughput sequencing
+pcr amplifications were performed once for each biological replicate total bacterial s
+rrna v and v region and total eukaryote s rrna v region were amplified
+using pcr with the same primers descripted above the primers were modified to include
+illuminatm overhang adaptors forward ′ tcg tcg gca gcg tca gat gtg tat
+aag aga cag ′ and reverse ′ gtc tcg tgg gct cgg aga tgt gta taa gag
+aca g ′ as described in kozich et al for bacteria pcr consisted of µl of
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+amplitaq gold r© pcr master mix life technologies carlsbad ca usa µl of
+double distilled water ddh o µl of each primer µm µl of gc enhancer to
+increase yield µl µg µl of bovine serum albumin bsa and µl of template
+edna – ng µl or µl of cdna ng µl reaction cycling conditions were 
+ ◦c for min followed by cycles of ◦c for s ◦c for s ◦c for min with
+a final extension step at ◦c for min for eukaryotes pcr reactions were performed
+in a reaction mixture containing µl of amplitaq gold r© pcr master mix life
+technologies carlsbad ca usa µl of ddh o µl of each primer µm µl of
+gcenhancer µlof bsa and µlof template edna – ng µl or µlof erna
+ ng µl reaction cycling conditionswere ◦c for min followed by cycles of ◦c
+for s ◦c for s ◦c for s with a final extension step at ◦c for min all pcr
+amplifications included negative controls no template samples to check amplification of
+uncontaminated products amplicons were purified with agencourt r© ampure r© xp pcr
+purification beads beverly ma usa following the manufacturers’ instructions purified
+products were quantified using a qubit r© fluorometer life technologies carlsbad ca 
+usa and diluted to ng µl using ddh o each product was individually indexed
+using the nexteratm dna library prep kit illumina san diego ca usa pooled into
+two libraries edna and erna and sequenced on a miseqtm illumina platform using
+a × base pair paired end protocol at the new zealand genomics ltd auckland 
+new zealand a sample containing µl of ddh o was used as a negative control
+for the multiplexing and sequencing steps in each library internal sequencing quality
+control was also ensured by including dna samples from three previously isolated marine
+species i e sabella spallanzanii ciona savignyi and perna perna pochon et al 
+that were pcr amplified purified and quantified following the eukaryote dna protocol
+described above these species were pooled at equimolar concentration and included in
+each sequencing run the raw sequencing reads are publicly available in the sequence read
+archive sra under the accession numbers srr –srr additionally 
+the filtered sequence dataset is available for download on figshare at the following link 
+https figshare com articles laroche et al maari 
+
+bioinformatics analysis
+using vsearch rognes et al raw fastq reads were truncated from the first base
+where the q score dropped below and paired end assembled with a minimum merge
+length of reads merged reads with more than one base pair error were discarded and
+the remaining demultiplexed the bacteria and eukaryote data were concatenated into one
+file each bacteria fasta eukaryote fasta and dereplicated unique sequences of bacterial
+ s rrna were compared to the ribosomal database project rdp cole et al 
+and unique sequences of eukaryotic s rrna mapped against the protist ribosomal 
+database pr guillou et al for chimera detection prior to clustering reads into
+operational taxonomic units otus with a similarity representative sequences were
+sorted by abundance so that the most important sequences would be at the start of the
+file and used as seed for the clustering taxonomy was assigned using the qiime package
+ caporaso et al and the uclust assigner by default the program performs a search
+
+laroche et al peerj doi peerj 
+
+https peerj com
+https www ncbi nlm nih gov sra term srr 
+https www ncbi nlm nih gov sra term srr 
+https figshare com articles laroche et al maari 
+http dx doi org peerj 
+
+
+to record reference sequences matching a minimum of of each query entry otu 
+and assign the most specific taxonomic label according to a minimum consensus fraction
+ by default of the matches this approach enabled taxonomic assignment of poorly
+represented taxa in reference databases operational taxonomic units with no match were
+discarded 
+
+rarefaction curves were generated in qiime using the chao and shannon metrics
+ fig s this analysis demonstrated that approximately reads per sample for both
+bacteria and eukaryote datasets were required to adequately capture the diversity within
+each sample samples with reads one for bacterial edna and one for eukaryote
+edna and erna samples were discarded from subsequent analyses table s to enable
+robust comparisons between edna and erna datasets an equivalent number of samples
+were kept per station for each type of molecule resulting in the additional removal of one
+bacterial erna sample table s 
+
+for the remaining data manipulation and analysis three datasets were used for both
+bacteria and eukaryotes containing all otus referred to as ‘untrimmed’ only
+containing otus with at least two unique sequence reads present within the whole dataset
+ referred to as ‘trimmed by singletons’ and including only the otus found in both
+dna and rna compartments from each sample referred to as ‘trimmed by shared
+otus’ 
+
+data analysis and statistics
+samples were grouped into near field ≤ m of the fpso and far field m 
+stations from each side of the fpso to visualize the effect of trimming by singletons and
+by shared otus the number of reads and otus in each dataset were compared the
+otus removed from the shared otus trimming method were further investigated by
+displaying bar plots of the relative abundance of the ten most important classes for bacteria
+and phyla for eukaryotes using the r package ‘phyloseq’ mcmurdie holmes and
+by performing a mann–whitney u test with permutations on these taxa to detect
+significant abundance differences between the near and far field stations 
+
+prior to further analysis read counts were normalized among samples the large
+discrepancy in read abundance among samples up to five times prevented the use of
+typical normalization techniques such as variance stabilization r package deseq love 
+huber anders or cumulative sum scaling r package metagenomeseq paulson
+et al and a subsampling based normalization strategy was employed following
+the method described in aguirre de carcer et al briefly multiple rarefactions 
+times based on the median number of reads among all samples were performed followed
+by a rarefaction to the lowest number of reads among all samples since a large number of
+singletons may represent pcr or sequencing artefacts majaneva et al brown et al 
+ these were removed prior to statistical analysis 
+
+using normalized data kept after the two different trimming techniques observed
+otus and the shannon diversity index were analyzed for each sample to test for the
+effect of the fpso on the bacterial and eukaryotic alpha diversity of edna erna datasets 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+a nonparametric t test using permutations was performed between near and far 
+field stations to determine whether the edna or erna dataset contained the most
+abundant number of otus significantly affected by the fpso activity a non parametric
+t test with permutations was conducted on otus present in at least three samples 
+between the near and far field station groups differences in beta diversity between and
+within the near and far field stations were tested using an adonis and permdisp tests
+with permutations on bray curtis distance matrices using square root transformed
+data non metric multidimensional scaling plots were obtained using the r package
+‘phyloseq’ mcmurdie holmes correlations between bacterial and eukaryotic
+edna erna otus and macro fauna beta diversities and with environmental variables
+were investigated using a mantel test based on permutations the tests were performed
+on square root transformed data using bray curtis distance matrices for biological data 
+and an euclidean distance matrix for environmental data for the later only variables
+showing a significant change between the near field and far field stations were used i e 
+barium and afdw johnston elvines newton and square root transformed prior
+to the distance matrix computation except for the bar plots and nmds all analyses
+mentioned above were computed using the qiime pipeline caporaso et al 
+
+results
+high throughput sequencing output
+each of the sediment samples collected in this study were co extracted for both edna
+and erna and pcr amplified for total bacteria and eukaryotes resulting in the total
+production of pcr amplicons for bacteria and for eukaryotes table s the
+no template pcr controls remained negative in all pcr trials all amplicons were
+sequenced on an illuminatm miseq instrument yielding a total of and 
+edna and erna sequence reads respectively the water blank negative controls ddh o
+sample contained a total of raw reads for bacteria and for eukaryotes in the
+edna library and raw reads for bacteria and for eukaryotes in the erna
+library of which none remained after quality filtering the positive controls were assigned
+at to the three target taxa after removal of unmatched and low quality reads a
+total of reads and otus were obtained for bacteria edna erna 
+ and a total of reads and otus edna erna for
+eukaryotes removal of samples with insufficient diversity coverage led to the removal of
+one bacterial edna and erna sample fe b and one eukaryotic edna fe b and
+erna fe c sample table s 
+
+effect of trimming methodologies
+for the bacterial dataset the removal of singletons i e otus present only once across
+the entire edna erna datasets resulted in a loss of total reads and loss of otus
+ table similar results were observed for eukaryotes where of reads and of
+otus were removed trimming otus that did not occur in both edna erna amplicons
+of the same sample resulted in a total reduction in otus of and total read reduction of
+ for eukaryote data trimming by shared otus had a larger impact on otu and read
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+table number of operational taxonomic units otus and reads per dataset brackets show portion of reads removed by each technique from
+the raw dataset 
+
+trimming
+technique
+
+reads otus
+
+total edna
+dataset
+
+erna
+dataset
+
+total edna
+dataset
+
+erna
+dataset
+
+raw data 
+trimmed by
+singletons
+
+ 
+bacteria
+
+trimmed by shared
+otus
+
+ 
+
+raw data 
+trimmed by
+singletons
+
+ 
+eukaryotes
+
+trimmed by shared
+otus
+
+ 
+
+notes 
+edna environmental dna erna environmental rna 
+
+removal discarding an additional of otus for a total reduction of and reducing
+the total read abundance by the mean number of reads counts per removed otus
+was of and for bacteria and eukaryotes respectively 
+
+figure summarizes the total number of bacterial and eukaryotic otus that were either
+shared between both edna and erna data of the whole datasets shared between edna
+and erna from the same sample or those that were restricted to one dataset type following
+the two distinct data treatments the percentage of shared otus between the edna and
+erna bacterial datasets increased from to after singleton removal table for
+eukaryotes removing singletons improved the percentage of shared otus in the edna
+and erna datasets from to the percentage of unshared otus were highest in
+the edna dataset for bacteria while in the eukaryotic dataset most of the unshared otus
+were in the erna 
+
+after trimming by singletons the bacterial datasets kept otus were mainly composed
+of gammaproteobacteria edna erna deltaproteobacteria edna 
+erna and alphaproteobacteria edna erna table s metazoa
+composed the large majority of eukaryote otus edna erna followed
+by dinophyta and radiolaria in edna and by cercozoa and
+cilliophora in erna table s 
+
+trimming by shared otus slightly changed the relative abundance of each taxa of
+the kept data but did not change their decreasing order table s the majority of
+bacterial otus removed from trimming by shared otus were proteobacteria belonging to
+deltaproteobacteria edna erna and gammaproteobacteria edna 
+erna fig table s in edna the taxonomic groups planctomycetia 
+alphaproteobacteria and verrucomicrobiae also accounted for a substantial
+part of the trimmed otus most of the eukaryote otus removed were metazoa edna
+ erna followed by dinophyta and apicomplexa in edna 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a b 
+
+c d 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+otus shared between edna erna datasets same samples 
+
+otus shared between edna erna datasets distinct samples edna otus only 
+
+erna otus only 
+
+edna erna ernaedna
+
+edna erna edna erna
+
+figure venn diagrams displaying shared and unshared operational taxonomic units otus among
+environmental dna edna and rna erna amplicons of the bacteria a b and eukaryote c d 
+datasets untrimmed data are represented in a and c datasets with the removed singletons shown in
+ b and d 
+
+and by ciliophora and cercozoa in erna table s among all these
+groups only edna verrucomicrobiae t stat p value table s and erna
+planctomycetia t stat − p value table s expressed a significant relation
+with distance from the platform both being more abundant in the near field stations 
+
+comparison of bacteria and eukaryotes edna and erna datasets
+alpha diversity
+non parametric t tests on alpha diversity metrics of the edna dataset trimmed by
+singletons kept otus showed that there was no significant difference between the near 
+and far field stations for bacteria or eukaryotes table the same was observed with
+the equivalent erna bacterial data and erna eukaryote data when using the ‘trimmed
+by shared otus’ method significant differences between the near and far field stations
+for the observed otus metric were observed with bacterial edna p value and
+with eukaryotic edna p value and for the shannon index with bacterial edna
+ p value 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+edna
+
+a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+r
+el
+
+at
+iv
+
+e 
+se
+
+qu
+en
+
+ce
+ a
+
+bu
+nd
+
+an
+ce
+
+ 
+ 
+
+erna
+
+ac
+ido
+
+ba
+cte
+
+ria
+
+ac
+tin
+
+ob
+ac
+
+ter
+ia
+
+ba
+cte
+
+ro
+ide
+
+tes
+
+fir
+mi
+
+cu
+tes
+
+pla
+nc
+
+tom
+yc
+
+ete
+s
+
+pr
+ote
+
+ob
+ac
+
+ter
+ia
+
+ve
+rru
+
+co
+mi
+
+cro
+bia
+
+ac
+ido
+
+ba
+cte
+
+ria
+
+ac
+tin
+
+ob
+ac
+
+ter
+ia
+
+ba
+cte
+
+ro
+ide
+
+tes
+
+fir
+mi
+
+cu
+tes
+
+pla
+nc
+
+tom
+yc
+
+ete
+s
+
+pr
+ote
+
+ob
+ac
+
+ter
+ia
+
+la
+tes
+
+cib
+ac
+
+ter
+ia
+
+acidobacteria gp 
+acidobacteria gp 
+actinobacteria
+alphaproteobacteria
+clostridia
+deltaproteobacteria
+flavobacteria
+gammaproteobacteria
+latescibacteria
+planctomycetia
+verrucomicrobiae 
+
+ 
+
+ 
+
+ 
+
+r
+el
+
+at
+iv
+
+e 
+se
+
+qu
+en
+
+ce
+ a
+
+bu
+nd
+
+an
+ce
+
+ 
+ 
+
+b 
+
+edna erna
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+al
+ve
+
+ola
+ta
+
+ar
+ch
+
+ae
+pla
+
+sti
+da
+
+op
+ist
+
+ho
+ko
+
+nta
+
+rh
+iza
+
+ria
+
+al
+ve
+
+ola
+ta
+
+ar
+ch
+
+ae
+pla
+
+sti
+da
+
+op
+ist
+
+ho
+ko
+
+nta
+
+rh
+iza
+
+ria
+
+am
+oe
+
+bo
+zo
+
+a
+
+st
+ram
+
+en
+op
+
+ile
+s
+
+alveolata
+amoebozoa
+apicomplexa
+cercozoa
+choanoflagellida
+ciliophora
+dinophyta
+fungi
+metazoa
+ochrophyta
+perkinsea
+radiolaria
+streptophyta
+
+figure relative abundance of the ten most important bacterial classes a and eukaryotic phyla b 
+removed during the trimmed by shared otusmethod abundance values for each class phylum are
+stacked in order from greatest to least separated by a thin horizontal line edna environmental dna 
+erna environmental rna 
+
+table non parametric t tests on alpha diversity metrics observed operational taxonomic units otus and shannon index between near
+field stations ≤ m and far field stations m on the data kept after the different trimmingmethodologies 
+
+datasets observed otus shannon index
+
+near field far field t stat p value near field far field t stat p value
+
+edna − − 
+trimmed by singletons
+
+erna − − 
+edna − − 
+
+bacteria
+trimmed by shared
+otus erna − − 
+
+edna − − 
+trimmed by singletons
+
+erna − − 
+edna − − 
+
+eukaryotes
+trimmed by shared
+otus erna − − 
+
+notes 
+edna environmental dna erna environmental rna 
+significant p values are in bold 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+nmds 
+
+n
+m
+
+d
+s
+
+ estwest
+distance
+
+nf
+ff
+
+a 
+
+b 
+
+bacteria
+
+edna erna
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eukaryotes
+
+edna erna
+
+direction
+
+nmds 
+ 
+
+nmds nmds 
+
+n
+m
+
+d
+s
+
+ 
+
+bacteria eukaryotes
+
+edna erna edna erna
+
+est
+west
+
+distance
+nf
+ff
+
+direction
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+figure non metric multidimensional scaling nmds plots a trimmed by singletons and b 
+trimmed by shared operational taxonomic units otus data of both environmental dna edna and
+rna erna of bacteria and eukaryotes nf near field ff far field 
+
+significant otus beta diversity and correlation to environmental variables
+the non parametric t test analysis identified otus significantly associated with the near 
+or far field station groups by comparing their frequencies across samples groups for both
+taxa these otus were more abundant in edna than erna table s trimming by
+shared otus reduced the number of significant otus by edna and erna in
+bacteria and by edna and erna in eukaryotes table s 
+
+non metricmultidimensional scaling plots fig demonstrated that near and far field
+stations tended to cluster separately for both taxa our distance based test for homogeneity
+of multivariate dispersion permdisp indicated that communities within the near and
+far field stations groups were homogeneous in all datasets table s however significant
+variance between replicates were observed for bacterial edna p value and erna
+ p value data of the trimmed by singleton dataset and for bacterial edna p value
+ of the trimmed by shared otus dataset table s 
+
+when comparing the correlation of bacterial edna erna beta diversity matrices
+between near and far field stations edna provided stronger correlations and or lower
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+table adonis andmantel tests analysis of the strength and statistical significance of sample groupings among datasets and correlations be 
+tween beta diversity matrices of micro bacteria and eukaryotes and macro fauna and with distance matrix of selected environmental variables 
+
+datasets adonis mantel test
+
+near field
+vs far field
+
+correlation
+with macro fauna
+
+correlation
+with env variables
+
+correlation
+dna rna
+
+r p value r p value r p value r p value
+
+edna − trimmed by single 
+tons erna − 
+
+− 
+
+edna − 
+bacteria
+
+trimmed by shared
+otus erna − 
+
+ 
+
+edna − trimmed by single 
+tons erna − 
+
+ 
+
+edna 
+eukaryotes
+
+trimmed by shared
+otus erna − 
+
+ 
+
+notes 
+edna environmental dna erna environmental rna 
+significant p values are in bold 
+
+p values table this trendwas also observedwith correlations to the distancematrices of
+macro fauna and environmental variables table for eukaryotes however this tendency
+was not always observed as erna showed slightly stronger correlations andmore significant
+results between the near and far field stations but weaker correlations with macro faunal
+assemblages and with environmental variables overall correlations between edna and
+erna beta diversities were stronger for the trimmed by shared otus datasets and only
+significantly positive among the eukaryote datasets table for bacteria the trimmed by
+singletons datasets demonstrated particularly weak correspondence r − p value 
+ between edna and erna 
+
+discussion
+the aims of this study were to assess whether high throughput sequencing hts data
+obtained from edna and or erna provide the best proxy for evaluating environmental
+impacts and to explore how data processing steps may influence these results we focused
+on benthic habitats at bathysmal depth within close proximity to an offshore oil production
+platform 
+
+high throughput sequencing outputs
+in our datasets the number of bacterial edna otus table was slightly higher than
+erna environmental dna is more resistant to posthumous degradation and may persist
+several years in marine sediment dell’anno analysis of the eukaryote data showed
+a differing pattern with more erna otus compared to edna the proportion of otus
+found only in edna or erna datasets varies substantially among previous investigations 
+for example dowle et al found more bacterial erna than edna otus in their
+datasets and hu et al and laroche et al obtained more protist erna than
+edna otus while pawlowski et al and pochon et al detected more protist
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+edna than erna otus it is possible that many of the unshared erna otus represent
+pcr artefacts especially from the reverse transcription of rna to cdna and sequencing
+errors egge et al ficetola et al the rna conversion to complementary dna
+ cdna requires the use of a reverse transcriptase which as opposed to dna polymerase 
+lack proof reading activity creating point mutations in some of the cdna sequences
+ svarovskaia et al houseley tollervey reverse transcriptase also frequently
+‘jump’ from one template to another during the transcription process known as template 
+switching this action can lead to two different outcomes production of chimeric cdna
+sequences from intermolecular template switching and creation of shortened isoform
+sequences from intramolecular template switching cocquet et al the latter being
+more problematic as it is unlikely to be detected during bioinformatics analysis finally 
+the use of random hexamer primers for cdna synthesis is known to introduce nucleotide
+bias at the beginning of the ′ end of sequence reads hansen brenner dudoit 
+because the pre mentioned artefacts are subsequently augmented by the gene specific pcr
+amplification they would become integrated into the hts library and potentially not
+be removed during bioinformatics filtering processes the incertitude linked to potential
+intrinsic error rates from reverse transcription limits accurate comparison of edna and
+erna datasets the use of a rna control e g synthetic oligomers and technical pcr 
+replicates could help identifying these artefacts and improve concordance between the
+edna and erna profiles trimming otus by their shared presence in edna and erna
+represents an alternative way of discarding reverse transcription artefacts 
+
+in this study bacterial and eukaryote rnas were treated using the same protocol during
+the reverse transcription process however eukaryote cdna required more pcr cycles 
+instead of for bacteria to amplify sufficient material potentially producing more false
+transcripts and explaining the differences observed between the two taxonomic groups
+ fig another possibility could be the presence of rare but highly active eukaryote otus
+which were not detected in the edna dataset because of their low abundance particularly
+high activity and growth from some of the rare biota has been previously reported for
+both bacteria campbell et al hugoni et al and microbial eukaryotes logares
+et al 
+
+effect of trimming methodologies
+trimming otus not simultaneously present in both edna and erna assemblages from
+the same samples resulted in twice as many otus being removed compared to discarding
+singletons only and removed fold bacteria and fold eukaryotes more reads 
+however further investigation suggested that it mostly resulted in the removal of legacy
+dna dna deposited from the water column and technical artefacts this improved the
+sensitivity and accuracy of our environmental metabarcoding analysis tables and 
+and enabled the detection of differences between the effects of the production platform on
+near and far field stations in particular it allowed us to disclose the divergence between
+beta diversities of near field and far field stations and improved the correlations between
+the beta diversity and environmental variables distance matrices table 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+removal of single sequence detection singletons to reduce pcr and sequencing
+artefacts is a controversial practice although many of these detections are true errors
+ parada needham fuhrman some may constitute real otu occurrences in
+studies not particularly interested by the rare biota the trade off of producing false
+negatives to remove false positives is usually accepted majaneva et al bálint et
+al systematic inclusion or exclusion of singletons is arbitrary and not necessarily
+adapted to all situations for example the likelihood of retaining false positives increases
+with the sequencing depth of hts libraries ficetola taberlet coissac some
+researchers have therefore suggested the use of a read detection threshold based on
+sequencing depth bálint et al however ficetola taberlet coissac and
+lahoz monfort guillera arroita tingley strongly discouraged systematic removal
+of taxa based on an abundance threshold unless high detection probability of realotus and
+sufficient biological or technical replicates are available to identify false positives instead 
+they propose the application of site occupancy detection modelling sodm methods
+which take into account false positive and negative detection probabilities and which
+have proven to work well with few replicate samples schmidt et al lahoz monfort 
+guillera arroita tingley 
+
+in our study we used co extracted dna and rna to segregate real otus from artefacts 
+this approach allows for an informed elimination of artefactual otus while also discarding
+data from legacy dna however trimming data by shared otus between co extracted
+edna and erna material is particularly stringent and may result in the removal of a
+substantial number of false negatives as an alternative biological or technical replicates
+could be used in parallel to discriminate genuine and false detections for example 
+biological replicates could be pooled together prior to trimming by shared otus and
+subsequently demultiplexed to allow evaluation of within station variability it is worth
+mentioning that the application of unsupervised oligotyping methodologies such as the
+one proposed by eren et al could further improve sensitivity of environmental
+metabarcoding monitoring studies by discriminating closely related taxa and will likely
+gain in popularity as tools are being developed 
+
+operational taxonomic units not shared between both
+edna and erna datasets
+among the bacterial datasets most of the removed otus i e those not simultaneously
+found in both edna and erna belonged to gammaproteobacteria anddeltaproteobacte 
+ria which also constituted the main classes of the singleton trimmed dataset this suggests
+that most otus removed by the shared otus trimming method may have arisen from
+pcr or sequencing errors originating from highly abundant unique sequences which
+subsequently associated to these classes huse et al quince et al another
+possibility could be that these abundant taxa have more polymorphisms in such cases 
+removal of these rare variants would produce false negatives nonetheless their small
+contribution to weighted abundance based analyses as demonstrated in the present
+study would unlikely affect results 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+most of the eukaryotes which were removed during the trimming procedure were
+metazoa dinophyta and apicomplexa in edna and ciliophora and cercozoa in erna
+ fig table s these phyla are also the most abundant in the datasets trimmed by
+singletons table s none of these showed a significant correlation with distance from
+the platform table s just as for bacteria the important abundance of these phyla in the
+discarded edna ernaotus is likely a consequence of pcr sequencing errors originating
+from the most abundant unique sequences this is further supported by the fact that the
+decreasing order of relative abundance of the most important taxa is the same between the
+datasets of kept otus and removed otus resulting from the shared otus trimming 
+
+comparison between edna and erna
+when performing alpha diversity on the trimmed by singletons datasets differences were
+observed between edna and erna with the latter mainly showing stronger dissimilarities
+between the near field and far field stations this is not surprising as edna can contain
+genetic information of past and current communities inflating alpha diversity and
+potentially masking the present effects of the platform corinaldesi danovaro dell’anno 
+ dell’anno 
+
+beta diversity analysis of the singleton trimmed data showedmore significant differences
+between the near and far field stations with bacterial edna while only small differences
+could be observed between eukaryote edna and erna relationships between micro 
+eukaryotic and the macro faunal assemblages and environmental variables were also much
+stronger than with edna this suggest that while erna may represent a better proxy for
+assessing ongoing anthropogenic effects on species diversity edna seems more reliable for
+assessing effects on community composition this is especially true for bacteria where no
+correlation could be observed between erna data andmacro fauna or with environmental
+variables table these results contrast with other similar studies pawlowski et al 
+visco et al dowle et al pochon et al laroche et al hu et al 
+where erna always out performed edna when correlating microbial and macro faunal
+assemblages or when correlating these assemblages with environmental conditions 
+nonetheless these studies used a less stringent otu filtering method prior to statistical
+analyses removing only those not present in both edna erna compartment of their
+whole dataset consequently an important number of otus from legacy dna may
+have subsisted in their datasets decreasing the observed sensitivity to local conditions of
+the edna derived communities also the relationship between erna concentrations and
+activity does not always align differences such as life history life strategies and non growth
+activity between organisms play an important role in rna production blazewicz et al 
+ ribosomal erna such as those targeted in this study s and s can have a much
+wider range of expression over orders of magnitude than ribosomal edna ca order
+of magnitude fegatella et al fluctuation in dna copy number between taxa and
+in rna expression may account for the strong variability observed among the bacterial
+edna and erna replicates table s this variability increases confidence intervals 
+reduces statistical power and increases the risk of not identifying impacts type ii errors 
+underwood 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+for accurate assessment of false positive and negative otu occurrences and sufficient
+evaluation of within station biological variability optimal number of replicate samples is
+often a compromise between available funds and time and the desired level of precision and
+sensitivity parameters such as targeted taxa the choice of primer set and the sequencing
+depth of hts libraries all play an important part in taxa detection probability which
+in turn dictates the optimal replication level ficetola et al in studies assessing
+whole communities the number of replicates should ideally depend on the taxa with the
+lowest detection probability ficetola et al give an example where a taxon with a 
+probability would normally require a minimum of eight replicates to ensure detection for
+routine monitoring surveys of benthic communities however where the non detection of
+rare biota is unlikely to change the outcomes of studies the replication level does not have
+to be as high in such cases the number of replicates may be more influenced by the level
+of heterogeneity found within stations 
+
+an important consideration when using single time sampling designs over a
+contamination gradient is that it assumes that natural factors equally influence communities
+among samples wiens parker this bias can be particularly problematic with
+small and short lived organisms like bacteria in low impacted environments such as those
+explored in this study biological interactions may supplant the effect of environmental
+factors increasing spatial variability schafer and creating stronger discrepancies
+among biological replicates in this situation collecting more biological replicates per
+stations should be favoured over technical replicates in order to mitigate the effect of
+micro patchiness 
+
+conclusion
+the resolution sensitivity and accuracy of metabarcoding techniques used to measure
+anthropogenic impact on microbial communities can be substantially affected by whether
+edna or erna is used and by the choice of pre analysis data treatmentmethod disparities
+in results may also occur between eukaryote and bacterial edna erna that should be
+considered before analyzing environmental metabarcoding monitoring data our study
+showed that when otus are solely trimmed by singletons erna represents a better
+proxy for alpha diversity as it is more likely to contain living biota only nonetheless read
+abundance information from edna data was for bacteria superior to its counterpart
+for assessing environmental impacts on beta diversity in weakly impacted environments 
+this may be even more important as erna concentration can be highly dependent and
+sensitive to temporal interactions from restricted local conditions that can be unrelated
+to the anthropogenic activity for this reason read abundance information from bacterial
+edna seems more suited for assessing the effect of oil and gas drilling and production
+operations where closest monitored stations are located far from the pollution source ca 
+ m overall trimming otus not shared in both dna and rna compartments of
+each sample improved the sensitivity and accuracy of our results while this is true for our
+study site further investigations will be needed to evaluate the extent of these findings 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+acknowledgements
+we thankolivia johnston anddeanna elvines cawthron for sample collection andomv
+new zealand limited for providing access to samples and corresponding environmental
+data 
+
+additional information and declarations
+
+funding
+this research was co funded by the cawthron institute internal investment fund iif 
+ and the ‘‘fonds de recherche du québec—natures et technologies’’ as part of a
+doctoral research scholarship grant id the funders had no role in study design 
+data collection and analysis decision to publish or preparation of the manuscript 
+
+grant disclosures
+the following grant information was disclosed by the authors 
+cawthron institute internal investment fund iif 
+fonds de recherche du québec—natures et technologies id 
+
+competing interests
+dr xavier pochon is an academic editor for peerj 
+
+author contributions
+• olivier laroche conceived and designed the experiments performed the experiments 
+analyzed the data contributed reagents materials analysis tools wrote the paper 
+prepared figures and or tables reviewed drafts of the paper 
+• susanna a wood conceived and designed the experiments contributed reagents mate 
+rials analysis tools wrote the paper reviewed drafts of the paper 
+• louis a tremblay gavin lear and joanne i ellis reviewed drafts of the paper 
+• xavier pochon conceived and designed the experiments contributed reagents material 
+s analysis tools wrote the paper prepared figures and or tables reviewed drafts of the
+paper 
+
+dna deposition
+the following information was supplied regarding the deposition of dna sequences 
+
+the raw sequencing reads are publicly available in the sequence read archive sra 
+under the accession numbers srr to srr 
+
+data availability
+the following information was supplied regarding data availability 
+
+the raw sequencing reads are publicly available in the sequence read archive sra 
+of the genbank database under the accession numbers srr to srr of
+project number prjna 
+
+alternatively the raw sequencing reads can also be accessed in figshare doi 
+m figshare 
+
+https figshare com articles laroche et al maari 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+https www ncbi nlm nih gov sra term srr 
+https www ncbi nlm nih gov sra term srr 
+https www ncbi nlm nih gov sra term srr 
+https www ncbi nlm nih gov sra term srr 
+https www ncbi nlm nih gov bioproject prjna 
+http dx doi org doi m figshare 
+http dx doi org doi m figshare 
+https figshare com articles laroche et al maari 
+http dx doi org peerj 
+
+
+supplemental information
+supplemental information for this article can be found online at http dx doi org 
+peerj supplemental information 
+
+references
+abad d albaina a aguirre m laza martínez a uriarte i iriarte a villate f 
+
+estonba a is metabarcoding suitable for estuarine plankton monitor 
+ing a comparative study with microscopy marine biology article 
+doi s 
+
+aguirre de carcer d denman se mcsweeney c morrisonm evaluation
+of subsampling based normalization strategies for tagged high throughput se 
+quencing data sets from gut microbiomes applied and environmental microbiology
+ – doi aem 
+
+bálint m bahramm eren am faust k fuhrman ja lindahl b o’hara rb Öpikm 
+soginml unterseher m tedersoo l millions of reads thousands of taxa 
+microbial community structure and associations analyzed via marker genes fems
+microbiology reviews – doi femsre fuw 
+
+beng kc tomlinson kw shen xh surget groba y hughes ac corlett rt slik jwf 
+ the utility of dna metabarcoding for studying the response of arthropod
+diversity and composition to land use change in the tropics scientific reports
+ doi srep 
+
+blazewicz sj barnard rl daly ra firestonemk evaluating rrna as an
+indicator of microbial activity in environmental communities limitations and uses 
+the isme journal – doi ismej 
+
+bohmann k evans a gilbert mtp carvalho gr creer s knappm yu dw de
+bruynm environmental dna for wildlife biology and biodiversity monitor 
+ing trends in ecology and evolution – doi j tree 
+
+bourlat sj borja a gilbert j taylor mi davies n weisberg sb griffith jf 
+lettieri t field d benzie j glöckner fo rodríguez ezpeleta n faith dp 
+bean tp obst m genomics in marine monitoring new opportuni 
+ties for assessing marine health status marine pollution bulletin – 
+doi j marpolbul 
+
+brown sp veach am rigdon huss ar grond k lickteig sk lothamer k oliver ak 
+jumpponen a scraping the bottom of the barrel are rare high throughput
+sequences artifacts fungal ecology – doi j funeco 
+
+campbell bj yu l heidelberg jf kirchman dl activity of abundant and rare
+bacteria in a coastal ocean proceedings of the national academy of sciences of the
+united states of america – doi pnas 
+
+caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer
+n peña ag goodrich jk gordon ji huttley ga kelley st knights d koenig je 
+ley re lozupone ca mcdonald d muegge bd pirrungm reeder j sevinsky
+jr turnbaugh pj walterswa widmann j yatsunenko t zaneveld j knight
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supplemental information
+http dx doi org peerj supplemental information
+http dx doi org s 
+http dx doi org aem 
+http dx doi org femsre fuw 
+http dx doi org srep 
+http dx doi org ismej 
+http dx doi org j tree 
+http dx doi org j marpolbul 
+http dx doi org j funeco 
+http dx doi org pnas 
+http dx doi org peerj 
+
+
+r qiime allows analysis of high throughput community sequencing data 
+nature methods – doi nmeth f 
+
+carewme pettigrove vj metzeling l hoffmann aa environmental monitoring
+using next generation sequencing rapid identification of macroinvertebrate bioindi 
+cator species frontiers in zoology article doi 
+
+chariton aa ho kt proestou d bik h simpson sl portis lm cantwell mg 
+baguley jg burgess rm pelletier mm perronm gunsch c matthews ra 
+a molecular based approach for examining responses of eukaryotes in microcosms
+to contaminant spiked estuarine sediments environmental toxicology and chemistry
+ – doi etc 
+
+charvet s vincentwf lovejoy c effects of light and prey availability on arctic
+freshwater protist communities examined by high throughput dna and rna
+sequencing fems microbiology ecology – doi 
+
+cocquet j chong a zhang g veitia ra reverse transcriptase template switching
+and false alternative transcripts genomics – 
+doi j ygeno 
+
+cole jr wang q fish ja chai b mcgarrell dm sun y brown ct porras alfaro a 
+kuske cr tiedje jm ribosomal database project data and tools for high
+throughput rrna analysis nucleic acids research – 
+doi nar gkt 
+
+corinaldesi c danovaro r dell’anno a simultaneous recovery of extracellular
+and intracellular dna suitable for molecular studies from marine sediments applied
+and environmental microbiology – doi aem 
+
+dell’anno a extracellular dna plays a key role in deep sea ecosystem function 
+ing science – doi science 
+
+dowle e pochon x keeley n wood sa assessing the effects of salmon farming
+seabed enrichment using bacterial community diversity and high throughput
+sequencing fems microbiology ecology fiv doi femsec fiv 
+
+egge e bittner l andersen t audic s de vargas c edvardsen b py 
+rosequencing to describe microbial eukaryotic community composition diversity
+and relative abundance a test for marine haptophytes plos one e 
+doi journal pone 
+
+eren am morrison hg lescault pj reveillaud j vineis jh soginml min 
+imum entropy decomposition unsupervised oligotyping for sensitive partition 
+ing of high throughput marker gene sequences the isme journal – 
+doi ismej 
+
+fegatella f lim j kjelleberg s cavicchioli r implications of rrna operon
+copy number and ribosome content in the marine oligotrophic ultramicrobac 
+terium sphingomonas sp strain rb applied and environmental microbiology
+ – 
+
+ficetola gf pansu j bonin a coissac e giguet covex c de barbam gielly l lopes
+cm boyer f pompanon f rayé g taberlet p replication levels false
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org nmeth f 
+http dx doi org 
+http dx doi org etc 
+http dx doi org 
+http dx doi org j ygeno 
+http dx doi org nar gkt 
+http dx doi org aem 
+http dx doi org science 
+http dx doi org femsec fiv 
+http dx doi org journal pone 
+http dx doi org ismej 
+http dx doi org peerj 
+
+
+presences and the estimation of the presence absence from edna metabarcoding
+data molecular ecology resources – doi 
+
+ficetola gf taberlet p coissac e how to limit false positives in environ 
+mental dna and metabarcoding molecular ecology resources – 
+doi 
+
+guillou l bachar d audic s bass d berney c bittner l boutte c burgaud g 
+de vargas c decelle j del campo j dolan jr dunthornm edvardsen b 
+holzmannm kooistrawhcf lara e le bescot n logares r mahé f massana
+r montresor m morard r not f pawlowski j probert i sauvadet a ll siano
+r stoeck t vaulot d zimmermann p christen r the protist riboso 
+mal reference database pr a catalog of unicellular eukaryote small sub unit
+rrna sequences with curated taxonomy nucleic acids research d –d 
+doi nar gks 
+
+hansen kd brenner se dudoit s biases in illumina transcriptome se 
+quencing caused by random hexamer priming nucleic acids research – 
+doi nar gkq 
+
+houseley j tollervey d apparent non canonical trans splicing is generated by
+reverse transcriptase in vitro plos one e 
+doi journal pone 
+
+hu sk campbell v connell p gellene ag liu z terrado r caron da 
+protistan diversity and activity inferred from rna and dna at a coastal ocean
+site in the eastern north pacific fems microbiology ecology fiw 
+doi femsec fiw 
+
+hugoni m taib n debroas d domaizon i jouan dufournel i bronner g salter
+i agogué h mary i gal pe structure of the rare archaeal biosphere and
+seasonal dynamics of active ecotypes in surface coastal waters proceedings of
+the national academy of sciences of the united states of america – 
+doi pnas 
+
+hunt de lin y churchmj karl dm tringe sg izzo lk johnson zi 
+relationship between abundance and specific activity of bacterioplankton in
+open ocean surface waters applied and environmental microbiology – 
+doi aem 
+
+huse sm welch dm morrison hg soginml ironing out the wrinkles in the
+rare biosphere through improved otu clustering environmental microbiology
+ – doi j x 
+
+ji y ashton l pedley sm edwards dp tang y nakamura a kitching r dolman
+pm woodcock p edwards fa larsen th hsuww benedick s hamer kc 
+wilcove ds bruce c wang x levi t lott m emerson bc yu dw reliable 
+verifiable and efficient monitoring of biodiversity via metabarcoding ecology letters
+ – doi ele 
+
+johnston o barter p ellis j elvines d recommendations for an offshore
+taranaki environmental monitoring protocol drilling and production related
+discharges report no cawthron institute nelson p plus appendices 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org 
+http dx doi org 
+http dx doi org nar gks 
+http dx doi org nar gkq 
+http dx doi org journal pone 
+http dx doi org femsec fiw 
+http dx doi org pnas 
+http dx doi org aem 
+http dx doi org j x
+http dx doi org ele 
+http dx doi org peerj 
+
+
+johnston o elvines d newtonm benthic ecological investigation for the maari
+facilities annual production and mid drill assessment march prepared for
+omv nz ltd report no cawthron institute nelson p plus appendices 
+
+klindworth a pruesse e schweer t peplies j quast c hornm glockner fo 
+evaluation of general s ribosomal rna gene pcr primers for classical and next 
+generation sequencing based diversity studies nucleic acids research e –e 
+doi nar gks 
+
+kozich jj westcott sl baxter nt highlander sk schloss pd development of
+a dual index sequencing strategy and curation pipeline for analyzing amplicon se 
+quence data on the miseq illumina sequencing platform applied and environmental
+microbiology – doi aem 
+
+lahoz monfort jj guillera arroita g tingley r statistical approaches to account
+for false positive errors in environmental dna samples molecular ecology resources
+ – doi 
+
+langlet d geslin e baal c metzger e lejzerowicz f riedel b zuschinm 
+pawlowski j stachowitschm jorissen fj foraminiferal survival after
+long term in situ experimentally induced anoxia biogeosciences – 
+doi bg 
+
+lanzén a lekang k jonassen i thompson em troedsson c high throughput
+metabarcoding of eukaryotic diversity for environmental monitoring of offshore oil 
+drilling activities molecular ecology – doi mec 
+
+laroche o wood sa tremblay la ellis ji lejzerowicz f pawlowski j lear g atalah
+j pochon x first evaluation of foraminiferal metabarcoding for monitoring
+environmental impact from an offshore oil drilling site marine environmental
+research – doi j marenvres 
+
+lau kem washington vj fan v neale mw lear g curran j lewis gd a
+novel bacterial community index to assess stream ecological health freshwater
+biology – doi fwb 
+
+lejzerowicz f esling p pillet l wilding ta black kd pawlowski j high 
+throughput sequencing and morphology perform equally well for benthic monitor 
+ing of marine ecosystems scientific reports doi srep 
+
+logares r audic s bass d bittner l boutte c christen r claverie jm decelle j 
+dolan jr dunthornm edvardsen b gobet a kooistrawhcf mahé f not
+f ogata h pawlowski j pernice mc romac s shalchian tabrizi k simon n 
+stoeck t santini s siano r wincker p zingone a richards ta de vargas c 
+massana r patterns of rare and abundant marine microbial eukaryotes 
+current biology – doi j cub 
+
+lovemi huberw anders s moderated estimation of fold change and
+dispersion for rna seq data with deseq genome biology article 
+doi s 
+
+majanevam hyytiäinen k varvio sl nagai s blomster j bioinformatic
+amplicon read processing strategies strongly affect eukaryotic diversity and the
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org nar gks 
+http dx doi org aem 
+http dx doi org 
+http dx doi org bg 
+http dx doi org mec 
+http dx doi org j marenvres 
+http dx doi org fwb 
+http dx doi org srep 
+http dx doi org j cub 
+http dx doi org s 
+http dx doi org peerj 
+
+
+taxonomic composition of communities plos one – 
+doi journal pone 
+
+mcconnell h calder s pannell n welsh c maari field development drilling—
+marine consent application nelson prepared for omv nz ltd report no ma 
+p op d rep resource and environmental management ltd 
+nelson p plus appendices 
+
+mcmurdie pj holmes s phyloseq an r package for reproducible interac 
+tive analysis and graphics of microbiome census data plos one e 
+doi journal pone 
+
+mengoni a tatti e decorosi f viti c bazzicalupom giovannetti l compari 
+son of s rrna and s rdna t rflp approaches to study bacterial communities
+in soil microcosms treated with chromate as perturbing agent microbial ecology
+ – doi s 
+
+parada ae needhamdm fuhrman ja every base matters assessing small
+subunit rrna primers for marine microbiomes with mock communities time
+series and global field samples environmental microbiology – 
+doi 
+
+paulson jn stine oc bravo hc popm differential abundance analysis for
+microbial marker gene surveys nature methods – 
+doi nmeth 
+
+pawlowski j esling p lejzerowicz f cedhagen t wilding ta environmental
+monitoring through protist ngs metabarcoding assessing the impact of fish farming
+on benthic foraminifera communities molecular ecology resources early online
+doi 
+
+pawlowski j esling p lejzerowicz f cordier t visco j martins c kvalvik a staven
+k cedhagen t a benthic monitoring of salmon farms in norway using
+foraminiferal metabarcoding aquaculture environment interactions – 
+doi aei 
+
+pawlowski j lejzerowicz f apotheloz perret gentil l visco j esling p b protist
+metabarcoding and environmental biomonitoring time for change european
+journal of protistology – doi j ejop 
+
+pawlowski j lejzerowicz f esling p next generation environmental diversity
+surveys of foraminifera preparing the future the biological bulletin – 
+
+pochon x bott nj smith kf wood sa evaluating detection limits of next 
+generation sequencing for the surveillance and monitoring of international marine
+pests plos one e doi journal pone 
+
+pochon x wood sa keeley nb lejzerowicz f esling p drew j pawlowski j 
+accurate assessment of the impact of salmon farming on benthic sediment enrich 
+ment using foraminiferal metabarcoding marine pollution bulletin – 
+doi j marpolbul 
+
+quince c lanzen a davenport rj turnbaugh pj removing noise from pyrose 
+quenced amplicons bmc bioinformatics doi 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org journal pone 
+http dx doi org journal pone 
+http dx doi org s 
+http dx doi org 
+http dx doi org nmeth 
+http dx doi org 
+http dx doi org aei 
+http dx doi org j ejop 
+http dx doi org journal pone 
+http dx doi org j marpolbul 
+http dx doi org 
+http dx doi org peerj 
+
+
+rognes t flouri t nichols b quince c mahé f vsearch a versatile open
+source tool for metagenomics peerj e doi peerj 
+
+schafer ct monitoring nearshore marine environments using benthic
+foraminifera some protocols and pitfalls micropaleontology – 
+
+schmidt br kérym ursenbacher s hyman oj collins jp site occupancy
+models in the analysis of environmental dna presence absence surveys a case study
+of an emerging amphibian pathogen methods in ecology and evolution – 
+doi x 
+
+svarovskaia es cheslock sr zhangw h huw s pathak vk retroviral
+mutation rates and reverse transcriptase fidelity frontiers in bioscience a journal and
+virtual library d –d doi 
+
+taberlet p coissac e hajibabaei m rieseberg lh environmental dna 
+molecular ecology – doi j x x 
+
+underwood aj the mechanics of spatially replicated sampling programmes to
+detect environmental impacts in a variable world australian journal of ecology
+ – doi j tb x 
+
+valentini a pompanon f taberlet p dna barcoding for ecologists trends in
+ecology and evolution – doi j tree 
+
+visco ja apothéloz perret genti l cordonier a esling p pillet l pawlowski
+j environmental monitoring inferring the diatom index from next 
+generation sequencing data environmental science technology – 
+doi es m 
+
+wiens ja parker kr analyzing the effects of accidental environmental
+impacts approaches and assumptions ecological applications – 
+doi 
+
+yu dw ji y emerson bc wang x ye c yang c ding z biodiversity soup 
+metabarcoding of arthropods for rapid biodiversity assessment and biomonitoring 
+methods in ecology and evolution – doi j x x 
+
+zhan a hulákm sylvester f huang x adebayo aa abbott cl adamowicz sj 
+heath dd cristescume macisaac hj high sensitivity of pyrosequenc 
+ing for detection of rare species in aquatic communities methods in ecology and
+evolution – doi x 
+
+laroche et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+http dx doi org x 
+http dx doi org 
+http dx doi org j x x
+http dx doi org j tb x
+http dx doi org j tree 
+http dx doi org es m
+http dx doi org 
+http dx doi org j x x
+http dx doi org x 
+http dx doi org peerj 
+
+

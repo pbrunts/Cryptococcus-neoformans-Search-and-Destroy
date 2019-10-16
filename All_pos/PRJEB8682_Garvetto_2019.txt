@@ -1,0 +1,1296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chytrid infecting the bloom forming marine diatom skeletonema sp morphology phylogeny and distribution of a novel species within the rhizophydiales
+
+
+lable at sciencedirect
+
+fungal biology e 
+contents lists avai
+fungal biology
+
+journal homepage www elsevier com locate funbio
+chytrid infecting the bloom forming marine diatom skeletonema sp 
+morphology phylogeny and distribution of a novel species within the
+rhizophydiales
+
+andrea garvetto a yacine badis a marie mathilde perrineau a cecilia rad men�endez b 
+eileen bresnan c claire m m gachon a 
+
+a scottish association for marine science scottish marine institute oban uk
+b culture collection of algae and protozoa scottish association for marine science scottish marine institute oban uk
+c marine scotland science marine laboratory aberdeen uk
+a r t i c l e i n f o
+
+article history 
+received december 
+received in revised form
+ april 
+accepted april 
+available online april 
+
+corresponding editor pieter van west
+
+keywords 
+marine fungi
+marine microbial diversity
+ngs
+plankton parasites
+single cell analysis
+ corresponding author 
+e mail address claire gachon sams ac uk c m m
+
+https doi org j funbio 
+ © published by elsevier ltd on beha
+a b s t r a c t
+
+chytrids have long been recognised as important parasites of microalgae in freshwater systems able to
+shape the dynamics of blooms the gene pool of their host and phytoplankton succession in the sea
+however where the presence of these organisms is erratic and ephemeral studies concerning chytrids
+are sparse and confined to metabarcoding surveys or microscopy observations despite the scarcity of
+data chytrid epidemics are supposed to play an important role in marine biogeochemical cycles being
+one of the drivers of phytoplankton dynamics here we combine microscopy observations and in silico
+mining of a single cell whole genome to molecularly and morphologically characterise a novel chytrid
+parasite of the dominant diatom genus skeletonema morphological observations highlight features of the
+thallus and ascertain the parasitic nature of the interaction whilst the genetic markers obtained allows
+for a phylogenetic reconstruction placing the new species in the order rhizophydiales thanks to the
+molecular data obtained we are also able to provide a first investigation of the global distribution of this
+organism by screening the ocean sampling day osd dataset highlighting a northern transatlantic
+dissemination 
+
+© published by elsevier ltd on behalf of british mycological society 
+ introduction
+
+zoosporic true fungi belonging to the early diverged phylum
+chytridiomycota hibbett et al are widespread microor 
+ganisms known to dominate the fungal community in freshwater
+ecosystems monchy et al jobard et al where they
+play an important role as parasites and saprobes gleason et al 
+ frenken et al parasitic associations of chytrids with
+microalgae have long been known in lentic systems canter and
+lund sparrow where chytrid propagules act as an
+important carrier of fixed carbon from inedible algae to grazing
+zooplankters by means of the mycoloop kagami et al and
+are suspected to be one of the main drivers maintaining the genetic
+diversity of their algal hosts through highly host specific associa 
+tions ibelings et al de bruin et al gsell et al 
+ gachon 
+
+lf of british mycological society 
+despite the prevalence of studies targeting lakes chytrids have
+been recorded as a major component of t he microbial community
+in various ecosystems by means of molecular surveys especially in
+extreme habitats such as alpine snow naff et al sea ice
+ hassett et al high elevation soils freeman et al 
+and marine hydrothermal vents le calvez et al whenever
+these habitats allow for the survival of photosynthetic organisms 
+the co occurrence freeman et al naff et al brown
+et al or parasitic association hassett and gradinger 
+hassett et al between phototrophs and chytrids has been
+reported in the sea recent metabarcoding surveys unveiled an
+unexpectedly large and undescribed biodiversity within the chy 
+tridiomycota comeau et al hassett and gradinger 
+hassett et al despite not being the yearlong dominant
+fungal taxon picard a high abundance of chytrids in the
+plankton was often recorded in short time windows matching
+coastal blooms of phytoplankters such as diatoms taylor and
+cunliffe in less productive marine ecosystems such as
+open ocean oligotrophic gyres chytrids have been found
+
+mailto claire gachon sams ac uk
+http crossmark crossref org dialog doi j funbio domain pdf
+www sciencedirect com science journal 
+www elsevier com locate funbio
+https doi org j funbio 
+https doi org j funbio 
+https doi org j funbio 
+
+
+a garvetto et al fungal biology e 
+parasitising dominant photosynthetic picoeukaryotes within the
+families chrysophyceae and prymnesiophyceae lep�ere et al 
+ even if culturing remains a paramount step to fully appre 
+ciate and understand the biology of these organisms establishing
+and maintaining a dual culture of the parasite and its host i e 
+pathosystem in the laboratory is challenging rad men�endez et al 
+ the isolation of chytrids is further complicated by the erratic
+and ephemeral presence of these “dazzling and elusive creatures”
+in the field sparrow therefore most of the information on
+chytrid ecological role and diversity is underpinned by either
+sparse microscopic observations that are informative regarding the
+parasitic interaction but often lack taxonomic resolution or by
+broad molecular surveys which provide sequencing data and an
+overview of chytrid phylogenetic diversity but can only be sug 
+gestive in terms of ecological function for these reasons a big part
+of chytrid diversity is assigned to the undescribed uncultivated and
+functionally uncharacterised dark matter fungi grossart et al 
+ hindering the appreciation of their role in ecosystem dy 
+namics and global biogeochemical cycles 
+
+diatoms within the genus skeletonema are among the main
+contributors to planktonic primary productivity in coastal
+temperate areas worldwide often representing the dominant
+diatom during the spring bloom borkman and smayda 
+canesi and rynearson this diatom genus often constitutes
+the basis of foodwebs bergkvist et al and can account for up
+to of the microphytoplankton community during seasonal
+blooms canesi and rynearson whilst the contribution and
+effects of zooplankton grazing has been extensively studied
+ bergkvist et al amato et al only one study reports
+chytrids infecting skeletonema addressing their role in bloom dy 
+namics and phytoplankton species succession off the chilean coast
+ guti�errez et al here using a method that combines mi 
+croscopy and single cell whole genome amplification we identify a
+novel chytrid species infecting skeletonema sp from the west coast
+of scotland we provide a morphological description molecular
+identification and a phylogenetic placement for this chytrid within
+the rhizophydiales finally thanks to the obtained molecular data 
+we use the osd worldwide metabarcoding database kopf et al 
+ to investigate the global distribution of this new species 
+
+ methods
+
+ isolation of the biological material
+
+plankton samples were collected on the th of april off
+the pontoon of the scottish association for marine science
+ � n � w oban uk and screened in plastic petri
+dishes mm diameter greiner bio one with a zeiss ido mi 
+croscope � magnification skeletonema chains carrying chytrid
+sporangia were isolated by mouth pipetting infected chains were
+transferred into droplets ml of fresh f þ si medium into
+ mm glass bottom petri dishes for microscopy observations 
+cultivation was attempted by baiting the chytrid parasitoid from
+environmental samples with skeletonema spp strains ccap 
+ b ccap c ccap ccap ccap and
+ccap maintained in f þ si none resulted in a successful
+infection 
+
+ microscopy
+
+subsamples containing infected cells were treated with the
+stains calcofluor white cw fluka wheat germ agglutinin
+fluorescein isothiocyanate wga fitc vector labs and nile red
+ nr sigma aldrich subsamples of ml were incubated in x
+diluted stain stock solutions final concentrations mg ml� for
+wga fitc or cw mg ml� for nr for e min at room tem 
+perature in the dark after incubation samples were either screened
+directly in glass bottom petri dishes or transferred ontomicroscopy
+slides observations were carried out at a � magnification with
+a zeiss lsm microscope equipped with an axiocam hrc in
+bright field and epifluorescence using an excitation wavelength of
+either nm wga fitc and nr or nm cw unstained
+infected chains were observed in bright field on glass bottom petri
+dishes before being isolated singularly for downstream molecular
+analysis 
+
+ dna amplification and sequencing
+
+single infected chains were transferred by mouth pipetting into
+ ml sterile eppendorf tubes care was taken to sterilise the glass
+tip of the mouth pipette with boiling freshwater before each
+isolation isolated single chains were frozen at � �c for at least
+ h before being thawed and subjected to multiple displacement
+whole genome amplification mda lasken with the qiagen
+repli g® single cell kit as per the manufacturer s instruction 
+amplified material was stored at � �c and aliquots were diluted
+ times in autoclaved milli q water before downstream pcr
+amplifications pcrs were performed in a total reaction volume of
+ ml containing ml of diluted genomic dna ml ng ml of
+each primer ml of master mix solution taq pcr mastermix 
+qiagen and ml of autoclaved milli q water partial s s
+sequences and the complete its region of the chytrid parasite were
+obtained with the following primers eaf pr€oschold et al 
+mh vandenkoornhuyse and leyval ns ns its white
+et al and d ca lenaers et al the pcr parameters for
+each primer couple are specified in table 
+
+note that the decreasing annealing temperature gradient for the
+primer couple mh ns aimed at increasing the specificity of the
+reaction in the first steps whilst favouring the dna yield towards
+the end of the cycle pcr products were separated by agar gel
+electrophoresis min at v on agarose in tbe buffer and
+multiple bands isolated by band excision with genejet gel
+extraction thermo scientific and purified by dna clean up micro
+kit thermo scientific followed by sanger sequencing gatc
+biotech konstanz germany partial rdna operon sequences were
+identified for two single cell isolates skchyt and skchyt the
+longest sequence was obtained for isolate skchyt for which 
+bp within the s were obtained by merging the products of
+primers eaf ns mh forward and ns reverse the products
+of the reverse primers its bp in the its region and d ca 
+bp in the s despite a good per base quality were too short to be
+assembled with the rest of the rdna operon the partial s of a
+second single cell isolate i e skchyt was amplified via pcr using
+the primer couple mh ns and sequenced following the above
+described procedure resulting in a bp marker gene matching
+with identity skchyt s therefore a ml aliquot of the
+original mda product from isolate skchyt was diluted v v in
+autoclaved milli q water and sent for genome library construction
+ nebnext ultra dna library prep kit and sequenced via illumina
+hiseq bp paired end sequencing university of leeds
+sequencing facility leeds united kingdom 
+
+ genome querying for genetic barcodes
+
+fastqc andrews was used to assess the quality of
+skchyt hiseq data paired end reads before trim 
+ming with trimmomatic bolger et al parameters detailed in
+supplementary materials the resulting skchyt 
+trimmed reads were queried via blast altschul et al using
+in house scripts supplementary materials designed to extract
+
+
+
+table 
+details of the parameters used for the pcr reactions carried out in this study 
+
+primer couple st step denaturation nd step amplification rd step elongation 
+
+denaturation annealing elongation number of cycles
+
+mh ns �c � min �c � s �c � min �c � min �c � min
+ �c � s �c � min �c � min 
+ �c � s �c � min �c � min 
+ �c � s �c � min �c � min 
+
+ns its �c � s �c � s �c � min �c � min �c � min
+eaf d ca �c � s �c � s �c � min �c � min �c � min
+
+a garvetto et al fungal biology e 
+subsets of reads as per their identity to a given query sequence the
+best blast hit of skchyt s amongst type material i e kappa 
+myces laurelensis aftol id was used to generate a concate 
+nated rdna query sequence genbank accession numbers 
+dq dq and dq to extract chytrid rdna
+reads from the single cell genomic reads pool the obtained subset
+of reads merged reads was de novo assembled into con 
+tigs using geneious kearse et al of which were
+retained on the basis of blast annotation i e fungal rdna and
+coverage i e reads with contigs out of having a coverage
+ reads the selected contigs were further merged to the
+sanger sequences into two supercontigs spanning the nearly
+complete rdna but not overlapping 
+
+in a complementary attempt to retrieve the complete rdna
+operon we generated a de novo assembly of skchyt in clc ge 
+nomics work bench https www qiagenbioinformatics com 
+ and queried the resulting contigs using the s sequence
+obtained by pcr on skchyt this approach resulted in the selection
+of de novo assembled contigs of bp and bp in length 
+both annotated as chytrids rdna as per their best blast hit
+amongst cultured strains i e k laurelensis isolate aftol id s
+ dq and boothiomyces macroporosum cbs s
+ ng respectively these two contigs were when over 
+lapping identical to all the sequences previously obtained by
+pcr and in silico the s sequence obtained by pcr filled the gap
+between the two contigs allowing for the assembly of the complete
+rdna operon which was retained for following phylogenetic
+analysis the different methods used to reconstruct the full rdna
+operon are summarized in supplementary fig the rdna operon
+was manually annotated in geneious by blast against gen 
+ebank introns were analysed with the same software in order to
+test whether they contained coding dna sequences cds and
+further annotated via uniprot the entirety of the rdna operon for
+the isolate skchyt was deposited in genbank under the accession
+number mh 
+
+ phylogenetic reconstructions
+
+a custom dataset of the s s and s rdna sequences of
+chytrids was built paying particular attention to sample diversity
+within the rhizophydiales letcher et al since preliminary
+analysis pointed towards an inclusion of isolate skchyt into this
+order sequences for each gene were aligned separately using the
+mafft katoh et al algorithm implemented in geneious
+ and manually curated to remove the non informative introns
+its and its substitution models were assessed for each gene
+separately in iq tree nguyen et al through model 
+finder kalyaanamoorthy et al resulting in tim þr s
+and s and tpm u þ r s a manual concatenation of the
+three alignments was then analysed in iq tree with a parti 
+tioned model chernomor et al allowing each gene to
+evolve at its own pace espp option phylogenetic reconstructions
+were computed with a maximum likelihood method using a 
+replicates ultrafast bootstrap approximation ufboot test of phy 
+logeny minh et al aiming at including a better represen 
+tation of uncultured environmental diversity a phylogenetic
+reconstruction based on rhizophydiales s was computed with
+the same above described procedure under the gtr þ r model of
+molecular evolution finally for consistency with previous work on
+alphamycetaceae and rhizophydiales phylogeny reconstructions
+ letcher et al seto and degawa we used a concate 
+nation of s substitution model sym þ i þ g and s sub 
+stitution model tim þg to further confirm the phylogenetic
+position of our isolate 
+
+ assessment of global distribution
+
+the v hypervariable region of the s rdna of isolate skchy 
+was used to query the raw metabarcode datasets of the ocean
+sampling day through the sequence read archive sra 
+ prjeb kopf et al using an in house script referred to as
+moulinette which implements edirect and sra toolkit utilities
+ badis et al subm briefly moulinette extracts from sra
+deposited metabarcoding datasets all reads matching a given query
+sequence above given identity coverage and e value thresholds 
+here a rather stringent approach was used i e reads were only
+retained when at least identical over of their length to the
+query sequence refer to suppl material for details on the pa 
+rameters used paired reads were filtered expected error over 
+and aligned to the v hypervariable region of the s of isolate
+skchyt in geneious resulting in two clusters divided by a
+shared synapomorphy otu and otu identity matrices were
+generated to investigate the percentage of identity between the
+reads and skchyt v s rdnawith the same software sampling
+stations were deemed positive for the presence of the investigated
+organism and therefore retained when merged paired reads
+were detected for these stations gps coordinates were extracted
+and maps generated using the open source online platform
+gpsvisualizer http www gpsvisualizer com adam schneider 
+
+ results
+
+ morphology
+
+infected skeletonema cells were distinguished from healthy ones
+ fig a thanks to the presence of nearly spherical sporangia
+growing epiphytically on diatom colonies fig b infected cells
+showed signs of plasmolysis chloroplast collapse fig b and
+decreased if any chlorophyll fluorescence fig c themajority of
+the observed sporangia had a diameter of mm but reached
+ mm across in fully mature specimens sporangia were usually
+attached to the girdle band region of the infected cell in a few
+instances however sporangia could also be observed growing on
+the valvar surface within the cage of intercalary fultoportula pro 
+cesses connecting two adjacent skeletonema cells fig b inset 
+examination of cw stained sporangia in epifluorescence
+
+https www qiagenbioinformatics com 
+http www gpsvisualizer com 
+
+
+fig microscopy observations of the chytrid parasite of skeletonema a uninfected skeletonema sp chain b infected skeletonema chain showing two spherical sporangia filled
+with refractive globular structures inset spherical sporangium filled with refractive globules growing on the valvar surface of the host frustule among fultoportula processes c 
+calcofluor white staining in blue of the chytrid sporangia shown in b note the presence of an infection plug arrow and various cell wall thickenings arrowheads red
+chlorophyll autofluorescence of diatom phaeoplasts highlights the suffering of the sporangia bearing cells inset encysted zoospore showing a germination tube arrow and a small
+nile red positive lipid globule arrowhead d wga fitc staining in green of a chytrid sporangium in dic left and epifluorescence right e epifluorescence picture of a nile
+red stained sporangium highlighting the lipidic nature of the refractive globules observed in the sporangium feg zoospores settled on the valvar surface of skeletonema 
+showing the refractive lipid globule arrowhead and flagellum arrows h putative resting spore with thick cell wall and eccentric lipid globule in dic the blue colouring
+observed in dic stems from the evans blue counterstaining of calcofluor white i epifluorescence observation of an attached zoospore to the putative resting spore shown in h 
+scale bars ¼ mm 
+
+a garvetto et al fungal biology e 
+highlighted the presence of a cell wall with distinct zones of wall
+thickening in mature sporangia fig c arrowheads a reduced 
+unbranched rhizoidal system fig c arrow developed from the
+germ tube observed in encysted zoospores fig c arrow in the
+inset the presence of chitin was detected in sporangia cell walls 
+as shown by the positive reaction to the n acetylglucosamine
+specific stain wga fitc fig d sporangia contain refractive lipid
+globules variable in size and number fig e whilst encysted
+zoospores contain a single lipid droplet fig c arrowhead in
+inset zoospores were sub spherical mm across bearing a
+singlewhiplash flagellum fig feg arrows and a single refractive
+lipid droplet fig f arrowhead zoospores release or zoospore
+locomotion could never be directly observed in one occasion a
+putative resting spore with a thick cell wall and bearing a single
+eccentric refractive globule was observed fig h cw nr staining
+highlighted the presence of a zoospore encysted on this structure 
+possibly suggestive of sexual reproduction fig i 
+ phylogenetic placement of isolate skchyt 
+
+our maximum likelihood phylogenetic reconstruction on the
+concatenated rrna encoding genes s s and s fig re 
+trieves the class chytridiomycetes sensu powell and letcher 
+and all the major chytrid orders most of them with a high 
+ufboot support the core order rhizophydiales is retrieved with
+ support to the exclusion of the genera batrachochytrium 
+entophlyctis and homoloaphlyctis the isolate skchyt appears to
+cluster in a highly supported clade containing the family kappa 
+mycetaceae and alphamycetaceae it falls within the latter family
+although with very weak support ufboot in a second
+reconstruction consistently with previous rhizophydiales
+phylogenies letcher et al seto and degawa we
+assessed the phylogeny of the order rhizophydiales using a
+concatenation of s and s fig even if the clade composed
+by kappamycetaceae and alphamycetaceae was still retrieved with
+high support ufboot the overall result slightly changed by
+including isolate skchyt as a sister clade to gammamyces our 
+imbahiensis and alphamyces chaetifer with moderate support 
+ufboot furthermore the family alphamycetaceae appeared to be
+paraphyletic with the genus betamyces ufboot clustering
+as sister clade to the kappamycetaceae finally in order to be able
+to assess the relationships between our isolate and the environ 
+mental diversity of rhizophydiales we computed an s based
+phylogeny including environmental molecular data fig in this
+phylogenetic reconstruction isolate skchyt was found to be sister
+ ufboot to betamyces sp isolate barr and three envi 
+ronmental sequences the clade composed of alphamycetaceae and
+kappamycetaceae was once more strongly supported 
+ufboot and encompassed a rich environmental diversity from
+lakes and high elevation soils from around the world within the
+ s of skchyt we identified two intronic sequences one of which
+contained a cds encoding a his cys box homing endonuclease as
+per its uniprot annotation q tge 
+ global distribution
+
+screening of the ocean sampling day kopf et al meta 
+barcoding dataset revealed the presence of organisms closely
+related to isolate skchyt in sampling stations across the north
+atlantic fig the osd project is a collaborative and global
+sequencing campaign aiming at analysing the marine microbial
+community annually on the summer solstice st of june here we
+
+
+
+fig maximum likelihood reconstruction ultra fast bootstraps of chytrid phylogeny based on three concatenated rrna encoding gene sequences s s and s 
+symbols near the species name indicate the presence or absence � of genes encoding s s and s respectively in the alignment the chytrid parasitoid of skeletonema sp 
+skchyt is highlighted in bold 
+
+a garvetto et al fungal biology e 
+
+
+
+fig maximum likelihood phylogenetic reconstruction ultra fast bootstraps of the order rhizophydiales based on the concatenated rdna genes s and s the chytrid
+parasitoid of skeletonema sp is in bold 
+
+a garvetto et al fungal biology e 
+screened the databased generated by the osd campaign
+ prjeb during which seawater samples collected from 
+sites within exclusive economic zones eezs around the world see
+annexed map suppl fig were filtered and processed for bulk
+dna extraction and amplification of the s v hypervariable re 
+gionwith universal primers paired reads were from to 
+identical to skchyt v s rdna and clustered in two different
+otus reads below an identity threshold of to skchyt v 
+ s rdna clustered in otu blue in fig and shared a synapo 
+morphy which was not detected in any of the reads belonging to
+out red in fig nor in skchyt s sequence
+ suppl figure otu was detected on both sides of the north
+atlantic in particular in raunefjorden norway � n 
+ � e and booth bay maine usa � n 
+ � w the former with a higher number of retrieved reads
+ n ¼ as compared to the latter n ¼ reads belonging to
+otu were retrieved from the european atlantic coasts only with
+the highest read abundance n ¼ offshore pasaia basque
+country spain � n � w weaker read abun 
+dances associated to otu have been detected in two sampling
+stations offshore belgium n ¼ in � n � e and
+n ¼ in � n � e and as far north as the orkney
+islands n ¼ � n � w 
+ discussion
+
+the overall thallus morphology of the parasitic organism
+infecting skeletonema during the spring bloom already sug 
+gested its inclusion within the chytridiomycota zoospores with a
+single whiplash flagellum and a lipid globule fig c inset f g 
+later developing in an endogenously generatedmonocentric thallus
+ fig b inset are in line with extant descriptions of chytrid zoo 
+spores and with the definition of the chytridium type development
+given by sparrow wga fitc highlighted the presence of
+chitin in the sporangia cell wall fig d a characteristic of true
+fungi useful in distinguishing chytrids from other unicellular par 
+asites sparrow as already observed in previous studies
+ rasconi et al a better labelling of the rather inconspicuous
+intracellular rhizoidal system was obtained with the less selective
+stain calcofluor white fig c arrow such a reduced rhizoidal
+system has already been reported for other parasitic rhizophy 
+diales interacting with their algal host via a “peg like” rhizoid van
+den wyngaert et al calcofluor white staining also high 
+lighted the presence of cell wall thickenings on the surface of
+mature sporangia fig c reminiscent of the papillae later
+developing into discharge pores reported for many rhizophydiales
+ longcore letcher et al and other chytrid orders
+
+
+
+fig maximum likelihood phylogenetic reconstruction ultra fast bootstraps of the order rhizophydiales based on the s rdna taking into account environmental
+sequences from metabarcoding surveys the coloured dots besides the entries highlight ecological annotations freshwater light blue soil brown high elevation soil snow ice
+ grey marine dark blue brackish water light and dark blue a red “p” indicates entries known to be parasites a white dot with “ ” indicates lack of information sequences of
+known taxonomic affiliation are in bold the chytrid parasitoid of skeletonema skchyt is highlighted by a larger font 
+
+a garvetto et al fungal biology e 
+ simmons et al davis et al unfortunately spore
+discharge could not be directly observed in our samples therefore
+the fate of the sporangiawall thickenings remains hypothetical the
+rarely observed thick walled structures bearing a single eccentric
+lipid globule clearly remind typical chytridiaceous resting spores
+ longcore letcher and powell letcher et al in
+fig hei epifluorescence microscopy and cw staining high 
+lighted the presence of an encysted spore on one of these
+
+
+
+fig map showing the distribution of otus related to the parasitoid of skeletonema skchyt as reconstructed from the ocean sampling day database otu red comprises reads
+matching skchyt rdna s v with an identity above whilst otu blue comprises reads identical to the reference from e the diameter size of the points on
+the map is proportional to the number of reads retrieved in the related sampling station expressed by the digits within the circle the red star indicates the isolation point of
+skchyt and the other biological samples used in this study 
+
+a garvetto et al fungal biology e 
+structures consistent with one of the modality of sexual repro 
+duction in the order rhizophydiales where a contributing spore
+ male gamete encysts on a receptive thallus female gamete to
+which it transfers its cytoplasmic contents resulting in the forma 
+tion of the thick walled resting spore sparrow van den
+wyngaert et al in line with morphological evidence the
+nearly complete rdna operon obtained in silico for isolate skchyt 
+confirmed that this epibiotic parasite of skeletonema belongs to the
+order rhizophydiales in the phylum chytridiomycota within this
+order our isolate is firmly placed within a well supported group
+composed of the families alphamycetaceae and kappamycetaceae
+ letcher and powell letcher et al however the
+skeletonema infecting chytrid does not clearly belong to any of
+these two families in our concatenated phylogenetic reconstruction
+ fig instead isolate skchyt clusters sister to the alphamyce 
+taceae with a very weak ultrafast bootstrap support the
+family alphamycetaceae is divided in two main groups the first
+composed of the genus betamyces alone and the second composed
+of the genera alphamyces and gammamyces those two main sub 
+clades have previously been found not to be supported by strong
+bootstraps letcher et al seto and degawa a feature
+consistent with our se s phylogenetic reconstruction where
+the alphamycetaceae appear paraphyletic fig even if in this
+latter phylogenetic reconstruction the parasitoid of skeletonema
+clusters closer to the genera alphamyces and gammamyces any
+conclusion on the affinity of skchyt to extant taxa would be
+assumptive in the absence of taxonomically informative data on
+zoospore ultrastructure james et al and of a broader
+sequenced diversity within the rhizophydiales as comparison we
+refrain from any taxonomic treatment of the investigated skel 
+etonema parasitoid and we adopt the provisional name skchyt 
+following published guidelines for temporary nomenclature for
+protists berney et al 
+
+we used phylogenetic analyses of molecular data from s 
+based metabarcoding surveys to assess whether chytrids related to
+skchyt shared similar habitats or ecological strategies high boot 
+strap support fig places skchyt sister to the saprobe
+betamyces sp barr smith et al and to a well supported
+clade of isolates from freshwater antarctic cyanobacterial mats
+ jungblut et al a glacier forefield in tibet khan and kong 
+unpublished and japanese lakes ishida et al no marine
+isolate clusters close to skchyt and only three isolates come from
+marine brackish water in our phylogenetic reconstruction this
+result is likely an artefact due to the undersampling of the marine
+environment potentially coupled with the marked seasonality
+shown by chytrids in the plankton picard the latter can be
+exacerbated in the case of parasites whose ephemeral presence
+and short lasting dynamics remain often undetected by molecular
+surveys garvetto et al the global distribution of the skchyt
+highlighted its presence in coastal areas around the north atlantic
+ fig since the ocean sampling day campaign is limited to
+coastal areas sampled at one time point st of june kopf et al 
+ we cannot exclude that skchyt may also occur in the open
+sea likewise we cannot rule out the hypothesis that a strong
+seasonality for the studied chytrid possibly driven by its diatom
+host might have prevented its detection in the southern hemi 
+sphere where skeletonema is virtually absent during the austral
+winter indeed microscopic evidence of a chytrid parasite infecting
+skeletonema sp in the humboldt current system off central chile
+was recently reported but unfortunately no matching molecular
+data were available guti�errez et al this chytrid was
+hypothesised to infect both skeletonema sp and thalassiosira sp 
+during the austral spring and late summer therefore driving the
+phytoplankton succession by allowing for the development of
+blooms of the immune diatom chaetoceros sp on the other hand 
+one operational taxonomic unit otu closely related to beta 
+myces americaemeridionalis arg and therefore to skchyt was
+detected for three years and in co occurrence
+with chaetoceros sp dominated blooms in the english channel
+ taylor and cunliffe although no direct observation of
+parasitism exists these results strongly suggest that chaetoceros
+might be a host of otu our observations do not allow specula 
+tions on the infection of hosts other than skeletonema since both
+thalassiosira and chaetoceros were present only in very low
+
+
+
+a garvetto et al fungal biology e 
+abundances in our samples and none was found to bear sporangia 
+the peculiar detached sporangia described in guti�errez et al 
+were not observed in the samples investigated here where all
+chytrid thalli grew epiphytically on skeletonema colonies 
+
+our screening of metabarcoding datasets highlighted the pres 
+ence of two otus clustering around skchyt with an identity
+varying from to otu and from to otu 
+each of them shared synapomorphies on the v hypervariable re 
+gion of the s rdna gene detailed in supplementary fig 
+suggesting that these two otus correspond to genuine distinct
+taxa whether or not the two otus retrieved in this study belong to
+different yet closely related species the possibility that other chy 
+trid parasites infecting marine diatoms fall within the clade
+alphamycetaceae kappamycetaceae should also be considered 
+
+thanks to the combination of pcr and hiseq sequencing we
+identified an intronic sequence one base pair upstream the primer
+binding site used for the amplification of the v hypervariable re 
+gion a second intron contains a coding sequence for a homing
+endonuclease enzyme indicating that it is active and spreading
+within skchyt population chevalier and stoddard the
+presence of intronic sequences a well known feature for the s
+ribosomal rna of chytrids and other fungi karpov et al may
+therefore interfere with the amplification of metabarcodes it
+should be envisaged that metabarcoding studies despite their
+proven power in unveiling hidden planktonic microbial diversity
+ de vargas et al may suffer from such biases especially
+towards certain taxa we argue that the caveats described here
+might have been causing a strong underappreciation of the influ 
+ence of fungal parasites on skeletonema and other marine diatom
+blooms possibly causing biases in modelling food webs and
+biogeochemical cycles to date predation is believed to be the
+largest source of mortality of phytoplankton calbet and landry 
+ causing changes in prey physiology and behaviour amato
+et al with effects potentially cascading throughout the
+food web but little if any information on parasitism is included in
+marine food web models in the diatom dominated silica cycle 
+fungal epidemics might influence the temporal scale of transport to
+the benthos where the majority of silica recycling occurs serpetti
+et al furthermore examples from freshwater systems have
+been pointing towards the involvement of chytrids in driving the
+succession of dominant phytoplankters van donk and ringelberg 
+ and results fromguti�errez et al seem to confirm these
+observations in the marine habitat molecular markers obtained by
+sc analyses may constitute a useful tool to target taxa that remain
+undetected in metabarcoding surveys with the added benefit of
+potentially linking barcodes to ecological functions thus empow 
+ering the ecological interpretation of long term plankton time se 
+ries we hope that the molecular data provided here will help
+triggering further investigation on the presence and function of
+marine chytrids which have the potential to be important drivers
+of phytoplankton dynamics and associated biogeochemical cycles
+in the ocean 
+
+data availability
+
+all sequences mined from the genome of single cell amplified
+isolates are available in genbank under the accession numbers
+specified in the main text 
+
+acknowledgements
+
+this project has received funding from the european union s
+horizon research and innovation programme under themarie
+skłodowska curie grant agreement no alff the fp 
+marie curie actions people erg no the grant
+agreement no genialg and from the united kingdom
+nerc under the grants globalseaweed ne l and multi 
+marcapp ne l 
+appendix a supplementary data
+
+supplementary data to this article can be found online at
+https doi org j funbio 
+references
+
+altschul s f gish w miller w myers e w lipman d j basic local
+alignment search tool j mol biol e 
+
+amato a sabatino v nylund g m bergkvist j basu s andersson m x et al 
+ grazer induced transcriptomic and metabolomic response of the chain 
+forming diatom skeletonema marinoi isme j e 
+
+andrews s fastqc a quality control tool for high throughput sequence
+data http www bioinformatics babraham ac uk projects fastqc 
+
+bergkvist j thor p jakobsen h selander e grazer induced chain length
+plasticity reduces grazing in a marine diatom limnol oceanogr e 
+
+berney c ciuprina a bender s brodie j edgcomb v kim e et al 
+unieuk time to speak a common language in protistology j eukaryot 
+microbiol e 
+
+bolger a m lohse m usadel b trimmomatic a flexible trimmer for illu 
+mina sequence data bioinformatics e 
+
+borkman d g smayda t multidecadal e changes in skel 
+etonema abundance and seasonal bloom patterns in narragansett bay rhode
+island usa j sea res e 
+
+brown s p olson b j s c jumpponen a fungi and algae co occur in snow 
+an issue of shared habitat or algal facilitation of heterotrophs artic antart 
+alp res e 
+
+calbet a landry m r phytoplankton growth microzooplankton grazing 
+and carbon cycling in marine systems limnol oceanogr e 
+
+canesi k l rynearson t a temporal variation of skeletonema community
+composition from a long term time series in narragansett bay identified using
+high throughput dna sequencing mar ecol prog ser e 
+
+canter h m lund j w g studies on plankton parasites trans br mycol soc 
+ e 
+
+chernomor o von haeseler a minh b q terrace aware data structure for
+phylogenomic inference from supermatrices syst biol e 
+
+chevalier b s stoddard b l homing endonucleases structural and func 
+tional insight into the catalysts of intron intein mobility nucleic acids res 
+ e 
+
+comeau a m vincent w f bernier l lovejoy c novel chytrid lineages
+dominate fungal sequences in diverse marine and freshwater habitats sci rep 
+ 
+
+davis w j letcher p m powell m j triparticalcar equi is a new coprophilus
+species within spizellomycetales chytridiomycota phytologia e 
+
+de bruin a ibelings b w kagami m mooij w m van donk e adaptation
+of the fungal parasite zygorhizidium planktonicum during generations of
+growth on homogeneous and heterogeneous populations of its host the diatom
+asterionella formosa j eukaryot microbiol e 
+
+de vargas c audic s henry n decelle j mahe f logares r et al 
+eukaryotic plankton diversity in the sunlit ocean science e 
+
+freeman k r martin a p karki d lynch r c mitter m s meyer a f et al 
+ evidence that chytrids dominate fungal communities in high elevation
+soils proc natl acad sci e 
+
+frenken t alacid e berger s a bourne e c letcher p m loyau a et al 
+integrating chytrid fungal parasites into plankton ecology research gaps and
+needs environ microbiol e 
+
+garvetto a n�ezan e badis y bilien g arce p bresnan e et al novel
+widespread marine oomycetes parasitising diatoms including the toxic genus
+pseudo nitzschia genetic morphological and ecological characterisation 
+front microbiol e 
+
+gleason f h kagami m lefevre e sime ngando t the ecology of chytrids
+in aquatic ecosystems roles in food web dynamics fungal biol rev e 
+
+grossart h p wurzbacher c james t y kagami m discovery of dark
+matter fungi in aquatic ecosystems demands a reappraisal of the phylogeny and
+ecology of zoosporic fungi fungal ecol e 
+
+gsell a s de senerpont domis l n verhoeven k j f van donk e ibelings b w 
+ chytrid epidemics may increase genetic diversity of a diatom spring 
+bloom isme j e 
+
+guti�errez m h jara a m pantoja s fungal parasites infect marine diatoms
+in the upwelling ecosystem of the humboldt current system off central chile 
+environ microbiol e 
+
+hassett b t ducluzeau a l collins r e gradinger r spatial distribution of
+aquatic marine fungi across the western arctic and sub arctic environ 
+microbiol e 
+
+hassett b t gradinger r chytrids dominate arctic marine fungal commu 
+nities environ microbiol e 
+
+https doi org j funbio 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http www bioinformatics babraham ac uk projects fastqc 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+
+a garvetto et al fungal biology e 
+hibbett d s binder m bischoff j f blackwell m cannon p f eriksson o e 
+et al a higher level phylogenetic classification of the fungi mycol res 
+ e 
+
+ibelings b w de bruin a kagami m rijkeboer m brehm m van donk e 
+ host parasite interactions between freshwater phytoplankton and chytrid
+fungi chytridiomycota j phycol e 
+
+ishida s nozaki d grossart h p kagami m novel basal fungal lineages
+from freshwater phytoplankton and lake samples environ microbiol rep 
+ e 
+
+james t y porter d leander c a vilgalys r longcore j e molecular
+phylogenetics of the chytridiomycota supports the utility of ultrastructural data
+in chytrid systematics can j bot e 
+
+jobard m rasconi s solinhac l cauchie h m sime ngando t molecular
+and morphological diversity of fungi and the associated functions in three
+european nearby lakes environ microbiol e 
+
+jungblut a d vincent w f lovejoy c eukaryotes in arctic and antarctic
+cyanobacterial mats fems microbiol ecol e 
+
+kagami m miki t takimoto g mycoloop chytrids in aquatic food webs 
+front microbiol e 
+
+kalyaanamoorthy s minh b q wong t k f von haeseler a jermiin l s 
+modelfinder fast model selection for accurate phylogenetic estimates nat 
+methods e 
+
+karpov s a mamanazarova k s popova o v aleoshin v v james t y 
+mamkaeva m a et al monoblepharidomycetes diversity includes new
+parasitic and saprotrophic species with highly intronized rdna fungal biol 
+ e 
+
+katoh k misawa k juma k miyata t mafft a novel method for rapid
+multiple sequence alignment based on fast fourier transform nucleic acids
+res e 
+
+kearse m moir r wilson a stones havas s sturrock s buxton s et al 
+geneious basic an integrated and extendable desktop software platform for
+the organization and analysis of sequence data bioinformatics e 
+
+kopf a bicak m kottmann r schnetzer j kostadinov i lehmann k et al 
+ the ocean sampling day consortium gigascience 
+
+lasken r s single cell genomic sequencing using multiple displacement
+amplification curr opin microbiol e 
+
+le calvez t burgaud g mah�e s barbier g vandenkoornhuyse p fungal
+diversity in deep sea hydrothermal ecosystems appl environ microbiol 
+ e 
+
+lenaers g michot l m b herzog m dinoflagellates in evolution a mo 
+lecular phylogenetic analysis of large subunit ribosomal rna j mol evol 
+ e 
+
+lep�ere c ostrowski m hartmann m zubkov m v scanlan d j in situ
+associations between marine photosynthetic picoeukaryotes and potential
+parasites e a role for fungi environ microbiol rep e 
+
+letcher p m powell m j kappamyces a new genus in the chytridiales
+ chytridiomycota nov hedwigia e 
+
+letcher p m powell m j churchill p f chambers j g ultrastructural and
+molecular phylogenetic delineation of a new order the rhizophydiales chy 
+tridiomycota mycol res e 
+
+letcher p m powell m j davis w j a new family and four new genera in
+rhizophydiales chytridiomycota mycologia e 
+
+letcher p m v�elez c g schultz s powell m j new taxa are delineated in
+alphamycetaceae rhizophydiales chytridiomycota nov hedwigia e 
+
+longcore j e rhizophydium brooksianum sp nov a multipored chytrid from
+soil mycologia e 
+
+minh b q nguyen m a t von haeseler a ultrafast approximation for
+phylogenetic bootstrap mol biol evol e 
+monchy s sanciu g jobard m rasconi s gerphagnon m chab�e m et al 
+exploring and quantifying fungal diversity in freshwater lake ecosystems using
+rdna cloning sequencing and ssu tag pyrosequencing environ microbiol 
+ e 
+
+naff c s darcy j l schmidt s k phylogeny and biogeography of an un 
+cultured clade of snow chytrids environ microbiol e 
+
+nguyen l t schmidt h a von haeseler a minh b q iq tree a fast and
+effective stochastic algorithm for estimating maximum likelihood phylogenies 
+mol biol evol e 
+
+picard k t coastal marine habitats harbor novel early diverging fungal di 
+versity fungal ecol e 
+
+powell m j letcher p m chytridiomycota monoblepharidomycota and
+neocallimastigomycota in mclaughlin d j spatafora j w eds the
+mycota vii systematics and evolution part a springer verlag heidelberg 
+pp e 
+
+pr€oschold t marin b gert u melkonian m molecular phylogeny and
+taxonomic revision of chlamydomonas chlorophyta i emendation of chla 
+mydomonas ehrenberg and chloromonas gobi and description of oogamochl 
+amys gen nov and lobochlamys gen nov protist e 
+
+rad men�endez c gerphagnon m garvetto a arce p badis y gachon c m m 
+ rediscovering zygorhizidium affluens canter molecular taxonomy in 
+fectious cycle and cryopreservation of a chytrid infecting the bloom forming
+diatom asterionella formosa appl environ microbiol 
+
+rasconi s jobard m jouve l sime ngando t use of calcofluor white for
+detection identification and quantification of phytoplanktonic fungal parasites 
+appl environ microbiol e 
+
+serpetti n witte u f m heath m r statistical modeling of variability in
+sediment water nutrient and oxygen fluxes front earth sci e 
+
+seto k degawa y collimyces mutans gen et sp nov rhizophydiales col 
+limycetaceae fam nov a new chytrid parasite of microglena volvocales clade
+monadinia protist e 
+
+simmons d r james t y meyer a f longcore j e lobulomycetales a new
+order in the chytridiomycota mycol res e 
+
+smith d s rocheleau h chapados j t abbott c ribero s redhead s a et al 
+ phylogeny of the genus synchytrium and the development of taqman pcr
+assay for sensitive detection of synchytrium endobioticum in soil phytopa 
+thology e 
+
+sparrow f aquatic phycomycetes the university of michigan press ann
+arbor 
+
+sparrow f k interrelatioinships and phylogeny of the aquatic phycomye 
+cetes mycologia e 
+
+taylor j d cunliffe m multi year assessment of coastal planktonic fungi
+reveals environmental drivers of diversity and abundance isme j e 
+
+vandenkoornhuyse p leyval c ssu rdna sequencing and pcr 
+fingerprinting reveal genetic variation within glomus mosseae mycologia 
+ e 
+
+van donk e ringelberg j the effect of fungal parasitism on the succession
+of diatoms in lake maarsseveen i the netherlands freshw biol 
+ e 
+
+van den wyngaert s seto k rojas jimenez k kagami m grossart h p 
+a new parasitic chytrid staurastromyces oculus rhizophydiales stauras 
+tromycetaceae fam nov infecting the freshwater desmid staurastrum sp 
+protist e 
+
+white t j bruns t lee s taylor j amplification and direct sequencing of
+fungal ribosomal rna genes for phyologenetics in innis m a gelfand d h 
+sninsky j j white t j eds pcr protocols a guide to methods and appli 
+cations academic press inc new york pp e 
+
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+	chytrid infecting the bloom forming marine diatom skeletonema sp morphology phylogeny and distribution of a novel specie 
+	 introduction
+	 methods
+	 isolation of the biological material
+	 microscopy
+	 dna amplification and sequencing
+	 genome querying for genetic barcodes
+	 phylogenetic reconstructions
+	 assessment of global distribution
+
+	 results
+	 morphology
+	 phylogenetic placement of isolate skchyt 
+	 global distribution
+
+	 discussion
+	data availability
+	acknowledgements
+	appendix a supplementary data
+	references
+
+
+

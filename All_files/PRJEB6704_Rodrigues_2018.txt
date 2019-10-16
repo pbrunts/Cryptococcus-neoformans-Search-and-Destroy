@@ -1,0 +1,1083 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submitted september 
+accepted january 
+published february 
+
+corresponding author
+richard r rodrigues richrr vt edu
+
+academic editor
+thomas rattei
+
+additional information and
+declarations can be found on
+page 
+
+doi peerj 
+
+copyright
+ rodrigues et al 
+
+distributed under
+creative commons cc by 
+
+open access
+
+coremic a web tool to search for a
+niche associated core microbiome
+richard r rodrigues nyle c rodgers xiaowei wu and mark a williams 
+
+ interdisciplinary ph d program in genetics bioinformatics and computational biology virginia
+polytechnic institute and state university virginia tech blacksburg va united states of america
+
+ department of pharmaceutical sciences oregon state university corvallis or united states of america
+ department of electrical and computer engineering virginia polytechnic institute and state university
+ virginia tech blacksburg va united states of america
+
+ department of statistics virginia polytechnic institute and state university virginia tech blacksburg va 
+united states of america
+
+ school of plant and environmental sciences virginia polytechnic institute and state university
+ virginia tech blacksburg va united states of america
+
+abstract
+microbial diversity on earth is extraordinary and soils alone harbor thousands of
+species per gram of soil understanding how this diversity is sorted and selected
+into habitat niches is a major focus of ecology and biotechnology but remains only
+vaguely understood a systems biology approach was used to mine information
+from databases to show how it can be used to answer questions related to the core
+microbiome of habitat microbe relationships bymaking use of the burgeoning growth
+of information from databases our tool ‘‘coremic’’ meets a great need in the search
+for understanding niche partitioning and habitat function relationships the work is
+unique furthermore because it provides a user friendly statistically robust web tool
+ http coremic appspot com or http core mic com developed using google app
+engine to help in the process of database mining to identify the ‘‘core microbiome’’
+associated with a given habitat a case study is presented using data from switchgrass
+rhizosphere community habitats across a diverse set of soil and sampling environments 
+the methodology utilizes an outgroup of non switchgrass other grasses and forbs 
+to identify a core switchgrass microbiome even across a diverse set of soils five
+environments and conservative statistical criteria presence inmore than samples
+and fdr q val for fisher’s exact test a core set of bacteria associated with
+switchgrass was observed these included among others closely related taxa from
+lysobacter spp mesorhizobium spp and chitinophagaceae these bacteria have been
+shown to have functions related to the production of bacterial and fungal antibiotics
+and plant growth promotion coremic can be used as a hypothesis generating or
+confirmatory tool that shows great potential for identifying taxa that may be important
+to the functioning of a habitat e g host plant the case study in conclusion shows
+that coremic can identify key habitat specific microbes across diverse samples using
+currently available databases and a unique freely available software 
+
+subjects bioinformatics ecology microbiology
+keywords root zone web tool meta analysis database rhizosphere data mining app 
+software microbiome
+
+how to cite this article rodrigues et al coremic a web tool to search for a niche associated core microbiome peerj
+ e doi peerj 
+
+https peerj com
+mailto richrr vt edu
+https peerj com academic boards editors 
+https peerj com academic boards editors 
+http dx doi org peerj 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http coremic appspot com
+http core mic com
+http dx doi org peerj 
+
+
+introduction
+microbial diversity on earth is extraordinary and soils alone harbor thousands of species
+per gram hughes et al understanding how this diversity is sorted and selected into
+habitat niches is a major focus of ecology and biotechnology but remains only vaguely
+understood the advent of next generation sequencing technologies now allow for the
+potential to make great leaps in the study of microbe habitat relationships of highly
+diverse microbial communities and environments the identity and functions of this
+overwhelming multitude of microbes are in the beginning stages of being described and
+are already providing insights into microbial impacts on plant and animal health berg 
+ evans schwarz clemente et al making use of the overwhelming
+amount of information on microbial taxa and habitats has enormous potential for use to
+further understand microbial habitat relationships thus the advent of new methods and
+approaches to utilize this data and describe microbiomes will benefit microbial ecology
+and biotechnology 
+
+though variations exist a core microbiome can be defined conceptually using venn
+diagrams where over lapping circles and non overlapping areas of circles represent shared
+and non shared members of a habitat respectively shade handelsman typically 
+microbiomes identified in this manner are not statistically evaluated or by nature seek
+to answer specific hypothesis that are specific to an experiment for example studies
+often identify microbes associated with different plant growth stages species cultivars 
+and locations but rarely if at all mine databases or perform meta analysis to statistically
+identify microbiomes across studies and experimental conditions chaudhary et al 
+liang et al mao et al mao et al hargreaves williams hofmockel 
+ rodrigues et al jesus et al rodrigues et al describing differences
+due to treatment or habitat conditions are informative in their own right however 
+extending this framework to include an easy to use and statistically robust tool to help
+in the mining of data from underutilized and burgeoning databases e g the national
+center for biotechnology information ncbi ribosomal database project can help
+transform the ecological study of microbes in their natural environment using the vast
+and growing databases of organism and habitat metadata will allow for both the testing
+and development of hypotheses associated with habitat microbe relationships that were
+not formerly possible 
+
+to address the challenges described above we developed coremic—a novel easy to
+use and freely available web tool to identify the ‘‘core microbiome’’ of any well defined
+habitat e g plant root zone or niche shade handelsman this straightforward
+approach is a novel and powerful way to complement existing analysis e g indicator
+species analysis isa dufrene legendre by allowing for the use of data that is now
+overflowing among freely available databases it seeks to determine the core set of microbes
+ core microbiome that are explicitly associated with a host system or habitat the ability
+to identify core microbiomes at this scale has great potential to describe host microbe
+interactions and habitat preferences of microbes 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+ameta analysis based case study was performed combining diverse sequencing datasets
+derived from ncbi to test for the occurrence of a core microbiome in the rhizosphere
+ root zone of switchgrass switchgrass is a us native perennial grass studied by many
+researchers and thus has a growing database tomine for genetic information its widespread
+study is likely a result of its bioenergy potential and the capacity of the grass to grow on
+marginal lands not dedicated to crops studies have identified different bacteria found in the
+root zones of switchgrass jesus et al mao yannarell mackie chaudhary
+et al liang et al mao et al bahulikar et al mao et al 
+werling et al hargreaves williams hofmockel jesus et al rodrigues et
+al however there has been no integrative study of different datasets identifying the
+core microbiome in switchgrass rhizospheres it was thus proposed to identify host habitat
+relationships as a proof of concept for a core microbiome in this paper we utilize a plant
+host to define a habitat but theoretically any habitat and associated organisms could make
+use of coremic and its approach to identify a core microbiome 
+
+material and methods
+datasets used in the study
+a diverse set of data composed of samples from two different published datasets and
+collected from multiple locations jesus et al rodrigues et al were used for
+this study data were obtained from the ncbi and selected based on the availability of
+the raw s rrna sequence data of root zone bacteria from switchgrass and that for an
+out group of reference native and or other grasses plants 
+
+the dataset ‘‘jesus ’’ jesus et al prjeb compared the rhizosphere
+soil microbial communities associated with restored prairie with three grass crops namely
+corn switchgrass and mixed prairie grasses the grasses were grown in fields of michigan
+and wisconsin and were harvested after two and ten years the v –v region of the s
+rrna gene was amplified and sequenced using the roche pyrosequencing in our
+study we used a total of samples three each from corn switchgrass mixed grasses two
+years only and restored prairie grasses grown in wisconsin and michigan and sampled
+after two and years switchgrass grown in michigan composed of samples were
+collected following years of plant growth 
+
+the dataset ‘‘rodrigues ’’ rodrigues et al prjna compared the
+root zone soil microbial communities associated with switchgrass cultivars ‘‘alamo’’ and
+‘‘dacotah’’ the switchgrass were grown in the greenhouse using soil derived from plots
+growing switchgrass years near blacksburg va switchgrass rhizosphere bacteria
+were sampled at three different growth stages the v –v region of the s rrna gene
+was amplified and sequenced using illumina miseq sequencing in our study we used a
+total of switchgrass samples for alamo a and dacotah d from stages v and e 
+av dv ae de 
+
+overall these datasets served as a diverse resource relevant differences are summarized
+in fig to compare the root zone bacteria and identify core bacteria associated with
+switchgrass 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http www ncbi nlm nih gov bioproject term prjeb 
+http www ncbi nlm nih gov bioproject term prjna 
+http dx doi org peerj 
+
+
+ b 
+
+ c 
+
+ a 
+jesus rodrigues 
+
+amplicon regions v v v v 
+
+sequencing platform pyroseq illumina
+
+reads single paired
+
+lengths bp bp
+
+corn mixed grasses 
+switchgrass praire grasses switchgrassplants
+
+location wisconsin michigan virginia
+
+age yrs yrs months months
+
+site field greenhouse
+ 
+
+jesus
+
+ swg non swg
+ otus
+
+rodrigues
+
+ swg
+ otus
+
+core microbiome
+
+otu is significant if q value 
+
+otux otuy
+
+ common otus
+
+original data treated as binary 
+
+otux
+otuy
+otuz
+otun
+
+s s s s n n n n n n
+ 
+ 
+ 
+ 
+
+absolute relative
+abundance
+
+fisher s exact test
+
+figure the coremic approach a differences between the jesus and rodrigues 
+datasets b combining the two otu tables of the two datasets and c the methodology used to identify
+core microbiome switchgrass and other grasses are indicated by ‘‘swg’’ and ‘‘non swg ’’ respectively 
+
+full size doi peerj fig 
+
+sequence data analysis and picking of operational taxonomic units
+ otu 
+for the rodrigues dataset the otu table was obtained from previously performed
+analysis rodrigues et al for the jesus dataset quality score and read
+lengths thresholds were enforced using cutadapt martin and an
+open reference otu picking enable rev strand match true was performed in qiime
+v caporaso et al as previously described rodrigues et al rodrigues et
+al to allow comparison with the other dataset briefly uclust edgar was
+used to cluster reads into otus sequence similarity and assign taxonomy against the
+greengenes reference database version desantis et al mcdonald et al 
+two samples from the jesus dataset were removed from downstream analysis due to
+very few sequences assigned to otus 
+
+combining two datasets
+for each dataset sequences assigned to otus with identical taxonomy were collapsed
+ summed within each sample to create a single row for that taxonomy this method of
+taxonomic summary is commonly used e g qiime and beneficial for working with
+diverse datasets finally the otu tables from the two datasets were merged based on
+identical taxonomy row ids the common otus taxa from the two datasets were
+selected converted to biom format and used for further analyses fig the data table
+was rarefied using a sequence threshold of and the beta diversity was calculated using
+bray curtis beals distance and visualized using principal coordinate analysis
+ gower multivariate data analysis methods of mrpp mielke permanova
+ anderson and anosim clarke were used to identify whether the plant type
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+https doi org peerj fig 
+http dx doi org peerj 
+
+
+ switchgrass versus non switchgrass were associated with different bacterial communities 
+mann–whitney u test from qiime’s group significance py was used to identify otus
+that had differential abundance fdr in switchgrass and non switchgrass samples 
+
+core microbiome analysis
+to find the set of core otus the samples in the combined otu table original data 
+were first divided into the interest group samples switchgrass and out group samples 
+the abundance values for each otu in each sample are then converted to binary
+ present absent values based on whether they are zero or nonzero for each otu a
+one tailed fisher’s exact test was used to calculate a p value testing whether an otu was
+present in a significantly higher portion in the interest in group switchgrass compared
+to the out group samples numerous other grass species 
+
+these p valueswere corrected formultiple testing using benjaminihochberg theotus
+with a q value were then selected to only the otus that are present in at least 
+of the interest group samples uninformative otus e g k bacteria p c o f g s 
+were filtered out and the remaining otus were candidates for the core microbiome 
+
+submitting data to coremic
+coremic needs data and mapping files data file s provide the abundance counts for
+each otu taxonomy per sample to allow users to directly use their output of otu
+picking methods coremic requires the data file s in biom format with the taxonomic
+assignments for each otu under the ‘‘taxonomy’’ key of the meta data in the data file s 
+rows with the same taxonomic label will be combined with their values summed per
+sample if multiple data files are uploaded they will be combined using taxonomic labels 
+removing any taxonomies that are not present in all the data files 
+
+the mapping file is a tab delimited file where each sample is represented as a row and
+contains group treatment location age etc information as columns about the samples
+from the data file s the help section of coremic http coremic appspot com help or
+http core mic com help offers details about the input files and provides sample data and
+group files the supplementary video https oregonstate box com v coremic tutorial 
+offers a tutorial for submitting data to coremic 
+
+implementation of coremic
+coremic receives the input files and parameters from web tool the data file is collapsed
+ sum the sequences of otus with identical taxonomy per sample to have unique
+taxonomic row ids multiple data files if any are merged into a single otu table based on
+common taxonomic labels the user preferred normalization is applied and significance is
+calculated for each otu followed by multiple testing core microbes are identified as those
+that pass the user specified criteria adjusted p value presence in interest and out group 
+finally the results and output files are emailed to the user 
+
+coremic and the datasets are available at http coremic appspot com or http core 
+mic com its code is available on github https github com richrr coremicro the web 
+tool was developed in python and is hosted on google app engine other requirements
+include googleappenginepipeline pyqi requests requests toolbelt
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http coremic appspot com help
+http core mic com help
+https oregonstate box com v coremic tutorial
+http coremic appspot com
+http core mic com
+http core mic com
+https github com richrr coremicro
+http dx doi org peerj 
+
+
+ mailjet rest biom format ete for tree generation–see below for
+details webapp numpy matplotlib jinja ssl coremic
+is accessible via any internet connected browser and emails the results to the user the
+processing times with the default settings after uploading the data are provided in table s 
+
+a custom python script generates a phylogenetic tree using the taxonomic labels for
+each otu displaying the relationship between the core otus obtained from the group of
+interest and the out group this tree is generated using the ete library 
+
+results
+after quality filtering a total of reads were obtained from the jesus dataset
+ mean and std dev two samples with very few and counts were
+removed each of the remaining samples had more than sequences assigned to otus 
+a total of high quality reads were used from the rodrigues dataset mean
+ and std dev the number of otus in the jesus and rodrigues 
+datasetswas and respectively the combineddataset had otus switchgrass
+and non switchgrass other grasses samples the details of sequences assigned to each
+sample are provided in table s the bacterial communities in switchgrass and grasses from
+the combined dataset were significantly different table s shows mann–whitney u test
+fdr and permanova mrpp and anosim p values these differences were
+apparent despite significant difference across datasets table s permanova mrpp and
+anosim p values as can be observed using the pcoa plot using the bray curtis
+dissimilarity metric fig which could be the result for example of the heterogeneity
+of the data set related to climate soil type condition growth conditions plant age and
+technological differences in this regard at the phylum level mann whitney test identified
+bacteroidetes and verrucomicrobia had significantly greater p value relative
+abundance in switchgrass whereas gemmatimonadetes were more abundant in other
+grasses fig s 
+
+we used a very conservative criterion of threshold i e an otu has to be present
+in at least of switchgrass samples and observed five otus with fdr q values 
+ table the relative abundance and a phylogenetic tree exhibiting their relationship with
+the core otus from the non switchgrass samples is shown in figs s and s respectively 
+despite the enormous variability across the many different sampling locations there is
+support for the occurrence of a core microbiome in the root zone of switchgrass 
+
+discussion
+the case study showed how coremic can identify key habitat specific microbes across
+diverse samples using currently available databases and a unique freely available software 
+the core set of bacteria associated with switchgrass included among others closely related
+taxa from lysobacter spp mesorhizobium spp and chitinophagaceae the functional
+relevance of these bacteria related to switchgrass is currently unknown but it is notable
+that these bacteria have been shown to produce bacterial and fungal antibiotics and promote
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+pc 
+
+pc 
+
+pc 
+
+grass
+
+swg
+
+ a jesus
+rodrigues
+
+pc 
+pc 
+
+pc b 
+
+figure beta diversity of the combined dataset pcoa plot showing bray curtis dissimilarities for bac 
+terial communities at the otu level a differences in other grasses red colored and switchgrass blue
+colored b differences in the jesus red colored and rodrigues blue colored datasets 
+
+full size doi peerj fig 
+
+table bacterial otus associated with switchgrass 
+
+otu present 
+
+p proteobacteria c gammaproteobacteria o xanthomonadales f xanthomonadaceae g lysobacter s 
+p planctomycetes c planctomycetia o b f g s 
+p bacteroidetes c saprospirae o saprospirales f chitinophagaceae 
+p proteobacteria c alphaproteobacteria o rhizobiales f phyllobacteriaceae g mesorhizobium s 
+p proteobacteria c gammaproteobacteria o legionellales f g s 
+
+notes 
+the core bacterial otus those were significantly q value associated with switchgrass calculated using presence absence data and present in switchgrass samples 
+
+the growth of plants kaneko et al kilic ekici yuen weir et al islam
+et al jochum osborne yuen ji et al park et al nandasena et
+al yin bailey et al degefu et al guerrouj et al madhaiyan
+et al the analyses from the highly diverse data sets thus provided information that
+helps to greatly narrow down possibilities and thus set the stage for testing using controlled
+studies how the core microbiota potentially support or antagonize the function of a native
+grass this novel toolkit is simple to use and supports use by a broad range of biological
+scientists and is particularly relevant to those with expertise in their field but with limited
+bioinformatics background overall in a dataset derived from a complex and diverse set
+of habitats and ecosystems this tool was shown to pinpoint microbiota of the microbiome
+that might have important functional implications within their habitat or host 
+
+methodological considerations in the use of coremic
+coremic performs a complementary analysis different from that of existing methods by
+using presence absence data for two groups a and b it checks whether pre determined
+percentage of samples from group a have a non zero value for the otu this allows
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+https doi org peerj fig 
+http dx doi org peerj 
+
+
+scientists to operate without making assumptions about the pcr based otu relative
+abundances this is considered a potential advantage of the method because it is unknown
+whether relative abundance of sequence data is representative of true relative differences
+between communities it is well accepted that sequencing depth can affect the occurrence
+of rare otus in both relative and presence absence data relative abundance analysis 
+however would bias against rare otus whereas presence absence equally treats abundant
+and rare otus since any count or as per the user chosen threshold is treated as
+present using otus that are present in at least of the interest group samples along
+with significance testing to define a core microbiome accounts for possibility that rare
+otus might be missed as being called present in some samples therefore our proposed
+approach is relatively robust to sequencing depths further research in this regard will
+be aimed towards investigating other measures of otu ‘‘presence’’ namely the extent of
+exclusivity consistency or abundance of the group that is eventually determined to be a
+core microbiome 
+
+sampling plots used in this study were located across a range of diverse environments
+to help create a backdrop of heterogeneity while this diversity of habitat conditions
+ignores the potential for microbe environment interactions that might be important for
+the plant microbial relationship it has the advantage of being a conservative approach
+with high veracity for defining a core microbiome regardless of habitat heterogeneity the
+locations from which samples were grown michigan wisconsin virginia were treated
+as independent to help isolate the overall habitat effect of switchgrass werling et al 
+jesus et al when the effects of habitat are thought to be habitat specific researchers
+can take this into account during the design and analysis using coremic 
+
+it is notable that the representation of an outgroup multiple non switchgrass species 
+is an important criteria and choice made by researchers and is an approach that has both
+advantages and caveats by definition a habitat is defined by its differences from that of
+other habitats and therefore the use of the outgroup is an important choice a counter 
+argument for the current dataset might argue for exclusion of breeding lines of a cultivated
+grass maize as being unrepresentative of the grass outgroup in our case it was thought 
+a priori that a diverse set of grasses would provide the best comparison and no compelling
+argument was found that supported the exclusion of maize from the analysis an implicit
+assumption was also made that the taxonomy of plant species root zone habitats play an
+important role in determining root zonemicrobial communities an approach supported by
+extensive findings that different grass species associatewith differentmicrobial communities
+ kuske et al kennedy et al berendsen pieterse bakker chaudhary et
+al turner et al so although there is a need for careful consideration of
+the experimental questions of interest when using coremic this is a common if not
+ubiquitous foundation of all experimentation and hypothesis testing the results provide
+a statistically valid approach using freely available software to describe and define a core
+microbiome of switchgrass 
+
+the choice of the outgroup furthermore for determining a coremicrobiome is amenable
+to choice using deductive reasoning but ultimately limited by available data this issue
+almost certainly limits inclusion of many functionally important rhizosphere microbes
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+that could affect the growth of switchgrass in this study the proof of concept utilized a
+conservative approach to highlight the methodology across a diversity of geographies soil
+types and plant ages the coremic tool as well as the multiple methods for defining a
+core microbiome e g qiime caporaso et al isa dufrene legendre will
+always be defined by the expertise and the nature of the hypotheses defined and defended
+by individual researchers 
+
+core microbes
+the individual datasets described in this study had previously focused on identifying
+abundant microbes and differences due to experimental conditions the current meta 
+analysis goes a step further to find commonmicrobiota that are associated with switchgrass
+across the diverse experimental conditions in fact while lysobacter would be identified as
+having significantly differential abundance as per the man whitney test it would not be
+in the top candidates ranked as per fdr in table s and likely missed from future
+testing clearly our approach allows us to identify such candidates the members of the
+lysobacter genus an identified core microbe of switchgrass are known to live in soil and
+have been shown to be ecologically important due to their ability to produce exo enzymes
+and antibiotics reichenbach their antimicrobial activities against bacteria fungi 
+unicellular algae and nematodes have been described islam et al jochum osborne
+ yuen park et al yin strains of this genus for example have been
+used for control of diseases caused by bacteria in rice ji et al and tall fescue
+ kilic ekici yuen reports of their function thus support the idea that they may
+play an important role in switchgrass growth and survival the core microbiome results
+thus support further research into the role played by this bacterium in the switchgrass
+rhizosphere 
+
+similarly members of themesorhizobium genus are well known diazotrophs kaneko et
+al and previously shown to be symbiotically associated with switchgrass deangelis
+et al bahulikar et al and legumes weir et al nandasena et al 
+degefu et al guerrouj et al another identified core microbiome taxa soil 
+dwelling members of the chitinophagaceae family are known to have β glucosidase bailey
+et al and aminocyclopropane carboxylate acc deaminase activities and ability
+to produce indole acetic acid iaa madhaiyan et al these molecules and
+enzymes are well known for their effects on plant growth zhao van de poel van
+der straeten the capacity to degrade cellulose might provide additional and readily
+available options to aid survival of these bacteria near switchgrass root zones during times
+of environmental stress acc deaminase and iaa production in contrast are potent
+plant growth modulators glick that could play a role in plant productivity and
+survival especially under conditions of plant physiological stress though these examples
+above would need further study they provide consistent examples describing how a core
+microorganism could play a role in determining plant function and growth the power of
+the approach stems from the ability to identify the core microbes associated with a plant
+ or other habitat and that can with veracity narrow down potentially important core
+microbes from otherwise hyperdiverse samples 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj supp 
+http dx doi org peerj 
+
+
+from a technological standpoint it is important to put the current approach into
+context with research before the metagenomics era the search and identification of
+antagonistic plant growth promoting microbes has previously been tedious and labor
+intensive screenings of hundreds of microbes were used to cultivate and identify candidate
+microbes that might support or deter plant growth in the case of beneficial microbes 
+even when identified under greenhouse conditions the beneficial effects rarely translated
+into plant supportive growth under field growth conditions babalola hayat et al 
+ with the aid of hindsight and new knowledge suggesting the importance of the
+soil habitat and root soil interactions in the development of growth promoting plant 
+microbial relationships the approach used in this study reverses the focus from top down
+to bottom up to search for microbes that appear to already be naturally well adapted to
+the root soil habitats of interest trabelsi mhamdi souza ambrosini passaglia 
+ this process streamlines the search for suitable microbes from a daunting pool of
+thousands of bacterial taxa bacteria and fungi with well known partnerships withmembers
+of the core microbiome it would be expected to be more readily adaptable to their native
+environment indeed the concept of adaptability to an environment has been shown to be
+true for many types of microbes across the environmental spectrum and has given rise to
+the concept of the niche lennon et al existing tools e g corbata metacomet
+and qiime do not provide statistical significance for the taxa to be a core microbiome
+compared to the background using presence absence data the point of our method is to
+provide an approach that is definitive rather than simply stating a set of microbe present
+in samples due to the lack of consensus in the scientific community about what a gold
+standard protocol technology is for such studies mainly due to the relatively early stages
+of the metagenomics field and technology still in developmental stages one is limited in
+one way or other to sufficiently utilize the existing data while our method of combining
+datasets has its limitation like the granularity species level information limitation from
+ s etc it still offers a powerful way to i understand the taxonomic distribution within
+samples ii mine multiple existing and often diverse datasets iii generate hypothesis
+for future detailed experiments and therefore certainly a preferred alternative than not
+using existing data the coremic tool provides an alternative and logical approach to
+help mine available datasets in the search for core microbiomes associated with habitats
+that are ecologically and agriculturally important finally each statistical test relies on
+different assumptions and has different strengths coremic assumes that presence of a
+microbe however high or low can provide meaningful insight into potential host microbe
+relationships therefore it provides equal weightage for high and low abundant microbes
+within a sample since microbial abundance can be an important factor in a biological
+system we recommend using coremic presence absence in complement with other
+abundance based methods e g mann whitney test isa etc furthermore while using
+diverse dataset has its strengths we suggest avoiding datasets where each dataset contains
+only a single mutually exclusive group the user needs to consider similarities differences
+between the datasets and the biological system while choosing an appropriate outgroup
+for their group of interest it is up to the user to decide which thresholds make the most
+sense for their questions and hypothesis but obviously a stricter threshold will have
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+higher statistical inferential veracity perhaps a combinatorial approach of selecting the top
+candidates from the different presence absence and abundance based methods picking
+microbes that show significant associations by multiple methods and using the user’s
+biological expertise might better allow choosing candidates for future testing 
+
+conclusions
+the coremic tool by helping to mine multiple datasets fills an existing gap in the search
+for the core microbiome associated with a host or habitat it allows for the development of
+a working hypothesis in the search for microbes well suited for a habitat or host microbe
+interaction it can also be used to confirm laboratory studies that have identified target
+microbes that might be important symbionts or thought to be associated with a specific
+habitat in the case of plants but not limited to them the coremic approach can identify
+microbial targets that might be useful for plant growth promotion an example of this
+would be the identification of diazotrophic bacteria that aid the growth of bioenergy grasses
+and help to serve the development of sustainable agricultural systems this combined with
+the ongoing efforts of plant breeding and genetic modification would help to catalyze
+microbe driven crop yield improvement while practicing environmental stewardship
+through reduced fertilizer use here we show the applicability of coremic in rhizosphere 
+associated microbes but the overall concepts are translational across disciplines with
+interests in host microbe andmicrobe habitat relationships the applicability ofcoremic
+for the identification of core genes and microbes has excellent potential to help understand
+the roles of microorganisms in complex and diverse microbial communities 
+
+acknowledgements
+the authors thankdr roderick jensen and jameswrenn for their suggestions in improving
+the manuscript we thank dr james mcclure for his help in the web tool development 
+we also acknowledge biom google app engine and their developers we thank virginia
+tech’s genetics bioinformatics and computational biology department of horticulture 
+college of agriculture and life sciences for their support 
+
+additional information and declarations
+
+funding
+virginia tech’s genetics bioinformatics and computational biology department of
+horticulture provided personnel funding research was also partially funded by grants
+from usda nifa there was no additional external funding received for
+this study the funders had no role in study design data collection and analysis decision
+to publish or preparation of the manuscript 
+
+grant disclosures
+the following grant information was disclosed by the authors 
+usda nifa 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org peerj 
+
+
+competing interests
+the authors declare there are no competing interests 
+
+author contributions
+• richard r rodrigues conceived and designed the experiments performed the
+experiments analyzed the data contributed reagents materials analysis tools wrote
+the paper prepared figures and or tables reviewed drafts of the paper 
+• nyle c rodgers performed the experiments analyzed the data contributed
+reagents materials analysis tools wrote the paper prepared figures and or tables 
+reviewed drafts of the paper 
+• xiaowei wu analyzed the data wrote the paper reviewed drafts of the paper 
+• mark a williams conceived and designed the experiments analyzed the data wrote the
+paper reviewed drafts of the paper 
+
+data availability
+the following information was supplied regarding data availability 
+
+coremic and the input files are available at http coremic appspot com or
+http core mic com its code is available on github https github com richrr coremicro 
+a video tutorial is available at https oregonstate box com v coremic tutorial raw data
+used for the study are available at prjeb and prjna 
+
+supplemental information
+supplemental information for this article can be found online at http dx doi org 
+peerj supplemental information 
+
+references
+andersonmj a new method for non parametric multivariate analysis of variance 
+
+austral ecology – doi j pp x 
+babalola oo beneficial bacteria of agricultural importance biotechnology letters
+
+ – doi s 
+bahulikar ra torres jerez i worley e craven k udvardi mk diversity of
+
+nitrogen fixing bacteria associated with switchgrass in the native tallgrass prairie
+of northern oklahoma applied and environmental microbiology – 
+doi aem 
+
+bailey vl fansler sj stegen jc mccue la linking microbial community struc 
+ture to beta glucosidic function in soil aggregates the isme journal – 
+doi ismej 
+
+beals ew bray curtis ordination an effective strategy for analysis of multivariate
+ecological data advances in ecological research – 
+doi s 
+
+berendsen rl pieterse cm bakker pa the rhizosphere microbiome and plant
+health trends in plant science – doi j tplants 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http coremic appspot com
+http core mic com
+https github com richrr coremicro
+https oregonstate box com v coremic tutorial
+https www ncbi nlm nih gov bioproject prjeb 
+https www ncbi nlm nih gov bioproject prjna 
+http dx doi org peerj supplemental information
+http dx doi org peerj supplemental information
+http dx doi org j pp x
+http dx doi org s 
+http dx doi org aem 
+http dx doi org ismej 
+http dx doi org s 
+http dx doi org j tplants 
+http dx doi org peerj 
+
+
+berg g plant microbe interactions promoting plant growth and health perspec 
+tives for controlled use of microorganisms in agriculture applied microbiology and
+biotechnology – doi s 
+
+caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer
+n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je 
+ley re lozupone ca mcdonald d muegge bd pirrungm reeder j sevinsky
+jr turnbaugh pj walterswa widmann j yatsunenko t zaneveld j knight
+r qiime allows analysis of high throughput community sequencing data 
+nature methods – doi nmeth f 
+
+chaudhary d saxena j lorenz n dick l dick r microbial profiles of rhizo 
+sphere and bulk soil microbial communities of biofuel crops switchgrass panicum
+virgatum l and jatropha jatropha curcas l applied and environmental soil
+science – doi 
+
+clarke kr non parametric multivariate analyses of changes in community
+structure australian journal of ecology – 
+doi j tb x 
+
+clemente jc ursell lk parfrey lw knight r the impact of the gut microbiota
+on human health an integrative view cell – 
+doi j cell 
+
+deangelis km gladden jm allgaier m d’haeseleer p fortney jl reddy a hugen 
+holtz p singer sw gheynst jsv silverwl simmons ba hazen tc 
+strategies for enhancing the effectiveness of metagenomic based enzyme discov 
+ery in lignocellulolytic microbial communities bioenergy research – 
+doi s z 
+
+degefu t wolde meskel e liu b cleenwerck i willems a frostegard a 
+mesorhizobium shonense sp nov mesorhizobium hawassense sp nov andmesorhi 
+zobium abyssinicae sp nov isolated from root nodules of different agroforestry
+legume trees international journal of systematic and evolutionary microbiology
+ – doi ijs 
+
+desantis tz hugenholtz p larsen n rojas m brodie el keller k huber t dalevi
+d hu p andersen gl greengenes a chimera checked s rrna gene
+database and workbench compatible with arb applied and environmental micro 
+biology – doi aem 
+
+dufrenem legendre p species assemblages and indicator species the need
+for a flexible asymmetrical approach ecological monographs – 
+doi saaist co 
+
+edgar rc search and clustering orders of magnitude faster than blast bioinfor 
+matics – doi bioinformatics btq 
+
+evans jd schwarz rs bees brought to their knees microbes affecting honey bee
+health trends in microbiology – doi j tim 
+
+glick br bacteria with acc deaminase can promote plant growth and help to feed
+the world microbiological research – doi j micres 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org s 
+http dx doi org nmeth f 
+http dx doi org 
+http dx doi org j tb x
+http dx doi org j cell 
+http dx doi org s z
+http dx doi org ijs 
+http dx doi org aem 
+http dx doi org saaist co 
+http dx doi org bioinformatics btq 
+http dx doi org j tim 
+http dx doi org j micres 
+http dx doi org peerj 
+
+
+gower jc principal coordinates analysis encyclopedia of biostatistics nd edition 
+milton keynes john wiley and sons ltd the open university 
+
+guerrouj k perez valera e chahboune r abdelmoumenh bedmar ej el idrissi
+mm identification of the rhizobial symbiont of astragalus glombiformis
+in eastern morocco as mesorhizobium camelthorni antonie van leeuwenhoek
+ – doi s y 
+
+hargreaves sk williams rj hofmockel ks environmental filtering of microbial
+communities in agricultural soil shifts with crop growth plos one e 
+doi journal pone 
+
+hayat r ali s amara u khalid r ahmed i soil beneficial bacteria and their
+role in plant growth promotion a review annals of microbiology – 
+doi s 
+
+hughes jb hellmann jj ricketts th bohannan bjm counting the uncountable 
+statistical approaches to estimating microbial diversity applied and environmental
+microbiology – doi aem 
+
+islammt hashidoko y deora a ito t tahara s suppression of damping 
+off disease in host plants by the rhizoplane bacterium lysobacter sp strain
+sb k is linked to plant colonization and antibiosis against soilborne per 
+onosporomycetes applied and environmental microbiology – 
+doi aem 
+
+jesus edc liang c quensen jf susilawati e jackson rd balser tc tiedje jm 
+ influence of corn switchgrass and prairie cropping systems on soil microbial
+communities in the upper midwest of the united states global change biology
+bioenergy – doi gcbb 
+
+jesus ec susilawati e smith sl wang q chai b farris r rodrigues jlm thelen kd 
+tiedje jm bacterial communities in the rhizosphere of biofuel crops grown
+on marginal lands as evaluated by s rrna gene pyrosequences bioenergy research
+ – doi s 
+
+ji g h wei l f he y q wu y p bai x h biological control of rice bacterial
+blight by lysobacter antibioticus strain biological control – 
+doi j biocontrol 
+
+jochumcc osborne le yuen gy fusarium head blight biological con 
+trol with lysobacter enzymogenes strain c biological control – 
+doi j biocontrol 
+
+kaneko t nakamura y sato s asamizu e kato t sasamoto s watanabe a idesawa
+k ishikawa a kawashima k kimura t kishida y kiyokawa c koharam 
+matsumotom matsuno a mochizuki y nakayama s nakazaki n shimpo s 
+sugimotom takeuchi c yamadam tabata s complete genome structure
+of the nitrogen fixing symbiotic bacterium mesorhizobium loti dna research
+ – doi dnares 
+
+kennedy n brodie e connolly j clipson n impact of lime nitrogen and plant
+species on bacterial community structure in grassland microcosms environmental
+microbiology – doi j x 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org s y
+http dx doi org journal pone 
+http dx doi org s 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org gcbb 
+http dx doi org s 
+http dx doi org j biocontrol 
+http dx doi org j biocontrol 
+http dx doi org dnares 
+http dx doi org j x
+http dx doi org peerj 
+
+
+kilic ekici o yuen gy comparison of strains of lysobacter enzymogenes
+and pgpr for induction of resistance against bipolaris sorokiniana in tall fescue 
+biological control – doi j biocontrol 
+
+kuske cr ticknor lo miller me dunbar jm davis ja barns sm belnap j 
+comparison of soil bacterial communities in rhizospheres of three plant species
+and the interspaces in an arid grassland applied and environmental microbiology
+ – doi aem 
+
+lennon jt aanderud zt lehmkuhl bk schoolmaster dr mapping the niche
+space of soil microorganisms using taxonomy and traits ecology – 
+doi 
+
+liang c jesus e duncan d jackson r tiedje j balser t soil microbial
+communities under model biofuel cropping systems in southern wisconsin 
+usa impact of crop species and soil properties applied soil ecology – 
+doi j apsoil 
+
+madhaiyanm poonguzhali s senthilkumarm pragatheswari d lee js lee kc 
+ arachidicoccus rhizosphaerae gen nov sp nov a plant growth promoting
+bacterium in the family chitinophagaceae isolated from rhizosphere soil in 
+ternational journal of systematic and evolutionary microbiology – 
+doi ijs 
+
+mao y li x smyth e yannarell a mackie r enrichment of specific bacte 
+rial and eukaryotic microbes in the rhizosphere of switchgrass panicum virga 
+tum l through root exudates environmental microbiology reports – 
+doi 
+
+mao y yannarell a davis s mackie r impact of different bioenergy crops on
+n cycling bacterial and archaeal communities in soil environmental microbiology
+ – doi j x 
+
+mao y yannarell a mackie r changes in n transforming archaea and bac 
+teria in soil during the establishment of bioenergy crops plos one e 
+doi journal pone 
+
+martinm cutadapt removes adapter sequences from high throughput sequencing
+reads embnet journal – doi ej 
+
+mcdonald d price mn goodrich j nawrocki ep desantis tz probst a andersen
+gl knight r hugenholtz p an improved greengenes taxonomy with
+explicit ranks for ecological and evolutionary analyses of bacteria and archaea the
+isme journal – doi ismej 
+
+mielke pw meteorological applications of permutation techniques based on dis 
+tance functions in krishnaiah pr sen pk eds handbook of statistics nonparametric
+methods amsterdam north holland – 
+
+nandasena kg o’hara gw tiwari rp willems a howieson jg mesorhizo 
+bium australicum sp nov and mesorhizobium opportunistum sp nov isolated
+from biserrula pelecinus l in australia international journal of systematic and
+evolutionary microbiology – doi ijs 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org j biocontrol 
+http dx doi org aem 
+http dx doi org 
+http dx doi org j apsoil 
+http dx doi org ijs 
+http dx doi org 
+http dx doi org j x
+http dx doi org journal pone 
+http dx doi org ej 
+http dx doi org ismej 
+http dx doi org ijs 
+http dx doi org peerj 
+
+
+park jh kim r aslam z jeon co chung yr lysobacter capsici sp nov 
+with antimicrobial activity isolated from the rhizosphere of pepper and emended
+description of the genus lysobacter international journal of systematic and evolu 
+tionary microbiology – doi ijs 
+
+reichenbach h the genus lysobacter the prokaryotes new york springer 
+ – 
+
+rodrigues rr moon j zhao b williamsma microbial communities and
+diazotrophic activity differ in the root zone of alamo and dacotah switchgrass
+feedstocks gcb bioenergy – doi gcbb 
+
+rodrigues rr pineda rp barney jn nilsen et barrett je williamsma plant
+invasions associated with change in root zone microbial community structure and
+diversity plos one e doi journal pone 
+
+shade a handelsman j beyond the venn diagram the hunt for a core micro 
+biome environmental microbiology – doi j x 
+
+souza r ambrosini a passaglia lm plant growth promoting bacteria as
+inoculants in agricultural soils genetics and molecular biology – 
+doi s 
+
+trabelsi d mhamdi r microbial inoculants and their impact on soil microbial
+communities a review biomed research international article 
+doi 
+
+turner t ramakrishnan k walshaw j heavens d alstonm swarbreck d osbourn
+a grant a poole p comparative metatranscriptomics reveals kingdom level
+changes in the rhizosphere microbiome of plants the isme journal – 
+doi ismej 
+
+van de poel b van der straeten d aminocyclopropane carboxylic acid
+ acc in plants more than just the precursor of ethylene frontiers in plant science
+ doi fpls 
+
+weir bs turner sj silvesterwb park dc young jm unexpectedly di 
+verse mesorhizobium strains and rhizobium leguminosarum nodulate native
+legume genera of new zealand while introduced legume weeds are nodulated by
+bradyrhizobium species applied and environmental microbiology – 
+doi aem 
+
+werling bp dickson tl isaacs r gaines h gratton c gross kl liere h malmstrom
+cm meehan td ruan l robertson ba robertson gp schmidt tm schroten 
+boer ac teal tk wilson jk landis da perennial grasslands enhance
+biodiversity and multiple ecosystem services in bioenergy landscapes proceedings
+of the national academy of sciences of the united states of america – 
+doi pnas 
+
+yin h detection methods for the genus lysobacter and the species lysobacter
+enzymogenes in biological sciences lincoln university of nebraska 
+
+zhao y auxin biosynthesis and its role in plant development annual review of
+plant biology – doi annurev arplant 
+
+rodrigues et al peerj doi peerj 
+
+https peerj com
+http dx doi org ijs 
+http dx doi org gcbb 
+http dx doi org journal pone 
+http dx doi org j x
+http dx doi org s 
+http dx doi org 
+http dx doi org ismej 
+http dx doi org fpls 
+http dx doi org aem 
+http dx doi org pnas 
+http dx doi org annurev arplant 
+http dx doi org peerj 
+
+

@@ -1,0 +1,1193 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+locality or habitat exploring predictors of biodiversity in amazonia
+
+
+www ecography org
+
+ecography
+
+ecography
+
+ 
+
+––––––––––––––––––––––––––––––––––––––––
+© the authors this is an online open article
+this is an open access article under the terms of the creative commons 
+attribution license which permits use distribution and reproduction in any 
+medium provided the original work is properly cited 
+
+subject editor miguel araújo 
+editor in chief miguel araújo 
+accepted may 
+
+ – 
+doi ecog 
+
+doi ecog – 
+
+amazonia is an environmentally heterogeneous and biologically megadiverse region 
+and its biodiversity varies considerably over space however existing knowledge on 
+amazonian biodiversity and its environmental determinants stems almost exclusively 
+from studies of macroscopic above ground organisms notably vertebrates and trees 
+in contrast diversity patterns of most other organisms remain elusive although some 
+of them for instance microorganisms constitute the overwhelming majority of taxa 
+in any given location both in terms of diversity and abundance here we use dna 
+metabarcoding to estimate prokaryote and eukaryote diversity in environmental soil 
+and litter samples from survey plots in a longitudinal transect across brazilian 
+amazonia using s and s gene sequences respectively we characterize richness 
+and community composition based on operational taxonomic units otus and test 
+their correlation with longitude and habitat we find that prokaryote and eukaryote 
+otu richness and community composition differ significantly among localities and 
+habitats and that prokaryotes are more strongly structured by locality and habitat type 
+than eukaryotes our results provide a first large scale mapping of amazonian soil 
+biodiversity suggesting that otu richness patterns might follow substantially differ 
+ent patterns from those observed for macro organisms and indicate that locality 
+and habitat factors interact in determining otu richness patterns and community 
+composition this study shows the potential of dna metabarcoding in unveiling 
+amazonia’s outstanding diversity despite the lack of complete reference sequence 
+databases for the organisms sequenced 
+
+keywords biodiversity gradient metabarcoding operational taxonomic units otus 
+
+background
+
+the amazon drainage basin amazonia has the highest biodiversity of all tropical rain 
+forests and is a global biodiversity hotspot hansen et al however large areas of 
+amazonia are severely understudied and a major proportion of its biodiversity remains 
+
+locality or habitat exploring predictors of biodiversity in 
+amazonia
+
+camila d  ritter alexander zizka christopher barnes r henrik nilsson fabian roger 
+and alexandre antonelli
+
+c d ritter http orcid org camila ritter bioenv gu se a zizka r h nilsson and a antonelli gothenburg global 
+biodiversity centre göteborg sweden and dept of biological and environmental sciences univ of gothenburg göteborg sweden aa also at gothenburg 
+botanical garden göteborg sweden and dept of organismic and evolutionary biology harvard univ cambridge ma usa – c barnes natural 
+history museum of denmark univ of copenhagen copenhagen denmark – f roger http orcid org centre for environmental 
+and climate research lund univ lund sweden 
+
+this is an open access article under the terms of the creative commons attribution license which permits use distribution and reproduction in 
+any medium provided the original work is properly cited 
+
+research
+
+
+
+ 
+
+poorly characterized despite the gaps in our understanding 
+of amazonian biodiversity some broad scale patterns have 
+been identified 
+
+on a large scale a west to east diversity gradient 
+from highly diverse areas on the andean slopes in west 
+ern amazonia towards relatively less diverse areas on the 
+guiana shield and the eastern amazonian lowlands has been 
+observed in many animal and plant groups ter steege et al 
+ bass  et  al hoorn  et  al zizka  et  al 
+ the drivers for this gradient remain elusive but have 
+been attributed to bedrock geology tuomisto et al 
+historical processes including mountain and basin forma 
+tion hoorn  et  al marine incursions bates 
+lovejoy et al antonelli et al and soil fertility 
+ moran et al 
+
+on a finer scale distinct vegetation types play a major role 
+in structuring the distribution of plant and animal species 
+
+throughout amazonia these vegetation habitat types are 
+closely linked to soil characteristics flooding regime and 
+nutrient availability the four most widespread and important 
+habitat types are unflooded terra firme forests considered 
+the most biodiverse habitat type are generally characterized 
+by latosols falesi fig d várzeas fertile forests 
+that are seasonally flooded by nutrient rich white water riv 
+ers up to d yr– junk et al fig c igapós 
+less fertile forests that are seasonally flooded by nutrient 
+poor black water rivers junk  et  al fig f and 
+the naturally open areas which are forest free ‘islands’ in the 
+‘sea’ of forest dominated by grasses and shrubs campinas or 
+low canopy forest fine et al fig e terra firme for 
+ests cover the majority of amazonia in terms of area whereas 
+várzeas and igapós jointly cover between – peres 
+and naturally open areas around these four habitat 
+types support distinct communities of plants and animals 
+
+figure  sampling locations and major vegetation types in amazonia surveyed in this study map constructed with qgis the 
+sampling was designed to cover a wide longitudinal range in amazonia as well as all main habitat types a map with the main sampling 
+localities bc benjamin constant jau jaú cui cuieras and cxn caxaiuanã b the amazon drainage basin c várzea sea 
+sonally flooded forest from benjamin constant detail of water mark at ca m height d terra firme forest from benjamin constant 
+detail of highly diverse understorey vegetation e campina white sand areas from campina’s reserve detail of exposed white sand soil 
+and low vegetation cover and f igapó seasonally dry water streams from cuieras reserve detail showing less diverse understory 
+vegetation 
+
+
+
+ 
+
+and are often associated with differences in species richness 
+and community composition 
+
+the biodiversity patterns described for amazonia have 
+been deduced from large organisms such as birds mammals 
+and trees bass et al hoorn et al zizka et al 
+ in contrast we known very little about the ‘hid 
+den biodiversity’ of inconspicuous but species rich micro 
+organisms such as fungi nematodes and bacteria but see 
+bates et al peay et al lentendu et al 
+mahé et al this is problematic because these groups 
+likely comprise the vast majority of biodiversity in terres 
+trial ecosystems mora et al and play pivotal roles in 
+nutrient cycles and ecosystem functioning dominati et al 
+ this lack of basic understanding of biodiversity pat 
+tern is not only problematic from a scientific perspective 
+but may also compromise the effectiveness of conservation 
+strategies and hinder the sustainable development of 
+amazonia 
+
+the scarce knowledge of the majority of amazonian 
+biodiversity is mostly due to difficulties in sampling of 
+and taxonomic identification in these groups notably 
+insects fungi nematodes and bacteria high throughput 
+dna sequencing methods overcome many of the present 
+challenges to studying biodiversity biggs et al in 
+particular metabarcoding taberlet  et  al allows 
+quantification of genetic and to a certain degree taxo 
+nomic diversity of a locality without the need to spend 
+years collecting and examining specimens gibson  et  al 
+ even in highly diverse and poorly sampled environ 
+ments such as tropical rainforests – areas for which refer 
+ence sequence databases are very thinly populated – the 
+use of operational taxonomic units otus blaxter  et  al 
+ defined on the basis of sequence similarity makes 
+the assessment and comparison of biodiversity across sites 
+possible balmford and whitten giam et al 
+stahlhut et al 
+
+in this study we investigate patterns in genetic soil and 
+litter diversity on a west to east transect across brazilian 
+amazonia along the amazon river we analyse environmen 
+tal dna through metabarcoding using ribosomal s pro 
+karyote and s eukaryote gene sequences as proxies to 
+provide one of the first large scale biodiversity assessments 
+across amazonia specifically we test two hypotheses on cor 
+relations of otu richness and community structure from 
+study plots 
+
+hypothesis – microorganism otu richness is similar 
+to the patterns previously documented for vertebrates and 
+plants decreasing in richness from west to east throughout 
+amazonia at the finer level richness is determined by habitat 
+type with a gradient related to low stress level and high nutri 
+ent availability terra firme várzea igapó campinas 
+
+hypothesis – otu community structure is linked to 
+geographic vicinity such that community similarity decreases 
+with geographic distance as observed in vertebrates otu 
+community structure reflects habitat type and is more similar 
+within than among habitat types 
+
+material and methods
+
+sampling localities
+
+we sampled plots at four localities across a large longi 
+tudinal range in brazilian amazonia fig the field 
+work took place between th and th of november 
+localities were selected to maximize geographic distance and 
+the number of habitat types terra firme igapós várzeas and 
+campinas the locations are a benjamin constant bc 
+– a municipality near the border of brazil colombia and 
+peru situated approximately  km west of manaus at the 
+upper amazonas river °s °w this region is 
+accessible by boat only and is characterized by a low human 
+population density and relatively low rates of deforesta 
+tion the region is situated in the southern margin of the 
+amazon river and supports large areas of várzeas terra firme 
+and some igapó forests b jaú jau – a national park that 
+encompasses an area of     ha it is located on the 
+lower rio negro °s °w  km northwest 
+of manaus about of the forested area is covered by 
+terra firme forest borges et al there is considerable 
+heterogeneity in local plant communities in the terra firme 
+forests due to soil mosaics in the region this heterogene 
+ity might also be related to human disturbance ferreira and 
+prance approximately is covered by igapó for 
+ests jaú also includes novo airão °s °w a 
+site with campinas of low shrubby vegetation with only few 
+trees reaching above m in height these open areas are close 
+to the road am and are thus subject to relatively high 
+anthropogenic influences c reserva do cuieras cui and 
+reserva da campina cui – reserva do cuieras is a nature 
+reserve covering ha and it is located about  km north 
+of manaus °s °w the vegetation is a mosaic 
+of evergreen forest with a canopy height of about – m 
+with emergent trees over m tall igapós and campinaranas 
+cover of the area whereas terra firme forests occupy 
+ zanchi et al reserva da campina is a nature reserve 
+located  km north of manaus °s °w on the 
+right side of the negro river it covers approximately  ha 
+of which ha is campinas and campinaranas the campinas 
+ ha are mosaics of shrub islands surrounded by white 
+bare sandy soil with a canopy height of about – m d 
+caxiuanã cxn – a national forest of   ha of rain 
+forest located  km west of belém °s °w 
+in the lower amazon region of northern brazil about 
+of the area is covered by terra firme forest and about 
+by várzea and igapó forests but this reserve also has some 
+campinas behling and costa 
+
+sampling design
+
+we installed three temporary circular plots with a m 
+radius in each habitat type at each locality totalling plots 
+ at bc jau and cui and at cxn following the soil 
+sampling protocol of tedersoo et al inside each plot 
+
+
+
+ 
+
+we selected trees at random and collected litter samples 
+and two soil cores in opposite directions of each tree sum 
+ming to a total of litter and soil samples per plot we 
+pooled all samples to obtain one litter and one soil sample for 
+each plot litter was defined as all organic material above the 
+mineral soil and varied from to ca  cm in thickness we 
+collected the soil samples from the top  cm of the mineral 
+soil using a metal probe with a   cm diameter we used 
+gloves and masks and changed equipment in between each 
+new plot to reduce the risk of cross plot contamination the 
+samples were stored in sterilized white silica gel – mm 
+ pre treated by two minutes of microwave heating w 
+and min of uv light all plots were provided with gps 
+coordinates all dry samples were processed at the univ of 
+gothenburg sweden 
+
+dna extraction
+
+for total dna extraction we used the powermaxÒ soil dna 
+isolation kit mo bio laboratories usa according to the 
+manufacturer’s instructions we use g dry weight from 
+all soil samples and  ml of the litter samples correspond 
+ing to – g of dry weight litter depending on texture and 
+composition in that we standardized the samples by volume 
+each dna sample was concentrated and cleaned following 
+the powermaxÒ soil dna isolation’s instructions mo bio 
+laboratories usa 
+
+pcr amplification
+
+ s we targeted the v v region bases of the s 
+rrna gene using the forward primer ¢ cctacgggn 
+ggcwgcag ¢ and reverse primer ¢ gactach 
+vgggtatctaatcc ¢ from klindworth  et  al 
+the amplification and sequencing was done by macrogen 
+ republic of korea following standard protocols using the 
+illumina miseq × platform 
+
+ s we targeted the v region of the s rrna gene 
+using the forward and reverse primers ¢ tttgtctg 
+sttaattscg ¢ and ’ tcacagacctgttattgc ’ 
+designed by guardiola et al to yield – bases 
+long fragments amplification was performed in a total 
+volume of μl and consisted of μl of amplitaq 
+gold dna polymerase u μl– μl pfu polymerase buf 
+fer ×   μl dntp final concentration of each dntp 
+ µmol all above mentioned reagents are from promegaÒ 
+sweden μl of mol of forward and reverse primers 
+  μl of nuclease free water and μl of dna template 
+the pcr conditions were an initial denaturation step of 
+ min at °c and then cycles of denaturation at °c 
+for min hybridization at °c for s and elongation at 
+ °c for min followed by a final elongation at °c for 
+ min and finishing at °c each sample was amplified 
+three times and pooled to reduce biases of amplification 
+efficiency variation on different species and stochastic effects 
+of amplification carew et al edgar piñol et al 
+ the quality of the amplification was checked in 
+
+uv light using gelredtm stain biotium usa on 
+a agarose gel all samples were purified using the 
+qiaquickÒ pcr purification kit dual pcr amplifications 
+were performed for illumina miseq sequencing illumina 
+usa using fusion primers as described in bourlat  et  al 
+ for indexing we used the nextera xt dna index 
+kit illumina usa according to the manufacturer’s instruc 
+tions we checked the quality of the pcr products on a 
+agarose gel we then made size selection using magnetic 
+beads and a magnetic stand using the ratio beads pcr 
+product we checked the dna concentration in a qubit 
+ Ò fluorimeter invitrogen sweden and we assessed the 
+quality and size selection of the pcr products with a 
+agilent tapestationÒ agilent usa we normalized 
+and pooled the pcr product with the same concentration 
+following the illumina protocol the samples were sequenced 
+at scilifelab stockholm sweden using an illumina miseq 
+ × machine 
+
+sequence analyses and taxonomic assessment
+
+we used the usearch uparse ver illumina 
+paired reads pipeline edgar to quality filtering de 
+replicate and sort reads by abundance to infer otus and 
+to remove singletons we filtered the sequences to discard 
+chimeras and clustered sequences into otus at a minimum 
+similarity of using a ‘greedy’ algorithm that performs 
+chimera filtering and otu clustering simultaneously edgar 
+ we used silvangs quast et al for assess 
+ment of the taxonomic composition of the otus using a 
+representative sequence from each otu as query sequence 
+we used the sina ver reference data for arb svn 
+ revision pruesse et al for both markers 
+
+statistical analyses
+
+we performed all statistical analyses in r ver r 
+development core team we pooled the litter and soil 
+otus from each plot for all analyses as our goal was to 
+address general diversity patterns and not to compare the 
+otu composition from different substrates we used the 
+stringr ver wickham and tidyverse ver 
+ wickham packages for data curation and the ggplot 
+ver wickham ggfortify ver tang and 
+li gplots ver warnes  et  al gridextra 
+ver auguie and antonov qgraph ver 
+ epskamp et al and viridis ver garnier 
+packages for data visualization scripts for all analyses are pro 
+vided in supplementary material appendix 
+
+we rarefied all samples to equal depth where the depth 
+was determined by the lowest number of reads obtained 
+from a single plot   for s and   for s 
+supplementary material appendix fig a we subse 
+quently transformed the otu tables to presence absence for 
+both prokaryote s and eukaryote s data read abun 
+dances have been shown to be largely unreliable especially 
+for the s marker due to the large variance in biomass of the 
+
+
+
+ 
+
+study organisms e g protozoa vs trees carew et al 
+deagle et al additionally both the s and the s 
+genes are multicopy genes and hundreds of s copies per 
+cell are known from some eukaryotes lindner et al 
+
+to test hypothesis we fitted a two way anova model 
+with longitude and habitat as predictors and prokaryote s 
+and eukaryote s otu richness as response variables 
+respectively we fitted a two way anova model with local 
+ity and habitat as predictors and performed a tukey honest 
+significance test to evaluate the significance of among group 
+differences we furthermore performed a general linear 
+model considering habitat interaction with longitude and 
+the effect on taxonomic groups glmm richness habitat × 
+longitude taxa 
+
+to test hypothesis we performed a permutational mul 
+tivariate analysis of variance permanova test using 
+habitat and longitude as predictors and dissimilarity matrices 
+using jaccard index of prokaryote s and eukaryote s 
+otus as response variables respectively using the ‘vegan’ 
+package ver oksanen et al in r additionally 
+we constructed two dimensional non metric multidimen 
+sional scaling nmds ordinations of the presence absence 
+matrices of prokaryote s and eukaryote s data 
+using the jaccard dissimilarity index as implemented in the 
+metamds function in the vegan package to analyse commu 
+nity dissimilarity among all samples we then used the ‘envfit’ 
+method implemented in vegan to fit locality and environ 
+mental type onto the nmds ordination as a measure of the 
+correlation of these factors with the nmds axes we tested 
+the isolating effect of distance with a mantel test and visual 
+ized the otu community similarity among plots with the 
+‘qgraph’ function in r using a similarity index jaccard dis 
+similarity furthermore we performed variation partitioning 
+on the prokaryote s and eukaryote s communities 
+to investigate the compositional effects of changing habitat 
+and locality variation partitioning resolves the contribu 
+tion of habitat and locality to the total community variation 
+ legendre and legendre but also resolves the variation 
+shared between factors i e shared between both habitat and 
+locality we used the ‘varpart’ function of the vegan package 
+and assessed the significance for each section of the varia 
+tion partitioning approach using redundancy analysis we 
+analysed the community matrix in models against habitat 
+locality or both together as explanatory variables we finally 
+constructed venn diagrams with the ‘gplots’ package in r to 
+check the number of exclusive and shared otu as a comple 
+ment of community structure 
+
+data deposition
+
+dna sequences biosample accessions samn 
+samn ncbi sra prjna bioproject 
+ final dna sequence assembly uploaded as 
+supplementary material sampling locations soil physical 
+chemical data otu tables and r scripts are available from 
+the dryad digital repository http dx doi org 
+dryad hv b ritter et al 
+
+results
+
+we obtained a total of     reads and otus for 
+prokaryotes s and     reads and   otus 
+for eukaryotes s see supplementary material appendix 
+ table a for the number of sequences and otus for each 
+plot see also supplementary material appendix fig a 
+for rarefaction otu number by plot after rarefaction the 
+correlation between prokaryote s and eukaryote s 
+otu richness was weak overall and absent if considering 
+each locality separately with just the cui location correlat 
+ing significantly supplementary material appendix fig a 
+and a 
+
+taxonomic composition
+
+the taxonomic composition of the prokaryote component 
+shows that the groups with the highest number of otus 
+were proteobacteria of the taxa identified in our 
+samples equivalent to about otus per habitat and 
+locality most of which belonged to alphaproteobacteria 
+fig a and b and cloroflexi average otus 
+fig a and b for eukaryotes the group with the highest 
+number of otus was fungi otus mainly 
+ascomycota and basidiomycota fig c and d fol 
+lowed by cercozoa otus fig c and d 
+and alveolata otus fig c and d most 
+of the eukaryotic otus for all taxa were relatively ‘range 
+restricted’ occurring in less than five plots in contrast pro 
+karyote otus were generally widespread across many plots 
+ supplementary material appendix fig a and a due 
+to the small replicate number plots in relation to the 
+number of taxonomic groups we did not explicitly test the 
+patterns of richness or the community composition for hab 
+itat types or locality for each taxonomic group on the otu 
+level however based on a qualitative visual inspection of 
+the results we did not observe any difference in taxonomic 
+composition by locality and habitat for neither prokary 
+otes s nor eukaryotes s the general linear model 
+to assess the effect of habitat and longitude by taxonomic 
+groups was non significant p for both prokaryotes 
+and eukaryotes 
+
+hypothesis – otu richness by locality and habitat
+
+we found a significant effect of longitude on otu richness 
+for prokaryotes f p the highest mean 
+otu richness for prokaryotes s was found in bc 
+otus followed by cxn and jau and 
+the lowest was found in cui the analysis of vari 
+ance showed a significant effect of locality f 
+p  the tukey hsd test showed a significant pair 
+wise difference between bc and all other locations as well as 
+between cxn and cui concerning habitat type the mean 
+otu number was the highest in várzeas followed 
+by campinas terra firmes and finally igapós 
+ the analysis of variance showed a significant effect 
+
+
+
+ 
+
+of habitat type f p on the prokaryote 
+ s otu richness fig a the tukey hsd test showed 
+a significant difference in otu richness between campinas 
+and both igapós and terra firme 
+
+we found the mean otu richness per locality for eukary 
+otes s to be comparable with that of the prokaryotes 
+ fig b the largest otu richness was found in bc 
+followed by cxn jau and cui we 
+found no significant effect of either longitude f 
+p or locality f p the habitat type 
+with the highest mean number of otus was campinas 
+ followed by várzeas terra firmes and 
+finally igapós we found no significant effect of habi 
+tat type f p 
+
+hypothesis – otu community structure by location 
+and habitat
+
+the permanova results showed a significant effect 
+for habitat s r p s r 
+p and longitude s r p s 
+ r p for both the prokaryote s and 
+the eukaryote s communities variation partitioning also 
+identified significant proportions of both prokaryote s 
+and eukaryote s communities varying with habitat and 
+locality but with no shared variation between them about 
+ of the full prokaryote s community variation was 
+explained by the analysis with contributed by habi 
+tat and by locality a lower percentage of the total 
+
+figure  taxonomic composition of otu communities the total number of otus by taxonomic groups for a habitat and b locality 
+for prokaryotes and c habitat and d locality for eukaryotes localities are bc benjamin constant jau jaú cui cuieras and cxn 
+caxiuanã habitats are cam campinas ig igapós tf terra firmes and vz várzeas inset schematic position of each locality with 
+the brown line representing the amazon river and the black line the negro river there is no clear taxonomic variation among groups by 
+locality or habitat type in either the prokaryote or the eukaryote data 
+
+
+
+ 
+
+community variation was explained in the eukaryote s 
+analysis with habitat still explaining a larger propor 
+tion of the community variation than did locality 
+ 
+
+the similarity network analysis fig reveals a stron 
+ger more aggregated community structure for prokaryotes 
+ fig a coloured by locality and fig b coloured by habitat 
+type than for eukaryotes fig c coloured by locality and 
+fig d coloured by habitat type plots with highest simi 
+larity occurred inside the same locality and habitat in both 
+prokaryote and eukaryote communities bc clustered tightly 
+together and distinctly from the other localities the results 
+of the nmds show similarity in community composition 
+among the plots and the influence of locality and environ 
+mental type the envfit test indicated significant effects of 
+locality on both the prokaryote r p and 
+eukaryote r p communities the envfit 
+test also indicated a significant effect for habitat type on the 
+
+prokaryote r p and eukaryote r 
+p communities 
+
+the venn diagrams show the number of unique and 
+shared otus for each locality fig a for s and 
+fig c for s the bc location had the highest number 
+of unique otus s s followed by cxn 
+ s s jau s s 
+and cui s s for both eukaryotes 
+ s and prokaryotes s for both these groups the 
+localities with the highest number of shared otus were 
+bc and cxn s s followed by jau and 
+cui s s the venn diagrams also show 
+the number of unique and shared otus for each habitat 
+ fig b for s and fig d for s the lowest number of 
+unique otus was found in várzeas s s 
+followed by igapós s s the habi 
+tat with the highest number of unique otus was campi 
+nas for prokaryotes and terra firme for eukaryotes 
+
+figure  otu richness per locality and habitat type colours indicate habitat type cam campinas ig igapó tf terra firme and vz 
+várzea locations are ordered from west to east bc benjamin constant jau jaú cui cuieras and cxn caxiuanã large circles are 
+the median and small circles are the number of otus per plot a prokaryotes s b eukaryotes s note the difference in the range 
+of values on the y axis inset schematic position of each locality with the brown line representing the amazon river and the black line the 
+negro river these results indicate that otu richness varies significantly with location and habitat type in s with higher richness in bc 
+and in campinas this effect is not observed for the s data 
+
+
+
+ 
+
+ the várzeas and igapós shared the largest number of 
+otus s s followed by terra firmes and 
+campinas s s 
+
+discussion
+
+here we provide a first mapping of amazonian biodiversity 
+that considers not only macroscopic organisms but also the 
+microscopic microbial component across a large geographic 
+scale we found that prokaryote s and eukaryote s 
+
+otu richness and community composition differ signifi 
+cantly among localities and habitats with habitat type being 
+a stronger predictor of diversity and community composition 
+than locality 
+
+contrasting prokaryote and eukaryote diversity
+
+the weak correlation found between prokaryotes s and 
+eukaryotes s otus indicates that richness patterns 
+may be different between the two groups previous reports 
+found that localities with high bacterial diversity can have 
+
+figure  otu community similarity network the sizes of the green lines are proportional to the similarity index the nodes are coloured 
+by a localities for prokaryotes s and c localities for eukaryotes s the formats of nodes show different habitat types in b 
+prokaryotes s and d eukaryotes s orange circles campinas blue triangles igapós green squares terra firme forest and yel 
+low lozenges várzeas inset schematic position of each locality with the brown line representing the amazon river and the black line the 
+negro river the prokaryotes s are more structured by locality and habitat than are the eukaryotes s 
+
+
+
+ 
+
+relatively low levels of plant diversity barthlott et al 
+in south eastern brazilian amazonia vast areas have been 
+converted for agricultural use and those areas are notably 
+poor in animal and plant diversity surprisingly some of 
+they have been shown to have higher bacterial diversity 
+than natural areas mendes et al taken together our 
+results add to current evidence that prokaryote and eukary 
+ote diversity may be largely decoupled and indicate that it 
+would be inadequate to use one group as a proxy of diversity 
+for the other 
+
+determinants of amazonian diversity
+
+our results show that the otu community composition 
+reflects locality and habitat type whereas otu richness 
+reflects locality and habitat type only for the prokaryote s 
+parts of our data this was to some extent expected as locali 
+ties with different otu community composition can still 
+be similar in terms of overall otu richness furthermore 
+all localities and habitat types were found to have a large 
+numbers of unique otus our results show both local 
+ity and habitat types to be important factors in explaining 
+
+amazonia’s diversity distribution with habitat type being the 
+strongest factor 
+
+contrary to our expectations based on studies of macro 
+organisms we did not find a significant linear gradient 
+of eukaryote s otu richness from west to east in 
+amazonia although a trend could be observed fig in 
+contrast we did find a significant negative effect in longitude 
+with respect to prokaryote s otu richness the rich 
+ness pattern of localities for both prokaryotes and eukaryotes 
+was bc cxn jau cui in the community analy 
+ses we found a grouping between bc and cxn and another 
+between jau and cui in the prokaryote data we obtained 
+a similar result for s although the signal was less clear 
+bc and cxn also had the largest number of shared otus 
+these patterns were expected even though bc is localized in 
+western amazonia and cxn is situated in the easternmost 
+part of our sampling design representing the extremes of our 
+longitudinal gradient both these two localities are bathed by 
+rich sediments from a white waters the amazon river in bc 
+and baía de caxiuanã in cxn which is part of the former 
+anapu river ferreira et al water type is suggested 
+as an important factor structuring amazonia’s biodiversity 
+
+figure  venn diagrams the number of exclusive and shared otus in a localities for s b habitat types for s c localities for 
+ s and d habitat types for s for localities the highest number of shared otus is determined mainly by the kind of water of the 
+main basin white water bc and cxn and black water jau and cui inset schematic position of each locality with the brown line 
+representing the amazon river and the black line the negro river for habitat type the non flooded habitat shares the highest number of 
+otus terra firme and campinas followed by flooded forest igapós and várzeas for both prokaryotes and eukaryotes 
+
+
+
+ 
+
+ wittmann et al with white water basins being gen 
+erally more diverse than black water basins furthermore bc 
+and cxn are the only localities with várzea which is the envi 
+ronment with the highest otu richness all these factors are 
+likely responsible for the higher otu richness and the com 
+position similarity between bc and cxn bc and cxn are 
+also the localities with the highest number of unique otus 
+which could emphasize their importance under conserva 
+tion strategies in contrast both jau and cui are bathed by 
+acidic sediment poor rivers which is characteristic of both 
+the negro jau and cuieras cui rivers 
+
+we found different richness patterns across the environ 
+mental types surveyed based on previously documented pat 
+terns for macro organisms we expected richness to decrease in 
+the order terra firme várzea igapó campina therefore 
+it was surprising to observe várzea campina terra firme 
+igapó for prokaryotes and campina várzea terra firme 
+igapó for our eukaryote dataset várzeas are considered to be a 
+stressful environment for many organisms with long periods 
+of flooding but they have fertile soils that could explain the 
+more substantial otu richness our finding that campinas 
+was the richest habitat for eukaryotes and the second rich 
+est for prokaryotes is puzzling campinas are nutrient poor 
+ prance fine et al with scleromorphic physi 
+ognomy anderson and are relatively low in diversity 
+of macro organisms wüster et al smith et al 
+the third place in richness was held by terra firme we found 
+this to be at least as unexpected given that terra firmes are 
+by far the most predominant vegetation type in the amazon 
+basin since the beginning of the miocene and contains a very 
+high macro organismal diversity jaramillo et al irion 
+and kalliola however such high documented rich 
+ness could in part be an effect of the disproportionately larger 
+area of terra firmes as compared to the other habitat types – 
+an effect that should not be evident in our sampling design 
+interestingly the várzeas and igapós are more similar to each 
+other in terms of community composition despite their dif 
+ferences in otu richness which could be related to similar 
+environmental filters linked to stress by flooding potentially 
+favouring a shared set of specialized organisms the com 
+munity similarity between campinas and terra firmes might 
+be linked to the fact that campinas often are small ‘islands’ 
+within large ‘seas’ of terra firme forest and in this way these 
+campinas may receive dna from the surrounding forests 
+ from e g leaves insects and fungal spores in addition to 
+their specific ‘specialized’ otu community 
+
+most eukaryotic s otus were restricted to few plots 
+ supplementary material appendix fig a with the 
+majority restricted to one habitat or one locality we found 
+the number of unique site specific prokaryote otus to 
+decrease in the sequence campinas terra firmes igapós 
+várzeas whereas for eukaryotes the pattern was terra firmes 
+ campinas igapós várzeas these patterns differs mark 
+edly from the results of our richness analyses if we were 
+to consider only richness as a conservation priority várzeas 
+would be the most important habitat type but if we were to 
+
+preserve the most unique environment instead várzeas would 
+have been the least important habitat although these results 
+should be viewed with some caution not least for the tiny 
+sample they represent out of the enormous region covered 
+they showcase the difficulties in prioritizing conservation 
+areas based on single metrics orme et al 
+
+taxonomic composition
+
+the taxonomic resolution of metabarcoding data is limited 
+by the availability of comprehensive reference databases 
+ cowart  et  al such databases are generally meagre 
+with respect to amazonian biodiversity even for well studied 
+ e g trees balmford and whitten giam et al 
+this reduces our ability to identify many of the otus to 
+resolved taxonomic levels in particular those from less stud 
+ied group of organisms e g platyhelminthes and alveolata 
+a further complication with metabarcoding is the compro 
+mise between taxonomic coverage and taxonomic resolution 
+while the universal s primers can capture the majority of 
+eukaryotic organisms this gene is not variable enough to dis 
+tinguish all eukaryotes at the species level hartmann et al 
+ lindahl et al in addition since most amplicon 
+studies target only a part of the s e g bases as in this 
+study rather than its full length bases the available 
+information and resolution are further decreased this means 
+that for most plants family level designations are usually the 
+most resolved level of taxonomic composition possible using 
+ s fragments for many insects and fungi the precision may 
+be at the order level lindahl et al liu et al 
+
+the lower the taxonomic level considered the more 
+idiosyncratic will its distribution generally be adding hetero 
+geneity to general diversity patterns for instance bass et al 
+ found a west to east diversity gradient for amazonian 
+mammals but this gradient was not observed by maestri and 
+patterson using a lower taxonomic level rodents 
+looking at individual otus in our data we found striking dif 
+ferences in richness and community composition across sites 
+when otus were collapsed into high taxonomic groups such 
+as orders and phyla these differences were less pronounced 
+ supplementary material appendix fig a and a 
+
+conclusions
+
+the broad taxonomic coverage of s and s together 
+with the standardised sampling extraction and sequencing 
+approaches applied here allowed us to directly compare bio 
+diversity patterns across a large spatial range in amazonia we 
+stress the importance of considering the ‘hidden biodiversity’ 
+ microscopic subterranean or otherwise inconspicuous spe 
+cies to characterize a larger proportion of the total diversity 
+patterns we detected a different habitat gradient from what 
+we expected initially but as expected we found a longitudinal 
+gradient for otu richness hypothesis and community 
+composition hypothesis furthermore we found habitat 
+to be the strongest predictive factor of biodiversity a pattern 
+
+
+
+ 
+
+that was particularly strong for the prokaryote communities 
+our results show that the currently accepted diversity patterns 
+in amazonia do not hold for all organisms which suggests 
+that biodiversity patterns of different groups of organisms 
+may be largely decoupled we also found different patterns 
+between richness and uniqueness of otus across sites and 
+environmental types showing the pitfalls in choosing single 
+biodiversity metrics for prioritizing conservation areas 
+
+acknowledgements – we thank anna ansebo sven toresson and 
+ylva heed for laboratory and administrative assistance mats töpel 
+for help with bioinformatics quiterie haenel for help in the 
+extractions and discussion on the begin of project hans ter steege 
+for advice on sampling localities and experimental design and 
+members of our research group for discussions and suggestions the 
+authors also acknowledge support from science for life laboratory 
+the knut and alice wallenberg foundation the national genomics 
+infrastructure funded by the swedish research council and uppsala 
+multidisciplinary center for advanced computational science 
+for assistance with massively parallel sequencing and access to the 
+uppmax computational infrastructure additional computational 
+analyses were run at the univ of gothenburg bioinformatics cluster 
+ http albiorix bioenv gu se we also thank leho tedersoo 
+micah dunthorn and a third anonymous review for valuables 
+suggestion on an earlier draft of this manuscript 
+funding – funding for this study was provided by from cnpq 
+ conselho nacional de desenvolvimento científico e tecnológico 
+– brazil and the swedish research council 
+ b aa is further supported by the european research 
+council under the european union’s seventh framework 
+programme fp erc grant agreement no 
+the swedish foundation for strategic research a wallenberg 
+academy fellowship the faculty of sciences at the univ of 
+gothenburg the wenner gren foundation and the david 
+rockefeller center for latin american studies at harvard univ 
+author contributions – cdr aa and rhn conceived this study 
+cdr collected the data cdr az rhn cb and fr performed 
+the analyses cdr az rhn and aa wrote the manuscript with 
+the collaboration of all authors all authors read and approved the 
+final version of the manuscript 
+conflicts of interest – the authors declare have no conflicts of interest 
+permits – the permits were provided by brazilian authorities 
+icmbio register number and ibama register number 
+ 
+
+references
+
+anderson a b white sand vegetation of brazilian 
+amazonia – biotropica – 
+
+antonelli a  et al tracing the impact of the andean uplift 
+on neotropical plant evolution – proc natl acad sci usa 
+ – 
+
+auguie b and antonov a package ‘gridextra’ – https 
+cran r project org web packages gridextra accessed 
+december 
+
+balmford a and whitten t who should pay for tropical 
+conservation and how could the costs be met – oryx 
+ – 
+
+barthlott w   et  al terminological and methodological 
+aspects of the mapping and analysis of the global biodiversity 
+– acta bot fenn – 
+
+bass m s   et  al global conservation significance of 
+ecuador’s yasuní national park – plos one e 
+
+bates j m avian diversification in amazonia evidence for 
+historical complexity and a vicariance model for a basic 
+diversification pattern – in viera i  et al eds diversidade 
+biológica e cultural da amazônia museu paraense emilio 
+goeldi belém pará brazil pp – 
+
+bates s t   et  al global biogeography of highly diverse 
+protistan communities in soil – isme j – 
+
+behling h and da costa m l holocene environmental 
+changes from the rio curuá record in the caxiuanã region 
+eastern amazon basin – quat res – 
+
+biggs j   et  al using edna to develop a national citizen 
+science based monitoring programme for the great crested newt 
+ triturus cristatus – biol conserv – 
+
+blaxter m  et al defining operational taxonomic units using 
+dna barcode data – phil trans r soc b – 
+
+borges s h   et  al birds of jaú national park brazilian 
+amazon species check list biogeography and conservation 
+– ornitol neotrop – 
+
+bourlat s j   et  al preparation of amplicon libraries for 
+metabarcoding of marine eukaryotes using illumina miseq the 
+dual pcr method – methods mol biol – 
+
+carew m e   et  al environmental monitoring using next 
+generation sequencing rapid identification of macroinverte 
+brate bioindicator species – front zool 
+
+cowart d a et al metabarcoding is powerful yet still blind 
+a comparative analysis of morphological and molecular surveys 
+of seagrass communities – plos one e 
+
+deagle b e  et al quantifying sequence proportions in a 
+dna‐based diet study using ion torrent amplicon sequencing 
+which counts count – mol ecol resour – 
+
+dominati e  et al a framework for classifying and quantify 
+ing the natural capital and ecosystem services of soils – ecol 
+econ – 
+
+edgar r c uparse highly accurate otu sequences from 
+microbial amplicon reads – nat methods – 
+
+epskamp s  et al qgraph network visualizations of relation 
+ships in psychometric data – j stat softw – 
+
+falesi i c estado atual de conhecimento dos solos da 
+amazônia brasileira – in simpósio do trópico umido belém 
+ embrapa cpatu documentos pp – 
+
+ferreira l v and prance g t ecosystem recovery in terra 
+firme forests after cutting and burning a comparison on species 
+richness floristic composition and forest structure in the jaú 
+national park amazonia – bot j linn soc – 
+
+ferreira l v   et  al riqueza e composição de espécies da 
+floresta de igapó e várzea da estação científica ferreira penna 
+subsídios para o plano de manejo da floresta nacional de 
+caxiuanã – pesquisas bot – 
+
+fine p v  et al the contribution of edaphic heterogeneity 
+to the evolution and diversity of burseraceae trees in the western 
+amazon – evolution – 
+
+garnier s viridis default color maps from ‘matplotlib’ 
+– https cran r project org web packages viridis accessed 
+ december 
+
+giam x  et al reservoirs of richness least disturbed tropical 
+forests are centres of undescribed species diversity – proc r 
+soc b – 
+
+
+
+ 
+
+gibson j  et al simultaneous assessment of the macrobiome 
+and microbiome in a bulk sample of tropical arthropods 
+through dna metasystematics – proc natl acad sci usa 
+ – 
+
+guardiola m  et al deep sea deep sequencing metabarcod 
+ing extracellular dna from sediments of marine canyons 
+– plos one e 
+
+hansen m c   et  al high resolution global maps of 
+ st century forest cover change – science – 
+
+hartmann m   et  al v xtractor an open source high 
+throughput software tool to identify and extract hypervariable 
+regions of small subunit s s ribosomal rna gene 
+sequences – j microbiol methods – 
+
+hoorn c   et  al amazonia through time andean uplift 
+climate change landscape evolution and biodiversity – science 
+ – 
+
+irion g and kalliola r long term landscape development 
+processes in amazonia – in hoorn c and wesselingh f p 
+ eds amazonia landscape and species evolution a look into 
+the past blackwell publishing pp – 
+
+jaramillo c  et al cenozoic plant diversity in the neotropics 
+– science – 
+
+junk w j   et  al the flood pulse concept in river 
+floodplain systems – can spec publ fish aquat sci 
+ – 
+
+junk w j  et al a classification of major naturally occurring 
+amazonian lowland wetlands – wetlands – 
+
+klindworth a   et  al evaluation of general s ribosomal 
+rna gene pcr primers for classical and next generation 
+sequencing based diversity studies – nucl acids res e 
+
+legendre p and legendre l numerical ecology nd 
+english ed – elsevier science 
+
+lentendu g  et al persistent patterns of high alpha and low 
+beta diversity in tropical parasitic and free living protists 
+– biorxiv 
+
+lindahl b d   et  al fungal community analysis by high‐
+throughput sequencing of amplified markers – a user’s guide 
+– new phytol – 
+
+lindner d l  et al employing amplicon pyrosequenc 
+ing to reveal intragenomic divergence in the internal transcribed 
+spacer rdna region in fungi – ecol evol – 
+
+liu s  et al soapbarcode revealing arthropod biodiversity 
+through assembly of illumina shotgun sequences of pcr 
+amplicons – methods ecol evol – 
+
+lovejoy n r  et al miocene marine incursions and marine 
+freshwater transitions evidence from neotropical fishes – j 
+south am earth sci – 
+
+maestri r and patterson b d patterns of species richness 
+and turnover for the south american rodent fauna – plos one 
+ e 
+
+mahé f   et  al parasites dominate hyperdiverse soil protist 
+communities in neotropical rainforests – nat ecol evol 
+ 
+
+mendes l w  et al soil borne microbiome linking diversity 
+to function – microb ecol – 
+
+mora c  et al how many species are there on earth and in 
+the ocean – plos biol e 
+
+moran e f   et  al effects of soil fertility and land use on 
+forest succession in amazonia – for ecol manage 
+ – 
+
+oksanen j  et al the vegan package – community ecology 
+package – 
+
+orme c d l  et al global hotspots of species richness are 
+not congruent with endemism or threat – nature 
+ – 
+
+peay k g  et al strong coupling of plant and fungal com 
+munity structure across western amazonian rainforests – isme 
+j – 
+
+peres c a primate community structure at twenty western 
+amazonian flooded and unflooded forests – j trop ecol 
+ – 
+
+piñol j   et  al universal and blocking primer mismatches 
+limit the use of high‐throughput dna sequencing for the 
+quantitative metabarcoding of arthropods – mol ecol resour 
+ – 
+
+prance g t islands in amazonia – phil trans r soc b 
+ – 
+
+pruesse e  et al sina accurate high throughput multiple 
+sequence alignment of ribosomal rna genes – bioinformatics 
+ – 
+
+qgis development team qgis geographic information 
+system – open source geospatial foundation project 
+
+quast c   et  al the silva ribosomal rna gene database 
+project improved data processing and web based tools – nucl 
+acids res d –d 
+
+ritter c d  et al data from locality or habitat exploring 
+predictors of biodiversity in amazonia – dryad digital repos 
+itory http dx doi org dryad hv b 
+
+smith b t   et  al evaluating the role of contracting and 
+expanding rainforest in initiating cycles of speciation across the 
+isthmus of panama – proc r soc b – 
+
+stahlhut j k   et  al dna barcoding reveals diversity of 
+hymenoptera and the dominance of parasitoids in a sub arctic 
+environment – bmc ecol 
+
+taberlet p   et  al towards next‐generation biodiversity 
+assessment using dna metabarcoding – mol ecol 
+ – 
+
+tang y and li w lfda an r package for local fisher 
+discriminant analysis and visualization – arxiv preprint 
+arxiv 
+
+tedersoo l   et  al global diversity and geography of soil 
+fungi – science 
+
+ter steege h  et al a spatial model of tree α diversity and 
+tree density for the amazon – biodivers conserv 
+ – 
+
+tuomisto h  et al effect of sampling grain on patterns of 
+species richness and turnover in amazonian forests – ecogra 
+phy – 
+
+warnes g r  et al gplots various r programming tools for 
+plotting data – r package ver http cran r project 
+org package gplots 
+
+wickham h ggplot elegant graphics for data analysis 
+– springer 
+
+wickham h stringr simple consistent wrappers for com 
+mon string operations – r package ver http stringr 
+tidyverse org accessed december 
+
+wickham h tidyverse – r package ver www 
+tidyverse org accessed december 
+
+wittmann f  et al phytogeography species diversity com 
+munity structure and dynamics of central amazonian flood 
+plain forests – in junk w j  et al eds amazonian floodplain 
+forests springer pp – 
+
+wüster w  et al tracing an invasion landbridges refugia 
+and the phylogeography of the neotropical rattlesnake 
+
+
+
+ 
+
+ serpentes viperidae crotalus durissus – mol ecol 
+ – 
+
+zanchi f b   et  al influence of drainage status on soil 
+and water chemistry litter decomposition and soil respira 
+tion in central amazonian forests on sandy soils influência 
+da drenagem na química do solo e da água na decomposição 
+
+da serapilheira e na respiração do solo em floresta de 
+solo arenoso na amazônia central – rev ambiente Água 
+ 
+
+zizka a   et  al finding needles in the haystack where to 
+look for rare species in the american tropics – ecography 
+doi ecog 
+
+supplementary material appendix ecog at www 
+ecography org appendix ecog appendix 
+
+
+

@@ -1,0 +1,1123 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a pelagic microbiome viruses to protists from a small cup of seawater
+
+
+viruses
+
+article
+
+a pelagic microbiome viruses to protists from
+a small cup of seawater
+
+flavia flaviani declan c schroeder cecilia balestreri joanna l schroeder 
+karen moore konrad paszkiewicz maya c pfaff and edward p rybicki 
+
+ department of molecular and cell biology university of cape town private bag x 
+rondebosch south africa flafla mba ac uk
+
+ marine biological association of the uk citadel hill plymouth pl pb uk 
+cecilia balestreri gmail com c b joanna schroeder uk gmail com j l s 
+
+ university of exeter sequencing service biosciences stocker rd university of exeter exeter ex qd uk 
+k a moore exeter ac uk k m k h paszkiewicz exeter ac uk k p 
+
+ department of environmental affairs oceans and coasts p o box victoria and alfred waterfront 
+cape town south africa maya pfaff gmail com
+
+ correspondence dsch mba ac uk d c s ed rybicki uct ac za e p r 
+tel d c s e p r 
+
+academic editors mathias middelboe and corina brussaard
+received january accepted march published march 
+
+abstract the aquatic microbiome is composed of a multi phylotype community of microbes ranging
+from the numerically dominant viruses to the phylogenetically diverse unicellular phytoplankton 
+they influence key biogeochemical processes and form the base of marine food webs becoming food
+for secondary consumers due to recent advances in next generation sequencing this previously
+overlooked component of our hydrosphere is starting to reveal its true diversity and biological
+complexity we report here that ml of seawater is sufficient to provide a comprehensive
+description of the microbial diversity in an oceanic environment we found that there was a
+dominance of the order caudovirales with the family myoviridae being the most prevalent 
+the families phycodnaviridae and mimiviridae made up the remainder of pelagic double stranded
+dna dsdna virome consistent with this analysis the cyanobacteria dominate the
+prokaryotic diversity while the dinoflagellates and their endosymbionts the superphylum alveolata
+dominates the microbial eukaryotic diversity a total of prokaryotic eukaryotic and
+ unique virus phylotypes were recorded in this relatively small sample of water we also provide
+evidence through a metagenomic barcoding comparative analysis that viruses are the likely source
+of microbial environmental dna medna this study opens the door to a more integrated approach
+to oceanographic sampling and data analysis 
+
+keywords microbiome viruses prokaryote eukaryote ngs diversity phylotypes edna medna
+
+ introduction
+
+the paradigm of “everything is everywhere but the environment selects” suggests that
+all microbial taxa have the potential to be found everywhere this largely holds true for the main
+marine bacteriophage taxa with the presence of cyanophage like sequences of the order caudovirales
+dominating all ocean viromes including the recently sampled indian ocean – the order
+caudovirales is comprised of three families myoviridae contractile tails siphoviridae non contractile
+tails and podoviridae short tails during the global ocean sampling gos expedition 
+myovirus associated sequences were ubiquitously distributed among sampling sites with the highest
+prevalence in tropical oligotrophic locations podo and siphoviruses showed site specific distributions 
+
+viruses doi v www mdpi com journal viruses
+
+http www mdpi com journal viruses
+http www mdpi com
+http www mdpi com journal viruses
+
+
+viruses of 
+
+with the highest abundances recorded in temperate mesotrophic waters and hypersaline lagoons 
+respectively within the indian ocean of the viral fraction vf was attributed to known viruses 
+with of the known viruses identified as belonging to the order caudovirales myoviridae 
+podoviridae siphoviridae the nucleo cytoplasmic large dna viruses ncldvs were
+often the next major lineage present with the family phycodnaviridae representing of this group 
+followed by iridoviridae at and mimiviridae at 
+
+most of the virome based studies carried out so far do not report on the diversity of the likely
+hosts that the viruses infect making it unclear as to whether the viruses present in the water column
+are the result of active or past infections an exception is the tara oceans expedition where eukaryotic
+and prokaryotic diversity was reported in conjunction with viral diversity – global surveys 
+which include the southwest indian ocean indicate that the α proteobacteria dominate the prokaryotic
+communities in both surface waters and at the deep chlorophyll maxima the second most represented
+group are either the cyanobacteria or γ proteobacteria depending on location for the eukaryotic
+fraction samples collected during the tara ocean expedition showed that the pico and nano plankton
+was dominated by photosynthetic dinoflagellates of the family dinophyceae parasites of the
+superphylum alveolata specifically the marine alveolates malv i and malv ii clusters routinely
+infect members of the family dinophyceae and can account for up to of the eukaryote fraction in
+some locations these two malv clusters have recently been renamed syndiniales groups i and ii 
+respectively specifically for the southwest indian ocean the eukaryotic fraction was dominated
+by alveolates including the dinophyceae and their syndiniales parasites 
+
+studies on microbial diversity in aquatic environments rely on sample volumes ranging from tens
+of litres to as much as a thousand litres of water sampling of large volumes was thought to be
+a necessity for early sequencing technologies which required considerable quantities micrograms of
+dna newer technologies such as linear amplification deep sequencing with illumina require smaller
+quantities nanograms of dna additionally various sample concentration methods have been
+developed in order to collect the greatest quantities of dna possible from water samples standard
+viral filtration methods involve the use of filters with a pore size of µm to remove bacteria from the
+sample and collect only the virus fraction however this µm size fraction results in underreporting
+of giant viruses as the giant virus particles can have diameters varying from to µm 
+with pithovirus sibericum being the largest known member of this group in addition the µm
+size fraction also contains large amounts of dissolved dna jiang and paul concluded that in this size
+fraction viral particles makes up only a small component of the filterable dna the majority being
+dissolved dna of bacterial and eukaryotic origin 
+
+dissolved dna forms part of environmental dna edna derived from cellular debris produced
+from biota living in that environment therefore edna is being used as a tool to determine
+whether an invasion has taken place or to track an endangered species the size fraction used
+to describe edna is the size fraction that removes larger eukaryotes passing through a mm mesh 
+but retains microbes µm filter therefore the edna concept excludes the microbial community
+as they are retained in this size range to our knowledge no study has yet addressed the question of
+whether the µm size fraction the microbial environmental dna medna fraction can be used
+as a proxy to describe the complete biota in any given environment 
+
+in this study we tested the hypothesis that the volume equivalent to a cup of seawater ml 
+is sufficient to describe the most abundant microbial taxa from viruses to protists in the marine
+environment serendipitously our study site is within nautical miles of station previously
+sampled by the tara oceans expedition − thereby allowing for a semi qualitative
+comparison to be made our protocol differed from previous studies including that of tara oceans 
+as it contained no concentration steps in addition only ml of the µm ml permeate
+was used to describe the combined dissolved dna and viral fraction medna the µm size
+fraction was chosen because we wanted to limit the removal of giant viruses here we report how a
+
+
+
+viruses of 
+
+relatively small water sample can be used to capture the dominant microbial taxa within any given
+aquatic system 
+
+ materials and methods
+
+ sample collection
+
+the water sample analysed in this study was collected during the second transect of the great
+southern coccolithophore belt expedition gscb cruise rr in the southwest indian ocean in
+february the location of the sampling station s − water temperature
+ ◦c ph was mapped using rgooglemaps under r version accessed on
+ may figure a 
+
+one litre of water was gathered from the conductivity temperature and depth ctd rosette
+sampler from the chlorophyll maximum layer m of this an aliquot of ml of seawater was
+filtered through a µm polycarbonate filter and the filter was used for the dna extraction onboard
+the r v roger revelle using qiagen dneasy blood and tissue protocol qiagen valencia ca usa 
+the dna was stored at − ◦c and subsequently transferred to plymouth uk for further processing 
+fifty millilitres of filtered water were set aside wrapped in tin foil and stored in a fridge this too was
+returned to plymouth uk for further processing 
+
+viruses         of   
+
+ 
+
+small  water  sample  can  be  used  to  capture  the  dominant  microbial  taxa  within  any  given   
+aquatic system  
+
+  materials and methods 
+
+  sample collection 
+
+the water sample analysed in this study was collected during the second transect of the great 
+southern coccolithophore belt expedition  gscb‐cruise rr  in the southwest indian ocean in 
+february     the location of the sampling station s   −    water temperature 
+  °c  ph   was mapped using rgooglemaps    under r version    accessed on   
+may    figure  a  
+
+one litre of water was gathered from the conductivity  temperature  and depth  ctd  rosette 
+sampler from the chlorophyll maximum layer   m  of this  an aliquot of   ml of seawater was 
+filtered  through  a  ‐μm  polycarbonate  filter  and  the  filter was  used  for  the dna  extraction 
+onboard the r v roger revelle using qiagen dneasy blood and tissue protocol  qiagen  valencia  
+ca  usa  the dna was stored at −  °c and subsequently transferred to plymouth  uk  for further 
+processing  fifty millilitres of filtered water were set aside  wrapped in tin foil and stored in a fridge  
+this too was returned to plymouth  uk  for further processing  
+
+ 
+
+figure   cont  figure cont 
+
+
+
+viruses of 
+
+viruses         of   
+
+ 
+
+ 
+
+figure    a  map  showing  the  location of  sample  collection   b   schematics of  the bioinformatics 
+pipeline  
+
+  dna extraction  preparation and sequencing of the   μm fraction 
+
+the v  region  along the prokaryotic  s ribosomal rna gene was amplified using the universal 
+primer pair  f and illumina tagged primer  r   r  and  r   illumina  san diego  ca  
+usa    for eukaryotic  s ribosomal rna gene  we used  the primer pair  f and  illumina 
+tagged eukb  eukb  and eukb  to amplify the v  region   for all polymerase chain reaction 
+ pcrs  we  added  –   μl  of  the  edna  concentration  range  from    to    ng μl   to  x 
+colourless gotaq flexi buffer  promega  madison  wi  usa    μl mgcl  solution   mm    μl 
+dntps   mm final concentration    μl evagreen dye  x  biotium  fremont  ca  usa    μl 
+gotaq dna polymerase  u μl  and   μl of sterile water  for a  final volume of   μl  for each 
+reaction   this was  done  to  determine  the mid‐exponential  threshold  of  each  reaction   ran  on  a 
+corbette rotor‐gene™    qiagen  the real‐time pcr proceeded with an initial denaturation at 
+  °c for   min  followed by   cycles of a three‐step pcr    °c for   s and   °c for   s and   °c 
+for   s  the  fluorescence was acquired at  the end of each annealing extension step on  the green 
+channel   the  cycle  threshold  of  the  amplification  in  the  exponential  phase  was  recorded  for 
+amplification  
+
+a  second  standard  pcr  amplification  was  carried  out  in  triplicate  and  run  at  the  same 
+conditions  excluding the addition of the evagreen dye  the sample was removed from the machine 
+when it reached the cycle threshold  as previously determined  products were run on a   agarose 
+gel to confirm the success of the amplification and the product size of the amplification  the bands 
+were cut out and purified using the zymoclean gel dna recovery kit  zymo research  irvine  ca  
+
+figure a map showing the location of sample collection b schematics of the bioinformatics pipeline 
+
+ dna extraction preparation and sequencing of the µm fraction
+
+the v region along the prokaryotic s ribosomal rna gene was amplified using the universal
+primer pair f and illumina tagged primer r r and r illumina san diego ca 
+usa for eukaryotic s ribosomal rna gene we used the primer pair f and illumina tagged
+eukb eukb and eukb to amplify the v region for all polymerase chain reaction pcrs 
+we added – µl of the edna concentration range from to ng µl to x colourless gotaq
+flexi buffer promega madison wi usa µl mgcl solution mm µl dntps mm final
+concentration µl evagreen dye x biotium fremont ca usa µl gotaq dna polymerase
+ u µl and µl of sterile water for a final volume of µl for each reaction this was done
+to determine the mid exponential threshold of each reaction ran on a corbette rotor gene™ 
+ qiagen the real time pcr proceeded with an initial denaturation at ◦c for min followed by
+ cycles of a three step pcr ◦c for s and ◦c for s and ◦c for s the fluorescence was
+acquired at the end of each annealing extension step on the green channel the cycle threshold of the
+amplification in the exponential phase was recorded for amplification 
+
+a second standard pcr amplification was carried out in triplicate and run at the same conditions 
+excluding the addition of the evagreen dye the sample was removed from the machine when it
+reached the cycle threshold as previously determined products were run on a agarose gel
+to confirm the success of the amplification and the product size of the amplification the bands
+were cut out and purified using the zymoclean gel dna recovery kit zymo research irvine ca 
+
+
+
+viruses of 
+
+usa quantity and quality was verified on the nanodrop thermo scientific wilmington de 
+usa and quantifluor e promega v s and v s were prepared mixing an equimolar
+concentration of each amplicon triplicate into the pool for which concentration was checked on the
+bioanalyser agilent technologies santa clara ca usa the final pooled samples were denatured
+and diluted to pm and mixed with pm phix control illumina read sequencing primer was
+diluted in ht before the flowcell was clustered on the cbot illumina multiplexing sequencing
+primers and read two sequencing primers were mixed with illumina hp and hp sequencing primers 
+respectively the flowcell was sequenced pe on hiseq using sequencing by synthesis sbs 
+reagents version the raw sequences are available at the european nucleotide archive ena 
+under accession number prjeb and prjeb 
+
+ dna extraction preparation and sequencing of the µm fraction
+
+the whole ml permeate was used in the nucleic acid extraction procedure we added
+ µl of proteinase k mg ml sigma aldrich st louis mo usa and µl of sodium
+dodecyl sulfate sds sigma aldrich to the permeate and incubated the solution for two hours
+with constant rotation at ◦c the lysate was then collected through multiple centrifugations on
+a qiagen dneasy blood and tissue column qiagen the standard qiagen protocol was followed
+with µl nuclease free water sigma aldrich used as the elution agent quantity and quality
+was determined using the nanodrop thermo scientific and quantifluor e promega 
+two hundred microliters of dna ng were fragmented using a bioruptor diagenode seraing
+ ougrée belgium on medium for bursts of s with a s pause and concentrated to µl on a
+minelute column qiagen fragments were made into libraries using the nextflex chipseq library
+preparation kit bioo scientific austin tx usa without size selection and with cycles of pcr
+amplification bioanalyser agilent technologies analysis indicated the final library contained insert
+between basepairs bp to bp the library was multiplexed with other samples and sequenced
+ paired end on a hiseq illumina using rta and casava 
+
+ bioinformatics pipeline for the prokaryotic s and eukaryotic s amplicon
+
+the complete bioinformatics pipeline is illustrated in figure b the read quality was first assessed
+using fast qc fastx toolkit was utilised for the trimming and filtering steps the first and
+last bases were trimmed in order to remove low quality nucleotides reads were then filtered in
+order to retain only reads with more than of nucleotide positions called with a quality score of
+ trimmed and cleaned reads from each of the triplicate v s and v s pcrs were pooled in
+order to assign otus using qiime with similarities for clustering and swarm analysis 
+respectively a taxonomy was assigned using blastn implemented in qiime and swarm using silva
+version with a minimum e value of × − 
+
+ bioinformatics pipeline of the µm fraction metagenome 
+
+as for the amplicon dataset the quality of the reads was first assessed using fast qc 
+the fastx toolkit was used to trim the first last bases to remove low quality nucleotides and
+subsequently to filter out reads with fewer than of nucleotide positions called with a quality score
+of the forward read r of the bp pair end hiseq reads have been subjected to random library
+size normalization using qiime script subsample fasta py reverse reads r had poor quality and
+were therefore discarded the reads were used in a blastx analysis against a virus database
+ db courtesy of pascal hingamp with e values less than × − the virus database consisted
+of refseq curated viral genomes together with additional new genomes and of r refseq
+whole organism db in addition the pair end reads were assembled into contigs using a de bruijn
+de novo assembly program in clc genomic workbench version clcbio cambridge ma 
+usa using global alignment with automatics bubble and word size minimum contigs length of 
+mismatch cost of insertion and deletion cost of length fraction of and similarity threshold of 
+
+
+
+viruses of 
+
+the contigs were annotated with the blastx as described for the r normalised reads blast analyses
+were performed by using the university of cape town’s hpc hex cluster 
+
+the top hits from all the blast searches were selected through the use of a parser perl script
+ http www bioinformatics made simple com and then a customised r script was developed
+to assign taxonomy a complete viral taxonomy was assigned through a manually curated
+implementation of the international committee on taxonomy of viruses ictv database v with
+the national center for biotechnology information ncbi taxonomy database 
+
+ visualization of community diversity
+
+krona tools were used to visualize community diversity as characterized by the silva v 
+refseq and virus db genes taxonomy assignments venn diagrams were created using the r package
+venndiagram on r version 
+
+ filters applied to annotated datasets
+
+we performed independent analyses on three independent pcr replicates v s and v s 
+and assigned a taxonomy using silva by using replication we removed the level of noise in
+the sample introduced by pcr and sequencing artefacts while retaining rare organisms therefore 
+we considered four levels of stringency at the phylotype level t all phylotypes present across
+the three replicates t removing singletons from each replicate t a minimum of copies
+per phylotype had to be present in any one of the replicates t r a minimum of copies per
+phylotype present in any two replicates and t r a minimum of copies per phylotype present
+in all three replicates 
+
+ results
+
+ microbiota in the µm fraction
+
+after pre processing which included a specific subsampling to an equal read length of bases 
+we retained an average million reads for the prokaryotic and around thousand for the eukaryotic
+dataset table these reads clustered t applied to combination of the three replicates into around
+ thousand unique operational taxonomic units otus for the prokaryotes which clustered into
+ phylotypes for the eukaryotes otus clustered into phylotypes table four different
+filters were applied which resulted in an increase in selection stringency t to t r without the
+removal of significant numbers of reads from the prokaryotes figure a and eukaryotes figure a 
+datasets independent of sequence depth however the greatest change observed due to the application
+of the filters was seen in the number of phylotypes observed figures b and b a total number of
+ phylotypes was observed in the ml of southwest indian ocean made up of prokaryotic
+and eukaryotic phylotypes when the singletons were removed t the number of prokaryotic
+phylotypes dropped by nearly a half to phylotypes retained figure b this was also
+observable in the otus table moving from to similarly the number of eukaryotic
+phylotypes dropped by a third to phylotypes phylotypes retained figure b whilst
+otus dropped from to table when a further filter that a minimum of at least reads
+per phylotype must be present in any of the replicates t was applied the diversity dropped by an
+additional compared to t to just under for prokaryotes—retaining only figure b and
+ to in eukaryotes—retaining only figure b leaving a total number of phylotypes as 
+
+the phylotypes removed after applying the singleton filter t supplementary table s included
+cicer arietinum chickpeas sesamum indicum sesame and nicotiana sylvestris tobacco which were
+not expected to be present in the marine environment the application of the t filter resulted in the
+removal of a few marine species instead such as noctiluca scintillans amphidinium mootonorum and
+pandorina morum the additional application of replication filters present in greater than copies in
+at least any two t r and all three t r replicates revealed a further but minimal reduction
+
+http www bioinformatics made simple com
+
+
+viruses of 
+
+in the overall phylotype content figures b and b both the prokaryotes and eukaryotes dropped
+to and from t to t r figure b and and from t to t r figure b 
+respectively we could identify a core of phylotypes for the prokaryotes figure c and for the
+eukaryotes figure c which were common across all filters if no filter was applied prokaryotes
+ and eukaryotes unique or rare were observed however irrespective of which filter is
+applied no phylotype unique to their stringency were observed figures c and c 
+
+in summary we have identified a total of phylotypes of prokaryotes and eukaryotes without
+the application of any filter t which was reduced to after singletons were removed t 
+a further decrease in phylotype composition to and was identified after application of
+t t r and t r filters 
+
+we then considered the three replicates independently in order to understand how phylotypes
+differ across the three pcr replicates figures d and d prokaryotic diversity ranged from
+ phylotypes in replicate to in replicate figure d corresponding to the sequence depth
+ figure a this was however not observed for the eukaryotes figure d ranging from of
+replicate to of replicate figure d irrespective of the sequence depth figure a when
+applying the t filter the number of phylotypes retained were on average from to in
+replicate from to replicate and from to in replicate and from to in
+replicate from to in replicate and from to in replicate of the prokaryotes and
+eukaryotes respectively figures d and d applying stringency filter t reduced the prokaryotic
+diversity in replicate to in replicate to and replicate to figure d whilst for the
+eukaryotes across replicates and to and respectively figure d 
+
+phylotype composition at t had prokaryotic and eukaryotic phylotypes in common
+across all replicates figures e and e between and of prokaryotes and and of
+eukaryotes were unique to each replicate when singletons t were removed and the t filter
+applied the phylotypes common across all replicates increased to and for prokaryotes
+ figure e whilst for the eukaryotes increased to and figure e this coincided with the
+reduction in unique phylotypes retained per replicate replicate and changing from to 
+to and to unique prokaryotic phylotypes figure e similarly replicate and changed
+from to to and to unique eukaryotic phylotypes figure e 
+
+
+
+viruses of 
+
+table description of sequences generated in this study 
+
+fraction reads contigs sequence length
+
+otus and phylotypes after applying filter
+
+t t 
+
+otus phylotypes otu phylotypes
+
+prokaryote
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+eukaryote
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+metagenome 
+
+average 
+min 
+
+max 
+x 
+
+ virus
+
+ sum from the three replicates with duplicates removed 
+
+
+
+viruses of viruses           of   
+
+ 
+
+ 
+
+figure   analyses of  the prokaryotic  fraction   a  reduction  in number of  reads when  filters are 
+applied   b  percentage and phylotype count when filter are applied   c  presence–absence analyses 
+at phylotype  level before and after application of  the  filters   d  number of phylotype analyses by 
+replicate   e  presence–absence analyses at phylotype level when filters are applied to each replicate  
+
+figure analyses of the prokaryotic fraction a reduction in number of reads when filters are
+applied b percentage and phylotype count when filter are applied c presence–absence analyses
+at phylotype level before and after application of the filters d number of phylotype analyses by
+replicate e presence–absence analyses at phylotype level when filters are applied to each replicate 
+
+
+
+viruses of 
+viruses           of   
+
+ 
+
+ 
+figure   analyses  of  the  eukaryotic  fraction   a  reduction  in number  of  reads when  filters  are 
+applied   b  percentage and phylotype count when filters are applied   c  presence–absence analyses 
+at phylotype  level before and after application of  the  filter   d  number of phylotypes analyses by 
+replicate   e  presence–absence analyses at phylotype level when filters are applied to each replicate  
+
+phylotype composition at t  had   prokaryotic and   eukaryotic phylotypes in common 
+across all replicates  figures  e and  e  between   and   of prokaryotes and   and   of 
+eukaryotes were unique  to each  replicate  when singletons  t  were  removed and  the t   filter 
+applied   the phylotypes  common  across  all  replicates  increased  to    and    for prokaryotes 
+ figure  e  whilst for the eukaryotes  increased to   and    figure  e  this coincided with the 
+reduction in unique phylotypes retained per replicate  replicate     and   changing from   to   
+
+figure analyses of the eukaryotic fraction a reduction in number of reads when filters are
+applied b percentage and phylotype count when filters are applied c presence–absence analyses
+at phylotype level before and after application of the filter d number of phylotypes analyses by
+replicate e presence–absence analyses at phylotype level when filters are applied to each replicate 
+
+ diversity and community structure of the µm fraction
+
+cyanobacteria made up of the prokaryotic community diversity their composition was
+dominated by the genera synechococcus and prochlorococcus figure s the v s
+universal primers also amplified the eukaryote plastid ribosomal genes making up of the total
+sequences the second most diverse bacterial group were the proteobacteria comprising the
+
+
+
+viruses of 
+
+orders α proteobacteria γ proteobacteria and δ proteobacteria the α proteobacteria
+comprised the orders rhodospirallales sar clade rickettsiales rhodobacteriales
+ and the ocs clade the γ proteobacteria comprised the orders oceanospirallales
+ alteromonadales marinicella and k a clade the δ proteobacteria were
+assigned to the sar clade bacteroidetes and actinobacteria represented and of the
+prokaryote diversity finally a large component of the prokaryotic community could not be
+assigned to any known sequences figure s 
+
+the eukaryotic community was dominated by the superphylum alveolata figure s 
+comprising the protoalveolata dinoflagellata ciliophora and fv d 
+protoalveolata were dominated by syndiniales subdivided as group ii group i 
+amoebophyra duboscquella and perkinsidae the group dinoflagellata was formed
+by peridiniphycidae gymnodiniphycidae dinophysiales and prorocentrum 
+
+ diversity of the µm fraction
+
+after pre processing million paired reads were assembled to contigs with an average contig
+length of bp table and a subsample of million reads from r were utilised for analyses at
+the level of reads the majority of sequences and predicted genes based on blastx against a virus
+database could be annotated as “other than virus” figure a this was independent of whether the
+reads or the assembled contigs were used for the annotation figure b using the refseq
+database the metagenome could be divided into bacteria unknown eukaryota
+and viruses at the read level whilst for the contigs the hits could be divided into bacteria
+ unknown eukaryota viruses and archaea figure c d 
+
+utilizing the output from the refseq database we compared annotation based on reads versus
+contigs we observed very low similarities between the phylotypes annotated in the reads compared
+to the contigs figure only of phylotypes were common across the two methods when no
+filter was applied t figure a whereas were common when t was applied figure c 
+to account for the high level of randomness associated with the top hits from blast outputs especially
+from universal conserved genes we repeated the analyses using a lower stringency annotation i e 
+the genus as lowest level of classification instead of the phylotypes common annotations between
+the analysis based on reads versus contigs increased to at t figure b and at t 
+ figure d therefore from here on we focused our attention on the annotation based on the contigs 
+the refseq annotation figure s produced an output highly dominated by actinobacteria 
+and proteobacteria specifically the order microcroccales made up of sequences with the
+genus microbacterium being the most dominant of all the bacteria the proteobacteria comprised
+the classes’ α proteobacteria γ proteobacteria and β proteobacteria the class
+α proteobacteria was dominated by the order sphingomonadales with the genus erythrobacter
+representing of all the contigs for which one coding sequence matched a s gene figure s 
+eukaryotes were represented in of the metagenomic fraction and were dominated by the family
+phaeophyceae metazoa constituted only of the eukaryotes figure s 
+
+
+
+viruses of viruses           of   
+
+ 
+
+ 
+figure   taxonomic assignment based on reads  a c  and contigs  b d  analyses  reads  r  were 
+annotated using  a  the virus database and  c  the refseq database  contigs were annotated using  b  
+the virus database and  c  the refseq nr‐protein database  
+
+the viral contigs were further annotated using a curated virus database  figure   the virome 
+was dominated by the order caudovirales   comprising the families myoviridae   siphoviridae 
+   and  podoviridae    the ncldvs    represented  the  second major  order  with  the 
+families phycodnaviridae   and mimiviridae   as the main representatives  
+
+  composition of biota of the   μm versus the   μm fraction 
+
+to understand if the prokaryotes and eukaryotes identified in the permeate   μm  consisted 
+of environmental dna  debris or vesicles from extant bacteria and eukaryotes present in the water 
+column  stable free dna  or small bacteria that passed through the filter  we ran presence–absence 
+analyses comparing presence of microbiota in the   μm versus the   μm fraction for each filter 
+ figure   we also ran the analysis at the genus level or  when the genus annotation was not available  
+at  the  highest  taxonomic  level  available   very  little  overlap  was  observed  across  all  levels  of 
+stringency  figure    the  genus  phaeodactilum  table  s   shared  between  all  datasets  at  t  
+disappeared when singletons were  removed  figure  b  commonalities between eukaryotes and 
+prokaryotes showed the presence of chloroplasts and mitochondria in the prokaryotic fraction with 
+genera shared for   at t    at t  and   at t   figure   when the filter t  was applied  
+it caused the removal of unusual genera such as cicer  cucumis  and porphyridium  whilst genera such 
+as chlorella  chroomonas  karlodium and pedinomonas disappeared with t  filter  table s  
+
+figure taxonomic assignment based on reads a c and contigs b d analyses reads r were
+annotated using a the virus database and c the refseq database contigs were annotated using
+ b the virus database and c the refseq nr protein database 
+
+the viral contigs were further annotated using a curated virus database figure the virome
+was dominated by the order caudovirales comprising the families myoviridae siphoviridae
+ and podoviridae the ncldvs represented the second major order with the families
+phycodnaviridae and mimiviridae as the main representatives 
+
+ composition of biota of the µm versus the µm fraction
+
+to understand if the prokaryotes and eukaryotes identified in the permeate µm consisted
+of environmental dna debris or vesicles from extant bacteria and eukaryotes present in the water
+column stable free dna or small bacteria that passed through the filter we ran presence–absence
+analyses comparing presence of microbiota in the µm versus the µm fraction for each filter
+ figure we also ran the analysis at the genus level or when the genus annotation was not available 
+at the highest taxonomic level available very little overlap was observed across all levels of stringency
+ figure the genus phaeodactilum table s shared between all datasets at t disappeared when
+singletons were removed figure b commonalities between eukaryotes and prokaryotes showed
+the presence of chloroplasts and mitochondria in the prokaryotic fraction with genera shared for 
+at t at t and at t figure when the filter t was applied it caused the removal of
+unusual genera such as cicer cucumis and porphyridium whilst genera such as chlorella chroomonas 
+karlodium and pedinomonas disappeared with t filter table s 
+
+
+
+viruses of 
+viruses           of   
+
+ 
+
+ 
+figure   presence–absence analyses of the   μm fraction  comparison of phylotypes at the level 
+of species  a c  and genus  b d  using a subsample of reads  r  versus contigs at t   a b  and t   c d  
+
+ 
+
+figure   krona chart of contigs annotation using the virus db  
+
+figure presence–absence analyses of the µm fraction comparison of phylotypes at the level of
+species a c and genus b d using a subsample of reads r versus contigs at t a b and t c d 
+
+viruses           of   
+
+ 
+
+ 
+figure   presence–absence analyses of the   μm fraction  comparison of phylotypes at the level 
+of species  a c  and genus  b d  using a subsample of reads  r  versus contigs at t   a b  and t   c d  
+
+ 
+
+figure   krona chart of contigs annotation using the virus db  figure krona chart of contigs annotation using the virus db 
+
+
+
+viruses of viruses           of   
+
+ 
+
+ 
+
+figure   presence–absence analyses between the   μm fraction  prokaryotes and eukaryotes  and 
+the permeate   μm   a  t  metagenomic contigs  prokaryotes  eukaryotes   b  t  metagenomic 
+contigs  t  prokaryotes  eukaryotes   c  t  metagenomic contigs  t  prokaryotes  eukaryotes   d  
+t  metagenomic  contigs  t ‐r  prokaryotes   eukaryotes   e  t  metagenomic  contigs  t ‐r  
+prokaryotes  eukaryotes  
+
+  discussion 
+
+microbes   from  the  smallest viruses  to  the  largest unicellular protists  dominate our oceans  
+playing a central role in ocean food webs and as key drivers of biogeochemical processes   yet the 
+complex interactions and ecological significance of these relationships within and between biomes 
+are largely unknown  the necessity of studying prokaryotes  eukaryotes and viruses together was 
+highlighted in   when it was estimated that only   and   of selected literature utilised two 
+or  three microbial  groups   respectively    for  this  reason   the more  recent  ocean  expeditions 
+sampling efforts include multiple trophic levels and ecosystem components in an attempt to better 
+
+figure presence–absence analyses between the µm fraction prokaryotes and eukaryotes and
+the permeate µm a t metagenomic contigs prokaryotes eukaryotes b t metagenomic
+contigs t prokaryotes eukaryotes c t metagenomic contigs t prokaryotes eukaryotes 
+ d t metagenomic contigs t r prokaryotes eukaryotes e t metagenomic contigs t r 
+prokaryotes eukaryotes 
+
+ discussion
+
+microbes from the smallest viruses to the largest unicellular protists dominate our oceans 
+playing a central role in ocean food webs and as key drivers of biogeochemical processes yet the
+complex interactions and ecological significance of these relationships within and between biomes
+are largely unknown the necessity of studying prokaryotes eukaryotes and viruses together was
+highlighted in when it was estimated that only and of selected literature utilised
+two or three microbial groups respectively for this reason the more recent ocean expeditions
+
+
+
+viruses of 
+
+sampling efforts include multiple trophic levels and ecosystem components in an attempt to better
+describe the complex microbial ecosystem structure and dynamics describing and studying
+the hosts prokaryotes and eukaryote assemblages alongside their viruses can help improve our
+understanding of the roles of microbes in a more holistic way 
+
+given the patchiness of marine environments changing rapidly both in time and space the
+definition of a unique standard sample volume remains elusive yet fingerprint profiles in the
+marine environment have shown the absence of significant difference in richness when utilizing from
+ to ml of seawater as well as the low variability of the community structure when utilising
+more than ml with this study we used ml of water sampling the same seawater mass
+for all three microbial components prokaryotes eukaryotes and viruses here we demonstrate that
+the application of four levels of stringency allowed us to step wise eliminate otus produced by
+sequencing errors and or contamination the removal of singletons resulted in the reduction of the
+overall phylotypes by around while retaining over of the reads this step removed sequences
+of terrestrial origin e g nicotiana and cicer which are not expected to occupy the marine microbiome 
+although singleton removal is a common practice researchers do often retain these taxa under the
+label of “rare” microbiome when singletons are removed in conjunction with replication of pcr runs
+a more stringent and precise description of the microbiota present in the environment can be obtained 
+this filtering step t on the three replicates combined allowed us to identify around otus
+for the prokaryotic dataset and for the eukaryotic dataset grouping and as the lowest
+level of assigned taxa respectively furthermore the use of replication reduced the overall retained
+phylotypes when compared to individual replicates because the duplicate values across the three
+replicates were removed leaving only unique annotations which constituted the dominate phylotypes
+of the sample the further application of a more stringent filter i e a phylotype was present with at
+least reads in each pcr replicate gave us the confidence that the rare microbiota were not included
+accidentally in the final dataset however this will invariably mean that genuine rare microbiota could
+be removed this was the case of taxa such as chlorella pedinomonas marinobacter and oceanicaulis 
+which were removed by applying this filter level 
+
+bacterial composition at the location analysed by tara oceans expedition station 
+based nautical miles from ours showed high abundance of α proteobacteria followed by
+cyanobacteria chloroplasts γ proteobacteria and bacteroidetes the microbial composition in
+our sample revealed the dominance of cyanobacteria synechococcus and prochlorococcus followed by
+α proteobacteria γ proteobacteria and bacteroidetes this cyanobacteria dominance is more consistent
+with other viral abundance data discussed further later on eukaryotes collected from tara oceans
+station were dominated by the pico nanoplankton the alveolata dinophyceae and syndiniales
+clade malv i ii followed in abundance by “other protists” our station was also dominated by
+alveolata dinophyceae and syndiniales we hypothesise that the variation in composition from our
+station s and tara oceans’ station can be attributed to sampling different water masses as well
+as different sampling seasons tara oceans’ one was sampled in winter july while our station
+s was collected in summer february given these differences it is nonetheless remarkable
+how similar the microbial communities were especially when considering the application of vastly
+different sampling protocols 
+
+analyses of the metagenomic fraction µm permeate showed that annotations based on
+the assembled contigs lead to a more robust description of diversity we found that the majority
+ of our data did not match any viral genomes in our curated virus database this was similar
+to what was reported by previous studies i e average and 
+marine viral metagenomics or metabarcoding studies currently apply various biomass or volume
+concentration methods before the extraction of dna for sequencing such studies applied to our area
+of interest reported on the dominance of the order caudovirales members of the family phycodnaviridae
+were the second most abundant viral group often followed by the family mimiviridae our study
+demonstrated that a similar description of viral diversity is achievable from only ml of seawater 
+
+
+
+viruses of 
+
+the high abundance of prochlorococcus and synechococcus phages was consistent with the observed
+dominance of their host cyanobacteria genera both prochlorococcus and synechococcus co occurred
+and dominated the prokaryotic dataset with and of the sequences it is curious to note that
+the tara oceans expedition did not find any barcode sequences matching extant cyanobacteria
+lineages despite the high abundance of both prochlorococcus and synechococcus phages in this locality 
+the reason for this anomaly might lie in the differing methodologies applied or indeed the difference
+in timing of sampling future side by side methodological comparative studies might resolve the
+reason behind these inconsistencies 
+
+ncdlvs such as phycodnaviridae and mimiviridae surprisingly coincided with the presence of
+diatoms and dinoflagellates these taxa which constituted more than of the eukaryotic dataset 
+are considered the most widespread protists on earth and are known to be routinely infected by rna
+viruses nevertheless dinoflagellates are also infected by ncldvs and therefore our study
+suggests that further undescribed host virus relationships can occur between dinoflagellates diatoms
+and ncldvs 
+
+the µm permeate or medna contains dissolved genetic material associated with cellular
+derived exudates as part of the edna fraction viruses or indeed small bacteria 
+the comparative analyses of the two sampled size fractions revealed that bacteria and eukaryotes
+identified in this environment were not the source of the entire medna in our sample on average
+ and of the phylotypes was found in common between the medna and the bacterial and
+eukaryote permeate fractions respectively the likely explanation for the source of this dna could
+be either the presence of viruses carrying host genes since host genes have been identified in viral
+isolates or the presence of small bacteria µm the latter included genera identified in both
+datasets such as pseudomonas flavobacterium serratia and vibrio which are known to pass through
+ µm filters nine coding sequences of the µm fraction had hits with s proteins six of
+which corresponded to microbacterium data not shown and represented the main genera identified in
+this fraction furthermore it has been shown that in adverse conditions microbacterium can present
+size reduction which allowed it to pass through µm filters viruses often acquire host
+genes through horizontal gene transfer and since a large proportion of genetic material with unknown
+identity was also described we hypothesise that viruses are the likely source of this medna whether
+this will be the case for all locations and situations remain to be determined our hypothesis contradicts
+jiang and paul possibly because of their study locations being more productive however their
+study stopped short of confirming the species identified to actually being present in their water sample 
+ultimately edna or in our case medna do not appear to be a good proxy for describing the
+microbes present in this body of water 
+
+ conclusions
+
+to our knowledge we report for the first time that ml of seawater is sufficient to provide
+a comprehensive description of microbial diversity made up of prokaryotic eukaryotic and
+ unique virus phylotypes moreover given the paucity of fully curated marine viral genomes in
+searchable viral databases we hypothesise that the medna fraction will be of viral origin this in turn
+reinforces the potential of viruses to move host dna around and even actively increase the repertoire
+of functional genes within any given individual population community or ecosystem finally we do
+not recommend the use of medna as a proxy to describe the microbiome however this study needs
+to be replicated in other scenarios and locations 
+
+supplementary materials the following are available online at www mdpi com s 
+figure s html link to the prokaryotic krona chart figure s html link to the eukaryotic krona chart 
+table s s and s species lists in t table s common genera 
+
+acknowledgments computations were performed using facilities provided by the university of cape town’s
+icts high performance computing team http hpc uct ac za project was funded under national research
+foundation nrf grant to ed rybicki cpr we would also like to thank barney balch for
+
+www mdpi com s 
+http hpc uct ac za
+
+
+viruses of 
+
+the opportunity to join the coccolthophore belt cruise declan schroeder was funded by the fp ocean 
+call microb grant number and the nerc edna award grant number ne n 
+
+author contributions flavia flaviani and declan schroeder wrote the manuscript cecilia balestreri collected
+the samples karen moore and konrad pasckiewicz prepared the dna for illumina sequencing and performed
+the sequencing flavia flaviani and joanna schroeder performed the bioinformatics analysis maya pfaff reviewed
+the manuscript ed rybicki and declan schroeder conceived the study 
+
+conflicts of interest the authors declare no conflict of interest 
+
+references
+
+ de wit r bouvier t ‘everything is everywhere but the environment selects’ what did baas becking and
+beijerinck really say environ microbiol – crossref pubmed 
+
+ angly f e felts b breitbart m salamon p edwards r a carlson c chan a m haynes m kelley s 
+liu h et al the marine viromes of four oceanic regions plos biol e crossref pubmed 
+
+ breitbart m rohwer f here a virus there a virus everywhere the same virus trends microbiol 
+ – crossref pubmed 
+
+ williamson s j allen l z lorenzi h a fadrosh d w brami d thiagarajan m mccrow j p 
+tovchigrechko a yooseph s venter j c metagenomic exploration of viruses throughout the indian ocean 
+plos one e crossref pubmed 
+
+ williamson s j rusch d b yooseph s halpern a l heidelberg k b glass j i andrews pfannkoch c 
+fadrosh d miller c s sutton g et al the sorcerer ii global ocean sampling expedition metagenomic
+characterization of viruses within aquatic microbial samples plos one e crossref pubmed 
+
+ ackermann h w bacteriophage observations and evolution res microbiol – crossref 
+ de vargas c audic s henry n decelle j mahé f logares r lara e berney c le bescot n 
+
+probert i et al eukaryotic plankton diversity in the sunlit ocean science crossref 
+ sunagawa s coelho l p chaffron s kultima j r labadie k salazar g djahanschiri b zeller g 
+
+mende d r alberti a et al structure and function of the global ocean microbiome science 
+ crossref pubmed 
+
+ brum j r hurwitz b l schofield o ducklow h w sullivan m b seasonal time bombs dominant
+temperate viruses affect southern ocean microbial dynamics isme j – crossref pubmed 
+
+ brum j r ignacio espinoza j c roux s doulcier g acinas s g alberti a chaffron s cruaud c 
+de vargas c gasol j m et al patterns and ecological drivers of ocean viral communities science 
+ crossref pubmed 
+
+ mihara t nishimura y shimizu y nishiyama h yoshikawa g uehara h hingamp p goto s 
+ogata h linking virus genomes with host taxonomy viruses crossref pubmed 
+
+ horiguchi t diversity and phylogeny of marine parasitic dinoflagellates in marine protists diversity and
+dynamics ohtsuka s suzaki t horiguchi t suzuki n not f eds springer japan tokyo 
+pp – 
+
+ hurwitz b l sullivan m b the pacific ocean virome pov a marine viral metagenomic dataset and
+associated protein clusters for quantitative viral ecology plos one e 
+
+ lima mendez g faust k henry n decelle j colin s carcillo f chaffron s ignacio espinosa j c 
+roux s vincent f et al determinants of community structure in the global plankton interactome science
+ crossref pubmed 
+
+ hoeijmakers w a m bartfai r francoijs k j stunnenberg h g linear amplification for deep sequencing 
+nat protocols – crossref pubmed 
+
+ john s g mendez c b deng l poulos b kauffman a k m kern s brum j polz m f boyle e a 
+sullivan m b a simple and efficient method for concentration of ocean viruses by chemical flocculation 
+environ microbiol rep – crossref pubmed 
+
+ claverie j m ogata h audic s abergel c suhre k fournier p e mimivirus and the emerging
+concept of “giant” virus virus res – crossref pubmed 
+
+ martínez j m swan b k wilson w h marine viruses a genetic reservoir revealed by targeted viromics 
+isme j – crossref pubmed 
+
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pbio 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j tim 
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http dx doi org science 
+http dx doi org science 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http dx doi org science 
+http www ncbi nlm nih gov pubmed 
+http dx doi org v 
+http www ncbi nlm nih gov pubmed 
+http dx doi org science 
+http www ncbi nlm nih gov pubmed 
+http dx doi org nprot 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org j virusres 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+
+
+viruses of 
+
+ legendre m bartoli j shmakova l jeudy s labadie k adrait a lescot m poirot o bertaux l 
+bruley c et al thirty thousand year old distant relative of giant icosahedral dna viruses with a
+pandoravirus morphology proc natl acad sci usa – crossref pubmed 
+
+ jiang s c paul j h viral contribution to dissolved dna in the marine environment as determined by
+differential centrifugation and kingdom probing appl environ microbiol – pubmed 
+
+ creer s deiner k frey s porazinska d taberlet p thomas w k potter c bik h m the ecologist’s
+field guide to sequence based identification of biodiversity methods ecol evol – crossref 
+
+ dejean t valentini a miquel c taberlet p bellemain e miaud c improved detection of an alien
+invasive species through environmental dna barcoding the example of the american bullfrog lithobates
+catesbeianus j appl ecol – crossref 
+
+ ikeda k doi h tanaka k kawai t negishi j n using environmental dna to detect an endangered
+crayfish cambaroides japonicus in streams conserv genet resour – crossref 
+
+ the great southern coccolithophore belt available online http www bco dmo org project 
+ accessed on march 
+
+ loecher m ropkins k rgooglemaps and loa unleashing r graphics power on map tiles j stat softw 
+ – crossref 
+
+ caporaso j g paszkiewicz k field d knight r gilbert j a the western english channel contains a
+persistent microbial seed bank isme j – crossref pubmed 
+
+ stoeck t bass d nebel m christen r jones m d m breiner h w richards t a multiple marker
+parallel tag environmental dna sequencing reveals a highly complex eukaryotic community in marine
+anoxic water mol ecol – crossref pubmed 
+
+ a quality control tool for high throughput sequence data available online http www bioinformatics 
+babraham ac uk projects fastqc accessed on march 
+
+ fastx toolkit available online http hannonlab cshl edu fastx toolkit accessed on march 
+ qiime quantitative insights into microbial ecology available online http qiime org accessed on
+
+ march 
+ mahé f rognes t quince c de vargas c dunthorn m swarm robust and fast clustering method for
+
+amplicon based studies peerj e crossref pubmed 
+ silva rrna database project available online https www arb silva de accessed on march 
+ altschul s f gish w miller w myers e w lipman d j basic local alignment search tool j mol biol 
+
+ – crossref 
+ tatusova t ciufo s fedorov b o’neill k tolstoy i refseq microbial genomes database 
+
+new representation and annotation strategy nucleic acids res d –d crossref pubmed 
+ ondov b d bergman n h phillippy a m interactive metagenomic visualization in a web browser 
+
+bmc bioinform crossref pubmed 
+ quast c pruesse e yilmaz p gerken j schweer t yarza p peplies j glöckner f o the silva
+
+ribosomal rna gene database project improved data processing and web based tools nucleic acids res 
+ d –d crossref pubmed 
+
+ fuhrman j a microbial community structure and its functional implications nature – 
+ crossref pubmed 
+
+ zinger l gobet a pommier t two decades of describing the unseen majority of aquatic microbial
+diversity mol ecol – crossref pubmed 
+
+ marine ecology ocean survey finds huge diversity nature 
+ dorigo u fontvieille d humbert j f spatial variability in the abundance and composition of the
+
+free living bacterioplankton community in the pelagic zone of lake bourget france fems microbiol ecol 
+ – crossref pubmed 
+
+ ghiglione j f larcher m lebaron p spatial and temporal scales of variation in bacterioplankton
+community structure in the nw mediterranean sea aquat microb ecol – crossref 
+
+ brum j r culley a i steward g f assembly of a marine viral metagenome after physical fractionation 
+plos one e crossref pubmed 
+
+ breitbart m salamon p andresen b mahaffy j m segall a m mead d azam f rohwer f genomic
+analysis of uncultured marine viral communities proc natl acad sci usa – 
+ crossref pubmed 
+
+http dx doi org pnas 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org x 
+http dx doi org j x
+http dx doi org s z
+http www bco dmo org project 
+http dx doi org jss v i 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x x
+http www ncbi nlm nih gov pubmed 
+http www bioinformatics babraham ac uk projects fastqc 
+http www bioinformatics babraham ac uk projects fastqc 
+http hannonlab cshl edu fastx toolkit 
+http qiime org
+http dx doi org peerj 
+http www ncbi nlm nih gov pubmed 
+https www arb silva de
+http dx doi org s 
+http dx doi org nar gkt 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http www ncbi nlm nih gov pubmed 
+http dx doi org nar gks 
+http www ncbi nlm nih gov pubmed 
+http dx doi org nature 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x x
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org ame 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org pnas 
+http www ncbi nlm nih gov pubmed 
+
+
+viruses of 
+
+ nagasaki k dinoflagellates diatoms and their viruses j microbiol – crossref pubmed 
+ correa a m s welsh r m vega thurber r l unique nucleocytoplasmic dsdna and ssrna viruses are
+
+associated with the dinoflagellate endosymbionts of corals isme j – crossref pubmed 
+ tabor p s ohwada k colwell r r filterable marine bacteria found in the deep sea distribution 
+
+taxonomy and response to starvation microb ecol – crossref pubmed 
+ chicote e garcía a m moreno d a sarró m i lorenzo p i montero f isolation and identification of
+
+bacteria from spent nuclear fuel pools j ind microbiol biotechnol – crossref pubmed 
+ iizuka t yamanaka s nishiyama t hiraishi a isolation and phylogenetic analysis of aerobic
+
+copiotrophic ultramicrobacteria from urban soil j gen appl microbiol – crossref 
+ pubmed 
+
+© by the authors licensee mdpi basel switzerland this article is an open access
+article distributed under the terms and conditions of the creative commons attribution
+ cc by license http creativecommons org licenses by 
+
+http dx doi org s y
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http dx doi org bf 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http dx doi org jgam 
+http www ncbi nlm nih gov pubmed 
+http creativecommons org 
+http creativecommons org licenses by 
+
+	introduction 
+	materials and methods 
+	sample collection 
+	dna extraction preparation and sequencing of the m fraction 
+	dna extraction preparation and sequencing of the m fraction 
+	bioinformatics pipeline for the prokaryotic s and eukaryotic s amplicon 
+	bioinformatics pipeline of the m fraction metagenome 
+	visualization of community diversity 
+	filters applied to annotated datasets 
+
+	results 
+	microbiota in the m fraction 
+	diversity and community structure of the m fraction 
+	diversity of the m fraction 
+	composition of biota of the m versus the m fraction 
+
+	discussion 
+	conclusions 
+
+

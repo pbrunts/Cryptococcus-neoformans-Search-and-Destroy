@@ -1,0 +1,944 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+untitled
+
+
+data descriptor systematic 
+continental scale temporal
+monitoring of marine pelagic
+microbiota by the australian
+marine microbial biodiversity
+initiative
+mark v brown et al 
+
+sustained observations of microbial dynamics are rare especially in southern hemisphere waters the
+australian marine microbial biodiversity initiative ammbi provides methodologically standardized 
+continental scale temporal phylogenetic amplicon sequencing data describing bacteria archaea and
+microbial eukarya assemblages sequence data is linked to extensive physical biological and chemical
+oceanographic contextual information samples are collected monthly to seasonally from multiple depths
+at seven sites darwin harbour northern territory yongala queensland north stradbroke island
+ queensland port hacking new south wales maria island tasmania kangaroo island south australia 
+rottnest island western australia these sites span ° of latitude and ° longitude range from
+tropical to cold temperate zones and are influenced by both local and globally significant oceanographic
+and climatic features all sequence datasets are provided in both raw and processed fashion currently 
+samples are publically available for bacteria and archaea which include bacterial unique 
+and archaeal unique s rrna v gene sequences and samples are available for
+eukaryotes which include unique s rrna v gene sequences 
+
+design type s 
+observation design • time series design • taxonomic diversity assessment by
+targeted gene survey • biodiversity assessment objective
+
+measurement type s rrna s • rrna s
+
+technology type s amplicon sequencing
+
+factor type s temporal interval • sampling depth • superkingdom
+
+sample characteristic s 
+marine metagenome • maria island • marine biome • kangaroo island •
+sydney • rottnest island • north stradbroke island • darwin
+
+correspondence and requests for materials should be addressed to m v b oceanmicrobes gmail com 
+ a full list of authors and their affiliations appears at the end of the paper 
+
+open
+
+received january 
+
+accepted april 
+
+published july 
+
+www nature com scientificdata
+
+scientific data doi sdata 
+
+mailto oceanmicrobes gmail com
+
+
+background summary
+bacteria archaea and microbial eukaryotes dominate ocean ecosystems composing of marine
+biomass they display a vast phylogenetic and functional diversity and their combined metabolic
+activities control the biogeochemical cycles that drive critical ecosystem services but our oceans are
+changing rapidly and are under threat from both natural and man made stressors including rising
+seawater temperatures ocean acidification over exploitation of resources and increasing impacts from a
+growing tourism industry and higher population densities baseline census data concerning the identity
+and function of marine microbes provide a benchmark against which we can assess assemblage changes 
+
+australia has the th longest coastline in the world stretching km over the last decade 
+sustained temporal observations of many oceanographic parameters around australia’s coastline have
+been made possible by the government funded integrated marine observing system imos imos was
+established in and operates a network of national reference stations nrs that consist of moored
+sensors and regular vessel based sampling for a description of the rationale design and implementation
+of imos nrs see http imos org au fileadmin user upload shared anmn nrs rationale and imple 
+mentation pdf 
+
+marine microbial ecologists from a number of research institutions and universities have come
+together under the umbrella of the australian marine microbial biodiversity initiative ammbi to
+facilitate inclusion of microbial monitoring into the imos nrs infrastructure samples are collected at
+seven imos nrs port hacking site code phb north stradbroke island nsi maria island mai 
+rottnest island rot yongala yon darwin harbour dar and kangaroo island kai fig 
+
+these imos nrs locations span over ° of latitude and have been designed to maximize
+representation of the important marine biomes that are present around the continent climatically they
+vary from tropical and monsoonal to cool temperate and highly seasonal habitats all sites are affected to
+various degrees by basin scale events including the el niño southern oscillation enso and the indian
+ocean dipole iod which are known to alter local oceanography such as by enhancing upwelling and
+local biology including fisheries furthermore these inter annual events have a large influence on
+australia’s two southerly flowing boundary currents the leeuwin current lc on the indian ocean
+bounding west coast and the east australia current eac on the pacific ocean bounding east coast 
+both these currents transport warm oligotrophic waters from the tropics to temperate latitudes changes
+in the extent and timing of southerly flow from these currents are having a large impact on both water
+temperatures and species ranges in southern australia influencing fisheries and endangering native
+populations however little is known concerning the movements adaption or range expansion of marine
+microbes 
+
+methods
+microbial sample collection
+imos nrs sampling occurs using a variety of ocean going vessels dependent on local conditions at all
+nrs water samples are collected from between three and six pre determined depths depending on the
+water column depth using niskin bottles on either lines or a rosette for each depth a funnel and dark 
+sterile bottle are rinsed with l of the retrieved seawater and the bottle filled in cases where filtration
+is conducted on shore within hours of collection bottles are stored in a cooler with ice out of direct
+sunlight microbial cells are collected by filtration of l seawater through μm pore sterivex gp filter
+ millipore massachusetts cat svgpl rc using a masterflex l s compact peristaltic pump fitted
+with an l s channel head cole parmer pump tubing is rinsed with ml seawater from the
+appropriate depth prior to cell collection pumping continues for min after sample has cleared the filter
+to dry both ends of the filter are capped and placed in individual snap lock bags and kept on ice until
+being stored at − °c 
+
+all ammbi samples are collected in conjunction with imos nrs sampling fig so they are
+embedded within an extensive quantitative physical chemical and biological oceanographic context 
+contextual datasets from nrs are available for public search and download through the imos curated
+australian ocean data network portal https portal aodn org au a snapshot of imos data that
+corresponds to samples presented in this manuscript is available on figshare data citation 
+parameters measured include conductivity temperature density turbidity fluorescence par secchi
+depth total alkalinity total dissolved inorganic carbon zooplankton dry weight zooplankton size class 
+phytoplankton biomass flow cytometry phytoplankton counts phyto and zooplankton microscopy
+identification and counts hplc pigment analysis dissolved oxygen and nutrients including nitrite
+ nitrate phosphate silicate and ammonia further in situ moored sensor packages provide high 
+resolution data including acoustic doppler current profilers adcp enabling the oceanographic context
+at the time of sampling to be accurately described in addition at maria island darwin yongala and
+north stradbroke island surface expressions provide real time meteorology including wind speed 
+direction barometric pressure humidity air temperature and precipitation 
+
+sampling sites
+an overview of the locations depths and bioregions sampled and data produced by this project is
+provided in table all sites are located on the australian continental shelf 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+http imos org au fileadmin user upload shared anmn nrs rationale and implementation pdf
+http imos org au fileadmin user upload shared anmn nrs rationale and implementation pdf
+https portal aodn org au 
+
+
+darwin nrs is located nautical miles nm offshore at a depth of m full tide over sandy
+substrate in darwin harbour a large inverse estuary near the city of darwin northern territory
+ population it is in the tropical north with a monsoonal climate where the wet season occurs
+between december and april this the northernmost nrs in the network occupies a broad shallow 
+shelf sea region part of the arafura timor sea during the austral winter or “dry season” oceanic waters
+predominate and the site is vertically well mixed during the austral summer or ‘wet season” due to
+rainfall and terrestrial inputs the water column can become highly stratified across periods from a few
+days up to a few weeks the site has a large diurnal tidal movement of up to m and significant amounts
+of suspended sediments samples are collected over a h period during sampling days and mid tide
+samples used for microbial diversity and associated biogeochemical analyses 
+
+based on the australian government bioregionalisation studies australia has six phytoplankton
+provinces darwin nrs is located in phytoplankton province diatom dominated shelf waters of the
+north west australia the gulf of carpentaria arafura sea and timor seas 
+
+yongala nrs is located nm offshore at a depth of m over sandy substrate mid shelf between the
+mainland and the coral reef in the tropical great barrier reef gbr lagoon the mooring is located near
+the yongala wreck out from cape bowling green in the central gbr the closest major city is
+townsville population approximately km to the north the site is generally well mixed
+with competing influences of the south eastward lagoonal branch of the eac and the opposing south 
+easterly trade wind forced coastal current however the monsoonal climate brings rain during december
+to april and may result in river plume impingement and stratification this is a site where significant
+ocean acidification projects are being carried out 
+
+phytoplankton province fast growing nanoplankton diatom dominated shallow waters of the great
+barrier reef lagoon 
+
+north stradbroke island nrs is located nm north east of north stradbroke island at a depth of
+ m over sandy substrate it is km southeast of the major city of brisbane queensland population
+ million at the opening to large shallow moreton bay the site is impacted by the southerly
+flowing eac and its eddies which may cause periodic nutrient enrichment through upwelling this
+latitude is the biogeographic boundary for many tropical and subtropical species the water column is
+well mixed between may august and stratified for the remainder of the year and salinity may at times be
+affected by floodwaters from the nearby brisbane river outflow 
+
+phytoplankton province fast growing nanoplankton diatom dominated shallow waters of the great
+barrier reef lagoon
+
+port hacking nrs is located nm offshore at m depth over fine muddy sand near the major city
+of sydney new south wales population million this is a sub tropical to temperate location with
+strong seasonality the site is just downstream of the eac separation zone and is impacted by the
+dynamics of flow of eac and its eddy field the water column is very well mixed between may and sept
+ although the duration of this mixing has decreased in recent years ingleton t unpublished
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+− 
+
+− 
+
+− 
+
+− 
+
+longitude ˚e 
+
+la
+tit
+
+ud
+e 
+
+ ˚
+n
+
+ 
+
+ 
+
+ 
+
+ 
+
+month
+
+t
+em
+
+pe
+ra
+
+tu
+re
+
+ 
+˚c
+
+ 
+
+ 
+
+surface
+
+depth
+
+nsi yon darkai mai phb rot
+
+t
+em
+
+pe
+ra
+
+tu
+re
+
+ 
+˚c
+
+ 
+
+figure locations of australia’s integrated marine observing system imos national reference
+
+stations nrs inset are mean annual sea temperature plots for each month and depth from which
+
+samples are collected at each station plotted over the range °c to °c compiled with all ctd data collected
+
+during imos nrs cruises between june may 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+observation and highly stratified between december and march upwelling can occur via eddies or
+wind driven slope water intrusions there is a long historical oceanographic dataset from this site with
+intermittent gaps in certain parameters dating back to 
+
+phytoplankton province the productive temperate neritic province comprising coastal waters of
+new south wales tasmania victoria and south australia 
+
+maria island nrs is located nm offshore from maria island at m depth over muddy sand on the
+eastern coast of tasmania this is the southernmost nrs the nearest population centers are orford
+ population and triabunna population the site is seasonally impacted by the most southerly
+extent of the eac which has been increasing over the past years resulting in rapid ocean warming in
+this region mai may also be influenced seasonally by the lc the water column is well mixed year 
+round with some slight stratification between november and march there is a long historical
+oceanographic dataset from this site with intermittent gaps in certain parameters dating back to 
+
+phytoplankton province the productive temperate neritic province comprising coastal waters of
+new south wales tasmania victoria and south australia
+
+kangaroo island nrs is located nm west of kangaroo island at m depth over medium to
+coarse grained carbonate sand with conspicuous large bryozoan and gastropod skeletons on a broad
+shelf in the great australian bight km southwest of adelaide population million the nrs site
+is subject to episodic upwelling in the summer autumn and is impacted by the eastward flow of the warm
+lc and outflow of dense spencer gulf water during the winter summer waters are stratified with warm
+surface waters overlying a pool of cool enriched water upwelled from the flinders current a northern
+boundary current which flows westward along the continental slope a significant volume of cooler
+water is forced above the critical depth promoting high productivity winter waters are impacted by a
+significant outflow of dense spencer gulf water so are well mixed downwelling dominates and
+productivity is significantly reduced 
+
+phytoplankton province the productive temperate neritic province comprising coastal waters of
+new south wales tasmania victoria and south australia
+
+rottnest island nrs is located nm offshore and nm from rottnest island at a depth of m
+over sand but surrounded by low relief limestone reef which is predominately covered with macro algae 
+mainly ecklonia spp on the western australia coast near perth population million this is the
+only nrs situated on the indian ocean coastline this station is heavily impacted by the lc which
+delivers warm but less saline waters southward the lc is strongly affected by enso and iod events 
+the prevailing winds and current direction leads to coastal suppression of upwelling along the western
+australian coast throughout most of the year and consequently sea surface temperatures of up to – °c
+warmer than upwelling systems at similar latitudes elsewhere on the globe there is an historical
+oceanographic dataset from this site with intermittent gaps in certain parameters dating back to 
+
+phytoplankton province the tropical neritic communities carried southwards by the leeuwin
+current
+
+dna extraction
+all samples are couriered on dry ice or in dewars filled with liquid nitrogen to the commonwealth
+scientific and industrial research organisation oceans atmosphere csiro o a laboratories in
+hobart tasmania dna is extracted and purified using the powerwater® sterivex™ dna isolation kit
+ mobio laboratories carlsbad ca following a slightly modified version of the manufacturer’s
+instructions the quality and quantity of dna is checked using a nanodrop™ spectrophotometer
+ thermo scientific™ and dna aliquot into multiple plates vacuum dried and archived at °c 
+
+further documentation outlining the standard operating procedures for sampling and dna extraction
+is available at https data bioplatforms com organization pages bpa marine microbes methods
+
+geographic location
+ nrs code 
+
+geoposition depths sampled m temporal regime range climatic zone number of
+samples
+
+bioproject
+
+darwin dar ° s ° e quarterly august – may tropical prjna 
+
+yongala yon ° s ° e monthly june – may tropical prjna 
+
+north stradbroke
+island nsi 
+
+ ° s ° e monthly june – may subtropical prjna 
+
+port hacking phb ° s ° e monthly june – may subtropical prjna 
+
+maria island mai ° s ° e monthly july – may temperate prjna 
+
+kangaroo island
+ kai 
+
+ ° s ° e quarterly june – may subtropical prjna 
+
+rottnest island
+ rot 
+
+ ° s ° e monthly july – may subtropical prjna 
+
+table details of sample set and data products from ammbi 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https data bioplatforms com organization pages bpa marine microbes methods
+
+
+dna sequence generation
+generation of sequence data for this project is supported by bioplatforms australia bpa all dna
+amplification and sequencing is carried out at the ramaciotti centre for genomics unsw sydney 
+australia 
+
+bacterial archaeal and eukaryotic assemblages are surveyed using small subunit ribosomal rna gene
+amplicon sequencing methods amplicons are prepared using bacterial s rrna gene primers f –
+ r refs archaeal s rrna gene primers a f arch f – r refs and eukaryotic 
+s rrna gene primers tareuk fwd and tareuk rev ref table we note that the reverse
+primer used for the s v region tareuk rev may discriminate against haptophytes a bias which
+should be considered when using the data and which has been corrected in primer sets described by
+piredda et al 
+
+amplicons are sequenced using the duel indexed paired end approach on the illumina miseq platform
+according to the manufactures instructions further documentation outlining the standard operating
+procedures for generating and sequencing amplicons is available at https data bioplatforms com 
+organization pages bpa marine microbes methods 
+
+dna sequence processing
+to allow for the highest possible phylogenetic resolution data are provided as single nucleotide variants 
+sequences are analyzed in a strictly standardized fashion alongside other australian microbial
+biodiversity initiatives including the biomes of australian soils base project enabling direct
+comparison and integration 
+
+for each amplicon each plate of illumina data is submitted to the following workflow separately to
+identify correct biological sequences and build sample by read abundance matrices for samples on that
+plate 
+
+ illumina r and r reads are merged using flash 
+ fasta format sequences are extracted from fastq files and thoseo base pairs bp in length
+
+ oro bp for the s amplicon or containing n s or homopolymer runs of bp are removed
+using mothur v 
+
+ using the usearch bit v ref package sequences are de replicated derep fulllength
+command ordered by abundance and sequences witho representatives removed sortbysize
+command 
+
+ chimeras are removed and biologically correct zero radius operational taxonomic units zotus 
+identified unoise command 
+
+ all quality filtered sequences from are then mapped to chimera free zotus and a sample by
+read abundance table created using usearch global 
+
+ sample by read abundance matrices from each plate are merged based on the unique zotu sequence 
+providing a sample by read abundance matrix for all samples in the dataset 
+
+ a final sample by read abundance data matrix is created by discarding sequences that are either not
+identified or not identified correctly for the given assay at the kingdom and phylum level note this
+does not remove chloroplasts or mitochondrion from the bacteria assay 
+
+ zotus are taxonomically classified with the silva v ref database using mothur’s
+implementation of the wang classifier and a bayesian probability cut off eukaryotic zotus are
+also taxonomically classified using the protist ribosomal reference database pr 
+
+ zotus can be readily clustered into otus of any similarity of the researchers choosing for
+comparison to other studies using a number of algorithms e g usearch cluster fast 
+
+data records
+each data record represents a molecular description of the relative abundance taxonomic profile of the
+microbial assemblage at a particular site depth and time each record is associated with a sample and
+each sample is provided with a unique id from the australian national data service all sequence
+data are made publically available through the national center for biotechnology information
+
+primer target name primer sequences primer reference
+
+bacteria s f agagtttgatcmtggctcag 
+
+archaea s a f arch f ttccggttgatccygccgga 
+
+bacteria archaea s r gwattaccgcggckgctg 
+
+eukaryote s tareuk fwd ccagcascygcggtaattcc 
+
+eukaryote s tareuk rev actttcgttcttgatyratgatctryatc 
+
+table locus specific primer sequences 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https data bioplatforms com organization pages bpa marine microbes methods
+https data bioplatforms com organization pages bpa marine microbes methods
+
+
+ data citation currently datasets for samples are publically available which in total include
+ bacterial representing unique zotus and archaeal zotus small
+subunit rrna gene sequences covering variable regions and zotus eukaryote
+small subunit rrna gene sequences covering variable regions 
+
+paired end read r r and indexed read i i data in fastq format are also available to download
+at https data bioplatforms com bpa marine microbes amplicon 
+
+all contextual datasets from imos nrss are available for public search and download through the
+australian ocean data network portal https portal aodn org au 
+
+files relating to bacterial labelled ammbi b s zotus table silvav datarelease txt 
+archaeal ammbi a s zotus table silvav datarelease txt and eukaryote ammbi 
+sv zotus table silvav pr datarelease txt datasets which include zotu sequence 
+sequentially indexed unique identifiers for each zotu sum of zotu abundance in the dataset zotu
+sample by abundance table silva v taxonomy string and pr taxonomy string eukaryotes only as
+well as a contextual data file labelled ammbi contextual data master sheet nsd submis 
+sion providing a snapshot of imos nrs environmental data harvested from the aodn at the time of
+manuscript submission are available on figshare data citation 
+
+a search function enabling taxonomic and contextual data informed interrogation of and download
+of data from the latest sequence read abundance table is available from
+
+https data bioplatforms com organization about australian microbiome 
+
+technical validation
+ammbi represents to our knowledge the first methodologically standardized continental scale 
+temporal microbial ocean observing network we have attempted to minimize biases in the data
+generation pipeline by using the same simple sampling protocol at all stations and centralizing each step
+of dna extraction csiro sequencing ramaciotti centre for genomics and bioinformatics csiro 
+in core facilities that is apart from sampling all steps of the project are carried out concurrently on
+samples from all stations the congruence of our phylogenetic characterization of samples with what is
+known concerning marine microbial assemblages globally reveals the suitability of our approach 
+
+the alphaproteobacterial family the pelagibacteraceae sar clade compose of the sequences
+from surface waters at each station while the sar clade is the most common and abundant
+gammaproteobacterial taxa fig a the marine cyanobacteria prochlorococcus and synechococcus
+constitute the bulk of the bacterial phototrophic assemblage and vary in their relative abundance with
+prochlorococcus relatively more prevalent at stations which display seasonal oligotrophic conditions such
+as nsi and yon fig a similarly the euryarchaeota marine groups ii and thaumarchaeota are the
+most abundant archaeal taxa fig c 
+
+ s rrna gene relative abundance data provides information concerning heterotrophic symbiotic
+and parasitic eukaryotes including metazoa and amoebozoa as well as mixotrophic and phototrophic
+taxa including dinophyceae stramenopiles hacrobia cryptomonads and haptophytes and archae 
+plastida red and green algae fig the overall diversity revealed within eukaryote taxa is exceptional
+ taxa identified analyses of taxa in sub groups fig b–f reveals regional trends in species
+abundance and distribution for example several diatom taxa present distinct biogeographical
+preferences at individual nrs particularly chaetoceros thalassiosira and leptocylindrus while other
+species display a more cosmopolitan distribution e g pseudo nitzschia noctiluca scintillans a
+mixotrophic dinoflagellate linked to bright red and bioluminescent coastal blooms is detected at
+stations along the east coast mai phb and nsi fig e a number of species associated with harmful
+algal blooms are detected within the data alexandrium noctiluca and gymnodinium which highlights
+the potential of this initiative to enhance understanding of bloom dynamics within the context of a
+holistic record of microbial community structure 
+
+data on phototrophs is further enhanced by specific analysis of plastid s rrna genes that are
+retrieved using the bacterial s gene assay fig b plastid s rrna sequences comprise between 
+and of total bacterial sequences in surface samples o m depth the plastid s data is highly
+complementary with s data and provides a proxy for the relative abundances of prokaryotic and
+eukaryotic phototrophs which can be used to fine tune our understanding of regional phytoplankton
+provinces for example picoeukaryote species ostreococcus and micromonas contribute a significant
+proportion of phytoplankton sequences particularly at mid latitude stations mai kai rot phb 
+while cyanobacteria represent a greater proportion of s sequences in low latitude stations dar 
+yon nsi 
+
+usage notes
+there is considerable redundancy in the microbial taxa sampled across the seven nrs enabling us to
+collect baseline data about the seasonal dynamics of a wide variety of organisms across the breadth of
+their habitat range hence the scope of this project enables us to effectively elucidate microbial niche
+conditions and describe microbial phenology further the data provide a critical baseline against which
+to measure and from which to predict changes in microbial assemblages under future global change
+scenarios indeed ammbi data is being used to hindcast abundances of individual microbial taxa to
+long term historic oceanographic datasets to infer decadal scale trends in microbial composition and to
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https data bioplatforms com bpa marine microbes amplicon
+https portal aodn org au 
+https data bioplatforms com organization about australian microbiome
+
+
+forecast taxa response to future climate scenarios as observations are ongoing we will reveal any shifts in
+organismal dynamics and distributions which result from basin scale climatic events such as the enso in
+the pacific regions and the iod which has its greatest affect along australia’s western coast we are also
+using this data to test the phylogenetic breadth of bioregionalisation provinces currently assigned using
+microscopy counts of phytoplankton 
+
+proteobacteria unclassified
+alphaproteobacteria
+alphaproteobacteria rhodobacteraceae
+alphaproteobacteria rhodobacteraceae nautella
+alphaproteobacteria rhodobacteraceae octadecabacter
+alphaproteobacteria rhodospirillaceae
+alphaproteobacteria pelagibacteraceae sar 
+gammaproteobacteria
+gammaproteobacteria oceanospirillales sar 
+gammaproteobacteria oceanospirillales 
+gammaproteobacteria piscirickettsiaceae
+cyanobacteria prochlorococcus
+cyanobacteria synechococcus
+bacteroidetes flavobacteriales
+bacteroidetes flavobacteriaceae
+bacteroidetes flavobacteriaceae polaribacter
+bacteroidetes flavobacteriales ns 
+chloroflexi sar 
+deltaproteobacteria sar 
+actinobacteria ocs 
+p sar c ab o arctic b f a g sgsh 
+p sar c ab o arctic b f a g za c 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+darkaimai nsiphb rotyon
+
+crenarchaeota mbga
+
+crenarchaeota thaumarchaeota cenarchaeaceae
+
+crenarchaeota thaumarchaeota cenarchaeum symbiosum
+
+crenarchaeota thaumarchaeota nitrosopumilus
+
+crenarchaeota thaumarchaeota nitrosopumilus pivwa 
+
+euryarchaeota dseg a 
+
+euryarchaeota halobacteria halobacteriaceae halolamina
+
+euryarchaeota methanobacteria methanobacteriales pmc a 
+
+euryarchaeota thermoplasmata dhveg 
+
+euryarchaeota thermoplasmata marine group ii
+
+euryarchaeota thermoplasmata marine group iii
+
+darkaimai nsiphb rotyon
+
+hacrobia prymnesiophyceae braarudosphaeraceae sp 
+hacrobia prymnesiophyceae braarudosphaera bigelowii
+hacrobia prymnesiophyceae prymnesiaceae sp 
+hacrobia prymnesiophyceae chrysochromulinaceae sp 
+hacrobia prymnesiophyceae phaeocystaceae sp 
+hacrobia prymnesiophyceae noelaerhabdaceae sp 
+hacrobia prymnesiophyceae 
+hacrobia cryptophyta pyrenomonadales sp 
+hacrobia cryptophyta geminigeraceae sp 
+stramenopiles pelagophyceae sarcinochrysidaceae sp 
+stramenopiles pelagophyceae pelagophyceae sp 
+stramenopiles dictyochophyceae sp 
+stramenopiles chrysophyceae synurophyceae sp 
+stramenopiles bacillariophyta coscinodiscophyceae triceratiales sp 
+stramenopiles bacillariophyta coscinodiscophyceae thalassiosirales sp 
+stramenopiles bacillariophyta coscinodiscophyceae hemiaulales sp 
+stramenopiles bacillariophyta coscinodiscophyceae cymatosirales sp
+stramenopiles bacillariophyta coscinodiscophyceae chaetocerotales sp 
+stramenopiles bacillariophyta bacillariophyceae sp 
+stramenopiles bacillariophyta bacillariophyceae
+stramenopiles bacillariophyta
+stramenopiles ochrophyta
+archaeplastida chlorophyta prasinophyceae sp 
+archaeplastida chlorophyta mamiellaceae sp 
+archaeplastida chlorophyta bathycoccaceae sp 
+
+darkaimai nsiphb rotyon
+
+figure a molecular overview of microbial assemblages retrieved from surface waters at seven imos
+
+nrs around australia profiles display the relative abundance of a bacterial b plastid and c archaeal taxa
+
+contributing to of combined s rrna reads in samples collected at m and m depths over the
+course of the study one two litre sample per depth was collected during each nrs sample trip except darwin
+
+where three samples per depth were taken at three hour intervals on two of the quarterly trips and one dna
+
+extraction and amplicon pcr performed per sample mai n phb nsi yon kai 
+rot dar for this analysis bacterial and archaeal taxonomic assignments were made using the
+greengenes database release and reads corresponding to chloroplast sequences were removed from the
+
+bacterial dataset and analysed independently with taxonomy assigned using the phytoref database based on
+
+ plastid s rrna gene sequences scripts used to generate figs and are available on github at
+
+https github com martinostrowski marinemicrobes 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https github com martinostrowski marinemicrobes
+
+
+we encourage users to download data from the australian microbiome searchable data portal at
+https data bioplatforms com organization about australian microbiome full usage requires free regis 
+tration to search the marine dataset navigate to “tools search facility” under the “contextual filters”
+box on the right use the “environment” dropdown menu to choose “marine” additional contextual
+filters e g temperature can be “added” in this box including using “nrs location code voyage code”
+to choose samples from specific nrs stations e g text includes “mai” users are also able to “filter on
+amplicon” f r bacteria a f r arcahea or sv f sv r v eukaryote and or taxonomy based
+on silvav string format 
+
+dna from all samples is archived in multiple aliquots at c at csrio oceans and atmosphere in
+hobart tasmania and is accessible for re analysis should the proposed methods be deemed to provide a
+substantial improvement or progress over prior results 
+
+references
+ azam f microbial control of oceanic carbon flux the plot thickens science – 
+ lynch t p et al imos national reference stations a continental wide physical chemical and biological coastal
+observing system plos one e 
+
+ middleton j f et al el nino effects and upwelling off south australia j phys oceanogr – 
+ ward t m et al pelagic ecology of a northern boundary current system effects of upwelling on the production and distribution
+of sardine sardinops sagax anchovy engraulis australis and southern bluefin tuna thunnus maccoyii in the great
+australian bight fish oceanogr – 
+
+ feng m weller e hill k the leeuwin current in eds poloczanska e s hobday a j richardson a j a marine
+climate change impacts and adaptation responses in australia report card nccarf publication 
+
+ ridgway k r seasonal circulation around tasmania an interface between eastern and western boundary dynamics journal of
+geophysical research oceans 
+
+ poloczanska e s et al climate change and australian marine life oceanogr mar biol – 
+ mcleod d j hallegraeff g m hosie g w richardson a j climate driven range expansion of the red tide dinoflagellate
+noctiluca scintillans into the southern ocean journal of plankton research – 
+
+figure a molecular overview of eukaryotic taxa retrieved from surface waters at seven imos nrs
+
+around australia profiles display the relative abundance of a all taxa contributing to of combined s
+rrna reads in samples collected at m and m depths over the course of the study sample details as per fig 
+
+ more detailed taxonomic resolution is provided for b the archeaplastida and hacrobia c the diatoms
+
+ bacilliarophyta d the opisthokonts e the dinophyceae and f the stramenopiles other than diatoms 
+
+note the scale differences for plots b f which reflect the abundance of sequences for each subgroup in the
+
+entire dataset 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https data bioplatforms com organization about australian microbiome
+
+
+ figueira w f booth d j increasing ocean temperatures allow tropical fishes to survive overwinter in temperate waters 
+global change biology – 
+
+ hayes d et al collation and analysis of oceanographic datasets for national marine bioregionalisation a report to the
+australian government national oceans office https www environment gov au resource collation and analysis oceano 
+graphic datasets national marine bioregionalisationdepartment of the environment and heritage 
+
+ appleyard s abell g watson r tackling microbial related issues in cultured shellfish via integrated molecular and water
+chemistry approaches seafood crc report no 
+
+ lane d j et al rapid determination of s ribosomal rna sequences for phylogenetic analyses proc nat acad sci usa 
+ – 
+
+ lane d j s s rrna sequencingin nucleic acid techniques in bacterial systematics – john wiley and sons 
+ delong e f archaea in coastal marine environments proc nat acad sci usa – 
+ stoeck t et al multiple marker parallel tag environmental dna sequencing reveals a highly complex eukaryotic community in
+
+marine anoxic water mol ecol – 
+ piredda r et al diversity and temporal patterns of planktonic protist assemblages at a mediterranean long term ecological
+
+research site fems microbiol ecol fiw 
+ bissett a et al introducing base the biomes of australian soil environments soil microbial diversity database gigascience 
+
+ 
+ andrews s fastqc a quality control tool for high throughput sequence data http www bioinformatics babraham ac uk projects 
+
+fastqc 
+ magoc t salzberg s l flash fast length adjustment of short reads to improve genome assemblies bioinformatics 
+
+ – 
+ schloss p d et al introducing mothur open source platform independent community supported software for describing and
+
+comparing microbial communities appl environ microbiol – 
+ rideout j r et al subsampled open reference clustering creates consistent comprehensive otu definitions and scales to billions
+
+of sequences peerj e 
+ edgar r c search and clustering orders of magnitude faster than blast bioinformatics – 
+ yilmaz p et al the silva and all species living tree project ltp taxonomic frameworks nucleic acids res 
+
+d –d 
+ wang q garrity g m tiedje j m cole j r naive bayesian classifier for rapid assignment of rrna sequences into the new
+
+bacterial taxonomy appl environ microbiol – 
+ guillou l et al the protist ribosomal reference database pr a catalog of unicellulareukaryote small sub unit rrna
+
+sequences with curated taxonomy nucleic acids res d –d 
+ edgar r c uparse highly accurate otu sequences from microbial amplicon reads nature methods 
+ morris r m et al sar clade dominates ocean surface bacterioplankton communities nature – 
+ biller s j berube p m lindell d chisholm s w prochlorococcus the structure and function of collective diversity nature
+
+rev microbiol – 
+ karner m b delong e f karl d m archaeal dominance in the mesopelagic zone of the pacific ocean nature 
+
+ – 
+ mcdonald d et al an improved greengenes taxonomy with explicit ranks for ecological and evolutionary analyses of bacteria
+
+and archaea isme j – 
+
+data citations
+ brown m v figshare https doi org m figshare v 
+ ncbi sequence read archive srp 
+
+acknowledgements
+the first three years of this project and part of the activities afterwards was funded by australian
+research council awards dp to m v b ja f dp to j s m v b l b 
+dp to m v b m o ja f l b the environmental genomics project from csiro oceans
+and atmosphere and a csiro oce science leader fellowship to l b 
+
+data sourced from and sample collection funded by the integrated marine observing system imos 
+— imos is a national collaborative research infrastructure supported by the australian government 
+sequencing and bioinformatics of this program is funded by bioplatforms australia bpa we would
+like to acknowledge the contribution of the marine microbes project consortium https data 
+bioplatforms com organization pages bpa marine microbes consortium in the generation of data used
+in this publication the marine microbes project is supported by funding from bioplatforms australia
+through the australian government national collaborative research infrastructure strategy ncris 
+
+m v b j v d k a b m o j r s and l b had full access to all the data in the study and takes
+responsibility for the integrity of the data and the accuracy of the data analysis 
+
+author contributions
+designed the project l b m v b j v d k m o j r s t m a f a b j a f collected and prepared
+samples and contextual data t i m o m b t n f c c d l m b l n s t j j b i d f s r b h 
+g a p c t k s l s s n p p m p v r r c m s k m j w prepared dna j v d k s r m o t 
+k p c b r k g m b l m jas managed project logistics l b j v d k m v b m o j r s a b c 
+s i p p v r a f a r t i j k performed bioinformatics analysis a b j v d k m b m o performed
+data analysis a b j v d k m v b m o l b wrote the paper m v b j v d k m o j r s a b l b 
+all authors have read and approved the manuscript
+
+additional information
+supplementary information accompanies this paper at http www nature com sdata
+
+competing interests the authors declare no competing interests 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https www environment gov au resource collation and analysis oceanographic datasets national marine bioregionalisation
+https www environment gov au resource collation and analysis oceanographic datasets national marine bioregionalisation
+http www bioinformatics babraham ac uk projects fastqc 
+http www bioinformatics babraham ac uk projects fastqc 
+https doi org m figshare v 
+http identifiers org ncbi insdc sra srp 
+https data bioplatforms com organization pages bpa marine microbes consortium
+https data bioplatforms com organization pages bpa marine microbes consortium
+http www nature com sdata
+
+
+how to cite this article brown m v et al continental scale monitoring of marine microbiota by the
+australian marine microbial biodiversity initiative sci data doi sdata 
+ 
+
+publisher’s note springer nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations 
+
+open access this article is licensed under a creative commons attribution interna 
+tional license which permits use sharing adaptation distribution and reproduction in any
+
+medium or format as long as you give appropriate credit to the original author s and the source provide a
+link to the creative commons license and indicate if changes were made the images or other third party
+material in this article are included in the article’s creative commons license unless indicated otherwise in
+a credit line to the material if material is not included in the article’s creative commons license and your
+intended use is not permitted by statutory regulation or exceeds the permitted use you will need to obtain
+permission directly from the copyright holder to view a copy of this license visit http creativecommons 
+org licenses by 
+
+the creative commons public domain dedication waiver http creativecommons org publicdomain 
+zero applies to the metadata files made available in this article 
+
+© the author s 
+
+mark v brown jodie van de kamp martin ostrowski justin r seymour tim ingleton 
+lauren f messer thomas jeffries nahshon siboni bonnie laverock 
+jaume bibiloni isaksson tiffanie m nelson frank coman claire h davies dion frampton 
+mark rayner kirianne goossen stan robert bronwyn holmes guy c j abell 
+pascal craw tim kahlke swan li san sow kirsty mcallister jonathan windsor 
+michele skuza ryan crossing nicole patten paul malthouse paul d van ruth 
+ian paulsen jed a fuhrman anthony richardson jason koval andrew bissett 
+anna fitzgerald tim moltmann levente bodrossy 
+
+ school of environmental and life sciences university of newcastle callaghan nsw australia csiro oceans
+and atmosphere hobart tas australia department of chemistry and biomolecular sciences macquarie
+university sydney nsw australia plant functional biology and climate change cluster university of
+technology sydney sydney nsw australia office of environment and heritage sydney nsw australia 
+ australian centre for ecogenomics university of queensland brisbane qld australia hawkesbury institute for
+the environment western sydney university sydney nsw australia geelong centre for emerging infectious
+diseases deakin university geelong vic australia csiro oceans and atmosphere brisbane qld 
+australia australian institute of marine science darwin nt australia australian institute of marine science 
+townsville qld australia csiro centre for environment and life sciences floreat wa australia 
+ south australian research and development institute adelaide sa australia university of southern
+california los angeles ca usa centre for applications in natural resource mathematics school of
+mathematics and physics the university of queensland st lucia qld australia ramaciotti centre for
+genomics unsw australia sydney nsw australia bioplatforms australia sydney nsw australia 
+ integrated marine observing system hobart tas australia 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org publicdomain zero 
+http creativecommons org publicdomain zero 
+
+	systematic continental scale temporal monitoring of marine pelagic microbiota by the australian marine microbial biodiversity initiative
+	background summary
+	methods
+	microbial sample collection
+	sampling sites
+
+	figure locations of australia x s integrated marine observing system imos national reference stations nrs inset are mean annual sea temperature plots for each month and depth from which samples are collected at each station plotted over
+	dna extraction
+
+	table 
+	dna sequence generation
+	dna sequence processing
+
+	data records
+	table 
+	technical validation
+	usage notes
+	figure a molecular overview of microbial assemblages retrieved from surface waters at seven imos nrs around australia profiles display the relative abundance of a bacterial b plastid and c archaeal taxa contributing togt of combined x s
+	references
+	figure a molecular overview of eukaryotic taxa retrieved from surface waters at seven imos nrs around australia profiles display the relative abundance of a all taxa contributing togt of combined x s rrna reads in samples collected at x
+	references
+	the first three years of this project and part of the activities afterwards was funded by australian research council awards dp to m v b ja f dp to j s m v b l b dp to m v b m o ja f l b the environmental geno
+	acknowledgements
+	design type s observation design x time series design x taxonomic diversity assessment by targeted gene survey x biodiversity assessment objectivemeasurement type s rrna s x rrna stechnology type s amplicon sequencingfact
+	additional information
+
+
+

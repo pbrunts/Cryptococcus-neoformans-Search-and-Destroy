@@ -1,0 +1,1464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strong succession in arbuscular mycorrhizal fungal communities
+
+
+the isme journal – 
+https doi org s 
+
+article
+
+strong succession in arbuscular mycorrhizal fungal communities
+
+cheng gao ● liliam montoya ● ling xu ● mary madera ● joy hollingsworth ● elizabeth purdom ●
+
+robert b hutmacher ● jeffery a dahlberg ● devin coleman derr ● peggy g lemaux ● john w taylor 
+
+received february revised june accepted july published online august 
+© the author s this article is published with open access
+
+abstract
+the ecology of fungi lags behind that of plants and animals because most fungi are microscopic and hidden in their
+substrates here we address the basic ecological process of fungal succession in nature using the microscopic arbuscular
+mycorrhizal fungi amf that form essential mutualisms with – of plants we find a signal for temporal change in
+amf community similarity that is fold stronger than seen in the most recent studies likely due to weekly samplings of
+roots rhizosphere and soil throughout the weeks from seedling to fruit maturity and the use of the fungal dna barcode to
+recognize species in a simple agricultural environment we demonstrate the patterns of nestedness and turnover and the
+microbial equivalents of the processes of immigration and extinction that is appearance and disappearance we also provide
+the first evidence that amf species co exist rather than simply co occur by demonstrating negative density dependent
+population growth for multiple species our study shows the advantages of using fungi to test basic ecological hypotheses
+ e g nestedness v turnover immigration v extinction and coexistence theory over periods as short as one season 
+
+introduction
+
+arbuscular mycorrhizal fungi amf are among the most
+important fungi because they form obligate symbioses that
+provide phosphorus and nitrogen to to of plant
+species including almost all agricultural crops for
+more than two decades the role of amf as drivers of plant
+community structure and vice versa has been recognized
+
+ – however owing to the resistance of amf to culti 
+vation studies of their ecology have been hampered by
+controversies over their ability to reproduce sexually the
+homogeneity of nuclei in a single individual and the
+recognition of amf species using rdna regions of dif 
+ferent evolutionary rate – 
+
+detection of succession the basic ecological process that
+describes the changes in community similarity over time
+ is one of the ecological investigations most sensitive to
+species recognition the changes in communities over time 
+whether labelled succession or temporal dynamics have
+been investigated extensively with modern approaches in
+plant communities – studied less extensively in
+microbial communities – and are just beginning to be
+examined with modern tools in amf reviewed by bahram
+et al table s the three most thorough of these
+studies reviewed by bahram et al table s include
+two studies that recognized fungal operational taxonomic
+units otus with the internal transcribed spacer its from
+samples taken either once in each of the four seasons 
+or three times in a single season and a third that
+recognized amf otus with small subunit ssu or s 
+ribosomal rdna from four sampling times from one season
+ using data from these three studies to analyze tem 
+poral change in fungal community composition we found a
+low albeit significant rate of change – units of
+bray–curtis dissimilarity per week fig a–c 
+
+ john w taylor
+jtaylor berkeley edu
+
+ department of plant and microbial biology university of
+california berkeley ca usa
+
+ plant gene expression center us department of agriculture 
+agricultural research service albany ca usa
+
+ university of california kearney agricultural research 
+extension center parlier ca usa
+
+ department of statistics university of california berkeley ca
+ usa
+
+ university of california west side research extension center 
+uc davis department of plant sciences five points ca 
+usa
+
+electronic supplementary material the online version of this article
+ https doi org s contains supplementary
+material which is available to authorized users 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+http crossmark crossref org dialog doi s domain pdf
+http crossmark crossref org dialog doi s domain pdf
+http crossmark crossref org dialog doi s domain pdf
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+mailto jtaylor berkeley edu
+https doi org s 
+
+
+we hypothesized that the actual rate of change in amf
+community composition should be higher than could be
+detected in these studies dues to two factors first temporal
+change is difficult to detect where variation in the compo 
+nents of the amf system plant symbionts soil hydration 
+and season is large compared to the level of sampling
+ table s second change in community composition is
+under reported when amf species level otu recognition
+relies on the conserved ssu ribosomal rdna 
+ rather than on the more variable its which is the
+molecular “barcode” region used for otu recognition in
+almost all other fungal studies – 
+
+here we revisit the basic ecological process of succes 
+sion by i using a system with low environmental hetero 
+geneity comprising only one soil type one irrigation
+scheme two cultivars of the agricultural host plant sor 
+ghum sorghum bicolor l moench and weekly tripli 
+cate sampling of soil rhizosphere and roots throughout the
+ weeks from seedling emergence through grain matura 
+tion and ii using otus characterized with its by a
+recently published approach database s s our
+data show a signal of succession in amf communities that
+is more than an order of magnitude larger than previously
+reported to understand the basis for this signal we explore
+
+fig arbuscular mycorrhizal fungal community change correlated
+over time temporal distance a–f and space spatial distance g–i 
+temporal distance in weeks between sampling times as correlated
+with bray–curtis community dissimilarity by mantel testing in pub 
+lished data from a samples time points vertical
+layers plots m with c m border b samples 
+time points treatments and c samples time points 
+crops sample type plots m plots with m border and
+from new data presented in this study for d root time points 
+plots e rhizosphere time points plots and f soil time
+points plots with all plots having the dimensions m m with at
+least a m boarder spatial distance as correlated with bray–curtis
+
+community dissimilarity by mantel testing from new data present in
+this study for g root h rhizosphere and i soil note the much
+stronger association of community dissimilarity and temporal distance
+reflected by r and slope for root rhizosphere and soil in this study than
+ and and the near absence of association of community
+dissimilarity and spatial distance in this study the result is
+based on a total fungal community dataset rather than amf commu 
+nity due to the low recovery of amf in that study analyses in d–f 
+treat sequence data as counts rarefied among amf fungi and are nearly
+identical to analyses treating data as counts rarefied among all fungi or
+treating data as compositional fig s 
+
+strong succession in arbuscular mycorrhizal fungal communities 
+
+
+
+patterns of the nestedness and turnover the processes of
+appearance and disappearance proxies for the processes of
+immigration and extinction that are appropriate for micro 
+bial hts datasets and ask if the processes are determi 
+nistic or stochastic and positively or negatively dependent
+on initial population size 
+
+methods
+
+sampling and sequencing
+
+this experiment was conducted at the semiarid kearney
+agricultural research and extension kare center in
+parlier ca usa ° n ° w two sor 
+ghum sorghum bicolor l moench cultivars with similar
+flowering times rtx and btx were planted in
+three separate × m plots each with ten rows with m
+borders between plots fig s and were watered using
+drip irrigation with of calculated evapotranspiration on
+a weekly basis the trial was planted on th may
+ and plants emergence was recorded on st june 
+weekly samples of root rhizosphere and soil were taken in
+ on june july august 
+ and september at each sampling
+time ten or more individual sorghum plants were removed
+from randomly chosen locations within one of the central
+eight rows in each plot and combined to generate one root
+sample and one rhizosphere sample at the same time ten
+soil cores were taken from random locations in each plot
+and combined to generate one soil sample thus a total of
+ samples were taken which comprise weekly sam 
+ples of the two cultivars and three compartments root 
+rhizosphere and soil all with three replicates plus six soil
+samples collected prior to planting dnas of root rhizo 
+sphere and soil samples were extracted using the mobio
+powersoil dna kit mobio carlsbad ca usa the
+fungal internal transcribed spacer its region was
+amplified using forward and reverse primers designed to
+contain a forward or reverse base linker a base
+barcode a forward or reverse base pad a – base
+heterogeneity spacer and either the fungal
+its specific base sfun primer forward or base
+its fun primer reverse table s we used lee
+taylor’s its primers because the sfun and
+its fun matched well with all glomeromycotina lineages
+when we matched the primers with published ssu its 
+lsu alignments database s –s all the raw
+sequences are deposited in sequence read archive with the
+accession codes bioproject prjna biosamples
+samn samn detailed information
+about site description experiment design and molecular
+analysis can be found in the supplementary methods 
+
+bioinformatics
+
+overall sequencing quality was evaluated using fastqc
+v forward and reverse reads were merged using
+the fastq mergepairs command fastq maxdiffpct in
+usearch v primers were removed using cuta 
+dapt v quality control was carried out using the
+fastq filter command fastq maxee fastq minlen 
+in usearch high quality sequences were subjected
+to de replication and de singleton and then clustered into
+otus using the cluster otus command in usearch 
+the otus were searched against the raw reads using the
+usearch global command id in usearch 
+this step generated a table of samples× otus
+ reads the representative sequence of each
+otu was identified by a blast search against the curated 
+fungal specific unite database and the ncbi data 
+base fifty two otus reads were identified as
+amf table s whereas otus were non amf
+ reads and were non fungal 
+reads to use phylogenetics to equate amf otus with
+known species sequences representing the amf otus
+were combined with vouchered sequences downloaded
+from ncbi and unite and all sequences were aligned
+using mafft v placed in a neighbor joining
+tree using mega v representative sequences of
+amf otus were deposited in genbank with the accession
+codes mg mg owing to the possibility of
+multiple its sequences within an individual amf we
+searched for otus with identical read abundance by ana 
+lysis of variance anova for otus with no difference
+in abundance a series of pairwise correlations was then
+carried out and those otus with equal abundance and
+strong positive correlation were combined to avoid the issue
+of multiplicity of its sequences within individual amf 
+
+statistical methods
+
+recent recognition that microbiome data from high 
+throughput sequencing hts represents a random sample
+of the dna molecules in an environment and not absolute
+counts of the molecules dictates that the data be treated as
+compositional and not as counts as commonly has
+been done therefore we use one compositional and two
+traditional approaches to analyze our amf data to both
+analyze the data as compositional and to permit compar 
+isons with prior studies for the first traditional approach
+ dataset we rarefied the number of amf sequences per
+sample to using the rrarefy command in vegan in r 
+ an approach designed to eliminate the effects of dif 
+ferent read numbers among the samples on the deduced
+amf community composition for the second traditional
+approach dataset we rarefied all fungal reads to 
+
+ c gao et al 
+
+
+
+and then extracted the amf subset of this normalized
+fungal data an approach designed to eliminate the effects of
+different fungal read numbers but retain the abundance
+variation of amfs among the samples for the composi 
+tional method dataset we imputed zeros in amf com 
+positional count data sets based on a bayesian 
+multiplicative replacement using the cmultrepl command
+in zcompositions and then converted these data to the
+centered log ratio clr using the codaseq clr command in
+codaseq https github com ggloor codaseq we
+present analyses of the three datasets in figure and supple 
+mental figures to invite comparison direct comparison is
+possible with permutation tests for anova perm
+anova but not for other analyses because the statistical
+methods for compositional datasets are different from those
+for traditional count datasets e g bray–curtis dissimilarity
+for counts v aitchison distance for compositional and
+principal coordinate pco analysis for counts v principal
+component pc analysis for compositional for some
+of our analyses methods are not yet available for compo 
+sitional datasets e g partition of nestedness and turnover
+components of beta diversity 
+
+by plotting time and amf richness dataset we
+demonstrated the temporal dynamics of amf diversity to
+assess the phylogenetic relatedness of amf otus within
+every sample the net relatedness index nri was calcu 
+lated based on the above mentioned phylogenetic trees and
+community composition data using the ses mpd command
+ ×− in picante package relationships between time
+and abundance of initially dominant and initially rare otus
+ dataset were explored by linear mixed effects
+models including random effects of otu identity using the
+lme command in the lme package the variance
+explained conditional r by the mixed effect models was
+calculated by the r squaredglmm function in mumin
+package 
+
+bray–curtis dissimilarities were calculated for dataset 
+and to construct distance matrices of the amf community
+ hellinger transformed using the vegdist command in
+vegan and aitchison distances were calculated for
+dataset perm anova were carried out to assess
+the effect of compartment soil rhizosphere or root time
+period and cultivar on the amf community variation either
+detected by bray–curtis dissimilarities or aitchison dis 
+tances using the adonis command in vegan euclidean
+dissimilarities were calculated to construct distance matrices
+of geographic temporal temperature and solar radiation
+distances respectively in vegan mantel tests were
+carried out to explore the correlations between these dis 
+tance matrices partial mantel tests were carried out to
+explore the relationships between amf community dis 
+similarity and temporal distance after excluding the influ 
+ence of geographic distance conversely partial mantel
+
+tests were carried out to explore the relationships between
+amf community dissimilarity and geographic distance 
+after excluding the influence of temporal distance struc 
+tural equation models sem using mantel r values as input
+were constructed in amos to explore the causal
+relationships among time solar radiation temperature plant
+biomass and amf community composition based on a
+priori and theoretical knowledge we assumed a conceptual
+model in which time and solar radiation affect temperature 
+which in turn affects plant biomass which further influ 
+ences amf community composition to test the homo 
+geneity of amf community during succession beta
+dispersion of amf communities was explored by the
+betadisper function in vegan to graphically illustrate
+the amf community composition amf bray–curtis dis 
+similarity matrices were ordinated by pco analysis using
+the pcoa command in the ape package and amf
+aitchison distance were ordinated by pc analysis using the
+prcomp command in stats package the turnover and
+nestedness components of amf community were calcu 
+lated based on the presence absence data using the beta pair
+command index family ‘sorensen’ in the betapart
+package and were fitted with temporal distance using
+the mantel test in vegan the nestedness of amf
+community was graphically illustrated by the nestedtemp
+command in vegan package 
+
+to test how the amf succession might be influenced by
+the amf otu cutoff the otu delineation processes were
+repeated by changing the otu cutoff from the defaulted 
+to in increments of we calculated the amf
+community bray curits dissimilarity of every otu cutoff 
+and fitted it with temporal distance using mantel test as
+mentioned above 
+
+to compare the temporal dynamics of amf commu 
+nities in our study with those previously reported by bai 
+nard et al han et al and voříšková et al we
+calculated for the three previous studies bray–curtis dis 
+similarities of hellinger transformed amf community data 
+and euclidean dissimilarities of temporal distance in terms
+of simulated weekly sampling mantel tests were carried out
+to explore the correlations between amf community dis 
+similarity and the temporal distances in vegan 
+
+results and discussion
+
+recognition of amf otus by its 
+
+to recognize amf otus that approximate species more
+closely than ssu otus we use the its region of the rna
+repeat here using illumina miseq of
+fungal its amplified by dual barcoded lee taylor’s fun 
+gal specific primers we successfully recognized 
+
+strong succession in arbuscular mycorrhizal fungal communities 
+
+https github com ggloor codaseq
+
+
+amf otus with amf reads belonging to glomus
+ otus rhizophagus otus claroideoglomus 
+otus funneliformis otus paraglomus otus 
+and unidentified glomeraceae otus fig s the
+thorough sampling samples produced a species
+accumulating curve that reached its plateau for the species 
+poor amfs otus in a relative small m 
+simple agricultural field fig s in line with this result of
+the amf otus only five occurred in fewer than
+ samples suggesting a lack of rare otus in our study
+ fig s 
+
+as described in the section on statistical methods to both
+recognize the compositional nature of hts microbiome
+data and to permit comparisons of our results with
+previous studies that treat hts data as counts we analyzed
+the data both as counts and compositional we employed
+two count methods in data set we rarefied to equal amf
+reads and in dataset we rarefied to equal fungal reads for
+compositional analysis in dataset we transformed the data
+by the clr method the largest difference is the
+detected effect of time r for dataset r 
+for dataset and r for dataset as explored by
+perm anova all p fig s despite these
+differences analyses of the three different datasets gener 
+ated remarkably consistent results in all applicable analyses
+that similarly supported the main conclusions of our study
+ fig s –s 
+
+in light of recent reports of its variation as high as to
+ in amf species level clades we also
+investigated the effect on ecological analyses of reducing in
+ increments the threshold of otu recognition by its 
+we found that the rate of amf succession was not sub 
+stantially changed until the cutoff was reduced from to
+ intra otu variation fig s therefore our
+findings are not affected by the potential intraspecific var 
+iation reported for amf species 
+
+the use of its has been questioned due to reports
+showing that one amf individual can contain more than
+one independently evolving rdna repeat 
+mindful of the possibility of amplifying and sequencing
+more than one rdna repeat in a single species of glo 
+meromycotina we searched for possible intra individual
+rdna polymorphism by correlating read abundance for the
+different its otus over the weeks of sampling 
+strongly correlated its read abundance fig s was seen
+for three rhizophagus otus therefore 
+due to the possibility that they might represent a single
+amf species we treated these three rhizophagus otus as
+a single species in our analysis reducing the number of
+its otus from to two other rhizophagus otus
+showed similar read abundance patterns fig s a but the
+unequal abundance of reads fig s b indicated that they
+represented distinct otus and we retained them in our
+
+analyses to assess the effect of reducing the number of
+otus from to we repeated the following ecological
+analyses with all its otus finding no differences in
+ecological results their significance or our subsequent
+conclusions figs s –s 
+
+succession of amf community
+
+our analyses showed a strong positive mantel correlation
+ r – p between temporal distance
+ graphed on the x axis as weeks between sampling times 
+and amf community bray–curtis dataset or aitch 
+ison dataset dissimilarity in root rhizosphere and soil
+samples fig d–f fig s the slope of the change in
+dissimilarity per week found here – units of
+bray–curtis dissimilarity per week dataset is – 
+times greater than the first previously mentioned study
+ units of bray–curtis dissimilarity per week fig a 
+ – times greater than the second units
+of bray–curtis dissimilarity per week fig b and
+ – times greater than the third units of bray–
+curtis dissimilarity per week fig c this change in
+amf community composition can also be visualized by
+ordination pco for dataset pc for dataset analysis
+ fig a fig s by a proportional bar plot of amf
+relative abundance dataset fig b or by a bar plot of
+percentage of amfs in total fungal reads dataset 
+fig c in addition to the graph of community dissimilarity
+and temporal distance fig d–f fig s fig s fig 
+s this strong amf succession was also seen using
+perm anova r – p fig a fig 
+s this succession is not confounded by beta dispersion in
+root rhizosphere and soil fig s we recognize that the
+concept of succession which was developed for plant
+communities is controversial when applied to microbial
+communities here we adopt a recent definition of suc 
+cession as “… somewhat orderly and predictable manner
+by which communities change over time following the
+colonization of a new environment…” by treating a
+newly emerged plant root as well its associated rhizosphere
+and soil as new environments for amfs to colonize and
+initiate succession 
+
+geographic distance is a factor known to have a major
+effect on amf community composition in
+contrast to temporal distance our analysis of the effect of
+geographic distance using mantel and partial mantel tests
+showed a small effect slope of the change in dissimilarity
+over distance to per meter r never greater than
+ on the variation of amf community dissimilarity in
+root rhizosphere and soil fig g–i thus we can infer
+that agricultural cultivation of a single plant species s 
+bicolor homogenizes amf communities over at a range of
+from to m but we cannot rule out environmental
+
+ c gao et al 
+
+
+
+heterogeneity that might occur at finer scales and that could
+affect amf community composition 
+
+amf community ecology follows approaches developed
+for plants with a major difference being the immediate
+source of energy insolation for plants and symbiotic part 
+ners for amf sorghum in our case of course temporal
+variation in insolation that directly affects the plant sym 
+biont should have an indirect effect on amf our sem
+results showed that amf community was directly affected
+by time and plant biomass and also indirectly by tem 
+perature and solar radiation fig surprisingly solar
+radiation negatively affected plant biomass it might be that
+at ˚n latitude in central california energy from insola 
+tion is not a limiting resource for sorghum growth but uv
+radiation and drought stress associated with high insolation
+might detrimentally affect accumulation of sorghum
+biomass 
+
+nestedness and turnover during amf community
+succession
+
+there are two divergent patterns describing the change in
+community composition turnover where some species
+are replaced by others over time and nestedness where
+the earlier community is a subset of the latter community 
+or vice versa our demonstration of amf commu 
+nity succession figs d–f was accompanied by an
+increase in richness fig a–c over the weeks from
+emergence of seedlings to maturation of grain in sorghum 
+so we expected nestedness to predominate but
+questioned if replacement turnover also was involved 
+
+mantel tests showed that temporal distance was sig 
+nificantly correlated with both the components of
+turnover r p and nestedness r 
+ p of amf community composition var 
+iation fig figs s –s the co occurrence of these
+two divergent patterns of change in community compo 
+sition suggested that there also would be more than a
+single ecological process underlying succession in the
+amf community 
+
+fig change in composition of arbuscular mycorrhizal fungal com 
+munities in three compartments root rhizosphere and soil over
+ weekly time period tp samplings a principal coordinate pco 
+analysis by perm anova showing significant association of com 
+munity composition with time period tp and compartment but not
+cultivar p ns not significant note that tp accounts for
+nearly half the variance which is far more than is accounted for by
+compartment root rhizosphere or soil or plant genotype sorghum
+
+cultivar rtx or btx b bar graph of amf operational taxo 
+nomic unit otu relative abundance at each tp and c bar graph of
+amf otus percentage in total fungal reads at each tp for the three
+compartments root rhizosphere and soil note the strong change in
+amf community composition over time analysis in a treats
+sequence data as counts rarefied among amf fungi and is nearly
+identical to analyses treating data as counts rarefied among all fungi or
+treating data as compositional fig s 
+
+fig structural equation model sem demonstrates that the suc 
+cession of arbuscular mycorrhizal fungal amf communities was
+directly affected by time and aboveground biomass of sorghum in
+addition to indirect via plant biomass effects of solar radiation and
+temperature the numbers above the arrows indicate the magnitude of
+path coefficients λ and this magnitude is also depicted by the width
+of the lines r values represent the proportion of variance explained
+for each variable
+
+strong succession in arbuscular mycorrhizal fungal communities 
+
+
+
+immigration and extinction in amf community
+succession
+
+immigration and extinction are the two fundamental pro 
+cesses responsible for the patterns of succession 
+although immigration and extinction are far more easily
+observed for plants than microscopic fungi our comparison
+of the first week time period tp and the last week
+ time period tp provide evidence for both pro 
+cesses two initially dominant tp otus with indicator
+values indval strong enough to make them significant
+indicators of the initial time period otu rhizophagus 
+indval p otu claroideoglomus 
+indval p were subsequently lost and 
+initially rare otus five rhizophagus indval –
+ p eight glomus indval – p 
+ became significant indicators by the final sampling at
+tp table s fig b this result was seen with abun 
+dance of amf alone or abundance of amf relative to all
+fungal although in the later analysis the initial dominance
+
+was delayed from tp to the nd week in root and rhi 
+zosphere and the th week in soil fig c 
+
+again acknowledging the difficulty of asserting the
+absence of a microscopic fungus the loss of the initially
+dominant otus is consistent with the action of forces
+causing extinction and the rise of the initially rare otus is
+consistent with the action of forces causing immigration 
+these two processes can be deterministic or stochastic and 
+in light of the expected dramatic effect on amf community
+composition of the emergence and growth of the sorghum
+monoculture determinism would seem the more likely
+explanation similarly other factors argue against chance as
+the dominant force including the paucity of rare otus in
+our communities fig s –s which minimizes the num 
+ber of otus most susceptible to stochastic extinction 
+and the similarity in amf community composition
+throughout the sorghum field fig g–i which limits the
+local pool of potential stochastic immigrants 
+
+the emergence of significant indicator otus
+ table s by the final time period tp raises the
+
+fig temporal dynamics of a–c richness and d–f phylogenetic
+relatedness of amf communities on two sorghum cultivars richness
+shows a consistent increase over time for all three compartments root 
+rhizosphere and soil phylogenetic relatedness net relatedness index 
+nri also increases over time eventually showing significant
+
+underdispersion as it rises above the threshold of significance hor 
+izontal purple line note that the threshold is reached earlier inside
+roots than outside them in the rhizosphere and soil and that both
+cultivars rtx and btx behave similarly in terms of richness
+and nri consistent with the analyses in fig a
+
+ c gao et al 
+
+
+
+question of coexistence of multiple species during succes 
+sion the creation of distinct niches by a developing host
+plant would favor coexistence of dissimilar species that
+could avoid competition by exploiting divergent niches i e 
+stabilizing niche differentiation a process consistent with
+phylogenetic overdispersion conversely the expan 
+sion of the same niche as expected of a growing sorghum
+crop would facilitate the immigration and coexistence of
+species adapted to the same environment successful
+immigrant taxa would be expected to show equal fitness in
+this expanding niche and assuming that fitness traits are
+phylogenetically conserved exhibit a phylogenetic under 
+dispersion due to evolutionary relatedness we find a
+phylogenetic underdispersion of indicator amf in the
+genera rhizophagus and glomus at tp table s in
+roots rhizosphere and soil fig d–f based calculation of
+the net relatedness index nri from an its phylogeny
+ fig s the lack of significant phylogenetic under 
+dispersion early in the season fig d–f indicative of
+stochastic community assembly is consistent with our
+having planted sorghum in a fallowed field that was pre 
+viously planted to oats and having no previous exposure to
+sorghum development of underdispersion indicative of
+phylogenetic similarity of amf community members later
+in the season supports coexistence by equalizing fitness 
+likely due to the expanding niche rather than avoiding
+competition by exploiting niche differences a similar shift
+from initially random to significant phylogenetic relatedness
+has been reported for amf communities of crop plants
+characterized by ssu otus in four soil samples taken over
+ weeks but not for root samples where the pattern was
+nonlinear over time the interpretation of phylogenetic
+
+underdisperson with equalizing fitness similarity relies on
+the phylogenetic conservation of traits but evidence of
+specific adaptive traits in amf remains rare 
+
+initial density dependent amf population
+demography
+
+a role for population density in the decline of initially
+dominant otus and the rise of initially rare otus is sug 
+gested from our data which document a decrease in relative
+abundance of the two otus dominant at tp rhizopha 
+gus claroideoglomus and an increase in relative
+abundance of otus rare at the same initial time period
+ fig b c in line with these observation time is sig 
+nificantly negatively correlated with initial dominant otus
+and positively correlated with initial rare otus as detected
+by linear mixed effect modeling of all three datasets whe 
+ther rarefied for amf reads for all fungal reads or not
+rarified and transformed by the clr method fig fig 
+s in the case of the two initially dominant otus whose
+relative abundance declined they may have experienced a
+fitness disadvantage associated with high population density
+and their decline would be the result of competitive exclu 
+sion of species due to a disadvantage in fitness as compared
+to the rest of the community conversely the population
+increases seen in the initially rare otus may have been
+due to a fitness advantage at low population density the
+magnitude of which would decrease as their populations
+grew our results echo the only other studies to report
+replacement over time of dominant amf otus in
+which the authors used ssu otus and five years of annual
+sampling to show that amf otus dominant in newly
+
+fig role of two patterns a turnover and b nestedness in the
+change in amf community composition over time the compositional
+variance of amf community measured by sorenson pair wise dis 
+similarity was partitioned into a turnover component simpson pair 
+wise dissimilarity and a nestedness component sorenson pair wise
+dissimilarity minus simpson pair wise dissimilarity following base 
+lga subsequently mantel tests were carried out to explore the
+
+correlation of temporal distance and either the turnover or nestedness
+components of amf compositional variance both amf turnover and
+nestedness showed significant and biologically meaningful associa 
+tions with temporal distance visualization of the superimposed points
+was enhanced by rendering them semi transparent and adding a small
+amount of noise to the temporal distances
+
+strong succession in arbuscular mycorrhizal fungal communities 
+
+
+
+germinated seedlings were almost entirely replaced by pre 
+viously rare types however with few samples and broad
+otu recognition they were unable to correlate the repla 
+cement with population density 
+
+the negative density dependent population growth
+observed here is explained in plant communities by two
+mechanisms resource partitioning and escape from natural
+enemies resource partitioning posits that different
+species either use different resources or partition the use of
+shared limited resources as a result species with
+large populations should experience limited population
+growth due to strong intraspecific competition whereas
+species with small populations should experience high
+population growth due to the lack of intraspecific compe 
+tition however support for the partitioning mechanism is
+not seen in the case of the six closely related rhizophagus
+otus table s that were shown above to be similar
+enough in fitness to avoid competitive exclusion and 
+therefore too similar to occupy different niche spaces 
+neither does partition theory appear to explain the inability
+of rhizophagus otu to maintain population size in the
+final time period likely due to competitive exclusion 
+because this process would not be expected to occur with
+effective partitioning under the mechanism of natural
+enemy escape species with large populations experience
+limited population growth rate due to the attraction and
+accumulation of more specific predators and pathogens 
+whereas species with small population experience high
+population growth rates due to the escape from host specific
+natural enemies alas we do not have any data on
+predators and pathogens of amf from our study although
+these organisms must exist 
+
+the negative density dependent population growth seen
+for at least initially rare otus indicates that popula 
+tions of these amf are able to increase in size while co 
+occurring with stable populations of other species this
+invasibilty together with the facts that these fungi live at the
+
+same trophic level and inhabit the same roots figs and 
+table s suggests that these representatives of two amf
+genera rhizophagus and glomus not only co occur but
+also co exist these amf otus represent the first
+microbes where negative density population growth in
+support of co existence has been demonstrated over a long
+period but further research will be needed to determine
+which phenotypic trade offs may be associated with co 
+existence such as aspects of colonization and life history
+strategy differential interaction with host plants peers and
+antagonists and variation in adaptation to features of the
+abiotic environmental 
+
+different amf in root rhizosphere and soil
+
+amf are obligately dependent upon carbon from the roots
+of plants so we expected that the amf communities of the
+rhizosphere and soil would follow those seen in the root 
+this pattern was evidenced by similar trends for amf in
+roots soil and rhizosphere in terms of temporal distance
+and succession geographic distance richness and phylo 
+genetic relatedness as mentioned above for example the
+lag in response to nutrients provided by sorghum from roots
+to soil could be seen in the percentage of total fungal reads
+attributable to amf which peaked at tp in root but
+peaked at tp in soil fig c our data also suggest that
+different amf species display different proportions of their
+thalli across the compartments of root rhizosphere and soil 
+in roots six rhizophagus otus were more commonly
+detected than in other compartments and when detected 
+were more abundant indval – p 
+table s fig in rhizosphere one claroideoglomus
+otu indval p was more common and
+abundant than in other compartments table s fig in
+soil five funneliformis otus indval – p 
+ three claroideoglomus indval – p 
+ two paraglomus indval – p 
+
+fig steep a decline of initially dominant otus and b rise of at
+least initially rare otus relationships between time and amf
+otu abundances were explored by linear mixed effects models 
+including random effects of amf identity the conditional r cal 
+culated here can be interpreted as the variance explained by the
+
+mixed effects models analyses in a b treat sequence data as
+counts rarefied among amf fungi and are nearly identical to ana 
+lyses treating data as counts rarefied among all fungi or treating data
+as compositional fig s 
+
+ c gao et al 
+
+
+
+and glomus indval – p were more
+common and abundant table s fig than in other
+compartments these results are consistent with observa 
+tions that rhizophagus species form abundant spores in the
+roots of vascular plants whereas funneliformis species
+form spores in the soil this variation in amf mor 
+phology in nature also raises the possibility that amf
+morphology could change over time thereby adding var 
+iation associated with function to studies of community
+composition 
+
+conclusion
+
+our ability to demonstrate a strong signal of succession in
+amf community composition over the sorghum growing
+season almost certainly rests on our choice of an experi 
+mental system with fewer variables than other studies
+ table s as well as characterization of otus by its 
+which recognizes species level taxa 
+treating dna sequence data as counts or as compositional
+showed no loss of statistical significance of results our
+approach also found that succession in amf communities
+of sorghum showed the pattern of turnover in addition to
+strong patterns of nestedness as has been reported in other
+studies of amf table s unlike previous studies of
+amf that reported stochastic assembly of amf commu 
+nities – we provide analyses that both immigration
+and extinction are deterministic in this relatively homo 
+genous environment based on the disappearance of initial
+dominant otus rather than rare otus and the homogeneity
+of amf communities throughout the sorghum field which
+fails to provide a pool of potential immigrants that might
+enter communities by chance the increase in phylogenetic
+similarity underdispersion of the many otus that
+
+immigrated is consistent with equalized fitness rather than
+niche differentiation as might be expected with one soil
+type and one host plant although phylogenetic under 
+dispersion of amf has been reported for more complex
+systems table s 
+
+the energies supporting succession or more broadly 
+temporal change in community composition are different
+for the two partners of the arbuscular mycorrhizal symbio 
+sis the autotrophic plant community is supported by solar
+radiation and the heterotrophic amf fungal community is
+supported by carbon fixed by the plant for plants the
+insolation inputs can be relatively consistent over the scale
+of plant community succession but the energy provided to
+the amf by the growing crop is clearly expanding with
+time therefore when the abundance of specific amf
+species declines during the season the reduction can be a
+combination of both absolute reduction and owing to the
+expanding resource provided by the plant reduction relative
+to increasing abundance of other amf species keeping this
+caveat about population density in mind the disappearance
+of two initially dominant taxa suggests activity promoted by
+high population density whereas the population growth of
+ immigrant otus suggests the opposite activity pro 
+moted by low population density for most of our ecolo 
+gical analyses soil and rhizosphere showed the same results
+as our primary focus sorghum roots however a difference
+in otu abundance between roots on one hand and soil plus
+rhizosphere on the other correlates with the behavior of
+amf genera some of which live and sporulate pre 
+dominately in the root and others that are known to spor 
+ulate prolifically outside the root as has been reported in
+other studies of amf table s our study provides a
+foundation for more ambitious studies of amf community
+ecology where our simple experimental system would be
+enlarged to include diversity in hosts soil hydration and
+
+fig ternary plot
+demonstrating the distribution of
+arbuscular mycorrhizal fungal
+ amf operational taxonomic
+units otus recovered from
+root rhizosphere and soil note
+a bias toward roots for
+rhizophagus otus toward
+rhizosphere for a
+clariodeoglomus otu and
+toward soil for glomus 
+claroideglomus funneliformis
+and paraglomus otus
+
+strong succession in arbuscular mycorrhizal fungal communities 
+
+
+
+fertilization with the eventual goal of effectively studying
+natural systems 
+
+due to our inability to cultivate amf apart from plants 
+many ghosts have haunted our understanding of these fungi 
+just as genomics is showing that the amf life cycle is
+typical of other fungi in terms of sex and nuclear
+variation within an individual mycobiome ecology
+is showing that amf community assembly is not a matter
+of chance but a process determined by biotic and abiotic
+factors the several studies noted above that also found
+patterns of nestedness table s and genetic similarity
+inferred from phylogenetic underdispersion table s 
+suggest that there may be general rules for assembly of
+amf communities that await discovery the succession of
+amf fungi seen here suggests that some amf species
+could be more beneficial to sorghum production than others
+and that these species might be added to agricultural fields
+along with seeds or applied later in the season our
+approach would also be useful in monitoring the persistence
+and effects of such additions on the amf communities of
+crop plants 
+
+acknowledgements we thank d j read t d bruns k g peay n 
+fierer k k treseder l d guo c e willing c hann soden r 
+adams and t s jenkinson for feedback on the manuscript we thank
+l tedersoo l l han and j voříšková for sharing data we thank j 
+a sievert for assistance with the design and operation of the field
+experiment sample collection and plant phenotyping and g pierroz
+for sample collection and management 
+
+funding the research was supported by the program of systems
+biology research to advance sustainable bioenergy crop develop 
+ment of doe ber de foa under the fund de 
+sc 
+
+compliance with ethical standards
+
+conflict of interest the authors declare that they have no conflict of
+interest 
+
+open access this article is licensed under a creative commons
+attribution international license which permits use sharing 
+adaptation distribution and reproduction in any medium or format as
+long as you give appropriate credit to the original author s and the
+source provide a link to the creative commons license and indicate if
+changes were made the images or other third party material in this
+article are included in the article’s creative commons license unless
+indicated otherwise in a credit line to the material if material is not
+included in the article’s creative commons license and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use you will need to obtain permission directly from the copyright
+holder to view a copy of this license visit http creativecommons 
+org licenses by 
+
+references
+
+ smith se read dj mycorrhizal symbiosis rd edn 
+academic press london 
+
+ taylor jd helgason t Öpik m molecular community
+ecology of arbuscular mycorrhizal fungi taylor jd helgason
+t Öpik m molecular community ecology of arbuscular
+mycorrhizal fungi in dighton j white jf eds the fungal
+community its organization and role in the ecosystem th edn 
+crc press pp – 
+
+ horn s hempel s verbruggen e rillig mc caruso t linking the
+community structure of arbuscular mycorrhizal fungi and plants a
+story of interdependence quest isme j – 
+
+ klironomos jn feedback with soil biota contributes to plant
+rarity and invasiveness in communities nature – 
+
+ rillig mc arbuscular mycorrhizae and terrestrial ecosystem
+processes ecol lett – 
+
+ shi n n gao c zheng y guo l d arbuscular mycorrhizal
+fungus identity and diversity influence subtropical tree competi 
+tion fungal ecol – 
+
+ van der heijden m klironomos j ursic m moutoglis p 
+streitwolf engel r boller t et al mycorrhizal fungal diversity
+determines plant biodiversity ecosystem variability and pro 
+ductivity nature – 
+
+ zobel m Öpik m plant and arbuscular mycorrhizal fungal amf 
+communities – which drives which j veg sci – 
+
+ bever jd feeback between plants and their soil communities in
+an old field community ecol – 
+
+ bruns td corradi n redecker d taylor jw Öpik m glo 
+meromycotina what is a species and why should we care new
+phytol https doi org nph 
+
+ bruns td taylor jw comment on “global assessment of
+arbuscular mycorrhizal fungus diversity reveals very low ende 
+mism” science 
+
+ davison j moora m Öpik m adholeya a ainsaar l bâ a 
+et al global assessment of arbuscular mycorrhizal fungus diver 
+sity reveals very low endemism science – 
+
+ Öpik m davison j moora m partel m zobel m fun 
+gal symbionts response to comment on “global assess 
+ment of arbuscular mycorrhizal fungus diversity reveals very low
+endemism” science 
+
+ ropars j corradi n homokaryotic vs heterokaryotic mycelium in
+arbuscular mycorrhizal fungi different techniques different
+results new phytol – 
+
+ ropars j toro ks noel j pelin a charron p farinelli l et al 
+evidence for the sexual origin of heterokaryosis in arbuscular
+mycorrhizal fungi nat microbiol 
+
+ thiéry o vasar m jairus t davison j roux c kivistik p a 
+et al sequence variation in nuclear ribosomal small subunit 
+internal transcribed spacer and large subunit regions of rhizo 
+phagus irregularis and gigaspora margarita is high and isolate 
+dependent mol ecol – 
+
+ johnson ea succession an unfinished revolution ecology 
+ – 
+
+ bruelheide h böhnke m both s fang t assmann t baruffol
+m et al community assembly during secondary forest succession
+in a chinese subtropical forest ecol monogr – 
+
+ johnson ea miyanishi k testing the assumptions of chron 
+osequences in succession ecol lett – 
+
+ walker lr wardle da bardgett rd clarkson bd the use of
+chronosequences in studies of ecological succession and soil
+development j ecol – 
+
+ datta ms sliwerska e gore j polz mf cordero ox microbial
+interactions lead to rapid micro scale successions on model marine
+particles nat commun 
+
+ fierer n nemergut d knight r craine jm changes through
+time integrating microorganisms into the study of succession res
+microbiol – 
+
+ gao c zhang y shi n zheng y chen l wubet t et al 
+community assembly of ectomycorrhizal fungi along a
+
+ c gao et al 
+
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https doi org nph 
+
+
+subtropical secondary forest succession new phytol 
+ – 
+
+ ortiz Álvarez r fierer n de los ríos a casamayor eo bar 
+berán a consistent changes in the taxonomic structure and
+functional attributes of bacterial communities during primary
+succession isme j – 
+
+ wolfe je button je santarelli m dutton rj cheese rind
+communities provide tractable systems for in situ and in vitro
+studies of microbial diversity cell – 
+
+ xiao c lu z m zhang x j wang s t ao l shen c h et al 
+ bio heat is a key environmental driver shaping the
+microbial community of medium temperature daqu appl
+environ microbiol 
+
+ bahram m peay kg tedersoo l local scale biogeography and
+spatiotemporal variability in communities of mycorrhizal fungi 
+new phytol – 
+
+ voříšková j brabcová v cajthaml t baldrian p seasonal
+dynamics of fungal communities in a temperate oak forest soil 
+new phytol – 
+
+ han l l wang j t yang s h chen w f zhang l m he j z 
+temporal dynamics of fungal communities in soybean rhizo 
+sphere j soils sediment – 
+
+ bainard ld bainard jd hamel c gan y spatial and
+temporal structuring of arbuscular mycorrhizal communities is
+differentially influenced by abiotic factors and host crop in a
+semi arid prairie agroecosystem fems microbiol ecol 
+ – 
+
+ kohout p sudová r janoušková m Čtvrtlíková m hejda m 
+pánková h et al comparison of commonly used primer sets for
+evaluating arbuscular mycorrhizal fungal communities is there a
+universal solution soil biol biochem – 
+
+ schlaeppi k bender sf mascher f russo g patrignani a 
+camenzind t et al high resolution community profiling of
+arbuscular mycorrhizal fungi new phytol – 
+
+ gao c shi n n chen l ji n n wu b w wang y l et al 
+relationships between soil fungal and woody plant assemblages
+differ between ridge and valley habitats in a subtropical mountain
+forest new phytol – 
+
+ schoch cl seifert ka huhndorf s robert v spouge jl 
+levesque ca et al nuclear ribosomal internal transcribed spacer
+ its region as a universal dna barcode marker for fungi proc
+natl acad sci usa – 
+
+ talbot jm bruns td taylor jw smith dp branco s glassman
+si et al endemism and functional convergence across the north
+american soil mycobiome proc natl acad sci usa 
+ – 
+
+ tedersoo l bahram m põlme s kõljalg u yorou ns wije 
+sundera r et al global diversity and geography of soil fungi 
+science 
+
+ stockinger h kruger m schussler a dna barcoding of
+arbuscular mycorrhizal fungi new phytol – 
+
+ taylor dl walters wa lennon nj bochicchio j krohn a 
+caporaso jg et al accurate estimation of fungal diversity and
+abundance through improved lineage specific primers optimized
+for illumina amplicon sequencing appl environ microbiol 
+ – 
+
+ xu l naylor d dong z simmons t pierroz g hixson kk 
+et al drought delays development of the sorghum root micro 
+biome and enriches for monoderm bacteria proc natl acad sci
+usa e – 
+
+ fadrosh dw ma b gajer p sengamalay n ott s brotman rm 
+et al an improved dual indexing approach for multiplexed s
+rrna gene sequencing on the illumina miseq platform micro 
+biome 
+
+ krüger m krüger c walker c stockinger h schüßler a 
+phylogenetic reference data for systematics and phylotaxonomy of
+
+arbuscular mycorrhizal fungi from phylum to species level new
+phytol – 
+
+ andrews s fastqc a quality control tool for high
+throughput sequence data 
+
+ edgar rc uparse highly accurate otu sequences from
+microbial amplicon reads nat methods – 
+
+ martin m cutadapt removes adapter sequences from high 
+throughput sequencing reads embnet j – 
+
+ kõljalg u nilsson rh abarenkov k tedersoo l taylor afs 
+bahram m et al towards a unified paradigm for sequence based
+identification of fungi mol ecol – 
+
+ katoh k standley dm mafft multiple sequence alignment
+software version improvements in performance and usability 
+mol biol evol – 
+
+ tamura k stecher g peterson d filipski a kumar s mega 
+molecular evolutionary genetics analysis version mol biol
+evol – 
+
+ gloor gb macklaim jm pawlowsky glahn v egozcue jj 
+microbiome datasets are compositional and this is not optional f
+microbiol 
+
+ oksanen j blanchet fg kindt r legendre p minchin pr 
+o’hara rb et al vegan community ecology package r
+package version 
+
+ r development core team r a language and environment for
+statistical computing vienna austria r foundation for statis 
+tical computing 
+
+ palarea albaladejo j martín fernández ja zcompositions—r
+package for multivariate imputation of left censored data under a
+compositional approach chemom intell lab syst – 
+
+ baselga a partitioning the turnover and nestedness components
+of beta diversity glob ecol biogeogr – 
+
+ kembel sw cowan pd helmus mr cornwell wk morlon h 
+ackerly dd et al picante r tools for integrating phylogenies and
+ecology bioinformatics – 
+
+ de boeck p bakkar m zwitser r nivard m hofman a 
+tuerlinckx f et al the estimation of item response models with
+the lmer function from the lme package in r j stat softw 
+ – 
+
+ bartoń k mumin multi model inference r package
+version the comprehensive r archive network cran 
+vienna austria https cran r project org web packages mumin 
+index html 
+
+ arbuckle jl ibm® spss®amos™ user’s guide ny usa 
+ibm corporation 
+
+ anderson mj walsh dci permanova anosim and the
+mantel test in the face of heterogeneous dispersions what null
+hypothesis are you testing ecol monogr – 
+
+ paradis e claude j strimmer k ape analyses of phylogenetics
+and evolution in r language bioinformatics – 
+
+ baselga a orme cdl betapart an r package for the study of
+beta diversity methods ecol evol – 
+
+ krüger m stockinger h krüger c schüßler a dna based
+species level detection of glomeromycota one pcr primer
+set for all arbuscular mycorrhizal fungi new phytol 
+ – 
+
+ lekberg y gibbons sm rosendahl s will different otu deli 
+neation methods change interpretation of arbuscular mycorrhizal
+fungal community patterns new phytol – 
+
+ stockinger h walker c schüßler a ‘glomus intraradices
+daom ’ a model fungus in arbuscular mycorrhiza research 
+is not glomus intraradices new phytol – 
+
+ garcía de león d moora m Öpik m jairus t neuenkamp l 
+vasar m et al dispersal of arbuscular mycorrhizal fungi and
+plants during succession acta oecol int j ecol – 
+
+ vellend m conceptual synthesis in community ecology q rev
+biol – 
+
+strong succession in arbuscular mycorrhizal fungal communities 
+
+https cran r project org web packages mumin index html
+https cran r project org web packages mumin index html
+
+
+ hillerislambers j adler pb harpole ws levine jm 
+mayfield mm rethinking community assembly through the
+lens of coexistence theory annu rev ecol evol syst 
+ – 
+
+ kraft njb cornwell wk webb co ackerly dd trait evolu 
+tion community assembly and the phylogenetic structure of
+ecological communities am nat – 
+
+ koch am antunes pm maherali h hart mm klironomos jn 
+evolutionary asymmetry in the arbuscular mycorrhizal symbiosis 
+conservatism in fungal morphology does not predict host plant
+growth new phytol – 
+
+ powell jr parrent jl hart mm klironomos jn rillig mc 
+maherali h phylogenetic trait conservatism and the evolution of
+functional trade offs in arbuscular mycorrhizal fungi proc r soc
+lond ser b biol sci – 
+
+ husband r herre ea turner sl gallery r young jpw 
+molecular diversity of arbuscular mycorrhizal fungi and patterns
+of host association over time and space in a tropical forest mol
+ecol a – 
+
+ husband r herre ea young jpw temporal variation in the
+arbuscular mycorrhizal communities colonising seedlings in a
+tropical forest fems microbiol ecol b – 
+
+ bruns td thoughts on the processes that maintain local species 
+diversity of ectomycorrhizal fungi plant soil – 
+
+ geisen s koller r hünninghaus m dumack k urich t 
+bonkowski m the soil food web revisited diverse and
+
+widespread mycophagous soil protists soil biol biochem 
+ – 
+
+ purin s rillig mc parasitism of arbuscular mycorrhizal fungi 
+reviewing the evidence fems microbiol ecol 
+ – 
+
+ siepielski am mcpeek ma on the evidence for species coex 
+istence a critique of the coexistence program ecology 
+ – 
+
+ schüßler a walker c the glomeromycota a species list
+with new families and new genera createspace gloucester 
+
+ caruso t hempel s powell jr barto ek rillig mc compo 
+sitional divergence and convergence in arbuscular mycorrhizal
+fungal communities ecology – 
+
+ lekberg y schnoor t kjoller r gibbons sm hansen lh al 
+soud wa et al sequencing reveals stochastic local reas 
+sembly and high disturbance tolerance within arbuscular mycor 
+rhizal fungal communities j ecol – 
+
+ powell jr bennett ae unpredictable assembly of arbuscular
+mycorrhizal fungal communities pedobiologia – 
+
+ tisserant e malbreil m kuo a kohler a symeonidi a 
+balestrini r et al genome of an arbuscular mycorrhizal fungus
+provides insight into the oldest plant symbiosis proc natl acad
+sci – 
+
+ valyi k mardhiah u rillig mc hempel s community
+assembly and coexistence in communities of arbuscular mycor 
+rhizal fungi isme j – 
+
+ c gao et al 
+
+
+	strong succession in arbuscular mycorrhizal fungal communities
+	abstract
+	introduction
+	methods
+	sampling and sequencing
+	bioinformatics
+	statistical methods
+
+	results and discussion
+	recognition of amf otus by its 
+	succession of amf community
+	nestedness and turnover during amf community succession
+	immigration and extinction in amf community succession
+	initial density dependent amf population demography
+	different amf in root rhizosphere and soil
+
+	conclusion
+	compliance with ethical standards
+
+	acknowledgments
+	references
+
+
+
+
+

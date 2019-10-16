@@ -1,0 +1,1183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+multi targeted metagenetic analysis of the influence of climate and environmental parameters on soil microbial communities along an elevational gradient
+
+
+ scientific reports doi srep 
+
+www nature com scientificreports
+
+multi targeted metagenetic 
+analysis of the influence of climate 
+and environmental parameters on 
+soil microbial communities along an 
+elevational gradient
+anders lanzén lur epelde fernando blanco iker martín unai artetxe carlos garbisu 
+
+mountain elevation gradients are invaluable sites for understanding the effects of climate change 
+on ecosystem function community structure and distribution however relatively little is known 
+about the impact on soil microbial communities in spite of their importance for the functioning of 
+the soil ecosystem previous studies of microbial diversity along elevational gradients were often 
+limited by confounding variables such as vegetation ph and nutrients here we utilised a transect in 
+the pyrenees established to minimise variation in such parameters to examine prokaryotic fungal 
+protist and metazoan communities throughout three consecutive years we aimed to determine 
+the influences of climate and environmental parameters on soil microbial community structure as 
+well as on the relationships between those microbial communities further functional diversity of 
+heterotrophic bacteria was determined using biolog prokaryotic and fungal community structure but 
+not alpha diversity correlated significantly with elevation however carbon to nitrogen ratio and ph 
+appeared to affect prokaryotic and protist communities more strongly both community structure and 
+physicochemical parameters varied considerably between years illustrating the value of long term 
+monitoring of the dynamic processes controlling the soil ecosystem our study also illustrates both the 
+challenges and strengths of using microbial communities as indicators of potential impacts of climate 
+change 
+
+contemporary climate change is causing changes in species assemblages often contributing to an accelerating 
+and self reinforcing loss of biodiversity elevational gradients found in alpine areas are invaluable for studying 
+such changes as well as their underlying mechanisms and impacts on ecosystem function the resulting eco 
+tones arranged over short distances together with their harsh pedoclimatic conditions also make these alpine 
+habitats particularly sensitive to climate changes and other disturbances it is therefore not surprising that the 
+effect of contemporary climate change in the alps an increase of approximately °c with associated changes in 
+precipitation has led to changes in vegetation structure and threatened the sustainability of ecosystem services 
+provided microbial communities play fundamental roles for soil ecosystem function and critically influence 
+aboveground communities and vice versa yet relatively little is known about such changes in soil microbial 
+communities and their suitability as indicators of climate change impact on soil health 
+
+examination of elevational gradients in mountain habitats has a long history but it is only recently that it 
+has been possible to study the composition of their full soil microbial communities using culture independent 
+molecular techniques such as fingerprinting and marker gene profiling “metagenetics” “metabarcoding” 
+although many studies have now used such techniques no consistent patterns have been found with regard to 
+alpha diversity bryant et al found a monotonic decrease in diversity of soil acidobacteria with elevation along 
+an elevational gradient in the colorado rocky mountains similar patterns were observed in total soil bacterial 
+communities at shennongjia mountains in hubei china at mt shegyla tibetan plateau and in the changbai 
+
+ soil microbial ecology group department of conservation of natural resources neiker tecnalia c berreaga 
+ derio spain department of plant biology and ecology university of the basque country upv ehu 
+bilbao spain correspondence and requests for materials should be addressed to a l email alanzen neiker eus 
+
+received february 
+
+accepted june 
+
+published june 
+
+open
+
+mailto alanzen neiker eus
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+mountain range along gradients located on mt fuji and mt norikura japan singh and colleagues found 
+soil archaeal and bacterial diversity to peak at intermediate elevations and suggested “intermediate disturbance” 
+as a possible explanation however the intermediate disturbance hypothesis has been criticised both for being 
+logically incoherent and lacking sufficient empirical evidence as noted the observed diversity pattern may also 
+have been caused by a mid elevation mix of niches and ecotypes more abundant in the upper or lower zones or 
+indeed a number of other mechanisms 
+
+inverse bacterial diversity patterns relative to the above were encountered on mt halla on jeju island in the korea 
+strait and in four mountain sites in yunnan china i e lower diversity at intermediate or lower elevations respec 
+tively this suggested a lack of universal patterns and that instead a combination of biological and physicochemical 
+factors may influence microbial diversity in a manner that cannot easily be separated from climatic influences 
+
+similar to bacterial communities along the same gradient shen et al found that the richness of microbial eukar 
+yotes including fungi and protists was influenced mainly by soil ph as opposed to elevation coince et al 
+identified an intermediate peak in fungal rhizosphere otu richness at intermediate elevations also noting that 
+basidiomycetes and ascomycetes showed different patterns these trends were equally explained by elevation and 
+soil ph similar mid domain effects have been observed for the richness of ectomycorrhizal em fungi general 
+declines in diversity with elevation have also been observed in em as well as arbuscular mycorrhizal am fungi 
+
+it is not always clear whether identified correlations between elevation and diversity represent a direct influ 
+ence of temperature on microbial communities or other parameters acted as confounding factors we could only 
+identify one study where environmental parameters appeared independent of elevation the mentioned study 
+concluded that no trend in microbial diversity with elevation was present thus casting doubt on all studies where 
+such patterns were identified regardless in most previous studies – – soil ph or vegetation structure 
+correlated with alpha diversity or community dissimilarity “beta diversity” of soil microbial communities total 
+nitrogen and carbon and exchangeable k and ca concentrations in soil have also appeared as main drivers 
+of bacterial communities 
+
+the ordesa and monte perdido microbial observatory was established in order to investigate the potential of 
+utilising an elevational gradient for studying how temperature and other aspects of climate may affect soil micro 
+bial community structure and function in order to minimise the effect of confounding factors encountered in 
+several previous studies a gradient spanning to m was chosen based on the preference of hosting a 
+similar plant community soil ph and other physicochemical parameters along the elevational gradient located 
+in ordesa and monte perdido national park spain in the pyrenees in order to evaluate microbial community 
+structure we utilised sequencing illumina miseq of two sets of amplicons targeting the small subunit riboso 
+mal rna of prokaryotes and eukaryotes s rrna and s rrna respectively as well as the internal tran 
+scribed spacer its of fungi and biolog ecoplates targeting the functional diversity of heterotrophic bacteria 
+here we aim to characterise for each of the targeted communities 
+
+ – the relative influence of elevation and other abiotic parameters on soil microbial diversity and composition 
+ – how strongly fungal protist metazoan bacterial and archaeal community structures related to each other 
+ – how plant community structure related to elevation and soil microbial community structure 
+ – if a better model explaining community structural changes can be obtained by taking into account temporal 
+
+variation such as annual and weekly variation recent soil temperature or snow cover 
+
+this study paves the ground for further characterisation of the effects of climate change on microbial commu 
+nities in turn affecting landscape ecology and feedbacks to global carbon and nutrient cycles 
+
+materials and methods
+study site the ordesa and monte perdido microbial observatory was established in for the purpose 
+of long term environmental monitoring in a protected area surrounding the valley of escuaín in the spanish 
+side of the pyrenees mountain range located inside the ordesa and monte perdido national park the area was 
+selected based on its relatively uniform distribution of herbaceous vegetation orientation and ph along a suitable 
+elevational gradient for the present study a transect consisting of twelve sampling stations evenly distributed 
+along an elevational gradient spanning approximately to m was established on the south and ssw 
+facing slope of the mountain “tres marías” a k a “la zuca” see table  and supplementary figure s the veg 
+etation along the gradient consists of meadows with relatively uniform herbaceous vegetation thus minimizing a 
+possible source of variation due to vegetation type 
+
+soil types range from sandy loam to clay with siliclastic or carbonate sedimentary parent rock neither parent 
+rock follows any obvious trend related to elevation table  the area has a long history of pastoralism and the 
+vegetation is affected to some extent by summer grazing cattle and sheep to roughly the same extent along the 
+gradient the area is characterised by a typical pyreneean climate humid continental to subalpine and alpine 
+with annual precipitation of approximately mm at to m the lowest station is close to stands 
+of oak pine and beech whereas only a limited amount of wooden species were found above the montane zone 
+ roughly to m likely due to a combination of both grazing and climate see table  the subalpine 
+zone to m is dominated by the grasses festuca eskia and f gauteri whereas the alpine zone to 
+ m is dominated by nardus stricta matgrass and poa alpina alpine meadow grass see table  
+
+sample collection and on site measurements soil samples were collected annually between and 
+ in late august or early september from each station a number of samples were also taken during other times 
+of the year to study temporal variability see table  each sample consisted of a composite of ten soil cores from 
+a plot of × m cm depth mm diameter spatial replicates were taken from such plots separated by more 
+than m the same sites adjacent to temperature sensors were studied each year samples were immediately 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+transferred to sterile plastic zip lock bags manually mixed in bag and a subsample taken for molecular analysis 
+sieved on site directly after collection mm and stored in approximately ml rnalater in ml falcon 
+tubes tubes were mixed and kept at outdoor temperature for a maximum of h and thereafter stored at − °c 
+until dna extraction no molecular community profiling was carried out during the first year table  
+
+slope was measured using the inclinometer of the laser rangefinder trupulse ° laser technology inc 
+centennial co on site temperature sensors hobo® tidbit v onset cape cod ma were planted at each 
+station at a depth of cm during sample collection in august and resulting measurement data min 
+intervals continuously throughout the year retrieved during subsequent sample collections due to malfunction 
+of three sensors table  additional ones were installed october and data collected during subsequent 
+sample expeditions with no additional failures annual means were calculated based on the daily median max 
+imum and minimum temperatures for each day in a complete year – similar averages were 
+calculated for the closed day interval previous to each sample collection the parameter “days under snow 
+cover” was extrapolated by counting the number of occurrences where temperature consistently stayed below 
+ °c with under °c daily range of ground temperature Δ gt throughout a full h day these cut offs were 
+manually chosen from inspecting annual graphs of Δ gt and mean temperature since taking into account both 
+can improve accuracy of snow cover prediction 
+
+plant community characterisation presence absence of species was carried out during the sample collection 
+on august using three random plots of × m at each station quadrants were thrown randomly 
+from the temperature sensor points identification of floral species was challenging due to grazing and being done 
+late in summer and is to be considered incomplete 
+
+elevation m a s l orientation slope ° parent rock vegetation type vegetation cover zone
+
+ ssw s dense mesophilic pastures euphrasio plantaginetum mediae montane
+
+ ssw s boxwood bushes rhamno saxatilis buxetum sempervirentis montane
+
+ s s dense festuca eskia grasses carici pseudotristis festucetum eskiae monante subalpine
+
+ s c “ subalpine
+
+ ssw s rocky limestone pasture oxytropido pyrenaicae festucetum scopariae subalpine
+
+ s c “ subalpine
+
+ s s “ subalpine
+
+ ssw s “ subalpine
+
+ s s “ subalpine alpine
+
+ s s alchemillo flabellatae nardetum strictae alpine
+
+ ssw c
+culminate calcicole pasture 
+
+ oxytropido foucaudii elynetum 
+myosuroidis 
+
+ alpine
+
+ ssw c “ alpine
+
+table overview of the studied elevational gradient s siliciclastic c carbonate according to benito 
+
+sampling 
+date
+
+stations 
+sampled
+
+spatial 
+replicates
+
+temp 
+monitored 
+
+abiotic soil 
+properties 
+
+functl profiling 
+ biolog 
+
+ s amplicon 
+seq 
+
+its amp 
+seq 
+
+ s amp 
+seq 
+
+ – – all none no yes yes no no no
+
+ – – all × m × m no yes yes yes yes − yes − 
+
+ – – m none yes† no no yes no yes
+
+ – – all × m × m yes
+† yes yes e r yes yes yes
+
+ – – m none yes† no no yes no yes
+
+ – – m m × yes
+† yes yes yese r no yese r 
+
+ – – m none yes no no yes no no
+
+ – – all × m × m yes yes yes 
+e r yese r no no
+
+table sample and analysis overview soil temperature data available from on site sensors previous to 
+sampling soil texture sand silt and clay temperature during sampling humidity ph organic matter 
+soil organic matter som total nitrogen number of samples or replicates for which sequencing failed 
+indicated in parentheses if applicable †during – temperatures were not measured at the 
+or m stations due to equipment failure e r excluding replicates s amplicon sequencing was however 
+carried out for replicates from taken at m 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+soil physicochemical and biolog ecoplate measurements soils were sieved mm and air dried 
+at ambient temperature prior to measurements of physicochemical parameters except humidity for biolog 
+ecoplate analysis soils were instead stored fresh at °c soil humidity was measured by drying at °c for h 
+and re weighing and ph measured in deionised water at a soil solution ratio of soil particle size distribu 
+tion clay sand and silt was determined using laser diffraction analysis mastersizer malvern instruments 
+worcestershire uk soil organic matter som was measured according to nelson et al and total nitrogen n 
+according to iso 
+
+functional diversity of heterotrophic bacteria was estimated using biolog ecoplates biolog inc hayward 
+ca by counting the number of utilized substrates nus after a h incubation corresponding to the time of 
+maximal microbial growthfresh at °c for a maximum of two months until analysi 
+
+dna extraction and amplicon sequencing dna extraction was carried out from g soil aliquots 
+from all samples using powersoil dna isolation kit mo bio laboratories carlsbad ca following the manu 
+facturer’s instructions prior to dna extraction samples were centrifuged min at × g the supernatant 
+discarded and the pellet washed with × te buffer and centrifuged again repeated twice in order to remove the 
+rnalater solution samples were thereafter washed with mm k hpo to remove extracellular dna 
+
+amplification was carried out using a dual indexing tag tailed design as described by d’amore et al briefly 
+adapter linked primers with n between forward adapter and primer were used in the first amplification step 
+using the following reaction to a total of a μ l volume μ l template community dna μ m each of forward 
+and reverse primers and × hotstar pcr mix qiagen hilden germany for s rrna amplicons μ l of 
+bovine serum albumin was also added to improve pcr efficiency the following pcr parameters were used 
+initial denaturation at °c for min followed by cycles of °c for s °c for s °c for s with 
+a final extension at °c for min amplicon libraries were then cleaned using ampure xp beckman coulter 
+genomics and eluted in μ l depc treated water barcoded primers were used in the second amplification step 
+using the folllowing reaction to a total of μ l volume μ l template cleaned amplicons resulting from ampli 
+fication step μ m each of barcoded forward and reverse primers adapter specific × hotstar pcr mix 
+the same pcr parameters were used as in step except for higher annealing temperature °c for cycles 
+resulting amplicons were visualised on a agarose gel next to products from the first pcr to verify a unique 
+product and incorporation of barcoded linkers 
+
+the following adapter linked primer pairs were used f cagcmgccgcggtaa adapted from Øvreås 
+et al and r ggactachvgggtwtctaat targeting the prokaryotic s rrna hypervariable region 
+v f and r targeting the eukaryotic s region v its f cttggtcatttagaggaagtaa and 
+its r gctgcgttcttcatcgatgc targeting the fungal its region 
+
+pair ended sequencing was carried out using an illumina miseq with the v kit approximately × nt 
+length at the center for genomic research of the university of liverpool × s rrna × s rrna and 
+ xits sequencing runs and tecnalia corporation miñano spain × s rrna and xits runs 
+
+sequence data analysis and statistics read pairs from s rrna and its amplicons were 
+quality filtered and overlapped using usearch options fastq maxdiff fastq maxee overlapped s 
+rrna sequences were then truncated from both ends in order to remove n and primer sequences to a length 
+of nt discarding shorter sequences overlapped its amplicon sequences were instead trimmed using cut 
+adapt to remove the reverse primer because of their variable length s rrna reads could not be overlapped 
+due to the larger amplicon length nt and therefore reverse reads were discarded while forward reads were 
+otherwise quality filtered and cropped as described above fastq maxee to a length of nt after removing 
+forward linker and primer sequences reads not matching the forward primer exactly were discarded 
+
+all quality filtered overlapped sequences from s rrna s rrna and its amplicons respectively were 
+merged across datasets and clustered into otus at sequence similarity using vsearch clustering included 
+de replication sorting by abundance descending and not retaining singletons then clustering into otus at 
+ sequence similarity and finally chimera filtering using the uchime reference based followed by the uchime 
+de novo method as reference databases for chimera filtering we used the chimeraslayer gold fa for s rrna 
+unite for its and silvamod v for s rrna 
+
+representative otu sequences were aligned to the silvamod v s and s rrna and unite its 
+reference databases using blastn v task megablast and taxonomically classified using crest using 
+default parameters resulting taxon distributions were studied at order rank as determined by crest s 
+rrna taxon data was also divided further into fungi metazoa and protists all eukaryotic taxa considered uni 
+cellular except for metazoa or fungi relative otu and taxon abundances were used in further analysis sum of 
+read abundances mapped to an otu or taxon including child nodes in a particular sample classified divided 
+by total sample reads this approach was motivated by the fact that sequence based relative abundance has 
+been demonstrated to provide meaningful semi quantitative information when comparing community structure 
+between samples in spite of being affected by issues such as ribosomal copy number variability and preferential 
+amplification 
+
+multivariate statistics calculation of rarefied richness and visualization was performed using the r package 
+vegan rarefied richness estimates interpolating the expected richness at the lowest sample specific sequencing 
+depth were used to compensate for variation in read numbers across samples otu distributions were trans 
+formed into relative abundances using the function decostand these were subjected to hellinger transformation 
+before calculation of bray curtis dissimilarity matrices comparing community composition between samples 
+non metric multidimensional scaling nmds using function metamds and mantel tests were performed 
+using these dissimilarity matrices the later was used to compare dissimilarity matrices between the different 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+communities markers e g fungal its based to prokaryotic s rrna based limited to the subset of samples 
+for each such pairwise comparison where sequence data existed for both markers 
+
+continuous variables were fitted to the resulting nmds space using the function envfit for this purpose 
+parameters were divided into groups based on availability of data since certain measurements were only avail 
+able for a subset of samples and each such group compared independently to the nmds the function bioenv 
+in vegan was used to find the subset of parameters that together showed maximum correlation with community 
+dissimilarity this and subsequent analysis was limited to samples where such parameter measurements were 
+available multivariate analysis of variance manova and multiple regression on dissimilarity matrices mrm 
+models were assessed based on this variable selection as implemented in the vegan function adonis and the 
+function mrm of the ecodist package respectively anosim analysis of similarity was carried out based on 
+bray curtis dissimilarities in order to evaluate the effect of factors sampling year orientation and parent rock 
+on community structure 
+
+correlation analyses were carried out in order to compare all soil physicochemical and climate related 
+parameters to elevation diversity data including relative shares of eukaryotic groups and nus with ele 
+vation diversity data to soil physicochemical and climate related parameters different diversity esti 
+mates to each other and relative taxon abundances with elevation soil physicochemical and climate related 
+parameters correlations between continuous variables were determined using kendall’s rank correlation and 
+between continuous variables and factors using group wise anova and tukey’s range test honest significant 
+difference coefficients of determination adjusted r were determined using linear regression all correlation 
+analyses were subjected to bonferroni correction and not reported unless p after correction 
+
+results
+temperature and physicochemical parameters soil temperature during sampling t ranged from 
+ to °c annual means of daily median soil temperature ranged from to °c and estimated annual snow 
+coverage from to days along the studied gradient fig   supplementary table s these variables cor 
+related significantly to elevation as expected table  although not monotonically see fig   and less strongly 
+for t as expected given the inclusion of samples from other seasons temperature variation throughout the year 
+was relatively consistent between the two years measured with strong variations in daily minima medians and 
+maxima especially during spring and summer supplementary figure s 
+
+soil humidity ranging between – ph – or carbon to nitrogen ratio c n ranging between 
+ – showed no significant correlation with elevation table s however sites with carbonate parent rock har 
+boured soils with significantly higher ph as expected p − on the other hand soil texture correlated sig 
+nificantly with elevation as more elevated sites tended to contain more sand and less clay table  supplementary 
+figure s supplementary table s lists all correlations between measured parameters climatic parameters 
+ annual soil temperature averages and predicted days of snow did not correlate significantly with any other 
+parameters apart from those correlating with elevation 
+
+influence of climate and environmental parameters on microbial alpha diversity amplicon 
+sequencing resulted in over m prokaryotic s rrna reads clustered into otus n samples mean 
+sequence length bp m eukaryotic s rrna reads clustered into otus n mean length bp 
+and m fungal its reads clustered into otus n mean length bp after quality filtering and 
+removal of singletons supplementary table s only rarefied interpolated otu richness was considered fur 
+ther in order to compensate for differences in sequencing depth number of reads between samples rarefied 
+richness estimates varied between – for prokaryotes – for eukaryotes and – for fungi 
+ table s no correlation between elevation and rarefied richness could be identified 
+
+figure annual mean of daily minimum median and maximum soil temperatures – and 
+predicted days under snow coverage along the studied gradient 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+as opposed to elevation two diversity estimates correlated significantly with soil physicochemical parameters 
+ see table  number of utilised substrates nus with soil humidity and prokaryotic rarefied richness with 
+c n fig   
+
+influence of climate and physicochemical parameters on soil microbial community composition 
+a linear regression between vertical distance and s rrna based bray curtis dissimilarity indicated that prokar 
+yotic communities “beta diversity” was structured by elevation p × − see supplementary figure s 
+the correlation between vertical distance and difference in annual average of daily maximum soil temperature was 
+stronger indicating that the elevational pattern could likely be explained by climatic differences supplementary 
+figure s the relationship between community dissimilarity and different climatic and physicochemical soil 
+parameters was further investigated using multivariate statistics 
+
+nmds based on compositional dissimilarity between samples did not result in any clear clustering pattern in 
+relation to elevation or year for any dataset fig   however fitting of environmental parameters to the resulting 
+nmds indicated that elevation correlated with both prokaryotic and fungal community dissimilarities the later 
+only significant for the its dataset see fig   
+
+c n ratio showed the strongest correlation with prokaryotic otu composition and also correlated with 
+protist and fungal nmds coordinates based on s rrna amplicon subsets fig   and supplementary table 
+s prokaryotic composition also correlated to soil ph annual soil temperature averages based both on daily 
+medians and maxima predicted days of snow coverage and recent soil median temperature – days prior to 
+sampling fig   bioenv analysis excluding the incomplete data of recent temperature data indicated that 
+prokaryotic community dissimilarity was best explained by a combination of c n ratio ph and annual average of 
+daily maximum soil temperature a manova adonis model as well as mrm verified that each of these param 
+eters contributed significantly to explain community dissimilarity together accounting for or of vari 
+ation respectively see table  modifying these models to use elevation or daily median instead of maximum 
+temperature consistently resulted in slightly larger residuals and lower significance no corresponding significant 
+models of fungal or total eukaryotic communities could be obtained 
+
+anosim indicated that prokaryotic composition also differed significantly depending on sampling year par 
+ent rock and orientation whereas eukaryotic composition differed between years table  results from protist 
+fungal and metazoan subsets were essentially identical to total eukaryotes data not shown 
+
+taxonomic composition we chose to study taxonomic distribution at order rank where loss of informa 
+tion regarding rarer otus could be compensated by a relatively higher taxonomic resolution for more abundant 
+otus out of the quality filtered reads and could be taxonomically classified to this rank for s 
+
+response variable
+explanatory 
+
+variable d f adj r kendall τ
+comparison no 
+
+ see methods 
+
+clay elevation − 
+
+sand “ 
+
+temp during sampling t “ − 
+
+snow cover previous winter “ 
+
+mean daily temp – days prior to sampling “ − 
+
+annual mean temperature “ − 
+
+mean annual snow cover days “ 
+
+nus biolog soil humidity 
+
+prokaryotic rarefied richness rs c n ratio 
+
+prokaryotic rs fungal rs s 
+
+“ fungal rs its 
+
+“ eukaryotic rs 
+
+“ protist share 
+
+eukaryotic rs fungal rs s 
+
+fungal rs its 
+
+“ protist share 
+
+“ fungal share − 
+
+“ protist rs 
+
+fungal rs its fungal rs s 
+
+“ fungal share s reads − 
+
+“ protist share 
+
+fungal rs s fungal share − 
+
+“ protist share 
+
+“ protist rs 
+
+table correlations between physicochemical and biological parameters measured asterisks represent 
+strength of significance after bonferroni correction 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+rrna s rrna and its amplicons respectively representing and of unique otus based on classi 
+fication at phylum rank of reads s rrna data was further subdivided into metazoa fungi and “protists” 
+ non fungal taxa dominated by unicellular organisms fungi dominated most samples contributing to of 
+total reads followed by protists and metazoa see table s however protist communities appeared 
+most diverse with otus 
+
+figure  illustrates the relative abundances of the most abundant taxa at order rank for each taxonomic 
+subset prokaryotes protists and metazoa or amplicon specific subset fungi as assessed using its and s 
+rrna prokaryotic communities appeared less heterogeneous compared to eukaryotes nonetheless there was 
+a relatively large variability in dominating bacterial taxa the most common taxa were rhizobiales followed by 
+acidobacteriales chthoniobacterales of the verrucomicrobia and frankiales fig   a archaea contributed 
+only of prokaryotic abundance 
+
+its and s amplicon data provided very similar taxonomic profiles of the fungal communities 
+ fig   b c both datasets agreed about fungal communities being dominated by mortierellales followed by 
+archaeorhizomycetales and agaricales together these three taxa contributed between – of relative abun 
+dance but their individual abundances varied strongly between sites and spatial or temporal replicates 
+
+four taxa together dominated the protist communities in most samples fig   d euglyphida filose amoebae 
+of the cercozoa haptorida ciliates chromulinales flagellates of the chrysophycae and sporadotrichida 
+ ciliates taxa with a typical parasitic lifestyle belonging to the apicomplexa or oomycetes were also common 
+ marked in fig   d and some samples were dominated by the pythiales or eucoccidiorida all reads from 
+the former taxon could be classified as pythium monospermum–a saprotroph capable of opportunistic infec 
+tion of free living nematodes apicomplexans could be classified at family level to cryptosporidiidae and 
+monocystidae constituting roughly one and two thirds respectively of apicomplexan abundance the former are 
+well known parasites of annelida while the later are typically associated with vertebrate hosts 
+
+the most abundant metazoan taxa were oribatida moss mites the eutardigrade order parachaela and the 
+parasitic nematode order tylenchida fig   e several other orders of nematodes and arthropods were also iden 
+tified as well as rotifers and platyhelminthes flatworms the majority of oribatida sequence reads were classi 
+fied as tectocepheus sarekensis 
+
+no correlation between abundances of individual taxa and elevation could be identified but taxa correlated 
+significantly with other parameters supplementary table s all taxa except group i c thaumarchaeota were 
+bacterial corresponding to as many as of all bacterial taxa of these most n correlated with c n 
+notably rhizobiales and acidobacteriales both negatively group i c abundance also correlated with c n 
+negatively table s two taxa correlated with ph corynebacteriales and chloroflexi subdivision p e 
+and one with slope desulfuromonadales 
+
+correlation of bacterial archaeal fungal protist and metazoan communities mantel tests com 
+paring bray curtis dissimilarity matrices from different amplicon types revealed strong correlation between the 
+prokaryotic total eukaryotic and fungal community composition ≤ r ≤ p − see fig   fungal 
+community profiles using s rrna vs its correlated yet more strongly r comparing the three eukar 
+yotic organism groups revealed that fungal and protist communities were most correlated r fig   
+prokaryotic total eukaryotic and fungal rarefied richness estimates also correlated significantly table  further 
+samples with a higher relative abundance of protists compared to total eukaryotes appeared to harbour more 
+diverse prokaryotic as well as fungal communities whereas fungal abundance appeared negatively correlated with 
+fungal richness table  comparing rarefied richness of fungi between s rrna and its amplicon datasets 
+revealed strong correlation between the two approaches with s rrna based estimates being significantly lower 
+ n slope ± intercept ± p − see table  and supplementary figure s 
+
+figure identified correlations between alpha diversity estimates and physicochemical parameters 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+figure non metric multidimensional scaling nmds based on bray curtis dissimilarities of microbial 
+community composition composition was based on hellinger transformed relative otu abundances from 
+prokaryotic s eukaryotic s and fungal its amplicon data s data was also divided into organism groups 
+sites are labelled according to legend and red vectors indicate fitted environmental parameters significantly 
+correlated to nmds coordinates where parameter measurements were only available for a subset of samples 
+this is indicated in parenthesis samples total whereas thick lines indicate that measurements were available 
+for the complete dataset black bidirectional arrows illustrate mantel tests for similarity between community 
+dissimilarity matrices 
+
+variable r adonis r mrm 
+
+c n ratio 
+
+ph 
+
+daily max temp 
+
+residuals unexplained 
+variation 
+
+table results from a manova adonis and multiple regression on similarity matrix mrm model 
+total prokaryotic community bray curtis dissimilarity was modelled as response variable asterisks indicate 
+significance strength 
+
+factor h r s r its r s r plants 
+
+year effect n a
+
+parent rock siliclastic carbonate − − − 
+
+orientation sse se − 
+
+table results from analysis of similarities anosim between communities bray curtis dissimilarity 
+asterisks indicate significance strength 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+plant community structure nmds based on plant composition supplementary table s resulted in three 
+clear clusters of samples fig   roughly corresponding to the overlapping vegetation zones observed table  
+except the subalpine site at m clustering with montane zone sites elevation and associated parameters soil 
+temperature and days under snow cover correlated significantly with plant community nmds coordinates fig   
+plant composition showed no significant correlation to neither prokaryotic total eukaryotic or fungal communities 
+ mantel p neither did plant richness to soil microbial diversity estimates nor to other parameters 
+
+influence of weather and temporal variation compared to annual mean soil temperature the mean 
+temperature during the last days before sampling correlated more strongly to the prokaryotic community 
+nmds coordinates see supplementary table s to compensate for missing temperature data elevation 
+was also fitted to the nmds coordinates where such data was available resulting in no significant correlation 
+ r p this may indicate a degree of temporal instability in prokaryotic composition with rela 
+tively recent weather patterns influencing the soil microbial communities significantly however according to 
+manova or mrm neither recent nor annual mean temperatures contributed significantly to explain commu 
+nity dissimilarities in the subset of samples where all such data was available 
+
+discussion
+several different elevational patterns of microbial otu richness have been described including increasing 
+decreasing hump backed and hollow trends however such patterns may be better explained by plant com 
+munity structure or parameters such as soil ph c n humidity or nutrients co varying with elevation the gra 
+dient studied here was selected in order to minimise such covariance with the result that no clear trend in soil 
+microbial richness could be identified this is consistent with a previous study where an elevation gradient was 
+selected in a similar manner as opposed to elevation otu richness along the gradient studied here correlated 
+positively with c n such correlations have also been described previously as well as negative ones further 
+soil humidity correlated with the functional diversity of heterotrophic bacteria nus as indicated by biolog 
+ecoplates table  and fig   
+
+figure distribution of most abundant taxa across samples relative abundances of taxa at order level 
+are presented as bar charts for each individual sample grouped by elevation in m for the three specific 
+amplicon library types prepared total s amplicon results are divided by organism type into fungi “protists” 
+and metazoa typically parasitic taxa are marked with asterisks 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+as opposed to alpha diversity elevation appeared to influence the composition based dissimilarity 
+ beta diversity of prokaryotic and fungal communities it thus provided an acceptable proxy for climatic param 
+eters some of which were also measured of these annual averages of daily maximum soil temperature explained 
+community structure best table  this influence appeared to be independent of the physicochemical parame 
+ters c n and ph table  regardless c n appeared to affect prokaryotes and protists more strongly than direct 
+climatic parameters whereas results based on s and its amplicons disagreed about the relative strengths of the 
+influences of c n vs climate on fungal communities table s an impressive number of bacterial taxa nearly 
+one out of four also correlated directly to c n supplementary table s thus c n appeared as the major driver 
+of prokaryotic and protist community structure along the studied gradient 
+
+soil ph has often been singled out as the most important influence on soil bacterial communities in studies of 
+elevational gradients and habitats similar to ours – it also appears to be a key influence on fungal and 
+microeukaryote composition in the gradient studied here ph also appeared to influence prokaryotic composi 
+tion although not as strongly as c n similar results were obtained in a recent study of arctic tundra soils when 
+excluding samples from wet sedge curiously neither c nor n concentration in itself appeared to influence 
+community structure as opposed to previous studies 
+
+it is difficult to put the influence of the c n ratio in ecological context without better knowledge of the soil 
+ecosystem dynamics carbon and nitrogen availability is associated with the complex interactions between cli 
+mate plants meso and macrofauna and microbial communities and involve the ecologically linked processes 
+of litter provision and decomposition and nitrogen cycling it is also probable that grazing contributed to 
+decrease c n in the present study measured c n ratios were consistently below traditionally interpreted 
+as a net mineralisation of nitrogen however soils with lower c n may also be nitrogen limited which is 
+supported by the relatively high abundances of rhizobiales throughout the gradient indicating an important role 
+for n fixation curiously relative abundance of rhizobiales correlated negatively with c n indicating higher 
+nitrogen availability where the putative n fixing rhizobia were more abundant thus other factors than feed 
+back inhibition from nitrate or ammonium were likely most relevant for controlling n fixation in the studied 
+ecosystem 
+
+prokaryotic community assembly was also influenced by parent rock siliclastic vs carbonate and orienta 
+tion facing south vs ssw however no indicator taxa could be identified for either factor and differences in 
+parent rock were confounded by ph differences sunlight intensity associated with orientation may have affected 
+belowground communities directly or via plants south facing sites were also relatively warmer p using 
+a linear model compensating for elevation thus indirectly influencing prokaryotic and fungal communities as 
+demonstrated by the influence of average annual soil temperatures on community structure 
+
+water availability is important for ecosystem functioning therefore it is somewhat surprising that soil humid 
+ity only correlated to nus as opposed to community structure biolog profiling has been suggested to mainly 
+reflect functional diversity of currently dominant heterotrophic taxa as opposed to rare and dormant organ 
+isms perhaps making it a more sensitive indicator to transient changes in community structure due to weather 
+related shifts in soil humidity 
+
+eukaryotic communities particularly metazoa appeared less correlated to environmental parameters than 
+prokaryotes this can probably be explained by the larger heterogeneity in the composition of these communities 
+ fig   this may be an effect of the micro scale patchiness one would expect from larger organisms compared to 
+prokaryotic cells it is possible that more accurate community structure estimates can be obtained by increasing 
+the amount of soil used for dna extraction here g or by replication 
+
+figure non metric multidimensional scaling nmds based on bray curtis dissimilarities of 
+plant community composition sites are labelled with elevation in metres and red vectors indicate fitted 
+environmental parameters significantly correlated to nmds coordinates 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+in addition to elevation it is possible that spatial distance in itself contributed to the observed differences in 
+microbial communities the existence of such spatial diversity patterns independent of climate or environmental 
+parameters has been indicated previously even at similar spatial scale adding to a growing evidence that life 
+history and dispersal is relevant also to microbial biogeography however this cannot be assessed using the data 
+presented here since we used a single gradient where spatial distance was dependent on elevation 
+
+both richness and composition appeared to correlate between the prokaryotic and eukaryotic communities 
+particularly fungi with prokaryotes as well as with protists table  fig   similar responses to environmental 
+parameters may have contributed to this however it is also likely that part of the explanation is related to syner 
+gistic trophic or competitive interactions between members of these communities bacteria fungal interactions 
+are known to play important roles in the soil ecosystem and strong correlation between these communities has 
+been observed previously in similar environments examples of possible interactions among the taxa encoun 
+tered here are the oomycete pythium infecting free living nematodes and apicomplexan monocystis infecting 
+annelids we also expect that bacterial ecto and endosymbionts of metazoans contributed to the correlation 
+between eukaryotic and prokaryotic communities 
+
+relatively high abundances of oomycetes have previously been encountered in a study of grassland soils using 
+a metatranscriptomic approach thus not subjected to primer and other amplification biases described by geisen 
+et al however the mentioned study encountered relatively low abundances of apicomplexa compared to ours 
+as opposed to transcribed rrna we also expect to have targeted oocysts possibly originating from grazing ver 
+tebrates infected by cryptosporidiosis consistent with the classification of the majority of apicomplexa encoun 
+tered although monocystis was also present 
+
+overall community structure at higher taxonomic ranks was similar to that encountered by geisen et al 
+with rhizaria followed by alveolata and stramenopiles dominating rhizaria was dominated by cercomonadida 
+followed by silicofilosea consistent with the same study as well as low abundance in average of the typical 
+marine group choanoflagellida in all samples studied as expected due to primer mismatch and other issues 
+associated with targeting amoebozoa abundances of this group were relatively low although both tubulinida 
+echinamoebidae and acanthamoebidae were encountered among the most abundant protist taxa fig   d 
+
+fungal community structure fig   b c appeared very similar to mountain and valley pastures in gorbeia 
+natural park in the sw basque country spain studied using the same its profiling protocol the same seven 
+taxa dominated with conserved ranking overall in both studies except for filobasidales being more abundant in 
+the present study the high abundance of archaeorhizomycetes is particularly interesting considering the recent 
+debate about its global significance the data presented here strengthens previous findings suggesting that it is 
+relatively dominant in alpine grasslands with evidence from both its and s rrna amplicons mean relative 
+abundance and respectively however an alternative explanation could be an unusually high ribosomal 
+gene copy number 
+
+in general its and s rrna amplicon profiling of fungal communities resulted in very consistent results 
+together with the broad coverage of protist and metazoan taxa this illustrates the suitability of the “universal” 
+eukaryotic primers used here however lower fungal richness encountered targeting s rrna is consistent with 
+previous comparisons of these markers indicating lower phylogenetic resolution compared to its 
+
+it is well known that above and belowground communities are tightly interlinked and involve processes 
+such as root exudation litter deposition and interactions ranging from mutualistic symbiosis to plant pathogens 
+and root herbivores thus plant species composition is expected to influence microbial community structure 
+and function as well as the opposite and such correlations have been observed on a regional scale including 
+in alpine meadows and similar ecosystems however it is not always possible to assess this effect due to 
+covariation between plant composition with elevation or other environmental parameters influencing both vege 
+tation and belowground communities directly – plants also influence parameters such as soil ph and nitrogen 
+availability 
+
+in this study plant and belowground communities did not appear correlated according to 
+anosim table  both prokaryotic and total eukaryotic community structure differed significantly between the 
+years when samples were collected and samples from appear to group together in nmds space fig   there 
+was also considerable variability in c n soil humidity and nus between the years supplementary figure s 
+considering the importance of c n it is likely that these changes were related we propose that this physico 
+chemical and biological variation was related to weather patterns such as temperature and rainfall consistent 
+with this averages of recent soil temperature based on daily medians – days before sampling appeared to 
+correlate more strongly to nmds models of prokaryotic community structure compared to yearly temperature 
+averages or elevation however more data is necessary to properly assess this hypothesis that could not be con 
+firmed with manova or mrm likely because temperature data was incomplete it is also interesting to note that 
+for whole year estimates of soil temperature using the daily maxima rather than medians appeared to explain 
+prokaryotic community composition better 
+
+together these findings illustrate the importance of long term studies for understanding the influence of cli 
+mate change on complex and dynamic ecosystems such as mountainous grasslands where samples are collected 
+during several years however it also underscores the value of continuous monitoring of parameters like soil 
+temperature rainfall and snow cover coupled with seasonal monitoring of biological communities in the present 
+study we collected a small number of such samples a week before and after gradient samples in from late 
+autumn in october and during snowmelt in may unfortunately it was not possible to separate seasonal temporal 
+variation in community structure from the considerable spatial and inter annual heterogeneity even between 
+samples taken from the same sampling station elevation and time point 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+however many examples exist of dynamic above belowground interactions controlling the activity and 
+abundance of microorganisms over seasonal and shorter time scales and seasonal variation in soil microbial 
+composition has been confirmed in several studies – 
+
+in conclusion this study illustrates that microbial communities can be used successfully as indicators of 
+potential impacts from climate change providing complementary ecological insights however it also illustrates 
+the limitations of this approach such as heterogeneity making results challenging to interpret particularly for 
+fungi protists and metazoans this can hopefully be overcome at least in part by larger scale studies and improved 
+experimental design such as more frequent sample collection larger number of replicates increased sequencing 
+effort and quality however we are convinced that the ongoing rapid technological development in terms of 
+throughput and automatisation of molecular techniques will continue overcoming some of these limitations in 
+a near future 
+
+references
+ parmesan c ecological and evolutionary responses to recent climate change annu rev ecol evol s – 
+ cardinale b j et al biodiversity loss and its impact on humanity nature – 
+ grytnes j a mccain c m elevational trends in biodiversity in encyclopedia of biodiversity ed levin s – elsevier 
+ cannone n sgorbati s guglielmin m unexpected impacts of climate change on alpine vegetation front ecol environ 
+
+ – 
+ gottfried m et al continent–wide response of mountain vegetation to climate change nature clim change – 
+ bardgett r d bowman w d kaufmann r schmidt s k a temporal approach to linking aboveground and belowground 
+
+ecology trends ecol evol – 
+ bryant j a et al microbes on mountainsides contrasting elevational patterns of bacterial and plant diversity proc natl acad sci 
+
+usa – 
+ zhang y et al soil bacterial diversity patterns and drivers along an elevational gradient on shennongjia mountain china microb 
+
+biotechnol – 
+ wang j t et al altitudinal distribution patterns of soil bacterial and archaeal communities along mt shegyla on the tibetan 
+
+plateau microb ecol – 
+ shen c et al soil ph drives the spatial distribution of bacterial communities along elevation on changbai mountain soil biol 
+
+biochem 
+ shen c ni y liang w wang j chu h distinct soil bacterial communities along a small–scale elevational gradient in alpine 
+
+tundra front microbiol 
+ singh d takahashi k park j adams j m similarities and contrasts in the archaeal community of two japanese mountains 
+
+mt norikura compared to mt fuji microb ecol – 
+ fox j w the intermediate disturbance hypothesis should be abandoned trends ecol evol – 
+ singh d et al strong elevational trends in soil bacterial community composition on mt halla south korea soil biol biochem 
+
+ – 
+ singh d shi l adams j m bacterial diversity in the mountains of south west china climate dominates over soil parameters 
+
+j microbiol – 
+ shen c et al contrasting elevational diversity patterns between eukaryotic soil microbes and plants ecology – 
+ coince a et al leaf and root associated fungal assemblages do not follow similar elevational diversity patterns plos one 
+
+e 
+ miyamoto y nakano t hattori m nara k the mid domain effect in ectomycorrhizal fungi range overlap along an elevation 
+
+gradient on mount fuji japan isme j – 
+ bahram m põlme s kõljalg u zarre s tedersoo l regional and local patterns of ectomycorrhizal fungal diversity and 
+
+community structure along an altitudinal gradient in the hyrcanian forests of northern iran new phytol – 
+ liu l et al altitudinal distribution patterns of am fungal assemblages in a tibetan alpine grassland fems microbiol ecol 
+
+ffv 
+ fierer n et al microbes do not follow the elevational diversity patterns of plants and animals ecology – 
+ segura d a caracterización mediante teledetección del funcionamiento de los ecosistemas ibéricos bases para la conservación de 
+
+la biodiversidad en un escenario de cambio global phd thesis university of almería 
+ teubner i e haimberger l hantel m estimating snow cover duration from ground temperature j appl meteorol 
+
+ – 
+ nelson d sommers l total carbon organic carbon and organic matter in methods of soil analysis part chemical methods eds 
+
+page a l et al sssa and asa 
+ epelde l becerril j m hernández–allica j barrutia o garbisu c functional diversity as indicator of the recovery of soil 
+
+health derived from thlaspi caerulescens growth and metal phytoextraction appl soil ecol – 
+ d’amore r et al a comprehensive benchmarking study of protocols and sequencing platforms for s rrna community profiling 
+
+bmc genomics 
+ Øvreås l forney l daae f l torsvik v distribution of bacterioplankton in meromictic lake sælenvannet as determined by 
+
+denaturing gradient gel electrophoresis of pcr–amplified gene fragments coding for s rrna appl environ microbiol 
+ – 
+
+ hadziavdic k et al characterization of the s rrna gene for designing universal eukaryote specific primers plos one 
+e 
+
+ mcguire k l et al digging the new york city skyline soil fungal communities in green roofs and city parks plos one 
+e 
+
+ edgar r c uparse highly accurate otu sequences from microbial amplicon reads nat methods – 
+ martin m cutadapt removes adapter sequences from high–throughput sequencing reads embnet journal – 
+ rognes t et al vsearch v linux x technical report available at https github com torognes vsearch 
+
+ accessed th june 
+ nilsson r et al improving its sequence data for identification of plant pathogenic fungi fungal divers – 
+ lanzén a et al crest–classification resources for environmental sequence tags plos one e 
+ pilloni g granitsiotis m s engel m lueders t testing the limits of pyrotag sequencing reproducibility quantitative 
+
+assessment and comparison to t rflp fingerprinting of aquifer microbes plos one e 
+ oksanen j et al vegan community ecology package technical report available at http cran r–project org package 
+
+vegan accessed th august 
+ goslee s c urban d l ‘the ecodist package for dissimilarity based analysis of ecological data’ journal of statistical 
+
+software – 
+ tzean s s estey r h species of phytophthora and pythium as nematode destroying fungi j nematol – 
+
+https github com torognes vsearch
+http cran r�project org package vegan
+http cran r�project org package vegan
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+ nielsen u n osler g h r campbell c d burslem d f r p van der wal r the influence of vegetation type soil properties 
+and precipitation on the composition of soil mite and microbial communities at the landscape scale j biogeogr – 
+
+ lanzén a et al the community structures of prokaryotes and fungi in mountain pasture soils are highly correlated and primarily 
+influenced by ph front microbiol 
+
+ shi y et al vegetation associated impacts on arctic tundra bacterial and microeukaryotic communities appl environ microbiol 
+ – 
+
+ wardle d a et al ecological linkages between aboveground and belowground biota science – 
+ jackson l e burger m cavagnaro t r roots nitrogen transformations and ecosystem services annu rev plant biol 
+
+ – 
+ oates l g balser t c jackson r d subhumid pasture soil microbial communities affected by presence of grazing but not 
+
+grazing management appl soil ecol – 
+ bengtsson g bengtson p månsson k f gross nitrogen mineralization immobilization and nitrification rates as a function 
+
+of soil c n ratio and microbial activity soil biol biochem – 
+ hartwig u a the regulation of symbiotic n fixation a conceptual model of n feedback from the ecosystem to the gene expression 
+
+level perspect plant ecol – 
+ bissett a richardson a e baker g wakelin s thrall p h life history determines biogeographical patterns of soil bacterial 
+
+communities over multiple spatial scales mol ecol – 
+ nemergut d r et al patterns and processes of microbial community assembly microbiol mol biol rev – 
+ frey klett p et al bacterial fungal interactions hyphens between agricultural clinical environmental and food microbiologists 
+
+microbiol mol biol rev – 
+ singh b k dawson l a macdonald c a buckland s m impact of biotic and abiotic interaction on soil microbial 
+
+communities and functions a field study appl soil ecol – 
+ geisen s et al metatranscriptomic census of active protists in soils isme j – 
+ schadt c w rosling a comment on “global diversity and geography of soil fungi” science 
+ tedersoo l et al response to comment on “global diversity and geography of soil fungi” science 
+ tedersoo l et al shotgun metagenomes and multiple primer pair barcode combinations of amplicons reveal biases in 
+
+metabarcoding analyses of fungi mycokeys – 
+ zinger l et al contrasting diversity patterns of crenarchaeal bacterial and fungal soil communities in an alpine landscape plos 
+
+one e 
+ schmidt s k et al plant microbe interactions at multiple scales across a high–elevation landscape plant ecol divers 
+ schadt c w martin a p lipson d a schmidt s k seasonal dynamics of previously unknown fungal lineages in tundra soils 
+
+science – 
+ lipson d a schmidt s k seasonal changes in an alpine soil bacterial community in the colorado rocky mountains appl 
+
+environ microbiol – 
+ hill r et al temporal and spatial influences incur reconfiguration of arctic heathland soil bacterial community structure environ 
+
+microbiol 
+ benito j l catálogo florístico del parque nacional de ordesa y monte perdido pirineo aragonés in monografías de botánica 
+
+ibérica ed benito j l no jolube 
+
+acknowledgements
+we acknowledge instituto aragonés de gestion ambiental government of aragon and the ordesa and monte 
+perdido national park ompnp for their kind assistance and permission to carry out fieldwork in the national 
+park further we thank arima rodríguez for invaluable work as part of her msc project with amplicon library 
+preparation and fieldwork mikel anza for biolog analysis and sampling christopher quince university of 
+warwick as well as john kenny pia koldkjær and the rest of the centre for genomic research at the university 
+of liverpool for helpful advice regarding amplicon sequencing design finally we thank the rangers of ompnp 
+for their attentive help and collaboration this work was financed by the basque government project behatoki 
+and a marie curie scholarship awarded to anders lanzén from the european union project microbs ief 
+ 
+
+author contributions
+a l l e c g and f b contributed to the conception and design of the study all authors carried out fieldwork 
+or laboratory analyses critical for acquisition of the data analysed all authors also contributed to different aspects 
+of analysis and interpretation of data a l wrote the paper and all remaining authors revised it critically or 
+approved of the final version 
+
+additional information
+accession codes data has been deposited to the european nucleotide archive with study accession prjeb 
+supplementary information accompanies this paper at http www nature com srep
+competing financial interests the authors declare no competing financial interests 
+how to cite this article lanzén a et al multi targeted metagenetic analysis of the influence of climate and 
+environmental parameters on soil microbial communities along an elevational gradient sci rep doi 
+ srep 
+
+this work is licensed under a creative commons attribution international license the images 
+or other third party material in this article are included in the article’s creative commons license 
+
+unless indicated otherwise in the credit line if the material is not included under the creative commons license 
+users will need to obtain permission from the license holder to reproduce the material to view a copy of this 
+license visit http creativecommons org licenses by 
+
+http www nature com srep
+http creativecommons org licenses by 
+
+	multi targeted metagenetic analysis of the influence of climate and environmental parameters on soil microbial communities 
+	materials and methods
+	study site 
+	sample collection and on site measurements 
+	soil physicochemical and biolog ecoplate measurements 
+	dna extraction and amplicon sequencing 
+	sequence data analysis and statistics 
+
+	results
+	temperature and physicochemical parameters 
+	influence of climate and environmental parameters on microbial alpha diversity 
+	influence of climate and physicochemical parameters on soil microbial community composition 
+	taxonomic composition 
+	correlation of bacterial archaeal fungal protist and metazoan communities 
+	plant community structure 
+	influence of weather and temporal variation 
+
+	discussion
+	in this study plant and belowground communities did not appear correlated 
+
+	acknowledgements
+	author contributions
+	﻿figure ﻿﻿ ﻿﻿ ﻿ annual mean of daily minimum median and maximum soil temperatures – and predicted days under snow coverage along the studied gradient 
+	﻿figure ﻿﻿ ﻿﻿ ﻿ identified correlations between alpha diversity estimates and physicochemical parameters 
+	﻿figure ﻿﻿ ﻿﻿ ﻿ non metric multidimensional scaling nmds based on bray curtis dissimilarities of microbial community composition 
+	﻿figure ﻿﻿ ﻿﻿ ﻿ distribution of most abundant taxa across samples 
+	﻿figure ﻿﻿ ﻿﻿ ﻿ non metric multidimensional scaling nmds based on bray curtis dissimilarities of plant community composition 
+	﻿table ﻿﻿  ﻿ overview of the studied elevational gradient 
+	﻿table ﻿﻿  ﻿ sample and analysis overview 
+	﻿table ﻿﻿  ﻿ correlations between physicochemical and biological parameters measured asterisks represent strength of significance after bonferroni correction 
+	﻿table ﻿﻿  ﻿ results from a manova adonis and multiple regression on similarity matrix mrm model 
+	﻿table ﻿﻿  ﻿ results from analysis of similarities anosim between communities bray curtis dissimilarity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+application pdf
+ 
+ 
+ multi targeted metagenetic analysis of the influence of climate and environmental parameters on soil microbial communities along an elevational gradient
+ 
+ 
+ 
+ 
+ srep doi srep 
+ 
+ 
+ 
+ 
+ anders lanzén
+ lur epelde
+ fernando blanco
+ iker martín
+ unai artetxe
+ carlos garbisu
+ 
+ 
+ doi srep 
+ 
+ 
+ nature publishing group
+ 
+ 
+ 
+ 
+ © nature publishing group
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © macmillan publishers limited
+ srep 
+ 
+ 
+ nature publishing group
+ 
+ 
+ permissions nature com
+ 
+ 
+ 
+ 
+ http dx doi org srep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ doi srep 
+ 
+ 
+ 
+ 
+ srep doi srep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ true
+ 
+ 
+

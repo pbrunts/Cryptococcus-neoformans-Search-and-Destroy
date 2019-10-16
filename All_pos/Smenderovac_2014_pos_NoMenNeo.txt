@@ -1,0 +1,7228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e smenderovac thesis
+
+
+microbial community structure and function in 
+coarse woody debris and boreal forest soil after 
+
+intensified biomass harvests 
+
+ by 
+
+emily elizabeth smenderovac 
+
+a thesis submitted in conformity with the requirements 
+for the degree of masters of science in forestry 
+
+faculty of forestry 
+university of toronto 
+
+© copyright by emily smenderovac 
+
+
+
+ 
+
+ii 
+
+ 
+
+microbial community structure and function in coarse woody 
+
+debris and boreal forest soils under intensified biomass 
+
+harvests 
+
+emily smenderovac 
+
+masters of science in forestry 
+
+faculty of forestry 
+university of toronto 
+
+ 
+
+abstract 
+
+intensified biomass harvesting could prove to be negative for forest ecological health 
+
+through the impacts this type of forest management could exert on microbial community 
+
+structure and function in forest soils and in cwd pools microbial community functional 
+
+characteristics as well as community structure through t rflp and pyrotag sequencing of ssu 
+
+rrna were assayed soils in a boreal jack pine forest exposed to a clearcut intensified harvesting 
+
+gradient microbial communities within cwd of various decay stages were also assessed in 
+
+order to determine habitat specificity of the decomposer communities within them soil 
+
+microbial communities were altered by harvesting but intensification did not cause further 
+
+disturbance soils in harvested sites were different from fire sites also assayed meaning that 
+
+these disturbance types may have different impacts on microbial community structure and 
+
+functioning cwd communities within logs had different characteristics in different sites 
+
+intensification could reduce site specific organisms important in decay initiation 
+
+
+
+ 
+
+iii 
+
+ 
+
+acknowledgments 
+
+i would like to acknowledge some associates with whom i have shared in the trials and 
+
+tribulations of this masters project without the excellent teachings of michael preston i don’t 
+
+know if i would have been able to trust my own t rflp data i must admit that the ’s music 
+
+thrumming through the lab was uplifting as well the guidance of caroline sadlier through the 
+
+intimidating process of learning qiime turned the program equivalent of a ravenous lion into 
+
+something closer to one of those inbred lions they use for photo opportunities in florida to my 
+
+supervisor nathan basiliko you may think it was a huge inconvenience to get me to ship up and 
+
+move to sudbury when you switched universities but i’m glad you did i have enjoyed my time 
+
+here also i appreciate how lucky i was to experience the rare opportunity of having both 
+
+supervisors nate basiliko and john caspersen visit the field with me i enjoyed hearing about the 
+
+professor perspective on academia and publishing while we were sampling cwd and soils all 
+
+while i was admiring their seemingly supernatural bug tolerance i would also like to thank 
+
+genevieve noyce for sampling assistance and for remembering where i was the entire time we 
+
+were in the field also many thanks to phil rudz who initially showed me how to identify 
+
+decay stages without kara webster dave morris rob fleming and paul hazlett at cfs i 
+
+would not have had the chance to work on the island lake sites they are a beautiful 
+
+experimental set up and i was very lucky to get a chance to work there also i’d like to 
+
+acknowledge stephanie wilson for completing my microbial biomass assays and teaching me 
+
+how to conduct large scale enzyme assays and sir at cfs this research was funded by 
+
+nserc crd with industrial support from tembec inc and community partners of the 
+
+northeast superior regional chief’s forum and the northeast superior forest communities 
+
+ 
+
+ 
+
+
+
+ 
+
+iv 
+
+ 
+
+table of contents 
+
+acknowledgments iii	  
+
+table of contents iv	  
+
+general introduction 	  
+
+incentives for intensifying biomass removal 	  
+
+forests as global carbon stores 	  
+
+ecological functions of coarse woody debris 	  
+
+nutritional contributions to forest soils 	  
+
+biodiversity maintenance 	  
+
+potential impacts of harvesting intensification 	  
+
+study summary thesis structure and co authorship statement 	  
+
+research objectives and hypotheses 	  
+
+chapter impacts of intensified harvesting on microbial community structure and function 
+in boreal forest soils 	  
+
+ 	   introduction 	  
+
+ 	   methods 	  
+
+ 	   study site 	  
+
+ 	   sampling 	  
+
+ 	   laboratory methods 	  
+
+ 	   statistical analysis 	  
+
+ 	   results 	  
+
+ 	   soil chemistry and microbial biomass 	  
+
+ 	   t rflp based microbial richness and diversity 	  
+
+ 	   microbial community structure and functioning 	  
+
+ 	   species associated with harvesting treatments 	  
+
+ 	   discussion 	  
+
+
+
+ 
+
+v 
+
+ 
+
+ 	   harvesting impacts on biomass moisture and microbial community function 	  
+
+ 	   microbial community structure doesn’t respond noticeably to intensification 
+of clearcut harvesting on short term time scales 	  
+
+ 	   clear cut harvesting as an analog for fire disturbance 	  
+
+ 	   conclusion 	  
+
+chapter figures 	  
+
+chapter tables 	  
+
+chapter coarse woody debris microbial community dynamics in boreal hardwood and 
+temperate mixedwood forests 	  
+
+ 	   introduction 	  
+
+ 	   methods 	  
+
+ 	   study sites 	  
+
+ 	   decay classification 	  
+
+ 	   sampling 	  
+
+ 	   laboratory techniques 	  
+
+ 	   statistical analysis 	  
+
+ 	   results 	  
+
+ 	   microbial richness and diversity 	  
+
+ 	   community structure 	  
+
+ 	   indicator species 	  
+
+ 	   wood chemistry and linkages to community structure 	  
+
+ 	   discussion 	  
+
+ 	   microbial community change through the decay process 	  
+
+ 	   site specificity of microbial communities 	  
+
+ 	   consistency in the decay process between distinct forest types 	  
+
+ 	   interaction of wood and soils through decay stages 	  
+
+ 	   conclusion 	  
+
+
+
+ 
+
+vi 
+
+ 
+
+chapter figures 	  
+
+chapter tables 	  
+
+general conclusion 	  
+
+references 	  
+
+appendix extended methods 	  
+
+laboratory methods 	  
+
+statistical analysis 	  
+
+appendix chapter additional figures 	  
+
+appendix chapter additional figures 	  
+
+
+
+ 
+
+ 
+
+general introduction 
+ 
+
+in a society where answers to most questions can be found literally in ones hand and 
+
+travelling across the world in a day is possible the perception of our world has shifted to one 
+
+decidedly smaller than generations past it becomes easy to forget that these luxuries have an 
+
+energetic cost energy unfortunately derived from mostly non renewable resources in an 
+
+environment of continual population growth these energy demands rise the impacts wrought 
+
+from global climate change and the anticipated future scarcity of oil resources with high 
+
+environmental costs of extraction have engaged global attention and encouraged exploration of 
+
+alternative energy sources to meet these rising energy demands antoni et al berch et al 
+
+ dorian et al bioenergy is just one of the potential avenues for future exploitation 
+
+agriculture and forestry are the main sources of the biomass for bioenergy production the low 
+
+frequency of harvesting disturbance and the lengthy growth cycle in forestry systems is 
+
+considered by some to be more sustainable than conventional agricultural operations as a 
+
+possible source of bioenergy production agricultural operations are known to advance soil 
+
+degradation processes and damage watersheds hoogwijk stonehouse bohl 
+
+stupak et al tilman et al werhahn mees et al forestry practices are also 
+
+less likely to exacerbate food shortage many commercial forestry operations occur on lands 
+
+unsuitable to agriculture dorian et al puddister et al stupak et al 
+
+although there is a long history of bioenergy production in the forestry sector bioenergy in 
+
+north american forestry operations is rarely the primary product of interest energy is generated 
+
+onsite from wood residues and black liquor that are otherwise unusable for sawmill and pulping 
+
+operations hoogwijk as tree boles are a valuable commodity for saw and pulpwood it 
+
+is more likely enhanced bioenergy production in the forestry sector will be supported by 
+
+feedstocks derived from tree residues that are not typically removed e g tree tops small 
+
+branches stumps residues can be used to produce energy directly through combustion or can 
+
+be converted to ethanol and other petroleum substitutes through various chemical and biological 
+
+mechanisms hoogwijk janowiak webster 
+
+
+
+ 
+
+ 
+
+incentives for intensifying biomass removal 
+
+the idea of using woody biomass for centralized energy production is not a novel 
+
+concept chemical recovery boilers have been in operation since the ’s at pulp mills and 
+
+various operations utilize bark or sawmill wastes for direct combustion or for the production of 
+
+wood pellets which can then be converted to thermal energy off site hoogwijk sabourin 
+
+et al stupak et al tenenbaum also the potential for wood biomass as an 
+
+energy source is substantial wood derived electrical energy in the us is predicted to rise to 
+
+billion kwh by energy information administration in canada heating during 
+
+winter is often partially or fully supported through non centralized biomass combustion for 
+
+many households wood biomass could be a greater constituent of the total energy budget 
+
+currently forestry supplies of canada’s energy supply but this is expected to rise natural 
+
+resources canada 
+
+harvesting solely for the purpose of producing biomass is not economically viable for 
+
+most forest systems smeets faaij however the increasing energy demands and the 
+
+goal of reduced reliance on fossil fuels create incentives for forest management to utilize 
+
+materials they would otherwise leave on site in short there is now increased possibility of profit 
+
+from intensified harvesting practices this trend of intensified harvesting has begun in the boreal 
+
+forests of canada where some operations are moving to whole tree from stem only harvests 
+
+ myketa et al the effects of these different harvesting methods have not been 
+
+extensively investigated in the unique boreal ecosystem and so the impacts upon ecosystem 
+
+processes must be studied though canadian operations have thus far been restricted to whole 
+
+tree harvests in europe intensified biomass removal in softwood and mixed wood forests can be 
+
+so extreme as to involve stump and root removal and removal of forest floor i e organic rich 
+
+surface litters and soil lindroos 
+
+forests as global carbon stores 
+
+the importance of forests to the global biosphere and atmosphere warrants careful study 
+
+and understanding of the vital ecological processes that occur within them greenhouse gas 
+
+derived global warming has brought attention to the value of forests as global long term carbon 
+
+stores and this has been reflected in the literature birdsey et al nunery keeton 
+
+smeets faaij in previous studies of high intensity harvesting systems a gradient of c 
+
+
+
+ 
+
+ 
+
+sequestration ability has been seen with lower carbon pools in the higher intensity systems 
+
+ nunery keeton this range of carbon storage may be attributed to the amount of 
+
+downed woody debris dwd allotted to each of these systems dwd contains both large 
+
+downed woody debris greater than cm diameter cwd and smaller diameter fine woody 
+
+debris fwd since cwd is highly variable between different forests the actual contribution to 
+
+the carbon storage capabilities of a given forest can range from of the above ground 
+
+carbon storage laiho prescott intensified harvesting practices can reduce the 
+
+subsurface carbon storage capabilities of forest systems as well a recent study by clemmensen 
+
+et al showed that mycorrhizal fungi are responsible for a large portion of carbon storage 
+
+in the mineral soils of boreal forests in intensified systems these mycorrhizal networks could be 
+
+damaged by stump removal or mycorrhizal survivorship might suffer with fewer dwd residues 
+
+to provide refuges for these organisms during high stress events such as drought or forest fire 
+
+ harmon et al kauserud et al lehto zwiazek it is important to monitor 
+
+these systems to understand the implications of intensified biomass removal in a variety of 
+
+ecosystems despite the risks of losing a portion of ecosystem level c stocks via soil organic 
+
+matter and dwd intensified biomass harvesting in forest systems might remain a desirable 
+
+option for bioenergy production particularly when compared to agricultural options 
+
+ecological functions of coarse woody debris 
+
+the value of forests extends far past their carbon storage capabilities forests remain 
+
+hotspots of biodiversity in an increasingly urbanized and agriculturally dominated world 
+
+landscape canada is lucky in that we have the largest intact forest in the world the northern 
+
+boreal forest though this area has of yet remained largely undeveloped mining industries have 
+
+begun to encroach on this territory and if future markets for wood residues increase it may 
+
+become plausible for logging operations to move into these areas currently however logging 
+
+operations are restricted to the southern portion of canada natural resources canada b 
+
+biodiversity has already been impacted in these areas by the introduction of roads noise and 
+
+other types of disturbance introduced by logging operations in order to decrease the 
+
+extensiveness of these impacts different tiers of biodiversity need to be characterized and 
+
+observed in the face of intensified harvesting cwd is known to be an important resource in 
+
+forest systems contributing habitat and nutrients to the forest floor in fact the importance of 
+
+this resource is so great that accepted sustainable management systems attempt to ensure the 
+
+
+
+ 
+
+ 
+
+maintenance of these ecosystem functions by designating specific levels of woody residues to be 
+
+left on site after harvest stupak et al vanderwel 
+
+nutritional contributions to forest soils 
+
+moving past “stem only” harvesting introduces the issue of reduced nutrient pools from 
+
+loss of nutrient rich litter inputs such as leaves and needles as well as fwd that has a 
+
+proportionally large amount of nutrient rich bark loss of these important nutrient sources could 
+
+have potential to reduce future forest regeneration capabilities thiffault et al werhahn 
+
+mees et al the nutritional contribution of cwd to the landscape consists mostly of 
+
+carbon and calcium but also minor amounts of nitrogen and phosphorus harmon et al 
+
+laiho prescott spears holub the flux of nitrogen and phosphorus in cwd is 
+
+dynamic and greatly influenced by its resident biotic community nitrogen and phosphorus 
+
+concentrations change as cwd decays and this is likely due to a combination of leaching 
+
+fragmentation and active transport by fungi harmon et al laiho prescott 
+
+fungi have many unique adaptations allowing them to persist in environments that should be 
+
+unsuitable to their survival rhizomorphs allow fungi to not only persist but flourish in some of 
+
+these environments these thick masses of hyphae can transport water and limiting nutrients 
+
+from surrounding environments to the actively growing portion of the mycelial network and 
+
+similarly mycelia can transport nutrients albeit over smaller distances boddy watkinson 
+
+ lehto zwiazek marjanovic nehls the transport of water and 
+
+extraneous nutrients allow fungi to make cwd suitable as a growth medium and carbon 
+
+substrate by other organisms this transformation of woody material to a moist more nutrient 
+
+rich environment also allows bacteria to act on wood tissues and further release nutrients from 
+
+wood cell components boddy watkinson fransson et al bacterial presence in 
+
+wood tissues may also allow for another source of nitrogen to enter cwd nitrogen fixed directly 
+
+from the atmosphere it is not known whether nitrogen input through bacterial fixation is a 
+
+significant source of nitrogen for forests this activity could possibly be a contributor of 
+
+nitrogen as nitrogen fixing activity has been reported in cwd residues brunner kimmins 
+
+ 
+
+
+
+ 
+
+ 
+
+biodiversity maintenance 
+
+habitat functions of dwd include shelter mating habitat and food resources these 
+
+functions are important to various plant and animal species dispersed among the various stages 
+
+of decay and are directly related to the degradation of dwd by microorganisms botting 
+
+delong langor et al maser et al mccay komoroski mengak 
+
+guynn the removal of cwd specifically has been demonstrated to reduce diversity of 
+
+organisms in some intensely managed forest systems in europe berch et al the various 
+
+stages of decay represent a spectrum of characteristics early decay features wood residues that 
+
+are rigid solid low in nitrogen and phosphorus and only utilized by some insects and 
+
+insectivores as food later stages of decay are higher in moisture have much more structural 
+
+instability and contain hollow spaces along with elevated levels of phosphorus and nitrogen 
+
+compared to early decay increasing the suitability of the cwd material to support a greater 
+
+range of ecosystem functions fransson et al harmon et al maser et al 
+
+some of these habitats are amenable to mycorrhizal fungi harmon et al juutilainen et 
+
+al rajala et al whether they are actively using nutrients for the wood or just find 
+
+a suitable place through which to form fruiting body structures the storage of their hyphae in is 
+
+important survival of ectomycorrhizae in cwd after disturbance events may assist in successful 
+
+tree re establishment kauserud et al lehto zwiazek the dynamism exhibited 
+
+by these characteristics facilitated by microorganisms changes the state of cwd to such an 
+
+extent that the microbial community itself reflects the variation exhibited through the decay 
+
+stages 
+
+ recent technologies have allowed for the advancement of studies concerning microbial 
+
+communities in the environment previous studies of fungi involved with the stepwise processes 
+
+of wood decomposition de lignification by white rot and breakdown of celluloses and 
+
+hemicelluloses by brown and soft rot fungi focused mostly on fruiting body prevalence or 
+
+culture methods both of which are selective i e do not likely characterize in situ communities 
+
+accurately and far from exhaustive allmér et al kernaghan patriquin nadkarni 
+
+et al molecular surveys have brought forth an era where it is possible to reveal 
+
+sequences of thousands of distinct species within a single sample most of these surveys have 
+
+shown that this complexity is vastly underrepresented in previous culture techniques and that the 
+
+ecology of cwd is far more complex than previously recorded with known decomposers often 
+
+
+
+ 
+
+ 
+
+only appearing in early decay stages kubartová et al ottosson rajala et al 
+
+ it is important to understand microbial community structure at each stage of decay within 
+
+and between forest types that may serve keystone functions from some of the few studies that 
+
+have employed new techniques to characterize cwd microbial communities it has been shown 
+
+that decay stage was more important than proximity in predicting similarity between decomposer 
+
+communities among logs kubartová et al the connection between decay class and 
+
+community structure introduce the possibility of including biodiversity indices into established 
+
+landscape level cwd stock prediction models eg vanderwel et al if enough 
+
+community consistency is observed this may allow for the prediction of disturbance impacts on 
+
+landscape level microbial diversity 
+
+potential impacts of harvesting intensification 
+
+intensification of forest harvesting has been shown to affect microbial community 
+
+composition a study by hartmann et al featuring soils from full tree and stumped 
+
+harvesting systems established between and in conifer forests across british columbia 
+
+ western canada detected significant differences between treated and untreated sites however 
+
+the studies were completed a considerable amount of time after harvest so the effectiveness of 
+
+microbial community as an indicator of early disturbance effects has not been examined also 
+
+the inherent differences that could have existed between the plots due to temporal and spatial 
+
+variation in sampling could have influenced differences witnessed in this study hartmann et al 
+
+ 
+
+intensified harvesting systems involve disturbances that are distinct from the impacts of 
+
+more common stem only biomass removal intensified harvesting processes likely lead to greater 
+
+physical soil disturbance and altered soil properties due to leaching weathering compaction and 
+
+erosion are the main consequences of this increased exposure brown fernández et al 
+
+ tan et al the more drastic the disturbance the more the ambient hydrological and 
+
+nutrient dynamics are altered compaction can have a large influence on the hydrological 
+
+characteristics of forest soils hartmann et al tan et al differences across 
+
+increasing levels of mechanical disturbance have been observed however ultimately the natural 
+
+heterogeneity of study sites has made these observations difficult to accurately quantify 
+
+ hartmann et al in general there is a lack of understanding of how intensified biomass 
+
+
+
+ 
+
+ 
+
+removal and related loss of dwd will impact both soil and wood microbial communities which 
+
+are drivers of essential ecosystem processes and decay and related ecological succession this is 
+
+particularly true in the context of the vast boreal forest of ontario 
+
+study summary thesis structure and co authorship statement 
+
+this study used a new harvest trial installation hereafter “island lake” that 
+
+included replicated treatments of levels of intensified biomass removal from a jack pine forest 
+
+in northern ontario this research trial provides a unique opportunity to examine short term 
+
+disturbance effects which may have important consequences in regards to seedling survivorship 
+
+and establishment of mycorrhizal associations inference of longer term impacts of biomass 
+
+removal that are more likely linked to reduced slash at time of harvest required investigating 
+
+cwd pools of various decay stage microbial communities within cwd and soil in an 
+
+unharvested nearby old growth jack pine stand were characterized to link association of 
+
+particular organisms decay stage and to explore linkages between cwd and underlying soils 
+
+this may provide indications of whether important decay organisms might be lost by reducing 
+
+future cwd pools through intensified harvesting practices to address questions of whether or 
+
+not cwd microbial communities are specific by forest type cwd communities were also 
+
+characterized in a contrasting sugar maple dominated great lake st lawrence forest in central 
+
+ontario and to address if communities are species specific cwd communities were also 
+
+characterized in a sugar maple grove of the carolinian forest of southern ontario ultimately 
+
+this study will help discern the effect of different harvesting intensity and verify the utility of soil 
+
+microbial communities as an indicator of environmental change it also contributed fundamental 
+
+understanding of the diversity and role of microbial communities in wood decomposition the 
+
+thesis comprises primarily semi stand alone manuscript style research chapters the first 
+
+addresses soil microbial disturbance associated with biomass harvesting while the second 
+
+focuses on cwd microbial communities these chapters are framed with this general 
+
+introduction and a comprehensive conclusion section that revisits interrelated aspects of the 
+
+chapters that are not covered in each alone as well as suggestions for future related work 
+
+graduate supervisors and research colleagues nathan basiliko john caspersen kara webster 
+
+paul hazlett and dave morris played important roles in this research and will be co authors on 
+
+each chapter as they are submitted for consideration by scientific journals however the research 
+
+was carried out and written up primarily by me 
+
+
+
+ 
+
+ 
+
+research objectives and hypotheses 
+
+ this thesis will address the impacts of biomass removal intensities on soil microbial 
+
+structure and functioning and characterize the microbial communities within cwd across 
+
+decay stage and forest type to allow predictions of how intensified harvesting will affect future 
+
+levels of biodiversity and ecosystem functioning 
+
+ project will test the following hypotheses increased biomass removal though reduced 
+
+slash and increased physical soil disturbance will reduce soil moisture and organic matter inputs 
+
+and thus lead to lower microbial biomass microbial degradative capabilities will also be reduced 
+
+and microbial community structure will change with harvesting intensity the microbial 
+
+community structure resulting from harvesting impacts is not comparable to natural fire 
+
+disturbance project will investigate the following hypotheses community structures will 
+
+differ based on decay stage of wood with initial stages containing fewer species likely white and 
+
+brown rot fungi will dominate that facilitate greater diversity in fungi and bacteria for later 
+
+decay stages by increasing and transforming available nutrients similarities exist between late 
+
+decay communities from different environments cwd of similar species should have more 
+
+similar microbial community compositions than that of different residue types microbial 
+
+community structure in different locations within cwd will be different cwd of different 
+
+decay status should have different compositions in soils beneath them due to biological and 
+
+physical nutrient exchange with cwd above them 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+chapter 
+impacts of intensified harvesting on microbial community 
+
+structure and function in boreal forest soils 
+ 
+
+ introduction 
+
+global dependence on non renewable petroleum derived energy and increasing scarcity 
+
+of oil resources have driven the exploration of alternative energy sources as potential solutions 
+
+for global energy needs berch et al dorian et al the forestry sector in north 
+
+america already represents one of the largest producers of centralized bio energy and many 
+
+companies are looking towards increasing production and marketing beyond internal utilization 
+
+the additional demand for wood biomass encourage intensified harvesting practices that could 
+
+impact increase levels of soil disturbance at time of harvest and future stocks of woody debris in 
+
+forest ecosystems most current silvicultural guidelines in ontario prescribe stem only 
+
+harvesting but nevertheless these activities are already taking place in some areas of the boreal 
+
+forests of canada e g favouring whole tree v stem only harvests myketa et al the 
+
+differences in ecology climate and geology could cause different responses to intensified 
+
+biomass harvests in the unique boreal ecosystem compared to studies completed in europe and 
+
+western canada berch et al hartmann et al 
+
+the advancement of biomass removal past stem only harvesting can negatively influence 
+
+biodiversity and soil nutrient pools litter such as leaves and small branches and large and 
+
+downed coarse woody debris forest floor woody debris cm in diameter are widely 
+
+acknowledged as an important component of forest ecosystems for habitat and nutritional 
+
+contributions to the forest system boddy watkinson brunner kimmins 
+
+fransson et al harmon et al lehto zwiazek tedersoo kõljalg 
+
+thiffault et al werhahn mees et al depletion of downed fine and coarse woody 
+
+debris dwd could reduce nitrogen phosphorus calcium and carbon inputs to soils the 
+
+ecosystem services and strong dependence of microbial organisms on their immediate soil 
+
+environment makes microbial community analysis a powerful indicator tool to detect soil 
+
+disturbances from harvesting activities studies have shown altered chemical characteristics in 
+
+soils from intensified biomass harvesting practices that could have impacts on the microbial 
+
+ecology within forest environments thiffault et al in the literature there is a lack of 
+
+
+
+ 
+
+ 
+
+consistency regarding the response of microbial communities to increased biomass removal past 
+
+stem only harvest techniques used and responses vary between papers many studies have 
+
+reported differences in microbial community structure and function between harvested and 
+
+unharvested sites likely associated with the physical disturbances which accompany logging 
+
+operations chatterjee et al hynes germida siira pietikäinen et al 
+
+machinery in harvesting processes often cause compaction in soils which can alter hydrology 
+
+and nutrient dynamics busse beattie hartmann et al janowiak webster 
+
+ lower resolution technologies e g risa plfa did not observe community changes 
+
+from biomass removal past stem only harvesting excepting the most extreme scenario of 
+
+complete organic matter removal hannam et al kataja aho et al mariani et al 
+
+ no response of microbial communities to biomass removal intensification in these studies 
+
+could have been due to the low resolution of techniques applied a study by hartmann et al 
+
+ using high throughput sequencing saw distinct clustering of communities from forest 
+
+soils exposed to different levels of organic material removal few studies have investigated the 
+
+impacts of intensified biomass removals in short term scenarios this time frame is important as 
+
+seedlings are typically planted quickly after harvests occur reductions of plant symbionts and 
+
+microorganisms important to nutrient cycling functions in soils that could occur from intensified 
+
+biomass removal would have the potential to inhibit seedling establishment kernaghan 
+
+patriquin lehto zwiazek tedersoo et al the detection of community 
+
+responses to intensified biomass harvesting in higher resolution molecular techniques where 
+
+more coarse techniques have failed as well as the lack of work investigating the short term 
+
+implications of these management decisions suggest that the impacts of intensified biomass 
+
+harvesting upon microbial diversity in forest soils requires additional study before 
+
+generalizations can be applied 
+
+microbial communities in ontario boreal forest soils need to be investigated in the short 
+
+term time frames involved in planting after harvest this timescale has not been extensively 
+
+studied due to the age of existing study sites and the previous expense associated with the 
+
+advanced molecular techniques typically used to study microbial communities it is anticipated 
+
+that the increased intensity harvesting will reduce soil moisture and microbial biomass through 
+
+reduction of slash and increased physical disturbance microbial degradative capabilities will 
+
+change with harvesting intensity microbial community structure will change with increased 
+
+
+
+ 
+
+ 
+
+harvesting intensity and microbial community structure in naturally disturbed sites will not 
+
+reflect the changes which occur from harvesting disturbance due to the different amount and 
+
+mechanism of soil organic losses in fire disturbance compared to harvesting disturbance 
+
+ methods 
+
+ study site 
+
+ the island lake site was located near chapleau ontario in the ontario shield ecozone 
+
+ lake abitibi boreal ecoregion of ontario prior to harvesting in the site consisted of ca 
+
+ year old jack pine pinus banksiana monoculture planted in the early to mid s the 
+
+landscape was relatively flat with minimal slope and so was relatively uniformly distributed 
+
+across the landscape prior to harvesting soils were generally sandy and acidic belonging to the 
+
+brunisolic order there were four applied treatments bladed which consisted of removal of all 
+
+biomass and lfh layer from the plot stumped where the full tree and stumps were removed 
+
+from the plot full tree where the entirety of each tree upwards from the stump was removed 
+
+from the plot and tree length where only the bole of each tree was removed and the stumps and 
+
+upper branches were left on site after harvest five replicates of each biomass harvesting 
+
+intensity were performed on randomly distributed plots within the treatment area and five control 
+
+plots were placed within an unharvested area bordering the treatment plots each plot was m 
+
+and one half of each treatment plot was planted with jack pine and the other black spruce picea 
+
+mariana and each sub plot split again and one half treated with glyphosate to suppress broadleaf 
+
+plant growth chapleau receives an annual average of mm of precipitation a year and has an 
+
+average yearly temperature range of to °c a nearby old growth stand predominately of 
+
+jack pine that has not burned in ca y based on ages of most mature trees was also sampled 
+
+and this was the site where was sampled local name “nimitz” although the old growth 
+
+controls were not included in the randomized replicated experimental design the five replicate 
+
+sampling locations were spaced up to km apart and thus might still be suitably comparable to 
+
+the main treatment and control plots to explore harvesting impacts as opposed to other between 
+
+site differences a nearby fire site consisting of a year old jack pine stand that experienced a 
+
+burn in was added to the study in the sampling plots in the fire site were 
+
+established approximately km apart 
+
+
+
+ 
+
+ 
+
+ sampling 
+
+soils were sampled in control old growth tree length full tree stumped and bladed sites 
+
+june th th during june th st sampling was repeated for all control tree 
+
+length full tree and stumped treatments as well as two bladed treatments and all plots of the 
+
+fire site cm mineral soil cores and lfh grab samples were taken from six points along two 
+
+cross sections of each plot for each herbicide and non herbicide treatment on the flats within 
+
+the site the areas with minimal physical disturbance in fire sites samples were taken along 
+
+the approximate mid point of each site these samples were then pooled mixed and stored at 
+
+ °c at the earliest convenience samples were processed in the lab by sieving through a mm 
+
+sieve to homogenize the samples and remove any large debris a small portion of soil was frozen 
+
+without sieving for molecular tests 
+
+ laboratory methods 
+
+ substrate induced respiration 
+
+substrate induced respiration was performed using the microresp™ system as 
+
+referenced in bérard et al sieved soil samples were used to fill well deepwell plates 
+
+deepwell plates were incubated at room temperature for days for lfh samples and days for 
+
+mineral soils substrates were prepared so that applied solutions would result in concentrations 
+
+of approximately mg per gram soil water given application of a µl aliquot clear well 
+
+plates were prepared with agar containing cresol red kcl and nahco the indicator in the 
+
+agar underwent a detectable colorimetric change upon acidification when exposed to co 
+
+indicator plates were secured over the deepwell plates and incubated at room temperature for 
+
+hours after application of substrate solutions substrates utilized were alanine glucose 
+
+arabinose butyrate arginine ketose citrate oxalate cysteine maltose fructose and trehalose 
+
+plate absorbance was read with a spectrophotometer microplate reader at nm 
+
+ enzyme assays 
+
+ hydrolase assay 
+
+hydrolase assays were completed using a method based on that of hassett zak 
+
+stock µm solutions were made for mub β d glucopyranoside mub β d cellobioside 
+
+mub phosphate mub n acetyl β d glucosaminide and mub standard the mub standard 
+
+
+
+ 
+
+ 
+
+was diluted to µm g of sieved soil were measured and blended with ml of m 
+
+sodium acetate buffer for minute the sample was agitated in a petri plate and µl were 
+
+aliquotted into a black well microplate substrates were loaded into the microplate plates 
+
+were incubated in the dark at room temperature for minutes fluorescence was measured at an 
+
+excitation of nm and an emission wavelength of nm 
+
+ lignase assay 
+
+lignase activity was determined in a manner similar to hassett zak fresh 
+
+ m l dopa solution was used as a substrate for lignase activity measurement ml of 
+
+ m sodium acetate buffer was blended with g of sieved soil the sample was agitated in a 
+
+petri plate and µl were aliquotted into a clear well microplate substrates were loaded 
+
+into the microplate in µl volumes plates were incubated in the dark at room temperature for 
+
+ minutes absorbance was measured in a spectrophotometer microplate reader at nm 
+
+ chloroform fumigation 
+
+sieved sampled were used to analyze microbial biomass generally following basiliko et 
+
+al soil moisture was measured by subtraction of dry weight from wet weight samples 
+
+were weighed to g dry weight for lfh and g dry weight for mineral soil m k so 
+
+solution was used as a blank two sets of samples for each soil sample were made one set of 
+
+samples was fumigated with chloroform and the other set was left untreated the chloroform 
+
+fumigated samples were placed in a desiccator with a ml beaker containing ml 
+
+chloroform and boiling chips a vacuum was applied to the desiccator until the chloroform had 
+
+boiled for minutes the samples were then left to fumigate for hours with a garbage bag 
+
+over the desiccator volumes of ml of m k so were added to the unfumigated samples 
+
+and blanks and incubated at room temperature with shaking for hour after chloroform 
+
+fumigation the amount of chloroform remaining in the beaker was measured and samples were 
+
+evacuated under vacuum for hours mineral samples were gravity filtered with e filters 
+
+lfh samples were vacuum filtered and then fine filtered samples were stored at °c until 
+processing 
+
+
+
+ 
+
+ 
+
+ soil chemistry 
+
+ sieved samples were sent to cfs analytical laboratories for total carbon analysis total 
+
+nitrogen analysis and extractable ions p k ca mg fe cu mn zn al na and s completed 
+
+by johanna curry soil and plant analytical lab at the great lakes forestry centre in sault ste 
+
+marie ontario total carbon and nitrogen were determined using a ncs combustion analyzer 
+
+ model vario el iii elementar americas inc mt laurel nj usa exchangeable cations 
+
+were determined in unbuffered m nh cl solution kalra maynard obtained from a 
+
+mechanical vacuum extractor solution concentrations were determined with a varian vista 
+
+simultaneous axial inductively coupled argon plasma icap emission spectrometer total 
+
+elements in lfh horizons were extracted through an hno h o microwave digestion and then 
+
+determined with a varian vista simultaneous axial inductively coupled argon plasma icap 
+
+emission spectrometer kalra maynard carbon functional groups within the organic 
+
+and mineral layer were determined using the diffuse reflectance infrared fourier 
+
+transformation ftir method on a varian scimitar fts mid ir ftir spectrometer with a 
+
+ o permaline interferometer and ambient dtgs detector at ontario forest research institute 
+
+ ofri by ravi kanapayor samples were mixed with ir grade kbr ratio s kbr and 
+
+ground by hand to a fine homogenous mixture this was loaded into the mm diameter x 
+
+mm depth easidiff cup the cup was placed on the diffuse reflectance accessory used for 
+
+direct analysis of solid samples vergnoux et al 
+
+ dna extraction 
+
+dna was extracted from soil samples using the powersoil® dna isolation kit mo bio 
+
+laboratories inc carlsbad ca a minute homogenization step was performed using a 
+
+tube minibeadbeater tm biospec products inc bartlesville ok as opposed to the mo bio 
+
+vortex adapter described in the protocol samples were frozen and stored for analysis at a later 
+
+date 
+
+ molecular analysis 
+
+ pcr 
+
+pcr reactions were performed in an mwg ag biotech primus thermocycler 
+
+previously determined optimized primer combinations and cycles from preston smemo 
+
+
+
+ 
+
+ 
+
+mclaughlin basiliko were utilized for the amplification of bacterial s ribosomal 
+
+dna fungal s ribosomal dna and archaeal s ribosomal dna sequences 
+
+ t rflp 
+
+t rflp analysis of bacterial archaeal and fungal ribosomal gene segments was 
+
+performed as described by preston et al with a ’ end carboxyfluorescein fam 
+
+modification on the eu f ar r and fu r primers t rflp analysis was completed at the 
+
+agriculture and food laboratory in guelph university of guelph agriculture and food 
+
+laboratory guelph on t rflp data was preprocessed in r using a custom function created 
+
+using the algorithm described by ishii kadota senoo with slight modifications to 
+
+accommodate the data format supplied by guelph the cutoff distance was set to bp and the 
+
+final output was expressed as proportion total peak height per trf by sample kaplan kitts 
+
+ 
+
+ pyrotag sequencing 
+
+pyrotag sequencing on the roche platform was completed on samples collected in 
+
+ all replicates of a given harvesting regime herbicide use and type of soil were pooled and 
+
+sent to mr dna shallowater tx u s a where pyrotag sequencing was completed as per 
+
+dowd et al bacterial s rdna was amplified with s universal eubacterial forward 
+
+primer agrgtttgatcmtggctcag was used to amplify fragments from the bacterial s 
+
+rrna gene and s universal fungal forward primer ttagcatggaataatrraatag 
+
+was used to amplify fragments from the fungal s rrna gene 
+
+ data was analyzed in the quantitative insights into microbial ecology qiime 
+
+pipeline caporaso et al data were quality filtered using qiime default parameters 
+
+ quality score min length max length additional quality filtering and otu 
+
+clustering was performed with the usearch program which utilizes the uchime 
+
+algorithm to identify chimera sequences for removal against the gold fa dataset edgar 
+
+edgar et al de novo otu picking with uclust was used to form the representative otu 
+
+dataset edgar bacterial taxonomy was assigned using the rdp classification algorithm 
+
+against the greengenes database confidence rep set mcdonald et al wang et 
+
+al muscle was used to produce a denovo alignment of all otu and make phylogenetic 
+
+
+
+ 
+
+ 
+
+trees edgar fungal taxonomy was assigned using the rdp classification algorithm 
+
+against the silva database for the eukaryotic s ribosomal dna gene quast et al 
+
+wang et al muscle was used to produce a denovo alignment of all otu and make 
+
+phylogenetic trees edgar 
+
+ final otus represented potential species based on unique rrna sequences that were 
+
+discriminated at a level of similarity 
+
+ gene identification 
+
+indicator species sequences collected from pyrotag sequencing data were entered into the 
+
+blast genome database and correlated to the closest matching documented sequence madden 
+
+et al closest match for species identification of otus was determined using ncbi blast 
+
+using the blastn algorithm with an expect threshold of word size match mismatch scores 
+
+ gapcosts existence extension 
+
+ statistical analysis 
+
+ t rflp based community analysis 
+
+differences between t rflp microbial communities in residues were compared using 
+
+dca with the vegan package provided by r statistical software otu peaks were analyzed in 
+
+the context of abundance as well as presence absence in samples core team oksanen et 
+
+al an adonis test using an eigenvalue method was performed to determine whether there 
+
+were significant differences between groupings oksanen et al the variance explained 
+
+by each factor was used to determine which subsets of data should be further investigated 
+
+relationships between community composition and sample physical and chemical characteristics 
+
+were determined using an eigenvalue based dbrda where axis were determined using forward 
+
+selection 
+
+ pyrotag sequencing based phylogenetic and community 
+analyses 
+
+ data were analyzed in qiime pipeline and r packages phyloseq indicspecies and 
+
+vegan de caceres jansen core team mcmurdie holmes oksanen et 
+
+al indicator species were identified using indicator species analysis in the indicspecies 
+
+
+
+ 
+
+ 
+
+package only those otus that were significantly associated with a treatment or combination 
+
+treatments p value were considered indicator species and retained in the dataset utilized 
+
+for chart and figure construction richness and diversity were calculated in vegan relationships 
+
+between community composition and sample physical and chemical characteristics were 
+
+determined using an eigenvalue based dbrda where axis were determined using forward 
+
+selection 
+
+ results 
+
+there was a striking difference in environmental conditions between and the 
+
+average temperature in was almost °c higher than with this trend being present 
+
+throughout the year there was mm more precipitation in compared to the 
+
+sampling period in was drier than the sampling week having mm of precipitation 
+
+compared to the mm of precipitation in the sampling the average temperature for 
+
+ sampling days was °c higher than the dates in environment canada it was 
+
+visually obvious that there was more low stature vegetation biomass in the harvested sites during 
+
+the second sampling year compared to the first sampling year blueberry was prominent in the 
+
+harvested and fire sites whereas moss dominated the understory in control and old growth sites 
+
+vegetation was generally less prevalent in herbicide treated sites but did not contain significantly 
+
+different microbial consortia 
+
+ soil chemistry and microbial biomass 
+
+chemical characteristics of soils sampled in were different between mineral and 
+
+lfh soil horizons figure when subsets of data by layer were considered there were 
+
+important differences in control sites compared to treatments in the lfh layer figure in 
+
+mineral soils the difference between control and treatment soils was generally not present 
+
+except that bladed sites had different amounts of total extractable ions than other treatments 
+
+ figure microbial biomass in control sites and old growth lfh soils was on average higher 
+
+than that of soils in harvest treatment plots and this difference was significant between old 
+
+growth sites and all treatments figure microbial biomass was also higher in control mineral 
+
+soils though not significantly different from all harvesting treatments figure 
+
+
+
+ 
+
+ 
+
+ t rflp based microbial richness and diversity 
+
+t rflp based archaeal richness and diversity from soils sampled in were not 
+
+significantly different between treatments though they appeared to be increasing in mineral soils 
+
+with disturbance intensification figures in appendix table these patterns were not 
+
+present in and there was again no significant effect of harvesting bacterial community 
+
+richness from soils sampled in was only significantly different between old growth mineral 
+
+and bladed mineral sites figures in appendix table there were no within year significant 
+
+differences between richness or diversity for bacteria in samples collected or for fungi in 
+
+samples collected either or 
+
+ microbial community structure and functioning 
+
+the impacts of intensified biomass removal harvesting though visually quite extreme in 
+
+the field did not appear to have an effect on community composition in soils sampled in 
+
+ figures in appendix there was a general harvesting impact on community structure in year 
+
+ months after treatments were implemented where harvested lfh soils were different from 
+
+control and fire sites figure 
+
+archaeal bacterial and fungal communities as characterized with t rflp analyses 
+
+significantly differed based on sampling year table overall t rflp community 
+
+composition was also significantly different between soil horizons in and figure 
+
+table the significant differences in mineral soils were generally between the old 
+
+growth forest site and the island lake harvest treatment sites figure in appendix table 
+
+communities in the lfh control and old growth soils appeared to be different from 
+
+harvested sites which could have driven the significant differences between the clusters figure 
+
+in appendix table the metabolic profiles in mineral horizons of soils sampled in 
+
+were different between control samples and all harvest treatments regardless of biomass 
+
+removal intensity and control sites were clustered more closely than other treatments indicating 
+
+greater heterogeneity in microbial functioning after disturbance figure in appendix 
+
+strangely microbial functioning in old growth and bladed sites seemed to be more similar to 
+
+each other than other treatments figure in appendix controls had more variability in lfh 
+
+horizons compared to mineral soils perhaps due to the higher potential for moisture and nutrient 
+
+fluctuations in lfh horizon because of increased contact with mosses and external environment 
+
+
+
+ 
+
+ 
+
+compared to mineral horizon soil figure figure in appendix differences between 
+
+harvested and unharvested sites were more apparent in lfh soils where old growth and control 
+
+soils had more variation and ordinated differently than harvest treatments figure though 
+
+community differences were significant between mineral samples these differences were 
+
+not strongly represented with ordination figure table in lfh soils however 
+
+significant differences in community structure were observed with control and fire sites 
+
+clustering separately from tree length and stumped sites figure table herbicide 
+
+application did not significantly alter microbial community structure within mineral or lfh soils 
+
+ table 
+
+pyrotag sequencing did not reveal strong universal differences in communities with 
+
+harvesting intensity however some differences between harvested treatments and the fire and 
+
+control sites were apparent in the fungal communities and between fire and bladed treatments 
+
+from other samples in bacterial communities figure figure distributions of unique 
+
+taxa were also investigated across treatments and controls fire and bladed sites appeared to have 
+
+quite a few indicator species that were not present in other treatments figure however 
+
+fungal communities were similar amongst the various treatments excepting control fire and 
+
+bladed samples in which unique otu distributions appeared to be present figure 
+
+ species associated with harvesting treatments 
+
+otus that were found to be significantly associated to one or more treatments using 
+
+indicator species analysis were regarded as indicator species most bacterial indicator species 
+
+were of very low abundance less than of total community composition figure figure 
+
+ fungal indicator species were of similarly low abundance figure figure though 
+
+all bacterial indicator species were of low abundance several bradyrhizobiaceae and 
+
+hyphomicrobiaceae indicator species were associated with lfh soils in tree length and fire 
+
+treatments figure in lfh soils the highest abundance of many indicator species were in 
+
+fire sites figure table many fungal indicator species in mineral soils had higher 
+
+abundance with bladed stumped and control treatments as opposed to bacterial associations with 
+
+tree length full tree and stumped treatments figure figure fungal indicator species in 
+
+lfh soils varied greatly in abundance with several otus being indicative of control plot 
+
+conditions and several responding to the fire disturbance figure the fungal otus 
+
+
+
+ 
+
+ 
+
+ and were identified as belonging to known ectomycorrhizal genera 
+
+hygrophorus russula and piloderma table many of otus that had larger differences in 
+
+abundance were more heterotrophic organisms such as basidioascus infundilicybe 
+
+mycogloeae pseudoomphalina hygrophorus and piloderma were also higher abundance in 
+
+control site lfh soils also in mineral soils a chytrid fungus had elevated abundance within 
+
+bladed sites figure some ascomycete species were elevated in fire sites the phylogeny of 
+
+both fungal and bacterial indicator species was not effectively delineated most likely because 
+
+erroneous otu identification due to database insufficiencies prevented effective sequence 
+
+alignment jeraldo et al 
+
+ discussion 
+
+microbial communities often respond quickly to disturbance and can be used as 
+
+indicators of ecosystem functioning and response to stressors blazewicz et al evans 
+
+wallenstein osborn smith however as seen in this study sometimes 
+
+community structure changes take longer than anticipated the lack of community structure 
+
+differences between lfh soils of intensified harvesting treatments may have been because 
+
+components of woody debris were not yet being incorporated in sufficiently different amounts or 
+
+microbial communities had not had sufficient time to respond to different levels of inputs 
+
+alternatively the microbial communities may have just been resilient of resistant to the gradient 
+
+of disturbance provided allison martiny shade et al werner et al 
+
+leachates from cwd change as wood decays which occurs over a period of years kruys et al 
+
+ rudz spears lajtha spears holub metabolic responses may 
+
+have been more responsive to short term changes as metabolic adaptations occur on a faster time 
+
+scale in response to smaller differences than required for large scale changes to community 
+
+structure allison martiny shade et al it may be that the between harvesting 
+
+treatment differences could emerge in future years as has been seen in other studies or they 
+
+could remain undetectable which has also been observed in intensified systems albeit with 
+
+functional assays or low resolution molecular techniques busse beattie hartmann et 
+
+al kataja aho et al mariani et al tan et al though short term 
+
+differences were not as apparent soil differences could emerge as cwd leachates change 
+
+underlying soil chemistry as the leachates from remaining residues change with decay spears 
+
+holub 
+
+
+
+ 
+
+ 
+
+ harvesting impacts on biomass moisture and microbial 
+community function 
+
+the differences in microbial metabolic activity seen in lfh soil horizons between 
+
+control sites and harvest treatments might have been driven by concomitant changes in soil 
+
+chemical properties also due to harvesting figure figure the lower enzymatic and 
+
+respiration activities in harvested lfh horizons could be ultimately explained by the higher 
+
+biomass of the controls compared to harvested sites frankenberger dick li et al 
+
+ liu et al in contrast to the mineral horizon the difference between control and 
+
+harvested lfh horizon soils corresponded to lowered enzyme activities rather than the ability to 
+
+utilize specific substrates enzyme quantity was changing with harvesting rather than the suite of 
+
+enzymes being utilized figure the reduction of active vegetative material after harvesting 
+
+disturbance could have contributed to this as root exudates in the rhizosphere are known to 
+
+modulate microbial activities and promote growth of microorganisms garbaye van hees 
+
+et al kuzyakov orr et al the harvested sites were equivalently barren of 
+
+vegetation when enzyme analyses were completed so perhaps the lack of vegetation in 
+
+comparison to control plots was the main influence on microbial metabolic functioning the 
+
+difference between control and harvested mineral horizons was mostly based on respiration of 
+
+sugars and amino acids these nutrients would be more abundant in the rhizosphere environment 
+
+that was reduced in harvested sites huang et al kuzyakov the increased 
+
+exposure of plots to wind may have also been contributing to the change in microbial 
+
+functioning increased oxygen availability in soils could change nutrition strategies of 
+
+microorganisms present in soils if fewer anaerobic microenvironments were present in soils 
+
+ fukuda kimball lemon picek et al wang et al the physical 
+
+disturbance associated with harvesting may have exacerbated these impacts as well existing 
+
+research has shown that increased physical disturbance of soils created noticeable effects on 
+
+microbial community functioning chatterjee et al mariani et al schnurr pütz et 
+al tan et al it is quite surprising then that stumped soils which experienced 
+
+additional upheaval and mixing of soils were not distinct from less intensive full tree and tree 
+
+length harvesting figure figure kataja aho et al though working in a different 
+
+boreal system also did not see stumping impacts in this case it seems that even the visually 
+
+distinct plots that result from the intensification of clear cut harvesting do not have sufficient 
+
+plot level variation to produce functionally distinct microbial consortium despite this a clear 
+
+
+
+ 
+
+ 
+
+difference between the functional characteristics of unharvested and harvested sites was 
+
+observed it may be that the already biomass intensive clear cut management systems is less 
+
+impacted by further biomass extractions in comparison to less extreme harvesting regimes such 
+
+as selection and shelterwood systems 
+
+ microbial community structure doesn’t respond noticeably to 
+intensification of clearcut harvesting on short term time scales 
+
+considering that others have found significant chemical differences in soils between 
+
+different levels of intensified harvests it was odd that there weren’t differences between 
+
+microbial communities in the island lake sites thiffault et al in general there were 
+
+some differences in microbial community structure between all harvest treatments and the 
+
+control and sometimes old growth sites but not clear differences among harvest intensity in 
+
+lfh horizons figure figure community structure shifts from harvesting have been 
+
+documented in other systems chatterjee et al hynes germida mummey et al 
+
+ siira pietikäinen et al this could indicate that a broader environmental change 
+
+ e g warmer temperatures lack of living vegetation or both across all harvest treatments was 
+
+more important than subtler differences among biomass removal intensity treatments 
+
+communities generally respond to vegetation differences as some bacterial and fungal species 
+
+participate in specific mutualistic associations with plants huang et al kernaghan 
+
+patriquin morton et al also general heterotrophic soil microorganisms can be 
+
+influenced by the root exudates that accompany live vegetation huang et al kuzyakov 
+
+ microbial communities respond to the physical disturbances introduced during harvesting 
+
+as well busse beattie mariani et al schnurr pütz et al tan et al 
+changes in microbial communities with harvest intensity may occur in an extended timeframe 
+
+as has been seen in other systems with system intensification busse beattie hartmann 
+
+et al there is some indication that the lag in response could have been because of drier 
+
+hotter conditions that occurred during i e a regional climate anomaly overrode treatment 
+
+effects sampling as there was an increase in community richness and diversity for all kingdoms 
+
+assayed between and though this was not consistent across all treatments figures in 
+
+appendix both brockett et al and evans wallenstein described influences 
+
+of soil moisture and climate on microbial community characteristics which could have 
+
+exacerbated temporal differences between and samples it did appear that soil 
+
+
+
+ 
+
+ 
+
+chemical concentrations were driving some of these inter annual differences in community 
+
+structure for example with corresponding differences in both soil chemistry and community 
+
+structure in the year of figure figure why these differences were constrained to the 
+
+lfh horizon is debatable this could have been due to underlying chemical differences as were 
+
+seen in soil analyses the soil analyses showed dissimilarity of mineral soil chemistry 
+
+was due in part to polysaccharide concentrations perhaps leachates from lfh layers had not 
+
+changed considerably within the year between sampling figure it was strange that this study 
+
+has not found large differences in microbial community structures between harvesting 
+
+treatments considering that these effects have been witnessed in recent molecular studies 
+
+ hartmann et al intensified harvesting impacts have been reported in different forest 
+
+systems but not consistently and within large dispersed plots in which natural heterogeneity 
+
+could have influenced results and without a complete gradient of removal treatments hannam 
+
+et al mariani et al the lack of difference was likely not because of the relatively 
+
+low resolution of t rflp analyses compared to the high throughput techniques employed in 
+
+hartmann et al as treatment effects were not clear in pyrotag sequencing data either 
+
+ figure figure this lack of response could also just be a characteristic of the boreal 
+
+environment the colder climate generally causes ecological processes to occur on longer time 
+
+scales and other boreal studies have seen a similar lack of difference kataja aho et al 
+
+mariani et al smith et al when otus responsible for site differences were 
+
+examined there appeared to be slight differences in microbial communities from which otus 
+
+were found which could presumably become more apparent over time figure figure it 
+
+may be that the plot design has accounted for natural variation within plots in the island lake 
+
+sites where other studies may have issues related to spatial variations corresponding with 
+
+treatment variations hannam et al smith et al it is more likely that the time 
+
+between sampling and treatment was insufficient for effects to emerge as they have in studies 
+
+completed in longer time frames hartmann et al the relatively short time since slash 
+
+input could have impacted residue leachate emissions into soils as leachates from wood have 
+
+been reported as lower in early decay stages compared to later decay stages hafner et al 
+
+rudz the short term effects investigated in this study may explain the lack of result 
+
+which may be of greater interest to the forestry industry in relation to the impact of intensified 
+
+harvesting on important plant symbionts the abundance of indicator species were low and 
+
+possible fungal symbiont taxa were not responding differentially between harvesting treatments 
+
+
+
+ 
+
+ 
+
+though all harvesting treatments had lower abundances of these species than controls figure 
+
+table this low abundance of indicator species and lack of difference in the abundance of 
+
+hygrophorus and piloderma between harvesting treatments may mean that from the perspective 
+
+of establishment of plant microbial associations in soils the impact of intensified biomass 
+
+harvests may not be much different from business as usual clear cut operations in the short term 
+
+though bacterial indicator species in mineral soils were all in very low abundance it did 
+
+not mean that these organisms lacked ecological importance bachy worden otu 
+
+ may be one of these organisms as documented methylocystis species have been found to 
+
+subsist on oxidative metabolism of methane and methanol table dedysh et al that 
+
+this otu appeared to be of higher abundance within mineral soils of tree length and full tree 
+
+systems compared to control and fire sites could mean less methane was being oxidized or that 
+
+more methane was available in these harvesting treatments figure the loss of the trees on 
+
+the harvested sites could mean less consistency of environmental characteristics within the 
+
+treated sites and increased possibility for the formation of transiently waterlogged microsites in 
+
+which anaerobic methanogenesis could occur benstead king mer roger the 
+
+fact that two water associated fungal species a chytrid fungus and a tetrachaetum otus and 
+
+ were found in their highest abundances within mineral soils of bladed treatments may be 
+
+due to the same site characteristic figure figure alternatively wang et al 
+
+noted that wind speed and thus soil ventilation with o and atmospheric ch is a key constraint 
+
+on upland forest soil ch oxidation in the open harvested sites with a larger wind fetch soils 
+
+were likely exposed to more ventilation surface temperature in exposed soils was likely much 
+
+higher as well due to decreased shading from lack of trees the responses of many of the 
+
+bacterial indicator species were inconsistent between harvesting treatments and did not follow a 
+
+pattern associated with disturbance intensity the ecological significance of this is questionable 
+
+as there is limited information on the metabolic activity of bacterial species and information 
+
+relating to genera is often non specific and sometimes not applicable to all species within that 
+
+genera blazewicz et al hirsch et al madsen philippot et al 
+
+the low abundance of fungal indicator species emphasized the lack of large community 
+
+differences observed with both t rflp and pyrotag sequencing based analyses other studies 
+
+have also seen negligible effects of additional biomass removal as compared to stem only 
+
+harvesting on soil fungi though the methods used were less discriminant than the ones applied in 
+
+
+
+ 
+
+ 
+
+this study and included fungi as a portion of overall changes in microbial community chatterjee 
+
+et al kataja aho et al this is contrary to the findings of hartmann et al 
+
+where fungal community structure was more impacted by harvesting practices than bacterial 
+
+community structure unlike bacterial indicator species it did seem that taxonomy was related to 
+
+the responsiveness of these organisms to particular treatments basidiomycetes appear to be have 
+
+higher abundance in controls versus ascomycetes which had higher abundances in disturbed 
+
+sites though their abundances in all harvested and fire treatments were inconsistent it is possible 
+
+that the basidiomycete otu’s were representing organisms associated with living plants this 
+
+was particularly true of otu hygrocybe a symbiont of moss cantrell lodge 
+
+the ascomycete species may have been adapted to disturbances and were responding to specific 
+
+stressed niches in which they were more competitive that these changes were all occurring in 
+
+the rare biosphere may be due to sensitive organisms in the rare biosphere responding to small 
+
+changes more quickly than larger community components bachy worden otus 
+
+likely representing ectomycorrhizae were more abundant in control sites figure this was 
+
+most likely because of the distinct absence of plant life in harvested sites and thus inhospitable 
+
+environment for these organisms in harvested soils 
+
+ clear cut harvesting as an analog for fire disturbance 
+
+the different community compositions in lfh horizons between fire sites and harvesting 
+
+treatments could have been from communities adapting to the transformed and reduced amount 
+
+of organic material by fire exposure figure that the abundance of some hyphomicrobiaceae 
+
+and bradyrhizobiaceae species was higher in fire sites compared to control and harvest plots 
+
+suggests that there could be some plant symbionts involved in fire succession that are not 
+
+stimulated by harvesting perhaps because of the differences between the organic losses as well 
+
+as forms of organic matter in fire sites compared to harvested ones generally it does not seem 
+
+as though fire characteristics were reflected in the biota of harvested environments as there were 
+
+several otus that were only detected in fire samples figure there could be specific 
+
+interactions occurring between these unidentified otus and fire adapted plant species hart et 
+
+al also the generally heterotrophic nature of most of the fire related organisms may 
+
+provide nutrient recycling functions through microbial degradation of remaining fire transformed 
+
+carbon and nutrient sources that would be otherwise unavailable for biological use gonzález 
+
+pérez et al knicker mataix solera et al the otus present were likely as 
+
+
+
+ 
+
+ 
+
+yet unidentified fire adapted species utilizing the small amount of organic material remaining in 
+
+lfh layers after the fire event or species that were taking advantage of the rhizosphere 
+
+environment of the vegetation present in the fire sites denison kiers huang et al 
+
+ mataix solera et al from the perspective of soil microbiological characteristics 
+
+clear cut harvesting did not produce a similar ecological impact as fire disturbance though the 
+
+similar levels forest fragmentation introduced by these two disturbance types has been used as 
+
+justification for clear cut harvesting management systems bergeron et al gluck 
+
+rempel suffling et al there may be important ecological implications related to 
+
+differences in microbial characteristics as these organisms could be important in successional 
+
+plant dynamics and plant diversity bever et al van der heijden et al reynolds et 
+
+al 
+
+ conclusion 
+
+though microbiological properties of harvested and unharvested systems differ 
+
+intensifying the harvesting process did not seem to further cause additional disruptions to 
+
+microbial community structure and function despite the obvious physical disruptions that occur 
+
+in intensified harvesting processes there were some indications that changes will emerge in 
+
+time as patterns existed between controls and treatments and between sampling years also 
+
+some microbial otus even if relatively rare were responding to treatment differences perhaps 
+
+these small changes will not impact plant community establishment in the short term as there 
+
+was possibility for functional redundancy in the system which could be present in the largely 
+
+unaffected community composition it was also apparent that microbial community structures 
+
+resulting from clear cut treatments were distinctly different from those of natural fire 
+
+disturbance the activity and ecology of fire adapted microbes need to be more thoroughly 
+
+investigated in order to effectively determine the ecological implications of these differences 
+
+nevertheless many forests have clear cut management regimes and although changes within 
+
+microbial communities with intensified biomass removal do not appear to be a short term 
+
+phenomenon long term effects may still occur and could have serious impacts on long term soil 
+
+function and productivity should intensification be implemented to begin to address this 
+
+potential issue in the next chapter i investigate microbial communities across a longer term 
+
+decay spectrum of cwd 
+
+
+
+ 
+
+ 
+
+chapter figures 
+
+ 
+figure pca of all soil samples based on total ion chemistry as well as ftir estimations 
+
+of soil organic functional groups 
+
+ 
+figure pca of lfh soil samples based on total ion chemistry as well as ftir 
+
+estimations of soil organic functional groups 
+
+
+
+ 
+
+ 
+
+ 
+figure pca of mineral soil samples based on total ion chemistry as well as ftir 
+
+estimations of soil organic functional groups 
+
+ 
+figure average microbial biomass of chapleau lfh soils sampled as determined using 
+
+chloroform fumigation points labeled with the same letter are not significantly different p 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+figure average microbial biomass of chapleau mineral soils sampled as determined 
+
+using chloroform fumigation points labeled with the same letter are not significantly different p 
+
+ 
+
+ 
+figure weighted dca of trflp community structure based on bacterial s fungal s and 
+
+archaeal s genes for dna isolated from organic soil samples collected in in island lake 
+
+biomass harvesting trial sites 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+figure weighted dca of trflp community structure based on bacterial s fungal s and 
+
+archaeal s genes points represent mineral and organic soil types of samples from 
+
+sampling of soils from island lake biomass harvesting trials confidence ellipses of were 
+
+placed around soil type clusters 
+
+ 
+figure pca of sir and hydrolase activity based metabolic profiles from island lake biomass 
+
+trial lfh soils sampled in 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+figure weighted dca of trflp community structure based on bacterial s fungal s and 
+
+archaeal s genes for dna isolated from mineral soil samples collected in in island lake 
+
+biomass harvesting trial sites 
+
+ 
+
+figure dca of sample community based on bacterial s pyrotag sequencing community 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+dca 
+
+d
+c
+a 
+
+fire
+
+tree−length
+full−tree
+
+tree−lengthstumped
+full−tree
+
+bladed
+
+tree−length
+
+stumped stumped
+stumped
+
+fire
+
+tree−length
+
+control
+control
+
+m
+o
+
+
+
+ 
+
+ 
+
+ 
+
+figure dca of sample community based on fungal s pyrotag sequencing community 
+
+ 
+
+− − − 
+
+− 
+ 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+dca 
+
+d
+c
+a 
+
+tree−length
+controlstumped
+
+bladed
+
+stumped
+
+full−tree
+full−tree
+
+fire
+
+full−tree
+
+control
+stumped
+
+full−tree
+
+stumped
+tree−length
+
+tree−length
+tree−length
+
+m
+o
+m
+o
+m
+o
+m
+o
+
+
+
+ 
+
+ 
+
+ 
+figure detrended correspondence analysis of bacterial pyrotag sequencing of 
+
+chapleau soil samples only otus present in the described treatment are shown which are 
+
+coloured based on presence black points and absence grey x’s in different harvesting 
+
+regimes 
+
+
+
+ 
+
+ 
+
+ 
+figure detrended correspondence analysis of fungal pyrotag sequencing of chapleau 
+
+soil samples only otus present in a given treatment are shown which are 
+
+
+
+ 
+
+ 
+
+ 
+figure average relative abundance of bacterial otu’s from mineral soils sampled from 
+
+island lake and fire control sites in otu’s shown were determined to be significant p 
+
+ using indicator species analysis 
+
+
+
+ 
+
+ 
+
+ 
+figure average relative abundance of bacterial otu’s from organic soil sampled from 
+
+island lake and fire control sites in otu’s shown were determined to be significant p 
+
+ using indicator species analysis 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+figure average relative abundance of fungal otu’s from mineral soils sampled from island 
+
+lake and fire control sites in otu’s shown were determined to be significant p 
+
+using indicator species analysis 
+
+
+
+ 
+
+ 
+
+ 
+figure average relative abundance of fungal otu’s from organic soils sampled from island 
+
+lake and fire control sites in otu’s shown were determined to be significant p 
+
+using indicator species analysis 
+
+
+
+ 
+
+ 
+
+ chapter tables 
+
+table significance of harvesting treatment effects on diversity and richness based on anova 
+
+testing significance was designated as p 
+
+kingdom year test 
+chao richness shannon diversity 
+
+archaea p p 
+archaea p p 
+bacteria p p 
+bacteria p p 
+
+fungi p p 
+fungi p p 
+
+table adonis testing results of bacterial archaeal and fungal trflp based community data 
+
+data is displayed within cells as the test p value over the f value for a particular grouping 
+
+category significant results are bolded 
+
+dataset category tested 
+year soil horizon harvesting 
+
+treatment 
+herbicide 
+
+application 
+plot 
+
+full dataset 
+ only na 
+ only na 
+ lfh na na 
+ mineral na na 
+ lfh na na 
+ mineral na na 
+ 
+
+table ncbi blast identities of bacterial indicator species determined from pyrotag 
+
+sequencing of chapleau soils sampled in matches below identity were not included 
+
+otu	   blast	  identification	   percent	  
+identity	  
+
+e value	  
+
+ 	   edaphobacter	  aggregans	   	   	  
+ 	   nitrobacter	  vulgaris	   	   e ­‐ 	  
+ 	   rhodomicrobium	  vannielii	   	   	  
+ 	   candidatus	  solibacter	  usitatus	   	   	  
+ 	   granulicella	  mallensis	  mp actx 	   	   	  
+ 	   gemmata	  obscuriglobus	   	   e ­‐ 	  
+ 	   variovorax	  paradoxus	   	   e ­‐ 	  
+ 	   derxia	  gummosa	   	   e ­‐ 	  
+ 	   caulobacter	  mirabilis	   	   	  
+
+
+
+ 
+
+ 
+
+ 	   granulicella	  tundricola	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   e ­‐ 	  
+ 	   candidatus	  koribacter	  versatilis	  ellin 	   	   e ­‐ 	  
+ 	   acidocella	  aminolytica	   	   e ­‐ 	  
+ 	   methylibium	  petroleiphilum	   	   	  
+ 	   afipia	  birgiae	   	   	   	  
+ 	   bauldia	  consociata	   	   	  
+ 	   bauldia	  consociata	   	   e ­‐ 	  
+ 	   candidatus	  koribacter	  versatilis	  ellin 	   	   	  
+ 	   candidatus	  solibacter	  usitatus	   	   	  
+ 	   filomicrobium	  insigne	   	   e ­‐ 	  
+ 	   bradyrhizobium	  pachyrhizi	  	   	   	  
+ 	   mycobacterium	  fallax	   	   e ­‐ 	  
+ 	   burkholderia	  phytofirmans	   	   e ­‐ 	  
+ 	   moraxella	  nonliquefaciens	   	   	  
+ 	   pseudomonas	  carboxydohydrogena	   	   	  
+ 	   candidatus	  koribacter	  versatilis	  ellin 	   	   e ­‐ 	  
+ 	   phaeospirillum	  tilakii	   	   e ­‐ 	  
+ 	   rhodoplanes	  roseus	   	   e ­‐ 	  
+ 	   acidisphaera	  rubrifaciens	   	   	  
+ 	   rhodoplanes	  elegans	  strain	  as 	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   e ­‐ 	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   curtobacterium	  citreum	  	   	   	  
+ 	   arthrobacter	  alkaliphilus	   	   e ­‐ 	  
+ 	   conexibacter	  woesei	   	   	  
+ 	   rhodopseudomonas	  rhenobacensis	   	   	  
+ 	   moorella	  humiferra	   	   	  
+ 	   burkholderia	  fungorum	   	   	  
+ 	   zavarzinella	  formosa	   	   	  
+ 	   phenylobacterium	  lituiforme	   	   	  
+ 	   candidatus	  koribacter	  versatilis	  ellin 	   	   	  
+ 	   acidiphilium	  multivorum	   	   e ­‐ 	  
+ 	   candidatus	  koribacter	  versatilis	  ellin 	   	   	  
+ 	   actinomadura	  alba	   	   e ­‐ 	  
+ 	   asticcacaulis	  benevestitus	   	   e ­‐ 	  
+ 	   pseudomonas	  carboxydohydrogena	   	   e ­‐ 	  
+ 	   methylocapsa	  acidiphila	  strain	  b 	   	   	  
+ 	   methylocystis	  echinoides	   	   	  
+ 	   mycobacterium	  shimoidei	   	   e ­‐ 	  
+ 	   reyranella	  soli	   	   	  
+ 	   gluconacetobacter	  liquefaciens	   	   e ­‐ 	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+
+
+
+ 
+
+ 
+
+ 	   bradyrhizobium	  canariense	   	   	  
+ 	   bradyrhizobium	  liaoningense	   	   e ­‐ 	  
+ 	   piscinibacter	  aquaticus	   	   e ­‐ 	  
+
+ 
+
+table otus identified using ncbi blast of fungal indicator species determined from 
+
+pyrotag sequencing of chapleau soils sampled in matches below identity were not 
+
+included 
+
+otu	   blast	  identification	   percent	  
+identity	  
+
+e value	  
+
+ 	   piloderma	  fallax	   	   	  
+ 	   mycogloea	  sp 	  tub	  fo 	   	   	  
+ 	   basidioascus	  sp 	  sn ­‐ 	   	   	  
+ 	   pseudoomphalina	  pachyphylla	   	   	  
+ 	   psilocybe	  cyanescens	   	   	  
+ 	   tulostoma	  macrocephala	   	   e ­‐ 	  
+ 	   woodruffides	  metabolicus	   	   e ­‐ 	  
+ 	   lecythophora	  sp 	   ­‐ c	   	   	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   cryptococcus	  terricola	   	   e ­‐ 	  
+ 	   calyptrozyma	  arxii	   	   e ­‐ 	  
+ 	   symbiotaphrina	  buchneri	   	   e ­‐ 	  
+ 	   entorrhiza	  fineranae	   	   	  
+ 	   gelatinomyces	  siamensis	   	   	  
+ 	   hygrophorus	  flavodiscus	   	   e ­‐ 	  
+ 	   hygrophorus	  flavodiscus	   	   	  
+ 	   bimuria	  novae ­‐zelandiae	   	   e ­‐ 	  
+ 	   leucospiridium	  sp ay 	   	   	  
+ 	   hygrophorus	  pustulatus	   	   e ­‐ 	  
+ 	   galzania	  incrustans	   	   	  
+
+ 	   russula	  exalbicans	   	   e ­‐ 	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   tetracladium	  sp 	   ­‐i 	   	   e ­‐ 	  
+ 	   hygrocybe	  aff 	  neofirma	   	   	  
+ 	   infundibulicybe	  gibba	   	   	  
+ 	   hygrophorus	  flavodiscus	   	   e ­‐ 	  
+ 	   penicillium	  decumbens	   	   e ­‐ 	  
+ 	   geastrum	  cf 	  triplex	  c	  kh ­‐ 	   	   e ­‐ 	  
+
+
+
+ 
+
+ 
+
+chapter 
+coarse woody debris microbial community dynamics in boreal 
+
+hardwood and temperate mixedwood forests 
+ 
+
+ introduction 
+
+global dependence on non renewable energy sources is driving research into bioenergy 
+
+ berch et al dorian et al whether through combustion of raw biomass and 
+
+processing byproducts or from biomass derived ethanol created in fermentation systems there is 
+
+potential for the forestry industry to provide some of the biomass derived energy that may 
+
+replace non renewable sources hoogwijk janowiak webster ladanai 
+
+vinterbäck stupak et al some modification of harvesting practices in canada has 
+
+already occurred e g favouring whole tree v stem only harvests and there is potential for some 
+
+of the higher intensity systems employed in europe such as stumping and blading to move into 
+
+canada should the process become profitable berch et al lindroos rämö et al 
+
+ tenenbaum the impacts of reduced woody debris pools must be studied in boreal 
+
+and north temperate forest ecosystems where these harvesting systems might be employed 
+
+different stages of decayed downed coarse woody debris cwd woody debris on the 
+
+forest floor with a diameter greater than cm are recognized as such important components of 
+
+the forest ecosystem that sustainable management systems aim to maintain cwd input levels to 
+
+ensure appropriate levels of each decay class will be available in the future stupak et al 
+
+vanderwel cwd serves as habitat for many plants vertebrate animals and invertebrates 
+
+ botting delong harmon et al jönsson et al langor et al maser 
+
+et al mccay komoroski mengak guynn riffell et al the 
+
+function of cwd as reservoirs of fungal diversity can allow survival of important microbial 
+
+groups such as ectomycorrhizae through disturbances such as fire and drought this can then 
+
+enhance seedling establishment boddy heilmann clausen harmon et al 
+
+kauserud et al lehto zwiazek stenlid et al the characteristics that 
+
+provide such varied environments through the decay process are related to the microbial 
+
+community that utilizes and transforms cwd residues harmon et al laiho prescott 
+
+ maser et al 
+
+
+
+ 
+
+ 
+
+ molecular surveys are beginning to illustrate that the diversity of wood decomposers is 
+
+vast e g with thousands of unique fungal taxa involved in decomposition of a single wood 
+
+species and their ecology is complex with the “known” decomposers appearing primarily in 
+
+early decay stages only jönsson et al kubartová et al prewitt et al many 
+
+of these saprobic and necrotrophic fungi have host specificity to particular species of wood 
+
+which tend to contain unique microbial communities freschet et al prewitt et al 
+
+it seems as though the source of these organisms may not be from adjacent wood as decay stage 
+
+rather than proximity has been shown to be a better predictor of similar decomposer 
+
+communities among logs kubartová et al this may mean that organisms are being 
+
+sourced from surrounding soils or from atmospheric deposition of cells if such was the case 
+
+however harvesting history of a site should not impact microbial communities within the cwd 
+
+pool kebli et al found different decay communities within the cwd pools of harvested 
+
+and unharvested stands that were otherwise comparable additionally cwd decay by specific 
+
+organisms have been studied by microscopy and has shown that the type of rots produced by 
+
+specific fungal species vary based on which types of wood they inhabit schwarze 
+
+different community compositions could facilitate decay through different mechanisms in 
+
+unique environments contradictory findings between studies of cwd and unknowns pertaining 
+
+to microbial communities within them require investigation alterations to microbial 
+
+communities in cwd could impact decay rates and resilience of decay communities in the 
+
+future since cwd stocks can be modeled at large spatial and temporal scales under different 
+
+disturbance regimes vanderwel et al a finding of consistent microbial diversity across 
+
+decay class for similar wood types in different environments would allow prediction of 
+
+harvesting or other disturbance impacts on microbial biodiversity 
+
+the different decay stages of wood may all be required in order to establish a healthy 
+
+landscape scale microbial community to address questions related to how cwd microbial 
+
+communities vary across forest region and tree species study sites were used in ontario an old 
+
+growth boreal jack pine forest in northeastern ontario an uneven aged sugar maple dominated 
+
+forest in the great lakes st lawrence forest region of central ontario and a sugar maple grove 
+
+in a remnant carolinian forest in southern ontario in haliburton and chapleau microbial 
+
+community structure was characterized in inner and outer wood samples on logs and in 
+
+underlying soils to assess potential microbial linkages between soils and cwd it is expected 
+
+
+
+ 
+
+ 
+
+that community structure should change as decay advances as the composition of the wood is 
+
+different at the various stages across a particular landscape rudz fungi and bacteria may 
+
+have a larger diversity and presence in later decay stages where the moisture and accumulated 
+
+nutrients from hyphal sequestration might prove to be more amenable to growth as decay 
+
+proceeds similarities between remnant materials which initially contained distinct community 
+
+structures between different environment and residue types should emerge the gradual loss of 
+
+bark and penetration of fungi into wood residues should also reduce within log variation due to 
+
+spatial heterogeneity as decay advances knowledge of the microbial composition at each stage 
+
+of decay may provide insight into whether different organisms are consistently present at each 
+
+stage of decay both within and between forest types and if redundancy or unique organisms exist 
+
+within the cwd pools present 
+
+ methods 
+
+ study sites 
+
+ chapleau 
+
+ the nimitz site where jack pine cwd was sampled is located near chapleau ontario in 
+
+the ontario shield ecozone lake abitibi boreal ecoregion of ontario crins et al the 
+
+site consisted of ca year old jack pine pinus banksiana of fire origin and natural 
+
+regeneration the landscape was relatively flat with minimal slope and so cwd was relatively 
+
+uniformly distributed across the landscape soils are generally sand or sandy loam textured and 
+
+acidic belonging to the brunisolic order chapleau receives an annual average of mm of 
+
+precipitation a year and has an average yearly temperature range of to °c 
+
+ haliburton forest 
+
+to compare cwd microbial communities across different forest types and regions a 
+
+portion of the research was conducted in the haliburton forest and wildlife reserve a ha 
+
+private woodlot in the great lakes st lawrence ecoregion of ontario canada degrees n 
+
+ degrees w forests in the region are dominated by sugar maple acer saccharum marsh 
+
+with secondary components of american beech fagus grandifolia ehrh yellow birch betula 
+
+alleghaniensis britt and eastern hemlock tsuga canadensis l carriere the landscape is 
+
+typical of the precambrian shield with rolling terrain and rock outcrops soils are generally 
+
+
+
+ 
+
+ 
+
+quite shallow and moderately acidic dystric brunisols haliburton forest has been managed 
+
+under single tree selection since the s and prior to that was selectively harvested high 
+
+graded for eastern white pine pinus strobus l and yellow birch vanderwel 
+
+haliburton receives an average annual precipitation of mm and has an average yearly 
+
+temperature range of to °c 
+
+ university of toronto at mississauga forest 
+
+additional samples of one cwd decay stage matching the same species sugar maple as 
+
+haliburton forest were taken from forest on the university of toronto at mississauga campus 
+
+the university of toronto at mississauga is located in a forested region of mississauga ontario 
+
+bordered by the credit river forests on the campus are dominated by sugar maple acer 
+
+saccharum and also contain basswood tilia americana white ash fraxinus americana and 
+
+white elm ulmus laevis the underlying soils are primarily loam textured grey brown 
+
+luvisols with calcareous parent material b and c horizons are ph cicumneutral mississauga 
+
+receives an average annual precipitation of mm and has an average yearly temperature range 
+
+of to °c 
+
+ decay classification 
+
+defining different stages of decay works fairly well as a proxy for time this approach 
+
+has been taken in previous studies rajala et al rudz this study assigned cwd to 
+
+decay stages one through five using characteristics described by maser et al the 
+
+classes move from decay class one which is relatively freshly fallen wood to decay class five 
+
+which is extensively decayed to the point where minimal force can cause structural catastrophe 
+
+the mid decay classes represent stages between these two extremes there has been modeling 
+
+completed for the temporal decay of sugar maple residues in haliburton and so these modeled 
+
+timescales were used to infer a timescale with which to associate community change rudz 
+
+ as decay dynamics are highly variable in different environments due to differences in 
+
+moisture temperature and wood species the chapleau data was not associated with discrete 
+
+timescales 
+
+
+
+ 
+
+ 
+
+ sampling 
+
+ cwd samples were taken from the outer and inner surfaces and soil samples were taken 
+
+from below the cwd when sampling outer samples were pried from the cwd by hand or a 
+
+hand drill with a ¾ spade bit was used to drill the surface approximately mm of wood or bark 
+
+tissue the inner wood sample was taken after the surface sample was removed and the shavings 
+
+from a drill depth of approximately cm depth or deeper were collected samples from decay 
+
+classes of and were all collected by hand as the cwd was not structurally compatible with 
+
+drilling replicates of each decay class were collected from randomly distributed acer 
+
+saccharum samples across haliburton forest though due to loss of identifying characteristics in 
+
+later decay stages the identification of these wood species could be incorrect and from pinus 
+
+banksiana residues at nimitz samples of decay class three were taken from acer saccharum 
+
+cwd residues on the university of toronto at mississauga campus in which the inner and outer 
+
+wood sample was pooled 
+
+ laboratory techniques 
+
+ dna extraction 
+
+dna was extracted from cwd samples with the powerplant® dna isolation kit mo 
+
+bio laboratories inc carlsbad ca there were deviations from the protocol sample 
+
+incubation at °c was performed in “heating block” homogenization was performed using a 
+
+minute cycle on a tube minibeadbeater tm biospec products inc bartlesville ok 
+
+samples were stored frozen for analysis at a later date 
+
+ molecular analysis 
+
+ pcr 
+
+pcr reactions were performed in an mwg ag biotech primus thermocycler 
+
+previously determined optimized primer combinations and cycles from preston et al 
+
+were utilized for the amplification of bacterial s ribosomal dna fungal s ribosomal dna 
+
+and archaeal s ribosomal dna sequences 
+
+
+
+ 
+
+ 
+
+ t rflp 
+
+bacterial and fungal t rflp was performed as described by preston et al t 
+
+rflp analysis was completed at the agriculture and food laboratory in guelph university of 
+
+guelph agriculture and food laboratory guelph on t rflp data was preprocessed in r 
+
+using a custom function created using the algorithm described by ishii kadota senoo 
+
+with slight modifications to accommodate the data format supplied by guelph the cutoff 
+
+distance was set to bp and the final output was expressed as proportion total peak height per 
+
+trf by sample kaplan kitts 
+
+ pyrotag sequencing 
+
+pyrotag sequencing was completed on samples collected in all replicates of a 
+
+given harvesting regime herbicide use and type of soil were pooled and sent to mr dna where 
+
+pyrotag sequencing was completed as per dowd et al bacterial s rdna was amplified 
+
+with s universal eubacterial forward primer agrgtttgatcmtggctcag was used to 
+
+amplify fragments from the bacterial s rrna gene and s universal fungal forward primer 
+
+ ttagcatggaataatrraatag was used to amplify fragments from the fungal s 
+
+rrna gene 
+
+ data were analyzed in the quantitative insights into microbial ecology qiime 
+
+pipeline caporaso et al data was quality filtered qiime default parameters quality 
+
+score min length max length additional quality filtering and otu clustering 
+
+was performed with the usearch program which utilizes the uchime algorithm to 
+
+identify chimera sequences for removal against the gold fa dataset edgar edgar et al 
+
+ de novo otu picking with uclust was used to form the representative otu dataset 
+
+ edgar bacterial taxonomy was assigned using the rdp classification algorithm against 
+
+the greengenes database confidence rep set mcdonald et al wang et al 
+
+ muscle was used to produce a denovo alignment of all otu sequences and produce a 
+
+phylogenetic tree edgar fungal taxonomy was assigned using the rdp classification 
+
+algorithm against the silva database for the eukaryotic s ribosomal dna gene quast et 
+
+al wang et al muscle was used to produce a denovo alignment of all otu 
+
+sequences and produce a phylogenetic tree edgar 
+
+
+
+ 
+
+ 
+
+final otus represented potential species based on unique rrna sequences that were 
+
+discriminated at a level of similarity 
+
+ phylogenetic identification 
+
+indicator species sequences collected from pyrotag sequencing experiments were entered 
+
+into the blast genome database and correlated to the closest matching documented sequence 
+
+ madden et al closest match for species identification was determined using ncbi blast 
+
+using the blastn algorithm with an expect threshold of word size match mismatch scores 
+
+ gapcosts existence extension 
+
+ wood chemistry 
+
+dried and ground chapleau wood samples were sent to cfs analytical laboratories for 
+
+total carbon analysis total nitrogen analysis and extractable ions p k ca mg fe cu mn zn 
+
+al na and s completed by johanna curry soil and plant analytical lab at the great lakes 
+
+forestry centre in sault ste marie ontario total carbon and nitrogen were determined using a 
+
+ncs combustion analyzer model vario el iii elementar americas inc mt laurel nj usa 
+
+exchangeable cations were determined in unbuffered m nh cl solution kalra maynard 
+
+ obtained from a mechanical vacuum extractor solution concentrations were determined 
+
+with a varian vista simultaneous axial inductively coupled argon plasma icap emission 
+
+spectrometer total elements in lfh horizons were extracted through an hno h o microwave 
+
+digestion and then determined with a varian vista simultaneous axial inductively coupled argon 
+
+plasma icap emission spectrometer kalra maynard total carbon total nitrogen and 
+
+extractable ions p k ca mg for haliburton residues were estimated using data from rudz 
+
+ as the sampling protocol for cwd utilized as well as the forest surveyed were the same 
+
+ statistical analysis 
+
+ t rflp community analysis 
+
+differences between t rflp microbial communities in cwd residues were compared 
+
+using dca with the vegan package provided by r statistical software otu peaks were analyzed 
+
+for presence absence in samples as those species that could be detected by t rflp were 
+
+assumed to be a large component of the total microbial community r core team 
+
+oksanen et al an adonis test using an eigenvalue method was performed to determine 
+
+
+
+ 
+
+ 
+
+whether there were significant differences between groupings oksanen et al the 
+
+variance explained by each factor was used to determine which subsets of data should be further 
+
+investigated relationships between community composition and sample physical and chemical 
+
+characteristics were determined using an eigenvalue based dbrda where axis were determined 
+
+using forward selection 
+
+ pyrotag sequencing analysis 
+
+ data were analyzed in qiime pipeline and r packages phyloseq indicspecies and 
+
+vegan caceres jansen r core team mcmurdie holmes oksanen et 
+
+al indicator species were identified using the indval analysis in the indicspecies package 
+
+only those otus that were significantly associated with a treatment or combination treatments 
+
+ p value were considered indicator species and retained in the dataset utilized for chart 
+
+and figure construction richness and diversity were calculated in vegan relationships between 
+
+community composition and sample physical and chemical characteristics were determined using 
+
+an eigen value based dbrda where axis were determined using forward selection 
+
+ results 
+
+the three environments from which cwd were sampled were very different systems 
+
+which was apparent upon visual inspection chapleau residues had extensive moss cover 
+
+whereas moss cover on haliburton residues were limited to upper portions of log material and 
+
+samples from mississauga did not feature mosses on the surfaces also in chapleau systems all 
+
+cwd in decay classes and had extensive moss cover while moss was not present on all late 
+
+decay class cwd residues in haliburton one of the most easily recognized differences between 
+
+the cwd in haliburton and mississauga compared to the residues in chapleau was the increased 
+
+presence of fungal fruiting bodies on residues on the logs sampled in this study incidences 
+
+of fruiting bodies growing on cwd were documented in haliburton compared to only 
+
+incidences in chapleau and incidences in mississauga residues though there may have been 
+
+more if all decay classes were sampled wood chemistry was different between sites with 
+
+chapleau residues having higher carbon content and lower n p k ca and mg in comparison to 
+
+haliburton residues table however late decay wood decay class and in both sites 
+
+showed higher levels of n p k ca and mg in comparison to early decay wood decay class 
+
+and late decay concentrations of ca and mg were quite a bit higher in haliburton wood 
+
+
+
+ 
+
+ 
+
+compared to chapleau wood while early concentrations were closer there could have been 
+
+some bias in the chapleau measurements due to mass loss that were not present in the haliburton 
+
+data rudz 
+
+ microbial richness and diversity 
+
+with the existing number of replicates diversity and richness were not found to be 
+
+significantly different p between decay classes for bacterial or fungal trflp data 
+
+there was no consistency to any patterns of diversity and richness reduction or increase through 
+
+decay derived from t rflp data 
+
+ community structure 
+
+ trflp based communities 
+
+eigen value based adonis tests of the trflp based community structure of the entirety 
+
+of the data set indicated significant differences between the different sampling locations on each 
+
+log as well as between the different sites table table these were visually apparent when 
+
+investigated using detrended correspondence analysis and used to guide data subsetting in order 
+
+to investigate more subtle community differences that could have been masked by overall trends 
+
+ figure interestingly the community composition in mississauga residues didn’t appear to 
+
+be more similar to haliburton residues compared to chapleau communities figure the site 
+
+differences were present in both weighted trfs were analyzed using abundance and 
+
+presence absence and unweighted trfs were analyzed using presence absence only datasets 
+
+haliburton cwd did not have the significant difference between inner and outer wood 
+
+communities that was present in chapleau samples table table the sites were also 
+
+different in that patterns in chapleau cwd communities were more apparent in weighted 
+
+datasets whereas patterns in haliburton communities were more apparent in unweighted 
+
+datasets adonis tests revealed significant differences between decay classes in chapleau outer 
+
+wood surface communities haliburton wood communities and both haliburton and chapleau 
+
+soil communities table table however only wood communities not soil were visually 
+
+distinct upon investigation with dca figure figure 
+
+
+
+ 
+
+ 
+
+ pyrotag sequencing communities 
+
+dca of bacterial pyrotag sequencing communities revealed separation based on site as 
+
+well as decay status figure many of the bacterial otus specific to early decay were site 
+
+specific otus as well figure consistent with the t rflp approach similarities between 
+
+chapleau and mississauga bacterial communities were stronger than those between mississauga 
+
+and haliburton figure fungal pyrotag sequencing revealed a similar trend though less 
+
+distinct there wasn’t nearly as much difference between chapleau fungal communities and 
+
+haliburton communities figure there were still site specific otus that caused minor 
+
+differentiation between haliburton and chapleau but site specificity of otus did not relate to 
+
+decay most otus in the ordination were specific to early decay or generalists which were 
+
+present in all decay stages figure 
+
+ indicator species 
+
+many bacterial indicator species species found to be significantly associated with a 
+
+particular decay status through indicator species analysis were of very low average relative 
+
+abundance abundance were present in late decay but not early decay in both haliburton 
+
+and chapleau cwd there was also a similar increase in abundance of otu in late decay 
+
+samples abundance some otu’s only seemed to be important in one residue type otu 
+
+ was almost of the bacterial community composition of haliburton residues but was 
+
+almost absent in chapleau communities figure figure the family acidobacteriaceae 
+
+as a group were a higher proportion of the bacterial community in chapleau wood otus within 
+
+the acidobacteriaceae appeared to have different decay specificities at least in chapleau 
+
+residues and appear to be associated with late decay whereas 
+
+ and represent a higher proportion of total community in early and mid decay 
+
+ figure table 
+
+most fungal indicator species were found in early decay some of these otus were large 
+
+components of the total fungal community the main indicator species in haliburton were 
+
+represented by two otus and that represented averages of and of the 
+
+total fungal community figure the most abundant indicator species in chapleau samples 
+
+was represented by otu which was of the total fungal community figure otus 
+
+
+
+ 
+
+ 
+
+ and were not identified effectively but was identified as belonging to the genus 
+
+cuphophyllus table 
+
+ wood chemistry and linkages to community structure 
+
+pca ordination of wood chemistry from samples utilized for pyrotag sequencing showed 
+
+a decay class separation corresponding to total n and p this separation was more distinct in 
+
+haliburton samples as the chapleau early and mid decay stages ordinated together figure 
+
+ when a broader set of samples was investigated chapleau communities did not separate by 
+
+decay class figure wood chemistry particularly total n and p changed clearly with decay 
+
+stage at haliburton figure rda explorations of t rflp community structure and 
+
+chemical variables identified phosphorus as the chemical driving differences in chapleau inner 
+
+wood and haliburton communities figure figure sulphur was the chemical found to 
+
+drive differences between chapleau outer wood communities figure 
+
+ discussion 
+
+ microbial community change through the decay process 
+
+decaying wood is a dynamic system throughout the decay process the biological 
+
+physical and chemical characteristics of the wood are irreversibly transformed harmon et al 
+
+ heilmann clausen christensen maser et al the t rflp based outer 
+
+wood communities in chapleau and both the inner and outer wood communities in haliburton 
+
+clearly changed along this spectrum figure figure many nutrients physical 
+
+characteristics and biological parameters are involved in the relationship between microbial taxa 
+
+and cwd decay status phosphorus is a limiting nutrient in the haliburton forest and also 
+
+potentially in boreal soils so it is not surprising that this had a relationship to community change 
+
+in this study figure figure gradowski thomas maynard paré 
+
+also microbial communities have been shown to respond to phosphorus gradients in soil and 
+
+thus it may follow that they were responding to them in wood as well cruz et al 
+
+deforest scott phosphorus has been shown to increase through decay laiho 
+
+prescott rudz and contrary to phosphorus affecting the microbial communities it 
+
+could be that the organisms in the wood were altering the phosphorus content through active 
+
+import interestingly sulphur was the most related to decay differences of the measured 
+
+
+
+ 
+
+ 
+
+elements nutrients in the chapleau wood outer surface microbial community structure figure 
+
+ sulphur is a key nutrient in certain essential amino acids and many secondary compounds 
+
+and is in especially low concentrations in wood fungi have adapted to utilize to the sulphur 
+
+bound in wood tissues or import it from elsewhere schmalenberger et al the forms of 
+
+sulphur made available after fungal degradation of tissues could lead to further changes in 
+
+microbial community structure there may be more chemical stability within the chapleau 
+
+wood as the chemical composition in these samples did not follow as linear a pattern associated 
+
+with increasing decay as with haliburton wood figure figure 
+
+the nitrogen and phosphorus chemistry of cwd in the context of the pyrotag 
+
+sequencing derived community structure appeared important particularly as nitrogen and 
+
+phosphorus proportionally increase in cwd through decay figure hafner et al 
+
+krankina et al laiho prescott rudz it may be that bacterial 
+
+communities were more strongly linked to these chemical changes because of their dependence 
+
+on their immediate environment for nutrients fungi may be less responsive because they can 
+
+access these elements from soils and thus their own complexity structure is linked to carbon 
+
+source complexity wood physical characteristics and presence of rhizomorphs figure 
+
+ kubicek stokland et al b it was odd that fungi were not more responsive across 
+
+decay spectra as fungal succession has been documented in past studies jönsson et al 
+
+kubartová et al rajala et al there might be less late decay specific fungi 
+
+because of the strategy of fungal growth fungi are often considered as greedy organisms the 
+
+life strategy of fungi involves initial seizure of resources and then monopolization of the use of 
+
+that resource fungi have various adaptations that encourage this hyphal growth allows for quick 
+
+degradation of useful resources and the retained hyphal structures store these resources and 
+
+prevent other organisms from accessing them boddy de boer van der wal 
+
+mueller foster fungi are also notorious producers of anti biotic compounds which 
+
+they use to enhance their ability to dominate a resource until its utility has been extracted 
+
+ mueller foster susi et al once fungi exhaust these resources they will then 
+
+move onto a new more nutrient rich environment and organisms adapted to use the more 
+
+difficult to degrade compounds that remain can become more prevalent though this relationship 
+
+was not as readily apparent with ordination approaches indicator species associated with 
+
+particular decay states of wood demonstrated an apparent association of fungal otus with early 
+
+
+
+ 
+
+ 
+
+and mid decay and many bacterial otus with late decay stages figure figure figure 
+
+ figure 
+
+ site specificity of microbial communities 
+
+there were clear differences between microbial communities across the forests studied 
+
+a pattern that was expected at least for early decay residues not only did the sites have different 
+
+climate conditions that could impact the moisture status of wood but soil characteristics and 
+
+species of decaying wood was different across sites as well figure the combination of 
+
+environment decay status and original residue types relate to cwd types that differ in chemistry 
+
+and carbon content the similarities between chapleau and mississauga especially as revealed 
+
+by pyrotag sequencing analysis could potentially be because of the similar precipitation rates 
+
+between these two sites or because both were old growth forests figure but whatever the 
+
+reason it is intriguing that the sugar maple residues of the same decay state generally had 
+
+disparate microbial communities between haliburton and mississauga harvesting history has 
+
+been shown to effect future cwd decomposition rates and decomposer communities so the lack 
+
+of harvesting in chapleau and mississauga is a plausible explanation for the similarities in 
+
+communities across these sites kebli et al shorohova et al perhaps this was the 
+
+case where similar species that are resistant to the stresses introduced by harvesting have thrived 
+
+in both environments if not caused by land use management similar communities might also be 
+
+a response to the similar precipitation regimes on these sites both were modestly drier than 
+
+haliburton the dependency on environmental moisture is especially true of bacteria in which 
+
+the similarity between chapleau and mississauga communities was apparent in pyrotag 
+
+sequencing data the lack of clear fungal response to these differing conditions could be because 
+
+of the reduced dependence of fungi on environmental moisture through the water scavenging 
+
+adaptations of many fungal species boddy watkinson marjanovic nehls 
+
+mueller foster bacteria are dependent on their immediate environment whereas fungi 
+
+can often import water over distances to support growth in a water scarce nutrient rich substrate 
+
+ boddy watkinson van hees et al 
+
+
+
+ 
+
+ 
+
+ spatial considerations of microbial community structure within 
+logs 
+
+the discussion of wood decomposer communities is usually in the context of whole log 
+
+processes brunner kimmins kebli et al rajala et al interestingly 
+
+however it appears that cwd microbial communities and decay processes were different in 
+
+different parts of the log but patterns were not consistent across forest types or tree species this 
+
+was illustrated by the difference between inner and outer communities within haliburton sugar 
+
+maple cwd but not chapleau jack pine cwd figure figure there are numerous 
+
+potential reasons for why these differences were seen the residues were dissimilar being from 
+
+different species of wood which most likely have different decay dynamics due to chemical and 
+
+physical differences different tree species have been shown to have different decay rates and 
+
+community composition under controlled conditions freschet et al prewitt et al 
+
+the lack of change as decay progressed in inner chapleau cwd tissue may have been due to the 
+
+difficulty of colonization of the inner areas due to the structure of the woody material freschet 
+
+et al perhaps acer heartwood was more easily penetrable to fungi than pinus and thus 
+
+allowed for the different community compositions seen through the decay classes in both inner 
+
+and outer haliburton cwd harmon et al schwarze 
+
+ the environment surrounding cwd residues could also influence the decay process the 
+
+surface of late decay cwd in chapleau was consistently colonized by mosses whereas moss 
+
+cover on haliburton residues was inconsistent this could have helped introduce mycorrhizal 
+
+hyphae possibly advancing the decay of cwd outer surfaces botting delong 
+
+kauserud et al outer surfaces are also exposed to multiple avenues of inoculation 
+
+deposition of spores from air and precipitation contact with soils transmission through insects 
+
+and animal contact though the surfaces of chapleau cwd later came to be dominated by 
+
+bryophytes perhaps the past exposure of outer surfaces provided a sufficient reservoir of 
+
+biodiversity to that successive community dynamics were possible throughout the decay process 
+
+exposure changes wood characteristics on the outer surfaces of wood through physical as well as 
+
+biological processes the loss of bark which is significantly different in structure to interior 
+
+wood would be one of these alterations harmon et al maser et al another 
+
+physical process would be leaching as interior wood could have more stability than exterior 
+
+surfaces particularly in early decay stages where water penetration into wood is limited without 
+
+
+
+ 
+
+ 
+
+prolonged exposure to extremely wet conditions edwards jarvis freschet et al 
+
+prewitt et al susi et al the moisture present in these external surfaces during 
+
+wetting events could increase the competitiveness of bacterial species and increase their 
+
+diversity and activity on these surfaces greaves harmon et al 
+
+ influence of site characteristics on decay stage indicator species 
+
+the characteristics of the wood species likely contributed to the different responses of 
+
+indicator species within chapleau and haliburton wood residues the prevalence of cuphophylis 
+
+during early decay of haliburton residues may indicate it was acting as a saprotroph though the 
+
+genus is thought to be associated with mosses moss growth is more common in later stages of 
+
+decay and this genus was reduced in later decay stages nor was it as present in heavily moss 
+
+covered chapleau samples figure figure table botting delong harmon 
+
+et al maser et al the increased variety of early decay stage indicator species in 
+
+haliburton could have occured because of the different primary agents of mortality in each 
+
+ecosystem haliburton historically was high graded leaving poor quality seed stock that resulted 
+
+in a forest of trees susceptible to disease so there might be more plentiful hyphal inoculation 
+
+possibilities for facultative necrotrophs as well as more cwd sourced from necrotrophic fungi 
+
+the most abundant early decay organism was part of the leotiomycetes a family of fungi that 
+
+contains many plant disease causing species figure sanoamuang et al wang et al 
+
+ the main agent of mortality in chapleau is wind and fire and few trees with indications 
+
+of fungal infection were seen it makes sense that sistotrema was in higher abundance in 
+
+chapleau wood as sistotrema are saprobic on wood it is able to monopolize the as yet 
+
+uncolonized cwd from physically introduced mortality events adair et al hibbett 
+
+donoghue other prevalent fungal otus seen in the haliburton cwd could be parasitic 
+
+fungi that have not been fully characterized this may indicate that the mechanism of mortality 
+
+could be a large influence on the degradation of these residues in later years which has been 
+
+found in a previous studies kebli et al stokland et al a if this was the cause of 
+
+the smaller amount of influential fungi in chapleau residues providing mostly wood of slash 
+
+origin to a forest may reduce fungal diversity in future cwd communities if these areas were to 
+
+be reclaimed as natural forest areas the natural mortality of trees could also be affected through 
+
+a reduction in necrotrophic fungi the acidobacteriaceae were likely only important in chapleau 
+
+pine cwd because of its acidic characteristics or perhaps because of the unique phenols in the 
+
+
+
+ 
+
+ 
+
+tissues perhaps the nature of chapleau cwd has restricted the types of bacteria that can flourish 
+
+in these materials which has allowed the acidobacteriaceae to diversify and adapt to the 
+
+different environments through the decay process those acidobacteriaceae species present in 
+
+early decay could be fulfilling some of the same functions as burkholderia in haliburton cwd 
+
+it is difficult to determine their function as the acidobacteriaceae are particularly 
+
+underrepresented in pure culture despite being detected in many acidic environments parte et 
+
+al burkholderia could be using the free sugars in freshly necrotic tissue and those 
+
+released by fungal enzymes the plentiful sugars could induce nitrogen fixation activity that is 
+
+present in members of burkholderia should conditions allow brenner et al it is also 
+
+possible that burkholderia may have been present as an endophytic bacteria during the live 
+
+activity of the wood and be present in larger numbers because of its previous association with 
+
+the live plant burkholderia is a known endophyte of willow and aspen and has been cultivated 
+
+from cutting of trees pirttilä frank endophytes cultured from species of crop plants 
+
+have exhibited antifungal associations with plants and the presence of bacteria introduces an 
+
+element of resource competition that can inhibit fungal growth paul et al pirttilä 
+
+frank the particular burkholderia species may have been an endophyte particularly 
+
+adapted to taking advantage of early fungal degradation of wood tissues in both systems it is 
+
+likely that the different suites of organisms were contributing similar functions through the decay 
+
+process though those activities are conjecture as the characterization of microbial species are far 
+
+from complete 
+
+ consistency in the decay process between distinct forest types 
+
+despite unique decomposer community components in early decay between site 
+
+similarities were present and became more prevalent in later decay stages the elevation of 
+
+bacterial otus shared between sites that occurred in late decay may have been due to initially 
+
+distinct unique structures becoming more structurally similar as residues become highly decayed 
+
+ figure figure the decreased relative abundance of many late decay bacterial indicator 
+
+species could be because of competition for remaining resources a broader suite of remaining 
+
+organic substituents or introduction of greater surface areas and diversities of microenvironments 
+
+within the late decay log chen et al harmon et al krankina et al maser et 
+
+al it is likely that a complex combination of these physical and biological characteristics 
+
+allowed a later decay stage cwd to host such high microbial diversity the increased presence 
+
+
+
+ 
+
+ 
+
+of methylocystis in late decay wood could be an indication that late stage wood experiences 
+
+periods of water excess as this genus requires methane or methanol as a carbon source and 
+
+biogenic methane is most commonly produced in anoxic environments benstead king 
+
+dedysh et al le mer roger early decay stages could possess insufficient 
+
+porosity to enable the water saturation required for methane production or the organisms 
+
+responsible could require nutrients in forms present only in later decay stages fungi seem to be 
+
+more important in early decay which corresponds with the common life strategy of many fungi 
+
+grab the “good” resources and then use them to reproduce boddy competition could be 
+
+controlling the abundance of those species without the ability to effectively penetrate into wood 
+
+tissues and break down the easily available simple sugars still present in early decay wood 
+
+ boddy harmon et al jönsson et al maser et al bacteria may just 
+
+be more competitive when it comes to breaking down the more recalcitrant compounds 
+
+remaining in late decay residues in summation decay seems to be guided first by important 
+
+degradative activities of site specific fungal species and then move towards a bacterial 
+
+dominated process with less site specificity 
+
+ interaction of wood and soils through decay stages 
+
+the differences between soil communities in chapleau and haliburton were generally 
+
+expected as the different soil types vegetation and climate conditions all have the potential to 
+
+influence microbial communities evans wallenstein lukow et al siira 
+
+pietikäinen et al steinweg et al tiessen et al it was strange that the 
+
+diverse characteristics of cwd at different decay stages were not influencing the soil 
+
+communities in direct contact with them it may have been the case that t rflp did not have the 
+
+resolution necessary to detect small phylogenetic differences that may have been occurring as t 
+
+rflp fragments can represent multiple species because closely related species can produce 
+
+similarly sized fragments whereas high throughput techniques such as and illumina 
+
+sequencing can discriminate unique sequences more effectively hafner groffman 
+
+rudz spears holub also because soil cores were taken from the side and 
+
+angled so as to not disturb cwd that was also being sampled too thoroughly they could have 
+
+been influenced more heavily by litter deposition i e a sample more directly under the log may 
+
+have been more influenced by the cwd decay processes this finding of dissimilar communities 
+
+still showed that close contact of soils and cwd did not heavily influence microbial community 
+
+
+
+ 
+
+ 
+
+composition the lack of notable effects on the surrounding soils may have been because of 
+
+localization of fungal explorative structures such as rhizomorphs or hyphal aggregates in the 
+
+sampling area fransson et al lehto zwiazek tedersoo kõljalg it 
+
+could also be because the magnitude of cwd leachates was not sufficient or consistent enough 
+
+to have a transformative effect on the microbial communities in adjacent and underside soils 
+
+cwd in clearcut conditions may have a greater effect because of the loss of regular litter inputs 
+
+from soils and become a more important resource for nutrient provision to soils in the short term 
+
+ hafner et al though this is not necessarily the case as was seen the study outlined in 
+
+chapter and others kataja aho et al siira pietikäinen et al 
+
+ conclusion 
+
+microbial diversity and community structure in decaying wood is influenced by 
+
+time decay stage location within the log environment and residue type there are distinct 
+
+community compositions in different environments residue types and decay states the 
+
+organisms involved are likely important contributors to the nutrient cycling involved with cwd 
+
+in forest environments there is truly such variation in microbial communities within cwd that 
+
+the estimation of biodiversity losses is a daunting task there may have been some resilience in 
+
+community structure through those species that are retained throughout the decay process and 
+
+those that appear to be present in diverse environments but specific fungal organisms seemed to 
+
+be important to the initiation of decay the bacterial species that become important in later decay 
+
+stages may source from nearby litter and could be less affected by intensified wood removal 
+
+processes over time early decay organisms may not be dispersed as effectively in a management 
+
+system with less wood debris supply to the forest floor soils may not provide the refuge of 
+
+biodiversity that is necessary to maintain important organisms as those assessed in this study did 
+
+not seem to have any response to the decay status of the wood they were in contact with this 
+
+emphasizes the necessity of retaining these features in forests lest we disturb decay cycles 
+
+potentially altering nutrient dynamics and decay rates of cwd 
+
+
+
+ 
+
+ 
+
+chapter figures 
+
+ 
+
+figure weighted dca of bacterial s and fungal s t rflp communities from wood 
+
+samples from only inner and outer wood samples 
+
+
+
+ 
+
+ 
+
+ 
+
+figure weighted dca of bacterial s and fungal s t rflp communities from outer 
+
+jack pine wood sampled in chapleau 
+
+
+
+ 
+
+ 
+
+ 
+
+figure unweighted dca of bacterial s and fungal s t rflp communities from inner 
+
+and outer sugar maple wood sampled in haliburton 
+
+
+
+ 
+
+ 
+
+ 
+
+figure bacterial pyrotag sequencing communities of dna isolated from cwd samples in 
+
+chapleau mississauga and haliburton displayed using detrended correspondence analysis 
+
+otus displayed in the ordination are coloured based on their presence or absence within a 
+
+specific site chapleau mississauga and haliburton site fonts are coloured based on the decay 
+
+state represented by the pooled sample 
+
+
+
+ 
+
+ 
+
+ 
+
+figure bacterial pyrotag sequencing communities of dna isolated from cwd samples in 
+
+chapleau mississauga and haliburton displayed using detrended correspondence analysis 
+
+otus displayed in the ordination are coloured based on their presence or absence within a 
+
+specific decay class site fonts are coloured based on the decay state represented by the pooled 
+
+sample 
+
+
+
+ 
+
+ 
+
+ 
+
+figure fungal pyrotag sequencing communities of dna isolated from cwd samples in 
+
+chapleau mississauga and haliburton displayed using detrended correspondence analysis 
+
+otus displayed in the ordination are coloured based on their presence or absence within a 
+
+specific site chapleau mississauga and haliburton site fonts are coloured based on the decay 
+
+state represented by the pooled sample 
+
+
+
+ 
+
+ 
+
+ 
+
+figure fungal pyrotag sequencing communities of dna isolated from cwd samples in 
+
+chapleau mississauga and haliburton displayed using detrended correspondence analysis 
+
+otus displayed in the ordination are coloured based on their presence or absence within a 
+
+specific decay class site fonts are coloured based on the decay state represented by the pooled 
+
+sample 
+
+
+
+ 
+
+ 
+
+ 
+
+figure average relative abundance of bacterial otu’s from pyrotag sequencing of dna 
+
+isolated from haliburton cwd residues otu’s shown were determined to be significant p 
+
+ using indicator species analysis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+early
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ − years 
+mid
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ − years 
+late
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ − years 
+
+sphingomonadaceae
+rhodospirillaceae
+
+acetobacteraceae
+
+beijerinckiaceae
+
+bradyrhizobiaceae
+
+methylocystaceae
+
+beijerinckiaceae
+methylocystaceae
+bradyrhizobiaceae
+beijerinckiaceae
+
+hyphomicrobiaceae
+methylocystaceae
+
+caulobacteraceae
+
+xanthomonadaceae
+fabaceae
+
+sinobacteraceae
+hyphomicrobiaceae
+
+burkholderiaceae
+
+acidobacteriaceae
+
+koribacteraceae
+
+streptomycetaceae
+enterobacteriaceae
+conexibacteriaceae
+
+clostridiaceae
+peptococcaceae
+
+chitinophagaceae
+hydrogenothermaceae
+
+
+
+ 
+
+ 
+
+ 
+
+figure average relative abundance of bacterial otu’s from pyrotag sequencing of dna 
+
+isolated from chapleau cwd residues otu’s shown were determined to be significant p 
+
+ using indicator species analysis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+early
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+mid
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+late
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+sphingomonadaceae
+
+acetobacteraceae
+
+rhodospirillaceae
+
+beijerinckiaceae
+
+bradyrhizobiaceae
+
+methylocystaceae
+
+beijerinckiaceae
+methylocystaceae
+bradyrhizobiaceae
+beijerinckiaceae
+
+hyphomicrobiaceae
+methylocystaceae
+
+caulobacteraceae
+
+xanthomonadaceae
+fabaceae
+
+sinobacteraceae
+hyphomicrobiaceae
+
+burkholderiaceae
+
+acidobacteriaceae
+
+koribacteraceae
+
+streptomycetaceae
+enterobacteriaceae
+conexibacteriaceae
+clostridiaceae
+peptococcaceae
+chitinophagaceae
+
+hydrogenothermaceae
+
+
+
+ 
+
+ 
+
+ 
+
+figure average relative abundance of fungal otu’s from pyrotag sequencing of dna 
+
+isolated from haliburton cwd residues otu’s shown were determined to be significant p 
+
+ using indicator species analysis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+early
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ − years 
+mid
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ − years 
+late
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ − years 
+
+dothideomycetes
+
+leotiomycetes
+
+lecanoromycetes
+
+schizosaccharomyces
+
+lecanoromycetes
+pezizomycetes
+leotiomyceteslecanoromycetes
+pezizomycetes
+
+saccharomycetes
+dothideomycetes
+
+leotiomycetes
+archaeorhizomycetes
+
+archaeorhizomycetes
+
+archaeorhizomycetes
+leotiomycetes
+leotiomycetes
+
+archaeorhizomycetes
+sordariomycetes
+
+sordariomycetes
+
+dothideomycetes
+leotiomycetes
+
+sordariomycetes
+dothidiomycetes
+eurotiomycetessordariomycetes
+eurotiomycetes
+agaricomycetes
+sordariomycetes
+
+agaricomycetes
+
+agaricomycetes
+eurotiomycetes
+pezizomycetes
+eurotiomycetes
+
+leotiomycetes
+agaricomycetes
+
+agaricomycetes
+
+agaricomycetes
+
+chytridomycetes
+agaricomycetes
+
+conthreepdacrymycetesmicrobotryomycetes
+tremellomycetes
+
+dacrymycetes
+
+wallemiomycetes
+dacrymycetespucciniomycetesagaricomycetes
+
+ascomycota
+
+basidiomycota
+ascomycota
+
+basidiomycota
+
+ascomycota
+
+basidiomycota
+
+chytridomycota
+basidiomycota
+
+cilophora
+
+basidiomycota
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+figure average relative abundance of fungal otu’s from pyrotag sequencing of dna 
+
+isolated from chapleau cwd residues otu’s shown were determined to be significant p 
+
+ using indicator species analysis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+early
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+mid
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+late
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+dothideomycetes
+
+leotiomycetes
+
+lecanoromycetes
+
+schizosaccharomyces
+
+lecanoromycetes
+pezizomycetes
+leotiomyceteslecanoromycetes
+pezizomycetes
+
+saccharomycetes
+dothideomycetes
+
+leotiomycetes
+archaeorhizomycetes
+
+archaeorhizomycetes
+
+archaeorhizomycetes
+
+leotiomycetes
+leotiomycetes
+
+archaeorhizomycetes
+sordariomycetes
+
+sordariomycetes
+
+dothideomycetes
+leotiomycetes
+sordariomycetes
+dothidiomycetes
+eurotiomycetessordariomycetes
+eurotiomycetes
+agaricomycetes
+sordariomycetes
+
+agaricomycetes
+
+agaricomycetes
+eurotiomycetes
+pezizomycetes
+eurotiomycetes
+
+leotiomycetes
+agaricomycetes
+
+agaricomycetes
+
+agaricomycetes
+
+chytridomycetes
+agaricomycetes
+conthreepdacrymycetesmicrobotryomycetes
+
+tremellomycetes
+dacrymycetes
+
+wallemiomycetes
+dacrymycetespucciniomycetesagaricomycetes
+
+ascomycota
+
+basidiomycota
+ascomycota
+
+basidiomycota
+
+ascomycota
+
+basidiomycota
+
+chytridomycota
+basidiomycota
+cilophora
+
+basidiomycota
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+figure pca of chemical characteristics representing pooled cwd samples used for pyrotag 
+
+sequencing analysis 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+pc 
+
+pc
+ 
+
+totaln
+
+totalc
+
+p
+
+k
+
+camg
+
+early
+
+mid
+
+late
+
+chapleau
+
+haliburton
+
+
+
+ 
+
+ 
+
+ 
+
+figure pca of chemical characteristics representing pooled chapleau cwd samples used for 
+
+t rflp analysis 
+
+
+
+ 
+
+ 
+
+ 
+
+figure pca of chemical characteristics representing pooled haliburton cwd samples used 
+
+for t rflp analysis 
+
+
+
+ 
+
+ 
+
+ 
+
+figure forward selection rda of chapleau inner t rflp based communities against 
+
+chemical data 
+
+
+
+ 
+
+ 
+
+ 
+
+figure forward selection rda of haliburton t rflp based communities against chemical 
+
+data 
+
+
+
+ 
+
+ 
+
+ 
+
+figure forward selection rda of chapleau outer t rflp based communities against 
+
+chemical data 
+
+
+
+ 
+
+ 
+
+chapter tables 
+
+table haliburton and chapleau wood chemistry as percentage of elements by dry weight 
+
+values are mean of results percentage from samples with standard error in parentheses 
+
+	  site	   decay	  
+stage	  
+
+total	  n	   total	  c	   p	   k	   ca	   mg	  
+
+chapleau	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+
+haliburton	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+	   	   	   	   	   	   	   	  
+
+
+
+ 
+
+ 
+
+ 
+
+table adonis significance and variance explained for trflp communities based on binary 
+
+tables of bacterial and fungal community data is displayed within the cells as p value f value 
+
+dataset category 
+location on 
+
+log 
+site decay class 
+
+complete 
+wood only 
+soil only na 
+haliburton wood na 
+chapleau wood na 
+chapleau inner wood na na 
+chapleau surface wood na na 
+chapleau soil na na 
+haliburton soil na na 
+
+ 
+
+table adonis significance and variance explained for trflp communities based on 
+
+abundance tables of bacterial and fungal community data is displayed within the cells as p 
+
+value f value 
+
+dataset category 
+location on 
+
+log 
+site decay class 
+
+complete 
+wood only 
+soil only na 
+haliburton wood na 
+chapleau wood na 
+chapleau inner wood na na 
+chapleau surface wood na na 
+chapleau soil na na 
+haliburton soil na na 
+
+ 
+
+
+
+ 
+
+ 
+
+table otus identified using ncbi blast of bacterial indicator species of decay status 
+
+determined from pyrotag sequencing of cwd from chapleau mississauga and haliburton 
+
+matches below identity were not included 
+
+otu	   blast	  identification	   percent	  identity	   e value	  
+
+ 	   methylocystis	  echinoides	   	   e ­‐ 	  
+ 	   terriglobus	  saanensis	  sp pr 	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	  	   	   	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	  	   	   e ­‐ 	  
+ 	   beijerinckia	  derxii	  subsp 	  derxii	  strain	  dsm	   	   	   	  
+ 	   terriglobus	  roseus	  strain	  kbs	   	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	  	   	   	  
+ 	   rhodoplanes	  elegans	  strain	  as 	   	   	  
+ 	   methylocystis	  heyeri	  strain	  h 	   	   e ­‐ 	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   chitinophaga	  ginsengisegetis	   	   	  
+ 	   yersinia	  ruckeri	   	   	  
+ 	   methylocystis	  heyeri	  strain	  h 	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   e ­‐ 	  
+ 	   edaphobacter	  aggregans	   	   	  
+ 	   candidatus	  koribacter	  versatilis	  ellin 	   	   e ­‐ 	  
+ 	   kozakia	  baliensis	  strain	  yo ­‐ 	   	   	  
+ 	   granulicella	  tundricola	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   e ­‐ 	  
+ 	   stretpacidiphilus	  carbonis	  strain	  jl	   	   	   	  
+ 	   afipia	  birgiae	   	   	   	  
+ 	   beijerinckia	  mobilis	   	   	  
+ 	   rhizomicrobium	  electricum	   	   e ­‐ 	  
+ 	   acidisoma	  tundrae	   	   	  
+ 	   rhodoplanes	  elegans	  strain	  as 	   	   	  
+ 	   beijerinckia	  derxii	  subsp 	  derxii	  strain	  dsm	   	   	   e ­‐ 	  
+ 	   asticcacaulis	  benevestitus	   	   	  
+ 	   terriglobus	  roseus	  strain	  kbs	   	   	   e ­‐ 	  
+ 	   sphingomonas	  oligophenolica	   	   	  
+ 	   kozakia	  baliensis	  strain	  yo ­‐ 	   	   	  
+ 	   burkholderia	  sediminicola	   	   e ­‐ 	  
+ 	   conexibacter	  woesei	   	   	  
+ 	   methylocystis	  echinoides	   	   	  
+ 	   clostridium	  cellulolyticum	   	   	  
+ 	   terriglobus	  saanensis	  sp pr 	   	   	  
+ 	   terriglobus	  saanensis	  sp pr 	   	   	  
+
+
+
+ 
+
+ 
+
+ 	   terriglobus	  roseus	  strain	  kbs	   	   	   	  
+ 	   methylocystis	  heyeri	  strain	  h 	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   e ­‐ 	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   	  
+ 	   rhodanobacter	  umsongensis	   	   	  
+ 	   skermanella	  aerolata	   	   e ­‐ 	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   edaphobacter	  aggregans	   	   	  
+ 	   bradyrhizobium	  oligotrophicum	   	   	  
+ 	   methylocapsa	  acidiphila	  strain	  b 	   	   	  
+ 	   granulicella	  tundricola	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   edaphobacter	  aggregans	   	   	  
+ 	   beijerinckia	  derxii	  subsp 	  venezualae	  	   	   	  
+ 	   afipia	  birgiae	   	   	   	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   	  
+ 	   novosphingobium	  lentum	  nbrc	   	   	   e ­‐ 	  
+ 	   afipia	  birgiae	   	   	   	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   	  
+ 	   brevundimonas	  nasdae	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   acidobacterium	  capsulatum	  atcc	   	   	   	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   	  
+ 	   acidisphaera	  rubrifaciens	   	   	  
+ 	   caulobacter	  segnis	   	   	  
+ 	   burkholderia	  sordidicola	   	   	  
+ 	   methylovirgula	  ligni	   	   e ­‐ 	  
+ 	   granulicella	  mallensis	  mp actx 	  	   	   	  
+ 	   terriglobus	  saanensis	  sp pr 	   	   	  
+
+ 
+
+table otus identified using ncbi blast of fungal indicator species of decay status 
+
+determined from pyrotag sequencing of cwd from chapleau mississauga and haliburton 
+
+matches below identity were not included 
+
+otu	   blast	  identification	   percent	  
+identity	  
+
+e value	  
+
+ 	   davidiella	  tassiana	   	   	  
+ 	   pseudoplatyophrya	  nana	   	   	  
+ 	   cyttaria	  hookeri	   	   	  
+
+
+
+ 
+
+ 
+
+ 	   sistotrema	  raduloides	   	   e ­‐ 	  
+ 	   botryobasidium	  simile	   	   	  
+ 	   sarcosphaera	  crassa	   	   e ­‐ 	  
+ 	   clydeae	  vasicula	   	   	  
+ 	   albotricha	  sp 	  au bd 	   	   e ­‐ 	  
+ 	   auricularia	  peltata	   	   	  
+ 	   psilocybe	  cyanescens	   	   	  
+ 	   steccherinum	  fimbratum	   	   e ­‐ 	  
+ 	   cyttaria	  hookeri	   	   	  
+ 	   hypocrea	  nigricans	   	   e ­‐ 	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   archaeorhizomyces	  sp 	  fg p b	   	   e ­‐ 	  
+ 	   archaeorhizomyces	  sp 	  fg p b	   	   	  
+ 	   geminibasidium	  hirsutum	  	   	   	  
+ 	   blumeria	  graminis	  f 	  sp 	  hordei	   	   	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   phaeoacremonium	  australiense	   	   	  
+ 	   ascomycota	  sp 	  diva 	   	   	  
+ 	   blumeria	  graminis	  f 	  sp 	  hordei	   	   	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   lecythophora	  sp 	   ­‐ c	   	   	  
+ 	   sistotrema	  raduloides	   	   	  
+ 	   archaeorhizomyces	  finlayi	   	   e ­‐ 	  
+ 	   geminibasidium	  hirsutum	  	   	   e ­‐ 	  
+ 	   schizoaccharomyces	  japonicus	   	   e ­‐ 	  
+ 	   sistotrema	  raduloides	   	   	  
+ 	   geniculospora	  sp 	   g ­‐ch 	   	   	  
+ 	   sistotrema	  raduloides	   	   	  
+ 	   lecythophora	  sp 	   ­‐ c	   	   	  
+ 	   gelatinomyces	  siamensis	   	   	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   hyphodontia	  arguta	  	   	   e ­‐ 	  
+ 	   tetrachaetum	  elegans	   	   	  
+ 	   apicomplexa	  sp 	  bcs ­‐ c	   	   e ­‐ 	  
+ 	   verpa	  bohemica	   	   	  
+ 	   umbelopsis	  sp 	  i a 	   	   e ­‐ 	  
+ 	   dipodascopsis	  tothii	   	   	  
+ 	   archaeorhizomyces	  finlayi	   	   e ­‐ 	  
+ 	   archaeorhizomyces	  sp 	  fg p b	   	   e ­‐ 	  
+ 	   acremonium	  psammosporum	  	   	   e ­‐ 	  
+ 	   hygrocybe	  chloochlora	   	   	  
+ 	   verpa	  bohemica	   	   e ­‐ 	  
+ 	   archaeorhizomyces	  finlayi	   	   	  
+
+
+
+ 
+
+ 
+
+ 	   gregorella	  humida	   	   	  
+ 	   hypoxylon	  haematostroma	   	   	  
+ 	   neoscytalidium	  dimidiatum	   	   	  
+ 	   cuphophyllus	  pratensis	   	   	  
+ 	   hypocrea	  nigricans	   	   e ­‐ 	  
+ 	   capnobotryella	  sp 	  ma	   	   	   e ­‐ 	  
+ 	   archaeorhizomyces	  sp 	  fg p b	   	   e ­‐ 	  
+ 	   lecythophora	  sp 	   ­‐ c	   	   e ­‐ 	  
+ 	   neofabrea	  sp 	  xy ­‐ 	   	   e ­‐ 	  
+ 	   botryosphaeria	  laricina	   	   	  
+
+
+
+ 
+
+ 
+
+general conclusion 
+
+ though there have been reports of microbial community and chemical differences 
+
+between intensified harvesting systems compared to typical stem only harvesting only the most 
+
+extreme form of intensification blading was different from stem only harvests in the study 
+
+performed in chapter hartmann et al thiffault et al there are of course 
+
+studies that have reported a general harvesting effect but without differences attributed to 
+
+additional biomass removal treatment kataja aho et al mariani et al tan et al 
+
+ currently the effects of intensified harvesting are not consistent enough to make broad 
+
+generalizations about the implementation of this type of intensified management though 
+
+microbial communities between harvesting treatments were not apparent the consistent 
+
+difference between control and harvested sites demonstrated that harvesting disturbance changed 
+
+the microbial community structure and function in harvested stands however the differences 
+
+between harvested and fire sites showed that this change was not replicating the microbial 
+
+community structure of the natural mortality event of fire these were potentially important 
+
+differences as the chapleau system is fire adapted and local vegetation and microbial 
+
+communities likely require fire in order to undergo normal successional processes harmon et 
+
+al stenlid et al these differences could extend to survival or loss of important 
+
+microorganisms that could modulate plant competition van der heijden et al this 
+
+could have been true in the sites sampled in this study particularly since some of the otus 
+
+exhibiting differences between harvested and fire sites were identified as a bradyrhizobiaceae 
+
+and hyphomicrobiaceae families of bacteria well known for having members with mutualistic 
+
+plant symbiont characteristics denison kiers it could be possible that differences 
+
+could emerge after future years of wood degradation and altered nutrient input levels into the 
+
+soils of the harvested plots as the degradation of materials was minimal in the two years of 
+
+sampling unfortunately it could be years before changes similar to the study by hartmann et al 
+
+ emerge in chapleau soils 
+
+microbial communities present during wood decay would not be informative when 
+
+attempting to predict soil community changes from biomass removal and large even age wood 
+
+inputs from harvesting practices microbial communities within wood of various decay states 
+
+did not appear to have an observable relationship with the microbial communities in closely 
+
+
+
+ 
+
+ 
+
+associated soils it may be that soils were not immediately impacted by wood removal and only 
+
+respond to long term nutrient inputs hartmann et al thiffault et al the above 
+
+ground communities associated with cwd would be greatly impacted by harvesting 
+
+intensification through alteration of the cwd distributions across the forest landscape decay 
+
+was shown to be unique to an environment regardless of residue type it could be difficult to 
+
+restore microbial communities in decaying cwd pools should there be sufficient disturbance 
+
+harvesting events can damage existing cwd through mechanical alterations of the landscape 
+
+and the remaining and reduced in intensified systems slash materials are all fresh un colonized 
+
+wood higgins lindgren morris et al the decomposition communities 
+
+associated with cwd on such a landscape could be altered compared to those exposed to natural 
+
+disturbance events kebli et al shorohova et al stenlid et al the loss of 
+
+early successional decay species could be especially detrimental decay of wood could be 
+
+drastically altered by the lack of initial structural decomposition perpetrated by these species in 
+
+a landscape without trees and with reduced slash materials necrotrophs requiring live trees could 
+
+be particularly affected 
+
+it appeared that the moisture regime of an environment had an effect on microbial 
+
+community structure as well the similarities between mississauga and chapleau wood may have 
+
+been related to this moisture related impacts could be lessened in forest management systems 
+
+such as selection and shelterwood cuts where site exposure post harvest may be less extreme 
+
+than in clearcut systems the increased exposure of cwd materials could effect colonization by 
+
+early decay organisms through introducing drying rewetting stresses that may not exist in the 
+
+buffered forest environment evans wallenstein these factors could influence future 
+
+decomposition communities in wood residues of harvested sites possibly extending the time of 
+
+decay if important early decay organisms are not present to begin structural decomposition 
+
+processes reduced decomposition of wood residues would impact potentially important nutrient 
+
+cycling processes and thus long term soil characteristics kruys et al rudz spears 
+
+ lajtha spears holub 
+
+the reduction of slash materials could also have positive effects from a management 
+
+perspective despite the potential negative ecological impacts possibly nectrotrophic organisms 
+
+were some of the main fungal agents of early decay in haliburton forest a reduction of slash 
+
+materials could reduce the propagation of some of these organisms and lower the potential for 
+
+
+
+ 
+
+ 
+
+infection in healthy trees stenlid et al however extensive reduction of these organisms 
+
+could reduce available habitat by reducing the future availability of standing dead trees harmon 
+
+et al maser et al in contrast to the haliburton environment fungal diversity in 
+
+chapleau appeared to be more related to saprobic growth the diversity of the saprobes 
+
+responsible for this decay may be dependent on large scale wood inputs as the main natural 
+
+disturbance events in boreal environments are wind and fire stenlid et al 
+
+the study in chapter showed that there are inconsistencies between the decay of wood 
+
+in different environments that could make policy regarding these ecological features especially 
+
+challenging the lack of microbial community consistency in the spatial context of chapleau 
+
+logs was not found in haliburton logs further investigation is needed to see how this may affect 
+
+decomposition in these materials the difference in the process of decomposition emphasizes the 
+
+need to consider many site specific characteristics when discussing wood decomposition 
+
+particularly sources of wood inputs and site history kebli et al stokland et al a 
+
+into the future the island lake site in chapleau will be a valuable resource to study the 
+
+effect of intensified biomass harvesting on interactions between cwd and soil microbial 
+
+communities in a boreal context in future years as vegetation becomes more established and 
+
+microbial communities might develop more discrete differences in response to the intensification 
+
+gradient the interactions of boreal vegetation and microbial communities could reveal important 
+
+relationships modulating biogeochemical cycles also in future years as wood decays the effect 
+
+of intensification on microbial succession through the decay spectrum should be assayed 
+
+whether important decay organisms are impacted by the change in residue prevalence remains to 
+
+be seen but if these alterations were to occur there could be ecological impacts affecting insects 
+
+plants and small animals harmon et al future microbial communities should be 
+
+monitored to see if differences do emerge as seen by hartmann et al and what 
+
+microbially modulated activities have significant contributions to the overall ecosystem 
+
+functioning of the boreal forest 
+
+ 
+
+
+
+ 
+
+ 
+
+references 
+
+adair s kim s h breuil c a molecular approach for early monitoring of decay 
+
+basidiomycetes in wood chips fems microbiol lett – 
+
+allison s d martiny j b h resistance resilience and redundancy in microbial 
+
+communities proc natl acad sci u s a – 
+
+allmér j vasiliauskas r ihrmark k stenlid j dahlberg a wood 
+
+inhabiting fungal communities in woody debris of norway spruce picea abies l karst 
+
+as reflected by sporocarps mycelial isolations and t rflp identification fems microbiol 
+
+ecol – 
+
+antoni d zverlov v v schwarz w h biofuels from microbes appl microbiol 
+
+biotechnol – 
+
+bachy c worden a z microbial ecology finding structure in the rare biosphere 
+
+curr biol r – 
+
+basiliko n khan a roy r prescott c e grayston s j greenhouse gas and 
+
+nutrient dynamics in fertilized western canadian plantation forest soils can j for res 
+
+ – 
+
+benstead j king g response of methanotrophic activity in forest soil to methane 
+
+availability fems microbiol ecol – 
+
+bérard a mazzia c sappin didier v capowiez l capowiez y use of the 
+
+microresptm method to assess pollution induced community tolerance in the context of 
+
+metal soil contamination ecol indic – 
+
+berch s morris d malcolm j intensive forest biomass harvesting and 
+
+biodiversity in canada a summary of relevant issues for chron – 
+
+bergeron y harvey b leduc a gauthier s forest management guidelines 
+
+based on natural disturbance dynamics stand and forest level considerations for chron 
+
+ – canadian institute of forestry 
+
+
+
+ 
+
+ 
+
+bever j d dickie i a facelli e facelli j m klironomos j moora m rillig m 
+
+c stock w d tibbett m zobel m rooting theories of plant community 
+
+ecology in microbial interactions trends ecol evol – 
+
+birdsey r pregitzer k lucier a forest carbon management in the united states 
+
+ j environ qual – 
+
+blazewicz s j barnard r l daly r a firestone m k evaluating rrna as 
+
+an indicator of microbial activity in environmental communities limitations and uses isme 
+
+j – international society for microbial ecology 
+
+boddy l fungal community ecology and wood decomposition processes in 
+
+angiosperms   from standing tree to complete decay of coarse woody debris ecol bull 
+
+ – 
+
+boddy l heilmann clausen j basidiomycete community development in 
+
+temperate angiosperm wood in br mycol soc symp ser 
+
+boddy l watkinson s wood decomposition higher fungi and their role in 
+
+nutrient redistribution can j bot 
+
+botting r s delong c macrolichen and bryophyte responses to coarse woody 
+
+debris characteristics in sub boreal spruce forest for ecol manage s –s 
+
+bräuer s l cadillo quiroz h yashiro e yavitt j b zinder s h isolation 
+
+of a novel acidiphilic methanogen from an acidic peat bog nature – 
+
+brenner d j krieg n r staley j t bergey’s manual of systematic 
+
+bacteriology volume the proteobacteria part c the alpha beta delta and 
+
+epsilonproteobacteria second g m garrity d j brenner n r krieg j t staley d 
+
+r boone p de vos m goodfellow f a rainet k h schleifer eds new york 
+
+ny springer science business media 
+
+brockett b f t prescott c e grayston s j soil moisture is the major factor 
+
+influencing microbial community structure and enzyme activities across seven 
+
+biogeoclimatic zones in western canada soil biol biochem – elsevier ltd 
+
+
+
+ 
+
+ 
+
+brown g w the impact of timber harvest on soil and water resources oregon state 
+
+univ corvallis … 
+
+brunner a kimmins j p nitrogen fixation in coarse woody debris of thuja 
+
+plicata and tsuga heterophylla forests on northern vancouver island can j for res 
+
+ – 
+
+busse m beattie s microbial community responses in forest mineral soil to 
+
+compaction organic matter removal and vegetation control can j for res – 
+
+cantrell s a lodge d j hygrophoraceae agaricales of the greater antilles 
+
+hygrocybe subgenus pseudohygrocybe section firmae mycol res – 
+
+caporaso j g kuczynski j stombaugh j bittinger k bushman f d costello e 
+
+k fierer n gonzalez pena a goodrich j k other authors qiime 
+
+allows analysis of high throughput community sequencing data nat methods – 
+
+chatterjee a vance g pendall e stahl p timber harvesting alters soil carbon 
+
+mineralization and microbial community structure in coniferous forests soil biol biochem 
+
+ – 
+
+chen h harmon m e griffiths r p decomposition and nitrogen release from 
+
+decomposing woody roots in coniferous forests of the pacific northwest a chronosequence 
+
+approach can j for res – 
+
+clemmensen k e bahr a ovaskainen o dahlberg a ekblad a wallander h 
+
+stenlid j finlay r d wardle d a lindahl b d roots and associated 
+
+fungi drive long term carbon sequestration in boreal forest science –
+
+ 
+
+cruz a hamel c hanson k selles f zentner r thirty seven years of soil 
+
+nitrogen and phosphorus fertility management shapes the structure and function of the soil 
+
+microbial community in a brown chernozem plant soil – 
+
+de boer w van der wal a ecology of saprotrophic basidiomycetes br mycol soc 
+
+symp ser british mycological society symposia series elsevier 
+
+
+
+ 
+
+ 
+
+de caceres m jansen f package “indicspecies ” 
+
+dedysh s n belova s e bodelier p l e smirnova k v khmelenina v n 
+
+chidthaisong a trotsenko y a liesack w dunfield p f methylocystis 
+
+heyeri sp nov a novel type ii methanotrophic bacterium possessing “signature” fatty acids 
+
+of type i methanotrophs int j syst evol microbiol – 
+
+deforest j l scott l g available organic soil phosphorus has an important 
+
+influence on microbial community composition soil sci soc am j 
+
+denison r f kiers e t life histories of symbiotic rhizobia and mycorrhizal 
+
+fungi curr biol r –r elsevier ltd 
+
+dorian j p franssen h t simbeck d r global challenges in energy energy 
+
+policy – 
+
+dowd s e sun y wolcott r d domingo a carroll j a bacterial tag 
+
+encoded flx amplicon pyrosequencing btefap for microbiome studies bacterial 
+
+diversity in the ileum of newly weaned salmonella infected pigs foodborne pathog dis 
+
+ – 
+
+edel hermann v dreumont c pérez piqueres a steinberg c terminal 
+
+restriction fragment length polymorphism analysis of ribosomal rna genes to assess 
+
+changes in fungal community structure in soils fems microbiol ecol – 
+
+edgar r c muscle multiple sequence alignment with high accuracy and high 
+
+throughput nucleic acids res – 
+
+edgar r c search and clustering orders of magnitude faster than blast 
+
+bioinformatics – 
+
+edgar r c haas b j clemente j c quince c knight r uchime 
+
+improves sensitivity and speed of chimera detection bioinformatics – 
+
+edwards w jarvis p relations between water content potential and permeability 
+
+in stems of conifers plant cell environ – 
+
+
+
+ 
+
+ 
+
+energy information administration energy and economic impacts of implementing 
+
+both a percent renewable portfolio standard and a percent renewable fuel standard 
+
+by washington dc u s 
+
+environment canada climate 
+
+evans s e wallenstein m d climate change alters ecological strategies of soil 
+
+bacteria ecol lett – 
+
+evans s e wallenstein m d soil microbial community response to drying and 
+
+rewetting stress does historical precipitation regime matter biogeochemistry –
+
+ 
+
+fernández c vega j a gras j m fonturbel t cuiñas p dambrine e alonso 
+
+m soil erosion after eucalyptus globulus clearcutting differences between logging 
+
+slash disposal treatments for ecol manage – 
+
+frankenberger w t dick w a relationships between enzyme activities and 
+
+microbial growth and activity indices in soil soil sci soc am j – 
+
+fransson a m valeur i wallander h the wood decaying fungus 
+
+hygrophoropsis aurantiaca increases p availability in acid forest humus soil while n 
+
+addition hampers this effect soil biol biochem – 
+
+freschet g t weedon j t aerts r van hal j r cornelissen j h c 
+
+interspecific differences in wood decay rates insights from a new short term method to 
+
+study long term wood decomposition j ecol – 
+
+fukuda h air and vapor movement in soil due to wind gustiness soil sci – 
+
+garbaye j biological interactions in the mycorrhizosphere experientia – 
+
+gluck m rempel r structural characteristics of post wildfire and clearcut 
+
+landscapes in glob to local ecol l classif se pp – edited by r sims i w 
+
+corns k klinka springer netherlands 
+
+
+
+ 
+
+ 
+
+gonzález pérez j a gonzález vila f j almendros g knicker h the effect 
+
+of fire on soil organic matter a review environ int – 
+
+gradowski t thomas s c phosphorus limitation of sugar maple growth in central 
+
+ontario for ecol manage – 
+
+greaves h the bacterial factor in wood decay wood sci technol – springer 
+
+verlag 
+
+hafner s d groffman p m soil nitrogen cycling under litter and coarse woody 
+
+debris in a mixed forest in new york state soil biol biochem – 
+
+hafner s d groffman p m mitchell m j leaching of dissolved organic 
+
+carbon dissolved organic nitrogen and other solutes from coarse woody debris and litter in 
+
+a mixed forest in new york state biogeochemistry – 
+
+hannam k d quideau s a kishchuk b e forest floor microbial communities 
+
+in relation to stand composition and timber harvesting in northern alberta soil biol 
+
+biochem – 
+
+harmon m e franklin j f swanson f j sollins p gregory s v lattin j d 
+
+anderson n h cline s p aumen n g other authors ecology of coarse 
+
+woody debris in temperate ecosystems adv ecol res – 
+
+hart s c deluca t h newman g s mackenzie m d boyle s i post fire 
+
+vegetative dynamics as drivers of microbial community structure and function in forest 
+
+soils for ecol manage – 
+
+hartmann m howes c g vaninsberghe d yu h bachar d christen r henrik 
+
+nilsson r hallam s j mohn w w significant and persistent impact of 
+
+timber harvesting on soil microbial communities in northern coniferous forests isme j 
+
+ – nature publishing group 
+
+hassett j e zak d r aspen harvest intensity decreases microbial biomass 
+
+extracellular enzyme activity and soil nitrogen cycling soil sci soc am j – 
+
+
+
+ 
+
+ 
+
+van hees p a w rosling a finlay r d the impact of trees ectomycorrhiza 
+
+and potassium availability on simple organic compounds and dissolved organic carbon in 
+
+soil soil biol biochem – 
+
+van der heijden m g a bardgett r d van straalen n m the unseen 
+
+majority soil microbes as drivers of plant diversity and productivity in terrestrial 
+
+ecosystems ecol lett – blackwell publishing ltd 
+
+heilmann clausen j christensen m fungal diversity on decaying beech logs–
+
+implications for sustainable forestry biodivers conserv – 
+
+hibbett d s donoghue m j analysis of character correlations among wood 
+
+decay mechanisms mating systems and substrate ranges in homobasidiomycetes syst biol 
+
+ – 
+
+higgins r j lindgren b s the fine scale physical attributes of coarse woody 
+
+debris and effects of surrounding stand structure on its utilization by ants hymenoptera 
+
+formicidae in british columbia canada in insect biodivers dead wood proc a symp nd 
+
+int congr entomol pp – citeseer 
+
+hirsch p r mauchline t h clark i m culture independent molecular 
+
+techniques for soil microbial ecology soil biol biochem – elsevier ltd 
+
+hoogwijk m exploration of the ranges of the global potential of biomass for energy 
+
+biomass and bioenergy – 
+
+huang x chaparro j m reardon k f zhang r shen q vivanco j m 
+
+rhizosphere interactions root exudates microbes and microbial communities botany 
+
+ – 
+
+hynes h m germida j j a chronsequential approach to investigating microbial 
+
+community shifts following clearcutting in boreal plain forest soils can j for res 
+
+ – 
+
+
+
+ 
+
+ 
+
+ishii s kadota k senoo k application of a clustering based peak alignment 
+
+algorithm to analyze various dna fingerprinting data j microbiol methods – 
+
+elsevier b v 
+
+janowiak m webster c promoting ecological sustainability in woody biomass 
+
+harvesting j for – 
+
+jeraldo p chia n goldenfeld n on the suitability of short reads of s rrna 
+
+for phylogeny based analyses in environmental surveys environ microbiol – 
+
+jönsson m t edman m jonsson b g colonization and extinction patterns of 
+
+wood decaying fungi in a boreal old growth picea abies forest j ecol – 
+
+juutilainen k halme p kotiranta h mönkkönen m size matters in studies of 
+
+dead wood and wood inhabiting fungi fungal ecol – 
+
+kalra y maynard d methods manual for forest soil and plant analysis for can 
+
+northwest reg edmonton ab 
+
+kaplan c w kitts c l variation between observed and true terminal restriction 
+
+fragment length is dependent on true trf length and purine content j microbiol methods 
+
+ – 
+
+kataja aho s fritze h haimi j short term responses of soil decomposer and 
+
+plant communities to stump harvesting in boreal forests for ecol manage – 
+
+elsevier b v 
+
+kauserud h mathiesen c ohlson m high diversity of fungi associated with 
+
+living parts of boreal forest bryophytes botany – 
+
+kebli h brais s kernaghan g drouin p impact of harvesting intensity on 
+
+wood inhabiting fungi in boreal aspen forests of eastern canada for ecol manage 
+
+ – elsevier b v 
+
+kernaghan g patriquin g host associations between fungal root endophytes and 
+
+boreal trees microb ecol – 
+
+
+
+ 
+
+ 
+
+kimball b a lemon e r air turbulence effects upon soil gas exchange soil 
+
+sci annu – 
+
+knicker h how does fire affect the nature and stability of soil organic nitrogen and 
+
+carbon a review biogeochemistry – 
+
+krankina o n harmon m e griazkin a v nutrient stores and dynamics of 
+
+woody detritus in a boreal forest modeling potential implications at the stand level can j 
+
+for res – 
+
+kruys n jonsson b ståhl g a stage based matrix model for decay class 
+
+dynamics of woody debris ecol appl – 
+
+kubartová a ottosson e dahlberg a stenlid j patterns of fungal 
+
+communities among and within decaying logs revealed by sequencing mol ecol 
+
+ – 
+
+kubicek c p fungi and lignocellulosic biomass first john wiley and sons inc 
+
+kuzyakov y separating microbial respiration of exudates from root respiration in non 
+
+sterile soils a comparison of four methods soil biol biochem – 
+
+ladanai s vinterbäck j global potential of sustainable biomass for energy 
+
+laiho r prescott c e decay and nutrient dynamics of coarse woody debris in 
+
+northern coniferous forests a synthesis can j for res – 
+
+laiho r prescott c e the contribution of coarse woody debris to carbon 
+
+nitrogen and phosphorus cycles in three rocky mountain coniferous forests can j for res 
+
+ – 
+
+langor d w hammond h e j spence j r jacobs j cobb t p 
+
+saproxylic insect assemblages in canadian forests diversity ecology and conservation 
+
+can entomol – 
+
+
+
+ 
+
+ 
+
+lehto t zwiazek j j ectomycorrhizas and water relations of trees a review 
+
+mycorrhiza – 
+
+li q allen h l ii a w microbial biomass and bacterial functional diversity in 
+
+forest soils   effects of organic matter removal compaction and vegetation control soil 
+
+biol biochem – 
+
+lindroos m the supply of woody biomass from the forests in the eu can be 
+
+significantly increased 
+
+liu x li q liang w jiang y distribution of soil enzyme activities and 
+
+microbial biomass along a latitudinal gradient in farmlands of songliao plain northeast 
+
+china pedosphere – 
+
+lueders t friedrich m archaeal population dynamics during sequential reduction 
+
+processes in rice field soil appl environ microbiol – 
+
+lukow t dunfield p liesack w use of the t rflp technique to assess spatial 
+
+and temporal changes in the bacterial community structure within an agricultural soil 
+
+planted with transgenic and non transgenic potato plants fems microbiol ecol –
+
+ 
+
+madden t l tatusov r l zhang j applications of network blast server 
+
+methods enzymol – 
+
+madsen e l epistemology of environmental microbiology environ sci technol 
+
+ – american chemical society 
+
+mariani l chang s x kabzems r effects of tree harvesting forest floor 
+
+removal and compaction on soil microbial biomass microbial respiration and n 
+
+availability in a boreal aspen forest in british columbia soil biol biochem – 
+
+marjanovic z nehls u ectomycorrhiza and water transport in mycorrhiza pp 
+
+ – 
+
+
+
+ 
+
+ 
+
+maser c anderson r g cromack k williams j t martin r e dead and 
+
+down woody material in dead down woody mater pp – 
+
+mataix solera j guerrero c garcía orenes f bárcenas g m pilar torres m 
+
+ forest fire effects on soil microbiology in fire eff soils restor strateg pp –
+
+ edited by a cerdà p r robichaud enfield new hampshire usa science 
+
+publishers 
+
+maynard d paré d how do natural disturbances and human activities affect soils 
+
+and tree nutrition and growth in the canadian boreal forest environ rev – 
+
+mccay t s komoroski m j demographic responses of shrews to removal of 
+
+coarse woody debris in a managed pine forest for ecol manage – 
+
+mcdonald d price m n goodrich j nawrocki e p desantis t z probst a 
+
+andersen g l knight r hugenholtz p an improved greengenes 
+
+taxonomy with explicit ranks for ecological and evolutionary analyses of bacteria and 
+
+archaea isme j – 
+
+mcmurdie p j holmes s phyloseq an r package for reproducible interactive 
+
+analysis and graphics of microbiome census data plos one e 
+
+mengak m t guynn d c small mammal microhabitat use on young loblolly 
+
+pine regeneration areas for ecol manage – 
+
+mer j le roger p production oxidation emission and consumption of methane by 
+
+soils a review eur j soil biol – 
+
+morris l a pritchett w l swindel b f displacement of nutrients into 
+
+windrows during site preparation of a flatwood forest soil sci soc am j – 
+
+morton j koske r stürmer s bentivenga s mutualistic arbuscular 
+
+endomycorrhizal fungi in biodivers fungi invent monit methods pp – edited by 
+
+g mueller g bills m foster london uk elsevier academic press 
+
+
+
+ 
+
+ 
+
+mueller g foster m biodiversity of fungi st editio burlington ma usa 
+
+academic press 
+
+mummey d l clarke j t cole c a connor b g o gannon j e ramsey p 
+
+w spatial analysis reveals differences in soil microbial community interactions 
+
+between adjacent coniferous forest and clearcut ecosystems soil biol biochem –
+
+ elsevier ltd 
+
+myketa d whaley r polhill b harvesting practices and their implications for 
+
+vegetation management in veg manag altern a guid to oppor northwest sci 
+
+technical note pp – edited by m mclaughlan j kerley thunder bay ontario 
+
+can ontario ministry of natural resources 
+
+nadkarni m a martin f e jacques n a hunter n determination of 
+
+bacterial load by real time pcr using a broad range universal probe and primers set 
+
+microbiology – 
+
+natural resources canada g of c a bioenergy from biomass nat resour canada 
+
+natural resources canada g of c b inventory and land use change nat resour 
+
+canada 
+
+nunery j s keeton w s forest carbon storage in the northeastern united states 
+
+net effects of harvesting frequency post harvest retention and wood products for ecol 
+
+manage – elsevier b v 
+
+oksanen j blanchet f kindt r package “vegan ” 
+
+orr c h james a leifert c cooper j m cummings s p diversity and 
+
+activity of free living nitrogen fixing bacteria and total bacteria in organic and 
+
+conventionally managed soils appl environ microbiol – 
+
+osborn m a smith c j molecular microbial ecology new york ny taylor 
+
+francis group 
+
+
+
+ 
+
+ 
+
+ottosson e succession of wood inhabiting fungal communities swedish university 
+
+of agricultural sciences 
+
+parte a c krieg n r staley j t brown d r hedlund b p paster b j ward 
+
+n l ludwig w whitman w b eds bergey’s manual of systematic 
+
+bacteriology volume the bacteriodetes spirochaetes tenericutes mollicutes 
+
+acidobacteria fibrobacteres fusobacteria dictyoglomi gemmatimonadetes 
+
+lentisphaerae verrucomicrobia chlamydiae and planctomycetes second new york 
+
+ny springer science business media 
+
+paul n ji s deng j yu s assemblages of endophytic bacteria in chili pepper 
+
+ capsicum annuum l and their antifungal activity against phytopathogens in vitro plant 
+
+omics – 
+
+philippot l andersson s g e battin t j prosser j i schimel j p whitman w 
+
+b hallin s the ecological coherence of high bacterial taxonomic ranks nat 
+
+rev micro – nature publishing group 
+
+picek t Šimek m Šantrůčková h microbial responses to fluctuation of soil 
+
+aeration status and redox conditions biol fertil soils – springer verlag 
+
+pirttilä a frank a endophytes of forest trees a pirttilä a frank eds 
+
+springer science business media b v 
+
+preston m d smemo k a mclaughlin j w basiliko n peatland microbial 
+
+communities and decomposition processes in the james bay lowlands canada front 
+
+microbiol 
+
+prewitt l kang y kakumanu m l williams m fungal and bacterial 
+
+community succession differs for three wood types during decay in a forest soil 
+
+microb ecol 
+
+puddister d dominy s w j baker j a morris d m maure j 
+
+opportunities and challenges for ontario ’ s forest bioeconomy for chron – 
+
+
+
+ 
+
+ 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p peplies j 
+
+glöckner f o the silva ribosomal rna gene database project improved data 
+
+processing and web based tools nucleic acids res d –d 
+
+r core team r a language and environment for statistical computing vienna 
+
+austria r foundation for statistical computing 
+
+rajala t peltoniemi m pennanen t mäkipää r relationship between wood 
+
+inhabiting fungi determined by molecular analysis denaturing gradient gel electrophoresis 
+
+and quality of decaying logs can j for res – 
+
+rajala t peltoniemi m hantula j mäkipää r pennanen t rna reveals a 
+
+succession of active fungi during the decay of norway spruce logs fungal ecol –
+
+ 
+
+rajala t peltoniemi m pennanen t mäkipää r fungal community dynamics 
+
+in relation to substrate quality of decaying norway spruce picea abies l karst logs in 
+
+boreal forests fems microbiol ecol – 
+
+ramakrishnan b archaeal community structures in rice soils from different 
+
+geographical regions before and after initiation of methane production fems microbiol 
+
+ecol – 
+
+rämö a k järvinen e latvala t toivonen r silvennoinen h interest in 
+
+energy wood and energy crop production among finnish non industrial private forest 
+
+owners biomass and bioenergy – 
+
+reynolds h l packer a bever j d clay k grassroots ecology plant 
+
+microbe soil interactions as drivers of plant community structure and dynamics ecology 
+
+ – ecological society of america 
+
+riffell s verschuyl j miller d wigley t b biofuel harvests coarse woody 
+
+debris and biodiversity – a meta analysis for ecol manage – elsevier b v 
+
+
+
+ 
+
+ 
+
+rudz p carbon and nutrient dynamics of downed woody debris in a northern 
+
+hardwood forest by carbon and nutrient dynamics of downed woody debris in a 
+
+northern hardwood forest university of toronto 
+
+sabourin m puttock g d richardson j forest management strategies for 
+
+producing wood for energy from conventional forestry systems biomass and bioenergy 
+
+ – 
+
+sanoamuang n jitjak w rodtong s whalley a j s gelatinomyces 
+
+siamensis gen sp nov ascomycota leotiomycetes incertae sedis on bamboo in 
+
+thailand ima fungus – 
+
+schmalenberger a pritzkow w ojeda j j noll m characterization of main 
+
+sulfur source of wood degrading basidiomycetes by s k edge x ray absorption near edge 
+
+spectroscopy xanes int biodeterior biodegradation – elsevier ltd 
+
+schnurr pütz s bååth e guggenberger g drake h küsel k compaction 
+of forest soil by logging machinery favours occurrence of prokaryotes fems microbiol 
+
+ecol – 
+
+schwarze f w m r wood decay under the microscope fungal biol rev –
+
+ 
+
+shade a peter h allison s d baho d l berga m bürgmann h huber d h 
+
+langenheder s lennon j t other authors fundamentals of microbial 
+
+community resistance and resilience front microbiol 
+
+shorohova e kapitsa e vanha majamaa i decomposition of stumps years 
+
+after partial and complete harvesting in a southern boreal forest in finland can j for res 
+
+ – 
+
+siira pietikäinen a pietikäinen j fritze h haimi j short term responses of 
+
+soil decomposer communities to forest management clear felling versus alternative forest 
+
+harvesting methods can j for res – 
+
+
+
+ 
+
+ 
+
+smeets e m w faaij a p c bioenergy potentials from forestry in an 
+
+assessment of the drivers that determine the potentials clim change – 
+
+smith n r kishchuk b e mohn w w effects of wildfire and harvest 
+
+disturbances on forest soil bacterial communities appl environ microbiol – 
+
+spears a j d h lajtha k the imprint of coarse woody debris on soil chemistry 
+
+in the western oregon cascades biogeochemistry – 
+
+spears j holub s the influence of decomposing logs on soil biology and nutrient 
+
+cycling in an old growth mixed coniferous forest in oregon usa can j for res –
+
+ 
+
+steinweg j m dukes j s wallenstein m d modeling the effects of 
+
+temperature and moisture on soil enzyme activity linking laboratory assays to continuous 
+
+field data soil biol biochem – elsevier ltd 
+
+stenlid j penttilä r dahlberg a wood decay basidiomycetes in boreal forests 
+
+distribution and community development in br mycol soc symp ser pp – 
+
+stokland j siitonen j jonsson b a mortality factors and decay succession in 
+
+biodivers dead wood pp – 
+
+stokland j n siitonen j jonsson b g b biodiversity in dead wood cambridge 
+
+university press 
+
+stonehouse d bohl m land degradation issues in canadian agriculture can 
+
+public policy analyse polit – 
+
+stupak i asikainen a jonsell m karltun e lunnan a mizaraite d pasanen k 
+
+parn h raulundrasmussen k roser d sustainable utilisation of forest 
+
+biomass for energy—possibilities and problems policy legislation certification and 
+
+recommendations and guidelines in the nordic baltic and other european countries 
+
+biomass and bioenergy – 
+
+
+
+ 
+
+ 
+
+stupak i lattimore b titus b d smith c t criteria and indicators for 
+
+sustainable forest fuel production and harvesting a review of current standards for 
+
+sustainable forest management biomass and bioenergy – 
+
+suffling r lihou c morand y control of landscape diversity by catastrophic 
+
+disturbance a theory and a case study of fire in a canadian boreal forest environ manage 
+
+ – 
+
+susi p aktuganov g himanen j korpela t biological control of wood decay 
+
+against fungal infection j environ manage – elsevier ltd 
+
+tan x chang s x kabzems r effects of soil compaction and forest floor 
+
+removal on soil microbial properties and n transformations in a boreal forest long term soil 
+
+productivity study for ecol manage – 
+
+tedersoo l kõljalg u fine scale distribution of ectomycorrhizal fungi and roots 
+
+across substrate layers including coarse woody debris in a mixed forest new phytol 
+
+ – 
+
+tedersoo l suvi t jairus t kõljalg u forest microsite effects on community 
+
+composition of ectomycorrhizal fungi on seedlings of picea abies and betula pendula 
+
+environ microbiol – 
+
+tenenbaum d harvesting the potential of biomass environ health perspect –
+
+ 
+
+thiffault e hannam k d paré d titus b d hazlett p w maynard d g 
+
+brais s effects of forest biomass harvesting on soil productivity in boreal and 
+
+temperate forests — a review environ rev – 
+
+tiessen h cuevas e chacon p the role of soil organic matter in sustaining soil 
+
+fertility nature – 
+
+tilman d cassman k g matson p a naylor r polasky s agricultural 
+
+sustainability and intensive production practices nature – 
+
+
+
+ 
+
+ 
+
+vanderwel m c thorpe h c shuter j l caspersen j p thomas s c 
+
+contrasting downed woody debris dynamics in managed and unmanaged northern 
+
+hardwood stands can j for res – 
+
+vanderwel m contributions of harvest slash to maintaining downed woody debris in 
+
+selection managed forests can j for res – 
+
+vergnoux a guiliano m di rocco r domeizel m théraulaz f doumenq p 
+
+ quantitative and mid infrared changes of humic substances from burned soils 
+
+environ res – 
+
+wang j m murphy j g geddes j a winsborough c l basiliko n thomas s 
+
+c methane fluxes measured by eddy covariance and static chamber techniques at a 
+
+temperate forest in central ontario canada biogeosciences – 
+
+wang q garrity g m tiedje j m cole j r naive bayesian classifier for 
+
+rapid assignment of rrna sequences into the new bacterial taxonomy appl environ 
+
+microbiol – 
+
+wang z johnston p r takamatsu s spatafora j w hibbett d s toward 
+
+a phylogenetic classification of the leotiomycetes based on rdna data mycologia 
+
+ – 
+
+werhahn mees w palosuo t garcia gonzalo j röser d lindner m 
+
+sustainability impact assessment of increasing resource use intensity in forest bioenergy 
+
+production chains gcb bioenergy – 
+
+werner j j knights d garcia m l scalfone n b smith s yarasheski k 
+
+cummings t a beers a r knight r angenent l t bacterial 
+
+community structures are unique and resilient in full scale bioenergy systems proc natl 
+
+acad sci u s a – 
+
+ 
+
+
+
+ 
+
+ 
+
+appendix extended methods 
+
+laboratory methods 
+
+dna extraction 
+
+dna was extracted from soil samples using the powersoil® dna isolation kit mo bio 
+
+laboratories inc carlsbad ca a minute homogenization step was performed using a 
+
+tube minibeadbeater tm biospec products inc bartlesville ok as opposed to the mo bio 
+
+vortex adapter described in the protocol samples were frozen and stored for analysis at a later 
+
+date 
+
+dna was extracted from samples with the powerplant® dna isolation kit mo bio 
+
+laboratories inc carlsbad ca there were deviations from the protocol sample incubation at 
+
+ °c was performed in “heating block” homogenization was performed using a minute cycle 
+
+on a tube minibeadbeater tm biospec products inc bartlesville ok samples were stored 
+
+frozen for analysis at a later date 
+
+pcr 
+
+pcr reactions were performed in an mwg ag biotech primus thermocycler 
+
+previously determined optimized cycles were utilized for the amplification of bacterial s 
+
+ribosomal dna fungal s ribosomal dna and archaeal s ribosomal dna sequences the 
+
+primers and cycle specifications can be found in table 
+
+pcr reactions were run through a agarose gel for minutes at v gels were 
+
+then stained with ethidium bromide for minutes and visualized using nm wavelength uv 
+
+light in a uvp high performance uv transilluminator alternatively gels were stained with 
+
+sybrsafetm or redsafetm before being visualized 
+
+table pcr cycle parameters and primers utilized for amplification of hypervariable 
+
+regions from bacterial s ribosomal dna archaeal s ribosomal dna and fungal s 
+
+ribosomal dna 
+
+targeted	  sequence	   pcr	  cycle	   primers	  
+
+bacterial	   s	   °c	  –	   	  min	   eu f	  
+aga	  gtt	  tga	  tcm	  tgg	  ctc	  ag	  
+
+
+
+ 
+
+ 
+
+ribosomal	  gene	   	  cycles	  of	  	  
+ °c ­‐	   	  min	  
+ °c ­‐	   	  min	  
+ °c ­‐	   	  min	  
+final	  extension	  	  
+ °c ­‐	   	  min	  
+
+ bräuer	  et	  al 	   	  
+eu r	  
+acg	  gyt	  acc	  ttg	  tta	  cga	  
+ctt	  
+ bräuer	  et	  al 	   	  
+
+fungal	   s	  
+
+ribosomal	  gene	  
+
+ °c	  –	   	  min	  
+ 	  cycles	  of	  	  
+ °c ­‐	   	  min	  
+ °c ­‐	   	  min	  
+ °c ­‐	   	  min	  
+final	  extension	   °c ­‐	   	  min	  
+
+fu f	  
+tta	  gca	  tgg	  aat	  aat	  rra	  
+ata	  gga	  
+ edel ­‐hermann	  et	  al 	   	  
+fu r	  
+att	  gca	  atg	  cyc	  tat	  ccc	  ca	  
+ edel ­‐hermann	  et	  al 	   	  
+
+archaeal	   s	  
+
+ribosomal	  gene	  
+
+ °c	  –	   	  min	  
+ 	  cycles	  of	  	  
+ °c ­‐	   	  min	  
+ °c ­‐	   	  min	  
+ °c ­‐	   	  min	  
+final	  extension	   °c ­‐	   	  min	  
+
+ar f	  
+ack	  gct	  cag	  taa	  cac	  gt	  
+ ramakrishnan 	   	  
+ar r	  
+ctc	  ccc	  cgc	  caa	  ttc	  ctt	  ta	  
+ ramakrishnan 	   	  
+
+t rflp 
+
+bacterial and fungal ribosomal gene segments were amplified using the cycle and primer 
+
+sets indicated table with a ’ end carboxyfluorescein fam modification on the eu f 
+
+and fu r primers the pcr products were then purified using the genelutetm pcr clean 
+
+up kit sigma aldrich canada co oakville ontario digestions of gene products were 
+
+completed as described in table t rflp analysis was completed at the agriculture and food 
+
+laboratory in guelph university of guelph agriculture and food laboratory guelph on t 
+
+rflp data was preprocessed in r using a custom function created using the algorithm described 
+
+by ishii kadota senoo with slight modifications to accommodate the data format 
+
+supplied by guelph the cutoff distance was set to bp and the final output was expressed as 
+
+proportion total peak height per trf by sample kaplan kitts 
+
+table restriction enzyme digestion conditions for t rflp analysis of hypervariable 
+
+regions of bacterial s ribosomal dna archaeal s ribosomal dna and fungal s 
+
+ribosomal dna 
+
+purpose enzyme sequence 
+
+ ’ – ’ 
+
+reaction conditions reference 
+
+archeal taqi t’cga u at °c for hours with µl 
+ x incubation buffer and µl 
+
+ lueders 
+
+
+
+ 
+
+ 
+
+ ar f 
+
+ar r 
+
+bovine serum albumin in a total 
+
+volume µl 
+friedrich 
+
+bacteria 
+
+ primers 
+
+eu f 
+
+eu r 
+
+mspi c’cgg °c for hours combine with 
+µl x incubation buffer and µl 
+
+bovine serum albumin total 
+
+volume µl 
+
+ lukow et al 
+
+ 
+
+fungi 
+
+ fu f 
+
+and 
+
+fu r 
+
+alui and 
+
+mboi 
+ag’ct 
+
+‘gatc 
+
+ u of the restriction enzymes in a 
+
+final volume of µl for h at 
+
+ °c 
+
+ edel hermann et 
+
+al 
+
+pyrotag sequencing 
+
+ amplicon pyrotag sequencing btefap was originally described by dowd et al 
+
+and has been utilized in describing a wide range of environmental and health related 
+
+microbiomes including the intestinal populations of a variety of sample types and environments 
+
+including cattle callaway et al dowd et al williams et al in a modified 
+
+version of this process s universal eubacterial forward primer 
+
+ agrgtttgatcmtggctcag was used to amplify fragments from the bacterial s rrna 
+
+gene and s universal fungal forward primer ttagcatggaataatrraatag was used 
+
+to amplify fragments from the fungal s rrna gene a single step cycle pcr using 
+
+hotstartaq plus master mix kit qiagen valencia ca were used under the following 
+
+conditions oc for minutes followed by cycles of oc for seconds oc for 
+
+seconds and oc for minute after which a final elongation step at oc for minutes was 
+
+performed following pcr all amplicon products from different samples were mixed in equal 
+
+concentrations and purified using agencourt ampure beads agencourt bioscience corporation 
+
+ma usa sequencing was performed at mr dna www mrdnalab com shallowater tx 
+
+usa utilizing roche flx titanium instruments and reagents and following manufacturer’s 
+
+guidelines 
+
+ data was analyzed in the quantitative insights into microbial ecology qiime 
+
+pipeline caporaso et al data was quality filtered qiime default parameters quality 
+
+score min length max length additional quality filtering and otu clustering 
+
+
+
+ 
+
+ 
+
+was performed with the usearch program which utilizes the uchime algorithm to 
+
+identify chimera sequences for removal against the gold fa dataset edgar edgar et al 
+
+ de novo otu picking with uclust was used to form the representative otu dataset 
+
+ edgar bacterial taxonomy was assigned using the rdp classification algorithm against 
+
+the greengenes database confidence rep set wang et al mcdonald et al 
+
+ muscle was used to produce a denovo alignment of all otu sequences larkin et al 
+
+ aligned sequences were filtered entropy gap fraction and made into a 
+
+phylogenetic tree using muscle edgar fungal taxonomy was assigned using the rdp 
+
+classification algorithm against the silva database for the eukaryotic s ribosomal dna 
+
+gene quast et al wang et al muscle was used to produce a denovo alignment of 
+
+all otu sequences which were then filtered entropy gap fraction and used to make 
+
+a phylogenetic tree with the muscle algorithm edgar 
+
+gene identification 
+
+indicator species sequences collected from cloning experiments were entered into the 
+
+blast genome database and correlated to the closest matching documented sequence madden 
+
+tatusov and zhang closest match for species identification was determined using ncbi 
+
+blast using the blastn algorithm with an expect threshold of word size match mismatch 
+
+scores gapcosts existence extension 
+
+statistical analysis 
+
+ t rflp community analysis 
+
+differences between t rflp microbial communities in residues will be compared using 
+
+dca with the vegan package provided by r statistical software otu peaks were analyzed for 
+
+presence absence in samples as those species that could be detected by t rflp were assumed to 
+
+be a large component of the total microbial community oksanen et al r core team 
+
+ an adonis test using an eigenvalue method was performed to determine whether there 
+
+were significant differences between groupings oksanen et al the variance explained 
+
+by each factor was used to determine which subsets of data should be further investigated 
+
+relationships between community composition and sample physical and chemical characteristics 
+
+were determined using an eigenvalue based dbrda where axis were determined using forward 
+
+selection 
+
+
+
+ 
+
+ 
+
+ pyrotag sequencing analysis 
+
+ data was analyzed in qiime pipeline and r packages phyloseq indicspecies and 
+
+vegan caceres jansen mcmurdie holmes oksanen et al r core 
+
+team indicator species were identified using the indval command in the indicspecies 
+
+package only those species that were significantly associated with a treatment or combination 
+
+treatments p value were retained in the dataset utilized for chart and figure construction 
+
+richness and diversity were calculated in vegan relationships between community composition 
+
+and sample physical and chemical characteristics were determined using an eigenvalue based 
+
+dbrda where axis were determined using forward selection 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+appendix chapter additional figures 
+
+ 
+figure weighted dca of trflp community structure based on bacterial s fungal s 
+
+and archaeal s genes for dna isolated from mineral soil samples collected in in island 
+
+lake biomass harvesting trial sites 
+
+ 
+figure weighted dca of trflp community structure based on bacterial s fungal s 
+
+and archaeal s genes for dna isolated from lfh soil samples collected in in island 
+
+lake biomass harvesting trial sites 
+
+
+
+ 
+
+ 
+
+ 
+figure weighted dca illustrating trflp community structure based on bacterial s 
+
+fungal s and archaeal s genes points represent soil samples from different sites sampled 
+
+within a given sampling year confidence ellipses of were placed around clusters by year 
+
+ 
+figure pca of sir and hydrolase activity based metabolic profiles from island lake 
+
+biomass trial mineral soils sampled in 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+figure shannon diversity indices of bacterial pyrotag sequencing community data for 
+
+chapleau mineral soils sampled in 
+
+ 
+figure shannon diversity indices of bacterial pyrotag sequencing community data for 
+
+chapleau lfh soils sampled in 
+
+
+
+ 
+
+ 
+
+ 
+figure shannon diversity indices of fungal pyrotag sequencing community data for 
+
+chapleau mineral soils sampled in 
+
+ 
+figure shannon diversity indices of fungal pyrotag sequencing community data for 
+
+chapleau lfh soils sampled in 
+
+
+
+ 
+
+ 
+
+ 
+figure pyrotag sequencing rarefaction curves from bacterial soil samples samples are 
+
+described using letter designations in the following order treatment i fire b bladed s 
+
+stumped f full tree t tree length c control soil type o lfh m mineral cm 
+
+herbicide treatment h treated n non herbicide the b designates a bacterial sample 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+sample size
+
+sp
+ec
+
+ie
+s
+
+iob
+
+tohb
+
+fmhb
+
+tmnb
+
+smnb
+
+fmnb
+
+bb
+
+tonb
+
+smhb
+sonbsohb
+
+imb
+
+tmhb cob
+
+cmb
+
+
+
+ 
+
+ 
+
+ 
+figure pyrotag sequencing rarefaction curves from fungal soil samples samples are 
+
+described using letter designations in the following order treatment i fire b bladed s 
+
+stumped f full tree t tree length c control soil type o lfh m mineral cm 
+
+herbicide treatment h treated n non herbicide the f designates a fungal sample 
+
+coloured based on presence black points and absence grey x’s in different harvesting 
+
+regimes 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+sample size
+
+sp
+ec
+
+ie
+s
+
+tmnf
+
+cmf
+
+smhf
+
+bf
+
+smnf
+
+fmnf
+
+fohf
+
+iof
+
+fonf
+
+cof
+
+sohf
+
+fmhf
+
+sonftohf
+
+tonf
+
+tmhf
+
+
+
+ 
+
+ 
+
+ 
+figure chao richness of archaeal t rflp community data for chapleau soils sampled in 
+
+ differences were not found to be significant p using anova with a tukeys post 
+
+hoc test 
+
+ 
+figure shannon diversity indices of archaeal t rflp community data for chapleau soils 
+
+sampled in differences were not found to be significant using anova with a tukeys 
+
+post hoc test 
+
+
+
+ 
+
+ 
+
+ 
+figure shannon diversity indices of bacterial t rflp community data for chapleau soils 
+
+sampled in bars indicated with an asterisk were significantly different from one 
+
+another p 
+
+ 
+
+figure chao richness of bacterial t rflp community data for chapleau soils sampled in 
+
+ bars indicated with an asterisk were significantly different from one another p 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of bacterial t rflp community data for chapleau soils sampled in 
+
+ differences were not found to be significant p using anova with a tukeys post 
+
+hoc test 
+
+ 
+
+figure shannon diversity indices of bacterial t rflp community data for chapleau soils 
+
+sampled in differences were not found to be significant p using anova with a 
+
+tukeys post hoc test 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of fungal t rflp community data for chapleau soils sampled in 
+
+ differences were not found to be significant p using anova with a tukeys post 
+
+hoc test 
+
+ 
+
+figure shannon diversity indices of fungal t rflp community data for chapleau soils 
+
+sampled in bars indicated with an asterisk were significantly different from one 
+
+another p 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of fungal t rflp community data for chapleau soils sampled in 
+
+ differences were not found to be significant p using anova with a tukeys post 
+
+hoc test 
+
+ 
+
+figure shannon diversity indices of fungal t rflp community data for chapleau soils 
+
+sampled in differences were not found to be significant p using anova with a 
+
+tukeys post hoc test 
+
+
+
+ 
+
+ 
+
+appendix chapter additional figures 
+
+ 
+
+figure unweighted dca of bacterial s and fungal s t rflp communities from wood 
+
+samples 
+
+
+
+ 
+
+ 
+
+ 
+
+figure unweighted dca of bacterial s and fungal s t rflp communities from wood 
+
+samples from only inner and outer wood samples 
+
+
+
+ 
+
+ 
+
+ 
+
+figure unweighted dca of bacterial s and fungal s t rflp communities from soil 
+
+samples beneath sampled wood 
+
+
+
+ 
+
+ 
+
+ 
+
+figure weighted dca of bacterial s and fungal s t rflp communities from inner 
+
+and outer jack pine wood sampled in chapleau 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+figure weighted dca of bacterial s and fungal s t rflp communities from soils 
+
+below jack pine wood sampled in chapleau 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+figure weighted dca of bacterial s and fungal s t rflp communities from soils 
+
+below sugar maple wood sampled in haliburton 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+figure pca of chemical characteristics representing pooled cwd samples used for t rflp 
+
+analysis 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of chapleau wood bacterial pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure shannon diversity of chapleau wood bacterial pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of haliburton wood bacterial pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure shannon diversity of haliburton wood bacterial pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of chapleau wood fungal pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure shannon diversity of chapleau wood fungal pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure chao richness of haliburton wood fungal pyrotag sequencing communities 
+
+
+
+ 
+
+ 
+
+ 
+
+figure shannon diversity of haliburton wood fungal pyrotag sequencing communities 
+
+ 
+
+
+

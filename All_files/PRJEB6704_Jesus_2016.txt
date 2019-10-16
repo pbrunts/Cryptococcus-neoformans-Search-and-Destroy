@@ -1,0 +1,2325 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+influence of corn switchgrass and prairie cropping systems on soil microbial communities in the upper midwest of the united states
+
+
+influence of corn switchgrass and prairie cropping
+systems on soil microbial communities in the upper
+midwest of the united states
+ederson da c j e sus chao l iang j ohn f quensen 
+
+endang sus i lawat i randall d jackson teresa c balser and
+
+james m tiedje 
+
+ center for microbial ecology and doe great lakes bioenergy research center michigan state university plant and soil
+
+sciences building east lansing mi usa embrapa agrobiologia br km serop�edica rio de janeiro
+
+ brazil department of agronomy and doe great lakes bioenergy research center university of wisconsin 
+
+madison linden drive madison wi usa state key laboratory of forest and soil ecology institute of applied
+
+ecology chinese academy of sciences shenyang china department of chemical engineering and applied chemistry 
+
+university of toronto toronto on m s e canada
+
+abstract
+
+because soil microbes drive many of the processes underpinning ecosystem services provided by soils under 
+
+standing how cropping systems affect soil microbial communities is important for productive and sustainable
+management we characterized and compared soil microbial communities under restored prairie and three
+
+potential cellulosic biomass crops corn switchgrass and mixed prairie grasses in two spatial experimental
+
+designs – side by side plots where plant communities were in their second year since establishment i e inten 
+sive sites and regionally distributed fields where plant communities had been in place for at least years i e 
+extensive sites we assessed microbial community structure and composition using lipid analysis pyrosequenc 
+ing of rrna genes targeting fungi bacteria archaea and lower eukaryotes and targeted metagenomics of nifh
+genes for the more recently established intensive sites soil type was more important than plant community in
+
+determining microbial community structure while plant community was the more important driver of soil
+microbial communities for the older extensive sites where microbial communities under corn were clearly differ 
+
+entiated from those under switchgrass and restored prairie bacterial and fungal biomasses especially biomass
+
+of arbuscular mycorrhizal fungi were higher under perennial grasses and restored prairie suggesting a more
+
+active carbon pool and greater microbial processing potential which should be beneficial for plant acquisition
+
+and ecosystem retention of carbon water and nutrients 
+
+keywords bacterial communities biofuel crops fungal communities lipid analysis nifh pyrosequencing
+
+received january revised version received april and accepted june 
+
+introduction
+
+to help reduce dependence on fossil fuels there is great
+
+interest in using plant biomass for energy significant
+
+efforts are underway to understand what biomass crops
+
+should be grown where they should be grown and
+
+how they can be managed in sustainable ways kim
+
+et al gao et al werling et al annual
+
+crops such as corn continue to be the most readily abun 
+
+dant and available crops for biofuel production in the
+
+united states us doe while canola and soy 
+
+beans have been used to produce biodiesel iea 
+
+however these crops are monocultures that require
+
+high energy inputs to maintain lose soil and nutrients 
+
+and serve as key food crops for humans and or live 
+
+stock their use for biofuel may increase food costs and
+
+may encourage more land to be converted to agricul 
+
+ture which has negative ramifications for ecosystem
+
+carbon balance wildlife habitat and a host of other
+
+ecosystem services fargione et al 
+
+the disadvantages listed above have encouraged a
+
+focus on perennial grasses such as panicum virgatum
+
+ switchgrass for lignocellulosic ethanol production
+
+ iea switchgrass produces high amounts of bio 
+
+mass and is a native species of north america that
+
+should require less intensive agricultural management
+
+than annual crops wright turhollow biologi 
+
+cally diverse low input systems consisting of mixtures
+
+of native grasses are also candidates for cellulosic
+correspondence james m tiedje tel fax 
+
+e mail tiedjej msu edu
+
+© john wiley sons ltd 
+
+gcb bioenergy – doi gcbb 
+
+
+
+biomass crops because they can be highly productive 
+
+while conserving nutrients jach smith jackson 
+
+can positively affect the diversity of other groups of
+
+organisms werling et al and result in lower
+
+greenhouse gas emissions than annuals and perennial
+
+monocultures tilman et al oates et al 
+
+theoretically more diverse plant communities will
+
+improve sustainability by requiring fewer inputs than
+
+monocultures although support for this hypothesis in
+
+agricultural production settings is scant but see tilman
+
+et al webster et al in more productive
+
+soils it may be more important to have a particular
+
+plant community for example one that includes the
+
+most productive taxa to minimize inputs while
+
+improving stability and resilience adler et al 
+
+all agricultural activity affects biodiversity soil fertil 
+
+ity and water resources groom et al and these
+
+factors should be assessed when evaluating the sustain 
+
+ability of biofuel cropping systems considering the
+
+impacts on microbial soil communities is an important
+
+component of this assessment because most soil based
+
+ecosystems services such as organic matter degradation 
+
+nitrogen fixation nitrification denitrification soil aggre 
+
+gation and water retention are driven by microbial
+
+activity swift et al as has been shown for other
+
+crops the cultivation of biofuel crops can be expected to
+
+influence soil microbial communities thus affecting the
+
+key ecosystem processes and the services they provide
+
+ groom et al liang et al corn is presently
+
+the major crop used for ethanol production in the
+
+united states and soil microbial communities under
+
+corn and prairie have often been contrasted showing
+
+differences in microbial community composition and
+
+improved carbon storage and soil aggregation under
+
+prairie bailey et al allison et al bach et al 
+
+ fierer et al murphy foster the
+
+growing interest in using switchgrass and other grasses
+
+for cellulosic biomass production has sparked similar
+
+investigations contrasting soil microbial communities
+
+under these grasses with those under corn jesus et al 
+
+ mao et al liang et al the ways
+
+and extent to which these crops have been found to
+
+influence soil microbial communities varied according
+
+to the methods used spatial sampling schemes soil and
+
+environmental variables land management and land
+
+history but a general finding has been that cultivation
+
+of perennial grasses stimulates communities more simi 
+
+lar to those under prairies liang et al this is a
+
+desirable outcome because systems with soil microbial
+
+communities similar to those under prairies should
+
+require fewer external inputs and for this reason be
+
+more sustainable but for the most part these studies
+
+have been performed in local settings and the need to
+
+carry out studies at larger geographic scales including
+
+sites with different management types different times
+
+since crop establishment and for a range of soil condi 
+
+tions is necessary to better examine shifts in microbial
+
+communities 
+
+for this reason we used a more holistic approach for
+
+our study our initial hypothesis was that the cultiva 
+
+tion of switchgrass and mixed grasses would lead to
+
+microbial communities more similar to those under
+
+prairie species implying a more sustainable system to
+
+test this hypothesis we sampled over a larger geo 
+
+graphic scale including sites in two states with a range
+
+of soil conditions with different times since crop con 
+
+version and under two different sampling strategies 
+
+we compared microbial communities in soils cultivated
+
+with three potential biofuel crops corn switchgrass 
+
+and mixed grasses and with prairie species and in two
+
+spatial experimental designs one design consisted of
+
+side by side plots where plant communities were in
+
+their second year since establishment i e intensive
+
+sites and the other consisted of regionally distributed
+
+fields where plant communities had been in place for at
+
+least years i e extensive sites we assessed the
+
+microbial communities using three different methods 
+
+lipid analysis pyrosequencing of ribosomal genes that
+
+target fungi bacteria archaea and lower eukaryotes 
+
+and targeted metagenomics of a gene important for a
+
+key ecological function nifh coding for nitrogen reduc 
+
+tase n fixation our main questions were as follows 
+
+ i how do the different biofuel crops affect soil micro 
+
+bial communities that is are soil microbial communities
+
+under switchgrass and mixed grasses more similar to
+
+those under prairie ii how are any effects modified by
+
+location and soil type and iii how do alternative soil
+
+microbial assay methods compare in revealing commu 
+
+nity differences 
+
+materials and methods
+
+site description and soil sampling
+
+soil samples were collected from sites in southern michigan
+
+and southern wisconsin under two different designs that have
+
+been used for other studies by the great lakes bioenergy
+
+research center glbrc fig s these two designs are in 
+
+tensive and extensive 
+
+the intensive plots were located at the kellogg biological
+
+station kbs in michigan and at the arlington agricultural
+
+research station aars in wisconsin the plots were arrayed
+
+in randomized complete blocks designs consisting of five repli 
+
+cated m plots of each of four plant communities –
+
+corn switchgrass mixed grasses and restored prairie – and
+
+were harvested annually for biomass we sampled from three
+
+of the five blocks years after their establishment 
+
+the extensive sites were fields located on working farms or
+
+reserves in michigan and wisconsin and were selected from
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+
+
+among those studied by werling et al to cover the range
+
+of soil types and conditions of the southern regions of both
+
+states nine fields were sampled in each state – three in corn 
+
+three in switchgrass and three in restored prairie – but only
+
+the corn fields were harvested all sites had been under their
+
+respective vegetation for at least years 
+
+three composite samples were taken at random from each
+
+of the sampling units each composite sample consisted of five
+
+soil cores taken to a depth of cm all samples were trans 
+
+ported on ice to the laboratory and then stored at � °c until
+processing 
+
+soil analysis
+
+soil samples were analyzed for elemental composition al b 
+
+ca cu fe k mg mn na p s and zn total c total n ph 
+
+and soil texture as previously described liang et al 
+
+lipid analysis
+
+microbial community composition was determined using a
+
+hybrid procedure of phospholipid fatty acid plfa and fatty
+
+acid methyl ester fame analysis as previously described
+
+ liang et al the total biomass of bacteria b fungi f 
+
+and protozoa was estimated bacteria were further subdivided
+
+into gram positive gm and gram negative gm� cate 
+gories and the fungi into arbuscular mycorrhizal fungi amf 
+
+and saprophytic fungi sf liang et al 
+
+dna extraction
+
+dna was extracted from each well mixed mg soil sample
+
+using mobio’s power soil dna isolation kit mobio laborato 
+
+ries inc carlsbad ca usa according to the manufacturer’s
+
+instructions the dna was quantified with a nanodrop nd 
+
+ spectrophotometer nanodrop technology wilmington 
+
+de usa and stored at � °c until use 
+
+preparation of s s ssu rrna gene amplicon
+libraries for pyrosequencing
+
+the v v region of smal subunit ssu rrna was amplified
+
+from the template dna using primers f cct atc ccc
+tgt gtg cct tgg cag tct cag aaa cty aaa kga att grc
+
+gg and r cca tct cat ccc tgc gtg tct ccg act cag
+ xxxxx acg ggc ggt gtg trc primer
+sequences were modified by the addition of a or b adap 
+
+ter sequences lower case in addition the reverse primer
+
+included a bp bar code designated by xxxxx above 
+
+for multiplexing of samples during sequencing twenty
+
+microliter pcrs were performed in duplicate and pooled to
+
+minimize pcr bias using ll advantage gc polymerase
+mix advantage gc pcr kit clonetech mountain view 
+
+ca usa ll gc pcr buffer ll m gc melt solu 
+
+tion ll mm dntp mix mbi fermentas amherst ma 
+usa ll of each nm primer and ng sample dna 
+the thermal cycler protocol was °c for min cycles of
+
+ °c for s °c for s and °c for s and a final
+
+ min extension at °c pcr amplicons were purified
+
+using spri beads and quantified using a qubit fluorometer
+
+ thermo fisher scientific inc waltham ma usa samples
+
+were diluted to ng ll� and mixed in equal concentra 
+tions emulsion pcr and sequencing of the pcr amplicons
+
+were performed following the roche gs flx titanium
+
+technology manufacturer’s instructions sequencing tags were
+
+analyzed using the software tool pyrotagger kunin 
+
+hugenholtz using a bp sequence length threshold
+
+as described in engelbrektson et al 
+
+ s s rrna gene nucleotide sequences were deposited in
+
+the european nucleotide archive http www ebi ac uk ena 
+
+as part of study prjeb under accession numbers
+
+err through err 
+
+preparation of s lsu rrna gene amplicon
+libraries for pyrosequencing
+
+pcr amplification of template dna was also performed using
+
+the primers lr ccgtgtttcaagacggg and lr r
+ acccgctgaacttaagc liu et al these pri 
+mers target a bp fragment of the large subunit lsu rrna
+
+gene in fungi detailed amplification and purification protocols
+
+are given in penton et al adapters and bar codes were
+
+ligated to the amplicons prior to sequencing at utah state
+
+university using lib l kits 
+
+ s rrna gene nucleotide sequences were deposited in the
+
+european nucleotide archive http www ebi ac uk ena as
+
+part of study prjeb under accession numbers err 
+
+through err 
+
+preparation of nifh amplicon libraries for
+pyrosequencing
+
+the extracted dna also served as template to prepare nifh
+
+gene libraries as described in wang et al the primers
+
+were based on those of poly et al which target an
+
+approximately bp region of the nifh gene nifh gene
+
+libraries were sequenced by the research technology support
+
+facility rtsf at michigan state university east lansing 
+
+nifh nucleotide sequences were deposited in the european
+
+nucleotide archive http www ebi ac uk ena as part of
+
+study prjeb under accession numbers err through
+
+err 
+
+data analysis
+
+principal component analysis pca was used to display dis 
+
+tances between sites based on their soil attributes for these
+
+analyses the arc sin transformation was first applied to per 
+
+centages of sand and silt and then all soil variables were stan 
+
+dardized to zero mean and unit variance prior to pca on the
+
+correlation matrix using the r r core team package
+
+vegan’s oksanen et al rda function to aid interpreta 
+
+tion vectors for the soil variables were added to the pca plots
+
+using vegan’s envfit function 
+
+© john wiley sons ltd gcb bioenergy – 
+
+soil microbial communities of biofuel crops 
+
+http www ebi ac uk ena
+http www ebi ac uk ena
+http www ebi ac uk ena
+
+
+total carbon concentrations were compared by analysis of
+
+variance anova using the lm function of the r package stats
+
+and a cutoff value of a 
+lipid data were used to estimate microbial biomass and the
+
+following ratios were calculated fungi bacteria f b arbuscu 
+
+lar mycorrhizal fungi saprophytic fungi amf sf and gram 
+
+positive bacteria gram negative bacteria gm gm� data
+were displayed per crop and mean and errors bars were calcu 
+
+lated for each of the experiments types treatment differences
+
+were tested in the same manner as total carbon when anova
+
+was significant treatment contrasts were made with the
+
+tukeyhsd function of the r package stats 
+
+all s lsu rrna sequences were first processed through
+
+rdp’s pyrosequencing initial processing tool http pyro c 
+
+me msu edu because the amplicons were ligated with the
+
+adapters and bar codes both primer sequences were entered in
+
+the forward primer box filter parameters were mismatches
+
+to the forward primer bp length filter maximum number
+
+of n’s and minimum quality score of because some
+
+sequences were read from each direction it was not possible to
+
+align them the sequences were therefore classified directly
+
+using the ribosomal database project rdp classifier wang
+
+et al with a manually curated lsu gene training set v 
+
+ liu et al also used in penton et al which pro 
+
+vides additional detail sequences were binned by genus if
+
+identified with confidence of or greater or otherwise to the
+
+lowest rank category for which confidence was at least 
+
+resulting in categories 
+
+all s s rrna gene sequences that passed the quality
+
+controls of the gl flx software were uploaded on the pyrotag 
+
+ger pipeline kunin hugenholtz raw sequences were
+
+sorted by bar code trimmed filtered to remove sequences of
+
+low quality threshold and aligned the minimum
+
+sequence length allowed was bp potential chimeras were
+
+identified and excluded from downstream analysis sequences
+
+were clustered at the level of identity and the best hit in
+
+greengenes for prokaryotes and silva for eukaryotes data 
+
+bases was determined for each cluster the output otu 
+tables were used for statistical analysis 
+
+all nifh sequences also were initially processed using the
+
+pyrosequencing pipeline tools on rdp’s web site reads pass 
+
+ing the initial filters were frame shift corrected and translated
+
+into nifh protein sequences using the rdp framebot tool
+
+ wang et al about of the sequences had frame shift
+
+errors detected and corrected by framebot such that more
+
+than of the sequences were retained for analysis the pro 
+
+tein sequences were aligned using the hmmer aligner clus 
+
+tered at identity and the representative sequences for
+
+each cluster classified using the fungene pipeline fish et al 
+
+ to find the nearest match among protein sequences in
+
+a curated reference set wang et al 
+
+good’s coverage good was calculated as a percentage
+
+for each sample from the s s rrna s rrna and nifh
+
+data as times the quantity one minus the number of single 
+
+tons divided by the total number of sequences 
+pca was used to display distances between sites based on
+
+all four data types lipid s s rrna s rrna and nifh 
+
+for these analyses the hellinger transformation legendre 
+
+gallagher was applied to the otu count data using
+
+vegan’s decostand function prior to pca on the variance–covari 
+
+ance matrix using vegan’s rda function multivariate analysis of
+
+variance by permutation pmanova was used to test for signifi 
+
+cant differences in dispersion among groups and for differ 
+
+ences between group centroids anderson using
+
+vegan’s betadisper and adonis functions the factors considered
+
+in these analyses were state location crop and the interaction
+
+between them here ‘state’ is actually a proxy for several cor 
+
+related soil attributes differing between intensive and exten 
+
+sive experiments as explained in the results section 
+
+the sequences contributing most significantly to the ordi 
+
+nations were identified using biodiversity r’s ordiequilibrium 
+
+circle function kindt coe and indicator group
+
+analysis dufrene legendre was used to identify
+
+otus whose occurrences were linked to specific crop types
+
+using labdsv’s indval function roberts and the pack 
+
+age qvalue dabney et al to assign statistical signifi 
+
+cance procrustes analysis cox cox was applied to
+
+determine whether there were significant correlations
+
+between ordinations based on the four types of data using
+
+vegan’s protest function 
+
+results
+
+soil chemical and physical analysis
+
+michigan and wisconsin intensive sites differed mark 
+
+edly in their physical and chemical soil attributes
+
+ fig s tables s and s samples from the two states
+
+were separated along the first pca axis which
+
+explained of the variance and represent a sand 
+
+silt gradient fig s except for ph and cu the mea 
+
+sured soil variables which are all linked to nutrient
+
+concentrations in the soil were positively correlated
+
+with higher percentages of silt of the variables mea 
+
+sured ph had the highest projection on the second
+
+pca axis which explained only of the variance 
+
+a sand silt gradient also separated the extensive sites
+
+by state but fewer of the soil variables were strongly
+
+correlated with this gradient fig s indeed mg ca 
+
+and ph were orthogonal to the gradient while k na s 
+
+and total c were nearly so however none of these soil
+
+variables separated sites by crop 
+
+there were important differences between states and
+
+experiments in total soil carbon for the intensive sites 
+
+total soil carbon was higher in the wisconsin samples
+
+for each of the studied crops anova p fig b 
+for the extensive sites total carbon tended to be higher
+
+in the wisconsin samples for each crop but the differ 
+
+ences were less pronounced and not significant anova 
+
+p 
+
+lipid analysis
+
+in most cases small sample size and high variance
+
+precluded detection of statistically significant among
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+http pyro cme msu edu 
+http pyro cme msu edu 
+
+
+treatment differences in lipids characterizing various
+
+microbial groups for this reason we are limited to
+
+discussing trends in the data the strengths of which
+
+may be judged from the relative error bars in figs – 
+for the intensive sites total lipid biomass per treat 
+
+ment did not differ between states fig a we
+
+observed a trend for higher total microbial biomass
+
+under perennial species than under corn for both states 
+
+for michigan this modest difference was accounted for
+
+by increases of both bacteria and fungi under the peren 
+
+nial grasses with a slightly higher proportion of amf
+
+in mixed grasses and prairie fig a b for wisconsin 
+
+ a 
+
+ b 
+
+fig total lipid biomass a and total carbon b under different biofuel cropping systems at intensive and extensive sites in wis 
+
+consin and michigan bars represent � standard error 
+
+ a 
+
+ b 
+
+ c 
+
+ d 
+
+fig abundance left axis of fungi and bacteria a arbuscular mycorrhizal amf and saprophytic fungi sf b gram positive
+
+ gm and gram negative bacteria gm� c actinomycetes and protozoa d and the f b amf sf and gm gm� ratios right
+axis of microbial communities under corn switchgrass mixed grasses and prairie at intensive sites in michigan and wisconsin bars
+
+represent � standard error 
+
+© john wiley sons ltd gcb bioenergy – 
+
+soil microbial communities of biofuel crops 
+
+
+
+this increased total biomass under the perennials was
+
+accounted for mainly by the fungi and of the fungi 
+
+mainly by the amf especially in switchgrass there
+
+were no differences in actinomycetes or protozoa lipid
+
+markers among treatments for either state fig d 
+
+the extensive sites exhibited much greater differences
+
+in total biomass between the two states fig a micro 
+
+bial biomass per treatment was higher for the extensive
+
+sites in wisconsin than for those in michigan but mark 
+
+edly so only for the prairie sites it also tended to
+
+increase among treatments from corn to switchgrass to
+
+prairie especially in wisconsin wisconsin extensive
+
+sites exhibited higher microbial biomass per treatment
+
+than corresponding intensive sites especially for the
+
+corn and prairie sites 
+
+for the extensive sites in wisconsin the higher bio 
+
+mass under perennial grasses was due to an increase in
+
+the biomass of both fungi and bacteria and more so to
+
+fungi but for those sites in michigan it was due to
+
+fungi only fig a for both states the gram positive 
+
+gram negative gm gm� ratio was lower fig c 
+and the amf sf ratio was greater fig b under the
+
+perennial grasses amf increased from � lg g� 
+
+in wisconsin and � lg g� in michigan under
+corn to � lg g� and � lg g� in the
+prairie actinomycetes and protozoa markers were more
+
+abundant in wisconsin however there were no appar 
+
+ent differences in these two groups among treatments
+
+for either state fig d 
+
+ s rrna gene pyrosequencing
+
+we obtained s rrna gene sequences for
+
+the extensive sites samples retained in the study 
+
+with an average read length of bp samples
+
+mie co and wie co extensive corn sites in mi
+
+and wi respectively were excluded for yielding too
+
+few sequences sequences not identified as fungi by
+
+the rdp classifier with the confidence filter set at 
+
+were removed leaving a total of sequences in
+
+ categories of which were universal singletons 
+
+sequences per sample ranged from to 
+
+good’s coverage was high ranging from to 
+
+with a mean of 
+
+the three most abundant identifiable phyla were
+
+ascomycota of total sequences basidiomycota
+
+ a 
+
+ b 
+
+ c 
+
+ d 
+
+fig abundance left axis of fungi and bacteria a arbuscular mycorrhizal amf and saprophytic fungi sf b gram positive
+
+ gm and gram negative bacteria gm� c actinomycetes and protozoa d and the f b amf sf and gm gm� ratios right
+axis of microbial communities under corn switchgrass and prairie at the extensive sites in michigan and wisconsin bars represent
+
+� standard error 
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+
+
+ and chytridiomycota fig s fungi
+
+unclassified at the phylum level made up of the
+
+sequences basidiomycota were most abundant at the
+
+michigan prairie and chytridiomycota were most
+
+abundant at the wisconsin prairie 
+
+by indval analysis the genera ascobolus podospora 
+
+coprinellus ascodesmis and byssonectria characterized
+
+the corn sites with ascobolus being the most abun 
+
+dant table s of the many genera characteristic of
+
+the prairie unclassified helotiales clavaria and
+
+tricladium were the most abundant beauveria was
+
+characteristic of the switchgrass sites but weakly so
+
+because it was not abundant and was also found at
+
+prairie sites 
+
+as arbuscular mycorrhizal fungi amf were identi 
+
+fied by lipids analysis as an abundant group we sought
+
+to identify fungal sequences belonging to this group in
+
+the s rrna gene pyrosequencing data we found that
+
+only of the sequences were classified to glom 
+
+eromycota of these paraglomus sequences were by far
+
+the most abundant in the dataset most of the amf
+
+sequences were recovered from prairie soils which also
+
+presented the highest detected richness with a combi 
+
+nation of at least four genera per site in contrast just
+
+one or two genera could be found in soils cultivated
+
+with switchgrass with a predominance of paraglomus 
+
+the same applies to soils cultivated with corn in wis 
+
+consin no amf sequences were recovered from soils
+
+cultivated with corn in michigan 
+
+ s s rrna gene pyrosequencing
+
+we obtained s s rrna gene sequences
+
+with an average of � sequences per sample
+and a minimum read length of bp these samples
+
+were aligned and clustered into clusters otus 
+
+at a distance of of these clusters were global
+
+singletons with good’s estimated sample coverage of 
+
+to and averaging 
+
+prokaryote sequences accounted for of the
+
+recovered sequences and eukaryote sequences
+
+accounted for fig s unassigned sequences
+
+accounted for prokaryote sequences were
+
+mostly bacterial with only belonging to archaea 
+
+the most abundant bacterial phyla in the libraries were
+
+proteobacteria actinobacteria and acidobacteria at both
+
+intensive and extensive sites fungi metazoa and cer 
+
+cozoa were the more abundant eukaryotic phyla at both
+
+intensive and extensive sites 
+
+no significant differences among locations or treat 
+
+ments were evident at the phylum level although such
+
+differences were observed for otus interpretation was
+
+problematic due to the large number of clusters most
+
+containing few sequences and due to the poor identifi 
+
+cation of representative sequences with many not being
+
+identified past the phylum level 
+
+nifh gene pyrosequencing
+
+we obtained nifh sequences for the samples
+
+retained in the study with a mean of sequences
+
+per sample and a standard deviation of the aver 
+
+age read length was bp after frame shift correction
+
+and translation into amino acids they were clustered at
+
+a distance of yielding otus of these 
+
+were global singletons with good’s estimated sample
+
+coverage varying among samples from to with
+
+a mean of framebot included in the fungene
+
+pipeline fish et al was used to match represen 
+
+tative sequences from each cluster to of unique
+
+nifh reference sequences these matches fell into
+
+ genera 
+
+more than of the recovered nifh sequences were
+
+assigned to proteobacteria fig s within this phylum 
+
+closest matches to the alphaproteobacteria and betapro 
+
+teobacteria were generally more abundant and gammapro 
+
+teobacteria least abundant variances were large but
+
+there was a tendency for alphaproteobacteria affiliates to
+
+be higher in the extensive sites and betaproteobacteria to
+
+be higher in the intensive sites the latter especially for
+
+switchgrass matches to the deltaproteobacteria were most
+
+abundant in the michigan extensive switchgrass sites 
+
+dominating all three replicates unidentified environ 
+
+mental sequences and sequences known in actinobacteria 
+
+bacteroidetes chlorobi cyanobacteria euryarchaeota firmi 
+
+cutes fusobacteria nitrospirae spirochaetes synergistetes 
+
+and verrucomicrobia were also detected 
+
+for the nifh data sequences contributing the most
+
+significantly to ordination of the intensive sites were
+
+closest matches to azospirillum bradyrhizobium rubrivi 
+
+vax leptothrix dechloromonas and geobacter fig s of
+
+these geobacter like sequences were present in all sam 
+
+ples but they were especially abundant in michigan 
+
+representing more than of the sequences in soils
+
+under prairie mixed grasses and switchgrass bradyrhi 
+
+zobium and rubrivivax related sequences were more
+
+characteristic of wisconsin rubrivivax like sequences
+
+accounted for more than of the sequences from
+
+soils under corn prairie and switchgrass in that state 
+
+azospirillum dechloromonas and leptothrix like
+
+sequences did not distinguish samples by state being
+
+more related to the ph gradient 
+
+genera contributing most significantly to the ordina 
+
+tion of the extensive sites were geobacter and hyphomi 
+
+crobium related fig s geobacter like sequences
+
+represented of the sequences from michigan switch 
+
+grass samples while hyphomicrobium like sequences
+
+were most abundant in prairie soil from both states 
+
+© john wiley sons ltd gcb bioenergy – 
+
+soil microbial communities of biofuel crops 
+
+
+
+microbial community structure
+
+microbial data lipid s s rrna and nifh data 
+
+from the intensive sites were analyzed by pca and pma 
+
+nova table and fig and for differences in disper 
+
+sion among factors pmanova indicated that the s s
+
+rrna and nifh data separated the samples by location
+
+only and centroids are drawn for location only in
+
+fig b c the only significant difference in dispersion
+
+ a was for the nifh data by location fig c 
+indicating that the wisconsin samples were also more
+
+variable for the lipid data however the interaction term
+
+was significant indicating a crop effect differing by state 
+
+centroids drawn for all treatment combinations fig a 
+
+depict no separation of michigan samples by crop but
+
+do reveal a separation of wisconsin samples by crop in
+
+particular corn and to a lesser extent mixed grasses are
+
+separated from prairie and switchgrass 
+
+in contrast to what was observed for the intensive
+
+sites all four data types lipid s rrna s s
+
+rrna and nifh separated communities by crop in the
+
+extensive sites table and fig and there were no
+
+significant differences in dispersion a the s
+rrna gene data separated prairie and corn sites from
+
+each other but samples from the switchgrass sites over 
+
+lapped both fig a the lipid data separated corn from
+
+switchgrass and prairie fig b the s s rrna
+
+gene data separated all three crops fig d for the
+
+nifh data there was some overlap between the corn
+
+and wisconsin switchgrass samples but otherwise crops
+
+were separated fig e additionally the lipid and
+
+nifh data separated the samples by location table 
+
+and fig c f 
+
+procrustes analysis
+
+we performed procrustes analyses to determine
+
+whether there were significant correlations between
+
+ordinations based on the four types of data lipid s
+
+rrna s s rrna and nifh for the intensive
+
+sites ordination by the lipid data was correlated with
+
+those by s s rrna and by nifh but ordinations
+
+by s s rrna and nifh differed significantly the
+
+difference was primarily due to two michigan corn
+
+samples having a greater distance from their centroid
+
+by s s rrna gene data than by nifh data fig b 
+
+c but this did not influence interpretation of results 
+
+for the extensive sites ordinations were correlated with
+
+the exceptions of s s rrna vs nifh data and s 
+
+ s rrna vs s rrna 
+
+discussion
+
+the three methodological approaches we used to char 
+
+acterize microbial communities provided complimen 
+
+tary insights lipid analysis provided general
+
+taxonomic information coupled to biomass estimates
+
+that gave insight into ecosystem function kirk et al 
+
+ moreover the lipid data proved more sensitive to
+
+cropping system treatments showing the importance of
+
+management on ecosystem processes pyrosequencing
+
+the rrna gene provided in depth taxonomic informa 
+
+tion roesch et al and gene targeted metage 
+
+nomics provided information on a subset of the
+
+community responsible for a certain function iwai
+
+et al in our case we targeted the nifh gene 
+
+which codes for dinitrogenase reductase a component
+
+of nitrogenase the enzyme responsible for n fixation 
+
+n fixing bacteria were chosen as a model to test the
+
+effect of cultivation on an important functional group as
+
+opposed to information provided by taxonomic mark 
+
+ers indeed there is evidence that perennial grasses
+
+with potential for biofuel production such as miscant 
+
+hus may be associated with n fixing bacteria tjep 
+
+kema burris davis et al mao et al 
+
+keymer kent which points to n fixing
+
+microorganisms as an important target group addition 
+
+ally we expected nifh to be less conserved than riboso 
+
+mal genes thus giving us a contrast to the highly
+
+conserved rrna gene 
+
+all three approaches revealed similar differences
+
+among cropping systems in community structure this
+
+agreement between approaches indicates that similar
+
+factors are shaping the structure of bacteria fungi and
+
+n fixing communities under our studied conditions
+
+and that disparate taxa are being affected similarly by
+
+cultivation soil type and land use differences in com 
+
+munity structure could be linked to both treatment and
+
+environmental factors but the relative importance of
+
+the linkages differed between intensive and extensive
+
+sites 
+
+our initial hypothesis that soil microbial communities
+
+under switchgrass and mixed grasses would be more
+
+table results of multivariate analysis of variance by per 
+
+mutation function adonis in vegan package of sequence data
+
+for the intensive sites
+
+source of
+
+variation
+
+lipids rrna nifh
+
+df† f statistics df f statistics df f statistics
+
+location 
+
+crop ns ns
+
+interaction ns ns
+
+residuals 
+
+total 
+
+significance codes ns non significant 
+
+†degrees of freedom 
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+
+
+like those under prairies was confirmed in the older 
+
+extensive sites but not in the young intensive sites in
+
+the second case soil type was a stronger predictor of
+
+community structure and composition here soil type
+
+is confounded with location state meaning that we
+
+cannot separate the effects of soil type from the effects
+
+of geographical distance we assume however that soil
+
+type is the key factor because of the sharp difference in
+
+soil texture and fertility between our intensive sites in
+
+the two states fig s the michigan soils we studied
+
+are sandier and have lower fertility than the wisconsin
+
+soils which are loess derived our results agree with
+
+those of mao et al who also compared microbial
+
+soil communities under biofuel crops by pyrosequenc 
+
+ing s rrna and nifh genes and found that site to site
+
+variation surpassed variation stemming from plant
+
+type 
+
+in contrast communities at the extensive sites tended
+
+to group more strongly by crop indicating that plant
+
+species had a stronger influence on microbial communi 
+
+ties as the plant communities effects on soil microbes
+
+accumulated over time our results were similar to
+
+those of allison et al and mao et al in that
+
+communities under corn were separated from those
+
+under perennial grasses by lipids and s rrna gene
+
+analysis respectively mao et al however were
+
+not able to detect differences in n fixing communities
+
+between crops while we did for the extensive sites 
+
+the differential response to crops observed between
+
+intensive and extensive experiments is likely related to
+
+the length of time the crops had been grown at the sites 
+
+previous experiments by murphy foster and
+
+buckley schmidt demonstrated that despite
+
+changes in plant cover and management soil microbial
+
+communities remained similar even after and years 
+
+respectively in another experiment jangid et al 
+
+found an even longer historical effects lasting through
+
+ years of succession in a previously cultivated field 
+
+at the time of our sampling crops at the intensive sites
+
+had been cultivated for only years which likely was
+
+ a b c 
+
+fig principal components analysis of soil microbial communities from michigan and wisconsin intensive sites as evaluated by
+
+sequencing of ssu rrna genes a lipid analysis b and nifh sequences c ellipses are confidence intervals about centroid
+
+means and were drawn to indicate the main factors related to community structure 
+
+table results of multivariate analysis of variance by permutation function adonis in vegan package of sequence data for the
+
+extensive sites
+
+source of variation
+
+ s rrna lipids s rrna nifh
+
+df† f statistics df f statistics df f statistics df f statistics
+
+location ns ns 
+
+crop 
+
+interaction ns ns ns ns
+
+residuals 
+
+total 
+
+significance codes ns non significant 
+
+†degrees of freedom 
+
+© john wiley sons ltd gcb bioenergy – 
+
+soil microbial communities of biofuel crops 
+
+
+
+not enough time to imprint significant differences on the
+
+structure of the communities in contrast the extensive
+
+sites were much older years allowing time for a
+more pronounced differentiation of community struc 
+
+ture according to crop type our findings reinforce the
+
+previous findings of these authors but in the context of
+
+a larger geographical scale and including two different
+
+cultivation settings and a diverse range of soil types 
+
+especially for the extensive sites 
+
+the one exception to this generalization was that
+
+the lipid data did reveal a crop effect on microbial
+
+community structure for the intensive wisconsin sites 
+
+this may have to do with the differences in relative
+
+proportion of amf biomass between treatments for
+
+the two states bacterial and sf biomasses were simi 
+
+lar among treatments for intensive sites in both
+
+states for the richer wisconsin soils however there
+
+was a greater relative difference in amf biomass
+
+between corn and the other crops especially switch 
+
+grass fig b which plots farthest from corn in
+
+fig a herzberger et al also reported total
+
+biomass and especially amf biomass was higher
+
+under restored prairie than corn two years after
+
+establishment at wisconsin intensive sites commu 
+
+nity differences due to amf would not be revealed
+
+by the rrna or nifh data 
+
+as previously observed liang et al when
+
+compared to corn perennial grasses favored the accu 
+
+mulation of microbial biomass as well as an increase in
+
+f b and amf sf ratios in both states indicating that
+
+these grasses favor the accumulation of biomass and
+
+fungi especially amf this was especially true among
+
+the extensive sites in wisconsin which had more time
+
+to become established than the intensive sites and had
+
+higher c fig b and clay table s contents than the
+
+michigan sites soils with higher c and clay contents
+
+are often associated with higher microbial biomass
+
+because there is more c available for microbial growth
+
+ bach et al on the other hand the higher abun 
+
+dance of gram positive bacteria and actinomycetes
+
+under corn indicates a more stressful environment 
+
+because these organisms are known for thriving in
+
+ a b c 
+
+ d e f 
+
+fig principal components analysis of soil microbial communities from michigan and wisconsin extensive sites as evaluated by
+
+ s rrna gene sequences a lipid analysis b and c ssu rrna gene sequences d and nifh protein sequences e and f ellipses
+
+are confidence intervals about centroid means and were drawn to indicate the main factors related to community structure 
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+
+
+stressful environments and for producing spores yao
+
+et al fierer et al 
+
+the perennial character of switchgrass and prairie
+
+assemblages likely contributes to the accumulation of
+
+fungal biomass especially amf biomass while hyphae
+
+are disrupted by tillage at corn sites tillage breaks the
+
+hyphae of amf and increases the decomposition of
+
+organic matter which might decrease the abundance of
+
+amf and favor saprophytic fungi mycorrhizal fungi
+
+are known to enhance p absorption and utilization so
+
+an increase in amf implies an improvement in the
+
+absorption and utilization efficiency of this nutrient 
+
+additionally recently reported results showed that
+
+mycorrhizae increased the amount of total n in shoots
+
+of switchgrass schroeder moreno et al indicat 
+
+ing that mycorrhizae can also contribute to the
+
+increased utilization of this nutrient the higher fungal
+
+biomass under perennial grasses implies greater poten 
+
+tial for c accumulation under these crops blanco can 
+
+qui because it is assumed that root production is
+
+higher zan et al soil aggregates form more
+
+quickly and to a higher degree jastrow jarchow
+
+ liebman and that fungi produce c compounds
+
+more difficult to degrade allison et al tilman
+
+et al also noted that c sequestration was higher
+
+under native grassland perennials than under corn and
+
+bailey et al observed larger quantities of c and
+
+larger activity ratios in the soil of a restored prairie
+
+compared to a neighboring corn farmland 
+
+fungal species specific to each crop were all sapro 
+
+phytic fungi only a few sequences belonging to amf
+
+were identified but they did reveal some interesting
+
+patterns among these there was a greater abundance
+
+and richness number of otus of amf under prairies
+
+for both states including groups known to have distinct
+
+functional traits such as paraglomerales and diversis 
+
+porales van der heijden scheublin the higher
+
+number of otus observed under prairie may be a con 
+
+sequence of its higher plant diversity because a greater
+
+diversity of plant hosts creates a greater diversity of
+
+niches for amf in addition it is possible that the lower
+
+amf richness under corn stemmed from higher soil dis 
+
+turbance in the cultivation of this crop because there is
+
+evidence that soil disturbance was responsible for
+
+reducing the phylotype richness of amf communities
+
+under seminatural grasslands schnoor et al 
+
+amf was linked previously to higher plant productivity
+
+ maherali klironomos so this greater amf
+
+richness under prairies may positively influence the
+
+productivity of the prairie vegetation it is worth noting
+
+that most of the amf sequences found at our studied
+
+sites and especially those in the prairie soils belonged
+
+to the genus paraglomus previous researchers found
+
+paraglomerales are difficult to detect in roots and soils
+
+and that commonly used primers for amf fail to
+
+amplify paraglomerales sequences lumini et al 
+
+gosling et al thus our data indicate that mid 
+
+western prairies may be good places to study the diver 
+
+sity and ecology of this lesser known amf genus 
+
+there was an inconsistency in the amf prevalence
+
+indicated by the lipid method where amf were of
+
+the fungal biomass and the pyrosequencing methods
+
+where only of the fungal s rrna sequences
+
+were assigned to glomeromycota a similarly low frac 
+
+tion of amf was observed in the s rrna data both
+
+ssu and lsu primers used were perfect matches to
+
+most known strains so mismatch is not a likely expla 
+
+nation although other biases have been observed in
+
+competitive rrna gene amplification one possible
+
+explanation is that the biomass hyphae measured by
+
+lipid may not be filled with protoplasm or with nuclei 
+
+cytoplasmic streaming is known to occur in soil fungi 
+
+often resulting in evacuated hyphae because their proto 
+
+plasm is concentrated at the growing tips klein 
+
+paschke the reason for this large discrepancy is
+
+important to resolve for proper accounting of this
+
+important group of soil fungi 
+
+while we could specifically link ssu rrna gene
+
+sequences to crops and soils and given that these
+
+sequences provide better taxonomical resolution the
+
+detection of large numbers of uncultured organisms
+
+and taxa with no clearly defined roles limited physio 
+
+logical and functional interpretation furthermore the
+
+large number of sequences and otus made it difficult
+
+to detect relevant indicator organisms based on rrna
+
+pyrosequencing data this is a problem common to
+
+many ssu rrna sequencing studies especially for
+
+environmental samples on the other hand sequence
+
+assignment and the identification of indicator organisms
+
+were more informative with the nifh sequences 
+
+although some horizontal gene transfer may cloud pre 
+
+cise taxonomic resolution 
+
+contrary to what we expected the faster evolving
+
+protein coding gene nifh provided no better resolution
+
+than the other methods after conversion of nucleotide
+
+sequences to amino acid sequences which was neces 
+
+sary to correct for sequencing errors as well as to reflect
+
+function the low diversity we found for nifh may be
+
+the result of the primers we used not amplifying all
+
+nifh variants the primers used are reported as being
+
+selective for proteobacteria sequences diallo et al 
+
+however it is worth noting that these authors used a
+
+previous pcr step with different primers which might
+
+have introduced extra bias into their pcr in a more
+
+recent study gaby buckley reported that no
+
+nifh primers were comprehensive for the known nifh
+
+genes and that the primers developed by poly et al 
+
+ do exclude certain groups a trade off exists
+
+© john wiley sons ltd gcb bioenergy – 
+
+soil microbial communities of biofuel crops 
+
+
+
+between finding primers and conditions that give the
+
+best coverage for groups important in the habitat and
+
+reliable amplification we decided the poly primers
+
+were the current best choice because amplification with
+
+the broader coverage zehr mcreynolds pri 
+
+mers was troublesome probably because of their high
+
+degeneracy 
+
+we conclude that location a proxy primarily for soil
+
+type but also including site history landscape and
+
+climate was the major factor determining microbial
+
+communities in our year old intensive sites and that
+
+these study sites were not under cultivation long
+
+enough for the crop to impose a strong signature on the
+
+microbial communities the only exception to this was
+
+that the lipid data revealed a crop effect in the richer
+
+wisconsin soil in contrast when the same crop had
+
+been grown on a site for years or longer a crop effect
+
+was observed with communities under corn clearly dif 
+
+ferentiated from those under perennial grasses both
+
+presence of perennial plants and higher plant diversity
+
+likely favored the accumulation of microbial biomass
+
+and fungi especially amf under switchgrass mixed
+
+grasses and prairie leading to a more stable environ 
+
+ment and highlighting that these alternatives to corn for
+
+biofuels may improve soil functional stability and
+
+sustainability 
+
+acknowledgements
+
+this work was funded by the doe great lakes bioenergy
+research center doe ber office of science de fc 
+ er we thank gregg sanford and joe simmons for
+managing the intensive cropping systems experiments in wis 
+consin and michigan respectively thanks to doug landis and
+ben werling for help with sampling and providing information
+on the extensive sites in michigan tim meehan for help with
+sampling on the extensive sites in wisconsin susanna tringe 
+stephanie malfatti tijana galvina del rio at the joint genome
+institute for ssu rrna pyrotag sequencing james cole from
+the ribosomal database project for support and comments
+with sequence data analysis harry read for lipid analysis and
+david duncan for soil physicochemical analysis 
+
+references
+
+adler pr sanderson ma weimer pj vogel kp plant species composition
+
+and biofuel yields of conservation grasslands ecological applications –
+
+ 
+
+allison vj miller rm jastrow jd matamala r zak dr changes in soil
+
+microbial community structure in a tallgrass prairie chronosequence soil science
+
+society of america journal – 
+
+anderson mj a new method for non parametric multivariate analysis of vari 
+
+ance austral ecology – 
+
+anderson mj distance based tests for homogeneity of multivariate disper 
+
+sions biometrics – 
+
+bach em baer sg meyer ck six j soil texture affects soil microbial and
+
+structural recovery during grassland restoration soil biology and biochemistry 
+
+ – 
+
+bailey vl smith jl bolton h fungal to bacterial ratios in soils investigated
+
+for enhanced c sequestration soil biology and biochemistry – 
+
+blanco canqui h energy crops and their implications on soil and environ 
+
+ment agronomy journal – 
+
+buckley dh schmidt tm diversity and dynamics of microbial communities
+
+in soils from agro ecosystems environmental microbiology – 
+
+cox tf cox maa monographs on statistics and applied probability multidimen 
+
+sional scaling chapman hall crc boca raton 
+
+dabney a storey jd warnes r qvalue q value estimation for false discovery rate
+
+control available at http www bioconductor org packages release bioc 
+
+html qvalue html accessed october 
+
+davis sc parton wj dohleman fg smith cm del grosso s kent ad delucia eh
+
+ comparative biogeochemical cycles of bioenergy crops reveal nitrogen fix 
+
+ation and low greenhouse gas emissions in a miscanthus x giganteus agro ecosys 
+
+tem ecosystems – 
+
+diallo md reinhold hurek b hurek t evaluation of pcr primers for uni 
+
+versal nifh gene targeting and for assessment of transcribed nifh pools in roots of
+
+oryza longistaminata with and without low nitrogen input fems microbiology
+
+ecology – 
+
+dufrene m legendre p species assemblages and indicator species the need
+
+for a flexible asymmetrical approach ecological monographs – 
+
+engelbrektson a kunin v wrighton kc zvenigorodsky n chen f ochman h 
+
+hugenholtz p experimental factors affecting pcr based estimates of
+
+microbial species richness and evenness isme journal – 
+
+fargione j hill j tilman d polasky s hawthorne p land clearing and the
+
+biofuel carbon debt science – 
+
+fierer n schimel jp holden pa variations in microbial community composi 
+
+tion through two soil depth profiles soil biology and biochemistry – 
+
+fierer n ladau j clemente jc et al reconstructing the microbial diversity
+
+and function of pre agricultural tall grass prairie soils in the united states 
+
+science – 
+
+fish ja chai b wang q sun y brown ct tiedje jm cole jr fungene the
+
+functional gene pipeline and repository frontiers in microbiology 
+
+gaby jc buckley dh a comprehensive evaluation of pcr primers to amplify
+
+the nifh gene of nitrogenase plos one e 
+
+gao j thelen kd hao xm life cycle analysis of corn harvest strategies for
+
+bioethanol production agronomy journal – 
+
+good ij the population frequencies of species and the estimation of popula 
+
+tion parameters biometrika – 
+
+gosling p proctor m jones j bending gd distribution and diversity of para 
+
+glomus spp in tilled agricultural soils mycorrhiza – 
+
+groom mj gray em townsend pa biofuels and biodiversity principles for
+
+creating better policies for biofuel production conservation biology – 
+
+van der heijden mga scheublin tr functional traits in mycorrhizal ecol 
+
+ogy their use for predicting the impact of arbuscular mycorrhizal fungal com 
+
+munities on plant growth and ecosystem functioning new phytologist 
+
+ – 
+
+herzberger aj duncan ds jackson rd bouncing back plant associated soil
+
+microbes respond rapidly to prairie establishment plos one e 
+
+iea biofuel production ete energy technology essentials available at 
+
+http www iea org techno essentials pdf accessed march 
+
+iwai s chai bl sul wj cole jr hashsham sa tiedje jm gene targeted 
+
+metagenomics reveals extensive diversity of aromatic dioxygenase genes in the
+
+environment isme journal – 
+
+iwai s chai b jesus e penton cr lee tk cole jr tiedje jm gene targeted
+
+metagenomics gt metagenomics to explore the extensive diversity of genes of
+
+interest in microbial communities in handbook of molecular microbial ecololgy i 
+
+metagenomics and complementary approaches ed de bruijn fj pp – wi 
+
+ley blackwell hoboken nj 
+
+jach smith lc jackson rd switchgrass and prairie response to n fertilizer
+
+and harvest time on productive soils of upper midwest agriculture ecosystems
+
+and environment – 
+
+jangid k williams ma franzluebbers aj schmidt tm coleman dc whitman wb
+
+ land use history has a stronger impact on soil microbial community com 
+
+position than aboveground vegetation and soil properties soil biology and bio 
+
+chemistry – 
+
+jarchow me liebman m tradeoffs in biomass and nutrient allocation in prai 
+
+ries and corn managed for bioenergy production crop science – 
+
+jastrow jd changes in soil aggregation associated with tallgrass prairie
+
+restoration american journal of botany – 
+
+jesus ed susilawati e smith sl et al bacterial communities in the rhizo 
+
+sphere of biofuel crops grown on marginal lands as evaluated by s rrna gene
+
+pyrosequences bioenergy research – 
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+http www bioconductor org packages release bioc html qvalue html
+http www bioconductor org packages release bioc html qvalue html
+http www iea org techno essentials pdf
+
+
+keymer dp kent ad contribution of nitrogen fixation to first year miscant 
+
+hus x giganteus global change biology bioenergy – 
+
+kim s dale be ong rg an alternative approach to indirect land use change 
+
+allocating greenhouse gas effects among different uses of land biomass and bioen 
+
+ergy – 
+
+kindt r coe r tree diversity analysis a manual and software for common sta 
+
+tistical methods for ecological and biodiversity studies world agroforestry centre
+
+ icraf nairobi 
+
+kirk jl beaudette la hart m moutoglis p khironomos jn lee h trevors jt
+
+ methods of studying soil microbial diversity journal of microbiological
+
+methods – 
+
+klein da paschke mw filamentous fungi the indeterminate lifestyle and
+
+microbial ecology microbial ecology – 
+
+kunin v hugenholtz p pyrotagger a fast accurate pipeline for analysis of
+
+rrna amplicon pyrosequence data the open journal article available at 
+
+http www theopenjournal org toj articles accessed january 
+
+legendre p gallagher ed ecologically meaningful transformations for ordi 
+
+nation of species data oecologia – 
+
+liang c jesus ed duncan ds jackson rd tiedje jm balser tc soil micro 
+
+bial communities under model biofuel cropping systems in southern wisconsin 
+
+usa impact of crop species and soil properties applied soil ecology – 
+
+liu kl porras alfaro a kuske cr eichorst sa xie g accurate rapid taxo 
+
+nomic classification of fungal large subunit rrna genes applied and environmen 
+
+tal microbiology – 
+
+lumini e orgiazzi a borriello r bonfante p bianciotto v disclosing arbus 
+
+cular mycorrhizal fungal biodiversity in soil through a land use gradient using a
+
+pyrosequencing approach environmental microbiology – 
+
+maherali h klironomos jn influence of phylogeny on fungal community
+
+assembly and ecosystem functioning science – 
+
+mao yj yannarell ac mackie ri changes in n transforming archaea and
+
+bacteria in soil during the establishment of bioenergy crops plos one e 
+
+mao yj yannarell ac davis sc mackie ri impact of different bioenergy
+
+crops on n cycling bacterial and archaeal communities in soil environmental
+
+microbiology – 
+
+murphy ca foster bl soil properties and spatial processes influence bacte 
+
+rial metacommunities within a grassland restoration experiment restoration ecol 
+
+ogy – 
+
+oates lg duncan ds robertson gp gelfand i miller n jackson rd 
+
+nitrous oxide emissions during establishment of eight alternative cellulosic
+
+bioenergy crops in the north central united states global change biology
+
+bioenergy doi gcbb 
+
+oksanen j blanchet fg kindt r et al vegan community ecology package 
+
+available at http cran r project org package vegan accessed october
+
+ 
+
+penton cr st louis d cole jr et al fungal diversity in permafrost and tall 
+
+grass prairie soils under experimental warming conditions applied and environ 
+
+mental microbiology – 
+
+poly f monrozier lj bally r improvement in the rflp procedure for study 
+
+ing the diversity of nifh genes in communities of nitrogen fixers in soil research
+
+in microbiology – 
+
+r core team r a language and environment for statistical computing vienna 
+
+austria r foundation for statistical computing available at http www r 
+
+project org accessed october 
+
+roberts dw labdsv ordination and multivariate analysis for ecology avail 
+
+able at http cran r project org package labdsv accessed october
+
+ 
+
+roesch lf fulthorpe rr riva a et al pyrosequencing enumerates and con 
+
+trasts soil microbial diversity isme journal – 
+
+schnoor tk lekberg y rosendahl s olsson pa mechanical soil disturbance
+
+as a determinant of arbuscular mycorrhizal fungal communities in semi natural
+
+grassland mycorrhiza – 
+
+schroeder moreno ms greaver tl wang sx hu sj rufty tw mycorrhizal 
+
+mediated nitrogen acquisition in switchgrass under elevated temperatures and n
+
+enrichment global change biology bioenergy – 
+
+swift mj izac amn van noordwijk m biodiversity and ecosystem services
+
+in agricultural landscapes are we asking the right questions agriculture ecosys 
+
+tems and environment – 
+
+tilman d hill j lehman c carbon negative biofuels from low input high di 
+
+versity grassland biomass science – 
+
+tjepkema jd burris rh nitrogenase activity associated with some wisconsin
+
+prairie grasses plant and soil – 
+
+us doe u s billion ton update biomass supply for a bioenergy and bioproducts
+
+industry oak ridge tn oak ridge national laboratory available at http 
+
+www eere energy gov bioenergy pdfs billion ton update pdf accessed jan 
+
+uary 
+
+wang q garrity gm tiedje jm cole jr naive bayesian classifier for rapid
+
+assignment of rrna sequences into the new bacterial taxonomy applied and
+
+environmental microbiology – 
+
+wang q quensen jf fish ja lee tk sun yn tiedje jm cole jr 
+
+ecological patterns of nifh genes in four terrestrial climatic zones explored
+
+with targeted metagenomics using framebot a new informatics tool mbio 
+
+e – 
+
+webster cr flaspohler dj jackson rd meehan td gratton c diversity 
+
+productivity and landscape level effects in north american grasslands managed
+
+for biomass production biofuels – 
+
+werling bp dickson tl issacs r et al perennial grasslands enhance
+
+biodiversity and multiple ecosystem services in bioenergy landscapes proceed 
+
+ings of the national academy of sciences of the united states of america 
+
+ – 
+
+wright l turhollow a switchgrass selection as a ‘model’ bioenergy crop a
+
+history of the process biomass and bioenergy – 
+
+yao h he z wilson mj campbell cd microbial biomass and community
+
+structure in a sequence of soils with increasing fertility and changing land use 
+
+microbial ecology – 
+
+zan cs fyles jw girouard p samson ra carbon sequestration in perennial
+
+bioenergy annual corn and uncultivated systems in southern quebec agriculture
+
+ecosystems and environment – 
+
+zehr jp mcreynolds la use of degenerate oligonucleotides for amplification
+
+of the nifh gene from the marine cyanobacterium trichodesmium thiebautii ap 
+
+plied and environmental microbiology – 
+
+© john wiley sons ltd gcb bioenergy – 
+
+soil microbial communities of biofuel crops 
+
+http www theopenjournal org toj articles 
+http dx doi org gcbb 
+http cran r project org package vegan
+http www r project org 
+http www r project org 
+http cran r project org package labdsv
+http www eere energy gov bioenergy pdfs billion ton update pdf
+http www eere energy gov bioenergy pdfs billion ton update pdf
+
+
+supporting information
+
+additional supporting information may be found in the online version of this article 
+
+figure s locations of the sampling sites intensive sites were located at the arlington agricultural research station aars in
+wisconsin and at the kellogg biological station kbs in michigan triangles other symbols show locations of extensive sites 
+the aars symbol masks the symbol for one corn extensive site wie co and one switchgrass extensive site wie sw 
+figure s pca biplots for the intensive sites based on their soil attributes scaling depicts distances between sites scaling 
+depicts higher correlations between variables as smaller angles between vectors 
+figure s pca biplots for the extensive sites based on their soil attributes scaling depicts distances between sites scaling 
+depicts higher correlations between variables as smaller angles between vectors environmental data were not available for sample
+wie sw 
+figure s relative abundances of fungal phyla at extensive sites determined from s rrna gene sequences others includes
+blastocladiomycota glomeromycota and neocallimastigomycota each of the total sequences in any sample mie michigan
+extensive sites wie wisconsin extensive sites co corn pr prairie sw switchgrass bars represent � standard error 
+figure s relative abundances of prokaryotic and eukaryotic phyla determined from ssu rrna gene sequences mii michigan
+intensive sites mie michigan extensive sites wii wisconsin intensive sites wie wisconsin extensive sites co corn mp 
+mixed grasses pr prairie sw switchgrass bars represent � standard error 
+figure s percentages of total nifh gene sequences binned by taxonomic class among sample categories others includes
+sequences from actinobacteria bacteroidetes chlorobi cyanobacteria euryarchaeota firmicutes fusobacteria nitrospirae spirochaetes 
+synergistetes and verrucomicrobia mii michigan intensive sites mie michigan extensive sites wii wisconsin intensive sites 
+wie wisconsin extensive sites co corn mp mixed grasses pr prairie sw switchgrass bars represent � standard error 
+figure s pca for intensive site nifh data aggregated by genera indval results indicated geobacter was significantly associated
+with michigan sites and bradyrhizobium and rubrivivax were significantly associated with wisconsin sites 
+figure s pca for extensive site nifh data aggregated by genera genera contributing the most to the ordination were geobacter 
+most abundant in the michigan switchgrass samples and hyphomicrobium characteristic of prairie sites in both states 
+table s carbon nitrogen ph and texture of soils from michigan mi and wisconsin wi intensive and extensive sites crops
+are corn co mixed grasses mp prairie pr and switchgrass sw 
+table s chemical attributes of soils from michigan mi and wisconsin wi intensive and extensive sites crops are corn co 
+mixed grasses mp prairie pr and switchgrass sw 
+table s indval results based on s rrna sequences for genera distinguishing extensive sites by crop indval analysis was lim 
+ited to clusters with at least sequences percentages were calculated based on all otus initially present q cutoff was 
+
+© john wiley sons ltd gcb bioenergy – 
+
+ e c jesus et al 
+
+
+

@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+metagenome analysis of the root endophytic microbial community of indian rice o sativa l 
+
+
+genomics data – 
+
+contents lists available at sciencedirect
+
+genomics data
+
+j ourna l homepage www e lsev ie r com locate gdata
+lab resource
+metagenome analysis of the root endophytic microbial community of
+indian rice o sativa l 
+subhadipa sengupta a ⁎ sayak ganguli b pankaj k singh c 
+a department of botany bidhannagar college eb sector salt lake kolkata india
+b theoretical and computational biology division aiist palta india
+c computational biology division the biome kolkata india
+⁎ corresponding author 
+e mail address bansubha gmail com s sengupta 
+
+ current workplace division of plant biology bose ins
+
+name of resource metagenome of rice
+community
+
+institution abidhannagar colle
+baiist palta 
+cthe biome kolkata
+
+person who created resource subhadipa sengupt
+pankaj k singhc
+
+contact person and email bansubha gmail co
+date archived stock date 
+type of resource raw sequence read
+
+metagenome
+link to directly related literature
+that employed validated this
+resource
+
+https www ncbi n
+https www ncbi n
+
+information in public databases https www ncbi n
+bioproject sra all 
+
+http dx doi org j gdata 
+ © the authors published by elsevier inc
+a b s t r a c t
+a r t i c l e i n f o
+article history 
+received february 
+accepted february 
+available online february 
+this study reports the root endophyticmicrobial community profile in rice oryza sativa l the largest food crop
+of asia using s rrna gene amplicon sequencing metagenome of os and os consisted of se 
+quences with mbp size and average g c content data of this study are available at ncbi bioproject
+ prjna the taxonomic analysis of otu s showed that the sequences belonged to four major phyla
+revealing dominance of proteobacteria firmicutes cyanobacteria and actinobacteria results reveal the domi 
+nance of bacillus as major endophytic genera in rice roots probably playing a key role in nitrogen fixation 
+titute 
+
+root e
+
+ge
+ 
+– 
+
+aa say
+
+m
+
+s of ric
+
+lm nih
+lm nih
+
+lm nih
+from u
+
+ this i
+© the authors published by elsevier inc this is an open access article under the cc by nc nd license
+ http creativecommons org licenses by nc nd 
+keywords 
+endophytic microbial community
+food crop
+metagenome
+otu
+rice
+resource table
+ndophytic
+
+ 
+ak gangulib and
+
+e root endophytic
+
+ gov sra srx 
+
+ gov sra srx 
+
+ gov sra linkname 
+id 
+ resource details
+
+as rice yield is enormously affected by large number of pathogenic
+organisms nematodes fungi insects and virus hence understanding
+kolkata – 
+
+s an open access article under
+and exploitation of the root endophytic community for this high
+demand asian crop can result in the promotion of crop health this
+could be an alternative approach towards eco friendly potential natural
+source for biological control in disease management advances in
+high throughput environmental genomic dna sequencing or meta 
+genomic sequencing as well as various analytical tools and data re 
+sources has enabled us to understand the vast diversity of
+microorganisms specially rare and uncultured microorganism and
+their phylogeny in community analysis it also gives us insight into the
+enormous amount of functional gene diversity of a microenvironment
+ the low cost of this technology and easy generation of draft ge 
+nomes from complex dataset has made metagenomics study a much
+popular technique bypassing the need for isolation and lab cultivation
+of individual microorganism 
+
+in this study we thoroughly investigated the root endophyticmicro 
+bial community present in the local cultivar of rice oryza sativa l at
+different field condition of west bengal the rice plants were selected
+at days stage and were dug out from some selected wet land local
+ricefieldswhich produces the bulk of the requirement of the population
+of kolkata average temp of the area was °f and soil ph ranges from
+ph to ph 
+
+among collected samples two samples os andos were ran 
+domly selected for metagenomic sequencing the total number of reads
+obtained for sample os was and that for sample os was
+ fig in both the samples the community study revealed
+an abundance of over for the members of firmicutes in sample
+os the percentage was found to be while in sample os it
+was at the genus level bacillus was the most dominant microbial
+the cc by nc nd license http creativecommons org licenses by nc nd 
+
+http crossmark crossref org dialog doi j gdata domain pdf
+http creativecommons org licenses by nc nd 
+http dx doi org j gdata 
+mailto bansubha gmail com
+mailto bansubha gmail com
+https www ncbi nlm nih gov sra srx 
+https www ncbi nlm nih gov sra srx 
+https www ncbi nlm nih gov sra linkname bioproject sra all from uid 
+https www ncbi nlm nih gov sra linkname bioproject sra all from uid 
+http dx doi org j gdata 
+http creativecommons org licenses by nc nd 
+http www sciencedirect com science journal 
+www elsevier com locate gdata
+
+
+fig histogram representing total number of reads for both samples os and os 
+
+ s sengupta et al genomics data – 
+member with abundance of over in both the samples in sample
+os gammaproteobacteria had a high abundance of but in sam 
+ple os the percentage was as low as as evidenced in the heat
+map prepared with otu abundance of or more fig 
+
+ materials and methods
+
+samples were collected directly from field in and around kolkata in
+triplicates and were stored in sterile plastic bags root samples were
+thoroughly washed in tap water several times surface sterilization of
+the root tips were then performed with ethanol for min followed
+by w v naocl solution for min samples were then washed
+three times with sterile distilled water with shaking min root
+samples were finally dried and stored at− °c the dna of each sam 
+ple was isolated according to the protocol reported by bonet et al 
+ the dna was quantified using qubitdsdna hs assay kit life tech 
+ μl of each sample was used for determining concentration using
+qubit® fluorometer the amplicon libraries were prepared using
+nextera xt index kit illuminainc as per the s metagenomic se 
+quencing library preparation protocol part rev b 
+fig heatmap representing o
+primers for the amplification of the v v hyper variable region v 
+forward oligo cctacgggnbgcascag and v reverse oligo 
+gactacnvgggtatctaatcc of s rdna gene of bacteria andarchaea
+were used the ampliconswith the illumina adaptors were amplified by
+using i and i primers that addmultiplexing index sequences aswell as
+common adapters required for cluster generation p and p as per the
+standard illumina protocol the amplicon libraries were purified by ×
+ampurexp beads and checked on agilent dna chip on bioanalyzer
+ and quantified on fluorometer by qubitdsdna hs assay kit life
+technologies the library size of sample os and sample os were
+ bp and bp respectively the libraries were sequenced using
+the illumina sequencing chemistry to generate mb of data per
+sample after obtaining the qubit concentration for the library and the
+mean peak size from bioanalyzer profile library was loaded onto
+illumina platform at appropriate concentration – pm for cluster
+generation and sequencing the kit reagents were used in binding of
+samples to complementary adapter oligos on paired end flow cell the
+adapters were designed to allow selective cleavage of the forward
+strands after re synthesis of the reverse strand during sequencing the
+copied reverse strand was then used to perform sequencing from the
+opposite end of the fragments 
+
+ verification and authentication
+
+our study revealed that in both the samples the dominant member
+of rice root microbiome is bacillus and this data is well supported by
+other literatures qiime analysis indicated that shannonα diversi 
+ty and no of observed species and the shannonα diver 
+sity and no of observed species for sample os and for
+sample os respectively at phylum level both the samples are
+enriched with firmicutes followed by proteobacteria bacilli whereas
+gammaproteobacteria were the most abundant at class level in both
+the samples at genus level bacillus and acinetobacter were found to
+be the most abundant genus enriched in both the root samples more 
+over our findings were also consistent with the reports of ji et al 
+ where three major diazotrophic endophytic communities
+were identified as actinobacteria gammaproteobacteria and bacillus 
+although the functional annotations of the endophytic bacterial com 
+munity of our samples are still pending however the dominant groups
+suggests their probable role of atmospheric n fixation a primary requi 
+site for plant growth particularly in rice 
+tus of or more hits 
+
+
+
+ s sengupta et al genomics data – 
+ nucleotide sequence accession numbers
+
+metagenome sequence data from this study are available at thencbi
+sequence read archive sra and biosamples under accession num 
+bers samn and samn 
+
+funding
+
+the work was supported by the grants given to subhadipa sengupta
+ grant no psw ero by the university grants commission
+ ugc new delhi india 
+
+acknowledgement
+
+the authors hereby acknowledge the department of botany 
+bidhannagar college for providing the required space for conducting
+the work and xcelris labs limited ahmedabad for conducting the
+sequencing 
+references
+
+ t r turner e k james p s poole the plant microbiome genome biol 
+ p wilmes p l bond metaproteomics studying functional gene expression in micro 
+
+bial ecosystems trends microbiol – 
+ n garcias bonet j m arrieta c n de santana c m duarte n marbà endophytic bac 
+
+terial community of a mediterraneanmarine angiosperm posidonia oceanica front 
+microbiol http dx doi org fmicb 
+
+ e j chung m t hossain a khan k h kim c o jeon y r chung bacillus oryzicola sp 
+nov an endophytic bacterium isolated from the roots of rice with antimicrobial 
+plant growth promoting and systemic resistance inducing activities in rice plant
+pathol j – http dx doi org ppj oa 
+
+ l zhao y xu r sun z deng w yang g wei identification and characterization of
+the endophytic plant growth prompter bacillus cereus strain mq isolated from
+sophora alopecuroides root nodules braz j microbiol – 
+http dx doi org s 
+
+ s h ji m a gururani s chun isolation and characterization of plant growth promot 
+ing endophytic diazotrophic bacteria from korean rice cultivars microbiol res 
+ – http dx doi org j micres 
+
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org fmicb 
+http dx doi org ppj oa 
+http dx doi org s 
+http dx doi org j micres 
+
+	metagenome analysis of the root endophytic microbial community of indian rice o sativa l 
+	 resource details
+	 materials and methods
+	 verification and authentication
+	 nucleotide sequence accession numbers
+
+	funding
+	acknowledgement
+	references
+
+
+

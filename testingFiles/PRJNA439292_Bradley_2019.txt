@@ -1,0 +1,1651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+impact of solids residence time on community structure and nutrient dynamics of mixed phototrophic wastewater treatment systems
+
+
+lable at sciencedirect
+
+water research e 
+contents lists avai
+water research
+
+journal homepage www elsevier com locate watres
+impact of solids residence time on community structure and nutrient
+dynamics of mixed phototrophic wastewater treatment systems
+
+ian m bradley a maria c sevillano rivera b ameet j pinto b jeremy s guest a 
+
+a department of civil and environmental engineering university of illinois at urbana champaign united states
+b department of civil and environmental engineering northeastern university united states
+a r t i c l e i n f o
+
+article history 
+received august 
+received in revised form
+ november 
+accepted november 
+available online november 
+
+keywords 
+algae
+photobioreactor pbr 
+tertiary treatment
+nutrient recovery
+ecology
+high throughput sequencing
+ corresponding author 
+e mail address jsguest illinois edu j s guest 
+
+ current address department of civil structural a
+ing university at buffalo buffalo ny united s
+
+https doi org j watres 
+ © elsevier ltd all rights reserved 
+a b s t r a c t
+
+suspended growth mixed community phototrophic wastewater treatment systems including high rate
+algal ponds and photobioreactors have the potential to achieve biological nitrogen and phosphorus
+recovery with effluent nutrient concentrations below the current limit of technology in order to achieve
+reliable and predictive performance it is necessary to establish a thorough understanding of how design
+and operational decisions influence the complex community structure governing nutrient recovery in
+these systems solids residence time srt a critical operational parameter governing growth rate was
+leveraged as a selective pressure to shape microbial community structure in laboratory scale photo 
+bioreactors fed secondary effluent from a local wastewater treatment plant in order to decouple the
+effects of srt and hydraulic retention time hrt nutrient loading was fixed across all experimental
+conditions and the effect of changing srt on microbial community structure diversity and stability as
+well as its impact on nutrient recovery was characterized reactors were operated at distinct srts 
+and days with diurnal lighting over long term operation srts and in depth examination of the
+eukaryotic and bacterial community structure was performed using amplicon based sequencing of the
+ s and s rrna genes respectively in order to better represent the microalgal community structure 
+this study leveraged improved s rrna gene primers that have been shown to provide a more accurate
+representation of the wastewater process relevant algal community members long term operation
+resulted in distinct eukaryotic communities across srts independent of the relative abundance of
+operational taxonomic units otus in the inoculum the longest srt days srt resulted in a
+more stable algal community along with stable bacterial nitrification while the shortest srt days srt
+ resulted in a less stable more dynamic community although srt was not strongly associated with
+overall bacterial diversity the eukaryotic community of srt was significantly less diverse and less
+even than srt with a few dominant otus making up a majority of the eukaryotic community structure
+in the former overall although longer srts promote stable bacterial nitrification short srts promote
+higher eukaryotic diversity increased functional stability and better total n removal via biomass
+assimilation these results indicate that srt may be a key factor in not only controlling microalgal
+community membership but community diversity and functional stability as well ultimately the effi 
+cacy and reliability of nh þ removal may be in tension with tn removal in mixed phototrophic systems
+given that lower srts may achieve better total n removal via biomass assimilation through increased
+eukaryotic diversity biomass productivity and functional stability 
+
+© elsevier ltd all rights reserved 
+nd environmental engineer 
+tates
+ introduction
+
+nutrient nitrogen n phosphorus p regulations are becom 
+ingly increasingly common and increasingly stringent clark et al 
+ with permits often at the limit of technology of e mg 
+n l� and e mg p l� for sensitive waterways boelee
+et al the cost of meeting these limits poses a serious chal 
+lenge to wastewater utilities which are already facing aging
+
+mailto jsguest illinois edu
+http crossmark crossref org dialog doi j watres domain pdf
+www sciencedirect com science journal 
+www elsevier com locate watres
+https doi org j watres 
+https doi org j watres 
+https doi org j watres 
+
+
+i m bradley et al water research e 
+infrastructure and financial pressures to maintain and improve
+existing services asce in response to these challenges 
+there is unprecedented interest in transforming traditional waste 
+water treatment plants into integrated resource recovery facilities
+that recover nutrients and energy rather than consuming them
+ guest et al mihelcic et al sturm verstraete
+et al to this end microalgal systems are being pursued as
+a promising technology that may enable simultaneous wastewater
+treatment and feedstock production by assimilating nutrients
+during growth e including organic n and p that may otherwise be
+recalcitrant to chemotrophic bacteria enriched in conventional
+biological nutrient removal processes liu et al qin et al 
+ nutrient and carbon rich algal feedstocks generated dur 
+ing this process may be further processed to yield fertilizers
+ coppens et al bioproducts rasouli et al or bio 
+energy pittman et al shoener et al the ability of
+microalgae to manage organic n and p a capability that often
+evades conventional biological nutrient removal systems may help
+to advance the current limit of technology bott and parker 
+us epa and enable water resource recovery facilities
+ wrrfs to meet ambitious effluent quality standards 
+
+traditionally the widespread use of microalgae in municipal
+wastewater treatment has been limited to the treatment of raw
+sewage primary effluent or secondary effluent in lagoons where
+they provide oxygen for aerobic heterotrophic bacteria for
+biochemical oxygen demand bod removal oswald and gotaas 
+ rich tchobanoglous et al more recently 
+microalgae have been leveraged in a wide variety of processes and
+reactor configurations from continuous flow high rate algal ponds
+ hraps garcía et al park et al park and craggs 
+ and intensive i e small footprint photobioreactors pbrs 
+ arbib et al viruela et al to attached growth iman
+shayan et al and fast settling e g photogranular arias
+et al liu et al valigore et al systems in
+particular the use of suspended growth continuous flow systems
+ e g hraps for bod and nutrient removal from primary and
+secondary effluent have been the most widely studied shoener
+et al and have seen the most recent advancements in ap 
+plications arbib et al sutherland et al mechanistic
+studies of suspended growth systems have begun to investigate the
+fundamental drivers of phototrophic treatment processes with
+recent works examining the effect of environmental and opera 
+tional parameters such as co sutherland et al mixing
+intensity sutherland et al and biomass recycling park
+et al on system performance i e bod and or n and p
+removal in particular one of the most commonly studied opera 
+tional parameters has been hydraulic retention time hrt 
+ anbalagan et al takabe et al suspended systems
+such as hraps most often operate with no separation between hrt
+and solids residence time srt thus hrt is a key operational
+parameter that controls nutrient loading sludge age biomass
+productivity and biochemical composition among other charac 
+teristics studies have examined the effect of hrt on nutrient
+removal anbalagan et al cromar and fallowfield 
+biochemical composition e g lipid content woertz et al 
+and algal community ecology yang et al but it can be
+difficult to discern causal effects or to examine underlying trends in
+these systems because nutrient loading and growth rate are
+changed simultaneously a few studies have examined the effect of
+srt on nutrient removal and community ecology in suspended
+systems but these have been limited to experiments dominated by
+seed pure cultures xu et al or run using synthetic
+wastewater xu et al yang et al the latter of which
+lacks residual organics and the continuous influx of mixed com 
+munities of microorganisms to our knowledge there have been no
+studies that specifically examine the effect of srt separate from
+nutrient loading effects on mixed phototrophic communities in
+suspended growth systems treating secondary effluent limiting
+our ability to design effective and reliable phototrophic tertiary
+treatment systems 
+
+as the field seeks to engineer systems that achieve reliable and
+predictive behavior there is a critical need to understand how
+design and operational decisions such as hrt and srt influence the
+complex phototrophic communities present in suspended growth
+systems and in turn how these communities affect nutrient and
+carbon dynamics the full complexity of phototrophic systems e
+which consist of eukaryotic microalgae phototrophic bacteria i e 
+cyanobacteria and chemotrophic bacteria both heterotrophs and
+autotrophs e has only just begun to be explored e g cho et al 
+ mark ibekwe et al and we have limited under 
+standing of the selective pressures that operating parameters
+ including srt have on community structure and overall system
+performance studies that have examined algal community ecology
+in wastewater systems have often relied on microscopy park et al 
+ and have occasionally applied high throughput sequencing
+techniques e g illumina sequencing cho et al mark
+ibekwe et al which have been otherwise widely utilized in
+wastewater studies e g purkhold et al however the use
+of high throughput sequencing with eukaryotic algal communities
+and in particular the application of sequencing methods to
+eukaryotic microalgae in wastewater has lagged far behind that of
+bacterial and archaeal applications bradley et al previous
+studies have mostly been used to identify dominant organisms xu
+et al and until recently relied on suboptimal primer sets that
+represent algal community structure with a large degree of error
+ discussed in detail in bradley et al 
+
+the objective of this work was to examine the specific effect of
+srt isolated from nutrient loading effects on mixed phototrophic
+community structure and nutrient recovery in suspended growth
+systems used for tertiary treatment to this end we apply high 
+throughput sequencing techniques using improved eukaryotic
+primers bradley et al along with well established bacterial
+primers to provide clear quantitative evidence regarding commu 
+nity diversity and dynamics as a function of srt three flat panel
+pbrs were operated at distinct srts and days using
+actual secondary effluent for long term operation srts after
+reaching steady state all biomass was then mixed and redis 
+tributed across reactors and long term operation was repeated to
+evaluate the strength of srt as a selective pressure in driving
+community structure and overall system performance in addition
+to examining the algal and bacterial community membership and
+abundance we examine the overall nutrient recovery focused on
+total nitrogen tn and specific nutrient dynamics nh þ no � no � 
+po � driven by srt and community structure ultimately inte 
+grating an understanding of community structure dynamics in
+phototrophic systems along with metrics and drivers of process
+performance is key to enabling the design of systems that reliably
+recover n and p from a given wastewater 
+
+ materials and methods
+
+ photobioreactor pbr design and operation
+
+long term experimentation was done using flat panel pbrs as
+described in detail in by gardner dale and colleagues gardner 
+dale et al briefly l working volume pbrs with a short
+light path thickness of mm were operated with continuous
+flow i e as chemostats and subjected to a day night cycle of h
+light and h dark representative of summer daylight hours in
+urbana il usa all reactors were lit from one side using red and
+
+
+
+i m bradley et al water research e 
+blue light emitting diodes blaze™ v led elemental led 
+controlled via a microcontroller arduino uno e r sparkfun
+electronics to output a sinusoidal pattern that approximated
+normal daylight variation c
+
+̌
+
+ervený et al nedbal et al 
+with a total peak light intensity blueþ red of me m� s� air
+sparging was provided at lair lreactor min� guest et al 
+to ensure well mixed conditions and phwas controlled below 
+ approximately ± using co gas with ph controllers
+and solenoid valves although multiple processes can affect ph
+ e g co assimilation will increase ph ammonia assimilation will
+decrease ph fuggi et al reactors consistently demon 
+strated a net increase in ph during daylight hours and thus ph
+control via co addition was adequate all experimentation was
+performed in a temperature controlled laboratory with ambient
+air temperature of e �c and stable reactor temperature
+conditions at ± �c 
+
+ secondary effluent and examination of srt effects
+
+reactors were operated at an srt hrt of and days 
+consistent with past photobioreactor experiments that achieved
+reliable performance e g gardner dale et al and in the
+range of typical biological treatment processes rittmann and
+mccarty tchobanoglous et al secondary effluent
+was collected weekly from the local wwtp urbana il usa e
+which predominantly treats municipal wastewater e and stored in
+the dark at �c before and during use as photobioreactor influent 
+srt and hrt were not physically separated and thus were the
+same in order to examine the effect of growth rate governed by
+srt on system performance the daily nutrient loading was set at a
+fixed rate across all reactors and srts following the method of
+mindl and colleagues mindl et al and gardner dale and
+colleagues gardner dale et al by keeping nutrient loading
+constant differences in community function and structure may be
+attributed to srt and growth rate rather than nutrient loading
+effects caused byhrt mindl et al across all reactors daily
+nutrient loading was fixed at mg n l� d� and mg 
+p l� d� which is equivalent to a typical secondary effluent
+ mccarty et al assuming an algal system hrt of approxi 
+mately day the raw secondary effluent contained mg 
+n l� and mg p l� tp mg as po � and had bod of
+ e mg l� in order to achieve consistent loading across srts 
+the concentrations of total nitrogen and orthophosphate of the
+secondary effluent were measured immediately after collection 
+and each srt s medium was amended with nh cl to and
+ mg n l� for srts of and days respectively and
+k hpo to and mg p l� for srts of and days 
+respectively to achieve the fixed daily n and p loadings final stock
+concentrations of n and p were primarily in the form of nh þ and
+po � and approximately e respectively secondary
+effluent for each srt was also amended with micronutrients ac 
+cording to a modified tap media with improved trace metals
+ kropat et al to ensure adequate concentrations table s 
+as well as mg l� d� alkalinity as caco to increase buff 
+ering capacity 
+
+ inoculum and pbr start up period
+
+biomass samples for inoculation of long term cultivation ex 
+periments were collected locally urbana il usa from four
+different sources to capture a variety of bacterial and algal com 
+munities and to ensure a large diversity of microorganisms were
+subjected to selective pressures primary and secondary
+clarifier weirs at a local wwtp urbana il a pilot scale
+algaewheel® system treating swine manure and a eutrophic
+lake biomass from each location was strained through a mm
+mesh screen to remove macroalgae and then mixed in equal pro 
+portions by cell count neglecting biovolume performed via fluo 
+rescence light microscopy x magnification before being
+distributed among each of three parallel reactors an initial accli 
+mation period of two weeks was designed to limit the loss of
+species due to washout while transitioning the inoculum to labo 
+ratory conditions pbrs were operated in batch mode under
+nutrient replete conditions for seven days to increase culture
+density and to retain species diversity and continuous light in 
+tensity was gradually increased from to peak intensity
+ me m� s� to allow culture acclimation at the end of day
+seven the three reactors were mixed together re strained and
+redistributed back into the three pbrs and srt separation was
+initiated pbrs were operated for another seven days with srt
+separation and diurnal light to begin selection for distinct com 
+munities all cultures were then mixed together redistributed and
+long term experimentation was initiated 
+
+ long term pbr operation and sampling
+
+long term experimentation was performed in two phases in
+phase reactors were inoculated and run in parallel at different
+srts and days with a fixed nutrient loading section 
+each reactor was run for srts until reaching a steady state as
+defined by a less than change in total suspended solids tss and
+volatile suspended solids vss over three consecutive days after
+the three reactors achieved steady state biomass from all three
+reactors were combined strained and mixed in equal proportions
+by mass tss and then redistributed across three clean reactors
+and long term experimentation repeated as phase this replicate
+run of each srt in series i e phase followed by phase was
+performed to evaluate the strength of srt as a selective pressure
+and to more deeply examine microbial community divergence and
+stability across srts all reactors srt and days were again
+operated for srts until steady state was achieved 
+
+during each phase water quality and biomass samples were
+taken to determine solids concentrations total and volatile n and
+p effluent concentrations and community composition micro 
+scopy and dna analysis samples were taken more frequently at
+the start of experimentation to capture system startup dynamics
+ see table s for detailed sample schedule samples were taken h
+prior to the end of the light cycle when algal carbon reserves and
+nutrient uptake has been shown to be at its peak gardner dale
+et al briefly ml aliquots of mixed liquor were
+removed from each reactor ml of which was used for tss and
+vss analysis and ml of which was centrifuged at �g for
+ min ml of the resulting supernatant was filtered through
+ mm pvdf filters emd millipore ma usa before freezing
+at � �c until analysis and the remaining ml of supernatant
+was returned to the reactors to minimize the effect of sampling on
+reactor operation pelleted biomass was stored at � �c prior to
+lyophilization and storagewith desiccant before elemental analysis 
+
+ kinetic assay
+
+at the end of phase and phase when steady state had been
+achieved a portion of the biomass was removed from each reactor
+to observe themaximum specific uptake rates of n and p in order to
+gain insight into the intrinsic i e maximum potential uptake rates
+by the microbial community and differentiate them from the extant
+rates i e actual rates already seen under steady state conditions
+ grady jr et al kinetic assays were performed using peak
+light intensity and nutrient replete conditions consistent with past
+work guest et al briefly the biomass was placed in
+
+
+
+i m bradley et al water research e 
+identical reactors i e same photobioreactors as continuous oper 
+ation with secondary effluent and ph control and spiked with
+ mg n l� as nh cl and mg p l� as k hpo to ensure
+nutrient availability would not limit observed nutrient uptake rates
+during the kinetic study following nutrient addition reactors were
+exposed to continuous light and operated in batch mode to deter 
+mine themaximum specific i e vss normalized uptake rates of n
+and p as mg nutrient g vss� d� guest et al with sam 
+pling occurring approximately every h during the first h when
+rates were at a maximum although internal nutrient stores can
+reduce the maximum observed rates of n and p uptake bougaran
+et al no effort was made to deplete existing reserves prior
+to batch experimentation in order to expedite the transition from
+continuous operation to batch uptake measurements reducing
+time for community structure shift each reactor was monitored
+for changes in biomass composition and microbial community via
+microscopy and because maximum specific uptake rates were
+observed within the first e h of batch operation changes in
+community structure were expected to be limited at the time of
+intrinsic parameter estimation however srt e phase data
+showed significant changes in the community structure at the end
+of days and these data were excluded 
+
+ water quality monitoring and biomass elemental analysis
+
+reactor effluent was analyzed for tss vss total nitrogen tn 
+nh þ no � no � and po � detailed descriptions and method
+development can be found in gardner dale et al briefly tss
+and vss were measured using standard methods apha 
+modified to use mm glass fiber filters gf f whatman to retain
+microalgae tn was measured via the total nitrogen persulfate
+digestion test n’ tube method hach co usa ammonium via the
+standard phenate method modified for a microplate apha 
+anions mg l� including nitrate nitrite phosphate sulfate 
+and chloride by ion chromatography ic ics dionex and
+low levels mg p l� of orthophosphate by the standard
+ascorbic acid method modified for a microplate apha 
+lyophilized biomass samples were analyzed for carbon hydrogen 
+nitrogen and phosphorus chnp masselement massalgae� by the
+microanalysis laboratory at the university of illinois at urbana 
+champaign school of chemical sciences using a chns o
+elemental analyzer perkin elmer series ii and for phos 
+phorus by icp ms perkin elmer sciex elan drc e 
+
+ dna extraction amplification and sequencing
+
+individual samples for amplicon based sequencing were taken
+from all inocula sources after each acclimation period and during
+long term experimentation phase and phase all samples were
+processed and sequenced in duplicate approximately mg of
+biomass was collected and centrifuged before dna extraction via a
+fastdna™ spin kit for soil mp biomedical ca usa and stored
+at � �c until amplification individual sample dnawas amplified
+in triplicate via pcr using a kapa hifi hotstart pcr kit kapa bio 
+systems ma usa with primers designed to target the v and v 
+v variable regions of the s rrna gene for eukaryotes v for 
+ward primer reuk fwd eccgcascygcggtaattcce 
+reverse primer v r actttcgttcttgat v v forward
+primer v f ataacaggtctgtgatgcccte reverse primer
+ r ccttcygcaggttcacctac with thermocycling con 
+ditions and reagent concentrations as described previously
+ bradley et al these primers were previously shown to have
+less amplification bias and lower overall error in evaluating
+microalgal communities of interest to the wastewater field bradley
+et al additionally two different primer sets were used to
+provide complementary information of the eukaryotic community
+and to identify any differences in community representation due to
+the selected primers and target amplification region bradley et al 
+ together this approach provides a robust evaluation of the
+microalgal community structure that allows clear quantitative
+examination of the effect of srt on eukaryotic diversity and
+dynamics 
+
+dna was separately amplified with bacteria specific primers
+targeting the v v variable region of the s rrna gene according
+to the midas field guide mcilroy et al microbial database
+for activated sludge aalborg university briefly the target region
+was amplified using the v v primers v forward primer f ’ 
+agagtttgatcctggctcag e v reverse primer r ’ e
+attaccgcggctgctgg e ’ with the thermocyling conditions
+amended for the kapa hifi hotstart pcr kit �c for min 
+cycles of �c for s �c for s and �c for s with a final
+extension at �c for min triplicate amplicon libraries per
+sample were purified using gel electrophoresis followed by clean 
+ing of excised band using qiaquick gel purification kit qiagen 
+before pooling dna concentration of individual amplicon libraries
+was checked in triplicate using a qubit invitrogen before final
+pooling of individual samples at equimolar proportions in addition
+to environmental and experimental samples the final s rrna
+pooled library for each the v and v v region contained mock
+community dna samples consisting of dna from wastewater
+and environmental algal species in equal amounts as described
+previously bradley et al 
+
+amplicon libraries were sequenced using the illumina miseq
+ illumina with v chemistry � paired end reads at the roy
+j carver biotechnology center at the university of illinois at
+urbana champaign all sequencing data can be found online at the
+ncbi sequencing read archive sra under accession number
+srp corresponding to bioproject prjna 
+
+ sequence read processing and analysis
+
+raw sequence data was demultiplexed using bcl fastq v 
+conversion software illumina to determine the appropriate
+quality and read length overlap parameters for processing the s
+rrna gene data an analysis was performed on the included mock
+community sequences as described in bradley et al see sm
+for additional information to determine the quality and length
+cutoffs that reasonably approximated the theoretical community
+while retaining themost reads these values were determined to be
+a phred quality score of q and length cutoff of nt for the v 
+region and q and nt for the v v region 
+
+following quality trimming and removal of reads below the
+length cutoff using sickle all further processing of sequences was
+performed using mothur v kozich et al according to
+the standard operating procedure miseq sop accessed september
+ at https www mothur org wiki miseq sop unless
+otherwise specified scripts used can be found online at https dx 
+doi org m figshare briefly following contig
+formation sequences were trimmed and aligned to the silva v 
+database files curated by mothur using the full database and
+mothur s recreated silva seed for the s and s rrna gene se 
+quences respectively chimera detection and removal was per 
+formed using the vsearch algorithm rognes et al and all
+sequences were then classified with the full silva v database as
+reference prior to otu clustering and classification for
+further examination of specific unknown otus representative
+otu sequences were obtained using the get oturep command and
+examined using ncbi s blast altschul it is worth noting
+that the most commonly occurring bacterial otu was matched to
+the cyanobacteria using the classify otus command however upon
+
+https www mothur org wiki miseq sop
+https dx doi org m figshare 
+https dx doi org m figshare 
+
+
+i m bradley et al water research e 
+closer inspection this otu best matched the chloroplast sequence
+of scenedesmus sp and was removed prior to further analysis from
+the bacterial s rrna gene sequence data alpha diversity metrics
+ observed otus chao index inverse simpson index and
+nonparametric shannon index and beta diversity metrics jaccard
+and bray curtis dissimilarity were also calculated with subsam 
+ple¼ pcoa analysis was performed using bray curtis
+dissimilarity matrices on subsets of samples of interest in order
+to examine the relationship between taxonomic richness and
+functional metrics such as n and p uptake a co occurrence network
+analysis was run for all sequencing sets and across all reactors and
+phases but no strong correlations were found between perfor 
+mance metrics and specific otus sm section s correlations
+were found between specific otus or sets of otus but these re 
+lationships occurred only between rare taxa and did not provide
+insight into the experimental system the importance of these re 
+lationships is unknown and requires further examination in future
+work 
+
+ results and discussion
+
+ microbial community structure
+
+long term operation of mixed community reactors demon 
+strated that distinct eukaryotic communities assemble across srts
+ fig phase fig s phase and that diversity decreased with
+increasing srt mean relative abundance of otus present at steady 
+state operation did not depend on initial concentration of the otus
+in the inoculum when examining the top ten otus present in each
+reactor representing a total of otus across all three reactors it
+was observed that only nine of the total otus were also
+prevalent i e contribute to the top of mean relative abun 
+dance in the inocula sources additionally the inocula showed
+high richness and diversity for the community as a whole average
+across all four sources of inocula sobs¼ dnpshannon¼ 
+following the start up period in which cultures were acclimated to
+laboratory conditions and lighting selection of specific commu 
+nities in response to srt was observed after approximately days 
+rare otus including those that showed limited or no representa 
+tion in sequencing data from the inocula were present at steady 
+state operation although the effect of influent community mem 
+bers on long term community structural dynamics in microbial
+processes needs additional study the otus seen at steady state
+here related more closely with the initial inoculum after acclima 
+tion fig w than to those otus present in influent media
+ secondary effluent see also figs s es and the presence of
+influent microbial species on steady state community structure
+appears to be minimal this underscores the importance of selec 
+tive environments e conditions within the reactor which favor a
+particular species or function out of many rittmann and mccarty 
+ e which have in general been leveraged in algal systems
+ mooij et al excluding events such as species die off and
+invasion initial inoculum concentrations and the general propor 
+tion of species present at the start should not influence the pres 
+ence and abundance of species at steady state this is especially
+evident when comparing cyanobacterial otus in which the most
+prevalent cyanobacterial otu otu pseudanabaena sp fig is
+found in appreciable concentrations in all three reactors over time
+ mean relative abundance of total bacterial diversity on average
+ and respectively despite only being found in the
+inocula at less than of the total mean relative read abundance
+in s rrna gene data 
+
+sequencing data fig along with microscopy sm fig s 
+show that srt operating at the fastest growth rate was domi 
+nated by filamentous eukaryotes and cyanobacteria such as
+pseudanabaena sp on the other hand srt was dominated by
+unicellular and colonial green algae such as chlamydomonas sp and
+acutodesmus sp respectively for full taxonomy of both phase and
+phase for eukaryotes v and v v variable region and bacteria
+ v v variable region see sm fig s through fig s srt 
+operating between the two displayed a mixture of filamentous and
+unicellular algae and cyanobacteria biomass was deep green in
+color and the majority of observed cells had green pigmentation 
+this along with sequencing data in which cyanobacteria often
+represented a significant fraction of s rrna gene sequences 
+confirmed that the microbial community was dominated by pho 
+totrophic organisms small unicellular algae such as those seen in
+srt often exhibit fast growth rates and more competitive
+nutrient utilization than larger cells jakob o nalley maria
+stockenreiter shurin et al and typically dominate
+conventional microalgal systems e g hrap systems de godos
+et al park et al however filamentous microalgae
+and cyanobacteria such as those seen in srt have been shown to
+maintain a strong dominance under wash out pressure due to their
+high settleability hu et al here filamentous eukaryotes and
+cyanobacteria are selected at low srt due to a combination of fast
+growth rates high settling efficiency and attached growth ten 
+dencies genera present in all reactors are among those commonly
+found in phototrophic wastewater treatment processes mark
+ibekwe et al park et al roberts et al and are
+likely to be found across locations and climates that utilize pho 
+totrophic microorganisms for treatment 
+
+srt also resulted in distinct differences in algal community
+richness and abundance with a short srt resulting in a more dy 
+namic and diverse community while a longer srt promotes otu
+dominance and community structural stability although some
+dominant eukaryotic otus e g otu were shared between all
+reactors there is a clear variation in diversity i e community
+membership and abundance across srts with srt demon 
+strating high diversity both in terms of species richness and
+abundance and srt being dominated by only a few otus in
+total for eukaryotes otus contribute to the top of mean
+relative read abundance for srt compared to otus for srt 
+and otus for srt cyanobacterial abundance is also concen 
+trated in a few otus for all srts fig e cyanobacteria with the
+top otus contributing and of total bacterial
+mean relative abundance across the three reactors four alpha 
+diversity metrics were calculated richness based metrics
+observed otus sobs and the chao estimator rchao and
+structure based metrics which account for both species richness
+and evenness nonparametric shannon index dnpshannon and
+inverse simpson index dinvsimpson across metrics results
+confirm increasing srt resulted in a reduction of eukaryotic com 
+munity diversity srt has x the richness sobs¼ and di 
+versity dnpshannon¼ of that present at higher srts srt 
+sobs¼ dnpshannon¼ srt sobs¼ dnpshan 
+non¼ this trend was not observed in the bacterial commu 
+nities with bacterial richness and diversity remaining nearly the
+same across all three reactors sobs¼ and dnpshan 
+non¼ and across reactors and respectively 
+in all reactors bacterial richness was x higher than that of
+eukaryotic richness a trend that became stronger with increasing
+srt because bacterial richness stayed relatively constant while
+eukaryotic richness decreased with increasing srt the question of
+srt effect on microbial diversity has been a matter of debate 
+although rarely addressed in the literature chen et al 
+akarsubasi et al hypothesized that increasing srt would lead to
+increased bacterial diversity akarsubasi et al which might
+be expected due to niche differentiation and longer srts that favor
+organisms which utilize scarce resources i e k strategists vuono
+
+
+
+fig mean relative read abundance of total for the top otus eukaryotes found on average in each reactor and inocula sources an algaewheel system aw a eutrophic
+lake el a secondary clarifier weir sc and a primary clarifier weir pc and the acclimated inoculummixture w during phase due to overlap among the top otus are shown
+in total the top otus for each reactor are shown for cyanobacteria resulting in total being displayed otus are classified at a taxonomic level of in mothur corresponding
+to genus level taxonomy nitrifying bacteria display the two genera identified to include nitrifying bacteria nitrosomonas belonging to the ammonia oxidizing bacteria aob 
+and nitrospira belonging to the nitrite oxidizing bacteria nob or comammox cmx bubble size is drawn by area corresponding to the mean relative read abundance determined
+using the v v hypervariable region for eukaryotes and the v v region for bacteria shaded orange blue green red background identify the otus that contributed to the top
+ of relative read abundance when ordered by rank abundance for eukaryotes cyanobacteria and nitrifying bacteria respectively across the reactors srt has the highest
+eukaryotic diversity with otus contributing to the top of mean relative read abundance compared to otus for srt and otus for srt srt also has the highest
+percentage of cyanobacteria at steady state while srt and have higher proportions of nitrifying bacteria for interpretation of the references to color in this figure
+legend the reader is referred to the web version of this article 
+
+i m bradley et al water research e 
+et al although experimentation showed only weak support
+for this with diversity remaining nearly the same across srts an
+observation also seen in another study bagchi et al in
+contrast saikaly et al explicitly measured the effect of srt on the
+bacterial diversity of activated sludge systems and found that short
+srts were associated with higher diversity saikaly et al 
+this effect has also been seen in other wastewater treatment pro 
+cesses which have shown lower microbial diversity in processes
+which use longer srts over shorter ones e g hu et al silva
+et al overall the data presented here demonstrate a
+consistent and reproducible relationship between srtand diversity
+for the eukaryotic algal community with diversity decreasing with
+
+
+
+i m bradley et al water research e 
+increasing srt a finding that is consistent with previous studies
+that have examined bacterial diversity only hu et al saikaly
+et al silva et al in contrast there was no change in
+diversity across srt for the bacterial communities in this study 
+
+the presence of bacteria that are central to wastewater treat 
+ment such as ammonia oxidizing bacteria aob and nitrite 
+oxidizing bacteria nob were also found over long term opera 
+tion and increased over time and with increasing srt all otus
+belonging to the aob were identified as being in the genus nitro 
+somonas while otus belonging to the nob were identified as
+nitrospira fig e nitrifying bacteria it is worth noting that
+although all nob present in the system belonged to the genus
+nitrospira not all nitrospira are nob and this genus represents nob
+and comammox cmx daims et al pinto et al van
+kessel et al the highest concentration of nitrosomonas
+sp occurred in srt during the last srt of operation 
+although srt also had a consistent presence of nitrosomonas sp 
+ average nitrospira sp were slightly less abundant reaching
+peak totals between and of the total bacterial diversity 
+nitrosomonas sp was present within the range commonly seen in
+wastewater treatment e kim et al layton et al 
+ and nitrospira were at concentrations similar to those
+seen by kim and colleagues in a full scale activated sludge process
+ kim et al somewhat surprisingly nitrobacter sp 
+was not detected despite being commonly found in wastewater
+treatment siripong and rittmann however nitrospira are
+more frequently the dominant nob in activated sludge systems
+ burrell et al juretschko et al siripong and rittmann 
+ although only detected in one inoculum source secondary
+effluent and not detected during the first days of long 
+term experimentation nitrospira increased in concentration over
+time and resulted in mean relative abundances of and
+ across the three srts the presence of nitrifying organisms at
+longer srts is not surprising with aob and nob being slow
+growers and with wastewater processes that utilize these organ 
+isms usually operating at day srts tchobanoglous et al 
+
+ community dynamics
+
+beta diversity measurements including the membership based
+ presence absence jaccard djaccard and structure based bray 
+curtis dbraycurtis dissimilarity show community membership
+and structure of each microbial community changes through time 
+and that these differences are less prominent at higher srts pcoa
+plots of phase fig a top and phase fig a bottom 
+demonstrate that all communities shifted away from the initial
+starting community inocula mixture t¼ and toward a steady 
+state community fig a circled data points in phase srt 
+was the most dissimilar to the initial inoculum dbray 
+curtis¼ ± srt remained the most similar dbray 
+curtis¼ ± and srt was in between
+ dbraycurtis¼ ± however after mixing all biomass in
+equal proportions bymass for the replicate run section srt 
+remained stable and stayed within a dissimilarity of ± 
+while srt and srt communities again diverged from the initial
+mixed community and reached a new steady state community that
+diverged more substantially from the initial community dbray 
+curtis¼ ± and dbraycurtis¼ ± respectively in
+all cases during phase divergence from the initial community
+may have been somewhat muted due to loss of diversity over long 
+term experimentation and all communities showed less diver 
+gence during phase than during phase this may be attributed to
+selective environments and competition over longer time scales
+that reduced diversity at the community level i e inter species
+diversity and at the species level i e intra species and trait
+diversity nonetheless these results show the highest stability for
+srt which after establishing itself during phase changes little
+during phase even after mixing with the other dominant species
+present in srt and srt furthermore srt and have
+markedly different steady state communities between phase and
+phase dbraycurtis¼ ± and dbraycurtis¼ ± 
+compared to srt dbraycurtis¼ ± to normalize the
+results to a common stage of operation i e number of srts we
+also examined the dissimilarity with inocula after six srts of
+operation for each reactor fig c after which communities were
+operating at steady state the dissimilarities at this time point
+reflect the same relationships seen over the length of the full
+experiment and when comparing as time series days 
+
+these results demonstrate that longer srts result in more stable
+communities while shorter srts result in less stable or conversely 
+more dynamic communities unstable environments such as
+those seen in srt or those that undergo perturbation events are
+more likely to contain fast growing organisms that have high
+resource utilization i e ‘r strategists’ pianka furthermore 
+vuono and colleagues were able to show srt may be leveraged to
+impose an r k selection on organisms in wastewater treatment 
+short srts selected for fast growing r strategists while longer srts
+selected for organisms that efficiently utilized scarce resources i e 
+‘k strategists’ vuono et al however community stability
+and functional stability appear to be decoupled and communities
+with unpredictable structural dynamics may reach a dynamic
+equilibrium characterized by stable function and dynamic com 
+munity structure kaewpipat and grady kooi et al 
+furthermore given that short srts have increased microalgal di 
+versity these communities are likely to be more functionally
+redundant and thus more resistant to perturbations resulting in
+more reliable treatment in contrast long srts although con 
+taining a more stable community have less diversity and may be
+more prone to disruption i e loss of system performance 
+
+ community function and performance
+
+nutrient recovery via biomass assimilation was highest at low
+srts with increasing srt leading to more stable nitrification but
+increased variability in tn removal and higher effluent nutrient
+concentrations tn and po � overall srt had higher concen 
+trations of tn sm fig s than srt in both phase and phase 
+largely due to the accumulation of no � srt consistently main 
+tained higher steady state tn removal across phases average
+ fig a whereas srt and srt showed more variable
+performance with tn removal ranging from to for srt 
+ average figs b and e for srt average 
+fig c at steady state i e despite stable biomass concentrations 
+in terms of phosphorus removal trends were less distinct with
+average removals in phases and of and srt 
+ and srt and and srt respec 
+tively fig s although a co occurrence network analysis sm 
+section s found no strong correlations between specific otus and
+nutrient removal these results support the conclusion that longer
+srts result in a more stable community structure whereas short
+srts have more dynamic communities with increased functional
+stability related to tn removal but not orthophosphate removal 
+
+although microalgae prefer nh þ as a n source because it is
+already reduced to the form used for cellular metabolism oxidation
+state of � most microalgal species can also assimilate no � and
+no � richmond kinetic studies performed after each mixed
+community had reached steady state demonstrated that the
+removal of n by microalgae and bacteria followed the anticipated
+preferential succession e g fig with nh þ being removed first 
+followed by no � oxidation state of þ and then no � oxidation
+
+
+
+fig microbial community structure during a b c phase and d e f phase of operation a d pcoa plot using bray curtis dissimilarity metrics show the community shift
+that occurred over time for srt blue circles green squares and red triangles starting at t¼ orange diamonds the community moves toward a steady state location
+ circled data points b e raw bray curtis dissimilarity from the initial time¼ and c f bray curtis distance after srts of operation srt remained the most stable moving
+the least distance from the start of operation across both phase and phase in contrast srt and demonstrated greater divergence from the initial starting community and
+increased community dynamics for interpretation of the references to color in this figure legend the reader is referred to the web version of this article 
+
+fig percentage total nitrogen tn removal across a srt b srt and c srt during phase circles and phase squares d e f percentage of tn present in the
+form of no � srt showed more consistent tn removal relative to srt and but tn was not always in the form no � and nh þ was present in the effluent srt and srt 
+experienced more variable tn removal across phases but consistently removed or transformed all nh þ such that remaining n was in the form of no � 
+
+i m bradley et al water research e 
+state of þ see fig and s for all kinetic data while some
+ammonium was assimilated by microalgae oxidation of ammo 
+nium and nitrite by bacteria occurred in parallel and there was an
+initial increase in no � and no � in the reactor once nh þ was
+completely removed however no � was removed via assimilation
+and oxidation when no � reached low levels ± mg 
+n l� no � became the primary n source for the algae the
+amount of nh þ that was oxidized to no � as seen in the initial
+increase of no � indicates that the primary mechanism of nh þ
+
+removal was due to nitrification while the primary removal of no �
+
+was due to algal biomass assimilation the uptake of nutrients can
+be modeled separately from growth droop which is an
+
+
+
+fig a n uptake across the first h of the kinetic assay for srt after phase for results from other reactors see sm fig s the shaded horizontal bar over a indicates the
+n species with the fastest net removal during each time interval b net rate of n species removal at each time interval mg n g vss� d� nh þ was preferentially utilized by
+microalgae during which time no � and no � concentrations increased due to nitrification once nh þ was removed completely no � and no � were rapidly removed in succession 
+through assimilation and in the case of no � oxidation tn nh þ no � and no � were all measured as described in the methods 
+
+i m bradley et al water research e 
+approach that has been adopted in recent wastewater relevant
+algal process models lee et al the form of nitrogen
+assimilated also influences ph fuggi et al and the reducing
+equivalents needed for assimilation fuggi et al guest et al 
+ sanz luque et al which underscores the need to
+independently model the fate of each nitrogen specie including 
+perhaps reduced nitrogen no � and no � as well as interactions
+among multiple limiting nutrients bougaran et al the
+maximum observed net removal rates of each n species fig b for
+nh þ no � and no � reached ± ± and
+ ± mg n g vss� d� after phase experimentation 
+although additional research is required to better characterize the
+intrinsic kinetic capabilities of mixed microalgal cultures relevant
+to wastewater taking into account nutrient reserves community
+structure shifts over time etc these data suggest similar rates of n
+removal may be achievable regardless of n speciation these find 
+ings highlight the potential that algal bacterial communities may
+have for reliable nutrient recovery fromwastewaters across a range
+of n fractionation 
+
+given that p and n uptake are linked through biomass uptake to
+grow and establish internal nutrient reserves the ratio of n p
+removal can be examined to better understand how design de 
+cisions and community structure influence effluent orthophos 
+phate concentrations gardner dale et al geider and roche 
+ n p ratio of an individual species has been previously shown
+to linearly decrease with increasing srt as cell structural re 
+quirements change with growth rate gardner dale et al 
+this relationship is known as the growth rate hypothesis sterner
+and elser at the same time n p ratio also varies across in 
+dividual species and the overall n p ratio in mixed communities
+may not change linearly with growth rate as community structure
+may be distinct across srts n p ratios across srt were not
+consistently monotonic fig s but variability in n p ratio be 
+tween experiments did change with srt srt demonstrated the
+largest difference between phase ± g n g p� and phase
+ ± g n g p� average steady state n p mass ratios
+ fig s in sm while srt achieved a more consistent n p ratio
+ ± for phase ± for phase likely due to its more
+stable community structure the higher richness and diversity of
+srt however may allow for a plasticity in n p uptake that is able
+to respond to changes in n and p loading resulting from fluctuating
+influent concentrations as well as internal nutrient cycling e g via
+cell death in natural systems there has been emerging consensus
+that diversity promotes system productivity and functional stability
+ cardinale et al ptacnik et al shurin et al and
+ptacnik and colleagues in particular showed in a large scale
+sampling study that diversity drives functional stability among
+phytoplankton communities by fostering resource use efficiency 
+consistent with this observation but in our engineered system 
+srt demonstrated more stable ecological function i e nutrient
+recovery across phases despite having very different communities
+during each phase dbraycurtis¼ ± furthermore if sub 
+jected to perturbation events such as the introduction of invasive
+predators or toxic shocks it is reasonable to expect low diversity
+communities like those seen in srt to be particularly vulner 
+able to collapse while the diversity of srt could afford a
+robustness and resiliency that is more likely to dampen perfor 
+mance impacts and support more rapid recovery this hypothesis
+warrants testing through future research given that performance
+reliability will be critical to full scale adoption of intensive algal
+processes 
+
+overall there is a tradeoff between the type of n removal across
+srt longer srts promote stable bacterial nitrification and the
+removal of nh þ while shorter srts promote biomass growth and
+the assimilation of n in all forms by microalgae to achieve lower
+effluent n given that srt also has an influence on microalgal
+community membership and abundance low srt may be lever 
+aged as a process control to select for increased biomass growth
+rates and increased eukaryotic diversity which may promote
+functional stability and achieve more effective and reliable total
+nutrient removal via biomass assimilation this short srt strategy
+represents a paradigm shift in our approach to removing n via
+bacterial nitrification denitrificationwhich leverages slow growing
+bacteria i e aob nob and cmx and archaea ammonia oxidizing
+archaea aoa dimitri kits et al tchobanoglous et al 
+ultimately the use of srt e an intuitive parameter that wrrf
+operators have successfully employed in conventional biological
+treatment processes e may provide algal technologies with an
+accessible way to shape community structure and function and to
+obtain reliable and predictable nutrient recovery fromwastewaters 
+
+
+
+i m bradley et al water research e 
+ conclusions
+
+the specific effect of srt i e growth rate effects on mixed
+phototrophic community structure and nutrient recovery was
+examined in suspended growth systems used to treat secondary
+effluent improved high throughput sequencing techniques were
+used to examine both algal and bacterial community structure 
+diversity and dynamics over long term experimentation it was
+found that srt influenced community composition significantly 
+creating a gradient of microbial composition across srts as ex 
+pected a short srt days selected for dynamic fast growing
+communities while a longer srt days allowed for the prolif 
+eration of slow growers and stable nitrification however eukary 
+otic community diversity was also significantly affected by srt and
+diversity community richness and evenness decreased with
+increasing srt this resulted in stable communities at high srts
+that reliably removed nh þ but experienced more variable overall
+nutrient uptake and higher levels of effluent tn conversely dy 
+namic less stable algal communities present at low srt were
+highly diverse andmaintained consistent overall tn removal across
+different community structures and dominant organisms in prac 
+tice these results demonstrate that utilities seeking to leverage
+algal systems for nutrient removal via biomass assimilation may
+want to consider short srts that allow for greater biomass assim 
+ilation and functional resiliency as the field seeks to design and
+implement microalgal processes at full scale the control of srt
+independent of hrt may be an important selective pressure to help
+maintain community structure and overall system performance 
+
+declaration of interests
+
+the authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper 
+
+acknowledgements
+
+this material is based upon work supported by the national
+science foundation united states under grant no cbet 
+we gratefully thank ariana nevarez david gardner dale anna
+fedders and jennifer debellis for assistance with data collection 
+without whom this work could not have been possible and bruce
+rabe from the urbana champaign sanitary district who provided
+access to inocula and secondary effluent we also thank jennifer
+debellis for photobioreactor design and acknowledge the roy j 
+carver biotechnology center at the university of illinois at urbana 
+champaign uiuc for performing high throughput sequencing 
+
+appendix a supplementary data
+
+supplementary data to this article can be found online at
+https doi org j watres 
+
+references
+
+akarsubasi a t eyice o miskin i head i m curtis t p effect of sludge age
+on the bacterial diversity of bench scale sequencing batch reactors environ sci 
+technol e https doi org es 
+
+altschul s basic local alignment search tool j mol biol e 
+https doi org jmbi 
+
+anbalagan a schwede s lindberg c f nehrenheim e influence of hy 
+draulic retention time on indigenous microalgae and activated sludge process 
+water res e https doi org j watres 
+
+apha standard methods for the examination of water and wastewater in 
+standard methods https doi org isbn 
+
+arbib z ruiz j �alvarez díaz p garrido p�erez c barragan j perales j a 
+long term outdoor operation of a tubular airlift pilot photobioreactor and a
+high rate algal pond as tertiary treatment of urban wastewater ecol eng 
+ e https doi org j ecoleng 
+arbib z de godos i ruiz j perales j a optimization of pilot high rate algal
+
+ponds for simultaneous nutrient removal and lipids production sci total en 
+viron e https doi org j scitotenv 
+
+arias d m uggetti e garcía gal�an m j garcía j nutrients and biomass
+dynamics in photo sequencing batch reactors treating wastewater with high
+nutrients loadings ecol eng e https doi org j ecoleng 
+ 
+
+asce infrastructure report card www document am soc civ eng 
+https doi org cbo 
+
+bagchi s tellez b g rao h a lamendella r saikaly p e diversity and
+dynamics of dominant and rare bacterial taxa in replicate sequencing batch
+reactors operated under different solids retention time appl microbiol bio 
+technol e https doi org s 
+
+boelee n c janssen m temmink h shrestha r buisman c j n wijffels r h 
+ nutrient removal and biomass production in an outdoor pilot scale
+phototrophic biofilm reactor for effluent polishing appl biochem biotechnol 
+ e https doi org s 
+
+bott c b parker d s nutrient management volume ii removal technology
+performance reliability brown and caldwell hampton roads sanitation
+district 
+
+bougaran g bernard o sciandra a modeling continuous cultures of
+microalgae colimited by nitrogen and phosphorus j theor biol e 
+https doi org j jtbi 
+
+bradley i m pinto a j guest j s design and evaluation of illumina miseq 
+compatible s rrna gene specific primers for improved characterization of
+mixed phototrophic communities appl environ microbiol e 
+https doi org aem 
+
+burrell p keller j blackall l l characterisation of the bacterial consortium
+involved in nitrite oxidation in activated sludge in water science and tech 
+nology pp e https doi org s 
+
+cardinale b j srivastava d s emmett duffy j wright j p downing a l 
+sankaran m jouseau c effects of biodiversity on the functioning of
+trophic groups and ecosystems nature e https doi org 
+nature 
+
+chen y lan s wang l dong s zhou h tan z li x a review driving
+factors and regulation strategies of microbial community structure and dy 
+namics in wastewater treatment systems chemosphere e https 
+doi org j chemosphere 
+
+cho d h choi j w kang z kim b h oh h m kim h ramanan r 
+microalgal diversity fosters stable biomass productivity in open ponds treating
+wastewater sci rep https doi org s 
+
+clark d l hunt g kasch m s lemonds p j moen g m neethling j b 
+regulatory approaches to protect water quality volume i review of exisiting
+practices water environment research foundation international water asso 
+ciation hdr engineering 
+
+coppens j grunert o van den hende s vanhoutte i boon n haesaert g de
+gelder l the use of microalgae as a high value organic slow release
+fertilizer results in tomatoes with increased carotenoid and sugar levels 
+j appl phycol e https doi org s 
+
+cromar n j fallowfield h j effect of nutrient loading and retention time on
+performance of high rate algal ponds pp e 
+
+c
+
+̌
+
+ervený j s
+
+̌
+
+etlík i trtílek m nedbal l photobioreactor for cultivation and
+real time in situ measurement of o and co exchange rates growth dy 
+namics and of chlorophyll fluorescence emission of photoautotrophic micro 
+organisms eng life sci e https doi org elsc 
+
+daims h lebedeva e v pjevac p han p herbold c albertsen m jehmlich n 
+palatinszky m vierheilig j bulaev a kirkegaard r h von bergen m 
+rattei t bendinger b nielsen p h wagner m complete nitrification
+by nitrospira bacteria nature https doi org nature 
+
+de godos i vargas v a guzm�an h o soto r garcía b garcía p a mu noz r 
+ assessing carbon and nitrogen removal in a novel anoxic aerobic cya 
+nobacterial bacterial photobioreactor configuration with enhanced biomass
+sedimentation water res c e https doi org j watres 
+ 
+
+dimitri kits k sedlacek c j lebedeva e v han p bulaev a pjevac p 
+daebeler a romano s albertsen m stein l y daims h wagner m 
+kinetic analysis of a complete nitrifier reveals an oligotrophic lifestyle nature
+ e https doi org nature 
+
+droop m r vitamin b and marine ecology iv the kinetics of uptake 
+growth and inhibition in monochrysis lutheri j mar biol assoc uk 
+ e https doi org s 
+
+fuggi a di martino rigano v vona v rigano c nitrate and ammonium
+assimilation in algal cell suspensions and related ph variations in the external
+medium monitored by electrodes plant sci lett e https doi org 
+ x 
+
+garcía j green b f lundquist t mujeriego r hern�andez marin�e m 
+oswald w j long term diurnal variations in contaminant removal in
+high rate ponds treating urban wastewater bioresour technol e 
+https doi org j biortech 
+
+gardner dale d a bradley i m guest j s influence of solids residence time
+and carbon storage on nitrogen and phosphorus recovery by microalgae across
+diel cycles water res e https doi org j watres 
+ 
+
+geider r roche j la redfield revisited variability of c n p in marine
+
+https doi org j watres 
+https doi org es 
+https doi org jmbi 
+https doi org j watres 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org j ecoleng 
+https doi org j scitotenv 
+https doi org j ecoleng 
+https doi org j ecoleng 
+https doi org cbo 
+https doi org s 
+https doi org s 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org j jtbi 
+https doi org aem 
+https doi org s 
+https doi org nature 
+https doi org nature 
+https doi org j chemosphere 
+https doi org j chemosphere 
+https doi org s 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org s 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org elsc 
+https doi org nature 
+https doi org j watres 
+https doi org j watres 
+https doi org nature 
+https doi org s 
+https doi org x
+https doi org x
+https doi org j biortech 
+https doi org j watres 
+https doi org j watres 
+http refhub elsevier com s sref 
+
+
+i m bradley et al water research e 
+microalgae and its biochemical basis eur j phycol e 
+grady jr c p l smets b f barbeau d s variability in kinetic parameter
+
+estimates a review of possible causes and a proposed terminology water res 
+ e https doi org 
+
+guest j s skerlos s j barnard j l beck m b hill c h m carolina n jackson s j 
+macpherson l a new planning and design paradigm to achieve sus 
+tainable resource recovery from vol pp e https doi org 
+ es r 
+
+guest j s van loosdrecht m c m skerlos s j love n g lumped pathway
+metabolic model of organic carbon accumulation and mobilization by the alga
+chlamydomonas reinhardtii environ sci technol e https doi 
+org es y 
+
+hu m wang x wen x xia y microbial community structures in different
+wastewater treatment plants as revealed by pyrosequencing analysis 
+bioresour technol e https doi org j biortech 
+
+hu y hao x van loosdrecht m chen h enrichment of highly settleable
+microalgal consortia in mixed cultures for effluent polishing and low cost
+biomass production water res e https doi org j watres 
+ 
+
+iman shayan s agblevor f a bertin l sims r c hydraulic retention time
+effects on wastewater nutrient removal and bioproduct production via rotating
+algal biofilm reactor bioresour technol e https doi org j 
+biortech 
+
+juretschko s timmermann g schmid m schleifer k h pommerening r€oser a 
+koops h p wagner m combined molecular and conventional analyses
+of nitrifying bacterium diversity in activated sludge nitrosococcus mobilis and
+nitrospira like bacteria as dominant populations appl environ microbiol 
+ e 
+
+kaewpipat k grady c p l microbial population dynamics in laboratory 
+scale activated sludge reactors in water science and technology pp e 
+
+kim y m cho h u lee d s park d park j m influence of operational
+parameters on nitrogen removal efficiency and microbial communities in a full 
+scale activated sludge process water res e https doi org 
+ j watres 
+
+kooi b w boer m p kooijman s complex dynamic behaviour of autono 
+mous microbial food chains j math biol e 
+
+kozich j j westcott s l baxter n t highlander s k schloss p d devel 
+opment of a dual index sequencing strategy and curation pipeline for analyzing
+amplicon sequence data on the miseq illumina sequencing platform appl 
+environ microbiol e https doi org aem 
+
+kropat j hong hermesdorf a casero d ent p castruita m pellegrini m 
+merchant s s malasarn d a revised mineral nutrient supplement in 
+creases biomass and growth rate in chlamydomonas reinhardtii plant j cell
+mol biol e https doi org j x x 
+
+layton a c dionisi h kuo h kevin g garrett v m meyers a gary s 
+robinson k g sayler g s emergence of competitive dominant
+ammonia oxidizing bacterial populations in a full scale industrial wastewater
+treatment plant emergence of competitive dominant ammonia oxidizing bac 
+terial populations in a full scale industrial wastewater treatment plant appl 
+environ microbiol e https doi org aem 
+
+lee e jalalizadeh m zhang q growth kinetic models for microalgae
+cultivation a review algal res e https doi org j algal 
+ 
+
+liu h jeong j gray h smith s sedlak d l algal uptake of hydrophobic
+and hydrophilic dissolved organic nitrogen in effluent from biological nutrient
+removal municipal wastewater treatment systems environ sci technol 
+ e https doi org es y 
+
+liu l fan h liu y liu c huang x development of algae bacteria
+granular consortia in photo sequencing batch reactor bioresour technol 
+ e https doi org j biortech 
+
+mark ibekwe a murinda s e murry m a schwartz g lundquist t mi 
+crobial community structures in high rate algae ponds for bioconversion of
+agricultural wastes from livestock industry for feed production sci total en 
+viron e https doi org j scitotenv 
+
+mccarty p l bae j kim j domestic wastewater treatment as a net energy
+producer–can this be achieved environ sci technol e https 
+doi org es 
+
+mcilroy s j saunders a m albertsen m nierychlo m mcilroy b hansen a a 
+karst s m nielsen j l nielsen p h midas the field guide to the mi 
+crobes of activated sludge database https doi org database 
+bav 
+
+mihelcic j r ren z j cornejo p k fisher a simon a j snyder s w zhang q 
+rosso d huggins t m cooper w moeller j rose b schottel b l 
+turgeon j accelerating innovation that enhances resource recovery in
+the wastewater sector advancing a national testbed network environ sci 
+technol e https doi org acs est b 
+
+mindl b sonntag b pernthaler j vrba j psenner r posch t effects of
+phosphorus loading on interactions of algae and bacteria reinvestigation of the
+‘phytoplankton bacteria paradox’ in a continuous cultivation system aquat 
+microb ecol e https doi org ame 
+
+mooij p r stouten g r tamis j van loosdrecht m c m kleerebezem r 
+survival of the fattest energy environ sci https doi org 
+c ee a 
+
+nalley jakob o stockenreiter maria e l community ecology of algal bio 
+fuels complementarity and trait based approaches ind biotechnol 
+ e https doi org ind 
+nedbal l trtílek m cervený j kom�arek o pakrasi h b 
+
+a photobioreactor system for precision cultivation of photoautotrophic micro 
+organisms and for high content analysis of suspension dynamics biotechnol 
+bioeng e https doi org bit 
+
+oswald w j gotaas h b photosynthesis in sewage treatment trans am 
+soc civ eng e 
+
+park j b k craggs r j wastewater treatment and algal production in high
+rate algal ponds with carbon dioxide addition water sci technol j int assoc 
+water pollut res e https doi org wst 
+
+park j b k craggs r j shilton a n recycling algae to improve species
+control and harvest efficiency from a high rate algal pond water res 
+ e https doi org j watres 
+
+pianka e r on r and k selection am nat e https doi org 
+ 
+
+pinto a j marcus d n ijaz u z bautista de lose santos q m dick g j raskin l 
+ metagenomic evidence for the presence of comammox nitrospira like
+bacteria in a drinking water system msphere https doi org 
+msphere 
+
+pittman j k dean a p osundeko o the potential of sustainable algal
+biofuel production using wastewater resources bioresour technol e 
+https doi org j biortech 
+
+ptacnik r solimini a g andersen t tamminen t brettum p lepist€o l 
+will�en e rekolainen s diversity predicts stability and resource use
+efficiency in natural phytoplankton communities proc natl acad sci u s a
+ e https doi org pnas 
+
+purkhold u pommerening roser a juretschko s schmid m c koops h p 
+wagner m phylogeny of all recognized species of ammonia oxidizers
+based on comparative s rrna and amoa sequence analysis implications for
+molecular diversity surveys appl environ microbiol e https 
+doi org aem 
+
+qin c liu h liu l smith s sedlak d l gu a z bioavailability and
+characterization of dissolved organic nitrogen and dissolved organic phos 
+phorus in wastewater effluents sci total environ e https doi org 
+ j scitotenv 
+
+rasouli z valverde p�erez b d’este m de francisci d angelidaki i 
+nutrient recovery from industrial wastewater as single cell protein by a co 
+culture of green microalgae and methanotrophs biochem eng j 
+ e https doi org j bej 
+
+rich l g unit processes of sanitary engineering john wiley sons ltd 
+richmond a handbook of microalgal culture biotechnology and applied
+
+phycology in richmond amos ed orton catie ac cr vol https doi 
+org 
+
+rittmann b e mccarty p l environmental biotechnology principles and
+applications biotechnology 
+
+roberts g w fortier m o p sturm b s m stagg williams s m promising
+pathway for algal biofuels through wastewater cultivation and hydrothermal
+conversion energy fuels e https doi org ef 
+
+rognes t flouri t nichols b quince c mah�e f vsearch a versatile
+open source tool for metagenomics peerj e https doi org 
+peerj 
+
+saikaly p e stroot p g oerther d b use of s rrna gene terminal re 
+striction fragment analysis to assess the impact of solids retention time on the
+bacterial diversity of activated sludge use of s rrna gene terminal restriction
+fragment analysis to assess the impact of solids retention t appl environ 
+microbiol e https doi org aem 
+
+sanz luque e oca na calahorro f llamas a galvan a fernandez e nitric
+oxide controls nitrate and ammonium assimilation in chlamydomonas rein 
+hardtii j exp bot e https doi org jxb ert 
+
+shoener b d bradley i m cusick r d guest j s energy positive domestic
+wastewater treatment the roles of anaerobic and phototrophic technologies 
+environ sci process impacts e https doi org c em a 
+
+shurin j b mandal s abbott r l trait diversity enhances yield in algal
+biofuel assemblages j appl ecol e https doi org 
+ 
+
+silva c c jesus e c torres a p r sousa m p santiago v m j oliveira v m 
+investigation of bacterial diversity in membrane bioreactor and conventional
+activated sludge processes from petroleum refineries using phylogenetic and
+statistical approaches j microbiol biotechnol e https doi org 
+jmb 
+
+siripong s rittmann b e diversity study of nitrifying bacteria in full scale
+municipal wastewater treatment plants water res e https doi 
+org j watres 
+
+sterner r w elser j j ecological stoichiometry the biology of elements
+from molecules to the biosphere princeton university press princeton nj 
+
+sturm b state of knowledge and workshop report intensification of
+resource recovery ir forum no tirr r water environment research
+foundation alexandria va 
+
+sutherland d turnbull m broady p craggs r wastewater microalgal
+production nutrient removal and physiological adaptation in response to
+changes in mixing frequency water res e https doi org j 
+watres 
+
+sutherland d l howard williams c turnbull m h broady p a craggs r j 
+the effects of co addition along a ph gradient on wastewater microalgal
+photo physiology biomass production and nutrient removal water res 
+
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org 
+https doi org es r
+https doi org es r
+https doi org es y
+https doi org es y
+https doi org j biortech 
+https doi org j watres 
+https doi org j watres 
+https doi org j biortech 
+https doi org j biortech 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org j watres 
+https doi org j watres 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org aem 
+https doi org j x x
+https doi org aem 
+https doi org j algal 
+https doi org j algal 
+https doi org es y
+https doi org j biortech 
+https doi org j scitotenv 
+https doi org es 
+https doi org es 
+https doi org database bav 
+https doi org database bav 
+https doi org acs est b 
+https doi org ame 
+https doi org c ee a
+https doi org c ee a
+https doi org ind 
+https doi org bit 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org wst 
+https doi org j watres 
+https doi org 
+https doi org 
+https doi org msphere 
+https doi org msphere 
+https doi org j biortech 
+https doi org pnas 
+https doi org aem 
+https doi org aem 
+https doi org j scitotenv 
+https doi org j scitotenv 
+https doi org j bej 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org 
+https doi org 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org ef 
+https doi org peerj 
+https doi org peerj 
+https doi org aem 
+https doi org jxb ert 
+https doi org c em a
+https doi org 
+https doi org 
+https doi org jmb 
+https doi org jmb 
+https doi org j watres 
+https doi org j watres 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org j watres 
+https doi org j watres 
+
+
+i m bradley et al water research e 
+ e https doi org j watres 
+sutherland d l heubeck s park j turnbull m h craggs r j seasonal
+
+performance of a full scale wastewater treatment enhanced pond system 
+water res e https doi org j watres 
+
+takabe y hidaka t tsumori j minamiyama m effects of hydraulic
+retention time on cultivation of indigenous microalgae as a renewable energy
+source using secondary effluent bioresour technol e https doi 
+org j biortech 
+
+tchobanoglous g burton f l stensel h d wastewater engineering 
+treatment and resource recovery metcalf eddy https doi org 
+ 
+
+us epa a compilation of cost data associated with the impacts and control
+of nutrient pollution 
+
+valigore j m gostomski p a wareham d g o sullivan a d effects of hy 
+draulic and solids retention times on productivity and settleability of microbial
+ microalgal bacterial biomass grown on primary treated wastewater as a
+biofuel feedstock water res e https doi org j watres 
+ 
+
+van kessel m a h j speth d r albertsen m nielsen p h op den camp h j m 
+kartal b jetten m s m lücker s complete nitrification by a single
+microorganism nature e https doi org nature 
+verstraete w van de caveye p diamantis v maximum use of resources
+present in domestic “used water bioresour technol e https 
+doi org j biortech 
+
+viruela a murgui m g�omez gil t dur�an f robles �a ruano m v ferrer j 
+seco a water resource recovery by means of microalgae cultivation in
+outdoor photobioreactors using the effluent from an anaerobic membrane
+bioreactor fed with pre treated sewage bioresour technol e 
+https doi org j biortech 
+
+vuono d c benecke j henkel j navidi w c cath t y munakata marr j 
+spear j r drewes j e disturbance and temporal partitioning of the
+activated sludge metacommunity isme j e https doi org 
+ismej 
+
+woertz i feffer a lundquist t nelson y algae grown on dairy and
+municipal wastewater for biofuel feedstock vol 
+
+xu m li p tang t hu z roles of srt and hrt of an algal membrane
+bioreactor system with a tanks in series configuration for secondary waste 
+water effluent polishing ecol eng e https doi org j 
+ecoleng 
+
+yang j gou y fang f guo j ma h wei x shahmoradi b impacts of
+sludge retention time on the performance of an algal bacterial bioreactor 
+chem eng j e https doi org j cej 
+
+https doi org j watres 
+https doi org j watres 
+https doi org j biortech 
+https doi org j biortech 
+https doi org 
+https doi org 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org j watres 
+https doi org j watres 
+https doi org nature 
+https doi org j biortech 
+https doi org j biortech 
+https doi org j biortech 
+https doi org ismej 
+https doi org ismej 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+https doi org j ecoleng 
+https doi org j ecoleng 
+https doi org j cej 
+
+	impact of solids residence time on community structure and nutrient dynamics of mixed phototrophic wastewater treatment systems
+	 introduction
+	 materials and methods
+	 photobioreactor pbr design and operation
+	 secondary effluent and examination of srt effects
+	 inoculum and pbr start up period
+	 long term pbr operation and sampling
+	 kinetic assay
+	 water quality monitoring and biomass elemental analysis
+	 dna extraction amplification and sequencing
+	 sequence read processing and analysis
+
+	 results and discussion
+	 microbial community structure
+	 community dynamics
+	 community function and performance
+
+	 conclusions
+	declaration of interests
+	acknowledgements
+	appendix a supplementary data
+	references
+
+
+

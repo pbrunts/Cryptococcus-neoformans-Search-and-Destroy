@@ -1,0 +1,2411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+plankton networks driving carbon export in the oligotrophic ocean
+
+
+plankton networks driving carbon export in the oligotrophic 
+ocean
+
+lionel guidi samuel chaffron lucie bittner damien eveillard abdelhalim 
+larhlimi simon roux youssef darzi stephane audic léo berline jennifer 
+brum luis pedro coelho julio cesar ignacio espinoza shruti malviya shinichi 
+sunagawa céline dimier stefanie kandels lewis marc picheral julie poulain 
+sarah searson tara oceans coordinators lars stemmann fabrice not pascal 
+hingamp sabrina speich mick follows lee karp boss emmanuel boss 
+hiroyuki ogata stephane pesant jean weissenbach patrick wincker 
+silvia g acinas peer bork colomban de vargas daniele iudicone matthew b 
+sullivan jeroen raes eric karsenti chris bowler and gabriel gorsky 
+
+ sorbonne universités upmc université paris cnrs laboratoire d’oceanographie de 
+villefranche lov observatoire océanologique villefranche sur mer france
+
+ department of oceanography university of hawaii honolulu hawaii usa
+
+ department of microbiology and immunology rega institute ku leuven herestraat 
+leuven belgium 
+
+ center for the biology of disease vib herestraat leuven belgium 
+
+ department of applied biological sciences vrije universiteit brussel pleinlaan 
+brussels belgium 
+
+ sorbonne universités upmc univ paris cnrs institut de biologie paris seine ibps 
+evolution paris seine f paris france 
+
+ ecole normale supérieure psl research university institut de biologie de l’ecole normale 
+supérieure ibens cnrs umr inserm u rue d’ulm f paris france 
+
+ sorbonne universités upmc université paris cnrs laboratoire adaptation et diversité en 
+milieu marin station biologique de roscoff roscoff france
+
+ lina umr université de nantes emn cnrs nantes france 
+
+reprints and permissions information is available at www nature com reprints users may view print copy and download text and 
+data mine the content in such documents for the purposes of academic research subject always to the full conditions of use http 
+www nature com authors editorial policies license html terms
+
+correspondence and requests for materials should be addressed to lguidi obs vlfr fr samuel chaffron vib kuleuven be 
+lucie bittner upmc fr damien eveillard univ nantes fr jeroen raes vib kuleuven be karsenti embl de cbowler biologie ens fr 
+gorsky obs vlfr fr 
+ current affiliation department of microbiology the ohio state university columbus oh usa
+ current affiliation aix marseille univ mediterranean institute of oceanography mio marseille cedex france 
+université du sud toulon var mio la garde cedex france cnrs insu mio umr ird mio umr 
+
+data described herein is available at ebi under the project identifiers prjeb prjeb and prjeb pangaea 
+and a companion website http www raeslab org companion ocean carbon export html the data release policy regarding future 
+public release of tara oceans data is described in pesant et al all authors approved the final manuscript 
+
+the authors declare no competing financial interests 
+
+europe pmc funders group
+author manuscript
+nature author manuscript available in pmc september 
+
+published in final edited form as 
+nature april – doi nature 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+http www nature com reprints
+http www raeslab org companion ocean carbon export html
+
+
+ department of ecology and evolutionary biology university of arizona tucson az 
+usa 
+
+ structural and computational biology european molecular biology laboratory meyerhofstr 
+ heidelberg germany
+
+ directors’ research european molecular biology laboratory meyerhofstr heidelberg 
+germany
+
+ cea institut de génomique genoscope rue gaston crémieux evry france 
+
+ aix marseille université cnrs igs umr marseille france
+
+ department of geosciences laboratoire de météorologie dynamique lmd ecole normale 
+supérieure rue lhomond paris cedex france 
+
+ dept of earth atmospheric and planetary sciences massachusetts institute of technology 
+cambridge usa 
+
+ school of marine sciences university of maine orono usa 
+
+ institute for chemical research kyoto university gokasho uji kyoto japan 
+
+ pangaea data publisher for earth and environmental science university of bremen 
+bremen germany 
+
+ marum center for marine environmental sciences university of bremen bremen germany 
+
+ cnrs umr cp evry france 
+
+ université d evry umr cp evry france 
+
+ department of marine biology and oceanography institute of marine sciences icm csic pg 
+marítim de la barceloneta barcelona e spain 
+
+ max delbrück centre for molecular medicine berlin germany
+
+ stazione zoologica anton dohrn villa comunale naples italy 
+
+ these authors contributed equally to this work 
+
+abstract
+
+the biological carbon pump is the process by which co is transformed to organic carbon via 
+photosynthesis exported through sinking particles and finally sequestered in the deep ocean 
+
+while the intensity of the pump correlates with plankton community composition the underlying 
+
+ecosystem structure driving the process remains largely uncharacterised here we use 
+
+environmental and metagenomic data gathered during the tara oceans expedition to improve our 
+understanding of carbon export in the oligotrophic ocean we show that specific plankton 
+
+communities from the surface and deep chlorophyll maximum correlate with carbon export at 
+
+ m and highlight unexpected taxa such as radiolaria alveolate parasites as well as 
+
+synechococcus and their phages as lineages most strongly associated with carbon export in the 
+subtropical nutrient depleted oligotrophic ocean additionally we show that the relative 
+
+abundance of just a few bacterial and viral genes can predict most of the variability in carbon 
+
+export in these regions 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+marine planktonic photosynthetic organisms are responsible for approximately fifty percent 
+
+of earth’s primary production and fuel the global ocean biological carbon pump the 
+
+intensity of the pump is correlated to plankton community composition and controlled by 
+
+the relative rates of primary production and carbon remineralisation about of this 
+
+newly produced organic carbon in the surface ocean is exported through gravitational 
+
+sinking of particles finally after multiple transformations a fraction of the exported 
+
+material reaches the deep ocean where it is sequestered over thousand year timescales 
+
+like most biological systems marine ecosystems in the sunlit upper layer of the ocean 
+
+ denoted the euphotic zone are complex characterised by a wide range of biotic and 
+
+abiotic interactions and in constant balance between carbon production transfer to 
+
+higher trophic levels remineralisation and export to the deep layers the marine 
+
+ecosystem structure and its taxonomic and functional composition likely evolved to comply 
+
+with this loss of energy by modifying organism turnover times and by the establishment of 
+
+complex feedbacks between them and the substrates they can exploit for metabolism 
+
+decades of groundbreaking research have focused on identifying independently the key 
+
+players involved in the biological carbon pump among autotrophs diatoms are commonly 
+
+attributed to being important in carbon flux because of their large size and fast sinking 
+
+rates while small autotrophic picoplankton may contribute directly through subduction 
+
+of surface water or indirectly by aggregating with larger settling particles or consumption 
+
+by organisms at higher trophic levels among heterotrophs zooplankton such as 
+
+crustaceans impact carbon flux via production of fast sinking fecal pellets while migrating 
+hundreds of meters in the water column these observations focusing on just a few 
+
+components of the marine ecosystem highlight that carbon export results from multiple 
+
+biotic interactions and that a better understanding of the mechanisms involved in its 
+
+regulation will require an analysis of the entire planktonic ecosystem 
+
+advanced sequencing technologies offer the opportunity to simultaneously survey whole 
+
+planktonic communities and associated molecular functions in unprecedented detail such a 
+
+holistic approach may allow the identification of community or gene based biomarkers that 
+
+could be used to monitor and predict ecosystem functions e g related to the 
+biogeochemistry of the ocean here we leverage global scale ocean genomics datasets 
+
+from the euphotic zone and associated environmental data to assess the coupling 
+
+between ecosystem structure functional repertoire and carbon export at m 
+
+carbon export and plankton community composition
+
+the tara oceans global circumnavigation crossed diverse ocean ecosystems and sampled 
+plankton at an unprecedented scale see methods hydrographic data were measured in 
+situ or in seawater samples at all stations as well as nutrients oxygen and photosynthetic 
+pigments see methods net primary production npp was derived from satellite 
+
+measurements see methods in addition particle size distributions μm to a few mm 
+and concentrations were measured using an underwater vision profiler uvp from which 
+
+carbon export corresponding to the carbon flux fig a at m was calculated to range 
+
+from to mg m− d− using methods previously described see methods one 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+should keep in mind that fluxes are calculated from images of particles these estimates are 
+
+derived from an approximation of stokes’ law relating the equivalent spherical diameter of 
+
+particles to carbon flux see methods this exponential approximation is reasonable 
+
+assuming similar particle composition across all sizes as highlighted by the standard 
+
+deviations of parameters in eq see methods furthermore because of instrument and 
+
+method limitations particles μm were not used which may underestimate total carbon 
+fluxes finally these fluxes are instantaneous because they do not integrate space and time 
+
+as sediment traps would however the approach allowed us to assemble the largest 
+
+homogeneous carbon export dataset during a single expedition corresponding to more than 
+
+ profiles over stations this dataset is of similar magnitude to the body of historical 
+
+data available in the literature that includes the deep sediment trap based carbon flux 
+
+time series from the jgofs program and the thorium derived particulate organic 
+
+carbon poc export measurements 
+
+from globally distributed sites a total of tb of metagenomics data representing 
+
+million non redundant genes around operational taxonomic units otus of 
+
+prokaryotes bacteria and archaea and numerous mainly uncharacterized viruses and 
+
+picoeukaryotes have been described recently in addition a set of million 
+
+eukaryotic s rdna ribotypes was generated from a subset of sampling sites 
+
+corresponding to approximately otus fig a finally viral 
+
+“populations” were identified at sites from viral metagenomic contigs only 
+
+of which had been previously observed see methods these genomics data combined 
+
+across all domains of life and viruses together with carbon export estimates and other 
+
+environmental parameters were used to explore the relationships between marine 
+
+biogeochemistry and euphotic plankton communities see methods in the top m of the 
+
+oligotrophic open ocean our study did not include high latitude areas due to the current lack 
+
+of available molecular data and results should not be extrapolated to deeper depths 
+
+using a method for regression based modeling of high multidimensional data in biology 
+
+ specifically a sparse partial least square analysis spls extended data fig we 
+
+detected several plankton lineages for which relative sequence abundance correlated with 
+
+carbon export and other environmental parameters most notably with npp as expected fig 
+
+ b and see supplementary table these included diatoms dinoflagellates and metazoa 
+
+ zooplankton lineages classically identified as key contributors to carbon export 
+
+plankton community networks associated with carbon export
+
+while the analysis presented in fig b supports previous findings about key organisms 
+
+involved in carbon export from the euphotic zone it is not able to capture how the 
+
+intrinsic structure of the planktonic community relates to this biogeochemical process 
+
+conversely although other recent holistic approaches used species co occurrence 
+
+networks to reveal potential biotic interactions they do not provide a robust description of 
+
+sub communities driven by abiotic interactions to overcome these issues we applied a 
+
+systems biology approach known as weighted gene correlation network analysis 
+
+ wgcna to detect significant associations between the tara oceans genomics data 
+and carbon export this method delineates communities in the euphotic zone that are the 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+most associated with carbon export rather than predicting organisms associated with sinking 
+
+particles 
+
+in brief the wgcna approach builds a network in which nodes are features in this case 
+
+plankton lineages or gene functions and links are evaluated by the robustness of co 
+
+occurrence scores wgcna then clusters the network into modules hereafter denoted 
+
+subnetworks that can be examined to find significant subnetwork trait relationships we 
+
+then filtered each subnetwork using a partial least square pls analysis that emphasizes 
+
+key nodes based on the variable importance in projection vip scores see methods and 
+
+extended data fig these particular nodes are mandatory to summarize a subnetwork or 
+
+community related to carbon export in particular they are of interest for evaluating i 
+
+subnetwork robustness and ii predictive power for a given trait see methods and extended 
+
+data fig 
+
+we applied wgcna to the relative abundance tables of eukaryotic prokaryotic and viral 
+
+lineages and identified unique subnetworks significantly associated with carbon export 
+
+within each dataset see methods and supplementary tables the eukaryotic 
+
+subnetwork subnetwork trait relationship to carbon export pearson cor p e− 
+contained lineages extended data fig a and supplementary table among which 
+
+ represented photosynthetic organisms fig a and supplementary table 
+
+surprisingly this small subnetwork’s structure correlates very strongly to carbon export 
+
+ pearson cor p e− extended data fig d and it predicts as much as 
+ leave one out cross validated loocv r of the variability in carbon export 
+
+ extended data fig g only of the subnetwork nodes correspond to diatoms and they 
+
+show lower vip scores than dinoflagellates supplementary table this is likely because 
+
+our samples are not from silicate replete conditions where diatoms were blooming 
+
+furthermore our analysis did not incorporate data from high latitudes where diatoms are 
+
+known to be particularly important for carbon export so this result suggests that 
+
+dinoflagellates have a heretofore unrecognized role in carbon export processes in subtropical 
+
+oligotrophic ‘type’ ecosystems more precisely four of the five highest vip scoring 
+
+eukaryotic lineages that correlated with carbon export at m were heterotrophs such as 
+
+metazoa copepods non photosynthetic dinophyceae and rhizaria fig a and 
+supplementary table these results corroborate recent metagenomics analysis of 
+
+microbial communities from sediment traps in the oligotrophic north pacific subtropical 
+
+gyre consistently in situ imaging surveys have revealed rhizarian lineages made up of 
+large fragile organisms such as the collodaria to represent an until now under appreciated 
+
+component of global plankton biomass which here also appear to be of relevance for 
+
+carbon export another of lineages from the subnetwork correspond to parasitic 
+
+organisms a largely under explored component of planktonic ecosystems when studying 
+
+carbon export 
+
+the prokaryotic subnetwork that associated most significantly with carbon export at m 
+
+ subnetwork trait relationship to carbon export pearson cor p e− contained 
+ otus extended data fig b and supplementary table its structure correlated well 
+
+to carbon export pearson cor p e− extended data fig e and it could predict 
+as much as of the carbon export loocv r extended data fig h by far 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+the highest vip score within this community was assigned to synechococcus followed by 
+cobetia pseudoalteromonas and idiomarina as well as vibrio and arcobacter fig b and 
+supplementary table noteworthy prochlorococcus genera and sar clade fall out of 
+this community while the significance of synechococcus for carbon export could be 
+validated using absolute cell counts estimated by flow cytometry pearson cor p 
+ e− extended data fig k moreover prochlorococcus cell counts did not correlate with 
+carbon export pearson cor − p extended data fig j whereas the 
+synechococcus to prochlorococcus cell count ratio correlated positively and significantly 
+ pearson cor p e− extended data fig l suggesting the relevance of 
+synechococcus rather than prochlorococcus to carbon export interestingly 
+pseudoalteromonas idiomarina vibrio and arcobacter of which several species are known 
+to be associated with eukaryotes have also been observed in live and poisoned sediment 
+
+traps and display very high vip scores in the subnetwork associated with carbon export 
+
+additional genera reported as being enriched in poisoned traps also known as being 
+
+associated with eukaryotes include enterovibrio and campylobacter and are present as well 
+in the carbon export associated subnetwork 
+
+interestingly the viral subnetwork involving populations most related to carbon export 
+
+at m pearson cor p e− extended data fig c contained particularly high 
+vip scores for two synechococcus phages fig c and supplementary table which 
+represented a fold enrichment fisher’s exact test p e− its structure also 
+correlated with carbon export pearson cor p e− extended data fig f and 
+could predict up to of the variability of carbon export loocv r extended 
+
+data fig i the significance of these convergent results is reinforced by the fact that 
+
+sequences from these datasets are derived from organisms collected on independent size 
+
+filters see methods and further implicates the importance of top down processes in carbon 
+
+export 
+
+with the aim of integrating eukaryotic prokaryotic and viral communities in the euphotic 
+
+zone with carbon export at m we synthesized their respective subnetworks using a 
+
+single global co occurrence network established previously the resulting network focused 
+
+on key lineages and their predicted co occurrences fig lineages with high vip values 
+
+ such as synechococcus are revealed as hubs of the co occurrence network illustrating 
+the potentially strategic key roles within the integrated network of lineages under 
+
+appreciated by conventional methods to study carbon export associations between the hub 
+
+lineages are mostly mutually exclusive which may explain the relatively weak correlation of 
+
+some of these lineages with carbon export when using standard correlation analyses as 
+
+shown in fig b 
+
+gene functions associated with carbon export
+
+given the potential importance of prokaryotic processes influencing the biological carbon 
+
+pump we used the same analytical approaches to examine the prokaryotic genomic 
+
+functions associated with carbon export at m in the annotated ocean microbial 
+
+reference gene catalogue from tara oceans we built a global co occurrence network for 
+functions i e orthologous groups of genes or ogs from the euphotic zone and identified 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+two subnetworks of functions that are significantly associated with carbon export light and 
+
+dark green subnetworks fnet and fnet respectively see extended data fig a b and 
+
+ c 
+
+the majority of functions in fnet and fnet correlate well with carbon export fnet 
+
+mean pearson cor s d and fnet mean pearson cor s d 
+
+interestingly fnet functions n encode mostly core functions i e functions 
+observed in all euphotic samples see methods while the majority of fnet functions 
+
+ n are non core see supplementary tables highlighting both essential and 
+adaptive ecological functions associated with carbon export top vip scoring functions in 
+
+the fnet subnetwork are membrane proteins such as abc type sugar transporters 
+
+ extended data fig c this subnetwork also contains many functions specific to the 
+
+synechococcus accessory photosynthetic apparatus e g relating to phycobilisomes 
+phycocyanin and phycoerythrin see supplementary table which is consistent with the 
+
+major role of this genus for carbon export inferred from the prokaryotic subnetwork fig 
+
+ b in addition functions related to carbohydrates inorganic ion transport and metabolism 
+
+as well as transcription are also well represented fig suggesting overall a subnetwork 
+
+of functions dedicated to photosynthesis and growth 
+
+the fnet subnetwork contains several functions encoded by genes taxonomically 
+
+assigned to candidatus pelagibacter and prochlorococcus known as occupying similar 
+oceanic regions as synechococcus but overall most of its relative abundance is 
+taxonomically unclassified extended data fig e top vip scoring functions in fnet are 
+
+also membrane proteins and abc type sugar transporters as well as functions involved in 
+
+carbohydrate breakdown such as a chitinase extended data fig c these features 
+
+highlight the potential roles of bacteria in the formation and degradation of marine 
+
+aggregates strikingly and of ogs with a vip score in fnet and fnet 
+
+respectively are functionally uncharacterized fig pointing to the strong need for 
+
+future molecular work to explore these functions see supplementary tables 
+
+the relevance of the identified bacterial functions to predict carbon export was also 
+
+confirmed by pls regression extended data fig d as proposed for plankton 
+
+communities the functional subnetworks predict and of carbon export variability 
+
+ loocv r and for fnet and fnet respectively with a minimal number 
+
+of functions fig and functions with a vip score for fnet and fnet 
+
+respectively finally higher predictive power was obtained using subnetworks of viral 
+
+protein clusters extended data fig a b and c predicting and of carbon 
+
+export variability loocv r and for vnet and vnet respectively 
+
+extended data fig d supplementary tables suggesting the key role of not only 
+
+bacteria but also their phages in processes sustaining carbon export at a global level 
+
+discussion
+
+in this report we reveal the potential contribution of unexpected components of plankton 
+
+communities and confirm the importance of prokaryotes and viruses in the correlating with 
+
+carbon export in the nutrient depleted oligotrophic ocean carbon export at m has been 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+estimated from particle size distribution in a global dataset but should be taken with caution 
+
+as the estimates do not account for particle composition in addition these export estimates 
+
+evaluate how much carbon leaves the euphotic zone but they are not related and should not 
+
+be extrapolated to sequestration which occurs after remineralisation deeper in the water 
+
+column and over longer timescales nonetheless the use of the uvp was the only realistic 
+
+method to evaluate carbon flux over the years expedition because deployment of sediment 
+
+traps at all stations would have been impossible while our findings are consistent with the 
+
+numerous previous studies that have highlighted the central role of copepods and diatoms in 
+
+carbon export they place them in an ecosystem context and reveal hypothetical 
+
+processes correlating with the intensity of export such as parasitism and predation for 
+
+example while viruses are commonly assumed to lyse cells and maintain fixed organic 
+
+carbon in surface waters thereby reducing the intensity of the biological carbon pump 
+
+there are hints that viral lysis may increase carbon export through the production of colloidal 
+
+particles and aggregate formation our current study suggests that these latter roles may be 
+
+more ubiquitous than currently appreciated the importance of aggregation and cell 
+
+stickiness as inferred from gene network analysis should be further explored mechanistically 
+
+to investigate the biological significance of these findings 
+
+the future evolution of the oceanic carbon sink remains uncertain because of poorly 
+
+constrained processes particularly those associated with the biological pump with current 
+
+trends in climate change the size and biodiversity of phytoplankton are predicted to 
+
+decrease globally furthermore in spite of the potential importance of viruses revealed 
+
+in this study they have largely been ignored because of limitations in sampling technologies 
+
+consequently as oligotrophic gyres expand and global mean npp decreases the field is 
+
+currently unable to predict the consequences for carbon export from the ocean’s euphotic 
+
+zone by pinpointing key lineages and key microbial functions that correlate with carbon 
+
+export at m in these areas this study provides a framework to address this critical 
+
+bottleneck however the associations presented do not necessarily suggest a causal effect on 
+
+carbon export which will require further investigation 
+
+one of the grand challenges in the life sciences is to link genes to ecosystems based on 
+
+the posit that genes can have predictable ecological footprints at community and ecosystem 
+
+levels the tara oceans data sets have allowed us to predict as much as of the 
+variability in carbon export from the oligotrophic surface ocean with just a small number of 
+
+genes largely with unknown functions encoded by prokaryotes and viruses these findings 
+
+can be used as a basis to include biological complexity and guide experimental work 
+
+designed to inform climate modeling of the global carbon cycle such statistical analyses 
+
+scaling from gene to ecosystems may open the way to the development of a new conceptual 
+
+and methodological framework to better understand the mechanisms underpinning key 
+
+ecological processes 
+
+methods
+
+environmental data collection
+
+from environmental data supplementary table were collected across all 
+
+major oceanic provinces in the context of the tara oceans expeditions sampling stations 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+were selected to represent distinct marine ecosystems at a global scale note that southern 
+
+ocean stations were not examined herein because they were ranked as outliers due to their 
+
+exceptional environmental characteristics and biota environmental data were obtained 
+
+from vertical profiles of a sampling package it consisted of conductivity and 
+
+temperature sensors chlorophyll and cdom fluorometers light transmissometer wetlabs 
+
+c star cm a backscatter sensor wetlabs eco bb a nitrate sensor satlantic 
+
+isus and a hydroptic underwater vision profiler uvp hydroptics nitrate and 
+
+fluorescence to chlorophyll concentrations as well as salinity were calibrated from water 
+
+samples collected with niskin bottle net primary production npp data were extracted 
+
+from day composites of the vertically generalized production model vgpm at the 
+
+week of sampling carbon fluxes and carbon export corresponding to the carbon flux at 
+
+ m were estimated based on particle concentration and size distributions obtained from 
+
+the uvp and details are presented below 
+
+from particle size distribution to carbon export estimation
+
+previous research has shown that the distribution of particle size follows a power law over 
+
+the μm to the mm size range this junge type distribution translates into the following 
+mathematical equation whose parameters can be retrieved from uvp images 
+
+ eq 
+
+where d is the particle diameter and exponent k is defined as the slope of the number 
+spectrum when equation is log transformed this slope is commonly used as a descriptor 
+
+of the shape of the aggregate size distribution 
+
+the carbon based particle size approach relies on the assumption that the total carbon flux 
+
+of particles f corresponds to the flux spectrum integrated over all particle sizes 
+
+ eq 
+
+where n d is the particle size spectrum i e equation and m d is the mass here carbon 
+content of a spherical particle described as 
+
+ eq 
+
+where α πρ ρ is the average density of the particle and w d is the settling rate 
+calculated using stokes law 
+
+ eq 
+
+where β g ρ – ρ νρ − g is the gravitational acceleration ρ the fluid density and ν 
+the kinematic viscosity 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+in addition mass and settling rates of particles m d and w d respectively are often 
+described as power law functions of their diameter obtained by fitting observed data m d 
+w d adb the particles carbon flux can then be estimated using an approximation of eq 
+ over a finite number x of small logarithmic intervals for diameter d spanning from 
+μm to mm particles μm and mm are not considered consistent with the 
+method presented by guidi et al such as
+
+ eq 
+
+where a ± and b ± have been estimated using a global dataset that 
+compared particle fluxes in sediment traps and particle size distributions from the uvp 
+
+images 
+
+genomic data collection
+
+for the sake of consistency between all available datasets from the tara oceans expeditions 
+we considered subsets of the data recently published in science in brief one sample 
+
+corresponds to data collected at one depth surface srf or deep cholorophyll maximum 
+
+ dcm determined from the profile of chlorophyll fluorometer and at one station to study 
+
+the eukaryotic community in our current manuscript we selected stations at which we had 
+
+environmental data and carbon export estimated at m with the uvp and all size 
+
+fractions consequently a subset of stations corresponding to samples has been 
+
+created compared to the stations analyzed in de vargas et al a similar procedure 
+has been applied to the prokaryotic and viral datasets reducing the sunagawa et al 
+prokaryotic dataset to a subset of samples from stations and the brum et al 
+viral dataset into a subset of samples from stations see supplementary table in 
+
+addition a detailed table is provided summarizing which samples depth and station are 
+
+available for each domain supplementary table 
+
+eukaryotic taxa profiling
+
+photic zone eukaryotic plankton diversity has been investigated through millions of 
+
+environmental illumina reads sequences of the s ribosomal rna gene v region were 
+
+obtained by pcr amplification and a stringent quality check pipeline has been applied to 
+
+remove potential chimera or rare sequences details on data cleaning in de vargas et al 
+ for stations and if possible at two depths srf and dcm eukaryotic 
+
+communities were sampled in the piconano μm micro μm and meso 
+plankton μm fractions a detailed list of these samples is given in supplementary 
+
+table in the framework of the carbon export study sequences from all size fractions 
+
+were pooled in order to get the most accurate and statistically reliable dataset of the 
+
+eukaryotic community the million eukaryotic ribotypes were assigned to known 
+
+eukaryotic taxonomic entities by global alignment to a curated database to get the most 
+
+accurate vision of the eukaryotic community sequences showing less than identity with 
+
+reference sequences were excluded the final eukaryotic relative abundance matrix used in 
+
+our analyses included lineages taxonomic assignation has been performed using a last 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+common ancestor methodology and had thus been performed down to species level when 
+
+possible in samples from stations pooled abundance number of v sequences of 
+
+each lineage has been normalized by the total sum of sequences in each sample 
+
+prokaryotic taxa profiling
+
+to investigate the prokaryotic lineages communities were sampled in the pico plankton 
+
+both filter sizes have been used along the tara oceans transect up to station 
+prokaryotic fractions correspond to a μm size fraction and from station 
+prokaryotic fractions correspond to a μm size fraction prokaryotic taxonomic 
+profiling was performed using s rrna gene tags directly identified in illumina sequenced 
+
+metagenomes mitags as described in logares et al s mitags were mapped to 
+cluster centroids of taxonomically annotated s reference sequences from the silva 
+
+database release ssu ref nr that had been clustered at sequence identity 
+
+using usearch v s mitag counts were normalized by the total reads count in 
+
+each sample further details in sunagawa et al the photic zone prokaryotic 
+relative abundance matrix used in our analyses included mitags corresponding to 
+
+ genera in samples from stations 
+
+prokaryotic functional profiling
+
+for each prokaryotic sample gene relative abundance profiles were generated by mapping 
+
+reads to the om rgc using the mocat pipeline the relative abundance of each 
+
+reference gene was calculated as gene length normalized base counts and functional 
+
+abundances were calculated as the sum of the relative abundances of these reference genes 
+
+annotated to og functional groups in our analyses we used the subset of the om rgc that 
+
+was annotated to bacteria or archaea m genes using a rarefied to m inserts 
+
+gene count table an og was considered to be part of the ocean microbial core if at least one 
+
+insert from each sample was mapped to a gene annotated to that og for further details on 
+
+the prokaryotic profiling please refer to sunagawa et al the final prokaryotic 
+functional relative abundance matrix used in our analyses included ogs or functions 
+
+in samples from stations genes from functions of fnet and fnet subnetworks 
+
+were taxonomically annotated using a modified dual blast based last common ancestor 
+
+ blca approach we used rapsearch rather than blast to efficiently process the 
+
+large data volume and a database of non redundant protein sequences from uniprot version 
+
+uniref and eukaryotic transcriptome data not represented in uniref see 
+
+supplementary table for full annotations 
+
+enumeration of prokaryotes by flow cytometry
+
+for prokaryote enumeration by flow cytometry three aliquots of ml of seawater pre 
+
+filtered by μm mesh were collected from both srf and dcm the samples were fixed 
+
+immediately using cold glutaraldehyde final concentration left in the dark for 
+
+ min at room temperature flash frozen and kept in liquid nitrogen on board and then 
+
+stored at − °c on land two subsamples were taken to separate counts of heterotrophic 
+
+prokaryotes not shown herein and phototrophic picoplankton for heterotrophic prokaryote 
+
+determination μl of sample was added to a diluted syto molecular probes inc 
+
+eugene or usa stock at μmol l− final concentration left for about min in 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+the dark to complete the staining and run in the flow cytometer we used a facscalibur 
+
+ becton dickinson flow cytometer equipped with a mw argon ion laser nm 
+
+emission at least events were acquired for each subsample usually 
+
+events fluorescent beads μm fluoresbrite carboxylate microspheres polysciences inc 
+
+warrington pa were added at a known density as internal standards the bead standard 
+
+concentration was determined by epifluorescence microscopy for phototrophic 
+
+picoplankton we used the same procedure as for heterotrophic prokaryote but without 
+
+addition of syto data analysis was performed with flowjo software tree star inc 
+
+profiling of viral populations
+
+in order to associate viruses to carbon export we used viral populations as defined in brum 
+et al using a set of tara oceans viromes briefly viral populations were defined 
+as large contigs predicted genes and kb identified as most likely originating from 
+
+bacterial or archaeal viruses these contigs remained and were then clustered into 
+
+populations if they shared more than of their genes at nucleotide identity this 
+
+resulted in ‘populations’ from the contigs where as many as contigs were 
+
+included per population for each population the longest contig was chosen as the ‘seed’ 
+
+representative sequence the relative abundance of each population was computed by 
+
+mapping all quality controlled reads to the set of non redundant populations 
+
+ considering only mapping quality scores greater than with bowtie and if more than 
+
+ of the reference sequence was covered by virome reads the relative abundance of a 
+
+population in a sample was computed as the number of base pairs recruited to the contig 
+
+normalized to the total number of base pairs available in the virome and the contig length if 
+
+more than of the reference sequence was covered by virome reads and set to 
+
+otherwise see brum et al for further details the final viral population abundance 
+matrix used in our analyses included viral population contigs in samples from 
+
+stations 
+
+viral host predictions
+
+the longest contig in a population was defined as the seed sequence and considered the best 
+
+estimate of that population’s origin these seed sequences were used to assess taxonomic 
+
+affiliation of each viral population cases where of the genes were affiliated to a 
+
+specific reference genome from refseq virus based on a blastp comparison with 
+
+thresholds of for bit score and − for e value with an identity percentage of at least 
+
+ at the protein sequence level were considered as confident affiliations to the 
+
+corresponding reference virus the viral population host group was then estimated based on 
+
+these confident affiliations see supplementary table for host affiliation of viral 
+
+population contigs associated to carbon export 
+
+viral protein clusters
+
+viral protein clusters pcs correspond to orfs initially mapped to existing clusters pov 
+
+gos and phage genomes the remaining unmapped orfs were self clustered using cd hit 
+
+as described in brum et al only pcs with more than two orfs were considered 
+bona fide and were used for subsequent analyses to compute pc relative abundance for 
+
+statistical analyses reads were mapped back to predicted orfs in the contigs dataset using 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+mosaik as described in brum et al read counts to pcs were normalized by 
+sequencing depth of each virome importantly we restricted our analyses to pcs 
+
+associated to the viral population contigs significantly associated to carbon export in 
+
+samples from stations 
+
+sparse partial least squares analysis
+
+in order to directly associate eukaryotic lineages to carbon export and other environmental 
+
+traits fig b we used sparse partial least square spls as implemented in the r 
+
+package mixomics we applied the spls in regression mode which will model a causal 
+relationship between the lineages and the environmental traits i e pls will predict 
+environmental traits e g carbon export from lineage abundances this approach enabled us 
+to identify high correlations see supplementary table between certain lineages and 
+
+carbon export but without taking into account the global structure of the planktonic 
+
+community 
+
+co occurrence network model analysis
+
+weighted correlation network analysis wgcna was performed to delineate feature 
+
+ lineages viral populations pcs or functions subnetworks based on their relative 
+
+abundance a signed adjacency measure for each pair of features was calculated by 
+
+raising the absolute value of their pearson correlation coefficient to the power of a parameter 
+
+p the default value p was used for each global network except for the prokaryotic 
+
+functional network where p had to be lowered to in order to optimize the scale free 
+
+topology network fit indeed this power allows the weighted correlation network to show a 
+
+scale free topology where key nodes are highly connected with others the obtained 
+
+adjacency matrix was then used to calculate the topological overlap measure tom which 
+
+for each pair of features taking into account their weighted pairwise correlation direct 
+
+relationships and their weighted correlations with other features in the network indirect 
+
+relationships for identifying subnetworks a hierarchical clustering was performed using a 
+
+distance based on the tom measure this resulted in the definition of several subnetworks 
+
+each represented by its first principal component 
+
+these characteristic components play a key role in weighted correlation network analysis 
+
+on the one hand the closeness of each feature to its cluster referred to as the subnetwork 
+
+membership is measured by correlating its relative abundance with the first principal 
+
+component of the subnetwork on the other hand association between the subnetworks and 
+
+a given trait is measured by the pairwise pearson correlation coefficients between the 
+
+considered environmental trait and their respective principal components a similar protocol 
+
+has been performed on the eukaryotic relative abundance matrix the prokaryotic relative 
+
+abundance matrix the prokaryotic functions relative abundance matrix and the viral 
+
+population and pc relative abundance matrices all procedures were applied on hellinger 
+
+transformed log scaled abundances noteworthy the protocol is not sensitive to copy 
+
+number variation as observed across different eukaryotic species because the association 
+
+between two species relies on a correlation score between relative abundance measurements 
+
+computations were carried out using the r package wgcna 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+given the nature of the eukaryotic dataset three distinct size fractions the sampling 
+
+process may lead to the loss of size fractions in particular samples 
+
+ are eventually biases by such a loss supplementary table 
+
+a complementary wgcna analysis was performed with addition of these samples to 
+
+evaluate the robustness of our protocol to missing size fractions the composition of the 
+
+eukaryotic subnetwork built with an extended dataset i e samples from stations for 
+which size fractions were missing in samples was compared to the subnetwork as 
+
+presented above i e samples from stations both subnetworks shown an overlap of 
+ of lineage whereas four of the top five vip lineages with the extended dataset see 
+
+extended data fig for details can be found in the top six vip lineages of the above 
+
+subnetwork supplementary table emphasizing highly similar results and a small 
+
+sensitivity to size fraction loss 
+
+extraction of subnetworks related to carbon export
+
+for each subnetwork called modules within wgcna extracted from each global network 
+
+pairwise pearson correlation coefficients between the subnetwork principal components and 
+
+the carbon export estimation was computed as well as corresponding p values corrected for 
+
+multiple testing using the benjamini hochberg fdr procedure the subnetworks showing 
+
+the highest correlation scores are of interest and were investigated one subnetwork 
+
+nodes was significant within the eukaryotic network one subnetwork nodes was 
+
+significant for the prokaryotic network one subnetwork nodes was significant within 
+
+the virus network two subnetworks and nodes were significant within the 
+
+prokaryotic functional network and two subnetworks and nodes were 
+
+significant within the viral pcs network 
+
+partial least squares regression
+
+in addition to the network analyses we asked whether the identified subnetworks can be 
+
+used as predictors for the carbon export estimations to answer this question we used partial 
+
+least squares pls regression which is a dimensionality reduction method that aims at 
+
+determining predictor combinations with maximum covariance with the response variable 
+
+the identified combinations called latent variables are used to predict the response 
+
+variable the predictive power of the model is assessed by correlating the predicted vector 
+
+with the measured values the significance of the prediction power was evaluated by 
+
+permuting the data times for each permutation a pls model was built to predict the 
+
+randomized response variable and a pearson correlation was calculated between the 
+
+permuted response variable and in leave one out cross validation loocv predicted 
+
+values the random correlations are compared to the performance of the pls model 
+
+that were used to predict the true response variable in addition the predictors were ranked 
+
+according to their value importance in projection vip the vip measure of a predictor 
+
+estimates its contribution in the pls regression the predictors having high vip values are 
+
+assumed important for the pls prediction of the response variable the vip values of the 
+
+prokaryotic functional subnetworks are provided in supplementary tables for the sake 
+
+of illustration only lineages or functions with vip are discussed and pictured in figure 
+
+ and our computations were carried out using the r package pls all programs are 
+
+available under gpl licence 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+subnetwork representations
+
+nodes of the subnetworks represent either lineages eukaryotic prokaryotic or viral or 
+
+functions prokaryotic or viral subnetworks related to the carbon export have been 
+
+represented in two distinct formats scatter plots represent each nodes based on their 
+
+pearson correlation to the carbon export and their respective node centrality within the 
+
+subnetwork the latter has been recomputed using significant spearman correlations above 
+
+ for viral pcs as edges this is done for visualization purposes since wgcna 
+
+subnetworks based on the topology overlap measure tom between nodes are hyper 
+
+connected size representation of nodes are proportional to the vip score after pls the 
+
+hiveplots depict the same subnetworks by focusing on two main features x axis and y axis 
+
+depict nodes of subnetworks ranked by their vip scores and pearson correlation to the 
+
+carbon export respectively 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+extended data
+
+extended data figure 
+overview of analytical methods used in the manuscript a depiction of a standard pairwise 
+analysis that considers a sequence relative abundance matrix for s samples s × otus 
+
+ operational taxonomic units and its corresponding environmental matrix s × p 
+
+ parameters spls results emphasize otu s that are the most correlated to environmental 
+
+parameters b depiction of a graph based approach using only a relative abundance matrix 
+ s × otus wgcna builds a graph where nodes are otus and edges represent significant 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+co occurrence co occurrence scores between nodes are weights allocated to corresponding 
+
+edges these weights are magnified by a power law function until the graph becomes scale 
+
+free the graph is then decomposed within subnetworks groups of otus that are analyzed 
+
+separately one subnetwork group of otus is considered of interest when its topology is 
+
+related to the trait of interest in the current case carbon export for each subnetwork for 
+
+instance the subnetwork related to carbon export each otu is spread within a feature space 
+
+that plots each otu based on its membership to the subnetwork x axis and its correlation 
+
+to the environmental trait of interest i e carbon export a good regression of all otus 
+
+emphasizes the putative relation of the subnetwork topology and the carbon export trait i e 
+the more a given otu defines the subnetwork topology the more it is correlated to carbon 
+
+export c depiction of the machine learning pls approach that was applied following 
+subnetwork identification and selection greater vip scores i e larger circles emphasized 
+most important otus vip refers to variable importance in projection and reflects the 
+
+relative predictive power of a given otu otus with vip score greater than are 
+
+considered as important in the predictive model and their selection do not alter the overall 
+
+predictive power 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+extended data figure 
+lineage ecological subnetworks associated to environmental parameters and their structures 
+
+correlating to carbon export a b c global ecological networks were built using the 
+wgcna methodology see methods and correlated to classical oceanographic parameters 
+
+as well as carbon export estimated at m from particles size distribution and abundance 
+
+each domain specific global network is decomposed into smaller coherent subnetworks 
+
+ depicted by distinct colours on the y axis and their eigen vector is correlated to all 
+
+environmental parameters similar to a correlation at the network scale this approach 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+directly links subnetworks to environmental parameters i e the more the taxa contribute to 
+the subnetwork structure the more their abundance are correlated to the parameter a a 
+single eukaryotic subnetwork n n ′ is strongly associated to carbon export 
+ pearson cor p e− b a single prokaryotic subnetwork n n ′ is 
+moderately associated to carbon export pearson cor p e− c a single viral 
+subnetwork n n ′ is strongly associated to carbon export pearson cor p 
+ e− d e f the wgcna approach directly links subnetworks to environmental 
+parameters i e the more the features contribute to the subnetwork structure topology the 
+more their abundance are correlated to the parameter this measure allows to identify 
+
+subnetworks for which the overall structure summarized as the eigen vector of the 
+
+subnetwork is related to the carbon export d the eukaryotic subnetwork structure 
+correlates to carbon export pearson cor p e− e the prokaryotic subnetwork 
+structure correlates to carbon export pearson cor p e− f the viral population 
+subnetwork structure correlates to carbon export pearson cor p e− g h i 
+lineage subnetworks predict carbon export pls regression was used to predict carbon 
+
+export using lineage abundances in selected subnetworks loocv was performed and vip 
+
+scores computed for each lineage g the eukaryotic subnetwork predicts carbon export with 
+a r of h the prokaryotic subnetwork predicts carbon export with a r of i the 
+viral population subnetwork predicts carbon export with a r of j k l synechococcus 
+ rather than prochlorococcus absolute cell counts correlate well to carbon export j 
+prochlorococcus cell counts estimated by flow cytometry do not correlate to carbon export 
+ mean carbon flux at m pearson cor − p k synechococcus cell counts 
+estimated by flow cytometry correlate significantly to carbon export pearson cor p 
+ e− l synechococcus prochlorococcus cell counts ratio correlates significantly to 
+carbon export pearson cor p e− 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+extended data figure 
+prokaryotic function subnetworks associated to environmental parameters and their structure 
+
+correlate to carbon export a b c global ecological networks were built for the prokaryotic 
+functions using the wgcna methodology see methods and correlated to classical 
+
+oceanographic parameters as well as carbon export a two bacterial functional subnetworks 
+ n and n n ′ are associated to carbon export pearson cor p e− 
+
+and p e− b the wgcna approach directly links subnetworks to environmental 
+parameters i e the more the features contribute to the subnetwork structure topology the 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+more their abundance are correlated to the parameter this measure allows to identify 
+
+subnetworks for which the overall structure summarized as the eigen vector of the 
+
+subnetwork is related to the carbon export the bacterial function subnetwork structures 
+
+correlate to carbon export fnet pearson cor p e− and fnet pearson cor 
+ p e− c two functional subnetworks light and dark green fnet n 
+and fnet n respectively are significantly associated with carbon export fnet 
+pearson cor p e− and fnet p e− the highest vip score functions 
+from top to bottom correspond to red dots from right to left d pls regression was used to 
+predict carbon export using abundances of functions ogs in selected subnetworks 
+
+loocv was performed and vip scores computed for each function light green 
+
+subnetwork fnet functions predict carbon export with a r of dark green 
+
+subnetwork fnet functions predict carbon export with a r of e cumulative 
+abundance of genus level taxonomic annotations of genes encoding functions from fnet 
+
+and fnet subnetworks and bacterial function subnetworks predict carbon export genes 
+
+contributing to the relative abundance of fnet and fnet subnetwork functions were 
+
+taxonomically annotated by homology searches against a non redundant gene reference 
+
+database using a last common ancestor lca approach see methods 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+extended data figure 
+viral protein cluster networks reveal potential marker genes for carbon export prediction at 
+
+global scale a a viral protein cluster pc network was built using abundances of pcs 
+predicted from viral population contigs associated to carbon export fig c using the 
+
+wgcna methodology see methods and correlated to classical oceanographic parameters 
+
+two viral pc subnetworks n ′ and n ′ n ′ light and dark orange vnet 
+and vnet left and right panel respectively are strongly associated to carbon export 
+
+ vnet pearson cor p e− and vnet p e− b the viral pc 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+subnetwork structures correlate to carbon export vnet pearson cor p e− 
+and vnet pearson cor p e− c size of dots is proportional to the vip score 
+computed for the pls regression d viral pc subnetworks predict carbon export pls 
+regression was used to predict carbon export using abundances of viral protein clusters pcs 
+
+in selected subnetworks loocv was performed and vip scores computed for each pc 
+
+light orange subnetwork vnet left panel pcs predict carbon export with a r of 
+
+dark orange subnetwork vnet right panel pcs predict carbon export with a r of 
+
+extended data figure 
+wgcna and pls regression analyses for the full eukaryotic dataset a a single eukaryotic 
+subnetwork n is strongly associated to carbon export pearson cor p e− b 
+the eukaryotic subnetwork structure correlates to carbon export pearson cor p 
+ e− c the eukaryotic subnetwork predicts carbon export with a r of d lineages 
+with the highest vip score dots size is proportional to the vip score in the scatter plot in 
+
+the pls are depicted as red dots corresponding to two rhizaria collodaria one copepod 
+
+ euchaeta and three dinophyceae noctiluca scintillans gonyaulax polygramma and 
+gonyaulax sp clade 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+supplementary material
+
+refer to web version on pubmed central for supplementary material 
+
+acknowledgements
+
+we thank the commitment of the following people and sponsors cnrs in particular groupement de recherche 
+gdr european molecular biology laboratory embl genoscope cea vib stazione zoologica anton 
+dohrn unimib fund for scientific research – flanders rega institute ku leuven the french ministry of 
+research the french government investissements d avenir programmes oceanomics anr btbr 
+france genomique anr inbs memo life anr labx psl research university 
+ anr idex anr projects poseidon anr blan phytback anr 
+prometheus anr pcs genm tara girus anr pcs genm samosa anr 
+adap european union fp microb no ihms health f erc advanced 
+grant award to cb diatomite gordon and betty moore foundation grant and and the 
+ua technology and research initiative fund and the water environmental and energy solutions initiative to 
+mbs spanish ministry of science and innovation grant cgl bos microocean pangenomics to 
+sga tanit cones from the agència de gestió d’ajusts universitaris i reserca to sga jsps 
+kakenhi grant number to ho and fwo bio biosphere to mbs we also thank the support and 
+commitment of agnès b and etienne bourgois the veolia environment foundation region bretagne lorient 
+agglomeration world courier illumina the edf foundation frb the prince albert ii de monaco foundation 
+the tara schooner and its captains and crew we thank mercator coriolis and acri st for providing daily 
+satellite data during the expedition we are also grateful to the french ministry of foreign affairs for supporting the 
+expedition and to the countries who graciously granted sampling permissions tara oceans would not exist without 
+continuous support from institutes http oceans taraexpeditions org the authors further declare that all data 
+reported herein are fully and freely available from the date of publication with no restrictions and that all of the 
+samples analyses publications and ownership of data are free from legal entanglement or restriction of any sort by 
+the various nations whose waters the tara oceans expedition sampled in this article is contribution number zzz of 
+tara oceans 
+
+author contributions
+
+l g s c lu b and d e designed the study and wrote the paper c d m p j p and sa s 
+
+collected tara oceans samples s k l managed the logistics of the tara oceans project 
+l g and m p analysed oceanographic data s c and lu b analysed taxonomic data s c 
+
+lu b d e and s r performed the genomic and statistical analyses a l y d l g s c 
+
+lu b and d e produced and analysed the networks e k c b and g g supervised the 
+
+study m s j r e k c b and g g provided constructive comments revised and edited 
+
+the manuscript tara oceans coordinators provided a creative environment and constructive 
+criticism throughout the study all authors discussed the results and commented on the 
+
+manuscript 
+
+references and notes
+
+ field cb behrenfeld mj randerson jt falkowski p primary production of the biosphere 
+integrating terrestrial and oceanic components science – doi science 
+ pubmed 
+
+ boyd pw newton p evidence of the potential influence of planktonic community structure on the 
+interannual variability of particulate organic carbon flux deep sea res i – 
+
+ guidi l et al effects of phytoplankton community on production size and export of large 
+aggregates a world ocean analysis limnol oceanogr – 
+
+ kwon ey primeau f sarmiento jl the impact of remineralization depth on the air sea carbon 
+balance nat geosci – 
+
+ ipcc climate change the physical science basis contribution of working group i to the 
+fifth assessment report of the intergovernmental panel on climate change cambridge university 
+press 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+http oceans taraexpeditions org
+
+
+ kitano h biological robustness nat rev genet – doi nrg pubmed 
+ 
+
+ suweis s simini f banavar jr maritan a emergence of structural and dynamical properties of 
+ecological mutualistic networks nature – doi nature pubmed 
+ 
+
+ chow cet kim dy sachdeva r caron da fuhrman ja top down controls on bacterial 
+community structure microbial network analysis of bacteria t like viruses and protists isme j 
+ – doi ismej pubmed 
+
+ fuhrman ja microbial community structure and its functional implications nature –
+ doi nature pubmed 
+
+ lima mendez g et al determinants of community structure in the global plankton interactome 
+science doi science 
+
+ giering slc et al reconciliation of the carbon budget in the ocean s twilight zone nature 
+ – pubmed 
+
+ azam f microbial control of oceanic carbon flux the plot thickens science – 
+
+ agusti s et al ubiquitous healthy diatoms in the deep sea confirm deep carbon injection by the 
+biological pump nat commun doi ncomms 
+
+ sancetta c villareal t falkowski p massive fluxes of rhizosolenid diatoms a common 
+occurrence limnol oceanogr – 
+
+ scharek r tupas lm karl dm diatom fluxes to the deep sea in the oligotrophic north pacific 
+gyre at station aloha mar ecol prog ser – doi meps 
+
+ omand mm et al eddy driven subduction exports particulate organic carbon from the spring 
+bloom science – doi science pubmed 
+
+ richardson tl jackson ga small phytoplankton and carbon export from the surface ocean 
+science – pubmed 
+
+ steinberg dk et al bacterial vs limnol oceanogr – 
+
+ turner jt zooplankton fecal pellets marine snow phytodetritus and the ocean s biological pump 
+prog oceanogr – doi j pocean 
+
+ karsenti e et al a holistic approach to marine eco systems biology plos biol doi 
+ journal pbio 
+
+ strom sl microbial ecology of ocean biogeochemistry a community perspective science 
+ – doi science pubmed 
+
+ worden az et al rethinking the marine carbon cycle factoring in the multifarious lifestyles of 
+microbes science doi science pubmed 
+
+ sunagawa s et al structure and function of the global ocean microbiome science doi 
+ science 
+
+ de vargas c et al eukaryotic plankton diversity in the sunlit ocean science doi 
+ science 
+
+ brum jr et al patterns and ecological drivers of ocean viral communities science doi 
+ science 
+
+ bork p et al tara oceans studies plankton at planetary scale science – 
+doi science aac pubmed 
+
+ honjo s manganini sj krishfield ra francois r particulate organic carbon fluxes to the ocean 
+interior and factors controlling the biological pump a synthesis of global sediment trap programs 
+since prog oceanogr – doi j pocean 
+
+ henson sa sanders r madsen e global patterns in efficiency of particulate organic carbon 
+export and transfer to the deep ocean global biogeochem cy doi 
+ gb 
+
+ lê cao ka rossouw d robert granié c besse p a sparse pls for variable selection when 
+integrating omics data stat appl genet mol doi 
+
+ chaffron s rehrauer h pernthaler j von mering c a global network of coexisting microbes 
+from environmental and whole genome sequence data genome res – doi 
+ gr pubmed 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+ faust k raes j microbial interactions from networks to models nat rev microbiol 
+ – doi nrmicro pubmed 
+
+ aylward fo et al microbial community transcriptional networks are conserved in three domains 
+at ocean basin scales proceedings of the national academy of sciences doi pnas 
+ 
+
+ langfelder p horvath s wgcna an r package for weighted correlation network analysis bmc 
+bioinformatics 
+
+ fontanez km eppley jm samo tj karl dm delong ef microbial community structure and 
+function on sinking particles in the north pacific subtropical gyre front microbiol artn 
+ doi fmicb 
+
+ biard t et al in situ imaging reveals the biomass of large protists in the global ocean nature 
+ submitted 
+
+ thomas t et al analysis of the pseudoalteromonas tunicata genome reveals properties of a 
+surface associated life style in the marine environment plos one doi 
+journal pone 
+
+ azam f malfatti f microbial structuring of marine ecosystems nat rev microbiol –
+ doi nrmicro pubmed 
+
+ shi ym tyson gw delong ef metatranscriptomics reveals unique microbial small rnas in the 
+ocean s water column nature –u doi nature pubmed 
+ 
+
+ yooseph s et al the sorcerer ii global ocean sampling expedition expanding the universe of 
+protein families plos biol – doi journal pbio 
+
+ suttle ca marine viruses major players in the global ecosystem nat rev microbiol 
+ – doi nrmicro pubmed 
+
+ weinbauer mg ecology of prokaryotic viruses fems microbiol rev – doi 
+ j femsre pubmed 
+
+ finkel zv et al phytoplankton in a changing world cell size and elemental stoichiometry j 
+plankton res – 
+
+ sommer u lewandowska a climate change and the phytoplankton spring bloom warming and 
+overwintering zooplankton have similar effects on phytoplankton glob change biol 
+ – doi j x 
+
+ behrenfeld mj et al climate driven trends in contemporary ocean productivity nature 
+ – pubmed 
+
+ delong ef et al community genomics among stratified microbial assemblages in the ocean s 
+interior science – doi science pubmed 
+
+ gianoulis ta et al quantifying environmental adaptation of metabolic pathways in 
+metagenomics p natl acad sci usa – doi pnas 
+
+ tilman d et al the influence of functional diversity and composition on ecosystem processes 
+science – doi science 
+
+ wymore as et al genes to ecosystems exploring the frontiers of ecology with one of the smallest 
+biological units new phytol – doi j x 
+ pubmed 
+
+ pesant s et al open science resources for the discovery and analysis of tara oceans data 
+scientific data doi sdata pubmed 
+
+ picheral m et al vertical profiles of environmental parameters measured on discrete water 
+samples collected with niskin bottles during the tara oceans expedition doi 
+ pangaea 
+
+ picheral m et al vertical profiles of environmental parameters measured from physical optical 
+and imaging sensors during tara oceans expedition doi pangaea 
+ 
+
+ picheral m et al the underwater vision profiler an advanced instrument for high spatial 
+resolution studies of particle size spectra and zooplankton limnol oceanogr meth –
+ doi lom 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+ behrenfeld mj falkowski pg photosynthetic rates derived from satellite based chlorophyll 
+concentration limnol oceanogr – 
+
+ chaffron s et al contextual environmental data of selected samples from the tara oceans 
+expedition doi pangaea 
+
+ mccave in size spectra and aggregation of suspended particles in the deep ocean deep sea res 
+i – 
+
+ sheldon rw prakash a sutcliff wh size distribution of particles in ocean limnol oceanogr 
+ – 
+
+ guidi l et al relationship between particle size distribution and flux in the mesopelagic zone 
+deep sea res i – doi j dsr 
+
+ logares r et al metagenomic s rdna illumina tags are a powerful alternative to amplicon 
+sequencing to explore diversity and structure of microbial communities environ microbiol 
+ – doi doi pubmed 
+
+ quast c et al the silva ribosomal rna gene database project improved data processing and 
+web based tools nucleic acids res d –d doi nar gks pubmed 
+ 
+
+ edgar rc search and clustering orders of magnitude faster than blast bioinformatics 
+ – doi bioinformatics btq pubmed 
+
+ kultima jr et al mocat a metagenomics assembly and gene prediction toolkit plos one 
+ artn e doi journal pone 
+
+ hingamp p et al exploring nucleo cytoplasmic large dna viruses in tara oceans microbial 
+metagenomes isme j – doi ismej pubmed 
+
+ zhao ya tang hx ye yz rapsearch a fast and memory efficient protein similarity search 
+tool for next generation sequencing data bioinformatics – doi 
+bioinformatics btr pubmed 
+
+ langmead b salzberg s l nat methods –u doi nmeth pubmed 
+ 
+
+ shen hp huang jhz sparse principal component analysis via regularized low rank matrix 
+approximation j multivariate anal – doi j jmva 
+
+ langfelder p horvath s eigengene networks for studying the relationships between co expression 
+modules bmc syst biol artn doi 
+
+ li a horvath s network neighborhood analysis with the multi node topological overlap measure 
+bioinformatics – doi bioinformatics btl pubmed 
+
+ chong ig jun ch performance of some variable selection methods when multicollinearity is 
+present chemometr intell lab – doi j chemolab 
+
+ mevik bh wehrens r the pls package principal component and partial least squares regression 
+in r j stat softw – 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+figure global view of carbon fluxes along the tara oceans circumnavigation route and 
+associated eukaryotic lineages
+a carbon flux in mg m− d− and carbon export at m estimated from particles size 
+distribution and abundance measured with the underwater vision profiler uvp 
+
+stations at which environmental data are available supplementary table are depicted by 
+
+white dots stations at which eukaryotic samples are available are colored in red 
+
+ supplementary tables and b eukaryotic lineages associated to carbon export as 
+revealed by standard methods for regression based modeling spls analysis correlations 
+
+between lineages and environmental parameters are depicted as a clustered heatmap and 
+
+lineages with a correlation to carbon export higher than are highlighted detailed results 
+
+in supplementary table 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+figure ecological networks reveal key lineages associated with carbon export at m at 
+global scale
+the relative abundances of taxa in selected subnetworks were used to estimate carbon export 
+
+and to identify key lineages associated with the process a the selected eukaryotic 
+subnetwork n see supplementary table can predict carbon export with high accuracy 
+ pls regression loocv r see extended data fig g lineages with the highest 
+
+vip score dots size is proportional to the vip score in the scatter plot in the pls are 
+
+depicted as red dots corresponding to three rhizaria collodaria collozoum inerme and 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+sticholonche sp one copepod oithona sp one siphonophore lilyopsis three 
+dinophyceae and one ciliate spirotontonia turbinata b the selected prokaryotic 
+subnetwork n see supplementary table can predict carbon export with good 
+accuracy pls regression loocv r see extended data fig h c the selected 
+viral population subnetwork n see supplementary table can predict carbon export 
+with high accuracy pls regression loocv r see extended data fig i two viral 
+
+populations with a high vip score red dots are predicted as synechococcus phages see 
+supplementary table 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+figure integrated plankton community network built from eukaryotic prokaryotic and viral 
+subnetworks related to carbon export at m
+major lineages were selected within the three subnetworks vip supplementary tables 
+
+ and co occurrences between all lineages of interest were extracted if present from a 
+
+previously established global co occurrence network see methods only lineages discussed 
+
+within the study are pinpointed the resulting graph is composed of nodes edges 
+
+with a diameter of and average weighted degree of 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+
+figure key bacterial functional categories associated with carbon export at m at global 
+scale
+a bacterial functional network was built based on orthologous group gene og relative 
+
+abundances using the wgcna methodology see methods and correlated to classical 
+
+oceanographic parameters two functional subnetworks fnet n and fnet 
+ n respectively extended data fig a are significantly associated with carbon export 
+ fnet pearson cor p e− and fnet p e− see extended data fig 
+ b higher functional categories are depicted for functions with a vip score pls 
+
+regression loocv fnet r and fnet r see extended data fig d in 
+
+both subnetworks 
+
+guidi et al page 
+
+nature author manuscript available in pmc september 
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+ e
+urope pm
+
+c
+ funders a
+
+uthor m
+anuscripts
+
+
+	abstract
+	carbon export and plankton community composition
+	plankton community networks associated with carbon export
+	gene functions associated with carbon export
+	discussion
+	methods
+	environmental data collection
+	from particle size distribution to carbon export estimation
+	genomic data collection
+	eukaryotic taxa profiling
+	prokaryotic taxa profiling
+	prokaryotic functional profiling
+	enumeration of prokaryotes by flow cytometry
+	profiling of viral populations
+	viral host predictions
+	viral protein clusters
+	sparse partial least squares analysis
+	co occurrence network model analysis
+	extraction of subnetworks related to carbon export
+	partial least squares regression
+	subnetwork representations
+
+	extended data
+	extended data figure 
+	extended data figure 
+	extended data figure 
+	extended data figure 
+	extended data figure 
+	author contributions
+	references
+	figure 
+	figure 
+	figure 
+	figure 
+
+

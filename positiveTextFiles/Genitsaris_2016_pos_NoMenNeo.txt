@@ -1,0 +1,2158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+marine microbial community structure assessed from combined metagenomic analysis and ribosomal amplicon deep sequencing
+
+
+full terms conditions of access and use can be found at
+https www tandfonline com action journalinformation journalcode smar 
+
+marine biology research
+
+issn print online journal homepage https www tandfonline com loi smar 
+
+marine microbial community structure assessed
+from combined metagenomic analysis and
+ribosomal amplicon deep sequencing
+
+savvas genitsaris sebastien monchy jeremie denonfoux stephanie
+ferreira konstantinos ar kormas telesphore sime ngando eric viscogliosi
+ urania christaki
+
+to cite this article savvas genitsaris sebastien monchy jeremie denonfoux stephanie
+ferreira konstantinos ar kormas telesphore sime ngando eric viscogliosi urania
+christaki marine microbial community structure assessed from combined metagenomic
+analysis and ribosomal amplicon deep sequencing marine biology research doi 
+ 
+
+to link to this article https doi org 
+
+view supplementary material published online dec 
+
+submit your article to this journal article views 
+
+view crossmark data citing articles view citing articles 
+
+https www tandfonline com action journalinformation journalcode smar 
+https www tandfonline com loi smar 
+https www tandfonline com action showcitformats doi 
+https doi org 
+https www tandfonline com doi suppl 
+https www tandfonline com doi suppl 
+https www tandfonline com action authorsubmission journalcode smar show instructions
+https www tandfonline com action authorsubmission journalcode smar show instructions
+http crossmark crossref org dialog doi domain pdf date stamp 
+http crossmark crossref org dialog doi domain pdf date stamp 
+https www tandfonline com doi citedby tabmodule
+https www tandfonline com doi citedby tabmodule
+
+
+original article
+
+marine microbial community structure assessed from combined metagenomic
+analysis and ribosomal amplicon deep sequencing
+savvas genitsarisa sebastien monchya jeremie denonfouxb stephanie ferreirab konstantinos ar kormasc 
+telesphore sime ngandod eric viscogliosie and urania christakia
+
+alaboratoire d’océanologie et géosciences log université du littoral côte d’opale ulco wimereux france bgenoscreen genomic
+platform and r d lille france cdepartment of ichthyology and aquatic environment university of thessaly nea ionia greece 
+dlaboratoire microorganismes génome et environnement lmge université blaise pascal aubière cedex france einstitut pasteur of lille 
+inserm u cnrs umr lille france
+
+abstract
+the microbial taxonomic composition of the three domains of life in two coastal plankton
+samples was assessed by random total community metagenomic sequencing and pcr based
+rdna amplicon deep sequencing in order to compare the resulting diversity and investigate
+possible limitations and complementarities of each method the various universal primer sets 
+used to amplify different hypervariable rdna regions revealed the same major high level
+taxonomic groups in bacteria and unicellular eukaryota and showed a scarce archaea
+apparent richness however significant differences were found between the different primer
+sets p value with the kolmogorov–smirnov test regarding both operational
+taxonomic unit otu richness and relative abundance of the major high level taxonomic
+groups detected based on the metagenomic approach the phylum bacteroidetes dominated
+the prokaryotic community followed by proteobacteria while the detected eukaryotic
+unicellular taxa belonged to the groups of alveolata fungi chlorophyta stramenopiles and
+phaeophyceae these groups were found to carry genes typically found in microbial
+communities which are linked to dna rna and protein metabolism and the synthesis of
+nucleotides amino acids carbohydrates and vitamins although our findings suggest that the
+total community metagenomic approach can provide a more comprehensive picture of the
+planktonic microbial community structure a number of issues associated with this approach
+emerged these issues include the still relatively high cost compared to amplicon sequencing 
+the possible low coverage of the full marine diversity the insufficiency of databases for other
+gene markers than the small subunit gene and the bias towards bacterial sequences because
+of their higher abundance relative to eukaryotes in marine environments 
+
+article history
+received march 
+accepted august 
+published online december
+ 
+
+responsible editor
+torsten struck
+
+keywords
+gene pool marine microbial
+community metagenome 
+pyrosequencing ssu rrna
+
+introduction
+
+the development of next generation sequencing ngs 
+methodologies have revealed a surprising diversity of
+planktonic organisms including a variety of new and 
+or previously undetected groups belonging to bacteria 
+archaea and eukaryota for a review see shokralla et al 
+ in marine plankton studies amplicon deep 
+sequencing is a very popular method of targeting inter 
+mediate dna fragments – bp of any marker
+genes after polymerase chain reaction pcr amplifica 
+tion bik et al it has been used to assess protist
+diversity e g cheung et al edgcomb et al 
+and succession e g christaki et al genitsaris
+et al bacterial spatial richness e g pommier
+et al and seasonal dynamics e g gilbert et al 
+
+ and the structure of the rare archaeal biosphere
+ hugoni et al pcr associated biases in this
+approach include limited primer universality hadziav 
+dic et al pcr amplification errors nucleotide
+misincorporation and pcr chimera formation stoeck
+et al pawlowski et al however these
+biases were well known in the fingerprinting era but
+were somehow thrown aside when deep sequencing
+appeared further biases of deep sequencing which
+involve pyrosequencing errors kunin et al 
+copy number variations among taxa medinger et al 
+ and limitation when performing meta analysis
+of different samples sequenced with different primers
+ engelbrektson et al further support the need
+for alternative methods of analysis 
+
+© taylor francis
+
+contact urania christaki urania christaki univ littoral fr laboratoire d’océanologie et géosciences log umr cnrs université du littoral
+côte d’opale ulco av foch wimereux france
+the supplementary material for this article figures s –s and tables si–svi is available via the supplemental tab of the article’s online page at 
+ 
+
+marine biology research 
+vol no – 
+http dx doi org 
+
+published online dec 
+
+mailto urania christaki univ littoral fr
+
+
+in the continuing growth of sequencing technology 
+methods aiming to circumvent these issues have been
+further developed one of these the total community
+metagenomic sequencing is an approach that pro 
+duces high throughput random genomic sequences 
+without a pcr step this approach has largely benefited
+from the emergence of ngs technologies as the
+sequencing of a continuously larger number of
+sequences is feasible this method could provide a rela 
+tively unbiased way to assess microbial composition 
+and allow the identification of the gene pool content
+across various functional categories venter et al 
+delong et al it has mainly been used to either
+assemble bacterial genomes e g margulies et al 
+farrer et al or to explore microbial communities
+in patients for medical purposes lupski et al 
+and in some cases has led to several major discoveries
+of new higher level taxa e g di rienzi et al a
+recent investigation into the microbial community of
+two marine systems showed that the difference in
+anthropogenic pressures on these systems could be
+assessed using this method through combining infor 
+mation on the detected taxonomic groups and meta 
+bolic pathways kisand et al 
+
+the main objectives of the present study were to
+assess the potential the limitations and the comple 
+mentarities of the total community metagenomic
+approach in comparison to the more frequently used
+rdna amplicon deep sequencing to achieve these
+three objectives both approaches were used indepen 
+dently of each other to investigate the microbial taxo 
+nomic diversity and composition of the three domains
+of life bacteria archaea and eukaryota in two repli 
+cates from a meso eutrophic coastal system the
+eastern english channel in addition the gene pool
+content was explored using the metagenomic
+approach in this system the planktonic microbial com 
+munity has been well documented over the last decade
+in terms of microscopical lamy et al gratte 
+panche et al a b and molecular using
+rdna amplicon deep sequencing observations
+ monchy et al christaki et al the choice
+to analyse replicates from a single date during the
+early spring bloom period was considered the best
+compromise between the high cost of the
+implemented methodologies the necessity for replica 
+tion e g prosser knight et al and the inten 
+tion to target two different hypervariable small subunit
+ ssu rrna gene regions for each of the domains of life 
+the methodology selected to perform the analysis of
+the samples was based on commonly used tools in
+marine environmental studies see bik et al 
+the present study was to serve as a test case for the
+
+combined methods of rdna amplicon deep sequen 
+cing and total community metagenomic analyses 
+
+materials and methods
+
+sample collection
+
+the sampling site representative of the coastal water
+masses of the eastern english channel was located at
+the somlit french network of coastal observatories 
+station ° ′ ′′n ° ′ ′′e – m water depth 
+the physical chemical hydrological and biological
+properties encountered at this site are sampled and
+measured monthly sampling for this study was
+carried out on march during the early spring
+bloom period table si supplementary material at
+high tide at a depth of m this transition period
+was chosen to investigate the taxonomic composition
+and the gene pool content of the microbial community
+as it contains a rich prokaryotic lamy et al and
+eukaryotic diversity christaki et al 
+
+two separate l seawater samples were collected
+in sterile polyethylene bottles and kept at an in situ
+temperature in the dark until filtration less than h
+later each water sample replicate was screened with
+a μm mesh to retain larger metazoa and the
+flow through was filtered on μm nucleopore filters
+ mm diameter using a very low filtration pressure
+peristaltic pump rpm in order to avoid filter clog 
+ging and to minimize cell disruption larger membrane
+filters can improve dna yield and reduce variation in
+dna recovery the filters were sliced into small pieces
+using a sterile scalpel and stored in nalgenetm
+
+general long term storage cryogenic tubes ml at
+− °c until analysis 
+
+the planktonic organisms’ dna was extracted and
+purified with the powerwater® dna isolation kit
+ mobio laboratories inc ca usa into μl final
+volume of extract following the manufacturer’s proto 
+col the two replicates r and r contained and
+ ng μl− of dna respectively as measured by the
+qubit® fluorometer thermo fischer scientific inc 
+ma usa this dna yield although higher than dna
+concentrations in previous samples from the same
+study site see genitsaris et al is relatively low
+compared to other meso eutrophic coastal areas this
+could be explained by the removal of metazoans
+during the pre filtration step prior to dna extraction 
+
+total community metagenomic sequencing
+
+the taxonomic composition and the gene pool content
+of the entire microbial community was examined using
+
+marine biology research 
+
+
+
+a metagenomic approach based on random total com 
+munity sequencing of the replicated water samples
+from the somlit site for this we used the gs
+flx sequencer roche applied sciences with the
+long read chemistry of roche applied sciences sup 
+plied by the gs flx system which provides read
+lengths up to bp sequencing was carried out by
+the sequencing company genoscreen genomic plat 
+form and r d lille france according to the manufac 
+turer’s specifications library preparation was carried
+out according to the gs flx rapid library preparation
+kit roche applied sciences with ng of dna the
+two replicates r and r were run in parallel on a
+single pico titer plate 
+
+total community metagenomic sequencing read
+processing and annotation
+
+first the raw reads were quality pre treated using the
+prinseq lite perl script schmieder edwards 
+with the following screen low quality ends having a
+phred quality score below were removed reads
+with lengths below bp and over bp were
+excluded a maximum of of ambiguous bases n 
+was accepted the ‘shotgun’ key of bp in the ′ end
+of the sequences was also removed and filters on
+the mean quality of the sequences threshold set to
+ were applied subsequently the pre and non 
+treated sequences were assembled with gs de novo
+assembler version roche applied sciences using
+ bases overlap and overlap identity implement 
+ing the ‘ rip’ option this option appends one sequence
+into one unique contig the raw reads as well as both
+the pre and non treated contigs were processed and
+annotated using the mg rast server meyer et al 
+ the metagenome data are available through
+the mg rast server with id numbers r 
+raw r raw r contigs 
+ r contigs r pre treated
+contigs and r pre treated contigs the
+raw sequence data were also submitted to genbank 
+sra under the accession number srp 
+
+in the mg rast analysis duplicate and low quality
+reads were removed using the optional initial quality
+control qc filter and the sequence quality scores
+ data uploaded in fastq format sequences were
+classified using the m rn protein and ribosomal data 
+bases applying an e value threshold of e− figure
+s supplementary material there were 
+sequences in the m nr protein database and
+ sequences in the m rna ribosomal database 
+at the time of the analysis january for more
+details on the context of the m nr database see
+
+table sii supplementary material the predicted taxo 
+nomic annotation and classification was based on all
+organism and rrna databases of m nr predicted func 
+tional annotation was based on the subsystems set of
+the seed database as it provided the highest number
+of hits for all data sets figure s 
+
+pcr and rdna amplicon deep sequencing
+
+total genomic dna from both replicates was amplified
+by pcr using two sets of universal primers for each
+domain of life the primers were selected from the litera 
+ture in addition to primers designed by genoscreen for
+this study in order to target different variable regions
+of the ssu rrna genes for prokaryota and eukaryota
+ table i pcr reactions μl were carried out according
+to standard conditions for the gene amp high fidelity
+pcr system life technologies with ng of environ 
+mental dna as a template pcr conditions for each set
+of primer are described in table i where samples for
+pcr and deep sequencing were produced three
+domains of life × two replicates × two sets of primers 
+all amplicon products were purified using agencourt
+ampure xp beads agencourt bioscience corporation 
+beverly ma usa and checked on anagilent bioanalyzer
+high sensitivity dna chip agilent technologies santa
+clara ca usa ribosomal dna amplicon deep sequen 
+cing was performed by genoscreen lille france using
+the gs flx titanium sequencing system roche
+applied sciences three samples amplified with
+primers from each domain of life were sequenced at a
+quarter of a plate according to expected read length 
+so that all samples were sequenced in a whole plate 
+amplicons were submitted to genbank sra under the
+accession number srp 
+
+rdna amplicon deep sequencing quality
+filtering
+
+downstream sequence processing was performed
+using the mothur software following the stan 
+dard operating procedure schloss et al first 
+the flowgrams from each of the samples were
+extracted and were de noised using the mothur
+ implementation of pyronoise quince et al 
+ primer sequences and key fragments were
+removed and only reads above bp long with
+homopolymers shorter than bp were kept each
+data set was de replicated to the unique reads and
+aligned against the silva database chimera
+detection of the unique reads was performed with
+the uchime software edgar and potential chi 
+meras were subsequently removed the remaining
+
+ s genitsaris et al 
+
+
+
+reads were clustered into operational taxonomic units
+ otus at a similarity threshold 
+
+data sets from the two replicates were normalized
+per primer set using mothur over of the
+sequences were single singletons unique amplicons
+occurring only once although it has been suggested
+that these are probably sequencing artefacts and
+should be removed from the data set huse et al 
+ kunin et al a large amount of the valid
+sequences can be lost thus the single singletons
+that had ‘close reference’ similarity on 
+of their length with sequences submitted in the
+silva database were retained in the ‘optimized’
+data set about of the single singletons for each
+sample were considered as valid sequences the rest
+of the single singletons were discarded concerning
+the sequences produced by the eukaryotic primers 
+sequences assigned to metazoa were removed 
+
+data analysis
+
+rarefaction curves and the richness estimator schao for
+all rdnaamplicon sequenced samples and themeta 
+genomes were calculated with the past c software
+ hammer et al for themetagenomes rarefaction
+curves and diversity indexes were calculated based on
+abundance measurements at the genus level taxo 
+nomic affiliation was performed on the most abundant
+otus produced by rdna amplicon deep sequencing
+ table siii supplementary information comprising
+ of all eukaryotic sequences and of all bac 
+terial sequences in the corresponding samples the
+threshold was determined in order to include of
+the total number of sequences in each of the corre 
+sponding samples see fuhrman these otus
+were compared with blastn queries against the nr nt
+nucleotide database of the ncbi for the detection of
+the closest cultured or uncultured relatives table siii 
+concerning eukaryotes their taxonomic affiliation was
+also verified by blastn against the pr database
+ guillou et al finally the two replicateswere com 
+pared at the otu level for the rdna amplicon data sets
+and at the genus level for the metagenomic data sets
+with the kolmogorov–smirnov test in the r software 
+the kolmogorov–smirnov test was also used to
+compare the results produced by the different primer
+sets per domain of life 
+
+data accessibility
+
+pyrotags genbank sra accession number srp 
+metagenomic raw sequence data genbank sra acces 
+sion number srp ta
+
+bl
+e
+i 
+u
+ni
+ve
+rs
+al
+pr
+im
+er
+s
+us
+ed
+
+to
+am
+
+pl
+ify
+
+di
+ffe
+re
+nt
+
+hy
+pe
+rv
+ar
+ia
+bl
+e
+re
+gi
+on
+s
+of
+
+th
+e
+ss
+u
+rr
+n
+a
+ge
+ne
+s
+fo
+r
+th
+e
+th
+re
+e
+do
+m
+ai
+ns
+
+of
+lif
+e 
+
+li
+fe
+
+do
+m
+ai
+n
+
+fo
+rw
+ar
+d
+pr
+im
+er
+
+ 
+′ –
+ ′
+ 
+
+re
+ve
+rs
+e
+pr
+im
+er
+
+ 
+′ –
+ ′
+ 
+
+h
+yp
+er
+ v
+ar
+ia
+bl
+e
+
+re
+gi
+on
+
+am
+pl
+ic
+on
+
+si
+ze
+
+pc
+r
+co
+nd
+
+iti
+on
+s
+
+re
+fe
+re
+nc
+es
+
+in
+iti
+al
+iz
+at
+io
+n
+
+d
+en
+at
+ur
+at
+io
+n
+ 
+ 
+
+cy
+cl
+es
+ 
+
+fi
+na
+l
+
+ex
+te
+ns
+io
+n
+
+eu
+ka
+ry
+ot
+a
+
+ta
+re
+uk
+ 
+ f
+w
+d
+ 
+
+cc
+ag
+
+ca
+sc
+yg
+
+cg
+g
+ta
+at
+tc
+c
+
+ta
+re
+uk
+re
+v 
+ 
+
+ac
+tt
+tc
+g
+tt
+ct
+tg
+
+at
+yr
+a
+
+v 
+ 
+ 
+bp
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+ 
+s 
+ 
+°c
+ 
+ 
+s 
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+
+m
+in
+
+st
+oe
+ck
+
+et
+al
+ 
+ 
+ 
+
+ 
+s 
+ 
+f 
+
+eu
+k 
+ 
+ r
+ 
+
+v 
+–v
+
+ 
+ 
+ 
+bp
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+ 
+s 
+ 
+°c
+ 
+ 
+s 
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+
+m
+in
+
+lo
+pe
+z 
+g
+ar
+ci
+a
+et
+
+al
+ 
+ 
+ 
+
+g
+aa
+
+ac
+tg
+
+cg
+aa
+
+tg
+g
+ct
+c
+
+ac
+ca
+
+ga
+ct
+tg
+
+cc
+ct
+cc
+
+am
+an
+nn
+
+et
+al
+ 
+ 
+ 
+
+ba
+ct
+er
+ia
+
+s 
+d
+ b
+ac
+t 
+ 
+ 
+ b
+ s
+ 
+ 
+
+cc
+ta
+cg
+
+g
+g
+n
+g
+g
+cw
+
+g
+ca
+
+g
+s 
+d
+ b
+ac
+t 
+ 
+ 
+ a
+ a
+ 
+ 
+
+g
+ac
+
+ta
+ch
+
+vg
+g
+g
+ta
+tc
+ta
+at
+cc
+
+v 
+–v
+
+ 
+ 
+ 
+bp
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+ 
+s 
+ 
+°c
+ 
+ 
+s 
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+
+m
+in
+
+kl
+in
+dw
+
+or
+th
+
+et
+al
+ 
+ 
+ 
+
+r 
+f 
+
+r 
+r 
+
+v 
+–v
+
+ 
+ 
+ 
+bp
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+ 
+s 
+ 
+°c
+ 
+ 
+s 
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+
+m
+in
+
+g
+en
+os
+cr
+ee
+n
+de
+si
+gn
+
+ca
+aa
+
+ca
+g
+g
+at
+ta
+g
+at
+ac
+
+cc
+tg
+
+cg
+tt
+rc
+
+g
+g
+g
+ac
+
+tt
+aa
+
+cc
+ca
+
+ac
+a
+
+ar
+ch
+ae
+a
+
+ 
+ f
+ 
+
+ 
+ r
+ 
+
+v 
+–v
+
+ 
+ 
+ 
+bp
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+ 
+s 
+ 
+°c
+ 
+ 
+s 
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+
+m
+in
+
+g
+en
+os
+cr
+ee
+n
+de
+si
+gn
+
+cg
+g
+ra
+
+aa
+ct
+g
+g
+g
+g
+at
+aa
+
+t
+tr
+tt
+ac
+
+cg
+cg
+
+g
+cg
+
+g
+ct
+g
+bc
+
+a
+ 
+ f
+ 
+
+ 
+ r
+ 
+
+v 
+–v
+
+ 
+ 
+ 
+bp
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+ 
+s 
+ 
+°c
+ 
+ 
+s 
+
+ 
+°c
+ 
+
+m
+in
+
+ 
+°c
+ 
+
+m
+in
+
+h
+ug
+
+on
+ie
+t
+al
+ 
+ 
+ 
+
+cc
+ta
+yg
+
+g
+g
+g
+yg
+
+ca
+sc
+ag
+
+g
+g
+ac
+
+ta
+cv
+
+sg
+g
+g
+ta
+tc
+ta
+at
+
+marine biology research 
+
+
+
+mg rast metagenomic profiles id numbers
+ 
+ and 
+
+results
+
+total community metagenomic sequencing
+
+random metagenomic sequencing was performed in
+the total community dna extracted from two biological
+replicates on a single sampling date overall about
+ × single reads mean read length between 
+and bps were generated from the two replicates 
+these reads produced around × contigs in total 
+with a mean sequence length between and
+ bps after quality control of the reads or
+contigs were removed from each replicate table siii 
+within this data set more than of the sequences
+were annotated into proteins table siv supplementary
+material a good estimation for taxonomic affiliation
+and gene annotation was observed among all m nr
+databases with of hits occurring below the e 
+value threshold of e− figure s no significant differ 
+ences on contig abundance and taxonomic distribution
+were observed between the two replicates based on the
+kolmogorov–smirnov test p all metagenomic
+profiles raw data and contigs non and pre treated
+data sets showed similar taxonomic distribution
+ figure s supplementary information therefore in
+the following sections the pre treated contigs data
+were used to present the taxonomic composition and
+gene pool content of the microbial community this
+data set displayed a larger sequence length table siv 
+providing more confident annotations 
+
+taxonomical composition based on total
+community metagenomic sequencing
+
+in both replicates more than of the sequences tax 
+onomically annotated were affiliated to bacteria while
+ and were affiliated to eukaryotic taxa for r 
+and r respectively moreover about of the
+eukaryotic taxa belonged to unicellular organisms
+ figure concerning the bacterial taxonomic groups 
+flavobacteria belonging to bacteroidetes dominated
+the class distribution comprising and of
+the total number of sequences for r and r respect 
+ively they were followed by α proteobacteria 
+and and γ proteobacteria and 
+eukaryotic unicellular taxa were comprised of groups
+of bacillariophyceae ascomycota chlorophyta basidio 
+mycota apicomplexa found only in r figure and
+phaeophyceae found only in r figure each of
+these groups contributed between and to
+
+the total number of eukaryotic sequences a small frac 
+tion of the sequences were annotated to viruses and in
+particular bacteriophages representing about of
+the total virus sequences in each replicate while only
+few archaeal sequences were detected of the
+total number of sequences in each replicate figure 
+
+considering a lower taxonomic level the most abun 
+dant sequences affiliated at the genus level of
+the total number of sequences belongedmainly to bac 
+teria and were dominated by the bacteroidetes and
+proteobacteria groups figure s supplementary
+material the most abundant taxon was the bacteroi 
+detes polaribacter with and annotated
+sequences for r and r respectively followed by the
+α proteobacteria roseobacter and and rue 
+geria and among the most abundant taxa 
+the genus nematostella belonging to cnidaria was
+the only representative of eukaryotic sequences com 
+prising and sequences for r and r respectively 
+while t like viruses and the bacteria cellulophaga bur 
+kholderia loktanella shewanella robiginitalea sacchar 
+ophagus and jannoschia appeared among the most
+abundant taxa in r figure s 
+
+gene pool content based on total community
+metagenomic sequencing
+
+predicted functional annotation of the assembled
+sequences using the subsystems database signified the
+occurrence of common functional groups in both repli 
+cates in particular genes associated with clustering 
+based subsystems cbs linked among others with fatty
+acidmetabolism cell division and cytochromebiogenesis 
+were found in addition some genes were linked with
+dna rna and protein metabolism and genes related to
+nucleotides amino acids carbohydrates and vitamin
+synthesis were predominantly present in both replicates 
+comprising of the total annotated sequences 
+other functions related to cell wall and capsule biosyn 
+thesis membrane transportation respiration virulence 
+stress response cell signalling and division compound
+metabolism dormancy and photosynthesis were also
+detected figure s supplementary material the
+majority of the characteristic metabolic pathways and
+protein connections in a microbial community as inter 
+preted by the kegg mapper were represented in both
+replicates data not shown 
+
+according to the best hit classification of the func 
+tional groups functional groups were distributed
+among eight assigned high level taxonomic groups
+of unicellular organisms figure in particular the
+most abundant groups of bacteria were associated
+with compound synthesis nucleotides amino acids 
+
+ s genitsaris et al 
+
+
+
+carbohydrates vitamins and prosthetic groups dna 
+rna protein and various compounds metabolism
+and membrane transportation the eukaryotic groups
+were mainly linked with genes associated with respir 
+ation processes which is not surprising due to the
+high copy nature of the mitochondrial genome and
+rna and protein metabolism the viruses detected
+had the putative ability to express dna metabolism
+genes and genes associated with phages plasmids
+and transposable elements figure 
+
+microbial composition based on rdna amplicon
+deep sequencing relative to total community
+metagenomic sequencing
+
+ribosomal dna amplicon deep sequencing was used
+to explore the diversity and composition of all three
+domains of life in the two replicates by targeting
+
+different hyper variable regions of the ssu rrna
+gene table i ribosomal dna amplicon sequencing
+produced only five archaea related otus with the
+two different primer sets used table siii this is con 
+sistent with the very low presence of archaeal
+sequences detected in the metagenomic profiles
+ of the total number of sequences figure 
+due to this low archaeal diversity in the study area 
+archaea were not considered further compar 
+ing metagenomic and amplicon deep sequencing
+approaches 
+
+an overview of the number of taxa of the microbial
+community with both approaches is shown in table sv
+ supplementary material concerning the rdna ampli 
+con data sets the ratio of observed to expected schao 
+otus was in all cases while the rarefaction
+curves started to reach a plateau in all cases with a
+≥ threshold of similarity figure s supplementary
+
+figure distribution of the major high level taxonomic groups in the two replicates r and r each slice indicates the percen 
+tage of sequences predicted as proteins and rrna genes within the indicated taxonomic level the colour of each slice is based on
+sequence abundance and not phylogenetic relatedness this information is based on all the annotation source databases used by
+mg rast see table sii supplementary material slices with no taxonomic affiliations include several taxonomic groups with a low
+number of sequences 
+
+marine biology research 
+
+
+
+material in contrast the ratio of observed to expected
+taxa calculated for the metagenomes was and
+ respectively for r and r no significant
+
+differences in the abundance and taxonomic distri 
+bution of sequences were observed between the two
+replicates based on the kolmogorov–smirnov test for
+
+figure heat maps for the two replicates r and r representing gene pool content of high level taxonomic groups based on
+the number of sequences encoding each predicted protein function according to the subsystems set of the seed annotation
+database 
+
+figure composition of the high level taxonomic groups percent of total number of otus for the rdna amplicon data sets and
+taxa at the genus level for the metagenomic mg data sets in the two replicates r and r taxonomic information for the rdna
+amplicon deep sequencing derived from representative relatives of the most abundant otus comprising of all eukaryotic
+sequences and of all bacterial sequences in the corresponding samples and including of the total number of
+sequences in each of the corresponding samples obtained from blast searches against genbank the primer corresponding to
+each code name in the figure is shown in table i taxa of the total community mg data sets were determined based on predicted
+proteins and rrna genes using all the annotation source databases of mg rast other bacteria include actinobacteria cyanobac 
+teria planctomycetia firmicutes verrucomicrobia fusobacteria molicutes and unclassified bacteria other eukaryota include cer 
+cozoa haptophyceae choanoflagelida ichthyosporea cryptophyta katablepharidophyta and unclassified eukaryota 
+
+ s genitsaris et al 
+
+
+
+bacterial and eukaryotic primers p values between
+ and for all primer sets 
+
+the overall bacteria and eukaryota distribution of
+otus within the major high level taxonomic groups
+was statistically different among primer sets p value
+ in particular concerning bacterial sequences 
+both primer sets gave a similar taxonomic represen 
+tation of the major high level taxonomic groups 
+except for bacteroidetes which had almost double
+the number of otus with the s d bact primers
+ figure concerning eukaryotic sequences alveolata 
+including dinophyceae and ciliophora was the predo 
+minant group for both primer sets while stramenopiles
+had almost twice the number of otus with the tareuk
+primers figure however the s f primers
+amplified additional high level groups including api 
+complexa cryptophyta and haptophyta not shown 
+that were not detected with the tareuk primers 
+
+in the metagenomes the bacterial community was
+dominated by bacteroidetes related taxa almost
+ of the total number of bacterial taxa while
+fewer sequences were attributed to proteobacteria 
+related taxa in comparison with the rdna amplicon
+sequencing concerning the eukaryotic metagenome 
+the bacillariophyceae related taxa were almost four
+times more abundant in comparison with the pcr 
+amplified data sets while the alveolata related taxa
+were considerably fewer figure to highlight this 
+microscopical observation limited to the free living
+plankton organisms with size μm revealed that
+the dominant group of eukaryotic unicellular organ 
+isms was bacillariophyta comprising of the
+total number of individuals identified followed by
+other eukaryotes including mainly nanoflagellates 
+and dinophyceae table svi supplementary material 
+
+regarding lower taxonomic levels very few of the
+dominant otus were affiliated to the same genus with
+both primer sets for bacteria e g sulfitobacter rhodo 
+bacteraceae sphingopyxis and eukaryota e g gyrodi 
+nium protaspis acineta although the majority of otus
+belonged to the same higher level taxonomic group
+ table siii similarly only few of the dominant taxa at
+the genus level in the metagenomes were also found
+among the dominant otus e g polaribacter roseobac 
+ter sulfitobacter roseovarius figure s table siii 
+
+discussion
+
+taxonomic composition based on rdna
+amplicon deep sequencing
+
+based on the rdna amplicon data sets the same major
+high level taxonomic groups were detected in bacteria
+
+ bacteroidetes and proteobacteria and unicellular
+eukaryota alveolata and stramenopiles with the
+different primer sets yet they produced different out 
+comes when focused on the lower level taxa e g at
+the genus level the accuracy of blast derived taxon 
+omy especially for low level taxa depends on the
+sequence length the database coverage for the
+specific taxonomic group and the correct identification
+of the reference sequence bik et al in addition 
+statistically significant p value differences of
+the relative taxonomic composition and species richness
+were detected among the primer sets furthermore 
+among the eukaryotic sequences the s f primers
+amplified sequences from high level groups that were
+not detected with the tareuk primers such as apicom 
+plexa cryptophyta and haptophyta the choice of
+primers affects the biodiversity assessment of an ecosys 
+tem hong et al as full primer universality is diffi 
+cult or impossible to achieve hadziavdic et al 
+limitations of the primers’ universality produce con 
+straints as it excludes taxonomic groups in the analysis 
+and introduces biases in favour of some taxa polz 
+cavanaugh lanzen et al 
+
+in order to investigate this comprehensively the
+microbial diversity and composition of two different
+hyper variable ssu rrna gene regions for each domain
+of life were targeted the regions v –v and v –v for
+bacteria and v –v and v for eukaryota were chosen 
+several studies have applied the v region in assess 
+ments of the microbial composition for both bacteria
+and eukaryota in various ecosystems e g youssef et al 
+ stoeck et al klindworth et al 
+because it has been suggested that it is a prominent can 
+didate to reveal a realistic picture of microbial diversity
+for both domains pernice et al however different
+research groups have used different primer sets to assess
+microbial diversity perplexing direct comparisons
+between samples hadziavdic et al 
+
+regarding single singletons many researchers tend
+to discard them as possible errors choosing a conser 
+vative but more reliable estimation of diversity e g 
+huse et al kunin et al however there is
+a risk of removing valid sequences in this study the
+low number of samples sequenced produced a large
+number of singleton reads some of which could be
+valid sequences that could be determined if numerous
+samples were processed together in order to retain as
+much diversity as possible and be confident that no
+sequencing errors are contained in the data set 
+‘close reference’ reads were included based on the
+concept that ‘all observed sequences must be similar
+to previously known sequences’ bik et al the
+‘close reference’ single singletons comprised about
+
+marine biology research 
+
+
+
+ of the total number of single singletons among
+uncultured taxa and taxa belonging to dominant
+high level taxonomic groups a few singleton phylo 
+types belonging to under represented high level taxo 
+nomic groups such as phaeocystaceae for eukaryota
+and cyanobacteria for bacteria were included 
+
+taxonomic composition and gene pool content
+based on total community metagenomic
+sequencing
+
+based on the total community metagenomic sequen 
+cing data the bacterial groups of bacteroidetes α 
+and γ proteobacteria dominated the microbial commu 
+nity a previous study in the area highlighted the dom 
+inance of the same high level prokaryotic taxonomic
+groups during the early spring bloom lamy et al 
+ it was suggested that they were major partici 
+pants in leucine incorporation of the active bacterial
+community in our samples these groups included
+genes encoding several functions usually found in
+microbial communities which included protein rna
+and dna metabolism biosynthesis and degradation
+of carbohydrates and lipids compound metabolism 
+cell division cycle and signalling stress response and
+virulence figure s in particular bacteroidetes have
+genes linked with polymer degradation including a
+large number of peptidases hydrolases and glycosyl
+transferases fernández gómez et al also
+found with total community metagenomic analysis in
+our samples in addition α proteobacteria are associ 
+ated among others with the metabolism of a number
+of organic compounds sulphur oxidation and the pro 
+duction of secondary metabolites brinkhoff et al 
+ while γ proteobacteria comprise several patho 
+gens that include virulence and disease genes
+ persson et al in our data set around of
+the genes were associated with virulence and
+disease analysis of the global ocean sampling meta 
+genomic data rusch et al has indicated that
+virulence related genes are present in up to of
+the planktonic bacteria with the highest values
+detected in eutrophic waters persson et al 
+
+the samples’ dominant microorganism belonged to
+the genus polaribacter a marine bacteroidetes with a
+dual life strategy as with many known marine bacter 
+oidetes riemann et al polaribacter benefits from
+colonization on particle surfaces and polymer degra 
+dation in addition the presence of the proteorhodop 
+sin gene provides a survival advantage in nutrient 
+depleted sunlit surface waters gonzález et al 
+kirchman and could be an explanation for polar 
+ibacter’s dominance in the microbial community 
+
+according to the total community metagenomic
+approach eukaryotic sequences comprised only 
+of the total number of sequences as expected this
+relatively low abundance is in accordance with the
+metagenomic analysis of marine microbial commu 
+nities by kisand et al and it can be attributed
+to the relatively high different abundances of prokar 
+yota and eukaryota in marine samples of the same
+volume furthermore this low number of sequences
+could cause the discrepancies among the low level
+eukaryotic taxa identified in the two replicates as the
+coverage of the eukaryotic community was limited 
+these discrepancies could also be attributed to
+factors related to sequence sampling such as uneven
+sampling of low abundance taxa but they could also
+be due to differences occurring at the stage of dna
+extraction e g cells are not always equally well dis 
+rupted library preparation and sequencing all these
+steps can randomly or systematically introduce devi 
+ations between replicates the eukaryotic community
+was dominated by alveolata related sequences fol 
+lowed by stramenopiles and fungi this composition
+resembles marine protist community compositions
+reported in previous studies using microscopy and
+molecular techniques e g countway et al grat 
+tepanche et al a b christaki et al 
+
+a low number of archaeal sequences were detected 
+in accordance with the rdna amplicon analysis and a
+previous study in the area using micro fish analysis
+ lamy et al in addition a low number of
+sequences affiliated with viruses and mainly phages
+ of the viral sequences were detected this was
+not surprising as most environmental free virus like
+particles vlps in the water column are phages breit 
+bart rohwer a noticeable functional category
+that was associated with phages was phosphorus
+metabolism figure this is consistent with many
+marine phages which encode enzymes involved in
+phosphate metabolism e g chen lu 
+
+potential and limitations of total community
+metagenomic sequencing in relation to rdna
+amplicon deep sequencing
+
+both methods detected the same major high level
+taxonomic groups in bacteria and unicellular eukaryota
+and corroborated the low presence of archaeal phylo 
+types however the results did not concur when
+focused on the lower level taxa e g at the genus level 
+
+the two approaches also showed different relative
+taxonomic composition among the high level taxa 
+with amplicon sequencing alveolata were over rep 
+resented and at the same time bacillariophyceae 
+
+ s genitsaris et al 
+
+
+
+related taxa were under represented as shown by
+microscopy identification on the contrary total com 
+munity metagenomic sequencing does not include
+an initial pcr step except during the sequencing
+library clonal amplification and the related possible
+biases such as the primer universality and presented
+a similar picture with microscopy regarding the taxo 
+nomic diversity and abundance of these groups the
+under representation of bacillariophyceae with rdna
+amplicon sequencing may suggest that they are
+‘masked’ by the high number of ssu rrna gene
+copies of other groups such as the alveolata prokopo 
+wich et al zhu et al and can also be associ 
+ated with the low bacillariophyceae affiliation of the
+universal primers used 
+
+on the other hand these differences in estimation
+of taxonomic diversity could also be attributed to pro 
+blems associated with the metagenomic approach 
+with the metagenomic sequencing more than 
+of the sequences did not get annotated a part of
+those could be non coding regions but also the anno 
+tation heavily depends on the coverage of sequence
+data for a taxon or a gene function in the query data 
+base thus biases or low sequence coverage in the
+reference databases might reflect biases in taxonomic
+representation observed between the two approaches
+at lower levels 
+
+total community metagenomic sequencing could
+circumvent the non universality of the existing
+primers making microbial community meta analysis
+feasible furthermore by including other gene
+markers in the analysis additional to the ssu rrna
+gene it can be used more assuredly to assess the diver 
+sity and composition of an environmental sample than
+conventional pcr based rrna studies venter et al 
+ still databases for other genes are not extensive
+enough one exception when investigating protistan
+diversity might be to use the mitochondrial cyto 
+chrome oxidase i gene coi which is routinely used
+in different studies e g nassanova et al lara
+et al finally total community metagenomic
+sequencing also offers identification of the gene pool
+content and as a consequence a more comprehensive
+picture of the structure of microbial communities
+ venter et al however a number of associated
+limitations need to be addressed i first the cost of
+total community metagenomic sequencing can be 
+times higher than rdna amplicon sequencing redu 
+cing the number of samples that can be analysed ii 
+an environmental sample can typically contain thou 
+sands of genomes consisting of thousands of genes 
+obtaining around million raw sequences per plate
+run with the existing technology or even millions
+
+with illumina may still not be sufficient to unveil all
+members of a community iii the coverage of
+marine communities’ eukaryotic diversity can be
+further challenging as in marine samples the majority
+of sequences are associated with bacteria see results 
+also kisand et al a possible solution for this
+could be the differential filtration of the water sample
+according to size differential filtration of the sample
+according to size may increase the recovery of protists 
+over bacteria and serve the purpose of covering a
+higher eukaryote marine diversity when using a meta 
+genomic approach however differential filtration may
+also lead to other biases such as inconsistency
+between replicates fenchel finlay hypoth 
+esized that smaller protists are more likely to have a
+wider and more homogeneous dispersal consistent
+with this it was shown that smaller fraction – 
+µm replicates were more similar to each other in
+terms of composition compared to replicates from
+the larger size fraction µm duret et al 
+also size fractionation might result in finding larger
+taxa in smaller fractions due to the breaking of
+bodily parts so such practices should be cautiously
+assessed iv in highly complex metagenomes such
+as those produced by total community metagenomic
+sequencing the probability of observing matching
+sequences originating from the exact same locus is
+very low gomez alvarez et al so in this
+study’s case the term otu is not applicable there 
+fore the assignment of reads or contigs to species 
+and the direct comparison of loci remains a chal 
+lenge new methodologies such as concoct alne 
+berg et al have been developed to improve
+reads assembly thus allowing better reads assign 
+ment quantification of their abundance and revealing
+strain level variation 
+
+overall as the cost of sequencing decreases and
+data processing pipelines optimize total community
+metagenomic sequencing has been shown to be a
+promising method in integrating sequencing data
+into ecological processes and offering insights into
+the complex interaction between genes organisms 
+communities and environmental features thus this
+method could be ideal to explore unfamiliar and
+extreme systems and along with in depth targeted
+sequencing to address questions about microbial
+structure and functioning 
+
+acknowledgements
+
+this study was supported by the ‘nord pas de calais’ frb 
+demo frb and the anr rome anr bsv 
+ projects and the somlit network we are grateful to
+
+marine biology research 
+
+
+
+eric lecuyer for running the logistics and the somlit
+sampling and elsa breton for validating the physical and
+chemical values the authors would also like to thank those
+at www englisheditor webs com for their help in the english
+proof reading of this paper we are thankful to the three
+referees who helped improve the original manuscript with
+their constructive comments 
+
+disclosure statement
+
+no potential conflict of interest was reported by the authors 
+
+references
+
+alneberg j bjarnason bs de bruijn i schirmer m quick j 
+ijaz uz et al binning metagenomic contigs by cover 
+age and composition nature methods – 
+
+amann ri binder bj olson rj chisholm sw devereux r 
+stahl da combination of s rrna targeted oligo 
+nucleotide probes with flow cytometry for analyzing
+mixed microbial populations applied and environmental
+microbiology – 
+
+bik hm porazinska dl creer s caporaso jg knight r thomas
+wk sequencing our way towards understanding
+global eukaryotic biodiversity trends in ecology and
+evolution – 
+
+breitbart m rohwer f here a virus there a virus every 
+where the same virus trends in microbiology – 
+
+brinkhoff t giebel ha simon m diversity ecology and
+genomics of the roseobacter clade a short review archives
+of microbiology – 
+
+chen f lu j genomic sequence and evolution of
+marine cyanophage p a new insight on lytic and lyso 
+genic phages applied and environmental microbiology
+ – 
+
+cheung mk au ch chu kh kwan hs wong ck 
+composition and genetic diversity of picoeukaryotes in
+sub tropical coastal waters as revealed by pyrosequen 
+cing the isme journal – 
+
+christaki u kormas ka genitsaris s georges c sime ngando
+t viscogliosi e monchy s winter summer succes 
+sion of unicellular eukaryotes in a meso eutrophic coastal
+system microbiology ecology – 
+
+countway pd vigil pd schnetzer a moorthi sd caron da 
+ seasonal analysis of protistan community structure
+and diversity at the usc microbial observatory san
+pedro channel north pacific ocean limnology and
+oceanography – 
+
+delong ef preston cm mincer t rich v hallam sj frigaard
+nu et al community genomics among stratified
+microbial assemblages in the ocean’s interior science
+ – 
+
+di rienzi sc sharon i wrighton kc koren o hug la thomas
+bc et al the human gut and groundwater harbor
+non photosynthetic bacteria belonging to a new candidate
+phylum sibling to cyanobacteria elife e pages 
+
+duret mt pachiadaki mg stewart fj sarode n christaki u 
+monchy s et al size fractionated diversity of eukary 
+otic microbial communities in the eastern tropical pacific
+oxygen minimum zone fems microbiology ecology 
+ pages doi femsec fiv 
+
+edgar rc search and clustering orders of magnitude
+faster than blast bioinformatics – 
+
+edgcomb v orsi w bunge j jeon s christen r leslin c et al 
+ protistan microbial observatory in the cariaco basin 
+caribbean i pyrosequencing vs sanger insights into
+species richness the isme journal – 
+
+engelbrektson a kunin v wrighton kc zvenigorodsky n 
+chen f ochman h hugenholtz p experimental
+factors affecting pcr based estimates of microbial
+species richness and evenness the isme journal – 
+
+farrer ra kemen e jones jdg studholme dj de novo
+assembly of the pseudomonas syringae pv syringae b a
+genome using illumina solexa short sequence reads fems
+microbiology letters – 
+
+fenchel t finlay bj the ubiquity of small species pat 
+terns of local and global diversity bioscience – 
+
+fernández gómez b richter m schüler m pinhassi j acinas
+sg gonzález jm pedrós alió c ecology of marine
+bacteroidetes a comparative genomics approach the
+isme journal – 
+
+fuhrman ja microbial community structure and its
+functional implications nature – 
+
+genitsaris s monchy s viscogliosi e sime ngando t ferreira
+s christaki u seasonal variations of marine protist
+community structure based on taxon specific traits using
+the eastern english channel as a model coastal system 
+fems microbiology ecology pages doi 
+femsec fiv 
+
+gilbert ja steele ja caporaso jg steinbrück l reeder j 
+temperton b et al defining seasonal marine
+microbial community dynamics isme journal – 
+
+gomez alvarez v teal tk schmidt tm systematic arti 
+facts in metagenomes from complex microbial commu 
+nities the isme journal – 
+
+gonzález jm fernández gómez b fernàndez guerra a 
+gómez consarnau l sánchez o coll lladó m et al 
+genome analysis of the proteorhodopsin containing
+marine bacterium polaribacter sp med 
+ flavobacteria proceedings of the national academy of
+sciences – 
+
+grattepanche jd breton e brylinski jm lecuyer e christaki
+u a succession of primary producers and microgra 
+zers in a coastal ecosystem dominated by phaeocystis
+globosa blooms journal of plankton research – 
+
+grattepanche jd vincent d breton e christaki u b 
+phytoplankton growth and microzooplankton grazing
+during a spring bloom in the eastern english channel 
+journal of experimental marine biology and ecology
+ – 
+
+guillou l bachar d audic s bass d berney c bittner l et al 
+ the protist ribosomal reference database pr a
+catalog of unicellular eukaryote small sub unit rrna
+sequences with curated taxonomy nucleic acids
+research – 
+
+hadziavdic k lekang k lanzen a jonassen i thompson em 
+troedsson c characterization of the s rrna gene
+for designing universal eukaryote specific primers plos
+one e pages 
+
+hammer Ø harper dat ryan pd past 
+paleontological statistics software package for education
+and data analysis palaeontologia electronica 
+computer program 
+
+ s genitsaris et al 
+
+http www englisheditor webs com
+http dx doi org femsec fiv 
+http dx doi org femsec fiv 
+http dx doi org femsec fiv 
+
+
+hong sh bunge j leslin c jeon s epstein ss 
+polymerase chain reaction primers miss half of rrna
+microbial diversity the isme journal – 
+
+hugoni m taib n debroas d domaizon i dufournel ij 
+bronner g et al structure of the rare archaeal bio 
+sphere and seasonal dynamics of active ecotypes in
+surface coastal waters proceedings of the national
+academy of sciences – 
+
+huse sm welch dm morrison hg sogin ml ironing
+out the wrinkles in the rare biosphere through improved
+otu clustering environmental microbiology 
+ – 
+
+kirchman dl new light on an important microbe in the
+ocean proceedings of the national academy of sciences
+ – 
+
+kisand v valente a lahm a tanet g lettieri t 
+phylogenetic and functional metagenomic profiling for
+assessing microbial biodiversity in environmental monitor 
+ing plos one e pages 
+
+klindworth a pruesse e schweer t peplies j quast c horn
+m glöckner o evaluation of general s ribosomal
+rna gene pcr primers for classical and next generation
+sequencing based diversity studies nucleic acids
+research e pages 
+
+knight r jansson j field d fierer n desai n fuhrman ja 
+et al unlocking the potential of metagenomics
+through replicated experimental design nature
+biotechnology – 
+
+kunin v engelbrektson a ochman h hugenholtz p 
+wrinkles in the rare biosphere pyrosequencing errors
+can lead to artificial inflation of diversity estimates 
+environmental microbiology – 
+
+lamy d obernosterer i laghdass m artigas lf breton e 
+grattepanche jd et al temporal changes of
+major bacterial groups and bacterial heterotrophic
+activity during a phaeocystis globosa bloom in the
+eastern english channel aquatic microbial ecology
+ – 
+
+lanzen a jørgensen sl bengtsson mm Øvreås l urich t 
+ exploring the composition and diversity of microbial
+communities at the jan mayen hydrothermal vent field
+using rna and dna fems microbiology ecology 
+ – 
+
+lara e heger tj sceihing r mitchell ead coi gene and
+ecological data suggest size dependent high dispersal and
+low intra specific diversity in free living terrestrial protists
+ euglyphida assulina journal of biogeography – 
+
+lopez garcia p philippe h gail f moreira d 
+autochthonous eukaryotic diversity in hydrothermal sedi 
+ment and experimental microcolonizers at the mid 
+atlantic ridge proceedings of the national academy of
+sciences – 
+
+lupski jr reid jg gonzaga jauregui c deiros dr chen dcy 
+nazareth l et al whole genome sequencing in a
+patient with charcot marie tooth neuropathy new
+england journal of medicine – 
+
+margulies m egholmm altmanwe attiya s bader js bemben
+la berka j genome sequencing in microfabricated
+high density picolitre reactors nature – 
+
+medinger r nolte v pandey rv jost s ottenwalder b 
+schlotterer c boenigk j diversity in a hidden
+world potential and limitation of next generation
+
+sequencing for surveys of molecular diversity of eukaryotic
+microorganisms molecular ecology suppl – 
+
+meyer f paarmann d d’souza m olson r glass em kubal t 
+et al the metagenomics rast server – a public
+resource for the automatic phylogenetic and functional
+analysis of metagenomes bmc bioinformatics 
+
+monchy s grattepanche jd breton e meloni d sanciu g 
+chabé m et al microplankton community structure
+in a coastal system relative to a phaeocystis bloom inferred
+from morphological and tag pyrosequencing methods 
+plos one e pages 
+
+nassanova e smirnov a fahrni j pawlowski j 
+barcoding amoebae comparison of ssu its and coi
+genes as tools for molecular identification of naked
+lobose amoebae protist – 
+
+pawlowski j christen r lecroq b bachar d shahbazkia hr 
+amaral zettler l guillou l euakryotic richness in
+the abyss insights from pyrotag sequencing plos one 
+e pages 
+
+pernice mc logares r guillou l massana r general
+patterns of diversity in major marine microeukaryote
+lineages plos one e pages 
+
+persson op pinhassi j riemann l marklund bi rhen m 
+normak s et al high abundance of virulence gene
+homologues in marine bacteria environmental
+microbiology – 
+
+polz mf cavanaugh cm bias in template to product in
+multitemplate pcr applied and environmental
+microbiology – 
+
+pommier t neal pr gasol jm coll m acinas sg pedrós alió
+c spatial patterns of bacterial richness and evenness
+in the nw mediterranean sea explored by pyrosequencing
+of the rrna aquatic microbial ecology – 
+
+prokopowich cd gregory tr crease tj the correlation
+between rdna copy number and genome size in eukar 
+yotes genome – 
+
+prosser ji replicate or lie environmental microbiology
+ – 
+
+quince c lanzen a curtis tp davenport rj hall n head im 
+et al accurate determination of microbial
+diversity from pyrosequencing data nature methods
+ – 
+
+riemann l steward gf azam f dynamics of bacterial
+community composition and activity during a mesocosm
+diatom bloom applied and environmental microbiology
+ – 
+
+rusch db halpern al sutton g heidelberg kb williamson s 
+yooseph s et al the sorcerer ii global ocean
+sampling expedition northwest atlantic through eastern
+tropical pacific plos biology e pages 
+
+schloss pd westcott sl ryabin t hall jr hartmann m 
+hollister eb et al introducing mothur open source 
+platform independent community supported software
+for describing and comparing microbial communities 
+applied and environmental microbiology – 
+
+schmieder r edwards r quality control and preproces 
+sing of metagenomic datasets bioinformatics – 
+
+shokralla s spall jl gibson jf hajibabaei m next 
+generation sequencing technologies for environmental
+dna research molecular ecology – 
+
+stoeck t bass d nebel m christen r jones md breiner hw 
+richards ta multiple marker parallel tag
+
+marine biology research 
+
+
+
+environmental dna sequencing reveals a highly complex
+eukaryotic community in marine anoxic water molecular
+ecology suppl – 
+
+venter jc remington k heidelberg jf halpern al rusch d 
+eisen ja et al environmental genome shotgun
+sequencing of the sargasso sea science – 
+
+youssef n sheik cs krumholz lr najar fz roe ba 
+elshahed ms comparison of species richness
+
+estimates obtained using nearly complete fragments and
+simulated pyrosequencing generated fragments in s
+rrna gene based environmental surveys applied and
+environmental microbiology – 
+
+zhu f massana r not f marie d vaulot d mapping of
+picoeukaryotes in marine ecosystems with quantitative
+pcr of the s rrna gene fems microbiology ecology
+ – 
+
+ s genitsaris et al 
+
+
+	abstract
+	introduction
+	materials and methods
+	sample collection
+	total community metagenomic sequencing
+	total community metagenomic sequencing read processing and annotation
+	pcr and rdna amplicon deep sequencing
+	rdna amplicon deep sequencing quality filtering
+	data analysis
+	data accessibility
+
+	results
+	total community metagenomic sequencing
+	taxonomical composition based on total community metagenomic sequencing
+	gene pool content based on total community metagenomic sequencing
+	microbial composition based on rdna amplicon deep sequencing relative to total community metagenomic sequencing
+
+	discussion
+	taxonomic composition based on rdna amplicon deep sequencing
+	taxonomic composition and gene pool content based on total community metagenomic sequencing
+	potential and limitations of total community metagenomic sequencing in relation to rdna amplicon deep sequencing
+
+	acknowledgements
+	disclosure statement
+	references
+
+

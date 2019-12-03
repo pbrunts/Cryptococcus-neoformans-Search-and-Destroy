@@ -1,0 +1,2045 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+uncovering the gene machinery of the amazon river microbiome to degrade rainforest organic matter
+
+
+ 
+
+ 
+
+uncovering the gene machinery of the amazon river microbiome to 
+
+degrade rainforest organic matter 
+
+ 
+
+célio dias santos júnior hugo sarmento fernando pellon de miranda flávio henrique 
+
+silva ramiro logares 
+
+ 
+
+ molecular biology laboratory department of genetics and evolution – dge universidade 
+
+federal de são carlos – ufscar são carlos sp brazil 
+
+ 
+
+ laboratory of microbial processes biodiversity department of hydrobiology – dhb 
+
+universidade federal de são carlos – ufscar são carlos sp brazil 
+
+ 
+
+ petróleo brasileiro s a petrobras centro de pesquisas e desenvolvimento leopoldo 
+
+américo miguez de mello rio de janeiro rj brazil 
+
+ 
+
+ institute of marine sciences icm csic passeig marítim de la barceloneta 
+
+es barcelona catalonia spain 
+
+ 
+
+ 
+
+ corresponding authors 
+
+fhs dfhs ufscar br 
+
+rl ramiro logares gmail com 
+
+ 
+
+ 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+mailto fhs
+mailto dfhs ufscar br
+mailto ramiro logares gmail com
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+abstract 
+
+ 
+
+the amazon river receives from the surrounding rainforest huge amounts of 
+
+terrestrial organic matter teom which is typically resistant to microbial degradation 
+
+however only a small fraction of the teom ends up in the ocean indicating that most of it is 
+
+degraded in the river so far the nature of the genes involved in teom degradation and their 
+
+spatial distributions are barely known here we examined the amazon river microbiome 
+
+gene repertoire and found that it contains a substantial gene novelty compared to other 
+
+environments rivers and rainforest soil we predicted million non redundant genes 
+
+affiliating mostly to bacteria the gene functions involved in teom degradation revealed 
+
+that lignin degradation correlated to tricarboxylates and hemicellulose processing pointing to 
+
+higher lignin degradation rates under consumption of labile compounds we describe the 
+
+biochemical machinery that could be speeding up the decomposition of recalcitrant 
+
+compounds in amazonian waters previously reported only in incubation experiments 
+
+ 
+
+keywords amazon river freshwater bacteria biodiversity metagenomics lignin 
+
+degradation cellulose degradation priming effect gene catalogue 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+introduction 
+
+ 
+
+continental waters play a major biogeochemical role by linking terrestrial and 
+
+marine ecosystems riverine ecosystems receive terrestrial organic carbon which is mostly 
+
+processed by microorganisms stimulating the conversion of terrestrially derived organic 
+
+matter teom which can be recalcitrant to carbon dioxide – therefore riverine 
+
+microbiomes should have evolved metabolisms capable of degrading teom even though the 
+
+gene repertoire of river microbiomes can provide crucial insights to understand the links 
+
+between terrestrial and marine ecosystems as well as the fate of organic matter synthesized 
+
+on land very little is known about the genomic machinery of riverine microbes that degrade 
+
+teom 
+
+microbiome gene catalogues allow the characterization of the functional repertoire 
+
+linking genes with ecological function and ecosystem services recently large gene 
+
+catalogues have been produced for the global ocean – soils and animal guts in 
+
+particular million genes have been reported for the global ocean microbiome and 
+
+million genes for the global topsoil microbiome 
+
+so far there is no comprehensive gene catalogue for rivers which hinders our 
+
+comprehension of the genomic machinery that degrade almost half of the pg c of 
+
+recalcitrant teom that are discharged into rivers every year this is particularly relevant in 
+
+tropical rainforests like the amazon forest which accounts for of the global primary 
+
+production fixating pg c per year the amazon river basin comprises almost 
+
+of continental south america and its discharge accounts for of the world’s inland 
+
+water inputs to the oceans despite its relevance for global scale processes there is a limited 
+
+understanding of the amazon river microbiome as well as microbiomes from other large 
+
+tropical rivers 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+the large amounts of organic and inorganic particulate material turns the amazon 
+
+river into a turbid system high turbidity reduces light penetration and consequently the 
+
+amazon river has very low rates of algal production meaning that the dissolved organic 
+
+carbon cycling at the terrestrial–aquatic interface is the major carbon source for microbial 
+
+growth high respiration rates in amazon river waters generate a super saturation that 
+
+leads to co outgassing to the atmosphere overall amazon river outgassing accounts for 
+
+ pg c per year to the atmosphere almost equivalent to the amount of carbon sequestered 
+
+by the forest despite the predominantly recalcitrant nature of the teom that is 
+
+discharged into the amazon river heterotrophic microbes are able to degrade up to of 
+
+the lignin produced by the rainforest the unexpectedly high degradation rates of some 
+
+teom compounds in the river was recently explained by the availability of labile compounds 
+
+that promote the degradation of recalcitrant ones a mechanism known as priming effect 
+
+which has been observed in incubation experiments 
+
+determining the repertoire of gene functions in the amazon river microbiome is one 
+
+of the key steps to understand the mechanisms involved in the degradation of complex teom 
+
+produced by the rainforest given that most teom present in the amazon river is lignin and 
+
+cellulose – the functions associated to their degradation were expected to be widespread in 
+
+the amazon microbiome instead these functions exhibited very low abundances – 
+
+highlighting our limited understanding of the enzymes involved in the degradation of lignin 
+
+and cellulose in aquatic systems 
+
+cellulolytic bacteria use an arsenal of enzymes with synergistic and complementary 
+
+activities to degrade cellulose for example glycosyl hydrolases ghs catalyze the 
+
+hydrolysis of glycoside linkages polysaccharide esterases support the action of ghs over 
+
+hemicelluloses and polysaccharide lyases promote depolymerisation in contrast lignin is 
+
+more resistant to degradation since its role is preventing microbial enzymes from degrading 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+labile cell wall polysaccharides the microbial production of extracellular hydrogen 
+
+peroxide a highly reactive compound is the first step of lignin oxidation mediated by 
+
+enzymes like lignin peroxidase manganese dependent peroxidase and copper dependent 
+
+laccases lignin oxidation also produces a complex mixture of aromatic compounds which 
+
+compose the humic fraction of dissolved carbon detected in previous studies in the amazon 
+
+river mainstream lignin degradation tends to occur in oxic waters of the amazon river 
+
+using the hydrogen peroxide produced by the metabolism of cellulose and hemicellulose 
+
+therefore a higher amount of lignin degradation genes is expected in oxic waters 
+
+here we produced the first gene catalogue of the world’s largest rainforest river by 
+
+analyzing metagenomes x base pairs originating from stations covering a 
+
+total of km from the upper solimões river to the amazon river plume in the 
+
+atlantic ocean this gene catalogue was used to uncover and examine the genomic 
+
+machinery of the amazon river microbiome to metabolize large amounts of carbon 
+
+originating from the surrounding rainforest specifically we ask how novel is the gene 
+
+repertoire of the amazon river microbiome which are the main functions associated to 
+
+teom degradation do teom degradation genes and functions have a spatial distribution 
+
+pattern is there any evidence of priming effect in teom degradation 
+
+ 
+
+results 
+
+ 
+
+cataloguing the genes of the amazon river microbiome 
+
+our original dataset contained metagenomes from different stations fig a 
+
+covering km of the amazon river and its continuum over the atlantic ocean 
+
+metagenome assembly yielded contigs ≥ base pairs in a total assembly 
+
+length of x base pairs supplementary table we predicted genes 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+longer than bp allowing also for alternative initiation codons after redundancy 
+
+elimination through clustering genes with an identity and an overlap of the 
+
+shorter gene the amazon river basin microbial non redundant gene catalogue amnrgc 
+
+included non redundant genes with half of the genes with a length ≥ bp about 
+
+ of the amnrgc genes were annotated with at least one database fig b while 
+
+of the annotated genes were simultaneously annotated using two or more different databases 
+
+the gene and functional diversity recovered seemed to be representative of the total diversity 
+
+present in the sampling sites as indicated by the accumulation curves which tended towards 
+
+saturation fig c 
+
+ 
+
+patterns in the metagenomic composition of microbiomes 
+
+we compared the metagenomic information contained in the amazon river 
+
+microbiome with that of amazon rainforest soil and other rivers canada watersheds and 
+
+mississippi river the k mer comparison of microbiomes indicated they are different 
+
+ fig d forming groups of heterogenous composition significant β dispersion that is 
+
+average distance of samples to the group centroid permutest f p the 
+
+metagenomic content of amazon basin samples was different to the other compared 
+
+microbiomes permanova r p x anosim r p 
+
+which suggests that this basin or tropical rivers in general contain specific gene repertoires 
+
+the metagenomic composition of the five sampled sections of the amazon river upstream 
+
+downstream estuary plume and ocean were significantly different permanova test f 
+
+ p e indicating that they do represent different assemblages from a genetic 
+
+perspective each of these groups was considered homogenous since there was a non 
+
+significant β dispersion f p among metagenomic samples in each group 
+
+ supplementary fig 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+gene identification 
+
+about of the amnrgc genes could not be annotated due to lack of orthologs 
+
+besides even though of the genes in the amnrgc were previously found in 
+
+metagenomic studies they were poorly characterized without being assigned to a particular 
+
+taxon here referred to as “metagenomic” genes fig b genes annotated exclusively 
+
+through hidden markov models hmm represented of amnrgc fig b as the 
+
+annotation using hmm profiles does not rely on direct orthology to specific sequences but 
+
+on orthology to a protein family which may include mixed taxonomic signal we could not 
+
+assign taxonomy to those genes and they are referred as “unassigned genes” fig b 
+
+the previous highlights our limited understanding about the gene composition of the 
+
+amazon river microbiome where most proteins do not have orthologs in main 
+
+reference databases taxonomically assigned prokaryotic genes bacterial and 
+
+archaeal constituted the majority in the amnrgc with only and of the genes 
+
+having eukaryotic or viral origin respectively fig b 
+
+ 
+
+general or core metabolisms 
+
+the superclass “metabolic processes” from the clusters of orthologous genes 
+
+ cog database comprises those gene functions belonging either to energy production and 
+
+conversion amino acids nucleotides carbohydrates coenzymes lipids and inorganic ions 
+
+transport and metabolism and secondary metabolites biosynthesis transport and catabolism 
+
+this superclass was the most abundant in the amnrgc of the genes annotated with 
+
+cog classes fig genes with unknown function represented of the cog class 
+
+annotated proteins 
+
+metabolism core functions were defined as those involved in cell or ecosystem 
+
+homeostasis normally representing the minimal metabolic machinery needed to survive in a 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+given environment kegg and pfam databases were used to determine the bacterial 
+
+functional core also allowing the identification of metabolic pathways core functions 
+
+represented of kegg and pfam functions and were mostly related to a general carbon 
+
+metabolism mostly associated to general organic matter oxidation until co and the 
+
+microbial respiration byproducts heading to acetogenic pathways besides the core the most 
+
+abundant proteins can reveal essential biochemical pathways in microbiomes the top 
+
+most abundant functions in the bacterial core were “house keeping” functions involved in 
+
+main metabolic pathways e g carbohydrate metabolism quorum sensing transporters and 
+
+amino acid metabolism as well as important protein complexes e g rna and dna 
+
+polymerases and atp synthase 
+
+ 
+
+teom degradation machinery 
+
+a total of genes from the amnrgc were identified as taking part in the teom 
+
+degradation machinery of the amazon river microbiome being divided into cellulose 
+
+degradation genes hemicellulose degradation genes lignin oxidation genes 
+
+lignin derived aromatic compounds transport and metabolism genes and 
+
+tricarboxylate transport genes supplementary fig the huge gene diversity 
+
+associated to metabolism of lignin derived compounds and the transport of tricarboxylates 
+
+reflects the molecular diversity of the compounds generated respectively in the lignin 
+
+oxidation process and present in amazon freshwaters as humic and fulvic acids 
+
+ 
+
+initial steps of teom degradation lignin oxidation and deconstruction of cellulose and 
+
+hemicellulose 
+
+teom consists of biopolymers so the first step of its microbial degradation consists 
+
+in converting polymers into monomers thus the identified genes involved in the oxidation 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+of lignin and degradation of cellulose and hemicellulose were investigated supplementary 
+
+fig we found that the lignin oxidation in the amazon river is mainly mediated by dye 
+
+decolorizing peroxidases dyps and predominantly associated to freshwaters only laccases 
+
+and peroxidases were found in the amazon river microbiome no other families involved in 
+
+lignin oxidation like phenolic acid decarboxylase or glyoxal oxidase were found in turn 
+
+hemicellulose degradation seems to be performed mainly by glycosyl hydrolase gh in all 
+
+river sections we observed a similar ubiquitous dominance of glycosyl hydrolase gh in 
+
+cellulose degradation across river sections interestingly according to the gene content 
+
+cellulose and hemicellulose degradation seemed to replace lignin oxidation in brackish 
+
+waters suggesting the aging of teom during its flow through the river 
+
+ 
+
+lignin derived aromatic compounds degradation 
+
+following the initial degradation of lignin plenty of aromatic compounds are 
+
+released these can be divided into aromatic monomers monoaryls or dimers diaryls 
+
+which can be processed through several biochemical steps also called funneling pathways 
+
+until being converted into vanilate or syringate these compounds can be processed through 
+
+the o demethylation c metabolism and ring cleavage pathways to form pyruvate or 
+
+oxaloacetate which can be incorporated to the tca cycle of the cells generating energy the 
+
+genes identified in the amnrgc belonging to these pathways were examined 
+
+all known functions taking place in the metabolism of lignin derived aromatic 
+
+compounds were found in the amnrgc except the gene ligd a cα dehydrogenase for αr 
+
+isomers of β aryl ethers the complete degradation pathway of lignin derived compounds 
+
+ supplementary fig d included and genes belonging to funneling pathways of 
+
+diaryls and monoaryls respectively examination of the pathways starting with vanilate and 
+
+syringate revealed genes responsible for the o demethylation and c metabolism steps 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+while genes seemed responsible for the ring cleavage pathway almost of all genes 
+
+related to the degradation of lignin derived compounds in the amnrgc belonged to gene 
+
+families ligh desv phcd or phcc these genes represent the main steps of intracellular 
+
+lignin metabolism which are funneling pathways leading to vanilate syringate o 
+
+demethylation c metabolism and ring cleavage 
+
+we evaluated whether genes associated to teom degradation had a spatial 
+
+distribution pattern along the river course for this we used the linear geographic distance of 
+
+samples from the amazon river source in peru as a reference distance was negatively 
+
+correlated with the number of genes associated to lignin oxidation hemicellulose 
+
+degradation ring cleavage pathway tripartite tricarboxylate transporting and the aahs 
+
+transporters fig this suggests a potential reduction of the microbial gene repertoire 
+
+related to lignin processing as the river approaches the ocean 
+
+the gene machinery associated to the processing of lignin derived aromatic 
+
+compounds was positively correlated to lignin oxidation along the river course fig 
+
+suggesting a co processing of lignin and its byproducts lignin oxidation and hemicellulose 
+
+degradation pathways were positively correlated fig supporting the idea that monomers 
+
+of hemicellulose mainly carbohydrates could be priming lignin oxidation cellulose 
+
+degradation was not correlated with lignin oxidation but had a weak positive correlation to 
+
+hemicellulose degradation fig suggesting a coupling between both pathways 
+
+we did not find correlations between the different types of funneling pathways 
+
+ fp dimers and fp monomers and the linear geographic distance along the river course 
+
+ fig this indicates that the degradation of lignin derived aromatic compounds was not 
+
+restricted to any river section moreover the number of genes related to hemi cellulose 
+
+degradation was positively correlated to lignin derived aromatic compounds degradation 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+pathways revealing a potential co metabolism of lignin derived compounds and hemi 
+
+ cellulose degradation instead of lignin oxidation 
+
+ 
+
+transporters 
+
+lignin derived aromatic compounds need to be transported from the extracellular 
+
+environment to the cytoplasm prior to their degradation transporters that could be associated 
+
+to lignin degradation mfs transporter aahs family and abc transporters were found in 
+
+the amnrgc while transporters from the mhs family its superfamily and trap could not 
+
+be found mfs transporters were not correlated to any of the other examined pathways 
+
+aahs transporters were negatively correlated to linear geographic distance while the other 
+
+transporter families did not show any type of correlation with distance fig furthermore 
+
+aahs and abc transporters showed positive correlations to the funneling pathway of 
+
+monoaryls suggesting their transport by those transporter families abc transporters were 
+
+positively correlated to o demethylation and c metabolism while aahs and abc 
+
+transporters were correlated to the ring cleavage pathway this suggests that abc and aahs 
+
+transporters are relevant for the metabolism of monoaryls derived from lignin oxidation 
+
+the tripartite tricarboxylate transporting ttt system was correlated to the 
+
+processing of allochthonous organic material in the amazon river three proteins compose 
+
+this system where one is responsible of capturing substrates in the extracellular space and 
+
+bringing them to the transporting channel made by the other two proteins which recognize 
+
+the substrate binding protein and internalize the substrate interestingly there is a huge 
+
+diversity associated to the substrate binding proteins since each protein is specific to one or a 
+
+few substrates furthermore the ttt system displayed a negative correlation with the linear 
+
+geographic distance suggesting its predominance in freshwaters sections fig 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+the ttt system was positively correlated to aahs and abc transporters fig 
+
+suggesting functional complementarity as the ttt would transport substrates not transported 
+
+by the other transporter families furthermore the ttt transporters showed a positive 
+
+correlation with lignin oxidation and hemicellulose degradation suggesting either the 
+
+transport of the products of those processes by ttt family or a dependence of compounds 
+
+transported by it 
+
+ 
+
+discussion 
+
+ 
+
+the amnrgc represents the first inland tropical water non redundant microbial gene 
+
+catalogue it allowed us to expand considerably our comprehension of the world’s largest 
+
+river microbiome half of the millions genes in the amnrgc had no orthologs 
+
+suggesting gene novelty yet there is limited information about the gene repertoire in other 
+
+rivers preventing exhaustive comparisons the analysis of k mers indicated a distinct 
+
+metagenomic composition in the amazon river basin when compared to other rivers and to 
+
+the amazon rainforest soil this suggests that evolutionary processes may have generated 
+
+such diversity via local adaptation although more samples from other rivers throughout the 
+
+world would be necessary to test this hypothesis fully 
+
+as expected cog functions within the superclass “metabolism” were the most 
+
+abundant in the amnrgc as well as in the upper mississippi river a large fraction of these 
+
+functions likely represents “core functional traits” shared across the tree of life this was 
+
+supported by the similar distribution of cogs along different sections of the amazon river 
+
+which also points to “core functional traits” that are conserved throughout the river course a 
+
+set of core functions was also reported for the mississippi river as well as for the global 
+
+ocean 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+we observed a subset of gene functions present in fresh and brackish water 
+
+sections pointing to common core functions present along the amazon river basin yet 
+
+other genes displayed a heterogeneous distribution pointing to salinity as a structuring 
+
+variable salinity is known to affect microbial spatiotemporal distribution and jumps across 
+
+the salinity barrier are rare evolutionary events the plume section displayed higher gene 
+
+diversity than the ocean probably reflecting the coalescence of freshwater and marine 
+
+microbial communities and their different genes 
+
+core functions included a general carbohydrate metabolism and several transporter 
+
+systems mainly abc transporters this suggests a sophisticated machinery to process teom 
+
+in the amazon river where teom degradation appears more related to acetogenic and 
+
+methanotrophic pathways this agrees with previous findings indicating a high expression 
+
+of c metabolism genes methane monooxygenase mmob and formaldehyde activating 
+
+enzyme fae the non core pathways suggest adaptations to a complex environment 
+
+including multiple genes related to xenobiotic biodegradation and secondary metabolism that 
+
+is the production and consumption of compounds not directly related to cell survival 
+
+lignin derived aromatic compounds need to be transported from the extracellular 
+
+milieu to the cytoplasm to be degraded and different transporting systems can be involved in 
+
+this process in particular previous studies showed that the ttt system was present in 
+
+high quantities in the amazon river and this was attributed to a potential degradation of 
+
+allochthonous organic matter recent findings also suggest a ttt system related to the 
+
+transport of teom degradation byproducts little is known about these transporters but 
+
+our findings indicate that ttt is an abundant protein family in the amazon river suggesting 
+
+that tricarboxylates are a common carbon source for prokaryotes in these waters our results 
+
+suggest that the ttt transporters could be linked to lignin oxidation and hemicellulose 
+
+degradation supporting their role in teom degradation 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+based in our findings we propose a model of the potential priming effect acting in 
+
+ligno cellulose complexes from the amazon river fig in this model there are two 
+
+different communities co existing in a consortium one responsible for hemi cellulose 
+
+degradation and another one responsible for lignin degradation the first community releases 
+
+extracellular enzymes mainly glucosyl hydrolases from families gh and gh whose 
+
+reaction produces carbohydrates these sugars can provide structural carbon and energy for 
+
+themselves and for the lignin degrader community the lignolytic community can also use 
+
+the cellulolytic byproducts to growth promoting an oxidative metabolism this oxidative 
+
+metabolism triggers the production and secretion of reactive oxygen species ros ros are 
+
+then used by dyps and laccases secreted by lignolytic communities to oxidize lignin 
+
+exposing more hemi cellulose to cellulolytic communities and re starting the cycle another 
+
+important role of lignolytic communities is the degradation of lignin derived aromatic 
+
+compounds generated by the lignin oxidation if those compounds are not degraded they 
+
+could inhibit cellulolytic enzymes and microbial growth – preventing teom degradation 
+
+this cycle may be considered as a priming effect where both communities benefit from each 
+
+other 
+
+ 
+
+materials and methods 
+
+ 
+
+we analyzed metagenomes – from stations distributed along the amazon 
+
+river basin with an average coverage of x base pairs per metagenome standard 
+
+deviation of x bp metagenome the stations from solimões river and lakes in the 
+
+amazon river course located upstream from the city of manaus until the amazon river’s 
+
+plume in the atlantic ocean covered km and were divided into sections fig a 
+
+supplementary table these sections were upstream section upstream manaus city 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ downstream section placed between manaus and the start of the amazon river estuary it 
+
+includes the influx of particle rich white waters from the solimões river as well as the influx 
+
+of humic waters from negro river estuary section part of the river that meets the 
+
+atlantic ocean and plume section the area where the ocean is influenced by the amazon 
+
+river inputs 
+
+samples were taken as previously indicated – depending on the original study 
+
+particle associated microbes were defined as those passing the filter of µm mesh size and 
+
+being retained in the filter of µm mesh size free living microbes were defined as those 
+
+passing the filter of µm mesh size being retained in the filter of µm mesh size 
+
+dna was extracted from the filters as previously indicated – metagenomes were obtained 
+
+from libraries prepared with either nextera or truseq kits different illumina sequencing 
+
+platforms were used genome analyzer iix hiseq or miseq additional information is 
+
+provided in supplementary table 
+
+ 
+
+metagenome processing 
+
+illumina adapters and poor quality bases were removed from metagenomes using 
+
+cutadapt only reads longer than bp containing bases with q ≥ were kept the 
+
+quality of the reads was checked with fastqc reads from metagenomes belonging to the 
+
+same station were assembled together using megahit v with the meta large presets 
+
+only contigs kbp were considered as recommended by previous work assembly 
+
+quality was assessed with quast 
+
+ 
+
+analysis of k mer diversity over different environments 
+
+ a k mer diversity analysis was used to compare the genetic information in the 
+
+amazon river microbiome against that in other microbiomes from amazon forest soil or 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+temperate rivers supplementary table specifically the amazon river metagenomes 
+
+ were compared against metagenomes from the mississippi river 
+
+metagenomes from three watersheds in canada and metagenomes from the amazon 
+
+forest soil the rationale to include soil metagenomes was to check whether genomic 
+
+information in the river could derive from soils k mer comparisons were run with simka 
+
+ version normalizing by sample size low complexity reads and k mers shannon 
+
+index were discarded before simka analyses the resulting jaccard’s distance matrix 
+
+was used to generate a non metric multidimensional scaling nmds analysis permutation 
+
+tests were used to check the homogeneity of beta dispersion in the groups and permutational 
+
+multivariate analysis of variance permanova anosim was used to test the groups’ 
+
+difference both analyzes were performed using the r package vegan 
+
+ 
+
+amazon river basin microbial non redundant gene catalogue amnrgc 
+
+genes were predicted using prodigal version only open reading frames 
+
+ orfs predicted as complete i e accepting alternative initiation codons and longer than 
+
+ bp were considered in downstream analyses gene sequences were clustered into a non 
+
+redundant gene catalogue using cd hit est version at of nucleotide identity 
+
+and of overlap of the shorter gene representative gene sequences were used in 
+
+downstream analyses gc content per gene was inferred via infoseq emboss package 
+
+ version 
+
+ 
+
+gene abundance estimation 
+
+the quality trimmed sequencing reads were mapped to our non redundant gene 
+
+catalogue using bwa version r and samtools version gene 
+
+abundances were estimated using the software express version with no bias 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+correction as the equivalent to transcripts per million tpm note that even though we use 
+
+the common acronym tpm for simplicity we have always used reads no transcripts we 
+
+used a tpm ≥ for a gene to be present in a sample and an average abundance higher 
+
+than zero µtpm for a gene to be present in a river section or water type freshwater 
+
+brackish water or the mix of them in the plume 
+
+ 
+
+functional annotation 
+
+representative genes and their predicted amino acid sequences were annotated by 
+
+searching them against kegg release cog release camera 
+
+prokaryotic proteins database release and uniprotkb release via the 
+
+blastp algorithm implemented in diamond v with a query coverage ≥ 
+
+identity ≥ e value ≤ e and score ≥ ko pathway mapping was performed using 
+
+kegg mapper hmmsearch version b was used to search proteins against dbcan 
+
+ version pfam version and eggnog version databases using an e value ≤ 
+
+ e and posterior probability of aligned residues ≥ and no domain overlapping 
+
+accumulation curves were obtained using random progressive nested comparisons with 
+
+pseudo replicates for genes and pfam predictions 
+
+ 
+
+gene taxonomic assignment 
+
+gene taxonomy was assigned considering the best hits score e value and identity 
+
+see above using kegg release uniprotkb release and 
+
+camera prokaryotic proteins database release taxonomic last common 
+
+ancestors lca were determined from taxids ncbi associated to uniref and ko 
+
+entries information from the camera database was also used to retrieve taxonomy ncbi 
+
+taxid proteins were annotated as ‘unassigned if their taxonomic signatures were mixed 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+containing representatives from several domains of life or if they only had the function 
+
+assigned without taxonomic information reference sequences with hits to poorly annotated 
+
+sequences from other metagenomes were referred as “metagenomic” 
+
+ 
+
+teom degradation machinery 
+
+to investigate the teom degradation we grouped samples by river section and 
+
+assessed their gene contents these genes were then searched against reference sequences and 
+
+proteins families characterized as teom degrading functions shown in supplementary 
+
+table 
+
+lignin degradation starts with extracellular polymer oxidation followed by 
+
+internalization and metabolism of the produced monomers or dimers by bacteria protein 
+
+families related to lignin oxidation pf pf pf pf and pf 
+
+were searched among pfam annotated genes the genes related to the metabolism of lignin 
+
+derived aromatic compounds were annotated with diamond blastp search mode v 
+
+with query coverage ≥ protein identity ≥ and e value ≤ e as recommended by 
+
+kamimura et al using their dataset as reference 
+
+cellulose and hemicellulose degradation involves glycosyl hydrolases gh the 
+
+most common cellulolytic protein families gh gh gh gh gh gh gh 
+
+gh gh gh and gh and cellulose binding motifs cbm cbm cbm 
+
+cbm cbm cbm and cbm were searched in pfam annotations in addition 
+
+the most common hemicellulolytic families gh gh gh gh gh gh 
+
+gh gh gh gh and gh were searched in the pfam database lytic 
+
+polysaccharide monooxygenases lpmo were also identified using pfam to investigate 
+
+the simultaneous deconstruction of cellulose and hemicellulose 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+during the degradation of refractory and labile material by exoenzymes microbes 
+
+produce a complex mix of particulate and dissolved organic carbon the use of this mix is 
+
+mediated by a vast diversity of transporter systems the typical transporters associated to 
+
+lignin degradation mfs transporter aahs family abc transporters mhs family its 
+
+superfamily and trap transporter were searched with diamond v using query 
+
+coverage ≥ protein identity ≥ and e value ≤ e and a reference dataset 
+
+previously compiled 
+
+lignin degradation ends in the production of carboxy hydroxy oxoadipate 
+
+which is converted into pyruvate or oxaloacetate both substrates of the tricarboxylic acid 
+
+cycle tca similarly to the fate of hemi cellulose degradation byproducts recently 
+
+several substrate binding proteins tctc belonging to the tripartite tricarboxylate transporter 
+
+ ttt system were related to the transporting of teom degradation byproducts like 
+
+adipate and terephtalate to investigate the metabolism of these compounds and the 
+
+possible link between the ttt system and lignin cellulose degradation the protein families 
+
+tcta pf tctb pf and tctc pf were searched in pfam 
+
+the genes found using the above mentioned strategy were submitted to psort 
+
+v to determine the protein subcellular localization cytoplasm secreted to the outside 
+
+inner membrane periplasm or outer membrane we carried out predictions in the three 
+
+possible taxa gram negative gram positive and archaea and the best score was used to 
+
+determine the subcellular localization genes assigned to an “unknown” location as well as 
+
+those with a wrong assignment were eliminated for example genes known to work in 
+
+extracellular space that were assigned to the cytoplasmic membrane 
+
+the total amount of teom degradation genes found per function lignin oxidation 
+
+transport hemi cellulose degradation and lignin derived aromatic compounds metabolism 
+
+in each section of the river were normalized by the maximum gene counts per metagenome 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+subsequently correlograms were produced using pearson’s correlation coefficients with the 
+
+r packages corrplot and rcolorbrewer the linear geographic distance of each 
+
+metagenome to the amazon river source mantaro river peru ° ′ ″ s ° ′ ″ 
+
+w was also used in this analysis to infer changes in gene counts along the amazon river 
+
+course the distance was calculated with the r package fields 
+
+ 
+
+data availability 
+
+metagenomes used to construct the amazon river gene catalogue amnrgc are 
+
+publicly available see supplementary table sra projects srp prjeb 
+
+and srp the amnrgc as well as the annotation files are available in 
+
+ zenodo metagenomes used in the k mer diversity comparison are detailed 
+
+in supplementary table sra projects amazon forest prjna prjna 
+
+prjna prjna prjna mississippi river srp and 
+
+canada watersheds prjna 
+
+ 
+
+references 
+
+ 
+
+ cole j j et al plumbing the global carbon cycle integrating inland waters into 
+
+the terrestrial carbon budget ecosystems – 
+
+ xenopoulos m a downing j a kumar m d menden deuer s voss m 
+
+headwaters to oceans ecological and biogeochemical contrasts across the aquatic 
+
+continuum headwaters to oceans limnol oceanogr s –s 
+
+ guenet b danger m abbadie l lacroix g primming effect briging the gap 
+
+between terrestrial and aquatic ecology ecology – 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ bianchi t s the role of terrestrially derived organic carbon in the coastal ocean a 
+
+changing paradigm and the priming effect proc natl acad sci u s a – 
+
+ 
+
+ mende d r et al environmental drivers of a microbial genomic transition zone in 
+
+the ocean’s interior nat microbiol – 
+
+ carradec q et al a global ocean atlas of eukaryotic genes nat commun 
+
+ 
+
+ sunagawa s et al structure and function of the global ocean microbiome science 
+
+ – 
+
+ bahram m et al structure and function of the global topsoil microbiome nature 
+
+ – 
+
+ qin j et al a human gut microbial gene catalogue established by metagenomic 
+
+sequencing nature – 
+
+ pan h et al a gene catalogue of the sprague dawley rat gut metagenome 
+
+gigascience 
+
+ field behrenfeld randerson falkowski primary production of the biosphere 
+
+integrating terrestrial and oceanic components science – 
+
+ malhi y et al climate change deforestation and the fate of the amazon science 
+
+ – 
+
+ mikhailov v n water and sediment runoff at the amazon river mouth water 
+
+resour – 
+
+ subramaniam a et al amazon river enhances diazotrophy and carbon 
+
+sequestration in the tropical north atlantic ocean proc natl acad sci u s a 
+
+ – 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ sioli h the amazon and its main affluents hydrography morphology of the river 
+
+courses and river types in the amazon limnology and landscape ecology of a mighty 
+
+tropical river and its basin – sioli h 
+
+ wissmar r c richey j e stallard r f edmond j m plankton metabolism 
+
+and carbon processes in the amazon river its tributaries and floodplain waters peru 
+
+brazil may june ecology – 
+
+ mayorga e et al young organic matter as a source of carbon dioxide outgassing 
+
+from amazonian rivers nature 
+
+ richey j e melack j m aufdenkampe a k ballester v m hess l l 
+
+outgassing from amazonian rivers and wetlands as a large tropical source of atmospheric 
+
+co nature – 
+
+ ward n d et al degradation of terrestrially derived macromolecules in the 
+
+amazon river nat geosci – 
+
+ ward n d et al the reactivity of plant derived organic matter and the potential 
+
+importance of priming effects along the lower amazon river j geophys res 
+
+biogeosciences – 
+
+ ertel j r hedges j i devol a h richey j e ribeiro m de n g 
+
+dissolved humic substances of the amazon river system limnol oceanogr – 
+
+ 
+
+ seidel m et al seasonal and spatial variability of dissolved organic matter 
+
+composition in the lower amazon river biogeochemistry – 
+
+ gagne maynard w c et al evaluation of primary production in the lower 
+
+amazon river based on a dissolved oxygen stable isotopic mass balance front mar sci 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ satinsky b m et al patterns of bacterial and archaeal gene expression through 
+
+the lower amazon river front mar sci 
+
+ satinsky b m et al microspatial gene expression patterns in the amazon river 
+
+plume proc natl acad sci u s a – 
+
+ satinsky b m et al expression patterns of elemental cycling genes in the amazon 
+
+river plume isme j – 
+
+ payne c m et al fungal cellulases chem rev – 
+
+ van den brink j de vries r p fungal enzyme sets for plant polysaccharide 
+
+degradation appl microbiol biotechnol – 
+
+ kögel knabner i the macromolecular organic composition of plant and microbial 
+
+residues as inputs to soil organic matter soil biol biochem – 
+
+ pauly m keegstra k cell wall carbohydrates and their modification as a 
+
+resource for biofuels plant j – 
+
+ cragg s m et al lignocellulose degradation mechanisms across the tree of life 
+
+curr opin chem biol – 
+
+ sanchez c lignocellulosic residues biodegradation and bioconversion by fungi 
+
+biotechnol adv – 
+
+ ghai r et al metagenomics of the water column in the pristine upper course of the 
+
+amazon river plos one e 
+
+ staley c et al core functional traits of bacterial communities in the upper 
+
+mississippi river show limited variation in response to land cover front microbiol 
+
+ 
+
+ logares r et al infrequent marine–freshwater transitions in the microbial world 
+
+trends microbiol – 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ rillig m c et al interchange of entire communities microbial community 
+
+coalescence trends ecol evol – 
+
+ kamimura n et al bacterial catabolism of lignin derived aromatics new findings 
+
+in a recent decade update on bacterial lignin catabolism environ microbiol rep – 
+
+ 
+
+ poretsky r s sun s mou x moran m a transporter genes expressed by 
+
+coastal bacterioplankton in response to dissolved organic carbon environ microbiol 
+
+ – 
+
+ rosa l t dix s r rafferty j b kelly d j structural basis for high 
+
+affinity adipate binding to adpc rpa an orphan periplasmic binding protein from the 
+
+tripartite tricarboxylate transporter ttt family in rhodopseudomonas palustris febs j 
+
+ – 
+
+ hosaka m et al novel tripartite aromatic acid transporter essential for 
+
+terephthalate uptake in comamonas sp strain e appl environ microbiol – 
+
+ 
+
+ qin l et al inhibition of lignin derived phenolic compounds to cellulase 
+
+biotechnol biofuels 
+
+ monlau f et al do furanic and phenolic compounds of lignocellulosic and algae 
+
+biomass hydrolyzate inhibit anaerobic mixed cultures  a comprehensive review biotechnol 
+
+adv – 
+
+ xue s et al water soluble phenolic compounds produced from extractive 
+
+ammonia pretreatment exerted binary inhibitory effects on yeast fermentation using synthetic 
+
+hydrolysate plos one e 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ aston j e et al degradation of phenolic compounds by the lignocellulose 
+
+deconstructing thermoacidophilic bacterium alicyclobacillus acidocaldarius j ind 
+
+microbiol biotechnol – 
+
+ satinsky b m et al the amazon continuum dataset quantitative metagenomic 
+
+and metatranscriptomic inventories of the amazon river plume june microbiome 
+
+ 
+
+ toyama d et al metagenomics analysis of microorganisms in freshwater lakes 
+
+of the amazon basin genome announc – 
+
+ toyama d metagenoma da amazônia busca por genes de interesse 
+
+biotecnológico federal university of sao carlos 
+
+ santos júnior c d et al metagenome sequencing of prokaryotic microbiota 
+
+collected from rivers in the upper amazon basin genome announc e – 
+
+ farjalla v f are the mixing zones between aquatic ecosystems hot spots of 
+
+bacterial production in the amazon river system hydrobiologia – 
+
+ laraque a guyot j l filizola n mixing processes in the amazon river at 
+
+the confluences of the negro and solimões rivers encontro das Águas manaus brazil 
+
+hydrol process – 
+
+ martin m cutadapt removes adapter sequences from high throughput sequencing 
+
+reads embnet journal 
+
+ andrews s babraham bioinformatics fastqc a quality control tool for high 
+
+throughput sequence data available at 
+
+https www bioinformatics babraham ac uk projects fastqc accessed th november 
+
+ li d et al megahit v a fast and scalable metagenome assembler driven by 
+
+advanced methodologies and community practices – 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ vollmers j wiegand s kaster a k comparing and evaluating metagenome 
+
+assembly tools from a microbiologist’s perspective not only size matters plos one 
+
+ e 
+
+ gurevich a saveliev v vyahhi n tesler g quast quality assessment 
+
+tool for genome assemblies bioinformatics – 
+
+ staley c et al bacterial community structure is indicative of chemical inputs in the 
+
+upper mississippi river front microbiol 
+
+ van rossum t et al year long metagenomic study of river microbiomes across 
+
+land use and water quality front microbiol 
+
+ meyer k m et al conversion of amazon rainforest to agriculture alters 
+
+community traits of methane‐cycling organisms mol ecol – 
+
+ benoit g et al multiple comparative metagenomics using multiset k mer counting 
+
+peerj comput sci e 
+
+ dixon p vegan a package of r functions for community ecology j veg sci 
+
+ – 
+
+ hyatt d et al prodigal prokaryotic gene recognition and translation initiation site 
+
+identification bmc bioinformatics 
+
+ fu l niu b zhu z wu s li w cd hit accelerated for clustering the 
+
+next generation sequencing data bioinformatics – 
+
+ li w godzik a cd hit a fast program for clustering and comparing large sets 
+
+of protein or nucleotide sequences bioinformatics – 
+
+ rice p longden i bleasby a emboss the european molecular biology 
+
+open software suite trends genet tig – 
+
+ li h durbin r fast and accurate short read alignment with burrows wheeler 
+
+transform bioinformatics – 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ li h et al the sequence alignment map format and samtools bioinformatics 
+
+ – 
+
+ roberts a pachter l streaming fragment assignment for real time analysis of 
+
+sequencing experiments nat methods – 
+
+ kanehisa m goto s sato y furumichi m tanabe m kegg for 
+
+integration and interpretation of large scale molecular data sets nucleic acids res 
+
+d – 
+
+ tatusov r l et al the cog database an updated version includes eukaryotes 
+
+bmc bioinformatics 
+
+ sun s et al community cyberinfrastructure for advanced microbial ecology 
+
+research and analysis the camera resource nucleic acids res d – 
+
+ uniprot consortium uniprot a hub for protein information nucleic acids res 
+
+d –d 
+
+ buchfink b xie c huson d h fast and sensitive protein alignment using 
+
+diamond nat methods – 
+
+ kanehisa m furumichi m tanabe m sato y morishima k kegg new 
+
+perspectives on genomes pathways diseases and drugs nucleic acids res d –d 
+
+ 
+
+ eddy s r accelerated profile hmm searches plos comput biol e 
+
+ 
+
+ yin y et al dbcan a web resource for automated carbohydrate active enzyme 
+
+annotation nucleic acids res w – 
+
+ finn r d et al the pfam protein families database towards a more sustainable 
+
+future nucleic acids res d – 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ huerta cepas j et al eggnog a hierarchical orthology framework with 
+
+improved functional annotations for eukaryotic prokaryotic and viral sequences nucleic 
+
+acids res d –d 
+
+ brumm p j bacterial genomes what they teach us about cellulose degradation 
+
+biofuels – 
+
+ lópez mondéjar r zühlke d becher d riedel k baldrian p cellulose 
+
+and hemicellulose decomposition by forest soil bacteria proceeds by the action of structurally 
+
+variable enzymatic systems sci rep 
+
+ yu n y et al psortb improved protein subcellular localization prediction 
+
+with refined localization subcategories and predictive capabilities for all prokaryotes 
+
+bioinformatics – 
+
+ wei t simko v r package ‘corrplot’ visualization of a correlation matrix 
+
+ available at https github com taiyun corrplot 
+
+ neuwirth e cran package colorbrewer palettes comprehensive r archive 
+
+network cran 
+
+ nychka d et al fields tools for spatial data university corporation for 
+
+atmospheric research doi d w ct 
+
+ 
+
+acknowledgements 
+
+c d s j was supported by a phd scholarship from conselho nacional de 
+
+desenvolvimento científico e tecnológico brazil cnpq f h s and h s 
+
+work was supported by research productivity grants from cnpq process 
+
+and respectively r l was supported by a ramón y cajal fellowship 
+
+ ryc mineco spain this work was supported by petróleo brasileiro s a 
+
+ petrobras as part of a research agreement with the federal 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+university of são carlos sp brazil within the context of the geochemistry thematic 
+
+network additonally this work was supported by the projects interactomics 
+
+ ctm p mineco spain and microecosystems rcn norway to 
+
+rl and fundação de amparo à pesquisa do estado de são paulo – fapesp process 
+
+ to hs this study was financed in part by the coordenação de 
+
+aperfeiçoamento de pessoal de nível superior brasil capes finance code 
+
+ capes bioinformatics analyses were performed at the 
+
+marbits platform of the institut de ciències del mar icm http marbits icm csic es as 
+
+well as in marenostrum barcelona supercomputing center via grants obtained from the 
+
+spanish network of supercomputing res to rl we thank pablo sánchez for his 
+
+orientation with bioinformatics analyses and support we also thank the emm group 
+
+ https emm icm csic es at the icm csic for all the support and cordiality during the 
+
+development of part of this work 
+
+ 
+
+contributions 
+
+cdsj fhs rl designed the study cdsj compiled and curated the data and performed 
+
+bioinformatic analysis cdsj fhs hs rl interpreted the results fhs rl fpm and hs 
+
+supervised and administered the project providing funding the original draft was written by 
+
+cdsj all co authors contributed substantially to manuscript revisions 
+
+ 
+
+competing interests 
+
+fernando pellon de miranda is employed by petroleo brasileiro s a petrobras brasil 
+
+ 
+
+ 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http marbits icm csic es 
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+figures 
+
+ 
+
+figure the amazon river basin microbial non redundant gene catalogue 
+
+ amnrgc a distribution of the metagenomes used in this work over the five sections 
+
+of the amazon river upstream purple dots downstream orange dots estuary red dots 
+
+plume yellow dots and coastal ocean white dots b taxonomic classification of the 
+
+million genes in the amnrgc “unassigned” genes were not assigned taxonomy but they 
+
+were functionally assigned differently from “non annotated” genes which do not have any 
+
+ortholog those genes displaying orthology to poorly characterized genes found in 
+
+metagenomes were referred as “metagenomic” c accumulation curves of non redundant 
+
+genes and pfam families internal graphic point towards saturation d nmds comparing 
+
+the amazon river microbiome with other microbiomes based on information content k mer 
+
+composition amazon river amazon amazon forest soil forest canada watersheds 
+
+ canada and mississippi river mississipi 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ 
+
+figure functional composition across microbial lifestyles and sections of the amazon 
+
+river gene functions grouped into cog super classes are shown per river section and 
+
+microbial lifestyle particle attached vs free living functions related to the metabolism 
+
+super class were more represented in free living that in particle attached communities p 
+
+ mann whitney u test in fresh and brackish water all cog classes were 
+
+differentially distributed with higher gene diversities observed in freshwaters p 
+
+mann whitney u test the upstream river section is not shown in the particle associated 
+
+fraction since it was not sampled 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ 
+
+figure correlations among genes associated to the processing of teom and 
+
+geographic distance in the amazon river correlations between the number of genes 
+
+associated to lignin oxidation lignin oxidation cellulose and hemicellulose deconstruction 
+
+ cellulose and hemicellulose respectively transporting systems aahs mfs abc and 
+
+ttt lignin derived aromatic compounds processing pathways rc ring cleavage 
+
+pathways o c o demethylation c metabolism pathways funneling pathways of 
+
+dimers fp dimers and monomers fp monomers and linear geographic distance using 
+
+the river source as a starting point linear distance color indicates correlation strength 
+
+only significant correlations p are shown 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+ 
+
+figure priming effect model of microbial teom degradation in the amazon river 
+
+the cellulolytic communities degrade hemi cellulose through secretion of glucosyl 
+
+hydrolases mainly gh gh which releases sugars to the environment these sugars can 
+
+promote growth in the cellulolytic and lignolytic communities and during this process the 
+
+oxidative metabolism produces reactive oxygen species ros ros activate the exoenzymes 
+
+ mainly through dyps and laccases secreted by the lignolytic community to oxidize lignin 
+
+after lignin oxidation the hemi cellulose becomes exposed again helping the cellulolytic 
+
+communities to degrade it during the previous process several aromatic compounds are 
+
+formed which can potentially inhibit cellulolytic enzymes and microbial growth however 
+
+these compounds are consumed by lignolytic microorganisms reducing their concentration in 
+
+the environment allowing decomposition to proceed legend green arrows – feedback red 
+
+dashed arrow – priming effect black dashed arrow – products magenta arrows – release of 
+
+exoenzymes over a substrate gray arrow – inhibition that cellulolytic organisms suffer from 
+
+byproducts of lignin oxidation 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+
+ 
+
+ 
+
+supplementary tables 
+
+ 
+
+supplementary table co assembly groups used to build the amazon river basin 
+
+microbial non redundant genes catalogue amnrgc 
+
+ 
+
+supplementary table metagenomes used to build the amazon river basin microbial 
+
+non redundant genes catalogue amnrgc description of the metagenomes used in 
+
+this study the amazon river basin region shows the group that a sample belongs according 
+
+to its geographical location other features were obtained from the original publications and 
+
+sra “n a ” stands for not available 
+
+ 
+
+supplementary table metagenomes used for k mer diversity assessment 
+
+ 
+
+supplementary table reference proteins and protein families used in teom 
+
+degradation functional searches pfams related to lignin oxidation cellulose and 
+
+hemicellulose degradation used to detect and annotate orthologous in the amnrgc 
+
+ cc by nc nd international licenseit is made available under a 
+ which was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint http dx doi org doi biorxiv preprint first posted online mar 
+
+http dx doi org 
+http creativecommons org licenses by nc nd 
+
+

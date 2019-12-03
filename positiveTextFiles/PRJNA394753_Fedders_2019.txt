@@ -1,0 +1,1622 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+comparable nutrient uptake across diel cycles by three distinct phototrophic communities
+
+
+comparable nutrient uptake across diel cycles by three distinct
+phototrophic communities
+anna c fedders † jennifer l debellis † ian m bradley † § maria c sevillano rivera ‡ ameet j pinto ‡
+
+and jeremy s guest †
+
+†department of civil and environmental engineering university of illinois at urbana−champaign urbana illinois united
+states
+‡department of civil and environmental engineering northeastern university boston massachusetts united states
+
+ s supporting information
+
+abstract the capacity of microalgae to advance the limit
+of technology of nutrient recovery and accumulate storage
+carbon make them promising candidates for wastewater
+treatment however the extent to which these capabilities
+are influenced by microbial community composition remains
+poorly understood to address this knowledge gap mixed
+phototrophic communities sourced from distinct latitudes
+within the continental united states ° n tampa fl °
+n durham nc and ° n urbana il were operated in
+sequencing batch reactors day solids residence time srt 
+subjected to identical diel light cycles with media addition at
+the start of the nighttime period despite persistent differ 
+ences in community structure as determined via s rrna v and v −v hypervariable regions and s rrna v −v 
+gene amplicon sequencing reactors achieved similar and stable nutrient recovery after months srts of operation 
+intrinsic carbohydrate and lipid storage capacity and maximum specific carbon storage rates differed significantly across
+communities despite consistent levels of observed carbon storage across reactors this work supports the assertion that distinct
+algal communities cultivated under a common selective environment can achieve consistent performance while maintaining
+independent community structures and intrinsic carbon storage capabilities providing further motivation for the development
+of engineered phototrophic processes for wastewater management 
+
+ introduction
+
+the rapid increase in nitrogen n and phosphorus p 
+loadings to surface waters over the past several decades has
+been a significant driver of widespread toxic algal and
+cyanobacterial blooms eutrophication and hypoxia − which
+are detrimental to aquatic ecosystems human health and local
+economies improved nutrient management strategies which
+can help mitigate these negative impacts have been an
+impetus for increasingly strict point source discharge limits for
+n and p technological advancements at water resource
+recovery facilities wrrfs also known as wastewater
+treatment plants wwtps which in recent years have
+brought the limit of technology lot for nutrient removal to
+approximately mg n·l− and mg p·l− have also been
+costly and chemically intensive relying on exogenous carbon
+and metal salts thus an important engineering challenge
+in modern wastewater management is to advance goals for
+local and regional water quality and support opportunities for
+resource recovery while navigating trade offs among broader
+initiatives pursuing environmental economic and social
+sustainability 
+
+phototrophic bioprocesses are a promising approach to
+nutrient recovery from aqueous streams because microalgae
+
+are capable of taking up n and p to below the limits of
+detection of standard analytical methods − in particular 
+the use of pure algal cultures has been widely investigated for
+nutrient management and for the accumulation of organic
+carbon e g triacylglycerol tag and other bioproducts − 
+
+however mixed communities may help decrease the
+susceptibility of biological processes to individual stressors 
+
+and increase productivity and performance to date much
+of the mixed community work in wastewater has focused on
+minimally engineered systems such as lagoons which
+exhibit inconsistent nutrient recovery and low biomass
+productivity high rate algal ponds hraps provide
+some operational improvements but often still fail to achieve
+the stability and effluent quality required by wrrfs 
+
+more intensive cultivation systems e g photobioreactors 
+pbrs can increase productivity and nutrient recovery 
+
+through improved light penetration and process controls
+ e g mixing but are still subject to uncertainty and variability
+
+received october 
+revised november 
+accepted november 
+published december 
+
+article
+
+pubs acs org estcite this environ sci technol − 
+
+© american chemical society doi acs est b 
+environ sci technol − 
+
+d
+ow
+
+nl
+oa
+
+de
+d 
+
+by
+ u
+
+n
+iv
+
+ o
+f 
+
+n
+o
+
+t
+r
+
+e
+ d
+
+a
+m
+
+e
+ a
+
+t 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+on
+
+ j
+un
+
+e 
+ 
+
+ 
+ 
+
+ 
+fr
+
+om
+ h
+
+ttp
+s 
+
+ p
+ub
+
+s 
+ac
+
+s 
+or
+
+g 
+do
+
+i 
+ 
+
+ 
+ 
+
+ a
+cs
+
+ e
+st
+
+ 
+b 
+
+ 
+ 
+
+ 
+
+pubs acs org est
+http pubs acs org action showcitformats doi acs est b 
+http dx doi org acs est b 
+
+
+in system performance due to our limited understanding of
+how to design and operate mixed community phototrophic
+systems 
+
+consistent with other biological processes at wrrfs 
+environmental biotechnology can optimize the function of an
+engineered process by leveraging knowledge of algal
+metabolism to create a selective environment that favors the
+proliferation of i e selects for microorganisms with certain
+traits this general approach of targeting enriched microbial
+cultures has drawn inspiration from the work of lourens baas
+becking “everything is everywhere but the environment
+selects” in the context of algal systems examples include
+the work of mooij and colleagues who proposed and tested
+system designs aiming to preferentially promote the growth of
+algal taxa exhibiting desired functional traits including the
+manipulation of solids residence time srt and the timing
+and quantity of available n − to enhance carbohydrate
+content as well as the presence or absence of silica to
+influence diatom prevalence others employed similar
+principles incorporating the recycling of settled biomass or
+effluent wasting from the top of the reactor to increase the
+cultures ability to settle moving forward processes could be
+designed to optimize wastewater treatment efficacy by
+achieving adequate diel carbon storage for nighttime nutrient
+recovery and by targeting n and p uptake to undetectable
+levels a critical knowledge gap that remains for algal
+bioprocesses however is how cultivation conditions will
+influence community composition and process performance
+when starting with distinct phototrophic communities 
+increased understanding of these phenomena is a critical
+step toward the goal of mixed community algal systems for
+reliable resource recovery from wastewaters irrespective of
+geographic location 
+the objective of this work was to explore how a selective
+
+environment incentivizing carbon accumulation would influ 
+ence structure and function of three phototrophic communities
+derived from geographically distinct locations to this end 
+sequencing batch reactors sbrs treatment sequence of fill 
+react and decant were inoculated with naturally occurring
+microbial communities sourced from surface water and wrrf
+clarifiers from one of three different geographic locations
+within the united states tampa fl durham north nc 
+and urbana il in doing so the aim was to incorporate the
+spatial heterogeneity of inocula which would be locally
+available to seed algal wastewater treatment systems in
+different locations a total of reactors were operated for
+ srts under daytime n starvation and nighttime n 
+feeding to encourage carbon accumulation consistent with the
+“survival of the fattest” concept after which batch
+experiments were conducted to characterize intrinsic kinetic
+parameters and carbon storage capabilities of each
+community system function was characterized by nutrient
+dynamics and the biochemical composition of biomass while
+ s and s rrna gene amplicon sequence data were used for
+community structure and membership metrics results from
+this study will inform the design of intensive phototrophic
+wastewater treatment systems targeting consistent and stable
+performance across diverse geographic locations 
+
+ methods
+ photobioreactors pbrs flat panel pbrs were
+
+constructed as described by gardner dale and colleagues 
+
+ figure s with the goal of maintaining well defined
+
+conditions within the reactor while also preventing cross 
+contamination briefly pbrs had a total volume of l and a
+working volume of l lighting was provided from one side
+with a panel of alternating strips of red nm and blue
+ nm light emitting diodes blaze v led tape light 
+elemental led reno nv with light intensity controlled by a
+microcontroller red board sparkfun electronics boulder 
+co mixing was achieved via continuous aeration at
+approximately lair·lreactor
+
+− ·min− with humidified air 
+
+ph was maintained between and by adding 
+co to the aeration mix when the ph reached ph 
+series thermo scientific eutech vernon hills il through 
+out all experiments attached growth was aseptically
+resuspended using a magnetic stir bar inside each reactor
+manipulated with a strong magnet from outside the reactor 
+
+ inocula collection preparation and acclimation 
+inocula were sourced from natural surface waters as well as
+primary and secondary clarifier weirs at wrrfs in 
+geographically distinct locations in the continental united
+states tampa fl fl ° n °w durham nc nc °
+n °w and urbana il il ° n °w cell counts
+were performed on each subsample of inoculum including four
+surface waters and one secondary clarifier for fl five surface
+waters for nc and three surface waters and one primary
+clarifier for il section s a mixed inoculum was prepared
+for each location fl nc and il by combining subsamples
+in equal cell concentrations table s pbrs contained l
+of modified tap medium without tris buffer or acetic acid to
+minimize dissolved organic carbon doc and included the
+following additions and modifications nahco mg·
+l− nh cl mg n·l
+
+− po 
+ − mg p·l− 
+
+supplied as g·g− k hpo kh po and na sio ·
+ h o mg·l
+
+− finally each mixed inoculum was added
+to pbrs to a final cell density of cells·ml− the low cell
+density was necessary to accommodate natural stream samples
+from nc table s because it was a priority in the
+experimental design to achieve equal cell densities from all
+sources of inocula the microbial communities were
+acclimated to laboratory conditions over a two week period
+ full method details of acclimation are provided in section
+s after which long term operation and sampling began 
+
+ long term operation for long term operation all
+pbrs fl nc il were operated for days as sbrs
+ treatment sequence fill react decant with hydraulic
+retention times hrts and srts of days this srt is
+consistent with past experiments that achieved stable nutrient
+removal over diel cycles reactors were subjected to a diel
+lighting cycle light dark to mimic natural daylight with
+a sinusoidal light intensity having maximum surface irradiance
+of μe·m− ·s− at the start of each night i e immediately
+after simulated sunset l of well mixed reactor volume was
+wasted and was immediately replaced with the addition of 
+l of fresh medium having the same composition described in
+section with the exceptions described below in total six
+parallel reactors two sets of three fl nc and il were
+operated with media designed to be n limited mg n·l− 
+
+and mg p·l− n to p mass ratio of g n·g p− or p 
+limited mg n·l− and mg p·l− n to p mass ratio
+of g n·g p− based on typical n to p ratios in
+phototrophs the latter set of reactors never reached
+nutrient limitation and the biomass began to decrease after 
+days of operation details are provided in section s and
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+figure s all further discussion in this manuscript focuses on
+the performance of the three n limited reactors 
+ sample collection and storage aqueous samples
+
+to determine nutrient concentrations were collected daily for
+the first days every days for days − and
+approximately every days for the remainder of the
+experiment full list of samples given in table s biomass
+was analyzed twice per srt for the first four srts and once
+per srt for the remainder of the experiment a total of 
+samples evenly spaced throughout the experiment were used
+for dna sequencing and community analysis during long 
+term operation biomass for solids analysis biochemical and
+elemental composition and dna extraction was collected at
+the end of the light phase immediately before simulated
+sunset and aqueous samples were collected at both the end of
+the light phase and the end of the dark phase samples were
+collected from a side port in the reactor and were kept well 
+mixed using a magnetic stir bar and stir plate while being
+subsampled for subsequent analyses samples for solids analysis
+were analyzed immediately i e no storage for biochemical
+composition and aqueous analyses biomass was pelleted via
+centrifugation at g for min after centrifugation the
+supernatant was filtered through pre rinsed μm nitro 
+cellulose filters and stored at − °c until analysis biomass
+pellets were stored at − °c until being lyophilized ground
+with a mortar and pestle and stored under desiccation at room
+temperature for dna analysis ml samples of biomass
+suspension were centrifuged at g for min supernatant
+was decanted and pellets were stored at − °c until dna
+extraction 
+ short term kinetic assay after days srts 
+
+of operation a short term kinetic assay was run to determine
+the maximum specific carbohydrate and lipid storage rates and
+maximum storage capabilities of each microbial community 
+
+briefly at the end of the light period media was spiked into
+each reactor to achieve a final concentration of mg n·l− 
+
+ all other media components were scaled to maintain previous
+operating concentrations from section samples were
+collected and
+ h after the nutrient spike light intensity increased at a rate
+consistent with the sinusoidal curve and once it reached the
+maximum intensity of μe·m− ·s− after h it was
+maintained at μe·m− ·s− for the duration of the kinetic
+study 
+ biomass analysis total suspended solids tss and
+
+volatile suspended solids vss were measured in triplicate for
+each reactor following standard methods d and e 
+respectively but with gf f filters μm pore size item
+no h fisher scientific and min of
+desiccation prior to weighing lyophilized biomass samples
+were analyzed for carbon hydrogen and nitrogen perki 
+nelmer series ii chns o elemental analyzer as well
+as total phosphorus perkinelmer sciex elan drc e
+inductively coupled mass spectrometer icp ms by the
+microanalysis laboratory at the university of illinois at
+urbana−champaign uiuc school of chemical sciences 
+biomass protein content was estimated by multiplying the
+elemental n percentage by a conversion factor of 
+representing the ratio of algal protein to n content 
+
+triplicate analysis of biomass carbohydrate content was
+conducted via two step acid digestion followed by colorimetric
+analysis with methyl benzothiazolinone hydrazine
+ mbth modified for a microplate reader total biomass
+
+lipid content was determined via the folch method as modified
+by axelsson and gentili 
+
+ aqueous analyses soluble ammonium nh 
+ and
+
+orthophosphate po 
+ − concentrations were determined in
+
+triplicate using the phenate method nh f and the
+ascorbic acid method p e respectively each
+modified for a microplate method detection limits have
+been previously determined to be mg n·l− and 
+mg p·l− nitrate no 
+
+− and nitrite no 
+− concen 
+
+trations were determined via ion chromatography ics 
+dionex with an ionpac as a analytical column dionex 
+and eluent containing mm na co and mm nahco 
+media dissolved organic carbon was measured as non purgable
+organic carbon on a shimadzu toc v using a potassium
+hydrogen phthalate standard and glutamic acid quality control 
+
+ statistics and data analyses data from solids and
+aqueous characterization sections − were compared
+among reactors using analysis of variance anova followed
+by tukey’s tests with α unless otherwise specified a
+single biomass sample il srt was omitted from these
+analyses due to freeze dryer malfunction summary statistics
+for analytical replicates are reported as the average plus or
+minus the standard deviation in cases in which only duplicates
+were available the difference between the higher individual
+value and the average was used in place of the standard
+deviation 
+to better understand trends in carbon accumulation and
+
+mobilization carbohydrate and lipid content were normalized
+to protein content additionally to connect experimental
+results from this study with the process modeling literature 
+biochemical composition and vss data were also processed
+following established methods to distinguish between
+functional biomass xcpo stored carbohydrates xch and
+stored lipids xli briefly the minimum observed mass ratio
+of carbohydrate·protein− and lipid·protein− were used to
+define the composition of functional biomass and any
+carbohydrates or lipids in excess of these ratios were defined
+as storage polymers maximum specific storage rates q̂ch and
+q̂li were calculated as the maximum slope of three consecutive
+kinetic time points while maximum specific storage capacities
+ f ch
+
+max and f li
+max were calculated using the highest storage values
+
+observed during the kinetic experiment both following the
+approach of the phototrophic process model ppm 
+
+ dna extraction pcr and amplicon sequencing 
+dna extraction polymerase chain reaction pcr and
+product purification were conducted as previously described
+for all eukaryotic evaluation briefly dna was extracted using
+the mp bio fastdna spin kit for soil mp biomedicals 
+santa ana ca and stored at − °c dna extracts were
+amplified in triplicate via pcr using the kapa hifi hotstart
+pcr kit kapa biosystems wilmington ma using primers
+flanking the v and v −v hypervariable regions of the s
+rrna gene v forward reuk fwd ccagcas 
+cygcggtaattcc reverse v r actttcgttctt 
+gat v −v forward v f ataacaggtctgt 
+gatgccct reverse r ccttcygcaggtt 
+cacctac reagent concentrations and thermocycler
+settings described by bradley and colleagues mock
+community samples corresponding to mc and negative
+controls containing no added dna were run in triplicate
+alongside samples gel electrophoresis was used to confirm the
+length of pcr products and excised bands were purified using
+a qiaquick gel purification kit qiagen valencia ca the
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+dna concentration of each sample was measured in triplicate
+using a qubit invitrogen carlsbad ca sequencing was
+performed by the roy j carver biotechnology center at
+uiuc using an illumina miseq with v chemistry and × 
+paired end reads for bacterial evaluation dna was extracted
+using the same method as for eukaryotic evaluation and
+amplification and sequencing were performed by the roy j 
+carver biotechnology center briefly amplification of the v −
+v hypervariable region of the s rrna gene v −v 
+forward v −v f gagtttgatcntggctcag 
+reverse v −v r gtnttacngcggckgctg 
+was carried out with the biomark hd high throughput
+amplification system and sequencing was performed with an
+illumina miseq with v chemistry and × paired end
+reads 
+ sequence data processing and analysis 
+
+bcl fastq v conversion software illumina was used to
+demultiplex raw sequence data sickle version was
+used to remove all bases with a phred score of less than 
+ v v −v or v −v followed by discarding trimmed
+reads with less than v v −v or v −v base
+pair bp overlap between forward and reverse reads s
+rrna gene thresholds were determined via mock community
+analysis figure s using a similar method to bradley et al 
+
+briefly a read overlap threshold was chosen for the s rrna
+gene to maintain the highest number of reads when sequences
+were clustered at a sequence similarity threshold while
+accurately characterizing the mock community within jaccard
+dissimilarity of − from the theoretical mock community
+membership for the v region this read overlap threshold
+was determined to be bp figure s sequencing of the
+v −v region experienced higher error rates where all read
+overlap possibilities at sequence similarity clustering had a
+jaccard dissimilarity of − consequently all figures and
+data presented here show sequencing results from the v 
+region and sequencing results from the v −v region are
+shown in the supporting information for comparison 
+mothur v was used for sequence data processing as
+
+described by kozich et al https www mothur org wiki 
+miseq sop accessed july using default settings
+unless otherwise specified reads that contained ambiguous
+bases were removed sequences were trimmed using screen 
+seqs to remove sequences not starting before or ending before
+positions and for s rrna gene and and
+ for s rrna gene respectively of the seed
+alignment reads were aligned to silva v using the
+needleman−wunsch algorithm and the alignment trimmed
+using vertical t and trump options to ensure all reads
+aligned over similar spans of the hypervariable region uchime
+was used to detect and remove chimeras singletons were
+removed and the remaining sequences were used in
+subsequent analyses sequences were clustered into operational
+taxonomic units otus at sequence similarity threshold 
+otus which were present in only one of three s rrna
+gene technical replicates were omitted from further analysis
+using r consensus taxonomy was assigned to otus by
+classifying representative sequence from each otu centroid
+method using naiv̈e bayesian classifier with silva v as the
+reference database in s rrna gene analysis the most 
+abundant otu corresponded to mychonastes sp chloroplast
+dna and was removed prior to further analysis the α
+diversity as described by observed otus chao index 
+inverse simpson index and non parametric shannon index 
+
+was determined using the summary single command using the
+sample with the least number of sequences for s
+rrna gene v region for s rrna gene v −
+v region and for s rrna gene v −v region to set
+the subsample size the β diversity as described by bray−
+curtis distance was calculated using the summary shared
+command also with the same subsample sizes listed above 
+the dist shared command was used to produce bray−curtis
+distance matrices nonmetric multidimensional scaling
+ nmds plots were generated using raw data and bray−
+curtis dissimilarity with the vegan package in r sample
+richness was computed with the “specnumber” function from
+the vegan package implemented in r and rarefied with the
+“rarefy” function based on the minimum read number on a
+per sample basis for the v and v −v s rrna gene and
+v −v s rrna gene data sets independently 
+a combined linear model was fitted to relate the variation of
+
+richness with environmental variables measured biomass n p 
+biomass carbohydrate protein biomass lipid protein biomass
+normalized po 
+
+ − uptake volatile suspended solids and
+dissolved organic carbon at different time points on a per
+reactor basis with the “lm” function in r for both the v and
+v −v data sets independently s rrna gene sequence data
+were omitted from this analysis due to lack of replicate data
+points observations with missing data values e g an
+environmental variable was not measured at a time point 
+were also omitted furthermore pearson correlation coef 
+ficients between richness and individual environmental
+parameters were determined with the “cor” function in r 
+scripts used to process the data in mothur and r are available
+at https doi org m figshare v 
+
+ accession numbers sequence data used in this
+analysis may be accessed via the ncbi sequence read archive
+ sra accession nos srr to srr and
+corresponding sample descriptions via bioproject
+prjna 
+
+ results and discussion
+as is common in bioprocess experimentation the reactors
+initially went through a startup phase with variable perform 
+ance before approaching stable performance solely for the
+purpose of facilitating discussion the long term experimental
+period of the three parallel pbrs inoculated with environ 
+mental samples from fl nc and il can be described across
+three general phases of operation based on performance
+observations phase i rapid change srt to srt from to
+ days phase ii moderate change srt to srt from 
+to days and phase iii stable performance srt to srt 
+from to days a full list of sample names and the day and
+time of sampling can be found in table s 
+
+ nutrient recovery after days of operation and for
+the remainder of the study all reactors had undetectable nh 
+
+ 
+
+by the end of the night period i e before the lights came on 
+table s no 
+
+− and no 
+− were monitored for the first 
+
+days of the long term experiment but all samples were below
+detection and so monitoring for these anions was discontinued 
+while effluent po 
+
+ − was variable figure s specific i e 
+vss normalized po 
+
+ − uptake rates followed similar decreas 
+ing trends with time and stabilized in phases ii and iii figure
+ a but remained distinct across reactors phase i fl and nc
+together il distinct p phases ii and iii all reactors
+distinct p × − and × − respectively 
+culture density as vss figure s differed across all three
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+https doi org m figshare v 
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+reactors during phases i and ii p × − but began to
+converge in phase iii p il and fl grouped
+together nc separate with final values of ± mg·l− 
+
+ fl ± mg·l− nc and ± mg·l− il 
+across all reactors and all phases vss were ± of tss 
+overall solids concentrations were consistent with what could
+be expected in naturally lit pbrs and all three reactors
+demonstrated consistent and complete nighttime ammonium
+removal and stable specific phosphorus uptake rates 
+initial biomass n·p− mass ratios fl ± nc 
+
+ ± and il ± were close to the redfield
+ratio mol n·mole p− or g n·g p− figure b and
+did not differ across the three reactors during phase i p 
+ although n p trends differed across reactors during
+phases ii and iii p × − and p × − 
+respectively all three decreased and stabilized in phase iii 
+the minimum n p of biomass in each reactor ranged from 
+to g n·g p− which is substantially lower than values
+recently reported for pure cultures of scenedesmus obliquus 
+g·g− n limited and chlamydomonas reinhardtii g·g− p 
+limited cultivated at an day srt with higher media n p
+values in gardner dale et al versus g n·g p− in
+this study lower n p ratios among phytoplankton have
+generally been observed in n limited media but the biomass
+compositions from this study still approach the lower range of
+data from the literature e g approximately g n·g p− for
+scenedesmus sp while these values are also influenced by a
+combination of assimilated and surface sorbed p the data
+demonstrate the interspecific and intraspecific between and
+within species respectively plasticity in biomass n p which
+could be exploited to achieve dual n and p limitation in
+wrrfs 
+
+ carbon storage extant i e observed during
+operation carbohydrate and lipid content exhibited similar
+temporal trends across reactors figure a c carbohydrate
+content was initially statistically similar in two of three reactors
+
+ phase i fl il together nc separate p × − but
+all initial values were within grams of carbohydrate per
+gram of protein of each other the reactors diverged in phase
+ii fl il and nc separate p × − before partially
+reconverging in phase iii nc and fl together il separate p
+ × − carbohydrate content in phase iii of operation
+was roughly double srt values across all three reactors fl 
+ ± to ± il ± to ± 
+nc ± to ± grams of carbohydrate per
+gram of protein but was less than the maximum observed
+extant value for each reactor extant lipid content was initially
+similar for il and nc but not fl phase i p × − 
+and diverged in phases ii and iii p × − and p 
+× − respectively while final lipid content in fl srt 
+and il srt had a net increase from srt fl ± 
+to ± il ± to ± grams of lipid
+per gram of protein nc lipid content demonstrated no net
+change ± to ± grams of lipid per gram of
+protein carbohydrate and lipid content stabilized by the end
+of the experiment at which time carbohydrate and lipid values
+across the three reactors were within and of each
+other respectively thus despite being inoculated with
+microbial communities sourced from three different locations 
+the three reactors exhibited similar extant carbon storage
+during stable operation phase iii 
+in contrast to these noted similarities the final communities
+
+differed widely in intrinsic carbon accumulation rates figures
+s and s and capacities figure b d demonstrating n
+limitation as a mechanism for harnessing additional carbon
+
+figure nutrient performance of parallel pbrs inoculated with
+environmental samples from florida purple circles north carolina
+ green triangles and illinois orange squares a observed specific
+po 
+
+ − uptake rate g p·g vss− ·day− and b biomass n p content
+ mass·mass− a single srt is equal to days after days of
+operation and for the duration of the study ammonium
+concentrations were below detection across all reactors by the end
+of the night 
+
+figure extant i e observed in the reactor a carbohydrate and
+ c lipid content of biomass over time during long term operation of
+fl purple circles il orange squares and nc green triangles 
+reactors extant storage i e observed in reactor solid bars and
+additional intrinsic storage capacity i e potential storage capacity on
+top of what was observed in the reactor hatched bars of b 
+carbohydrates and d lipids extant carbohydrate and lipid content
+were largely stable and comparable across the reactors after srts
+of operation but intrinsic storage capacity measured after srts of
+operation varied widely 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+storage in phototrophs maximum intrinsic carbon storage
+potential exceeded extant values in the three reactors 
+achieving maximum carbohydrate protein and maximum
+lipid protein ratios that were − times and − 
+times extant values respectively figure b d to compare
+the results of this experiment with values from the literature 
+extant carbohydrate f ch
+
+extant and lipid f li
+extant storage 
+
+maximum specific rates of carbohydrate q̂ch and lipid q̂li 
+storage and carbohydrate f ch
+
+max and lipid f li
+max storage
+
+capacity were calculated as in the ppm table a
+bioprocess model developed from the lumped metabolic
+pathways of chlamydomonas reinhardtii and calibrated with
+mixed algal communities derived from a wastewater treatment
+plant across the three communities f ch
+
+extant and f ch
+max varied by
+
+table comparison of stoichiometric and kinetic parameters from this study with literature values reported by guest et
+al and mairet et al for the storage of carbohydrates xch and lipids xli by functional biomass xcpo 
+
+a
+
+this study
+
+parameter fl il nc
+guest et al
+ 
+
+mairet et al
+ units
+
+extant carbohydrate storage f ch
+extant ± ± ± − − mg xch·mg xcpo− 
+
+extant lipid storage f li
+extant ± ± ± − − mg xli·mg xcpo− 
+
+maximum intrinsic carbohydrate storage
+capacity f ch
+
+max 
+ ± ± ± − mg xch·mg xcpo− 
+
+maximum intrinsic lipid storage capacity
+ f li
+
+max 
+ ± ± ± − mg xli·mg xcpo− 
+
+maximum specific rate of carbohydrate
+accumulation q̂ch 
+
+ ± ± ± mg xch·mg xcpo− ·h− 
+
+maximum specific rate of lipid
+accumulation q̂li 
+
+ ± ± ± mg xli·mg xcpo− ·h− 
+
+aphototrophic process model ppm parameter values in this study were comparable with those reported in the literature 
+
+figure a nmds plot based on bray−curtis dissimilarity matrix of all samples and associated technical replicates and b bray−curtis
+distance from srt in each reactor based on s rrna gene v region sequence data panels c and d are analogous to panels a and b 
+respectively based on s rrna gene v −v region sequence data reactor communities remained distinct from one another throughout the
+experiment based on both v and v −v region analyses both eukaryotic and prokaryotic communities within each reactor quickly diverged from
+their initial structure eukaryotic fl and il communities slowly returned to a state more similar to their starting communities as did the nc
+community of prokaryotes an analogous plot using v −v hypervariable region of the s rrna gene sequencing data may be found in figure
+s 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+approximately fold and fold respectively and q̂ch varied 
+fold table variation among kinetic and stoichiometric
+parameters were higher for lipids than for carbohydrates with
+f li
+extant and f li
+
+max varying fold and fold respectively table 
+and q̂li varying fold across reactors kinetic and stoichio 
+metric parameters spanned above and below previously
+
+reported values for f li
+extant f ch
+
+max and q̂li
+ and were the
+
+same order of magnitude for all other parameters overall 
+
+most of the kinetic and stoichiometric parameters obtained in
+
+this study were similar to previously published literature with
+
+lipid storage demonstrating the highest variability and
+
+figure mean relative read abundance of top most abundant eukaryotic v otus and top most abundant cyanobacterial v −v otus
+from each of the reactors color shading bubble area is proportional to mean relative read abundance for s or s rrna genes hatched
+shading indicates otus that were present but not abundant i e not in the top eukaryotic otus or top cyanobacterial otus bubbles are
+replaced by “ ” for values that are of relative read abundance at a given time point vertical dashed lines delineate phases i ii and iii srts are
+abbreviated as − but exact sample days are found in table s the most abundant otus were shared among all reactors even if at low
+abundance an analogous plot using v −v hypervariable region of the s rrna gene sequencing data may be found in figure s 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+representing the greatest untapped potential in phototrophic
+carbon storage 
+given the disparity between extant carbohydrate or lipid
+
+content and maximum storage capacity figure the ability
+to predict maximum intrinsic carbon storage capacities or
+maximum storage rates would be valuable to algal and
+cyanobacterial cultivation operations aiming to increase stored
+carbon for biomass valorization to help understand potential
+relationships among storage parameters correlation coeffi 
+cients were determined for pairs of parameters using data from
+this study’s experimental data set as well as values from the
+literature figure s carbohydrate accumulation character 
+istics showed limited linear correlation as f ch
+
+max demonstrated a
+slight positive correlation with q̂ch r
+
+ m slope 
+ and f ch
+
+extant was negatively correlated with f ch
+max r 
+
+m − and non correlated with q̂ch r m 
+− lipid storage characteristics were more strongly
+correlated both f li
+
+extant and q̂li were positively correlated with
+f li
+max r and with m and respectively 
+and the correlation between f li
+
+extant and q̂li was slightly positive
+ r m to assess the ability to generalize these
+observations the analysis was repeated with the inclusion of
+values from guest et al the inclusion of these additional
+data negatively influenced correlation coefficients figure
+s indicating that any effort to develop predictive models
+of carbon storage based on extant observations or limited
+calibration of model parameters would require consideration of
+additional factors not yet addressed in existing process models 
+ community analysis s and s rrna gene
+
+sequencing analyses indicate that eukaryotic communities
+retained distinct structures for the duration of the experiment
+ v figure a v −v figure s a while differences
+between prokaryotic communities were less pronounced v −
+v figure c specifically for amova using bray−curtis
+distances comparing each phase i ii and iii within and
+across reactors all p values for s rrna gene sequencing
+data were ≤ and only one p value for s rrna gene
+sequencing data was table s these results suggest
+the persistent influence of inocula on long term eukaryotic
+community structure community richness for fl and il was
+consistently higher than for nc through time based on both
+the v and the v −v data sets s rrna gene figure
+s observed ranges in α diversity metrics sobs and chao 
+indices were consistently higher for v −v than for v data
+sets s rrna gene figure s when values from s
+rrna gene v and v −v hypervariable region data sets were
+pooled nc had lower ranges sobs − chao −
+ than fl and il sobs − − chao 
+ − and − respectively these differences could
+derive from the initial inoculation of nc exclusively from
+surface water which was in contrast to il and fl inocula
+which included biomass from wrrf clarifier weirs patterns in
+community richness and diversity for s rrna gene
+sequencing data were less distinct with fl typically
+demonstrating higher richness figure s and α diversity
+ figure s 
+despite persistent structural differences figure a c long 
+
+term within reactor dynamics followed similar patterns across
+reactors figure b d in all three reactors the eukaryotic
+community rapidly diverged from srt during phase i slowly
+returned to a community more closely resembling the starting
+community during phase ii and demonstrated greater stability
+during phase iii figures b and s b with the exception of
+
+fl v −v analysis which shifted strongly away again at
+srt both il and nc had a sharp decrease in diversity i e 
+richness and evenness between phases i and ii inverse
+simpson and shannon indices figure s the three phases
+were statistically different from each other within each reactor
+using bray−curtis distances based on s rrna gene data
+ amova α with the exception of v −v il i−il ii
+comparison p table s but not s rrna gene data
+ p for all comparisons table s fl followed
+qualitatively similar dynamics figure b but with fewer
+statistically significant differences across phases table s in
+all reactors sharp differences in relative read abundance of
+numerous dominant otus were apparent at the transition
+points between phases figures and s while the drivers
+of these community dynamics are unclear and likely complex 
+the similar patterns shown in the three reactors suggest that
+system operation influenced community structure in similar
+ways 
+
+ taxonomic analysis despite identification of
+distinct community structures figures a and s a 
+examination of relative read distribution among otus
+indicates substantial taxonomic overlap among communities
+ figures and s over the course of the experiment fl 
+nc and il had an overall s rrna gene v region otu
+count of unique unique and unique 
+respectively which overlapped among reactors as follows 
+fl nc il fl il only il nc only and fl nc only
+ v −v analysis in section s a total of of the 
+otus shared among all three reactors were in the group
+composed of the top otus with the most abundant reads
+for at least one reactor figure color shaded rows v −v 
+analysis in figure s furthermore the most abundant
+otus in each reactor represent between and v 
+data of overall reads for each time point leaving the
+remaining minor percentage of reads to be distributed
+among the remaining majority of otus figure s the
+dominance and temporal change in relative abundance of a few
+dominant eukaryotic otus in each reactor appears to be
+responsible for distinct community clusters as determined by
+the nmds analysis figures a and s a 
+based on prokaryotic community analysis s rrna
+
+gene v −v region data a total of otus were observed
+over the course of the experiment of which fl nc and il
+had a total of unique unique and 
+unique observed otus respectively otus overlapped
+between reactors as follows fl il il nc fl 
+nc and fl nc il a total of cyanobacterial
+otus were observed which contributed and
+ of s rrna gene sequencing reads in fl nc and il 
+respectively of these fl nc and il had a total of 
+unique unique and unique cyanobacterial
+otus observed in each figure which overlapped between
+reactors as follows fl il il nc fl nc and fl 
+nc il between and of total cyanobacterial
+reads for each sample point were accounted for in the otus
+represented in figure consistent with the absence of nitrate
+in aqueous samples there were no observed s rrna
+gene otus corresponding to known nitrifiers 
+while the influence of rare and abundant taxa on community
+
+structural dynamics is unclear system function nutrient
+uptake and carbon storage in the three reactors was likely
+driven by the relatively small fraction of otus with high
+relative read abundance many of which were common to all
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http dx doi org acs est b 
+
+
+three reactors figures and s given the wide variation
+ to in s rrna gene copy number among
+eukaryotes compared to the relatively small variation to
+ in s rrna gene copy number among bacteria 
+caution should be exercised in interpreting community
+composition from read counts however because read counts
+may be interpreted as the best available proxy for cell biomass
+or biovolume even among distantly related taxa read count
+data in this study may approximate relative biomass
+contribution of different otus to the system figures and
+s v otu acutodesmus had the highest relative read
+count in all reactors and accounted for and
+ of overall reads across all time points in fl nc and il 
+respectively figure although the most dominant v −v 
+otu was classified as coelastrella figure s both genera
+are members of the scenedesmaceae other otus with high
+relative read abundance represented green algae diatoms 
+protozoa amoeba fungi ciliates and rotifers table s 
+coupled with s rrna gene otus representing cyanobac 
+teria and broader groups of chemotrophic bacteria these
+results indicate the presence of a multitrophic community in
+reactors achieving stable performance while some of these
+eukaryotic taxa have larger cell sizes e g rotifers ciliates and
+protozoa which are likely overrepresented due to increased
+ s rrna gene copy number the s rrna gene otus with
+greatest relative abundance represent smaller celled green algae
+ e g acutodesmus chlorella mychonastes and monoraphidium 
+figure therefore despite uncertainty related to copy 
+number variation we infer that all three systems were
+dominated in both biomass content and cell counts given
+similar cell sizes by green algal taxa which are shared among
+communities and are probable drivers of system function i e 
+nutrient recovery rotifers and other predators may have
+certainly influenced community structure and intrinsic
+characteristics but they were not believed to be the main
+mechanism of nutrient assimilation in the system 
+multiple linear regressions relating eukaryotic taxonomic
+
+richness v and v −v data sets independently to
+functional metrics did not identify correlations that were
+directionally consistent across all three reactors either in a
+combined model or when each functional metric was examined
+individually table s these results are consistent with other
+attempts to relate taxonomic richness to community
+function however when individual correlations are
+compared vss is significantly correlated with eukaryotic
+richness in all reactors fl ρ − p nc ρ 
+p and il ρ p for v data sets and doc
+was significantly correlated to eukaryotic richness in all reactors
+ fl ρ p nc ρ p and il ρ 
+ p for v −v data sets interestingly vss and
+doc were also identified as collinear covariates in the multiple
+linear regression model for the il reactor future work may
+employ alternative modeling techniques coupled with higher 
+resolution time series data to better understand the relation 
+ship between process performance indicators and complex
+structure−function relationships in mixed phototrophic
+communities 
+
+ leveraging local algae and
+cyanobacteria for nutrient recovery
+
+this research brings much needed attention to the use of local
+phototrophic communities for nutrient recovery microbial
+communities remained distinct from each other through time
+
+under common experimental conditions but exhibited similar
+longitudinal patterns of change and stability based on both
+structural and functional metrics which resulted in convergent
+extant function following eight srts of operation however 
+maximum carbon carbohydrate lipid accumulation potential
+and the maximum specific rates of carbon storage of the
+resulting communities differed across communities − fold
+for maximum storage potentials and − fold for maximum
+carbon storage rates table a better understanding of
+community structure−function relationships would enhance
+future efforts to model mixed algal and cyanobacterial systems
+and to develop downstream processing pathways to valorize
+residual biomass 
+as we seek to develop the mechanistic understanding
+
+required to model structure−function relationships in mixed
+phototrophic communities it will be necessary to account for
+the different developmental phases of a system in systems
+operated continuously for long periods of time communities
+may eventually reach a state of dynamic equilibrium e g 
+phase iii characterized by stable function with continued
+structural dynamics however dynamic system loading toxic
+shocks grazers operational parameters or other transient
+stressors also influence community structure over time in full 
+scale systems rare taxa may be especially important in
+system recovery and maintaining system function following
+such disturbance events and algal and cyanobacterial
+functional groups rather than individual otus may be
+more important for maintaining stable nutrient recovery 
+
+the research presented here supports the idea that photo 
+trophic communities of unstable and varying composition may
+support stable function with respect to nutrient uptake and
+carbon accumulation but the potential of specific valorization
+pathways for wasted biomass may still be driven by specific
+microbial taxa or consortia 
+
+■ associated content
+ s supporting information
+the supporting information is available free of charge on the
+acs publications website at doi acs est b 
+
+additional detail on reactor operation and startup 
+community sequencing long term system monitoring
+data and community analysis data including s and
+ s rrna gene sequencing analysis results pdf 
+
+■ author information
+corresponding author
+ e mail jsguest illinois edu 
+orcid
+jeremy s guest 
+present address
+§department of civil structural and environmental engineer 
+ing university at buffalo buffalo ny united states
+notes
+the authors declare no competing financial interest 
+
+■ acknowledgments
+the authors acknowledge funding for the first author from the
+illinois distinguished fellowship and carver fellowship at the
+university of illinois at urbana−champaign this work was
+funded by the national science foundation grant no cbet 
+ and the paul l busch award from the water
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org
+http pubs acs org doi abs acs est b 
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+mailto jsguest illinois edu
+http orcid org 
+http dx doi org acs est b 
+
+
+environment reuse foundation now called the water
+research foundation the authors also thank david gardner 
+dale for valuable advice and assistance in the lab and namrata
+logishetty for assisting with sample collection and processing 
+
+■ references
+ u s epa working in partnership with states to address
+phosphorus and nitrogen pollution through use of a framework for
+state nutrient reductions https www epa gov nutrient policy data 
+working partnership states address phosphorus and nitrogen 
+pollution through accessed may 
+ conley d j paerl h w howarth r w boesch d f 
+seitzinger s p havens k e lancelot c likens g e controlling
+eutrophication nitrogen and phosphorus science 
+ − 
+ paerl h w valdes l m joyner a r piehler m f lebo 
+m e solving problems resulting from solutions evolution of a
+dual nutrient management strategy for the eutrophying neuse river
+estuary north carolina environ sci technol −
+ 
+ rabalais n n turner r e wiseman w j gulf of mexico
+hypoxia a k a “the dead zone annu rev ecol syst −
+ 
+ u s epa a compilation of cost data associated with the impacts
+and control of nutrient pollution https www epa gov nutrient 
+policy data compilation cost data associated impacts and control 
+nutrient pollution accessed may 
+ ruhl h a rybicki n b long term reductions in
+anthropogenic nutrients link to improvements in chesapeake bay
+habitat proc natl acad sci u s a − 
+ hendriks a t w m langeveld j g rethinking wastewater
+treatment plant effluent standards nutrient reduction or nutrient
+control environ sci technol − 
+ clark d l hunt g kasch m s lemonds p j moen g 
+m neethling j b regulatory approaches to protect water quality 
+vol i review of existing practices report nutr r i water
+environment research foundation alexandria virginia 
+ bott c b parker d s nutrient management vol ii removal
+technology performance reliability report nutr r k water
+environment research foundation alexandria virginia 
+ u s epa report despite progress epa needs to improve
+oversight of wastewater upgrades in the chesapeake bay watershed
+https www epa gov office inspector general report despite 
+progress epa needs improve oversight wastewater upgrades accessed
+may 
+ guest j s skerlos s j barnard j l beck m b daigger 
+g t hilger h jackson s j karvazy k kelly l macpherson 
+l mihelcic j r pramanik a raskin l van loosdrecht m c 
+yeh d love n g a new planning and design paradigm to
+achieve sustainable resource recovery from wastewater environ 
+sci technol − 
+ shoener b d bradley i m cusick r d guest j s energy
+positive domestic wastewater treatment the roles of anaerobic
+and phototrophic technologies environ sci process impacts 
+ − 
+ gardner dale d a bradley i m guest j s influence of
+solids residence time and carbon storage on nitrogen and
+phosphorus recovery by microalgae across diel cycles water res 
+ − 
+ liu h jeong j gray h smith s sedlak d l algal
+uptake of hydrophobic and hydrophilic dissolved organic nitrogen
+in effluent from biological nutrient removal municipal wastewater
+treatment systems environ sci technol − 
+ uggetti e sialve b latrille e steyer j p anaerobic
+digestate as substrate for microalgae culture the role of
+ammonium concentration on the microalgae productivity bioresour 
+technol − 
+
+ sydney e b da silva t e tokarski a novak a c de
+carvalho j c woiciecohwski a l larroche c soccol c r 
+screening of microalgae with potential for biodiesel production and
+nutrient removal from treated domestic sewage appl energy 
+ − 
+ markou g nerantzis e microalgae for high value
+compounds and biofuels production a review with focus on
+cultivation under stress conditions biotechnol adv 
+ − 
+ hu q sommerfeld m jarvis e ghirardi m posewitz m 
+seibert m darzins a microalgal triacylglycerols as feedstocks for
+biofuel production perspectives and advances plant j 
+ − 
+ mata t m martins a a caetano n s microalgae for
+biodiesel production and other applications a review renewable
+sustainable energy rev − 
+ guerin m huntley m e olaizola m haematococcus
+astaxanthin applications for human health and nutrition trends
+biotechnol − 
+ steudel b hector a friedl t löfke c lorenz m 
+wesche m kessler m biodiversity effects on ecosystem
+functioning change along environmental stress gradients ecol 
+lett − 
+ ptacnik r solimini a g andersen t tamminen t 
+brettum p lepistö l willeń e rekolainen s diversity predicts
+stability and resource use efficiency in natural phytoplankton
+communities proc natl acad sci u s a −
+ 
+ godwin c m hietala d c lashaway a r narwani a 
+savage p e cardinale b j ecological stoichiometry meets
+ecological engineering using polycultures to enhance the multi 
+functionality of algal biocrude systems environ sci technol 
+ − 
+ u s epa wastewater technology fact sheet facultative
+lagoons u s epa washington dc 
+ terry k l raymond l p system design for the
+autotrophic production of microalgae enzyme microb technol 
+ − 
+ craggs r j davies colley r j tanner c c sukias j p 
+advanced pond system performance with high rate ponds of
+different depths and areas water sci technol −
+ 
+ chisti y biodiesel from microalgae biotechnol adv 
+ − 
+ craggs r j heubeck s lundquist t j benemann j r 
+algal biofuels from wastewater treatment high rate algal ponds 
+water sci technol − 
+ xu l weathers p j xiong x r liu c z microalgal
+bioreactors challenges and opportunities eng life sci 
+ − 
+ posten c design principles of photo bioreactors for
+cultivation of microalgae eng life sci − 
+ sutherland d l turnbull m h craggs r j environmental
+drivers that influence microalgal species in fullscale wastewater
+treatment high rate algal ponds water res − 
+ mooij p r stouten g r van loosdrecht m c 
+kleerebezem r ecology based selective environments as solution
+to contamination in microalgal cultivation curr opin biotechnol 
+ − 
+ rittmann b e mccarty p l environmental biotechnology 
+principles and applications mcgraw hill higher education new
+york 
+ baas becking l g m geobiologie of inleiding tot de
+milieukunde in dutch w p van stockum zoon the hague 
+the netherlands 
+ de wit r bouvier t ‘everything is everywhere but the
+environment selects’ what did baas becking and beijerinck really
+say environ microbiol − 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+https www epa gov nutrient policy data working partnership states address phosphorus and nitrogen pollution through
+https www epa gov nutrient policy data working partnership states address phosphorus and nitrogen pollution through
+https www epa gov nutrient policy data working partnership states address phosphorus and nitrogen pollution through
+https www epa gov nutrient policy data compilation cost data associated impacts and control nutrient pollution
+https www epa gov nutrient policy data compilation cost data associated impacts and control nutrient pollution
+https www epa gov nutrient policy data compilation cost data associated impacts and control nutrient pollution
+https www epa gov office inspector general report despite progress epa needs improve oversight wastewater upgrades
+https www epa gov office inspector general report despite progress epa needs improve oversight wastewater upgrades
+http dx doi org acs est b 
+
+
+ mooij p r de graaff d r van loosdrecht m c m 
+kleerebezem r starch productivity in cyclically operated photo 
+bioreactors with marine microalgaeeffect of ammonium addition
+regime and volume exchange ratio j appl phycol 
+ − 
+ mooij p r stouten g r tamis j van loosdrecht m c 
+m kleerebezem r survival of the fattest energy environ sci 
+ − 
+ mooij p r de jongh l d van loosdrecht m c m 
+kleerebezem r influence of silicate on enrichment of highly
+productive microalgae from a mixed culture j appl phycol 
+ − 
+ park j b k craggs r j shilton a n recycling algae to
+improve species control and harvest efficiency from a high rate
+algal pond water res − 
+ hu y hao x van loosdrecht m chen h enrichment of
+highly settleable microalgal consortia in mixed cultures for effluent
+polishing and low cost biomass production water res 
+ − 
+ guest j s van loosdrecht m c m skerlos s j love n 
+g lumped pathway metabolic model of organic carbon
+accumulation and mobilization by the alga chlamydomonas
+reinhardtii environ sci technol − 
+ grady c p l smets b f barbeau d s variability in
+kinetic parameter estimates a review of possible causes and a
+proposed terminology water res − 
+ tenorio r fedders a c strathmann t j guest j s 
+impact of growth phases on photochemically produced reactive
+species in the extracellular matrix of algal cultivation systems 
+environ sci water res technol − 
+ geider r la roche j redfield revisited variability of c n p
+in marine microalgae and its biochemical basis eur j phycol 
+ − 
+ apha awwa wef rice e w baird r b eaton a d 
+clesceri l s standard methods for the examination of water and
+wastewater nd ed american water works association wash 
+ington dc 
+ pruvost j van vooren g cogne g legrand j 
+investigation of biomass and lipids production with neochloris
+oleoabundans in photobioreactor bioresour technol 
+ − 
+ becker e w microalgae biotechnology and microbiology 
+cambridge university press cambridge united kingdom 
+ van wychen s laurens l m l determination of total
+carbohydrates in algal biomass laboratory analytical procedure
+ technical report no nrel tp − national renew 
+able energy laboratory golden co 
+ folch j lees m stanley g h s a simple method for the
+isolation and purification of total lipids from animal tissues j biol 
+chem − 
+ axelsson m gentili f a single step method for rapid
+extraction of total lipids from green microalgae plos one 
+ 
+ bradley i m pinto a j guest j s design and evaluation of
+illumina miseq compatible s rrna gene specific primers for
+improved characterization of mixed phototrophic communities 
+appl environ microbiol − 
+ mcilroy s j saunders a m albertsen m nierychlo m 
+mcilroy b hansen a a karst s m nielsen j l nielsen p h 
+midas the field guide to the microbes of activated sludge 
+database bav 
+ joshi n fass j sickle a sliding window adaptive quality 
+based trimming tool for fastqfiles version 
+ kozich j j westcott s l baxter n t highlander s k 
+schloss p d development of a dual index sequencing strategy and
+curation pipeline for analyzing amplicon sequence data on the
+miseq illumina sequencing platform appl environ microbiol 
+ − 
+
+ edgar r c haas b j clemente j c quince c knight r 
+uchime improves sensitivity and speed of chimera detection 
+bioinformatics − 
+ wang q garrity g m tiedje j m cole j r naiv̈e
+bayesian classifier for rapid assignment of rrna sequences into the
+new bacterial taxonomy appl environ microbiol 
+ − 
+ oksanen j blanchet f g friendly m kindt r legendre 
+p mcglinn d minchin p r o’hara r b simpson g l 
+solymos p stevens m h h szoecs e wagner h vegan 
+community ecology package r package version 
+ goldman j c mccarthy j j peavey d g growth rate
+influence on the chemical composition of phytoplankton in oceanic
+waters nature − 
+ rhee g y phosphate uptake under nitrate limitation by
+scenedesmus sp and its ecological implications j phycol 
+ − 
+ sañudo wilhelmy s a tovar sanchez a fu f x capone 
+d g carpenter e j hutchins d a the impact of surface 
+adsorbed phosphorus on phytoplankton redfield stoichiometry 
+nature − 
+ mairet f bernard o masci p lacour t sciandra a 
+modelling neutral lipid production by the microalga isochrysis aff 
+galbana under nitrogen limitation bioresour technol 
+ − 
+ de vargas c audic s henry n decelle j mahe ́ f 
+logares r lara e berney c le bescot n probert i 
+carmichael m poulain j romac s colin s aury j m bittner 
+l chaffron s dunthorn m engelen s flegontova o guidi l 
+horak a jaillon o lima mendez g luke j malviya s 
+morard r mulot m scalco e siano r vincent f zingone a 
+dimier c picheral m searson s kandels lewis s acinas s g 
+bork p bowler c gorsky g grimsley n hingamp p 
+iudicone d not f ogata h pesant s raes j sieracki m e 
+speich s stemmann l sunagawa s weissenbach j wincker p 
+karsenti e boss e follows m karp boss l krzic u reynaud 
+e g sardet c sullivan m b velayoudon d eukaryotic plankton
+diversity in the sunlit ocean science 
+ klappenbach j a saxman p r cole j r schmidt t m 
+rrndb the ribosomal rna operon copy number database 
+nucleic acids res − 
+ arndt h rotifers as predators on components of the
+microbial web bacteria heterotrophic flagellates ciliates  a
+review hydrobiologia − − 
+ pinto a j love n g bioreactor function under
+perturbation scenarios is affected by interactions between bacteria
+and protozoa environ sci technol − 
+ shade a jones s e caporaso j g handelsman j knight 
+r fierer n gilbert j a conditionally rare taxa disproportion 
+ately contribute to temporal changes in microbial diversity mbio
+ e − 
+ reynolds c s phytoplankton periodicity the interactions of
+form function and environmental variability freshwater biol 
+ − 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+

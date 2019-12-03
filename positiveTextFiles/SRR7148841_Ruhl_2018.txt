@@ -1,0 +1,949 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+analysis of microbial communities in natural halite springs reveals a domain dependent relationship of species diversity to osmotic stress salinity versus microbial diversity 
+
+
+analysis of microbial communities in natural halite
+springs reveals a domain dependent relationship of
+species diversity to osmotic stress
+
+ilona a ruhl stephen e grasby evan s haupt 
+
+and peter f dunfield 
+ department of biological sciences university of
+calgary university dr nw calgary ab t n n 
+canada 
+ geological survey of canada natural resources
+canada rd st nw calgary ab t l a 
+canada 
+
+summary
+
+microbial species diversity may peak at certain opti 
+mal environmental conditions and decrease toward
+more extreme conditions indeed bell shaped rela 
+tionships of species diversity against ph and temper 
+ature have been demonstrated but diversity patterns
+across other environmental conditions are less well
+reported in this study we investigated the impact of
+salinity on the diversity of microorganisms from all
+three domains in a large set of natural springs with
+salinities ranging from freshwater to halite saturated 
+habitat salinity was found to be linearly and inversely
+related to diversity of all three domains the relation 
+ship was strongest in the bacteria where salinity
+explained up to of the variation in different diver 
+sity metrics otus shannon index and phylogenetic
+diversity however the relationship was weaker for
+eukarya and archaea the known salt in strategist
+archaea of the halobacteriaceae even showed the
+opposite trend with increasing diversity at higher
+salinity we propose that high energetic requirements
+constrain species diversity at high salinity but that
+the diversity of taxa with energetically less expensive
+osmotolerance strategies is less affected declining
+diversity with increasing osmotic stress may be a
+general rule for microbes as well as plants and ani 
+mals but the strength of this relationship varies
+greatly across microbial taxa 
+
+introduction
+
+as early as the s ecologists began to document
+how environmental parameters affect species diversity of
+plant and animal communities humboldt 
+although microbial community compositions are clearly
+also affected by particular environmental parameters it is
+poorly understood how these environmental parameters
+affect overall species diversity recent studies have dem 
+onstrated strong correlations of microbial alpha diversity
+ local species diversity to ph fierer and jackson 
+lauber et al and temperature sharp et al 
+zhou et al both relationships are bell shaped 
+with a maximum diversity at a midpoint value and a
+decreasing diversity towards extreme conditions one
+theory to explain these relationships is the physiological
+tolerance hypothesis currie et al which pro 
+poses that species richness varies inversely with ener 
+getic stress since tolerating stress requires an
+expenditure in energy hallsworth it follows that in
+high stress environments fewer species are able to gen 
+erate enough energy to support stress tolerance and
+damage repair metabolisms sufficiently to grow and
+reproduce this places strong constraints on which spe 
+cies can survive 
+
+salinity may be an even stronger driver of bacterial
+community composition than temperature and ph
+ lozupone and knight yang et al to toler 
+ate high environmental salinities and keep their cyto 
+plasm iso osmotic with the environment organisms
+use one of the following two strategies the salt in and
+the salt out strategy oren the archaeal family
+halobacteriaceae and some members of bacterial phyla
+firmicutes and bacteroidetes are salt in strategists
+ oren b these organisms accumulate molar con 
+centrations of potassium chloride oren most
+bacteria non halobacteriaceae archaea and all haloto 
+lerant eukarya use the salt out strategy they either syn 
+thesize or import large quantities of compatible organic
+solutes oren b both the salt in and salt out strate 
+gies require energy although the salt out strategy is par 
+ticularly costly as it usually involves the synthesis of high 
+energy organic molecules oren because salt 
+tolerance is an energetically expensive process the
+
+received may accepted september for corre 
+spondence e mail pfdunfie ucalgary ca 
+
+© society for applied microbiology and john wiley sons ltd
+
+environmental microbiology reports – doi 
+
+mailto pfdunfie ucalgary ca
+
+
+physiological tolerance hypothesis predicts that species
+diversity would be inversely correlated with environmental
+salinity similarly it follows that this correlation would be
+strongest for salt out strategists because they expend
+more energy on salinity tolerance than salt in strategists
+ oren oren noted that some metabolic
+pathways like nitrification and methanotrophy have never
+been observed above certain salinities and suggested
+that these metabolic processes simply do not provide suf 
+ficient energy for cell maintenance above certain salinity
+limits 
+increasing habitat salinity has been shown to correlate
+
+to decreasing plant and animal diversity anderson et al 
+ atrill lercari and defeo watson and
+byrne however only a few studies have investi 
+gated the effect of salinity on microbial alpha diversity 
+with conflicting results either no correlation casamayor
+et al joint et al wang et al or
+mixed results depending on the diversity index used
+ benlloch et al dillon et al campbell and
+kirchman the most convincing study to date
+used illumina sequencing of s rrna genes to demon 
+strate significantly declining diversity with salinity yang
+et al based on a sample set of nine lakes 
+in this study we investigated the diversity of all three
+
+domains bacteria archaea and microbial eukarya in
+samples covering a wide salinity range we selected a
+ km study region within wood buffalo national park
+in northern alberta which contains relatively stable
+saline to hypersaline spring systems grasby 
+ranging in salinity from to g l− nacl microbial
+communities were sampled from sites across these
+springs and analysed via s rrna or s rrna gene
+sequencing 
+
+results
+
+alpha diversity of bacteria versus salinity
+
+different alpha diversity indices were calculated from s
+rrna gene amplicon sequencing reads and linear least 
+squares regressions performed versus sample conductiv 
+ity within the domain bacteria all five diversity indices
+showed statistically significant h slope inverse
+relationships to conductivity supporting information
+fig s regressions of shannon index total otus
+detected and phylogenetic diversity versus conductivity
+ fig had r values between and 
+clustering otus at identity representative of
+
+genera yarza et al and identity family 
+resulted in similarly strong relationships to salinity r 
+
+between and supporting information fig s 
+compared to otus clustered at identity species
+level additionally when the shannon index was
+
+calculated based on the numbers of orders classes and
+phyla identified in each sample the r values were
+ – suggesting a strong relationship between con 
+ductivity and alpha diversity across many taxonomic
+levels fig 
+
+fig alpha diversity of bacteria versus conductivity in surface
+sediments of saline springs 
+panels show shannon index a number of observed species
+ b and faith’s phylogenetic diversity c versus sample conduc 
+tivity diversity indices were calculated using s rrna
+gene sequence reads per surface sediment sample amplified
+with a bacteria specific primer set the solid lines represent the
+best fit linear regressions to the data 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+ i a ruhl s e grasby e s haupt and p f dunfield
+
+
+
+beta diversity of bacteria versus salinity
+
+a weighted unifrac nonmetric multidimensional scaling
+ nmds plot showed samples clustering by conductivity
+ fig indicating that salinity exerted a strong influence
+on community structures 
+
+the samples were sorted by conductivity and com 
+bined into five equal groups of samples each the
+total metadiversity of these groups showed a decreasing
+trend versus salinity supporting information fig s 
+that is more total species were detected in low salinity
+than in high salinity samples to further illustrate the dif 
+ference in bacterial communities living at the extremes of
+the salinity spectrum we compared the otus detected in
+the highest and lowest salinity groups fig most of
+the otus detected were unique to one group or the
+other 
+
+relative abundance of proteobacteria actinobacteria 
+cyanobacteria and verrucomicrobia did not correlate with
+conductivity bacteriodetes and firmicutes increased in rel 
+ative abundance with increasing conductivity supporting
+information fig s while chloroflexi planctomycetes and
+acidobacteria declined 
+
+combined these beta diversity analyses indicate that
+ i the bacterial species detected in low salinity and high 
+salinity sediments were mostly distinct and ii fewer spe 
+cies were adapted to survive in high salinity environ 
+ments this suggests that the diversity versus salinity
+relationship figs and is primarily driven by species
+that are evolved to thrive in the respective environments
+and is not an artefact of community assembly or preser 
+vation of inactive species in certain conditions it is possi 
+ble that more species dispersed from the surrounding
+ low salinity forest ecosystems are preserved in the low 
+salinity sediments than in the high salinity sediments 
+however while this might explain a difference in total
+species richness it would not explain the trend in the
+shannon and simpson indices which are weighted
+against rare species and account more for abundant
+ growing species dispersal and preservation would also
+be less likely to explain the trend in the anoxic subsur 
+face environments supporting information appendix s 
+
+alpha diversity of archaea versus salinity
+
+for archaea the shannon index and the number of
+observed species did not show statistically significant
+relationships to conductivity fig a and b the phylo 
+genetic diversity index fig c did however have a
+statistically significant inverse relationship with
+conductivity 
+
+salt in versus salt out strategists
+
+we hypothesized that diversity salinity relationships
+would depend on the osmotolerance strategies used 
+alpha diversity analyses were therefore run on two sepa 
+rate archaeal otu tables i one containing all of the
+known archaeal salt in strategists members of the family
+halobacteriaceae represented by of the total
+
+fig alpha diversity of bacterial phyla classes and orders versus
+conductivity in surface sediments of saline springs 
+panels show shannon index calculated for phyla a classes
+ b and orders c versus sample conductivity diversity indices were
+calculated using s rrna gene sequences per surface sedi 
+ment sample amplified with a bacteria specific primer set the solid
+lines represent the best fit linear regressions to the data 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+salinity versus microbial diversity 
+
+
+
+otus and ii another containing the remaining 
+otus representing archaeal salt out strategists it must
+be noted that as yet unidentified archaeal salt in strate 
+gists would not have been removed from this otu table 
+alpha diversity of the halobacteriaceae significantly
+increased with increasing salinity fig d–f non 
+halobacteriaceae archaea the salt out strategists how 
+ever exhibited a statistically significant decline in alpha
+diversity with increasing conductivity with a high r of
+ supporting information fig s a–c 
+we also selected only otus associated with known salt 
+
+in bacterial strategists members of the firmicutes order
+halanaerobiales accounting for otus of the 
+total otus in the s rrna dataset generated using
+bacteria specific primers another known bacterial salt in
+species salinibacter ruber was not detected in our data 
+set despite the low number of otus rarefaction curves for
+the shannon and simpson diversity indices showed satura 
+tion supporting information fig s b no significant rela 
+tionships were observed in the diversity metrics of this
+group versus salinity supporting information fig s a 
+
+alpha diversity of microbial eukarya versus salinity
+
+diversity–conductivity relationships were also negative in
+the eukarya but the relationships were weaker than
+observed for the bacteria supporting information
+fig s for example the r values for the shannon
+index versus salinity were lower in eukarya vs 
+in bacteria and slopes were shallower − vs
+− some phyla such as the archaeplastida 
+representing the green and red algae even exhibited an
+increasing relative abundance with increasing conductiv 
+ity supporting information fig s 
+
+discussion
+
+this study examined microbial communities in thalas 
+sohaline springs in wood buffalo national park canada 
+within the domain bacteria alpha diversity metrics
+showed strong correlations to environmental salinity con 
+ductivity with r values – depending on the met 
+ric and taxonomic level figs and and supporting
+
+fig non metric multidimensional scaling nmds plot of saline spring bacterial communities plot is based on a weighted unifrac comparison
+and shows a separation of communities based on site conductivity 
+
+fig venn diagram comparing the number of otus unique to the lowest and highest salinity samples 
+a analysis including all detected otus 
+b the same analysis with otus occurring only once excluded from the dataset the lowest salinity sample group had an average conductivity
+of ms cm− the highest salinity group had an average conductivity of ms cm− the two groups were rarefied to sequences
+each before otus were assigned 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+ i a ruhl s e grasby e s haupt and p f dunfield
+
+
+
+information fig s the trends were weaker for
+archaea and eukarya the archaea communities
+detected included a large number of salt in strategists a
+strategy that allows them to survive high salinity at a low
+metabolic cost when presumed salt out strategists
+ those that use compatible solutes for osmoregulation 
+among the archaea oren b were considered
+alone the alpha diversity relationship with conductivity
+was similar to that seen in the bacteria supporting infor 
+mation fig s a–c conversely known salt in strategists
+among both the bacteria and the archaea showed no
+significant decline in diversity or even showed an
+increase in diversity with increasing conductivity
+
+ supporting information fig s a and fig d–f we
+recognize the obvious caveat that osmotic tolerance
+strategies of uncultured species cannot be known with
+certainty however the analyses were focused primarily
+on taxa that are well known salt in strategists such as
+the halobacteriaceae and halanaerobiales and a few
+exceptions are unlikely to greatly affect these large
+datasets 
+
+these data are consistent with the hypothesis that when
+organisms are forced to invest more energy in stress toler 
+ance mechanisms less energy is available for reproduction
+and thus only the most energetically favourable lifestyles
+can provide enough energy to both cope with stress and
+
+fig alpha diversity of archaea versus conductivity in surface sediments of saline springs 
+panels show shannon index number of observed species and faith’s phylogenetic diversity of the entire domain archaea a–c versus the
+archaeal salt in strategist family halobacteriaceae d–f diversity indices were calculated using s rrna gene sequence reads per sur 
+face sediment sample amplified with an archaea specific primer set the solid lines represent the best fit linear regressions to the data 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+salinity versus microbial diversity 
+
+
+
+reproduce oren a this limitation in the number of
+viable metabolic strategies in turn means that fewer taxa
+are adapted to live in hypersaline conditions other factors 
+such as the availability of habitat could also influence
+diversity–salinity relationships however a stress based
+effect is supported by i the detection of a lower metadiver 
+sity fewer total otus in all of the highest salinity samples
+compared to the lowest salinity samples fig ii the lack
+of correlation between conductivity and alpha diversity of
+microorganisms that have evolved the energetically less
+expensive salt in strategy supporting information fig s a
+and fig a–c iii the weaker relationship in eukarya 
+which use a compatible solute that is less energy intensive
+to produce than solutes used by bacteria see below 
+ iv the increasing strength of the relationship when consid 
+ering phylogenetic diversity as the metric compared to rich 
+ness or shannon index and v the increasing strength of
+the relationship when considering diversity at higher taxo 
+nomic levels such as the phylum or class level rather than
+the otu level the last two points indicate that a
+much broader phylogenetic range of microbes are found in
+the low salinity environments suggesting that those
+adapted to the highest salinity environments are limited to
+fewer phyla and classes together these observations
+show that high salinity environments are able to support
+fewer and less phylogenetically diverse bacterial taxa this
+is likely due to the high energetic demand of salinity toler 
+ance interestingly the only bacterial phyla that showed an
+increasing relative abundance with increasing conductivity 
+firmicutes and bacteroidetes supporting information
+fig s are the only two bacterial phyla known to contain
+salt in strategists oren b 
+many of the bacteria present are likely to import solutes
+
+in addition to synthesizing them de novo this is energet 
+ically less expensive than synthesizing all solutes how 
+ever apparently this strategy is not prevalent enough to
+eliminate the observed diversity trends free solutes are
+probably in limited supply and subject to high
+competition 
+only a weak correlation between species diversity
+
+and salinity was detected for the microbial eukaryotes 
+we suggest two separate explanations for this trend 
+first eukaryotes primarily use glycerol as an osmotic
+solute oren stevenson et al a and sec 
+ond most of the eukaryotes present are oxygenic
+phototrophs glycerol is among the least energetically
+expensive solutes to synthesize requiring only atp
+per molecule synthesis of the most commonly used
+prokaryotic osmotic solutes glycine betaine and
+ectoine requires atp oren thus by using
+glycerol eukaryotes are able to expend comparatively
+less energy on salinity tolerance and grow at the high 
+est salinities ever reported stevenson et al b a
+different explanation is that oxygenic photosynthesis is
+
+common among halotolerant eukaryotes which is a
+lifestyle likely to provide excess energy for solute pro 
+duction oren a indeed a large proportion of the
+eukaryotic read set was represented by green algae 
+especially at higher salinities supporting information
+fig s in support of this possibility bacterial photo 
+trophs in the cyanobacteria also did not exhibit a
+reduction in alpha diversity with increasing salinity r 
+
+value data not shown together these observa 
+tions lend further support to the hypothesis that diver 
+sity decline at high salinity is primarily caused by
+energetic limitations 
+
+the relationship between salinity and alpha diversity is
+effectively linear in our sample set with highest diversity
+in the lowest salinity samples diversity declines but still
+stays well above at salt saturation this relationship is
+very different than relationships observed between diver 
+sity and temperature or ph where a peak diversity value
+at some midpoint tails off to wards at the extremes
+ fierer and jackson lauber et al sharp
+et al zhou et al temperature and ph are
+linear gradients in which both extremes represent stress 
+ful conditions and the minimum and maximum limits of
+life are well contained within the entire range salinity in
+contrast imposes a stress on life only at the upper range
+and even at nacl saturation water activity remains well
+above the limit for life lee et al therefore the
+nature of its effect on species diversity is fundamentally
+different 
+
+other studies have addressed this potential relation 
+ship benlloch et al joint et al casamayor
+et al wang et al campbell and kirchman 
+ dillon et al with mixed results the study of
+yang and colleagues was the first to use the next 
+generation sequencing to find a strong negative relation 
+ship between bacterial alpha diversity and salinity in a
+set of hypersaline lakes our study supports this finding
+with a dataset that is more extensive and more well 
+balanced across the full range of salinity furthermore 
+by investigating effects of salinity on all three domains of
+life we propose that the alpha diversity trend is due to
+energetic limitation at high stress levels 
+
+currently our understanding of biogeography is
+largely dominated by studies on macroorganisms 
+plants and animals understanding the biogeography of
+microorganisms is necessary for a complete theory of
+biogeography of all living organisms furthermore 
+understanding diversity in nacl rich environments has
+implications for the habitability of other halite rich water
+systems in or solar system one potential example
+being the ocean of europa hand and carlson 
+here we have shown that microbial diversity declines
+with increasing osmotic stress in the same way as the
+diversity of larger organisms does however the
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+ i a ruhl s e grasby e s haupt and p f dunfield
+
+
+
+evolution of efficient low input osmotolerance strate 
+gies has allowed some groups of microorganisms to
+circumvent the problem and to thrive and diversify in
+salt saturated habitats 
+
+experimental procedures
+
+study site and sample collection
+
+a total of unique sediment samples were collected
+from saline spring systems from wood buffalo
+national park in northern alberta in september 
+the springs were clustered in an area of km geo 
+graphic coordinates of all sites are found in supporting
+information table s several systems contained multiple
+individual spring sources and outflow areas that either
+mixed with fresh water or showed increasing salinity due
+to evaporation hence the large variability in conductivity
+seen in sample sets from some locations supporting
+information table s 
+
+springs in this area are fed by meteoric and glacial
+waters that may pass through halite deposits grasby 
+ a sediment chemistry analysis performed in 
+ grasby showed that all springs had a thalassoha 
+line ionic composition dominated by sodium tempera 
+ture readings in were consistent with readings
+taken in grasby ranging from to �c
+with an average of �c ph values of samples were
+very similar varying by less than u all springs
+were shallow with sediment laying no more than cm
+below the water surface some springs had a single dis 
+tinct source pool these tended to have consistent con 
+ductivities regardless of where the sediment was
+sampled other areas showed seepage into several shal 
+low pools spread over a wider area up to m in
+these cases conductivities tended to vary from one pool
+to another probably depending on relative rates of flow
+versus evaporation several samples were therefore
+taken from such seep sites 
+
+conductivity was measured in the field using an orion
+star a series conductivity probe thermo scientific wal 
+tham ma usa by submerging the probe in the spring
+water less than cm above each sediment to be sam 
+pled pore water conductivity measurements of a random
+set of sediment samples were taken to verify that
+these matched closely to the salinity of the overlying
+water a total of ml of sediment was then removed
+from no more than cm below the water surface sam 
+ples integrated a light brown layer about cm thick and
+a darker layer below representing a mixture of both aero 
+bic and anaerobic communities each sampling area was
+no more than cm in diameter conductivity of the
+entire sample set ranged from to ms cm− 
+these values correspond to a salinity range of to
+
+ g l− nacl williams and sherwood samples
+were kept at – �c for – days during transport to
+the laboratory supporting information table s and
+then frozen at − �c 
+
+microbial diversity analyses based on s and s
+rrna gene sequencing
+
+frozen samples were thawed at room temperature sedi 
+ment was homogenized using the precellys bead mill
+homogenizer bertin instruments montigny le breton 
+neux france and dna extraction was performed on an
+average of g of sediment using the fastdna extrac 
+tion kit for soil mp biomedicals santa ana ca usa 
+with the following modifications extracted dna was sub 
+jected to an additional purification step using m gua 
+nidine thiocyanate knief et al and eluted in
+qiagen elution buffer qiagen toronto on canada 
+dna extracts were quantified using the qubit hs kit
+ invitrogen carlsbad ca usa as per manufacturer’s
+instructions and then diluted to ng μl− for the amplifica 
+tion of bacterial and archaeal s rrna genes and
+ ng μl− for the amplification of eukaryotic s rrna
+genes eight dna extracts that were below ng μl− 
+
+were used at their undiluted concentrations for the
+eukaryotic pcr reactions 
+
+samples were amplified using primers listed in sup 
+porting information table s all amplicon libraries were
+prepared illumina inc san diego ca usa as per
+manufacturer’s standard library preparation protocol 
+‘ s metagenomic sequencing library preparation’ part
+ rev b except that taq polymerase
+ sigma aldrich st louis mo usa was used in the
+second pcr amplicon libraries were quantified using
+the qubit hs kit as per manufacturer’s instructions the
+molarity of each library was calculated using expected
+amplicon length and the formula provided in illumina’s
+standard protocol quantified libraries were diluted to
+ nm pooled and prepared for sequencing on the miseq
+instrument as per illumina’s standard protocol ‘preparing
+libraries for sequencing on the miseq’ protocol part 
+ rev d libraries were sequenced using the
+miseq reagent kit v cycles illumina part number
+ms 
+
+dna sequence data processing
+
+raw sequence data were demultiplexed and the bar 
+code sequences were removed samples amplified by
+the same primer set were analysed together resulting in
+three separate data sets one for each primer pair used 
+each dataset was analysed using the quantitative
+insights into microbial ecology qiime pipeline version
+ caporaso et al in short forward and
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+salinity versus microbial diversity 
+
+
+
+reverse reads were paired using a minimum overlap of
+ base pairs all reads with a phred quality score below
+ were removed the remaining reads were clustered
+into otus at similarity and taxonomically classified
+using silva quast et al using the pick open 
+reference otus script the resulting otu tables were fil 
+tered to exclude non target otus otus classified as
+outside the targeted domain ‘no blast hit’ or belonging to
+embryophyta and animalia plants and animals 
+core diversity analyses were run on each filtered otu
+
+table above rarefied to between and reads 
+depending on the dataset supporting information
+table s by running the core diversity analyses script 
+rarefying each dataset meant that some samples with
+insufficient reads were excluded from the analysis
+ supporting information table s the diversity metrics
+calculated using qiime were shannon observed spe 
+cies faith’s phylogenetic diversity simpson and chao 
+
+acknowledgements
+
+this work was supported by a natural sciences and engi 
+neering research council of canada nserc discovery
+grant and northern research supplement
+grant we are also indebted to parks
+canada for granting us permits to sample in wood buffalo
+national park we especially thank sharon irwin and craig
+robinson of parks canada for accompanying us to the field 
+
+references
+
+anderson r brown r and rappleye r water
+quality and plant distribution along the upper patuxent
+river maryland chesapeake sci – 
+
+atrill m a testable linear model for diversity trends in
+estuaries j anim ecol – 
+
+benlloch s lópez lópez a casamayor e o �vreås l 
+goddard v daae f l et al prokaryotic genetic
+diversity throughout the salinity gradient of a coastal solar
+saltern environ microbiol – 
+
+campbell b and kirchman d bacterial diversity 
+community structure and potential growth rates along an
+estuarine salinity gradient isme j – 
+
+caporaso j g bittinger k bushman f d desantis t z 
+andersen g l and knight r pynast a flexible
+tool for aligning sequences to a template alignment bioin 
+formatics – 
+
+casamayor e massana r benlloch s �vreås l 
+díez b goddard v et al changes in archaeal 
+bacterial and eukaryal assemblages along a salinity gradi 
+ent by comparison of genetic fingerprinting methods in a
+multipond solar saltern environ microbiol – 
+
+currie d j mittelbach g g cornell h v field r 
+guégan j f hawkins b a et al predictions and
+tests of climate based hypotheses of broad scale variation
+in taxonomic richness ecol lett – 
+
+dillon j g carlin m gutierrez a nguyen v and
+mclain n patterns of microbial diversity along a
+
+salinity gradient in the guerrero negro solar saltern baja
+ca sur mexico front microbiol 
+
+fierer n and jackson r b the diversity and bioge 
+ography of soil bacterial communities proc natl acad sci
+u s a – 
+
+grasby s brine springs of northern alberta in
+potential for carbonate hosted lead zinc mississippi
+valley type mineralization in northern alberta and south 
+ern northwest territories geoscience contributions tar 
+geted geoscience initiative hannigan p k ed ottawa 
+natural resources canada pp – 
+
+hallsworth j e stress free microbes lack vitality 
+fungal biol – 
+
+hand k p and carlson r w europa’s surface color
+suggests an ocean rich with sodium chloride geophys
+res lett – 
+
+humboldt a ansichten der natur mit wissenschaftli 
+chen erläuterungen tubingen germany j g cotta 
+
+joint i henriksen p garde k and riemann b 
+primary production nutrient assimilation and microzoo 
+plankton grazing along a hypersaline gradient fems
+microbiol ecol – 
+
+knief c lipski a and dunfield p f diversity and
+activity of methanotrophic bacteria in different upland
+soils appl environ microbiol – 
+
+lauber c l hamady m knight r and fierer n 
+pyrosequencing based assessment of soil ph as a predic 
+tor of soil bacterial community structure at the continental
+scale appl environ microbiol – 
+
+lee c j d mcmullan p e o‘kane c j stevenson a 
+santos i c roy c et al nacl saturated brines
+are thermodynamically moderate rather than extreme 
+microbial habitats fems microbiol rev – 
+
+lercari d and defeo o large scale diversity and
+abundance trends in sandy beach macrofauna along full
+gradients of salinity and morphodynamics estuar coast
+shelf sci – 
+
+lozupone c a and knight r global patterns in
+bacterial diversity proc natl acad sci u s a 
+ – 
+
+oren a bioenergetic aspects of halophilism micro 
+biol mol biol rev – 
+
+oren a the bioenergetic basis for the decrease in
+metabolic diversity at increasing salt concentrations impli 
+cations for the functioning of salt lake ecosystems hydro 
+biologia – 
+
+oren a a thermodynamic limits to microbial life at
+high salt concentrations environ microbiol 
+ – 
+
+oren a b diversity of halophiles in extremophiles
+handbook horikoshi k ed new york ny springer 
+pp – 
+
+oren a halophilic microbial communities and their
+environments curr opin biotechnol – 
+
+quast c pruesse e yilmaz p gerken j schweer t 
+yarza p et al the silva ribosomal rna gene
+database project improved data processing and
+web based tools nucleic acids res – 
+
+sharp c e brady a l sharp g h grasby s e 
+stott m b and dunfield p f humboldt’s spa 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+ i a ruhl s e grasby e s haupt and p f dunfield
+
+
+
+microbial diversity is controlled by temperature in geother 
+mal environments isme j – 
+
+stevenson a hamil p g o’kane c j kminek g 
+rummel j d voytek m a et al a aspergillus
+penicilliodes differentiation and cell division at water
+activity environ microbiol – 
+
+stevenson a hamil p g medina �a kminek g 
+rummel j d dijksterhuis j et al b glycerol
+enhances fungal germination at water activity limit for life 
+environ microbiol – 
+
+wang j yang d zhang y shen j van der gast c 
+hahn m w and wu q do patterns of bacterial
+diversity along salinity gradients differ from those
+observed for macroorganisms plos one e 
+
+watson e and byrne r abundance and diversity
+of tidal marsh plants along the salinity gradient of the san
+francisco estuary implications for global change ecology 
+plant ecol – 
+
+williams w d and sherwood j e definition and
+measurement of salinity in salt lakes int j salt lake res
+ – 
+
+yang j ma l jiang h wu g and dong h 
+salinity shapes microbial diversity and community struc 
+ture in surface sediments of the qinghai tibetan lakes 
+sci rep 
+
+yarza p yilmaz p pruesse e glöckner f o 
+ludwig w schleifer k h et al uniting the classi 
+fication of cultures and uncultured bacteria and archaea
+using s rrna gene sequences nat rev – 
+
+zhou j deng y shen l wen c yan q ning d et al 
+ temperature mediates continental scale diversity of
+microbes in forest soils nat commun e 
+
+supporting information
+
+additional supporting information may be found in the online
+version of this article at the publisher’s web site 
+
+appendix s supporting information
+table s latitude longitude number of samples taken
+from and the total measured conductivity range of spring
+systems sampled in this study all springs are located within
+wood buffalo national park alberta canada 
+table s number of days each sample was stored at �c
+before being transported to and frozen in the laboratory var 
+iable length of storage at �c was due to samples being col 
+lected on different days 
+table s domain specific primers used to amplify sedi 
+ment samples references provided in supporting informa 
+tion appendix s 
+table s summary of total number of samples and total
+number of reads used in core diversity analyses of each
+dataset the reads column represents the number of reads
+to which each sample included in the analysis was rarefied 
+any samples that did not meet this minimum number of
+reads were excluded from the dataset the samples column
+represents the number of samples that were included in
+each analysis 
+fig s alpha diversity of bacteria versus conductivity in
+surface sediments of saline springs panels show shannon
+
+index a number of observed species b and faith’s phy 
+logenetic diversity c simpson index d and chao 
+ e versus sample conductivity diversity indices were calcu 
+lated using s rrna gene sequences per surface
+sediment sample amplified with a bacteria specific primer
+set the solid lines represent the best fit linear regressions
+to the data 
+fig s alpha diversity of bacteria otus clustered at 
+and identity versus conductivity in surface sediments
+of saline springs panels show shannon index a and d 
+number of observed species b and e and faith’s phyloge 
+netic diversity c and f versus sample conductivity otus
+were clustered at either identity a–c or identity
+ d–f diversity indices were calculated using either 
+ a–c or d–f s rrna gene sequences per surface
+sediment sample amplified with a bacteria specific primer
+set the solid lines represent the best fit linear regressions
+to the data 
+fig s metadiversity of bacteria in sediment samples
+divided into five conductivity ranges each bar represents
+the total number of otus detected in a group of samples
+of similar conductivity plotted against the mean conductivity
+of that group the total number of otus detected decreases
+with increasing conductivity with the exception of the satu 
+rated soils sample group which contained a similar number
+of otus to the intermediate salinity group 
+fig s relative abundance of members of the bacterial
+phyla bacteriodetes and firmicutes versus sample conduc 
+tivity the solid lines represent the best fit linear regressions
+to the data 
+fig s alpha diversity of salt in strategist bacteria versus
+conductivity in surface sediments of saline springs panels
+show shannon index a versus sample conductivity calcu 
+lated using s rrna gene sequences per surface sedi 
+ment sample amplified with a bacteria specific primer set a
+rarefaction curve b for shannon diversity showed satura 
+tion at sequences the solid lines represent the best fit
+linear regression to the data 
+fig s alpha diversity of all archaea that do not belong to
+the family halobacteriaceae versus conductivity in surface
+sediments of saline springs panels show shannon index
+ a number of observed species b and faith’s phyloge 
+netic diversity c versus sample conductivity diversity indi 
+ces were calculated using s rrna gene sequences
+per surface sediment sample amplified with a archaea 
+specific primer set the solid lines represent the best fit lin 
+ear regressions to the data 
+fig s alpha diversity of microbial eukarya versus conduc 
+tivity in surface sediments of saline springs panels show
+shannon index a and number of observed species
+ b versus sample conductivity diversity indices were calcu 
+lated using s rrna gene sequences per surface
+sediment sample amplified with a eukarya specific primer
+set the solid lines represent the best fit linear regressions
+to the data 
+fig s increasing relative abundance of eukaryotic phylum
+archaeplastida in response to increasing conductivity the
+solid lines represent the best fit linear regression to the data 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology reports – 
+
+salinity versus microbial diversity 
+
+
+	 analysis of microbial communities in natural halite springs reveals a domain dependent relationship of species diversity t 
+	introduction
+	results
+	alpha diversity of bacteria versus salinity
+	beta diversity of bacteria versus salinity
+	alpha diversity of archaea versus salinity
+	salt in versus salt out strategists
+	alpha diversity of microbial eukarya versus salinity
+
+	discussion
+	experimental procedures
+	study site and sample collection
+	microbial diversity analyses based on s and s rrna gene sequencing
+	dna sequence data processing
+
+	acknowledgements
+	references
+
+
+
+
+

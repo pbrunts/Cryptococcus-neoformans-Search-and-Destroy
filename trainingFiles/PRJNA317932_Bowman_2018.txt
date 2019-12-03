@@ -1,0 +1,1202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+identification of microbial dark matter in antarctic environments
+
+
+fmicb december time 
+
+original research
+published december 
+
+doi fmicb 
+
+edited by 
+anne d jungblut 
+
+natural history museum 
+united kingdom
+
+reviewed by 
+vincent delafont 
+
+university of poitiers france
+charles k lee 
+
+university of waikato new zealand
+
+ correspondence 
+jeff s bowman
+
+jsbowman ucsd edu
+
+specialty section 
+this article was submitted to
+
+extreme microbiology 
+a section of the journal
+
+frontiers in microbiology
+
+received september 
+accepted december 
+published december 
+
+citation 
+bowman js identification
+
+of microbial dark matter in antarctic
+environments 
+
+front microbiol 
+doi fmicb 
+
+identification of microbial dark
+matter in antarctic environments
+jeff s bowman 
+
+ scripps institution of oceanography university of california san diego la jolla ca united states center for
+microbiome innovation university of california san diego la jolla ca united states
+
+numerous studies have applied molecular techniques to understand the diversity 
+evolution and ecological function of antarctic bacteria and archaea one common
+technique is sequencing of the s rrna gene which produces a nearly quantitative
+profile of community membership however the utility of this and similar approaches
+is limited by what is known about the evolution physiology and ecology of surveyed
+taxa when representative genomes are available in public databases some of this
+information can be gleaned from genomic studies and automated pipelines exist
+to carry out this task here the paprica metabolic inference pipeline was used to
+assess how well antarctic microbial communities are represented by the available
+completed genomes the ncbi’s sequence read archive sra was searched for
+antarctic datasets that used one of the illumina platforms to sequence the s rrna
+gene these data were quality controlled and denoised to identify unique reads then
+analyzed with paprica to determine the degree of overlap with the closest phylogenetic
+neighbor with a completely sequenced genome while some unique reads had perfect
+mapping to s rrna genes from completed genomes the mean percent overlap for
+all mapped reads was when samples were grouped by environment some
+environments appeared more or less well represented by the available genomes for
+the domain bacteria seawater was particularly poorly represented with a mean overlap
+of while for the domain archaea glacial ice was particularly poorly represented
+with an overlap of only for a single sample these findings suggest that a
+considerable effort is needed to improve the representation of antarctic microbes in
+genome sequence databases 
+
+keywords antarctica s rrna glacier sea ice cryoconite sediment permafrost snow
+
+introduction
+
+the antarctic continent represents a complex mosaic of microbial habitats at the continental
+margin are highly productive coastal seas which transition sharply to the oligotrophic southern
+ocean tidewater glaciers and ice shelves bridge the gap between the terrestrial and marine
+environments while – along with terrestrial glaciers – providing unique microbial habitats in
+cryoconite holes melt ponds and subglacial lakes and streams the complex topography of
+antarctica provides for polar deserts and meltwater lakes varying in salinity from nearly fresh
+to near saturation this environmental complexity and the isolation of the antarctic from other
+continents has inspired over years of microbiological research mclean however only
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org journals microbiology editorial board
+https www frontiersin org journals microbiology editorial board
+https doi org fmicb 
+http creativecommons org licenses by 
+https doi org fmicb 
+http crossmark crossref org dialog doi fmicb domain pdf date stamp 
+https www frontiersin org articles fmicb full
+http loop frontiersin org people overview
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+in the last few decades have dna sequencing and other
+molecular methods allowed for the genetic and phylogenetic
+characterization of single celled members of the domains
+eukarya bacteria and archaea 
+
+sequencing of the s rrna gene has emerged as the de
+facto standard for determining the diversity of bacterial and
+archaeal communities although the maximum resolution of a
+diversity analysis by s rrna gene sequencing is insufficient
+to identify many phylogenetically similar but genetically distinct
+strains community structure derived from s rrna gene
+sequencing does indicate the genetic structure of the community
+ bowman and ducklow the efficacy of s rrna
+gene sequencing studies has been improved in recent years
+by the stabilization of standard methods around the illumina
+miseq sequencing platform which provides high quality high
+throughput sequencing of relatively short amplicons further
+aiding microbial diversity analysis are improved primers that
+broadly amplify across the domains bacteria and archaea
+ walters et al and new methods to denoise illumina
+miseq data callahan et al amir et al these
+methods allow microbial community structure to be resolved to
+the level of unique reads 
+
+despite the inaccessibility of much of the antarctic continent 
+there have been numerous efforts to assess the taxonomic and
+genetic diversity of antarctic microbial habitats scientific work
+following an initial assessment of microbial community structure
+in a given antarctic environment may be limited however 
+by the availability of completed genomes and model strains 
+these are necessary to fully understand the evolution adaptation 
+and physiology of antarctic microbes microbial clades that
+may be coarsely identified taxonomically but for which little is
+known about their genetics physiology and ecological role are
+considered “microbial dark matter” marcy et al and are
+good targets for new studies and technological innovations 
+
+to provide a status report on our understanding of antarctic
+microbial diversity and the extent of microbial dark matter in
+different antarctic environments the available illumina miseq
+studies were aggregated by environment reanalyzed to the level
+of unique sequences and a phylogenetic placement approach
+ matsen et al was applied to compare sequence identity to
+those closest completed genomes available in the public genbank
+repository the phylogenetic distance between environmental
+sequence reads and the closest completed genome provides
+an estimate of uncharacterized microbial diversity in these
+samples and a novel view of the extent of microbial dark
+matter in antarctic environments and the putative taxonomy of
+uncharacterized microbes 
+
+materials and methods
+
+datasets were identified on the ncbi sra by search with the
+following syntax antarctica all fields and x metagenome
+ organism where x was an environment deemed relevant
+to antarctica these included “aquatic ” “freshwater ” “glacier ”
+“hypersaline lake ” “ice ” “lake water ” “marine ” “marine
+sediment ” “metagenome ” “microbial mat ” “rock ” “salt
+
+lake ” “seawater ” “sediment ” “soil ” “soil crust ” “snow ” and
+“terrestrial ” the goal of this search was not to carry out an
+exhaustive search for antarctic datasets but to capture nearly
+all the datasets available on sra to confirm the completeness
+of this search an additional google scholar search was carried
+out using the search terms “antarctica” and “illumina ” the first
+ hits were reviewed for any studies that were not captured
+in the sra search studies that used repositories other than sra
+were not included 
+
+run tables were aggregated for all search results and filtered
+to include only amplicon studies that relied on the illumina
+miseq or hiseq platforms samples that were derived from host
+environments were also excluded from further analysis runs that
+were obviously the result of amplification of genes other than the
+ s rrna gene e g s rrna genes and intergenic transcribed
+spacer regions were removed as were studies where the data
+were clearly not demultiplexed when it was uploaded to the
+sra the remaining runs were downloaded using the fastq dump
+command from the ncbi’s sra toolbox with the – split spots
+and – skip technical flags here and elsewhere gnu parallel was
+used to parallelize operations tange 
+
+the consensus environment for each downloaded run was
+determined by evaluating the run metadata and when available 
+any papers citing the run study or bioproject accession number 
+because of ambiguity between freshwater lake sediments 
+hypersaline lake sediments and marine sediments e g samples
+associated with prjna all sediments were classified as
+“sediment ”
+
+because not all of the data were derived from paired 
+end runs and many read pairs could not be merged only
+the forward read was considered in this analysis quality
+control of the forward reads was carried out with the dada 
+package callahan et al in r r core team 
+reads were trimmed at the first position with a quality score
+below reads with fewer than bases were discarded 
+and the remaining reads denoised unique non redundant 
+reads were evaluated to determine their taxonomic domain
+using the cm scan function in infernal nawrocki and eddy 
+ against covariance models for the domains eukarya 
+archaea and bacteria downloaded from the rfam database
+ nawrocki et al reads were assigned the domain for
+which they received the lowest e value only reads identified
+as belonging to the archaea and bacteria were considered
+further 
+
+the bacterial and archaeal reads associated with each run
+were analyzed using the paprica pipeline bowman and ducklow 
+ paprica uses infernal nawrocki and eddy and
+pplacer matsen et al to place query reads on a
+phylogenetic tree constructed from full length s rrna genes
+extracted from completed genomes in genbank in this way 
+paprica makes a direct association between the query reads and
+the nearest phylogenetic neighbor with a completed genome 
+this association was used to make inferences about the degree
+of microbial dark matter present within different antarctic
+environments the paprica database used in this study was
+created on august and thus includes completed genomes
+that were available in genbank on that date the unique flag was
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+used for all scripts to enable tracking of unique reads through the
+paprica pipeline 
+
+results
+
+this study identified valid sra runs that passed the
+selection criteria supplementary table s these runs were
+associated with bioprojects and consisted of total
+forward reads of these runs had reads associated with
+the domains bacteria and archaea reads failed qc
+while an additional reads could not be assigned to a
+domain at the specified cutoff after qc and domain assignment
+the analyzed runs contained reads 
+bacteria and archaea consensus environments for
+runs pulled from the run metadata and publications included
+cryoconite n glacial ice n lake n 
+lake ice n rock n seawater n sea
+ice n sediment n subglacial lake n 
+snow n and soil n figure and table 
+samples associated with some bioprojects could not be used
+because of archival errors these included prjna frisia
+et al which lacked quality data and prjna 
+and prjna no citations available which were not
+demultiplexed 
+
+the number of unique reads varied widely between
+environment and was strongly correlated with the number
+of samples for archaea and bacteria figure and table 
+for bacteria the number of samples associated with a given
+environment accounted for of the variance in the number
+of unique sequences across environments pearson correlation 
+p some environments however had a higher number
+of unique reads than anticipated by this model these included
+environments with very few samples including snow subglacial
+lake lake ice and soil for archaea the number of samples
+accounted for of the variance the number of unique reads
+ pearson correlation p similar to bacteria snow 
+subglacial lake lake and soil had a higher number of unique
+reads than predicted by sample number 
+
+the “map ratio” variable calculated by pplacer matsen
+et al as the percent identity between the query read
+and reference sequence was used as the primary indicator of
+how well s rrna gene reads were represented by completed
+genomes in genbank i e the paprica database the mean
+map ratio distribution by sample limited to samples with more
+than reads assigned to the bacteria or archaea was used
+to identify environments that may have microbial communities
+more poorly represented by completed genomes of bacteria
+ figure and archaea figure mean map ratios ranged
+from srr soil to srr cryoconite 
+for bacteria and from srr glacial ice to 
+ srr sediment for archaea samples with more than
+ reads but a mean map ratio below were flagged for
+further investigation for bacteria these included samples from
+cryoconite n lake n lake ice n seawater
+ n snow n sediment n and soil n 
+environments for the archaea these included samples from
+
+glacial ice n lake n snow n sediment n 
+and soil n 
+
+the relationship between the abundance of unique reads
+ across the entire dataset and map ratio figure and
+table was used to identify unique reads that were abundant
+in individual samples but poorly represented by completed
+genomes unique reads for which the map ratio was less
+than × read abundance were flagged for
+further inspection these parameters were selected arbitrarily
+to objectively subset a manageable number of reads for
+bacteria unique reads met this criterion while 
+unique reads met this criterion for archaea the most
+abundant phylogenetic edges branches or tips within any
+environment associated with these unique reads were evaluated
+further to determine which sequenced genomes represent
+groups with considerable uncharacterized diversity table 
+the most abundant low map ratio edge for domain bacteria
+accounted for total seawater reads and placed with
+sulfitobacter pseudonitzschia smr represented by genbank
+genome gcf classification of a representative
+sequence using the ribosomal database project rdp classifier
+ wang et al identified the read as belonging to the
+phylum proteobacteria the most abundant low map ratio edge
+for domain archaea accounted for of total soil reads
+and belonged to the family haloarculaceae rdp classified a
+representative read as domain archaea 
+
+as seen in the distribution of abundant unique reads with
+low map ratios table the uncharacterized diversity for the
+bacteria was most pronounced in seawater this is interesting
+given that the mean map ratio for seawater samples was not
+particularly low individual samples with lower values were
+found in lake and soil environments figure in seawater low
+map ratios were balanced by abundant well characterized taxa
+with high map ratios particularly pseudoalteromonas spongiae
+ust map ratio candidatus pelagibacter
+ubique htcc map ratio and alteromonas
+stellipolaris lmg map ratio a precise classification
+of the low map ratio reads was not possible – as is expected for
+microbial dark matter – and in most cases the rdp classifier
+could not provide a classification below the level of domain 
+s pseudonitzschia smr the edge in seawater samples that had
+the lowest mean map ratio was relatively abundant and correctly
+classified by rdp as belonging to the proteobacteria 
+
+although lake ice and soil environments generally had
+high mean map ratios for bacteria some samples from these
+environments were unusually low figure for lake ice 
+sample err from bioproject prjeb was a clear
+outlier with a mean map ratio of although this sample
+had enough reads associated with the domain bacteria to be
+considered for the mean map ratio analysis n the
+sample was of very low diversity with only seven unique reads
+identified all of these unique reads had fairly high map ratios
+except for one abundant read that placed with halomonas
+chromatireducens agd the soil sample with the lowest map
+ratio srr bioproject prjna also had relatively
+few reads n but was comparatively diverse with 
+unique reads the most abundant among these belonged to
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+figure sample location by environment sample locations where available in the metadata are given according to the final consensus environment 
+
+an unclassified betaproteobacteria with a map ratio of 
+verrucomicrobia with a map ratio of and blattabacterium
+punctulatus cpupc with a map ratio of verrucomicrobia
+and betaproteobacetria are common in soil environments and
+blattabacterium spp are obligate endosymbionts gil et al 
+ thus reads placed to b punctulatus cpupc may have
+been associated with nemotades tardigrades or other metazoans
+common to antarctic soils 
+
+the sample with the lowest mean map ratio for
+domain archaea belonged to glacial ice srr bioproject
+prjna abundant unique reads in this sample with low
+
+map ratios mapped to haloarcula marismortui atcc 
+represented by genome gcf and ferroplasma
+acidiphilum y represented by genome gcf 
+although the mean map ratios for soil samples were generally
+higher for domain archaea some soil samples had exceptionally
+low values the lowest mean map ratio for soil was sample
+err bioproject prjeb at abundant
+unique edges with low map ratios in this sample included
+metallosphaera curpina ar map ratio represented by
+genome gcf and methanospirillum hungatei jf 
+represented by genome gcf map ratio 
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+table summary of bioprojects used in this study 
+
+bioproject center name release date consensus environment citation
+
+prjeb central michigan university marine sediment learman et al 
+
+prjeb central michigan university marine sediment learman et al 
+
+prjeb university of warwick soil
+
+prjeb university of california san diego microbiome init marine sediment beaupré and o’dwyer 
+
+prjeb university of california san diego microbiome init lake
+
+prjeb university of california san diego microbiome init soil
+
+prjeb european molecular biology laboratory lake kleinteich et al 
+
+prjeb university of cambrdge soil
+
+prjeb university of neuchatel lake
+
+prjna louisiana state university subglacial lake christner et al 
+
+prjna seawater
+
+prjna louisiana state university subglacial lake vick majors et al 
+
+prjna universidad mayor seawater moreno pino et al 
+
+prjna louisiana state university glacial ice
+
+prjna cryoconite webster brown et al 
+
+prjna soil tahon et al 
+
+prjna soil tytgat et al 
+
+prjna lake de scally et al 
+
+prjna sea ice bowman and deming 
+
+prjna seawater rozema et al 
+
+prjna csiro soil bissett et al 
+
+prjna institute of biochemistry and biophysics polish a cryoconite
+
+prjna seawater bowman et al 
+
+prjna sea ice eronen rasimus et al 
+
+prjna soil yan et al 
+
+prjna soil
+
+prjna marine sediment bendia et al 
+
+prjna marine sediment
+
+prjna soil
+
+prjna seawater
+
+prjna cryoconite
+
+prjna cryoconite sommers et al 
+
+prjna soil rippin et al 
+
+prjna soil zhang et al 
+
+prjna soil zhang et al 
+
+prjna soil zhang et al 
+
+prjna marine sediment
+
+prjna soil
+
+discussion
+
+the domains bacteria and archaea showed surprising differences
+in their relative abundance and in the number of unique
+sequences identified overall bacteria were better sampled than
+archaea though this does not necessarily reflect any greater
+ecological importance in many environments only recently have
+primers been designed to broadly amplify across both domains
+ walters et al prior to this many studies focused on
+the domain bacteria as a matter of expediency thus while no
+archaeal reads were identified in lake ice and sea ice and very
+few in glacial ice and snow this does not mean that archaea were
+absent from those physical samples archaea were comparatively
+well sampled in sediment and soil – environments that are
+known to host a considerable number of archaea – but the
+
+number of unique reads associated with the archaea in these
+environments was nearly an order of magnitude less than the
+number associated with the domain bacteria despite a similar
+number of sampled reads this may reflect an overall lower
+phylogenetic diversity among the archaea or an analysis artifact 
+with the available primers and covariance models insufficient to
+capture the true archaeal diversity the lack of archaeal sequence
+data was particularly pronounced for seawater where archaea are
+known to play a considerable role in the marine nitrogen cycle
+and in dark carbon fixation tolar et al 
+
+a key distinction between the bacteria and archaea in this
+analysis was the impact of read normalization on read abundance 
+the paprica pipeline normalizes read abundance by dividing
+the number of reads placed to an edge on the phylogenetic
+reference tree by the anticipated s rrna gene copy number
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+figure sample diversity for the domain bacteria and archaea a rarefaction curves for all consensus environments for bacteria given on a log log scale 
+ b the number of unique reads identified in each consensus environment as a function of the number of samples the line of best fit reflects a linear relationship
+ r p × − c rarefaction curves for all consensus environments for archaea given on a log–log scale note that no archaea were identified in lake
+ice or sea ice samples d the number of unique reads identified in each consensus environment as a function of the number of samples the line of best fit reflects
+a linear relationship r p × − 
+
+table read data for each environment 
+
+cryoconite glacial ice lake lake ice sea ice seawater sediment snow soil subglacial lake
+
+number of samples 
+
+number of final
+reads × 
+
+ 
+
+number of final reads 
+bacteria × 
+
+ 
+
+number of final reads 
+archaea × 
+
+ 
+
+number of normalized
+reads bacteria × 
+
+ 
+
+number of normalized
+reads archaea × 
+
+ 
+
+number of unique
+reads bacteria
+
+ 
+
+number of unique
+reads archaea
+
+ na 
+
+mean map ratio 
+bacteria
+
+ 
+
+mean map ratio 
+archaea
+
+na na na 
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+figure sample mean map ratios for the domain bacteria for each consensus environment the distribution of mean map ratios is given only samples with
+greater than reads assigned to the domain bacteria are shown in the distribution 
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+figure sample mean map ratios for the domain archaea for each consensus environment the distribution of mean map ratios is given only samples with
+greater than reads assigned to the domain archaea are shown in the distribution due to the small number of samples with sufficient archaeal reads for glacier
+ice n lake ice n snow n sea ice n and seawater n these environments are not shown 
+
+figure the abundance of unique reads as a function of map ratio for a bacteria and b archaea the abundance of unique reads was determined within each
+consensus environment i e each unique read may be tallied more than once in different consensus environments the distribution of data is displayed via a
+hexagonal density plot with the color of the hexagons representing the density of the data 
+
+for that position on the tree because many bacteria and archaea
+have multiple copies of the s rrna gene this can have
+a major impact on the estimated abundance of these clades 
+across the soil samples for example × reads were
+associated with the domain bacteria and × with archaea 
+after normalization only × reads were associated with
+bacteria a reduction while × were associated
+with archaea a reduction table extrapolating these ratios
+
+to a hypothetical single sample suggests that the abundance of
+bacteria relative to archaea would be overestimated by a factor of
+nearly if the data were not normalized 
+
+while lake and glacial ice had the highest mean map ratios
+for bacteria and lake the highest for archaea no antarctic
+environment was well represented by the available completed
+genomes in genbank all of the investigated environments had
+some samples with comparatively low mean map ratios and
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+table abundant phylogenetic edges with low map ratio values 
+
+edge unique reads abundance mean map ratio taxon rdp predominant environment
+
+bacteria
+
+ gcf sulfitobacter
+pseudonitzschiae smr 
+
+phylum proteobacteria seawater
+
+ fcb group class cyanobacteria soil seawater
+
+ brucellaceae phylum proteobacteria seawater
+
+ gcf candidatus
+liberibacter solanacearum
+clso zc clso zc 
+
+domain bacteria seawater
+
+ oscillatoriophycideae chloroplast genus bacillariophyta seawater sediment
+
+ gcf yoonia
+vestfoldensis smr r
+
+class alphaproteobacteria seawater
+
+ gcf 
+bradyrhizobium sp 
+ccge la ccge la 
+
+domain bacteria seawater
+
+ gcf coxiella
+endosymbiont of amblyomma
+americanum
+
+root snow
+
+ gcf thermus
+aquaticus y mc y mc 
+
+domain bacteria seawater
+
+ rhodospirillum domain bacteria seawater
+
+archaea
+
+ haloarculaceae domain archaea soil
+
+ gcf candidatus
+microarchaeota archaeon
+mia 
+
+root soil sediment
+
+ gcf 
+methanoculleus bourgensis
+
+domain archaea soil
+
+ candidatus nitrosopumilus
+sediminis ar 
+
+genus nitrososphaera sediment soil
+
+ archaea root soil
+
+ gcf 
+caldisphaera lagunensis dsm
+ dsm 
+
+domain archaea soil
+
+ euryarchaeota domain archaea soil
+
+ gcf 
+methanoculleus bourgensis
+ms 
+
+domain archaea soil
+
+ gcf candidatus
+nitrosomarinus catalina
+spot 
+
+genus nitrososphaera soil
+
+ gcf caldivirga
+maquilingensis ic 
+
+domain archaea soil
+
+abundance values include only those reads with low map ratios not all reads placed to the indicated edge taxonomy of the phylogenetic edge on the paprica reference
+tree classification of a representative read for that edge using the ribosomal database project classifier wang et al with a cutoff 
+
+all samples had some number of unique reads with low map
+ratios the abundance of a s pseudonitzschia smr phylotype
+with a low map ratio in seawater samples indicates that even
+relatively well sampled ranked th out of for number of
+samples per environment environments contain considerable
+uncharacterized diversity s pseudonitzschia was isolated from
+the marine diatom pseudonitzschia multi series hong et al 
+ suggesting that phytoplankton blooms – comparatively
+well studied environments – may host their own microbial
+dark matter it is important to note the difference between
+phylogenetic dissimilarity and sequence identity for such well 
+characterized taxa as sulfitobacter an uncharacterized strain
+
+may be most closely related to e g sequenced sulfitobacter
+but nonetheless share little sequence identity overall the
+dissimilarity between environmental sequence reads and s
+rrna genes from completed genomes is not surprising given
+the paucity of completely sequenced genomes from antarctica 
+because data on isolation environment is not typically included
+with genome metadata it is difficult to determine how many
+complete genomes of antarctic bacteria and archaea have been
+sequenced however bowman recently identified only
+ completely sequenced psychrophile genomes suggesting that
+bacteria and archaea from the perennially cold antarctic are not
+well represented 
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+a great number of valuable studies were excluded from
+this analysis based on technical limitations including the use
+of older sequencing technologies such as roche or poor
+sequence quality the rate of technological innovation for
+high throughput sequencing methods has been extreme since
+the first sequencing study in sogin et al 
+and the current primers and illumina miseq methodologies
+reflect a maturation of this technology e g thompson et al 
+ although widely adopted these methodologies are
+not ubiquitous however and individual investigators must
+strive to adopt best practices for microbial ecology studies 
+methodological errors are compounded by archival errors 
+several studies of interest could not be used because the data
+were not correctly uploaded to sra the most common error
+made was not demultiplexing at the time of submission without
+a map file identifying barcodes and sample specific metadata
+these data are meaningless to the wider community journals and
+funding agencies should continue to require that sequence data
+and appropriate metadata be archived at the time of manuscript
+submission or at the completion of a project however the current
+checks are insufficient to insure that data is discoverable and
+reusable 
+
+despite the vast size of the antarctic continent sampling
+for most environments was concentrated in just a few areas
+ figure the western antarctic peninsula and mcmurdo
+regions were the most heavily sampled and accounted for
+nearly all terrestrial samples except for soil soil was sampled
+in several other locations in eastern antarctica namely prydz
+bay and in the sor røndane mountains sea ice was sampled
+exclusively in the ross sea region including mcmurdo sound 
+and the weddell sea how much microbial diversity remains
+undiscovered because of this bias is a difficult question to
+answer certainly within these more densely sampled sites there
+are habitats in space and time that are undersampled or that
+have not been sampled at all the implications of this is clear
+from the relationships in figure while individual samples
+within environments may be sampled to saturation this does not
+necessarily mean that the total diversity of the environment is
+
+well sampled future investigations will need to continue to focus
+on better understanding the environmental drivers of diversity
+within more heavily sampled regions while expanding to include
+new areas that have not been included in previous sampling
+efforts 
+
+data availability statement
+
+all data used in this study are available from the ncbi sra at
+the bioprojects listed in table additional information on each
+included sample is provided in a table in the supplementary
+information 
+
+author contributions
+
+jb conceived the study carried out the analysis and wrote the
+manuscript 
+
+funding
+
+this study was supported by nasa nssc m s a
+simons foundation early career marine microbial investigator
+fellowship nsf opp and nsf opp 
+
+acknowledgments
+
+i would like to thank the antarctic microbial community at large
+for the collection and public sharing of these data 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmicb 
+ full supplementary material
+
+references
+amir a mcdonald d navas molina j a kopylova e morton j t zech
+
+xu z et al deblur rapidly resolves single ’ american society for
+microbiology available at http genomebiology biomedcentral com articles 
+ gb r 
+
+beaupré a d and o’dwyer j p widespread bursts of diversification in
+microbial phylogenies arxiv doi fmicb 
+
+bendia a g signori c n franco d c duarte r t d bohannan b j m 
+pellizari v h et al a mosaic of geothermal and marine features shapes
+microbial community structure on deception island volcano antarctica front 
+microbiol doi fmicb 
+
+bissett a fitzgerald a court l meintjes t mele p m reith f et al 
+erratum introducing base the biomes of australian soil environments soil
+microbial diversity database gigascience doi gigascience gix 
+
+bowman j and ducklow h microbial communities can be described
+by metabolic structure a general framework and application to a seasonally
+variable depth stratified microbial community from the coastal west antarctic
+peninsula plos one e doi journal pone 
+
+bowman j p “genomics of psychrophilic bacteria and archaea ” in
+psychrophiles from biodiversity to biotechnology eds r margesin f schinner 
+j c marx and c gerday new york ny springer – doi 
+ 
+
+bowman j s amaral zettler l a rich j j luria m c and ducklow 
+h w bacterial community segmentation facilitates the prediction of
+ecosystem function along the coast of the western antarctic peninsula isme j 
+ – doi ismej 
+
+bowman j s and deming j w wind driven distribution of bacteria in
+coastal antarctica evidence from the ross sea region’ polar biology berlin 
+springer 
+
+callahan b j mcmurdie p j rosen m j han a w johnson a j holmes 
+s p et al ‘dada high resolution sample inference from illumina
+amplicon data’ nat methods – doi nmeth 
+
+christner b c priscu j c achberger a m barbante c carter s p 
+christianson k et al a microbial ecosystem beneath the west
+antarctic ice sheet nature – doi nature 
+
+core team r r a language and environment for statistical computing r
+foundation for statistical computing available at http www r project org 
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org articles fmicb full supplementary material
+http genomebiology biomedcentral com articles gb r 
+http genomebiology biomedcentral com articles gb r 
+https doi org fmicb 
+https doi org fmicb 
+https doi org gigascience gix 
+https doi org journal pone 
+https doi org 
+https doi org 
+https doi org ismej 
+https doi org nmeth 
+https doi org nature 
+http www r project org 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb december time 
+
+bowman microbial dark matter
+
+de scally s z makhalanyane t frossard a hogg i d and cowan d a 
+ antarctic microbial communities are functionally redundant adapted
+and resistant to short term temperature perturbations soil biol biochem 
+ – doi j soilbio 
+
+eronen rasimus e luhtanen a m rintala j m delille b dieckmann g 
+karkman a et al an active bacterial community linked to high chl a
+concentrations in antarctic winter pack ice and evidence for the development
+of an anaerobic sea ice bacterial community isme j – doi 
+ ismej 
+
+frisia s weyrich l s hellstrom j borsato a golledge n r anesio a m 
+et al the influence of antarctic subglacial volcanism on the global iron
+cycle during the last glacial maximum nat commun – doi 
+ncomms 
+
+gil r latorre a and moya a bacterial endosymbionts of insects 
+insights from comparative genomics environ microbiol – 
+doi j x
+
+hong z lai q luo q jiang s zhu r liang j et al sulfitobacter
+pseudonitzschiae sp nov isolated from the toxic marine diatom pseudo 
+nitzschia multiseries int j syst evol microbiol – doi ijs 
+ 
+
+kleinteich j hildebrand f bahram m voigt a y wood s a jungblut 
+a d et al pole to pole connections similarities between arctic and
+antarctic microbiomes and their vulnerability to environmental change front 
+ecol evol doi fevo 
+
+learman d r henson m w thrash j c temperton b brannock p m 
+santos s r et al biogeochemical and microbial variation across 
+km of antarctic surface sediment implicates organic matter as a driver of
+benthic community structure front microbiol doi fmicb 
+ 
+
+marcy y ouverney c bik e m lösekann t ivanova n martin h g 
+et al ‘dissecting biological “dark matter” with single cell genetic
+analysis of rare and uncultivated tm microbes from the human mouth 
+proc natl acad sci u s a – doi pnas 
+ 
+
+matsen f a kodner r b and armbrust e v ‘pplacer linear time
+maximum likelihood and bayesian phylogenetic placement of sequences onto
+a fixed reference tree’ bmc bioinformatics doi 
+ 
+
+mclean a l bacteria of ice and snow in antarctica nature – 
+doi a 
+
+moreno pino m de la iglesia r valdivia n henríquez castilo c galán a 
+díez b et al variation in coastal antarctic microbial community
+composition at sub mesoscale spatial distance or environmental filtering 
+fems microbiol ecol fiw doi femsec fiw 
+
+nawrocki e p burge s w bateman a daub j eberhardt r y eddy s r 
+et al rfam updates to the rna families database nucleic acids
+res d –d doi nar gku 
+
+nawrocki e p and eddy s r computational identification of functional
+rna homologs in metagenomic data rna biol – doi 
+rna 
+
+rippin m lange s sausen n and becker b biodiversity of biological
+soil crusts from the polar regions revealed by metabarcoding fems microbiol 
+ecol fiy doi femsec fiy 
+
+rozema p d kulk g veldhuis m p buma a g j meredith m p van
+de poll w h et al assessing drivers of coastal primary production
+in northern marguerite bay antarctica front marine sci doi 
+fmars 
+
+sogin m l morrison h g huber j a mark welch d huse s m neal 
+p r et al microbial diversity in the deep sea and the underexplored
+rare biosphere proc natl acad sci u s a – doi 
+pnas 
+
+sommers p darcy j l gendron e m s stanish l f bagshaw e a 
+porazinska d l et al diversity patterns of microbial eukaryotes
+mirror those of bacteria in antarctic cryoconite holes fems microbiol ecol 
+ fix doi femsec fix 
+
+tahon g tytgat b and willems a diversity of phototrophic genes
+suggests multiple bacteria may be able to exploit sunlight in exposed soils
+from the sør rondane mountains east antarctica front microbiol 
+doi fmicb 
+
+tange o gnu parallel the command line power tool renton wa 
+the usenix magazine – 
+
+thompson l r sanders j g mcdonald d amir a ladau j locey 
+k j et al a communal catalogue reveals earth’s multiscale microbial
+diversity nature – doi nature 
+
+tolar b b ross m j wallsgrove n j liu q aluwihare l i popp b n et al 
+ contribution of ammonia oxidation to chemoautotrophy in antarctic
+coastal waters isme j – doi ismej 
+
+tytgat b verleyen e sweetlove m d’hondt s clercx p van ranst e 
+et al bacterial community composition in relation to bedrock type and
+macrobiota in soils from the sør rondane mountains east antarctica fems
+microbiol ecol fiw doi femsec fiw 
+
+vick majors t j achberger a santibáñez p dore j e hodson t michaud 
+a b et al biogeochemistry and microbial diversity in the marine cavity
+beneath the mcmurdo ice shelf antarctica limnol oceanogr – 
+doi lno 
+
+walters w hyde e r berg lyons d ackermann g humphrey g 
+parada a et al transcribed spacer marker gene primers for microbial
+community surveys msystems e doi msystems 
+editor
+
+wang q garrity g m tiedje j m and cole j r naive bayesian
+classifier for rapid assignment of rrna sequences into the new bacterial
+taxonomy appl environ microbiol – doi aem 
+ 
+
+webster brown j g hawes i jungblut a d wood s a and christenson 
+h k the effects of entombment on water chemistry and bacterial
+assemblages in closed cryoconite holes on antarctic glaciers fems microbiol 
+ecol fiv doi femsec fiv 
+
+yan w ma h shi g li y sun b xiao x et al independent shifts of
+abundant and rare bacterial populations across east antarctica glacial foreland 
+front microbiol doi fmicb 
+
+zhang y lu l chang x jiang f gao x d peng f et al small scale
+soil microbial community heterogeneity linked to landforms on king george
+island maritime antarctica biorxiv doi 
+
+conflict of interest statement the author declares that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest 
+
+copyright © bowman this is an open access article distributed under the
+terms of the creative commons attribution license cc by the use distribution
+or reproduction in other forums is permitted provided the original author s and
+the copyright owner s are credited and that the original publication in this journal
+is cited in accordance with accepted academic practice no use distribution or
+reproduction is permitted which does not comply with these terms 
+
+frontiers in microbiology www frontiersin org december volume article 
+
+https doi org j soilbio 
+https doi org ismej 
+https doi org ismej 
+https doi org ncomms 
+https doi org ncomms 
+https doi org j x
+https doi org ijs 
+https doi org ijs 
+https doi org fevo 
+https doi org fmicb 
+https doi org fmicb 
+https doi org pnas 
+https doi org pnas 
+https doi org 
+https doi org 
+https doi org a 
+https doi org femsec fiw 
+https doi org nar gku 
+https doi org rna 
+https doi org rna 
+https doi org femsec fiy 
+https doi org fmars 
+https doi org fmars 
+https doi org pnas 
+https doi org pnas 
+https doi org femsec fix 
+https doi org fmicb 
+https doi org nature 
+https doi org ismej 
+https doi org femsec fiw 
+https doi org lno 
+https doi org msystems editor
+https doi org msystems editor
+https doi org aem 
+https doi org aem 
+https doi org femsec fiv 
+https doi org fmicb 
+https doi org 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+	identification of microbial dark matter in antarctic environments
+	introduction
+	materials and methods
+	results
+	discussion
+	data availability statement
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

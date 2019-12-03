@@ -1,0 +1,1106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a salinity threshold separating fungal communities in the baltic sea
+
+
+fmicb march time 
+
+original research
+published march 
+
+doi fmicb 
+
+edited by 
+ramiro logares 
+
+institute of marine sciences icm 
+spain
+
+reviewed by 
+teppo rämä 
+
+uit the arctic university of norway 
+norway
+
+sebastián rodrigo najle 
+instituto de biología evolutiva ibe 
+
+spain
+
+ correspondence 
+hans peter grossart
+
+hgrossart igb berlin de
+
+specialty section 
+this article was submitted to
+
+aquatic microbiology 
+a section of the journal
+
+frontiers in microbiology
+
+received december 
+accepted march 
+published march 
+
+citation 
+rojas jimenez k rieck a 
+
+wurzbacher c jürgens k labrenz m
+and grossart h p a salinity
+
+threshold separating fungal
+communities in the baltic sea 
+
+front microbiol 
+doi fmicb 
+
+a salinity threshold separating
+fungal communities in the baltic sea
+keilor rojas jimenez angelika rieck christian wurzbacher klaus jürgens 
+matthias labrenz and hans peter grossart 
+
+ department of experimental limnology leibniz institute of freshwater ecology and inland fisheries stechlin germany 
+ escuela de biología universidad de costa rica san josé costa rica chair of urban water systems engineering 
+technical university of munich munich germany leibniz institute for baltic sea research warnemünde germany 
+ institute for biochemistry and biology university of potsdam potsdam germany
+
+salinity is a significant factor for structuring microbial communities but little is known for
+aquatic fungi particularly in the pelagic zone of brackish ecosystems in this study we
+explored the diversity and composition of fungal communities following a progressive
+salinity decline from to psu along three transects of ca km in the baltic
+sea the world’s largest estuary based on s rrna gene sequence analysis we
+detected clear changes in fungal community composition along the salinity gradient
+and found significant differences in composition of fungal communities established
+above and below a critical value of psu at salinities below this threshold fungal
+communities resembled those from freshwater environments with a greater abundance
+of chytridiomycota particularly of the orders rhizophydiales lobulomycetales and
+gromochytriales at salinities above psu communities were more similar to those
+from marine environments and depending on the season were dominated by a strain
+of the lkm group cryptomycota or by members of ascomycota and basidiomycota 
+our results highlight salinity as an important environmental driver also for pelagic fungi 
+and thus should be taken into account to better understand fungal diversity and
+ecological function in the aquatic realm 
+
+keywords fungal diversity baltic sea salinity gradient brackish waters chytridiomycota cryptomycota
+
+introduction
+
+in recent years there has been a growing interest in studying fungi in the aquatic environment 
+mainly due to their significant roles in the cycling of nutrients and elements such as carbon
+ wurzbacher et al grossart and rojas jimenez the increased use of next generation
+sequencing approaches provides a detailed insight into biodiversity and occurrence of aquatic fungi
+ wurzbacher and grossart most studies coincide in pointing out a large number of fungal
+taxa to be described nikolcheva et al tedersoo et al wurzbacher et al richards
+et al grossart et al yet the understanding of other aspects related to their metabolic
+functions and ecology remains to be investigated richards et al frenken et al 
+
+among factors modulating fungal diversity and community composition in aquatic ecosystems 
+salinity is of vital importance for example a clear differentiation between fungal populations in
+freshwater estuarine and marine environments has been observed booth and kenkel geib
+et al mohamed and martiny bálint et al de vargas et al jeffries et al 
+ zhang et al marine environments are generally characterized by a low proportion of
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org journals microbiology editorial board
+https www frontiersin org journals microbiology editorial board
+https doi org fmicb 
+http creativecommons org licenses by 
+https doi org fmicb 
+http crossmark crossref org dialog doi fmicb domain pdf date stamp 
+https www frontiersin org articles fmicb full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+fungi with respect to the overall number of eukaryotes
+ richards et al in relation to the composition
+of fungal communities in marine environments some studies
+indicate that they are dominated by fungi belonging to the
+phylum chytridiomycota while other studies indicate that fungi
+belonging to dikarya could be the most abundant hassett et al 
+ picard rämä et al wang et al in
+freshwater ecosystems there is usually a higher proportion of
+fungi belonging to chytridiomycota comeau et al maier
+and peterson wurzbacher et al arroyo et al 
+
+previous studies have shown that the majority of organisms
+are adapted to freshwater or marine conditions while there
+are organisms like aspergillus flavus that are ubiquitous and
+can inhabit both terrestrial and marine environments zuluaga 
+montero et al ramírez camejo et al also there
+are few brackish species with a wide tolerance to salinity
+ logares et al telesh and khlebovich for example 
+herlemann et al showed that there are associations of
+brackish marine and limnic bacteria in the baltic although their
+diversity was not affected and thus not significantly lower at
+brackish conditions despite this the knowledge about fungal
+communities in brackish ecosystems and variations in their
+composition at different salinity levels is limited first because
+studies addressing these issues are rare hu et al kettner
+et al secondly because most research has been conducted
+in estuaries with variable salinity conditions and short residence
+times that do not select for populations adapted to constant
+brackish conditions along a more permanent and extended
+salinity gradient as can be found in the baltic sea 
+
+the baltic sea constitutes an ideal model system to study
+autochthonous communities of brackish water fungi since it
+is one of the largest brackish ecosystems in the world with a
+progressive salinity decline over a distance of approx km
+from psu in the kattegat in the southwest denmark–
+sweden to psu in the bothnian bay in the northeast sweden–
+finland figure since the narrow and shallow danish straits
+constitute a barrier for the exchange with more saline waters
+from the open north sea the baltic sea has relatively stable
+horizontal and vertical salinity gradients minimal tidal effects 
+and long retention times of up to years kautsky and kautsky 
+ reissmann et al we provide new insights into
+the occurrence and diversity of aquatic fungi along the salinity
+gradient in the baltic sea and identify a threshold value at which
+fungal communities noticeably diverge 
+
+materials and methods
+
+we used illumina sequencing of the s rrna gene to
+characterize the fungal community composition in the baltic sea 
+across three transects of ca km each and to determine the
+effect of salinity on structuring community composition along
+gradients ranging from to psu figure for this we
+used two datasets of sequences dataset comprises samples
+of surface waters collected during three cruises in summer
+ june th – july th winter february rd –
+march th and spring may st – june th dataset is
+
+composed of samples collected at surface and intermediate
+layers – m vs – m from nine stations during the spring
+ cruise at each sampling point of every cruise water was
+collected using a conductivity temperature depth device ctd 
+sea bird scientific bellevue wa united states connected to
+polyethylene canisters concentrations of dissolved inorganic
+phosphate nitrate nitrite silicate ammonium and oxygen were
+analyzed as described by grasshoff et al particulate
+organic carbon poc was determined as described by rieck et al 
+ values of all measurements of each dataset are presented
+in supplementary figure s 
+
+for collection of nucleic acids one liter of each water
+sample was filtered through µm durapore membranes
+ merck germany for all samples of dataset in dataset the
+same volume was filtered through µm nucleopore track 
+etched polycarbonate membranes whatman germany and
+subsequently through µm membranes to also distinguish
+between particle associated pa and free living fl eukaryotes 
+filters were frozen in liquid nitrogen and stored at − ◦c until
+further processing dna from the microorganisms on the filters
+was extracted using the phenol chloroform protocol nercessian
+et al with primers ff fr prevost boure et al 
+ we amplified the v and v regions of the s rrna gene
+using ng dna as a template and the fusion dna polymerase
+herculase ii agilent technologies united states the pcr
+conditions consisted of ◦c for min initial denaturation
+followed by cycles at ◦c for s ◦c for min ◦c for
+ min and a final extension at ◦c for min the ca bp 
+length amplicons were sequenced on a miseq sequencer with v 
+ × nt chemistry illumina san diego ca united states 
+the sequence data are deposited in the ncbi sequence read
+archive srp biosample accessions samn –
+samn samn –samn 
+
+the s rrna gene sequences were demultiplexed with
+flexbar v dodt et al paired and quality filtered
+ deltaq using mothur v kozich et al reads
+shorter than nucleotides and reads with more than of
+ambiguities or of homopolymers were excluded subsequent
+processing was performed with the silvangs v pipeline
+ quast et al including the alignment against the silva
+ssu rrna seed using sina v pruesse et al otu
+clustering at a distance cut off with cd hit v li and
+godzik and taxonomic classification by local nucleotide
+blast search against silva ssu ref dataset using blastn
+ camacho et al the statistical analyses and visualizations
+were performed in r r core team we used vegan
+ oksanen et al to calculate alpha diversity estimators 
+non metric multidimensional scaling analyses nmds and the
+permutational analysis of variance permanova to carry out
+the ndms and permanova we used a table containing only
+the otus with abundances greater than singletons excluded 
+which was then transformed into a table of relative abundances 
+the ndms was represented in a two dimensional plot based
+on a bray–curtis similarity matrix the statistical significance
+of the effects of the different variables on the fungal community
+composition was calculated using the adonis function with 
+permutations p values of the pairwise permanova were adjusted
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+figure geographical location of all sampling stations colors correspond to the surface water salinity this map was generated using r ggmap package kahle
+and wickham importing images from google maps psu practical salinity units 
+
+with the benjamini–hochberg method the statistical differences
+in the diversity indices were estimated using the non parametric
+kruskal–wallis test 
+
+results and discussion
+
+in this work we analyzed the diversity and composition of
+fungal communities along the baltic sea salinity gradient 
+using two different datasets of sequences of the s rrna
+gene the percentage of eukaryotic sequences belonging to the
+fungal clade was for dataset surface water sampled
+in summer winter and spring and 
+
+for dataset water sampled at different depths only in spring
+ however we observed marked variations in the relative
+proportion of fungi between sampling stations table and
+supplementary figure s within the otus identified
+in dataset the two most abundant comprised of the
+fungal sequences and were identified as lkm cryptomycota 
+and rhizophydiales chytridiomycota within the otus
+identified in dataset the two most abundant comprised 
+and were identified as paramicrosporidium cryptomycota and
+rhizophydiales supplementary table s 
+
+we observed pronounced changes in the composition of the
+fungal communities along the baltic salinity gradient figure 
+which was consistent at different phylogenetic levels we also
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+table description of the datasets number of samples and proportion of fungal sequences relative to the total number of eukaryotic sequences 
+
+dataset description samples eukaryotes fungi percentage
+
+dataset surface waters years seasons summer winter and spring range – 
+
+dataset two depths particle associated and free living fractions year season spring range – 
+
+determined that the composition and abundance of otus
+in the communities above and below a threshold of psu
+were significantly different supplementary table s for
+example the divergence in fungal community composition
+at this salinity threshold was highly significant in dataset
+ permanova p figure b this variation was
+
+consistent in the two depth layers analyzed of this dataset
+corresponding to the conditions of spring we also
+observed that a single strain of lkm was more abundant
+at sites with salinities above the threshold as previously
+shown in other ecosystems and where presumably could
+have a saprophytic lifestyle rojas jimenez et al 
+
+figure fungal community composition along different transects and salinity gradients in the baltic sea a dataset comprising samples determined for
+surface waters collected during three cruises in summer winter and spring b dataset comprising samples collected at nine stations during
+spring considering two depth horizons and free living fl vs particle associated pa fractions sampling stations and salinities in psu are shown the arrow
+marks the limit between the stations above and below the psu 
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+figure non metric multidimensional scaling analyses of the fungal
+communities in the baltic sea the analysis was made from samples of the
+two datasets used in this study dataset comprising samples determined
+for surface waters collected during three cruises in summer winter
+ and spring and dataset comprising samples collected at
+nine stations during spring considering two depth horizons and fl vs 
+pa fractions a analysis by season b analysis by salinity group 
+
+in mesohaline waters chytrids assigned mainly to orders
+rhyzophydiales and lobulomycetales were more common 
+while a strain of paramicrosporidium was more abundant at
+oligohaline conditions figure in this dataset we did
+not find significant differences between fl and pa fractions
+ supplementary table s 
+
+changes in fungal community composition above vs 
+below the salinity threshold were also significant in dataset
+ permanova p in this dataset we further
+determined significant differences in community composition
+between the three studied seasons permanova p 
+figure a in summer the sites with higher salinities
+showed a greater abundance of ascomycota particularly
+of the genera cladosporium and saccharomyces while
+the mesohaline sites were dominated by chytridiomycota
+belonging to the orders rhizophydiales and gromochytriales 
+in winter the pattern was more variable although
+a greater abundance of leotiomycetes ascomycota 
+and cystobasidiomycetes basidiomycota was observed
+at salinities above psu below this threshold taxa
+belonging to the chytrid orders rhizophydiales and
+lobulomycetales were more abundant except at station b 
+ bothnian gulf where geotrichum ascomycota was more
+frequent figure 
+
+although not yet shown for fungal communities the
+notion of a specific salinity threshold driving variations in
+organismic community composition is not entirely new 
+for example telesh and khlebovich proposed a
+critical range of – psu for zooplankton communities in
+the baltic sea while herlemann et al also observed
+that bacterial communities formed different clusters above
+and below a salinity of psu in addition previous studies
+on aquatic fungi have shown differences along very broad
+salinity gradients e g between estuarine coastal and oceanic
+samples jeffries et al stream pond melting ice and
+estuary samples in the arctic zhang et al between
+the freshwater mixolimnion and brackish monimolimnion in
+antarctic lakes rojas jimenez et al salty brackish 
+and freshwater marshes mohamed and martiny 
+intertidal wetlands and shallow marine sediments picard 
+ and a coastal environment with variable riverine inputs
+ taylor and cunliffe 
+
+despite the overall changes in the eukaryotic community
+composition between seasons we show that a specific salinity
+threshold is related to variations in the composition of pelagic
+fungal communities particularly in a system with a high
+residence time such as the baltic sea this is consistent
+with earlier studies e g shearer et al showed
+that taxonomic occurrence and species distribution were
+mainly determined by temperature and salinity while
+tisthammer et al showed that global biogeography
+of marine fungi is shaped by local environmental variables 
+including salinity we found some significant effects
+of other environmental variables such as sio total
+n o and po on the structure of the communities 
+however these effects occurred in a rather inconsistent
+way being present in one or the other data sets analyzed
+ supplementary table s thus for a better mechanistic
+understanding we consider that it is important to investigating
+the effects of salinity and other environmental variables
+on the structure of aquatic fungal communities in a
+higher spatio temporal resolution this is of particular
+importance in transition zones such as between the north
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+sea and the baltic sea where changes in these variables
+are quite abrupt 
+
+the specific causes of the observed greater or lower tolerance
+to salinity of specific fungal phylotypes remain to be elucidated 
+however there are three possible physiological mechanisms
+that can intervene the first is related to the increase in
+the concentration of ions within the cells through the use
+of high affinity transport systems that allow to carrying i e 
+potassium ions inward and then confine them in vacuoles 
+this mechanism allows tolerant fungi to maintain an osmotic
+potential lower than the external water potential the second
+mechanism is related to the osmoregulatory capacity which is 
+to adjust the accumulation of specific solutes called osmolytes
+or osmoprotectants through endogenous production or by
+uptake from the medium the glycerol is one of the main
+osmoprotectant in fungi is harmless for the structure and
+function of cytoplasmic proteins and also alleviates some
+inhibitory effects of high ionic strength the two previous
+mechanisms are present in both yeasts and filamentous fungi
+ jennings blomberg and adler logares et al 
+the third mechanism is related to a mechanical strengthening
+of the cell and is present mainly in filamentous fungi where
+for example increases in the thickness of cell walls have been
+observed with increases in salinity ahumada rudolph et al 
+ on the other hand it is well known that chytrids prefer
+aquatic environments with low osmotic potentials probably
+because their zoospores lack a cell wall which make them
+more susceptible to osmotic stress gleason et al gleason
+and lilje however some chytrids have been reported
+as parasites of small green algae and diatoms in marine
+waters suggesting that even these organisms may be using
+other mechanisms to cope with salinity gleason et al 
+hassett et al 
+
+it is also possible that the range of distribution of some
+fungal groups particularly those that contain phytoplankton
+parasites such as rhizophydiales lobulomycetales and
+gromochytriales frenken et al are affected by the
+distribution of their respective hosts this would be consistent
+with studies showing the darss sill with salinities between 
+and psu as the border for some phytoplankton species
+ lemke et al witkowski et al wasmund
+et al celepli et al conversely members of
+basidiomycota and ascomycota such as unicellular yeasts 
+can be more tolerant to higher levels of salinity as observed
+during summer and winter at stations with salinities psu
+ kutty and philip 
+
+in this study we estimated that the average richness per
+sample comprises fungal otus range – in dataset and
+ otus range – in dataset supplementary figure s 
+within dataset we did not find any significant differences in
+richness values season of the year nor between communities at
+salinities above and below psu kruskal–wallis p 
+we also did not observe significant differences in fungal richness
+of dataset when considering variables such as salinity depth 
+or between the pa and fl fungal fractions similar patterns of
+the shannon index were visible with mean values of and
+ for datasets and respectively again no significant
+
+differences were found with any of the environmental variables
+analyzed from these results we conclude that salinity has a
+clear effect on fungal community composition in the baltic
+sea which is not necessarily reflected in changes of the species
+richness and diversity 
+
+based on the obtained taxonomic identification and related
+ecological information we were able to recognize members of
+ascomycota basidiomycota and zygomycota as saprotrophs 
+we speculate that these fungi participate in the recycling of
+nutrients and biodegradation of recalcitrant compounds or can
+act as biotrophs of cyanobacteria algae oomycetes protozoa 
+and microinvertebrates kutty and philip leshem et al 
+ other members of chytridiomycota particularly those
+assigned to rhyzophydiales and lobulomycetales might act as
+parasites frenken et al they can infect unpalatable
+silicon covered diatoms and release energy rich zoospores that
+can be readily utilized by fungal predators kagami et al 
+ additionally some of these parasitic fungi
+have the potential to inflict mass mortalities on hosts because
+changes in phytoplankton size and suppress bloom events 
+like those occurring in spring or late summer see review
+frenken et al however we request to further examine
+the functional and ecological roles of fungi in the baltic
+sea using cultivation based methods to uncover their different
+metabolic potential 
+
+conclusion
+
+our work confirms that salinity holds an important role
+in structuring pelagic fungal communities of the baltic
+sea in particular we determined a significant variation
+in fungal species composition and community structure
+above and below a threshold of psu this finding has
+important implications since the presence of different fungal
+groups with changing salinity levels potentially influence
+aquatic food web structure and ecosystem functions in
+the future it will be necessary to analyze a greater number
+of sampling points along the gradient also considering a
+higher temporal resolution which would allow a better
+understanding of the fluctuations of fungal populations
+in time and space likewise we consider it important to
+study in greater detail the main physiological mechanisms of
+adaptation to salinity that operates in the different phylogenetic
+groups of fungi 
+
+originality significance
+statement
+
+in three expeditions to the baltic sea carried out during different
+years and seasons we explored the diversity and composition
+of fungal communities along transects of ca km and a
+salinity gradient ranging from to psu sequence analysis
+of the s rrna gene shows that salinity is important for
+structuring the pelagic fungal communities in the baltic we
+determined a significant variation in the composition of fungal
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+species above and below a threshold of psu we highlight
+salinity as an important environmental factor that should be
+taken into account to better understand the fungal diversity and
+their ecological functions in the aquatic pelagic environment 
+
+data availability
+
+the datasets generated for this study can be found in ncbi
+sequence read archive samn –samn and
+samn –samn 
+
+author contributions
+
+kr j ml cw and h pg designed the study cw and ar
+collected the sample cw kj and kr j performed the analysis 
+kr j and h pg wrote the manuscript all authors helped to
+revise the manuscript 
+
+funding
+
+the leibniz association funded this study as part of the atkim
+ saw iow and mycolink saw igb projects
+as well as the microprime project dfg gr 
+
+acknowledgments
+
+the authors thank ulrich struck for his contribution to the poc
+data in addition the authors acknowledge the reviewers for their
+valuable comments and suggestions 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmicb 
+ full supplementary material
+
+references
+ahumada rudolph r novoa v and becerra j morphological
+
+response to salinity temperature and ph changes by marine fungus
+epicoccum nigrum environ monit assess doi s 
+ 
+
+arroyo a s lópez escardó d kim e ruiz trillo i and najle s r 
+novel diversity of deeply branching holomycota and unicellular holozoans
+revealed by metabarcoding in middle paraná river argentina front ecol evol 
+ doi fevo 
+
+bálint m schmidt p a sharma r thines m and schmitt i an
+illumina metabarcoding pipeline for fungi ecol evol – doi 
+ ece 
+
+blomberg a and adler l “physiology of osmotolerance in fungi ” in
+advances in microbial physiology amsterdam elsevier – doi 
+ s 
+
+booth t and kenkel n “ecological studies of lignicolous marine fungi 
+a distribution model based on ordination and classification ” in the biology
+of marine fungi ed s t moss cambridge cambridge university press 
+ – 
+
+camacho c coulouris g avagyan v ma n papadopoulos j bealer k et al 
+ blast architecture and applications bmc bioinformatics 
+doi 
+
+celepli n sundh j ekman m dupont c l yooseph s bergman b et al 
+ meta omic analyses of baltic sea cyanobacteria diversity community
+structure and salt acclimation environ microbiol – doi 
+ 
+
+comeau a m vincent w f bernier l and lovejoy c novel chytrid
+lineages dominate fungal sequences in diverse marine and freshwater habitats 
+sci rep doi srep 
+
+de vargas c audic s henry n decelle j mahé f logares r et al 
+eukaryotic plankton diversity in the sunlit ocean science doi 
+ science 
+
+dodt m roehr j ahmed r and dieterich c flexbar—flexible
+barcode and adapter processing for next generation sequencing platforms 
+biology – doi biology 
+
+frenken t alacid e berger s a bourne e c gerphagnon m grossart 
+h p et al integrating chytrid fungal parasites into plankton ecology 
+research gaps and needs environ microbiol – doi 
+ 
+
+geib s m jimenez gasco mdel m carlson j e tien m jabbour r 
+and hoover k microbial community profiling to investigate
+transmission of bacteria between life stages of the wood boring beetle 
+
+anoplophora glabripennis microb ecol – doi s 
+ 
+
+gleason f h kagami m lefevre e and sime ngando t the ecology
+of chytrids in aquatic ecosystems roles in food web dynamics fungal biol rev 
+ – doi j fbr 
+
+gleason f h küpper f c amon j p picard k gachon c m m 
+marano a v et al zoosporic true fungi in marine
+ecosystems a review mar freshw res – doi mf
+ 
+
+gleason f h and lilje o structure and function of fungal zoospores 
+ecological implications fungal ecol – doi j funeco 
+ 
+
+grasshoff k erhardt m and kremling k v methods of seawater
+analysis weinheim verlag chemie 
+
+grossart h p and rojas jimenez k aquatic fungi targeting the
+forgotten in microbial ecology curr opin microbiol – doi 
+ j mib 
+
+grossart h p p wurzbacher c james t y and kagami m discovery
+of dark matter fungi in aquatic ecosystems demands a reappraisal of the
+phylogeny and ecology of zoosporic fungi fungal ecol – doi 
+j funeco 
+
+hassett b t ducluzeau a l l collins r e and gradinger r 
+spatial distribution of aquatic marine fungi across the western arctic
+and sub arctic environ microbiol – doi 
+ 
+
+herlemann d p labrenz m jürgens k bertilsson s waniek j j and
+andersson a f transitions in bacterial communities along the 
+km salinity gradient of the baltic sea isme j – doi ismej 
+ 
+
+hu y o karlson b charvet s and andersson a f diversity of pico 
+to mesoplankton along the km salinity gradient of the baltic sea front 
+microbiol doi fmicb 
+
+jeffries t c curlevski n j brown m v harrison d p doblin m a 
+petrou k et al partitioning of fungal assemblages across different
+marine habitats environ microbiol rep – doi 
+ 
+
+jennings d h some aspects of the physiology and biochemistry
+of marine fungi biol rev – doi j x tb 
+ x
+
+kagami m de bruin a ibelings b w and van donk e 
+parasitic chytrids their effects on phytoplankton communities and food 
+web dynamics hydrobiologia – doi s 
+ z
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org articles fmicb full supplementary material
+https doi org s 
+https doi org s 
+https doi org fevo 
+https doi org ece 
+https doi org ece 
+https doi org s 
+https doi org s 
+https doi org 
+https doi org 
+https doi org 
+https doi org srep 
+https doi org science 
+https doi org science 
+https doi org biology 
+https doi org 
+https doi org 
+https doi org s 
+https doi org s 
+https doi org j fbr 
+https doi org mf 
+https doi org mf 
+https doi org j funeco 
+https doi org j funeco 
+https doi org j mib 
+https doi org j mib 
+https doi org j funeco 
+https doi org j funeco 
+https doi org 
+https doi org 
+https doi org ismej 
+https doi org ismej 
+https doi org fmicb 
+https doi org 
+https doi org 
+https doi org j x tb x
+https doi org j x tb x
+https doi org s z
+https doi org s z
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+kagami m helmsing n r and van donk e parasitic chytrids
+could promote copepod survival by mediating material transfer from
+inedible diatoms hydrobiologia – doi s 
+ z
+
+kagami m miki t and takimoto g mycoloop chytrids in
+aquatic food webs front microbiol doi fmicb 
+ 
+
+kahle d and wickham h ggmap spatial visualization with ggplot r j 
+ – doi rj 
+
+kautsky l and kautsky n “the baltic sea including bothnian
+sea and bothnian bay ” in seas at the millennium an environmental
+evaluation regional chapters europe the americas and west
+africa ed c r c sheppard cambridge ma academic press 
+ – 
+
+kettner m t rojas jimenez k oberbeckmann s labrenz m and grossart 
+h p microplastics alter composition of fungal communities in
+aquatic ecosystems environ microbiol – doi 
+ 
+
+kozich j j westcott s l baxter n t highlander s k and schloss p d 
+ development of a dual index sequencing strategy and curation pipeline
+for analyzing amplicon sequence data on the miseq illumina sequencing
+platform appl environ microbiol – doi aem 
+ 
+
+kutty s n and philip r marine yeasts—a review yeast – 
+doi yea 
+
+lemke w kuijpers a hoffmann g milkert d and atzler r the darss
+sill hydrographic threshold in the southwestern baltic late quaternary geology
+and recent sediment dynamics cont shelf res – doi 
+ 
+
+leshem t letcher p m powell m j and sukenik a characterization
+of a new chytrid species parasitic on the dinoflagellate peridinium gatunense 
+mycologia – doi 
+
+li w and godzik a cd hit a fast program for clustering and comparing
+large sets of protein or nucleotide sequences bioinformatics – 
+doi bioinformatics btl 
+
+logares r bråte j bertilsson s clasen j l shalchian tabrizi k 
+and rengefors k infrequent marine–freshwater transitions in the
+microbial world trends microbiol – doi j tim 
+ 
+
+maier m a and peterson t d enumeration of parasitic chytrid
+zoospores in the columbia river via quantitative pcr appl environ microbiol 
+ – doi aem 
+
+mohamed d j and martiny j b h patterns of fungal diversity and
+composition along a salinity gradient isme j – doi ismej 
+ 
+
+nercessian o noyes e kalyuzhnaya m g lidstrom m e and
+chistoserdova l bacterial populations active in metabolism of
+c compounds in the sediment of lake washington a freshwater lake 
+appl environ microbiol – doi aem 
+ 
+
+nikolcheva l g cockshutt a m and bärlocher f determining
+diversity of freshwater fungi on decaying leaves comparison of traditional and
+molecular approaches appl environ microbiol – doi 
+aem 
+
+oksanen j blanchet f g friendly m kindt r legendre p mcglinn d et al 
+ vegan community ecology package r package version – available
+at http cran rproject org package vegan
+
+picard k t coastal marine habitats harbor novel early diverging
+fungal diversity fungal ecol – doi j funeco 
+ 
+
+prevost boure n c christen r dequiedt s mougel c lelievre m 
+jolivet c et al validation and application of a pcr primer
+set to quantify fungal communities in the soil environment by real 
+time quantitative pcr plos one e doi journal pone 
+ 
+
+pruesse e peplies j and glöckner f o sina accurate high throughput
+multiple sequence alignment of ribosomal rna genes bioinformatics –
+ doi bioinformatics bts 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al 
+the silva ribosomal rna gene database project improved data processing
+and web based tools nucleic acids res d –d doi nar 
+gks 
+
+rämä t hassett b t and bubnova e arctic marine fungi from
+filaments and flagella to operational taxonomic units and beyond bot mar 
+ – doi bot 
+
+ramírez camejo l a zuluaga montero a lázaro escudero m hernández 
+kendall v and bayman p phylogeography of the cosmopolitan
+fungus aspergillus flavus is everything everywhere fungal biol – 
+doi j funbio 
+
+r core team r a language and environment for statistical computing 
+vienna r foundation for statistical computing 
+
+reissmann j h burchard h feistel r hagen e lass h u mohrholz v 
+et al vertical mixing in the baltic sea and consequences for
+eutrophication – a review prog oceanogr – doi j pocean 
+ 
+
+richards t a jones m d m leonard g and bass d marine fungi 
+their ecology and molecular diversity ann rev mar sci – doi 
+ annurev marine 
+
+richards t a leonard g mahé f del campo j romac s jones m d m 
+et al molecular diversity and distribution of marine fungi across 
+european environmental samples proc r soc b biol sci doi 
+ rspb 
+
+rieck a herlemann d p jürgens k and grossart h p 
+particle associated differ from free living bacteria in surface waters
+of the baltic sea front microbiol doi fmicb 
+ 
+
+rojas jimenez k wurzbacher c bourne e c chiuchiolo a priscu j c 
+and grossart h p early diverging lineages within cryptomycota and
+chytridiomycota dominate the fungal communities in ice covered lakes of the
+mcmurdo dry valleys antarctica sci rep doi s 
+ w
+
+shearer c a descals e kohlmeyer b kohlmeyer j marvanová l padgett d 
+et al fungal biodiversity in aquatic habitats biodivers conserv 
+ – doi s z
+
+taylor j d and cunliffe m multi year assessment of coastal planktonic
+fungi reveals environmental drivers of diversity and abundance isme j 
+ – doi ismej 
+
+tedersoo l bahram m põlme s kõljalg u yorou n s wijesundera r 
+et al global diversity and geography of soil fungi science 
+doi science 
+
+telesh i v and khlebovich v v principal processes within the estuarine
+salinity gradient a review mar pollut bull – doi j 
+marpolbul 
+
+tisthammer k h cobian g m and amend a s global biogeography
+of marine fungi is shaped by the environment fungal ecol – doi 
+ j scitotenv 
+
+wang y guo x zheng p zou s li g and gong j distinct
+seasonality of chytrid dominated benthic fungal communities in the neritic
+oceans bohai sea and north yellow sea fungal ecol – doi 
+j funeco 
+
+wasmund n tuimala j suikkanen s vandepitte l and kraberg a 
+ long term trends in phytoplankton composition in the western and
+central baltic sea j mar syst – doi j jmarsys 
+ 
+
+witkowski a broszinski a bennike o janczak kostecka b jensen j b 
+lemke w et al darss sill as a biological border in the fossil record
+of the baltic sea evidence from diatoms quat int – doi j 
+quaint 
+
+wurzbacher c and grossart h p improved detection and identification
+of aquatic fungi and chitin in aquatic environments mycologia – 
+doi 
+
+wurzbacher c rösel s rychła a and grossart h p p importance
+of saprotrophic freshwater fungi for pollen degradation plos one e 
+doi journal pone 
+
+wurzbacher c warthmann n bourne e attermeyer k allgaier m 
+powell j r et al high habitat specificity in fungal
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https doi org s z
+https doi org s z
+https doi org fmicb 
+https doi org fmicb 
+https doi org rj 
+https doi org 
+https doi org 
+https doi org aem 
+https doi org aem 
+https doi org yea 
+https doi org 
+https doi org 
+https doi org 
+https doi org bioinformatics btl 
+https doi org j tim 
+https doi org j tim 
+https doi org aem 
+https doi org ismej 
+https doi org ismej 
+https doi org aem 
+https doi org aem 
+https doi org aem 
+https doi org aem 
+http cran rproject org package vegan
+https doi org j funeco 
+https doi org j funeco 
+https doi org journal pone 
+https doi org journal pone 
+https doi org bioinformatics bts 
+https doi org nar gks 
+https doi org nar gks 
+https doi org bot 
+https doi org j funbio 
+https doi org j pocean 
+https doi org j pocean 
+https doi org annurev marine 
+https doi org annurev marine 
+https doi org rspb 
+https doi org rspb 
+https doi org fmicb 
+https doi org fmicb 
+https doi org s w
+https doi org s w
+https doi org s z
+https doi org ismej 
+https doi org science 
+https doi org j marpolbul 
+https doi org j marpolbul 
+https doi org j scitotenv 
+https doi org j scitotenv 
+https doi org j funeco 
+https doi org j funeco 
+https doi org j jmarsys 
+https doi org j jmarsys 
+https doi org j quaint 
+https doi org j quaint 
+https doi org 
+https doi org journal pone 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb march time 
+
+rojas jimenez et al fungi in the baltic sea
+
+communities in oligo mesotrophic temperate lake stechlin north 
+east germany mycokeys – doi mycokeys 
+ 
+
+wurzbacher c m bärlocher f and grossart h p p fungi in lake
+ecosystems aquat microb ecol – doi ame 
+
+zhang t wang n f zhang y q liu h y and yu l y diversity and
+distribution of aquatic fungal communities in the ny Ålesund region microb 
+ecol – doi s 
+
+zuluaga montero a ramírez camejo l rauscher j and bayman p 
+marine isolates of aspergillus flavus denizens of the deep or lost at sea fungal
+ecol – 
+
+conflict of interest statement the authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest 
+
+copyright © rojas jimenez rieck wurzbacher jürgens labrenz and grossart 
+this is an open access article distributed under the terms of the creative commons
+attribution license cc by the use distribution or reproduction in other forums
+is permitted provided the original author s and the copyright owner s are credited
+and that the original publication in this journal is cited in accordance with accepted
+academic practice no use distribution or reproduction is permitted which does not
+comply with these terms 
+
+frontiers in microbiology www frontiersin org march volume article 
+
+https doi org mycokeys 
+https doi org mycokeys 
+https doi org ame 
+https doi org s 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+	a salinity threshold separating fungal communities in the baltic sea
+	introduction
+	materials and methods
+	results and discussion
+	conclusion
+	originality significance statement
+	data availability
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

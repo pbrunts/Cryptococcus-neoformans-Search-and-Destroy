@@ -1,0 +1,1568 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contrasting the relative importance of species sorting and dispersal limitation in shaping marine bacterial versus protist communities
+
+
+original article
+
+contrasting the relative importance of species
+sorting and dispersal limitation in shaping marine
+bacterial versus protist communities
+
+wenxue wu hsiao pei lu akash sastri yi chun yeh gwo ching gong 
+wen chen chou and chih hao hsieh 
+ institute of oceanography national taiwan university taipei taiwan biology department and ocean
+networks canada university of victoria victoria british columbia canada department of biological
+sciences university of southern california los angeles ca usa institute of marine environment and
+ecology national taiwan ocean university keelung taiwan department of life science institute of
+ecology and evolutionary biology national taiwan university taipei taiwan research center for
+environmental changes academia sinica taipei taiwan and national center for theoretical sciences 
+taipei taiwan
+
+a central challenge in microbial ecology is to understand the underlying mechanisms driving
+community assembly particularly in the continuum of species sorting and dispersal limitation 
+however little is known about the relative importance of species sorting and dispersal limitation in
+shaping marine microbial communities especially how they are related to organism types traits and
+water depth here we used variation partitioning and null model analysis to compare mechanisms
+driving bacterial and protist metacommunity dynamics at the basin scale in the east china sea based
+on miseq paired end sequencing of s ribosomal dna rdna and s rdna respectively in
+surface deep chlorophyll maximum and bottom layers our analyses indicated that protist
+communities were governed more strongly by species sorting relative to dispersal limitation than
+were bacterial communities this pattern was consistent across the three depth layers albeit to
+different degrees furthermore we detected that bacteria exhibited wider habitat niche breadths than
+protists whereas passive dispersal abilities were not appreciably different between them our
+findings support the ‘size plasticity’ hypothesis smaller organisms bacteria are less environment
+filtered than larger organisms protists as smaller organisms are more likely to be plastic in
+metabolic abilities and have greater environmental tolerance 
+the isme journal – doi ismej published online november 
+
+introduction
+
+microbial biogeography which has greatly advanced
+because of the rapid progress in dna sequencing
+technologies concerns the distribution of microor 
+ganisms across space and aims to identify under 
+lying mechanisms which generate variation in
+community composition that is beta diversity 
+ martiny et al as one of the most common
+biogeographic patterns the distance decay of com 
+munity similarity nekola and white suggests
+potential driving forces underlying community
+assembly nemergut et al from the meta 
+community perspective leibold et al 
+winegardner et al the strength of distance 
+
+decay of community similarity is influenced by both
+selective and non selective processes vellend 
+ more specifically species sorting dispersal
+limitation alongside drift mass effect and drift
+ acting alone impose effects jointly on the distance 
+decay pattern stegen et al bahram et al 
+ among these mass effect likely has a minor
+role in the assembly of microbial communities
+separated by relatively long distances for example 
+marine biogeography at basin scale in this study 
+thus species sorting and dispersal limitation are the
+two major processes that determine the distance 
+decay pattern when communities are surveyed at a
+large spatial scale with long between site distances
+ hanson et al whereas drift weakens
+the distance decay pattern via homogenizing
+communities 
+
+in a relative sense the importance of species
+sorting versus dispersal limitation may vary 
+depending on types or traits of organisms cottenie 
+ astorga et al ragon et al padial
+
+correspondence c h hsieh institute of oceanography national
+taiwan university no section roosevelt road taipei 
+taiwan 
+e mail chsieh ntu edu tw
+received march revised august accepted 
+september published online november 
+
+the isme journal – 
+© international society for microbial ecology all rights reserved 
+www nature com ismej
+
+http dx doi org ismej 
+mailto chsieh ntu edu tw
+http www nature com ismej
+
+
+et al for instance de bie et al 
+showed that body size and dispersal mode were two
+key characteristics determining metacommunity
+structures of pond organisms ranging from bacteria
+to fish soininen et al showed that prokar 
+yotic bacteria and eukaryotic phytoplankton and
+zooplankton plankton communities in small
+finnish lakes were differently assembled by envir 
+onmental and dispersal driven processes linking
+organism types and or traits to the relative impor 
+tance of species sorting and dispersal limitation is
+therefore essential for a deeper understanding of
+community assembly and may provide insights into
+how environmental factors act on biotic commu 
+nities in the context of climate change soininen 
+ in this study we focus on marine bacterial
+and protist communities which represent two
+pivotal components in the marine microbial food
+web delong and karl pomeroy et al 
+although previous studies have explored metacom 
+munity dynamics for marine microorganisms
+ langenheder and ragnarsson wang et al 
+ yeh et al wu et al the extent to
+which species sorting and dispersal limitation drive
+patterns at different trophic levels or organism types
+has not been adequately explored importantly as
+bacteria and protists have relatively comparable
+attributes for example small body size and short
+generation time examining community assemblies
+of bacteria and protists should yield a better resolved
+linking of metacommunity dynamics to differences
+in organism attributes 
+
+despite their comparative traits massana and
+logares bacteria and protists however 
+exhibit fine differences in body size metabolic
+activity and dispersal potential delong et al 
+ keeling and del campo which may
+exert an influence on the relative importance of
+species sorting and dispersal limitation two parti 
+cular hypotheses the ‘size plasticity’ and ‘size 
+dispersal’ hypotheses emphasize metabolic strate 
+gies and dispersal abilities respectively in structur 
+ing communities composed of different sizes of
+organisms farjalla et al the size plasticity
+hypothesis argues that smaller organisms are less
+environment filtered than larger organisms because
+smaller organisms are more likely to have plasticity
+in metabolic abilities and therefore exist widely in
+diverse habitats finlay langenheder et al 
+ in contrast the size dispersal hypothesis
+predicts that smaller organisms are more likely
+affected by species sorting than dispersal limitation 
+because smaller organisms can disperse almost
+everywhere cottenie beisner et al 
+shurin et al and thus only reflect the
+environmental effects farjalla et al these
+two hypotheses were initially explored for contrast 
+ing microscopic and macroscopic organisms how 
+ever we suggest that the underlying ecological
+principles can be applied to bacterial and protist
+community assemblies specifically when
+
+considering differences in metabolic strategies and
+body sizes of bacteria versus protists for example 
+bacteria have a vast metabolic versatility whereas
+protists are metabolically less flexible massana and
+logares and bacteria are generally smaller
+than protists kirchman therefore according
+to the size plasticity hypothesis the strength of
+species sorting in bacterial communities compared
+with that of protist communities may be weaker
+because of their stronger metabolic plasticity in
+contrast and in view of the size dispersal hypoth 
+esis the strength of species sorting in bacterial
+communities can be stronger because bacteria of
+smaller size have higher dispersal abilities than
+protists which weakens the role of dispersal
+limitation 
+
+in this study our aim is to compare the relative
+importance of species sorting and dispersal limita 
+tion in structuring bacterial versus protist commu 
+nities we carried out a three dimensional survey by
+sampling the surface sur deep chlorophyll max 
+imum dcm and bottom bot layers in the east
+china sea ecs importantly previous studies
+concerning marine metacommunity dynamics have
+largely ignored the three dimensional nature 
+although metacommunities are structured by either
+vertical or horizontal directions in the ocean zinger
+et al de vargas et al sunagawa et al 
+ we specifically designed a sampling scheme
+to collect bacteria and protists simultaneously from
+the same set of locations across a large environ 
+mental gradient and water masses simultaneous
+sampling is crucial for comparative studies because
+the relative strength of species sorting and dispersal
+limitation varies across environmental conditions
+ yeh et al bacterial and protist communities
+were determined with miseq paired end sequencing
+for s ribosomal dna rdna and s rdna 
+respectively these community data were then
+applied to test the size plasticity and size dispersal
+hypotheses for metacommunity dynamics of bacteria
+versus protists we examined the idea that differ 
+ences in organism traits such as metabolic strategies
+and dispersal abilities matter for the relative
+strength of species sorting and dispersal limitation
+between microorganism groups 
+
+materials and methods
+
+sample collection and environmental variables
+our sampling nearly covered the entire ecs basin
+ supplementary figure s pairwise distances
+between sampling sites ranged from to km 
+our sampling design with a between site distance over
+ km is likely sufficient for capturing a clear
+microbial biogeography in the open ocean hewson
+et al given the large size of a typical coherent
+water parcel within which communities are relatively
+consistent in marine ecosystems fuhrman et al 
+ moreover our sampling design acknowledges
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+the issue that biogeographic patterns and the interac 
+tion between species sorting and dispersal limitation
+are dictated by the spatial scale of the observations
+ rahbek soininen et al 
+
+a total of water samples were collected during
+ – august using go flo bottles on a ctd 
+equipped rosette sea bird electronics bellevue 
+wa usa sampling targeted the following three 
+depth layers which encompassed distinct physico 
+chemical conditions sur samples dcm 
+samples and bot samples bot samples were
+only collected from stations with bot depths
+o m supplementary figure s and
+supplementary table s we did not include bot
+samples from stations with greater bot depths for
+example station k with a depth of m 
+supplementary figure s into the bot metacom 
+munity because those communities are not well
+connected with other shallower bot samples we
+also note that the sur and dcm overlapped in 
+samples as the chlorophyll maximum coincided
+with the sur water layer at these stations all sur
+samples were taken from m depth whereas the
+dcm and bot samples were collected at varying
+depths ranging from to m and to m 
+respectively depending on the oceanography and
+bot depth of the station for each sampling a – 
+l water sample was continuously filtered through
+two size fractions and μm using μm
+polycarbonate membranes millipore billerica ma 
+usa for a coarse separation of protist and bacterial
+cells filtering was completed within h of each
+sampling filters were frozen in liquid nitrogen
+onboard and stored at − °c until dna extraction 
+
+temperature and salinity were measured using a
+ctd profiler chlorophyll a nutrients nh no 
+no po and sio and dissolved oxygen were
+measured at each sampling depth according to
+standard methods gong et al whereas
+dissolved inorganic carbon total alkalinity and field
+ph measurements were carried out as described by
+chou et al 
+
+dna sequencing and sequence processing
+the v –v region of bacterial s rdna cai et al 
+ and v region of protist s rdna stoeck et al 
+ were separately amplified using the total
+environmental dna see supplementary methods 
+sequencing was performed using the v chemistry on
+a miseq producing × bp paired end read config 
+uration illumina san diego ca usa the sequence
+data were processed using the quantitative insights
+into microbial ecology qiime v pipeline
+ caporaso et al see supplementary methods 
+for both s rdna and s rdna data quality 
+filtered reads were clustered into operational taxo 
+nomic units otus at identity using sumaclust
+ mercier et al further analyses based on the
+ and cut offs were performed in parallel to
+examine the robustness of our findings at different
+
+taxonomic resolutions see supplementary results 
+ martin et al the representative sequences of
+otus were assigned at a phylum level taxonomic
+rank using blast e value − against the silva
+ quast et al see supplementary results
+and supplementary figure s a and pr database
+ guillou et al see supplementary results and
+supplementary figure s b the raw sequence data
+have been deposited in the ncbi sequence read
+archive under the accession numbers prjna 
+and prjna 
+
+community variation over environmental and spatial
+gradients
+to assess the distance decay of community similar 
+ity we compared bray–curtis similarity —bray–
+curtis dissimilarity and geographic distance
+matrices the bray–curtis similarities were based
+on bacterial and protist otu tables subsampled 
+times hereafter bootstrap sensu yeh et al to
+a minimum number of sequences from each sample
+ for bacterial communities and for
+protist communities supplementary table s 
+geographic distances were determined based on
+the latitude and longitude of each station we related
+the geographic distances and the bray–curtis simila 
+rities by linear regression significance of the
+relationship was tested using distance based redun 
+dancy analysis legendre and anderson 
+which is more reliable at analyzing community
+variation than mantel’s test mcardle and
+anderson 
+
+variation partitioning and null model analysis
+to tease apart the relative importance of species
+sorting and dispersal limitation we performed
+variation partitioning two way permutational multi 
+variate analyses of variance mcardle and anderson 
+ and null model analysis stegen et al 
+variation partitioning focuses on decomposing beta
+diversity of the whole metacommunity in the region 
+whereas the null model analysis examines the
+pairwise metacommunities these two frameworks
+provide complementary information logue et al 
+ meynard et al vellend et al 
+langenheder et al and it is difficult to
+evaluate which one is better 
+
+variation partitioning was carried out to partition
+the community variation pairwise bray–curtis dis 
+similarity into environmental effects principal
+component analysis of environmental variables 
+and spatial effects using moran’s eigenvector maps 
+ wu et al for the environmental and spatial
+effects the numbers of axes were determined
+according to the kaiser–guttman rule see scripts
+in supplementary file s the pure environmental
+variation without a spatial component e s repre 
+sents the strength of species sorting the pure spatial
+variation without an environmental component
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+ s e is interpreted as the effect of dispersal
+limitation the explained variance fractions are
+based on adjusted fractions which account for the
+number of variables and sample sizes the signifi 
+cance of each component via partitioning was
+evaluated with the permutation test except for the
+interaction component e∩s and residuals which
+cannot be tested statistically legendre to
+evaluate the relative importance of species sorting
+versus dispersal limitation we compared the ratio of
+ e s s e that is sorting dispersal effect ratio 
+rather than their absolute values the comparison 
+based on the ratio can distinguish the dominance of
+species sorting and dispersal limitation in a relative
+sense however comparing absolute values of these
+two components between different types of organ 
+isms is problematic because cross system compar 
+ison assumes that the amount of noise stegen et al 
+ and sizes of species pool kraft et al are
+similar between systems both of which cannot hold
+in our data sets 
+
+null model analysis was carried out using the
+framework of stegen et al see scripts in
+supplementary file s to classify community pairs
+into underlying driving forces of species sorting 
+dispersal limitation mass effect and drift the
+analyses were performed using a single rarefied
+otu table for both bacterial a minimum of 
+sequences and protist sequences commu 
+nities and the null model expectation was generated
+using randomizations to make variation parti 
+tioning and null model analysis comparable we also
+estimated the sorting dispersal effect ratio using the
+percent of pairwise communities governed by spe 
+cies sorting the percent of pairwise communities
+governed by dispersal limitation all of the statistical
+analyses described above were implemented with
+the r program r core team 
+
+habitat niche breadth
+niche breadth is a crucial trait that influences the
+relative importance of species sorting and dispersal
+
+limitation affecting communities pandit et al 
+ an organism group with wider niche breadth
+can be expected to be more metabolically flexible at
+the community level niche breadth was calculated
+according to pandit et al using levins’ niche
+breadth index b 
+
+bj ¼ 
+xn
+
+i¼ 
+p ij
+
+where bj represents the habitat niche breadth of otu
+j in a metacommunity n is the total number of
+communities of each metacommunity pij is the
+proportion of otu j in community i a high
+b indicates that the otu occurs widely and
+evenly along a wide range of locations representing
+wide habitat niche breadth we calculated
+the average b values from all taxa in a single
+community bcom as an indicator of habitat niche
+breadth at the community level to contrast the
+overall difference in the bulk bcom values for
+bacterial and protist communities we used a
+generalized linear mixed effect model glmm using
+depth layer as a random effect with the lme package
+for r bates et al in addition differences of
+bcom values between bacterial and protist commu 
+nities in each layer were provided and tested with
+analysis of variance 
+
+dispersal ability
+dispersal ability is also a critical trait that influences
+differences in the relative effects of species sorting
+and dispersal limitation de bie et al 
+although bacteria and protists are likely to be
+ubiquitous we suspect that bacteria may have a
+greater dispersal capacity than protists because of
+their smaller body sizes as can be partly supported
+by observations that protists are less likely to be
+globally dispersed bass et al to estimate
+dispersal ability of each taxon passively driven by
+water movements we calculated the pairwise
+shared proportion of sequence numbers and used
+
+geographic distance m log 
+
+c
+om
+
+m
+un
+
+ity
+ s
+
+im
+ila
+
+rit
+y
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sur
+dcm
+bot
+
+geographic distance m log 
+
+c
+om
+
+m
+un
+
+ity
+ s
+
+im
+ila
+
+rit
+y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+figure distance decay curves showing bray–curtis similarity based on the average of bootstraps between pairs of communities
+ a bacteria b protists against geographic distances log transformed between sampling sites solid lines indicate significant correlation
+tested by distance based redundancy analysis the results are based on a sequence similarity cut off 
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+the average shared proportion as a proxy for
+dispersal d a higher shared proportion of
+sequences indicates a more successful passive trans 
+port by currents yeh et al again the overall
+difference in the bulk d values for bacteria and
+protists were tested by glmm using depth layer as a
+random effect in addition results in each layer were
+provided with additional comparisons analysis of
+variance 
+
+results
+
+distance decay of community similarity
+we observed a consistent decay of community
+similarity with geographic distance for both bacterial
+and protist communities in sur dcm and bot
+ figure the slopes of distance decay curves were
+steeper for bacteria sur dcm bot 
+than those for protists sur dcm 
+bot in all three depth layers environmental vari 
+ables were characterized by strong inshore–offshore
+gradients supplementary figure s which were
+significantly related to community dissimilarities
+ supplementary figure s 
+
+quantifying the relative effects of species sorting and
+dispersal limitation
+the sorting dispersal effect ratios figure were
+consistently higher in protist communities regardless
+of the depth layer variation partitioning sur 
+ dcm bot null model sur 
+dcm than in bacterial communities variation
+partitioning sur dcm bot null
+model sur dcm according to
+variation partitioning all the pure effects of environ 
+mental and spatial variables that is e s and s e 
+were significant po supplementary
+figure s except for the pure environmental
+fraction in the dcm for bacteria supplementary
+figure s b null model analysis revealed a negli 
+gible proportion of dispersal effect for the bot
+protists supplementary figure s these results
+
+indicated that protist communities were more gov 
+erned by species sorting relative to dispersal limita 
+tion than bacterial communities 
+
+to compare metacommunity dynamics across
+sur dcm and bot we further carried out analyses
+using only the common stations stations where
+samples were taken in all three layers 
+supplementary figure s these analyses for the
+subset of common stations showed patterns similar
+to the findings based on the whole data set 
+indicating that our conclusion is not biased by the
+unequal sample sizes among depth layers
+ supplementary figure s for variation partition 
+ing we found that for bacteria the effect of dispersal
+limitation increased with increasing depth
+ supplementary figures s a–c by contrast for
+protists the effect of species sorting increased with
+increasing depth supplementary figures s d–f 
+overall the differences in sorting dispersal effect
+ratio between bacteria and protists became larger
+with increasing depth bacteria protists at
+sur at dcm at bot 
+supplementary figure s note similar comparison
+of sorting dispersal effect ratios based on the null
+model analysis could not be achieved because we
+found that of protist community pairs were
+assembled by dispersal limitation in both sur and
+bot supplementary figure s 
+
+niche breadth and dispersal ability
+the bulk community habitat niche breadths bcom 
+for bacterial communities were significantly higher
+than that of protist communities glmm inclusive
+of all three layers po figure in all three
+layers the mean bcom values for bacterial commu 
+nities sur dcm bot were higher
+than that for protist communities sur 
+dcm bot 
+
+the bulk dispersal abilities d for bacterial
+communities were slightly higher than that of protist
+communities glmm inclusive of all three layers 
+po figure bacterial communities 
+
+s
+or
+
+tin
+g 
+
+di
+sp
+
+er
+sa
+
+l e
+ffe
+
+ct
+ ra
+
+tio
+
+sur dcm bot
+
+ 
+
+ 
+
+ 
+
+ 
+
+ bacteria
+protist
+
+s
+or
+
+tin
+g 
+
+di
+sp
+
+er
+sa
+
+l e
+ffe
+
+ct
+ ra
+
+tio
+
+sur dcm bot
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+figure the sorting dispersal effect ratio a variation partitioning b null model analysis of bacterial versus protist communities in
+sur dcm and bot layers for null model analysis in the case protist communities in bot where the proportion of community pairs
+assembled by dispersal limitation was we recalculated the sorting dispersal effect ratio using a proportion of which represents
+only pair of communities classified as dispersal limitation the results are based on a sequence similarity cut off 
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+sur dcm bot showed signifi 
+cantly higher d than protist communities 
+sur dcm bot at the dcm and
+bot but not at the sur however the differences
+were not substantial 
+
+qualitatively similar results were obtained when
+considering the common stations supplementary
+figure s for the three depth layers glmm with
+layer as random effect po that is bacteria
+generally had much wider habitat niche breadths
+than protists supplementary figure s and
+bacteria exhibited greater dispersal abilities than
+protists although the difference is not that substan 
+tial supplementary figure s 
+
+as a sensitivity test we repeated the analyses
+based on and sequence similarity cut offs 
+the results of sorting dispersal effect ratio habitat
+niche breadth and dispersal ability at and 
+sequence similarity cut offs were consistent with
+those based on the cut off supplementary
+figure s 
+
+discussion
+
+community assembly of bacteria versus protists
+in this study we detected lower sorting dispersal
+effect ratios for bacterial communities relative to
+protist communities in all three depth layers
+ figure indicating that protist communities were
+more governed by species sorting relative to dis 
+persal limitation than were bacterial communities 
+this pattern supports the size plasticity hypothesis 
+smaller organisms bacteria are less environment
+filtered than larger organisms protists farjalla
+et al 
+
+to explain this pattern we quantified the
+community level habitat niche breadth figure 
+and dispersal ability figure for bacteria versus
+protists in the ecs we found that bacteria generally
+had wider niche breadths than protists this finding
+was in agreement with pandit et al indicat 
+ing that habitat generalists with wider niche breadths
+were less influenced by environmental factors in
+
+h
+ab
+
+ita
+t n
+
+ic
+he
+
+ b
+re
+
+ad
+th
+
+ b
+co
+
+m
+ 
+
+sur dcm bot
+
+bacteria protist
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bacteria protist
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bacteria protist
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+figure boxplots illustrating mean habitat niche breadth from all taxa based on a sequence similarity in each sample bcom of
+bacterial versus protist communities in a sur b dcm and c bot layers the bulk bcom values for bacteria are significantly higher
+than that of protists glmm with layer as random effect po the significant difference between bacterial versus protist
+communities in each layer is further marked with an asterisk in brackets po 
+
+p
+er
+
+ce
+nt
+
+ag
+e 
+
+ 
+ 
+
+sur dcm bot
+
+bacteria protist
+
+ 
+
+ 
+
+ 
+
+ 
+
+bacteria protist
+
+ 
+
+ 
+
+ 
+
+ 
+
+bacteria protist
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+figure boxplots showing mean shared proportions of sequences of bacterial and protist communities based on a sequence
+similarity in a sur b dcm and c bot layers a greater proportion indicates greater dispersal ability of organisms in general the
+bulk shared proportions for bacteria are significantly higher than that of protists glmm with layer as random effect po the
+significant difference between bacterial versus protist communities in each layer is further marked with an asterisk in brackets po 
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+fact the wider niche breadth of bacteria might imply
+greater metabolic plasticity for example some
+marine bacteria can even survive in freshwater
+environments comte et al 
+
+an alternative explanation for this pattern may be
+related to dormancy strategies which are more
+commonly observed in bacteria than protists jones
+and lennon massana and logares 
+dormancy is an essential metabolic strategy for
+microbial cells to cope with environmental stresses 
+as dormant cells are likely to be less susceptible to
+selection processes lennon and jones 
+nemergut et al for bacteria in various
+environments o of the cells in a given
+community are in an active stage at any time
+ locey in fact marine bacterioplankton are
+often found to be dormant gasol et al by
+contrast a dormancy strategy might have a minor
+role for protists jones and lennon although
+protists do have the ability to form dormant stages
+ for example cysts eggs and spores it is possible
+that protist communities are more responsive to
+species sorting than bacterial communities because
+protists have a more limited tendency to enter
+dormancy massana and logares however 
+it is difficult to distinguish the effects of dormancy
+and the aforementioned metabolic plasticity on
+community assembly as the wider niche breadth of
+bacterial taxa may also result from their greater
+potential for dormancy 
+
+in addition to wider niche breadth we found that
+bacteria have slightly higher dispersal abilities than
+protists figure however this difference is not
+substantial compared with the large difference in
+niche breadth figure more importantly our
+results do not support the size dispersal hypothesis 
+that is bacteria even with slightly higher dispersal
+abilities do not reflect more environmental influ 
+ence than protists in the ecs 
+
+a few caveats should be considered in the
+interpretation of our findings which contrast the
+community assembly of bacteria versus protists 
+first one may argue that a large proportion of
+variation remains unexplained for both bacterial and
+protist communities in the variation partitioning
+ supplementary figures s and s the unex 
+plained variation may be largely attributed to
+unmeasured environmental variables however the
+unexplained variation in our study is in fact lower
+than that in previous studies for example 
+langenheder and ragnarsson hájek et al 
+ de bie et al farjalla et al 
+second the drift that results from stochastic differ 
+ences in population size birth and death rates
+ stegen et al may exhibit differential influ 
+ences on bacterial and protist metacommunity
+dynamics kirchman for instance bacteria
+generally have greater population sizes than protists
+and are therefore generally less influenced by drift
+ at and cut offs supplementary figures s 
+and s which may then influence the strength of
+
+dispersal limitation that operates alongside drift
+ stegen et al in addition we acknowledge
+that biotic interactions are omitted in our analyses 
+although these forces for example prey–predator
+interaction competition are important as a part of
+species sorting horner devine et al 
+jeganmohan et al berga et al for
+instance differences in selective grazing and trophic
+levels between prey bacteria and predator protists 
+may obscure our ability to reliably quantify species
+sorting effects livingston et al 
+
+as a note we wish to emphasize the rationale of
+using the sorting dispersal effect ratio rather than
+the absolute values accounting for sorting and
+dispersal to evaluate the relative importance of
+species sorting and dispersal limitation when com 
+paring different types of organisms if we had only
+compared the absolute values of dispersal effect
+between protist and bacterial communities
+ supplementary figure s we would conclude that
+the bacterial communities were more dispersal
+limited than the protist communities this conclu 
+sion contradicts the finding based on dispersal
+capacity figure logically it is impossible to
+conclude that bacteria simultaneously have higher
+dispersal capacities and experience stronger disper 
+sal limitation thus we made the comparison based
+on the sorting dispersal effect ratio instead of
+absolute values representing species sorting and
+dispersal limitation in variation partitioning and
+null model analysis 
+
+variation of metacommunity dynamics across depths
+based on the analyses of the common stations we
+found that with increasing depth sur versus bot 
+protists were increasingly affected by species sorting
+relative to dispersal limitation that is the difference
+in the sorting dispersal effect ratio between bacteria
+and protists became larger with depth
+ supplementary figures s and s two scenarios
+may explain this contrast first the effect of dispersal
+limitation for bacteria increased with depth relative
+to protists and or second the effect of species
+sorting for protists increased with depth relative to
+bacteria these two scenarios need not be mutually
+exclusive notably owing to the overlap of the sur
+and dcm samples out of supplementary
+figure s we only consider sur and bot in
+comparison across depths 
+
+in the scenario the pure effect of dispersal
+limitation in bacterial communities increased con 
+siderably from sur to bot for example 
+supplementary figures s a s c s a and s c 
+considering patch connectivity driven by wind
+dispersal horváth et al this pattern indi 
+cated that the degree of patch connectivity among
+ecs sampling sites decreased with depth because of
+the effect of wind decaying from the shallow to deep
+layers in contrast the pure effect of dispersal
+limitation was not vertically enhanced with depth
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+in protist communities for example supplementary
+figures s d s f s a and s c we speculate that
+patch connectivity regarding dispersal limitation
+may have a less critical role in the vertical variation
+of protist communities because of their weaker
+dispersal capability supplementary figure s 
+
+in scenario the pure effect of species sorting in
+protist communities increased from sur to bot for
+example supplementary figures s d s f s a and
+s c which is mainly supplied by factors including
+bot depth o and no supplementary figure s f 
+supplementary table s we suggest that the bot
+depth is likely a proxy representing how strongly the
+hydrographic conditions in the bot layer were
+influenced by sediment characteristics koop et al 
+ given that all bot communities are close to
+sediments o m supplementary table s the
+effect of o may be related to coastal hypoxia which
+has been commonly observed in the ecs during
+summer chen et al in line with our results 
+orsi et al observed that protist communities
+were strongly shaped by o gradients in an anoxic
+fjord in the coast of vancouver island british
+columbia furthermore no can act as an alter 
+native electron accepter in o deficient waters and
+thus the no patterns may influence protist commu 
+nities by involving microbial nitrogen cycling pro 
+cesses in the o deficient bot lam and kuypers 
+ orsi et al in contrast with the pattern
+for protist communities the pure effects of species
+sorting in bacterial communities did not increase
+from sur to bot supplementary figures s a and
+s c or exhibited a relatively modest increase
+ supplementary figures s a and s c this may be
+related to wider habitat niche breadth that is higher
+environmental tolerances of bacterial taxa
+ supplementary figure s that would complicate
+environment community relationships farjalla
+et al 
+
+notably the interpretation above relies on the
+absolute values of sorting and dispersal effects for
+bacteria or protist communities in different depth
+layers for this comparison to make sense the
+amount of noise is assumed to be consistent for
+communities of different layers for a given type of
+organism 
+
+concluding remarks
+in the ecs protist communities were governed to a
+greater extent by species sorting relative to dispersal
+limitation than bacterial communities this result is
+robust across taxonomic resolutions from to
+ sequence similarity cut offs and depth layers
+ sur dcm and bot these contrasting patterns
+may be attributed to differences in habitat niche
+breadth bacteria protists and dormancy ten 
+dency bacteria protists between bacteria and
+protists moreover we detected that the difference in
+the sorting dispersal effect ratio between protists and
+bacteria became larger in deeper layers suggesting
+
+that the relative effect of dispersal limitation on
+bacterial communities increased with increasing
+depth whereas the relative effect of species sorting
+was enhanced for protist communities from a
+biogeography perspective our results highlight the
+importance of considering organism characteristics
+and vertical structures of hydrographic conditions
+for studying metacommunity dynamics in marine
+ecosystems 
+
+conflict of interest
+
+the authors declare no conflict of interest 
+
+acknowledgements
+we thank fan sian lin and ching wei hsu for sampling
+and hon tsen yu for providing facilities and advice on
+laboratory work we thank the genome research center in
+national yang ming university for illumina miseq sequen 
+cing service this work was supported by the national
+center for theoretical sciences foundation for the
+advancement of outstanding scholarship and the minis 
+try of science and technology taiwan 
+
+references
+astorga a oksanen j luoto m soininen j virtanen r 
+
+muotka t distance decay of similarity in
+freshwater communities do macro and microorgan 
+isms follow the same rules glob ecol biogeogr 
+ – 
+
+bahram m kohout p anslan s harend h abarenkov k 
+tedersoo l stochastic distribution of small soil
+eukaryotes resulting from high dispersal and drift in a
+local environment isme j – 
+
+bass d richards ta matthai l marsh v cavalier 
+smith t dna evidence for global dispersal
+and probable endemicity of protozoa bmc evol biol 
+ 
+
+bates d mächler m bolker b walker s fitting
+linear mixed effects models using lme j stat softw
+ – 
+
+beisner be peres neto pr lindström es barnett a 
+longhi ml the role of environmental and
+spatial processes in structuring lake communities from
+bacteria to fish ecology – 
+
+berga m Östman Ö lindström es langenheder s 
+combined effects of zooplankton grazing and dispersal
+on the diversity and assembly mechanisms of bacterial
+metacommunities environ microbiol – 
+
+cai l ye l tong ahy lok s zhang t biased
+diversity metrics revealed by bacterial s pyrotags
+derived from different primer sets plos one 
+e 
+
+caporaso jg kuczynski j stombaugh j bittinger k 
+bushman fd costello ek et al qiime allows
+analysis of high throughput community sequencing
+data nat methods – 
+
+chen c c gong g c shiah f k hypoxia in the
+east china sea one of the largest coastal low oxygen
+areas in the world mar environ res – 
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+chou w c gong g c yang c y chuang k y a
+comparison between field and laboratory ph measure 
+ments for seawater on the east china sea shelf limnol
+oceanogr methods – 
+
+comte j lindström es eiler a langenheder s 
+can marine bacteria be recruited from freshwater
+sources and the air isme j – 
+
+cottenie k integrating environmental and spatial
+processes in ecological community dynamics ecol lett
+ – 
+
+de bie t de meester l brendonck l martens k 
+goddeeris b ercken d et al body size and
+dispersal mode as key traits determining metacommu 
+nity structure of aquatic organisms ecol lett 
+ – 
+
+de vargas c audic s henry n decelle j mahe f 
+logares r et al eukaryotic plankton diversity
+in the sunlit ocean science 
+
+delong ef karl dm genomic perspectives in
+microbial oceanography nature – 
+
+delong jp okie jg moses me sibly rm brown jh 
+ shifts in metabolic scaling production and
+efficiency across major evolutionary transitions of life 
+proc natl acad sci usa – 
+
+farjalla vf srivastava ds marino nac azevedo fd 
+dib v lopes pm et al ecological determinism
+increases with organism size ecology – 
+
+finlay bj global dispersal of free living microbial
+eukaryote species science – 
+
+fuhrman ja cram ja needham dm marine
+microbial community dynamics and their ecological
+interpretation nat rev microbiol – 
+
+gasol jm del giorgio pa massana r duarte cm 
+active versus inactive bacteria size dependence in a
+coastal marine plankton community mar ecol prog ser
+ – 
+
+gong g c shiah f k liu k k wen y h liang m h 
+ spatial and temporal variation of chlorophyll a 
+primary productivity and chemical hydrography in the
+southern east china sea cont shelf res – 
+
+guillou l bachar d audic s bass d berney c bittner l
+et al the protist ribosomal reference database
+ pr a catalog of unicellular eukaryote small sub unit
+rrna sequences with curated taxonomy nucleic
+acids res d –d 
+
+hájek m roleček j cottenie k kintrová k horsák m 
+poulíčková a et al environmental and spatial
+controls of biotic assemblages in a discrete semi 
+terrestrial habitat comparison of organisms with
+different dispersal abilities sampled in the
+same plots j biogeogr – 
+
+hanson ca fuhrman ja horner devine mc martiny jbh 
+ beyond biogeographic patterns processes
+shaping the microbial landscape nat rev microbiol
+ – 
+
+hewson i steele ja capone dg fuhrman ja 
+temporal and spatial scales of variation in bacterio 
+plankton assemblages of oligotrophic surface waters 
+mar ecol prog ser – 
+
+horner devine mc silver jm leibold ma bohannan
+bjm colwell rk fuhrman ja et al a
+comparison of taxon co occurrence patterns for macro 
+and microorganisms ecology – 
+
+horváth z vad cf ptacnik r wind dispersal
+results in a gradient of dispersal limitation and
+environmental match among discrete aquatic habitats 
+ecography – 
+
+jeganmohan s tucker c cadotte mw coloniza 
+tion rates in a metacommunity altered by competition 
+plos one e 
+
+jones se lennon jt dormancy contributes to the
+maintenance of microbial diversity proc natl acad sci
+usa – 
+
+keeling pj del campo j marine protists are not just
+big bacteria curr biol r –r 
+
+kirchman dl growth rates of microbes in
+the oceans ann rev mar sci – 
+
+koop k boynton wr wulff f carman r 
+sediment water oxygen and nutrient exchanges along
+a depth gradient in the baltic sea mar ecol prog ser
+ – 
+
+kraft njb comita ls chase jm sanders nj swenson ng 
+crist to et al disentangling the drivers of β
+diversity along latitudinal and elevational gradients 
+science – 
+
+lam p kuypers mmm microbial nitrogen cycling
+processes in oxygen minimum zones ann rev mar sci
+ – 
+
+langenheder s lindström es tranvik lj weak
+coupling between community composition and
+functioning of aquatic bacteria limnol oceanogr 
+ – 
+
+langenheder s ragnarsson h the role of
+environmental and spatial factors for the composition
+of aquatic bacterial communities ecology 
+ – 
+
+langenheder s wang j karjalainen sm laamanen tm 
+tolonen kt vilmi a et al bacterial metacom 
+munity organization in a highly connected aquatic
+system fems microbiol ecol fiw 
+
+legendre p studying beta diversity ecological
+variation partitioning by multiple regression and
+canonical analysis j plant ecol – 
+
+legendre p anderson mj distance based redun 
+dancy analysis testing multispecies responses in
+multifactorial ecological experiments ecol monogr
+ – 
+
+leibold ma holyoak m mouquet n amarasekare p 
+chase jm hoopes mf et al the metacommu 
+nity concept a framework for multi scale community
+ecology ecol lett – 
+
+lennon jt jones se microbial seed banks the
+ecological and evolutionary implications of dormancy 
+nat rev microbiol – 
+
+livingston g fukumori k provete db kawachi m 
+takamura n leibold ma predators
+regulate prey species sorting and spatial
+distribution in microbial landscapes j anim ecol 
+ – 
+
+locey kj synthesizing traditional biogeography
+with microbial ecology the importance of dormancy 
+j biogeogr – 
+
+logue jb mouquet n peter h hillebrand h 
+empirical approaches to metacommunities a review
+and comparison with theory trends ecol evol 
+ – 
+
+martin gk adamowicz sj cottenie k taxonomic
+resolution based on dna barcoding affects environ 
+mental signal in metacommunity structure freshw sci
+ – 
+
+martiny jbh bohannan bjm brown jh colwell rk 
+fuhrman ja green jl et al microbial biogeo 
+graphy putting microorganisms on the map nat rev
+microbiol – 
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+
+
+massana r logares r eukaryotic versus prokar 
+yotic marine picoplankton ecology environ microbiol
+ – 
+
+mcardle bh anderson mj fitting multivariate
+models to community data a comment on distance 
+based redundancy analysis ecology – 
+
+mercier c boyer f bonin a coissac e sumatra
+and sumaclust fast and exact comparison and
+clustering of sequences available http metabarcod
+ing org sumatra 
+
+meynard cn lavergne s boulangeat i garraud l 
+van es j mouquet n et al disentangling the
+drivers of metacommunity structure across spatial
+scales j biogeogr – 
+
+nekola jc white ps the distance decay of
+similarity in biogeography and ecology j biogeogr 
+ – 
+
+nemergut dr schmidt sk fukami t o’neill sp 
+bilinski tm stanish lf et al patterns and
+processes of microbial community assembly microbiol
+mol biol rev – 
+
+orsi w song yc hallam s edgcomb v effect of
+oxygen minimum zone formation on communities of
+marine protists isme j – 
+
+padial aa ceschin f declerck saj de meester l 
+bonecker cc lansac tôha fa et al dispersal
+ability determines the role of environmental spatial
+and temporal drivers of metacommunity structure 
+plos one e 
+
+pandit sn kolasa j cottenie k contrasts between
+habitat generalists and specialists an empirical exten 
+sion to the basic metacommunity framework ecology
+ – 
+
+pomeroy l williams pj azam f hobbie j the
+microbial loop oceanography – 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p
+et al the silva ribosomal rna gene database
+project improved data processing and web 
+based tools nucleic acids res – 
+
+r core team r a language and environment for
+statistical computing r foundation for statistical
+computing vienna austria available at http 
+www r project org 
+
+ragon m fontaine mc moreira d lópez garcía p 
+different biogeographic patterns of prokaryotes and
+microbial eukaryotes in epilithic biofilms mol ecol 
+ – 
+
+rahbek c the role of spatial scale and the
+perception of large scale species richness patterns 
+ecol lett – 
+
+shurin jb cottenie k hillebrand h spatial
+autocorrelation and dispersal limitation in freshwater
+organisms oecologia – 
+
+soininen j a quantitative analysis of species
+sorting across organisms and ecosystems ecology 
+ – 
+
+soininen j korhonen jj karhu j vetterli a 
+disentangling the spatial patterns in community
+composition of prokaryotic and eukaryotic lake plank 
+ton limnol oceanogr – 
+
+stegen jc lin x fredrickson jk chen x kennedy dw 
+murray cj et al quantifying community
+assembly processes and identifying features that
+impose them isme j – 
+
+stoeck t bass d nebel m christen r jones mdm 
+breiner h w et al multiple marker parallel tag
+environmental dna sequencing reveals a highly
+complex eukaryotic community in marine anoxic
+water mol ecol – 
+
+sunagawa s coelho lp chaffron s kultima jr labadie k 
+salazar g et al structure and function of the
+global ocean microbiome science 
+
+vellend m conceptual synthesis in community
+ecology q rev biol – 
+
+vellend m srivastava ds anderson km brown cd 
+jankowski je kleynhans ej et al assessing the
+relative importance of neutral stochasticity in ecologi 
+cal communities oikos – 
+
+wang k ye x chen h zhao q hu c he j et al 
+bacterial biogeography in the coastal waters of north 
+ern zhejiang east china sea is highly controlled by
+spatially structured environmental gradients environ
+microbiol – 
+
+winegardner ak jones bk ng isy siqueira t cottenie k 
+ the terminology of metacommunity ecology 
+trends ecol evol – 
+
+wu w logares r huang b hsieh c abundant and
+rare picoeukaryotic sub communities present contrast 
+ing patterns in the epipelagic waters of marginal seas
+in the northwestern pacific ocean environ microbiol
+ – 
+
+yeh y c peres neto pr huang s w lai y c tu c y 
+shiah f k et al determinism of bacterial
+metacommunity dynamics in the southern east china
+sea varies depending on hydrography ecography 
+ – 
+
+zinger l amaral zettler la fuhrman ja horner 
+devine mc huse sm welch dbm et al global
+patterns of bacterial beta diversity in seafloor and
+seawater ecosystems plos one e 
+
+supplementary information accompanies this paper on the isme journal website http www nature com ismej 
+
+community assembly of bacteria versus protists
+w wu et al
+
+ 
+
+the isme journal
+
+http metabarcoding org sumatra
+http metabarcoding org sumatra
+http www r project org 
+http www r project org 
+
+	title link
+	introduction
+	materials and methods
+	sample collection and environmental variables
+	dna sequencing and sequence processing
+	community variation over environmental and spatial gradients
+	variation partitioning and null model analysis
+	habitat niche breadth
+	dispersal ability
+
+	distance decay curves showing bray x curtis similarity based on the average of bootstraps between pairs of communities a bacteria b protists against geographic distances log transformed between sampling sites solid lines indicate sig
+	results
+	distance decay of community similarity
+	quantifying the relative effects of species sorting and dispersal limitation
+	niche breadth and dispersal ability
+
+	the sorting dispersal effect ratio a variation partitioning b null model analysis of bacterial versus protist communities in sur dcm and bot layers for null model analysis in the case protist communities in bot where the proportion of community 
+	discussion
+	community assembly of bacteria versus protists
+
+	boxplots illustrating mean habitat niche breadth from all taxa based on a sequence similarity in each sample bcom of bacterial versus protist communities in a sur b dcm and c bot layers the bulk bcom values for bacteria are significantly h
+	boxplots showing mean shared proportions of sequences of bacterial and protist communities based on a sequence similarity in a sur b dcm and c bot layers a greater proportion indicates greater dispersal ability of organisms in general t
+	variation of metacommunity dynamics across depths
+	concluding remarks
+
+	we thank fan sian lin and ching wei hsu for sampling and hon tsen yu for providing facilities and advice on laboratory work we thank the genome research center in national yang ming university for illumina miseq sequencing service this work was supporte
+	acknowledgements
+
+
+
+
+

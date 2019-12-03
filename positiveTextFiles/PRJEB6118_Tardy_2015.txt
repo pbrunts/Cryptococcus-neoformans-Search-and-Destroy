@@ -1,0 +1,1107 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+land use history shifts in situ fungal and bacterial successions following wheat straw input into the soil
+
+
+research article
+
+land use history shifts in situ fungal and
+bacterial successions following wheat straw
+input into the soil
+vincent tardy abad chabbi xavier charrier christophe de berranger 
+tiffanie reignier samuel dequiedt céline faivre primot sébastien terrat 
+lionel ranjard pierre alain maron 
+
+ inra umr agroecology dijon france centre de recherche poitou charentes inra lusignan 
+france inra plateforme genosol umr agroecology dijon france
+
+ pamaron dijon inra fr
+
+abstract
+soil microbial communities undergo rapid shifts following modifications in environmental
+
+conditions although microbial diversity changes may alter soil functioning the in situ tem 
+poral dynamics of microbial diversity is poorly documented here we investigated the
+
+response of fungal and bacterial diversity to wheat straw input in a months field experi 
+
+ment and explored whether this response depended on the soil management history grass 
+
+land vs cropland seasonal climatic fluctuations had no effect on the diversity of soil
+
+communities contrastingly fungi and bacteria responded strongly to wheat regardless of
+
+the soil history after straw incorporation diversity decreased due to the temporary domi 
+
+nance of a subset of copiotrophic populations while fungi responded as quickly as bacteria 
+
+the resilience of fungal diversity lasted much longer indicating that the relative involvement
+
+of each community might change as decomposition progressed soil history did not affect
+
+the response patterns but determined the identity of some of the populations stimulated 
+
+most strikingly the bacteria burkholderia lysobacter and fungi rhizopus fusarium were
+selectively stimulated given the ecological importance of these microbial groups as
+
+decomposers and or plant pathogens such regulation of the composition of microbial suc 
+
+cessions by soil history may have important consequences in terms of soil carbon turnover
+
+and crop health 
+
+introduction
+soils are highly complex heterogeneous matrices which shelter a huge diversity of organisms
+ with thousands of different species hosted per gram of soil microbial communities
+account for a large part of this biodiversity as a major component of the biosphere soil
+also offers a support for plant and animal development human activities and is directly
+exposed to variations in climatic conditions it is consequently a dynamic environment and
+
+plosone doi journal pone june 
+
+a 
+
+open access
+
+citation tardy v chabbi a charrier x de
+berranger c reignier t dequiedt s et al 
+land use history shifts in situ fungal and bacterial
+successions following wheat straw input into the
+soil plos one e doi 
+journal pone 
+
+editor eiko eurya kuramae netherlands institute of
+ecology nioo knaw netherlands
+
+received december 
+
+accepted may 
+
+published june 
+
+copyright © tardy et al this is an open
+access article distributed under the terms of the
+creative commons attribution license which permits
+unrestricted use distribution and reproduction in any
+medium provided the original author and source are
+credited 
+
+data availability statement all relevant data are
+within the paper and its supporting information files 
+
+funding this work was supported by the agence
+nationale de recherche anr as part of the anr
+systerra project dimimos anr stra and
+by a grant from the regional council of burgundy it
+benefited from the technical facilities of the genosol
+platform of the infrastructure anaee france
+ analysis and experimentations on ecosystems 
+anr project ‘investments for the future’ anr 
+inbs as well as from the ore acbb http 
+www soere acbb com index php fr the funders had
+
+http crossmark crossref org dialog doi journal pone domain pdf
+http creativecommons org licenses by 
+http www soere acbb com index php fr 
+http www soere acbb com index php fr 
+
+
+there is a considerable body of evidence that soil microbial diversity responds strongly to
+changes in soil conditions – 
+
+one key example is the pattern of microbial community dynamics induced by the addition
+of organic compounds such as plant debris into the soil – many studies have indeed
+reported a progressive and orderly pattern of community development as regards the concept
+of species succession commonly employed to explain community dynamics in above ground
+terrestrial plant communities most of the community changes occur during the first
+month after the input mainly attributed to fast growing copiotrophic populations that take
+advantage of the readily degradable c compounds i e soluble compounds cellulose hemicel 
+lulose in the plant residues subsequently more specialized slow growing popula 
+tions develop on the remaining recalcitrant c compounds i e lignin due to their greater
+catabolic capacities compared to the early stimulated populations such patterns
+of diversity dynamics have been demonstrated for bacteria and fungi in addition 
+since bacteria are assumed to harbor lower capacities for decomposing recalcitrant compounds
+than fungi it is generally accepted that bacteria dominate the initial stages of decomposi 
+tion whereas fungi dominate the later stages – however this is mainly based on quanti 
+tative estimates of bacterial and fungal communities in contrast studies addressing the
+response of the taxonomic composition of soil bacterial and fungal communities to plant resi 
+dues addition are scarce and the relative contribution of bacterial vs fungal diversity to the dif 
+ferent stages of plant residues decomposition remains poorly documented 
+
+in addition while many studies have shown that land use management – as well as
+plant litter quality i e initial c n ratio lignin content etc are important drivers
+of soil microbial diversity in a given soil it is not known if the response of soil microbial com 
+munities to the addition of a fixed quality of plant residue depends on the soil’s history this
+question is however of major importance since the intensity of the decomposition process and
+the resulting ecosystem services may depend on the diversity of the microbial populations
+responding to the input 
+
+the aim of this study was to investigate the importance of soil management history in the
+response of the taxonomic diversity of bacterial and fungal communities to the incorporation
+of wheat straw for this a field experiment was set up at the long term observatory of lusignan
+ france briefly the site was composed of two adjacent plots each with a particular land use
+history years grassland vs years cropland each plot was subdivided into sub plots 
+three of which were amended with wheat residues while the other three represented
+unamended controls following wheat addition the dynamics of microbial diversity fungal
+and bacterial was followed in each sub plot over a one year period by high throughput
+sequencing of ribosomal genes the site was kept vegetation free throughout the experiment to
+avoid an additional response of microbial communities to plant development to our knowl 
+edge this is the first study of the fine in situ characterization of the response of bacterial and
+fungal diversity to seasonal climatic fluctuations and plant residues addition in relation to the
+soil’s land use history 
+
+materials and methods
+
+site description and sampling
+the field experiment was set up on the long term observatory for environmental research at
+lusignan france soere acbb http www soere acbb com index php fr the soil on the
+site is a loamy textured cambisol and the climate is oceanic with a mean annual temperature
+and precipitation of °c and mm respectively the experimental site was set up in
+two phases first in april the two main plots were established s fig they were each
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+no role in study design data collection and analysis 
+decision to publish or preparation of the manuscript 
+
+competing interests the authors have declared
+that no competing interests exist 
+
+http www soere acbb com index php fr 
+
+
+ × m in size and very close together separated only by a m pathway but strongly con 
+trasted in terms of land use history one plot was set up on a soil that had been under crop
+rotation wheat barley and maize for years with annual tillage herbicide crop treatment
+and nitrogen fertilization ammonium nitrate kg ha year the other plot was set up on
+permanent grassland over years old fertilized ammonium nitrate to kg ha year 
+and harvested to times year for annual forage the vicinity of the two plots was a prereq 
+uisite to ensure that differences in physicochemical and biological properties between the two
+plots were due to land use history and not to spatial heterogeneity each plot grassland and
+cropland was weeded manually shoots and roots in order to remove the effect of plants on
+the soil microbial communities after weeding each plot was divided into six × m sub 
+plots s fig and the site was left for months to stabilize with manual weeding every week to
+remove regrowth seedlings in september the soil from each of the sub plots in each
+grassland and cropland plot was excavated to a depth of cm for each plot soils from of
+the sub plots were amended homogeneously by mixing the excavated soil with wheat residues
+ g per sub plots corresponding to t dry matter ha wheat residues originated from
+mature wheat plants harvested days after sowing cultivated under controlled conditions
+ groupe de recherches appliquées en phytotechnologie cea cadarache france the roots
+were separated from the shoots which were then oven dried at °c for h and cut to obtain
+straw residues cm in length the c n ratio determined for wheat was elementar ana 
+lyser euro ea eurovector milano italia the soil from the other sub plots was also
+mixed but without addition of wheat straw after mixing the amended and non amended
+soils were returned to their respective sub plots in this way the site was finally composed of
+two plots each representing a particular land use history grassland vs cropland with two
+treatments per plot represented by triplicate wheat straw amended sub plots and triplicate
+non amended control sub plots 
+
+to avoid horizontal transfers of organic matter between control and amended sub plots a
+protective tarp was buried to cm depth around the control sub plots in addition polyethyl 
+ene safety nets with × mm diamond mesh were placed on the wheat straw amended sub 
+plots to avoid migration of surface applied residues via runoff soil sampling was carried out
+regularly from september to september with more frequent sampling during the
+first month following wheat straw incorporation this represented a total of sampling dates 
+t date of wheat straw addition t t t t t t t t and t days 
+corresponding to soil samples replicates× treatments× plots× dates after sam 
+pling the soil was sieved to mm lyophilized and stored at °c before dna extraction in
+addition part of the soil sampled at t was air dried for analysis of particle size distribution 
+ph soil organic carbon soc total nitrogen n tot soil c n ratio soil organic matter
+ som phosphorous and cation exchange capacity cec soil physicochemical properties
+were determined by the soil analysis laboratory of inra arras france http www lille 
+inra fr las 
+
+dna extraction and molecular microbial biomass determination
+microbial dna was extracted from g of all soil samples using a single procedure stan 
+dardized by the genosol platform http www dijon inra fr plateforme genosol dna
+concentrations of crude extracts were determined by electrophoresis in agarose gel using a
+calf thymus dna standard curve and used as estimates of microbial molecular biomass 
+after quantification dna was purified using a minelute gel extraction kit qiagen courta 
+boeuf france 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+http www lille inra fr las
+http www lille inra fr las
+http www dijon inra fr plateforme genosol
+
+
+pyrosequencing of s and s rrna gene sequences
+bacterial and fungal diversities were determined at each sampling date for each triplicate treat 
+ment amended and control of each land use history grassland and cropland by pyrose 
+quencing of ribosomal genes for bacteria a s rrna gene fragment with sequence variability
+and the appropriate size about bases for pyrosequencing was amplified by pcr using
+primers f and r for fungi an s rrna gene fragment of about bases was ampli 
+fied using primers fr and ff primers and pcr conditions were as described previously
+ the pcr products were purified using a minelute gel extraction kit qiagen courtaboeuf 
+france and quantified using the picogreen staining kit molecular probes paris france a
+second pcr of cycles was then conducted under similar pcr conditions with purified pcr
+products and ten base pair multiplex identifiers added to the primers at ’ position to specifi 
+cally identify each sample and avoid pcr bias finally the pcr products were purified and
+quantified as previously described pyrosequencing was then carried out on a gs flx tita 
+nium roche sequencing system 
+
+bioinformatics analysis of s and s rrna gene sequences
+bioinformatics analyses were done using the gns pipe developed by the genosol platform
+ inra dijon france and initially described by terrat et al first all reads were sorted
+according to the chosen identifiers sequences the raw reads were then filtered and deleted
+based on their a length b number of ambiguities ns and c primer s sequence s 
+perl programs were then applied to obtain strict dereplication alignment of reads using infer 
+nal alignments and clustered at sequence similarity into operational taxonomic units
+ otu that cluster rare reads with abundant ones and do not count differences in homopoly 
+mer lengths another homemade filtering step was then applied to eliminate potential sources
+of errors e g pcr chimeras sequencing errors otu overestimation in order to efficiently
+compare the datasets and avoid biased community comparisons the samples reads were
+reduced by random selection closed to the lowest datasets and reads for s and
+ s rrna gene sequences respectively the retained high quality reads were used for i tax 
+onomy independent analyses to determine diversity indices using the defined otu composi 
+tion and ii taxonomy based analysis using similarity approaches against dedicated reference
+databases from silva r for s and r for s the raw data sets are available on the
+ebi database system under project accession number prjeb 
+
+statistical analysis
+differences in microbial communities structure between control and wheat incorporated plots
+within a given land use history were characterized using unifrac distances non metric
+multidimensional scaling nmds was used to graphically depict differences between micro 
+bial communities analysis of similarity anosim permutations was used to test the sig 
+nificance of the observed clustering of samples on the ordination plot according to soil history 
+the difference in change of the microbial communities in response to wheat straw between the
+two land use histories was interpreted as the magnitude of the unifrac distance between the
+control and the amended plots for each sampling date and was calculated as follows magnitude
+of modifications for each sampling date and land use history average of inter unifrac dis 
+tances control plots soil incorporated plots – average of intra unifrac distances control
+plots average of intra unifrac distances soil incorporated plots 
+
+heat maps were built up by applying the heatmap function implemented in the gplots r
+package to the relative abundance values of the most dominant bacterial and fungal phyla
+across the samples relative abundance for the analysis the datasets soil histories 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+were analysed together so the mean values of z scores are from the total dataset each row was
+scaled so that the mean of each taxonomic group across sample types was calculated and col 
+ored according to the corresponding z score all these analyses were performed with the r free
+software http www r project org 
+
+physicochemical parameters diversity metrics unifrac distance and relative abundance
+were compared between treatments and land use histories by two way anova and the differ 
+ences between them by fisher test p all these statistical calculations were carried out
+using xlstat software addinsoft 
+
+results
+
+soil physicochemical characteristics
+soil texture corresponded to a loamy sand soil table and did not differ between the grass 
+land and cropland plots in contrast soil chemical properties were slightly but significantly
+modified by land use history with higher values of som soc n tot soil c n and cec in
+grassland soil whereas ph and phosphorous content were higher in the cropland soil no sig 
+nificant difference was observed between cropland and grassland soil for soil microbial biomass
+ table 
+
+impact of land use history and seasonal climatic variations on soil
+microbial diversity
+pyrosequencing yielded a total of and sequences of s and s rdna
+with and quality sequences per sample respectively diversity indices calculated
+from the sequence datasets obtained from control plots without wheat addition showed that 
+overall both bacterial and fungal richnesses were higher in cropland plots than in grassland
+
+table soil physicochemical characteristics and soil microbial molecular biomass according to land use history at t 
+
+parameters units grassland cropland
+
+physicochemical
+
+clay g kg ± a ± b 
+
+fine silt g kg ± a ± a 
+
+coarse silt g kg ± a ± a 
+
+fine sand g kg ± a ± a 
+
+coarse sand g kg ± a ± a 
+
+ph ± a ± b 
+
+soc g kg ± a ± b 
+
+n tot g kg ± a ± b 
+
+soil c n ratio ± a ± b 
+
+som g kg ± a ± b 
+
+phosphorous g kg ± a ± b 
+
+cec cmol kg ± a ± b 
+
+biological
+
+smb μg na g ± a ± a 
+
+abbreviations soc soil organic carbon n tot soil total nitrogen som soil organic matter cec cation exchange capacity smb soil microbial
+
+molecular biomass 
+
+values are means n ± standard errors 
+
+letters in brackets indicate significant differences between cropland and grassland according to fisher test p 
+
+doi journal pone t 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+http www r project org 
+
+
+plots whatever the sampling dates fig contrastingly bacterial evenness was similar in the
+two soils whereas fungal evenness was lower in grassland than in cropland soil interestingly 
+bacterial and fungal diversity indices did not vary significantly during the month experi 
+ment whatever the soil history 
+
+nmds analysis of the full bacterial fig a and fungal sequences datasets fig b 
+highlighted distinct microbial community structure between the control subplots depending
+on the land use history confirmed by pairwise anosim test r p for bacteria
+and r p for fungi a difference between the two soils was also observed at the
+otu level with only of bacterial and fungal otu being shared at t data not shown 
+the taxonomic affiliation of s and s rdna sequences at t showed that overall the
+microbial phyla distribution within these two soils was dominated by proteobacteria followed
+by actinobacteria firmicutes acidobacteria bacteroidetes and chloroflexi for bacteria and by
+basidiomycota and ascomycota for fungi however the difference between the two soils was
+mainly due to an increase in the relative proportions of proteobacteria to actino 
+bacteria to acidobacteria to and basidiomycota to in
+grassland as compared to cropland soil which harbored higher relative proportions of gemma 
+timonadetes to chloroflexi to nitrospirae to and ascomycota
+ to 
+
+as observed for the diversity indices bacterial and fungal structures fig in the controls
+did not change significantly during the experiment with all sampling dates being grouped
+together on the factorial map this stability of the microbial communities was also observed
+when the bacterial taxonomic composition was analysed at both phylum fig and genus lev 
+els s and s figs 
+
+fig dynamics of bacterial a and c and fungal b and d richness and evenness during the month experiment in control full line and wheat 
+amended plots dashed line for each soil history grassland grey and cropland black error bars denote standard deviation of biological replicates
+ n symbols in superscript indicate significant differences according to fisher test p between control and corresponding wheat amended sub 
+plots for each grassland stars and cropland circles history 
+
+doi journal pone g 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+response of soil microbial diversity to wheat residues according to land
+use history
+wheat residues addition led to strong modifications of soil microbial diversity whatever the
+soil history fig all microbial diversity indices bacterial and fungal were decreased during
+the first week following straw incorporation fig except for bacterial richness which was
+
+fig non metric multi dimensional scaling nmds ordination plot derived fromweighted pairwise
+unifrac distances for a bacterial and b fungal communities over time according to soil
+management history cropland squares and grassland circles white labels represent the control
+treatment and grey labels represent the wheat amended treatment numbers represent sampling dates and
+lines correspond to the three replicate samples obtained at each sampling date stress values for the two
+ordination plots were which indicates that these data were well represented by the two dimensional
+representation inset represents magnitude changes in unifrac distance between the control and amended
+sub plots over the year 
+
+doi journal pone g 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+similar in both control and amended treatments irrespective of soil history fig a following
+this first phase of decline the indices then increased and were resilient stabilizing at the level
+of the respective controls however resilience occurred more rapidly for bacteria days for
+bacterial evenness than for fungi days for both fungal richness and evenness in addition 
+the overall amplitude of the modifications in diversity indices was greater for fungi than for
+bacteria 
+
+microbial community structure also responded strongly to wheat addition fig similar
+patterns of community dynamics were observed for bacteria and fungi whatever the soil
+
+fig heat map comparison of bacterial and fungal phyla detected in soils according to landmanagement history cropland and grassland and
+treatments control or amended over time in the amended treatment the white dashed line represents the time of wheat straw input the captions show
+the z scores relative abundances are expressed as median centered z scores between all samples and the colors are scaled to the standard deviations 
+for each sampling date the average relative abundance was obtained from the biological replicates n 
+
+doi journal pone g 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+history characterized by a highly dynamic phase during the first week after wheat addition fol 
+lowed by a slowdown and resilience of community modification the community changes
+peaked after days for both bacteria and fungi whatever the soil history fig as observed for
+the diversity indices however the amplitude of the structural modifications was greater for
+fungi than for bacteria and resilience of the community structure occurred more rapidly for
+bacteria days than for fungi days although the time of occurrence did not depend
+on the land use history fig 
+
+despite the similar community response patterns figs and the community structures
+ bacterial and fungal at each sampling date could still be clearly discriminated between the
+two soils grassland vs cropland indicating that different communities were stimulated by
+wheat residues fig this observation was confirmed by the taxonomic compositions at the
+phyla and genera levels fig s and s figs some microbial phyla responded similarly to
+wheat addition fig in the two soils thus proteobacteria and the group of sequences
+“unclassified” to fungal phyla were both strongly increased during the early stage following res 
+idues input other bacterial phyla such as nitrospira verrumicrobia acidobacteria actino 
+bacteria and planctomycetes were decreased as well as the fungal phyla basidiomycota 
+chytridiomycota and glomeromycota in addition to these “shared response” groups some
+phyla responded specifically according to the soil history for example the early increase of
+fibrobacteres from to days following wheat addition occurred only in the cropland soil
+whereas synergistetes and bacteroidetes increased much later from to days following
+wheat addition and only in grassland soil in the same way ascomycota increased mainly in
+the grassland soil throughout the experiment analysis of taxonomic composition at the genera
+level provided complementary information to the phyla data for instance the general increase
+in proteobacteria was mainly explained by the stimulation of pseudomonas andmassilia 
+whereas lysobacter only increased in the cropland soil and burkholderia only increased in
+grassland soil fig similarly the group of sequences “unclassified” to fungal phyla which
+represented the principal group of stimulated fungal sequences regardless of soil history 
+mainly consisted of populations affiliated tomucor for which the relative abundance increased
+throughout the experiment mortierella which also increased in both soils but just from day
+ to day and rhizopus which increased strongly in cropped soil but not in grassland soil
+ fig 
+
+discussion
+bacterial and fungal diversity and composition differed according to the soil management his 
+tory grassland vs cropland as reported in previous studies in addition discrimina 
+tion between the two soils remained stable throughout the one year experiment highlighting
+the long lasting nature of the changes induced by past land use since the site was
+kept weed free it is likely that the differences in soil properties accounted for a large part of the
+microbial communities discrimination between the two soils – while soil texture was
+similar as expected because of the vicinity of the two plots soil chemical properties differed
+between the grassland and cropland soils thus soc and soil nitrogen content were higher 
+and ph lower in the grassland soil in agreement with other studies accordingly 
+microbial groups previously described as mainly copiotrophic such as proteobacteria 
+or acidophilic such as acidobacteria were more represented in the grassland soil than
+in the cropland soil where oligotrophic groups such as gemmatimonadetes were more repre 
+sented in addition ascomycota one of the most dominant fungal groups in cultivated
+soils dominated the fungal community in the cropland soil contrastingly the abun 
+dance of basidiomycota and actinobacteria both described as k strategists being favored in
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+more stable systems such as forest and natural grassland was increased in the
+grassland soil 
+
+in the controls neither bacterial nor fungal diversity i e richness and evenness nor com 
+position varied significantly during the one year period despite the climatic variations that
+occurred at the experimental site s fig this contrasted with lauber and colleagues who
+evidenced a significant in situ temporal variability of bacterial communities over a month
+period these authors showed however that a large proportion of the seasonal variations in
+bacterial diversity could be explained by the diversity and dynamics of plant cover and the sub 
+sequent regulation of c inputs i e root exudates and plant litter thus the observed stability
+of microbial diversity in our study might be explained by the exclusion of plants interestingly 
+this suggests that under a buffered oceanic climate as is the case at our experimental site the
+dynamics of plant cover rather than climatic variations may shift microbial diversity during
+the seasons 
+
+soil microbial diversity responded strongly to wheat straw incorporation in agreement with
+many other studies focused on the impact of plant litter on soil microbial communities
+ microbial richness and evenness indices showed a transient decrease following
+
+fig dynamics of the relative abundance of some bacterial genera over time according to soil management history cropland and grassland 
+and treatment control dark grey and wheat amended light grey error bars denote standard deviation of biological replicates n asterisks
+indicate significant difference between control and amended treatments at each sampling date according to fisher test p 
+
+doi journal pone g 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+amendment due to the early stimulation of a subset of fast growing bacterial and fungal popu 
+lations developing on the most easily decomposable straw compounds this was in
+agreement with the patterns of community structure that were characterized by an initial early
+and highly dynamic phase followed by a second phase of slower variations leading to a resil 
+ience and stability of both bacterial and fungal communities structure it is noteworthy that for
+a given community i e bacteria or fungi in spite of initial differences in terms of diversity
+and composition neither the variations in diversity indices nor the patterns of community
+structure differed according to the soil management history however the kinetics and ampli 
+tude of community response did differ between bacteria and fungi surprisingly the peak in
+communities’modification for both bacteria and fungi occurred three days after the input 
+indicating that fungi may be as competitive as bacteria for fast development on freshly incorpo 
+rated wheat straw this is not in agreement with the commonly accepted idea that differences
+in physiology and metabolic capacities between bacteria and fungi may confer an advantage to
+bacteria over fungi during the early stages of decomposition however recent stud 
+ies using c labelling of plants also showed that decomposer fungi may contribute signifi 
+cantly to the decomposition of simple root exudates in addition the quality of the
+wheat straw characterized by a high c n may also have contributed to the concomitant 
+
+fig dynamics of the relative abundance of some fungal genera over time according to soil management history cropland and grassland and
+treatment control dark grey and wheat amended light grey error bars denote standard deviation of biological replicates n asterisks indicate a
+significant difference between control and amended sub plots at different sampling dates according to fisher test p 
+
+doi journal pone g 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+early stimulation of bacterial and fungal populations as well as the greater amplitude of the
+diversity modification observed for fungi compared to bacteria indeed fungi are known to be
+better equipped than bacteria for decomposing recalcitrant organic c compounds – and
+the decomposability of the litter entering the soil is likely to be of major importance in deter 
+mining the sequential stimulation of bacteria and fungi during the early phase of decomposi 
+tion in other respects the better enzymatic abilities of fungal populations may explain why
+fungal communities responded up to days whereas modifications of the bacterial commu 
+nities occurred only during the first month days after wheat addition this slower resil 
+ience of fungal diversity as compared to that of bacteria suggests that fungi may dominate the
+latter stages of wheat straw decomposition 
+
+while the patterns of bacterial and fungal diversity indices and communities structure were
+similar regardless of soil history some of the populations entering the successions differed 
+several bacterial phyla such as nitrospira verrumicrobia acidobacteria and planctomycetes 
+were decreased by wheat straw incorporation which was in agreement with other studies
+showing that these phyla are probably mainly composed of oligotrophic slow growing popula 
+tions in addition nitrospira underrepresentation might also be response of reduc 
+tion of nitrogen availability due to high c n material input contrastingly bacteroidetes were
+stimulated by wheat straw but in the latter stages of wheat decomposition i e months after
+wheat addition in agreement with previous results the proteobacteria phylum was
+increased rapidly regardless of the soil history as reported previously this global
+increase was mainly due to the stimulation of two genera occurring in both soils pseudomonas
+andmassilia that had previously been described as mainly copiotrophic bacteria being stimu 
+lated by inputs of wheat straw or more soluble c compounds interestingly in addi 
+tion to these genera burkholderia was enhanced only in the soil with a grassland history
+whereas lysobacter was enhanced only in the soil with a cropland history recent studies also
+reported stimulation of burkholderia species by plant residue inputs into the soil probably
+because of the strong catabolic versatility of these species which enables them to degrade a
+wide range of c compounds including cellulose since this genus is also known to be
+closely associated with plants in the rhizosphere it is likely that the long grassland history 
+characterized by permanent plant cover with a very dense root network may have led to the
+selection of a particular diversity of burkholderia species compared to the adjacent cropland 
+hence explaining the observed discrepancy between the responses of the two soils however 
+differential stimulation of this genusmay be of significance for subsequent crops since many
+burkholderia species are associated with plants in positive i e growth promoting species or
+negative i e pathogens interactions similarly to burkholderia lysobacter is known to
+possess strong lytic abilities to degrade various biomacromolecules however this genus
+has also been shown to decrease with decreasing soil ph which may explain why stimula 
+tion was observed in the cropland soil ph but not in the grassland soil ph alto 
+gether these results suggest that the modulation in diversity of the populations responding to
+plant litter input according to the past history of the soil may be determined either by the
+actual soil properties or by the diversity of the decomposers resulting from past interactions
+with plant cover 
+
+regarding the fungal communities the observed initial decrease of the diversity indices was
+due to the massive increase ofmortierella which represented up to and of the
+sequences identified at t in the cropland and grassland soils respectively this strong stimu 
+lation observed only three days after wheat straw incorporation suggests that this genusmay
+be as competitive as bacteria in decomposing the most decomposable straw c compounds 
+this is in agreement with other reports thatmortierella are fast growing fungi developing on
+substrates rich in simple carbohydrates in addition their ability to produce chitinolytic
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+enzymes may make them successful competitors among other fungi which could explain
+their massive and exclusive development observed at t nevertheless this competitive advan 
+tage may be limited to decomposition of the most soluble wheat compounds sincemortierella
+decreased from t and was replaced by a diversity of other newly stimulated fungi as for bac 
+teria some of these new populations were shared or specifically stimulated depending on the
+soil history for example mucor and chaetomium were stimulated in both soils from t and
+throughout the year of experimentation in agreement with their known contribution to plant
+debris decomposition in soil due to their cellulolytic hemicellulolytic and lignolytic abilities
+ the genus sarocladium was also stimulated in both soils but only transiently with a
+peak observed at t interestingly two fungal genera responded specifically depending on the
+soil history most strikingly rhizopus was very weakly represented in the controls of both soils 
+but responded strongly and lastingly to wheat straw incorporation in the cropland soil repre 
+senting up to of the sequences identified but not in the grassland soil this genus is a com 
+mon soil mold which develops on decomposing plant litter in soil however we cannot
+explain why it only responded in the cropland soil it is possible that this selective stimulation
+could be of significance for the health of subsequent crops since some rhizopus species are
+described as plant pathogens in contrast to rhizopus fusarium was one of the dominant
+fungi in both soils and was strongly stimulated in the grassland soil but not in the cropland
+soil this genus is known be saprophytic widely distributed in soil and often associated with
+plant debris a similar stimulation of fusarium populations following crop residues incor 
+poration and the strong influence of the residues composition on the structure of the fusarium
+community has already been reported here we show that the stimulation of fusarium
+by plant residues may also depend on the past use of the soil in addition to potential repercus 
+sions in terms of carbon mineralization this differential stimulation between the two soils may
+have consequences for subsequent crops since some of the fusarium species are strongly asso 
+ciated with several diseases that cause crop yield losses and mycotoxin contamination of grain
+ however since all fusarium species are not pathogenic additional determination of
+fusarium diversity at the species level would now be needed to determine whether populations
+differentially stimulated were pathogenic or not 
+
+this study provides new insights into the in situ dynamics of the diversity of bacterial and
+fungal communities in soil it shows that seasonal fluctuations of climatic conditions may have
+little impact on the diversity of these communities while long term differences in land use
+management impacted soil microbial diversity they did not affect the patterns of community
+response to wheat straw incorporation in terms of diversity indices and community structure
+variations fungal diversity responded as quickly as bacterial diversity but the resilience of fun 
+gal communities lasted longer which would indicate that whereas bacteria and fungi may both
+play a major role during the initial stages fungi may dominate the latter stages of wheat
+decomposition despite similar response patterns the identity of some of the bacterial and fun 
+gal populations in the successions was dependent on soil history among the specifically stimu 
+lated populations were bacterial and fungal populations of particular ecological importance 
+such as burkholderia or fusarium both recognized for their involvement in the decomposition
+of organic matter but also for their impact on crops health this effect of soil history on popu 
+lation successions during the decomposition of a given quality of plant litter had not been evi 
+denced previously it is however of major importance since it highlights that the diversity of
+microbial decomposers may be driven by soil management history with potential conse 
+quences in terms of plant residues decomposition a transformation of significance for the c 
+balance in the soil environment 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+
+
+supporting information
+s fig organization of the experimental site set up at the soere acbb lusignan 
+france pictures of the cropland a and grassland plot b associated with their respective
+diagrammatic representations c and d the two plots × m were separated by a
+ meters pathway each plot was divided into subplots of m² × with subplots
+amended with wheat straw dotted line and unamended control subplots full line grey
+squares in each subplot correspond to the fix part of gaz sampling chambers 
+ tif 
+
+s fig heat map comparison of bacterial genera relative abundance detected in
+soils according to land management history cropland and grassland and treatments con 
+trol or amended over time in the amended treatment the white dashed line represents the
+time of wheat straw input the legend shows the z scores relative abundances are expressed
+as median centered z scores between all samples and the colors scaled to standard deviations 
+for each sampling date the average of relative abundance was based on the biological replicates
+ n 
+ tif 
+
+s fig heat map comparison of fungal genera relative abundance detected in soils
+according to land management history cropland and grassland and treatments control
+or amended over time in the amended treatment the white dashed line represents the time
+of wheat straw input the legend shows the z scores relative abundances are expressed as
+median centered z scores between all samples and the colors scaled to standard deviations 
+for each sampling date the average of relative abundance was based on the biological replicates
+ n 
+ tif 
+
+s fig changes in the climatic parameters at the site during the year period 
+to precipitation a soil humidity black line and temperature grey line b 
+all these data were provided by the soere acbb http www soere acbb com index php fr 
+ signs × indicate time points when soils were sampled for the biological molecular analysis 
+ tif 
+
+acknowledgments
+this work was supported by the agence nationale de recherche anr as part of the anr
+systerra project dimimos anr stra and by a grant from the regional council of
+burgundy it benefited from the technical facilities of the genosol platform of the infrastruc 
+ture anaee france analysis and experimentations on ecosystems anr project ‘invest 
+ments for the future’ anr inbs as well as from the ore acbb http www 
+soere acbb com index php fr 
+
+the authors have declared that no competing interests exist 
+the funders had no role in study design data collection and analysis decision to publish or
+
+preparation of the manuscript 
+
+author contributions
+conceived and designed the experiments pam lr vt performed the experiments vt pam
+cf sd xc cdb analyzed the data vt contributed reagents materials analysis tools tr vt
+st wrote the paper vt pam ac tr st cf sd xc cdb lr 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+http www plosone org article fetchsinglerepresentation action uri info doi journal pone s 
+http www plosone org article fetchsinglerepresentation action uri info doi journal pone s 
+http www plosone org article fetchsinglerepresentation action uri info doi journal pone s 
+http www plosone org article fetchsinglerepresentation action uri info doi journal pone s 
+http www soere acbb com index php fr 
+http www soere acbb com index php fr 
+http www soere acbb com index php fr 
+
+
+references
+ swift mj andren o brussaard l briones m couteaux m m ekschmitt k et al global change 
+
+soil biodiversity and nitrogen cycling in terrestrial ecosystems three case studies glob change biol
+ – 
+
+ mummey d holbenw six j stahl p spatial stratification of soil bacterial populations in aggre 
+gates of diverse soils microbial ecol – pmid 
+
+ torsvik v Øvreås l microbial diversity and function in soil from genes to ecosystems curr
+opin microbiol – pmid 
+
+ roesch lfw fulthorpe rr riva a casella g hadwin akm kent ad et al pyrosequencing
+enumerates and contrasts soil microbial diversity isme j – pmid 
+
+ gordon h haygarth pm bardgett rd drying and rewetting effects on soil microbial community
+composition and nutrient leaching soil biol biochem – 
+
+ lauber cl ramirez ks aanderud z lennon j fierer n temporal variability in soil microbial
+communities across land use types isme j – doi ismej pmid 
+ 
+
+ tardy v mathieu o lévêque j terrat s chabbi a lemanceau p et al stability of soil micro 
+bial structure and activity depends on microbial diversity environ microbiol rep – doi 
+ pmid 
+
+ mcmahon sk williams ma bottomley pj myrold dd dynamics of microbial communities dur 
+ing decomposition of carbon labeled ryegrass fractions in soil soil sci soc am j – 
+
+ williams ma myrold dd bottomley pj carbon flow from c labeled clover and ryegrass resi 
+dues into a residue associated microbial community under field conditions soil biol biochem –
+ 
+
+ bastian f bouziri l nicolardot b ranjard l impact of wheat straw decomposition on succes 
+sional patterns of soil microbial community structure soil biol biochem – 
+
+ baumann k marschner p smernik rj baldock ja residue chemistry and microbial commu 
+nity structure during decomposition of eucalypt wheat and vetch residues soil biol biochem 
+ – 
+
+ marschner p umar s baumann k the microbial community composition changes rapidly in the
+early stages of decomposition of wheat residue soil biol biochem – 
+
+ pascault n cécillon l mathieu o hénault c sarr a lévêque j et al in situ dynamics of micro 
+bial communities during decomposition of wheat rape and alfalfa residues microbial ecol –
+ doi s pmid 
+
+ pascault n ranjard l kaisermann a bachar d christen r terrat s et al stimulation of differ 
+ent functional groups of bacteria by various plant residues as a driver of soil priming effect ecosystems
+ – 
+
+ mcintosh rp odum ep ecological succession science – pmid 
+
+ bernard l mougel c maron p a nowak v lévêque j henault c et al dynamics and identifi 
+cation of soil microbial populations actively assimilating carbon from c labelled wheat residue as
+estimated by dna and rna sip techniques environ microbiol – pmid 
+
+ voříšková j baldrian p fungal community on decomposing leaf litter undergoes rapid succes 
+sional changes isme j – doi ismej pmid 
+
+ fierer n bradford ma jackson rb toward an ecological classification of soil bacteria ecology
+ – pmid 
+
+ de boer w folman lb summerbell rc boddy l living in a fungal world impact of fungi on soil
+bacterial niche development femsmicrobiol rev – pmid 
+
+ romaní am fischer h mille lindblom c tranvik lj interactions of bacteria and fungi on
+decomposing litter differential extracellular enzyme activities ecology – pmid 
+ 
+
+ poll c marhan s ingwersen j kandeler e dynamics of litter carbon turnover and microbial
+abundance in a rye detritusphere soil biol biochem – 
+
+ van der wal a geydan td kuyper tw de boer w a thready affair linking fungal diversity and
+community dynamics to terrestrial decomposition processes femsmicrobiol rev – doi 
+ pmid 
+
+ kim m kimw s tripathi bm adams j distinct bacterial communities dominate tropical and
+temperate zone leaf litter microb ecol – doi s y pmid 
+ 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http dx doi org 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s y
+http www ncbi nlm nih gov pubmed 
+
+
+ acosta martínez v dowd s sun y allen v tag encoded pyrosequencing analysis of bacterial
+diversity in a single soil type as affected by management and land use soil biol biochem –
+ 
+
+ jangid k williams ma franzluebbers aj sanderlin js reeves jh jenkins mb et al relative
+impacts of land use management intensity and fertilization upon soil microbial community structure in
+agricultural systems soil biol biochem – 
+
+ jangid k williams ma franzluebbers aj schmidt tm coleman dc whitmanwb land use
+history has a stronger impact on soil microbial community composition than aboveground vegetation
+and soil properties soil biol biochem – 
+
+ drenovsky re steenwerth kl jackson le scow km land use and climatic factors structure
+regional patterns in soil microbial communities global ecol biogeogr – pmid 
+
+ shange rs ankumah ro ibekwe am zabawa r dowd se distinct soil bacterial communities
+revealed under a diversely managed agroecosystem plos one e doi journal pone 
+ pmid 
+
+ pascault n nicolardot b bastian f thiébeau p ranjard l maron pa in situ dynamics and spa 
+tial heterogeneity of soil bacterial communities under different crop residue management microbial
+ecol – doi s z pmid 
+
+ baumann k dignac m f rumpel c bardoux g sarr a steffens m soil microbial diversity
+affects soil organic matter decomposition in a silty grassland soil biogeochemistry – 
+
+ wagg c bender sf widmer f van der heijden mga soil biodiversity and soil community com 
+position determine ecosystemmultifunctionality p natl acad sci usa – doi 
+pnas pmid 
+
+ chabbi a kögel knabner i rumpel c stabilised carbon in subsoil horizons is located in spa 
+tially distinct parts of the soil profile soil biol biochem – 
+
+ terrat s christen r dequiedt s lelièvre m nowak v regnier t et al molecular biomass and
+metataxogenomic assessment of soil microbial communities as influenced by soil dna extraction pro 
+cedure microbial biotechnology – doi j x pmid 
+
+ dequiedt s saby npa lelievre m jolivet c thioulouse j toutain b et al biogeographical
+patterns of soil molecular microbial biomass as influenced by soil characteristics and management 
+global ecol biogeogr – 
+
+ cole jr wang q cardenas e fish j chai b farris rj et al the ribosomal database proj 
+ect improved alignments and new tools for rrna analysis nucleic acids research d – doi 
+ nar gkn pmid 
+
+ lozupone c knight r unifrac a new phylogenetic method for comparing microbial communi 
+ties appl environ microb – pmid 
+
+ orgiazzi a lumini e nilsson rh girlanda m vizzini a bonfante p et al unravelling soil fungal
+communities from different mediterranean land use backgrounds plos one e doi 
+journal pone pmid 
+
+ bucldey dh schmidt tm the structure of microbial communities in soil and the lasting impact of
+cultivation microb ecol – pmid 
+
+ mclauchlan k the nature and longevity of agricultural impacts on soil carbon and nutrients a
+review ecosystems – 
+
+ fierer n jackson rb the diversity and biogeography of soil bacterial communities p natl acad
+sci usa – pmid 
+
+ lauber cl strickland ms bradford ma fierer n the influence of soil properties on the struc 
+ture of bacterial and fungal communities across land use types soil biol biochem – 
+
+ fierer n strickland ms liptzin d bradford ma cleveland cc global patterns in belowground
+communities ecol lett – doi j x pmid 
+
+ ranjard l dequiedt s chemidlin prévost bouré n thioulouse j saby npa lelièvre m et al 
+turnover of soil bacterial diversity driven by wide scale environmental heterogeneity nat commun 
+ doi ncomms pmid 
+
+ smith p land use change and soil organic carbon dynamics nutr cycl agroecosyst 
+ – 
+
+ jones rt robeson ms lauber cl hamady m knight r fierer n a comprehensive survey of
+soil acidobacterial diversity using pyrosequencing and clone library analyses isme j – doi 
+ ismej pmid 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pone 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s z
+http www ncbi nlm nih gov pubmed 
+http dx doi org pnas 
+http dx doi org pnas 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org nar gkn 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pone 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org ncomms 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+
+
+ naether a foesel bu naegele v wüst pk weinert j bonkowski m et al environmental fac 
+tors affect acidobacterial communities below the subgroup level in grassland and forest soils appl
+environ microb – pmid 
+
+ debruyn jm nixon lt fawaz mn johnson am radosevich m global biogeography and
+quantitative seasonal dynamics of gemmatimonadetes in soil appl environ microb – 
+doi aem pmid 
+
+ de castro ap quirino bf pappas g kurokawa as neto el krüger rh diversity of soil fungal
+communities of cerrado and its closely surrounding agriculture fields arch microbiol – 
+doi s pmid 
+
+ klaubauf s inselsbacher e zechmeister boltenstern s wanekw gottsberger r et al molec 
+ular diversity of fungal communities in agricultural soils from lower austria fungal diversity 
+ – pmid 
+
+ buée m reich m murat c morin e nilsson rh uroz s et al pyrosequencing analyses of
+forest soils reveal an unexpectedly high fungal diversity new phytol – doi j 
+ x pmid 
+
+ anderson ic campbell cd prosser ji potential bias of fungal s rdna and internal tran 
+scribed spacer polymerase chain reaction primers for estimating fungal biodiversity in soil environ
+microbiol – pmid 
+
+ lienhard p terrat s prévost bouré nc nowak v régnier t sayphoummie s et al pyrose 
+quencing evidences the impact of cropping on soil bacterial and fungal diversity in laos tropical grass 
+land agron sustain dev doi s 
+
+ paterson e osler g dawson la gebbing t sim a ord b labile and recalcitrant plant fractions
+are utilised by distinct microbial communities in soil independent of the presence of roots and mycor 
+rhizal fungi soil biol biochem – 
+
+ de deyn gb quirk h oakley s ostle n bardgett rd rapid transfer of photosynthetic carbon
+through the plant soil system in differently managed species rich grasslands biogeosciences 
+ – 
+
+ hannula se boschker hts de boer w van veen ja c pulse labeling assessment of the
+community structure of active fungi in the rhizosphere of a genetically starch modified potato solanum
+tuberosum cultivar and its parental isoline new phytol – doi j 
+ x pmid 
+
+ aneja mk sharma s fleischmann f stich s heller w bahnweg g et al microbial coloniza 
+tion of beech and spruce litter–influence of decomposition site and plant litter species on the diversity of
+microbial community microbial ecol – pmid 
+
+ jenkins sn rushton sp lanyon cv whiteley as waite is et al taxon specific responses of
+soil bacteria to the addition of low level c inputs soil biol biochem – 
+
+ ofek m hadar y minz d ecology of root colonizingmassilia oxalobacteraceae plos one 
+e doi journal pone pmid 
+
+ suárez moreno zr caballero mellado j coutinho bg mendonça previato l james ek venturi v
+ common features of environmental and potentially beneficial plant associated burkholderia 
+microbial ecol – doi s pmid 
+
+ postma j schilder mt van hoof ra indigenous populations of three closely related lysobacter
+spp in agricultural soils using real time pcr microbial ecol – doi s 
+ pmid 
+
+ deacon jw fungal biology th edition blackwell publishing ltd p 
+
+ richardson m the ecology of the zygomycetes and its impact on environmental exposure clin
+microbiol infec – 
+
+ eida mf nagaoka t wasaki j kouno k evaluation of cellulolytic and hemicellulolytic abilities
+of fungi isolated from coffee residue and sawdust composts microbes and environ – 
+pmid 
+
+ kumar r sinha a srivastava s srivastava m variation in soil mycobiota associated with
+decomposition of sesbania aculeta l asian j plant pathology – 
+
+ silvestro lb stenglein sa forjan h dinolfo mi arambarri am occurrence and distribution of
+soil fusarium species under wheat crop in zero tillage span j agric res – 
+
+ wakelin sa warren ra kong l harvey pr management factors affecting size and structure of
+soil fusarium communities under irrigated maize in australia appl soil ecol – 
+
+land use history shifts soil microbial decomposers
+
+plos one doi journal pone june 
+
+http www ncbi nlm nih gov pubmed 
+http dx doi org aem 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http dx doi org j x
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+
+

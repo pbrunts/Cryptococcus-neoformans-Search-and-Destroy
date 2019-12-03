@@ -1,0 +1,1823 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resource availability drives responses of soil microbial communities to short term precipitation and nitrogen addition in a desert shrubland
+
+
+fmicb february time 
+
+original research
+published february 
+
+doi fmicb 
+
+edited by 
+hongchen jiang 
+
+china university of geosciences
+wuhan china
+
+reviewed by 
+hui li 
+
+institute of applied ecology chinese
+academy of sciences china
+
+kristen m deangelis 
+university of massachusetts amherst 
+
+united states
+
+ correspondence 
+yuqing zhang
+
+zhangyqbjfu gmail com
+
+specialty section 
+this article was submitted to
+
+terrestrial microbiology 
+a section of the journal
+
+frontiers in microbiology
+
+received october 
+accepted january 
+
+published february 
+
+citation 
+she w bai y zhang y qin s 
+
+feng w sun y zheng j and wu b
+ resource availability drives
+
+responses of soil microbial
+communities to short term
+
+precipitation and nitrogen addition
+in a desert shrubland 
+
+front microbiol 
+doi fmicb 
+
+resource availability drives
+responses of soil microbial
+communities to short term
+precipitation and nitrogen addition
+in a desert shrubland
+weiwei she yuxuan bai yuqing zhang shugao qin wei feng yanfei sun 
+jing zheng and bin wu 
+
+ yanchi research station school of soil and water conservation beijing forestry university beijing china 
+ key laboratory of state forestry administration on soil and water conservation beijing forestry university beijing china 
+ engineering research center of forestry ecological engineering ministry of education beijing forestry university beijing 
+china
+
+desert microbes are expected to be substantially sensitive to global environmental
+changes such as precipitation changes and elevated nitrogen deposition however 
+the effects of precipitation changes and nitrogen enrichment on their diversity and
+community composition remain poorly understood we conducted a field experiment
+over years with multi level precipitation and nitrogen addition in a desert shrubland
+of northern china to examine the responses of soil bacteria and fungi in terms of
+diversity and community composition and to explore the roles of plant and soil factors
+in structuring microbial communities water addition significantly increased soil bacterial
+diversity and altered the community composition by increasing the relative abundances
+of stress tolerant dormant taxa e g acidobacteria and planctomycetes however 
+nitrogen addition had no substantial effects increased precipitation and nitrogen did not
+impact soil fungal diversity but significantly shifted the fungal community composition 
+specifically water addition reduced the relative abundances of drought tolerant taxa
+ e g the orders pezizales verrucariales and agaricales whereas nitrogen enrichment
+decreased those of oligotrophic taxa e g the orders agaricales and sordariales 
+shifts in microbial community composition under water and nitrogen addition occurred
+primarily through changing resource availability rather than plant community our results
+suggest that water and nitrogen addition affected desert microbes in different ways with
+watering shifting stress tolerant traits and fertilization altering copiotrophic oligotrophic
+traits of the microbial communities these findings highlight the importance of resource
+availability in driving the desert microbial responses to short term environmental
+changes 
+
+keywords copiotrophic oligotrophic global environmental changes microbial diversity and community
+composition nitrogen deposition precipitation changes soil bacteria and fungi stressful environment 
+stress tolerant
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org journals microbiology editorial board
+https www frontiersin org journals microbiology editorial board
+https doi org fmicb 
+http creativecommons org licenses by 
+https doi org fmicb 
+http crossmark crossref org dialog doi fmicb domain pdf date stamp 
+https www frontiersin org articles fmicb full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+introduction
+
+deserts occupy approximately one third of the earth’s land
+surface laity and are currently experiencing widespread
+global environmental changes including precipitation changes
+and elevated nitrogen deposition galloway et al maestre
+et al as desert ecosystems are usually characterized by
+stressful conditions of low water and nutrient availability noy 
+meir makhalanyane et al they are expected to
+be substantially more sensitive to global environmental changes
+than other ecosystems bobbink et al maestre et al 
+ soil microbial diversity and community composition
+in desert biomes have been shown to differ remarkably from
+those in non desert biomes fierer et al suggesting
+that their responses to environmental changes might also be
+distinct however the impacts of environmental changes on
+desert microbial communities are not well understood 
+
+soil microbes play a crucial role in biogeochemical cycles 
+and thus their responses to environmental changes can provide
+feedback to influence plant communities and climate systems
+ nie et al wei et al recent high throughput
+sequencing data have shown that both precipitation changes
+and nitrogen deposition can alter the microbial community
+composition and diversity evans and wallenstein 
+leff et al li et al zeng et al in general 
+nitrogen addition tends to decrease microbial diversity increase
+the relative abundance of copiotrophic i e fast growing 
+low carbon use efficiency taxa e g proteobacteria and
+bacteroidetes and reduce that of oligotrophic i e slow 
+growing high carbon use efficiency taxa e g acidobacteria
+and basidiomycota fierer et al ramirez et al 
+leff et al ho et al it is generally hypothesized
+that precipitation enrichment similarly to nitrogen addition 
+could favor copiotrophic taxa over oligotrophic taxa due to
+water induced increases in nitrogen availability li et al 
+ b however results of the impacts of precipitation
+changes on microbial communities are inconsistent data
+from many field experiments have suggested that background
+precipitation variability e g seasonal or interannual variability 
+more strongly shapes the microbial community composition
+than does the direct effect of experimental precipitation
+treatments cregger et al gutknecht et al 
+curiel yuste et al data from other studies have
+indicated that indirect environmental factors e g the plant
+community that shift under precipitation changes might
+play a larger role in determining microbial community
+composition than direct changes to soil moisture evans
+et al li et al water induced indirect effects on
+microbial communities might be ecosystem specific which
+may contribute to previous inconsistent results among different
+precipitation manipulation experiments collectively these
+previous findings suggest that nitrogen addition consistently
+impacts microbial communities whereas the inconsistent
+responses of microbes to precipitation changes may result
+from ecosystem specific background history precipitation
+regimes and or water induced indirect environmental
+factors 
+
+precipitation changes and nitrogen addition not only directly
+affect microbial physiology but also indirectly influence microbial
+abundances by changing plant and soil properties chen et al 
+ li et al b water and nitrogen availability can
+change the quantity and quality of plant residua e g root
+exudates and litter which represent major resource inputs to
+soil ren et al liu et al these changes can impact
+microbial structure and function wardle et al bardgett
+and van der putten several lines of empirical evidence
+have shown that nitrogen induced soil acidification exerts native
+effects on microbes chen et al zeng et al while
+precipitation increment can dampen these effects by increasing
+the soil ph zhang et al li et al similarly 
+precipitation and nitrogen enrichment have counteractive effects
+on plant species richness with water induced increases and
+nitrogen induced declines in plant diversity xu z et al 
+plant diversity has been documented as one of the major
+drivers in structuring microbial communities prober et al 
+chen et al li et al a suggesting that increased
+precipitation might alleviate the effects of nitrogen induced loss
+of plant richness on microbial communities through increasing
+plant diversity collectively previous findings have shown the
+very complex nature of the interactive influences of precipitation
+changes and nitrogen addition on microbial communities 
+which occur via the alteration of plant communities and soil
+properties 
+
+to examine the effects of precipitation and nitrogen addition
+on soil microbial communities in desert ecosystems we
+conducted a field experiment by varying precipitation and
+nitrogen addition to a desert shrubland in the mu us desert
+of northern china our main goals were i to test how
+soil bacterial and fungal communities respond to increased
+precipitation and nitrogen and ii to identify the relative roles
+of the direct and indirect effects of water and nitrogen addition
+on microbial communities thereby advancing a potential
+mechanistic understanding of the responses of desert microbial
+communities to global environmental changes 
+
+materials and methods
+
+study site and experimental design
+this study was conducted at the yanchi research station
+ ◦ ′– ◦ ′ n ◦ ′– ◦ ′ e elevation m above
+sea level which is located on the southwestern edge of the
+mu us desert in ningxia china this region is characterized
+by a semiarid continental monsoon climate with an average
+annual temperature of ◦c and a mean annual precipitation of
+ mm – approximately of the precipitation
+occurs from may to september the mean annual potential
+evapotranspiration is mm jia et al the soil type
+is quartisamment based on the us soil taxonomy gao et al 
+ the dominant shrub species in this region is artemisia
+ordosica although sparse shrubs hedysarum mongolicum salix
+psammophila and caragana korshinskii and the grass agropyron
+cristatum are also indigenous to the region she et al the
+study was conducted in a fenced area in which grazing has been
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+prohibited since the late s and vegetation was allowed to
+recover for over a decade sun et al 
+
+a two factor field experiment performed with constant
+precipitation and nitrogen addition was established in october
+ there were three precipitation levels w ambient w 
+ambient and w ambient and two nitrogen
+levels n ambient kg n ha− yr− and n fertilization 
+ kg n ha− yr− resulting in a total of six treatments
+ including all permutations of both factors each with four
+replications twenty four m × m plots were laid out in a
+randomized block design four blocks with six treatment plots
+within each block plots were separated by a m wide buffer
+zone 
+
+the amount of added precipitation was determined by
+referring to the long term mean annual precipitation in this
+area – mm specifically the w and w 
+treatment plots received ∼ mm and ∼ mm 
+of supplementary precipitation respectively according to
+the magnitude and distribution of long term mean monthly
+precipitation in this area see details in she et al water
+was applied with a sprinkler irrigation system as nine equal
+applications during the growing season may–september three
+times in july and august and once in may june and september 
+water was added following natural rainfall events to avoid
+altering the precipitation regime in this study we defined annual
+precipitation as the water year precipitation received between
+october and september in the following year ambient
+water year precipitation was and mm in and 
+respectively 
+
+fertilization treatments involved five equal applications of
+nh no solution at the beginning of each month during the
+growing season corresponding to a total fertilization rate of
+ kg n ha− yr− for the n treatment for each fertilization
+event nh no analytical grade was weighed and dissolved
+in l tap water the same amount of water equivalent to a
+ mm precipitation was applied to the nitrogen control plots 
+the rate of nitrogen addition in the n treatment was nearly
+fivefold greater than the background deposition rate in the study
+site kg n ha− yr− she unpublished data but was well
+within the range of current deposition rates in northern china
+ an average value of kg n ha− yr− xu w et al 
+
+plant and soil measurements
+in mid september herbaceous vegetation structure i e 
+plant density height and coverage was investigated using two
+permanent m× m quadrats in each plot one of the quadrats
+was placed under a shrub canopy and another was placed
+in the surrounding interspace between shrubs the number 
+height and coverage of shrub species were estimated in each
+ m × m plot using these measurements the plant shannon–
+wiener sw index was calculated as the relative abundance
+of each plant species herbaceous aboveground biomass was
+measured by randomly clipping a m × m quadrat within
+each plot the harvested plants were sorted by species oven 
+dried at ◦c for h and weighed we used herbaceous
+aboveground biomass measurements to estimate the herbaceous
+aboveground net primary productivity anpp and classified
+
+herbs into two functional groups according to their life forms 
+including perennial herbs ph and annuals as the shrub
+anpp was estimated by using an improved method see details in
+she et al based on the length and number of current year
+plant twigs 
+
+after harvesting plant biomass soil samples were collected
+to depths of − cm from the interspaces between shrubs 
+for each plot three sample cores were randomly collected
+using a cm diameter soil auger and then composited
+into a single sample all collected samples were transported
+immediately to our laboratory fresh samples were sieved
+through mm screens and stored at ◦c before chemical
+analysis and at − ◦c before soil dna extraction all soil
+samples were separated into two portions one portion was
+maintained fresh for measurements of soil moisture and
+dissolvable inorganic nitrogen nitrate and ammonium the
+other portion was air dried for determinations of soil ph 
+soil organic carbon soc soil total nitrogen stn and
+soil total phosphorous stp soil moisture was determined
+after oven drying at ◦c for h soil nitrate and
+ammonium were extracted with m kcl and analyzed by dual 
+wavelength ultraviolet spectrophotometry and indophenol blue
+colorimetry respectively soil ph was measured in a soil water
+ suspension soc was measured using the potassium
+dichromate oxidation method stn was analyzed by the micro 
+kjeldahl method stp was determined by the mo–sb anti 
+spectrophotometric method 
+
+soil dna extraction amplification and
+sequencing
+genomic dna was isolated from g of each soil sample using
+the mobio powersoil dna isolation kit mobio laboratories 
+inc united states following the manufacturer’s instructions 
+dna concentrations and purities were assessed by agarose
+gel electrophoresis dna samples were diluted to ng µl− in
+sterile water 
+
+the v hypervariable region of bacterial s rrna was
+amplified from bacterial dna samples with a barcoded primer
+set including primers f ′ gtg cca gcm gcc gcg gta
+a ′ and r ′ gga cta chv ggg twt cta at ′ the
+v hypervariable region of fungal s rrna was amplified using
+a barcoded primer set including primers f ′ gcg gta
+att cca gct cca a ′ and r ′ aat ccr aga att
+tca cct ct ′ all pcr procedures were performed in µl
+reaction mixtures containing µl of phusion r© high fidelity
+pcr master mix with gc buffer new england biolabs inc 
+united states µm of each primer and approximately ng
+template dna thermal cycling involved an initial denaturation
+at ◦c for min followed by cycles of denaturation at ◦c
+for s annealing at ◦c for s and elongation at ◦c for
+ s with a final extension at ◦c for min 
+
+polymerase chain reaction products were assessed by 
+agarose gel electrophoresis and those with a bright main band
+between and bp were chosen for further experiments 
+equal amounts of the pcr product from each sample were
+pooled and then purified using the genejet gel extraction
+kit thermo scientific inc united states a sequencing
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+library was generated using the neb next r© ultratm dna
+library prep kit for illumina new england biolabs inc 
+united states following the manufacturer’s instructions and
+then sequencing adapters were added to the ′ ends of the
+amplicons the library quality was assessed on the qubit r©
+ fluorometer thermo scientific inc united states and
+agilent bioanalyzer system agilent technologies inc 
+united states finally the qualified library was sequenced using
+an illumina hiseq platform illumina inc united states 
+at novogene beijing china producing bp paired end
+reads 
+
+bioinformatics processing
+paired end reads were assigned to samples based on their unique
+barcodes and were truncated by filtering out the barcode and
+primer sequences paired end reads from the original amplicon
+were merged using flash software magoc and salzberg 
+which is a very fast and accurate analysis tool used to merge
+paired end reads when the original dna fragments are shorter
+than twice the length of reads the obtained splicing sequences
+were referred to raw tags quality filtering of the raw tags was
+performed under specific filtering conditions to obtain high 
+quality clean tags bokulich et al using qiime software
+ caporaso et al as a quality control process the clean tags
+were compared with the reference database using the uchime
+algorithm edgar et al to detect chimeric sequences haas
+et al after removing the chimeric sequences we obtained
+effective tags 
+
+effective tags were clustered into operational taxonomic
+units otus at ≥ sequence similarity with the uparse
+program edgar and singleton otus with only one
+read were removed a representative sequence from each otu
+was selected and annotated for taxonomic information using
+the ribosomal database project classifier wang et al 
+against the silva database quast et al phylogenetic
+relationships of different otus were conducted using muscle
+software edgar otu abundance tables were constructed
+using usearch software the relative abundances of species
+at different taxonomic levels were calculated using the otu
+abundance tables to rarify all data sets to the same level of
+sampling effort otu abundance tables were rarefied to 
+bacterial s rrna sequences and fungal s rrna
+sequences the minimum number of sequences for a sample 
+for each soil sample further analysis of alpha diversity and
+beta diversity were performed based on these rarefied otu
+tables finally microbial diversity was assessed based on the
+observed species species richness and sw index and bray–
+curtis dissimilarities were used to assess differences in microbial
+community composition among treatment groups 
+
+all raw sequence reads generated in this study were archived
+in the sequence read archive database of the national center for
+biotechnology information under accession number srp 
+
+statistical analyses
+the shapiro–wilk test was conducted to examine the normality
+of data that were used for analysis of variance anova data
+
+that did not meet the assumption of normality were log sqrt 
+transformed prior to analyses to normalize their distributions 
+two way anova was performed to test the impacts of water 
+nitrogen addition and their interactions on plant anpp and
+diversity soil chemical properties microbial diversity and
+the relative abundances of dominant microbial taxa one way
+anova with duncan’s multiple range tests was performed
+to compare the effects of watering on each response variable
+at each nitrogen addition rate and to compare the effects
+of nitrogen at each water treatment level to estimate the
+effect sizes of water or nitrogen treatment on the relative
+abundances of the dominant microbial taxa the response ratio
+was calculated as ln xij xic where xij is the observed
+value for variable i in each experimental plot j and xic is
+the mean value of the variable i in the control treatment
+ byrne et al one sample t test was applied to determine
+whether each response ratio was significantly different from
+zero differences in microbial community composition bray–
+curtis dissimilarities among the water and nitrogen treatment
+groups were assessed by permutational multi variate anova
+ permanova and visualized using principal coordinate
+analysis pcoa spearman’s rank correlation analysis mantel
+test was used to test the relationships between plant soil variables
+and the microbial community composition stepwise regression
+analysis was conducted to explore the multi variate effects of
+plant and soil factors on the microbial diversity and relative
+abundances of dominant microbial phyla prior to performing
+stepwise regression environmental factors that showed a high
+collinearity with other factors r were removed and
+other factors plant sw shrub anpp ph anpp as anpp soil
+moisture dissolvable inorganic nitrogen din and stn were
+retained 
+
+we conducted structural equation modeling sem to
+specifically test the direct and indirect effects of water and
+nitrogen addition on the composition of soil microbial
+communities as assessed by pco of the bray–curtis
+dissimilarity matrix prior to performing sem analysis 
+we hypothesized that increased precipitation and nitrogen
+would impact the bacterial fungal communities directly
+by increasing water and nitrogen availability or indirectly
+through changing plant anpp based on our anova 
+mantel test and stepwise regression results subsequently 
+a priori model of the above hypothetical relationships
+was constructed supplementary figure s thus the
+pairwise correlations among these environmental factors 
+including the water and nitrogen addition rates soil
+moisture din shrub anpp ph anpp as anpp and
+bacterial fungal pco values were examined by spearman’s
+rank correlation analysis the matrix of r values derived
+from the spearman’s correlation analysis was retained to
+conduct sem the data matrix was fitted to the model using
+the maximum likelihood estimation method grace 
+the overall goodness of fit of our model was characterized
+by a non significant chi square test p low
+akaike information criteria aic low root mean square
+error of approximation rmsea and p 
+and a comparative fit index cfi the final
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+model was improved by removing relationships between
+observed variables from a priori models according to these
+indices 
+
+all analyses and figures were performed with r software 
+version r core team statistical significance was
+determined at a level of p ≤ we used the “vegdist ”
+“adonis ” and “capscale” functions in the vegan package oksanen
+et al for computing the bray–curtis dissimilarity 
+conducting permanova and mantel test and implementing
+pcoa respectively we employed the “stepaic” function in the
+mass package venables and ripley to conduct stepwise
+regression analysis the psych package revelle to construct
+a spearman’s rank correlation matrix the lavaan package yves 
+ for sem and the ggplot package wickham for
+generating graphs 
+
+results
+
+plant and soil properties
+water addition significantly increased plant sw but
+did not affect plant anpp supplementary table s 
+plant sw increased from ± w treatment to
+ ± w and ± w amounting to
+average increment rates of and respectively 
+nitrogen addition significantly enhanced ph anpp but
+did not alter plant sw shrub anpp and as anpp
+ supplementary table s nitrogen induced increase in
+ph anpp under n treatment ± g m− 
+was higher than that under ambient treatment
+ n ± g m− no significant interactive effects
+of water and nitrogen addition were found among any plant
+properties 
+
+water and nitrogen enrichment significantly influenced soil
+moisture and nitrogen availability but did not affect soil ph 
+soc stn or stp supplementary table s soil moisture
+significantly increased only in plots with added water from
+ ± w to ± w and ± w 
+an average increase of and respectively nitrogen 
+induced increase in soil nitrogen availability in the plots with
+fertilization n ± mg n kg− was higher
+than that in unfertilized plots n ± mg n kg− 
+no significant interactive effects were detected among any soil
+properties 
+
+diversity and composition of microbial
+communities
+soil bacterial species richness and sw index showed positive
+responses to water addition but were unresponsive to nitrogen
+addition and water–nitrogen interactions figure a and
+supplementary table s relative to ambient treatment 
+water addition increased bacterial species richness and sw
+index by and respectively shifts
+in soil bacterial community composition were detected
+under different water treatments permanova f 
+p but not under nitrogen treatments permanova 
+f p and water–nitrogen interaction
+
+treatments permanova f p table 
+and figure a 
+
+both water and nitrogen addition had no influences on fungal
+species richness and sw index figure b and supplementary
+table s soil fungal community composition was significantly
+altered under nitrogen treatments permanova f 
+p but not under water treatments permanova 
+f p and water–nitrogen interaction treatments
+ permanova f p table and figure b 
+
+relative abundance of dominant
+microbial taxa
+soil bacterial community was dominated by proteobacteria
+ actinobacteria acidobacteria 
+bacteroidetes gemmatimonadetes 
+planctomycetes chloroflexi cyanobacteria
+ and firmicutes based on the analysis of all
+soil samples supplementary figure s water addition had
+significant impacts on the relative abundance of bacteroidetes 
+whereas nitrogen addition alone or in combination with
+water had no effects on the dominant bacterial phyla
+ supplementary table s watering reduced the relative
+abundance of bacteroidetes from ± w to ± 
+ w and ± w response ratio analysis
+showed that the relative abundances of proteobacteria 
+actinobacteria and bacteroidetes decreased with water
+addition while acidobacteria and planctomycetes exhibited
+the opposite trend figure a nitrogen enrichment increased
+the response ratio of the cyanobacteria relative abundance 
+but had no effects on that of other dominant bacterial phyla
+ figure b 
+
+the fungal community was dominated by ascomycota
+ and basidiomycota while zygomycota 
+and chytridiomycota were minor phyla under all
+treatments supplementary figure s at the order level 
+we identified nine dominant orders pleosporales 
+chaetothyriales hypocreales sordariales 
+pezizales capnodiales verrucariales 
+eurotiales and lichinales in the ascomycota
+division and one order each in the basidiomycota agaricales 
+ and zygomycota mortierellales division among
+all soil samples studied supplementary figure s anova
+results showed that nitrogen enrichment significantly influenced
+the relative abundances of the ascomycota and basidiomycota
+phyla and the pleosporales sordariales and agaricales orders 
+whereas water addition and water–nitrogen interactions showed
+no effects on the relative abundances of any dominant fungal
+taxa supplementary table s relative to the unfertilized
+plots nitrogen addition increased the relative abundances of
+ascomycota and pleosporales by and respectively 
+but reduced those of basidiomycota sordariales and agaricales
+by and respectively response ratio analysis
+showed similar results to anova in terms of the phylum and
+order level responses of fungi to nitrogen addition figure b 
+in addition response ratio analysis also demonstrated that water
+addition had remarkable impacts on dominant fungal taxa with
+ascomycota increasing but basidiomycota agaricales pezizales 
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+figure effects of water and nitrogen addition on soil bacterial a and fungal b diversity ∗p ∗∗p ns not significant 
+
+and verrucariales decreasing in their relative abundances
+ figure a 
+
+relationships between microbial
+communities and plant soil properties
+soil bacterial community composition strongly correlated with
+ph anpp stn and stp but weakly correlated with soil moisture
+ table stepwise regression analysis demonstrated that
+bacterial diversity and the relative abundances of bacteroidetes
+and planctomycetes whose value being altered by water addition 
+were mainly affected by soil moisture and total nitrogen content 
+those of proteobacteria and acidobacteria were shifted by
+watering but were unrelated to any plant and soil properties
+measured in our study and that of cyanobacteria whose
+abundance being increased by nitrogen addition showed positive
+correlations with the anpp of perennial shrub and herbs
+ table sem results showed that water addition directly
+affected soil bacterial community by increasing soil moisture 
+while nitrogen enrichment indirectly influenced the bacterial
+community by changing ph anpp figure a the total
+net effect of water addition on the bacterial community
+
+table effects of water addition w nitrogen addition n and their interaction
+ w × n on the compositions of soil microbial communities as determined by
+permanova 
+
+w n w × n
+
+bacteria f 
+
+p 
+
+fungi f 
+
+p 
+
+p values reflecting statistical significance are shown in boldface 
+
+was marginally significant standardized coefficient 
+zvalue dividing the regression weight estimate by its standard
+error p whereas that of nitrogen addition was
+non significant standardized coefficient zvalue 
+p 
+
+the fungal community composition strongly correlated
+with stn and weakly correlated with the anpp of shrub
+and annual plants table stepwise regression analysis
+revealed that fungal diversity and the relative abundances of
+ascomycota and basidiomycota strongly correlated with shrub
+anpp table the dominant fungal phyla ascomycota 
+basidiomycota and chytridiomycota were shifted by water
+and nitrogen addition and also showed strong correlations
+with soil moisture and or available nitrogen table in
+the order level the relative abundances of pezizales and
+verrucariales whose abundance being reduced by water
+addition were negatively correlated with soil moisture and
+total nitrogen content that of pleosporales increased with
+nitrogen enrichment and showed positive correlations with as
+anpp and soil available nitrogen that of sordariales whose
+abundance being reduced by nitrogen fertilization showed a
+positive correlation with as anpp but a negative correlation
+with soil available nitrogen that of agaricales whose abundance
+being decreased in both water and nitrogen treatments showed
+negative correlations with the anpp of perennial shrub and
+herbs table sem analysis demonstrated that nitrogen
+enrichment could directly affect the fungal community by
+increasing nitrogen availability and indirectly via changing ph
+anpp figure b the total net direct effect of nitrogen
+enrichment was significant standardized coefficient − 
+zvalue − p whereas the indirect effect was
+non significant standardized coefficient zvalue 
+p 
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+figure principal coordinate analysis of soil bacterial a and fungal b community differences bray–curtis dissimilarities following different water and nitrogen
+treatments 
+
+figure response ratio analysis of changes in the relative abundance of dominant bacterial phyla in response to water treatment a and nitrogen treatment
+ b compared to the control treatment at the confidence interval red points indicate significant changes compared with the control treatment 
+
+discussion
+
+precipitation increment but not nitrogen
+enrichment significantly influenced
+desert bacterial community
+our results showed that water addition significantly increased
+soil bacterial diversity and altered the bacterial community
+composition with acidobacteria and planctomycetes increasing
+but proteobacteria and bacteroidetes decreasing in terms of their
+relative abundances figures – and table these results
+
+suggest that water addition tended to promote flourishing of
+oligotrophic taxa and depress copiotrophic taxa many species
+of oligotrophic taxa e g acidobacteria have been shown to
+act as stress tolerators which can enter a dormant state to
+evade stressful conditions fierer tecon and or 
+as desert environments are water stressful alleviating that stress
+following water addition would revive dormant microorganisms
+and increase their abundances tecon and or however 
+this shifting trend in bacterial taxa in our study contrasted with
+the results from studies performed in a temperate grassland in
+which water addition tends to increase the relative abundance
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+figure response ratio analysis of changes in the relative abundance of dominant fungal phyla orders in response to water treatment a and nitrogen treatment
+ b compared to the control treatment at the confidence interval red points indicate significant changes compared with the control treatment 
+
+of proteobacteria and decrease that of acidobacteria zhang
+et al one possible mechanism underlying the
+responses of bacterial phyla to water addition in grasslands was
+that watering could increase nitrogen availability by stimulating
+the mineralization of soil organic matter li et al b 
+however in our study soil nitrogen availability was not affected
+by water addition probably due to the quite low amount of
+soil organic matter supplementary table s which is roughly
+equivalent to one seventh of that in grassland soils zeng et al 
+ li et al b alternatively this contrary response was
+likely due to the high sensitivity of oligotrophic taxa to water
+addition in the more stressful desert environment evidence from
+aridity gradient studies in northern china indicates that the
+relative abundances of acidobacteria and planctomycetes increase
+with an increasing aridity index ai estimated by the ratio of
+precipitation to potential evapotranspiration in more arid areas
+ ai but exhibit no further variation at higher ai values
+ wang x et al wang et al whereas the relative
+abundances of bacteroidetes and most proteobacteria subphyla
+show non linear relationships with ai with the lowest value
+
+being present at ai ≈ wang x et al the ai in
+our study site is thus oligotrophic taxa were expected to
+increase and copiotrophic taxa were expected to decrease with
+water addition the dormancy of oligotrophic taxa might be
+more prevalent in more stressful environments resulting in a
+larger population recovery when conditions improve and further
+depress copiotrophic taxa 
+
+in contrast to previous findings neither the bacterial diversity
+nor the community composition was substantially affected by
+nitrogen addition in our study figures and table among
+all dominant bacterial phyla identified only cyanobacteria were
+slightly increased with nitrogen input in terms of the relative
+abundance figure b previously the relative abundance
+of cyanobacteria has been shown a non linear response to
+nitrogen enrichment with an increase under moderate nitrogen
+input − kg n ha− yr− and a decrease under excess
+nitrogen addition kg n ha− yr− wang j et al 
+ the overall unresponsiveness of the bacterial community
+following nitrogen enrichment was also reported in fertilization
+experiments conducted in semiarid grasslands carey et al 
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+table correlations between plant soil properties and soil microbial
+communities bray–curtis dissimilarities as determined by mantel test 
+
+properties bacteria fungi
+
+r p r p
+
+plant sw − − 
+
+shrub anpp − 
+
+ph anpp 
+
+as anpp − 
+
+moisture 
+
+din − 
+
+soil ph − − 
+
+soc 
+
+stn 
+
+stp 
+
+p values reflecting statistical significance are shown in boldface 
+anpp aboveground net primary productivity as annuals din dissolvable
+inorganic nitrogen ph perennial herbs soc soil organic carbon stn soil total
+nitrogen stp soil total phosphorous sw shannon–wiener index 
+
+mchugh et al there are several potential explanations
+regarding these insensitive responses the low nitrogen retention
+capacity of desert soil is likely to weaken the effects of nitrogen
+addition jin et al mchugh et al in addition data
+from numerous fertilization studies have shown that nitrogen 
+induced soil acidification is an important mechanism in shifting
+the bacterial community composition chen et al zeng
+et al zhang et al b however in our study nitrogen
+addition did not influence the soil ph supplementary table s 
+which was likely due to the high buffering capacity of the soil
+ liu et al although direct effects of nitrogen addition on
+the bacterial community were not detected our results suggest
+that nitrogen addition could indirectly influence the bacterial
+community by changing ph anpp figure a in grasslands 
+many field studies have shown that nitrogen induced changes
+in aboveground plant biomass are important drivers of shifting
+bacterial communities chen et al yuan et al we
+also found that nitrogen addition increased the biomass of ph
+ supplementary table s although this indirect effect was weak
+ figure a it is possible that the effects of nitrogen deposition 
+as seen in the fertilization experiments take longer to emerge
+than the year observation period of this study 
+
+increased precipitation and nitrogen
+altered the drought tolerant and trophic
+traits of desert fungal community
+in contrast to the bacterial community both water and
+nitrogen addition significantly impacted the fungal community
+composition but not the fungal diversity figures and
+table nitrogen addition mainly increased the relative
+abundance of ascomycota and decreased that of basidiomycota
+ figure b and supplementary table s it was suggested
+that the phyla ascomycota and basidiomycota could roughly
+grouped into copiotrophic and oligotrophic taxa respectively
+ ho et al yao et al suggesting that they would
+respond oppositely to nitrogen enrichment moreover many field
+
+experiments conducted in diverse ecosystems have also revealed
+that basidiomycota decreased in relative abundance following
+nitrogen input allison et al entwistle et al chen
+et al we also found that the relative abundance of
+chytridiomycota decreased under nitrogen treatment however 
+its relative proportion was quite small ∼ and thus its
+variation can be negligible the increased relative abundance
+of ascomycota following nitrogen addition was primarily due
+to an increased relative abundance of pleosporales which was
+the predominant fungal order in our study members in the
+order pleosporales have been shown to live as plant endophytes
+in arid grass species and were shown to transfer nutrients
+between plants and nearby soil green et al porras alfaro
+et al our stepwise regression analysis also indicated that
+the relative abundance of pleosporales was positively correlated
+with annual plants and soil inorganic nitrogen table 
+previous data also demonstrated that the relative abundance
+of pleosporales increases with nitrogen enrichment lowell and
+klein wang j et al which supports our findings 
+in contrast to pleosporales members of the orders sordariales
+ ascomycota and agaricales basidiomycota are considered
+as the potent degraders of lignin and predominantly show
+oligotrophic features poggeler entwistle et al ho
+et al results from stepwise regression showed that the
+relative abundance of sordariales was negatively correlated with
+soil available nitrogen while that of agaricales showed a negative
+correlation with ph anpp suggesting that nitrogen enrichment
+was likely to directly affect sordariales relative abundance via
+increasing nitrogen availability whereas indirectly influence
+agaricales by changing ph anpp table taken together 
+our results indicated that nitrogen enrichment tended to depress
+oligotrophic fungal taxa but to facilitate taxa regarding nutrient
+transfer 
+
+our response ratio analysis indicated that water addition
+tended to favor ascomycota over basidiomycota figure a 
+the anova and permanova results showed that the fungal
+community composition was unresponsive to water addition
+ table figure and supplementary table s probably due
+to the large variation in our fungal data data from many field
+experiments have demonstrated that drought treatment decreases
+the relative abundance of ascomycota and increases that of
+basidiomycota mchugh and schwartz he et al 
+bastida et al suggesting that basidiomycota adapt better
+to drought conditions our stepwise regression analysis also
+revealed that the relative abundance of ascomycota was positively
+correlated with soil moisture while that of basidiomycota
+exhibited an opposite pattern table analyzing the order 
+level responses of fungi to water addition demonstrated that
+the relative abundances of pezizales ascomycota verrucariales
+ ascomycota and agaricales basidiomycota decreased with
+water input indicating that the change of basidiomycota was
+mainly caused by agaricales and the increase in ascomycota
+relative abundance was likely driven by many low abundance
+taxa results from stepwise regression showed that the relative
+abundances of pezizales and verrucariales were negatively
+correlated with soil moisture table suggesting that these
+fungal orders might prefer to live in drought conditions 
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+table results of stepwise regression analysis of the relationships between plant soil properties and the diversity and relative abundance of various microbial groups 
+
+diversity relative
+abundance
+
+model r f p
+
+bacterial sr y moisture − stn 
+
+bacterial sw y moisture − stn 
+
+proteobacteria – 
+
+actinobacteria y − stn 
+
+acidobacteria – 
+
+bacteroidetes y − moisture stn 
+
+gemmatimonadetes y − shrub anpp − ph anpp as anpp − stn 
+
+planctomycetes y moisture 
+
+chloroflexi y moisture − stn 
+
+cyanobacteria y − shrub anpp ph anpp 
+
+firmicutes y − stn 
+
+fungal sr –
+
+fungal sw y − shrub anpp 
+
+ascomycota y shrub anpp moisture din 
+
+o pleosporales y as anpp din 
+
+o chaetothyriales y − shrub anpp − as anpp 
+
+o hypocreales y ph anpp − stn 
+
+o sordariales y ∗ − as anpp − din 
+
+o pezizales y − moisture 
+
+o capnodiales y − − shrub anpp din 
+
+o verrucariales y − moisture stn 
+
+o eurotiales y ph anpp − stn 
+
+o lichinales –
+
+basidiomycota y − shrub anpp − moisture 
+
+o agaricales y − shrub anpp − ph anpp 
+
+zygomycota –
+
+o mortierellales –
+
+chytridiomycota y − − din 
+
+groups in boldface type are those that showed significant responses to water and or nitrogen addition as assessed by two way anova and response ratio analysis 
+anpp aboveground net primary productivity as annuals din dissolvable inorganic nitrogen ph perennial herbs stn soil total nitrogen sr species richness 
+sw shannon–wiener index 
+
+previous studies have also revealed that species of the order
+pezizales are important members of ectomycorrhizal fungi
+ tedersoo et al healy et al and adapt well in
+water stressed environments smith et al gordon and
+gehring in contrast to pezizales most species of the
+order verrucariales are characterized as lichen forming fungi
+ gueidan et al wang et al previous physiological
+data indicated that in arid areas these fungi are extremely
+drought tolerant and thus are expected to adapt well in desert
+environments wang y et al zhang et al a 
+these studies indirectly supported our findings that water
+addition reduced the relative abundances of drought adapted
+fungi 
+
+precipitation and nitrogen addition
+primarily directly affected desert
+microbial communities via changing
+resource availability
+the present study indicated that water and nitrogen addition
+resulted in stronger direct effects on soil microbial communities
+
+through changing resource availability rather than indirect
+influences via changes of plant community table and
+figure specially shifts in the fungal community composition
+following water and nitrogen enrichment were primarily
+caused by the changes of water and nitrogen availability 
+whereas shifts in the bacterial community composition
+were mainly driven by changes in soil moisture fungal
+and bacterial communities responded in different ways
+to resource availability probably due to their distinctive
+adaptive strategies to desert environments fungi are typically
+more drought tolerant and nutrient sensitive than bacteria 
+attributed to their ability to access soil water and nutrients
+better through hyphal networks boer et al yuste
+et al manzoni et al consequently when
+water and nitrogen availability are improved drought and
+oligotrophic adapted fungal taxa are expected to be suppressed
+ crowther et al however desert bacteria probably
+show limited responses to a moderate rate of nitrogen
+fertilization due to their relatively low ability for nutrient
+acquisition and the low nutrient retention capacity of desert
+soils in contrast to nitrogen availability desert bacteria are
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+figure structural equation modeling showing the relationships between plant soil properties and the bacterial a and fungal b community compositions 
+solid arrows indicate positive effects and the dashed arrow indicates a negative correlation the standardized path coefficients are adjacent to the arrows and
+indicate the effect size of the relationship arrow widths are proportional to the strength of each relationship percentages beside the response variables refer to the
+proportion of variance explained by the model r results of model fitting a bacteria χ df p cfi aic 
+rmsea p b fungi χ df p cfi aic rmsea p ph anpp the aboveground net
+primary productivity of perennial herbs p ∗p ∗∗p and ∗∗∗p 
+
+likely more sensitive to the improvement of soil moisture 
+probably due to the revival of dormant taxa when water
+stress is alleviated lennon and jones tecon and or 
+ 
+
+the sem results suggest that nitrogen enrichment could
+indirectly influence soil microbial communities via altering ph
+anpp while the indirect effects of water addition were not
+detectable figure although the indirect nitrogen effects
+were found in our study their strength was relatively weaker
+than the direct effects our findings were not in line with the
+results reported in grassland ecosystems where nitrogen induced
+shifts in microbial community composition are mainly indirectly
+mediated by changes of soil ph and or plant community rather
+than directly via changing resource availability chen et al 
+ yuan et al zeng et al it is likely that
+desert ecosystems are more resource limited than grasslands 
+suggesting that desert microbial communities are likely more
+sensitive to resource availability the high buffering capacity
+of our soils might weaken the effects of nitrogen induced
+soil acidification it is also possible that a stronger indirect
+effect of nitrogen enrichment can be seen in a long term
+experimental treatment owing to limitations of our short 
+term experiment further filed studies with longer observation
+period will be necessary to disentangle the direct and indirect
+influences of global environmental changes on desert microbial
+communities 
+
+conclusions
+
+in summary our results indicated that soil microbial
+communities responded differently to increased precipitation
+and nitrogen in this desert ecosystem watering increased soil
+bacterial diversity and shifted the community composition by
+
+promoting the flourishing of stress tolerant dormant taxa 
+whereas nitrogen enrichment had no substantial effects water
+and nitrogen addition did not influence soil fungal diversity but
+significantly altered the community composition with drought 
+adapted taxa being suppressed following water addition and
+with oligotrophic adapted taxa being suppressed under nitrogen
+enrichment water and nitrogen induced changes in soil
+microbial communities arose mainly through altering resource
+availability rather than plant community our results suggest
+that water addition affected desert microbial communities by
+altering their stress tolerant traits while nitrogen enrichment
+shifted their copiotrophic oligotrophic traits although in a
+short term experiment our findings highlight the importance
+of resource availability in driving the desert microbial responses
+to altered environmental conditions further long term study
+is needed to help in better understanding the responses
+of desert microbial communities to global environmental
+changes 
+
+author contributions
+
+ws yz and sq conceived of the study and designed the
+methodology ws yb and jz collected the data ws
+analyzed the data ws led the writing of the manuscript 
+yb yz sq wf ys and bw assisted with revising
+the draft manuscript all authors approved of the final
+manuscript 
+
+funding
+
+this study was supported by the national natural science
+foundation of china grant no and the national
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+key research and development program of china grant no 
+ yfc 
+
+acknowledgments
+
+we thank shijun liu jie fu yangui qiao and the staff
+of the yanchi research station for their assistance in the
+field and laboratory we are grateful to the reviewers
+
+for their valuable comments that helped improve this
+paper 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmicb 
+ full supplementary material
+
+references
+allison s d hanson c a and treseder k k nitrogen fertilization
+
+reduces diversity and alters community structure of active fungi in boreal
+ecosystems soil biol biochem – doi j soilbio 
+ 
+
+bardgett r d and van der putten w h belowground biodiversity and
+ecosystem functioning nature – doi nature 
+
+bastida f torres i f andres abellan m baldrian p lopez mondejar r 
+vetrovsky t et al differential sensitivity of total and active soil
+microbial communities to drought and forest management glob change biol 
+ – doi gcb 
+
+bobbink r hicks k galloway j spranger t alkemade r ashmore m 
+et al global assessment of nitrogen deposition effects on terrestrial plant
+diversity a synthesis ecol appl – doi 
+
+boer w folman l b summerbell r c and boddy l living in a fungal
+world impact of fungi on soil bacterial niche development fems microbiol 
+rev – doi j femsre 
+
+bokulich n a subramanian s faith j j gevers d gordon j i knight r 
+et al quality filtering vastly improves diversity estimates from illumina
+amplicon sequencing nat methods – doi nmeth 
+
+byrne k m adler p b and lauenroth w k contrasting effects of
+precipitation manipulations in two great plains plant communities j veg sci 
+ – doi jvs 
+
+caporaso j g kuczynski j stombaugh j bittinger k bushman f d 
+costello e k et al qiime allows analysis of high throughput
+community sequencing data nat methods – doi nmeth 
+f 
+
+carey c j beman j m eviner v t malmstrom c m and hart s c 
+soil microbial community structure is unaltered by plant invasion vegetation
+clipping and nitrogen fertilization in experimental semi arid grasslands front 
+microbiol doi fmicb 
+
+chen d m lan z c hu s j and bai y f effects of nitrogen
+enrichment on belowground communities in grassland relative role of soil
+nitrogen availability vs soil acidification soil biol biochem – 
+doi j soilbio 
+
+chen w xu r wu y chen j zhang y hu t et al plant diversity
+is coupled with beta not alpha diversity of soil fungal communities following
+n enrichment in a semi arid grassland soil biol biochem – doi 
+ j soilbio 
+
+chen y l xu t l veresoglou s d hu h w hao z p hu y j 
+et al plant diversity represents the prevalent determinant of soil fungal
+community structure across temperate grasslands in northern china soil biol 
+biochem – doi j soilbio 
+
+cregger m a schadt c w mcdowell n g pockman w t and classen a t 
+ response of the soil microbial community to changes in precipitation
+in a semiarid ecosystem appl environ microbiol – doi 
+aem 
+
+crowther t w maynard d s crowther t r peccia j smith j r and
+bradford m a untangling the fungal niche the trait based approach 
+front microbiol doi fmicb 
+
+curiel yuste j fernandez gonzalez a j fernandez lopez m ogaya r 
+penuelas j sardans j et al strong functional stability of soil microbial
+communities under semiarid mediterranean conditions and subjected to
+long term shifts in baseline precipitation soil biol biochem – 
+doi j soilbio 
+
+edgar r c muscle multiple sequence alignment with high accuracy and
+high throughput nucleic acids res – doi nar gkh 
+
+edgar r c uparse highly accurate otu sequences from microbial
+amplicon reads nat methods – doi nmeth 
+
+edgar r c haas b j clemente j c quince c and knight r 
+uchime improves sensitivity and speed of chimera detection bioinformatics
+ – doi bioinformatics btr 
+
+entwistle e m zak d r and edwards i p long term experimental
+nitrogen deposition alters the composition of the active fungal community in
+the forest floor soil sci soc am j – doi sssaj 
+ 
+
+evans s e and wallenstein m d climate change alters ecological
+strategies of soil bacteria ecol lett – doi ele 
+
+evans s e wallenstein m d and burke i c is bacterial moisture niche
+a good predictor of shifts in community composition under long term drought 
+ecology – doi 
+
+fierer n embracing the unknown disentangling the complexities of
+the soil microbiome nat rev microbiol – doi nrmicro 
+ 
+
+fierer n bradford m a and jackson r b toward an ecological
+classification of soil bacteria ecology – doi 
+
+fierer n leff j w adams b j nielsen u n bates s t lauber c l 
+et al cross biome metagenomic analyses of soil microbial communities
+and their functional attributes proc natl acad sci u s a – 
+doi pnas 
+
+galloway j n townsend a r erisman j w bekunda m cai z freney j r 
+et al transformation of the nitrogen cycle recent trends questions and
+potential solutions science – doi science 
+
+gao g l ding g d zhao y y wu b zhang y q qin s g et al 
+ fractal approach to estimating changes in soil properties following the
+establishment of caragana korshinskii shelterbelts in ningxia nw china ecol 
+indic – doi j ecolind 
+
+gordon g j and gehring c a molecular characterization of pezizalean
+ectomycorrhizas associated with pinyon pine during drought mycorrhiza 
+ – doi s 
+
+grace j structural equation modeling and natural systems new york ny 
+cambridge university press doi cbo 
+
+green l e porras alfaro a and sinsabaugh r l translocation of
+nitrogen and carbon integrates biotic crust and grass production in desert
+grassland j ecol – doi j x
+
+gueidan c roux c and lutzoni f using a multigene phylogenetic
+analysis to assess generic delineation and character evolution in verrucariaceae
+ verrucariales ascomycota mycol res – doi j mycres 
+ 
+
+gutknecht j l m field c b and balser t c microbial communities
+and their responses to simulated global change fluctuate greatly over multiple
+years glob change biol – doi j 
+ x
+
+haas b j gevers d earl a m feldgarden m ward d v giannoukos g 
+et al chimeric s rrna sequence formation and detection in
+sanger and pyrosequenced pcr amplicons genome res – 
+doi gr 
+
+he d xiang x j he j s wang c cao g m adams j et al 
+composition of the soil fungal community is more sensitive to phosphorus than
+nitrogen addition in the alpine meadow on the qinghai tibetan plateau biol 
+fertil soils – doi s 
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org articles fmicb full supplementary material
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org nature 
+https doi org gcb 
+https doi org 
+https doi org j femsre 
+https doi org nmeth 
+https doi org jvs 
+https doi org nmeth f 
+https doi org nmeth f 
+https doi org fmicb 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org aem 
+https doi org aem 
+https doi org fmicb 
+https doi org j soilbio 
+https doi org nar gkh 
+https doi org nmeth 
+https doi org bioinformatics btr 
+https doi org sssaj 
+https doi org sssaj 
+https doi org ele 
+https doi org 
+https doi org nrmicro 
+https doi org nrmicro 
+https doi org 
+https doi org pnas 
+https doi org science 
+https doi org j ecolind 
+https doi org s 
+https doi org cbo 
+https doi org j x
+https doi org j mycres 
+https doi org j mycres 
+https doi org j x
+https doi org j x
+https doi org gr 
+https doi org s 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+healy r a smith m e bonito g m pfister d h ge z w guevara g g 
+et al high diversity and widespread occurrence of mitotic spore mats in
+ectomycorrhizal pezizales mol ecol – doi mec 
+
+ho a di lonardo d p and bodelier p l revisiting life strategy
+concepts in environmental microbial ecology fems microbiol ecol fix 
+doi femsec fix 
+
+jia x zha t s gong j n wang b zhang y q wu b et al carbon
+and water exchange over a temperate semi arid shrubland during three years of
+contrasting precipitation and soil moisture patterns agric for meteorol 
+ – doi j agrformet 
+
+jin z zhu y li x dong y and an z soil n retention and nitrate
+leaching in three types of dunes in the mu us desert of china sci rep 
+doi srep 
+
+laity j j deserts and desert environments chichester wiley blackwell 
+leff j w jones s e prober s m barberan a borer e t firn j l 
+
+et al consistent responses of soil microbial communities to elevated
+nutrient inputs in grasslands across the globe proc natl acad sci u s a 
+ – doi pnas 
+
+lennon j t and jones s e microbial seed banks the ecological
+and evolutionary implications of dormancy nat rev microbiol – 
+doi nrmicro 
+
+li h xu z yan q yang s van nostrand j d wang z et al a soil
+microbial beta diversity is linked with compositional variation in aboveground
+plant biomass in a semi arid grassland plant soil doi s 
+ 
+
+li h yang s xu z w yan q y li x b van nostrand j d et al b 
+responses of soil microbial functional genes to global changes are indirectly
+influenced by aboveground plant biomass variation soil biol biochem 
+ – doi j soilbio 
+
+li h xu z yang s li x top e m wang r et al responses of
+soil bacterial communities to nitrogen deposition and precipitation increment
+are closely linked with aboveground community variation microb ecol 
+ – doi s z
+
+liu j wu n wang h sun j peng b jiang p et al nitrogen addition
+affects chemical compositions of plant tissues litter and soil organic matter 
+ecology – doi 
+
+liu j b fa k y zhang y q wu b qin s g and jia x abiotic co 
+uptake from the atmosphere by semiarid desert soil and its partitioning into soil
+phases geophys res lett – doi gl 
+
+lowell j l and klein d a comparative single strand conformation
+polymorphism sscp and microscopy based analysis of nitrogen
+cultivation interactive effects on the fungal community of a semiarid
+steppe soil fems microbiol ecol – doi j 
+tb x
+
+maestre f t eldridge d j soliveres s kefi s delgado baquerizo m bowker 
+m a et al structure and functioning of dryland ecosystems in a
+changing world annu rev ecol evol syst – doi annurev 
+ecolsys 
+
+maestre f t salguero gomez r and quero j l it is getting hotter
+in here determining and projecting the impacts of global environmental
+change on drylands philos trans r soc lond b biol sci – 
+doi rstb 
+
+magoc t and salzberg s l flash fast length adjustment of short reads
+to improve genome assemblies bioinformatics – doi 
+bioinformatics btr 
+
+makhalanyane t p valverde a gunnigle e frossard a ramond j b and
+cowan d a microbial ecology of hot desert edaphic systems fems
+microbiol rev – doi femsre fuu 
+
+manzoni s schimel j p and porporato a responses of soil microbial
+communities to water stress results from a meta analysis ecology – 
+doi 
+
+mchugh t a morrissey e m mueller r c gallegos graves v kuske 
+c r and reed s c bacterial fungal and plant communities
+exhibit no biomass or compositional response to two years of simulated
+nitrogen deposition in a semiarid grassland environ microbiol – 
+doi 
+
+mchugh t a and schwartz e changes in plant community composition
+and reduced precipitation have limited effects on the structure of soil bacterial
+
+and fungal communities present in a semiarid grassland plant soil 
+ – doi s 
+
+nie m pendall e bell c gasch c k raut s tamang s et al positive
+climate feedbacks of soil microbial communities in a semi arid grassland ecol 
+lett – doi ele 
+
+noy meir i desert ecosystems environment and producers annu rev 
+ecol syst – doi annurev es 
+
+oksanen j blanchet f g kindt r legendre p minchin p r o’hara r 
+et al package ‘vegan’ community ecology package version available
+at http cran r project org package vegan
+
+poggeler s evolution of multicopper oxidase genes in coprophilous
+and non coprophilous members of the order sordariales curr genomics 
+ – doi 
+
+porras alfaro a herrera j natvig d o lipinski k and sinsabaugh r l 
+ diversity and distribution of soil fungal communities in a semiarid
+grassland mycologia – doi 
+
+prober s m leff j w bates s t borer e t firn j harpole w s et al 
+ plant diversity predicts beta but not alpha diversity of soil microbes
+across grasslands worldwide ecol lett – doi ele 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al the
+silva ribosomal rna gene database project improved data processing and
+web based tools nucleic acids res d –d doi nar gks 
+
+r core team r a language and environment for statistical computing 
+vienna r foundation for statistical computing 
+
+ramirez k s craine j m and fierer n consistent effects of nitrogen
+amendments on soil microbial communities and processes across biomes glob 
+change biol – doi j x
+
+ren h y xu z w huang j h lu x t zeng d h yuan z y et al 
+increased precipitation induces a positive plant soil feedback in a semi arid
+grassland plant soil – doi s 
+
+revelle w psych procedures for personality and psychological research 
+evanston northwestern university 
+
+she w zhang y qin s wu b and bai y increased precipitation and
+nitrogen alter shrub architecture in a desert shrubland implications for primary
+production front plant sci doi fpls 
+
+she w w zhang y q qin s g wu b liu z liu j et al habitat
+effect on allometry of a xeric shrub artemisia ordosica krasch in the mu us
+desert of northern china forests – doi f 
+
+smith m e trappe j m and rizzo d m genea genabea and gilkeya
+gen nov ascomata and ectomycorrhiza formation in a quercus woodland 
+mycologia – doi 
+
+sun y zhang y feng w qin s liu z bai y et al effects of xeric
+shrubs on soil microbial communities in a desert in northern china plant soil
+ – doi s y
+
+tecon r and or d biophysical processes supporting the diversity of
+microbial life in soil fems microbiol rev – doi femsre 
+fux 
+
+tedersoo l hansen k perry b a and kjoller r molecular
+and morphological diversity of pezizalean ectomycorrhiza new phytol 
+ – doi j x
+
+venables w n and ripley b d modern applied statistics with s th
+edn new york ny springer doi 
+
+wang j bao j t su j q li x r chen g x and ma x f impact
+of inorganic nitrogen additions on microbes in biological soil crusts soil biol 
+biochem – doi j soilbio 
+
+wang j zhang t li l li j feng y and lu q the patterns and
+drivers of bacterial and fungal beta diversity in a typical dryland ecosystem of
+northwest china front microbiol doi fmicb 
+
+wang q garrity g m tiedje j m and cole j r naive bayesian
+classifier for rapid assignment of rrna sequences into the new bacterial
+taxonomy appl environ microbiol – doi aem 
+ 
+
+wang x van nostrand j d deng y lu x wang c zhou j et al 
+ scale dependent effects of climate and geographic distance on bacterial
+diversity patterns across northern china’s grasslands fems microbiol ecol 
+ fiv doi femsec fiv 
+
+wang y zhang x zhou q zhang x and wei j comparative
+transcriptome analysis of the lichen forming fungus endocarpon pusillum
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https doi org mec 
+https doi org femsec fix 
+https doi org j agrformet 
+https doi org srep 
+https doi org pnas 
+https doi org nrmicro 
+https doi org s 
+https doi org s 
+https doi org j soilbio 
+https doi org s z
+https doi org 
+https doi org gl 
+https doi org j tb x
+https doi org j tb x
+https doi org annurev ecolsys 
+https doi org annurev ecolsys 
+https doi org rstb 
+https doi org bioinformatics btr 
+https doi org bioinformatics btr 
+https doi org femsre fuu 
+https doi org 
+https doi org 
+https doi org s 
+https doi org ele 
+https doi org annurev es 
+http cran r project org package vegan
+https doi org 
+https doi org 
+https doi org ele 
+https doi org nar gks 
+https doi org j x
+https doi org s 
+https doi org fpls 
+https doi org f 
+https doi org 
+https doi org s y
+https doi org femsre fux 
+https doi org femsre fux 
+https doi org j x
+https doi org 
+https doi org j soilbio 
+https doi org fmicb 
+https doi org aem 
+https doi org aem 
+https doi org femsec fiv 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb february time 
+
+she et al desert microbes respond to environmental changes
+
+elucidates its drought adaptation mechanisms sci china life sci – 
+doi s 
+
+wang y y liu b zhang x y zhou q m zhang t li h et al 
+ genome characteristics reveal the impact of lichenization on lichen 
+forming fungus endocarpon pusillum hedwig verrucariales ascomycota 
+bmc genomics doi 
+
+wardle d a yeates g w barker g m and bonner k i the influence
+of plant litter diversity on decomposer abundance and diversity soil biol 
+biochem – doi j soilbio 
+
+wei c yu q bai e lu x li q xia j et al nitrogen deposition
+weakens plant microbe interactions in grassland ecosystems glob change biol 
+ – doi gcb 
+
+wickham h ggplot elegant graphics for data analysis nd edn 
+new york ny springer doi 
+
+xu w luo x s pan y p zhang l tang a h shen j l et al 
+quantifying atmospheric nitrogen deposition through a nationwide monitoring
+network across china atmos chem phys – doi acp 
+ 
+
+xu z ren h y li m h van ruijven j han x g wan s q et al 
+ environmental changes drive the temporal stability of semi arid
+natural grasslands through altering species asynchrony j ecol – 
+doi 
+
+yao f yang s wang z wang x ye j wang x et al microbial taxa
+distribution is associated with ecological trophic cascades along an elevation
+gradient front microbiol doi fmicb 
+
+yuan x knelman j e gasarch e wang d l nemergut d r and seastedt 
+t r plant community and soil chemistry responses to long term
+nitrogen inputs drive changes in alpine bacterial communities ecology 
+ – doi 
+
+yuste j c penuelas j estiarte m garcia mas j mattana s ogaya r et al 
+ drought resistant fungi control soil organic matter decomposition and
+its response to temperature glob change biol – doi j 
+ x
+
+yves r lavaan an r package for structural equation modeling j stat 
+softw – doi jss v i 
+
+zeng j liu x j song l lin x g zhang h y shen c c et al 
+nitrogen fertilization directly affects soil bacterial diversity and indirectly affects
+bacterial community composition soil biol biochem – doi j 
+soilbio 
+
+zhang x zhang g chen q and han x soil bacterial communities
+respond to climate changes in a temperate steppe plos one e 
+doi journal pone 
+
+zhang x m wei h w chen q s and han x g the counteractive
+effects of nitrogen addition and watering on soil bacterial communities in a
+steppe ecosystem soil biol biochem – doi j soilbio 
+ 
+
+zhang y li h wang y and wei j a the calcium binding protein
+epann from the lichenized fungus endocarpon pusillum enhances stress
+tolerance in yeast and plants fungal genet biol – doi j fgb 
+ 
+
+zhang y shen h he x thomas b w lupwayi n z hao x 
+et al b fertilization shapes bacterial community structure by
+alteration of soil ph front microbiol doi fmicb 
+ 
+
+conflict of interest statement the authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest 
+
+copyright © she bai zhang qin feng sun zheng and wu this is an
+open access article distributed under the terms of the creative commons attribution
+license cc by the use distribution or reproduction in other forums is permitted 
+provided the original author s and the copyright owner are credited and that the
+original publication in this journal is cited in accordance with accepted academic
+practice no use distribution or reproduction is permitted which does not comply
+with these terms 
+
+frontiers in microbiology www frontiersin org february volume article 
+
+https doi org s 
+https doi org 
+https doi org j soilbio 
+https doi org gcb 
+https doi org 
+https doi org acp 
+https doi org acp 
+https doi org 
+https doi org fmicb 
+https doi org 
+https doi org j x
+https doi org j x
+https doi org jss v i 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org journal pone 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org j fgb 
+https doi org j fgb 
+https doi org fmicb 
+https doi org fmicb 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+	resource availability drives responses of soil microbial communities to short term precipitation and nitrogen addition in a desert shrubland
+	introduction
+	materials and methods
+	study site and experimental design
+	plant and soil measurements
+	soil dna extraction amplification and sequencing
+	bioinformatics processing
+	statistical analyses
+
+	results
+	plant and soil properties
+	diversity and composition of microbial communities
+	relative abundance of dominant microbial taxa
+	relationships between microbial communities and plant soil properties
+
+	discussion
+	precipitation increment but not nitrogen enrichment significantly influenced desert bacterial community
+	increased precipitation and nitrogen altered the drought tolerant and trophic traits of desert fungal community
+	precipitation and nitrogen addition primarily directly affected desert microbial communities via changing resource availability
+
+	conclusions
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

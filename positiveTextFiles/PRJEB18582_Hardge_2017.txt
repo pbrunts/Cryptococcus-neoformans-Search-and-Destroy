@@ -1,0 +1,1535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+marine ecology progress series 
+
+
+marine ecology progress series
+mar ecol prog ser
+
+vol – 
+https doi org meps 
+
+published may 
+
+introduction
+
+the arctic ocean offers highly variable and com 
+plex habitats that are unique in their structure and
+biology within the sea ice sub habitats such as
+snow melt ponds brine channels and the ice–water
+interface can be found while studies concerning
+melt ponds and snow are rare it is well known that
+bottom ice is usually inhabited by a diverse protist
+community i e unicellular eukaryotes horner 
+hor ner et al the sea ice community is mainly
+do mi nated by diatomea poulin et al comeau
+et al whereas the pelagic community is mainly
+dominated by dinophyceae booth horner 
+jensen hansen terrado et al kilias et
+al 
+
+the ice– water interface plays an important role in
+structuring the habitats through the exchange of nu 
+trients and protists during melting and freezing pro 
+cesses ackley et al gradinger ikävalko 
+melnikov et al róz ska et al lee et al 
+ the community in the water column is influ 
+enced by water mass properties and sea ice concen 
+tration lovejoy et al hegseth sundfjord
+ terrado et al moran et al kilias et
+al pelagic protist species can be entrapped in
+the new ice and form the base for the succession of
+protistan communities in the following spring niemi
+et al furthermore changes in sea ice tempera 
+ture salinity and nutrient composition during sea ice
+melt have an impact on succession of e g diatomea
+ reviewed by arrigo during the melting pro 
+
+© inter research · www int res com corresponding author kristin hardge awi de
+
+sea ice origin and sea ice retreat as possible drivers
+of variability in arctic marine protist composition
+
+kristin hardge ilka peeken stefan neuhaus thomas krumpen 
+thorsten stoeck katja metfies 
+
+ alfred wegener institute helmholtz centre for polar and marine research bremerhaven germany
+ jacobs university bremen bremen germany
+
+ ecology group faculty of biology university of kaiserslautern kaiserslautern germany
+
+abstract the ongoing decrease in sea ice thickness and extent is expected to have significant
+implications for protists in the arctic ocean we analyzed protist community composition and
+diversity in water and sea ice samples to elucidate the impact of sea ice retreat and sea ice origin 
+samples were collected during summer periods with contrasting sea ice concentrations 
+and the results are based on a combination of arisa and sequencing of the s rrna v 
+gene region we show for the first time that the regions of ice floe origin play a fundamental role
+in structuring the sea ice community community structure of pelagic protists correlated signifi 
+cantly with sea ice concentrations water masses and sampling regions both habitats differed in
+protist diversity and composition between years and were less diverse during the recorded sea ice
+minimum year a reduction in protist diversity was especially true for rare sea ice algae in
+ which suggests that sea ice algae might be more vulnerable to climate change in the future
+arctic changes in protist diversity can be expected due to sea ice decline and a temporal and
+ spatial shift in sea ice formation 
+
+key words s rrna gene · arctic ocean · arisa · illumina sequencing · biogeography ·
+ice algae · phytoplankton
+
+resale or republication not permitted without written consent of the publisher
+
+
+
+mar ecol prog ser – 
+
+cess particulate material and ice algae are released
+into the water column ambrose et al juul ped 
+ersen et al boetius et al despite ongoing
+environmental changes particularly the constant loss
+of sea ice little is known about the impact of ambient
+environmental conditions during sea ice melt or for 
+mation on standing stocks of arctic sea ice protists or
+sea ice nutrient inventories gradinger ikävalko
+ riedel et al róz ska et al evidence
+for the existence of a potential link between sea ice
+origin i e the region of sea ice formation and
+nutrient or protist composition in sea ice is missing 
+
+whereas in the past arctic sea ice melting occurred
+predominantly from the top the combined effects of
+different environmental factors such as increased
+heat transport via the north atlantic current holli 
+day et al beszczynska möller et al 
+warmer air temperatures serreze et al comiso
+ stroeve et al and strong winds parkin 
+son comiso zhang et al now result in
+an additional strong melting of sea ice from the bot 
+tom as a consequence sea ice thickness decreases
+ reviewed in meier et al melt ponds prolifer 
+ate nicolaus et al and the fraction of the ocean
+covered by sea ice i e sea ice concentration de 
+clines maslanik et al comiso et al 
+comiso the most recent sea ice minimum was
+observed in summer during this summer net
+primary productivity of algae in sea ice water col 
+umn and melt ponds exceeded previous estimates
+and were highly influenced by sea ice melting fer 
+nández méndez et al the lower sea ice con 
+centration strongly influenced the community of
+under ice fauna in the eurasian basin with a shift to
+pelagic amphipods at nearby ice free stations david
+et al little is known about how the drastic sea
+ice loss affects the biodiversity of sea ice and pelagic
+protists melnikov et al coupel et al 
+overall extensive large scale studies investigating
+the protist community structure and the environmen 
+tal impact on their distribution in the central arctic
+ocean are still scarce because of this region’s limited
+accessibility and methodological constraints large 
+scale studies using molecular methods are needed to
+assess biogeographic patterns of protists and their
+response to changing sea ice concentrations 
+
+this study focused on hypotheses a decline in
+sea ice concentration will strongly affect protist com 
+munity structure in both sea ice and the water col 
+umn and sea ice origin is a major driver of vari 
+ability in protist community structure in sea ice to
+investigate these hypotheses during summer peri 
+ods august and september and we col 
+
+lected sea ice and water samples with different sea
+ice origins and sea ice concentrations we used the
+molecular fingerprinting method arisa automated
+ribosomal intergenic spacer analysis to obtain an
+overview of protist community heterogeneity and to
+identify potential statistical correlations between
+protist communities and sea ice origin sampling re 
+gions or environmental variables i e sea ice thick 
+ness temperature salinity and dissolved nutrients in
+a total of samples moreover we analyzed a repre 
+sentative subset of samples with illumina sequencing
+of the s rrna gene v region to obtain an over 
+view of protist community composition i e abun 
+dance of protist groups or taxa and diversity i e 
+number of operational taxonomic units otus 
+
+material and methods
+
+collection of sea ice samples
+
+samples of first year fyi and multi year ice myi 
+ice that survived the previous summer period usu 
+ally thicker than fyi were taken in the central arc 
+tic ocean during the rv ‘polarstern’ expeditions
+transarc in ark xxvi or ps august to
+ september fig a and icearc in ark
+xxvii or ps august to september 
+fig b and supplement at www int res com articles 
+suppl m p supp pdf a total of sea ice cores
+were randomly taken during the transarc ex pe di 
+tion in and during the icearc expedition in
+ fig a table s in supplement ‘physical’
+and ‘biological’ ice cores were drilled with a kovacs 
+cm diameter corer kovacs enterprise in physical
+cores the temperature of the ice was directly meas 
+ured on the floe by drilling into the ice and determin 
+ing the temperature every cm with a temperature
+probe testo these physical cores were sec 
+tioned in cm pieces and the salinity determined
+with a salinometer wtw cond after melting 
+subsamples were taken for measurements of dis 
+solved inorganic nutrients phosphate silicic acid 
+nitrate and nitrite according to standard methods
+ kattner becker aminot kérouel 
+detection limits were µmol l− for nitrate and
+ µmol l− for phosphate nutrients in sea ice
+samples collected in were directly measured on
+board the ship while those collected in were
+stored frozen and measured in the laboratory at the
+alfred wegener institute 
+
+in addition biological cores were sampled for mo 
+lecular analysis of the s rrna gene the biological
+
+ 
+
+http www int res com articles suppl m p supp pdf
+http www int res com articles suppl m p supp pdf
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists
+
+cores were sectioned in cm intervals and melted in
+ µm filtered sea water to minimize osmotic stress to
+protists during the melting process miller et al 
+melting of sea ice was conducted under low light con 
+ditions at °c for to h for molecular analysis l
+of sea ice water was filtered through isopore mem 
+brane filters millipore with pore sizes of and
+ µm to ensure collection of all protist cell sizes fil 
+ters were stored in eppendorf tubes at − °c 
+
+the sea ice dataset for focused on the bottom
+sea ice community whereas in the focus was on
+sampling the community of the entire sea ice core 
+however the community patterns of protists in the
+sea ice samples are still comparable since the main
+biomass of protists is present in the bottom ice section
+ horner horner et al 
+
+collection of water samples
+
+at the ice stations and additional open water sta 
+tions a total of water samples were collected in
+ fig a kilias et al and water sam 
+ples in fig b table s in supplement 
+most of the water samples collected during and
+ were taken in the same region within the
+eurasian basin fig c white box water samples
+were collected with niskin bottles attached to a ctd
+ conductivity temperature depth rosette seabird
+type sbe × l from the deep chlorophyll
+maximum dcm which was confirmed with fluoro 
+metric measurements from the ctd casts and varied
+between and m mainly m in both years for
+molecular analysis the water samples were processed
+
+ 
+
+fig station maps of the rv ‘po 
+larstern’ expeditions to the central
+arctic showing stations sampled
+during a transarc ark xxvi 
+in red dots and b icearc
+ ark xxvii in black dots 
+red marked station numbers indi 
+cate the additional sampling of sea
+ice cores sea ice stations were
+numbered individually in sea
+ice concentrations are given for the
+day of sea ice minimum extent on 
+september and september
+ respectively data from www 
+meereis portal de c over view of
+expeditions and oceanography of
+the sampling area white box com 
+mon sampling area of the expedi 
+tions red arrows atlantic water 
+blue arrows pacific water the
+eurasian basin is subdivided into
+the nansen basin nb and amund 
+sen basin ab the amerasian basin
+is subdivided into the maka rov
+basin mb and canada basin cb 
+
+
+
+mar ecol prog ser – 
+
+as described for the sea ice samples the water sam 
+ples collected in were analyzed with arisa and
+ pyrosequencing and are discussed by kilias et
+al here we re analyzed these samples with
+illumina sequencing to ensure that sequencing
+results are comparable since the dna pooling and
+sequence preprocessing used here see descriptions
+of procedures below were considerably different
+from that of kilias et al furthermore we used
+the arisa results of the water column focused study
+of kilias et al to compare the patterns of
+pelagic protists with the patterns of sea ice protists
+collected in and 
+
+water temperature salinity and dissolved inorga 
+nic nutrients were determined for the dcm ark 
+xxvi kattner ludwichowski ark xxvii 
+bakker as described for sea ice samples the
+nutrients were measured directly on board in both
+years water masses were classified based on a com 
+bination of water temperature salinity and nutrient
+signatures at the dcm and named according to their
+main signatures jones et al in atlantic water
+ aw mixed water i mw i pacific water pw and
+mixed water ii mw ii see table s 
+
+sea ice concentration and origin
+
+the ice concentration data used in this paper were
+made available by ifremer ezraty et al the
+image product is based on ghz ssm i brightness
+temperatures using the artist sea ice asi algo 
+rithm developed at the university of bremen spreen
+et al the use of the ghz channel data
+enables identification of sea ice concentration at 
+× km pixel resolution 
+
+sea ice origin was determined based on ice drift
+information obtained from satellites two different
+sets of ice drift products were used the first dataset 
+polar pathfinder sea ice motion vectors version 
+obtained from the national snow and ice data cen 
+ter nsidc was chosen because of its year round
+availability krumpen et al below it was used
+to calculate ice drift trajectories during the summer
+months june to august the second dataset sea ice
+motion provided by the center for satellite exploita 
+tion and research cersat at ifremer shows a
+good performance on the siberian shelf where a
+large part of new sea ice is formed krumpen et al 
+ and was therefore used to complement the cal 
+culation of ice drift trajectories between september
+and may to determine drift trajectories and source
+areas of sampled sea ice a specific ice area was
+
+tracked backwards a more detailed method descrip 
+tion is provided in krumpen et al 
+
+dna isolation and arisa analysis
+
+genomic dna was extracted from filters using the
+nucleospin® plant ii kit macherey nagel accord 
+ing to the manufacturer’s protocol for arisa of the
+ water samples and the sea ice cores the ex 
+tracted dna of each size fraction and µm 
+was pooled in equal volumes triplicates of the its 
+ internal transcribed spacer region were amplified
+using the primer set f modified after medlin et
+al and its white et al as described in
+kilias et al 
+
+analysis of fragment sizes achieved with arisa
+was carried out according to kilias et al in
+short electropherograms were analyzed with gen 
+emapper v software applied biosystems and all
+fragments smaller than bp were excluded from the
+analysis we used r r development core team
+ for binning to remove background noise and
+obtain sample by bin otu tables ramette a
+given fragment length was considered present if it
+appeared in at least of the replicates 
+
+illumina sequencing
+
+the dna isolates of a subset of water and sea
+ice samples table s in supplement analyzed
+with arisa were additionally sequenced with illu 
+mina technology isolated dna of each filter size 
+ and µm was pooled in equal volumes the v 
+region was amplified in triplicate using universal
+primer set tareuk fwd and tar eukrev 
+ stoeck et al the pcr mixture con tained µl
+ × phusion high fidelity buffer µl dntp mix µl
+of each primer phusion hot start high fidelity tag
+polymerase new england biolabs and µl template
+dna in a final volume of µl dna amplification
+was carried out in rounds using a mastercycler
+ eppendorf initial activation was performed at °c
+for s followed by denaturation at °c for s 
+cycles annealing at °c for s and extension at
+ °c for s in the second round denaturation was
+performed at °c for s cycles followed by
+annealing at °c for s and extension at °c for
+ s the final extension was at °c for min pcr
+products were then purified with nucleospin® gel 
+pcr clean up kit macherey nagel according to
+manufacturer’s protocol triplicates were pooled and
+
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists 
+
+sequencing was performed on an illumina miseq
+producing × paired end reads 
+
+sequence analysis
+
+for merging of paired end reads the tool fastq join
+within the open source bioinformatics pipeline
+qiime v caporaso et al was used with
+default settings an analysis pipeline developed in 
+house was used for sequence processing stecher et
+al in short reads were quality filtered accord 
+ing to recommended settings in bokulich et al 
+ only sequences that fully matched the primer
+sequences at the beginning and end of the sequence
+re spectively and which were between and
+ bp in length length of expected insert to
+ bp were further processed sequence numbers
+were down sampled to the lowest number of se 
+quences occurring in the dataset sequences 
+subsequently the qiime workflow ‘usearch qf’ based
+on usearch v edgar which incorpo 
+rates uchime edgar et al was used for
+chimeric sequence detection and clustering of otus 
+pre clustered sequences were checked for chimeras 
+both by using reference data for comparison silva
+ ssu ref nr and with utilization of the abun 
+dance sorted query sequence pre cluster as self 
+ reference i e de novo the remaining sequence set
+was clustered de novo into otus at a minimum simi 
+larity threshold of according to bokulich et al 
+ all otus consisting of less than of
+processed sequences were removed 
+
+otu sequences were classified by phylogenetic
+placement utilizing phyloassigner v vergin et
+al which places sequences in a fixed rooted
+backbone tree and assigns queries to nodes using a
+last common ancestor lca approach which incor 
+porates placement uncertainties matsen et al 
+to obtain a reference set the arb tree of silva 
+ssu ref nr and respective multiple sequence align 
+ment was thinned down manually by optimizing the
+tree to a structurally and taxonomically representa 
+tive set of leafs this compiled reference set is
+available on request for a more detailed description 
+see vergin et al and stecher et al 
+
+for subsequent interpretation of the resulting com 
+munity structures we classified the community into
+an abundant ≥ of sequence abundance and rare
+ biosphere and applied these thresholds to
+each sample separately the sequencing raw reads
+were deposited at the european nucleotide archive
+ ena under the accession number prjeb 
+
+statistics
+
+to evaluate whether protist community patterns ob 
+tained with arisa and illumina were comparable a
+mantel test was performed within r v r devel 
+opment core team using the package ‘ade ’
+ dray dufour the mantel test de scribes a po 
+tential correlation between different distance matri 
+ces which is indicated by the correlation coefficient r 
+the p value describes the strength of this correlation 
+the mantel test was done with permutations and
+the distance measurements jaccard for arisa and
+jaccard and bray curtis for illumina as the arisa
+dataset is based on the presence absence of its 
+fragments we computed the mantel test with jaccard
+as the distance measurement to ensure that both ma 
+trices had the same dimensions we performed the
+mantel test with a subset of arisa samples which
+were also se quenced 
+
+to visualize the protist community patterns ob 
+tained with arisa and illumina we applied a non 
+metric multidimensional scaling nmds with the
+jaccard index i e presence absence of its frag 
+ments or otus as the distance measurement by
+using the statistics software past v hammer et
+al in the nmds plots samples with similar
+protist community diversity will cluster close to each
+other to test whether protist community patterns
+obtained with arisa and illumina differed between
+years and habitats we performed the non parametric
+multivariate analysis anosim r package ‘vegan’ 
+oksanen et al with permutations and jac 
+card as the distance measurement 
+
+a potential correlation of arisa data with all envi 
+ronmental variables i e ice thickness ice concentra 
+tion temperature salinity and dissolved nutrients of
+sea ice and water was examined by the application of
+a mantel test this was done with permutations
+and the distance measures jaccard arisa and eu 
+clidean environmental variables if the mantel test
+gave significant results we assessed the best fitting of
+single environmental variables to the arisa distances
+by using the ‘envfit’ function r package vegan ‘en 
+vfit’ is a random permutation method permuta 
+tions which overlays the environmental variables
+onto the nmds ordination of protists and finds the
+maximum correlation to the ordination configuration 
+
+in a next step we performed anosim tests to exa 
+mine possible significant groupings of protists ac 
+cording to sampling region and sea ice origin sea ice
+samples or sampling region and water mass water
+samples for this purpose we used the arisa data 
+set because the sample size was considerably larger
+
+
+
+mar ecol prog ser – 
+
+than for the illumina dataset and thus allowed the
+detection of potential relationships with a high confi 
+dence level the anosim used no multiple testing 
+hence no multiple testing correction e g bonferroni
+consideration was applied 
+
+results
+
+protist community structure
+
+the arisa dataset consisted of on average 
+fragments sample− sd overall we detected
+ different its fragments with a size range be 
+tween and bp sequence processing resulted
+in a total of million high quality reads mean
+lengths to bp that were assigned to 
+otus with on average otus sample− the pro 
+tist community structures obtained with arisa and
+illumina sequencing were highly similar to each
+other mantel test r p 
+
+in both years we observed a higher number of frag 
+ments per sample and site variability in the sea ice
+samples compared to the water samples table 
+the nmds ordination analyses based on jaccard’s
+distances of its fragments and otus fig suggest
+a highly significant clustering of the samples into 
+groups sea ice cores and water samples subdivided
+according to the sampling years anosim with
+arisa data r p anosim with illu 
+mina r p with both methods sea ice
+samples in showed higher site variability than
+
+all other samples fig water communities in both
+years were more diverse i e higher number of otus 
+than sea ice communities in both years sea ice cores
+were mainly characterized by chrysophy ceae mainly
+ochromonadales dia to mea mainly thalassiosira 
+and cercozoa mainly silico filosea e g ebria fig 
+in contrast typical taxa found in the water column
+were chloroplastida main ly mami el lo phy ceae e g 
+micro monas and dino flagellata mainly dinophy c 
+eae e g gymnodinium 
+
+sea ice samples
+
+illumina sequencing of sea ice samples resulted in
+different community compositions of sea ice protists
+between the years the number of otus was con 
+siderably lower in the sea ice samples in com 
+pared to table these differences were
+mainly visible in a lower number of otus belonging
+to the rare biosphere in in a higher pro 
+portion of sequences originating from holozoa main 
+ly choanomonada was observed in the sea ice core
+bottom compared to the entire ice cores in fig 
+ chlorella trebouxiophyceae which represented
+the majority of ‘other eukaryota’ fig was highly
+abundant in ice cores of in contrast to 
+higher proportions of gymnodinium related species
+ dinoflagellata and ochromonas chryso phy ceae 
+were observed in sea ice of in both years the
+most diverse protist group in sea ice was diatomea
+ otus in cluding large proportions of nitzschia
+
+ 
+
+expedition region habitat arisa illumina sequencing 
+ no of average no sd no of average no sd average no average no 
+ samples of fragments samples of otus otus rare otus abundant 
+ biosphere biosphere
+
+transarc eurasian water 
+ basin sea ice 
+
+ amerasian water 
+ basin sea ice 
+ 
+icearc eurasian water 
+ basin sea ice 
+
+ with water 
+ common sea ice 
+ sampling 
+ region
+
+table overview of arisa and illumina analysis showing number of water and sea ice samples collected during the rv ‘polarstern’
+expeditions transarc in and icearc in to the central arctic ocean for each region and habitat the average number of in 
+ternal transcribed spacer its fragments or operational taxonomic units otus including standard deviations sd are shown for
+illumina sequencing a further division into rare and abundant ≥ biosphere was made a common sampling region was 
+
+calculated for samples collected in in the same regions of the eurasian basin as in 
+
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists
+
+and navicula diatomea abundance
+was lower but diversity was higher in
+ compared to however 
+nitz schia showed higher contributions
+to the sea ice algae community in 
+ total abundance than in 
+ total abundance while melo 
+sira was more frequently ob served in
+ total abundance than in
+ total abundance 
+
+arisa of the sea ice samples
+ fig a revealed significant differ 
+ences in protist community composi 
+tion and variability at an annual scale
+ ano sim r p com 
+pared to the variability in sea ice
+protist community patterns was higher
+in fig a and see higher stan 
+dard deviation of the average frag 
+ment number in table samples col 
+lected in showed a significant
+sub clustering fig b that was best
+ex plained by sea ice origin table 
+in nansen basin amundsen basin and
+the canada makarov basin fig in
+addition we ob served a significant cor 
+relation of protists with water masses
+and sampling regions in how 
+ever these correlations were not as
+pronounced as that of sea ice origin 
+arisa of sea ice protists in did
+not show a significant sub clustering
+ fig c while the sea ice origin of
+
+ 
+
+fig nmds plots based on the jaccard index of water and sea ice samples col 
+lected in and a arisa fragment profiles b illumina sequences of 
+
+water and sea ice samples
+
+fig protist community composition obtained with sequencing stacked bar charts of relative sequence abundance of pro 
+tists in sea ice i and water w samples collected during the transarc expedition in ps and the icearc expedition in 
+
+ ps at station ps samples are disinguished into first year ice fyi and multi year ice myi 
+
+
+
+mar ecol prog ser – 
+
+fig nmds plots of the arisa fragment profiles of sea ice samples collected in a and b and c 
+legend for c can be found in graph b lines illustrate groupings by sampling region
+
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists 
+
+the samples collected in was mainly in the
+laptev and kara seas fig 
+
+overall for both years we found no correlation of
+the environmental variables of sea ice with its frag 
+ments of sea ice protist communities this was even
+true if we carried out the mantel test only with sea ice
+thickness salinity and temperature 
+
+water samples
+
+in the common sampling region of the expedi 
+tions arisa profiles of pelagic protists fig a dif 
+fered significantly between the years ano sim 
+r p which was also in accordance
+with different community compositions obtained with
+illumina sequencing fig micro monas mami el lo 
+phyceae fig was most common in the water sam 
+ples of total abundance in 
+in and a gymnodinium related species dino 
+flagel lata in total abundance in 
+ in diatomea showed a higher contribu 
+tion to the pelagic community in than in 
+ fig this was especially true for the sub ice
+diatom melosira total abundance in 
+ in overall dinoflagellata and protalveo 
+lata were the most diverse protist groups in the water
+samples otus 
+
+water samples collected during the record sea ice
+minimum year in clustered closer to each other
+than the samples collected in fig a indica 
+ting lower its length variability in than in
+ in addition the average number of its frag 
+ments in the water samples was higher than in
+ table in terms of protist diversity illumina
+sequencing revealed on average fewer otus in the
+eurasian basin in compared to table 
+
+the grouping of the water samples collected in 
+ fig b was best explained by water masses table 
+kilias et al furthermore we achieved a weak
+but significant correlation of the protist communities
+with the sampling regions table fig b nansen 
+amundsen maka rov canada basin the mantel test
+revealed no relation of the arisa dataset with envi 
+ronmental variables 
+
+in analogy to protist community composition
+in water samples collected in fig c was cor 
+
+fig sea ice drift information of sea ice cores collected in
+ black lines and blue lines black dots date of 
+
+ice formation september 
+
+ sea ice samples water samples water samples of common region
+ transarc icearc n transarc icearc transarc icearc 
+
+water masses r ns r r r r 
+ p p p p p 
+
+sampling region r ns r r ns r 
+ p p p p 
+
+sea ice origin r 
+ p ns − − − −
+
+table anosim analysis testing for correlations between arisa distance matrixes and predefined grouping of water masses 
+sampling regions or regions of sea ice origin for comparisons between years we repeated the statistical analysis for the water
+samples of both cruises in a common sampling region within the eurasian basin for this region the number of sea ice samples 
+
+was too small for adequate statistics ns not significant − not tested
+
+
+
+mar ecol prog ser – 
+
+fig nmds plots of the arisa fragment profiles of water samples collected in a and b and c 
+legend for c can be found in b lines illustrate groupings by sampling region
+
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists
+
+related with ambient water masses table how 
+ever we observed an even stronger regional pattern
+for these samples than in the nmds analysis
+revealed significantly distinct arisa profiles
+according to sampling regions table fig c col 
+ors this regional distinction was even more pro 
+nounced if we tested only the samples of the common
+sampling region table the largest cluster con 
+tained samples collected in the nansen basin and
+the amundsen basin samples were divided into 
+clusters nansen basin samples were characterized
+by a lower abundance of diatomea and protalveolata
+ mainly syndiniales compared to the amundsen
+basin samples fig the clustering significantly
+correlated with the environmental variables mantel
+test r p the nmds ordination was
+best explained by sea ice concentration r p 
+ followed by water temperature r p 
+ salinity r p concentrations of
+silicic acid r p and nitrate r 
+p 
+
+discussion
+
+this study focused on examining potential effects
+of sea ice retreat and sea ice origin on protist commu 
+nity structure in sea ice and water samples collected
+in and during the same summer months in
+the central arctic in agreement with several publi 
+cations booth horner von quillfeldt 
+ardyna et al comeau et al poulin
+et al arrigo et al kilias et al we
+observed distinct protist communities in sea ice and
+sea water in contrast to the pelagic protist commu 
+nity the sea ice community was spatially highly vari 
+able this might be explained by the environmental
+properties of the ice cores which can be extremely
+different even at small scales of several meters
+ eicken et al granskog et al for exam 
+ple sea ice properties and algae biomass of first year
+land fast sea ice in the baltic sea showed a horizontal
+patchiness at scales of m granskog et al 
+this highlights that sea ice possesses a richness of
+microhabitats horner et al which are con 
+fined small scale habitats inhabited by different pro 
+tist communities the microhabitats are character 
+ized by several properties such as ice type e g fyi 
+myi ice thickness and topography or snow and melt
+pond coverage for example myi sites are charac 
+terized by thicker ice and a thicker snow depth both
+strongly influence the primary production of sea ice
+algae by reducing light availability arrigo et al 
+
+ nicolaus et al popova et al lange
+et al in contrast fyi is thinner resulting in a
+higher availability of light which triggers the photo 
+synthetic production of sea ice algae such as dia to 
+mea mundy et al lange et al 
+
+impact of sea ice retreat on sea ice protists
+
+the compositions of its fragments of the sea ice
+communities in and were significantly dif 
+ferent and the length variability in the sea ice protist
+community was higher in than in in anal 
+ogy to this illumina revealed a considerably lower
+number of otus in sea ice algae with low abun 
+dances in compared to this was
+true despite the higher ability to detect rare species
+in as we analyzed more samples and assessed
+the protist community in the entire sea ice cores and
+not only in the bottom ice section as we did in 
+for example we observed high abundances of the
+pennate diatom genus nitzschia in the sea ice 
+particularly in myi but their contribution decreased
+in sea ice the loss in rare sea ice algae might
+be explained by the lower sea ice thickness in 
+ see table s fig s in supplement and is in
+agreement with other studies melnikov et al 
+hardge et al l m olsen et al unpubl 
+
+the physical properties of the sea ice determine
+not only the biodiversity within several microhabitats
+but also the interactions of the ice with the underly 
+ing water column for example fyi is more con 
+nected to the under ice water via brine channels than
+myi which leads to a higher degree of exchange of
+nutrients and protists between the habitats gra 
+din ger ikävalko in the arisa nmds analy 
+ses fig a sea ice samples of clustered closer
+to the pelagic samples than those of indicating
+higher similarity between the protist communities of
+the habitats in this might be attributed to an
+increased exchange of protists between thinning sea
+ice and water column during this year hardge et al 
+ indeed the higher abundance and diversity of
+pelagic dinoflagellates in the sea ice biota of sug 
+gests a stronger exchange between the sea ice and
+water column compared to consequently rare
+otus found in the sea ice of could have reached
+higher abundances in due to sea ice melting 
+overall we can confirm our hypo thesis that a decline
+in sea ice concentration has the potential to affect pro 
+tist community structure in the sea ice by reducing
+protist diversity and enhancing protist exchange be 
+tween the habitats 
+
+ 
+
+
+
+mar ecol prog ser – 
+
+impact of sea ice origin on sea ice protists
+
+the regions of sea ice origin influence the nutrient
+composition of the ice and determine the protist com 
+munity structure during the incorporation of particles
+and protists into newly formed sea ice ackley et al 
+ róz ska et al niemi et al the nu 
+trient profiles of sea ice reflect the initial water condi 
+tions during sea ice formation and change during the
+course of the seasons due to advection and biological
+processes gradinger ikävalko granskog et
+al melnikov et al here we observed a
+relatively high correlation of sea ice nutrients with
+the regions of sea ice origin in anosim r 
+p the sea ice cores collected in origi 
+nated from both the amerasian and the eurasian
+basin while the nutrient compositions reflected the
+different environmental conditions of these basins in
+accordance with data from presented by damm
+et al sea ice originating from the amerasian
+basin showed higher phosphate and silicic acid con 
+centrations than that originating from the eurasian
+basin table s fig s a 
+
+as was the case for sea ice nutrients the its frag 
+ment compositions of sea ice protists in were
+significantly correlated with the regions of sea ice
+origin while the effect of sampling regions or water
+masses was only minor the arisa profiles differed
+between the amerasian and eurasian basins but a
+distinction among all oceanographic basins canada 
+makarov and amundsen was not observed these
+findings indicate that the sea ice community was
+more influenced by environmental conditions during
+sea ice formation than by ambient environmental
+conditions during sampling it is known that pelagic
+protists are entrapped in newly forming sea ice
+ gradinger ikävalko rózȧńska et al 
+and that winter communities set the stage for the sea
+ice algae bloom in spring niemi et al but this
+study is the first to provide evidence for a possible
+influence of the region of sea ice origin on the protist
+community pattern in central arctic sea ice 
+
+in contrast to a division of sea ice nutrient
+compositions or protists based on sea ice origin was
+not observed for the sea ice samples collected in
+ this may be explained by the fact that the ice
+floes originated mainly from nearby shelf regions in
+the kara and laptev seas fig here similar water
+mass conditions were present during sea ice forma 
+tion and hence the effect was probably too weak to
+be detectable in addition the distribution pattern of
+protists in the sea ice was more homogenous among
+the stations in than in 
+
+impact of sea ice retreat on arctic pelagic protists
+
+water samples collected during the record sea ice
+minimum year contained a slightly higher num 
+ber of its fragments than the water samples col 
+lected from the same depth range and summer
+months in this indicates higher pelagic com 
+munity heterogeneity in in terms of protist its 
+fragment lengths however in terms of s rdna
+otu number we observed lower protist diversity in
+the pelagial of compared to this was the
+case despite the fact that we sequenced more water
+samples in 
+
+diatomea in water samples collected in 
+showed a higher contribution to the pelagic commu 
+nity in terms of sequence abundance and otu num 
+ber than in the main reason for this is that light
+conditions in the pelagic region were more favorable
+for diatomea in as fyi transmits more light
+compared to myi nicolaus et al furthermore 
+since diatomea were mainly abundant in the sea ice 
+ice diatomea could have been released from sea ice
+into the water column during ice break up and melt 
+this was also reported for several sea ice associated
+algae such as the pennate diatomea nitzschia and
+navicula von quillfeldt a release of sea ice
+algae can alter the original composition of the pelagic
+community which in turn can have far reaching
+implications for food web structure and carbon ex 
+port in the arctic ocean several studies have inves 
+tigated the effects of sea ice melting and the conse 
+quent release of ice associated species into the water
+column melnikov ambrose et al boetius
+et al hardge et al in particular during
+the record sea ice minimum in massive sedi 
+mentation to the sea floor of aggregates of the sub 
+ice diatom melosira arctica were observed at the sea
+ice stations we analyzed in this study boetius et al 
+ our study confirms this observation as the
+contribution of melosira to the sea ice and especially
+to the pelagic community was considerably higher in
+summer than in summer therefore the
+decline in sea ice concentration strongly affected the
+diversity and composition of the pelagic community
+in 
+
+during the record sea ice minimum in we ob 
+served distinct pelagic communities separated in the
+nansen and amundsen basins which correlated sig 
+nificantly with the water masses the nansen basin
+was characterized by high salinities and sea ice con 
+centrations as well as high nitrate concentrations 
+whereas the amundsen basin showed higher values
+of the remaining dissolved inorganic nutrients and
+
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists 
+
+higher water temperatures table s fig s in
+general aw enters the arctic ocean through the
+fram strait and circulates mainly in the nansen
+basin whereas the amundsen basin is influenced by
+modified aw from the barents sea inflow branch
+ schauer et al rudels et al changes in
+community composition between the basins could
+also be seen at higher trophic levels as shown by
+david et al who studied macrofaunal under 
+ice communities during the same cruise in the
+authors also identified different environmental re 
+gimes in the nansen and amundsen basins which
+were characterized by different under ice fauna
+communities and were able to demonstrate a tight
+pelagic coupling between primary and secondary
+producers 
+
+conclusions
+
+the results of our large scale study indicate that
+the sea ice and water column harbor distinct protist
+communities with partial exchange and a strong
+dependency on sea ice and water mass properties 
+we identified habitat specific fingerprints which
+differed strongly between years with contrastive
+sea ice concentrations we observed a possible
+trend towards less complex and diverse communi 
+ties in both habitats due to sea ice melting these
+observations serve as a future scenario for protist
+communities in the changing arctic we conclude
+that sea ice is a major driver of protist community
+structure in both sea ice and the water column 
+furthermore we found that sea ice protist biodiver 
+sity is determined by sea ice origin protist commu 
+nities in sea ice were mainly structured by environ 
+mental conditions several thousand kilo meters
+away during sea ice formation however whether
+the sea ice communities on the shelves will still
+serve as basis for sea ice biodiversity in a changing
+arctic with less sea ice is questionable in particu 
+lar recent shifts to a later freeze up in the winter
+with less active biota being present to freeze in
+suggest a reduction of sea ice biodiversity in the
+central arctic overall we confirmed our hypothe 
+ses that sea ice retreat and origin are both major
+drivers of variability in protist community structure
+in the sea ice and water column therefore spatial
+or temporal changes in sea ice formation can have
+far reaching implications for the community struc 
+ture in sea ice and could also be one reason for the
+reduction of the rare biosphere in the sea ice of
+ 
+
+acknowledgements this study was accomplished within the
+young investigator group planktosens funded by the
+initiative and networking fund of the helmholtz association
+ vh ng we thank the captain and crew of the rv
+‘polarstern’ for their support during the cruises arkxxvi 
+and arkxxvii as well as both chief scientists ursula
+schauer and antje boetius we are grateful to dr e m 
+nöthig for valuable comments on the manuscript g kattner
+for providing dissolved nutrient data in water and sea ice and
+the meereisportal for sea ice concentration data we thank a 
+nicolaus k oetjen and l weinisch university of kaisers 
+lautern for excellent technical support in the laboratory 
+
+literature cited
+
+ackley sf dieckmann gs shen ht algal and foram
+incorporation into new sea ice trans am geophys union
+ − 
+
+ambrose wg jr von quillfeldt c clough lm tilney pvr 
+tucker t the sub ice algal community in the
+chukchi sea large and small scale patterns of abun 
+dance based on images from a remotely operated vehi 
+cle polar biol − 
+
+aminot a kérouel r dosage automatique des nutri 
+ments dans les eaux marines méthodes en flux continu 
+ifremer Éditions quae brest
+
+ardyna m gosselin m michel c poulin m tremblay jÉe
+ environmental forcing of phytoplankton commu 
+nity structure and function in the canadian high arctic 
+contrasting oligotrophic and eutrophic regions mar ecol
+prog ser − 
+
+arrigo kr sea ice ecosystems ann rev mar sci 
+ − 
+
+arrigo kr van dijken g pabi s impact of a shrinking
+arctic ice cover on marine primary production geophys
+res lett l 
+
+arrigo kr perovich dk pickart rs brown zw and others
+ massive phytoplankton blooms under arctic sea
+ice science 
+
+bakker k nutrients measured on water bottle samples
+during polarstern cruise ark xxvii icearc in
+ royal netherlands institute for sea research texel
+
+beszczynska möller a fahrbach e schauer u hansen e
+ variability in atlantic water temperature and
+transport at the entrance to the arctic ocean 
+ices j mar sci − 
+
+boetius a albrecht s bakker k bienhold c and others
+ export of algal biomass from the melting arctic
+sea ice science − 
+
+bokulich na subramanian s faith jj gevers d and others
+ quality filtering vastly improves diversity esti 
+mates from illumina amplicon sequencing nat methods
+ − 
+
+booth bc horner ra microalgae on the arctic ocean
+section species abundance and biomass deep sea
+res ii − 
+
+caporaso jg kuczynski j stombaugh j bittinger k bush 
+man fd costello ek qiime allows analysis of
+high throughput community sequencing data nat
+methods − 
+
+comeau am li wkw tremblay jar carmack ec love 
+joy c arctic ocean microbial community structure
+before and after the record sea ice minimum plos
+one e 
+
+https doi org s 
+https doi org annurev marine 
+https doi org gl 
+https doi org pangaea 
+https doi org icesjms fss 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org nmeth 
+https doi org s x
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org nmeth f 
+
+
+mar ecol prog ser – 
+
+comeau am philippe b thaler m gosselin m poulin m 
+lovejoy c protists in arctic drift and land fast sea
+ice j phycol − 
+
+comiso jc warming trends in the arctic from clear
+sky satellite observations j clim − 
+
+comiso jc large decadal decline of the arctic multi 
+year ice cover j clim − 
+
+comiso jc parkinson cl gersten r stock l accel 
+erated decline in the arctic sea ice cover geophys res
+lett l 
+
+coupel p jin hy joo m horner r and others phyto 
+plankton distribution in unusually low sea ice cover over
+the pacific arctic biogeosciences − 
+
+damm e helmke e thoms s schauer u nothig e bakker
+k kiene rp methane production in aerobic oligo 
+trophic surface water in the central arctic ocean bio 
+geosciences − 
+
+david c lange b rabe b flores h community
+structure of under ice fauna in the eurasian central arc 
+tic ocean in relation to environmental properties of sea 
+ice habitats mar ecol prog ser − 
+
+dray s dufour ab the ade package implementing
+the duality diagram for ecologists j stat softw − 
+
+edgar rc search and clustering orders of magnitude
+faster than blast bioinformatics − 
+
+edgar rc haas bj clemente jc quince c knight r 
+uchime improves sensitivity and speed of chimera
+detection bioinformatics − 
+
+eicken h lange ma dieckmann gs spatial vari 
+ability of sea ice properties in the northwestern weddell
+sea j geophys res − 
+
+ezraty r girard ardhuin f piollé jf kaleschke l heygster
+g arctic and antarctic sea ice concentration and
+arctic sea ice drift estimated from special sensor micro 
+wave data département d’océanographie physique et
+spatiale ifremer brest
+
+fernández méndez m katlein c rabe b nicolaus m and
+others photosynthetic production in the central
+arctic ocean during the record sea ice minimum in
+ biogeosciences − 
+
+gradinger r ikävalko j organism incorporation into
+newly forming arctic sea ice in the greenland sea 
+j plankton res − 
+
+granskog ma kaartokallio h shirasawa k nutrient
+status of baltic sea ice evidence for control by snow ice
+formation ice permeability and ice algae j geophys res
+ 
+
+granskog ma kaartokallio h kuosa h thomas d and oth 
+ers scales of horizontal patchiness in chlorophyll a 
+chemical and physical properties of landfast sea ice in
+the gulf of finland baltic sea polar biol – 
+
+hammer Ø harper dat ryan pd past paleontolog 
+ical statistics software package for education and data
+analysis palaeontol electronica 
+
+hardge k neuhaus s peeken i stock a stoeck t lange b 
+metfies k the importance of sea ice for exchange
+of habitat specific protist communities in the central
+arctic ocean j mar syst − 
+
+hegseth en sundfjord a intrusion and blooming of
+atlantic phytoplankton species in the high arctic j mar
+syst − 
+
+holliday np hughes sl beszczynska möller a ices
+report on ocean climate ices coop res rep − 
+
+horner r ecology of sea ice microalgae in horner r
+ ed sea ice biota crc press boca raton fl p − 
+
+horner rs ackley f dieckmann gs gulliksen b and oth 
+ers ecology of sea ice biota habitat terminology
+and methodology polar biol − 
+
+jensen f hansen wb ciliates and heterotrophic
+dinoflagellates in the marginal ice zone of the central
+barents sea during spring j mar biol assoc uk − 
+
+jones ep anderson lg swift jh distribution of
+atlantic and pacific waters in the upper arctic ocean 
+implications for circulation distinguish between oceanic
+waters of pacific geophys res lett − 
+
+juul pedersen t michel c gosselin m seuthe l 
+seasonal changes in the sinking export of particulate
+material under first year sea ice on the mackenzie shelf
+ western canadian arctic mar ecol prog ser − 
+
+kattner g becker h nutrients and organic nitroge 
+nous compounds in the marginal ice zone of the fram
+strait j mar syst − 
+
+kattner g ludwichowski ku inorganic nutrients
+measured on water bottle samples during polarstern
+cruise ark−xxvi transarc alfred wegener insti 
+tute helmholtz center for polar and marine research 
+bremerhaven
+
+kilias e kattner g wolf c frickenhaus s metfies k 
+a molecular survey of protist diversity through the cen 
+tral arctic ocean polar biol − 
+
+kilias e wolf c metfies k characterizing variability
+in marine protist communities via arisa fingerprints a
+method evaluation limnol oceanogr methods − 
+
+krumpen t janout m hodges ki gerdes r girard ard 
+huin f hölemann ja willmes s variability and
+trends in laptev sea ice outflow between 
+cryosphere − 
+
+krumpen t gerdes r haas s hendricks s and others
+ recent summer sea ice thickness surveys in the
+fram strait and associated volume fluxes cryosphere
+ − 
+
+lange ba michel c beckers jf casey ja and others 
+comparing springtime ice algal chlorophyll a and physi 
+cal properties of multi year and first year sea ice from
+the lincoln sea plos one e 
+
+lee sh mcroy cp joo lee hm gradinger r and others
+ holes in progressively thinning arctic sea ice lead
+to new ice algae habitat oceanography wash dc 
+ − 
+
+lovejoy c legendre l martineau mj bacle j von
+quillfeldt ch distribution of phytoplankton and
+other protists in the north water deep sea res ii 
+ − 
+
+lovejoy c vincent wf bonilla s roy s and others 
+distribution phylogeny and growth of cold adapted pico 
+prasinophytes in arctic seas j phycol − 
+
+maslanik ja fowler c stroeve j drobot s zwally hj yi d 
+emery wj a younger thinner ice cover increased
+potential for rapid extensive ice loss geophys res lett
+ l 
+
+maslanik j stroeve j fowler c emery w distribu 
+tion and trends in arctic sea ice age through spring 
+geophys res lett l 
+
+matsen fa kodner rb armbrust ev pplacer linear
+time maximum likelihood and bayesian phylogenetic
+placement of sequences onto a fixed reference tree 
+bmc bioinformatics 
+
+medlin l elwood hj stickel s sogin ml the char 
+acterization of enzymatically amplified eukaryotic s
+like rrna coding regions gene − 
+
+ 
+
+https doi org c awtitaf e co b 
+https doi org jcli d 
+https doi org bg 
+https doi org bg 
+https doi org meps 
+https doi org jss v i 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org bioinformatics btq 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org bioinformatics btr 
+https doi org jc 
+https doi org bg 
+https doi org plankt 
+https doi org j jmarsys 
+https doi org j jmarsys 
+https doi org bf 
+https doi org s 
+https doi org gl 
+https doi org meps 
+https doi org t
+https doi org tc 
+https doi org oceanog 
+https doi org s 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org 
+
+
+hardge et al influence of sea ice origin and retreat on arctic protists
+
+meier wn hovelsrud gk van oort beh key jr and others
+ arctic sea ice in transformation a review of recent
+observed changes and impacts on biology and human
+activity rev geophys − 
+
+melnikov ia the arctic sea ice ecosystem gordon
+and breach science publishers amsterdam
+
+melnikov ia kolosova eg welch he zhitina ls sea
+ice biological communities and nutrient dynamics in the
+canada basin of the arctic ocean deep sea res i 
+ − 
+
+melnikov ia korneeva ga zhitina ls shanin ss 
+dynamics of ecological biochemical characteristics of
+sea ice in coastal waters of the white sea biol bull
+ woods hole − 
+
+melnikov ia nihoul jc kostianoy ag recent sea ice
+ecosystem in the arctic ocean a review in nihoul jcj 
+kostianoy ag eds influence of climate change on the
+changing arctic and sub arctic conditions springer 
+dordrecht p − 
+
+miller la fripiat f else bgt bowman js and others 
+methods for biogeochemical studies of sea ice the state
+of the art caveats and recommendations elem sci
+anthropol − 
+
+moran sb lomas mw kelly rp gradinger r iken k 
+mathis jt seasonal succession of net primary pro 
+ductivity particulate organic carbon export and auto 
+trophic community composition in the eastern bering
+sea deep sea res ii − 
+
+mundy cj barber dg michel c variability of snow
+and ice thermal physical and optical properties pertinent
+to sea ice algae biomass during spring j mar syst 
+ − 
+
+nicolaus m katlein c maslanik j hendricks s 
+changes in arctic sea ice result in increasing light trans 
+mittance and absorption geophys res lett l 
+
+niemi a michel c hille k poulin m protist assem 
+blages in winter sea ice setting the stage for the spring
+ice algal bloom polar biol − 
+
+oksanen j blanchet fg kindt r legendre p and others
+ vegan community ecology package r package ver 
+sion http cran r project org package vegan
+
+parkinson cl comiso jc on the record low
+arctic sea ice cover combined impact of preconditioning
+and an august storm geophys res lett − 
+
+popova ee yool a coward ac dupont f and others 
+what controls primary production in the arctic ocean 
+results from an intercomparison of five general circula 
+tion models with biogeochemistry j geophys res 
+c d 
+
+poulin m daugbjerg n gradinger r ilyash l ratkova t 
+von quillfeldt c the pan arctic biodiversity of
+marine pelagic and sea ice unicellular eukaryotes a
+first attempt assessment mar biodivers − 
+
+r development core team r a language and envi 
+ronment for statistical computing r foundation for sta 
+tistical computing vienna
+
+ramette a quantitative community fingerprinting
+methods for estimating the abundance of operational
+
+taxonomic units in natural microbial communities appl
+environ microbiol − 
+
+riedel a michel c gosselin m leblanc b enrich 
+ment of nutrients exopolymeric substances and microor 
+ganisms in newly formed sea ice on the mackenzie shelf 
+mar ecol prog ser − 
+
+rózȧńska m poulin m gosselin m protist entrap 
+ment in newly formed sea ice in the coastal arctic ocean 
+j mar syst − 
+
+rudels b schauer u björk g korhonen m pisarev s rabe
+b wisotzki a observations of water masses and
+circulation with focus on the eurasian basin of the arctic
+ocean from the s to the late s ocean sci 
+ − 
+
+schauer u rudels b jones ep anderson lg and others
+ confluence and redistribution of atlantic water in
+the nansen amundsen and makarov basins ann geo 
+phys − 
+
+serreze mc walsh je chapin fs iii osterkamp t and oth 
+ers observational evidence of recent change in
+the northern high latitude environment clim change
+ − 
+
+spreen g kaleschke l heygster g sea ice remote
+sensing using amsr e ghz channels j geophys res
+ c s 
+
+stecher a neuhaus s lange b frickenhaus s beszteri b 
+kroth pg valentin k rrna and rdna based
+assessment of sea ice protist biodiversity from the central
+arctic ocean eur j phycol − 
+
+stoeck t bass d nebel m christen r jones md breiner
+h richard ta multiple marker parallel tag envi 
+ronmental dna sequencing reveals a highly complex
+eukaryotic community in marine anoxic water mol ecol
+ − 
+
+stroeve jc serreze mc holland mm kay je masklanik j 
+barrett ap the arctic’s rapidly shrinking sea ice
+cover a research synthesis clim change − 
+
+terrado r vincent wf lovejoy c mesopelagic pro 
+tists diversity and succession in a coastal arctic ecosys 
+tem aquat microb ecol − 
+
+vergin kl beszteri b monier a thrash jc and others
+ high resolution sar ecotype dynamics at the
+bermuda atlantic time series study site by phylogenetic
+placement of pyrosequences isme j − 
+
+von quillfeldt ch distribution of diatoms in the
+northeast water polynya greenland j mar syst 
+ – 
+
+von quillfeldt ch common diatom species in arctic
+spring blooms their distribution and abundance bot
+mar − 
+
+white tj bruns t lee s taylor jw amplification
+and direct sequencing of fungal ribosomal rna genes
+for phylogenetics in innis ma gelfand dh sninsky jj 
+white tj eds pcr protocols a guide to methods and
+applications academic press new york ny p − 
+
+zhang j lindsay r schweiger a steele m the
+impact of an intense summer cyclone on arctic sea
+ice retreat geophys res lett − 
+
+ 
+
+editorial responsibility toshi nagata 
+kashiwanoha japan
+
+submitted april accepted march 
+proofs received from author s may 
+
+https doi org s 
+https doi org a a 
+https doi org journal elementa 
+https doi org j dsr 
+https doi org j jmarsys 
+https doi org s 
+http cran r project org package vegan
+https doi org grl 
+https doi org s 
+https doi org meps 
+https doi org j jmarsys 
+https doi org angeo 
+https doi org a a 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org j x x
+https doi org s 
+https doi org ame 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org ismej 
+https doi org bot 
+
+
+
+

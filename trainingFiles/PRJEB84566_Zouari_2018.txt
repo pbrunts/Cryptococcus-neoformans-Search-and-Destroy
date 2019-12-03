@@ -1,0 +1,3623 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aquatic microbial ecology 
+
+
+aquatic microbial ecology
+aquat microb ecol
+
+vol – 
+https doi org ame 
+
+published online january 
+
+introduction
+
+marine picoeukaryotes protists up to µm in
+size are important players in planktonic food webs
+of coastal and offshore ecosystems massana 
+picoeukaryotic diversity has been widely studied in
+different types of aquatic ecosystems showing high
+phylogenetic diversity worldwide this diversity
+seems to be crucial in maintaining the functional
+stability and resilience of ecosystems caron 
+
+countway in the past diversity of natural
+pico eukaryotic assemblages has been widely ana 
+lyzed using sanger sequencing of cloned environ 
+mental genes díez et al a massana et al 
+ countway et al wu et al as well
+as denaturing dgge and temperature gradient
+gel electrophoresis and terminal restriction frag 
+ment length polymorphism fingerprinting tools díez
+et al b zeidner beja marie et al 
+wu et al lie et al high throughput
+
+© inter research · www int res com corresponding author amel zouari instm rnrt tn
+
+picoeukaryotic diversity in the gulf of gabès 
+variability patterns and relationships to 
+
+nutrients and water masses
+
+amel bellaaj zouari malika bel hassen vanessa balagué emna sahli 
+mohamed yacine ben kacem fourat akrout asma hamza ramon massana 
+
+ national institute of marine sciences and technologies rue mars salammbô tunisia
+ institut de ciències del mar csic passeig marítim de la barceloneta – barcelona catalonia spain
+
+abstract marine picoeukaryotes show high phylogenetic diversity worldwide notably in oligo 
+trophic waters in the gulf of gabès south eastern mediterranean characterized by oligotrophic
+conditions and a complex water mass circulation information on picoeukaryotic diversity is still
+lacking in this study we investigated the diversity and spatial variability of picoeukaryotic as 
+semblages in relation to nutrient availability physical parameters and water masses in cruises
+carried out in the gulf of gabès in june of april of and november of high 
+throughput sequencing revealed a dominance of sequences from non photosynthetic picoeukary 
+otes mostly represented by the presumably parasitic marine alveolate malv ii and the
+bacterivorous bicosoecida differences in picoeukaryotic assemblages were higher
+between coastal and open sea stations and depth in the water column also affected community
+differences with surface m intermediate − m and mesopelagic m samples form 
+ing separate groups a clear temporal variability was also evident particularly for communities
+collected from the surface layer and open sea stations co inertia analysis revealed that pico 
+eukaryotic groups were more affected by salinity in deep waters whereas at the surface they
+were dependent on nutrients and temperature during the november cruise samples that shared
+similar water mass properties generally clustered together the levantine water mass observed
+for the first time in this area was characterized by the presence of acantharia and polycystinea 
+our study highlights the role of physical and chemical features such as water mass origin the
+wide continental shelf and trophic status in determining the diversity of marine picoeukaryotes 
+
+key words picoeukaryotes · v · s rdna · diversity · inorganic nutrients · water masses ·
+mediterranean sea · gulf of gabès
+
+resale or republication not permitted without written consent of the publisher
+
+
+
+aquat microb ecol – 
+
+sequencing hts of ribosomal dna rdna gene
+markers revolutionized the field of microbial ecol 
+ogy by allowing an exhaustive characterization of
+the entire microbial eukaryotic community within
+an environment confirming their large diversity
+and high proportion of novel taxa stoeck et al 
+ logares et al de vargas et al 
+massana et al hu et al 
+
+several studies have investigated relationships
+between picoplankton diversity and environmental
+factors and have demonstrated that these micro 
+organisms respond to shifts in temperature carbon
+chemistry nutrient and oxygen content and alter 
+ations in ocean stratification and currents hamilton
+et al doney et al grossmann et al 
+ in a complex region of atlantic−arctic conflu 
+ence picoeukaryotic assemblages were influenced
+by both contemporary conditions salinity photo 
+synthetically active radiation transmissivity total
+phototrophic biomass and size class and water
+mass origin hamilton et al while in tibetan
+lakes they were mostly affected by the chemical
+composition of the water which covaried with alti 
+tude and latitude wu et al in the coorong
+lagoon diversity of picoeukaryotes was mainly
+controlled by geographic distance rather than salin 
+ity despite the existence of a high salinity gradient
+ balzano et al furthermore in alpine fresh 
+water lakes changes in protistan communities were
+mostly dependent on ph and nutrient concentra 
+tions grossmann et al 
+
+in the oligotrophic eastern mediterranean chloro 
+phyll biomass is generally very low and is attributed
+to picoeukaryotes siokou frangou et al par 
+ticularly in the gulf of gabès picoplankton is the
+main contributor within the ultraphytoplankton
+ cells up to µm hamdi et al which
+together with the nanoplankton accounts for up to
+ of the overall chlorophyll biomass bel hassen
+et al a despite the oligotrophic character of
+the eastern mediterranean sea considered to be
+one of the most oligotrophic regions of the world’s
+oceans berman et al krom et al the
+gulf of gabès exhibits a relatively high nutrient
+content throughout the year drira et al in
+addition this area presents a complex water circula 
+tion pattern with water masses from mediterranean
+and atlantic origins bel hassen et al b pre 
+vious studies on phytoplankton community comp 
+osition and distribution in different water masses
+ prevailing in the gulf of gabès revealed that medi 
+terranean and atlantic water masses did not affect
+the autotrophic biomass variability bel hassen et
+
+al b but a distinction between these water
+masses based on ultraphytoplankton abundance
+was noted hamdi et al however in the gulf
+of gabès the picophytoplankton fraction and
+notably the eukaryotic component cells ≤ µm in
+diameter vaulot et al has received much
+less attention than other planktonic groups the
+only data available derived from a chemotaxonomic
+pigment analysis revealed a diverse pattern of com 
+munity composition bel hassen et al a which
+contrasted with the general feature of prymnesio 
+phyte dominance in the mediterranean basin
+ claustre et al vidussi et al 
+
+despite the putative importance of picoeukaryotes
+in the gulf of gabès no studies have targeted their
+genetic diversity including the effects of the particu 
+lar oligotrophic status and the water mass features in
+the present study we compared the communities of
+picoplanktonic eukaryotes in this area by dgge of
+the s rrna gene in a first step and their phyloge 
+netic diversity by high throughput sequencing of the
+v region of the s rrna gene in a second step 
+species richness community structure and spatial
+distribution of picoeukaryotic assemblages were de 
+termined in june of april of and novem 
+ber of in coastal and open sea regions of the
+gulf of gabès the influence of physical parameters
+and nutrient availability on their composition and
+distribution was investigated as well as the relation 
+ship between picoeukaryotic assemblages and dis 
+tinct water masses 
+
+materials and methods
+
+study site cruises and sampling
+
+the gulf of gabès is located south of the tunisian
+coast in the southern ionian sea it stretches from
+‘ras kaboudia’ at ° n latitude to the tunisian−
+libyan border at ° n fig the gulf presents one
+of the widest continental shelfs in the mediterranean 
+with the m isobath located km from the coast 
+line in the gulf different water masses related to
+mediterranean and atlantic origins circulate modi 
+fied atlantic water maw is characterized by strong
+advection during winter whereas in summer advec 
+tion is weakened and the maw is observed in the
+deeper layers mediterranean mixed water mmw 
+is located in the coastal mixed layer bel hassen et al 
+ ionian water iw which was firstly observed
+in the gulf by hamdi et al is located beneath
+the maw 
+
+
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès
+
+three oceanographic cruises on board the rv
+‘hannibal’ took place covering the coastal and the
+oceanic area of the gulf of gabès the first cruise
+ poemm was conducted at the beginning of sum 
+mer − june the second poemm in the
+middle of spring − april and the third
+ poemm at the end of autumn − november
+ during june and november cruises and 
+stations were respectively sampled under calm
+weather conditions whereas stations were sam 
+pled during the april cruise following a storm in the
+gulf see fig seawater samples were collected
+with l niskin bottles attached to a rosette and a
+conductivity temperature and depth ctd probe
+ sbe sea bird electronics at each station we
+sampled at to depths depending on bottom depth
+and real time temperature profile provided by the
+ctd for stations whose bottom depth was lower
+than m we sampled at the surface half of the
+water column and near the bottom at stations where
+the bottom depth was between and m we sam 
+pled at the surface the thermocline m depth and
+near the bottom at stations where the bottom depth
+was between and m we added a m sample
+and in those with a bottom depth deeper than m 
+
+we sampled at m instead of m depth at sta 
+tions without thermal stratification we sampled at
+ − m depth intervals 
+
+picoplankton biomass was obtained by filter size
+fractionation seawater was pre filtered through a
+ µm pore size mesh by gravity to remove large
+organisms and then filtered by vacuum first onto a
+gf d filter whatman and then a mm diameter
+membrane filter with µm pore size pesu sarto 
+rius which was transferred immediately into a cryo 
+vial tube containing ml of lysis buffer m
+sucrose mm tris hcl and mm edta ph 
+ massana et al cryovials with the µm fil 
+ters containing the picoplankton − µm in size 
+were stored at − °c until nucleic acid extraction 
+
+for the determination of inorganic nutrients nitrite 
+no − nitrate no − ammonium nh orthophos 
+phate po − and silicate si oh ml of seawa 
+ter were directly taken from the rosette in a plastic
+bottle previously washed with acid and rinsed thor 
+oughly with distilled water samples were stored at
+− °c for subsequent analyses with an auto analyzer 
+nutrient analyses were performed with an automatic
+analyzer type bran luebbe using standard meth 
+ods tréguer lecorre 
+
+ 
+
+fig gulf of gabès showing the locations of the sta 
+tions sampled for denaturing gradient gel electropho 
+resis and high throughput sequencing during the
+cruises conducted in june april and
+november see table bathymetric contours 
+
+are in meters m 
+
+
+
+aquat microb ecol – 
+
+dna extraction
+
+dna was extracted according to the phenol 
+chloroform protocol detailed by massana et al 
+after thawing µl of lysozyme mg ml− were
+added to the lysis buffer and cryovials were incu 
+bated at °c for min then µl of sodium
+dodecyl sulfate and µl of proteinase k
+ mg ml− were added and the mixture was incu 
+bated at °c for h the lysate was recovered and
+distributed among eppendorf tubes an equal vol 
+ume of phenol chloroform isoamyl alcohol 
+ph was added and the mixture was centrifuged at
+ × g min another extraction with chloroform 
+iaa was performed to remove the residual
+phenol after centrifugation at × g min 
+supernatant was recovered and dna was precipi 
+tated overnight at − °c with volumes of ethanol
+and volume of sodium acetate m ph 
+after centrifugation at × g min the pel 
+leted dna was washed with ethanol air dried
+and resuspended in µl of te mm tris hcl ph
+ mm edta ph dna integrity was checked
+by agarose gel electrophoresis and dna yield was
+quantified in a nanodrop spectrophotometer nano 
+drop thermo dna extracts were stored at
+− °c 
+
+dgge
+
+to determine spatial and temporal variability of
+picoeukaryotic communities in the gulf of gabès a
+subset of samples was selected at different depths
+in the coastal and open sea areas during the inves 
+tigated periods and analyzed by dgge table a
+ bp fragment of eukaryotic s rrna gene was
+amplified by pcr with the oligonucleotide primers
+euk a ’ ctg gtt gat cct gcc ag ’ and euk
+ r gc ’ acc aga ctt gcc ctc c ’ with a
+ bp gc clamp following pcr conditions described
+by díez et al b pcr products were quantified
+using a low dna mass ladder invitrogen dgge
+was performed with a dgge system cbs
+ scientific as described previously díez et al b 
+not et al approximately ng of each pcr
+product were loaded into polyacrylamide gels
+having a linear gradient − of denaturant con 
+ditions denaturant conditions are m urea
+and deionized formamide electrophoresis was
+performed in × tae buffer mm tris base mm
+sodium acetate mm edta ph at v and
+ °c for h the gel was stained with sybr gold
+
+ invitrogen and dna bands were visualized with
+uv light and photographed in a chemidoc system
+ bio rad high resolution dgge images were ana 
+lyzed with quantity one bio rad to detect
+bands calculate their intensity and identify the same
+band position in the different gel lanes binary pres 
+ence absence of bands and band intensity matrices
+were constructed as described before díez et al 
+ b not et al the binary matrix was used
+to calculate richness number of bands the intensity
+matrix was first normalized such that all lanes had
+the same band intensity and then log x trans 
+formed the normalized transformed dgge inten 
+sity matrix was used to build a dendrogram 
+
+high throughput sequencing hts and 
+data analysis
+
+in order to determine the phylogenetic diversity of
+the picoeukaryotic community and their spatial and
+temporal variability in the gulf of gabès samples
+were selected to account for the whole area and were
+processed for hts table the eukaryotic v 
+region of the s rrna gene about bp was
+pcr amplified from environmental dna using the
+forward primer v f ’ cca gca scy gcg gta
+att cc ’ and the reverse primer v r ’ act
+ttc gtt ctt gat yra ’ stoeck et al 
+pcr reactions and illumina miseq sequencing were
+ performed at the research and testing laboratories
+ rtl lubbock tx usa illumina reads released by
+the sequencing service were analyzed with uparse
+ edgar logares following an in house
+made pipeline https github com ramalok ampli 
+con processing first the bayeshammer program
+was applied to correct sequencing errors introduced
+by the illumina miseq platform paired end cor 
+rected reads were then merged using pear zhang
+et al and processed through usearch edgar
+ for quality check and dereplication sequences
+were grouped into operational taxonomic units
+ otus using the uparse algorithm with a 
+threshold of similarity edgar chimera detec 
+tion was done based on the reference sequences
+released from silva quast et al a repre 
+sentative sequence for each otu was then picked for
+further taxonomic assignment with blast against
+classified reference sequences from different data 
+bases pr guillou et al and in house marine
+microeukaryote databases available at https 
+github com ramalok based on a collection of sanger
+sequences pernice et al or reads from the
+
+
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès 
+
+stn sampling depth sampling latitude longitude type of molecular technique
+time m point label °n °e station dgge hts
+
+ jun j coastal 
+ j 
+
+ jun j coastal 
+ j 
+ j 
+
+apr a 
+ a 
+ a 
+
+ nov n coastal 
+ n 
+ n 
+
+ apr a open sea 
+ a 
+
+ jun j open sea 
+ j 
+ j 
+
+ nov n open sea 
+ n 
+
+ jun j open sea 
+ j 
+
+ apr a open sea 
+ a 
+ a 
+
+nov n 
+ n 
+ n 
+
+ jun j open sea 
+ j 
+
+apr a 
+ a 
+
+nov n 
+ n 
+
+ apr a open sea 
+ a 
+ a 
+ a 
+ a 
+
+nov n open sea 
+ n 
+ n 
+ n 
+
+ jun j open sea 
+ j 
+ j 
+
+ apr a open sea 
+ a 
+ a 
+ a 
+ a 
+
+nov n 
+ n 
+ n 
+ n 
+ n 
+
+table details of stations sampled for denaturing gradient gel electrophoresis dgge and high throughput sequencing 
+ hts during the cruises conducted in june april and november in the gulf of gabès
+
+
+
+aquat microb ecol – 
+
+biomarks project massana et al sequences
+have been deposited at the european nucleotide
+archive ena under accession number prjeb 
+
+based on these results an otu table including the
+ selected samples was constructed and then
+filtered to remove undesired taxa bacteria metazoa 
+streptophyta and nucleomorphs singletons and
+otus whose representative sequence was shorter
+than bp were removed as well sample j 
+was discarded due to the low number of reads re 
+trieved the final otu table had samples and
+ otus the number of reads per sample ranged
+from to on average this otu
+table was then randomly subsampled to the smallest
+sample size and square root transformed in
+order to reduce the impact of the very abundant
+otus and increase the impact of the less abundant
+otus in the community for alpha diversity the
+shannon diversity index h shannon weaver 
+and the simpson gini −d index hurlbert 
+were calculated based on the rarefacted square
+rooted otu table otu sequences https doi org 
+ m figshare taxonomy https doi 
+org m figshare and abundance
+ https doi org m figshare have
+been deposited in figshare 
+
+statistical analyses
+
+the primer software package version 
+was used to calculate bray curtis similarity matrices
+and to generate dendrograms kruskal wish 
+matrices of pairwise bray curtis similarity values
+were calculated from the normalized transformed
+dgge intensity matrix and from the rarefacted
+square rooted otu table for dendrograms we used
+the function ‘simprof ’
+
+the co inertia analysis was performed using the
+multivariate statistical r package version cas 
+grain legendre as detailed by hamdi et al 
+ it was carried out to examine the correlation
+between an array of response variables samples
+subjected to hts analyses and of independent
+explanatory variables phylogenetic group abun 
+dance conditional to a third matrix physico chemi 
+cal parameters only groups with relative abun 
+dance above excluding unidentified eukaryota 
+were included in this analysis namely the marine
+alveolates malv i and malv ii dinoflagellata 
+bicosoecida chrysophyceae dictyochophyceae 
+mamiellophyceae polycystinea acantharia and the
+marine stramenopiles mast and mast 
+
+results
+
+hydrographic characterization
+
+the diagrams of potential temperature θ and
+salinity obtained from samples taken during the 
+cruises revealed the presence of water masses in
+the gulf of gabès fig the maw was character 
+ized by the lowest salinity in each cruise between
+ and and by temperature values ranging
+from to °c in june to °c in
+april and to °c in november it was
+detected in the upper water column of the open sea 
+approximately km off the coast the widest verti 
+cal extent of this water mass was observed in novem 
+ber fig f when it reached a depth of m 
+whereas in june fig d and april fig e it did
+not exceed depths of and m respectively the
+highest density σ at depths above m at stn
+ fig h i which resulted from low temperatures
+ °c and high salinity values in april
+and in november corresponded to the lev 
+antine intermediate water liw theocharis et al 
+ the liw was observed and described by ben
+ismail et al through the channel of sicily but
+it was observed for the first time in the gulf of gabès
+during this survey this dense water mass was
+observed in november and april but not in june 
+when the deepest sample was m the iw which
+is a transitional layer between the maw and liw 
+was characterized by relatively warmer temperature
+ − °c and lower salinity − 
+than the liw fig g h i the iw was located at
+depths between and m the coastal waters
+characterized by the highest temperatures during
+each cruise and extending to almost m depth cor 
+responded to the mmw salinities between and
+ in june and in april and
+ in november temperature between and
+ °c in june and °c in april and
+ °c in november fig 
+
+table shows the mean minimal and maximal val 
+ues of physical variables temperature salinity and
+density and nutrient concentrations silicate nitrate 
+nitrite ammonium orthophosphate total nitrogen
+and total phosphorus during each cruise mean
+water temperature was the same in june ±
+ °c ±sd and november ± °c and
+was significantly colder in april ± °c 
+during june temperature increased towards the
+coast and from the bottom to the surface layer
+ fig a whereas during november it was almost
+homogenous in the upper m layer fig c dur 
+
+ 
+
+
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès 
+
+f
+ig
+
+ 
+ 
+
+ v
+er
+
+ti
+ca
+
+l 
+p
+
+ro
+fi
+
+le
+s 
+
+of
+ t
+
+em
+p
+
+er
+at
+
+u
+re
+
+ a
+n
+
+d
+ s
+
+al
+in
+
+it
+y 
+
+ a
+n
+
+d
+ p
+
+ot
+en
+
+ti
+al
+
+ t
+em
+
+p
+er
+
+at
+u
+
+re
+−
+
+sa
+li
+
+n
+it
+
+y 
+d
+
+ia
+g
+
+ra
+m
+
+s 
+fo
+
+r 
+cr
+
+u
+is
+
+es
+ c
+
+on
+d
+
+u
+ct
+
+ed
+ i
+
+n
+ 
+
+a
+ d
+
+ g
+ 
+
+ju
+n
+
+e 
+ 
+
+ 
+ 
+
+ b
+ e
+
+ h
+ 
+
+a
+p
+
+ri
+l 
+
+ 
+ 
+
+ a
+n
+
+d
+ c
+
+ f
+ i
+
+ 
+n
+
+ov
+em
+
+b
+er
+
+ 
+ 
+
+ 
+ v
+
+er
+ti
+
+ca
+l p
+
+ro
+fi
+
+le
+s 
+
+w
+er
+
+e 
+ob
+
+ta
+in
+
+ed
+ in
+
+ a
+ c
+
+ro
+ss
+
+ s
+ec
+
+ti
+on
+
+ t
+h
+
+ro
+u
+
+g
+h
+
+ t
+h
+
+e 
+g
+
+u
+lf
+
+ o
+f 
+
+g
+ab
+
+ès
+ s
+
+ta
+ti
+
+on
+s 
+
+sa
+m
+
+p
+le
+
+d
+ f
+
+or
+ p
+
+h
+ys
+
+ic
+o 
+
+ch
+em
+
+ic
+al
+
+ d
+at
+
+a 
+ar
+
+e 
+in
+
+d
+ic
+
+at
+ed
+
+ b
+y 
+
+c
+t
+
+d
+m
+
+ea
+su
+
+re
+s 
+
+ d
+ot
+
+s 
+ s
+
+ta
+ti
+
+on
+s 
+
+sa
+m
+
+p
+le
+
+d
+ f
+
+or
+ d
+
+g
+g
+
+e
+ a
+
+n
+d
+
+ h
+ig
+
+h
+ t
+
+h
+ro
+
+u
+g
+
+h
+p
+
+u
+t 
+
+se
+q
+
+u
+en
+
+ci
+n
+
+g
+ 
+
+h
+t
+
+s
+ 
+
+ar
+e 
+
+id
+en
+
+ti
+fi
+
+ed
+ d
+
+ia
+g
+
+ra
+m
+
+s 
+sh
+
+ow
+ t
+
+h
+e 
+
+d
+if
+
+fe
+re
+
+n
+t 
+
+w
+at
+
+er
+ m
+
+as
+se
+
+s 
+id
+
+en
+ti
+
+fi
+ed
+
+ in
+ t
+
+h
+e 
+
+g
+u
+
+lf
+ o
+
+f
+g
+
+ab
+ès
+
+ 
+m
+
+m
+w
+
+ 
+m
+
+ix
+ed
+
+ m
+ed
+
+it
+er
+
+ra
+n
+
+ea
+n
+
+ w
+at
+
+er
+ 
+
+m
+a
+
+w
+ 
+
+m
+od
+
+if
+ie
+
+d
+ a
+
+tl
+an
+
+ti
+c 
+
+w
+at
+
+er
+ 
+
+iw
+ 
+
+io
+n
+
+ia
+n
+
+ w
+at
+
+er
+ 
+
+l
+iw
+
+ 
+l
+
+ev
+an
+
+ti
+n
+
+ i
+n
+
+te
+rm
+
+ed
+ia
+
+te
+ w
+
+at
+er
+
+ 
+ d
+
+ia
+g
+
+on
+al
+
+ l
+in
+
+es
+ i
+
+n
+d
+
+ic
+at
+
+e 
+d
+
+en
+si
+
+ty
+ 
+
+le
+ve
+
+ls
+ s
+
+am
+p
+
+le
+s 
+
+an
+al
+
+yz
+ed
+
+ b
+y 
+
+d
+g
+
+g
+e
+
+ a
+n
+
+d
+ h
+
+t
+s
+
+ a
+re
+
+ i
+n
+
+d
+ic
+
+at
+ed
+
+ v
+er
+
+ti
+ca
+
+l 
+p
+
+ro
+fi
+
+le
+s 
+
+an
+d
+
+ d
+ia
+
+g
+ra
+
+m
+s 
+
+w
+er
+
+e 
+p
+
+lo
+tt
+
+ed
+ w
+
+it
+h
+
+ t
+h
+
+e 
+o
+
+ce
+an
+
+ d
+at
+
+a 
+v
+
+ie
+w
+
+ s
+of
+
+tw
+ar
+
+e 
+ s
+
+ch
+li
+
+tz
+er
+
+ 
+ 
+
+ 
+
+
+
+ing april highest temperatures were recorded in the
+open sea area at about km from the coast in sepa 
+rate layers − m and − m depths fig b the
+lowest temperature was always observed in the deepest
+sample except in april when it was recorded at m
+ table a marked thermal stratification was observed
+in june with a thermocline established at about m
+ fig a whereas in november a thermocline was
+observed in offshore stations between and m
+ fig c mean salinity ranged from ± in
+june to ± in november with the widest vari 
+ation from − detected in april 
+
+phosphate concentrations were generally low with a
+maximum of µm on average the lowest values
+were reported during the june cruise ± µm 
+intermediate values in november ± µm and
+highest values in april ± µm the mean con 
+centrations of silicate nitrate and ammonium were simi 
+lar in april and november cruises whereas they were
+higher in june nitrite concentrations were generally low
+during the survey period with mean values ranging be 
+tween ± µm in november and ± µm in
+june the highest mean concentration of total nitrogen
+ ± and total phosphorus ± were
+recorded in april and november respectively table 
+
+spatial and temporal variability of picoeukaryotic
+assemblages revealed by dgge
+
+to investigate changes of picoeukaryotic assemblages
+in coastal and open sea areas and across different water
+masses separate dgge gels were run for june 
+april and november samples fig s in the
+supplement at www int res com articles suppl a p 
+ supp pdf for each dgge gel a dendrogram compar 
+ing the picoeukaryotic assemblages was constructed 
+dgge patterns shown in fig s revealed that pico 
+eukaryotic communities of the gulf of gabès displayed
+an important diversity with the presence of a many
+bands and a wide variation in band type and relative
+intensity among samples hierarchical cluster analysis
+revealed large variability in picoeukaryotic assem 
+blages among stations and depths fig the factor
+that better explained community composition was the
+gradient from the coast to the open sea during the 
+studied periods in the coastal zone samples from differ 
+ent depths always clustered together this was ob 
+served in june and november fig a c while the
+‘coastal cluster’ was less distinct in april fig b on
+the other hand picoeukaryotic assemblages in the open
+sea changed clearly along the vertical profile thus all
+surface samples grouped together with a few excep 
+
+aquat microb ecol – 
+
+ju
+n
+
+e 
+ 
+
+ 
+a
+
+p
+ri
+
+l 
+ 
+
+ 
+n
+
+ov
+em
+
+b
+er
+
+ 
+ 
+
+ 
+m
+
+ea
+n
+
+m
+in
+
+d
+ep
+
+th
+m
+
+in
+m
+
+ax
+d
+
+ep
+th
+
+m
+ax
+
+m
+ea
+
+n
+m
+
+in
+d
+
+ep
+th
+
+m
+in
+
+m
+ax
+
+d
+ep
+
+th
+m
+
+ax
+m
+
+ea
+n
+
+m
+in
+
+d
+ep
+
+th
+m
+
+in
+m
+
+ax
+d
+
+ep
+th
+
+m
+ax
+
+p
+h
+
+ys
+ic
+
+al
+ p
+
+ar
+am
+
+et
+er
+
+s
+t
+
+em
+p
+
+er
+at
+
+u
+re
+
+ 
+°c
+
+ 
+ 
+
+ 
+ 
+
+±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+s
+al
+
+in
+it
+
+y 
+ p
+
+su
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+d
+en
+
+si
+ty
+
+ 
+k
+
+g
+ m
+
+−
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+n
+u
+
+tr
+ie
+
+n
+t 
+
+co
+n
+
+ce
+n
+
+tr
+at
+
+io
+n
+
+s 
+ µ
+
+m
+ 
+
+s
+il
+
+ic
+at
+
+e
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+n
+it
+
+ri
+te
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+n
+
+it
+ra
+
+te
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+a
+
+m
+m
+
+on
+iu
+
+m
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+rt
+
+h
+op
+
+h
+os
+
+p
+h
+
+at
+e
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ±
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+t
+ot
+
+al
+ n
+
+it
+ro
+
+g
+en
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+t
+ot
+
+al
+ p
+
+h
+os
+
+p
+h
+
+or
+u
+
+s
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ±
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+t
+ab
+
+le
+ 
+
+ 
+m
+
+ea
+n
+
+s 
+±
+
+ s
+d
+
+ 
+to
+
+g
+et
+
+h
+er
+
+ w
+it
+
+h
+ m
+
+in
+im
+
+al
+ a
+
+n
+d
+
+ m
+ax
+
+im
+al
+
+ v
+al
+
+u
+es
+
+ 
+of
+
+ p
+h
+
+ys
+ic
+
+al
+ p
+
+ar
+am
+
+et
+er
+
+s 
+an
+
+d
+ n
+
+u
+tr
+
+ie
+n
+
+t 
+co
+
+n
+ce
+
+n
+tr
+
+at
+io
+
+n
+s 
+
+d
+u
+
+ri
+n
+
+g
+ t
+
+h
+e 
+
+cr
+u
+
+is
+es
+
+ c
+on
+
+d
+u
+
+ct
+ed
+
+ i
+n
+
+ j
+u
+
+n
+e 
+
+ 
+ 
+
+ 
+a
+
+p
+ri
+
+l 
+ 
+
+ 
+ a
+
+n
+d
+
+ n
+ov
+
+em
+b
+
+er
+ 
+
+ 
+ 
+
+in
+ t
+
+h
+e 
+
+g
+u
+
+lf
+ o
+
+f 
+g
+
+ab
+ès
+
+ d
+ep
+
+th
+s 
+
+ m
+ 
+
+co
+rr
+
+es
+p
+
+on
+d
+
+in
+g
+
+ t
+o 
+
+m
+in
+
+im
+al
+
+ a
+n
+
+d
+ m
+
+ax
+im
+
+al
+ v
+
+al
+u
+
+es
+ a
+
+re
+ a
+
+ls
+o 
+
+sh
+ow
+
+n
+
+http www int res com articles suppl a p supp pdf
+http www int res com articles suppl a p supp pdf
+
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès
+
+tions stn in june and stn in both april and
+november samples from − m depths formed a
+distinct cluster in both april and november dendro 
+grams and the deepest sample from the cruises
+was always separate 
+
+the variability of picoeukaryotic assemblages in
+relation to water mass origin was apparent from the
+clustering pattern figs thus coastal samples
+corresponding to the mmw clustered together dur 
+ing june stn and november stn and deepest
+samples related to the iw june or the liw april
+and november were always separated in addition 
+during the november cruise samples from stns 
+and formed a single cluster and were located in
+the maw except some of deepest samples n 
+
+and n that seemed to be in a transitional layer
+between the maw and the iw 
+
+in order to better compare samples from different
+cruises we ran additional gels with all surface
+ fig s d and subsurface fig s e samples this
+analysis revealed clear differences in the pico 
+eukaryotic community in the studied periods 
+likely explained by temporal changes as cruises
+occurred in different seasons in fact surface sam 
+ples generally clustered by study period forming
+temporal clusters comprising june april and
+november samples except coastal samples from
+june and april fig d the cluster analysis of
+sub surface dgge banding patterns was less evi 
+dent with april and november samples always
+
+ 
+
+fig cluster dendrograms based on bray curtis similarity
+matrices constructed from the normalized transformed
+dgge intensity matrices samples were collected in a 
+june b april and c november samples
+from d the surface and e sub surface − m were
+obtained during the cruises details about individual sam 
+ples location date etc are given in table the percent
+similarity among samples is given along the horizontal axes 
+red lines represent samples that were not significantly 
+
+different from one another p 
+
+
+
+aquat microb ecol – 
+
+being together whereas june samples clustered
+with april coastal stations or formed a separate
+cluster open sea samples fig e this clustering
+revealed the important variability of picoeukaryotic
+assemblages in the gulf of gabès in the sampled
+periods 
+
+richness taxonomic composition and spatial
+variability of picoeukaryotic assemblages 
+
+revealed by hts
+
+the composition and genetic diversity of the pico 
+eukaryotic community in the gulf of gabès was
+investigated by hts of the hypervariable v region
+of the s rrna gene the final sequence dataset 
+rarefied to keep consistency among the different
+samples included good quality reads clus 
+tered into otus at sequence similarity
+ table s in the supplement 
+
+our data showed that the picoeukaryotes from the
+gulf of gabès were very diverse including taxo 
+nomic groups that covered the major eukaryotic
+divisions table s the alveolata which consisted
+mostly of parasitic marine alveolates malvs and
+phagotrophic ciliates and dinoflagellates dominated
+the sequencing dataset contributing of total
+sequences alveolata was mostly represented by
+malv ii and malv i detected at all depths and in
+all sampled months table s fig other groups
+like apicomplexa colpodellida ellobiopsidae 
+malv iii malv iv malv v and perkinsidae were
+minor and unevenly distributed components ello 
+biopsidae was mostly detected at m whereas
+malv v was mostly found during the november
+cruise apicomplexa was detected exclusively at
+ m during june and colpodellida was restricted
+to surface water during april 
+
+stramenopiles were the second most represented
+supergroup and the most diverse in fact 
+
+ 
+
+ 
+ n
+
+ 
+ 
+
+ 
+ n
+
+ 
+
+ 
+n 
+
+ 
+ 
+
+n 
+ 
+
+ 
+ a
+
+ 
+ 
+
+ 
+ a
+
+ 
+
+ 
+a 
+
+ 
+ 
+
+a 
+ 
+
+ 
+ j
+
+ 
+ 
+
+ 
+j 
+
+ 
+ 
+
+j 
+ 
+
+alveolata ciliophora
+ dinoflagellata
+ ellobiopsidae
+ malv i
+ malv ii
+ malv v
+ archaeplastida mamiellophyceae
+ prasinophyceae clade vii
+ trebouxiophyceae
+ ulvophyceae
+ eukaryota unidentified eukaryota
+ hacrobia centrohelida
+ picozoa
+ opisthokonta ascomycota
+ rhizaria acantharia
+ chlorarachniophyta
+ polycystinea
+ stramenopiles bicosoecida
+ triparma
+ chrysophyceae
+ diatoms
+ dictyochophyceae
+ mast 
+ mast 
+ mast 
+ mast 
+ mast 
+ mast 
+ mast 
+ moch 
+ pelagophyceae
+
+fig heatmap showing the relative abundance of phylogenetic groups in the gulf of gabès during june april 
+and november in samples analyzed by high throughput sequencing only groups displaying a relative abundance above
+ in at least sample are represented details about individual samples location date etc are given in table 
+
+malv marine alveolates mast marine stramenopiles moch marine ochrophyta
+
+
+
+stramenopile otus grouped into taxonomic
+groups with bicosoecida the most represented and
+the most diverse otus followed by chryso 
+phyceae and marine stramenopile mast clades 
+among the described subclades of mast mas 
+sana et al were retrieved in the gulf of
+gabès including the newly described mast that
+had been detected mainly in offshore surface waters 
+mast was the most abundant and diverse
+group exhibiting the highest numbers of sequences
+ and otus in addition new marine
+ochrophyta groups moch to moch were
+detected among which moch was the most abun 
+dant reads and diverse otus relative to
+the other moch groups 
+
+archaeplastida was dominated by mamiello 
+phyceae particularly well represented in
+the coastal area mainly triparma and micromonas
+spp and in the deep offshore sample from the june
+cruise mainly ostreococcus spp prasinophyceae
+clade vii and trebouxiophyceae were detected at
+higher abundances at the coastal stn during june
+and april respectively whereas ulvophyceae were
+almost exclusively present at stn in the open sea
+region during both april and november within
+rhizaria acantharia and polycystinea groups
+were the first well represented groups in our sur 
+vey they had an important diversity relative to all
+other rhizaria groups since they exhibited and
+ otus respectively hacrobia opisthokonta 
+amoebozoa and eukaryota made up a combined
+ of rdna sequences among hacrobia pico 
+zoa was the most abundant sequences and
+diverse otus group and was retrieved from
+almost all samples without a clear temporal or spa 
+tial trend fig illustrates the great
+seasonal and spatial variability in pico 
+eukaryotic diversity the dominant
+groups in the gulf of gabès exhibited
+clear spatial and seasonal trends dur 
+ing april and no vember malv ii and
+bicosoecida were dominant whereas
+mamiello phyceae and dinoflagellates
+dominated in june there was a spatial
+trend of increasing relative abundance
+of malv ii during april and november
+and of malv i in november and june 
+in deed an increase in abundance to 
+ward the open sea area was detected
+for malv i and malv ii during april
+and for malv i and bico soecida in
+november among the stramenopiles 
+re trieved mainly at surface bicosoecida
+
+were prevailing in april and november while chryso 
+phyceae dictyophyceae mast and mast were
+prevailing in june particularly at the surface of
+stn within rhizaria acantharia and polycystinea
+were detected mainly in the deepest sample with
+a dominance of the former in no vember of
+sequences and of the latter in april of
+sequences 
+
+rare taxa i e those found in relative abundances
+below were identified in all samples fig on
+the basis of total abundance the contribution of the
+rare biosphere was more or less constant among sam 
+ples with values between and except a very
+low number in a on the basis of tax 
+onomic composition a high variability was found
+between samples although there was a tendency of
+being more similar within the same station the rare
+biosphere was composed mainly of stramenopiles 
+accounting for almost half of the relative abundance 
+followed by alveolata rhizaria and hacrobia 
+
+shannon weaver and simpson indices of diversity
+were calculated for all samples table picoeukary 
+otic diversity was generally higher in november sam 
+ples compared to those from the other cruises during
+april and november diversity indices were higher in
+offshore stations relative to coastal stations with the
+lowest value detected at m depth at stn in
+april in june the diversity of picoeukaryotic commu 
+nities was highest at m depth 
+
+finally we used the hts data to analyze the spa 
+tial and temporal variability of picoeukaryotes in the
+gulf of gabès by hierarchical clustering based on
+bray curtis similarity fig a depth related trend
+was clearly apparent among our samples whereas
+the temporal trend was less clear indeed pico 
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+re
+lat
+
+ive
+ a
+
+bu
+nd
+
+an
+ce
+
+ 
+ 
+
+samples 
+
+stramenopiles 
+rhizaria 
+opisthokonta 
+hacrobia 
+eukaryota 
+archaeplastida
+amoebozoa
+alveolata
+
+fig relative abundance of phylogenetic supergroups constituting the
+‘rare biosphere’ taxa with relative abundances below in the gulf of
+gabès in samples analyzed by high throughput sequencing details about 
+
+individual samples location date etc are given in table 
+
+
+
+aquat microb ecol – 
+
+eukaryotic assemblages from surface and
+mesopelagic layers grouped into com 
+munity clusters regardless of the sampling
+period fig a cluster i was composed
+of the deepest samples m depth at
+stn that were distinguished by the
+presence of acantharia and polycystinea 
+cluster ii included coastal surface sam 
+ples and a deep sample m depth at
+stn characterized by high abundance
+of mamiellophyceae of the total
+number of dna sequences cluster iii
+grouped surface offshore samples plus
+the coastal sample n comprising less
+than of mamiellophyceae it is worth
+noting that the deep sample from cluster
+ii j combined phylogenetic
+groups from the surface cluster iii such
+as mamiellophyceae and dinoflagellata 
+and from the deep cluster i such as
+malv i malv ii acantharia and poly 
+cystinea fig b 
+
+relationship between picoeukaryotic diversity
+groups and environmental variables
+
+the variability of picoeukaryotic community com 
+position by hts data in relation to environmental
+factors including physical parameters and nutrient
+availability was examined by co inertia analysis
+ fig this analysis yielded sample clustering simi 
+lar to that shown in fig a and indicated close links
+between picoeukaryotic composition and abiotic pa 
+rameters rv coefficient the relative abun 
+dance of acantharia and polycystinea was related to
+high density and salinity whereas that of mast 
+mamiellophyceae and dinoflagellata was related to
+inorganic nitrogen fig shows close links between
+chrysophyceae mast and dictyo phyceae and
+temperature and total nitrogen on the one hand and
+between both malv ii and acantharia and ortho 
+phosphate and total phosphorus on the other hand 
+moreover the relative abundance of bicosoecida ap 
+
+peared to be inversely associated with silicate a co 
+inertia plot revealed no relationship between malv 
+i and the studied environmental variables 
+
+discussion
+
+spatial and temporal variability of the 
+picoeukaryotic community
+
+although the gulf of gabès is a relatively narrow
+area picoeukaryotic assemblages displayed high
+variability at horizontal and vertical scales with very
+marked temporal changes indeed the composition
+of picoeukaryotic assemblages can be remarkably
+constant over broad oceanographic regions but can
+also change abruptly by crossing oceanographic
+fronts or changing water masses díez et al 
+clustering analysis of surface and sub surface sam 
+ples investigated by dgge re vealed a clear temporal
+
+ 
+
+fig a cluster dendrogram based on bray curtis similarity matrix
+from the operational taxonomic unit otu table constructed from high 
+throughput sequencing hts data red lines represent samples that
+were not significantly different from one another p details about
+individual samples location date etc are given in table b taxo 
+nomic composition supergroups with relative abundances above of 
+
+the clustered communities
+
+index j j j a a a a n n n n 
+
+h 
+ −d 
+
+table shannon diversity index h and simpson gini index −d for each sample derived from high throughput sequencing 
+data details about individual samples location date etc are given in table 
+
+
+
+variation in picoeukaryotic composition notably at
+the surface layer and in the open sea area in fact 
+coastal samples from june and april did not show
+any temporal clustering pattern fig d e simi 
+larly a season related trend in shallow water assem 
+blages surface and deep chlorophyll maximum 
+dcm was described at the spot station countway
+et al lie et al the lack of an obvious
+temporal trend in hts data was likely due to the low
+number of samples used 
+
+in our samples differences in pico eukaryotic as 
+semblage composition and abundance were ob 
+served between the coastal and the open sea areas
+as well as between surface and mesopelagic layers 
+with more pronounced changes at the horizontal
+
+scale a similar trend was found in the south china
+sea wu et al this could be explained by the
+fact that in both studies the water column sampled
+was relatively shallow up to m and m respec 
+tively when deeper sampling into the mesopelagic
+and bathypelagic layers is performed such as in the
+sargasso sea not et al or the indian ocean
+ not et al the vertical gradient was the most
+important in determining picoeukaryotic diversity 
+the clustering of coastal samples from different
+depths suggests homogenous picoeukaryote assem 
+blages throughout the upper water column in the
+open sea region the vertical distribution of pico 
+eukaryotes exhibited a clear variability between sur 
+face the − m layer and deeper waters with a
+
+large divergence between surface
+and deep waters some taxonomic
+groups drove these changes such as
+acantharia polycystinea mamiel 
+lophyceae and bicosoecida this ver 
+tical trend has already been de 
+scribed in the mediterranean sea
+ díez et al b marie et al 
+with the identification of vertical
+compartments surface dcm and
+mesopelagic waters a similar view
+was obtained at the spot station
+ countway et al schnetzer et
+al kim et al hu et al 
+ where the shallowest samples
+ m and dcm were clearly different
+from the deepest samples to
+ m 
+
+summarizing our data picoeukary 
+otic diversity changes are most impor 
+tant at the horizontal scale with a
+clear distinction between coastal and
+open sea communities fig where 
+as at the vertical scale shifts were
+ detected in the open sea area partic 
+ularly between surface and meso 
+pelagic communities figs the
+temporal trend seems to be more rele 
+vant in the open sea area fig d e 
+these diversity patterns could be in 
+fluenced by the wide continental shelf
+area of the gulf of gabès one of the
+widest in the mediterranean since the
+physico chemical settings showed sig 
+nificant variability between coastal
+and open sea areas bel hassen et al 
+ b likely due to the transition over
+the continental shelf area 
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès 
+
+fig co inertia plot showing the distribution of phylogenetic groups with rel 
+ative abundances above excluding unidentified eukaryota in the gulf of
+gabès in relation to the environmental variables during the investigated pe 
+riods in samples analyzed by high throughput sequencing the grouped
+community clusters from fig are shown details about individual samples
+ location date etc are given in table t nitrogen total nitrogen t phospho 
+rus total phosphorus malv marine alveolates mast marine stramenopiles
+
+
+
+aquat microb ecol – 
+
+relationships between the picoeukaryotic
+community and environmental factors
+
+the co inertia analysis showed that the distribution
+of some picoeukaryotic groups was influenced by ni 
+trogen dinoflagellates proliferated during june at the
+coastal stn and at m at stn both char 
+acterized by the highest values of inorganic nitrogen 
+similarly a dominance of large dinoflagellates has
+been recorded in this area during july drira et al 
+ these results suggest that nutrient content
+might shape the dinoflagellate distribution in the gulf
+of gabès with the co occurrence of both micro and
+pico sized species in the south china sea relative
+abundances of dinoflagellates and malv ii were re 
+lated to high temperature and irradiance wu et al 
+ while in the gulf of gabès the distribution of
+malv ii was associated with higher levels of phos 
+phorus the highest abundances of chrysophyceae
+ dictyo phyceae and mast 
+noted at the surface of stn during june co occurred
+with high concentrations of nitrites and total nitrogen 
+little has been reported on the relationships between
+particular marine picoeukaryotic taxa and nutrient
+content in tibetan lakes wu et al showed that
+chemical compounds notably the percentage of chlo 
+rine and carbonate could structure the diversity pat 
+tern of eukaryotic plankton assemblages 
+
+the structuring of picoeukaryotic assemblages ac 
+cording to water mass properties has been observed
+over large areas such as in the north water hamilton
+et al and in the southern ocean díez et al 
+and this pattern was also detected to some extent in the
+gulf of gabès indeed the clustering based on dgge
+fingerprints was consistent with the de scribed water
+masses in the november cruise fig i when distinct
+picoeukaryotic assemblages were found in the mmw
+ stn the maw stns and and the liw stn
+ m this was also supported by the co inertia
+analysis where water density affected the pico euka 
+ryotic diversity cluster i in the deeper layer corre 
+sponding to the liw the fact that the distribution pat 
+tern of picoeukaryotes depended on physically
+identified water masses suggests physiological prefer 
+ences of given species to these physical properties
+and or passive dispersion within the water masses 
+
+taxonomic composition of the 
+picoeukaryotic community
+
+in the gulf of gabès alveolata and stramenopiles
+clearly dominated the sequencing dataset with
+
+alveolata accounting for more than of
+sequences the same trend has been observed in the
+northeastern red sea acosta et al in the
+south china sea wu et al and at ocean sur 
+faces massana et al moreover a recent study
+revealed that alveolates comprised of the pico 
+nanoplankton fraction − µm in the surface layer
+of the world’s oceans de vargas et al in par 
+ticular malv ii was the most represented
+in our molecular survey in agreement with observa 
+tions reported in many other surveys such as in the
+english channel romari vaulot the sar 
+gasso sea not et al the northeastern red sea
+ acosta et al and the south china sea wu et
+al in a recent report the relative abundance
+of malv ii was considerably reduced from about 
+to when the study used environmental rna
+instead of dna massana et al thus the large
+contribution of malv sequences detected here does
+not directly imply a dominance of active or viable
+malv cells in the picoeukaryotic community 
+
+the heterotrophic bicosoecida represented the
+major stramenopile group in the gulf of gabès 
+of sequences contrasting with previous reports that
+listed bicosoecids as rarely represented taxa in mar 
+ine surveys massana pedrós alió massana
+et al and instead abundant in freshwater envi 
+ronments arndt et al richards et al 
+the high diversity of bicosoecida otus and
+chrysophyceae otus make the gulf of gabès
+a favorable area to shed new light on the diversity
+and function of these groups in marine microbial
+food webs 
+
+in most marine environments including mediter 
+ranean studies at blanes bay massana et al 
+and the alboran sea díez et al b diverse
+mast groups collectively dominate within the stra 
+menopiles which obviously was not the case at the
+gulf of gabès even though they were well repre 
+sented although also detected in the deepest sam 
+ples the mast groups were more important at the
+surface as also seen at the spot station countway et
+al the occurrence of mast and at
+all stations and at all depths exhibiting a large varia 
+tion in hydrologic conditions suggests that they are
+cosmopolitan in this area and are important compo 
+nents of the picoeukaryotic community in the gulf of
+gabès as in other studies e g logares et al 
+mast was the most abundant and diverse of the
+groups fish fluorescent in situ hybridization counts
+re vealed that mast can be one of the most abun 
+dant component of marine heterotrophic flagellates 
+and can be a key bacterivore in both coastal and open
+
+ 
+
+
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès 
+
+ocean waters rodríguez martínez et al 
+mast was the second most abundant in terms of
+relative abundance mast group in the gulf of
+gabès novel stramenopile lineages recently de 
+scribed from other areas were also detected here in 
+cluding the basal heterotrophic mast group and
+the new moch groups moch to similarly to
+results reported by massana et al we observed
+that moch was the most abundant of the groups 
+
+the prevalence of the heterotrophic rhizarian
+groups polycystinea yuan et al and acantharia
+in the deeper samples m depth was consistent
+with previous observations from other regions such as
+the caribbean sea stoeck et al the gulf of
+california edgcomb et al antarctica lópez 
+garcía et al and the pacific ocean countway
+et al hu et al this finding corroborated
+the conclusion that these groups appear to be favored
+in deep waters countway et al the dominance
+of polycystinea in april and acantharia in november
+ fig indicated a seasonal trend and therefore a pu 
+tative relationship with environmental factors both
+silicate and total nitrogen were higher in april than in
+november the higher amount of silicate could ex 
+plain the proliferation of polycystinea known as an
+extensively silicified lineage containing silicate trans 
+porter genes marron et al nitrogen may also
+play a metabolic role within polycystinea cells rhi 
+zarian groups are important yet understudied and
+their biological or ecological features require further
+investigation de vargas et al caron 
+
+the dominance of mamiellophyceae in the coastal
+region during both june and april was in agreement
+with previous observations in the english channel
+ romari vaulot blanes bay zhu et al 
+and in the south east pacific ocean shi et al 
+collado fabbri et al more recently lopes dos
+santos et al showed that mamiellophyceae is
+the dominant chlorophyta group in coastal areas of
+oceanic waters 
+
+our study shows that prasinophyceae clade vii
+was present almost exclusively in the coastal area of
+the gulf of gabès similarly this group has been de 
+tected in coastal waters of the english channel ro 
+mari vaulot and the south china sea wu et
+al however prasinophyceae clade vii is also
+an important oceanic group viprey et al shi et
+al rii et al lopes dos santos et al 
+
+the low abundance of diatoms was in accordance
+with previous studies in the gulf of gabès that
+showed low diatom contribution to chlorophyll a in
+summer and early spring bel hassen et al a 
+finally the lack of prymnesiophyceae in our dataset
+
+is consistent with previous data showing a low contri 
+bution of prymnesiophyceae in the gulf of gabès
+ bel hassen et al a which contrasted with its
+general dominance in the mediterranean sea claus 
+tre et al vidussi et al 
+
+the occurrence of rare taxa at similar relative
+abundances during different sampling periods indi 
+cates that they might not be influenced by changes in
+environmental variables rare taxa mostly be longed
+to the stramenopiles which was also the most diverse
+group in the dataset the high diversity detected in
+the rare biosphere further revealed that rare pico 
+eukaryotes could drive the differences in diversity
+between different samples and be specific to certain
+environments and therefore represent the unique
+characteristics of each environment since the major
+protistan groups are globally distributed fenchel 
+finlay finlay fenchel 
+
+conclusion
+
+this investigation represents the first contribution
+regarding the distribution and diversity of picoeukary 
+otic assemblages in the gulf of gabès although this
+is a relatively small area it displays a rather high and
+variable picoeukaryotic diversity with consistent spa 
+tial vertical and temporal patterns these patterns
+were driven by the coast−offshore gradient the verti 
+cal variations in the offshore stations the sampling
+period and the co occurrence of different water
+masses moreover the picoeukaryotic diversity in the
+gulf of gabès was affected by both physical and
+chemical factors in terms of picoeukaryotic composi 
+tion the atlantic mediterranean and ionian water
+masses did not show specific distinctions whereas the
+levantine water mass was differentiated by the pres 
+ence of acantharia and polycystinea groups 
+
+acknowledgements this study was partially supported by
+the european funded project ‘improving national cap 
+acities in observation and management of marine
+ environment in tunisia’ incommet we thank
+the marine bioinformatics service of the icm csic for
+ making the high performance computing analyses pos 
+sible we acknowledge the scientific contribution of dr 
+sana ben ismail 
+
+literature cited
+
+acosta f ngugi dk stingl u diversity of picoeukary 
+otes at an oligotrophic site off the northeastern red sea
+coast aquat biosyst 
+
+arndt h dietrich d auer b cleven ej grafenhan t weit 
+ere m mylnikov ap functional diversity of het 
+erotrophic flagellates in aquatic ecosystems in lead 
+
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+
+
+aquat microb ecol – 
+
+beater bsc green jc eds the flagellates unity diver 
+sity and evolution taylor francis press london 
+p − 
+
+balzano s abs e leterme sc protist diversity along
+a salinity gradient in a coastal lagoon aquat microb ecol
+ − 
+
+bel hassen m drira z hamza a ayadi h akrout f issaoui
+h summer phytoplankton pigments and commu 
+nity composition related to water mass properties in the
+gulf of gabes estuar coast shelf sci − 
+
+bel hassen m drira z hamza a ayadi h and others
+ a plankton pigment signatures and their relation 
+ship to spring−summer stratification in the south eastern
+mediterranean estuar coast shelf sci − 
+
+bel hassen m drira z hamza a ayadi h and others
+ b phytoplankton dynamics related to water mass
+properties in the gulf of gabès ecological implications 
+j mar syst − 
+
+ben ismail s sammari c gasparini gp béranger k brahim
+m aleya l water masses exchanged through the
+channel of sicily evidence for the presence of new
+water masses on the tunisian side of the channel deep
+sea res i − 
+
+berman t townsend dw el sayed sz trees cc azov y
+ optical transparency chlorophyll and primary
+productivity in the eastern mediterranean near the
+israeli coast oceanol acta − 
+
+caron da ocean science the rise of rhizaria nature
+ − 
+
+caron da countway pd hypotheses on the role of
+the protistan rare biosphere in a changing world aquat
+microb ecol − 
+
+casgrain p legendre p the r package for multivari 
+ate and spatial analysis version d user’s manual 
+département de sciences biologiques université de
+montréal montréal qc
+
+claustre h kerherve p marty jc prieur l videau c hecq
+jh phytoplankton dynamics associated with a
+geostrophic front ecological and biogeochemical impli 
+cations j mar res − 
+
+collado fabbri s vaulot d ulloa o structure and
+seasonal dynamics of the eukaryotic picophytoplankton
+community in a wind driven coastal upwelling ecosys 
+tem limnol oceanogr − 
+
+countway pd vigil pd schnetzer a moorthi sd caron da
+ seasonal analysis of protistan community struc 
+ture and diversity at the usc microbial observatory san
+pedro channel north pacific ocean limnol oceanogr
+ − 
+
+de vargas c audic s henry n decelle j and others 
+eukaryotic plankton diversity in the sunlit ocean sci 
+ence 
+
+díez b pedrós alió c massana r a study of genetic
+diversity of eukaryotic picoplankton in different oceanic
+regions by small subunit rrna gene cloning and sequen 
+cing appl environ microbiol − 
+
+díez b pedrós alió c marsh tl massana r b 
+ application of denaturing gradient gel electrophoresis
+ dgge to study the diversity of marine picoeukaryotic
+assemblages and comparison of dgge with other
+ molecular techniques appl environ microbiol 
+ − 
+
+díez b massana r estrada m pedrós alió c distri 
+bution of eukaryotic picoplankton assemblages across
+hydrographic fronts in the southern ocean studied
+by denaturing gradient gel electrophoresis limnol
+oceanogr − 
+
+doney sc ruckelshaus m duffy je barry jp and others
+ climate change impacts on marine ecosystems 
+annu rev mar sci − 
+
+drira z hamza a belhassen m ayadi h bouaïn a aleya l
+ dynamics of dinoflagellates and environmental
+factors during the summer in the gulf of gabes tunisia 
+eastern mediterranean sea sci mar − 
+
+drira z bel hassen m hamza a ayadi h rebai a bouaïn
+a aleya l spatial and temporal variations of
+microphytoplankton composition related to hydro 
+graphic conditions in the gulf of gabès j mar biol assoc
+uk − 
+
+edgar rc search and clustering orders of magnitude
+faster than blast bioinformatics − 
+
+edgar rc uparse highly accurate otu sequences
+from microbial amplicon reads nat methods − 
+
+edgcomb vp kysela dt teske a gómez ad sogin ml
+ benthic eukaryotic diversity in the guaymas basin
+hydrothermal vent environment proc natl acad sci usa
+ − 
+
+fenchel t finlay bj the ubiquity of small species 
+patterns of local and global diversity bioscience 
+ − 
+
+finlay bj fenchel t cosmopolitan metapopulations
+of free living microbial eukaryotes protist − 
+
+grossmann l jensen m pandey rv jost s bass d psenner
+r boenigk j molecular investigation of protistan
+diversity along an elevation transect of alpine lakes 
+aquat microb ecol − 
+
+guillou l bachar d audic s bass d and others the
+protist ribosomal reference database pr a catalog of
+unicellular eukaryote small sub unit rrna sequences
+with curated taxonomy nucleic acids res d −d 
+
+hamdi i denis m bellaaj zouari a khemakhem h and
+others the characterisation and summer distribu 
+tion of ultraphytoplankton in the gulf of gabès eastern
+mediterranean sea tunisia by using flow cytometry 
+cont shelf res − 
+
+hamilton ak lovejoy c galand pe ingram rg 
+water masses and biogeography of picoeukaryote
+assemblages in a cold hydrographically complex system 
+limnol oceanogr − 
+
+hu sk campbell v connell p gellene ag liu z terrado
+r caron da protistan diversity and activity
+inferred from rna and dna at a coastal ocean site in the
+eastern north pacific fems microbiol ecol fiw 
+
+hurlbert sh non concept of species diversity a
+ critique and alternative parameters ecology 
+ − 
+
+kim dy countway pd jones ac schnetzer a yamashita
+w tung c caron da monthly to interannual
+variability of microbial eukaryote assemblages at four
+depths in the eastern north pacific isme j − 
+
+krom md thingstad tf brenner s carbo p and others
+ summary and overview of the cyclops p addi 
+tion lagrangian experiment in the eastern mediterran 
+ean deep sea res ii − 
+
+kruskal jb wish m multidimensional scaling sage 
+newbury park ca
+
+lie aay kim dy schnetzer a caron da small 
+scale temporal and spatial variations in protistan commu 
+nity composition at the san pedro ocean time series sta 
+tion off the coast of southern california aquat microb
+ecol − 
+
+logares r workflow for analysing miseq amplicons
+based on uparse v https doi org zenodo 
+ 
+
+https doi org ame 
+https doi org j jmarsys 
+https doi org j dsr 
+https doi org nature 
+https doi org ame 
+https doi org 
+https doi org lo 
+https doi org lo 
+https doi org aem 
+https doi org aem 
+https doi org lo 
+https doi org annurev marine 
+https doi org scimar n 
+https doi org s x
+https doi org bioinformatics btq 
+https doi org nmeth 
+https doi org pnas 
+https doi org b atuossp d co b 
+https doi org 
+https doi org ame 
+https doi org nar gks 
+https doi org j csr 
+https doi org lo 
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org ismej 
+https doi org j dsr 
+https doi org ame 
+https doi org ismej 
+
+
+bellaaj zouari et al picoeukaryotes in the gulf of gabès
+
+logares r audic s santini s pernice mc de vargas c 
+massana r diversity patterns and activity of
+uncultured marine heterotrophic flagellates unveiled
+with pyrosequencing isme j − 
+
+lopes dos santos a gourvil p tragin m noël mh decelle
+j romac s vaulot d diversity and oceanic distri 
+bution of prasinophytes clade vii the dominant group of
+green algae in oceanic waters isme j − 
+
+lópez garcía p rodríguez valera f pedrós alió c mor 
+eira d unexpected diversity of small eukaryotes in
+deep sea antarctic plankton nature − 
+
+marie d zhu f balagué v ras j vaulot d eukary 
+otic picoplankton communities of the mediterranean sea
+in summer assessed by molecular approaches dgge 
+ttge qpcr fems microbiol ecol − 
+
+marron ao ratcliffe s wheeler gl goldstein re and oth 
+ers the evolution of silicon transport in eukary 
+otes mol biol evol − 
+
+massana r eukaryotic picoplankton in surface
+oceans annu rev microbiol − 
+
+massana r pedrós alió c unveiling new microbial
+eukaryotes in the surface ocean curr opin microbiol 
+ − 
+
+massana r castresana j balagué v guillou l and others
+ phylogenetic and ecological analysis of novel mar 
+ine stramenopiles appl environ microbiol − 
+
+massana r del campo j sieracki me audic s logares r
+ exploring the uncultured microeukaryotic major 
+ity in the oceans reevaluation of ribogroups within
+ stramenopiles isme j − 
+
+massana r gobet a audic s bass d and others 
+ marine protist diversity in european coastal waters and
+sediments as revealed by high throughput sequencing 
+environ microbiol − 
+
+not f gausling r azam f heidelberg jf worden az
+ vertical distribution of picoeukaryotic diversity in
+the sargasso sea environ microbiol − 
+
+not f latasa m scharek r viprey m and others 
+ protistan assemblages across the indian ocean with a
+specific emphasis on the picoeukaryotes deep sea res i
+ − 
+
+pernice mc logares r guillou l massana r gen 
+eral patterns of diversity in major marine microeukaryote
+lineages plos one e 
+
+quast c pruesse e yilmaz p gerken j and others 
+the silva ribosomal rna gene database project 
+improved data processing and web based tools nucleic
+acids res d −d 
+
+richards ta vepritskiy aa gouliamova de nierzwicki 
+bauer sa the molecular diversity of freshwater
+picoeukaryotes from an oligotrophic lake reveals
+diverse distinctive and globally dispersed lineages 
+ environ microbiol − 
+
+rii ym duhamel s bidigare rr karl dm repeta dj 
+church mj diversity and productivity of photo 
+synthetic picoeukaryotes in biogeochemically distinct
+regions of the south east pacific ocean limnol
+oceanogr − 
+
+rodríguez martínez r labrenz m del campo j forn i jür 
+gens k massana r distribution of the uncultured
+protist mast in the indian ocean drake passage and
+mediterranean sea assessed by real time quantitative
+pcr environ microbiol − 
+
+romari k vaulot d composition and temporal vari 
+ability of picoeukaryote communities at a coastal site of
+the english channel from s rdna sequences limnol
+oceanogr − 
+
+schlitzer r ocean data view http odv awi de
+schnetzer a moorthi s countway pd gast rj gilg ic 
+
+caron da depth matters microbial eukaryote
+diversity and community structure in the eastern north
+pacific revealed through environmental gene libraries 
+deep sea res i − 
+
+shannon ce weaver w the mathematical theory of
+communication university of illinois press urbana il
+
+shi xl marie d jardillier l scanlan dj vaulot d 
+groups without cultured representatives dominate
+eukaryotic picophytoplankton in the oligotrophic south
+east pacific ocean plos one e 
+
+siokou frangou i christaki u mazzocchi mg montresor
+m ribera d’alcalá m vaqué d zingone a plank 
+ton in the open mediterranean sea a review biogeo 
+sciences − 
+
+stoeck t taylor gt epstein ss novel eukaryotes
+from the permanently anoxic cariaco basin caribbean
+sea appl environ microbiol − 
+
+stoeck t bass d nebel m jones md breiner hw richards
+ta multiple marker parallel tag environmental
+dna sequencing reveals a highly complex eukaryotic
+community in marine anoxic water mol ecol − 
+
+theocharis a nittis k kontoyiannis h papageorgiou e 
+balopoulos e climatic changes in the aegean sea
+influence the eastern mediterranean thermohaline cir 
+culation geophys res lett − 
+
+tréguer p lecorre p manuel d’analyse des sels
+nutritifs dans l’eau de mer université de bretagne occi 
+dentale brest
+
+vaulot d eikrem w viprey m moreau h the diver 
+sity of small eukaryotic phytoplankton ≤ µm in marine
+ecosystems fems microbiol rev − 
+
+vidussi f marty jc chiaverini j phytoplankton pig 
+ment variations during the transition from spring bloom
+to oligotrophy in the northwestern mediterranean sea 
+deep sea res i − 
+
+viprey m guillou l ferréol m vaulot d wide genetic
+diversity of picoplanktonic green algae chloroplastida 
+in the mediterranean sea uncovered by a phylum biased
+pcr approach environ microbiol − 
+
+wu ql chatzinotas a wang j boenigk j genetic
+diversity of eukaryotic plankton assemblages in eastern
+tibetan lakes differing by their salinity and altitude 
+microb ecol − 
+
+wu w huang b liao y sun p picoeukaryotic diver 
+sity and distribution in the subtropical tropical south
+china sea fems microbiol ecol − 
+
+wu w wang l liao y huang b microbial eukary 
+otic diversity and distribution in a river plume and
+cyclonic eddy influenced ecosystem in the south china
+sea microbiologyopen − 
+
+yuan j chen my shao p zhou h chen yq qu lh 
+genetic diversity of small eukaryotes from the coastal
+waters of nansha islands in china fems microbiol lett
+ − 
+
+zeidner g beja o the use of dgge analyses to
+explore eastern mediterranean and red sea marine
+picophytoplankton assemblages environ microbiol 
+ − 
+
+zhang j kobert k flouri t stamatakis a pear a
+fast and accurate illumina paired end read merger 
+bioinformatics − 
+
+zhu f massana r not f marie d vaulot d mapping
+of picoeucaryotes in marine ecosystems with quantitative
+pcr of the s rrna gene fems microbiol ecol 
+ − 
+
+ 
+
+editorial responsibility daniel vaulot 
+roscoff france
+
+submitted april accepted september 
+proofs received from author s december 
+
+https www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+https doi org 
+https doi org j x
+https doi org annurev micro 
+https doi org j mib 
+https doi org aem 
+https doi org ismej 
+https doi org 
+https doi org j x
+https doi org j dsr 
+https doi org journal pone 
+https doi org nar gks 
+https doi org j x
+https doi org lno 
+https doi org lo 
+http odv awi de
+https doi org j dsr 
+https doi org journal pone 
+https doi org bg 
+https doi org aem 
+https doi org j x x
+https doi org gl 
+https doi org j x
+https doi org s 
+https doi org 
+https doi org mbo 
+https doi org j femsle 
+https doi org j x
+https doi org bioinformatics btt 
+https doi org j femsec 
+
+
+
+

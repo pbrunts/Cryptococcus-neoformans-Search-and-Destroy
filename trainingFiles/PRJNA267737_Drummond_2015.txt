@@ -1,0 +1,1831 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+evaluating a multigene environmental dna approach for biodiversity assessment
+
+
+evaluating a multigene environmental dna
+approach for biodiversity assessment
+drummond et al 
+
+drummond et al gigascience 
+doi s 
+
+
+
+drummond et al gigascience 
+doi s 
+
+research open access
+
+evaluating a multigene environmental
+dna approach for biodiversity assessment
+alexei j drummond richard d newcomb thomas r buckley dong xie 
+andrew dopheide benjamin cm potter joseph heled howard a ross 
+leah tooman stefanie grosser duckchul park nicholas j demetras mark i stevens 
+james c russell sandra h anderson anna carter and nicola nelson 
+
+abstract
+
+background there is an increasing demand for rapid biodiversity assessment tools that have a broad taxonomic
+coverage here we evaluate a suite of environmental dna edna markers coupled with next generation sequencing
+ ngs that span the tree of life comparing them with traditional biodiversity monitoring tools within ten × 
+meter plots along a meter elevational gradient 
+
+results from six edna datasets one from each of s s its trnl and two from coi we identified sequences
+from ncbi taxonomy defined phyla or equivalent ranging from to for a given edna marker estimates of
+alpha and gamma diversity were sensitive to the number of sequence reads whereas beta diversity estimates were
+less sensitive the average within plot beta diversity was lower than between plots for all markers the soil beta
+diversity of coi and s markers showed the strongest response to the elevational variation of the ednamarkers coi 
+r p s r p furthermore pairwise beta diversities for these two markers were
+strongly correlated with those calculated from traditional vegetation and invertebrate biodiversity measures 
+
+conclusions using a soil based edna approach we demonstrate that standard phylogenetic markers are capable
+of recovering sequences from a broad diversity of eukaryotes in addition to prokaryotes by s the coi and s
+edna markers are the best proxies for aboveground biodiversity based on the high correlation between the pairwise
+beta diversities of these markers and those obtained using traditional methods 
+
+keywords environmental dna metabarcoding biodiversity assessment genomic observatory
+
+background
+because of the ease of sampling certain organisms and the
+necessity for experts to taxonomically identify sampled
+organisms biodiversity assessment typically focuses on a
+subset of organismal diversity or indicator species envi 
+ronmental dna edna sequencing technologies now
+provide a platform for broader biodiversity assessments
+that do not require complex sampling or expert mor 
+phological identification these methods use next gener 
+ation sequencing ngs technologies to sequence many
+
+ correspondence alexei cs auckland ac nz
+ allan wilson centre university of auckland auckland new zealand
+ department of computer science university of auckland private bag 
+auckland new zealand
+full list of author information is available at the end of the article
+
+molecules from the same sample and they have been
+applied extensively to the assessment of microbial diver 
+sity where the s ribosomal gene region is routinely used
+as a marker to survey microbial diversity studies of
+prokaryote community biodiversity have been undertaken
+in the human body soils – freshwater and
+the deep sea 
+increasingly edna monitoring is being used to study
+
+eukaryote biodiversity – however these studies
+have often targeted particular taxa rather than attempt 
+ing to characterize a full range of biodiversity and few
+studies have been conducted in terrestrial ecosystems 
+those that have taken place in terrestrial systems have
+most commonly targeted plants by sequencing regions
+of the chloroplast trnl intron other stud 
+ies have targeted the eukaryotic ribosomal gene regions
+
+© drummond et al open access this article is distributed under the terms of the creative commons attribution 
+international license http creativecommons org licenses by which permits unrestricted use distribution and
+reproduction in any medium provided you give appropriate credit to the original author s and the source provide a link to the
+creative commons license and indicate if changes were made the creative commons public domain dedication waiver
+ http creativecommons org publicdomain zero applies to the data made available in this article unless otherwise stated 
+
+http crossmark crossref org dialog doi s x domain pdf
+mailto alexei cs auckland ac nz
+http creativecommons org licenses by 
+http creativecommons org publicdomain zero 
+
+
+drummond et al gigascience page of 
+
+among other gene regions for example creer et al 
+ assessed the biodiversity of meiofauna separated
+from tropical forest leaf litter by sequencing of s
+sequences while bienert et al attempted to anal 
+yse earthworm diversity in soil by targeting short taxon 
+specific sequences from mitochondrial s andersen
+et al used mammal and animal specific primers to
+characterize the biomass and diversity of large vertebrates
+based on short dna fragments extracted from soil sev 
+eral studies have used a similar approach to identify a
+phylogenetically limited range of animal taxa in frozen
+and ancient substrates the its region has been
+used to assess palaeobiodiversity of fungi from arctic per 
+mafrost yu et al examined the use of ngs
+to identify arthropods within an artificial mixed ‘soup’
+using the coi edna marker recently it has also been
+shown that metabarcoding can be used to obtain similar
+policy conclusions for restoration ecology and systematic
+conservation planning to those obtained using standard
+ecological monitoring techniques 
+in this study we attempt to characterize a broad range
+
+of biodiversity in a terrestrial system by sampling an ele 
+vational series of soils in a temperate forest ecosystem 
+soil is the most ubiquitous terrestrial substrate and in
+terrestrial ecosystems a rich biodiversity is found in soils
+and among surface litter typically exceeding the biodi 
+versity found above ground level soil leaf litter 
+and the forest floor are home to diverse bacteria fungi 
+protists andmetazoans ranging from rotifers nematodes 
+earthworms mites and beetles to burrowing and surface 
+dwelling birds lizards and mammals at least of
+described animal species reside exclusively in soil and lit 
+ter layers and if soil is taken to include substrates such as
+dung and decaying wood it is estimated that the major 
+ity of terrestrial animal species are soil dwellers a
+square meter of surface soil may contain from to 
+invertebrates and to protozoans and a gram
+of soil may contain from to bacteria more 
+over molecular evidence has supported the existence of
+considerably greater soil invertebrate diversity than that
+indicated by traditional sampling methods for these
+reasons we anticipate that soil will be the most effec 
+tive single substrate from which to assess biodiversity in a
+terrestrial ecosystem 
+we examined five gene regions s s trnl its 
+
+coi to address the following questions does edna
+assessment of soil biodiversity offer a useful proxy for tra 
+ditionally measured aboveground biodiversity what
+combination of edna markers adequately covers biodi 
+versity and how sensitive are the measures of biodi 
+versity to the markers used and parameters used in their
+analysis in so doing we also establish new zealand’s first
+contribution to an initiative to build a global network of
+genomic observatories 
+
+data description
+the ngs data and resulting community matrices pre 
+sented in this paper were collected to assess the utility
+of a suite of edna markers from soil in comparison to
+estimates of aboveground biodiversity using traditional
+methods of biodiversity assessment 
+data were collected to provide both a statistical char 
+
+acterization of biodiversity on a forested island nature
+reserve and a proof of concept of the use of multi 
+ple edna markers to assess biodiversity over a broad
+taxonomic range fig table we collected two types
+of data traditional biodiversity data table and edna
+data from soil table the traditional data consisted
+of invertebrate reptile bird and vegetation survey data 
+invertebrates were isolated from leaf litter samples and
+collected in pitfall traps reptiles were trapped in pitfall
+traps and under artificial ground covers birds were esti 
+mated using the distance sampling method the veg 
+etation data were collected using established national pro 
+tocols resulting in two separate inventories 
+tree species counts were carried out across the full plots
+for all vascular plants with self supporting stems ≥ 
+m tall and understorey species counts were carried
+out across circular m subplots for all vascular
+plant species ≥ m fig invertebrate biodiversity
+was assessed from pitfall traps and leaf litter samples
+by dna sequencing of the mitochondrial cytochrome
+c oxidase subunit i coi or barcoding region con 
+sensus sequences were generated from both strands to
+ensure high quality the edna data consists of ngs
+data obtained from pcr products amplified from dna
+extracted from either soil s s trnl its coi or
+from organism enriched samples isolated by centrifuga 
+tion from soil coi spun table 
+the results of the vegetation surveys have been
+
+deposited in the national vegetation survey databank
+ landcare research bird call counts soil chemistry ele 
+vation and temperature data have been deposited in
+gigadb no reptiles were caught in either the live
+pitfall traps or under artificial covers during the sam 
+pling period sanger sequences of invertebrates n 
+ have been deposited in genbank with their new
+zealand arthropod collection codes genbank accession
+numbers kp kp environmental dna
+sequences have been deposited in the ncbi sequence
+read archive project accession prjna an
+overview of the project can be found at the new
+zealand genomic observatory data warehouse http 
+data genomicobservatory cs auckland ac nz 
+
+analyses
+deconvolution trimming and quality based filtering of
+the ngs data from the s s trnl its coi and
+coi spun edna datasets resulted in high
+
+http data genomicobservatory cs auckland ac nz
+http data genomicobservatory cs auckland ac nz
+
+
+drummond et al gigascience page of 
+
+fig location and plot details associated with data collection from hauturu little barrier island a a contour map with the positions of the 
+plots indicated and an insert of a map of new zealand indicating the location of hauturu b quadrat design and sampling layout of the subplots
+ each × m labelled a p with grey circles indicating the positions of the understorey subplots each plot had three invertebrate pitfall traps 
+four lizard pitfall traps and four lizard cover objects randomly assigned within the subplots two subplots were randomly selected for both leaf
+litter and soil sampling bird call stations were located adjacent to each plot
+
+quality reads per marker error correction of the sequence
+reads was performed using acacia operational tax 
+onomic units otus by edna marker were determined
+using the uparse pipeline with a sequence
+similarity clustering threshold in all cases except fig 
+where we vary the sequence similarity threshold addi 
+tionally an alternative set of otus for each amplicon
+dataset was constructed in which all of the single read
+otus were removed see additional file for a full set of
+
+table sampling plots plots were randomly positioned within
+ m elevational bands and within m linear distance from
+tracks temperatures are annual averages of records taken up to
+every min at the soil surface between december and
+december 
+
+plot name latitude longitude elevation m mean annual surface
+decimal decimal soil temperature
+
+ degrees celsius 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+plot 
+
+parallel analyses to match those described below none of
+the major conclusions are affected by this alternative data
+treatment 
+otus were assigned to phyla using blast and
+
+megan figs and 
+diversity statistics were calculated for both edna
+
+marker datasets table and those collected using con 
+ventional methods table with the r package vegetarian
+ alpha beta and gamma diversities all decreased
+steeply as the similarity threshold for otu clustering
+decreased from to the diversities were gener 
+ally less sensitive to changes in the similarity threshold
+between – fig beta diversities were less sen 
+sitive to the choice of otu similarity threshold than the
+alpha and gamma diversity estimates 
+
+table table of total biodiversity statistics for seedlings tree 
+invertebrates and birds pooled across plots numbers of
+individuals sampled number of species or invertebrate 
+otus α diversity effective α diversity
+
+seedlings trees invertebrates birds total
+
+individuals 
+
+species otus ∗∗
+
+α diversity n c∗
+
+effective α diversity n c∗
+
+no of phyla 
+
+ n c not calculated
+ the total number takes the size of the union of species between the
+seedlings and trees community matrices
+
+
+
+drummond et al gigascience page of 
+
+table table of sequence statistics for s s trnl its coi and coi spun molecular datasets pooled across plots number of raw
+sequence reads post qc reads and their unique sequences chimeras otus at the threshold α diversity effective α diversity and
+number of phyla the quality control process included error correction of sequence reads using acacia 
+
+ s s trnl its coi coi spun total
+
+raw reads 
+
+post qc reads 
+
+post qc unique sequences 
+
+filtered reads 
+
+filtered unique sequences 
+
+chimeras 
+otus ∗∗
+
+singleton ∗∗
+
+α diversity n c∗
+
+effective α diversity n c∗
+
+no of phyla 
+ n c not calculated
+ the total number of otus is just each number for each gene added together
+ the total number of unique sequences that were classified as chimeras by both usearch otu clustering and uchime in uparse pipeline
+ the number of phyla includes ncbi defined phyla and equivalent high level taxa
+
+rarefaction curve analysis for each of the edna mark 
+ers indicates different sampling properties for the dif 
+ferent diversity statistics fig measures of alpha and
+gamma diversities were highly dependent on the num 
+ber of sequences with most gene regions not asymptot 
+ing to a maximum on the other hand beta diversities
+trended towards a stable measure after a few thousand
+sequence reads for all the edna markers examined beta
+diversities within and among plots varied for the dif 
+ferent markers fig beta diversities were low within
+
+plots for s but were highly variable between pairs
+of plots 
+the s marker showed intermediate levels of beta
+
+diversities both within and between pairs of plots 
+whereas the remaining four edna markers had high beta
+diversities within and especially between pairs of plots a
+regression analysis of pairwise beta diversity against the
+elevational difference between plots fig shows that
+among the conventional methods trees seedlings and
+invertebrates have the strongest positive correlation this
+
+fig relative proportion of otus at clustering threshold inferred by read count for molecular datasets left panel percentage of otus having
+ read ‘otus read’ reads ‘otus reads’ and or greater reads ‘otus ≥ ’ right panel percentage of reads in the most abundant otus
+ ‘ most abundant otus’ compared to all remaining reads ‘reads rest’ 
+
+
+
+drummond et al gigascience page of 
+
+fig the number of otus at the clustering threshold assigned to phyla unclassified otus and otus containing low complexity sequences
+are not included otus from phyla that are represented by less than of the otus are grouped into the ‘others’ category
+
+decrease in compositional similarity with increasing ele 
+vational separation is analogous to the well established
+distance decay relationship among the edna
+markers the coi and s markers showed the strongest
+positive correlation between pairwise beta diversity and
+elevational difference coi r p s 
+r p all of the correlations were sig 
+nificant using permanova except s and trnl
+ table 
+
+soil ednamarkers as proxies for traditional biodiversity
+assessment methods
+pairwise community correlations form a matrix describ 
+ing the correlations among and between the traditional
+
+and edna community samples table this analy 
+sis shows which methods have the strongest correlations
+between pairwise beta diversity measures the strongest
+correlation between an edna method and a traditional
+method was found between the coi edna dataset and
+the conventionally collected invertebrates dataset r 
+ p table coi edna beta diversities
+were also strongly and significantly correlated with vege 
+tation pairwise beta diversities r for seedlings and
+r for trees 
+these correlations are summarized in a second stage
+
+mds that provides an ordination of the methods by
+their similarity of pairwise beta diversities fig 
+this shows that the coi and s methods are the
+
+
+
+drummond et al gigascience page of 
+
+fig plots of diversities using cutoff thresholds ranging from – for otu classification of a α diversity b effective α diversity c β diversity 
+d effective β diversity e γ diversity and f effective γ diversity molecular datasets include s s trnl its coi and coi spun
+
+closest edna methods to the traditional measures
+ seedlings trees invertebrates the bird dataset was
+excluded for better visualisation because it was inde 
+pendent from the other datasets see table the
+full plot is available as figure sa in additional
+file 
+a comparison of plot rank importance based on
+
+maximizing retained beta diversity also showed some
+
+correlations between edna and traditional biodiversity
+measures but this comparison was less definitive owing
+to the small number of plots and weak power of the
+spearman’s rank correlation test the strongest correla 
+tion in ranked importance between an edna and tradi 
+tional biodiversity measure was found between coi and
+invertebrates r p see additional file 
+the ranking of plots based on s beta diversity were
+
+
+
+drummond et al gigascience page of 
+
+fig rarefaction curves for diversities estimated using a threshold for otu classification of a α diversity b effective α diversity c β diversity 
+d effective β diversity e γ diversity and f effective γ diversity molecular datasets include s s trnl its coi and coi spun
+
+highly correlated with those based on seedling community
+data r p 
+
+comparing communities across samples
+non metric multidimensional scaling plots based on
+effective beta diversity generally show consistent differ 
+entiation of samples based on elevation for all amplicon
+
+datasets fig the largest differences are observed
+between the lowest elevation samples plot and the
+highest elevation samples plots and the com 
+munities in plots and generally have intermediate
+similarity between the lowest and highest elevation sam 
+ples whereas the communities in plot and plot samples
+tend to be more similar to those in high elevation plot 
+
+
+
+drummond et al gigascience page of 
+
+fig box and whisker plots of turnover normalized pairwise effective β diversity within red and between plots blue for the molecular methods
+ s s trnl its coi and coi spun
+
+samples plot samples show the most variation between
+amplicons being most similar to mid elevation samples
+for s and coi spun and to plot samples for s 
+but having limited similarity to all of the other samples
+for trnl its and coi similar patterns were observed
+in ordination plots based on jaccard and horn morisita
+indices figures sa sa in additional file 
+to more precisely compare the similarities in ordina 
+
+tion across methods procrustes comparisons were made
+between the edna methods and the traditional methods
+ excluding birds see fig these comparisons show
+that s and coi have significant similarities in their ordi 
+nation to all three traditional methods seedlings trees 
+
+invertebrates other edna methods show lesser degrees
+of similarity with traditional methods this reflects the
+mantel test results in a reduced dimension context 
+
+environmental drivers of biodiversity patterns
+fifteen abiotic environmental variables were examined for
+their ability to explain the patterns of biodiversity in the
+amplicon datasets using distance based redundancy anal 
+ysis the sin aspect and cos aspect variables were
+derived by taking respectively the sine and cosine of the
+aspect measurement in degrees to enable inclusion of
+these data in distance based redundancy models values
+for sin aspect indicating how east facing a plot is and
+
+fig regression of effective β diversity and difference in elevation for a the edna biodiversity datasets s s trnl its coi soil and coi soil
+spun and b traditional biodiversity datasets seedlings trees invertebrates birds 
+
+
+
+drummond et al gigascience page of 
+
+table mantel statistic r and their significance using mantel’s
+test based on permutations and r and p value for a linear
+model of the regression of effective β diversity and difference in
+elevation in fig 
+
+mantel statistic r significance r p value
+
+ s 
+
+ s e 
+
+trnl 
+
+its 
+
+coi e 
+
+coi spun 
+
+seedlings e e 
+
+trees e e 
+
+invertebrates e 
+
+birds 
+
+cos aspect indicating how north facing a plot is range
+from representing south and west to representing
+north and east 
+when each of the environmental variables were tested
+
+in isolation the highest proportions of explained inertia
+were observed for the s dataset and the lowest for the
+coi spun dataset tables sa and sa in additional
+file for the s dataset of inertia was explained
+by ph by phosphorus and by electrical
+conductivity by organic carbon and ≥ for
+soil water content total nitrogen and nh for the s
+dataset of inertia was explained by elevation and
+ by water content and for the trnl dataset 
+was explained by ph aside from the s and s dataset 
+the proportions of inertia explained by all other variables
+in all datasets were typically in the range of to 
+the set of nine variables with high variance inflation fac 
+tors vif together explained from coi to
+ s of inertia table sa in additional file 
+but in each case only a subset of these variables were
+
+significant according to permutation tests slope tem 
+perature cos aspect sin aspect and ph were significant
+ or near significant for s trnl coi and coi spun
+datasets in addition to no and nh for coi spun 
+for the s dataset slope temperature ph c n ratio 
+and nh were significant or near significant as were
+slope temperature sin aspect and phosphorus for the its
+dataset ordination biplots suggest that temperature and
+ph tend to have an influence on the community com 
+position in a similar direction which differs from that of
+the other soil chemistry variables slope cos aspect figure
+sa in additional file 
+backward selection of variables resulted in from three
+
+to six variables for each dataset explaining from 
+ its to s of inertia whereas forward selec 
+tion of variables resulted in only two to four significant
+variables explaining from its and coi to 
+ s of inertia which were usually a subset of the cor 
+responding backward selection model variables table
+sa sa sa in additional file phosphorus
+was included in forward and backward selection models
+for all datasets except the coi spun backward selection
+model forward and backward selection models for s 
+trnl and coi datasets also included ph and tempera 
+ture occurred in both models for s but only backward
+selection models for trnl and coi in addition to slope
+and cos aspect trnl or no and nh coi for the
+ s and its datasets forward selection models contained
+only phosphorus and slope whereas the corresponding
+backward selection models also contained ph and tem 
+perature s or sin aspect its models for the coi 
+spun dataset included north and east measurements as
+well as phosphorus forward selection model or temper 
+ature slope no and nh backward selection model 
+ordination biplots of forward backward selection models
+show that s trnl and coi assemblages in plots and 
+are associated with elevated levels of soil ph and phospho 
+rus whereas communities in the highest elevation plots
+
+table pairwise community matrix correlations of effective β diversity within and between the edna datasets and traditional
+datasets mantel statistic r and their significance in parentheses using mantel’s test based on permutations
+
+ s s trnl its coi coi spun seedlings trees inverts
+
+ s 
+
+trnl e e 
+
+its e e 
+
+coi e e e e 
+
+coi spun e e 
+
+seedlings e 
+
+trees e e 
+
+inverts e 
+
+birds 
+
+
+
+drummond et al gigascience page of 
+
+fig non metric multidimensional scaling of effective β diversity for paired subplots for the molecular datasets s s trnl its coi soil and
+coi soil spun
+
+ plots and are associated with elevated phosphorus
+but lower soil ph and temperature levels figure sa 
+sa in additional file its and s communities in
+plots and are associated with elevated phosphorus
+and slope according to forward selection models accord 
+ing to backward selection models s communities in
+plot are also associated with lower temperature and
+ph whereas its communities are also associated with
+increasing sin aspect plots and and no levels plots
+ n and e coi spun communities in plots and are
+
+also associated with increasing sin aspect whereas plot 
+is associated with decreasing sin aspect and plots and 
+with increasing cos aspect no and slope and reduced
+temperature 
+a subset of nine of the above abiotic environmental vari 
+
+ables were examined as potential drivers of the patterns
+in vegetation community datasets using distance based
+redundancy analysis the smaller number of vari 
+ables used was due to the limited number of plots in this
+pilot study for the seedling dataset of inertia was
+
+
+
+drummond et al gigascience page of 
+
+fig procrustes analysis of effective β diversity between the edna datasets and traditional datasets and their significance level in parentheses is
+estimated based on permutations
+
+
+
+drummond et al gigascience page of 
+
+explained by ph and of by no they were both
+significant in the corresponding forward backward selec 
+tion models for the trees dataset of inertia was
+explained by temperature and of by ph there was 
+however no single variable chosen in either the forward or
+backward selection models figure sa table sa and
+sa in additional file 
+
+discussion
+we have demonstrated that by using standard barcod 
+ing primers on edna extracted from soil we are able to
+broadly sample taxa from the soil biota the majority of
+the sampled phyla are known to be found in soil includ 
+ing for example eubacteria amoebozoa basidiomycetes
+and arthropoda there are also a few unexpected phyla
+that may be artefacts of the bioinformatics pipeline e g 
+the small number of otus identified as members of
+porifera and echinodermata are probably due to errors
+in the taxonomic identification of matching sequences in
+genbank this finding extends the use of ednamethods
+in soil beyond the commonly used bacterial s edna
+paradigm to include the majority of eukaryotic groups of
+the eukaryotic edna markers coi recovered the most
+phyla followed by s which recovered phyla with
+fewer found by trnl especially as most of the phyla
+from trnl were prokaryotic see below 
+at least two edna markers are required to cover a
+
+majority of the phyla one covering the prokaryotes and
+at least one other for the eukaryotes the s edna
+marker is an obvious choice for the prokaryotes due to
+the large amount of comparative data held in reference
+datasets and databases which edna marker is optimal
+for the eukaryotes is less clear and may depend more on
+the groups of interest and desired taxonomic resolution 
+the coi edna primers used here recover a similar num 
+ber of phyla to s but with a greater number of phyla
+represented from within the metazoa the s edna
+primers used here cover a broader range of eukaryotic
+taxa from single celled organisms including alveolata and
+rhizaria to fungi and metazoa the s marker is highly
+conserved and at the cutoff level will probably
+often lump closely related species and genera into sin 
+gle otus if finer scale measures of eukaryotic diversity
+are required for example species then other eukaryotic
+markers should be included such as coi for metazoa
+and its for fungi although we did find that its targets
+fungi almost exclusively it did contain significant length
+differences making it difficult to align confidently com 
+pared to the other markers the trnlmarker was intended
+to sample viridiplantae because this marker is routinely
+used as a molecular barcode for plants however 
+when using it as an edna marker with ngs most of the
+resulting reads were prokaryotic in origin fig the
+primers that we used for trnl will require refinement for
+
+application in metabarcoding of vascular plants from soil 
+the two different coi methods resulted in very similar
+distributions of phyla being sampled 
+all of the measures of biodiversity from the different
+
+edna methods are sensitive to otu sequence similarity
+cutoff thresholds consistency in the use of a cutoff level
+will be important for measuring alpha and gamma diver 
+sity although these are less important for beta diversity 
+the sequence similarity level appears to lie near an
+apparent inflection point on most of the diversity mea 
+sure curves stable estimates of alpha and gamma diver 
+sity levels require deep sequencing regardless of marker 
+whereas stable estimates of beta diversity from edna can
+be obtained from a few thousand sequences from any one
+of the markers 
+the six edna datasets consistently return different
+
+absolute measures of biodiversity the trnl marker con 
+sistently gives the highest levels of species diversity alpha
+and gamma whereas coi spun and its give the lowest
+levels of alpha beta and gamma diversity the low lev 
+els of alpha diversity in the coi spun is likely to be due
+to the reduction in the number of prokaryotic and single 
+celled eukaryotic sequences relative to the coi dataset 
+the overall difference in biodiversity measures among the
+edna methods can be explained in part by a simple con 
+sideration of the physical size and density of these very
+different organisms even very small invertebrates of sub 
+millimeter length e g nematodes rotifers mites have
+an individual biomass of at least six orders of magnitude
+greater than that of a typical soil bacterium this radical
+increase in biomass leads to a similarly large reduction in
+the density of multicellular animals in a given volume of
+soil this is perhaps best demonstrated by the higher esti 
+mates of beta diversity between plots for larger organisms 
+which is also suggestive of a link with scaling the scaling
+laws of organism size lead to natural consequences for bio 
+diversity in a given volume this simple explanation has
+natural yet non trivial consequences for decisions about
+sampling and dna extraction protocols which should be
+the focus of future research the challenge in assessing
+biodiversity across a wide taxonomic range from envi 
+ronmental samples such as soil is to choose a sampling
+strategy that provides the best outcome for comparing
+diversity and its change across the landscape a sufficient
+overlap must exist in the sampled communities at dif 
+ferent locations if such a comparison is to be possible 
+the optimal volume of soil from which to extract dna
+may vary by orders of magnitude for different taxonomic
+groups even among the ‘very small’ species ground 
+truthing these biodiversitymeasures against reference sets
+that have been morphologically identified as belonging
+to particular taxonomic species will be important for
+assessing the absolute measures and is the subject of
+future publications from this study furthermore current
+
+
+
+drummond et al gigascience page of 
+
+sequencing technologies are dominated by illumina tech 
+nology and although transferring to this approach will be
+essential in the future such a change will not affect the
+main conclusions of this study despite these limitations 
+our research demonstrates the feasibility of using multiple
+edna markers to assess soil biodiversity from all of the
+major branches of the ‘tree of life’ and predict patterns of
+aboveground biodiversity using these measures 
+the edna sequences analyzed in this study allowed us
+
+to estimate the biodiversity within sample plots across a
+broad range of taxa this provides a basis for classical
+comparisons of communities investigation of the factors
+that drive community differences and assessment of pri 
+orities for conservation the patterns of multivariate com 
+munity similarity observed between samples were broadly
+similar among the different amplicon datasets suggest 
+ing comparable responses of different taxonomic groups
+to the elevation gradient from which the samples were
+collected furthermore there were consistencies among
+the sets of abiotic variables that were associated with pat 
+terns of community similarity which may indicate that
+common physical chemical factors are influencing the
+composition of the following subgroups of the sampled
+communities s trnl coi s its and coi coi 
+spun this seems reasonable because the s and trnl
+datasets both contain mainly bacterial sequences and the
+coi dataset contains a significant minority of bacterial
+sequences the s and its datasets both include many
+fungal sequences and the coi and coi spun communi 
+ties both include many metazoan sequences 
+finally we have demonstrated that of the amplicon
+
+datasets that we investigated the coi and s markers
+were most similar to traditional methods vegetation sur 
+veys and invertebrate collections in their pairwise plot
+beta diversities and ordination of plots by community sim 
+ilarity these two markers thus represent the best proxies
+for traditional biodiversity assessments of those that we
+investigated further studies that expand the sample size
+and landscapes investigated should enable an even better
+understanding of the properties of these promising next
+generation biodiversity assessment tools 
+
+methods
+plots and field sampling
+field site
+plots were established on hauturu o toi little barrier
+island which is one of new zealand’s largest tem 
+perate off shore island sanctuaries s e in
+december table fig hauturu is a protected
+restricted access nature reserve it is ha in area and it
+rises to m above sea level the dormant volcanic
+island is heavily forested with over species of native
+plants and it is home to the most locally diverse
+assemblage of native vertebrates in new zealand with
+
+over species of birds two species of bat and species
+of reptiles although it provides the best opportunity to
+evaluate a pre human ecosystem free from introduced
+browsing mammals it has had introduced mammalian
+predators cats felis catus and pacific rats rattus exu 
+lans which are now eradicated and the forest has been
+modified in parts by historical logging and fire prior to
+ 
+
+plots
+ten × m plots were established using standard
+protocols for vegetation community analyses 
+each × m plot was divided into × m subplots
+labelled a p with m p located along the higher contour
+line and a d the lower locations for the p corner of plots
+were randomly generated within m distance along a
+contour off a specified track with one plot for each m
+elevational band the track was predetermined based on
+accessibility inmost weathers and the relatively intact veg 
+etation representative of the original state of the island
+throughout all of the elevational sections random sites
+were discarded if the slope was degrees and there 
+fore the survey work would be destructive to the site or
+would be considered unsafe in either instance further
+random sites were targeted all of the targeted random
+sites for the high elevational sections for plots and on
+the same track were unsafe for survey work so random
+sites off the south facing ridge line of the nearest track
+were targeted for these plots a m limit was set to
+enable plots to be visited within logistical constraints and
+to ensure that the plots could be located anywhere from a
+ridge line to a stream gully i e sampling was not biased
+towards a ridge line due to the track location 
+
+plant sampling andmapping
+the vegetation data were collected using two separate
+inventory protocols as outlined previously tree
+species counts and understorey species counts tree
+species counts involved sampling the full plots for all
+vascular plant individuals with self supporting stems ≥
+ m tall all trees with a diameter at breast height
+ dbh ≥ mm were identified to morphospecies mea 
+sured and given permanent tags each individual was
+recorded at the subplot level a p understorey species
+counts were carried out across circular m sub 
+plots for all vascular plant species m tall see fig 
+for placement 
+analyses of the tree data used raw abundance measures
+
+ based on full plot stem counts while analyses of the
+understorey data used presence absence observations
+ based on subplot presences with each recorded species
+given a value of – for each plot to simplify the
+nomenclature all of the components of the understorey
+subplots are referred to as ‘seedlings’ in the tables and
+
+
+
+drummond et al gigascience page of 
+
+figures – although these subplots also recovered mature
+plants of small stature e g many ferns and lycophytes 
+
+invertebrate sampling
+pitfall traps mm diameter ml plastic contain 
+ers containing approximately ml propylene
+glycol were placed in three randomly allocated subplots
+per plot for – days plots – for days plots 
+and for days pitfall traps were then removed and
+the fluid and contents were transported to landcare
+research auckland where the material was transferred
+into ethanol at the same time kg leaf litter
+samples were taken from each of two randomly allocated
+subplots per plot placed into cloth bags and taken to
+landcare research where they were placed in berlese
+funnels landcare research auckland new zealand 
+for – weeks invertebrates were collected into 
+ethanol from the berlese funnels and then separated into
+arthropoda collembola and acari by an expert entomol 
+ogy technician each specimen was given a unique bar 
+code label from the new zealand arthropod collection
+ landcare research auckland selected specimens rep 
+resentative of taxonomic diversity were imaged using an
+auto montage system syncroscopy united kingdom 
+
+bird counts
+at each plot hourly counts were made between –
+ and – h to provide an estimate of bird
+species richness and abundance at the site birds were
+identified and counted based on their sighting and calls by
+a single expert ornithologist using the min point count
+distance survey method a species list of all birds
+seen or heard during the h sessions at each plot was also
+recorded as well as data on an ordinal scale of – for
+wind noise sun and precipitation 
+
+reptile sampling
+live capture pitfall traps were installed for lizards in four
+randomly allocated subplots throughout plots – traps
+were not installed in plots and because these were
+located on another track and they could not be checked
+daily a requirement of the ethics permit owing to logis 
+tical constraints the traps were l buckets with drainage
+holes installed so the lip was flush with the soil surface 
+with plastic lids set slightly above the trap using wire
+stands traps were baited with tinned pear and they had
+a bed of leaf litter and a damp sponge inserted in the bot 
+tom the traps were checked daily for days the bait was
+refreshed and the sponge was moistened daily artificial
+cover objects were installed in four randomly allocated
+subplots in all ten plots these consisted of brown ondu 
+line corrugated bitumen used for roofing sheets ×
+ mm placed on top of the leaf litter the covers were
+checked eight times over months 
+
+soil sampling
+soil kg was collected from each of the same two
+subplots as the leaf litter samples soil was collected to
+measure the soil chemistry and environmental dna with
+sterile gloves and trowels the trowel was wiped down
+with ethanol after each collection and the gloves were
+changed between subplots the soil was kept cool and as
+soon as possible i e within days it was stored at °c 
+soil chemical analysis was conducted by the environmen 
+tal chemistry laboratory landcare research palmer 
+ston north using standard methods – from each
+subplot soil sample a subsample of g of soil was
+analyzed for electrical conductivity ec water con 
+tent water content organic carbon organic c olsen 
+phosphorus olsen p total nitrogen total n no 
+ no n nh nh n and ph 
+
+data loggers
+data loggers onset hobotm pro v u onset
+computer corporation macarthur blvd bourne 
+ma us for temperature and humidity were placed
+at the soil surface and at a depth of mm below the
+soil surface and m above the soil surface attached to
+the south side of a tree in a randomly allocated location
+in each plot these data were collected every min with
+some gaps over a year period from december 
+
+environmental data preparation
+data for chemical and physical variables were
+collected figure sa in additional file most
+soil chemistry values were log transformed to adjust
+skewed distributions a number of variables were highly
+collinear figure sa in additional file most
+notably temperature elevation and electrical conductiv 
+ity organic carbon total nitrogen nh soil water content 
+and aspect cos aspect sin aspect the number of variables
+included in the analysis models was reduced by exclud 
+ing those with high vif which provide an index of the
+severity of multicollinearity vif was calculated for all of
+the variables after which the variable with the highest
+vif ≥ was excluded followed by recalculation of vif
+for the remaining variables this process was repeated in
+a stepwise manner until the vif for each remaining vari 
+able was this resulted in the exclusion of six
+variables elevation aspect soil water content electrical
+conductivity organic carbon and total nitrogen but see
+ for a caution regarding this approach 
+
+dna extraction pcr and sanger sequencing of
+invertebrates
+genomic dna from invertebrates collected in pitfall traps
+or leaf litter collections was extracted nondestructively 
+individual specimens were soaked in μl of tissue lysis
+buffer dxt and μl of dxt enzyme mix overnight
+
+
+
+drummond et al gigascience page of 
+
+at °c and the solution was then used to extract dna
+on the qiaxtractor®system using the protocol described
+by the manufacturer qiagen hilden germany 
+individual invertebrates were dried and returned to
+storage the cytochrome c oxidase subunit i coi 
+from the mitochondrial genome was amplified using the
+lco ’ ggtcaacaaatcataaagatattgg 
+ ’ and hco ’ taaacttcagggtgaccaaaa
+aatca ’ primer pair pcr amplifications were
+performed in μl volumes containing the following x
+pcr buffer mm tris hcl ph mm kcl 
+mm mgcl mm dntps u platinum taq invit 
+rogen and pm of each primer in most cases μl of
+each template dna was added to each reaction ampli 
+fication was carried out with a thermocycling profile of
+an initial min at °c followed by cycles of s
+at °c s at °c min at °c and ending with
+a final extension time of min at °c pcr products
+were purified using u shrimp alkaline phosphatase 
+ u dna exonuclease i and μl pcr buffer per μl
+of pcr product heated to °c for h followed by
+deactivation at °c for min purified pcr products
+were sequenced by macrogen korea geumchen gu 
+seoul korea using an abi xl applied biosystems
+inc foster city california bidirectional sequencing of
+the pcr products was conducted with each primer pair 
+the resulting sequences were aligned and checked for
+errors using geneious pro v biomatters auckland 
+new zealand and exported as consensus sequences
+in fasta format 
+
+edna extraction pcr and pyrosequencing from soil
+dna was extracted from g of soil using the mobio
+rna powersoil kit with the accessory dna elution kit
+according to the manufacturer’s instructions mobio lab 
+oratories carlsbad california this approach captures
+dna both from organisms living in the soil intracel 
+lular and from the soil matrix extracellular however 
+most extracellular dna will be degraded into short
+fragments and will therefore under represented in the
+downstream amplification step in addition the sam 
+ples were spun through a qiagen dna spin column
+ qiagen hilden germany and then a onesteptm pcr
+inhibitor removal kit zymo research california usa 
+to remove humic contaminants to allow amplification
+of a wide range of target sequences we used a two step
+amplification protocol the first rounds of pcr used
+universal bacterial s primers f gtgccagcmgc
+ngcgg and r gggttncgntcgttg 
+metazoan targeted s primers gyggtgcatggc
+cgttsktrgtt and rc gtgtgyacaaaggbc
+agggac fungal its primers itsf cttggtc
+atttagaggaagtaa and itsr gctgcgttctt
+catcgatgc plant trnl uaa intron primers c
+
+ cgaaatcggtagacgctacg and d ggggatag
+agggacttgaac or mitochondrial coi primers
+lco and hco forward and reverse pri 
+mers were respectively modified withm forward tgt
+aaaacgacggccagt and reverse tags caggaaa
+cagctatgacc on their ’ ends a second round of
+pcr was used to add m modified roche mid tags with
+ liba cgtatcgcctccctcgcgccatcag and
+libb ctatgcgccttgccagcccgctcag adapter
+sequences 
+pcrs were conducted in a μl volume and contained
+
+ – ng dna for the first round or μl of or
+ dilution of the first round amplification products for
+the second round as a template the reactions also con 
+tained x buffer mm mg mm of each primer 
+ mm dntps u kapa g robust polymerase kapa
+biosystems inc boston massachusetts the first round
+amplification conditions were °c for min followed
+by s s or its trnl coi cycles of
+ °c for s °c coi °c its °c trnl 
+ °c s or °c s for s °c for s with
+a final extension of °c for mins for second round
+pcrs to add the mid tags amplification cycles with
+an annealing temperature of °c were used for all of the
+samples second round amplifications were conducted in
+five separate reactions which were subsequently pooled 
+cleaned up using the ampure xp magnetic bead method
+ beckman coulter ma usa and quantified using the
+qubit dsdnahsassay kit life technologies new york 
+usa cleaned up pools from each sample were combined
+in equal proportions for each amplicon after which 
+ng of each amplicon was pooled for a total of μg to
+be sequenced using a lib a titanium protocol roche 
+switzerland on the gs flx system at macrogen
+ geumchen gu seoul korea 
+
+invertebrate isolation from soil edna extraction pcr and
+pyrosequencing
+soil invertebrates were extracted from approximately 
+cc of soil using a modified sugar centrifugation method
+developed by freckman virginia a modified ver 
+sion of this method has proven to be very robust in
+extracting soil invertebrates from a variety of soil types
+with little damage to the specimens approximately
+ ml of clean tap water was combined with soil in a glass
+beaker and stirred in a figure of eight for s and was
+then immediately poured onto a wetted mesh μm 
+screen which was stacked on top of a mesh μm 
+screen screens were then gently rinsed at an angle with
+cold tap water washing soil invertebrates through the top
+of the stacked screens the top screen was then removed
+and examined under a dissectingmicroscope xmag 
+nification for the presence of soil invertebrates that were
+too large to fit through the mesh μm screen 
+
+
+
+drummond et al gigascience page of 
+
+the soil invertebrates and remaining soil were then gently
+backwashed into ml plastic centrifuge tubes the sam 
+ples were then centrifuged at rpm in an eppendorf
+ centrifuge for min to form a small pellet following
+initial centrifugation all but a few ml of liquid were care 
+fully decanted off the pellet and replaced with an equal
+amount of m chilled sugar solution g white table
+sugar l water the pellet was then gently stirred to break
+it up re suspended and then returned to the centrifuge
+for one minute at rpm the sugar solution contain 
+ing suspended soil invertebrates was then decanted onto a
+wet mesh μm screen and was then gently rinsed
+with tap water and backwashed with approximately ml
+of water into a clean centrifuge tube samples were fixed
+in ethanol to allow for molecular analysis 
+ethanol was removed by drying the samples in a heat
+
+block at °c the dna was extracted from each of the
+ samples using a qiaxtractor qiagen usa the dna
+extractions were amplified using forward pcr fusion
+primers that contain the emulsion pcr adapter 
+joined to a base pair multiplex identifier mids with
+the lco and reverse pcr fusion primers that
+contain the emulsion pcr adapter and hco a
+pcr was performed using a veriti thermal cycler life
+technologies the pcr conditions were min at °c 
+followed by cycles of s at °c s at °c 
+ s at °c and finally min at °c for each
+sample μl reactions were carried out using a roche
+faststart high fidelity pcr system roche usa with
+ μl bsa g l added pcr products were cleaned
+with agencourt ampure xp magnetic beads beckman
+coulter to remove the primer dimers the purified pcr
+products were quantified using a fluorometer quanti 
+fluor promega usa checked using a bioanalyzer 
+ agilent technologies usa for removal of pcr primer
+dimers and an equimolar of the samples was pooled in
+a single tube this pool was amplified using the lib a
+method and sequenced on a gs junior system roche 
+at landcare research auckland 
+
+otu identification and bioinformatics pipeline
+geneious was used to deconvolute the standard flow 
+gram format files sff encoding raw sequencing
+results during the deconvolution the site information
+ e g plot and subplot name was added into the sequence
+labels for later analysis the raw reads file in a fastq
+format was then passed into a uparse pipeline to
+identify otus this pipeline includes quality filtering 
+length truncation bp dereplication abundance sort 
+ing otu clustering and chimera filtering before the
+dereplication step all of the reads were processed by aca 
+cia for error correction the output of the pipeline
+was a fasta file containing otu sequences and a map 
+ping file between otus and reads for each given otu
+
+clustering threshold a community matrix was then cre 
+ated from the mapping file for each locus by retrieving the
+sample information in each sequence label and cross refer 
+encing with otu identity of the read the resulting com 
+munity matrix has a row for each sample and a column
+for each otu and is populated by abundances as mea 
+sured by otu read counts per sample additionally an
+alternative set of community matrices were constructed
+for each amplicon dataset in which all single read otus
+were removed see additional file for a full set of parallel
+analyses 
+jost’s biodiversities were calculated from the com 
+
+munity abundance matrices of six edna methods using
+the r package vegetarian rarefaction curves for
+diversities were estimated based on the sequence
+similarity threshold for otu identification in the r ecol 
+ogy package vegan correlations of diversity and envi 
+ronmental factors and correlations of ednamethods and
+traditional methods were also computed finally blast 
+was used to classify the taxonomy of otus and megan
+ was used to interpret and visualize the blast 
+results 
+
+comparison of edna and traditional biodiversity measures
+traditional and edna methods were compared in three
+ways in their ability to detect community differences
+associated with elevation in a pairwise commu 
+nity correlation analysis of between plot beta diversi 
+ties and by measuring the similarity of methods via
+the correlation of their plot priorities pairwise commu 
+nity correlations were used to form a matrix describ 
+ing the correlations among pairwise beta diversity from
+traditional and edna community samples using a man 
+tel test for significance this matrix of correlations was
+then used as a similarity matrix to produce a second stage
+mds plot to determine which pairs of communities vary
+in composition across the plots in the most correlated
+manner fig 
+the plots were also ranked by their conservation pri 
+
+ority as measured by each biodiversity measure in turn 
+conservation priority rankings were determined by iter 
+atively removing the next plot that maximized the beta 
+diversity of the remaining plots a spearman’s correlation
+coefficient was then computed for each pair of biodiver 
+sity measures to determine which measures produced the
+most similar priority ranking of particular interest was
+which edna markers produced the most similar priority
+rankings to traditional measures 
+
+multivariate ordination of samples and environmental data
+the differences between the communities detected
+in samples were visualized using non metric multi 
+dimensional scaling plots generated using vegan and
+ggplot constrained ordination of community data with
+
+
+
+drummond et al gigascience page of 
+
+fig multidimensional scaling no birds of pairwise community
+matrix correlations of effective β diversity within and between the
+edna datasets s s trnl its coi soil and coi soil spun and
+traditional datasets seedlings trees invertebrates 
+
+environmental data as constraining variables was car 
+ried out using the capscale function which is a non 
+euclidean generalization of redundancy analysis from the
+r package vegan three ordination scenarios were
+tested with each edna dataset and also with the tradi 
+tional vegetation datasets i models were constructed
+containing each of the fifteen environmental variables in
+isolation ii a model was constructed using the com 
+bined set of variables with vif and iii more
+conservative models were constructed by using subsets
+of the variables with vif chosen by stepwise for 
+ward and backward selection model building procedures 
+the community data ordinations were based on the jac 
+card distance measure and the significance of variables
+included in each model was determined by permutation
+tests 
+to visualize the similarities in sample ordination based
+
+on edna and traditional community biodiversity mea 
+sures procrustes plots of the five main edna datasets
+ s s trnl its coi and the three main tradi 
+tional measures seedlings trees invertebrates where
+produced and protest from the r package vegan 
+was used to measure the significance of the correlations in
+ordination between different methods 
+
+availability of supporting data
+all of the sequence data produced by this project are
+freely available environmental dna sequences have
+been deposited in the ncbi sequence read archive
+ project accession prjna sanger sequences of
+
+invertebrates have been deposited in genbank with their
+new zealand arthropod collection codes genbank
+accession numbers kp kp the com 
+munity matrices of edna and traditional methods in the
+csv format otu representative sequences at clus 
+tering threshold blast output images of invertebrates 
+soil chemistry elevation and temperature data have been
+deposited in gigadb all of the r scripts used to
+analyse data and produce figures are available at 
+attribution should be made by citation of this paper 
+
+additional files
+
+additional file supplementary information b evaluating amultigene
+environmental dna approach for biodiversity assessment pdf kb 
+
+additional file supplementary information a evaluating a
+multigene environmental dna approach for biodiversity assessment 
+ pdf kb 
+
+abbreviations
+edna environmental dna ngs next generation sequencing otu 
+operational taxonomic unit vif variance inflation factor 
+
+competing interests
+the authors declare that they have no competing interests 
+
+authors’ contributions
+ajd rn nn tb ms and hr conceived the research and designed the field
+and lab components of the study ajd nn bp ac ms jr and sa collected
+field samples lt nd bp dp and ad conducted the dna extraction and pcr
+amplification dx ajd designed and developed the bioinformatics database
+to store and organize the data jh dx ajd and hr designed and applied the
+otu identification protocols ajd dx and jr produced the alpha and beta
+diversity metrics and downstream analyses all the authors contributed to the
+writing of the manuscript all authors read and approved the final manuscript 
+
+acknowledgements
+the research was conducted under the auspices of a strategic initiative of the
+allan wilson centre ngati manuhiri and the department of conservation
+granted us permission to undertake the research on the island we thank
+ngātiwai the hauturu supporters auckland council susan keall felicity
+bedford georgianne griffiths david winter sarah wyse chris stowe cameron
+kilgour matt renner zoe stone matt rayner shane mcinnes richard walle 
+leigh joyce nicholette brown michelle jenkinson david towns jo monks
+ hoare david havell manpreet kaur mook hohneck fiona mckenzie clive
+stone joseph chapman stacey lockie and craig bishop for valuable advice
+and assistance with the project finally we thank new zealand escience
+infrastructure nesi for providing computing resource and support for this
+research 
+
+author details
+ allan wilson centre university of auckland auckland new zealand 
+ department of computer science university of auckland private bag 
+auckland new zealand school of biological sciences university of
+auckland private bag auckland new zealand the institute for
+plant and food research private bag auckland new zealand 
+ landcare research private bag auckland new zealand south
+australian museum north terrace adelaide sa australia school of
+pharmacy and medical sciences university of south australia gpo box 
+adelaide sa australia department of biological sciences university of
+waikato private bag hamilton new zealand department of
+statistics university of auckland private bag auckland new
+zealand school of biological sciences victoria university of wellington po
+box wellington new zealand 
+
+received november accepted september 
+
+http dx doi org s 
+http dx doi org s 
+
+
+drummond et al gigascience page of 
+
+references
+ lee ck barbier ba bottos em mcdonald ir cary sc the inter valley
+
+soil comparative survey the ecology of dry valley edaphic microbial
+communities isme j – 
+
+ woo ac brar ms chan y lau mc leung fc scott ja et al temporal
+variation in airborne microbial populations and microbially derived
+allergens in a tropical urban landscape atmospheric environ 
+ – 
+
+ costello ek lauber cl hamady m fierer n gordon ji knight r 
+bacterial community variation in human body habitats across space and
+time science – 
+
+ caporaso jg lauber cl costello ek berg lyons d gonzalez a 
+stombaugh j et al moving pictures of the human microbiome genome
+biol r 
+
+ roesch lf fulthorpe rr riva a casella g hadwin ak kent ad et al 
+pyrosequencing enumerates and contrasts soil microbial diversity isme j 
+ – 
+
+ lauber cl hamady m knight r fierer n pyrosequencing based
+assessment of soil ph as a predictor of soil bacterial community structure
+at the continental scale appl environ microbiol – 
+
+ bartram ak lynch md stearns jc moreno hagelsieb g neufeld jd 
+generation of multimillion sequence s rrna gene libraries from
+complex microbial communities by assembling paired end illumina
+reads appl environ microbiol – 
+
+ luo c tsementzi d kyrpides n read t konstantinidis kt direct
+comparisons of illumina vs roche sequencing technologies on the
+same microbial community dna sample plos one e 
+
+ sogin ml morrison hg huber ja welch dm huse sm neal pr et al 
+microbial diversity in the deep sea and the underexplored “rare
+biosphere” proc nat acad sci – 
+
+ bohmann k evans a gilbert mtp carvalho gr creer s knapp m et al 
+environmental dna for wildlife biology and biodiversity monitoring 
+trends ecol evol – 
+
+ taberlet p prud’homme sm campione e roy j miquel c shehzad w 
+et al soil sampling and isolation of extracellular dna from large amount
+of starting material suitable for metabarcoding studies mol ecol 
+ – 
+
+ yang c wang x miller ja de blecourt m ji y yang c et al using
+metabarcoding to ask if easily collected soil and leaf litter samples can be
+used as a general biodiversity indicator ecol indic – 
+
+ hiiesalu i oepik m metsis m lilje l davison j vasar m et al plant
+species richness belowground higher richness and new patterns
+revealed by next generation sequencing mol ecol – 
+
+ yoccoz n bråthen k gielly l haile j edwards m goslar t et al dna
+from soil mirrors plant taxonomic and growth form diversity mol ecol 
+ – 
+
+ creer s fonseca v porazinska d giblin davis r sung w power d et al 
+ultrasequencing of the meiofaunal biosphere practice pitfalls and
+promises mol ecol s – 
+
+ bienert f de danieli s miquel c coissac e poillot c brun jj et al 
+tracking earthworm communities from soil dna mol ecol 
+ – 
+
+ andersen k bird kl rasmussen m haile j breuning madsen h kjaer
+kh et al meta barcoding of ‘dirt’ dna from soil reflects vertebrate
+biodiversity mol ecol – 
+
+ boessenkool s epp ls haile j bellemain e edwards m coissac e et al 
+blocking human contaminant dna during pcr allows amplification of
+rare mammal species from sedimentary ancient dna mol ecol 
+ – 
+
+ haile j froese dg macphee rd roberts rg arnold lj reyes av et al 
+ancient dna reveals late survival of mammoth and horse in interior
+alaska proc nat acad sci – 
+
+ bellemain e davey ml kauserud h epp ls boessenkool s coissac e 
+et al fungal palaeodiversity revealed using high throughput
+metabarcoding of ancient dna from arctic permafrost environ microbiol 
+ – 
+
+ yu dw ji y emerson bc wang x ye c yang c et al biodiversity soup 
+metabarcoding of arthropods for rapid biodiversity assessment and
+biomonitoring methods ecol evol – 
+
+ ji y ashton l pedley sm edwards dp tang y nakamura a et al 
+reliable verifiable and efficient monitoring of biodiversity via
+metabarcoding ecol lett – 
+
+ giller ps the diversity of soil communities the ‘poor man’s tropical
+rainforest’ biodiversity conserv – 
+
+ bardgett rd causes and consequences of biological diversity in soil 
+zoology – 
+
+ decaëns t jiménez jj gioia c measey g lavelle p the values of soil
+animals for conservation biology eur j soil biol s –s 
+
+ horner devine mc carney km bohannan bj an ecological perspective
+on bacterial biodiversity proc r soc london ser b biol sci 
+ – 
+
+ wu t ayres e li g bardgett rd wall dh garey jr molecular profiling
+of soil animal diversity in natural ecosystems incongruence of molecular
+and morphological results soil biol biochem – 
+
+ davies n field d the genomic observatories network sequencing data 
+a genomic network to monitor earth nature – 
+
+ davies n field d amaral zettler l clark ms deck j drummond a 
+et al the founding charter of the genomic observatories network 
+gigascience 
+
+ buckland st anderson dr burnham kp laake jl distance sampling 
+john wiley sons ltd wiley online library 
+
+ wiser sk bellingham pj burrows le managing biodiversity information 
+development of new zealand’s national vegetation survey databank 
+new zealand j ecol – 
+
+ wiser sk spencer n de caceres m kleikamp m boyle b peet rk veg x
+– an exchange standard for plot based vegetation data j veget sci 
+ – 
+
+ drummond aj newcomb rd buckley tr xie d dopheide a 
+potter bc et al supporting data for “evaluating a multigene
+environmental dna approach for biodiversity assessment” gigascience
+database http dx doi org 
+
+ bragg l stone g imelfort m hugenholtz p tyson gw fast accurate
+error correction of amplicon pyrosequences using acacia nat methods 
+ – 
+
+ edgar rc uparse highly accurate otu sequences from microbial
+amplicon reads nat methods – 
+
+ huson dh mitra s ruscheweyh hj weber n schuster sc integrative
+analysis of environmental sequences using megan genome res 
+ – 
+
+ charney n record s vegetarian jost diversity measures for community
+data r package version accessed from https cran r project 
+org web packages vegetarian on sep 
+
+ soininen j mcdonald r hillebrand h the distance decay of similarity in
+ecological communities ecography – 
+
+ bryant ja lamanna c morlon h kerkhoff aj enquist bj green jl 
+microbes on mountainsides contrasting elevational patterns of bacterial
+and plant diversity proc nat acad sci supplement – 
+
+ anderson mj a new method for non parametric multivariate analysis of
+variance austral ecol – 
+
+ legendre p anderson mj distance based redundancy analysis testing
+multispecies responses in multifactorial ecological experiments ecol
+monographs – 
+
+ anderson mj willis tj canonical analysis of principal coordinates a
+useful method of constrained ordination for ecology ecology 
+ – 
+
+ hillis dm dixon mt ribosomal dna molecular evolution and
+phylogenetic inference q rev biol – 
+
+ taberlet p coissac e pompanon f gielly l miquel c valentini a et al 
+power and limitations of the chloroplast trnl uaa intron for plant dna
+barcoding nucleic acids res e 
+
+ hollingsworth pm graham sw little dp choosing and using a plant
+dna barcode plos one e 
+
+ hamilton wm kear d wright acs harris wf trevarthen cb watson js 
+et al little barrier island hauturu government printer wellington 
+
+ beever re esler ae young me cameron ek checklist of vascular plants
+recorded from hauturu o toi little barrier island auckland new
+zealand auckland botanical soc bull 
+
+ hurst j allen r a permanent plot method for monitoring indigenous
+forests expanded manual version landcare research contract report
+lc accessed from https nvs landcareresearch co nz 
+content permanentplot expandedmanual pdf on sep 
+
+ blakemore lc searle pl daly bk bureau s methods for chemical
+analysis of soils report department of scientific and industrial
+research soil bureau 
+
+http dx doi org 
+https cran r project org web packages vegetarian 
+https cran r project org web packages vegetarian 
+https nvs landcareresearch co nz content permanentplot expandedmanual pdf
+https nvs landcareresearch co nz content permanentplot expandedmanual pdf
+
+
+drummond et al gigascience page of 
+
+ leco total organic carbon and nitrogen in soils leco corporation st
+joseph mo organic application note accessed from
+http www leco co za wp content uploads 
+cn soils total organic carbon nitrogen pdf
+on sep 
+
+ rayment ge lyons dj soil chemical methods australasia vol 
+australia csiro publishing 
+
+ fox j monette g generalized collinearity diagnostics j am stat assoc 
+ – 
+
+ o’brien rm a caution regarding rules of thumb for variance inflation
+factors qual quant – 
+
+ vrijenhoek r dna primers for amplification of mitochondrial cytochrome
+c oxidase subunit i from diverse metazoan invertebrates mol mar biol
+biotechnol – 
+
+ kearse m moir r wilson a stones havas s cheung m sturrock s et al 
+geneious basic an integrated and extendable desktop software platform
+for the organization and analysis of sequence data bioinformatics 
+ – 
+
+ acosta martinez v dowd s sun y allen v tag encoded pyrosequencing
+analysis of bacterial diversity in a single soil type as affected by
+management and land use soil biol biochem – 
+
+ machida rj knowlton n pcr primers for metazoan nuclear s and s
+ribosomal dna sequences plos one e 
+
+ buee m reich m murat c morin e nilsson rh uroz s et al 
+pyrosequencing analyses of forest soils reveal an unexpectedly high
+fungal diversity new phytol – 
+
+ freckman dw virginia ra extraction of nematodes from dry valley
+antarctic soils polar biol – 
+
+ velasco castrillón a schultz mb colombo f gibson ja davies ka 
+austin ad et al distribution and diversity of soil microfauna from east
+antarctica assessing the link between biotic and abiotic factors plos
+one e 
+
+ jost l entropy and diversity oikos – 
+ oksanen j blanchet f kindt r legendre p o’hara r simpson g et al 
+
+vegan community ecology package r package version 
+accessed from https cran r project org web packages vegan on 
+sep 
+
+ edna pipeline https github com walterxie edna pipeline accessed
+on sep 
+
+submit your next manuscript to biomed central
+and take full advantage of 
+
+• convenient online submission
+
+• thorough peer review
+
+• no space constraints or color figure charges
+
+• immediate publication on acceptance
+
+• inclusion in pubmed cas scopus and google scholar
+
+• research which is freely available for redistribution
+
+submit your manuscript at 
+www biomedcentral com submit
+
+http www leco co za wp content uploads cn soils total organic carbon nitrogen pdf
+http www leco co za wp content uploads cn soils total organic carbon nitrogen pdf
+https cran r project org web packages vegan 
+https github com walterxie edna pipeline
+
+	abstract
+	background
+	results
+	conclusions
+	keywords
+
+	background
+	data description
+	analyses
+	soil edna markers as proxies for traditional biodiversity assessment methods
+	comparing communities across samples
+	environmental drivers of biodiversity patterns
+
+	discussion
+	methods
+	plots and field sampling
+	field site
+	plots
+	plant sampling and mapping
+	invertebrate sampling
+	bird counts
+	reptile sampling
+	soil sampling
+	data loggers
+
+	environmental data preparation
+	dna extraction pcr and sanger sequencing of invertebrates
+	edna extraction pcr and pyrosequencing from soil
+	invertebrate isolation from soil edna extraction pcr and pyrosequencing
+	otu identification and bioinformatics pipeline
+	comparison of edna and traditional biodiversity measures
+	multivariate ordination of samples and environmental data
+
+	availability of supporting data
+	additional files
+	additional file 
+	additional file 
+
+	abbreviations
+	competing interests
+	authors contributions
+	acknowledgements
+	author details
+	references
+	 onlinepdf pdf
+	abstract
+	background
+	results
+	conclusions
+	keywords
+
+	background
+	data description
+	analyses
+	soil edna markers as proxies for traditional biodiversity assessment methods
+	comparing communities across samples
+	environmental drivers of biodiversity patterns
+
+	discussion
+	methods
+	plots and field sampling
+	field site
+	plots
+	plant sampling and mapping
+	invertebrate sampling
+	bird counts
+	reptile sampling
+	soil sampling
+	data loggers
+
+	environmental data preparation
+	dna extraction pcr and sanger sequencing of invertebrates
+	edna extraction pcr and pyrosequencing from soil
+	invertebrate isolation from soil edna extraction pcr and pyrosequencing
+	otu identification and bioinformatics pipeline
+	comparison of edna and traditional biodiversity measures
+	multivariate ordination of samples and environmental data
+
+	availability of supporting data
+	additional files
+	additional file 
+	additional file 
+
+	abbreviations
+	competing interests
+	authors contributions
+	acknowledgements
+	author details
+	references
+
+	 onlinepdf pdf
+	abstract
+	background
+	results
+	conclusions
+	keywords
+
+	background
+	data description
+	analyses
+	soil edna markers as proxies for traditional biodiversity assessment methods
+	comparing communities across samples
+	environmental drivers of biodiversity patterns
+
+	discussion
+	methods
+	plots and field sampling
+	field site
+	plots
+	plant sampling and mapping
+	invertebrate sampling
+	bird counts
+	reptile sampling
+	soil sampling
+	data loggers
+
+	environmental data preparation
+	dna extraction pcr and sanger sequencing of invertebrates
+	edna extraction pcr and pyrosequencing from soil
+	invertebrate isolation from soil edna extraction pcr and pyrosequencing
+	otu identification and bioinformatics pipeline
+	comparison of edna and traditional biodiversity measures
+	multivariate ordination of samples and environmental data
+
+	availability of supporting data
+	additional files
+	additional file 
+	additional file 
+
+	abbreviations
+	competing interests
+	authors contributions
+	acknowledgements
+	author details
+	references
+
+
+
+
+

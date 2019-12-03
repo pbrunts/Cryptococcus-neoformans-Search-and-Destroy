@@ -1,0 +1,1513 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mineral type and solution chemistry affect the structure and composition of actively growing bacterial communities as revealed by bromodeoxyuridine immunocapture and s rrna pyrosequencing
+
+
+soil microbiology
+
+mineral type and solution chemistry affect
+the structure and composition of actively growing bacterial
+communities as revealed by bromodeoxyuridine
+immunocapture and s rrna pyrosequencing
+
+l c kelly y colin m p turpault s uroz 
+
+received february accepted april published online may 
+ springer science business media new york 
+
+abstract understanding how minerals affect bacterial com 
+munities and their in situ activities in relation to environmental
+conditions are central issues in soil microbial ecology as min 
+erals represent essential reservoirs of inorganic nutrients for
+the biosphere to determine the impact of mineral type and
+solution chemistry on soil bacterial communities we com 
+pared the diversity composition and functional abilities of a
+soil bacterial community incubated in presence absence of
+different mineral types apatite biotite obsidian 
+microcosms were prepared containing different liquid culture
+media devoid of particular essential nutrients the nutrients
+provided only in the introduced minerals and therefore only
+available to the microbial community through mineral disso 
+lution by biotic and or abiotic processes by combining func 
+tional screening of bacterial isolates and community analysis
+by bromodeoxyuridine dna immunocapture and s rrna
+gene pyrosequencing we demonstrated that bacterial commu 
+nities were mainly impacted by the solution chemistry at the
+taxonomic level and by the mineral type at the functional
+
+level metabolically active bacterial communities varied with
+solution chemistry and mineral type burkholderia were sig 
+nificantly enriched in the obsidian treatment compared to the
+biotite treatment and were the most effective isolates at solu 
+bilizing phosphorous or mobilizing iron in all the treatments 
+a detailed analysis revealed that the s rrna gene se 
+quences of the otus or isolated strains assigned as
+burkholderia in our study showed high homology with effec 
+tive mineral weathering bacteria previously recovered from
+the same experimental site 
+
+keywords forest soil minerals brdu immunocapture 
+
+ s rdna based pyrosequencing culture dependent
+approach
+
+introduction
+
+rocks and minerals represent physical support and essential
+sources of nutritive elements for the long lasting development
+of the biosphere this is especially the case in the critical zone 
+which encompasses from the top of the vegetation canopy to
+the base of the weathered bedrock us national research
+council basic research opportunities in earth science
+ indeed soil is composed of mosaics of rocks and min 
+erals varying in their type chemical composition size reac 
+tivity and weatherability besides nutrients from atmo 
+spheric deposits and the recycling of nutrients contained in
+organic matter minerals represent an important reservoir of
+soil inorganic nutrients however these nutrients are not di 
+rectly accessible to plants and microorganisms due to the in 
+ertness of rocks and minerals to environmental conditions 
+certain minerals such as apatite are weathered quickly in acid 
+ic conditions while minerals such as phyllosilicates remain
+comparatively recalcitrant in this context all these rocks
+
+electronic supplementary material the online version of this article
+ doi s contains supplementary material 
+which is available to authorized users 
+
+ s uroz
+uroz nancy inra fr
+
+ inra umr “interactions arbres microorganismes” 
+centre inra de nancy champenoux france
+
+ université de lorraine umr “interactions
+arbres microorganismes” vandoeuvre lès nancy france
+
+ inra ur “biogéochimie des ecosystèmes forestiers” 
+centre inra de nancy champenoux france
+
+ present address school of science and the environment division of
+biology and conservation ecology manchester metropolitan
+university m gd manchester uk
+
+microb ecol – 
+doi s 
+
+http dx doi org s 
+http crossmark crossref org dialog doi s domain pdf
+
+
+and minerals differentially impact the biosphere due to their
+different inherent properties 
+
+for decades it is well established that mineral weathering
+results from a combination of abiotic and biotic processes
+contributing to the release of the chemical elements entrapped
+in their crystal structure abiotic processes such as water
+circulation alternative freeze–thaw events and the acidifica 
+tion of their surrounding environment are known to impact
+mineral stability at the same time plants fungi lichens 
+and bacteria contribute to the dissolution of rocks and min 
+erals – through the force applied by roots or hyphae
+ on mineral particles plants and fungi are known to phys 
+ically disrupt them releasing nutrients and generating new
+weatherable surfaces lichens which may colonize the same
+rock surface for centuries are known to produce acidifying
+and chelating metabolites that contribute to mineral
+weathering and lichen nutrition indeed the production
+of protons organic acids and siderophores has been evi 
+denced for plants and lichens as indeed for fungi and bacteria
+ the role of mycorrhizal fungi in mineral
+weathering is now well established their role in
+the formation of tunnels into mineral particles was even pro 
+posed through the symbiotic association formed with
+their plant partner mycorrhizal fungi scavenge the soil envi 
+ronment and transfer inorganic nutrients to the plant in ex 
+change of photosynthates the contribution of soil bacterial
+communities in mineral weathering nutrient cycling and
+plant nutrition has also been demonstrated – 
+several studies reported the presence and even the enrichment
+of effective mineral weathering bacteria in the rhizosphere of
+different plants suggesting an active role in nutrient mobili 
+zation and plant nutrition – notably using a micro 
+cosm experiment it was demonstrated that the introduction
+on an effective mineral weathering bacterial strain increased
+significantly mineral dissolution tree nutrition and growth
+comparatively to non inoculated controls 
+
+where the role of microorganisms in mineral 
+weathering processes was evidenced it was primarily
+from a plant nutrition perspective focusing mainly on
+the root environment and its extensions i e rhizosphere
+or mycorrhizosphere all these studies clearly highlight 
+ed that the rhizosphere is a reactive interface where nutri 
+ents are intensively released and a microbial habitat where
+microorganisms capable of weathering minerals are
+enriched however other reactive interfaces and
+microbial habitats may exist among them rocks and
+minerals represent a poorly investigated interface 
+indeed rocks and minerals are usually considered as inert
+substrata for soil microbiologists although they contain
+essential nutrients and trace elements nevertheless sev 
+eral studies in terrestrial and aquatic environments have
+now evidenced that rocks and minerals support the devel 
+opment of complex microbial communities and even
+
+select specific microorganisms according to their physico 
+chemical properties – comparing different types of
+mineral inclusions present in granite gleeson et al 
+ revealed that both bacterial and fungal communities
+were structured according to the chemical composition of
+minerals while icelandic bacterial communities were
+found to differ on volcanic rocks of different chemical
+composition 
+
+together these data show that microorganisms are ca 
+pable of contributing to mineral weathering nutrient cy 
+cling and plant nutrition but also that their distribution
+and diversity are strongly determined by the physico 
+chemical properties of rocks and minerals however we
+can wonder how minerals impact the functioning of soil
+microbial communities a few studies performed on mod 
+el fungal or bacterial strains have demonstrated that spe 
+cific functions were up or downregulated when mineral
+particles were introduced in the culture medium 
+the possibility that introduction of minerals into the cul 
+ture medium imposes upon to bacteria a stress was even
+proposed by bryce et al in this context our aim in
+this study was to determine whether minerals select and
+stimulate specific bacterial communities we hypothesized
+that minerals according to their physicochemical proper 
+ties and the nutrient availability of their surrounding en 
+vironment impact the diversity composition and func 
+tion of the soil bacterial communities to test this hypoth 
+esis microcosm experiments were developed to test how
+a same bacterial community is structured by the presence
+or absence of different mineral types under similar culture
+conditions two culture media were adapted to create nu 
+trient deficiency complementary to the nutrients contained
+in these minerals in a first condition iron carrying min 
+erals were incubated in a culture medium lacking iron 
+while in a second condition phosphorous and calcium 
+carrying minerals were incubated in a culture medium
+lacking calcium and phosphorous concentrations of the
+nutrients released from the introduced minerals were de 
+termined in each condition after incubation to assess the
+total and metabolically active bacterial communities we
+combined s rrna gene amplicon pyrosequencing with
+a bromodeoxyuridine brdu immunocapture method 
+bromodeoxyuridine is incorporated into the dna of rep 
+licating cells as a thymidine analogue labeling the meta 
+bolically active bacterial communities – total and
+brdu labelled dna were used to determine the diversity
+and composition of the total and metabolically active bac 
+terial communities respectively finally to assess the
+mineral weathering potentials of bacteria in these different
+conditions a collection of bacterial isolates coming from
+the different treatments with or without minerals was
+screened for the ability to solubilize phosphorus and mo 
+bilize iron 
+
+minerals activate specific bacteria 
+
+
+
+materials and methods
+
+soil sampling and inoculum preparation
+
+on october soil samples were taken from the
+breuil chenue experimental forest site in the morvan
+ france ° ′ n ° ′ e the soil of the breuil 
+chenue experimental forest site is an alocrisol developed
+on the bpierre qui vire granite the bulk soil is sandy 
+loam textured sands and clays and acidic
+ ph ca soil cores × × cm were sampled
+in the coppice with standard stand after removing leaf
+litter soil samples were transported back to the lab 
+stored overnight at °c after which the mineral horizon
+ – cm was separated after homogenization a total of
+ g of soil was mixed with ml of sterile water and a
+slurry was made briefly soil and sterile water were ho 
+mogenized three times for min in a waring blender
+ waring torrington ct usa cooling on ice for
+ min between homogenizations bacterial cells were then
+extracted using nycodenz axis shield oslo norway 
+density gradient g ml− centrifugation according
+to lindahl and bakken sterile nalgene tubes
+ thermo scientific waltham ma usa ml were
+filled with ml of slurry and ml of nycodenz
+solution following centrifugation at ×g and
+ °c for min both the upper aqueous layer and the
+interface were recovered together bacterial cells were
+washed twice with sterile water and suspended in ml
+sterile water this extract was used as inoculum for the all
+the microcosm experiments described below part of this
+suspension was also cryopreserved in glycerol 
+bacterial concentration was estimated at × colony
+forming units cfu ml− by plate counting on nutrient 
+poor culture medium diluted tryptic soy agar
+ tsa 
+
+mineral selection
+
+minerals commonly found in the environment were selected
+according to their contrasting chemistry and weatherability 
+biotite apatite and obsidian were chosen as mineral substrata
+for microcosm experiments the chemical composition of
+these minerals in gram per kilogram was as follows i apatite
+ morocco sio al o fe o mno 
+mgo cao na o k o below detection
+level bdl tio bdl and p o ii biotite canada 
+sio al o fe o mno mgo 
+ cao na o k o tio and p o 
+and iii obsidian mexico sio al o 
+fe o mno mgo cao na o 
+ k o tio and p o bdl their chem 
+ical composition was determined with inductively coupled
+plasma–atomic emission spectroscopy icp aes after alka 
+line fusion with libo and dissolution in hno these min 
+erals were ground treated ultrasonically washed three times
+with distilled water calibrated mesh size – μm and
+dried 
+
+microcosm design
+
+the microcosms consisted of ml capped erlenmeyer
+flasks filled with ml of sterile culture medium devoid of
+specific nutritive elements see below amended or not with
+ g of autoclaved mineral particles the microcosm experi 
+ment was separated into two conditions fig the first
+condition consisted of flasks filled with a modified bushnell
+and haas medium bhm devoid of iron together with
+ g of size calibrated biotite or obsidian the bhm composi 
+tion was as follows g l− kcl mgso · h o 
+nah po · h o na hpo · h o nh ·so 
+ kno and cacl buffered at ph and
+supplemented with glucose g l− the second condition
+
+fig design of the microcosm experiment
+
+ l c kelly et al 
+
+
+
+consisted of flasks containing a modified national botanical
+research institute’s phosphate growth medium 
+ nbripm lacking calcium and phosphorous together with
+ g of size calibrated apatite or a mix of apatite and
+biotite the apatite biotite mix was used as a treatment to
+determine the impact of decreasing apatite quantity with bio 
+tite added to preserve the same total weight of mineral parti 
+cles in the culture medium the nbripm composition was as
+follows g l− mgcl · h o mgso · h o kcl 
+ nh so and kno adjusted to ph 
+and supplemented with glucose g l− each experimental
+condition included additional inoculated flasks containing cul 
+ture medium but without mineral particles to determine the
+relative effect of mineral addition in our experimental condi 
+tions on the total and metabolically active bacterial communi 
+ties the culture media and the carbon source were selected to
+focus on the heterotrophic bacterial communities due to their
+ability to weather minerals in these experimental conditions 
+as evidenced on the experimental site of breuil chenue 
+
+for each condition bhm or nbripm six flasks were
+prepared for each of the above mineral containing or
+mineral free treatments a thymidine analog brdu
+ roche® was added at a final concentration of μm
+ brdu into three flasks each the remaining three flasks
+remained brdu free −brdu microcosms were inoculated
+using μl of inoculum which corresponded to
+ × cfu ml− uninoculated microcosms additional
+to those described above were included as controls serving
+to check for contamination of media minerals and brdu 
+
+flasks were incubated at °c with agitation at rpm in
+an orbital shaker infors minitron based on preliminary
+experiments and to allow sufficient time for mineral dissolu 
+tion production of bacterial biomass and brdu labeling and
+limiting the possibility of brdu incorporation further in the
+trophic chain microcosms were incubated for days after
+this period a total of ml of supernatant was removed a
+volume of ml of this supernatant was centrifuged at 
+ ×g to recover bacterial communities for dna analyses 
+and the remaining supernatant was filtered through μm
+pore size filters to remove biomass and mineral particles be 
+fore chemical analyses additionally ml was stored in
+ v v glycerol at − °c for subsequent culturing 
+
+microcosm supernatant analyses and mineral particle
+observation
+
+the ml supernatants were analyzed for nutrients devoid in
+the initial solution and only present in the introduced mineral
+particles the concentrations of al and fe in the bhm condi 
+tion and ca and p in the nbripm condition were determined
+by inductively coupled plasma atomic emission spectrometry
+ series icp oes agilent technologies the ph was
+measured with a ph meter dl es mettler chemical
+
+analyses were performed in all the independent replicates 
+except in the non inoculated treatments for which technical
+replicates were analyzed additionally the mineral particles
+were collected and a subsample was observed using a hitachi
+s scanning electron microscope sem 
+
+bacterial collections and taxonomic characterization
+
+for each inoculated erlenmeyer flask whatever the treatment 
+a volume of ml of the glycerol preserved samples was
+used to perform serial dilutions in sterile distilled water 
+dilutions were spread onto a diluted tsa medium
+ tryptic soy broth from difco g l− and agar g l− 
+colonies were counted after a day incubation period at
+ °c and expressed as colony forming units per milliliter 
+bacterial colonies were collected at random and were purified
+by three successive platings on diluted tsa up to ten
+colonies were collected at random from each of the biological
+replicates for each treatment giving up to isolates per treat 
+ment bhm alone without mineral bhm biotite bhm 
+obsidian nbrip alone without mineral nbrip apatite 
+nbrip apatite biotite a total of bacteria were isolat 
+ed and tested for their ability to mobilize inorganic nutrients
+using functional assays to permit to determine all the isolates
+used in this study were cryopreserved at − °c in 
+glycerol and then cultivated on diluted tsa at °c 
+taxonomic characterization was performed on a subsample of
+ bacterial isolates ca isolates per condition randomly
+selected from this collection using the universal set of s
+rna primers pa ′ agagttt gatcctggctcag ′ 
+and r ′ ccgtcaattcmtttgagttt ′ 
+ polymerase chain reactions were performed in a total
+reaction volume of μl containing μl pcr mastermix
+ prime μl of primers μm and μl of cell extract 
+cell extract was prepared by adding one isolate colony into
+ μl of sterile water the following temperature cycle was
+used an initial denaturation step of min at °c followed by
+ cycles of s denaturation at °c min annealing at
+ °c and min s extension at °c and a final extension
+for min at °c pcr products were purified and concen 
+trated using the qiaquick pcr purification kit qiagen the
+sanger sequencing reactions were performed by mwg
+eurofin operon the sequencing primer used was pa 
+the partial s rrna gene sequences were compared with
+the sequences in the genbank databases www ncbi mlm nih 
+gov blast using the blast program and
+taxonomically assigned 
+
+functional bioassays
+
+the ability of bacterial isolates to solubilise tricalcium ortho 
+phosphate tcp was assessed following the modified proto 
+col of lepleux et al which allows the detection of
+
+minerals activate specific bacteria 
+
+http www ncbi mlm nih gov blast 
+http www ncbi mlm nih gov blast 
+
+
+organic acids and protons their ability to mobilize iron was
+assessed using a chrome azurol s cas assay which allows
+the detection of chelating compounds organic acids and
+siderophores these two bioassays are commonly used
+to determine the mineral weathering potential of bacterial
+strains in this study we used a diluted
+tcp medium composed of the following g l− in dis 
+tilled water g nh cl g nacl gmgso · h o g
+glucose g ca po and g agar each l of cas
+medium contained ml of solution g of pipe na 
+buffer sigma g kh po g nacl g nh cl 
+ g mgso · h o g cacl · h o and g agar
+in ml h o ph ml of solution g glucose in
+ ml h o and ml of solution mix of g
+chrome azurol s in ml g fecl in ml g
+hexadecyl trimethyl ammonium bromide in ml 
+
+for each bioassay each bacterial isolate was first grown on
+ diluted tsa agar medium at °c for h then
+subcultured for h in luria bertani lb broth at °c 
+lb broth was here used to generate higher bacterial biomass 
+biomass was then collected washed three times in sterile
+water and suspended in ml sterile water to obtain a suspen 
+sion at λ nm ca cell ml− ten microliters of
+this suspension was then dropped in triplicate onto one plate
+of each tcp and cas medium after incubation at °c for
+ days the diameter of each colony and the diameter of dis 
+coloration zone were measured to determine the ability of
+each bacterial isolate to mobilize iron cas and to solubilize
+inorganic phosphorous tcp the diameter of the discolor 
+ation zones was used to determine i the relative efficacy of
+each bacterial isolate in each bioassay and ii their distribu 
+tion into two classes of efficacy based on the presence or
+absence of discoloration zones on the different media 
+
+microcosm dna extraction and recovery
+of brdu labeled dna
+
+pellets obtained after centrifugation of the ml of micro 
+cosm supernatants were used to extract total dna from all
+microcosms this strategy was used as no bacterial develop 
+ment was observed on mineral particles by epifluorescence
+microscopy total dna was extracted from pellets using the
+powersoil dna isolation kit mo bio laboratories inc 
+carlsbad ca usa after minor modifications of the protocol
+as follows the samples were treated according to the manu 
+facturer’s instructions except that pre treatments with lyso 
+zyme mg ml− final concentration and proteinase k
+ mg ml− final concentration were added total dna
+was similarly extracted from the inoculum hereafter referred
+to as binoculum the quantity and quality of the total dna
+were evaluated by agarose gel electrophoresis and with a
+nanodrop spectrophotometer thermo scientific 
+wilmington de usa 
+
+dna immunocapture was used to recover brdu labeled
+dna from total dna according to the protocol of
+mcmahon et al the protocol was applied to all total
+dna extracts described above regardless of the presence 
+absence of brdu in the source microcosm briefly μl of
+total dna extract was denatured at °c and cooled rapidly 
+then added to a herring sperm anti brdu antibody mix and
+incubated at room temperature min following incuba 
+tion anti brdu magnetic beads dynabeads invitrogen 
+washed with phosphate buffered saline were added and
+the samples hybridized for min at room temperature 
+following hybridization tubes were placed in a magnet 
+ic stand and beads washed eight times to remove non 
+brdu labeled dna to recover the labeled dna 
+ mm anti brdu was added to the tubes and incubat 
+ed at room temperature for min the liquid phase
+recovered following this incubation containing in theo 
+ry only the labeled dna 
+
+ s rrna gene amplicon pyrosequencing
+and bioinformatic processing
+
+all total and brdu dna samples were subjected to amplifi 
+cation of s rrna genes under the following conditions 
+ °c for min followed by cycles of °c for min 
+ °c for min and °c for min with a final extension at
+ °c for min each reaction contained per μl reaction
+volume μl template dna μl mgcl mm 
+promega μl dntp mix mm promega μl each
+primer μm and u taq polymerase taq pcr core
+k i t q i agen p r ime r s u s ed we r e r xxxx 
+a t t a g a t a c c y t g t a g t c c a n d f x x x x 
+acgagctgacgacarccatg where xxxxx represents a five 
+base unique barcode tag for each sample amplifications were
+replicated six times for each sample products pooled and
+purified using a qiaquick pcr purification kit qiagen and
+subsequently visualized on a agarose gel stained with
+ethidium bromide the amplicon length and concentration
+were estimated by agarose gel electrophoresis and with a
+nanodrop spectrophotometer thermo scientific 
+wilmington de usa an equimolar mix of all amplicon
+libraries was used for pyrosequencing on the genome
+sequencer gs flx titanium platform roche at
+beckman coulter genomics danvers ma usa 
+pyrosequencing resulted in reads of which 
+passed length bp and quality criteria quality score
+ mean ≥ mothur was used to trim denoise and
+align the reads and to generate the operational taxonomic units
+ otus sequence similarity from each of the
+samples sequences corresponding to the smaller set
+of sequences after mothur processing encompassing the
+v and v hypervariable regions of the s rrna gene were
+randomly selected yielding a total of high quality
+
+ l c kelly et al 
+
+
+
+fasta formatted sequences sequences were classified using
+the mothur bayesian classifier confidence utilizing the
+ribosomal database project rdp training set v 
+
+statistical analyses
+
+the effect of the conditions bhm vs nbripm and treat 
+ments with and without minerals on the solution chemistry
+was determined by analysis of variance two factor analysis of
+variance anova factor inoculation and factor 
+minerals culturable bacterial counts were compared as log
+cfu number between the different conditions and treatments
+through anova for the s rrna gene sequence data set 
+anova p and multivariate analyses were done for
+the functional assays phosphorous solubilisation and iron
+mobilisation the effect of the treatments with or without
+mineral on the functional ability was determined by
+one factor anova at a threshold level of two clas 
+ses of bacterial isolates were discriminated according to
+their ability to produce or not a discoloration zone on the
+tcp and cas assays bnon effective no halo and 
+beffective presence of a halo the proportions of isolates
+per class were compared using a chi test p asso 
+ciated to a monte carlo test with simulations and a
+marascuilo procedure analyses of similarity anosim 
+based on bray curtis distances were performed on s
+
+rdna pyrosequence data using the anosim function
+of the r vegan package 
+
+accession numbers
+
+the pyrosequencing data generated for this study were
+submitted to the sequence read archive sra and are avail 
+able under the bioproject id prjna and submission
+number sub the partial s rrna gene sequences
+of bacterial isolates from the different microcosm condi 
+tions have been deposited into genbank under the accession
+numbers ku to ku 
+
+results
+
+chemical analyses of the solution and bacterial
+population sizes
+
+variations of ph were observed between the different treat 
+ments of both bhm and nbripm media table anova 
+factor p for the bhm medium and p for the
+nbripm medium after days of incubation in the bhm
+condition significant acidification was observed only for the
+mineral free inoculated treatment p ph inoculated
+mineral free ph and for the inoculated treat 
+ments containing biotite and obsidian respectively in the
+
+table solution properties
+
+treatments containing bacterial inoculated are presented highlighted in gray data presented are biological replicates n except for the non inoculated
+control for which only technical replicates have been done for chemical elements the values with different superscript letters a b c are significantly
+different according to two factor inoculation mineral anova and a bonferroni dunn test p 
+
+minerals activate specific bacteria 
+
+
+
+nbripm condition acidification was observed for all the in 
+oculated treatments reaching an average ph of compared
+to the non inoculated treatments p no significant
+difference of ph was observed between the inoculated treat 
+ments with or without minerals p although the
+chemical analyses were done only on the culture supernatants
+without integration of the nutrient content of bacterial cells 
+measures in both media revealed significant differences
+ table in the bhm condition the amounts of iron and
+aluminum measured in solution were very low for alu 
+minium a weak decrease was observed between uninoc 
+ulated and inoculated treatments p only signif 
+icant for the obsidian treatment p for iron no
+significant differences were observed between inoculated
+and uninoculated mineral treatments p in the
+nbripm condition significantly more calcium and phos 
+phorous were detected in the treatments containing min 
+erals and inoculum than in other treatments including
+uninoculated mineral treatments p the densi 
+ties of total culturable bacteria differed significantly be 
+tween the two conditions p with an average of
+ × cfu ml− in the bhm condition and
+ × cfu ml− in the nbripm condition for each
+condition no difference in density was observed between
+the different treatments 
+
+analysis of total and active bacterial communities based
+on s rrna gene amplicon pyrosequencing
+
+pyrosequencing analysis revealed a substantial decrease in
+diversity and change in composition between the inoculum 
+which corresponds to the initial diversity observed in the for 
+est soil of breuil chenue and the bhm and nbripm condi 
+tions considering the same number of sequences for each
+sample n the inoculum harbored higher shannon
+ and simpson indices and a higher number of ob 
+served otus table s considering total dna in all
+microcosms the bhm and nbripm conditions showed lower
+shannon to and simpson to indices
+and lower numbers of observed otus to although
+the diversity was strongly reduced in the microcosms com 
+pared to the inoculum the rarefaction curves generated for the
+microcosms did not reach a plateau table s in the bhm
+condition the mineral free treatment harbored lower diversity
+and a lower number of observed otus than obsidian and
+biotite treatments mineral free obsidian biotite 
+p on the contrary in the nbripm condition the
+mineral free treatment harbored higher diversity and a higher
+number of observed otus than apatite and apatite biotite
+treatments apatite biotite apatite medium alone 
+p 
+
+fig relative distribution of the s rrna gene sequences of the
+major taxa detected in the different conditions bhm and nbripm 
+and treatments treatments are presented as follows nm no mineral 
+
+tot total communities and brdu active communities for each
+treatment the data presented are the mean of three independent
+replicates except for the inoculum n 
+
+ l c kelly et al 
+
+
+
+compared to the total communities described above the
+metabolically active fraction of the communities exhibited
+higher shannon to and simpson to in 
+dices and observed otus to for some treatments for
+all the diversity proxies used the biotite treatment harbored
+lower diversity than the obsidian obsidian p in the
+nbripm condition active communities from the mineral free
+treatment harbored higher diversity than the treatments with
+minerals mineral free apatite biotite apatite p 
+
+at the taxonomic level the inoculum was also strongly
+differentiated from the communities observed after days of
+incubation in microcosms indeed the inoculum was charac 
+terized by a high proportion of phyla such as acidobacteria
+ proteobacteria verrucomicrobia and
+bacteroidetes fig in the microcosms 
+acidobacteria remained undetected in total and active com 
+munity fractions comparison of the total communities of the
+bhm and nbripm conditions revealed an important differ 
+entiation between these two conditions as evidenced by mul 
+tivariate analysis fig a b and anosim analysis r 
+p the total community of the bhm condition ap 
+peared dominated by representatives of beta average 
+and gammaproteobacteria corresponding to otus
+assigned to burkholderia and dyella for the nbripm con 
+dition the total community appeared dominated by represen 
+tatives of gammaproteobacteria actinobacteria
+
+ and betaproteobacteria figs and corre 
+s p o n d i n g t o otus a s s i g n e d a s u n c l a s s i f i e d
+enterobacteriaceae streptacidiphilus and burkholderia a
+detailed analysis of the relative distribution of the s rrna
+gene sequences revealed that the total communities of the
+bhm condition with minerals were enriched in representa 
+tives of gammaproteobacteria with biotite vs 
+without mineral p and a decrease in representatives
+of betaproteobacteria without mineral vs with
+minerals p and bacteroidetes without mineral
+vs with minerals p in the nbripm condition a
+nonsignificant decrease in the abundance of representatives of
+beta and gammaproteobacteria was observed in the presence
+of apatite or apatite biotite compared to the mineral free
+treatment on the contrary actinobacteria mainly assigned
+to streptacidiphilus appeared enriched in the mineral treat 
+ments compared to the mineral free treatment 
+
+as the total communities present in the bhm and nbripm
+conditions were different the structure and composition of the
+metabolically active communities were assessed independent 
+ly for each condition including the treatments without brdu
+ fig after immunocapture either no s rrna pcr am 
+plification or weak signals were obtained for treatments in
+which no brdu was added for those giving a weak pcr
+signal s rrna gene amplicon pyrosequencing analysis
+revealed a low diversity dominated by otus absent or very
+
+fig multivariate analysis showing the differentiation of the total
+bacterial communities according to culture conditions panel a presents
+how the different treatments are distributed according to f and f axes 
+treatments are presented as follows i for the nbripm condition tot
+means total communities without minerals red apa tot means total
+communities of the treatment with apatite blue and apa bio tot
+means total communities of the treatment with apatite and biotite
+
+ purple and ii for the bhm condition tot means total communities
+without minerals red bio tot means total communities of the treatment
+with biotite blue and obs totmeans total communities of the treatment
+with obsidian purple panel b presents the vectorial distribution of the
+different taxa explaining the distribution observed in panel a in this
+analysis principal component axes and explain most of the variance
+in the data cumulatively f and f 
+
+minerals activate specific bacteria 
+
+
+
+rare in the brdu treated samples supported by few sequences 
+and assigned as serratia variovorax or unclassified bacteria 
+for each condition bhm or nbripm total and metabolical 
+ly active bacterial communities were differentiated by multi 
+variate analysis with a stronger effect in the bhm condition
+than in the nbripm condition figs s a b and s a b 
+this trend was confirmed by an anosim analysis which
+was only significant for the bhm condition r 
+p and not for the nbripm condition r − 
+p in both conditions betaproteobacteria appeared re 
+duced and gammaproteobacteria increased in active commu 
+nities compared to total communities fig however this
+trend was only significant in the bhm condition in the
+mineral free and biotite treatments betaproteobacteria 
+p gammaproteobacteria p a specific fo 
+cus on the metabolically active communities in each condition
+revealed contrasting patterns in the bhm condition metabol 
+ically active communities were significantly enriched in
+betaproteobacteria in the obsidian treatment of
+
+sequences compared to other treatments without min 
+erals and with biotite p gammaproteobacteria
+appeared significantly enriched in the biotite treatment
+ compared to the obsidian treatment 
+p a detailed analysis at the genus or otu level
+revealed that these differences were explained by significant
+variations in the proportions of burkholderia obsidian bio 
+tite p unclassified enterobacteriaceae biotite ob 
+sidian p pseudomonas obsidian biotite 
+p and arthrobacter obsidian biotite p 
+this differentiation between the active communities from
+the different bhm treatments was confirmed by multivariate
+analysis at a variety of phylogenetic levels phylum to otu 
+fig c on the contrary in the nbripm condition no sig 
+nificant differences were observed between the treatments for
+the metabolically active communities at any phylogenetic lev 
+el considered although nonsignificant the mineral treatments
+harbored higher proportions of gammaproteobacteria 
+apatite apatite biotite than in the mineral free
+
+fig multivariate analysis of the total andmetabolically active bacterial
+communities in the two bhm and nbripm conditions panels a and b
+present the total communities in the bhm and nbripm conditions 
+panels c and d present the metabolically active communities the bhm
+
+and nbripm conditions in panel c circles have been manually included
+to separate treatments for each panel principal component axes and 
+explaining most of the variance in the data cumulatively are presented as
+f and f 
+
+ l c kelly et al 
+
+
+
+treatment p this absence of differentiation was
+also confirmed by multivariate analysis fig d 
+
+functional and taxonomic characterization
+of culturable bacterial isolates from the microcosms
+
+the functional screening of the bacterial isolates obtained
+from the different conditions and treatments of this study re 
+vealed significant differences according to anova and chi 
+
+analyses fig in the bhm condition the most effective
+phosphorous solubilizing bacterial isolates were detected in
+the obsidian treatment p fig a the most effec 
+tive iron mobilizing bacterial isolates were also obtained in
+the obsidian treatment fig b but only significantly more
+effective than those isolated from the biotite treatment
+ p indeed isolates from the initial inoculum or from
+the mineral free treatment were as effective as the other treat 
+ments the frequency of effective iron mobilizing bacterial
+isolates was significantly higher in the mineral free treatment
+compared to the obsidian treatment p mineral free
+treatment obsidian fig a no difference was observed
+concerning the frequency of effective phosphorous 
+solubilizing bacterial isolates in the bhm condition in the
+nbripm condition the most effective phosphorous 
+solubilizing isolates were detected in the apatite biotite
+
+fig functional potential of the bacterial isolates as assessed by
+measurement of the diameter halo on the phosphorous and iron assays 
+a c phosphorous solubilization assay for bhm and nbripm conditions 
+respectively b d iron mobilization assay for bhm and nbripm
+conditions respectively for each bioassay the functional potential p
+
+solubilization or fe mobilization of bacterial strains coming from the
+inoculum was added bars correspond to average efficacy and those
+presented with different letters a b c are significantly different
+according to one factor anova and a bonferroni dunn test p 
+the error bars indicate standard deviations
+
+fig distribution of the bacterial isolates based on their origin
+ treatment and their membership in two classes of efficacy to mobilize
+p or fe effective black or not effective white a bhm condition b
+nbripm condition the figure presents the relative distribution of
+the bacterial isolates in the two classes of efficacy distribution was tested
+using a chi analysis p 
+
+minerals activate specific bacteria 
+
+
+
+treatment p fig c no significant differences were
+observed for the ability to mobilize iron although the isolates
+from the apatite biotite treatment were the most effective
+ p fig d the frequency of effective iron mobilizing
+isolates was significantly higher in the mineral free treatment
+compared to the apatite treatment p mineral free 
+apatite biotite fig b the frequency of effective
+phosphorous solubilizing isolates was significantly higher in
+the mineral treatments compared to the mineral free treat 
+ment p apatite apatite biotite mineral free 
+fig b 
+
+for the taxonomic analysis a subsample of bacterial
+isolates randomly selected was characterized based on the
+partial sanger sequencing of their s rrna gene this
+analysis revealed that these bacterial isolates were members
+o f be t a p ro t eobac t e r i a gammap ro t eobac t e r i a 
+alphaproteobacteria actinobacteria and firmicutes 
+representing the genera arthrobacter acinetobacter 
+brachybacterium burkholderia buttiauxella dyella 
+kluyvera leifsonia micrococcus phyllobacterium 
+pseudomonas rhodanobacter serratia silvimonas 
+staphylococcus and yersinia with burkholderia being
+the most abundantly represented genus at and in
+the bhm and nbripm collections respectively a detailed
+analysis of the bacterial collections also highlighted that
+most of the dominant culturable bacterial genera
+ kluyvera dyella burkholderia phyllobacterium 
+pseudomonas were also dominant in the s rrna pyro 
+sequencing data obtained from the microcosms table s 
+
+comparison of the functional potentials with the taxonomic
+affiliation of the bacterial isolates revealed that those assigned
+as burkholderia were the most effective in solubilizing phos 
+phorous and mobilizing iron in the bhm conditions this
+relationship was not tested for the other genera due to their
+low representativeness in the collection n in the
+nbripm bacterial isolates assigned to kluyvera were sig 
+nificantly more effective in solubilizing phosphorous than
+those assigned to burkholderia p concerning the
+ability to mobilize iron burkholderia isolates appeared
+nonsignificantly more effective than the kluyvera
+ p comparing the overlapping portion bases 
+of the s rrna gene sequences of the burkholderia iso 
+lates obtained by sanger sequencing and the dominant
+otu sequences detected in the total and active communi 
+ties after pyrosequencing revealed a strong homology 
+to in the nbripm condition all the isolates
+a s s i g ned a s kluy v e r a gammap ro t e ob a c t e r i a 
+enterobacteriales enterobacteriaceae were effective in
+solubilizing phosphorous notably the overlapping portion
+ bases between the s rrna gene sequences of
+kluyvera strains and the dominant otu sequences 
+assigned as unclassified enterobacteriaceae revealed a
+strong homology to 
+
+discussion
+
+using combined culture dependent and culture independent
+methods our study revealed that the diversity composition 
+and function of a soil bacterial community are affected by the
+solution chemistry and the presence of mineral particles in the
+solut ion notably a combinat ion of dna brdu
+immunocapture and s rrna gene amplicon pyrosequenc 
+ing highlighted that different fractions of the total bacterial
+communities are metabolically activated depending on
+the mineral type present in their environment although
+our experimental conditions introduced biases due to the
+culture conditions this study represents to our knowl 
+edge the first experiment testing the relative impact of
+mineral type on complex bacterial communities coming
+from forest soil 
+
+the selective effect of minerals and rocks has now been
+evidenced in several terrestrial and aquatic environments 
+ – – although a consensus remains difficult to ob 
+tain these studies have shown that the physicochemical prop 
+erties nutritive or toxic content and weatherability of min 
+erals affect the diversity and composition of the microbial
+communities inhabiting their surface indeed 
+according to the environmental conditions i e ph ionic
+strength nutrient availability minerals can attract bacterial
+cells on their surface due to their positive surface charges 
+and this attraction can vary with mineral type – the
+importance of the chemical content of minerals was also pro 
+posed as an important driver of the development and survival
+of microbial communities as an example 
+nutritive elements such phosphate potassium magnesium or
+iron entrapped in the crystal structure of minerals have been
+shown to determine the colonization but also the composition
+of the bacterial communities at the same time 
+other studies proposed that other chemical elements such as
+aluminium may have a toxic impact on microbial communi 
+ties inhibiting the development of certain microorganisms on
+their surface at last uroz et al proposed
+that mineral weatherability determines the diversity and com 
+position of mineral associated bacterial communities show 
+ing that the most weatherable minerals were those harboring
+the lowest diversity contrary to the recalcitrant minerals in
+our study after days of incubation no evident effect of the
+mineral type was observed in term of density diversity struc 
+ture or composition of total bacterial communities in each
+condition although mineral dissolution was measured in the
+nbripm condition part of this absence of effect on the total
+bacterial communities may be related to the short incubation
+time and to the absence of biofilm formation on the mineral
+surfaces whatever the conditions and treatments focusing
+only on the total communities the main driver was the culture
+media which vary in nutrient availability with the higher
+nutrient concentration in the nbripm medium and in its
+
+ l c kelly et al 
+
+
+
+buffering capacity with presence of a weak buffer only in the
+bhm medium 
+
+although the total bacterial communities did not vary sig 
+nificantly according to the mineral type in our study the met 
+abolically active communities analyzed using dna brdu
+immunocapture method differed a global analysis of the
+ s rrna gene sequence distribution revealed that the meta 
+bolically active communities were dominated by
+gammaproteobacteria mainly assigned as unclassified
+enterobacteriaceae in both bhm and nbripm conditions
+and betaproteobacteria assigned as burkholderia although
+nonsignificant a detailed analysis at the otu level revealed
+that the main otus of unclassified enterobacteriaceae were
+selectively enriched in the bhm condition in the presence of
+mineral while decreased in the nbripm condition suggesting
+that representatives of these taxa were reactive to mineral type
+ fig s in the bhm medium which lacks iron diversity 
+structure and composition of the active bacterial communities
+changed depending on the mineral type our pyrosequencing
+data revealed that in the same condition bhm the treatment
+incubated with obsidian was significantly different from the
+treatment incubated with biotite a detailed analysis of the
+distribution of the s rrna gene sequences revealed that
+the active communities were enriched in representatives of
+gammaproteobacteria in the treatment with biotite while the
+obsidian treatment was enriched in betaproteobacteria 
+comparison of the partial s rrna gene sequences gener 
+ated in the culturable and pyrosequencing approaches re 
+vealed a good overlap with the same genera kluyvera 
+dyella burkholderia phyllobacterium pseudomonas dom 
+inating the dataset notably the functional screening of the
+bacterial strains affiliated to some these genera i e 
+burkholderia kluyvera showed they were effective to mobi 
+l i z e i r on and phospho rou s i n t e r e s t i n g l y t h e
+betaproteobacteria otu sequences obtained in the pyrose 
+quencing analysis as well as the sanger s rrna gene se 
+quences obtained for the burkholderia isolates harbored
+strong homology with s rrna gene sequences of effective
+mineral weathering burkholderia strains effective previously
+isolated from the same experimental site suggesting that in
+our microcosm conditions they were participating in mineral
+weathering in the nbripm condition both total and
+active communities presented a chaotic structure and were
+not significantly different suggesting that in this condition
+with or without minerals members of the total communities
+were all metabolically actives altogether these results show
+that depending of the solution chemistry and mineral type 
+specific bacteria are metabolically active and may contribute
+to mineral weathering 
+
+in parallel to this cultivation independent approach func 
+tional screening of bacterial strains coming from the different
+conditions and treatments were assayed for their ability to
+solubilize inorganic phosphorous and to mobilize iron such
+
+approaches have been used to determine the functional struc 
+ture of mineral weathering bacterial communities along soil
+fertility gradient or to decipher the potential differences
+existing between soil and mycor rhizosphere bacteria 
+ – here we showed that effective p solubilizing
+bacteria were present in the different conditions and treat 
+ments but that significant variations of efficacy existed de 
+pending of the mineral type if a limited effect was observed
+in the bhm condition with only a significant higher efficacy
+of the bacterial isolates coming from the obsidian treatment a
+higher effect was observed in the nbripm condition 
+frequency analysis revealed that p solubilizing ability was
+enriched in the treatment with minerals comparatively to the
+control without mineral with a higher proportion in presence
+of apatite biotite mix than in presence of apatite another pat 
+tern of distribution of the isolates in class of efficacy was
+observed for the ability to mobilize iron indeed in both
+bhm andnbripm conditions higher proportions of effective
+iron mobilizing bacterial strains were observed in the culture
+media devoid of minerals than in their presence suggesting
+that iron was accessible in the different treatments containing
+mineral particles such results fit very well with our knowl 
+edge on the regulation of siderophore production in bacteria
+ – using dna microarray on the model strain
+cupriavidus metallidurans ch olsson francis et al 
+highlighted a repression of the siderophore machinery in pres 
+ence of basalt in the culture medium comparatively to in ab 
+sence similarly page and huyer showed that introduc 
+tion of different mineral types in the culture medium of a strain
+of azotobacter vinerlandii allowed to a repression of
+siderophore production for weatherable minerals and a de 
+repression for recalcitrant minerals in our experimental con 
+ditions biotite is a recalcitrant mineral comparatively to ob 
+sidian and apatite which may explain why more effective
+iron mobilizing bacteria were found in the treatments with
+biotite whatever the functional bioassay used strains
+assigned to burkholderia or kluyvera were the most effective
+at mobilizing nutrients altogether our cultivation dependent
+data suggest a modification of the functional structure of the
+mineral weathering bacterial communities according to the
+mineral type 
+
+conclusion
+
+this work demonstrated that minerals solution chemistry and
+ph are important drivers of the taxonomic and functional
+structure of bacterial communities notably the cultivation 
+dependent approach revealed that in presence of mineral ef 
+fective p solubilizing bacteria were enrichedwhile the propor 
+tion of effective fe mobilizing bacteria decreased for the first
+t ime we h igh l igh t ed us ing a combined dna 
+bromodeoxyuridine immunocapture and pyrosequencing
+
+minerals activate specific bacteria 
+
+
+
+approach that in the same condition different mineral types
+supported the activity of different parts of a same bacterial
+community although we cannot exclude that introduction
+of minerals into the culture medium imposed upon to bacteria
+a stress as recently proposed by bryce et al our results fit
+very well with the newly proposed concept of mineralosphere
+ indeed this concept proposed that minerals select specific
+bacterial communities according to mineral physicochemical
+properties adapted to the mineral environment and actively
+involved in its dissolution the physiological activation ob 
+served in our study through the brdu incorporation combined
+to the presence of effective mineral weathering bacteria
+assigned as burkholderia or kluyvera and showing strong
+homology with the s rrna pyrosequences generated sup 
+port this concept further studies combining environmental
+genomics and geochemical approaches will be required to
+confirm these results on other minerals and in other sites and
+to reveal how are in situ regulated the mineral associated bac 
+terial communities and what is their relative impact onmineral
+weathering and nutrient cycling however these results bring
+a new perspective to soil microbial ecology as our current
+knowledge of the taxonomic and functional diversity of mi 
+croorganisms in soil is based mainly on composite geologi 
+cally heterogeneous samples and does pay too much attention
+on soil minerals and rocks 
+
+acknowledgments this work was funded by an anr grant
+ anrjcjc svse project bbactoweather the authors thank
+dr s mcmahon for helpful discussions concerning brdu
+immunocapture dr j ranger and a legout for giving access to the
+breuil chenue experimental site and c bach for technical assistance 
+the umr is supported by the french agency through the
+laboratory of excellence arbre anr labx 
+
+references
+
+ uroz s kelly lc turpault m p lepleux c frey klett p 
+the mineralosphere concept mineralogical control of the distribu 
+tion and function of mineral associated bacterial communities 
+trends microbiol
+
+ brantley sl kinetics of mineral dissolution in kinetics of
+water rock interaction pp – springer new york
+
+ staudigel h furnes h mcloughlin n banerjee nr connell lb 
+templeton a billion years of glass bioalteration volca 
+nic rocks as a basis for microbial life earth sci rev – 
+
+ drever ji ed surface and ground water weathering and
+soils treatise on geochemistry vol elsevier
+
+ banfield jf barker ww welch sa taunton a biological
+impact on mineral dissolution application of the lichen model to
+understanding mineral weathering in the rhizosphere proc natl
+acad sci – 
+
+ courty pe buée m diedhiou ag frey klett p le tacon f 
+rineau f turpault m p uroz s garbaye j the role of
+ectomycorrhizal communities in forest ecosystem processes new
+perspectives and emerging concepts soil biol biochem –
+ 
+
+ hinsinger p barros onf benedetti mf noack y callot g 
+plant induced weathering of a basaltic rock experimental evidence 
+geochim cosmochim acta – 
+
+ landeweert r hoffland e finlay rd kuyper tw van breemen
+n linking plants to rocks ectomycorrhizal fungi mobilize
+nutrients from minerals trends ecol evol – 
+
+ smits mm bonneville s benning lg banwart sa leake jr
+ plant driven weathering of apatite—the role of an
+ectomycorrhizal fungus geobiology – 
+
+ uroz s calvaruso c turpault mp frey klett p mineral
+weathering by bacteria ecology actors and mechanisms trends
+microbiol – 
+
+ bonneville s morgan dj schmalenberger a bray a brown a 
+banwart sa benning lg tree mycorrhiza symbiosis accel 
+erate mineral weathering evidences from nanometer scale elemen 
+tal fluxes at the hypha–mineral interface geochim cosmochim
+acta – 
+
+ rineau f courty pe uroz s buée m garbaye j simple
+microplate assays to measure iron mobilization and oxalate secre 
+tion by ectomycorrhizal tree roots soil biol biochem –
+ 
+
+ blum jd klaue a nezat ca driscoll ct johnson ce siccama
+tg eagar c fahey tj likens ge mycorrhizal weathering
+of apatite as an important calcium source in base poor forest eco 
+systems nature – 
+
+ jongmans ag van breemen n lundström u van hees paw 
+finlay rd srinivasan m unestam t giesler r melkerund p a 
+olsson m rock eating fungi nature – 
+
+ calvaruso c turpault mp frey klett p root associated
+bacteria contribute to mineral weathering and to mineral nutrition
+in trees a budgeting analysis appl environmicrobiol –
+ 
+
+ puente me li cy bashan y microbial populations and
+activities in the rhizoplane of rock weathering desert plants ii 
+growth promotion of cactus seedlings plant biol – 
+
+ uroz s oger p lepleux c collignon c frey klett p turpault mp
+ bacterial weathering and its contribution to nutrient cycling
+in temperate forest ecosystems res microbiol – 
+
+ collignon c uroz s turpault mp frey klett p seasons
+differently impact the structure of mineral weathering bacterial
+communities in beech and spruce stands soil biol biochem
+ – 
+
+ turpault m p nys c calvaruso c rhizosphere impact on
+the dissolution of test minerals in a forest ecosystem geoderma
+ – 
+
+ gleeson db clipson n melville k gadd gm mcdermott fp
+ characterization of fungal community structure on a weath 
+ered pegmatitic granite microb ecol – 
+
+ gleeson db kennedy nm clipson n melville k gadd gm 
+mcdermott fp characterization of bacterial community
+structure on a weathered pegmatitic granite microb ecol 
+ – 
+
+ hutchens e microbial selectivity on mineral surfaces pos 
+sible implications for weathering processes fungal biol rev 
+ – 
+
+ hutchens e gleeson d mcdermott f miranda casoluengo r 
+clipson n meter scale diversity of microbial communities
+on a weathered pegmatite granite outcrop in the wicklow
+mountains ireland evidence for mineral induced selection 
+geomicrobiol j – 
+
+ kelly lc cockell cs piceno ym andersen gl thorsteinsson t 
+marteinsson v bacterial diversity of weathered terrestrial
+icelandic volcanic glasses microb ecol – 
+
+ kelly lc cockell cs herrera belaroussi a piceno y andersen
+g desantis t brodie e thorsteinsson t marteinsson v poly f 
+
+ l c kelly et al 
+
+
+
+leroux x bacterial diversity of terrestrial crystalline volca 
+nic rocks iceland microb ecol – 
+
+ olsson francis k van houdt r mergeay m leys n cockell cs
+ microarray analysis of a microbe–mineral interaction 
+geobiology – 
+
+ wang w lian b pan l an rna sequencing study of the
+genes and metabolic pathways involved in aspergillus niger
+weathering of potassium feldspar geomicrobiol j just accepted 
+ 
+
+ bryce cc le bihan t martin sf harrison jp bush t spears b 
+moore a leys n byloos b cockell cs rock geochemis 
+try induces stress and starvation responses in the bacterial proteome 
+environ microbiol in press 
+
+ artursson v finlay rd jansson jk combined
+bromodeoxyuridine immunocapture and terminal‐restriction frag 
+ment length polymorphism analysis highlights differences in the
+active soil bacterial metagenome due to glomus mosseae inocula 
+tion or plant species environ microbiol – 
+
+ borneman j culture independent identification of microor 
+ganisms that respond to specified stimuli appl environ microbiol
+ – 
+
+ galand pe alonso sáez l bertilsson s lovejoy c casamayor
+eo contrasting activity patterns determined by brdu incor 
+poration in bacterial ribotypes from the arctic ocean in winter 
+front microbiol 
+
+ mcmahon sk wallenstein md schimel jp a cross 
+seasonal comparison of active and total bacterial community com 
+position in arctic tundra soil using bromodeoxyuridine labeling 
+soil biol biochem – 
+
+ mou x sun s edwards ra hodson re moran ma 
+bacterial carbon processing by generalist species in the coastal
+ocean nature – 
+
+ mareschal l effet des substitutions d’essences forestières
+sur l’évolution des sols et de leur mineralogie phd thesis 
+university of nancy
+
+ lindahl v bakken lr evaluation of methods for extraction
+of bacteria from soil fems microbiol ecol – 
+
+ bushnell lc haas hf the utilization of certain hydrocar 
+bons by microorganisms j bacteriol – 
+
+ nautiyal cs bhadauria s kumar p lal h mondal r verma d
+ stress induced phosphate solubilization in bacteria isolated
+from alkaline soils fems microbiol lett – 
+
+ edwards u rogall t blöcker h emde m böttger ec 
+isolation and direct complete nucleotide determination of entire
+genes characterization of a gene coding for s ribosomal rna 
+nucleic acids res – 
+
+ lane dj s s rrna sequencing nucleic acid tech 
+niques in bacterial systematics – 
+
+ on slw atabay hi corry jel harrington cs vandamme p
+ emended description of campylobacter sputorum and revi 
+sion of its infrasubspecific biovar divisions including c 
+sputorum biovar paraureolyticus a urease producing variant from
+cattle and humans int j syst bacteriol – 
+
+ altschul sf madden tl schäffer aa zhang j zhang z miller
+w lipman dj gapped blast and psi blast a new
+generation of protein database search programs nucleic acids
+res – 
+
+ lepleux c uroz s collignon c churin jl turpault mp frey 
+klett p a short term mineral amendment impacts the min 
+eral weathering bacterial communities in an acidic forest soil res
+microbiol – 
+
+ schwyn b neilands jb universal chemical assay for the
+detection and determination of siderophores anal biochem 
+ – 
+
+ calvaruso c turpault mp leclerc e frey klett p impact of
+ectomycorrhizosphere on the functional diversity of soil bacterial
+
+and fungal communities from a forest stand in relation to nutrient
+mobilization processes microb ecol – 
+
+ uroz s calvaruso c turpault mp sarniguet a de boer w 
+leveau jhj frey klett p efficient mineral weathering is a
+distinctive functional trait of the bacterial genus collimonas soil
+biol biochem – 
+
+ nadkarni ma martin fe jacques na hunter n 
+determination of bacterial load by real time pcr using a broad 
+range universal probe and primers set microbiology –
+ 
+
+ droege m hill b the genome sequencer flx™
+system—longer reads more applications straight forward
+bioinformatics and more complete data sets j biotechnol
+ – 
+
+ schloss pd westcott sl ryabin t hall jr hartmannm hollister
+eb lesniewski ra oakley bb parks dh robinson cj sahl jw 
+stres b thallinger gg vanhorn dm weber cf 
+introducing mothur open source platform independent 
+community supported software for describing and comparing mi 
+crobial communities appl environ microbiol – 
+
+ oksanen j vegan community ecology package 〈http cc 
+oulu fi jarioksa 〉
+
+ lepleux c turpault mp oger p frey klett p uroz s 
+correlation of the abundance of betaproteobacteria on mineral sur 
+faces with mineral weathering in forest soils appl environ
+microbiol – 
+
+ mauck bs roberts ja mineralogic control on abundance
+and diversity of surface adherent microbial communities 
+geomicrobiol j – – 
+
+ toner bm lesniewski ra marlow jj briscoe lj santelli cm 
+bach w orcutt bn edwards kj mineralogy drives bacte 
+rial biogeography of hydrothermally inactive seafloor sulfide de 
+posits geomicrobiol j – 
+
+ uroz s turpault mp delaruelle c mareschal l pierrat jc frey 
+klett p minerals affect the specific diversity of forest soil
+bacterial communities geomicrobiol j – 
+
+ bennett pc rogers jr choi wj hiebert fk silicates 
+silicate weathering and microbial ecology geomicrobiol j 
+ – 
+
+ borrok dm fein jb the impact of ionic strength on the
+adsorption of protons pb cd and sr onto the surfaces of gram
+negative bacteria testing non electrostatic diffuse and triple layer
+models j colloid interface sci – 
+
+ scholl ma mills al herman js hornberger gm the
+influence of mineralogy and solution chemistry on the attachment
+of bacteria to representative aquifer materials j contam hydrol
+ – 
+
+ yee n fein jb daughney cj experimental study of the ph 
+ionic strength and reversibility behavior of bacteria–mineral ad 
+sorption geochim cosmochim acta – 
+
+ santillan eu kirk mf altman sj bennett pc mineral
+influence on microbial survival during carbon sequestration 
+geomicrobiol j – 
+
+ uroz s turpault mp van scholl l palin b frey klett p 
+long term impact of mineral amendment on the distribution of the
+mineral weathering associated bacterial communities from the
+beech scleroderma citrinum ectomycorrhizosphere soil biol
+biochem – 
+
+ uroz s tech jj sawaya na frey klett p leveau jhj 
+structure and function of bacterial communities in ageing soils 
+insights from the mendocino ecological staircase soil biol
+biochem – 
+
+ calvaruso c turpault mp leclerc e ranger j garbaye j uroz s 
+frey klett p influence of forest trees on the distribution of
+mineral weathering associated bacterial communities of the
+
+minerals activate specific bacteria 
+
+http cc oulu fi ejarioksa 
+http cc oulu fi ejarioksa 
+
+
+scleroderma citrinum mycorrhizosphere appl environ microbiol
+ – 
+
+ ahmed e holmström sj siderophores in environmental
+research roles and applications microb biotechnol – 
+
+ akers ha magee kp the repression of siderophore syn 
+thesis by mt st helens’ ash and silicate rock standards cell mol
+life sci – 
+
+ carpenter c payne sm regulation of iron transport systems
+in enterobacteriaceae in response to oxygen and iron availability j
+inorg biochem – 
+
+ page wj huyer m derepression of the azotobacter
+vinelandii siderophore system using iron containing minerals to
+limit iron repletion j bacteriol – 
+
+ l c kelly et al 
+
+
+	mineral 
+	abstract
+	introduction
+	materials and methods
+	soil sampling and inoculum preparation
+	mineral selection
+	microcosm design
+	microcosm supernatant analyses and mineral particle observation
+	bacterial collections and taxonomic characterization
+	functional bioassays
+	microcosm dna extraction and recovery of brdu labeled dna
+	 s rrna gene amplicon pyrosequencing and bioinformatic processing
+	statistical analyses
+	accession numbers
+
+	results
+	chemical analyses of the solution and bacterial population sizes
+	analysis of total and active bacterial communities based on s rrna gene amplicon pyrosequencing
+	functional and taxonomic characterization of culturable bacterial isolates from the microcosms
+
+	discussion
+	conclusion
+	references
+
+
+

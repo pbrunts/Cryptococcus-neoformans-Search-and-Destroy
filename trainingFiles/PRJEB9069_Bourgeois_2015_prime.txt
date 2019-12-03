@@ -1,0 +1,2176 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+miscanthus bioenergy crop stimulates nutrient cycler bacteria and fungi in wastewater contaminated agricultural soil
+
+
+original paper
+
+miscanthus bioenergy crop stimulates nutrient cycler bacteria
+and fungi in wastewater contaminated agricultural soil
+
+emilie bourgeois • samuel dequiedt • mélanie lelièvre • folkert van oort •
+
+isabelle lamy • lionel ranjard • pierre alain maron 
+
+received august accepted september published online october 
+
+� springer international publishing switzerland 
+
+abstract wastewater can be recycled in agricultural soil
+
+as fertilizer to increase crop yields however adding
+
+wastewater induces sometimes ecotoxicological issues
+
+such as pollution by toxic compounds which may lead to
+
+the loss of arable land bioenergy crops such asmiscanthus
+
+ giganteus have been tested to rehabilitate polluted soils 
+
+but the impact of miscanthus on soil microbes is unknown 
+
+here we evaluated the effects of miscanthus cropping on
+
+bacterial and fungal taxonomic composition in a wastew 
+
+ater contaminated soil using synchronic and diachronic
+
+evaluation strategies a year field experiment close to
+
+paris was set up on an agricultural site irrigated by raw
+
+wastewater for more than one century thus resulting in
+
+strong metal and organic contamination soil microbial
+
+taxonomic composition was characterized by direct anal 
+
+ysis of soil dna using metagenomic tools such as 
+
+pyrosequencing of ribosomal genes our results demon 
+
+strate that miscanthus cropping stimulates specific popu 
+
+lations of bacteria such as rhizobiales increased by in
+
+relative abundance nistrospira x azospira x and
+
+gemmatimonas x and fungi glomeromycota x and
+
+mortierella x for fungi noteworthy these microbial
+
+genera are known to be strongly involved in plant sym 
+
+biosis organic matter mineralization and nutrient cycling 
+
+overall our findings show that miscanthus cropping
+
+enhances regeneration of soil microbiological functions
+
+and services in polluted soil by stimulating populations
+
+beneficial for soil fertility and crop production 
+
+keywords soil pollution � microbial diversity �
+miscanthus giganteus � rehabilitation � trace metals
+
+introduction
+
+in france million hectares of soil are used for agri 
+
+culture i e about of the surface area of the french
+
+national territory in these soils to limit intensive farming and
+
+the input of chemical fertilizer alternative strategy has been
+
+developed such as the reuse of raw municipal wastewater for
+
+irrigation to date about of the agricultural land surface
+
+was irrigated with wastewater improving soil fertility and
+
+crop productivity http www agreste agriculture gouv fr 
+
+img pdf primeur pdf however treated urban wastew 
+
+ater may contain humic substances heavy metals pesticides 
+
+products of disinfection industrial contaminants microor 
+
+ganisms inorganic and organic compounds and pharma 
+
+ceuticals and personal care products therefore such
+
+practices often result in ecotoxicological and sanitary prob 
+
+lems due to the high level of accumulation of toxic exogenous
+
+metallic or organic compounds in these soils lamy et al 
+
+ tamtam et al 
+
+as microorganisms are the most ubiquitous diverse and
+
+abundant living organisms in soil and play key role in a
+
+wide range of biogeochemical cycles with agronomic
+
+ lionel ranjard
+lionel ranjard dijon inra fr
+
+pierre alain maron
+
+pamaron dijon inra fr
+
+ inra umr agroecology rue de sully 
+
+ dijon france
+
+ inra umr agroecology plateform genosol rue
+
+de sully dijon france
+
+ inra umr ecosys thivernal grignon 
+
+france
+
+ agroparistech umr ecosys 
+
+ thivernal grignon france
+
+ 
+
+environ chem lett – 
+
+doi s 
+
+http www agreste agriculture gouv fr img pdf primeur pdf
+http www agreste agriculture gouv fr img pdf primeur pdf
+http crossmark crossref org dialog doi s amp domain pdf
+http crossmark crossref org dialog doi s amp domain pdf
+
+
+consequences on soil fertility several studies have inves 
+
+tigated the ecological impact of irrigation with wastewater
+
+on soil microbial communities in certain cases raw
+
+wastewater irrigation stimulated microbial abundance and
+
+diversity demonstrating a positive effect of this practice
+
+ hidri et al contrastingly other studies highlighted
+
+that the high accumulation of trace metals and organic
+
+pollutants could also lead to an alteration of microbial
+
+abundance and important shifts in community diversity and
+
+composition kandeler et al ranjard et al 
+
+with strong repercussions on soil biological functioning
+
+and ecosystem services bååth et al as a conse 
+
+quence soils irrigated with wastewater become unsuit 
+
+able for crop production over several generations due to the
+
+decrease in soil fertility and or hazards of food quality for
+
+human consumption 
+
+in a context of loss of surface area of arable land in
+
+france and more widely in europe due to intensive agri 
+
+culture leading to soil erosion acidification and pollution 
+
+it is now crucial to develop strategy for restoring these soils
+
+by the improvement of their soil biological patrimony in
+
+this context phytoremediation technologies have been
+
+developed during the last decade which consists of
+
+growing plants on polluted soil with an aim to improve
+
+stabilization of the metals in soils or plants and thus
+
+reducing their biological toxicity and depth migration
+
+ pavel et al furthermore plant cover also prevents
+
+bulk erosion and improves soil carbon sequestration which
+
+can further limit the toxicity and vertical transfer of metals 
+
+recently another strategy has been developed to rehabil 
+
+itate agricultural activity on polluted soils the use of plants
+
+for bioenergy production evangelou et al one of
+
+the most used plants for bioenergy crop is the c grass
+
+miscanthus giganteus which is suitable for biofuel crop
+
+in europe lewandowski et al previous studies
+
+have demonstrated that miscanthus crop stimulates posi 
+
+tively the abundance and diversity of soil collombola
+
+ chauvat et al as well as the resident detritivores
+
+and rhizophagous species of soil invertebrates hedde et al 
+
+ few works have investigated its impact on soil
+
+microbial communities 
+
+in a previous study we have demonstrated that planting
+
+giant miscanthus on agricultural soils polluted by a long 
+
+term raw wastewater irrigation modifies microbial com 
+
+munity by stimulating bacterial and fungal diversity in
+
+terms of richness number of species and evenness
+
+ bourgeois et al these first results revealed that the
+
+implantation of bioenergy crop on polluted soil may rep 
+
+resent a good strategy to restore soil microbiological pat 
+
+rimony it is now important to elucidate which microbial
+
+populations are shifted by miscanthus implantation in
+
+order to better understand the functions and more widely
+
+the services that may be subsequently restored 
+
+the aim of this study was to elucidate the effects of
+
+miscanthus giganteus cropping on the indigenous
+
+microbial community composition in a long term con 
+
+taminated soil investigations were carried out on a real 
+
+field location close to paris pierrelaye france which had
+
+been irrigated with raw wastewater for more than
+
+ years these inputs led to the accumulation of a huge
+
+amount of recalcitrant organic matter especially in the soil
+
+surface horizon as well as micropollutants especially zn 
+
+pb cu and cd trace metals lamy et al van oort
+
+et al the short term impact of mxg on microbial
+
+communities was assessed by a synchronic comparative
+
+study of plots planted with giant miscanthus for years
+
+and a plot under a conventional wheat crop system and by
+
+ a diachronic study monitoring bacterial and fungal
+
+community dynamics during year period following the
+
+planting of miscanthus microbial communities were
+
+characterized in terms of bacterial and fungal composition
+
+by identifying the different dominant taxonomic groups by
+
+high throughput sequencing pyrosequencing of
+
+ribosomal genes s rrna for bacteria and s rrna for
+
+fungi we hypothesized that miscanthus crops may restore
+
+the soil biological functioning through the stimulation of
+
+microbial populations involved in close direct interactions
+
+with plants i e symbiosis and in nutrient cycling by
+
+providing new soil habitats and less recalcitrant organic
+
+matter leading to an increase in soil fertility and plant
+
+productivity in polluted soils 
+
+materials and methods
+
+experimental site history and soil sampling design
+
+studies were conducted on a field site close to paris within
+
+a ha wide agricultural area at pierrelaye france 
+latitude � n longitude � e the soils at this site
+are sandy textured classified as orthic and albic luvisols
+
+ iuss working group wrb for more than a cen 
+
+tury they have been used for market gardening and irri 
+
+gated with raw wastewater from the urban paris in order to
+
+increase the organic quality of this soil by supplying c n 
+
+and k inputs however they also led to the accumulation
+
+of recalcitrant organic matter dissolved salts carbonates 
+
+phosphates and metallic pollutants in the surface horizon
+
+of the soil lamy et al van oort et al as a
+
+consequence the spreading of raw wastewater was finally
+
+stopped in the early s and the market gardening was
+
+prohibited to promote cereal cropping and to introduce
+
+bioenergy crops especially the c grass miscanthus 
+
+giganteus the experimental site in this agricultural area
+
+was composed of three plots bourgeois et al the
+
+first p m was implanted with miscanthus crop
+
+ environ chem lett – 
+
+ 
+
+
+
+ english cultivar from novabiom� france in the
+second p m was under an annual crop system
+
+ tillage and crop rotations of wheat sorghum triticale and
+
+maize in and the third p plot m was
+
+planted with mxg in english cultivar from nov 
+
+abiom� france 
+the impact of miscanthus giganteus perennial crop 
+
+ping on microbial communities was assessed by a a
+
+skermanella 
+iamia 
+planctomycetes 
+geothrix 
+gaiella 
+haliangium 
+terrimonas 
+rhodobium 
+ferruginibacter 
+kribella 
+bradyrhizobium 
+massilia 
+sphingomonas 
+desulfobulbus 
+nitrosococcus 
+pseudomonas 
+pedomicrobium 
+hyphomicrobium 
+bacillus 
+nitrospira 
+azospira 
+flexibacter 
+burkholderia 
+gemmatimonas 
+rhodoplanes 
+steroidobacter 
+holophaga 
+
+glomerella 
+hypocrea 
+candida 
+myrothecium 
+metarhizium 
+shiraia 
+sistotrema 
+phoma 
+bionectria 
+cryptococcus 
+coniochaeta 
+fusarium 
+plectosphaerella 
+chaetomium 
+capronia 
+mortierella 
+
+relative abundance a relative abundance b
+
+kribbella 
+haliangium 
+planctomyces 
+nitrosococcus 
+desulfobulbus 
+mesorhizobium 
+pseudomonas 
+flavobacterium 
+bradyrhizobium 
+gaiella 
+flavisolibacter 
+sphingomonas 
+massilia 
+devosia 
+roseiflexus 
+rhodobium 
+burkholderia 
+bacillus 
+azospira 
+terrimonas 
+gemmatimonas 
+ferruginibacter 
+pedomicrobium 
+flexibacter 
+hyphomicrobium 
+nitrospira 
+rhodoplanes 
+steroidobacter 
+holophaga 
+
+c relative abundance 
+
+leptosphaeria 
+exophiala 
+myrothecium 
+hypocrea 
+glomerella 
+cladosporium 
+sistotrema 
+penicillium 
+phoma 
+bionectria 
+cryptococcus 
+capronia 
+plectosphaerella 
+chaetomium 
+coniochaeta 
+fusarium 
+mortierella 
+
+d relative abundance 
+
+fig relative abundance of
+both dominant a bacterial and
+b fungal genera relative
+abundance in microbial
+community under miscanthus
+
+crop p and annual wheat crop
+
+system p and of both
+
+dominant c bacterial and
+d fungal genera relative
+abundance in p 
+microbial communities for years
+
+ and 
+
+environ chem lett – 
+
+ 
+
+
+
+synchronic comparative analysis of the microbial com 
+
+munities in the p and p plots in and b a dia 
+
+chronic study in p by monitoring the microbial
+
+communities during a year period of miscanthus growth
+
+following its planting in bourgeois et al all
+
+samples were taken at a depth of – cm five replicates
+
+were collected from p and p in march for the
+
+synchronic study and from p in march and
+
+ for the diachronic study the soils were sieved
+
+ mm lyophilized at �c and stored at �c 
+major physic and geochemical characteristics ph texture 
+
+and trace elements were determined by the soil analysis
+
+laboratory at inra arras france according to standard
+
+international procedures table 
+
+microbial taxonomic inventory
+
+pyrosequencing of s and s rrna gene sequences
+
+microbial dna was extracted from g of each soil sample
+
+after careful quartering using a single procedure stan 
+
+dardized by the genosol platform inra dijon france 
+
+terrat et al bacterial composition was estimated by
+
+ pyrosequencing of the s rrnav v gene region
+
+as described by terrat et al the gene fragment
+
+ about bp was first amplified by using the primers
+
+f and r then a second pcr was run on purified
+
+pcr products from the first pcr using based pair
+
+multiplex identifiers mid added to the primers at 
+
+position to specifically identify each sample similarly 
+
+fungal composition was estimated by pyrosequencing
+
+of the s rrna a gene fragment of about bp was
+
+first amplified using the primers fr and ff then a
+
+second pcr was run on purified pcr products from the
+
+first pcr using based pair multiplex identifiers mid 
+
+added to the primers at position the pcr products were
+finally purified and pyrosequencing was then carried out on
+
+a gs junior roche sequencing system 
+
+bioinformatics analysis
+
+a bioinformatics analysis was done using the gns pipe of
+
+the genosol platform as described by terrat et al 
+
+first all the s and s raw reads were sorted according
+
+to the multiplex identifier sequences the raw reads were
+
+then filtered and deleted based on a their length b their
+
+number of ambiguities ns c and their primer s se 
+
+quence s a perl program was then applied for rigorous
+
+dereplication i e clustering of strictly identical sequen 
+
+ces the dereplicated reads were then aligned using
+
+infernal alignment and clustered into operational taxo 
+
+nomic units otu using a perl program that groups rare
+
+reads to abundant ones and does not count differences in t
+a
+
+b
+le
+
+ 
+p
+h
+y
+si
+co
+ch
+em
+
+ic
+al
+
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+an
+d
+co
+n
+ce
+n
+tr
+at
+io
+n
+o
+f
+tr
+ac
+e
+m
+et
+al
+
+el
+em
+
+en
+ts
+
+in
+st
+u
+d
+ie
+d
+so
+il
+s
+ 
+–
+ 
+ 
+cm
+
+ 
+
+y
+ea
+r
+
+c
+la
+y
+
+s
+il
+t
+
+s
+an
+d
+
+o
+rg
+ 
+c
+
+t
+o
+t 
+n
+
+c
+ n
+
+p
+h
+
+c
+ac
+
+o
+ 
+
+f
+e
+
+z
+n
+
+p
+b
+
+c
+u
+
+c
+d
+
+g
+ k
+g
+
+g
+ k
+g
+
+m
+g
+ k
+g
+
+p
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+±
+
+ 
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+ 
+
+±
+ 
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+p
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+p
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ environ chem lett – 
+
+ 
+
+
+
+homopolymer lengths a filtering step was then carried out
+
+to check all single singletons reads detected only once and
+
+not clustered which might be artifacts such as pcr chi 
+
+meras based on the quality of their taxonomic assign 
+
+ments finally in order to compare the datasets efficiently
+
+and avoid biased community comparisons the retained
+
+reads were homogenized by random selection closed to the
+
+lowest dataset the retained high quality reads for
+
+bacteria and for fungi were used for taxonomy based
+
+analysis using similarity approaches against dedicated
+
+reference databases from silva version r using the
+
+embl taxonomy the raw datasets are available on the
+
+ebi database system under project accession number
+
+prjeb 
+
+statistical analyses
+
+for the synchronic study the bacterial and fungal com 
+
+munity structures of soil samples from p and p were
+
+characterized using bray–curtis distances calculated from
+
+the matrix of otu non metric multi dimensional scaling
+
+ nmds was applied to graphically depict differences
+
+between microbial communities analysis of similarity
+
+ anosim permutations was used to test the signif 
+
+icance of the observed clustering of samples on the ordi 
+
+nation plot according to land use for the diachronic study 
+
+the bacterial and fungal community structures of these soil
+
+samples for the years and were charac 
+
+terized using bray–curtis distances calculated from the
+
+otu’s matrix non metric multi dimensional scaling
+
+ nmds was applied under r software to graphically
+
+depict any differences between these bacterial and fungal
+
+communities analysis of similarity anosim per 
+
+mutations was used to test the significance of the observed
+
+clustering of samples on the ordination plot according to
+
+the year of experiment 
+
+results and discussion
+
+on the pierrelaye site irrigation with wastewater led to an
+
+important accumulation of recalcitrant organic matter high
+
+c n ratio between and and metal elements which
+
+was previously described by lamy et al table 
+
+in a previous study we have designed synchronic and
+
+diachronic studies to demonstrate a positive effect of
+
+miscanthus crop on the bacterial and fungal diversity in
+
+terms of number of taxons and evenness bourgeois et al 
+
+ the goal of the present work is to identify precisely
+
+the bacterial and fungal populations stimulated by mis 
+
+canthus crop and to deduce the microbial functions that
+
+may be potentially restored 
+
+influence of wastewater irrigation on soil
+
+microbiological composition
+
+detailed analysis of the bacterial composition in the dif 
+
+ferent plots revealed similar patterns of population struc 
+
+ture dominated by genera such as pedomicrobium 
+
+hyphomicrobium massilia and flavisolibacter known to
+
+be resistant to heavy metals or organic micropollutants and
+
+characteristic of contaminated soils fig a c girvan
+
+et al hong et al moreover bacteria
+
+belonging to the genus holophaga relative abundance
+
+from to are known to be involved in sulfide
+
+methylation of metals and polycyclic aromatic hydrocar 
+
+bon degradation rosenzweig et al whereas those
+
+belonging to genus steroidobacter from to are
+
+involved in hormone degradation fahrbach et al 
+
+fungal communities were also impacted by organic matter
+
+quality and the historical site pollution the fungal com 
+
+munity in all plots was dominated by genera belonging to
+
+the phylum ascomycota with coniochaeta fusarium and
+
+chaetomium which are known to be metal tolerant
+
+ fig b d iram et al however fungi from the
+
+phylum basidiomycota were also well represented from 
+
+to data not shown and these fungi are known to
+
+thrive in forest soils because of their ability to degrade
+
+recalcitrant organic matter with a high c n ratio and lignin
+
+content baldrian and snajdr consequently the
+
+prevalence of such populations in the wastewater contam 
+
+inated soils can be explained by the high recalcitrance of
+
+soil organic matter observed in the studied plots 
+
+response of microbial community composition
+
+to miscanthus crop
+
+the short term synchronic comparison of bacterial com 
+
+munity taxonomic composition under the year perennial
+
+crop as compared to the conventional cropping plot p 
+
+revealed no significant modifications anosim signifi 
+
+cance fig a these results were in accordance
+
+with those obtained previously at this site with soil bacte 
+
+rial diversity richness and evenness bourgeois et al 
+
+a closer examination of the relative abundance of bacterial
+
+taxa revealed only a slight increase in rhizobiales order
+
+represented by the stimulation of genus burkholderia under
+
+miscanthus crops about relative abundance for p 
+
+samples compared to relative abundance for p 
+
+soils fig a bacteria belonging to this genus are repor 
+
+ted to be root linked metal tolerant and also involved in n
+
+and c cycling through their strong catabolic versatility and
+
+lytic abilities which enables them to degrade a wide range
+
+of c compounds including various biomacromolecules
+
+ suárez moreno et al all these attributes suggest a
+
+environ chem lett – 
+
+ 
+
+
+
+restoration of plant–microbe interactions and organic mater
+
+mineralization leading to a stimulation of crop biomass
+
+production not only by enhancing soil fertility but also by
+
+increasing plant metal tolerance guo et al 
+
+concerning fungal s rrna gene sequencing signifi 
+
+cant shifts in fungal taxonomic composition occurred
+
+between annual and perennial cropping anosim signif 
+
+icance fig b this observation was in agree 
+
+ment with previous results revealing a positive effect of
+
+miscanthus crop on fungal community diversity richness
+
+ bourgeois et al more precisely fungi belonging to
+
+the genus mortierella were increased under the miscanthus
+
+crop for p compared with for p fig b 
+
+these fungi are highly opportunistic and are known to
+
+degrade fresh organic matter thus providing readily
+
+available nutrients for plants and organisms tardy et al 
+
+ showed that mortierellaceae proliferate during the
+
+initial phase of crop litter decomposition due to their rapid
+
+growth on simple organic matter in our case the stimu 
+
+lation of mortierella may reflect an increase in easily
+
+decomposable c substrates in the soil consistent with an
+
+enhanced release of root exudates by the perennial mis 
+
+canthus crop finally the phylum glomeromycota was also
+
+more prevalent under miscanthus crop than under the
+
+conventional crop system relative abundance for p 
+
+compared to for p data not shown these arbus 
+
+cular mycorrhizal fungi live in symbiosis with plants
+
+through their root systems providing a higher intake of
+
+nutrients for plant growth with a direct impact on crop
+
+productivity and also a higher resistance against soil
+
+pathogens smith and read 
+
+our synchronic study demonstrated that years of
+
+miscanthus perennial cropping had no significant impact
+
+on the bacterial community but led to a shift in fungal
+
+community diversity and composition such discrepancy
+
+may reflect that perennial miscanthus cropping is also
+
+associated with halting of agricultural practices such as
+
+tillage known to affect mainly fungal communities the
+
+stimulation of root associated genera suggests that mis 
+
+canthus cropping is beneficial to the re establishment of
+
+ecological interactions between plant and soil communities
+
+in contaminated soils which could in turn provide potential
+
+advantages for plant growth and crop production 
+
+dynamics of microbial composition
+
+during the implantation of miscanthus crop
+
+diachronic monitoring was carried out in the p plot 
+
+planted with giant miscanthus from to to fol 
+
+low the dynamics of soil microbial taxonomic composition 
+
+during this period similarity analyses of the bacterial
+
+taxonomic composition revealed significant differences
+
+between and and between and 
+
+ p fig a from to the relative
+
+abundance of nitrospira bacteria increased in 
+
+compared with in figs c these nitrite ox 
+
+idizing bacteria play an important role in nitrogen turnover
+
+and availability dionisi et al which is of major
+
+importance at this site where the organic matter is rather
+
+recalcitrant c n up to and nitrogen poorly available 
+
+as nitrogen availability is often a limiting factor for plant
+
+growth and controls key aspects of the carbon cycle
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nmds 
+
+nmds 
+
+p 
+p 
+
+stress 
+anosim significance 
+
+a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nmds 
+
+nmds 
+
+shiraia
+
+coniochaeta
+
+plectosphaerella
+
+mortierella
+
+ascomycota
+
+basidiomycota
+
+glomeromycota
+
+neocallimastigomycota
+
+p 
+
+p 
+
+b
+
+stress 
+anosim significance 
+
+fig non metric multi dimensional scaling nmds ordination
+plots derived from bray–curtis distances calculated from the matrix
+
+of a bacterial and b fungal otu taxons for p plot and p plots the
+stress values for all plots were lower than which indicates that
+
+these data were well represented by the two dimensional represen 
+
+tation vectors in the bi plot overlay were constructed from a matrix
+
+containing the relative abundances of microbial phyla and genera
+
+recovered in more than only correlations b were included
+
+for bacteria and fungi the angle and length of the vector indicate the
+
+direction and strength of the variable
+
+ environ chem lett – 
+
+ 
+
+
+
+ gruber and galloway an increase in these bacteria
+
+could lead to a higher availability of nutrients for other
+
+organisms and for crop production from to 
+
+important decreases in the relative abundance of genera
+
+characteristic of polluted soils such as sulfophobococcus
+
+ belonging to the archaea and generally found in anaerobic
+
+treatments of wastewater and flavisolibacter common
+
+dominant genus in soils heavily polluted with metals were
+
+observed whereas other were increased such as
+
+gemmatimonas ± in compared with
+
+± in burkholderia ± in com 
+
+pared with ± in azospira ± in 
+
+compared with ± in and bradyrhizobium
+
+ ± in compared with ± in 
+
+fig c all these genera are also involved in organic
+
+matter mineralization and the nitrogen cycle in addition 
+
+both burkholderia and bradyrhizobium live in the close
+
+vicinity of plant roots with which they have strong inter 
+
+actions suárez moreno et al guo et al 
+
+bottomley et al as previously revealed by the
+
+synchronic study the identity of the stimulated populations
+
+indicate that miscanthus cropping may help to restore soil
+
+ecological quality by re establishing biotic interactions
+
+between the plant and the soil microbial community and by
+
+re initiating the transformations of the c and n cycles 
+
+nmds analysis of the fungal sequence datasets showed
+
+that no significant differences in community composition
+
+occurred between and anosim
+
+p fig b however slight modifications did
+
+appear in highlighting a tendency for the relative
+
+abundance of the phylum ascomycota to increase under
+
+miscanthus crop compared with in
+
+ data not shown the increase in this phylum resulted
+
+from the stimulation of saprotrophic genera belonging to
+
+plectosphaerella capronia and penicillium which are
+
+known to benefit from inputs of fresh and easily degradable
+
+organic matter such as that provided by giant miscanthus
+
+cropping with time fig d allen et al baldrian
+
+et al this observed stimulation in of as 
+
+comycota fungi a phylum known to be prevalent on non 
+
+polluted agricultural soils could reflect an increase in
+
+fungal activity associated with organic matter mineraliza 
+
+tion and therefore indicate a renewed rehabilitation of
+
+biological activity and fertility in these polluted soils
+
+ lienhard et al 
+
+the synchronic and diachronic evaluations of the effect
+
+of miscanthus bio energy cropping on the microbial com 
+
+munity in a long term wastewater contaminated site high 
+
+lighted positive effects on microbial community
+
+composition and soil biological quality the shifts in
+
+microbial composition resulted systematically from the
+
+stimulation of populations involved in plant root associa 
+
+tion and in nutrient cycling this suggests that miscanthus
+
+crop may induce a restart of biotic interactions between
+
+plants and organisms as well as of organic matter miner 
+
+alization and nitrogen cycle this shift in community
+
+composition could lead to the improvement in soil organic
+
+matter turnover which is low in these soils due to the high
+
+c n ratio and therefore to an increased release of nutrients
+
+necessary for plant growth and microbial activity our
+
+results demonstrate that planting a perennial miscanthus
+
+bio energy crop on contaminated soils may be considered
+
+stress 
+anosim significance 
+
+a
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nmds 
+
+nmds 
+
+ 
+
+sulfophobococcus
+
+bradyrhizobium
+
+haliangium
+
+flavisolibacter
+
+roseiflexus
+
+burkholderia
+
+gemmatimonas
+
+nitrospira
+
+holophaga
+
+ 
+
+ 
+
+stress 
+anosim significance 
+
+b
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nmds 
+
+nmds 
+
+phoma
+chaetomium
+
+mortierella
+
+chytridiomycota
+
+ascomycota
+
+ 
+
+ 
+
+ 
+
+fig non metric multi dimensional scaling nmds ordination
+plots derived from bray–curtis distances calculated from the matrix
+
+of a bacterial and b fungal out taxons for the p plots for years
+ and the stress values for all plots were lower than
+
+ which indicates that these data were well represented by the two 
+
+dimensional representation vectors in the bi plot overlay were
+
+constructed from a matrix containing the relative abundances of
+
+microbial genera recovered in more than only correlations
+
+b were included for bacteria and fungi the angle and length of
+
+the vector indicate the direction and strength of the variable
+
+environ chem lett – 
+
+ 
+
+
+
+as a good strategy for the rehabilitation of polluted sites
+
+and their subsequent agricultural use 
+
+acknowledgments this work was partly supported by an anr 
+cesa grant for the resacor project from the french national
+
+research agency the authors thank b brouant chambre
+
+interdépartementale d’agriculture d’ile de france for the setup of
+
+miscanthus plots mr leconte farmer for the setup of other cropping
+
+systems and providing easy access and j p pétraud inra umr
+
+ for marking and maintenance of the experimental site this
+
+work through the involvement of technical facilities of the genosol
+
+platform of the infrastructure anaee france received a grant from
+
+the french state through the national agency for research under the
+
+program ‘‘investments for the future’’ reference anr inbs 
+
+ as well as a grant from the regional council of burgundy 
+
+references
+
+allen tr millar t berch sm berbee ml culturing and
+
+direct dna extraction find different fungi from the same ericoid
+
+mycorrhizal roots new phytol – doi j 
+
+ x
+
+bååth e dı́az raviña m frostegård a campbell cd effect
+
+of metal rich sludge amendments on the soil microbial commu 
+
+nity appl environ microbiol – 
+
+baldrian p snajdr j production of ligninolytic enzymes by
+
+litter decomposing fungi and their ability to decolorize synthetic
+
+dyes enzyme microb technol – doi j 
+
+enzmictec 
+
+baldrian p vořı́šková j dobiášová p merhautová v lisá l 
+
+valášková v production of extracellular enzymes and
+
+degradation of biopolymers by saprotrophic microfungi from the
+
+upper layers of forest soil plant soil – doi 
+
+s 
+
+bottomley pj cheng hh strain sr genetic structure and
+
+symbiotic characteristics of a bradyrhizobium population recov 
+
+ered from a pasture soil appl environ microbiol – 
+
+bourgeois e dequiedt s lelièvre m van oort f lamy i maron pa 
+
+ranjard l positive effect of the miscanthus bioenergy
+
+crop on microbial diversity in wastewater contaminated soil 
+
+environ chem lett doi s 
+
+chauvat m perez g hedde m lamy i establishment of
+
+bioenergy crops on metal contaminated soils stimulates below 
+
+ground fauna biomass bioenergy – doi j 
+
+biombioe 
+
+dionisi hm layton ac harms g gregory ir robinson kg sayler
+
+gs quantification of nitrosomonas oligotropha like
+
+ammonia oxidizing bacteria and nitrospira spp from full scale
+
+wastewater treatment plants by competitive pcr appl environ
+
+microbiol – doi aem 
+
+evangelou mwh conesa hm robinson bh schulin r 
+
+biomass production on trace element contaminated land a
+
+review environ eng sci – doi ees 
+
+fahrbach m kuever j remesch m huber be kämpfer p dott w 
+
+hollender j steroidobacter denitrificans gen nov sp 
+
+nov a steroidal hormone degrading gammaproteobacterium int
+
+j syst evol microbiol – doi ijs 
+
+girvan ms campbell cd killham k prosser ji glover la 
+
+bacterial diversity promotes community stability and functional
+
+resilience after perturbation environ microbiol – 
+
+doi j x
+
+gruber n galloway jn an earth system perspective of the
+
+global nitrogen cycle nature – doi 
+
+nature 
+
+guo j tang s ju x ding y liao s song n effects of
+
+inoculation of a plant growth promoting rhizobacterium
+
+burkholderia sp d on plant growth and metal uptake by a
+
+hyperaccumulator sedum alfredii hance grown on multiple
+
+metal contaminated soil world j microbiol biotechnol
+
+ – doi s y
+
+hedde m van oort f renouf e thénard j lamy i dynamics
+
+of soil fauna after plantation of perennial energy crops on
+polluted soils appl soil ecol – doi j apsoil 
+
+ 
+
+hidri y bouziri l maron pa anane m jedidi n hassan a ranjard
+
+l soil dna evidence for altered microbial diversity after
+
+long term application of municipal wastewater agron sustain
+
+dev – doi agro 
+
+hong c si y xing y li y illumina miseq sequencing
+
+investigation on the contrasting soil bacterial community struc 
+
+tures in different iron mining areas environ sci pollut res 
+
+doi s 
+
+http www agreste agriculture gouv fr img pdf primeur pdf
+
+iram s ahmad i stuben d analysis of mines and
+
+contaminated agricultural soil samples for fungal diversity and
+
+tolerance to heavy metals pak j bot – 
+
+kandeler e kampichler c horak o influence of heavy metals
+
+on the functional diversity of soil microbial communities biol
+
+fertil soils – doi bf 
+
+lamy i van oort f dère c baize d use of major and trace 
+
+element correlations to assess metal migration in sandy luvisols
+
+irrigated with wastewater eur j soil sci – doi 
+
+ j x
+
+lewandowski i scurlock jmo lindvall e christou m the
+
+development and current status of perennial rhizomatous grasses
+
+as energy crops in the us and europe biomass bioenergy
+
+ – doi s 
+
+lienhard p terrat s chemidlin prévost bouré n nowak v régnier
+
+t sayphoummie s panyasiri k tivet f mathieu o levêque j 
+
+maron pa ranjard l pyrosequencing evidences the
+
+impact of cropping on soil bacterial and fungal diversity in laos
+
+tropical grassland agron sustain dev – doi 
+
+s 
+
+pavel p b puschenreiter m wenzel ww diacu e horia barbu c
+
+ aided phytostabilization using miscanthus sinensis gi 
+
+ganteus on heavy metal contaminated soils sci total environ
+
+ – – doi j scitotenv 
+
+ranjard l lignier l chaussod r cumulative effects of short 
+
+term polymetal contamination on soil bacterial community
+
+structure appl environ microbiol – doi 
+
+aem 
+
+rosenzweig n bradeen jm tu zj mckay sj kinkel ll 
+
+rhizosphere bacterial communities associated with long lived
+
+perennial prairie plants vary in diversity composition and structure 
+
+can j microbiol – doi cjm 
+
+smith se read dj mycorrhizal symbiosis academic press 
+
+san diego
+
+suárez moreno zr caballero mellado j coutinho bg mendonça 
+
+previato l james ek venturi v common features of
+
+environmental and potentially beneficial plant associated
+
+burkholderia microb ecol – 
+
+tamtam f van oort f lebot b dinh mompelat s chevreuil m 
+
+lamy i thiry m assessing antibiotic contamination in
+
+metal contaminated soils four years after cessation of long term
+
+waste water irrigation sci total environ – doi 
+
+ j scitotenv 
+
+tardy v chabbi a charrier x de berranger c reignier t dequiedt
+
+s faivre primot c terrat s ranjard l maron pa land
+
+use history shifts in situ fungal and bacterial successions
+
+following wheat straw input into the soil plos one e 
+
+ environ chem lett – 
+
+ 
+
+http dx doi org j x
+http dx doi org j x
+http dx doi org j enzmictec 
+http dx doi org j enzmictec 
+http dx doi org s 
+http dx doi org s 
+http dx doi org s 
+http dx doi org j biombioe 
+http dx doi org j biombioe 
+http dx doi org aem 
+http dx doi org ees 
+http dx doi org ijs 
+http dx doi org j x
+http dx doi org nature 
+http dx doi org nature 
+http dx doi org s y
+http dx doi org j apsoil 
+http dx doi org j apsoil 
+http dx doi org agro 
+http dx doi org s 
+http www agreste agriculture gouv fr img pdf primeur pdf
+http dx doi org bf 
+http dx doi org j x
+http dx doi org j x
+http dx doi org s 
+http dx doi org s 
+http dx doi org s 
+http dx doi org j scitotenv 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org cjm 
+http dx doi org j scitotenv 
+http dx doi org j scitotenv 
+
+
+terrat s christen r dequiedt s lelièvre m nowak v regnier t 
+
+bachar d plassart p wincker p jolivet c bispo a lemanceau
+
+p maron pa mougel c ranjard l molecular biomass
+
+and metataxogenomic assessment of soil microbial communi 
+
+ties as influenced by soil dna extraction procedure microb
+
+biotechnol – doi j x
+
+van oort f jongmans ag lamy i baize d chevallier p 
+
+impacts of long term waste water irrigation on the development
+
+of sandy luvisols consequences for metal pollutant distribu 
+
+tions eur j soil sci – doi j 
+
+ x
+
+environ chem lett – 
+
+ 
+
+http dx doi org j x
+http dx doi org j x
+http dx doi org j x
+
+	miscanthus bioenergy crop stimulates nutrient cycler bacteria and fungi in wastewater contaminated agricultural soil
+	abstract
+	introduction
+	materials and methods
+	experimental site history and soil sampling design
+	microbial taxonomic inventory
+	pyrosequencing of s and s rrna gene sequences
+	bioinformatics analysis
+
+	statistical analyses
+
+	results and discussion
+	influence of wastewater irrigation on soil microbiological composition
+	response of microbial community composition to miscanthus crop
+	dynamics of microbial composition during the implantation of miscanthus crop
+
+	acknowledgments
+	references
+
+
+
+
+

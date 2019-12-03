@@ -1,0 +1,1657 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shifts in microbial diversity through land use intensity as drivers of carbon mineralization in soil
+
+
+lable at sciencedirect
+
+soil biology biochemistry e 
+contents lists avai
+soil biology biochemistry
+
+journal homepage www elsevier com locate soi lbio
+shifts in microbial diversity through land use intensity as drivers of
+carbon mineralization in soil
+
+vincent tardy a aym�e spor a olivier mathieu c jean l�ev�eque c s�ebastien terrat b 
+pierre plassart a tiffanie regnier a richard d bardgett d wim h van der putten e f 
+pier paolo roggero g h giovanna seddaiu h simonetta bagella h i philippe lemanceau a 
+lionel ranjard a b pierre alain maron a b 
+
+a inra umr agroecology dijon france
+b inra plateforme genosol umr agroecology dijon france
+c umr universit�e de bourgogne biog�eosciences dijon france
+d faculty of life sciences michael smith building the university of manchester oxford road manchester m pt uk
+e netherlands institute of ecology department of terrestrial ecology po box ab wageningen the netherlands
+f laboratory of nematology wageningen university po box es the netherlands
+g dipartimento di agraria university of sassari viale italia i sassari italy
+h nucleo di ricerca sulla desertificazione university of sassari viale italia i sassari italy
+i dipartimento di scienze della natura e del territorio university of sassari via piandanna i sassari italy
+a r t i c l e i n f o
+
+article history 
+received june 
+received in revised form
+ july 
+accepted august 
+available online august 
+
+keywords 
+biodiversity
+carbon cycling
+ecosystem functioning
+land use
+ corresponding author inra umr agroecolo
+france 
+
+e mail address pierre alain maron dijon inra fr 
+
+http dx doi org j soilbio 
+ © elsevier ltd all rights reserved 
+a b s t r a c t
+
+land use practices alter the biomass and structure of soil microbial communities however the impact of
+land management intensity on soil microbial diversity i e richness and evenness and consequences for
+functioning is still poorly understood here we addressed this question by coupling molecular charac 
+terization of microbial diversity with measurements of carbon c mineralization in soils obtained from
+three locations across europe each representing a gradient of land management intensity under
+different soil and environmental conditions bacterial and fungal diversity were characterized by high
+throughput sequencing of ribosomal genes carbon cycling activities i e mineralization of autochtho 
+nous soil organic matter mineralization of allochthonous plant residues were measured by quantifying
+ c and c co release after soils had been amended or not with
+
+ c labelled wheat residues vari 
+ation partitioning analysis was used to rank biological and physicochemical soil parameters according to
+their relative contribution to these activities across all three locations microbial diversity was greatest
+at intermediate levels of land use intensity indicating that optimal management of soil microbial di 
+versity might not be achieved under the least intensive agriculture microbial richness was the best
+predictor of the c cycling activities with bacterial and fungal richness explaining and of the
+intensity of autochthonous soil organic matter mineralization and fungal richness explaining of the
+intensity of wheat residues mineralization altogether our results provide evidence that there is scope
+for improvement in soil management to enhance microbial biodiversity and optimize c transformations
+mediated by microbial communities in soil 
+
+© elsevier ltd all rights reserved 
+ introduction
+
+in recent decades human societies have adopted policies for
+land use intensification based on the conversion of complex natural
+gy rue sully dijon 
+
+p a maron 
+ecosystems into simplified managed ecosystems intensification of
+resource use through the mechanization of agricultural practices 
+and increased use of inputs such as fertilizers and pesticides
+ tscharntke et al dallimer et al this was originally
+motivated by the need to improve production to meet growing
+demands for food however it also led to profound alterations of
+the soil physicochemical properties as well as of above ground and
+below ground biodiversity giller et al thiele bruhn et al 
+
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+delta surname
+delta given name
+mailto pierre alain maron dijon inra fr
+http crossmark crossref org dialog doi j soilbio domain pdf
+www sciencedirect com science journal 
+http www elsevier com locate soilbio
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+
+
+v tardy et al soil biology biochemistry e 
+ bagella et al for a long time the development of
+intensive agriculture was not impeded by impairment of biodi 
+versity since the replacement of self regulatory functions driven by
+soil organisms and their links with plants was considered by many
+to be offset by chemical and mechanical inputs this viewpoint 
+however is being challenged by an increasing awareness that the
+sustainability of agricultural systems in terms of their capacity to
+maintain functions and ecosystem services is compromised by the
+disruption of physicochemical and biological soil properties
+ thiele bruhn et al de vries et al this has evidenced
+the need to define new modes of land use management which are
+adapted to the preservation and sustainable use of biodiversity to
+promote the driving of functions by biodiversity and reduce the use
+of chemical and mechanical inputs to attain this objective how 
+ever our ability to predict the effects of agricultural practices on soil
+biodiversity and functioning needs to be improved 
+
+microbial diversity with its hundreds to thousands of taxa per
+gram of soil dominates soil biodiversity torsvik and Øvreås 
+and contributes to key soil functions involved in themaintenance of
+soil fertility and environmental and water quality the impacts of
+increasing land use intensity on soil food webs have been docu 
+mented giller et al bardgett and cook thiele bruhn
+et al de vries et al as have effects on the biomass 
+activity and structure of microbial and faunal communities meyer
+et al tsiafouli et al however effects of land use in 
+tensity on the diversity of soil microbial communities remain
+largely unknown this question needs to be addressed not only
+because of the intrinsic value of microbial diversity in terms of a
+natural patrimony that needs to be preserved but also because
+variations in the “amount” of soil diversity are likely to have sig 
+nificant repercussions in terms of soil nutrient cycling baumann
+et al philippot et al pathogen management vivant
+et al and stability of ecosystem services to environmental
+changes tardy et al recent studies based on estimates of
+the metrics of microbial diversity in terms of richness number of
+species and evenness equality or distribution of individuals in
+samples obtained over gradients of land use intensity suggest that
+microbial diversity may not follow a linear negative relationship to
+land management intensity but instead a hump backed relation 
+ship �alvarez molina et al lai et al with lower values
+at low and high intensity and higher values at moderate intensity
+ acosta martínez et al jangid et al shange et al 
+ however each of these studies focused only on the bacte 
+rial community in a single soil type which limits the applicability of
+the conclusions in addition they did not couple biodiversity mea 
+surements with estimates of soil functioning and the functional
+significance of microbial diversity changes in response to land use
+remains an open question thus new studies are needed to
+improve our knowledge of the patterns of microbial diversity and
+activity response to land management intensity 
+
+the aim of this study was to investigate the impact on microbial
+ bacteria and fungi diversity of changes in land management in 
+tensity in different farming systems and to test how this links to
+transformations of soil organicmatter seddaiu et al amajor
+function driven mostly by fungal and bacterial communities in soil
+ de boer et al for this we sampled soils from three loca 
+tions in different parts of europe each offering a gradient of land
+use intensity and covering a range of environmental conditions 
+the impact of land use on microbial diversity was assessed with a
+meta barcoded pyrosequencing technique targeting ribosomal
+genes terrat et al by generating several thousand se 
+quences this approach provides an accurate estimate of soil mi 
+crobial diversity including assessment of the richness and
+evenness of microbial communities changes in soil respiration
+patterns were measured by monitoring c and c co release
+after the soils had been amended or not with c labelled wheat
+residues to study the response of microbial activity to the incor 
+poration of an allochtonous carbon source in soil baumann et al 
+ lienhard et al the resulting data obtained for mi 
+crobial diversity c mineralisation and soil chemical and physical
+properties were analysed using variation partitioning to rank their
+relative contributions to c mineralization in soil 
+
+ materials and methods
+
+ experimental sites soil sampling and analysis
+
+our study involved sampling soils from three locations across
+europe under mediterranean to temperate bioclimatic conditions 
+each with gradients of soil management intensity low medium
+and high it is important to precise here that since the parameters
+determining the land use intensity level differed greatly between
+the three locations intensity levels were not comparable among
+the locations however as presented below a gradient truly existed
+at each site consequently in this study the sampling strategy
+including these three contrasted locations was designed to identify
+general trends in terms of community response to land use in 
+tensity and not to compare among the locations 
+
+the veluwe chronosequence is located on a � km area
+with post glacial loamy sand in central netherlands and is
+composed of abandoned ex agricultural fields which have been
+abandoned and reverted into semi natural grasslands kardol et al 
+ van der wal et al holtkamp et al the gradient
+of management intensity is based on three individual long term
+abandoned fields abandoned for e years ve low three
+distinct medium term abandoned fields e years ve med and
+three distinct short term abandoned fields e years ve high the
+vegetation at this site consisted of seminatural grass forb vegeta 
+tion with festuca rubra agrostis capillaris jacobaea vulgaris and
+plantago lanceolata as dominant grasses and forbs kardol et al 
+ interestingly compared to the other two locations this
+gradient integrates a strong temporal aspect with the intensity
+being determined more by the time since abandonment referring
+to a high management intensity at the moment of the abandon 
+ment rather than by the actual management intensity all aban 
+doned fields are subject to extensive natural grazing bywild horses 
+deer wild boar and small mammals in order to prevent forest
+development 
+
+the berchidda site is located in the northern hills of sardinia 
+italy and characterized by an agro forest ecosystem under same
+soil and similar topography bagella et al the low intensity
+treatment be low is a semi natural grassland not manured nor
+tilled since at least years emerging from the selective mechan 
+ical cutting of the understory of a cork oak forest to get access for
+the cork harvest the medium intensity treatment be med is a
+wooded grassland e tree cover of cork oaks grazed by
+sheep and periodically cultivated e years to grow annual
+forage crops rossetti et al the high intensity treatment be 
+high consists of intensively managed permanent grassland grazed
+and periodically cultivated e years to grow annual forage crops
+ bagella et al the vegetation at this site was represented by
+cork oak woods of the violo dehnhardtii quercetum suberis asso 
+ciation therophytes were much more abundant than pe 
+rennials mainly represented by hemicriptophytes unpalatable
+species were the most numerous whilst the only excellent forage
+species were lolium rigidum trifolium subterraneum t incarnatum
+and t michelianum bagella et al 
+
+in england a series of mesotrophic grasslands in the yorkshire
+dales national park on the same soils and of similar topography
+were sampled in october soils were sampled from grasslands
+
+
+
+v tardy et al soil biology biochemistry e 
+representing a gradient of management intensity ranging from
+intensively managed species poor grassland yo high grazed and
+receiving kg fertiliser n year to intermediate intensity
+management yo med grazed and receiving e kg fertiliser n
+year to traditionally managed yo low unfertilised extensively
+grazed and cut species rich haymeadow of high conservation
+value bardgett and mcalister de vries et al a at this
+site plant communities of intensively managed grasslands yo 
+high were lolium perenne cynosurus cristatus grassland according
+to the uk national vegetation classification of rodwell 
+whereas intermediate intensity yo med and traditionally
+managed grasslands yo low were sub categories of anthoxanthum
+odoratum geranium sylvaticum grassland 
+
+for all locations and management intensity treatments three
+spatially independent soil samples were taken each sample con 
+sisted of a composite of five soil cores cm diameter taken to a
+depth of cm during autumn for more details on the
+sampling procedure and soil processing see https www youtube 
+com watch v¼ k beinbxec soil samples were sieved to mm 
+one portion of the soil was then stored at �c before being incu 
+bated and another portion was air dried for analysis of physico 
+chemical parameters and lyophilized for analysis of biological
+parameters particle size distribution clay fine silt coarse silt fine
+sand coarse sand ph soil organic carbon soc soil total nitrogen
+ total n soil c n ratio and cation exchange capacity cec were
+determined by the soil analysis laboratory of inra arras france 
+http www lille inra fr las in berchidda veluwe and yorkshire
+dales soil types were respectively haplic cambisol anthrosol and
+luvisol according to the wrb classification at all locations topsoil
+was more than cm depth so there was no mixing with subsoil 
+
+ soil microcosms
+
+microcosms were set up by placing g of equivalent dry soil in
+ ml hermetically sealed plasma flasks these soil microcosms
+were supplemented with sterile water to attain soil water 
+holding capacity after weeks pre incubation at �c the mi 
+crocosms were then either amended with c residues of wheat
+ mg g� of dry weight soil which had been finely ground in a
+bead beater to obtain a powder c n ratio of wheat residues ¼ 
+and c labelling ¼ or were not amended control wheat
+residues were used as “model” c input to assess the response of
+microbial activity to addition of a given quality of plant material in
+all soils although they were not amended with wheat control
+microcosms weremechanically disturbed as amendedmicrocosms 
+in total our experimental design yielded microcosms corre 
+sponding to the locations � levels of intensity � plots 
+level � treatments amended or control � replicates treat 
+ment microcosms were incubated in the dark for days under
+controlled temperature �c and moisture conditions 
+
+ dna extraction and molecular microbial biomass
+determination
+
+at t i e after the pre incubation microbial dnawas extracted
+from g of soil from each triplicate microcosm of each intensity
+level from each location using the iso procedure petric
+et al which had been slightly modified plassart et al 
+ to include a mechanical lysis step using fastprep® 
+instead of the recommended mini bead beater cell disruptor dna
+concentrations of crude extracts were determined by electropho 
+resis in a agarose gel using a calf thymus dna standard curve 
+and used as estimates of microbial molecular biomass dequiedt
+et al after quantification dna was purified using a mine 
+lute gel extraction kit qiagen courtaboeuf france 
+ pyrosequencing of s and s rrna gene sequences
+
+bacterial and fungal diversities were determined at t for the
+three levels of land use intensity for each location triplicates level
+of location by pyrosequencing of ribosomal genes for bacte 
+ria a s rrna gene fragment with sequence variability and the
+appropriate size about bases for pyrosequencing was
+amplified by pcr using the primers f and r for fungi an s
+rrna gene fragment of about bases was amplified using the
+primers fr and ff primers and pcr conditions were as
+described previously tardy et al the pcr products were
+purified using a minelute gel extraction kit qiagen courtaboeuf 
+france and quantified using the picogreen staining kit molecular
+probes paris france a second pcr of cycles was then conducted
+under similar pcr conditions with purified pcr products and ten
+base pair multiplex identifiers added to the primers at position to
+specifically identify each sample and avoid pcr biases finally the
+pcr products were purified and quantified as previously described 
+pyrosequencing was then carried out on a gs flx titanium roche
+ sequencing system 
+
+ bioinformatics analysis of s and s rrna gene sequences
+
+bioinformatic analyses were done using the gns pipe devel 
+oped by the genosol platform inra dijon france and initially
+described by terrat et al first all reads were sorted ac 
+cording to the chosen identifiers sequences the raw reads were
+then filtered and deleted based on their a length b number of
+ambiguities ns and c primer s sequence s we then applied
+perl programs to obtain strict dereplication alignment of reads
+using infernal alignments cole et al and clustered at 
+sequence similarity into operational taxonomic units otu that
+cluster rare reads with abundant ones and do not count differences
+in homopolymer lengths another homemade filtering step was
+then applied to eliminate potential sources of errors e g pcr
+chimeras sequencing errors otu overestimation in order to
+efficiently compare the datasets and avoid biased community
+comparisons the samples reads were reduced by random selection
+closed to the lowest datasets and reads for s and
+ s rrna gene sequences respectively the retained high quality
+reads were used for i taxonomy independent analyses to
+determine simpson shannon and richness diversity indices us 
+ing the defined otu composition and ii taxonomy based analysis
+using similarity approaches against dedicated reference databases
+from silva the simpson indexmeasures the probability that two
+individuals randomly selected from a sample will belong to the
+same species i e same otu in our study for this diversity index 
+the higher the value is the greater the diversity simpson s index
+gives more weight to the more abundant species in a sample the
+addition of rare species to a sample causes only small changes in
+the value of d contrary to the shannon index the raw data sets are
+available on the ebi database system under project accession
+number prjeb 
+
+ total and c co measurements
+
+respired co total and c co was measured after 
+ days of incubation on triplicates of the
+amended and control microcosms at each sampling date the
+gaseous phase headspace in microcosms was sampled in ml
+airtight flasks to measure the co concentration and in ml
+airtight flasks to determine the carbon isotope abundances since
+the microcosms were hermetically sealed and aerated by flushing
+with air at each sampling date the measured concentrations cor 
+responded to the co accumulated in the microcosm headspace
+
+https www youtube com watch v k beinbxec
+https www youtube com watch v k beinbxec
+https www youtube com watch v k beinbxec
+http www lille inra fr las
+
+
+v tardy et al soil biology biochemistry e 
+between two sampling dates the concentration of co in head 
+space gas was measured using an agilent gc system equipped
+with a thermal conductivity detector coupled to an automatic
+sampler agilent g headspace as described previously
+ pascault et al for isotopic co a pure bottle co 
+n air liquide france previously calibrated against a certified
+isotopic standard d c ¼ � ± ‰ vs pdb iso top air liq 
+uide was selected as internal standard gas samples were injected
+into the trace gas with an air gas syringe c labelling of the plant
+residues allowed separation of the soil c rs and plant residue rr 
+respiration mg c co g� soil using the following mass balance
+equations 
+
+rs þ rr ¼ rt and rs � as þ rr � ar ¼ rt � at 
+
+where as is the c abundance regardless of soil carbon ar the
+ c abundance of plant residue rt the total co emitted by soil with
+plant residue and at its c abundance 
+
+the priming effect pe induced by the addition of plant residue
+was calculated as 
+
+pe ¼ ðrs soil with plant residueÞ � ðrs control soilÞ
+
+where rs control soil is the co emitted by the soil in non amended
+microcosms i e basal respiration 
+ statistical analysis
+
+differences in soil microbial communities structure between
+land use systems within a given location and between the locations
+were characterized using unifrac distances lozupone and knight 
+ non metric multidimensional scaling nmds was then
+used to graphically depict differences between soil microbial
+communities the significance of the observed clustering of sam 
+ples on the ordination plot was assessed by an analysis of simi 
+larity anosim permutations 
+
+c mineralization activities and diversity indices richness and
+ simpson were compared between land use management stra 
+tegies in the different locations with a two way anova location
+and management treatment as factors and the differences be 
+tween them by fisher test p physicochemical parameters
+were compared between the levels of management intensity for
+each location with the non parametric kruskalewallis test all
+these analyses were carried out using xlstat software
+ addinsoft® 
+table 
+top soil e cm layer physicochemical parameters according to land use managemen
+
+id
+samplea
+
+clay mm fine silt
+ mm 
+
+coarse silt
+ mm 
+
+fine sand
+ mm 
+
+coarse sand
+ mm 
+
+g kg g kg p kg g kg g kg
+
+ve low ± a ± a ± a ± a ± a 
+ve med ± b ± a ± a ± a ± a 
+ve high ± ab ± a ± a ± a ± a 
+be low ± a ± a ± a ± a ± a 
+be med ± a ± a ± a ± a ± a 
+be high ± a ± a ± a ± a ± a 
+yo low ± ab ± a ± a ± a ± a 
+yo med ± b ± a ± a ± a ± a 
+yo high ± a ± a ± a ± a ± a 
+
+values are means n ¼ ± standard errors 
+a for id sample the samples from veluwe location are represented by ve low long term
+
+ e years and ve high short term abandoned grassland e years the samples
+pasture grazed and periodically e years cultivated to grow annual forage crops and
+annual forage crops the samples from yorkshire dales location are represented by yo low
+high cultivated grassland tillage þ seeding grazed and fertilized for each parameter
+multiple linear regressions were used to determine the abiotic
+and biotic properties significantly affecting the respiration param 
+eters measured in the different locations in total soil physico 
+chemical properties clay fine silt coarse silt fine sand coarse
+sand ph organic carbon total n c n and cec table and biotic
+variables microbial biomass fungal and bacterial diversity indices
+including richness evenness shannon and simpson were
+selected the respiration parameters rt rr pe and rs control were
+obtained from the log transformed areas under the cumulated
+co emission kinetics curves up until days of incubation all the
+explanatory biotic and abiotic variables were checked for collin 
+earity supplementary fig since this can inflate the variance of
+the regression coefficients in the models leading to reduced pre 
+cision in predicting the response variables ramette when
+explanatory variables were strongly correlated the ones to be kept
+in the multiple regression model were selected on the basis of a
+priori knowledge of the experimental system all quantitative
+explanatory variables were transformed by applying boxecox
+transformation prior to the analyses cook and weisberg 
+the significant explanatory variables for each respiration param 
+eter were chosen by backward model selection and by minimizing
+the akaike information criterion aic statistical significance was
+assessed by permutations of the reduced model all these
+analyses were performed with the r free software http www r 
+project org 
+ results
+
+ diversity and composition of bacterial and fungal communities
+
+pyrosequencing yielded a total of and se 
+quences of s and s rdna with an average of and 
+sequences per sample respectively the rarefaction curves of bac 
+terial otus confirmed that our sequencing effort allowed an ac 
+curate description of the bacterial diversity in each soil sample
+ data not shown 
+
+microbial diversity indices richness r and simpson d 
+indices differed significantly with land use intensity at each loca 
+tion fig at veluwe both bacterial and fungal diversity were
+greater in ve med bacterial r ¼ ± d ¼ ± 
+fungal r ¼ ± with ve med ve high ¼ ve low likewise 
+in the yorkshire dales fungal diversity was greatest in the yo med
+sites whereas bacterial diversity increased along the gradient of
+increasing management intensity at berchidda fungal diversity
+t of location 
+
+ph organic
+carbon c 
+
+total n c n cec
+
+e g kg g kg e cmolþ kg
+ ± a ± a ± a ± ab ± a 
+ ± a ± a ± a ± a ± a 
+ ± a ± a ± a ± b ± a 
+ ± b ± a ± a ± b ± a 
+ ± ab ± a ± a ± ab ± a 
+ ± a ± a ± a ± a ± a 
+ ± a ± a ± a ± a ± a 
+ ± a ± a ± a ± a ± a 
+ ± a ± a ± a ± a ± a 
+
+abandoned grassland e years ve med medium term abandoned grassland 
+from berchidda location are represented by be low woodland be med wooded
+be high intensive grassland grazed and periodically e years cultivated to grow
+ natural grassland grazed yo med natural grassland grazed and fertilized and yo 
+
+ the values with different letters differ significantly p 
+
+http www r project org 
+http www r project org 
+
+
+v tardy et al soil biology biochemistry e 
+did not vary significantly between the three intensity levels 
+whereas bacterial diversity estimated using the simpson index 
+was greatest in be med this response was not related to a greater
+bacterial richness but a higher evenness of the bacterial commu 
+nity data not shown 
+
+nmds analysis of the full bacterial and fungal sequences
+datasets enabled the structures of the bacterial and fungal com 
+munities to be discriminated according to location and manage 
+ment intensity fig the main parameter discriminating both
+bacterial and fungal communities was the “location effect” with
+distinct structures observed between the three locations confirmed
+by anosim test r ¼ p ¼ for bacteria and r ¼ 
+p ¼ for fungi the same dominant bacterial and fungal phyla
+were detected in all three locations but the distribution of these
+groups in terms of relative abundance varied according to the
+location actinobacteria firmicutes and basidiomycota were more
+frequent at the berchidda location proteobacteria ascomycota and
+glomeromycota were more abundant at the veluwe location and
+bacteroidetes planctomycetes gemmatimonadetes nitrospirae 
+glomeromycota and chytridiomycota were more abundant in the
+yorkshire dales fig 
+
+land use intensity also significantly impacted the structure of
+bacterial and fungal communities at each site r ¼ p ¼ 
+for bacteria and r ¼ p ¼ for fungi fig we iden 
+tified the bacterial and fungal phyla explaining this discrimination
+by analysing taxonomic composition at the three intensification
+levels for each location fig supplementary table at veluwe 
+discrimination across the gradient of management intensity was
+fig variation of diversity indices represented by bacterial a and fungal b richness r 
+of land use management low medium and high for the three locations veluwe berchidda
+genus level the simpson index measures the probability that two individuals randomly se
+whisker box representation the first q median and third q quartiles are indicated by
+extends to the lowest value of the data set while the top whisker extends to the highest one
+according to the fisher test p 
+mainly explained by an increase in the relative abundance of acti 
+nobacteria from ± to ± and a decrease in the
+relative abundance of planctomycetes from ± to ± 
+and proteobacteria at berchidda the relative importance of acti 
+nobacteria firmicutes nitrospirae and ascomycota increased
+significantly with increasing land management intensity whereas
+that of bacteroidetes proteobacteria verrumicrobia and basidiomy 
+cota decreased in the yorkshire dales the relative abundance of
+actinobacteria and bacteroidetes groups was greatest at intermedi 
+ate levels of management intensity 
+
+ impact of land use management on carbon mineralization
+
+each of the four activities i e basal respiration in control mi 
+crocosms total mineralization in wheat amended microcosms 
+wheat residue mineralization priming effect was expressed as the
+areas under the cumulated co emission fig results showed
+that impact of land use intensity on different c cycling activities
+was dependent on the location fig at veluwe basal respiration 
+and total and wheat residue mineralization were significantly
+greater in ve med than in ve low with intermediate values in ve 
+high in contrast the intensity of the priming effect increased with
+increasing landmanagement intensity ranging from ± in ve 
+low to ± mg co g� dry soil in ve high at berchidda the
+four c cycling activities measured were always significantly lower
+in be med than in be low and be high similar values for wheat
+residue mineralization and priming effect were observed in be low
+and be high whereas the highest values for basal and total
+and simpson indices d for bacterial c and fungal communities d for each level
+and yorkshire dales the richness index represents the number of otus defined at the
+lected from a sample will belong to the same species i e same otu in our study in the
+the bottom the central and the top line of the box respectively the bottom whisker
+ letters in brackets indicate significant differences between land use for each location 
+
+
+
+fig non metric multi dimensional scaling nmds ordination plot derived fromweighted pairwise unifrac distances of a bacterial and b fungal communities for the location
+of veluwe berchidda d and yorkshire dales b with each level of intensification corresponding to low light grey medium dark grey and high black the stress values for
+all plots were which indicates that these data were well represented by the two dimensional representation vectors in the bi plot overlay were constructed from a matrix
+containing the relative abundances of each microbial phylum only correlations � were included the angle and length of the vector indicate the direction and strength of the
+variable 
+
+v tardy et al soil biology biochemistry e 
+mineralization were recorded in be low at the yorkshire dales 
+both basal and total mineralization decreased with increasing land
+use intensity in contrast wheat residue mineralization increased
+with increasing land use intensity ranging from ± to
+ ± mg co g� dry soil pe intensity did not differ between
+the three land use intensities 
+
+ ranking the influence of biotic and abiotic variables on c 
+cycling activities
+
+eight out of variables selected on the basis of their low cross 
+correlation supplementary fig were included in the multiple
+fig relative abundance of both a bacterial and b fungal phyla in microbial comp
+intensification of land use management low med medium and high lower groups repr
+regression models these variables represented abiotic physi 
+cochemical properties of soil ph soil c n ratio soc and fine sand 
+and biological variables richness and the d index for both fungal
+and bacterial communities the multiple regression model with
+selected variables was able to explain very large proportions of the
+variance in intensity for each of the four c cycling activities 
+ranging from for pe to for wheat residue mineralization
+ table 
+
+biological variables were the strongest predictors for three of
+the measured activities explaining and of the observed
+variance for total basal and wheat residue mineralization 
+respectively in contrast pe was better predicted by abiotic 
+osition according to locations veluwe berchidda and yorkshire dales and level of
+esent the phylogenetic groups phyla with a relative abundance 
+
+
+
+fig variation of areas mg g� dry soil under the cumulated co emission of different c cycling activities measured according to land use management low medium and high 
+for the three locations veluwe berchidda and yorkshire dales with a basal mineralization rs control soil b total mineralization rt c wheat residues mineralization and d 
+priming effect in the whisker box representation the first q median and third q quartiles are indicated by the bottom the central and the top line of the box respectively 
+the bottom whisker extends to the lowest value of the data set while the top whisker extends to the highest one letters in brackets indicate significant differences between land
+use for each location according to the fisher test p 
+
+table 
+partitioning of the functional variation of different c cycling activities measured as a function of biotic and abiotic parameters 
+
+dfa sum of square fb significancec variance explained relationd
+
+basal mineralization rs control soil 
+bacterial richness þ
+fungal richness �
+fungal simpson ns 
+fine sand þ
+soc þ
+residuals 
+total mineralization rt 
+bacterial richness þ
+fungal richness ns 
+fungal simpson ns 
+fine sand þ
+soc þ
+residuals 
+wheat residues mineralization rr 
+fungal richness þ
+bacterial simpson ns 
+fungal simpson þ
+ph ns 
+soil c n ratio þ
+soc � �
+residuals 
+priming effect pe 
+fungal simpson � �
+fine sand þ
+soil c n ratio � �
+residuals 
+
+a degrees of freedom 
+b fisher test 
+c significance was determined by permutations with p p p �p and ns not significant p � 
+d relationship was determined from the linear regression between area and significant variable with a positive relationship þ when the area of respiration increased with
+
+an increase of the variable and a negative relationship � when the area of respiration decreased with an increase of the variable 
+
+v tardy et al soil biology biochemistry e 
+
+
+
+v tardy et al soil biology biochemistry e 
+than by biotic variables all variables were always positively
+correlated with the measured activities except fungal richness that
+was negatively correlated with basal respiration 
+
+the identity and or rank of the most predictive variables varied
+according to the activity more precisely bacterial richness was the
+best predictor of basal and total c mineralization however fungal
+richness explained of basal respiration negatively corre 
+lated but was not a significant driver of total c mineralization 
+among the abiotic variables fine sand and soil organic c content
+were both good predictors of basal and total c mineralization in
+contrast to the two above mentioned activities bacterial diversity
+was not a significant driver of wheat residue mineralization and pe 
+which were instead driven by fungal diversity thus fungal rich 
+ness accounted very strongly for wheat residue mineraliza 
+tion and fungal diversity explained a small but significant part of
+the variance in pe soil c n ratio an indicator of organic
+matter quality but not soil organic c content was also a predictor of
+wheat residue mineralization and pe a very significant proportion
+of the variance in pe was explained by fine sand soil content 
+
+negative correlations were observed for soc and wheat resi 
+dues mineralization as well as for fungal simpson soil c n and
+pe however these negative correlations were weakly significant
+ p indicating that in our study these parameters were not
+strong predictors of the activities measured in the case of rr our
+results suggested that the quality of soil organic matter c n 
+p rather than the quantity soc p may be deter 
+minant for wheat residues decomposition for priming effect result
+suggested that pe may be increased for lower values of c n ¼ less
+recalcitrant organic matter which makes sense since energy
+needed to re activate organic matter decomposition may be lower
+for low values of c n 
+ discussion
+
+microbial diversity and composition differed more between the
+three contrasting locations across europe than between the three
+treatments within each location microbial diversity was not ex 
+pected to be similar at all locations but results showed that the
+“site effect” was more important than the “land use effect” in
+modifying the diversity of the communities the large differences
+in soil physicochemical characteristics plant cover and climate
+between the three locations is likely to have largely accounted for
+the discrimination of microbial communities in terms of richness
+and composition fierer and jackson dequiedt et al 
+de vries et al b kuramae et al table microbial
+composition provided indications about the environmental filters
+that may have driven the microbial diversity in each location for
+instance the greater abundance of actinobacteria and firmicutes at
+berchidda suggests that the microbial diversity signature may have
+been influenced by the mediterranean climate at this location 
+indeed both groups share the ability to produce endospores which
+has been shown to increase their ability to survive stressful climatic
+conditions such as warming and desiccation over other phyla
+ hayden et al sharmin et al in addition plant cover 
+and especially the presence of oaks might also explain the greater
+overall contribution of basidiomycota to the fungal composition at
+this location in agreement with orgiazzi et al this fungal
+group is indeed widely represented in forest soils since it possesses
+improved metabolic capacities for decomposing lignocellulose a
+major component of organic c in tree wood debris de boer et al 
+ baldrian vo�rí�skov�a and baldrian the veluwe
+and yorkshire dales sites were dominated by proteobacteria and
+bacteroidetes two groups described as fast growing copiotrophs
+stimulated by c rich environments fierer et al pascault
+et al which is in agreement with the higher overall c con 
+tent measured at these two sites than at berchidda 
+
+land use intensity had a significant impact on the diversity and
+composition of bacterial and fungal communities in each location 
+this shows that even though the soil s ability to host microbial di 
+versity may be highly constrained by pedoclimatic properties land
+use may serve as a proximal “control lever” to modify microbial
+diversity this is in agreement with other studies conducted at the
+field scale acosta martínez et al lienhard et al or
+regional scale drenovsky et al however our study of three
+contrasting locations representing different gradients of land use
+intensity made it possible to link land use intensity with microbial
+diversity in contrasting pedoclimatic contexts interestingly no
+simple decrease in soil microbial diversity i e richness and d 
+with increasing land use intensity was observed whatever the
+location instead the general trend observed for both bacterial and
+fungal communities in all three locations was an increase in di 
+versity i e richness and d under medium land use intensity as
+compared to low and high intensities in agreement with other
+recent works acosta martínez et al jangid et al 
+shange et al this finding suggests that the hump back
+model describing the response of a community to stress giller
+et al may also be applied to the microbial response to per 
+turbations associatedwith landmanagement intensity according to
+this model a decrease in apparent diversity may occur i in highly
+stressed environment due to dominance of particularly competitive
+species through competitive exclusion and ii in highly unstressed
+environment due to the dominance of particularly adapted species
+through selection contrastingly moderate stress may increase
+apparent diversity by lowering the likehood of competitive exclu 
+sion and the selection mechanism in our study this suggests that
+increasing land management intensity in agrosystems may not
+necessarily have a negative linear impact on soilmicrobial diversity 
+but may instead enable an optimum i e climax of soil microbial
+genetic resources to be attained interestingly this optimum was
+reached for both bacteria and fungi at medium intensity land use at
+berchidda and veluwe in the yorkshire dales however the same
+pattern was observed for fungi but not for bacteria bacterial di 
+versity showed a linear increase with increasing land use intensity 
+this discrepancy may be ascribed to the fact that at this location
+tillage was only applied in the high intensity plots soil mechanical
+disturbance particularly tillage has recently been demonstrated to
+increase bacterial diversity and reduce fungal diversity lienhard
+et al pastorelli et al probably due to the greater
+sensitivity of the fungal hyphal network to physical disruption
+ helgason et al van der wal et al 
+
+similar to the biotic and abiotic soil parameters patterns of c 
+mineralization activity differed between the locations but also
+along the gradient of intensification within each location fig 
+partitioning of the functional variation using the set of biotic and
+abiotic soils parameters revealed that e of the variance in
+intensity of c cycling activities could be explained table among
+the parameters selected in our model a significant proportion of
+this variance was explained by soil organic matter status i e soc 
+soil c n this positive effect of soil organic matter quantity and
+quality on the intensity of co fluxes is well established henriksen
+and breland nicolardot et al indeed the degrad 
+ability and the amount of c resources are known to be two key
+factors controlling soil microbial biomass and activity supported
+by our results showing a correlation between molecular biomass
+and soc supplementary fig as such these are the parameters
+included in most of the current models of c dynamics in soil fang
+et al however our results also showed that microbial di 
+versity parameters were the best predictors of all the activities
+measured except priming effect this finding highlights the
+
+
+
+v tardy et al soil biology biochemistry e 
+significant role of microbial diversity in determining c dynamics in
+soil which may be at least as important as microbial biomass and
+soil chemical and physical properties these results also confirm the
+positive relationship between microbial diversity and carbon
+mineralization observed in the context of other studies involving
+experimental erosion of microbial diversity bell et al 
+baumann et al tardy et al 
+
+focusing on the effect of each biological variable microbial
+richness was the best predictor of all the activities measured 
+except pe interestingly the relative importance of bacterial vs 
+fungal diversity varied between the activities measured suggesting
+that the relative involvement of these two microbial groups is
+dependent on the quality of the c sources de boer et al 
+bacterial and to a lesser extent fungal richness were good pre 
+dictors of soil basal respiration explaining and of the
+variance respectively however the relationship between micro 
+bial diversity and basal respiration was positive for bacteria and
+negative for fungi suggesting a major role of bacteria this result
+may be related to our particular soil selection which essentially
+included agricultural and grassland soils in forest soils it is likely
+that involvement of fungal communities in soil processes would
+have been increased vo�rí�skov�a and baldrian indeed soil
+fungal biomass has been demonstrated to be more affected by soil
+management practices and grassland intensification than bacterial
+biomass bardgett and leemans bardgett and mcalister 
+ frey et al de vries et al b hence reducing the
+relative involvement of fungi in ecosystem processes under inten 
+sively managed agricultural land van der wal et al this
+major involvement of bacteria was also observed for total miner 
+alization measured after wheat residue incorporation with bac 
+terial richness alone explaining of the variance of this activity
+whereas the fungal diversity parameters were not significant
+explanatory variables in contrast fungal richness but not bacterial
+diversity explained an impressive proportion of the intensity of
+wheat mineralization this is in agreement with the general
+assumption that fungi are the primary decomposers of dead plant
+biomass in terrestrial ecosystems vo�rí�skov�a and baldrian in
+other respects the strength of the relationship between fungal
+richness and residue decomposition was likely to be further
+enhanced by the high recalcitrance to decomposition of the wheat
+straw residues used c n ratio of fungi through their ability
+to produce a wide range of extracellular enzymes and to perforate
+plant cell walls are assumed to be better decomposers of recalci 
+trant organic matter than bacteria de boer et al 
+
+addition of wheat straw residues to the soil induced a pe in all
+locations whatever the land use intensity highlighting the wide 
+spread occurrence of this process in soil pe was the only one of the
+four c activities for which the variance was more explained by soil
+physical properties soil fine sand content and c n ratio together
+accounting for of the variance than by the microbial di 
+versity parameters taken into account in our variance partitioning
+model this was not in agreement with recent studies showing that
+pe may depend on interactions between different guilds of bacteria
+ pascault et al and fungi fontaine et al and conse 
+quently on microbial diversity however this discrepancy may be
+due to the fact that these particular processes may depend more on
+the composition i e presence of particular microbial populations 
+groups referred to as r and k strategists pascault et al 
+than on the quantitative estimates of diversity taken into account in
+our model 
+
+ conclusions
+
+in conclusion by using three gradients of land management
+intensity in three different european countries we were able to
+demonstrate that increasing land management intensity in agro 
+systems may not necessarily have a negative linear impact on soil
+microbial diversity but may instead enable an optimum i e climax
+of soil microbial genetic resources to be attained this result has
+important implications since it suggests that it may be possible to
+improve soil genetic resources by applying appropriate land man 
+agement practices another important output of this study is that 
+for the first time it has been possible to rank the soil chemical 
+physical and microbiological diversity properties contributing to c 
+transformations in soil thus our results indicate that microbial
+diversity may be at least as good a predictor of the transformations
+involved in the c cycling in soil as soil chemistry or structure 
+explaining up to of the variance in intensity of the activities
+measured altogether this study provides evidence in different
+farming systems across europe that changes in soil microbial di 
+versity in response to land use practices link to soil functioning
+through modulations of carbon mineralization in soil 
+
+conflict of interest
+
+the authors declare no conflict of interest 
+
+acknowledgements
+
+this work was supported by a grant from the regional council of
+burgundy and by the european commission within the eco 
+finders project fp this work benefitted from the
+technical facilities of the genosol platform of the infrastructure
+anaee france analysis and experimentations on ecosystems 
+anr programme ‘investments for the future’ reference anr 
+inbs 
+
+appendix a supplementary data
+
+supplementary data related to this article can be found at http 
+dx doi org j soilbio 
+
+references
+
+acosta martínez v dowd s sun y allen v tag encoded pyrosequencing
+analysis of bacterial diversity in a single soil type as affected by management
+and land use soil biology and biochemistry e 
+
+�alvarez molina l l martínez m l p�erez maqueo o gallego fern�andez j b 
+flores p richness diversity and rate of primary succession over year
+in tropical coastal dunes plant ecology e 
+
+bagella s salis l marrosu g m rossetti i fanni s caria m c roggero p p 
+ effects of long term management practices on grassland plant assem 
+blages in mediterranean cork oak silvo pastoral systems plant ecology 
+ e 
+
+bagella s filigheddu r caria m c girlanda m roggero p p contrasting
+land uses in mediterranean agro silvo pastoral systems generated patchy di 
+versity patterns of vascular plants and below ground microorganisms comptes
+rendus biologies e 
+
+baldrian p wood inhabiting ligninolytic basidiomycetes in soils ecology
+and constraints for applicability in bioremediation fungal ecology e 
+
+bardgett r d leemans d soil microbial activity on exposed mountain
+ridges in snowdonia eryri north wales soil biology and biochemistry 
+ e 
+
+bardgett r d cook r functional aspects of soil animal diversity in agri 
+cultural grasslands applied soil ecology e 
+
+bardgett r d mcalister e the measurement of soil fungal bacterial
+biomass ratios as an indicator of ecosystem self regulation in temperate
+meadow grasslands biology and fertility of soils e 
+
+baumann k dignac m f rumpel c bardoux g sarr a steffens m maron p 
+a soil microbial diversity affects soil organic matter decomposition in a
+silty grassland soil biogeochemistry e 
+
+bell t newman j a silverman b w turner s l lilley a k the contri 
+bution of species richness and composition to bacterial services nature 
+ e 
+
+cole j r wang q cardenas e fish j chai b farris r j kulam syed 
+mohideen a s mcgarrell d m marsh t garrity g m tiedje j m the
+ribosomal database project improved alignments and new tools for rrna
+analysis nucleic acids research e 
+
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+
+v tardy et al soil biology biochemistry e 
+cook r d weisberg s graphs in statistical analysis is the medium the
+message the american statistician e 
+
+dallimer m tinch d acs s hanley n southall h r gaston k j 
+armsworth p r years of change examining agricultural trends 
+habitat change and stakeholder perceptions through the th century journal
+of applied ecology e 
+
+de boer w folman l b summerbell r c boddy l living in a fungal world 
+impact of fungi on soil bacterial niche development fems microbiology re 
+views e 
+
+de vries f t bloem j quirk h stevens c j bol r bardgett r d a 
+extensive management promotes plant and microbial nitrogen retention in
+temperate grassland plos one e 
+
+de vries f t manning p tallowin j r b mortimer s r pilgrim e s 
+harrison k a hobbs p j quirk h shipley b cornelissen j h c kattge j 
+bardgett r d b abiotic drivers and plant traits explain landscape scale
+patterns in soil microbial communities ecology letters e 
+
+de vries f t th�ebault e liiri m birkhofer k tsiafouli m a bjørnlund l bracht
+jørgensen h brady m v christensen s de ruiter p c d hertefeldt t 
+frouz j hedlund k hemerik l hol w h g hotes s mortimer s r 
+set€al€a h sgardelis s p uteseny k van der putten w h wolters v 
+bardgett r d soil food web properties explain ecosystem services across
+european land use systems proceedings of the national academy of sciences of
+the united states of america e 
+
+dequiedt s saby n p a lelievre m jolivet c thioulouse j toutain b 
+arrouays d bispo a lemanceau p ranjard l biogeographical patterns
+of soil molecular microbial biomass as influenced by soil characteristics and
+management global ecology and biogeography e 
+
+drenovsky r e steenwerth k l jackson l e scow k m land use and cli 
+matic factors structure regional patterns in soil microbial communities global
+ecology and biogeography a journal of macroecology e 
+
+fang c smith p smith j u moncrieff j b incorporating microorganisms as
+decomposers into models to simulate soil organic matter decomposition 
+geoderma e 
+
+fierer n jackson r b the diversity and biogeography of soil bacterial
+communities proceedings of the national academy of sciences of the united
+states of america e 
+
+fierer n bradford m a jackson r b toward an ecological classification of
+soil bacteria ecology e 
+
+fontaine s henault c aamor a bdioui n bloor j m g maire v mary b 
+revaillot s maron p a fungi mediate long term sequestration of carbon
+and nitrogen in soil through their priming effect soil biology and biochemistry
+ e 
+
+frey s d elliott e t paustian k bacterial and fungal abundance and
+biomass in conventional and no tillage agroecosystems along two climatic
+gradients soil biology and biochemistry e 
+
+giller k e beare m h lavelle p izac a n swift m j agricultural intensifi 
+cation soil biodiversity and agroecosystem function applied soil ecology e 
+
+giller k e witter e mcgrath s p toxicity of heavy metals to microorgan 
+isms and microbial processes in agricultural soils a review soil biology and
+biochemistry e 
+
+hayden h l mele p m bougoure d s allan c y norng s piceno y m 
+brodie e l desantis t z andersen g l williams a l hovenden m j 
+changes in the microbial community structure of bacteria archaea and fungi in
+response to elevated co and warming in an australian native grassland soil 
+environmental microbiology e 
+
+helgason t daniell t j husband r fitter a h young j p ploughing up the
+wood wide web nature 
+
+henriksen t m breland t a evaluation of criteria for describing crop res 
+idue degradability in a model of carbon and nitrogen turnover in soil soil
+biology and biochemistry e 
+
+holtkamp r vanderwal a kardol p vanderputten w h deruiter p c dekker s c 
+ modelling c and n mineralisation in soil food webs during secondary suc 
+cession on ex arable land soil biology and biochemistry e 
+
+jangid k williams m a franzluebbers a j schmidt t m coleman d c 
+whitman w b land use history has a stronger impact on soil microbial
+community composition than aboveground vegetation and soil properties soil
+biology and biochemistry e 
+
+kardol p bezemer t m van der wal a van der putten w h successional
+trajectories of soil nematode and plant communities in a chronosequence of ex 
+arable lands biological conservation e 
+
+kardol p martijn bezemer t van der putten w h temporal variation in
+plant soil feedback controls succession ecology letters e 
+
+kuramae e e yergeau e wong l c pijl a s van veen j a kowalchuk g a 
+soil characteristics more strongly influence soil bacterial communities than
+land use type fems microbiology ecology e 
+
+lai r lagomarsino a ledda l roggero p p variation in soil c and mi 
+crobial functions across tree canopy projection and open grassland microen 
+vironments turkish journal of agriculture and forestry e 
+
+lienhard p terrat s mathieu o levêque j chemidlin pr�evost bour�e n nowak v 
+r�egnier t faivre c sayphoummie s panyasiri k tivet f ranjard l 
+maron p a soil microbial diversity and c turnover modified by tillage and
+cropping in laos tropical grassland environmental chemistry letters e 
+
+lienhard p terrat s pr�evost bour�e n c nowak v r�egnier t sayphoummie s 
+panyasiri k tivet f mathieu o levêque j maron p a ranjard l 
+pyrosequencing evidences the impact of cropping on soil bacterial and fungal
+diversity in laos tropical grassland agronomy for sustainable development 
+ e 
+
+lozupone c knight r unifrac a new phylogenetic method for comparing
+microbial communities applied and environmental microbiology 
+ e 
+
+meyer a focks a radl v keil d welzl g sch€oning i boch s marhan s 
+kandeler e schloter m different land use intensities in grassland
+ecosystems drive ecology of microbial communities involved in nitrogen
+turnover in soil plos one e 
+
+nicolardot b recous s mary b simulation of c and n mineralisation
+during crop residue decomposition a simple dynamic model based on the c n
+ratio of the residues plant and soil e 
+
+orgiazzi a bianciotto v bonfante p daghino s ghignone s lazzari a 
+lumini e mello a napoli c perotto s vizzini a bagella s murat c 
+girlanda m pyrosequencing analysis of fungal assemblages from
+geographically distant disparate soils reveals spatial patterning and a core
+mycobiome diversity e 
+
+pascault n ranjard l kaisermann a bachar d christen r terrat s 
+mathieu o l�evêque j mougel c henault c lemanceau p p�ean m 
+boiry s fontaine s maron p a stimulation of different functional
+groups of bacteria by various plant residues as a driver of soil priming effect 
+ecosystems e 
+
+pastorelli r vignozzi n landi s piccolo r orsini r seddaiu g roggero p p 
+pagliai m consequences on macroporosity and bacterial diversity of
+adopting ano tillage farming system in a clayish soil of central italy soil biology
+and biochemistry e 
+
+petric i philippot l abbate c bispo a chesnot t hallin s laval k lebeau t 
+lemanceau p leyval c lindstr€om k pandard p romero e sarr a 
+schloter m simonet p smalla k wilke b m martin laurent f inter 
+laboratory evaluation of the iso standard “soil quality e method to directly
+extract dna from soil samples” journal of microbiological methods e 
+
+philippot l spor a h�enault c bru d bizouard f jones c m sarr a maron p 
+a loss in microbial diversity affects nitrogen cycling in soil the isme
+journal e 
+
+plassart p terrat s thomson b griffiths r dequiedt s lelievre m regnier t 
+nowak v bailey m lemanceau p bispo a chabbi a maron p a mougel c 
+ranjard l evaluationof the isostandard dnaextractionprocedure for
+assessing soil microbial abundance and community structure plos one e 
+
+ramette a multivariate analyses in microbial ecology fems microbiology
+ecology e 
+
+rodwell j s ed british plant communities grassland and montane com 
+munities vol cambridge university press 
+
+rossetti i bagella s cappai c caria m c lai r roggero p p martins da silva p 
+sousa j p querner p seddaiu g isolated cork oak trees affect soil
+properties and biodiversity in a mediterranean wooded grassland agriculture 
+ecosystems environment e 
+
+seddaiu g porcu g ledda l roggero p p agnelli a corti g soil organic
+matter content and composition as influenced by soil management in a semi 
+arid mediterranean agro silvo pastoral system agriculture ecosystems 
+environment e 
+
+shange r s ankumah r o ibekwe a m zabawa r dowd s e distinct soil
+bacterial communities revealed under a diversely managed agroecosystem 
+plos one e 
+
+sharmin f wakelin s huygens f hargreaves m firmicutes dominate the
+bacterial taxa within sugar cane processing plants scientific reports 
+
+tardy v mathieu o l�evêque j terrat s chabbi a lemanceau p ranjard l 
+maron p a stability of soil microbial structure and activity depends on
+microbial diversity environmental microbiology reports e 
+
+terrat s christen r dequiedt s leli�evre m nowak v regnier t bachar d 
+plassart p wincker p jolivet c bispo a lemanceau p maron p a 
+mougel c ranjard l molecular biomass and metataxogenomic
+assessment of soil microbial communities as influenced by soil dna extraction
+procedure microbial biotechnology e 
+
+thiele bruhn s bloem j de vries f t kalbitz k wagg c linking soil
+biodiversity and agricultural soil management current opinion in environ 
+mental sustainability e 
+
+torsvik v Øvreås l microbial diversity and function in soil from genes to
+ecosystems current opinion in microbiology e 
+
+tscharntke t klein a m kruess a steffan dewenter i thies c land 
+scape perspectives on agricultural intensification and biodiversity e ecosystem
+service management ecology letters e 
+
+tsiafouli m a th�ebault e sgardelis s p de ruiter p c van der putten w h 
+birkhofer k hemerik l de vries f t bardgett r d brady m v bjornlund l 
+jørgensen h b christensen s hertefeldt t d hotes s gera hol w h 
+frouz j liiri m mortimer s r set€al€a h tzanopoulos j uteseny k pi�zl v 
+stary j wolters v hedlund k intensive agriculture reduces soil
+biodiversity across europe global change biology e 
+
+van der wal a van veen j a smant w boschker h t s bloem j kardol p van
+der putten w h de boer w fungal biomass development in a chro 
+nosequence of land abandonment soil biology and biochemistry e 
+
+vivant a l garmyn d maron p a nowak v piveteau p microbial di 
+versity and structure are drivers of the biological barrier effect against listeria
+monocytogenes in soil plos one e 
+
+vo�rí�skov�a j baldrian p fungal community on decomposing leaf litter un 
+dergoes rapid successional changes the isme journal e 
+
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+http refhub elsevier com s sref 
+
+	shifts in microbial diversity through land use intensity as drivers of carbon mineralization in soil
+	 introduction
+	 materials and methods
+	 experimental sites soil sampling and analysis
+	 soil microcosms
+	 dna extraction and molecular microbial biomass determination
+	 pyrosequencing of s and s rrna gene sequences
+	 bioinformatics analysis of s and s rrna gene sequences
+	 total and c co measurements
+	 statistical analysis
+
+	 results
+	 diversity and composition of bacterial and fungal communities
+	 impact of land use management on carbon mineralization
+	 ranking the influence of biotic and abiotic variables on c cycling activities
+
+	 discussion
+	 conclusions
+	conflict of interest
+	acknowledgements
+	appendix a supplementary data
+	references
+
+
+

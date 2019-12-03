@@ -1,0 +1,1601 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+untitled
+
+
+data descriptor viral to metazoan
+marine plankton nucleotide
+sequences from the tara oceans
+expedition
+adriana alberti et al 
+
+a unique collection of oceanic samples was gathered by the tara oceans expeditions – 
+targeting plankton organisms ranging from viruses to metazoans and providing rich environmental context
+measurements thanks to recent advances in the field of genomics extensive sequencing has been
+performed for a deep genomic analysis of this huge collection of samples a strategy based on different
+approaches such as metabarcoding metagenomics single cell genomics and metatranscriptomics has
+been chosen for analysis of size fractionated plankton communities here we provide detailed procedures
+applied for genomic data generation from nucleic acids extraction to sequence production and we
+describe registries of genomics datasets available at the european nucleotide archive ena www ebi ac 
+uk ena the association of these metadata to the experimental procedures applied for their generation will
+help the scientific community to access these data and facilitate their analysis this paper complements
+other efforts to provide a full description of experiments and open science resources generated from the
+tara oceans project further extending their value for the study of the world’s planktonic ecosystems 
+
+design type s observation design • global survey • biodiversity assessment objective
+
+measurement type s 
+metagenomics analysis • rrna gene • whole genome sequencing assay •
+metatranscriptomic data
+
+technology type s 
+sequencing assay • amplicon sequencing • dna sequencing • rna
+sequencing
+
+factor type s protocol • environmental factor • particle size
+
+sample characteristic s 
+
+deep chlorophyll maximum layer • strait of gibraltar • surface water layer •
+mediterranean sea • mediterranean sea western basin • ligurian sea •
+tyrrhenian sea • ionian sea • marine water layer • adriatic sea •
+mediterranean sea eastern basin • red sea • arabian sea • marine
+mesopelagic zone • sea water • indian ocean • mozambique channel •
+southeast atlantic ocean • south atlantic ocean • southwest atlantic
+ocean • drake passage • south pacific ocean • equatorial pacific ocean
+• marine wind mixed layer • north east pacific ocean • gulf of mexico •
+florida straits • nw atlantic ocean • north atlantic ocean • ne
+atlantic ocean
+
+correspondence and requests for materials should be addressed to a a email aalberti genoscope cns fr or to
+p w email pwincker genoscope cns fr 
+ a full list of authors and their affiliations appears at the end of the paper 
+
+open
+
+received march 
+
+accepted june 
+
+published august 
+
+www nature com scientificdata
+
+scientific data doi sdata 
+
+www ebi ac uk ena
+www ebi ac uk ena
+mailto aalberti genoscope cns fr
+mailto pwincker genoscope cns fr
+
+
+background summary
+systems level studies of the functional biodiversity of marine ecosystems are becoming crucial for
+understanding and managing ocean resources during the tara oceans expeditions – original
+and innovative strategies were used to gather the largest modern day collection of marine plankton in
+combination with an extensive suite of environmental data the worldwide sampling strategy and
+methodology are presented in pesant et al 
+
+here we focus on the description of procedures applied for genetic analysis of samples collected during
+the tara oceans campaigns during the last decade rapid advances in sequencing technology has been a
+major force in the rise of studies aimed at deciphering genetic and functional biodiversity in complex
+environmental samples global metagenomic approaches have been shown to be successful in
+providing extensive information about organism abundance and gene content within a sample – 
+whereas metatranscriptomics based on massive sequencing of microbial community cdna has emerged
+as a powerful tool for revealing functional genes and metabolic pathways in diverse environments such as
+marine – soil – or human internal organs ecosystems 
+
+more than environmental samples collected during the tara oceans expedition were processed
+for omics analyses the particular sampling strategy based on size fractionation allowed recovery of five
+groups of organisms viruses giant viruses giruses prokaryotes bacteria and archaea unicellular
+eukaryotes protists and metazoans see ref for a detailed description in order to enhance the value
+of this unique sample collection and to unveil the structure and function of plankton communities we
+adopted a sequencing strategy that relies on metabarcoding metagenomics single cell genomics and
+metatranscriptomics approaches fig and table 
+
+samples from all size fractions underwent dna extraction and sequencing library preparation
+for metagenomics analyses purified dna from eukaryotic and prokaryotic enriched fractions was
+also used for generation of phylogenetic tags from s and s rrna genes in order to help defining
+the taxonomic composition of each sampling site in parallel the same eukaryotic and
+prokaryotic enriched fractions were used to produce metatranscriptomes by converting extracted rna
+into cdna because marine eukaryotes are only poorly represented in databases further efforts were
+made to produce reference genomes for some uncultured unicellular organisms this was possible
+through single cell isolation by flow cytometry followed by whole genome amplification and de novo
+sequencing 
+
+a first wave of analyses performed using a subset of tara oceans samples generated high quality data
+leading to several publications – that shed light on the extraordinary biodiversity of marine
+ecosystems among the most significant results metagenomic data obtained from prokaryote and virus 
+enriched samples were used to establish an ocean microbial reference catalog with more than million
+genes in parallel viral metagenomes combined with morphological datasets were used to assess viral
+community patterns and structure providing a map of global dsdna viral diversity in the surface and
+deep ocean whereas for protists and metazoans s rrna metabarcoding allowed to profile
+eukaryotic diversity in the photic zone however the utility of tara oceans metadata have been only
+partially explored until now and further publications will help disentangling one of the largest and most
+complex ecosystems on earth 
+
+this paper aims to gather together all procedures used to generate sequencing data from nucleic acids
+ dna rna extraction to sequence production experimental methods mostly already published in tara
+oceans related papers are here described extensively adding detailed information about quality control
+processes applied to each experimental step and to generated datasets most importantly the associated
+metadata record allows straightforward linking of the described methods with genomics datasets already
+available openly this paper is an important contribution to better assess already published work and to
+support further analyses of genomics data generated by the tara oceans expedition 
+
+methods
+the generation of information rich data from marine plankton samples presents unique challenges that
+are inherent to the particular sampling conditions at sea and the wide spectrum of organisms included in
+that environment all processing steps including biomass collection sample preservation nucleic acids
+extractions and sequencing library preparation are critical and require specific protocols and robust
+methods in order to ensure comparability of results and limit potential biases – 
+
+our methods were either developed specifically for tara oceans samples or carefully selected among
+existing ones in order to meet the requirements of our sequencing strategy and to produce optimized
+datasets for downstream bioinformatics analyses as for example the production of overlapping reads
+from metagenomics libraries to facilitate assembly they are presented in five sub sections starting with a
+brief description of how samples were handled between the research vessel and the processing
+laboratories subsection sub section reports on dna and rna extractions procedures for omics
+analyses including the generation of amplified genomic dna from uncultured isolated unicellular
+eukaryotes the generation of s and s rrna amplicons from dna of specific size fractions is
+described in subsection and illumina libraries preparation in subsection sequencing procedures and
+post sequencing data processing are described in subsection for details on the onboard sampling
+protocols see pesant et al 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+ handling of genomics samples
+genomics samples were transferred on average every weeks from a port of call to the european
+molecular biology laboratory embl heidelberg in germany transportation was organized by experts
+from world courier www worldcourier com who ensured that the chain of cold was never broken at
+embl samples were sorted repackaged according to their final destination and transported again by
+world courier to the different laboratories responsible for their analysis table 
+
+in the respective laboratories samples were immediately identified by scanning reading their barcode
+label and were stored in cryo boxes or in − °c freezers during all these steps samples were
+manipulated on dry ice each laboratory used its own sample management system to record the storage
+location and to monitor sample usage 
+
+ nucleic acids preparations
+different nucleic acids extraction methods were applied to obtain dna and rna from the different
+plankton groups sampled during tara oceans expedition 
+
+ dna rna extractions from size fractions – μm or – μm – μm – μm
+ or – μm – μm – μm and – μm method id euk dna rna ext 
+plankton from these size fractions was collected on membrane filters and targeted unicellular eukaryotes
+ protists usuallyo μm and metazoans usually μm 
+
+single cell isolation 
+by flow cytometry
+
+ s s rdna 
+metabarcoding
+
+metagenomes
+metatranscriptomes
+
+whole genome 
+amplification
+
+assembly and gene
+
+prediction
+
+gene catalogs
+
+taxonomic profile uncultured reference
+genomes creation
+
+on board 
+size fractionated sampling
+
+high throughput sequencing
+
+ illumina technology 
+
+dna rna extractions
+
+figure overview of omics analysis strategy applied on tara oceans samples 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+www worldcourier com
+
+
+the protocol applied for nucleic acid extractions was based on simultaneous extraction of dna and
+rna by cryogenic grinding of cryopreserved membrane filters followed by nucleic acid extraction with
+nucleospin rna kits macherey nagel düren germany combined with dna elution buffer kit
+ macherey nagel this protocol was derived from optimization and validation experiments in the de
+vargas laboratory at the station biologique de roscoff france in particular this preliminary work
+aimed principally to adapt the efficiency of the cell disruption and dna rna extraction steps in order to
+efficiently capture nucleic acids from protists and metazoans collected from sea water filtering tests were
+conducted on a mock community composed of monoclonal strains from the roscoff culture
+collection http roscoff culture collection org and natural filter samples collected in roscoff astan 
+somlit sampling during these tests the cell disruption step was optimized by applying a mechanical
+cryogrinding method to be sure that cells were efficiently disrupted minimizing rna and dna
+degradation three cryogrinding protocols were tested using a freezer mill or freezer mill
+instrument spex sampleprep metuchen nj grinding cycle at knocks per second for min 
+grinding cycle at knocks per second for min and grinding cycles at knocks per second for min 
+best rna and dna quantities were obtained using grinding cycles at knocks per second for min 
+then three simultaneous dna rna extraction protocols were compared trizol method followed by
+rneasy purification kit qiagen hilden germany nucleospin rna kit combined with dna elution
+buffer set macherey nagel and nucleobond kit macherey nagel best quality results dna and rna
+integrity conservation ratios a and a were obtained with nucleospin rna kit
+combined with dna elution buffer set 
+
+after validation the procedure described herein was applied in the genoscope laboratory on tara
+oceans filters from the size fractions cited above 
+
+briefly each membrane was accommodated into a grinding vial with ml ra lysis buffer macherey 
+nagel and β mercaptoethanol sigma st louis mo and subjected to the following grinding
+program min pre cooling time first grinding cycle at knocks per second for min min cooling
+time and final grinding cycle at knocks per second for min cryogrinded powder was resuspended in
+ ml ra lysis buffer with β mercaptoethanol transferred to a large capacity nucleospin filter from
+rna midi kit and centrifuged for min at g after further addition of ml ra lysis buffer with
+ β mercaptoethanol the filter was recentrifuged min at g the eluate was transferred
+to a new tube with addition of volume of ethanol the mixture was loaded to a nucleospin rna
+mini spin column and washed twice with dna wash solution dna was eluted by three successive
+elutions each with μl dna elution buffer and stored in sterile microtubes at − °c dna was
+quantified by a dsdna specific fluorimetric quantitation method using qubit fluorometer
+instrument with qubit dsdna br broad range and hs high sensitivity assays thermofisher
+
+size fractions μm mainly
+targeted
+organisms
+
+targeted genomic
+analysis
+
+sample storage
+laboratory
+
+sequencing
+laboratory
+
+method id nucleic
+acids
+preparation section 
+
+method id
+amplicons
+generation section 
+
+method id library
+preparation section 
+
+o μm viruses metagenomics m sullivan lab
+ university of arizona az us 
+
+cea 
+genoscope 
+france
+
+virus dna ext metag virus 
+
+ – – 
+ – – 
+
+giruses metagenomics n grimsley lab
+ cnrs banyuls sur mer france 
+
+cea 
+genoscope 
+france
+
+girus dna ext metag 
+
+ – – viruses 
+giruses 
+prokaryotes 
+small
+eucaryotes
+
+ s metabarcoding s g acinas lab
+ icm csic barcelona spain 
+
+cea 
+genoscope 
+france
+
+acinas prok dna 
+ext 
+
+ s pcr metabar s 
+
+metagenomics acinas prok dna 
+ext 
+
+metag 
+
+metatranscriptomics by
+random priming
+
+acinas prok rna 
+ext genoscope prok 
+rna ext 
+
+ribozero smart strand
+ 
+
+ inf inf – – 
+ – – – 
+ – 
+
+protists and
+metazoa
+
+ s metabarcoding c de vargas lab
+ cnrs upmc roscoff france 
+
+cea 
+genoscope 
+france
+
+ s pcr metabar s 
+
+ s metabarcoding s pcr metabar s 
+
+metagenomics p wincker lab cea genoscope 
+france 
+
+euk dna rna 
+ext 
+
+metag 
+
+metatranscriptomics
+on poly a rna
+
+euk dna rna 
+ext 
+
+ts rna 
+ts strand smart dt
+ 
+
+samples for sags protists de novo sequencing n poulton lab
+ bigelow lab me us 
+
+cea 
+genoscope 
+france
+
+sags amplif metag sags 
+
+table summary of libraries generated from tara oceans dna and rna samples and sequencing experiments performed on
+each type of library 
+ number of libraries with available readsets in public databases at the date of publication of the paper 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+http roscoff culture collection org 
+
+
+scientific waltham ma dna quality was checked in a sample subset by running μl on agarose
+gel for min at v 
+
+rna purification was continued on the previous nucleospin rna mini spin column by digesting
+residual dna with μl rdnase and μl reaction buffer for rdnase after min incubation at room
+temperature the column was washed with ra and ra buffers rna was eluted in μl rnase free
+water and stored in sterile microtubes at − °c quantity and quality of extracted rna were assessed
+with rna specific fluorimetric quantitation on a qubit fluorometer using qubit rna hs assay the
+qualities of total rna were checked by capillary electrophoresis on an agilent bioanalyzer using the
+rna pico labchip kit agilent technologies santa clara ca 
+
+finally the rna extraction procedure integrated an in column dnase treatment but based on previous
+experience with this method this step was sometimes only partially effective and did not always preclude
+the presence of trace dna in final rna samples dna removal in rna samples is essential to prevent the
+incorporation of any genomic material in the rna seq library and consequently the misinterpretation of
+rna seq data analyses in order to reduce as far as possible the risk of residual genomic dna a further
+dnase treatment was applied as a precaution on total rna extracted from samples collected in the second
+of the tara oceans expeditions polar circle campaign stations – after extraction and quality
+control assessment as described above these rna samples were further processed as follows a quantity of
+ μg or less total rna aliquots were treated with turbo dna free kit thermo fisher scientific 
+according to the manufacturer’s dnase treatment protocol after two rounds of min incubation at °c 
+the reaction mixture was purified with the rna clean and concentrator kit zymoresearch irvine ca 
+following the procedure described for retention of nt rna fragments rna was eluted in – μl
+nuclease free water by two elution steps in order to maximize recovery purified rna was quantified with
+qubit rna hs assay initially the efficiency of dnase treatment was assessed by pcr showing that the
+treatment was efficient in all checked samples due to the large number of samples to be treated this
+validation step was then omitted 
+
+ dna rna extractions from size fractions – μm and – μm
+two different protocols were applied to these size fractions that mainly targeted prokaryotes viruses and
+giant viruses giruses were also recovered in these fractions although dedicated filters e g o μm 
+and specific extractions protocols described in sections and were allocated for their analysis 
+
+acinas lab dna extraction method id acinas prok dna extr 
+half of the μm mm diameter millipore polyethersulfone express plus membrane filter merck
+millipore billerica ma was cut into small pieces and soaked in ml lysis buffer mm edta mm
+tris hcl m sucrose lysozyme mgml− final concentration was added and samples were
+incubated at °c for min while slightly shaken then sodium dodecyl sulfate final
+concentration and proteinase k mgml− final concentration were added and samples were
+incubated at °c for min while slightly shaken the lysate was collected and processed with the
+standard phenol chloroform extraction procedure an equal volume of phenol chloroform isoamyl
+alcohol v v was added to the lysate carefully mixed and centrifuged min at g then the
+aqueous phase was recovered and the procedure was repeated once finally an equal volume of
+chloroform isoamyl alcohol v v was added to the recovered aqueous phase in order to remove
+residual phenol the mixture was centrifuged and the aqueous phase was recovered for further
+purification the aqueous phase was then concentrated and purified by centrifugation with a centricon
+concentrator amicon ultra centrifugal filter unit with ultracel membrane millipore once the
+aqueous phase was concentrated this step was repeated three times adding ml of sterile milliq water
+each time in order to purify the dna after the third washing step between and μl of purified
+total genomic dna product was recovered per sample isolated dna was quantified using a nanodrop
+nd spectrophotometer nanodrop technologies inc wilmington de usa and its integrity was
+checked on an agarose gel 
+
+acinas lab rna extraction method id acinas prok rna ext 
+rna isolation was performed using the rneasy mini kit qiagen with a modified protocol the filters
+were cut into small pieces and washed with pre chilled pbs buffer in order to eliminate the rna later to
+avoid loss of any cell during the washing process the washing solution was passed through a glass cup
+filtration system including a filter of μm pore size the pieces of the filter and the extra filter were
+placed in a ml falcon tube with a mixture of beads ml of mm glass beads and ml of mm
+zirconia beads biospec products and ml buffer rlt β mercaptoethanol the mixture was
+shaken during min in a mobio vortex vortex genie mo bio laboratories inc and then
+centrifuged at g min at °c the supernatant was transferred to a new ml falcon tube and
+centrifuged again for min at g the supernatant about ml was transferred to a new ml
+tube volume ethanol was added to the lysate and mixed by inversion four times the mixture was
+divided in two and each volume loaded separately by successive μl aliquots in two rneasy mini
+columns and filtered using a vacuum pump in this way a better yield is obtained rather than putting the
+entire volume in a single column then each column was washed with μl buffer rw and twice with
+ μl buffer rpe according the manufacturer protocol no dnase treatment was applied to the column 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+finally rna was eluted from the membrane with μl rnase free water the rna was quantified using
+both a nanodrop nd spectrophotometer nanodrop technologies inc wilmington de usa 
+and qubit fluorometer extracted rna samples were then sent to genoscope where prior to further
+processing a dnase treatment using turbo dna free kit was performed as described at the end of
+section 
+
+genoscope lab dna rna extraction method id genoscope prok rna ext 
+an alternative protocol was developed in a second time and applied to the majority of samples this
+procedure was based on cryogenic grinding followed by dna rna purification with nucleospin rna
+kit as previously described for protists and metazoans enriched nucleic acids isolation the following
+modifications were applied in order to efficiently grind larger and thicker – μm and – μm filters 
+the membranes were cut in many small pieces dispatched equally in two vials and cryocrushed applying
+the same conditions previously described cryogrinded powders from each vial were resuspended in ml
+ra lysis buffer in the presence of β mercaptoethanol then pooled together and transferred to a
+single nucleospin filter midi after a first centrifugation for min at g ml ra lysis buffer with
+ β mercaptoethanol was added to the column which was then recentrifuged min at g then 
+extraction was continued following the same procedure applied to protists and metazoans enriched
+samples including the additional post extraction dnase treatment already described in section 
+
+ dna and rna backups
+after nucleic acids extractions two rna aliquots and three dna aliquots were prepared for each sample 
+one aliquot was used for the library preparation and sequencing process the second one was stored as a
+backup if rna quantity waso ng backup copy was omitted 
+
+in the case of dna the third aliquot was used to produce an amplified dna backup by whole genome
+amplification wga by using illustra genomiphi dna amplification kit ge healthcare little
+chalfont uk briefly ng of dna were diluted in μl sample buffer and denatured for min at
+ °c after cooling on ice samples were mixed to μl reaction buffer containing random hexamers
+and μl phi enzyme mix and incubated at °c for hours after amplification phi dna
+polymerase was heat inactivated during min at °c in order to reduce hyperbranched dna regions
+generated by wga process amplified dna was incubated with repliphi phi dna polymerase
+ epicentre biotechnologies madison wi without any primer at °c for hours and °c for min 
+followed by s nuclease thermo fisher scientific digestion at °c for min after dna cleanup
+with agencourt genfind v system omitting the lysis step beckman coulter genomics danvers ma 
+internal nicks were repaired by adding u e coli dna polymerase i new england biolabs ipswich 
+ma in μl x neb buffer and mm dntp and incubating at °c for min dna was purified
+again with agencourt genfind v system and resuspended in μl elution buffer dna was quantified
+with qubit dsdna br and hs assays and subjected to quality check by running μl on agarose gel
+for min at v 
+
+ viral particle concentration and dna extractions from size fraction o μm method id 
+virus dna ext 
+this protocol describes a technique to recover viruses from natural waters using iron based flocculation
+and large pore size filtration followed by resuspension of virus containing precipitates in a ph buffer 
+
+briefly fecl precipitation
+ was used to concentrate viruses from – l of μm filtered seawater 
+
+which were then resuspended in ascorbate buffer m tris base m sodium edta dehydrate 
+m magnesium chloride hexahydrate m ascorbate this fe based virus flocculation filtration and
+resuspension method ffr is efficient recovery reliable inexpensive and adaptable to many
+aspects of marine viral ecology and genomics research data are also available from replicated
+metagenomes to help researchers’ decisions on the impact of linker amplification methods from low
+input dna viral purification strategies and library preparation and sequencing platform choices 
+following resuspension recovered viruses were treated with dnase i to remove free dna followed by
+the addition of m edta and m egta to halt dnase activity and further concentrated too ml
+using an amicon kda filter sigma dna was extracted using the wizard prep dna purification
+system promega madison wi dna concentration was assessed with picogreen thermo fisher
+scientific all detailed protocols are listed by name and are documented and available at https www 
+protocols io groups sullivan lab 
+
+ dna extractions from size fractions – μm – μm – μm – μm method id 
+girus dna ext 
+these size fractions were used to target giant viruses giruses dna was extracted using a modified
+ctab protocol filters were crushed in liquid nitrogen incubated at °c for one hour in a ctab
+buffer dna was purified using an equal volume of chloroform isoamyl alcohol and a one hour 
+long rnase digestion step dna was precipitated with a volume of isopropanol and washed with ml
+of a solution containing v v ethanol and mm ammonium acetate solution finally the extracted
+dna samples were dissolved in μl of laboratory grade deionized water and stored at − °c until the
+sequencing steps 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https www protocols io groups sullivan lab
+https www protocols io groups sullivan lab
+
+
+ preparation of single cell amplified genomes sags method id sags amplif 
+single amplified genomes sags were generated and their taxonomic assignments were obtained as in
+martinez garcia et al with the following modifications samples for heterotrophic aplastidic cells were
+stained using sybr green i samples for phototrophic plasidic cells were unstained no attempt was made
+to identify mixotrophic cells several well plates containing single cells of each type were prepared from
+each environmental sample backup plates were stored frozen at − °c single cell amplifications were
+validated by using an aliquot for pcr with eukaryotic universal s primers sags with positive s sequence
+were sent to genoscope for whole genome sequencing upon arrival μl were removed from each well and
+used to generate an amplified dna backup by wga the reactions were performed as previously described
+for dna extractions section except that debranching reactions were omitted and instead amplified dna
+was purified by qiaamp dna mini kit qiagen 
+
+ s and s rrna genes amplicon generation for eukaryotic and prokaryotic
+metabarcoding
+to address general questions of eukaryotic biodiversity over extensive taxonomic and ecological scales 
+the hypervariable loop v of the s rrna gene was targeted for amplicon generation using dna
+extracted from eukaryote enriched fractions – μm or – μm – μm or – μm – μm
+and – μm as template for unravelling prokaryotic biodiversity v and v hypervariable loops
+of s rrna genes were co amplified from the same dna templates used for s barcoding and from
+dna obtained from prokaryote enriched fractions – μm and – μm 
+
+both these barcodes present a combination of advantages i they are universally conserved in length
+and simple in secondary structure thus allowing relatively unbiased pcr amplification across eukaryotic
+and prokaryotic lineages followed by illumina sequencing ii they include both stable and highly
+variable nucleotide positions over evolutionary time frames allowing discrimination of taxa over a
+significant phylogenetic depth iii they are extensively represented in public reference databases across
+the eukaryotic and prokaryotic tree of life allowing taxonomic assignment amongst all known lineages 
+
+ eukaryotic s rrna gene amplicon generation method id s pcr 
+for generation of s barcodes pcr amplifications were performed with the phusion high fidelity pcr
+master mix with gc buffer thermofisher scientific and the forward reverse primer pair f
+ ′ ttgtacacaccgccc ′ and r ′ ccttcygcaggttcacctac ′ the pcr mixtures
+ μl final volume contained to ng of total dna template with μm final concentration of each
+primer of dmso and x phusion master mix pcr amplifications °c for s cycles of s at
+ °c s at °c s at °c and °c for min of all samples were carried out with a reduced
+number of cycles to avoid the formation of chimeras during the plateau phase of the reaction and in
+triplicate in order to smooth the intra sample variance while obtaining sufficient amounts of amplicons
+for illumina sequencing pcr products were purified by a modified x ampure xp beads beckmann
+coulter genomics cleanup in which the supernatant containing larger dna fragments was kept and
+purified with the nucleospin gel and pcr clean up kit macherey nagel then aliquots of purified
+amplicons were run on an agilent bioanalyzer using the dna high sensitivity labchip kit to check their
+lengths and quantified with a qubit fluorometer 
+
+ prokaryotic s rrna gene amplicon generation method id s pcr 
+prokaryotic barcodes were generated using f y ′ gtgycagcmgccgcggtaa ′ and r
+ ′ ccgycaattymtttragttt ′ s primers described by parada et al this primer pair
+encompasses the v and v hypervariable regions yielding a product of bp triplicate pcr mixtures
+were prepared as described above for s amplification whereas cycling conditions included a s
+denaturation step followed by cycles of °c for s °c for s °c for s and a final
+extension of °c for min after pcr products cleanup using x volumes ampure xp beads 
+amplicons length and amount were checked as described above 
+
+at the time of publication of this paper generation of s rrna genes amplicon is still under progress 
+in metadata record an example of datasets produced by this strategy and available at ena can be found 
+
+ sequencing library preparation
+all library preparations were performed at genoscope 
+
+ metagenomic library preparation from size fractionated filters dna method id metag 
+when the tara oceans project started in illumina offered a high throughput system that could
+enable to gain biological insights for complex samples the counterpart was to obtain maximum read
+lengths of bp as short read lengths may be challenging for de novo assemblies library preparation
+protocols for complex metagenomics samples were improved in order to generate much longer reads by
+overlapping and merging read pairs before assembly for this purpose a size selection step was added at
+the end of library preparation obtaining narrowly sized libraries around bp this corresponded to an
+insert fragment at around bp allowing bp paired read overlaps 
+
+depending on extracted dna yields libraries were prepared manually or in a semi automatic manner 
+genomic dna was first sheared to a mean target size of bp using a covaris e instrument
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+ covaris woburn ma dna inputs in fragmentation step were – ng in the case of a downstream
+manual preparation or ng for semi automatized protocol more demanding in dna quantity size
+profiles of sheared materials were visualized on an agilent bioanalyzer dna high sensitivity chip 
+
+in the manual protocol the resulting fragmented dna was end repaired a tailed at the ’end and
+ligated to illumina compatible adapters using the nebnext dna sample prep master mix set new
+england biolabs ligation products were subsequently cleaned up using x ampure xp beads 
+
+for ng input gdna end repair a tailing adaptors ligation and a – bp size selection were
+performed using the spriworks library preparation system and spri te instrument beckmann
+coulter genomics according to the manufacturer protocol this allowed to process rapidly and with few
+hands on time up to samples in parallel 
+
+ligation products were then enriched by performing cycles of amplification °c for s 
+cycles of s at °c s at °c s at °c and °c for min using platinum pfx taq polymerase
+ thermo fisher scientific and p and p primers amplified products were purified using ampure xp
+beads volume and samples were run on a agarose gel in order to size select gel slices around 
+bp the excised band – bp was finally purified using the nucleospin extract ii dna purification
+kit macherey nagel 
+
+later on further optimizations to the original manual protocol were applied to the processing of
+samples collected during the tara oceans polar circle campaign stations – in particular after
+gdna shearing libraries were prepared using the nebnext dna sample prep master mix kit with a ‘on
+beads’ protocol that achieves higher library yields performing each reaction step on the same ampure
+xp beads used for first purification after end repair minimizes sample losses during the successive clean
+up steps ligation was performed with adapted concentrations of nextflex dna barcodes bioo scientific 
+austin tx and cleaned up by two rounds of ampure xp beads purifications 
+
+for higher sample inputs ng library preparation benefitted of high throughput automatized
+instruments end repair a tailing and ligation were made by a liquid handler the biomek fx laboratory
+automation workstation beckmann coulter genomics able to perform up to reactions in parallel in
+half a day library amplification was performed using kapa hifi hotstart ngs library amplification kit
+ kapa biosystems wilmington ma °c for s cycles of s at °c s at °c s at °c
+and °c for min instead of platinum pfx taq polymerase amplified library was purified and size 
+selected as described above 
+
+ library preparation from viral samples method id metag virus 
+due to very low dna extraction yields obtained from concentrated viral samples usually only a few
+nanograms library preparation protocol was adapted in order to improve its efficiency starting from
+very low input dna following an extensive study of the impact of dna amount amplification and
+library preparation protocol the method developed at genoscope and described in detail at https 
+www protocols io groups sullivan lab was chosen for preparation of all viral metagenomics libraries from
+tara oceans stations 
+
+briefly – ng dna were fragmented to a – bp size range using the e covaris
+instrument end repair a tailing and ligation with adjusted concentrations of homemade adaptors were
+performed using the nebnext dna sample preparation reagent set new england biolabs after two
+consecutive x ampure xp clean ups the ligated product was amplified by cycles pcr using
+platinium pfx dna polymerase followed by x ampure xp purification 
+
+for samples collected during the tara oceans polar circle campaign similar optimizations were
+applied as described for metagenomics libraries manual ‘on beads’ protocol was used on lower inputs
+ – ng the ligated product was amplified by to cycles pcr using kapa hifi hotstart ngs
+library amplification kit and purified by x ampure xp clean up 
+
+ library preparation from sags method id metag sags 
+a fixed volume μl of single cell amplified dna was used as input for dna shearing then the same
+library preparation protocol used for viral libraries was applied without significant modifications 
+
+ metatranscriptomic libraries
+different cdna synthesis protocols were applied according to the fractions from which rna originated 
+a first problem to be solved was to limit the generation of rrna reads coming from this predominant
+rna fraction in the case of rna issued from fractions enriched in protists and metazoans – μm or
+ – μm – μm – μm – μm or – μm – μm and – μm membrane
+filters methods including a poly a rna selection step were chosen whereas this approach is very
+efficient in lowering the number of rrna reads it does not allow to retrotranscribe mrnas from
+prokaryotic species thus leading to eukaryote only metatranscriptomes 
+
+in contrast cdna synthesis from prokaryote and virus enriched fractions rnas – μm and
+ – μm was performed by a random priming approach preceded by a prokaryotic rrna depletion
+step this method allows cdna synthesis from both eukaryotic and prokaryotic mrna and organellar
+transcripts but also from residual poorly depleted eukaryotic rrna resulting in high percentage of rrna
+reads when small protists are abundant 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https www protocols io groups sullivan lab
+https www protocols io groups sullivan lab
+
+
+cdna synthesis and library preparation from eukaryote enriched fractions
+the quantity of extracted total rna was an additional factor which conditioned the choice of cdna
+synthesis method when at least μg total rna were available cdna synthesis was carried out using the
+truseq mrna sample preparation kit illumina san diego ca method id ts rna briefly poly
+ a rna was selected with oligo dt beads chemically fragmented and converted into single stranded
+cdna using random hexamer priming then the second strand was generated to create double stranded
+cdna next library preparation was performed according to the protocol described for viral
+metagenomics libraries by omitting cdna shearing and performing a post pcr x ampure xp
+purification 
+
+in illumina released a new version of the kit the truseq stranded mrna kit which allows
+retaining strand information of rna transcripts sequence reads occur in the same orientation as anti 
+sense rna strand specificity is achieved by quenching the second strand during final amplification
+thanks to incorporation of dutp instead of dttp during second strand synthesis as strand orientation
+provides additional valuable information for downstream rnaseq data analysis this method method
+id ts strand was applied for processing rna from samples collected during the polar circle campaign 
+the minimal rna input used for this library was μg total rna after second strand synthesis ready 
+to sequence illumina library was generated following the manufacturer’s instructions using the reagents
+included in the kit 
+
+rna extractions yielding insufficient quantities for truseq preparations were processed using the
+smarter ultra low rna kit clontech mountain view ca method id smart dt this method 
+successfully used for eukaryotic single cell transcriptomic studies converts poly a rna to full length
+cdna using a modified oligo dt primer combined with smart switching mechanism at the ′ end of
+rna template technology fifty nanograms or less total rna were used for cdna synthesis followed by
+ cycles of pcr preamplification of cdna before illumina library preparation – ng double stranded
+cdna were fragmented to a – bp size range using the e covaris instrument then sheared
+cdna were used for illumina library preparation following the protocol described for viral metagenomes
+libraries except for the post amplification ampure xp purification performed at a ratio 
+
+cdna synthesis and library preparation from prokaryote and virus enriched fractions
+as for eukaryotic rna the extraction yields from – μm and – μm filters were a concern and
+motivated a preliminary study of different ‘low input’ cdna synthesis methods adapted to prokaryotic
+mrna on the basis of the results presented in this paper we chose to perform bacterial rrna
+depletion followed by cdna synthesis with smarter stranded rna seq kit clontech this method is
+a more recent release from clontech than the smarter low input library kit differently from this oligo
+ dt based method the smarter stranded kit is based on initial chemical rna fragmentation followed
+by a first cdna strand synthesis by random priming and smart template switching technology then 
+single stranded cdna is directly amplified with oligonucleotides which contain illumina adaptors and
+indexes sequences to obtain a ready to sequence library finally differently from oligo dt method this
+one preserves the coding strand information which can be deduced after paired end sequencing of library
+fragments 
+
+bacterial rrna depletion was carried out using ribo zero magnetic kit for bacteria epicentre
+biotechnologies different total rna inputs were depleted varying between undetectable quantities by
+qubit measurement up to μg therefore ribo zero depletion protocol was modified to be adapted to low
+rna input amounts according to alberti et al except for these modifications depletion was performed
+according to the manufacturer instructions depleted rna were concentrated to μl total volume with
+rna clean and concentrator kit zymoresearch following the procedure described for retention of
+ nt rna fragments then when total rna input was or equal to μg depleted rna amount was
+checked by qubit rna hs assay quantification and ng or less were used to synthetize cdna with
+smarter stranded rna seq kit method id ribozero smart strand otherwise μl were used for
+cdna synthesis single stranded cdna was purified by two rounds of purification with x ampure xp
+beads the purified product was amplified by cycles pcr with seqamp dna polymerase and the
+illumina index primer set both provided in the kit final library was purified with x ampure xp beads 
+
+ library preparation from v s rrna amplicons method id metabar s 
+in order to evaluate the eukaryotic biodiversity of samples libraries were prepared from amplicons
+generated by the amplification of the v region of the s rrna gene as the amplicon size visualized on
+an agilent bioanalyzer was around bp majority peak no fragmentation was needed before library
+preparation amplicons ng generated from tara oceans samples were end repaired a tailed and
+ligated with illumina adaptors using the spriworks library preparation system and spri te
+instrument without any size selection ligated products were amplified using platinum pfx taq
+polymerase and cleaned up on magnetic beads as described above for metagenomic libraries except that
+gel size selection was skipped 
+
+tara oceans polar circle amplicons were treated as described in metagenomic libraries section for
+samples issued from the same campaign 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+ library preparation from v v s rrna amplicons method id metabar s 
+tags generated from amplification of v and v hypervariable regions of s rrna genes were used for
+preparation of sequencing libraries by high throughput automatized instruments one hundred ng
+amplicons were directly end repaired a tailed and ligated to illumina adapters on a biomek fx
+laboratory automation workstation then library amplification was performed using kapa hifi
+hotstart ngs library amplification kit with the same cycling conditions applied for metagenomics
+libraries after ampure xp purification volume and quantification by qubit fluorometric
+measurement hs assay equimolar pools of amplified products were run on a agarose gel to
+select – bp gel slices amplicon size increased by illumina adapters this sizing step allowed
+isolating the prokaryotic s amplicon from non specific amplification products the library was finally
+purified using the nucleospin extract ii dna purification kit 
+
+ sequencing and data quality control
+ sequencing library quality control
+all libraries were quantified first by qubit dsdna hs assay measurement and then by qpcr with the
+kapa library quantification kit for illumina libraries kapa biosystems on an mxpro instrument
+ agilent technologies library profiles were assessed using the dna high sensitivity labchip kit on an
+agilent bioanalyzer later on the quality control step was implemented with quantification by picogreen
+method on well plates and high throughput microfluidic capillary electrophoresis system for library
+profile analysis labchip gx perkin elmer waltham ma 
+
+ sequencing procedures
+libraries concentrations were normalized to nm by addition of tris cl mm ph and then
+applied to cluster generation according to the illumina cbot user guide part libraries
+were sequenced on genome analyzer iix hiseq or hiseq instruments illumina in a paired 
+end mode read lengths were chosen in order to produce data fitting with bioinformatics analyses needs
+ table 
+
+metabarcoding and metatranscriptomic libraries were characterized by low diversity sequences at the
+beginning of the reads related respectively to the presence of primer sequence used to amplify s and
+ s tags and low complexity polynucleotides added during cdna synthesis low diversity libraries can
+interfere in correct cluster identification resulting in drastic loss of data output therefore loading
+concentrations of these libraries – pm instead of – pm for standard libraries and phix dna
+spike in instead of were adapted in order to minimize the impacts on the run quality 
+
+sequencing was performed according to the genome analyzer iix user guide part 
+hiseq system user guide part and hiseq system user guide part 
+
+ data quality control and filtering
+a first step in data quality control process was the primary analysis performed during the sequencing run
+by illumina real time analysis rta software code availability this tool analyses images and
+clusters intensities and filters them to remove low quality data furthermore it performs basecalling and
+calculates phred quality score q score which indicates the probability that a given base is called
+incorrectly q score is the most common metric used to assess the accuracy of the sequencing experiment
+ http www illumina com documents products technotes technote q scores pdf after conversion of
+raw bcl files generated by rta to fastq demultiplexed data by illumina bcl fastq conversion software
+ code availability in house filtering and quality control treatments developed in genoscope were
+applied to reads that passed the illumina quality filters named raw reads the parameters of these
+controls are indicated in fig 
+
+this processing allows obtaining high quality data and improves subsequent analyses 
+
+filtering steps were applied on whole raw reads as follows 
+
+ the sequences of the illumina adapters and primers used during library construction were removed from
+the whole reads low quality nucleotides with quality valueo were removed from both ends the
+longest sequence without adapters and low quality bases was kept sequences between the second
+unknown nucleotide n and the end of the read were also trimmed reads shorter than nucleotides
+after trimming were discarded these trimming steps were achieved using fastx clean code availability 
+an internal software based on the fastx library code availability 
+
+ the reads and their mates that mapped onto run quality control sequences enterobacteria phage
+phix genome data citation were removed using soap aligner 
+
+ a specific filter aiming to remove ribosomal reads was applied to data generated from
+metatranscriptomic libraries sequencing briefly the reads and their mates that mapped onto a
+ribosomal sequences database were filtered using sortmerna v ref a biological sequence
+analysis tool for filtering mapping and otu picking ngs reads it contains different rrna databases
+and we used it to split the data into two files rrna reads in a file ribo clean and other reads in
+another file noribo clean 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+http www illumina com documents products technotes technote q scores pdf
+
+
+data quality control was performed on random subsets of reads before raw reads and or after
+filtering steps clean reads as follows 
+
+ duplicated sequences rates were estimated from single and paired sequences on raw reads using
+fastx estimate duplicate code availability an internal software based on the fastx library 
+
+ read size quality values n positions base composition were calculated and known adapters sequences
+were detected before and after filtering the reads 
+
+ taxonomic assignation was performed by aligning with mega blast blast suite the subset of
+ reads against the nt database http www ncbi nlm nih gov nucleotide and using megan
+software version 
+
+ the merging step was done with fastx mergepairs code availability an internal software based on
+the fastx library the first nucleotides of read were extracted and alignment performed between
+that seed and read merging was launched if the alignment was at least of nucleotides with less
+than mismatches and an identity percent of at least for each overlapping position the
+nucleotide of higher quality was retained 
+
+each dataset was evaluated using specific toolboxes generated from this pipeline see technical
+validation paragraph 
+
+code availability
+
+ real time analysis software http support illumina com sequencing sequencing software real time 
+analysis rta downloads html
+
+ bcl fastq conversion http support illumina com sequencing sequencing software bcl fastq conver 
+sion software html
+
+ fastx clean software http www genoscope cns fr fastxtend
+ fastx toolkit http hannonlab cshl edu fastx toolkit index html
+ fastx estimate duplicate software http www genoscope cns fr fastxtend
+ fastx mergepairs software http www genoscope cns fr fastxtend
+
+data records
+this data descriptor provides an opportunity to present collections of different datasets generated from
+sequencing analysis of samples collected during tara oceans expedition fastq files produced from
+sequencing experiments are available in the global repository for public nucleotide sequence data the
+international nucleotide sequence database collaboration insdc http www insdc org about under
+the umbrella project permanent identifier prjeb ‘tara oceans samples barcoding and shotgun
+sequencing’ data citation nucleotide sequence information has been deposited via the european
+gateway to the insdc the european nucleotide archive ena http www ebi ac uk ena at the embl
+european bioinformatics institute embl ebi nucleotide sequence data of each sequencing strategy
+applied to the size fractioned tara oceans plankton communities are registered in a separate component
+project and linked to the prjeb umbrella project for instance the metatranscriptome sequencing of
+samples from the size fraction of protists is registered under the component project with the identifier
+prjeb and available at http www ebi ac uk ena data view prjeb each generated nucleotide
+sequence file is associated with a sample record containing extremely rich information on the
+environment of the corresponding sequenced tara oceans sample the sample contextual data available
+with nucleotide sequences map to the environmental and biogeochemical measurements for each tara
+oceans sample available in the sample registry at pangaea data citation a list of available
+fastq files with repository information is presented in the associated metadata record and is also
+
+sequencing library preparation method library insert size pb sequencing instrument read length pe mode generated libraries mean number of reads per sample
+ millions of paired reads 
+
+metagenomics from size fractionated filters section hs 
+
+metagenomics from viral samples section – hs 
+
+sags section – hs 
+
+metatranscriptomic libraries section – hs 
+
+ s metabarcode libraries section gaiix 
+
+ s metabarcode libraries section hiseq in progress nd
+
+table summary of libraries generated from tara oceans dna and rna samples and sequencing experiments performed on
+each type of library 
+ number of libraries with available readsets in public databases at the date of publication of the paper 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+http www ncbi nlm nih gov nucleotide
+http support illumina com sequencing sequencing software real time analysis rta downloads html
+http support illumina com sequencing sequencing software real time analysis rta downloads html
+http support illumina com sequencing sequencing software bcl fastq conversion software html
+http support illumina com sequencing sequencing software bcl fastq conversion software html
+http www genoscope cns fr fastxtend
+http hannonlab cshl edu fastx toolkit index html
+http www genoscope cns fr fastxtend
+http www genoscope cns fr fastxtend
+http www insdc org about
+http www ebi ac uk ena
+http www ebi ac uk ena data view prjeb 
+
+
+available at pangaea data citation most importantly this metadata document allows to link each
+fastq file to the experimental protocols used for their generation 
+
+in order to help scientists to correctly manipulate these data it is important to underline that in many
+cases two or sporadically more fastq files were generated by repeated sequencing of the same
+library consequently fastq files sharing the same library name should be pooled for bioinformatics
+analyses 
+
+this high contextualization of all tara oceans sequence data makes the whole dataset a unique and
+valuable tool to marine ecosystem biologists and can serve as an example to other large scale data
+generating projects 
+
+technical validation
+sample and experiments information management
+all samples received by genoscope and all experiments performed from nucleic acid extractions to
+sequences generation were tracked by an in house laboratory information management system lims 
+this lims is designed to accumulate information on each sample at each step of the processes this
+software has been essential for internal follow up at any stage of the processing of such a huge amount of
+samples with this approach all collecting data station depth porosity experiment data protocol and
+quality control results and bioinformatics quality control analyses duplicates contamination taxonomy 
+mapping merging follow each sample throughout the experiment chain until sequencing data analysis 
+all these properties can be used to search and display sample data in reports during all the process 
+
+quality control during sample processing
+the pipeline for complete conversion of nucleic acids into sequences included various check points at which
+sample processing was stopped if the experiment did not meet some well defined quality criteria fig 
+
+lims
+
+raw fastq
+
+reads
+cleaning
+
+phix
+removal
+
+duplicates 
+estimation
+
+reads quality
+check
+
+taxonomic
+assignation
+
+rrna
+removal
+
+noribo clean 
+fastq
+
+merged reads
+check
+
+reads quality
+check
+
+merged
+reads check
+
+reads quality
+check
+
+dna rnaclean fastq
+
+figure data processing flowchart 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+quality control dna and rna integrity
+integrity of dna extracted from size fractionated filters was checked by running a dna aliquot from a
+subset of samples on agarose gel dna quality was visually evaluated by comparing migration to
+high molecular weight markers usually the majority of the dna should be located on a tight band at
+high molecular weight however a smear was present in the majority of the samples indicating partial
+dna degradation 
+
+rna quality was evaluated by capillary electrophoresis migration on an agilent bioanalyzer using the
+rna pico labchip kit total eukaryotic rna assay was selected for electropherogram internal
+analysis for rna extracted from protist and metazoan enriched filters whereas total prokaryotic rna
+assay was applied to prokaryote enriched filters these software allow generation of a rna integrity
+number rin calculated by comparing rrna peaks with a specific database eukaryotic or prokaryotic
+or plants and usually used as a score of rna quality in many tara oceans rna samples particularly
+from – μm – μm and – μm filters eukaryotic and prokaryotic species were co extracted 
+generating atypical rrna peaks profiles for this reason the rin was not accurate or even not
+computable and did not reflect the quality of the preparations however as for dna preparations rna
+quality was sometimes poor as most agilent profiles showed rrna peaks but also variable amounts of
+small size rna indicating partial degradation 
+
+dna and rna low qualities probably reflected the difficulty to preserve the integrity of very complex
+and heterogeneous communities all along the different steps from sampling on board to extraction in the
+lab the particular origin and natural variability of the sampled biomass had an impact also on nucleic acid
+extractions yields evaluated by qubit quantitation these were highly variable and usually reflected the
+abundance of collected plankton at a given sampling point samples under the minimal required amount
+for each specific library preparation as indicated in the methods section were not further processed 
+
+• number passed filter reads
+
+• nucleotide distribution
+
+• adapters contamination
+
+• q q score mean
+
+• taxonomy
+
+• metatranscriptomic specific qc 
+
+ duplication rate 
+
+ rrna reads
+
+• metagenomic specific qc 
+
+ merged reads
+
+ merged reads median and 
+
+average size
+
+rna dna 
+sample qc
+
+• integrity check gel migration or electropherogram 
+
+• quantity fluorometric measurement 
+
+c dna 
+synthesis
+
+• library quantitation by qpcr
+
+• library quality control
+library qc
+
+illumina 
+library
+
+preparation
+
+rna
+
+data qc
+
+dna
+
+figure overview of experimental pipeline from nucleic acids to sequences red crosses highlight qc
+
+steps where experiments can be stopped 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+quality control sequencing library
+the qualitative and quantitative analyses performed on the ready to sequence libraries were a crucial step
+for achieving high quality sequences first library size profiles obtained on agilent or labchip instruments
+traces were carefully evaluated and validated only if they corresponded to what expected from the
+specifically applied library construction protocol as an example metagenomics libraries preparations
+which included a tight gel size selection step for generation of overlapping reads see paragraph should
+generate a discrete peak at around bp corresponding to the insert size bp increased by the
+addition of illumina adapters bp fig a in contrast a standard truseq metatranscriptomic library
+ section should cover a broader size range between and bp fig b 
+
+even if at the end of preparation libraries were immediately quantified by a qubit measurement a
+qpcr quantitation was systematically performed as recommended by illumina company and the
+obtained value was retained for library normalization to nm indeed previous experience showed that
+qpcr is much more accurate in order to create optimum cluster densities across every lane of the
+flow cell 
+
+quality control data validation
+for the tara oceans project specific report configurations were developed within internal lims to
+display compare and analyse hundreds of samples 
+
+figure agilent bioanalyzer profiles of amplified libraries a shows an example of electropherogram
+
+obtained following the metagenomic library preparation protocol described in paragraph the size of this
+
+kind of library is very tight due to the size selection step for generation of overlapping paired end reads 
+
+ b shows an example of metatranscriptomic library generated following the ts rna protocol 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+the quality of each dataset was assessed using the interfaces depicted in figs and which provided a
+quick insight into the dataset quality allowing smart check of important statistics as the number of
+passed filter reads and duplication rate rrna reads for metatranscriptomic datasets and merged
+reads their median and average size for metagenomics ones furthermore for each sample plots and
+graphics were generated and allowed to easily visualize base quality q score and nucleotide distribution
+before and after the filtering treatments described in paragraph as well as taxonomical assignments
+ fig 
+
+among all the sequences quality control statistics the following parameters were considered crucial
+for identification of low quality sequences and drove decision about passing quality control 
+
+ base calling accuracy measured by phred quality score q score for each sample this metric was
+illustrated by the calculation of q score mean and of bases with q≥ fig a as well as a quality
+score plot fig a a q score of means the probability of an incorrect base call in times in
+other words that the base call accuracy is generally datasets were valid when q score mean was
+ and of bases with q≥ was at least however this last criterion was not applied to
+metatranscriptomics and amplicon libraries as the particular library construction and the low base
+diversity especially in the case of amplicons had a negative impact on the q score by decreasing it
+significantly 
+
+ taxonomic assignation fig d f the majority of the reads were classified under the ‘no hits’ or ‘not
+assigned’ item as expected from the origin of the samples otherwise the sequences were assigned to
+known marine species the presence of other species not expected to live in ocean environment was
+considered as contaminating the sample and a threshold of per species was arbitrarily defined to
+invalidate the dataset however this kind of contamination was rare and in most cases attributed to
+homo sapiens dna 
+
+whereas these criteria were applied to all samples others were defined only for metatranscriptomics
+samples issued from protists metazoan enriched filters in particular 
+
+ high duplicate rates calculated on raw paired end reads were considered as characteristic of low
+complexity samples datasets containing duplicates were not further processed fig b 
+
+ taxonomic assignations attributed to bacteria were not expected in these samples produced by poly
+ a rna selection and considered as a background signal an arbitrary threshold defined at was
+applied for passing quality control figs b and d 
+
+ datasets containing more than reads assigned to the fungi kingdom were further inspected most
+of them were classified as filamentous ascomycete fungi a group including both marine and terrestrial
+species verification about the habitat of the suspected contaminant was made before taking decision of
+discarding the dataset figs b and d 
+
+figure representative examples of tabulated data reports generated by the lims for multiple datasets 
+
+ a shows an example of sequencing report for metagenomics libraries metrics particularly useful for
+
+evaluating the quality of this type of data can be visualized as the of merged reads the median size length
+
+and the estimated insert size b shows an example of report for metatranscriptomic libraries from poly a 
+
+rna quality control of these libraries focuses on duplication rate and potential contamination by bacteria and
+
+fungi whose are easily visualized on the report 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+figure representative examples of key data reports generated by the lims for individual datasets 
+
+ a quality score box plot of bp illumina reads this plot summarizes the average quality per position over all
+
+reads it shows the box plot per position in the read and the average smoothed line in black b nucleotide distribution
+
+chart per read position at left before adapters and low quality reads trimming at right after the trimming process on
+
+the left plot a non random distribution in the first bases is typical of metatranscriptomic libraires generated with
+
+smart dt protocol which leaves smarter adapter sequencing at the beginning of the cdna insert c graphical
+
+representation of known overrepresented sequences primers and adapters used for library preparation before left
+
+panel and after right panel adapter sequences trimming again the overrepresentation of smarter adapter is easily
+
+visualised on the left panel red bar and it disappears after the trimming process right panel d report of taxonomic
+
+assignation by organism left by division middle and by keyword right bacteria and fungi o are highlighted
+in green to facilitate manual validation of the dataset e report of rrna sequences detection and trimming with detail
+
+of of different rrna species f krona chart of the same taxonomic assignment reported in d g distribution of
+
+the length of the reads obtained after merging of paired reads generated by sequencing of a metagenomic library 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+data availability
+the authors declare that all data reported herein are fully and freely available from the date of
+publication with no restrictions and that all of the samples analyses publications and ownership of data
+are free from legal entanglement or restriction of any sort by the various nations whose waters the tara
+oceans expedition sampled in 
+
+references
+ karsenti e et al a holistic approach to marine eco systems biology plos biol e 
+ pesant s et al open science resources for the discovery and analysis of tara oceans data sci data 
+ gilbert j a dupont c l microbial metagenomics beyond the genome ann rev mar sci – 
+ temperton b giovannoni s j metagenomics microbial diversity through a scratched lens curr opin microbiol 
+ – 
+
+ venter j c et al environmental genome shotgun sequencing of the sargasso sea science – 
+ rusch d b et al the sorcerer ii global ocean sampling expedition northwest atlantic through eastern tropical pacific plos
+biol e 
+
+ dinsdale e a et al functional metagenomic profiling of nine biomes nature – 
+ qin j et al a human gut microbial gene catalogue established by metagenomic sequencing nature – 
+ oh s et al metagenomic insights into the evolution function and complexity of the planktonic microbial community of lake
+lanier a temperate freshwater ecosystem appl environ microbiol – 
+
+ gilbert j a et al detection of large numbers of novel sequences in the metatranscriptomes of complex marine microbial
+communities plos one e 
+
+ frias lopez j et al microbial community gene expression in ocean surface waters proc natl acad sci usa 
+ – 
+
+ gifford s m sharma s rinta kanto j m moran m a quantitative analysis of a deeply sequenced marine microbial
+metatranscriptome isme j – 
+
+ leininger s et al archaea predominate among ammonia oxidizing prokaryotes in soils nature – 
+ urich t et al simultaneous assessment of soil microbial community structure and function through analysis of the meta 
+
+transcriptome plos one e 
+ tveit a schwacke r svenning m m urich t organic carbon transformations in high arctic peat soils key functions and
+
+microorganisms isme j – 
+ gosalbes m j et al metatranscriptomic approach to analyze the functional human gut microbiota plos one e 
+ burki f the eukaryotic tree of life from a global phylogenomic perspective cold spring harb perspect biol a 
+ brum j r schenck r o sullivan m b global morphological analysis of marine viruses shows minimal regional variation
+
+and dominance of non tailed viruses isme j – 
+ hingamp p et al exploring nucleo cytoplasmic large dna viruses in tara oceans microbial metagenomes isme j 
+
+ – 
+ brum j r et al ocean plankton patterns and ecological drivers of ocean viral communities science 
+ de vargas c et al ocean plankton eukaryotic plankton diversity in the sunlit ocean science 
+ lima mendez g et al ocean plankton determinants of community structure in the global plankton interactome science 
+
+ 
+ sunagawa s et al ocean plankton structure and function of the global ocean microbiome science 
+ villar e et al ocean plankton environmental characteristics of agulhas rings affect interocean plankton transport science 
+
+ 
+ cornejo castillo f m et al cyanobacterial symbionts diverged in the late cretaceous towards lineage specific nitrogen fixation
+
+factories in single celled phytoplankton nat commun 
+ farrant g k et al delineating ecologically significant taxonomic units from global patterns of marine picocyanobacteria proc 
+
+natl acad sci usa e –e 
+ guidi l et al plankton networks driving carbon export in the oligotrophic ocean nature – 
+ malviya s et al insights into global diatom distribution and diversity in the world s ocean proc natl acad sci usa 
+
+e –e 
+ roux s et al ecogenomics and potential biogeochemical impacts of globally abundant ocean viruses nature 
+
+ – 
+ thomas t gilbert j meyer f metagenomics—a guide from sampling to data analysis microb inform exp 
+ knight r et al unlocking the potential of metagenomics through replicated experimental design nat biotechnol 
+
+ – 
+ stewart f j preparation of microbial community cdna for metatranscriptomic analysis in marine plankton methods enzymol 
+
+ – 
+ zhang k et al sequencing genomes from single cells by polymerase cloning nat biotechnol – 
+ john s g et al a simple and efficient method for concentration of ocean viruses by chemical flocculation environ microbiol rep
+
+ – 
+ duhaime m b deng l poulos b t sullivan m b towards quantitative metagenomics of wild viruses and other ultra low
+
+concentration dna samples a rigorous assessment and optimization of the linker amplification method environ microbiol 
+ – 
+
+ solonenko s a et al sequencing platform and library preparation choices impact viral metagenomes bmc genomics 
+ 
+
+ hurwitz b l deng l poulos b t sullivan m b evaluation of methods to concentrate and purify ocean virus communities
+through comparative replicated metagenomics environ microbiol – 
+
+ winnepenninckx b backeljau t de wachter r extraction of high molecular weight dna from molluscs trends genet 
+ 
+
+ clerissi c et al deep sequencing of amplified prasinovirus and host green algal genes from an indian ocean transect reveals
+interacting trophic dependencies and new genotypes environ microbiol rep – 
+
+ martinez garcia m et al unveiling in situ interactions between marine protists and bacteria through single cell sequencing 
+isme j – 
+
+ zubkov m v burkill p h topping j n flow cytometric enumeration of dna stained oceanic planktonic protists j 
+plankton res – 
+
+ amaral zettler l a mccliment e a ducklow h w huse s m a method for studying protistan diversity using massively
+parallel sequencing of v hypervariable regions of small subunit ribosomal rna genes plos one e 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+
+ parada a e needham d m fuhrman j a every base matters assessing small subunit rrna primers for marine
+microbiomes with mock communities time series and global field samples environ microbiol – 
+
+ ramskold d et al full length mrna seq from single cell levels of rna and individual circulating tumor cells nat biotechnol 
+ – 
+
+ deng q ramskold d reinius b sandberg r single cell rna seq reveals dynamic random monoallelic gene expression in
+mammalian cells science – 
+
+ alberti a et al comparison of library preparation methods reveals their impact on interpretation of metatranscriptomic data 
+bmc genomics 
+
+ li r li y kristiansen k wang j soap short oligonucleotide alignment program bioinformatics – 
+ kopylova e noe l touzet h sortmerna fast and accurate filtering of ribosomal rnas in metatranscriptomic data 
+
+bioinformatics – 
+ morgulis a et al database indexing for production megablast searches bioinformatics – 
+ huson d h auch a f qi j schuster s c megan analysis of metagenomic data genome res – 
+
+data citations
+ genbank nc 
+ european nucleotide archive prjeb 
+ tara oceans consortium c tara oceans expedition p pangaea http dx doi org pangaea 
+ alberti a pesant s tara oceans consortium c tara oceans expedition p pangaea https dx doi org 
+pangaea 
+
+acknowledgements
+we thank the commitment of the following people and sponsors cnrs in particular groupement de
+recherche gdr european molecular biology laboratory embl genoscope cea the french
+government investissements d avenir programmes oceanomics anr btbr and
+france genomique anr inbs agence nationale de la recherche european union
+fp microb no and the u s national science foundation awards deb oce 
+ oce and oce to m e s and r s and oce to r s additional
+funding was provided by spanish ministry of science and innovation grant cgl bos
+microocean pangenomics and by japan society for the promotion of science jsps kakenhi
+ grant numbers h k and h we also thank the support and
+commitment of agnès b and etienne bourgois the veolia environment foundation region bretagne 
+lorient agglomeration world courier illumina the eléctricité de france edf foundation fondation
+pour la recherche sur la biodiversité frb the foundation prince albert ii de monaco the tara
+foundation its schooner and teams we thank mercator coriolis and acri st for providing
+daily satellite data during the expedition we are also grateful to the french ministry of foreign affairs
+for supporting the expedition and to the countries who graciously granted sampling permissions tara
+oceans would not exist without continuous support from institutes http oceans taraexpeditions org 
+en m science les labos impliques this article is contribution number of tara oceans 
+
+author contributions
+contributed to writing this paper adriana alberti julie poulain stefan engelen karine labadie sarah
+romac isabel ferrera corinne cruaud guillaume albini jean marc aury silvia g acinas marta
+royo llonch francisco m cornejo castillo beatriz fernández gómez clara amid petra ten hoopen 
+matthew b sullivan hiroyuki ogata michal e sieracki ramunas stepanauskas stéphane pesant 
+patrick wincker contributed to definition of the experimental procedures adriana alberti julie
+poulain karine labadie sarah romac isabel ferrera corinne cruaud arnaud lemainque nigel
+grimsley silvia g acinas ramiro logares chris bowler colomban de vargas stefanie kandels lewis 
+matthew b sullivan jennifer r brum melissa b duhaime bonnie t poulos bonnie l hurwitz michal
+e sieracki ramunas stepanauskas patrick wincker contributed to nucleic acid extractions adriana
+alberti julie poulain genoscope technical team marta royo llonch francisco m cornejo castillo 
+beatriz fernández gómez sarah romac elodie desgranges jennifer r brum melissa b duhaime 
+bonnie t poulos bonnie l hurwitz contributed to single amplified genome generation and
+identification michael e sieracki nicole poulton ramunas stepanauskas contributed to library
+preparations and sequencing adriana alberti julie poulain karine labadie corinne cruaud 
+genoscope technical team contributed to bioinformatics pipelines stefan engelen guillaume
+albini corinne da silva caroline belser frédérick gavory alexis bertrand jean marc aury carole
+dossat shahinaz gas julie guy maud haquelle e krame jacoby olivier jaillon eric pelletier gaëlle
+samson marc wessner guy cochrane clara amid petra ten hoopen stéphane pesant contributed as
+coordinator of data management eric karsenti contributed as scientific director of the tara oceans
+consortium tara oceans coordinators contributed intellectually to this work 
+
+additional information
+competing interests the authors declare no competing financial interests 
+
+how to cite this article alberti a et al viral to metazoan marine plankton nucleotide sequences from
+the tara oceans expedition sci data doi sdata 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+https www ncbi nlm nih gov genome term� �nc 
+http www ebi ac uk ena data view prjeb 
+http dx doi org pangaea 
+https dx doi org pangaea 
+https dx doi org pangaea 
+
+
+publisher’s note springer nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations 
+
+open access this article is licensed under a creative commons attribution interna 
+tional license which permits use sharing adaptation distribution and reproduction in any
+
+medium or format as long as you give appropriate credit to the original author s and the source provide a
+link to the creative commons license and indicate if changes were made the images or other third party
+material in this article are included in the article’s creative commons license unless indicated otherwise in
+a credit line to the material if material is not included in the article’s creative commons license and your
+intended use is not permitted by statutory regulation or exceeds the permitted use you will need to obtain
+permission directly from the copyright holder to view a copy of this license visit http creativecommons 
+org licenses by 
+
+the creative commons public domain dedication waiver http creativecommons org publicdomain 
+zero applies to the metadata files made available in this article 
+
+© the author s 
+
+adriana alberti julie poulain stefan engelen karine labadie sarah romac 
+isabel ferrera guillaume albini jean marc aury caroline belser alexis bertrand 
+corinne cruaud corinne da silva carole dossat frédérick gavory shahinaz gas 
+julie guy maud haquelle e krame jacoby olivier jaillon arnaud lemainque 
+eric pelletier gaëlle samson mark wessner genoscope technical teamz silvia g acinas 
+marta royo llonch francisco m cornejo castillo ramiro logares 
+beatriz fernández gómez chris bowler guy cochrane clara amid 
+petra ten hoopen colomban de vargas nigel grimsley elodie desgranges 
+stefanie kandels lewis hiroyuki ogata nicole poulton michael e sieracki 
+ramunas stepanauskas matthew b sullivan jennifer r brum y 
+melissa b duhaime bonnie t poulos bonnie l hurwitz tara oceans consortium
+coordinators§ stéphane pesant eric karsenti patrick wincker 
+
+ cea—institut de biologie françois jacob genoscope rue gaston crémieux evry france cnrs umr 
+station biologique de roscoff place georges teissier roscoff france sorbonne universités upmc univ paris 
+umr station biologique de roscoff place georges teissier roscoff france departament de biologia
+marina i oceanografia institute of marine sciences icm csic barcelona e spain cnrs umr evry
+cp france université d evry umr evry cp france fondap center for genome regulation moneda
+ santiago chile laboratorio de bioinformática y expresión génica instituto de nutrición y tecnología de
+los alimentos inta universidad de chile el libano macul santiago chile ecole normale supérieure psl
+research university institut de biologie de l’ecole normale supérieure ibens cnrs umr inserm u rue
+d’ulm paris f france european molecular biology laboratory european bioinformatics institute wellcome
+genomes campus hinxton cambridge cb sd uk cnrs umr biom avenue pierre fabre banyuls sur mer
+ france sorbonne universités paris oob upmc avenue pierre fabre banyuls sur mer france
+ directors’ research european molecular biology laboratory meyerhofstr heidelberg germany structural
+and computational biology european molecular biology laboratory meyerhofstr heidelberg germany
+ institute for chemical research kyoto university gokasho uji kyoto japan bigelow laboratory for
+ocean sciences east boothbay maine usa national science foundation arlington virginia usa
+ departments of microbiology and civil environmental and geodetic engineering ohio state university columbus 
+ohio usa department of microbiology the ohio state university columbus ohio usa department
+of ecology and evolutionary biology university of michigan ann arbor michigan usa university of arizona 
+tucson arizona usa department of agricultural and biosystems engineering university of arizona tucson 
+arizona usa marum center for marine environmental sciences university of bremen leobener str 
+bremen germany pangaea data publisher for earth and environmental science university of bremen 
+leobener str bremen germany sorbonne universiteś upmc universite ́ paris cnrs laboratoire
+d’oceanographie de villefranche lov observatoire oceánologique chemin du lazaret villefranche sur mer
+f france these authors contributed equally to this work ypresent address department of oceanography and
+coastal sciences louisiana state university baton rouge louisiana usa za full list of genoscope technical team
+appears at the end of the paper §a full list of tara oceans consortium coordinators appears at the end of the paper 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org publicdomain zero 
+http creativecommons org publicdomain zero 
+
+
+genoscope technical team
+pascal bazire odette beluche laurie bertrand marielle besnard gonnet isabelle bordelais 
+magali boutard maria dubois corinne dumont evelyne ettedgui patricia fernandez 
+espérance garcia nathalie giordanenco aiach thomas guerin chadia hamon elodie brun 
+sandrine lebled patricia lenoble claudine louesse eric mahieu barbara mairey 
+nathalie martins catherine megret claire milani jacqueline muanga céline orvain 
+emilie payen peggy perroud emmanuelle petit dominique robert murielle ronsin 
+
+ benoit vacherie 
+
+tara oceans consortium coordinators
+silvia g acinas peer bork emmanuel boss chris bowler colomban de vargas 
+michael follows gabriel gorsky nigel grimsley pascal hingamp daniele iudicone 
+olivier jaillon stefanie kandels lewis lee karp boss eric karsenti fabrice not 
+hiroyuki ogata stéphane pesant jeroen raes christian sardet michael e sier 
+acki sabrina speich lars stemmann matthew b sullivan shinichi sunagawa 
+
+ patrick wincker 
+
+ molecular medicine partnership unit university of heidelberg and european molecular biology laboratory heidelberg
+ germany max delbrück centre for molecular medicine berlin germany department of bioinfor 
+matics university of wuerzburg würzburg germany school of marine sciences university of maine orono 
+maine usa department of earth atmospheric and planetary sciences massachusetts institute of technology 
+ massachusetts avenue mit building cambridge massachusetts usa aix marseille univ université de
+toulon cnrs ird mio campus de luminy oceanomed bâtiment méditerranée marseille france sta 
+zione zoologica anton dohrn villa comunale naples italy department of microbiology and immunology rega
+institute ku leuven herestraat leuven belgium vib center for microbiology herestraat leuven 
+belgium cnrs umr biodev observatoire océanologique villefranche sur mer f france laboratoire
+de physique des océans ubo iuem place copernic plouzané france department of geosciences labor 
+atoire de météorologie dynamique lmd ecole normale supérieure rue lhomond paris cedex france 
+ institute of microbiology department of biology vladimir prelog weg zürich switzerland 
+
+www nature com sdata 
+
+scientific data doi sdata 
+
+
+	viral to metazoan marine plankton nucleotide sequences from the tara oceans expedition
+	background summary
+	methods
+	 handling of genomics samples
+	 nucleic acids preparations
+
+	figure overview of omics analysis strategy applied on tara oceans samples x 
+	table 
+	acinas lab dna extraction method id acinasprokdnaextr 
+	acinas lab rna extraction method id acinasprokrnaext 
+	genoscope lab dna rna extraction method id genoscopeprokrnaext 
+	 s and s rrna genes amplicon generation for eukaryotic and prokaryotic metabarcoding
+	 sequencing library preparation
+	cdna synthesis and library preparation from eukaryote enriched fractions
+	cdna synthesis and library preparation from prokaryote and virus enriched fractions
+	 sequencing and data quality control
+	code availability
+
+	data records
+	table 
+	technical validation
+	sample and experiments information management
+	quality control during sample processing
+
+	figure data processing flowchart x 
+	figure overview of experimental pipeline from nucleic acids to sequences red crosses highlight qc steps where experiments can be stopped 
+	quality control sequencing library
+
+	figure agilent bioanalyzer profiles of amplified libraries a shows an example of electropherogram obtained following the metagenomic library preparation protocol described in paragraph 
+	figure representative examples of tabulated data reports generated by the lims for multiple datasets a shows an example of sequencing report for metagenomics libraries 
+	data availability
+
+	figure representative examples of key data reports generated by the lims for individual datasets a quality score box plot of bp illumina reads 
+	references
+	references
+	we thank the commitment of the following people and sponsors cnrs in particular groupement de recherche gdr european molecular biology laboratory embl genoscope cea the french government x investissements d x avenir x progr
+	acknowledgements
+	design type s observation design x global survey x biodiversity assessment objectivemeasurement type s metagenomics analysis x rrnagene x whole genome sequencing assay x metatranscriptomicdatatechnology type s sequ
+	additional information
+	genoscope technical team
+	tara oceans consortium coordinators
+
+
+

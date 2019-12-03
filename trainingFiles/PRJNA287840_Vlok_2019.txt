@@ -1,0 +1,983 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+viruses
+
+article
+
+metagenomes of a freshwater charavirus from
+british columbia provide a window into ancient
+lineages of viruses
+
+marli vlok † adrian j gibbs and curtis a suttle 
+ department of botany university of british columbia vancouver bc v t z canada 
+
+marlivlok alumni ubc ca
+ emeritus faculty australian national university canberra act australia
+ institute for the oceans and fisheries university of british columbia vancouver bc v t z canada
+ department of earth ocean and atmospheric sciences university of british columbia vancouver 
+
+bc v t z canada
+ department of microbiology and immunology university of british columbia vancouver 
+
+bc v t z canada
+ correspondence adrian j gibbs hotmail com a j g suttle science ubc ca c a s 
+† current address department of biochemistry and molecular biology university of british columbia 
+
+vancouver bc v t z canada
+
+received march accepted march published march 
+����������
+�������
+
+abstract charophyte algae not chlorophyte algae are the ancestors of ‘higher plants’ hence viruses
+infecting charophytes may be related to those that first infected higher plants streamwaters from
+british columbia canada yielded single stranded rna metagenomes of charavirus canadensis
+ cv can that are similar in genomic architecture length nt nucleotide identity 
+and encoded amino acid sequence identity to those of charavirus australis cv aus the
+sequences of their rna dependent rna polymerases rdrp resemble those found in benyviruses 
+their helicases those of hepaciviruses and hepegiviruses and their coat proteins cp those of
+tobamoviruses all from the alphavirus flavivirus branch of the ‘global rna virome’ the ’ terminus
+of the cv can genome but not that of cv aus is complete and encodes a methyltransferase domain 
+comparisons of cp sequences suggests that canadian and australian charaviruses diverged – 
+million years ago mya whereas the cps of charaviruses and tobamoviruses last shared a common
+ancestor mya and the rdrps of charaviruses and benyviruses mya cv can is sporadically
+abundant in low nutrient freshwater rivers in british columbia where chara braunii a close relative of
+c australis occurs and which may be its natural host charaviruses like their hosts are ancient and
+widely distributed and thus provide a window to the viromes of early eukaryotes and even archaea 
+
+keywords charavirus rna viruses capsid proteins metagenomes virome phylogenetics
+
+ introduction
+
+charophyte algae are the sister group of the chlorophyte green algae molecular genetics
+indicates that they gave rise to higher plants – mya hence it is sensible to search for viruses
+infecting extant charophytes as they may provide evidence of the virus lineages that infected the
+earliest higher plants the discovery of sequences in metagenomic data from freshwaters in british
+columbia canada that were homologous to those of a virus we call charavirus australis cv aus 
+found in plants of chara australis in rivers of south eastern australia provided an opportunity
+to compare charaviruses and their relatives in space and time in space because c australis is found
+in south east asia and australasia but not in the americas and in time because they share two
+
+viruses doi v www mdpi com journal viruses
+
+http www mdpi com journal viruses
+http www mdpi com
+https orcid org 
+https orcid org 
+http dx doi org v 
+http www mdpi com journal viruses
+https www mdpi com type check update version 
+
+
+viruses of 
+
+genes with the tobamoviruses for which an age has recently been proposed allowing a wider
+extrapolation of indicative dates 
+
+cv aus was found in the s in plants of c australis a large charophyte growing in the
+murrumbidgee river near canberra australia its virions were detected in sap from infected thalli by
+electron microscopy and serology and stem cells of some infected thalli contained large paracrystals of
+virions formed by cytoplasmic streaming and detected by polarized light microscopy and electron
+microscopy no similar virions were subsequently found in a limited number of samples of
+charophytes from other rivers in australia from rivers and lakes of central and southern england 
+nor from a worldwide collection of live charophytes kept by v w proctor however two short
+ and bp cv aus like contigs were reported from metagenomic data of samples collected in
+the finger lakes ny usa confirming the presence of chara like viruses outside of australia 
+
+cv aus has always appeared to be taxonomically anomalous its virions resemble those of
+tobacco mosaic virus tmv with which it was originally grouped international committee in
+taxonomy of viruses rd report in that they are straight helically constructed tubes nm wide and
+with a similar pitch but they are significantly longer about nm in length rather than nm 
+the cv aus genome is also commensurately longer than that of tmv around kb rather than the
+ kb but was predicted to be kb as its ’terminus seemed incomplete the cv aus genome
+encoded a kda replicase that has helicase protease and rdrp domains a kda helicase a 
+kda movement protein and an kda capsid protein cp the last has significant sequence similarity
+to the cps of tobamoviruses and hence the structural similarity of their virions whereas the replicase
+shares predicted amino acid similarity with those of beny and hepeviruses and the helicase with
+those of the helicases of hepaciviruses and hepegiviruses these unusual gene sequence relationships
+make charaviruses a likely source of insights into the study of virus origins 
+
+here we report on the assembly of rna virus metagenomic data from freshwaters near
+vancouver british columbia that yielded the genome of a putative virus which we call charavirus
+canadensis cv can which closely resembles cv aus through comparative genome analysis we
+explore the evolutionary temporal biological and taxonomic relationships of these viruses and
+use metagenomic analysis to infer the abundance and diversity of cv can in the environment our
+analyses indicate that plants of other species in the genus chara are the likely host of cv can 
+
+ materials and methods
+
+viral rna metagenomic sequences were downloaded from the ncbi sequence read archive 
+bioproject accession prjna these data were derived from samples collected from three
+streams in southwestern british columbia over a month period a full account of the collection and
+subsequent generation of the metagenomic data are described in – 
+
+ metagenomic assembly and genomic analysis
+
+reads from each library had primer sequences removed and quality trimmed phred score
+of using trimmomatic v http www usadellab org cms page trimmomatic final
+datasets consisted of merged paired reads pear v https cme h its org exelixis web software 
+pear and singletons the reads from each dataset were assembled separately using the de
+novo assembly algorithm in clc genomics workbench version with default settings clcbio 
+cambridge ma usa the contigs as well as unmapped reads for each metagenomic dataset were
+combined and re assembled using the same parameters relative abundances were determined by
+mapping reads from each dataset to the final contigs rarefied to the smallest sample size 
+using the phyloseq package in r https www r project org with iterations and
+normalized by the number of reads divided by the average contig size 
+
+genome nucleotide similarities were calculated using bioedit and visualized using the
+lagan global pairwise alignment program as part of the mvista webserver amino acid
+similarities and identities were determined using bioedit and the pairwise alignment algorithm of
+
+http www usadellab org cms page trimmomatic
+https cme h its org exelixis web software pear 
+https cme h its org exelixis web software pear 
+https www r project org 
+
+
+viruses of 
+
+geneious prime https www geneious com related sequences in the genbank database
+were identified using its online blast facilities jan–oct sequence alignments were tested for
+phylogenetic anomalies using rdp v http web cbio uct ac za darren rdp html 
+
+ phylogenetic analysis
+
+the charavirus and other sequences were sorted checked grouped and translated and
+duplicates removed using mafft v https mafft cbrc jp alignment software the
+neighbor joining nj facility in clustalx bioedit v and the translatorx server 
+ http translatorx co uk with its mafft option models for maximum likelihood ml analysis of the
+sequences or their encoded protein sequences were compared using mega v phylogenetic
+trees were inferred using the ml method phyml v ml and statistical support for their
+topologies assessed using the shimodara hasegawa sh option ml trees were visualized and
+midpoint rooted using figtree http tree bio ed ac uk software figtree and drawn using
+a commercial computer illustration package the evolutionary divergence of the charaviruses and
+tobamoviruses was estimated from the ml trees of protein sequences using patristic and ms excel 
+the dates of nodes in trees were compared using the ratios of the mean pairwise patristic distances of
+all sequences i e tips connected through individual nodes the date of one node in a tree provided
+an estimate of others in the same tree 
+
+ k mer analysis
+
+k mer counts of the rdrp and capsid coding sequences were determined using the biostrings
+package in r using rstudio and were compared by correspondence
+analysis in the vegan and vegan d packages 
+
+ single nucleotide variant analysis
+
+metagenomic reads were mapped to the genome using the clc genomics workbench v with
+a stringency of identity and read overlap of analysis of single nucleotide variation snv was
+done using the quality based variant detection tool in clc genomic workbench v minimum read
+count of two and visualized using r and the ggplot package 
+
+ results
+
+ the cv can metagenome
+
+a single stranded rna metagenome cv can accession code mk was assembled from
+multiple lotic freshwater samples collected from southwestern british columbia the genome was
+ nt megadaltons in length with a g c content of but only guanine a blast
+search of genbank found the sequence matched most closely throughout most of its length that of
+cv aus accession code jf the cv aus genome is only nt daltons in length
+with a g c content of and like that of cv can had a noticeably small guanine content 
+
+the cv can sequence has four non overlapping open reading frames orfs that match in size
+and order with those reported for cv aus figure except that the longest orf which encodes a
+replicase rep and is adjacent to its ′ terminus is nt long of the metagenome whereas 
+that of cv aus is only around nt this difference is because of an extra region at the ′ terminus
+of the cv can sequence that encodes a putative viral methyltransferase v mtase domain which was
+predicted to be missing from the incomplete ′ terminus of the cv aus sequence the three smaller
+orfs are predicted to encode a helicase hel a possible movement protein mp and a virion coat
+protein cp the concatenated orfs of cv can and cv aus had a mean nucleotide sequence identity
+of and predicted mean amino acid sequence identity of the predicted amino acid
+sequences of the charavirus rep proteins were identical the hel proteins identical the
+
+https www geneious com
+http web cbio uct ac za darren rdp html
+https mafft cbrc jp alignment software 
+http translatorx co uk
+http tree bio ed ac uk software figtree 
+
+
+viruses of 
+
+mps proteins only identical and the cps identical the cps were most conserved and the
+mps least as found with many similar viruses 
+
+figure comparison of two charavirus genomes gene map and similarities of nucleotide sequences
+and predicted amino acids the nucleotide similarity axis positively correlated with the similarity score 
+predicted weight of putative proteins are indicated in kilo daltons kda identical amino acids in black 
+similar amino acids in grey and in line with the open reading frame orf of charavirus canadensis
+ cv can 
+
+ predicted gene products of cv can
+
+ replicase nt to 
+
+in a blastn search using the longest orf of the cv can genome against the genbank
+non redundant nr database the only significant sequence match p e− was to the putative
+replicase in cv aus translated the orf is predicted to code for a protein of kda blastp and
+pfam reveal that adjacent to the n terminus is a viral methyl transferase region v mtase centrally 
+there is significant similarity to rna helicase v hel pf and the c terminus encodes an rna
+dependent rna polymerase rdrp pf region these motifs are ‘hallmark domains’ of
+single stranded rna ss rna viral genomes of the alphavirus or ‘sindbis like’ superfamily – 
+the translated sequences for these individual motifs of the replicase were used to search the genbank
+nr database using blastp 
+
+the v mtase region of the replicase amino acid residues – most closely matched the same
+region of the cv aus sequence it also matched significantly sh support v mtases encoded
+by benyviruses and related viruses i e beet necrotic yellow vein beet soil borne mosaic rice stripe
+necrosis burdock mottle and mangifera indica latent viruses – and also hubei beny like virus
+ and agaricus bisporus virus ky 
+
+the v rna hel region residues – matched most closely helicases encoded by the same
+region in benyvirus genomes and more distantly helicases from hubei benyi like virus and hubei
+hepe like virus and lentinula edodes ssrna mycovirus ab 
+
+the rdrp region residues – significantly matched more than viral rdrp
+sequences in genbank the closest matches are again those of the benyviruses figure as well
+as agaricus bisporus virus ky and hubei beny like virus the basal sister
+group is dominated by a crown group of rdrp proteins from avian and mammal hepeviruses thus 
+the cv can replicase sequence matches the replicase sequence in cv aus as well as many other
+more distantly related sequences in genbank from ‘environmental samples’ rather than cultured or
+isolated virions 
+
+
+
+viruses of 
+
+figure maximum likelihood phylogeny of the amino acid sequences of the rdrp 
+regions of the replicase proteins of the charaviruses benyviruses and selected tobamoviruses
+and relatives acronyms abv agaricus bisporus virus aqm bastlv vn 
+bastrovirus like virus vietnam bat yp bastv braz bastrovirus brazil sewage
+ asm bmov burdock mottle virus yp bnyvv beet necrotic yellow vein virus
+ np bsbmv beet soil borne mosaic virus np cgmmv cucumber green mottle
+mosaic virus np cmmtv cactus mild mottle virus yp ctv cutthroat trout
+piscihepevirus yp cumtv cucumber mottle virus yp cv aus charavirus
+australis aej cv can charavirus canadensis mk hblv hubei beny like virus
+ apg hhlv hubei hepe like virus yp hlsv hibiscus latent singapore
+virus yp hvlv hubei virga like virus yp kgmmv kyuri green mottle
+mosaic virus yp milv mangifera indica latent virus amq ohv a orthohepevirus
+a abb age age agt anw bae ohv b orthohepevirus b
+ aex caq yp ohv c orthohepevirus c adb afl anj 
+bao bat ohv d orthohepevirus d aif yp rcnav rattail cactus
+necrosis associated virus yp rmv ribgrass mosaic virus yp rstnv 
+rice stripe necrosis virus abu sanbv san bernardo virus aqm tbtlv tick borne
+tetravirus like virus aii tmv tobacco mosaic virus np the green discs mark nodes
+with sh support two thirds of the nodes in the orthohepevirus cluster have sh support but 
+for clarity are not marked 
+
+ helicase nt – 
+
+the putative helicase encoded by this orf is predicted to be a kda protein that closely matches
+that from cv aus based on a blastp analysis and is more distantly related to helicase sequences of
+hepaciviruses and hepegiviruses of animals it includes a motif residues – of the dead like
+ dexc helicase superfamily a diverse family of proteins involved in atp dependent rna or dna
+unwinding 
+
+ possible movement protein nt – 
+
+the translated sequence of this orf encodes a putative protein with a predicted size of kd it
+is homologous to an orf in the same genomic position in cv aus but they had the smallest sequence
+
+
+
+viruses of 
+
+similarity of all pairwise comparisons of the orfs of the two viruses the encoded proteins matched no
+others in the blastp or pfam database searches the properties of the cv aus protein were discussed in
+detail in the report of the cv aus genome their position in the genome is typical of the movement
+proteins of many of the plant infecting virgaviruses 
+
+ coat protein cp nt – 
+
+this orf is predicted to encode an kda protein with greatest identity to the comparable
+sequence in cv aus indicating that they are the most evolutionarily conserved figure particularly
+for amino acid residues – we were unable to identify ‘read contigs’ with alternative termini
+matching the cv aus sequence suggesting that the cv can metagenome is missing the ′ terminal 
+codons of the cp gene homologous to those of cv aus 
+
+figure maximum likelihood phylogeny of the amino acid sequences of the cps and cp like proteins 
+of the charaviruses and relatives these include av abisko virus nc asv adelphocoris
+suturalis virus nc bccv beihai charybdis crab virus nc bnyvv beet necrotic
+yellow vein virus nc bsbmv beet soil borne mosaic virus nc bsmv barley
+stripe mosaic virus nc cgmtmv cucumber green mottle mosaic virus nc cumtv 
+cucumber mottle virus nc cv aus charavirus australis jf cv can charavirus
+canadensis mk hlsv hibiscus latent singapore virus nc hvlv hubei virga like
+virus nc hvlv hubei virga like virus nc hvlv hubei virga like virus
+ nc hvlv hubei virga like virus nc kgmtmv kyuri green mottle
+mosaic virus nc mmv maracuja mosaic virus nc pcv peanut clump virus
+ nc pebv pea early browning virus nc rcnav rattail cactus necrosis associated
+virus nc rmv ribgrass mosaic virus nc sbwmv soil borne wheat mosaic virus
+ nc tmv tobacco mosaic virus nc trv tobacco rattle virus nc vtmtv 
+velvet tobacco mottle virus nc xm a gene from apis mellifera xm a
+gene from trichogramma pretiosum the circle marks the midpoint of the phylogeny and the broken line
+is the branch to the outgroup of hvlv and vtmtv drawn only at of its true length the green
+discs mark nodes with sh support and the yellow discs those with sh support 
+
+the highly conserved amino acid sequence was used in successive blastp searches of the
+genbank database in addition to matching several tobamovirus cps it matched several tobamo
+cp like proteins from invertebrates identified in metagenomic studies based on an ml taxonomy sh
+
+
+
+viruses of 
+
+support figure the protein most similar to the charavirus cps was a predicted protein of the
+beihai charabydis crab virus bccv nc which was assembled from metagenomic data 
+
+ divergence of cv aus and cv can
+
+molecular clock analysis of the cp was used to estimate the divergence times between charaviruses
+and tobamoviruses based on the proposal that tobamoviruses are as old as their angiosperm hosts 
+which are therefore estimated to have diverged around million years ago divergence dates
+were estimated from the maximum likelihood ml tree of the rdrps and cps of the charaviruses
+and tobamoviruses figures and assuming that patristic distances in the tree are linearly related
+to evolutionary time for example the mean patristic distance between the cp of rattail cactus
+necrosis associated virus and the other seven tobamoviruses i e the basal node of the tobamoviruses 
+is − amino acid substitutions site aas s whereas the distance between the two
+charavirus cps is aas s these distances suggest that the two charavirus cps diverged 
+million years ago likewise the mean pairwise patristic distance between the two charavirus cps
+and each of the eight tobamovirus cps is − aas s suggesting that the charavirus
+and tobamovirus cp genes diverged million years ago the aligned cp sequences had several
+indel rich regions resulting in an average of gaps in each sequence of the sites but when
+the sequences were partitioned to remove the sites that contributed the most gaps leaving sequences
+of aa with an average of gaps sequence they gave almost identical date estimates similar
+calculations were used to date the rdrps supplementary table s 
+
+cv aus and cv can genes have k mer patterns especially those of tetra nucleotides that are
+distinct and place the charavirus rdrp and cp genes together and separate from the genes of other
+sequence related viruses figure also the k mer patterns of the two charavirus helicases were
+more similar to those of their rdrps than the two helicase like sequences ts and ts 
+obtained from the freshwater lakes of new york state these patterns suggest see discussion that
+cv can and cv aus infect closely related hosts charophytes but those from new york state may
+have a different host to identify more specifically the likely host of cv can we melded two molecular
+phylogenies of charophytes one based on the rbcl gene and the other the combined atpb psbc 
+and rbcl genes this showed that c braunii which has been reported from british columbia is
+the sister taxon of c australis figure a relationship that has and bootstrap support in the
+separate taxonomies 
+
+
+
+viruses of 
+
+figure correspondence analysis of tetra nucleotide patterns of charaviruses and other sequence
+related viruses patterns were obtained for both rdrp sequences a b used in figure and capsid gene
+sequences c d from figure the separated helicase sequences of the two charaviruses cv aus h
+and cv can h were included to compare with the helicase sequences reported by but can be seen
+to be distinct 
+
+figure molecular phylogeny of charophytes as determined by perez et al with four additional
+species red branches extrapolated from the data of sakayama et al 
+
+
+
+viruses of 
+
+ cv can in british columbia
+
+the cv can metagenome was abundant in water sampled from a shallow river in a forested 
+protected watershed protec downstream from a reservoir fed from protec after passing through an
+ km pipe protec and from a shallow stream approximately km from a residential neighbourhood
+ urban figure a relative abundances fluctuated throughout the year with protec being the
+most distinct cv can was not detected in samples collected from three locations along a stream near
+agricultural sites 
+
+figure cv can contigs were abundant and diverse in freshwater streams relative abundances
+calculated from rarefied read counts and normalized by contig size a suggest that cv can was most
+abundant at the first protected site prist compared to the urban and agricultural agri sites single
+nucleotide variant snv analysis b of the replicase gene at the two protected and one urban site
+indicate much genetic variation within the cv can population 
+
+
+
+viruses of 
+
+occasional ‘single nucleotide variants’ snvs of the consensus cv can sequence were detected
+ figure b the snvs were detected in all contigs supplementary figure s with the replicase
+having the most consistent coverage both across the sequence length and samples interestingly the
+majority of the snvs encoded non synonymous changes 
+
+ discussion
+
+in this study we used metagenomic data collected from freshwater habitats in southwestern
+british columbia to assemble the metagenome of a previously unknown single stranded ss rna
+virus cv can with significant sequence similarity to a virus cv aus isolated from chara australis
+growing in australia these data together with the report of metagenomic fragments of a third
+possible charavirus population from lakes in new york state indicates that charaviruses may be
+more widespread than previously thought 
+
+all the significant features of cv can are shared with those reported for the genome of
+cv aus the compositions lengths number and sizes of orfs and their predicted proteins are
+similar but they differ significantly at the individual codon level the cps were most similar nt 
+ aa identity and the mps least nt aa identity these identities are equivalent
+to those of different tobamoviruses comparisons of tobamoviruses representing all species of the
+genus found their cps had modal identities of nt range – and – aa range
+ – whereas the cps of the closely related but distinct tobacco mosaic and tomato mosaic
+viruses have nt and aas identity thus we conclude that cv can and cv aus represent
+distinct species of a new proposed genus charavirus 
+
+subak sharpe et al and hay and subak sharpe first showed that the nearest neighbour
+nucleotide composition of the genomes of small viruses was closely similar to those of their hosts 
+probably reflecting their adaptation to the transfer rna population of their hosts moreover 
+kapoor et al showed that the mono and dinucleotide composition of rna virus genomes was
+a useful predictor of their hosts’ kingdom or phylum probably for the same reason the similarity
+between virus and host k mer patterns have further been validated in virus host systems 
+we analyzed the k mer patterns from di nucleotide to septa nucleotides of the orfs of charaviruses
+and their phylogenetic relatives including two published charavirus like helicase sequences here 
+we report that the k mer patterns of the rdrp and cp genes of the charaviruses were more similar to
+one another than to those of other phylogenetically related viruses suggesting that they have related
+hosts and hence that the natural host of cv can is probably a charophyte 
+
+the consistent linkage of the charavirus cps to a homolog isolated from a swimming crab beihai
+charybdis crab virus is of interest this virus is possibly a contaminant rather than a virus of
+charybdis crabs as although these crabs are opportunistic carnivores they do eat algae and
+although most charophytes inhabit freshwater some also live in brackish water where they might
+be eaten by crabs however in the k mer analyses the bccv cp did not group with the cv cps 
+indicating that its host is probably not a charophyte 
+
+the natural host of cv aus c australis has only been recorded from rivers in australia india 
+malaysia new caledonia new zealand and taiwan but not the americas however two
+molecular genetic studies of various charophytes including c australis were congruent and clarified
+their phylogeny sakayama et al used rbcl sequences from chara spp and other charophytes 
+whereas pérez et al combined atpb psbc and rbcl sequences from chara spp and other
+charophytes both phylogenies found c braunii to be the sister taxon to c australis figure 
+in contrast to c australis c braunii is cosmopolitan it is one of chara species charophytes 
+found in north america and one of chara species in british columbia with c braunii recorded
+there at three sites henry mann personal communication there are many morphotypes of plants in
+the species of c braunii and mating experiments showed that not all populations of c braunii
+were compatible and none were compatible with one c australis population although it is possible
+that c braunii is the natural host of cv can we have not confirmed this 
+
+
+
+viruses of 
+
+the relative abundance of cv can sequences in rivers of british columbia varied over a month
+period figure a and many non synonymous snvs were detected in the cv can population
+ figure b similar variation was found in the new york metagenomic sequences ian hewson 
+personal communication the dominance of non synonymous snvs suggests that the british
+columbia rivers had more than one distinct cv can population high levels of non synonymous
+mutations were reported in tobamoviruses when the viruses were passaged in a new host while
+there is no way of investigating these possibilities with the present data the majority of snvs were
+infrequent suggesting that they have not been fixed within the population and perhaps the cv can
+population of british columbian rivers is over the long term a mega viral quasispecies 
+
+the longest assembled sequence of the third possible record of a charavirus from new york state
+ ts was nt and it had around nucleotide identity amino acid identity with
+the homologous region from both cv can and cv aus thus there was no correlation between the
+sequence differences of this region and the geographic distances between collection sites to
+ km suggesting that the new york state sequence was from a distinct charavirus lineage not
+from the cv can cv aus lineage 
+
+the detection of cv can at some locations but not others likely reflects the distribution and
+abundance of host populations chara spp are found in slow flowing frequently shallow lakes and
+rivers or streams that are nutrient poor where they thrive in part due to the co occurrence
+of nitrogen fixing epiphytic cyanobacteria the protected site where cv can was abundant
+ figure a is a low nitrogen environment and is distinct from the agricultural sites where inorganic
+nitrogen concentrations are higher the presence of cv can in the protected watershed suggests
+that it could be used as an indicator species of low nitrogen and low turbidity freshwater environments
+in british columbia similar studies could not be done at the original site where cv aus was
+found as c australis plants are now rare as a result of drought siltation and fertilizer use over the past
+four decades 
+
+the phylogenies of the individual charavirus genes we report here are completely congruent with
+the recently published phylogeny of the ‘global rna virome’ the charavirus rdrp helicase and
+cp genes are related individually to genes of different viruses in ‘branch ’ of the wolf et al ’s phylogeny 
+which includes the alphavirus and flavivirus supergroups the rdrp and cp genes belong
+to different lineages of the alphaviruses and the helicases to those of flaviviruses however in all
+instances the charavirus protein is a sister basal to those of viruses of extant related groups indicating
+an ancestral relationship to them all rather than recent inter lineage recombination events 
+
+a statistically significant correlation has been found between the phylogeny of most
+tobamoviruses and their primary eudicotyledonous hosts confirming an earlier estimate of their
+age based on protein evolution rates and indicating that tobamoviruses probably co evolved
+with their hosts and are thus of a similar age which is now estimated to be around million
+years this date can then be used to extrapolate from the two tobamovirus genes rdrps and
+cps to other nodes in their respective gene phylogenies by comparing patristic distances that pass
+through those nodes supplementary table s caution must of course be used in interpreting these
+estimates figure as more than indicative given the analytical uncertainties generated by model
+choice protein size etc the divergence of the two charaviruses was estimated to be mya rdrps 
+and mya cps which places it in the same time period as the breakup of gondwana and the
+final separation of australia from antarctica and hence the americas mya this divergence
+correlates with the known distribution of c australis which is confined to lands that once formed
+east gondwana whereas c braunii is cosmopolitan the earlier divergence dates of the rdrps
+and cp genes – mya are also feasible given that the earliest unequivocal fossils gyrogonites
+ oogonia of charophytes are from early devonian rocks mya an additional biochemical
+clue of the likely deep relationship between charophytes and viruses is that charophytes but not
+chlorophytes green algae or rhodophytes red algae have r genes encoding ‘nucleotide binding
+
+
+
+viruses of 
+
+site leucine rich repeat’ proteins which modulate the response of higher plants to pathogens such
+as tmv enabling a ‘gene for gene’ modus vivendi 
+
+figure summary of the estimates of gene divergence dates million years before present for the
+charavirus tobamovirus and benyvirus rdrp and cp proteins the coloured triangles represent
+monophyletic clusters i e two or more homologs of the proteins found in extant viruses and their
+left hand tip represents the earliest likely age of each extant virus cluster 
+
+branch lengths of the ‘global rna virome’ phylogeny suggest that the earliest embodiments
+of the alphavirus flavivirus rdrp genes existed more than one billion years ago but the origins of the
+tobamovirus charavirus cp gene are less certain the structure of the tmv monomer is known in great
+detail it is a distinctive right handed anti parallel four helix bundle that is uncommon among
+viruses of higher plants and animals and probably confined to virions of viruses of the virgaviridae 
+all of which have straight tubular virions similar helical bundle proteins both left and right handed 
+seem to occur only in the viruses of archaea and may be the source of the virgavirid charavirus
+cp gene 
+
+the ancestors of members of the contemporary genus chara are thought to be the closest
+extant relatives of algae that gave rise to higher plants consequently charaviruses which have
+clear evolutionary ties to tobamoviruses that infect higher plants provide a window into the shared
+evolutionary history of these two groups of viruses these observations suggest that tobamoviruses
+originated in aquatic environments and transitioned alongside their hosts to the terrestrial realm 
+our results establish that charaviruses are a taxonomically distinct group with a distribution that
+includes australia and north america moreover analysis of viral metagenomic data imply that
+charaviruses occur as large genetically diverse populations that can be significant contributors to
+rna virus metagenomic data in freshwater habitats these results imply that charaviruses are likely
+important members of freshwater viral communities across the world 
+
+supplementary materials the following are available online at http www mdpi com s 
+figure s single nucleotide variants in the helicase a movement b and capsid c proteins of the cv can
+genome in protected and urban watersheds table s mean pairwise patristic distances of selected nodes 
+
+author contributions c a s initiated and fostered the project and contributed computational tools m v 
+collected the data m v and a j g analyzed the data all authors contributed to writing the paper 
+
+acknowledgments we thank ian hewson of cornell university ithaca ny usa for unpublished data and 
+henry mann of the memorial university of newfoundland for records of the charophytes of british columbia 
+we thank m i uyaguari diaz n a prystajecky and many others for sample collection nucleic acid extraction
+and sequencing carried out as part of the project applied metagenomics of the watershed microbiome supported by
+genome bc and genome canada lsarp wat mv was supported by a discovery grant to cas from the
+natural sciences and engineering research council nserc of canada 
+
+http www mdpi com s 
+
+
+viruses of 
+
+conflicts of interest the authors declare that they have no conflict of interest 
+
+references
+
+ rubinstein c v gerrienne p de la puente g s astini r a steemans p early middle ordovician
+evidence for land plants in argentina eastern gondwana new phytol – crossref 
+ pubmed 
+
+ delwiche c f cooper e d the evolutionary origin of a terrestrial flora curr biol r –r 
+ crossref pubmed 
+
+ gibbs a skotnicki a h gardiner j e walker e s hollings m a tobamovirus of a green alga virology
+ – crossref 
+
+ gibbs a j torronen m mackenzie a m wood j t armstrong j s kondo h tamada t keese p l 
+the enigmatic genome of chara australis virus j gen virol – crossref 
+
+ gibbs a j wood j garcia arenal f ohshima k armstrong j s tobamoviruses have probably
+co diverged with their eudicotyledonous hosts for at least million years virus evol vev 
+ crossref 
+
+ skotnicki a gibbs a wrigley g further studies on chara corallina virus virology – 
+ crossref 
+
+ hewson i bistolas k s i button j b jackson e w occurrence and seasonal dynamics of rna viral
+genotypes in three contrasting temperate lakes plos one e crossref pubmed 
+
+ van rossum t uyaguari diaz m i vlok m peabody m a tian a cronin k i chan m croxen m a 
+hsiao w w isaac renton j et al spatiotemporal dynamics of river viruses bacteria and microeukaryotes 
+biorxiv crossref 
+
+ uyaguari diaz m i chan m chaban b l croxen m a finke j f hill j e peabody m a 
+van rossum t suttle c a brinkman f s l et al a comprehensive method for amplicon based and
+metagenomic characterization of viruses bacteria and eukaryotes in freshwater samples microbiome 
+ – crossref pubmed 
+
+ van rossum t peabody m a uyaguari diaz m i cronin k i chan m slobodan j r nesbitt m j 
+suttle c a hsiao w w tang p k et al year long metagenomic study of river microbiomes across land
+use and water quality front microbiol crossref 
+
+ bolger a m lohse m usadel b genome analysis trimmomatic a flexible trimmer for illumina sequence
+data bioinformatics crossref pubmed 
+
+ zhang j kobert k flouri t stamatakis a genome analysis pear a fast and accurate illumina
+paired end read merger bioinformatics – crossref 
+
+ mcmurdie p j holmes s phyloseq an r package for reproducible interactive analysis and graphics of
+microbiome census data plos one e crossref 
+
+ r core team r a language and environment for statistical computing available online https www r 
+project org accessed on august 
+
+ hall t a bioedit a user friendly biological sequence alignment editor and analysis program for windows
+ nt nucleic acids symp ser – 
+
+ brudno m do c b cooper g m kim m f davydov e green e d sidow a batzoglou s lagan
+and multi lagan efficient tools for large scale multiple alignment of genomic dna genome res 
+ – crossref pubmed 
+
+ mayor c brudno m schwartz j r poliakov a rubin e m frazer k a pachter l s dubchak i 
+vista visualizing global dna sequence alignments of arbitrary length bioinformatics 
+ crossref pubmed 
+
+ frazer k a pachter l poliakov a rubin e m dubchak i vista computational tools for comparative
+genomics nucleic acids res w –w crossref 
+
+ martin d p murrell b golden m khoosal a muhire b rdp detection and analysis of recombination
+patterns in virus genomes virus evol vev crossref pubmed 
+
+ katoh k standley d m mafft multiple sequence alignment software version improvements in
+performance and usability mol viol evol – crossref pubmed 
+
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org j cub 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http dx doi org vir 
+http dx doi org ve vev 
+http dx doi org x
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http dx doi org fmicb 
+http dx doi org bioinformatics btu 
+http www ncbi nlm nih gov pubmed 
+http dx doi org bioinformatics btt 
+http dx doi org journal pone 
+https www r project org 
+https www r project org 
+http dx doi org gr 
+http www ncbi nlm nih gov pubmed 
+http dx doi org bioinformatics 
+http www ncbi nlm nih gov pubmed 
+http dx doi org nar gkh 
+http dx doi org ve vev 
+http www ncbi nlm nih gov pubmed 
+http dx doi org molbev mst 
+http www ncbi nlm nih gov pubmed 
+
+
+viruses of 
+
+ jeanmougin f thompson j d gouy m higgins d g gibson t j multiple sequence alignment with
+clustal x trends biochem sci – crossref 
+
+ abascal f zardoya r telford m j translatorx multiple alignment of nucleotide sequences guided by
+amino acid translations nucleic acids res – crossref pubmed 
+
+ kumar s stecher g tamura k mega molecular evolutionary genetics analysis version for bigger
+datasets mol biol evol msw crossref pubmed 
+
+ guindon s gascuelo a a simple fast and accurate algorithm to estimate large phylogenies by maximum
+likelihood syst biol – crossref 
+
+ shimodaira h hasegawa m multiple comparisons of log likelihoods with applications to phylogenetic
+inference mol biol evol – crossref 
+
+ fourment m gibbs m j patristic a program for calculating patristic distances and graphically
+comparing the components of genetic change bmc evol biol crossref 
+
+ pagès h aboyoun p gentleman r debroy s biostrings efficient manipulation of biological strings 
+available online https bioconductor org packages release bioc html biostrings html accessed on
+ september 
+
+ r studio team rstudio integrated development for r available online http www rstudio com 
+ accessed on august 
+
+ hirschfeld h a connection between correlation and contingency math proc camb philos soc 
+ – crossref 
+
+ benzécri j p l’analyse des données leçons sur l’analyse factorielle et la reconnaissace des formes et travaux de
+laboratoire benzécri j p ed dunod paris france 
+
+ oksanen j blanchet f g friendly m kindt r legendre p mcglinn d minchin p r o’hara r b 
+simpson g l solymos p et al vegan community ecology package available online http cran r 
+project org package vegan accessed on september 
+
+ oksanen j kindt r simpson g l vegan d statid and dynamic d plots for the “vegan” package 
+available online https cran r project org package vegan d accessed on september 
+
+ wickham h ggplot elegant graphics for data analysis springer new york ny usa 
+ rozanov m n koonin e v gorbalenya a e conservation of the putative methyltransferase domain a
+
+hallmark of the “sindbis like” supergroup of positive strand rna viruses j gen virol – 
+ crossref 
+
+ koonin e v gorbalenya a e chumakov k m tentative identification of rna dependent rna
+polymerases of dsrna viruses and their relationship to positive strand rna viral polymerases febs lett 
+ – crossref 
+
+ zanotto p m gibbs m j gould e a holmes e c a reevaluation of the higher taxonomy of viruses based
+on rna polymerases j virol – 
+
+ kondo h hirano s chiba s andika i b hirai m maeda t tamada t characterization of burdock
+mottle virus a novel member of the genus benyvirus and the identification of benyvirus related sequences
+in the plant and insect genomes virus res – crossref 
+
+ sela n luria n yaari m prusky d dombrovsky a genome sequence of a potential new benyvirus
+isolated from mango rna seq data genome announc crossref 
+
+ tamada t kondo h chiba s genetic diversity of beet necrotic yellow vein virus in rhizomania 
+springer international publishing cham switzerland pp – 
+
+ shi m lin x d tian j h chen l j chen x li c x qin x c li j cao j p eden j s et al 
+redefining the invertebrate rna virosphere nature – crossref 
+
+ deakin g dobbs e bennett j m jones i m grogan h m burton k s multiple viral infections in
+agaricus bisporus—characterisation of unique rna viruses and orfans identified by deep sequencing 
+sci rep crossref pubmed 
+
+ magae y molecular characterization of a novel mycovirus in the cultivated mushroom lentinula edodes 
+virol j crossref pubmed 
+
+ gorbalenya a e koonin e v donchenko a p blinov v m two related superfamilies of putative helicases
+involved in replication recombination repair and expression of dna and rna genomes nucleic acids res 
+ – crossref pubmed 
+
+http dx doi org s 
+http dx doi org nar gkq 
+http www ncbi nlm nih gov pubmed 
+http dx doi org molbev msw 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http dx doi org oxfordjournals molbev a 
+http dx doi org 
+https bioconductor org packages release bioc html biostrings html
+http www rstudio com 
+http dx doi org s 
+http cran r project org package vegan
+http cran r project org package vegan
+https cran r project org package vegan d
+http dx doi org 
+http dx doi org 
+http dx doi org j virusres 
+http dx doi org genomea 
+http dx doi org nature 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http dx doi org x 
+http www ncbi nlm nih gov pubmed 
+http dx doi org nar 
+http www ncbi nlm nih gov pubmed 
+
+
+viruses of 
+
+ adams m j antoniw j f kreuze j virgaviridae a new family of rod shaped plant viruses arch virol 
+ – crossref 
+
+ peiró a martínez gil l tamborero s pallás v sánchez navarro j a mingarro i the tobacco mosaic
+virus movement protein associates with but does not integrate into biological membranes j virol 
+ – crossref pubmed 
+
+ salomo k smith j f feild t s samain m s bond l davidson c zimmers j neinhuis c wanke s 
+the emergence of earliest angiosperms may be earlier than fossil evidence indicates syst bot 
+ – crossref 
+
+ magallon s gomez acevedo s sanchez reyes l l hernandez hernandez t a metacalibrated time tree
+documents the early rise of flowering plant phylogenetic diversity new phytol – crossref 
+ pubmed 
+
+ sakayama h kasai f nozaki h watanabe m m kawachi m shigyo m nishihiro j washitani i 
+krienitz l ito m taxonomic reexamination of chara globularis charales charophyceae from japan based
+on oospore morphology and rbcl gene sequences and the description of c leptospora sp nov j phycol 
+ – crossref pubmed 
+
+ pérez w hall j d mccourt r m karol k g phylogeny of north american tolypella charophyceae 
+charophyta based on plastid dna sequences with a description of tolypella ramosissima sp nov j phycol 
+ – crossref 
+
+ subak sharpe h burk r r crawford l v morrison m hay j keir h m an approach to evolutionary
+relationships of mammalian dna viruses through analysis of the pattern of nearest neighbor base sequences 
+cold spring harb symp – crossref 
+
+ hay j subak sharpe h analysis of nearest neighbour base frequencies in the rna of a mammalian virus 
+encephalomyocarditis virus j gen virol – crossref pubmed 
+
+ kapoor a simmonds p lipkin w i zaidi s delwart e use of nucleotide composition analysis to infer
+hosts for three novel picorna like viruses j virol – crossref 
+
+ coleman j r papmichail d skiena s futcher b wimmer e mueller s virus attenuation by
+genome scale changes in codon pair bias science – crossref pubmed 
+
+ sant’anna b s branco j o de oliveira m m boos h turra a diet and population biology of the
+invasive crab charybdis hellerii in southwestern atlantic waters mar biol res – crossref 
+
+ herbst a henningsen l schubert h blindow i encrustations and element composition of charophytes
+from fresh or brackish water sites—habitat or species specific differences aquat bot – 
+ crossref 
+
+ guiry m d guiry g m national university of ireland galway available online http www algaebase 
+org accessed on november 
+
+ scribailo r w alix m s a a checklist of north american characeae charophytes – 
+ proctor v w taxonomy of chara braunii an experimental approach j phycol – crossref 
+ koh s h li h sivasithamparam k admiraal r jones m g k wylie s j evolution of a wild plant
+
+tobamovirus passaged through an exotic host fixation of mutations and increased replication virus evol 
+ vex crossref 
+
+ nowak m a what is a quasispecies trends ecol evol – crossref 
+ beltman b allegrini c restoration of lost aquatic plant communities new habitats for chara neth j 
+
+aquat ecol – crossref 
+ van den berg m s coops h simons j propagule bank buildup of chara aspera and its significance for
+
+colonization of a shallow lake hydrobiologia – crossref 
+ ariosa y quesada a aburto j carrasco d legane f ferna e epiphytic cyanobacteria on chara
+
+vulgaris are the main contributors to n fixation in rice fields appl environ microbiol – 
+ crossref 
+
+ vlok m suttle c a university of british columbia vancouver canada unpublished work 
+ wolf y i kazlauskas d iranzo j lucía sanz a dolja v v koonin v krupovic m origins and
+
+evolution of the global rna virome mbio – crossref pubmed 
+ goldbach r genome similarities between plant and animal rna viruses microbiol sci – 
+
+ pubmed 
+
+http dx doi org s 
+http dx doi org jvi 
+http www ncbi nlm nih gov pubmed 
+http dx doi org x 
+http dx doi org nph 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http dx doi org jpy 
+http dx doi org sqb 
+http dx doi org 
+http www ncbi nlm nih gov pubmed 
+http dx doi org jvi 
+http dx doi org science 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http dx doi org j aquabot 
+http www algaebase org
+http www algaebase org
+http dx doi org j tb x
+http dx doi org ve vex 
+http dx doi org 
+http dx doi org bf 
+http dx doi org a 
+http dx doi org aem 
+http dx doi org mbio 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+
+
+viruses of 
+
+ goldbach r wellink j evolution of plus strand rna viruses intervirology – crossref 
+ pubmed 
+
+ gibbs a j how ancient are the tobamoviruses intervirology – crossref pubmed 
+ sauquet h von balthazar m magallón s doyle j a endress p k bailes e j barroso de morais e 
+
+bull hereñu k carrive l chartier m et al the ancestral flower of angiosperms and its early
+diversification nat commun crossref 
+
+ johnson b d powell c m veevers j j spreading history of the eastern indian ocean and greater india’s
+northward flight from antarctica and australia gsa bull – crossref 
+
+ blakey r c gondwana paleogeography from assembly to breakup—a m y odyssey in resolving the
+late paleozoic ice age in time and space fielding c r frank t d isbell j l eds geological society of
+america boulder co usa isbn 
+
+ kidston r lang w h xxxii—on old red sandstone plants showing structure from the rhynie chert
+bed aberdeenshire part iv restorations of the vascular cryptogams and discussion of their bearing on the
+general morphology of the pteridophyta and the origin of the organisat earth environ sci trans r soc 
+edinb – crossref 
+
+ peart j r mestre p lu r malcuit i baulcombe d c nrg a cc nb lrr protein together with n 
+a tir nb lrr protein mediates resistance against tobacco mosaic virus curr biol – 
+ crossref pubmed 
+
+ flor h h current status of the gene fob gene concept annu rev phytopathol – crossref 
+ sachse c chen j z coureux p stroupe m e fändrich m grigorieff n high resolution electron
+
+microscopy of helical specimens a fresh look at tobacco mosaic virus j mol biol – 
+ crossref pubmed 
+
+ hochstein r bollschweiler d engelhardt h lawrence c m young m large tailed spindle viruses of
+archaea a new way of doing viral business j virol – crossref 
+
+© by the authors licensee mdpi basel switzerland this article is an open access
+article distributed under the terms and conditions of the creative commons attribution
+ cc by license http creativecommons org licenses by 
+
+http dx doi org 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ncomms 
+http dx doi org lt shotei gt co 
+http dx doi org s 
+http dx doi org j cub 
+http www ncbi nlm nih gov pubmed 
+http dx doi org annurev py 
+http dx doi org j jmb 
+http www ncbi nlm nih gov pubmed 
+http dx doi org jvi 
+http creativecommons org 
+http creativecommons org licenses by 
+
+	introduction 
+	materials and methods 
+	metagenomic assembly and genomic analysis 
+	phylogenetic analysis 
+	k mer analysis 
+	single nucleotide variant analysis 
+
+	results 
+	the cv can metagenome 
+	predicted gene products of cv can 
+	replicase nt to 
+	helicase nt – 
+	possible movement protein nt – 
+	coat protein cp nt – 
+
+	divergence of cv aus and cv can 
+	cv can in british columbia 
+
+	discussion 
+	references
+
+

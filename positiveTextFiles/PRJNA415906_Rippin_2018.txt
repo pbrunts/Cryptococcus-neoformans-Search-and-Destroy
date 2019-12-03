@@ -1,0 +1,1737 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biodiversity of biological soil crusts from the polar regions revealed by metabarcoding
+
+
+fems microbiology ecology fiy 
+
+doi femsec fiy 
+advance access publication date march 
+research article
+
+research article
+
+biodiversity of biological soil crusts from the polar
+regions revealed by metabarcoding
+martin rippin† sebastian lange nicole sausen and burkhard becker ‡
+
+university of cologne botanical institute zülpicher str b cologne germany
+
+ corresponding author university of cologne botanical institute zülpicher str b cologne germany tel e mail 
+b becker uni koeln de
+
+one sentence summary biodiversity of biological soil crusts from svalbard arctic and livingston island antarctica 
+
+editor marek stibal
+†martin rippin http orcid org 
+‡burkhard becker http orcid org 
+
+abstract
+
+biological soil crusts bscs are amalgamations of autotrophic heterotrophic and saprotrophic organisms in the polar
+regions these unique communities occupy essential ecological functions such as primary production nitrogen fixation
+and ecosystem engineering here we present the first molecular survey of bscs from the arctic and antarctica focused on
+both eukaryotes and prokaryotes as well as passive and active biodiversity considering sequence abundance bryophyta is
+among the most abundant taxa in all analyzed bscs suggesting that they were in a late successional stage in terms of algal
+and cyanobacterial biodiversity the genera chloromonas coccomyxa elliptochloris and nostoc were identified in all samples
+regardless of origin confirming their ubiquitous distribution for the first time we found the chrysophyte spumella to be
+common in polar bscs as it was present in all analyzed samples co occurrence analysis revealed the presence of sulfur
+metabolizing microbes indicating that bscs also play an important role for the sulfur cycle in general phototrophs were
+most abundant within the bscs but there was also a diverse community of heterotrophs and saprotrophs our results show
+that bscs are unique microecosystems in polar environments with an unexpectedly high biodiversity 
+
+keywords biological soil crusts terrestrial algae terrestrial cyanobacteria bryophyta svalbard livingston island
+
+introduction
+
+biological soil crusts bscs are the dominant primary produc 
+ers in polar deserts of the arctic and antarctica yoshitake et al 
+ colesie et al williams et al borchhardt et al 
+ b the extreme conditions prevailing in these ecosystems
+limit the occurrence of vascular plants thomas et al a 
+ b pointing et al instead bscs cover the ground e g 
+up to at arctic svalbard adopting various important eco 
+logical roles such as primary production williams et al 
+the diazotrophic microbes inhabiting bscs fix dinitrogen from
+the atmosphere and make it available to other organisms bel 
+nap yoshitake et al maier et al certain bsc
+species grow in filaments or sheaths while others excrete extra 
+cellular polymeric substances forming a soil binding matrix and 
+
+thus stabilize the soil and prevent erosion and cryoturbation
+ gold and bliss evans and johansen belnap büdel
+and lange bscs are ecosystem engineers that develop
+the soil by increasing its moisture and nutrient content evans
+and johansen belnap bowker belnap and miller 
+pointing and belnap these processes have a positive effect
+on seed germination and plant growth that in turn promotes
+biodiversity evans and johansen belnap büdel and lange
+ breen and lévesque furthermore bscs are food
+resources for higher trophic levels cooper and wookey 
+devetter et al guan et al 
+
+bsc communities are complex microecosystems comprised
+of autotrophs heterotrophs and saprotrophs all of which can
+be prokaryotic or eukaryotic belnap büdel and lange bel 
+nap weber and büdel cyanobacteria eukaryotic algae and
+
+received december accepted february 
+
+c© fems all rights reserved for permissions please e mail journals permissions oup com
+
+ 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+http www oxfordjournals org
+mailto b becker uni koeln de
+http orcid org 
+http orcid org 
+mailto journals permissions oup com
+
+
+ fems microbiology ecology vol no 
+
+lichens as well as bryophyta and marchantiophyta build the basis
+of bscs as they are able to fix carbon into organic compounds
+ belnap and lange belnap büdel and lange yoshi 
+take et al cyanobacterial genera that typically occur in
+bscs are chroococcus gloeocapsa leptolyngbya microcoleus nos 
+toc phormidium and scytonema hoffmann zidarova 
+büdel et al pushkareva johansen and elster algal
+taxa commonly found in these communities are members of
+the klebsormidiophyceae zygnematophyceae streptophyta chloro 
+phyceae trebouxiophyceae ulvophyceae chlorophyta diatomea 
+eustigmatophyceae and xanthophyceae ochrophyta hoffmann
+ zidarova büdel et al pushkareva johansen and
+elster typical prokaryotic taxa representing heterotrophic
+bsc members are archaea and the bacterial phyla acidobacte 
+ria actinobacteria and proteobacteria maier et al on the
+other hand eukaryotic heterotrophs present in bscs are ascomy 
+cota and hyphomycetes as well as bilateria and the taxonomically
+diverse protozoa soule et al darby and neher maier
+et al fiore donno et al certain bacteria fungi and
+bilateria are decomposers closing the nutrient cycle hendriksen
+ darby and neher 
+
+establishing and developing bsc communities depends on
+several biotic and abiotic factors such as pedological properties
+and climate elster et al belnap büdel et al 
+pushkareva johansen and elster initially cyanobacteria
+colonize the barren soil forming the basis of bscs that are subse 
+quently populated by algae lichens mosses and liverworts bel 
+nap belnap et al büdel et al polar bscs are
+generally dominated by lichens mosses and liverworts in later
+successional stages belnap 
+
+despite the resilience of these unique biocoenoses to
+extreme abiotic stress climate change is a major threat to bscs
+as it can dramatically affect their composition and abundance
+ evans and lange johnson et al zelikova et al 
+increased temperatures and irradiance as well as altered pre 
+cipitation patterns in the arctic and antarctica are expected to
+change the species diversity and community structure of bscs
+by an invasion of foreign species evans and lange chown
+et al pushkareva johansen and elster lee et al 
+hence the investigation and monitoring of bscs one of the key
+players in polar desert ecosystems is essential to evaluate and
+even predict the effects of the ongoing climate change 
+
+according to elster et al there is only a small num 
+ber of studies focusing on terrestrial compared to the aquatic
+microalgal flora in the polar regions to contribute new insights
+into the microalgal and cyanobacterial diversity we performed
+a comprehensive metabarcoding survey on bscs from sval 
+bard norway and livingston island antarctic peninsula as
+general prokaryotic and eukaryotic markers s and s rrna
+gene were used to study these biocrust isolates other organ 
+ism groups such as bryophytes were covered as well the pre 
+pared amplicon pools were sequenced together with a mock
+community mc that served as an intrinsic control the gener 
+ated data was also used to identify influential abiotic parameters
+and co occurrence patterns furthermore these results comple 
+ment the morphological molecular and ecological studies of
+borchhardt et al a rippin et al and williams et al 
+ respectively 
+
+material and methods
+
+bsc sampling
+
+bsc samples were collected from the arctic svalbard norway
+and livingston island antarctic peninsula in august and
+
+january respectively refer to borchhardt et al a and
+williams et al for details both islands are located in the
+polar tundra zone according to the köppen geiger classification
+system pereira et al vogel eckerstorfer and christiansen
+ details on the individual samples are given in table 
+while images of the analyzed bscs and the corresponding sam 
+pling sites are depicted in fig the nucleic acid content of the
+bsc samples was preserved using the lifeguard soil preserva 
+tion solution mo bio laboratories carlsbad ca usa accord 
+ing to the manufacturer’s instructions and stored at − ◦c 
+
+algal cultivation
+
+to establish an mc the following algal strains were retrieved
+from the culture collection of algae at the university of cologne 
+chlorella sorokiniana ccac chlorococcum sp ccac b 
+chloromonas vacuolata ccac gloeocystis sp ccac b 
+microthamnion kuetzingianum cf ccac b oocystis sp ccac
+ b stichococcus bacillaris ccac b zygnema sp ccac
+ b klebsormidium crenulatum sag was obtained from
+the culture collection of algae at goettingen university chlamy 
+domonas reinhardtii cc was taken from the stock commonly
+used in our lab all algae except c reinhardtii were cultivated in
+liquid waris h medium mcfadden and melkonian at ◦c
+and μmol photons m− s− with an light dark cycle of h 
+chlamydomonas reinhardtii was grown in tap medium gorman
+and levine using the same temperature and light settings 
+
+nucleic acid extraction and amplification
+
+total nucleic acids were extracted from the bsc samples all
+in triplicates except nå that was only one sample using the
+cetyltrimethylammonium bromide protocol according to rip 
+pin komsic buchmann and becker with several modifica 
+tions the lifeguard soil preservation solution was not removed
+prior to the extraction and the aqueous phase retained after the
+second chloroform washing step was further processed using
+the peqgold plant rna kit peqlab vwr international erlan 
+gen germany according to the manufacturer’s instructions 
+
+to obtain dna the extract was treated with rnase a thermo
+fisher scientific waltham ma usa as suggested in the manual
+and purified using the illustra microspin s hr columns ge
+healthcare little chalfont uk 
+
+rna based metabarcoding was only performed for the sam 
+ples nå and jc as the sampling sites are most comparable in
+terms of climate seaside similar precipitation patterns etc 
+rna was purified by dna removal using dnase i thermo fisher
+scientific waltham ma usa according to the manufacturer’s
+protocol cdna synthesis was performed using the revert aid h
+minus first strand cdna synthesis kit thermo fisher scientific 
+waltham ma usa 
+
+the extraction of dna from all cultivated algae except k 
+crenulatum was carried out using the dneasy plant kit qia 
+gen hilden germany following the manufacturer’s protocol 
+the harvested filaments of k crenulatum were processed using a
+modified version of the cetyltrimethylammonium bromide pro 
+tocol described by rippin komsic buchmann and becker 
+after the second chloroform washing step the upper phase was
+collected the dna was precipitated with isopropanol at − ◦c
+for at least h after a washing step with ethanol the dna
+was eluted in rnase free water 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+rippin et al 
+
+table sampling locations 
+
+sample sampling location coordinates publications
+
+bg breinosa gruve close to
+longyearbyen svalbard norway
+
+ n e williams et al borchhardt
+et al a 
+
+ed endalen close to longyearbyen 
+svalbard norway
+
+ n e williams et al borchhardt
+et al a 
+
+jc spanish juan carlos i antarctic
+base antarctic peninsula
+
+ s w williams et al rippin et al 
+ 
+
+nå ny ålesund svalbard norway n e williams et al borchhardt
+et al a rippin et al 
+
+td todalen close to longyearbyen 
+svalbard norway
+
+ n e borchhardt et al a 
+
+bscs were collected from the arctic svalbard norway bg ed nå td and livingston island antarctic peninsula jc sampling location and the corresponding
+coordinates as well as previous studies which were focused on samples from the same sites are included 
+
+figure bsc samples and locations images of the sampled bscs bg a ed b jc c nå d and td e bg ed and td were collected in close vicinity to longyearbyen 
+while nå was isolated from ny ålesund as indicated on the map f jc was sampled at livingston island close by the spanish juan carlos i antarctic base g photos
+courtesy of n borchhardt c colesie maps were created with snazzymaps com 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+amplicons were generated for all triplicates for nå three
+technical replicates were produced using the kapa hifi hot 
+start dna polymerase roche basel switzerland to ana 
+lyze the eukaryotic diversity we targeted the ribosomal
+small subunit ssu v region with the universal eukary 
+otic primers tareuk fwd ′ ccagcascygcggtaattcc 
+ ′ and tareukrev ′ actttcgttcttgatyra ′ designed
+by stoeck et al stoeck et al amplicon size ≈ bp simi 
+larly the prokaryotic s rrna gene v v region was amplified
+using the universal primers f ′ ggcgvacgggtgmgtaa 
+ ′ and r ′ ttaccgcggckgctggcac ′ taken from lange
+et al lange et al amplicon size ≈ bp the eukary 
+otic amplicons of the bsc samples were amplified employing
+the following protocol an initial denaturation step at ◦c for
+ min and step cycles at ◦c for s at ◦c for s
+and ◦c for s were followed by a final elongation at ◦c for
+ min the prokaryotic target was amplified in a similar way 
+however the cycles included s at ◦c s at ◦c and
+ s at ◦c each template was amplified three times nå was
+amplified nine times with each primer pair and these triplicates
+were pooled in an equimolar manner to minimize pcr bias for
+the mc the templates obtained from the cultivated algae the
+bryophyte physcomitrella patens and the liverwort marchantia poly 
+morpha both supplied by o artz ag höcker botanical insti 
+tute university of cologne were only targeted with eukaryotic
+primers and the pcr protocol consisted of cycles of s at
+ ◦c s at ◦c and s at ◦c all pcr products were puri 
+fied using the agencourt r© ampure r© xp system beckman coul 
+ter brea ca usa according to the manufacturer’s protocol 
+
+library preparation and sequencing
+
+the eukaryotic amplicons of the cultivated algae p patens and
+m polymorpha were quantified using the qubit thermo fisher
+scientific waltham ma usa and combined in equimolar por 
+tions to yield an mc this synthetic community was only pre 
+pared for the eukaryotic barcode as it was used to minimize
+sequencing bias and to adjust the bioinformatic pipeline all bsc
+amplicons and mc were subjected to a tailing using the dream 
+taq dna polymerase thermo fisher scientific waltham ma 
+usa subsequently libraries were prepared employing the qia 
+gen qiaseq step amplicon library kit qiagen hilden ger 
+many the libraries were multiplexed and sequenced on the
+illumina miseq platform bp paired end at the mpi for plant
+breeding research cologne 
+
+bioinformatic pipeline
+
+the demultiplexed raw reads were quality checked with
+vsearch rognes et al and read pairs with a minimal
+overlap of bp and a minimum phred score of were merged
+with pear zhang et al subsequently primer
+sequences and sequences containing ambiguous bases were
+removed and all sequences were dereplicated using vsearch 
+after pooling all samples clustering of operational taxonomic
+units otus was performed using swarm mahé et al 
+ with flag d chimera detection was carried
+out with uchime edgar et al integrated in vsearch
+and taxonomic annotations were assigned employing blastn 
+ altschul et al with an e value of e and the silva ssuref
+database quast et al finally an otu table was con 
+structed by running the script otu contingency table py that is
+part of the swarm package all chimeric otus and otus shorter
+
+than bp or with less than reads were filtered out addi 
+tionally a read count threshold of was applied rarefaction
+ hurlbert and mds plots jaccard bray and curtis
+ were produced with the vegan package in r oksanen
+et al the mds plots were based on the bray–curtis dis 
+similarity index and generated individually for the prokaryotic
+and the eukaryotic dataset furthermore the package was used
+to calculate the shannon simpson and inverse simpson index 
+moreover environmental vectors the values for each param 
+eter in table were retrieved from borchhardt et al a 
+were fitted onto ordination mds based on the jaccard index 
+using the squared correlation coefficient r and require per 
+mutations the r package metagenomeseq paulson et al 
+ was used for several different tasks read count normal 
+ization employing the css method otu heat map plotting of all
+replicates including only the otus with the largest overall
+variance differential abundance testing considering only groups
+with a fold change of more than and a false discovery rate
+of less than based on the spearman correlation coeffi 
+cient spearman co occurrence patterns were analyzed by
+running the modified scripts co occurrence pairwise routine r and
+edgelist creation r written by williams et al williams howe and
+hofmockel the analysis was based on prokaryotic orders
+and eukaryotic classes as far as applicable and the spearman
+coefficient cutoff was set to all scripts and auxiliary files
+can be accessed via github https github com klebsi bsc amp
+licon all raw sequences were submitted to the ncbi sequence
+read archive sra under the bioproject prjna 
+
+results
+
+sequencing outcome otu table and mc
+
+the sequencing produced a total of paired end
+reads after quality filtering and removing potential
+chimeras merged sequences remained and were clus 
+tered into otus on average each sample contained 
+ sequences and otus read and otu counts for the indi 
+vidual sample replicates are summarized in table s support 
+ing information by means of rarefaction sampling we found
+that all replicates except one eukaryotic rna derived jc repli 
+cate reached saturation fig s supporting information this
+jc replicate also exhibited a low read count reads after clus 
+tering and filtering table s supporting information and was
+subsequently removed from the analysis for the remaining bsc
+samples we were able to recover the full prokaryotic and eukary 
+otic diversity within the limits of our methodology 
+
+an mc consisting of different eukaryotic microalgae 
+a bryophyte and a liverwort was included in the sequencing
+run to adjust the bioinformatic pipeline we ended up with 
+otus with ± relative abundance each after aggrega 
+tion according to taxonomic affiliation and normalization fig 
+s supporting information furthermore the taxonomic anno 
+tation of each otu corresponded to one of the used organisms 
+
+the heatmap in fig s a supporting information shows that
+the samples cluster in two main groups the eukaryotic repli 
+cates on the left and the prokaryotic on the right furthermore 
+mds plots were produced revealing that one replicate of the
+eukaryotic dna derived jc sample fig s b supporting informa 
+tion and one of the prokaryotic td sample fig s c supporting
+information were clear outliers in both analyses hence they
+were subsequently removed 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+https github com klebsi bsc amplicon
+
+
+rippin et al 
+
+table environmental parameters at the arctic sampling sites 
+
+sample
+precipitation
+
+ mm a c g kg n g kg s g kg total p mg kg 
+water extractable p
+
+ mg kg 
+
+bg 
+ed 
+nå 
+td 
+
+precipitation of the arctic sampling sites as well as chemical parameters c carbon n nitrogen s sulfur p phosphorus of the soil underneath the sampled
+arctic bscs taken from borchhardt et al a bg berg ed eie nå na td td 
+
+bsc biodiversity
+
+biodiversity of the different bsc samples was measured by cal 
+culating shannon simpson d and inverse simpson d 
+indices the individual indices ranged from approximately to
+ to and to for shannon simpson and inverse simp 
+son respectively fig overall the eukaryotic biodiversity fig 
+ a as measured by these indices had a lower range compared
+to the prokaryotic diversity fig b the rna derived nå ampli 
+con exhibited the highest mean values across all eukaryotic
+indices dna derived from td and nå showed the highest aver 
+age indices among the prokaryotic indices 
+
+the bubble plots in fig depict the relative abundances 
+meaning the percentage of sequences per otu of eukaryotic
+phyla other lower taxonomic categories within archaeplastida
+and sar as well as prokaryotic phyla all samples exhibited
+similar patterns for the relative abundances of the targeted
+taxonomical groups with minor differences the most abun 
+dant eukaryotic phyla were archaeplastida opisthokonta and the
+supergroup sar fig a within the archaeplastida bryophyta
+were most dominant while trebouxiophyceae and marchantio 
+phyta were the second and third most abundant taxa fig c 
+the relative abundances of the taxa stramenopiles alveolata and
+rhizaria within the sar supergroup were in similar ranges fig 
+ d cyanobacteria and proteobacteria were the most abundant
+prokaryotic phyla in all samples fig b furthermore acidobac 
+teria actinobacteria bacteroidetes gemmatimonadetes and verru 
+comicrobia were also dominant in the analyzed bscs 
+
+in fig the distribution of selected otus among the ana 
+lyzed dna derived samples is presented the taxa chlorophyceae 
+trebouxiophyceae chrysophyceae and the phylum cyanobacteria
+were present in all bsc samples while klebsormidiophyceae ulvo 
+phyceae and xanthophyceae were absent from bg zygnemato 
+phyceae were missing in ed jc and td jc was lacking diatomea
+and dinophyceae and eustigmatophyceae were only found in nå
+and td the highest diversity was found within the chloro 
+phyceae trebouxiophyceae and cyanobacteria 
+
+bsc samples collected from the same spots were analyzed
+previously morphological identification of klebsormidiophyceae 
+zygnematophyceae chlorophyceae trebouxiophyceae eustigmato 
+phyceae and xanthophyceae was performed for bg ed nå
+and td by borchhardt et al a rippin et al pub 
+lished the morphological identification of the same algal taxa
+and cyanobacteria for jc and nå additionally the authors
+used the full ssu rrna gene assembled from metatran 
+scriptomes for the identification of klebsormidiophyceae zygne 
+matophyceae chlorophyceae trebouxiophyceae ulvophyceae dino 
+phyceae chrysophyceae diatomea eustigmatophyceae xantho 
+phyceae and cyanobacteria both methodologies and the results
+presented in this study confirm the presence of klebsormidium 
+stichococcus and microcoleus in nå prasiola and heterococcus in
+jc as well as coccomyxa elliptochloris leptolyngbya nostoc and
+
+phormidium in both samples table s supporting imformation 
+in addition amplicon sequencing found the genera chloromonas 
+coccomyxa elliptochloris spumella and nostoc to be present in all
+analyzed bscs in total morphological identification and the
+amplicon data shared genera across all samples excluding
+ulvophyceae dinophyceae chrysophyceae and diatomea while the
+two molecular techniques amplicon metatranscriptome con 
+cordantly confirmed genera within nå and jc including ulvo 
+phyceae dinophyceae chrysophyceae and diatomea 
+
+passive vs active community
+
+dna and rna derived amplicons were prepared for the arctic
+nå and the antarctic jc to compare passive and active biodiver 
+sity these amplicons shared a total of and otus for jc
+and nå respectively fig moreover the rna derived ampli 
+cons contained more unique otus jc nå than the dna
+derived ones jc nå concerning biodiversity indices 
+nå exhibited significant differences p in the shannon
+and inverse simpson index for the eukaryotic and prokaryotic
+communities between the dna and rna derived amplicons 
+
+the bsc samples jc and nå were tested for differential abun 
+dance comparing dna and rna derived amplicons nå exhib 
+ited changes in abundance while jc did not for nå we observed
+an abundance increase in bacteroidetes and cyanobacteria and a
+decrease in verrucomicrobia archaeplastida and opisthokonta fig 
+ while bryophyta became less abundant in the rna derived
+dataset uncultured cyanobacteria e g nostoc and two diatomea
+ amphora stauroneis occurred more frequently 
+
+co occurrence patterns
+
+testing the collected bsc samples for co occurrences revealed
+a total of six clusters three solely prokaryotic ii iii vi and
+three mixed ones i iv v fig a cluster was defined as a
+connected network of nodes with at least one node that has
+three edges cluster i is the biggest consisting of nodes 
+eukaryotic and prokaryotic the taxa with the most links
+are arboramoeba eustigmatophyceae hyphochytriomycetes malaw 
+imonadea polytrichopsida eukaryota bacteroidales chroococcales 
+gloeobacterales desulfurellales desulfuromonadales ignavibacteri 
+ales and rubrobacterales prokaryota interestingly cluster v con 
+tains four classes of eukaryotic algae which appear to be co 
+occurring chlorophyceae klebsormidiophyceae trebouxiophyceae
+and xanthophyceae 
+
+influence of environmental parameters
+
+the relationship of otu abundance and environmental param 
+eters was investigated for the arctic bsc samples precipita 
+tion and soil parameter values were retrieved from borchhardt
+et al a and fitted onto ordination fig for the eukary 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure biodiversity analysis α diversity indices shannon simpson inverse simpson of the eukaryotic a and prokaryotic b amplicon dataset given as box plots 
+
+otic amplicons a correlation with precipitation carbon nitro 
+gen sulfur and phosphorus total and water extractable con 
+tent was found fig a precipitation exhibited the highest cor 
+relation coefficient with r total phosphorus sulfur and
+nitrogen also showed a high correlation with a coefficient of 
+ and respectively the prokaryotic community compo 
+sition was correlated to precipitation carbon nitrogen sulfur
+and total phosphorus content again with precipitation showing
+the highest influence r fig b total phosphorus exhib 
+ited the second highest correlation with r 
+
+discussion
+
+bscs in polar ecosystems
+
+bscs represent special microbiotas in polar environments as
+opposed to barren soil typical soil communities are domi 
+nated by opisthokonta sar acidobacteria bacteroidetes proteobac 
+teria and verrucomicrobia faoro et al fierer he et al 
+ in arctic desert soils the prokaryotic ratios appear to
+be slightly shifted with actinobacteria and chloroflexi to be more
+abundant and acidobacteria as well as verrucomicrobia to be less
+dominant mccann et al in contrast the bacterial com 
+munity in antarctic soil habitats is dominated by acidobacte 
+ria bacteroidetes planctomycetes proteobacteria and verrucomicro 
+bia geyer et al geisen et al reported a dominance
+of sar in the eukaryotic community of arctic peatland soils 
+while opisthokonta were less abundant all these microbiotas 
+in contrast to bscs feature little to no photosynthetic organ 
+isms the data presented in this study show a clear dominance
+of photosynthetically active organisms including archaeplastida 
+algal groups within the alveolata and stramenopiles as well as
+cyanobacteria fig steven et al analyzed bscs collected
+
+from the canadian high arctic and also found that cyanobac 
+teria make up a major fraction of the prokaryotic community 
+these results highlight that bscs play an essential role as pri 
+mary producers in polar environments as higher vegetation is
+mostly absent thomas et al b yoshitake et al point 
+ing et al 
+
+interestingly the molecular analysis of the bscs collected
+from different sites at svalbard and livingston island revealed
+similar overall compositions and abundance on high taxonomic
+levels fig a b we argue that the bscs collected for this
+study were all in a late successional stage with bryophyta to
+be one of the most abundant eukaryotic taxa which is typ 
+ical for cold deserts belnap furthermore we detected
+a high abundance of cyanobacteria that are generally regarded
+as the pioneers which form the basis for bsc development by
+stabilizing the soil belnap gundlapally and garcia pichel
+ however on lower levels the communities show taxo 
+nomic variation e g zygnematophyceae were only present in bg
+and nå while trebouxiophyceae were found in all samples fig 
+these differences may be explained by the varying microhabitat
+features that different organisms or taxonomic groups require
+ fierer for example cyanobacteria and algae often colonize
+the lower surface of quartz pebbles in deserts due to the con 
+dense water that accumulates there as well as the enhanced
+protection against radiation belnap büdel and lange 
+
+when comparing the different biodiversity indices for
+eukaryota and prokaryota of the analyzed bsc samples the
+diversity of prokaryota appeared to be generally higher fig 
+ uyaguari diaz et al compared different watersheds
+in british columbia assessing the biodiversity of the micro 
+bial communities they calculated the simpson index for the
+eukaryotic community based on the markers s and the inter 
+nal transcribed spacer and prokaryotic diversity based on s
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+rippin et al 
+
+figure relative taxonomic abundance relative abundance of eukaryotic a and prokaryotic phyla b and taxonomic groups within archaeplastida c and sar d 
+for chloroplastida groups with a relative abundance of less than were summarized as ‘others’ relative abundance is given as bubble size and sd as rings 
+
+and chaperonin astonishingly the average index is approx 
+imately the same for both eukaryotic markers but the prokary 
+otic index for s is lower and for chaperonin higher than
+the eukaryotic ones regarding amplicon length the eukaryotic
+targets are the same while the s target is shorter and the
+chaperonin is longer than s and the internal transcribed
+spacer accordingly the prokaryotic amplicon used in our study 
+was longer than the eukaryotic sequence if amplicon length
+influences diversity estimates this observation could explain
+the higher prokaryotic indices moreover the variability of the
+target region is also important as amplicons are clustered into
+otus based on global sequence similarity forster et al 
+furthermore the differences in cell size and evolutionary age
+between prokaryotes and eukaryotes could be responsible for
+these observations cooper 
+
+the biodiversity in these communities is highly dependent
+on climate chemical properties of the soil etc belnap et al 
+ borchhardt et al a verified the influence of precip 
+itation on microalgal communities at svalbard that was also
+
+detected for the prokaryotic and eukaryotic communities in this
+study precipitation and water availability are key factors that
+affect microbiotas in a more quantitative than qualitative man 
+ner hoffmann thomas et al c cruz martı́nez et al 
+ zhang et al in the arctic water availability is chang 
+ing drastically throughout the season thomas et al b in
+winter most water is frozen and cannot be utilized by terres 
+trial organisms while liquid water becomes available in sum 
+mer as rain or meltwater runoffs thomas et al b thus 
+the sole influence of precipitation is arguable additionally the
+impact of carbon nitrogen sulfur and phosphorous content on
+the community composition of bscs was confirmed previous
+studies confirmed the influence of these parameters on soil bio 
+coenoses while the ratio between carbon and nitrogen might
+also have an effect cong et al zarraonaindia et al on
+the contrary bsc organisms will also affect the elemental com 
+position of the adjacent soil evans and lange brankatschk
+et al for example cyanobacteria fix nitrogen which will
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure algal and cyanobacterial diversity venn diagrams depicting how many otus belonging to the klebsormidiophyceae zygnematophyceae chlorophyceae treboux 
+iophyceae chrysophyceae diatomea eustigmatophyceae xanthophyceae eukaryota and cyanobacteria bacteria were shared between the dna derived amplicons zeros
+are not displayed for better comprehension 
+
+be either used by other organisms or deposited in the soil hoff 
+mann 
+
+eukaryotic algae and cyanobacteria
+
+eukaryotic algae often occur later during bsc development
+and in association with bryophytes due to their high water 
+holding capacity while cyanobacteria often act as initial ecosys 
+tem engineers büdel et al thus the dominance of
+bryophyta in the collected bscs may explain the presence and
+high diversity of eukaryotic algae all taxonomic groups typical
+for bscs were detected klebsormidiophyceae zygnematophyceae 
+chlorophyceae trebouxiophyceae ulvophyceae dinophyceae chryso 
+phyceae diatomea eustigmatophyceae and xanthophyceae karsten
+and holzinger büdel et al when looking at individ 
+ual samples the occurrence of algal and cyanobacterial gen 
+era mostly differed from isolate to isolate however we found
+chloromonas chlorophyceae coccomyxa elliptochloris trebouxio 
+phyceae spumella chrysophyceae and nostoc cyanobacteria to
+
+be present in all bsc the genus chloromonas is often associ 
+ated with polar bscs and contains certain snow alga species 
+e g chloromonas brevispina hoham raymond büdel
+et al pushkareva johansen and elster coccomyxa on
+the other hand is a ubiquitous and versatile alga that can occur
+both terrestrial and planktonic ettl and gärtner darienko
+et al the green alga elliptochloris commonly occupies cold
+terrestrial habitats and is a potential phycobiont for lichens ettl
+and gärtner pushkareva johansen and elster borch 
+hardt et al a for the first time we report the presence of the
+chrysophyte spumella in polar bscs spumella is a nanoflagellate
+that can be found in marine freshwater and terrestrial habitats
+ stoeck jost and boenigk these mixotrophs are often bac 
+terivorous and link bacterial production to higher trophic levels
+ boenigk et al the cyanobacterial genus nostoc is com 
+monly associated with bscs but may also occupy freshwater
+environments rippka et al dojani et al pushkareva 
+johansen and elster previous studies confirm that nos 
+toc also colonizes soils in the arctic and antarctica zidarova
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+rippin et al 
+
+figure comparison of dna and rna derived amplicons otus shared
+between the dna and rna amplicons of sample jc green shades and nå blue
+shades 
+
+ pushkareva johansen and elster overall eukaryotic
+algae and cyanobacteria are important primary producers and
+form the nutritional basis for heterotrophic organisms nweze
+ ettl and gärtner moreover they enhance the growth
+and development of other autotrophs as well as heterotrophs
+ metting belnap and lange a number of cyanobac 
+teria e g nostoc and oscillatoria possess the ability to fix dini 
+trogen from the air and make it subsequently available to other
+organisms in the bscs metting furthermore certain algae
+and cyanobacteria which are able to synthesize photoprotec 
+tive pigments are crucial for protection against excessive light
+and ultraviolet radiation belnap and lange karsten and
+holzinger these organisms form an ‘umbrella’ on top
+of the bsc and thus shade other species without sunscreen
+pigmentation belnap and lange karsten and holzinger
+ the formation of the crust matrix is carried out by fila 
+mentous and mucilage producing genera within the klebsormid 
+iophyceae zygnematophyceae and cyanobacteria by glueing soil
+particles together büdel belnap büdel et al 
+this process increases soil stability and makes it less prone
+to wind and water erosion evans and johansen some
+algal and cyanobacterial taxa establish symbioses with fungi to
+form lichens ruprecht brunauer and türk büdel et al 
+ a typical photobiont is the green alga trebouxia which
+was detected in all samples except nå ruprecht brunauer and
+türk on the other hand the fungal genera elasticomyces
+and leciophysma were detected in the samples bg and ed data
+not shown that are potential mycobionts selbmann et al 
+wedin et al 
+
+activity patterns
+
+differences in the relative abundance of rdna and rrna in
+environmental samples are caused by various factors hansen
+et al charvet et al blazewicz et al dna based
+approaches will detect active and dormant organisms but dead
+as well hansen et al additionally extracellular dna is
+well preserved in polar ecosystems due to the low tempera 
+tures leading to an overestimate in biodiversity nielsen et al 
+ charvet et al the relative abundance of rrna on
+the other hand can be regarded as potential metabolic activity
+meaning the potential to perform protein synthesis blazewicz
+et al the comparison between rdna and rrna abun 
+dances might be used as a measure for passive vs active diver 
+sity blazewicz et al however certain limitations have to
+be considered e g varying rdna copy numbers across differ 
+ent taxa prokopowich gregory and rease zhu et al 
+blazewicz et al 
+
+rna derived amplicons were prepared for jc and nå using
+both the eukaryotic and the prokaryotic marker more unique
+otus were detected for the rrna than the rdna based datasets
+suggesting a higher diversity lanzén et al calculated the
+otu richness based on rdna and rrna abundance for two
+soda lakes at different depths and observed varying ratios for
+rdna rrna thus no general assumption regarding present and
+active otu diversity can be made regarding the shannon and
+inverse simpson indices significant differences between the
+dna and rna derived libraries could be determined solely for
+nå curiously the eukaryotic indices of the rna derived dataset
+were significantly higher while the prokaryotic indices were sig 
+nificantly lower these observations are probably linked to sea 
+sonality these seasonal changes in microbiota were reported
+both for prokaryotic and eukaryotic soil communities davey
+ bass and bischoff lipson and schmidt lara
+et al davey studied the periodicity of microalgae
+and cyanobacteria on antarctic fellfield soils and found phormid 
+ium and pinnularia to be dominant for most of the year while 
+zygnema and ulothrix occurred only during austral summer 
+
+significant changes in rdna to rrna abundance were deter 
+mined within the prokaryotic and eukaryotic communities in
+sample nå the amoebozoa copromyxa exhibited a higher rrna
+than rdna abundance indicating that it is active probably due
+to the milder conditions during the summer at svalbard sea 
+sonal patterns have been previously described for other tubu 
+linea by mansano et al bryophyta on the other hand 
+were less abundant in the rna derived set of amplicons as
+the samples were collected in august bryophytes should
+be active and growing because temperatures are above ◦c and 
+thus liquid water is available førland et al prestø lüth
+and hassel however the fact that samples were collected
+during growing season and the lower abundance of rrna are
+not contradictory as bryophyta exhibit growth and photosyn 
+thetic activity mostly at the apex and older annual segments
+are less active or even inactive clymo and hayward long 
+ton hence older segments are likely to contain less rrna
+compared to rdna and only the shoot tip features increased
+rrna levels archigregarinorida also appeared to be less abun 
+dant in the rna based dataset the taxon is parasitic occurs
+in aquatic and terrestrial habitats and can form cyst if exposed
+to unfavorable conditions rueckert et al the reduced
+rrna content compared to the rdna suggests that the alveo 
+lates are in a resting stage in contrast the cercozoan taxon
+euglyphida exhibited an increased abundance in rrna these
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure differential abundance analysis differential abundance heat map of sample nå comparing dna and rna amplicons the analysis was carried out at different
+taxonomic levels which were based on the classification according to the silva database 
+
+figure co occurrence analysis co occurrence patterns between eukaryotic classes if applicable blue and prokaryotic orders red based on a spearman correlation
+coefficient of at least 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+rippin et al 
+
+figure environmental vector fitting mds plot based on jaccard distance matrix
+derived from normalized relative abundance data vectors corresponding to
+environmental variables given in table precipitation c carbon n nitrogen 
+s sulfur pt total phosphorus pw water extractable phosphorus were fitted
+onto the ordination for eukaryotic dataset the vectors representing precipita 
+tion c n s pt and pw were fitted a while the prokaryotic amplicon
+data were explained by vectors representing precipitation c n s and pt b 
+ significance levels 
+
+findings indicate that the soil is not dried out as the bacteriv 
+orous amoeba strongly reacts to drought with reduced abun 
+dance harder et al the same holds true for cyanobacteria 
+e g nostoc which also exhibited a higher abundance in the rna
+derived dataset elster et al found arctic nostoc colonies
+to be photosynthetically active throughout the summer with no
+significant changes in the monitored physiological parameters
+despite the fluctuating water supply hence the cyanobacteria
+occurring in the bsc were metabolically active as we detected a
+higher rrna than rdna abundance the taxon bdellovibrionaceae
+also exhibited increased levels of rrna these organisms occupy
+both aquatic and terrestrial habitats and prey on other bacte 
+ria which is also assumed for clade om pineiro et al 
+orsi et al little is known about clade om thus it is
+difficult to draw a conclusion regarding their ecology similarly 
+
+spotsoct m was more abundant in the rna derived set of
+amplicons however ecological data on this taxon is rare yun
+et al confirmed that spotsoct m can be found in soil 
+another soil dwelling taxon are the alcaligenaceae that are quite
+diverse ghosh et al the taxon showed lower rrna to
+rdna abundance that indicates suboptimal growth conditions at
+the time of sampling chthoniobacterales were also less abundant
+in the rna derived dataset yun et al found that chtho 
+niobacterales prefer more acidic soils mean ph compared
+to the ph at nå borchhardt et al a 
+
+ecological interactions
+
+co occurrence patterns of different taxa or taxonomic mod 
+ules enable an identification of ecological interactions between
+organisms especially organisms that are poorly understood due
+to difficulties in cultivation stewart williams howe and
+hofmockel moreover these patterns can be used to iden 
+tify functional and ecological traits and draw conclusions on
+the life history strategies of the organisms williams howe and
+hofmockel however the unavailability of ecological data
+for certain taxonomic groups limits the interpretation to certain
+modules 
+
+several bacterial orders contributing to the sulfur cycle one
+of the most important cycles linked to the carbon cycle co occur
+in the sampled bscs zavarzin sulfate reducing bacteria 
+such as desulfurellales and desulfuromonadales form h s either by
+incomplete oxidation of organic acids or complete oxidation of
+unfermentable compounds produced by fermentation zavarzin
+ kleindienst et al timmers et al reduced sul 
+fur compounds h s sulfide sulfite on the other hand are oxi 
+dized by e g either the strictly anaerobic chlorobiales or ignav 
+ibacteriales iino et al zavarzin gregersen bryant and
+frigaard ontiveros valencia et al the aforemen 
+tioned bacterial orders co occur within cluster i and are directly
+linked within the network underlining their collective participa 
+tion in the sulfur cycle the cyanobacterial taxon microchaetaceae
+is heterocystous and thus contributes to the nitrogen cycle
+by nitrogen fixation that is indirectly coupled to the sulfur
+cycle hoffmann zavarzin hauer et al further 
+more microchaetaceae and the sulfur metabolizing bacteria are
+linked to the cyanobacterial taxa chroococales and gloeobacterales 
+the stramenopile class eustigmatophyceae and the bryophyte
+class polytrichopsida that all contribute to the carbon fixation
+by oxygenous photosynthesis hoffmann zavarzin 
+the organic carbon cycle links all elemental cycles together
+and thus is of major importance zavarzin cluster i also
+contains a connection between polytrichopsida and arboramoeba 
+davidova ganeva and boycheva described the associa 
+tion of testate amoeba with terrestrial bryophytes due to their
+ability to store water this might be also true for arboramoeba
+that co occurred with the bryophyte class polytrichopsida within
+the analyzed bscs cluster v contains the algal classes chloro 
+phyceae klebsormidiophyceae trebouxiophyceae and xanthophyceae
+that were found to be co occurring in the arctic and antarctic
+bscs all of these microalgae are capable of photosynthesis that
+might cluster them together due to the link to the carbon cycle
+ zavarzin de morais et al however another possi 
+ble explanation might be their ability of synthesizing antibiotic 
+antiviral and antifungal secondary metabolites of which these
+organisms mutually benefit sahayaraj et al de morais et al 
+ nevertheless co occurrences can also depend on envi 
+ronmental factors and known biological interactions might be
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+missing due to the parameters chosen in the analysis williams 
+howe and hofmockel coutinho et al 
+
+conclusions
+
+bscs are key components of polar ecosystems that possess a
+huge diversity of different autotrophic heterotrophic and sapro 
+trophic organisms thus these biocoenoses can be regarded as
+oases in polar deserts this comprehensive survey shed light on
+the prokaryotic and eukaryotic diversity of different bscs col 
+lected from the arctic svalbard and livingston island that is
+part of the antarctic peninsula region overall the polar bscs
+are dominated by photoautotrophs such as eukaryotic algae 
+cyanobacteria lichens and bryophytes nevertheless a plethora
+of heterotrophic and saprotrophic aerobic and anaerobic organ 
+isms was found alongside those primary producers bscs are
+indeed amalgamations of eukaryotic algae lichens bryophytes 
+autotrophic and heterotrophic bacteria as well as fungi but also
+other protists such as cercozoa and amoebozoa and bilateria
+appear to be important for these communities in order to gain
+further insights into functionality shotgun metagenomics 
+transcriptomics proteomics and metabolomics should be com 
+bined these integrated results would help to draw a detailed
+picture of how the organisms interact with each other and
+annual time series could reveal the seasonal development of
+bscs 
+
+supplementary data
+
+supplementary data are available at femsec online 
+
+acknowledgements
+
+we are grateful to ulf karsten burkhard büdel nadine borch 
+hardt and claudia colesie for collecting the samples at sval 
+bard norway and livingston island antarctic peninsula fur 
+thermore we would like to thank oliver artz for contributing
+dna samples for the establishment of the mock community 
+janina fuß and anna maria fiore donno are acknowledged for
+their advice on the study design moreover we would like to
+thank maroua bouzid elkhessairi for the introduction to the bio 
+analyzer and the qubit 
+
+funding
+
+this study was funded by the deutsche forschungsgemein 
+schaft dfg within the project ‘polarcrust’ be which
+is part of the priority program ‘antarctic research’ 
+
+conflict of interest none declared 
+
+references
+
+altschul sf gish w miller w et al basic local alignment search
+tool j mol biol – 
+
+bass p bischoff pj seasonal variability in abundance and diver 
+sity of soil gymnamoebae along a short transect in south 
+eastern usa j eukaryot microbiol – 
+
+belnap j the world at your feet desert biological soil crusts 
+front ecol environ – 
+
+belnap j the potential roles of biological soil crusts in dryland
+hydrologic cycles hydrol process – 
+
+belnap j büdel b lange ol biological soil crusts characteristics
+and distribution in belnap j lange ol eds biological soil
+
+crusts structure function and management berlin heidelberg 
+springer – 
+
+belnap j lange ol structure and functioning of biological soil
+crusts a synthesis in belnap j lange ol eds biological soil
+crusts structure function and management berlin heidelberg 
+springer – 
+
+belnap j phillips sl witwicki dl et al visually assessing the
+level of development and soil surface stability of cyanobac 
+terially dominated biological soil crusts j arid environ
+ – 
+
+belnap j rosentreter r leonard s et al biological soil crusts ecol 
+ogy and management denver colorado us department of the
+interior bureau of land management national science and
+technology center 
+
+belnap j weber b büdel b biological soil crusts as an organizing
+principle in drylands in weber b büdel b belnap j eds bio 
+logical soil crusts an organizing principle in drylands switzer 
+land springer – 
+
+blazewicz sj barnard rl daly ra et al evaluating rrna as an
+indicator of microbial activity in environmental communi 
+ties limitations and uses isme j – 
+
+boenigk j pfandl k stadler p et al high diversity of the “spumella 
+like” flagellates an investigation based on the ssu rrna
+gene sequences of isolates from habitats located in six dif 
+ferent geographic regions environ microbiol – 
+
+borchhardt n baum c mikhailyuk t et al biological soil
+crusts of arctic svalbard—water availability as potential
+controlling factor for microalgal biodiversity front microbiol
+ a 
+
+borchhardt n schiefelbein u abarca n et al diversity of algae
+and lichens in biological soil crusts of ardley and king george
+island antarctica antarct sci b – 
+
+bowker ma belnap j miller me spatial modeling of biological
+soil crusts to support rangeland assessment and monitoring 
+rangel ecol manag – 
+
+brankatschk r fischer t veste m et al succession of n cycling
+processes in biological soil crusts on a central european
+inland dune fems microbiol ecol – 
+
+bray jr curtis jt an ordination of the upland forest communi 
+ties of southern wisconsin ecol monogr – 
+
+breen k lévesque e the influence of biological soil crusts on soil
+characteristics along a high arctic glacier foreland nunavut 
+canada arctic antarct alp res – 
+
+büdel b microorganisms of biological crusts on soil surfaces in 
+varma a buscot f eds microorganisms in soils roles in gen 
+esis and functions berlin heidelberg springer – 
+
+büdel b darienko t deutschewitz k et al southern african
+biological soil crusts are ubiquitous and highly diverse in
+drylands being restricted by rainfall frequency microb ecol
+ – 
+
+büdel b dulic t darienko t et al cyanobacteria and algae of bio 
+logical soil crusts in weber b büdel b belnap j eds biologi 
+cal soil crusts an organizing principle in drylands switzerland 
+springer – 
+
+charvet s vincent wf comeau a et al pyrosequencing analysis
+of the protist communities in a high arctic meromictic lake 
+dna preservation and change front microbiol 
+
+chown s huiskes a gremmen n et al continent wide risk
+assessment for the establishment of nonindigenous species
+in antarctica proc natl acad sci – 
+
+clymo r hayward p the ecology of sphagnum in smith a ed 
+bryophyte ecology london new york chapman hall 
+ – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+https academic oup com femsec article lookup doi femsec fiy supplementary data
+http dx doi org s 
+
+
+rippin et al 
+
+colesie c gommeaux m green tga et al biological soil crusts
+in continental antarctica garwood valley southern victoria
+land and diamond hill darwin mountains region antarct
+sci – 
+
+cong j yang y liu x et al analyses of soil microbial community
+compositions and functional genes reveal potential conse 
+quences of natural forest succession sci rep 
+
+cooper e wookey p field measurements of the growth rates of
+forage lichens and the implications of grazing by svalbard
+reindeer symbiosis – 
+
+cooper gm the cell a molecular approach sinauer associates
+inc 
+
+coutinho fh meirelles pm moreira apb et al niche distribution
+and influence of environmental parameters in marine micro 
+bial communities a systematic review peer j e 
+
+cruz martı́nez k rosling a zhang y et al effect of rainfall 
+induced soil geochemistry dynamics on grassland soil micro 
+bial communities appl environ microbiol – 
+
+darby b neher da microfauna within biological soil crusts in 
+weber b büdel b belnap j eds biological soil crusts an orga 
+nizing principle in drylands switzerland springer –
+ 
+
+darienko t gustavs l eggert a et al evaluating the species
+boundaries of green microalgae coccomyxa trebouxio 
+phyceae chlorophyta using integrative taxonomy and dna
+barcoding with further implications for the species identifi 
+cation in environmental samples plos one e 
+
+davey mc the seasonal periodicity of algae on antarctic fellfield
+soils holarct ecol – 
+
+davidova r ganeva a boycheva m ecology of communities of
+testate amoebae amoebozoa rhizaria associated with ter 
+restrial bryophytes in zlatni pyasatsi natural park north 
+eastern bulgaria acta zool bulg – 
+
+devetter m háněl l řeháková k et al diversity and feeding
+strategies of soil microfauna along elevation gradients in
+himalayan cold deserts plos one e 
+
+dojani s kauff f weber b et al genotypic and phenotypic diver 
+sity of cyanobacteria in biological soil crusts of the succu 
+lent karoo and nama karoo of southern africa microb ecol
+ – 
+
+edgar rc haas bj clemente jc et al uchime improves
+sensitivity and speed of chimera detection bioinformatics
+ – 
+
+elster j kvı́derová j hájek t et al soft bottom macrofauna of
+an all taxa biodiversity site hornsund ◦n svalbard polish
+polar res – 
+
+elster j lukesova a svoboda j et al diversity and abundance
+of soil algae in the polar desert sverdrup pass central
+ellesmere island polar rec gr brit – 
+
+ettl h gärtner g syllabus der boden luft und flechtenalgen 
+berlin heidelberg springer 
+
+evans rd johansen jr microbiotic crusts and ecosystem pro 
+cesses crc crit rev plant sci – 
+
+evans rd lange ol biological soil crusts and ecosystem nitro 
+gen and carbon dynamics in belnap j lange ol eds bio 
+logical soil crusts structure function and management vol 
+berlin heidelberg springer – 
+
+faoro h alves ac souza em et al influence of soil characteristics
+on the diversity of bacteria in the southern brazilian atlantic
+forest appl environ microbiol – 
+
+fierer n embracing the unknown disentangling the complexi 
+ties of the soil microbiome nat rev microbiol – 
+
+fiore donno am rixen c rippin m et al new barcoded primers
+for efficient retrieval of cercozoan sequences in high 
+throughput environmental diversity surveys with emphasis
+on worldwide biological soil crusts mol ecol resour doi 
+ 
+
+førland ej benestad r hanssen bauer i et al temperature and
+precipitation development at svalbard – adv mete 
+orol 
+
+forster d dunthorn m stoeck t et al comparison of three clus 
+tering approaches for detecting novel environmental micro 
+bial diversity peerj e 
+
+geisen s tveit at clark im et al metatranscriptomic census of
+active protists in soils isme j – 
+
+geyer km altrichter ae takacs vesbach cd et al bacterial com 
+munity composition of divergent soil habitats in a polar
+desert fems microbiol ecol – 
+
+ghosh w george a agarwal a et al whole genome shot 
+gun sequencing of the sulfur oxidizing chemoautotroph
+tetrathiobacter kashmirensis j bacteriol – 
+
+gold wg bliss lc water limitations and plant community
+development in a polar desert ecology – 
+
+gorman ds levine rp cytochrome f and plastocyanin their
+sequence in the photosynthetic electron transport chain of
+chlamydomonas reinhardi proc natl acad sci – 
+
+gregersen lh bryant da frigaard n u mechanisms and evolu 
+tion of oxidative sulfur metabolism in green sulfur bacteria 
+front microbiol 
+
+guan p zhang x yu j et al soil microbial food web chan 
+nels associated with biological soil crusts in desertification
+restoration the carbon flow from microbes to nematodes 
+soil biol biochem – 
+
+gundlapally sr garcia pichel f the community and phyloge 
+netic diversity of biological soil crusts in the colorado plateau
+studied by molecular fingerprinting and intensive cultiva 
+tion microb ecol – 
+
+hansen aa herbert ra mikkelsen k et al viability diversity
+and composition of the bacterial community in a high arctic
+permafrost soil from spitsbergen northern norway environ
+microbiol – 
+
+harder cb rønn r brejnrod a et al local diversity of heath 
+land cercozoa explored by in depth sequencing isme j
+ – 
+
+hauer t bohunická m johansen jr et al reassessment of the
+cyanobacterial family microchaetaceae and establishment
+of new families tolypothrichaceae and godleyaceae j phycol
+ – 
+
+he s guo l niu m et al ecological diversity and co 
+occurrence patterns of bacterial community through soil
+profile in response to long term switchgrass cultivation sci
+rep 
+
+hendriksen nb leaf litter selection by detritivore and
+geophagous earthworms biol fertil soils – 
+
+hoffmann l algae of terrestrial habitats bot rev – 
+hoham r optimum temperatures and temperature ranges for
+
+growth of snow algae arct alp res – 
+hurlbert sh the nonconcept of species diversity a critique and
+
+alternative parameters ecology – 
+iino t mori k uchino y et al ignavibacterium album gen nov 
+
+sp nov a moderately thermophilic anaerobic bacterium iso 
+lated from microbial mats at a terrestrial hot spring and pro 
+posal of ignavibacteria classis nov for a novel lineage at
+the periphery of green sulfur bacteria int j syst evol microbiol
+ – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+jaccard p the distribution of the flora in the alphine zone new
+phytol – 
+
+johnson sl kuske cr carney td et al increased temperature
+and altered summer precipitation have differential effects on
+biological soil crusts in a dryland ecosystem glob chang biol
+ – 
+
+karsten u holzinger a green algae in alpine biological soil crust
+communities acclimation strategies against ultraviolet radi 
+ation and dehydration biodivers conserv – 
+
+kleindienst s herbst f a stagars m et al diverse sulfate 
+reducing bacteria of the desulfosarcina desulfococcus clade are
+the key alkane degraders at marine seeps isme j –
+ 
+
+lange a jost s heider d et al ampliconduo a split sample fil 
+tering protocol for high throughput amplicon sequencing of
+microbial communities plos one e 
+
+lanzén a simachew a gessesse a et al surprising prokaryotic
+and eukaryotic diversity community structure and biogeog 
+raphy of ethiopian soda lakes plos one e 
+
+lara e mitchell ead moreira d et al highly diverse and season 
+ally dynamic protist community in a pristine peat bog protist
+ – 
+
+lee jr raymond b bracegirdle tj et al climate change drives
+expansion of antarctic ice free habitat nature –
+ 
+
+lipson da schmidt sk seasonal changes in an alpine soil bac 
+terial community in the colorado rocky mountains appl
+environ microbiol – 
+
+longton r vegetative growth in longton r ed biology of polar
+bryophytes and lichens cambridge university press 
+ – 
+
+mahé f rognes t quince c et al swarm robust and fast clus 
+tering method for amplicon based studies peerj e 
+
+mahé f rognes t quince c et al swarm v highly scalable and
+high resolution amplicon clustering peerj e 
+
+maier s muggia l cuske c et al bacteria and non lichenized
+fungi within biological soil crusts in weber b büdel b bel 
+nap j eds biological soil crusts an organizing principle in dry 
+lands switzerland springer – 
+
+mansano as hisatugo kf leite ma et al seasonal variation
+of the protozooplanktonic community in a tropical olig 
+otrophic environment ilha solteira reservoir brazil braz j
+biol – 
+
+mccann cm wade m gray nd et al microbial communities in a
+high arctic polar desert landscape front microbiol 
+
+mcfadden gi melkonian m use of hepes buffer for microalgal
+culture media and fixation for electron microscopy phycolo 
+gia – 
+
+metting b the systematics and ecology of soil algae bot rev
+ – 
+
+de morais mg vaz bds de morais eg et al biologically
+active metabolites synthesized by microalgae biomed res int
+ 
+
+nielsen km johnsen pj bensasson d et al release and per 
+sistence of extracellular dna in the environment environ
+biosafety res – 
+
+nweze no ecological implications and roles of cyanobacteria
+ cyanophyta in food security—a review plant prod res j
+ – 
+
+oksanen j blanchet f friendly m et al vegan community ecol 
+ogy package 
+
+ontiveros valencia a tang y krajmalnik brown r et al man 
+aging the interactions between sulfate and perchlorate 
+reducing bacteria when using hydrogen fed biofilms to treat
+
+a groundwater with a high perchlorate concentration water
+res – 
+
+orsi wd smith jm liu s et al diverse uncultivated bacteria and
+archaea underlying the cycling of dissolved protein in the
+ocean isme j – 
+
+paulson jn stine oc bravo hc et al differential abundance
+analysis for microbial marker gene surveys nat methods
+ – 
+
+pereira eb evangelista h pereira kcd et al apportionment of
+black carbon in the south shetland islands antartic penin 
+sula j geophys res d 
+
+pineiro sa sahaniuk ge romberg e et al predation pattern and
+phylogenetic analysis of bdellovibrionaceae from the great
+salt lake utah curr microbiol – 
+
+pointing sb belnap j microbial colonization and controls in dry 
+land systems nat rev microbiol – 
+
+pointing sb büdel b convey p et al biogeography of photoau 
+totrophs in the high polar biome front plant sci 
+
+prestø t lüth m hassel k bryophytes of the longyearbyen area 
+trondheim ntnu vitenskapsmuseet naturhistorisk notat 
+ 
+
+prokopowich c gregory t rease t the correlation between
+rdna copy number and genome size in eukaryotes genome
+ – 
+
+pushkareva e johansen jr elster j a review of the ecology 
+ecophysiology and biodiversity of microalgae in arctic soil
+crusts polar biol – 
+
+quast c pruesse e yilmaz p et al the silva ribosomal rna gene
+database project improved data processing and web based
+tools nucleic acids res – 
+
+raymond ja the ice binding proteins of a snow alga 
+chloromonas brevispina probable acquisition by horizon 
+tal gene transfer extremophiles – 
+
+rippin m borchhardt n williams l et al genus richness of
+microalgae and cyanobacteria in biological soil crusts from
+svalbard and livingston island morphological versus molec 
+ular approaches polar biol doi s 
+ 
+
+rippin m komsic buchmann k becker b rna isolation from
+biological soil crusts methodological aspects arch hydrobiol
+suppl algol stud – 
+
+rippka r deruelles j waterbury jb et al generic assignments 
+strain histories and properties of pure cultures of cyanobac 
+teria j gen microbiol – 
+
+rognes t flouri t nichols b et al vsearch a versatile open
+source tool for metagenomics peerj e 
+
+rueckert s simdyanov tg aleoshin vv et al identification of a
+divergent environmental dna sequence clade using the phy 
+logeny of gregarine parasites apicomplexa from crustacean
+hosts plos one e 
+
+ruprecht u brunauer g türk r high photobiont diversity in the
+common european soil crust lichen psora decipiens biodivers
+conserv – 
+
+sahayaraj k asharaja ac rajesh s et al qualitative and quan 
+titative profiles of secondary metabolites of chosen chloro 
+phyta and ochrophyta from gulf of mannor cah biol mar
+ – 
+
+selbmann l de hoog gs zucconi l et al drought meets acid 
+three new genera in a dothidealean clade of extremotolerant
+fungi stud mycol – 
+
+soule t anderson ij johnson sl et al archaeal populations in
+biological soil crusts from arid lands in north america soil
+biol biochem – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+rippin et al 
+
+spearman c the proof and measurement of association
+between two things am j psychol – 
+
+steven b lionard m kuske cr et al high bacterial diversity of
+biological soil crusts in water tracks over permafrost in the
+high arctic polar desert plos one e 
+
+stewart ej growing unculturable bacteria j bacteriol
+ – 
+
+stoeck t bass d nebel m et al multiple marker parallel tag
+environmental dna sequencing reveals a highly complex
+eukaryotic community in marine anoxic water mol ecol
+ – 
+
+stoeck t jost s boenigk j multigene phylogenies of clonal
+spumella like strains a cryptic heterotrophic nanoflagellate 
+isolated from different geographical regions int j syst evol
+microbiol – 
+
+thomas dn fogg t convey p et al introduction to the polar
+regions in thomas dn ed the biology of polar regions 
+oxford university press a – 
+
+thomas dn fogg t convey p et al periglacial and terrestrial
+habitats in polar regions in thomas dn ed the biology of
+polar regions oxford university press b – 
+
+thomas dn fogg t convey p et al stress adaption and sur 
+vival in polar regions in thomas dn ed the biology of polar
+regions oxford university press c – 
+
+timmers pha gieteling j widjaja greefkes hca et al growth of
+anaerobic methane oxidizing archaea and sulfate reducing
+bacteria in a high pressure membrane capsule bioreactor 
+appl environ microbiol – 
+
+uyaguari diaz mi chan m chaban bl et al a comprehensive
+method for amplicon based and metagenomic characteriza 
+tion of viruses bacteria and eukaryotes in freshwater sam 
+ples microbiome 
+
+vogel s eckerstorfer m christiansen hh cornice dynamics
+and meteorological control at gruvefjellet central svalbard 
+cryosph – 
+
+wedin m wiklund e jørgensen pm et al slippery when wet phy 
+logeny and character evolution in the gelatinous cyanobac 
+terial lichens peltigerales ascomycetes mol phylogenet evol
+ – 
+
+williams l borchhardt n colesie c et al biological soil crusts
+of arctic svalbard and of livingston island antarctica polar
+biol – 
+
+williams rj howe a hofmockel ks demonstrating microbial
+co occurrence pattern analyses within and between ecosys 
+tems front microbiol 
+
+yoshitake s uchida m koizumi h et al production of biological
+soil crusts in the early stage of primary succession on a high
+arctic glacier foreland new phytol – 
+
+yun y wang h man b et al the relationship between ph and
+bacterial communities in a single karst ecosystem and its
+implication for soil acidification front microbiol 
+
+zarraonaindia i owens sm weisenhorn p et al the soil micro 
+biome influences grapevine associated microbiota mbio
+ e – 
+
+zavarzin ga microbial cycles in jørgensen se ed global ecol 
+ogy amsterdam elsevier science technology –
+ 
+
+zelikova tj housman dc grote ee et al warming and increased
+precipitation frequency on the colorado plateau implica 
+tions for biological soil crusts and soil processes plant soil
+ – 
+
+zhang j kobert k flouri t et al pear a fast and accurate illu 
+mina paired end read merger bioinformatics – 
+
+zhang j wang f che r et al precipitation shapes communities
+of arbuscular mycorrhizal fungi in tibetan alpine steppe sci
+rep 
+
+zhu f massana r not f et al mapping of picoeucaryotes in
+marine ecosystems with quantitative pcr of the s rrna
+gene fems microbiol ecol – 
+
+zidarova r algae from livingston island s shetland islands a
+checklist phytol balc – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+

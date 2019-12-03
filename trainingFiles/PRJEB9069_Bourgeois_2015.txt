@@ -1,0 +1,1652 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+positive effect of the miscanthus bioenergy crop on microbial diversity in wastewater contaminated soil
+
+
+original paper
+
+positive effect of the miscanthus bioenergy crop on microbial
+diversity in wastewater contaminated soil
+
+emilie bourgeois • samuel dequiedt • mélanie lelièvre • folkert van oort •
+
+isabelle lamy • pierre alain maron • lionel ranjard 
+
+received august accepted august published online september 
+
+� springer international publishing switzerland 
+
+abstract in france about ha per year of arable
+
+land become unsuitable for food production due to erosion 
+
+acidification sealing and pollution by metallic and organic
+
+compounds bioenergy crops such as miscanthus x gigan 
+
+teus are used to rehabilitate polluted soils for crop produc 
+
+tion although the economic potential of this crop is known 
+
+the crop abilities to regenerate the soil biological properties
+
+enabling sustainable crop production still remain unclear 
+
+here we evaluated the effects of the miscanthus crop on the
+
+abundance and diversity of soil bacterial and fungal com 
+
+munities in a wastewater contaminated soil using syn 
+
+chronic and diachronic evaluation strategies a year field
+
+experiment near paris was set up on an agricultural field
+
+irrigated with raw wastewater for more than years thus
+
+inducing a strong metal and organic contamination of the
+
+soil we characterized the abundance and diversity of soil
+
+microbial communities using metagenomic techniques our
+
+results show that the miscanthus crop had an early effect on
+
+microbial communities by stimulating bacterial diversity 
+
+by about and fungal diversity by about this
+
+positive effect could be explained by the release of fresh
+
+organic matter from litter decomposition and root exuda 
+
+tion and by the absence of tillage and pesticide spraying 
+
+which are known to degrade soil microflora on the other
+
+hand no significant effect on microbial biomass has been
+
+recorded overall our findings show that miscanthus crop 
+
+ping is a promising practice to enhance the regeneration of
+
+soil microbiological diversity and to reclame polluted soils 
+
+keywords soil pollution � microbial diversity �
+miscanthus x giganteus � remediation � trace metals
+
+introduction
+
+to date most of the agricultural soils in france were used
+
+under intensive farming requiring consistent soil tillage and
+
+chemical fertilizers and pesticides inputs soil amendments
+
+with manure sewage sludge or irrigation with urban
+
+wastewater were also common practices between 
+
+and of the agricultural land surface about 
+
+million hectares was irrigated with wastewater providing
+
+readily degradable organic compounds which are useful to
+
+improve plant growth and crop production http www 
+
+agreste agriculture gouv fr img pdf primeur pdf 
+
+however such practices often result in acute and diffuse
+
+contaminations of the soil since wastewater may contain
+
+important amount of recalcitrant organic compounds trace
+
+metals and antibiotics leading to a high level of accumu 
+
+lation of toxic exogenous metallic or organic compounds in
+
+these soils lamy et al 
+
+high levels of exogenous trace metals can have a
+
+detrimentally effect on the number diversity and activity
+
+of soil organisms such as soil macrofauna nahmani and
+
+lavelle and microorganisms kandeler et al 
+
+ranjard et al as soil microorganisms play a crucial
+
+role in soil quality and functioning e g in soil aggregate
+
+structure organic matter turn over and mineralization 
+
+community diversity modifications consecutive to metal
+
+stress might also affect soil biological functioning and
+
+ lionel ranjard
+ranjard dijon inra fr
+
+ umr agroécologie inra rue de sully 
+
+ dijon france
+
+ umr agroecologie plateforme genosol inra 
+
+ rue de sully dijon france
+
+ agroparistech umr ecosys ecotoxicology team 
+
+inra versailles cedex france
+
+ 
+
+environ chem lett – 
+
+doi s 
+
+http www agreste agriculture gouv fr img pdf primeur pdf
+http www agreste agriculture gouv fr img pdf primeur pdf
+http crossmark crossref org dialog doi s amp domain pdf
+http crossmark crossref org dialog doi s amp domain pdf
+
+
+affect some of the ecosystem services provided by soil
+
+ bååth et al trace metals in addition to their
+
+negative effects on soil organisms have a long residence
+
+time in soils which become unsuitable for crop production
+
+over several generations due to the decrease in soil fertility
+
+and or hazards of food quality for human consumption 
+
+recently a strategy has been developed to rehabilitate
+
+agricultural activity on polluted soils the use of plants not
+
+dedicated to food consumption for humans or animals but
+
+intended for bioenergy production evangelou et al 
+
+plant cover prevents bulk erosion and increases soil carbon
+
+sequestration which can further limit the toxicity and
+
+vertical transfer of metals by improving stabilization of the
+
+metals in soils among the various energy crops the c 
+
+grass miscanthus x giganteus named giant miscanthus 
+
+has been recommended as a suitable biofuel crop and its
+
+cultivation is now widespread in europe it is a perennial
+
+crop displaying an efficient use of nitrogen and water good
+
+disease resistance and high economic potential in addition 
+
+it shows good growth quality on contaminated sites le 
+
+wandowski et al several field trials have demon 
+
+strated that planting giant miscanthus modifies soil
+
+disturbance absence of tillage reduced use of pesticides 
+
+and leads to the formation of new habitats through the
+
+development of surface litter and extensive root systems 
+
+with impacts on pollutant dynamics as well as on organ 
+
+isms living in soil dauber et al several studies
+
+conducted on soil fauna revealed an increase in soil
+
+mesofauna and macrofauna abundance and diversity when
+
+mxg bioenergy crops rather than annual wheat crops 
+
+were grown on polluted soils chauvat et al hedde
+
+et al by contrast the effect on microorganisms of
+
+planting giant miscanthus in polluted soils has been poorly
+
+investigated and it is not known if this practice has a
+
+positive or negative impact on bacterial and fungal com 
+
+munities such information is essential with respect to
+
+major role of microorganisms in processes underlying soil
+
+fertility and sustainable crop production 
+
+the aim of this study was to elucidate the effects of
+
+miscanthus x giganteus cropping on the indigenous
+
+microbial communities in a long term contaminated soil 
+
+investigations were carried out on a real field location
+
+close to paris pierrelaye france which had been irri 
+
+gated with raw wastewater for more than a years 
+
+these inputs led to the accumulation of a huge amount of
+
+recalcitrant organic matter especially in the soil surface
+
+horizon as well as micro pollutants especially zn pb cu 
+
+and cd trace metals van oort et al the short term
+
+impact of miscanhtus crop on microbial communities was
+
+assessed by a synchronic comparative study of plots
+
+planted with giant miscanthus for years and a plot under
+
+a conventional wheat crop system and by a diachronic
+
+study monitoring microbial community dynamics during
+
+ year period following the planting of giant miscanthus 
+
+microbial communities were characterized in terms of
+
+molecular microbial biomass dequiedt et al as well
+
+as bacterial and fungal diversity pyrosequencing of
+
+the s and s rrna genes directly amplified from soil
+
+dna we hypothesized that miscanhtus crop in com 
+
+parison with conventional cropping would stimulate more
+
+microbial abundance and diversity in this polluted soil by
+
+providing new soil habitats for microorganisms thus lim 
+
+iting the influence of metal contamination and the preva 
+
+lence of resistant populations and therefore enhancing soil
+
+biological quality and fertility 
+
+materials and methods
+
+experimental site history and soil sampling design
+
+studies were conducted on a field site close to paris within
+
+a ha wide agricultural area at pierrelaye france 
+latitude � n longitude � e the soils at this site
+are sandy textured classified as orthic and albic luvisols
+
+ iuss working group wrb for more than a
+
+century they have been used for market gardening and
+
+irrigated with raw wastewater from the urban paris in order
+
+to increase the organic quality of this soil by supplying c 
+
+n and k inputs however they also led to the accumula 
+
+tion of recalcitrant organic matter dissolved salts car 
+
+bonates phosphates and metallic pollutants in the surface
+
+horizon of the soil lamy et al van oort et al 
+
+as a consequence the spreading of raw wastewater was
+
+finally stopped in the early s and the market gardening
+
+was prohibited to promote cereal cropping and to introduce
+
+bioenergy crops especially the c grass miscanthus x
+
+giganteus the experimental site in this agricultural area
+
+was composed of three plots fig the first p 
+
+ m was implanted with giant miscanthus english
+
+cultivar from novabiom� france in the second p 
+
+ m was under an annual crop system tillage and
+
+crop rotations of wheat sorghum triticale and maize in
+
+ and the third p plot m was planted with
+
+giant miscanthus in english cultivar from nov 
+
+abiom� france 
+
+the impact of miscanthus x giganteus perennial crop 
+
+ping on microbial communities was assessed by a a
+
+synchronic comparative analysis of the microbial commu 
+
+nities in the p and p plots in and b a diachronic
+
+study in p by monitoring the microbial communities
+
+during a year period of giant miscanthus growth fol 
+
+lowing its planting in all samples were taken at a
+
+depth of – cm five replicates were collected from p 
+
+and p in march for the synchronic study and from
+
+p in march and for the diachronic study 
+
+ environ chem lett – 
+
+ 
+
+
+
+the soils were sieved mm lyophilized at �c and
+stored at �c major physic and geochemical charac 
+teristics ph texture trace elements were determined by
+
+the soil analysis laboratory at inra arras france 
+
+according to standard international procedures table 
+
+molecular microbial biomass
+
+microbial dna was extracted from g of each soil sample
+
+after careful quartering using a single procedure stan 
+
+dardized by the genosol platform inra dijon france 
+
+terrat et al dna concentrations of crude extracts
+
+were determined by electrophoresis in agarose gel
+
+according to a calf thymus dna standard curve and used
+
+as estimates of microbial molecular biomass dequiedt
+
+et al after quantification dna samples were
+
+purified according to terrat et al 
+
+bacterial and fugal diversity
+
+bacterial diversity was estimated by pyrosequencing
+
+of the s rrnav v gene region as described by terrat
+
+et al the gene fragment about bp was first
+
+amplified by using the primers f and r then a
+
+second pcr was run on purified pcr products from the
+
+first pcr using ten based pair multiplex identifiers mid 
+
+added to the primers at position to specifically identify
+each sample similarly fungal diversity was estimated by
+
+ pyrosequencing of the s rrna a gene fragment of
+
+about bp was first amplified using the primers fr and
+
+ff then a second pcr was run on purified pcr
+
+products from the first pcr using ten based pair multiplex
+
+identifiers mid added to the primers at position the
+pcr products were finally purified and pyrosequencing
+
+was then carried out on a gs junior roche 
+
+sequencing system 
+
+bioinformatics analysis
+
+a bioinformatics analysis was done using the gns pipe of
+
+the genosol platform as described by terrat et al 
+
+first all the s and s raw reads were sorted according
+
+to the multiplex identifier sequences the raw reads were
+
+then filtered and deleted based on a their length b their
+
+number of ambiguities ns c and their primer s se 
+
+quence s a perl program was then applied for rigorous
+
+dereplication i e clustering of strictly identical sequen 
+
+ces the dereplicated reads were then aligned using
+
+infernal alignment and clustered into operational taxo 
+
+nomic units otu using a perl program that groups rare
+
+reads to abundant ones and does not count differences in
+
+homopolymer lengths a filtering step was then carried out
+
+to check all single singletons reads detected only once and
+
+not clustered which might be artifacts such as pcr chi 
+
+meras based on the quality of their taxonomic assign 
+
+ments finally in order to compare the datasets efficiently
+
+and avoid biased community comparisons the retained
+
+reads were homogenized by random selection closed to the
+
+lowest dataset 
+
+the retained high quality reads for bacteria and
+
+ for fungi were used for taxonomy independent
+
+analyses to determine diversity and richness indices using
+
+the defined otu composition at similarity the raw
+
+data sets are available on the ebi database system under
+
+fig design of the experimental site of pierrelaye used in this study the site was divided in three plots a p plot planted in with
+miscanthus x giganteus b p plot under cereal crop system and c p plot planted in with miscanthus x giganteus
+
+environ chem lett – 
+
+ 
+
+
+
+project accession number prjeb we used the max 
+
+imum number of otus and evenness indexes as indicators
+
+of soil microbial richness and structure respectively 
+
+statistical analyses
+
+for the synchronic study molecular microbial biomass and
+
+microbial diversity indices richness and evenness were
+
+compared by student’s t test p using xlstat
+software addinsoft� for the diachronic study differ 
+
+ences between molecular microbial biomass and the
+
+microbial diversity indices for p soils for the years 
+
+ and were compared by analysis of variance
+
+ anova multiple paired comparisons and the differ 
+
+ences between them by fisher’s test p using
+xlstat software addinsoft� significance was assessed
+
+at the p level 
+
+results and discussion
+
+on the pierrelaye site irrigation with wastewater was ini 
+
+tially intended to increase the fertility of the sandy textured
+
+soils used for market gardening but also led to an homo 
+
+geneous and important accumulation of recalcitrant organic
+
+matter high c n ratio between and and metal ele 
+
+ments which was previously described by lamy et al 
+
+ table in this context we have conducted syn 
+
+chronic and diachronic studies to evaluate the effect of
+
+miscanthus crop on soil microbiological community in
+
+terms of abundance diversity and structure for a subse 
+
+quent agricultural restoration 
+
+influence of wastewater irrigation on agronomical
+
+and microbiological soil characteristics
+
+in all plots of the studied site it is important to note that the
+
+level of microbial biomass from lg dna g soil to
+ lg dna g soil and diversity from to 
+bacterial taxons and from to fungal ones was high
+
+ figs and did not reflect neither the sandy texture of
+
+the soil dequiedt et al terrat et al nor the
+
+impact of the metal pollution acknowledged to decrease
+
+these microbial parameters kuperman and carreiro 
+
+these results might be explained by the large amount of
+
+soil organic carbon accumulated by irrigation with raw
+
+wastewater for one century that limits metal toxicity iqbal
+
+et al and stimulates microbial abundance and
+
+diversity hidri et al however the high c n ratio
+
+recorded for the soil organic matter in these soils from 
+
+to does not fit these findings since it indicates a strong
+
+stabilization of the soil organic matter the large c n ratio
+
+may point to an unusual urban nature of the organic matter t
+a
+
+b
+le
+
+ 
+p
+h
+y
+si
+co
+ c
+h
+em
+
+ic
+al
+
+ch
+ar
+ac
+te
+ri
+st
+ic
+s
+an
+d
+co
+n
+ce
+n
+tr
+at
+io
+n
+o
+f
+tr
+ac
+e
+m
+et
+al
+
+el
+em
+
+en
+ts
+
+in
+st
+u
+d
+ie
+d
+so
+il
+s
+ 
+–
+ 
+ 
+cm
+
+ 
+
+y
+ea
+r
+
+c
+la
+y
+
+s
+li
+tt
+
+s
+an
+d
+
+o
+rg
+ 
+c
+
+t
+o
+t 
+n
+
+c
+ n
+
+p
+h
+
+c
+ac
+
+o
+ 
+
+f
+e
+
+z
+n
+
+p
+b
+
+c
+u
+
+c
+d
+
+g
+ k
+g
+
+g
+ k
+g
+
+m
+g
+ k
+g
+
+p
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+±
+
+ 
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+ 
+
+±
+ 
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+p
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+p
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+
+±
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+
+ 
+ 
+ 
+±
+
+ 
+ 
+ 
+
+ environ chem lett – 
+
+ 
+
+
+
+spread by irrigation and or the deleterious effect of metal
+
+elements on organic matter turnover lamy et al 
+
+response of microbial community to miscanthus
+
+crop
+
+the short term synchronic comparison of microbial abun 
+
+dance and diversity in plot soil under mxg for years p 
+
+and plot soil under a conventional crop system with maize
+
+ p was conducted in fig no significant dif 
+
+ference was observed for molecular microbial biomass or
+
+for bacterial diversity in terms of richness and evenness
+
+ figs these results could reflect the impact of trace
+
+metal pollution history as being the main factor structuring
+
+the soil microbial community and homogenizing the
+
+microbial parameters between plots in addition the
+
+recalcitrance of organic matter with a high c n ratio about
+
+ would explain the poor availability of nutrient
+
+resources for bacteria leading to a low reactivity and high
+
+stability of this community to surrounding changing con 
+
+ditions rousk and bååth on the other hand the
+
+absence of bacterial discrimination might also be partly due
+
+to the relatively short period of mxg cultivation on this site
+
+ from to since this crop is known to require
+
+more than years to become fully established 
+
+as regards fungal s rrna gene sequencing fungal
+
+diversity was significantly higher under the miscanthus
+
+crop due to an increase in richness about taxons for p 
+
+against for p fig whereas fungal evenness was
+
+similar in both cropping systems increases in fungal
+
+richness can be partly due to the halting of certain agri 
+
+cultural practices such as tillage and some use of antifungal
+
+pesticide products in the p plot soil tillage leads to the
+
+physical breakdown of fungal mycelium and of their
+
+macroaggregates habitats resulting in deleterious effects on
+
+the abundance and diversity of soil fungi lienhard et al 
+
+ however our observation can also highlight the
+
+beneficial effect of miscanthus cropping since perennial
+
+cover plants provide a stable environment and habitats 
+
+with fresh organic matter input due to the release of root
+
+exudates and the accumulation of litter plant residue litter
+
+on the soil surface chauvat et al the greater
+
+stimulation of fungi as compared to bacteria might result
+
+from their role in litter decomposition their ability to
+
+produce a wide range of extracellular enzymes enabling
+
+them to use the recalcitrant organic matter such as ligno 
+
+cellulose or other plant polymers this ability was partic 
+
+ularly relevant on our site where the soil organic matter
+
+was rather recalcitrant c n ratio about this syn 
+
+chronic study revealed therefore a significant higher
+
+stimulation of microbial diversity by miscanthus cropping
+
+compared to conventional annual wheat crop 
+
+dynamics of soil microbial communities
+
+during the implantation of miscanthus crop
+
+to complement the synchronic comparison diachronic
+
+monitoring was carried out in the p plot planted with
+
+giant miscanthus from to fig during this
+
+period the molecular microbial abundance did not vary
+
+significantly about lg dna g soil in com 
+pared with lg dna g soil in fig 
+according with the synchronic study the bacterial richness
+
+and evenness parameters remained similar year after
+
+mxg planting but showed a significant increase during the
+
+second year from to fig e g from 
+
+taxons in to in these results assessed an
+
+early beneficial effect of the miscanthus crop on bacterial
+
+diversity stimulating richness and improving evenness 
+
+possibly via the release of fresh litter and root exudates
+
+containing readily available c substrates kaňová et al 
+
+ 
+
+monitoring of the fungal community during the years
+
+of miscanthus cropping revealed a significant increase in
+
+fungal diversity during the first year of miscanthus
+
+implantation which was resilient during the second year
+
+ fig similarly the fungal evenness increased slightly
+
+ but not significantly during this period these results
+
+confirmed those obtained with the synchronic study and
+
+lead to the conclusion that miscanthus crops stimulate
+
+fungal diversity 
+
+the synchronic and diachronic evaluations of the effect
+
+of miscanthus bioenergy cropping on the microbial
+
+fig molecular microbial biomass of plots according to soil
+management letters indicate statistical significance p with
+five replicates for synchronic study and three replicates for diachronic
+
+study no significant differences were observed between the mis 
+
+canthus crop p compared to annual conventional wheat crop p 
+
+for the synchronic study and during the year miscanthus implan 
+
+tation in p for the diachronic study
+
+environ chem lett – 
+
+ 
+
+
+
+community in a long term wastewater contaminated site
+
+did not reveal any significant modification of molecular
+
+microbial biomass but highlighted positive effects on
+
+microbial communities diversity the absence of effect on
+
+molecular microbial biomass might be partly explained by
+
+the young stage of development of this crop from to
+
+ years combined with the strong structuring of the
+
+microbial community brought about by the long history of
+
+metallic and organic pollution of the site giant miscanthus
+
+cropping seemed to have an early effect on bacterial and
+
+fungal diversity by stimulating richness and improving
+
+evenness probably due to the release of fresh organic
+
+matter through litter accumulation and root exudation in
+
+conclusion miscanthus planting seemed to provide new
+
+habitats and resources leading to a restoration of soil bio 
+
+logical patrimony and potentially functioning via an
+
+improvement of microbial diversity similar results were
+
+observed on this site when soil mesofauna was targeted
+
+ chauvat et al hedde et al our results
+
+demonstrate that planting a perennial miscanthus bioen 
+
+ergy crop on contaminated soils can be considered as a
+
+good strategy to restore soil microbial diversity with the
+
+aim to rehabilitate polluted sites for their subsequent
+
+agricultural use 
+
+fig bacterial and fungal richness a c and evenness b d of
+plots according to soil management letters indicate statistical
+
+significance p with five replicates for synchronic study
+and three replicates for diachronic study for synchronic study a
+
+significant increase was only recorded for fungal richness in
+
+miscanthus crop compared o annual conventional wheat crop for
+
+diachronic study a significant increase was only observed for
+
+bacterial richness during the year miscanthus implantation
+
+ environ chem lett – 
+
+ 
+
+
+
+acknowledgments this work was partly supported by an anr 
+cesa grant for the resacor project from the french national
+
+research agency the authors thank b brouant chambre
+
+interdépartementale d’agriculture d’ile de france for the setup of
+
+miscanthus plots mr leconte farmer for the setup of other cropping
+
+systems and providing easy access and j p pétraud inra umr
+
+ for marking and maintenance of the experimental site this
+
+work through the involvement of technical facilities of the genosol
+
+platform of the infrastructure anaee france received a grant from
+
+the french state through the national agency for research under the
+
+program ‘‘investments for the future’’ reference anr inbs 
+
+ as well as a grant from the regional council of burgundy 
+
+references
+
+bååth e dı́az raviña m frostegård a campbell cd effect
+
+of metal rich sludge amendments on the soil microbial commu 
+
+nity appl environ microbiol – 
+
+chauvat m perez g hedde m lamy i establishment of
+
+bioenergy crops on metal contaminated soils stimulates below 
+
+ground fauna biomass bioenergy – doi j 
+
+biombioe 
+
+dauber j jones mb stout jc the impact of biomass crop
+
+cultivation on temperate biodiversity gcb bioenergy
+
+ – doi j x
+
+dequiedt s saby npa lelièvre m jolivet c thioulouse j toutain
+
+b arrouays d bispo a lemanceau p ranjard l 
+
+biogeographical patterns of soil molecular microbial biomass as
+
+influenced by soil characteristics and management glob ecol
+
+biogeogr – doi j x
+
+evangelou mwh conesa hm robinson bh schulin r 
+
+biomass production on trace element contaminated land a
+
+review environ eng sci – doi ees 
+
+ 
+
+hedde m van oort f renouf e thénard j lamy i dynamics
+
+of soil fauna after plantation of perennial energy crops on
+
+polluted soils appl soil ecol – doi j apsoil 
+
+ 
+
+hidri y bouziri l maron pa anane m jedidi n hassan a ranjard
+
+l soil dna evidence for altered microbial diversity after
+
+long term application of municipal wastewater agron sustain
+
+dev – doi agro 
+
+iqbal m bermond a lamy i impact of miscanthus cultivation
+
+on trace metal availability in contaminated agricultural soils 
+
+complementary insights from kinetic extraction and physical
+
+fractionation chemosphere – doi j chemo
+
+sphere 
+
+kandeler e kampichler c horak o influence of heavy metals
+
+on the functional diversity of soil microbial communities biol
+
+fertil soils – doi bf 
+
+kaňova h carre j vranova v rejšek k formanek p 
+
+organic compounds in root exudates of miscanthus x giganteus
+
+greef et deu and limitation of microorganisms in its rhizosphere
+
+by nutrients acta univ agric silvic mendel brun – 
+
+doi actaun 
+
+kuperman rg carreiro mm soil heavy metal concentrations 
+
+microbial biomass and enzyme activities in a contaminated
+
+grassland ecosystem soil biol biochem – doi 
+
+ s 
+
+lamy i van oort f dère c baize d use of major and trace 
+
+element correlations to assess metal migration in sandy luvisols
+
+irrigated with wastewater eur j soil sci – doi 
+
+ j x
+
+lewandowski i scurlock jmo lindvall e christou m the
+
+development and current status of perennial rhizomatous grasses
+
+as energy crops in the us and europe biomass bioenergy
+
+ – doi s 
+
+lienhard p terrat s chemidlin prévost bouré n nowak v régnier
+
+t sayphoummie s panyasiri k tivet f mathieu o levêque j 
+
+maron pa ranjard l pyrosequencing evidences the
+
+impact of cropping on soil bacterial and fungal diversity in laos
+
+tropical grassland agron sustain dev – doi 
+
+s 
+
+nahmani j lavelle p effects of heavy metal pollution on soil
+
+macrofauna in a grassland of northern france euro j soil biol
+
+ – doi s x
+
+ranjard l lignier l chaussod r cumulative effects of short 
+
+term polymetal contamination on soil bacterial community
+
+structure appl environ microbiol – doi 
+
+aem 
+
+rousk j bååth e fungal and bacterial growth in soil with
+
+plant materials of different c n ratios fems microbiol ecol
+
+ – doi j x
+
+terrat s christen r dequiedt s lelièvre m nowak v regnier t 
+
+bachar d plassart p wincker p jolivet c bispo a lemanceau
+
+p maron pa mougel c ranjard l molecular biomass
+
+and metataxogenomic assessment of soil microbial communi 
+
+ties as influenced by soil dna extraction procedure microb
+
+biotechnol – doi j x
+
+van oort f jongmans ag lamy i baize d chevallier p 
+
+impacts of long term waste water irrigation on the development
+
+of sandy luvisols consequences for metal pollutant distribu 
+
+tions eur j soil sci – doi j 
+
+ x
+
+environ chem lett – 
+
+ 
+
+http dx doi org j biombioe 
+http dx doi org j biombioe 
+http dx doi org j x
+http dx doi org j x
+http dx doi org ees 
+http dx doi org ees 
+http dx doi org j apsoil 
+http dx doi org j apsoil 
+http dx doi org agro 
+http dx doi org j chemosphere 
+http dx doi org j chemosphere 
+http dx doi org bf 
+http dx doi org actaun 
+http dx doi org s 
+http dx doi org s 
+http dx doi org j x
+http dx doi org j x
+http dx doi org s 
+http dx doi org s 
+http dx doi org s 
+http dx doi org s x
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org j x
+http dx doi org j x
+http dx doi org j x
+http dx doi org j x
+
+	positive effect of the miscanthus bioenergy crop on microbial diversity in wastewater contaminated soil
+	abstract
+	introduction
+	materials and methods
+	experimental site history and soil sampling design
+	molecular microbial biomass
+	bacterial and fugal diversity
+	bioinformatics analysis
+	statistical analyses
+
+	results and discussion
+	influence of wastewater irrigation on agronomical and microbiological soil characteristics
+	response of microbial community to miscanthus crop
+	dynamics of soil microbial communities during the implantation of miscanthus crop
+
+	acknowledgments
+	references
+
+
+
+
+

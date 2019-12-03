@@ -1,0 +1,2418 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bacterial indicator taxa in soils under different long x term agricultural management
+
+
+original article
+
+bacterial indicator taxa in soils under different long term
+agricultural management
+n g jim�enez bueno c valenzuela encinas r marsch d ortiz guti�errez n verhulst 
+b govaerts l dendooven and y e navarro noya 
+
+ laboratory of soil ecology abacus cinvestav mexico df mexico
+
+ international maize and wheat improvement center cimmyt mexico df mexico
+
+ conacyt research fellow research center of biological sciences tlaxcala autonomous university tlaxcala tlaxcala mexico
+
+keywords
+
+bacterial community structure conservation
+
+agriculture crop residue management 
+
+cyanobacteria indicator species n fertilizer
+
+application permanent beds tillage 
+
+correspondence
+
+yendi e navarro noya c�atedras conacyt 
+
+centro de investigaci�on en ciencias biol�ogi 
+
+cas universidad aut�onoma de tlaxcala av 
+
+universidad tlaxcala tlaxcala 
+
+m�exico 
+
+e mails yenavarrono conacyt mx 
+
+nyendi hotmail com
+
+ received october revised
+
+ january and accepted january
+
+ 
+
+doi jam 
+
+abstract
+
+aims in this study the species indicator test was used to identify key
+
+bacterial taxa affected by changes in the soil environment as a result of
+
+conservation agriculture or conventional practices 
+
+methods and results soils cultivated with wheat triticum spp l and maize
+
+ zea mays l under different raised bed planting systems for years that is 
+
+varying crop residue and fertilizer management were used taxonomic and
+
+divergence based s metagenomics and indval analysis were used to study
+
+the bacterial communities and identify indicator taxa genus and otu 
+
+affected by agricultural practices although some phyla were affected
+
+significantly by different treatments the taxonomic assemblages at phylum
+
+level were similar bacterial taxa related to different processes of the n cycle
+
+were indicators of different fertilization rates for example azorhizobium 
+
+nostoc and nitrosomonas a large number of otu were indicators for
+
+conventionally tilled beds and their distribution was defined by soil organic
+
+carbon indval analysis identified different taxa in each of the residue
+
+management systems this suggests that although the same organic material
+
+remains in the field crop residue management affects specific taxa the taxa
+
+indicator of the burned residues belonged mainly to the order sbr 
+
+ anaerolineae chloroflexi and the genera bacillus and alicyclobacillus 
+
+conclusions n fertilizer application rates affected n cycling taxa tillage
+
+affected actinobacteria members and organic matter decomposers although
+
+the same crop residue was retained in the field organic material management
+
+was important for specific taxa 
+
+significance and impact of the study in this study we report that
+
+agricultural practice affected soil bacterial communities we also identified
+
+distinctive taxa and related their distribution to changes in the soil
+
+environment resulting from different agricultural practices 
+
+introduction
+
+the effect of agricultural management practices on soil
+
+bacterial communities is of great importance as soil bac 
+
+teria are critical to maintaining soil fertility soil bacteria
+
+participate in most biological soil processes including
+
+nutrient cycling and organic matter decomposition
+
+ postma blaauw et al ollivier et al chaparro
+
+et al nicolas et al agricultural systems like
+
+all ecosystems depend on microbial mediated processes
+
+for c and n cycling and overall sustainability osler and
+
+sommerkorn govaerts et al it is well known
+
+that agricultural management practices e g tillage crop
+
+residue management crop rotation fertilization and irri 
+
+gation affect physico chemical soil characteristics
+
+ govaerts et al singh et al verhulst et al 
+
+journal of applied microbiology © the society for applied microbiology 
+
+journal of applied microbiology issn 
+
+
+
+ a b aziz et al jat et al and it is there 
+
+fore expected that they affect soil microbial communities 
+
+a large number of studies have investigated the effect
+
+of agricultural practices on size composition and func 
+
+tionality of bacterial communities mostly in long term
+
+field experiments with a wide range of crops in different
+
+soils and climates acosta martinez et al helgason
+
+et al meriles et al ceja navarro et al 
+
+wess�en et al vargas gil et al chaudhry
+
+et al kihara et al lupwayi et al wang
+
+et al navarro noya et al independent of
+
+the molecular techniques used these studies all reported
+
+that agricultural practices have an effect on microbial
+
+communities in soil for instance tilled soil favoured dif 
+
+ferent bacterial groups compared to no tilled soil cae 
+
+sar tonthat et al schneider et al kihara
+
+et al lupwayi et al navarro noya et al 
+
+ and the application of n fertilizer favoured copi 
+
+otrophic bacterial taxa wess�en et al fierer et al 
+
+ a 
+
+most of these studies discussed changes in commu 
+
+nity composition and or the increase or decrease in the
+
+relative abundance of high ranking taxonomic groups 
+
+that is phylum or class however little is known on
+
+how agricultural practices affect lower ranking taxo 
+
+nomic taxa that is at the genus or species level these
+
+lower ranking taxonomic taxa define the bacterial com 
+
+munities in this study we extended the bacterial com 
+
+munity analysis by identifying key taxa that define the
+
+bacterial community structure and by correlating these
+
+key taxa with changes in the physico chemical soil
+
+properties resulting from different agricultural practices 
+
+we investigated three agricultural practices raised bed
+
+planting systems tilled raised beds and permanent
+
+raised beds levels of residue retention full and partial
+
+retention or incorporation of crop residue and two
+
+application rates of inorganic n fertilizer or
+
+ kg n ha� in a year long term field experi 
+ment wheat triticum spp l and maize zea mays
+
+l were cultivated in rotation and soil was sampled
+
+when maize was grown the effect of residue burning a
+
+traditional agricultural practice still common in many
+
+parts of the world including mexico was also included
+
+ verhulst et al although burning of crop resi 
+
+dues facilitates seeding prevents crop diseases and con 
+
+trols weeds it causes considerable loss of organic
+
+carbon c n and other nutrients wang et al 
+
+the objective of this study was to identify key taxa
+
+affected by different agricultural practices and use taxo 
+
+nomic phylogenetic and operational taxonomic units
+
+ otu based information to understand how these
+
+affect the overall community structure 
+
+materials and methods
+
+long term trial and treatments
+
+the ‘international maize and wheat improvement cen 
+
+ter’ cimmyt norman e borlaug ceneb experimen 
+
+tal station is located near ciudad obreg�on sonora 
+
+mexico masl lat ° ″n long ° ″e 
+the site has an arid climate with a mean annual rainfall
+
+of mm and mean annual temperature of °c ver 
+hulst et al a according to the world reference
+
+base system the soil is a hyposodic vertisol calcaric 
+
+chromic iuss verhulst et al 
+
+the experimental design was a randomized complete
+
+block with three replicated plots per treatment each
+
+plot consisted of six raised beds wheat and maize
+
+were planted in an annual rotation with wheat in the
+
+winter and maize in the summer ten treatments
+
+ combining different raised bed planting systems differ 
+
+ent levels of residue retention and two application rates
+
+of inorganic n fertilizer were studied in the main
+
+plots i all crop residues incorporated using conven 
+
+tional tillage each crop cycle and new beds formed
+
+after each crop ctb straw incorporated ii wheat
+
+and maize straw burned and permanent beds reshaped
+
+as needed for each crop pb straw burned iii wheat
+
+straw that passes through the combine was removed 
+
+standing wheat stubble retained maize stover removed
+
+for fodder and permanent beds reshaped as needed
+
+ pb straw removed iv wheat straw chopped and left
+
+in place maize stover removed for fodder and perma 
+
+nent beds reshaped as needed pb straw partially
+
+removed and v both wheat and maize straw chopped
+
+and left in place permanent beds reshaped as needed
+
+ pb straw fully retained these five treatments had
+
+either or kg urea n ha� –n or –n 
+applied fertilizer was banded in the furrow and incor 
+
+porated through irrigation applied in the furrows
+
+between the beds 
+
+soil sampling and characterization
+
+sixty soil samples were taken by augering samples
+
+from the – cm layer on opposite sides of beds bed
+ and bed n from each replicated plot n 
+of each treatment n this field based replication
+was maintained for soil characterization and dna
+
+extraction to avoid pseudo replication samples were
+
+taken in april before wheat was harvested the
+
+soil was analysed for total c and n electrolytic con 
+
+ductivity ec and ph as described by verhulst et al 
+
+ a 
+
+journal of applied microbiology © the society for applied microbiology 
+
+indicator taxa of agroecosystems n g jim�enez bueno et al 
+
+
+
+preparation of the pyro libraries of the s rrna genes
+
+metagenomic dna was extracted from a subsample of
+
+ � g dry soil using the power soil dna isolation kit
+ mo bio laboratories carlsbad ca according to the
+
+manufacturer’s instructions the v –v region about
+ bp of bacterial s rrna gene was chosen for the
+
+amplification and subsequent pyrosequencing dna sam 
+
+ples were amplified using a set of bacterial primers the
+
+forward f –aga gtt tga tci tgg ctc a– and
+reverse r –tta ccg cig cti ctg gca– pri 
+mers each ribosomal primer set was flanked by the 
+
+adapter sequence unique nt multiplex identifier was
+
+incorporated between the adapter and the forward
+
+primer for sample identification among mixed amplicon
+
+libraries 
+
+the pcr mixture ll contained buffer 
+ lmol l� of each of the four deoxynucleoside
+triphosphates forward primer f and reverse primer
+
+ r at � lmol l� each � mmol l� mgcl u
+taq polymerase thermo scientific and ll template
+dna the pcr amplification was done according to the
+
+following protocol initial denaturation at °c for
+ min followed by cycles of denaturation at °c for
+ min annealing at °c for s and extension at °c
+for s with a final extension °c for min the
+pcr products per soil sample were amplified in quadru 
+
+plicate quantified using nanodrop thermo fisher
+
+scientific inc suwanee ga mixed in equimolar
+
+amounts and purified using the dna clean and concen 
+
+tratortm capped columns zymo research irvine ca 
+
+sequencing was conducted by macrogen inc seoul 
+
+korea on a roche gs–flx titaniumtm pyrose 
+quencer roche mannheim germany 
+
+pyrosequencing reads processing
+
+sequences were processed using quantitative insights into
+
+microbial ecology qiime pipeline ver http 
+
+www qiime org first quality filtering was performed
+
+and sequences of low quality read length shorter than
+
+ nt quality scores in a nt window or
+sequences containing errors in pyrosequencing adaptors 
+
+ nt barcodes and primers were excluded from further
+
+analysis noise from the flx chemistry was removed
+
+with the script denoise wrapper py reeder and knight
+
+ the screened sequences were used to determine
+
+operational taxonomic units otus at a similarity
+
+threshold of otu with an open reference
+
+method using uclust otu picker edgar and
+
+against the greengenes database may release 
+
+ mcdonald et al the representative sequences for
+
+clusters were aligned at a minimum percent sequence
+
+identity of using pynast caporaso et al a 
+
+sequences that could not be aligned were removed 
+
+potentially chimeric sequences were identified using chi 
+
+meraslayer haas et al and removed from the data
+
+sets the ribosomal database project classifier wang
+
+et al was used to obtain the taxonomic assignment
+
+and the relative abundance of the different bacterial
+
+groups taxonomic assignations below confidence
+
+were assigned as unknown sequences found in only one
+
+sample singletons were also eliminated the generated
+
+biological observation matrix biom table was used to
+
+calculate the distributions at different taxonomic levels 
+
+the biom tables were rarefied to reads per sam 
+
+ple for alpha diversity analysis to avoid bias resulting
+
+from differences in the number of sequences in the sam 
+
+ples the rarefied tables were obtained by consecutively
+
+subsampling the population of bacterial occurrences for
+
+each soil sample at intervals of sequences between
+
+ and reads this sequential rarefaction was
+
+done times 
+
+phylogenetic and statistical analyses
+
+further analyses were taxonomic phylogenetic and otu
+
+based variables in the tables of occurrence with no nor 
+
+mal distribution were log transformed first the relative
+
+abundances were calculated for otu and genus taxo 
+
+nomic level in each sample and similarity pairwise matri 
+
+ces were calculated using the bray–curtis similarity
+coefficient legendre and legendre simultane 
+
+ously pairwise unifrac distance matrices were calculated
+
+using weighted data within the qiime pipeline capo 
+
+raso et al b the weighted unifrac divides the total
+
+branch length of a tree between the different communi 
+
+ties and the frequency of bacterial otus between sam 
+
+ples this phylogenetic based approach accounts for the
+
+fact that not all otus within a sample are equally related
+
+to each other lozupone et al principal coordi 
+
+nate analysis pcoa was used to summarize overall dif 
+
+ferences vegan package http vegan r forge r 
+
+project org analysis of similarity statistic anosim was
+
+used to test significant differences in the bacterial com 
+
+munity structure between treatments using the pairwise
+
+matrices significant differences in the abundance of taxo 
+
+nomic groups as a result of the different treatments were
+
+calculated using analysis of variance anova and based
+
+on the least significant difference using the general linear
+
+model procedure sas institute 
+
+indicator species analysis was used to identify otu 
+and genera specific to each agricultural practice the
+
+indicator value iv index that combines relative abun 
+
+dance and relative frequency of occurrence was calcu 
+
+lated using the otu and genus abundance tables and
+
+journal of applied microbiology © the society for applied microbiology 
+
+n g jim�enez bueno et al indicator taxa of agroecosystems
+
+http www qiime org 
+http www qiime org 
+http vegan r forge r project org 
+http vegan r forge r project org 
+
+
+only strong indicators were considered that is iv � 
+and p � dufrene and legendre analysis was
+done using r http www r project org with the indic 
+
+species package ver de c�aceres and legendre
+
+ 
+
+spearman rank correlation coefficient was used to
+
+determine the degree of association between bacterial
+
+communities and soil characteristics with the bioenv
+
+analysis from the vegan r package which ranks each
+
+individual environmental variable by degree of associa 
+
+tion with the bacterial community structure community
+
+structure variability was considered in terms of taxon 
+
+omy otu distribution and unifrac distances subsam 
+
+ples n were averaged over the plots n prior
+to the statistical analysis 
+
+data accessibility
+
+pyrosequence reads from this study were submitted to
+
+the ncbi sequences read archive associated with the
+
+project prjna under the accession number
+
+srp 
+
+results
+
+bacterial communities
+
+the sequencing of libraries yielded bacterial
+
+v –v raw sequence reads with an average length of 
+nt after quality filtering denoising and chimera check 
+
+ing otu were clustered alpha diversity indices
+
+indicated similar species richness and diversity in the dif 
+
+ferent treatments chao richness estimator values ranged
+
+from to and phylogenetic diversity index ran 
+
+ged from � to � table s thirty one phyla 
+classes orders families and genera were
+
+identified and � of all sequences remained unclassi 
+fied 
+
+the most abundant phyla were actinobacteria � 
+of all reads proteobacteria � and chloroflexi
+ � the two most abundant genera in all treatments
+were rubrobacter actinobacteria and bacillus firmi 
+
+cutes with relative abundances of � and � respec 
+tively 
+
+effect of nitrogen fertilization rate
+
+the distribution of taxa at the higher taxonomic ranks
+
+was similar and the difference between relative abundance
+
+of phyla as a result of n fertilizer application rate was
+
+not significant fig a however when the bacterial
+
+community’s structures were compared in terms of
+
+phylogenetic information the treatments with –n and
+
+ –n fertilizer application were significantly different
+ p � fig b table azorhizophilus nosto 
+caceae microcoleus shimazuella chloronema were indica 
+
+tor taxa for the –n treatments and phormidium 
+nitrosomonadaceae cupriavidus streptomyces cellu 
+
+losimicrobium azoarcus arthrobacter and anaerolineae
+
+for the –n treatments fig c 
+
+effect of permanent raised beds vs conventional beds
+
+shifts in the relative abundance of some phyla were due
+
+to different management of the beds fig the rela 
+
+tive abundance of planctomycetes and proteobacteria
+
+was significantly lower in the permanent beds than the
+
+conventionally tilled beds p � table s how 
+ever when the bacterial community composition was
+
+compared using the weighted unifrac distances tilled
+
+and no tilled beds were not significantly different
+
+ fig b table 
+
+using the indval test a large number of otu 
+ were indicative of the difference between conven 
+
+tionally tilled and permanent raised beds table s 
+
+more than of indicator otu from the no tilled
+
+raised bed treatments were actinobacteria e g actino 
+
+mycetospora clavibacter and sphaerisporangium whereas
+
+bacillus skermanella pontibacter rhodococcus and
+
+geobacter were indicators for conventionally tilled beds
+
+ fig c 
+
+effect of residue management
+
+the taxonomic distribution at the phylum level had small
+
+shifts as a result of residue management fig a the
+
+relative abundance of actinobacteria for instance was
+
+lower when residues were burned and higher when par 
+
+tially retained in the field however the relative abun 
+
+dance of acidobacteria was higher when residue was
+
+burned and lower when it was partially retained
+
+ table s residue management also affected the relative
+
+abundance of bacteroidetes proteobacteria and verru 
+
+comicrobia bacterial community structure was signifi 
+
+cantly affected by crop residue management p � 
+ fig b table full retention of crop residues shaped
+
+the bacterial communities in the same way as when resi 
+
+dues were partially retained 
+
+for incorporated residues the bacterial indicators were
+
+kineosporiaceae methylocystaceae thermomonospo 
+
+raceae nocardiaceae solibacterales and chromatiaceae 
+
+for burned residue they were planococcaceae arthrobacter 
+
+herpetosiphonales larkinella and bacillus for removed
+
+residue they were actinocorallia and segetibacter and for
+
+retained residues they were chthonomonadaceae
+
+ fig c 
+
+journal of applied microbiology © the society for applied microbiology 
+
+indicator taxa of agroecosystems n g jim�enez bueno et al 
+
+http www r project org 
+http www ncbi nlm nih gov nuccore srp 
+
+
+effect of burning residues
+
+burning crop residues had a large effect on the bacterial
+
+communities at several taxonomic levels fig burning
+
+residues significantly increased the relative abundance of
+
+acidobacteria bacteroidetes gemmatimonadetes and
+
+verrucomicrobia however actinobacteria decreased
+
+ p � table s a large number of bacterial indica 
+tors were found in the burned residue treatments 
+
+otu and genera for example order sbr of
+
+the anaerolineae chloroflexi bacillus alicyclobacillus
+
+microbispora roseiflexaceae modestobacter ramlibacter 
+
+arthrobacter scytonemataceae planktothrix rhodocy 
+
+tophaga xenococcaceae and burkholderiaceae table s 
+
+correlations between bacterial groups and soil chemical
+
+properties
+
+total n and c ph and ec in soil were significantly
+
+affected by treatment p � table fertilizer
+application had a significant effect on total n f value
+
+ � p � and ph f value � p � 
+but not on total c f value � p value � and ec
+ f value � p � bio env analysis that is 
+correlation between biological and soil characteristics 
+
+iv index p value
+ tm tm ew · · 
+
+ tm tm · · 
+ tm · · 
+
+ proteobacteria gammaproteobacteria pseudomonadales pseudomonadaceae azorhizophilus · · 
+ proteobacteria gammaproteobacteria legionellales · · 
+
+ proteobacteria betaproteobacteria · · 
+ proteobacteria betaproteobacteria rhodocyclales rhodocyclaceae azoarcus · · 
+
+ proteobacteria betaproteobacteria nitrosomonadales nitrosomonadaceae other · · 
+ proteobacteria betaproteobacteria nitrosomonadales nitrosomonadaceae · · 
+
+ proteobacteria betaproteobacteria methylophilales methylophilaceae · · 
+ proteobacteria betaproteobacteria burkholderiales oxalobacteraceae cupriavidus · · 
+
+ planctomycetes pla · · 
+ od aby · · 
+
+ firmicutes bacilli bacillales thermoactinomycetaceae shimazuella · · 
+ cyanobacteria synechococcophycideae pseudanabaenales other other · · 
+
+ cyanobacteria oscillatoriophycideae oscillatoriales phormidiaceae phormidium · · 
+ cyanobacteria oscillatoriophycideae oscillatoriales phormidiaceae microcoleus · · 
+
+ cyanobacteria nostocophycideae nostocales nostocaceae · · 
+ cyanobacteria c d sm d · · 
+
+ chloroflexi thermomicrobia · · 
+ actinobacteria actinobacteria actinomycetales promicromonosporaceae cellulosimicrobium · · 
+
+ actinobacteria actinobacteria actinomycetales micrococcaceae arthrobacter · · 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ n n 
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+– · 
+
+– · 
+
+– · 
+
+– · 
+
+– · 
+
+ 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+– · – · – · · · 
+
+p
+c
+
+ 
+ 
+
+ ·
+ 
+
+ 
+
+pc 
+
+ · · · · · 
+
+relative abundance 
+
+ a 
+
+ c 
+
+ b 
+
+figure effect of different nitrogen fertilization rates on soil bacterial communities at the long term experimental site norman e borlaug
+
+ ceneb ciudad obreg�on sonora mexico a relative abundance of taxonomic groups n kg n ha� n kg n ha� from bot 
+tom to top ■ unassigned acidobacteria actinobacteria chloroflexi cyanobacteria firmicutes gemmatimonadetes 
+ proteobacteria other phyla b principal coordinate analysis of weighted unifrac distances of bacterial communities ♦ kg n ha� ♢ 
+ kg n ha� c relative abundance of the indicator genus with indicator value index � and p � underlined values correspond to indi 
+cator genus of kg n ha� ■ kg n ha� kg n ha� 
+
+table analyses of similarities r for significant differences
+
+between agricultural practices based on weighted unifrac pairwise
+
+distances
+
+comparison r value p value
+
+n fertilizer use vs kg n ha� � � 
+conventionally tilled beds vs permanent beds � � 
+burning in permanent beds � � 
+residue management in permanent beds � � 
+
+journal of applied microbiology © the society for applied microbiology 
+
+n g jim�enez bueno et al indicator taxa of agroecosystems
+
+
+
+identified that the total c and ph best explained the vari 
+
+ation in bacterial composition pw � table 
+the same analysis with the distribution patterns of the
+
+bacterial indicators for different agricultural practices
+
+identified that the combination of ph and ec best
+
+explained the distribution of the bacterial n fertilizer
+
+application indicators total organic carbon toc best
+
+explained tillage and both toc and ph explained resi 
+
+due management and burning 
+
+discussion
+
+understanding the distribution patterns of microbial spe 
+
+cies is important because it may assist with identifying
+
+sustainable ecosystem management strategies philippot
+
+et al in this study taxonomic assemblages at the
+
+phylum level were similar for the ten treatments which
+
+combined four different agricultural practices although
+
+some phyla were significantly affected by treatment 
+
+alpha diversity indices species richness and heterogene 
+
+ity were also similar for the different treatments as
+
+reported by navarro noya et al in general the
+
+relative abundance of some phyla is explained by soil
+
+environmental conditions fierer et al b for
+
+instance actinobacteria bacteroidetes and cyanobacteria
+
+are generally more abundant in desert soils several
+
+metagenomic studies have reported that soils with high
+
+ph typically have a higher relative abundance of acti 
+
+iv index p value
+
+ verrucomicrobia pedosphaerae pedosphaerales ellin · · 
+ tm sja · · 
+
+ proteobacteria gammaproteobacteria alteromonadales chromatiaceae · · 
+ proteobacteria deltaproteobacteria myxococcales cystobacterineae · · 
+
+ proteobacteria deltaproteobacteria desulfuromonadales geobacteraceae geobacter · · 
+ proteobacteria deltaproteobacteria · · 
+
+ proteobacteria alphaproteobacteria rhizobiales xanthobacteraceae · · 
+ proteobacteria alphaproteobacteria rhizobiales methylocystaceae · · 
+
+ firmicutes bacilli bacillales planococcaceae planomicrobium · · 
+ cyanobacteria · · 
+
+ cyanobacteria nostocophycideae nostocales nostocaceae · · 
+ cyanobacteria oscillatoriophycideae oscillatoriales phormidiaceae microcoleus · · 
+
+ chloroflexi tk akyg · · 
+ chloroflexi chloroflexi chloroflexales · · 
+
+ chloroflexi chloroflexi roseiflexales kouleothrixaceae · · 
+ bacteroidetes cytophagia cytophagales cytophagaceae pontibacter · · 
+
+ actinobacteria actinobacteria actinomycetales thermomonosporaceae · · 
+ actinobacteria actinobacteria actinomycetales streptosporangiaceae sphaerisporangium · · 
+
+ actinobacteria actinobacteria actinomycetales streptomycetaceae · · 
+ actinobacteria actinobacteria actinomycetales sporichthyaceae · · 
+
+ actinobacteria actinobacteria actinomycetales pseudonocardiaceae · · 
+ actinobacteria actinobacteria actinomycetales pseudonocardiaceae actinomycetospora · · 
+
+ actinobacteria actinobacteria actinomycetales nocardiaceae · · 
+ actinobacteria actinobacteria actinomycetales nocardiaceae rhodococcus · · 
+
+ actinobacteria actinobacteria actinomycetales microbacteriaceae clavibacter · · 
+ actinobacteria actinobacteria actinomycetales geodermatophilaceae modestobacter · · 
+
+ actinobacteria actinobacteria actinomycetales actinosynnemataceae kibdelosporangium · · 
+ acidobacteria solibacteres solibacterales · · 
+
+ acidobacteria acidobacteriia acidobacteriales koribacteraceae candidatus koribacter · · 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conventional beds permanent beds 
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+– · 
+
+– · 
+
+– · 
+
+ 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+– · – · – · · · · · 
+
+p
+c
+
+ 
+ 
+
+ 
+ 
+
+pc 
+
+ · · · · · · · · · · 
+
+relative abundance 
+
+ a 
+
+ c 
+
+ b 
+
+figure effect of raised bed planting systems that is conventionally tilled raised beds and permanent raised beds on soil bacterial communities
+
+at the long term experimental site norman e borlaug ceneb ciudad obreg�on sonora mexico a relative abundance of taxonomic groups 
+
+from bottom to top ■ unassigned acidobacteria actinobacteria chloroflexi cyanobacteria firmicutes gemmatimon 
+adetes proteobacteria other phyla b principal coordinate analysis of weighted unifrac distances of bacterial communities ♦ conven 
+tional beds ♢ permanent beds c relative abundance of the indicator genus with indicator value index � and p � underlined values
+correspond to indicator genus of conventional beds ■ conventional beds permanent beds 
+
+journal of applied microbiology © the society for applied microbiology 
+
+indicator taxa of agroecosystems n g jim�enez bueno et al 
+
+
+
+nobacteria lauber et al fierer et al b shange
+
+et al this cimmyt ceneb field experiment was
+
+undertaken near the sonoran desert in mexico and the
+
+soil ph ranges from � to � this may explain the
+large relative abundance of actinobacteria in this agroe 
+
+cosystem 
+
+as expected agricultural practices affected bacterial
+
+community structure the variability in the bacterial
+
+communities as a result of the different treatments was
+
+determined at lower taxonomic levels thereby identifying
+
+key taxa that characterize the agricultural practices inves 
+
+tigated indicator species analysis at the otu and genus
+
+level of the –n and –n treatments gave some clear
+results for instance azorhizophilus a diazotrophic bacte 
+
+ria emerged as indicator genus for the –n treatments
+and members of the nitrosomonadaceae for the –n
+treatments 
+
+fertilizer application is a common agricultural practice
+
+used to increase crop yields however repeated n fertil 
+
+ization has a significant effect on the soil bacterial com 
+
+munity structure shen et al wess�en et al 
+
+wu et al fierer et al a 
+
+interestingly azorhizophilus nostoc microcoleus and
+
+phormidium known as diazotrophs were indicator spe 
+
+cies for the –n fertilizer treatments cyanobacteria are
+widely distributed in various natural and man made envi 
+
+ronments and are important in maize and wheat crop 
+
+ping systems karthikeyan et al mohan et al 
+
+prasanna et al they play an important ecological
+
+role in low nutrient environments such as desert soils 
+
+cyanobacteria fix nitrogen increase the availability of
+
+phosphorous and release auxins which promote plant
+
+growth sharma et al their ecological niche indi 
+
+cates a potentially important role in nitrogen fixation in
+
+iv index p value
+ proteobacteria gammaproteobacteria alteromonadales chromatiaceae · · 
+
+ proteobacteria betaproteobacteria burkholderiales comamonadaceae pelomonas · · 
+ proteobacteria alphaproteobacteria rhizobiales methylobacteriaceae · · 
+
+ firmicutes bacilli bacillales planococcaceae · · 
+ chloroflexi chloroflexi herpetosiphonales · · 
+
+ chlorobi · · 
+ bacteroidetes saprospirae saprospirales chitinophagaceae segetibacter · · 
+
+ bacteroidetes cytophagia cytophagales cytophagaceae larkinella · · 
+ armatimonadetes chthonomonadetes chthonomonadales chthonomonadaceae · · 
+
+ actinobacteria actinobacteria actinomycetales thermomonosporaceae actinocorallia · · 
+ actinobacteria actinobacteria actinomycetales thermomonosporaceae · · 
+
+ actinobacteria actinobacteria actinomycetales nocardioidaceae · · 
+ actinobacteria actinobacteria actinomycetales micrococcaceae arthrobacter · · 
+
+ actinobacteria actinobacteria actinomycetales kineosporiaceae · · 
+ acidobacteria solibacteres solibacterales · · 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ a 
+
+ c 
+
+ b 
+
+incorporated burned removed partly 
+retained
+
+fully
+retained
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+– · 
+
+– · 
+
+– · 
+
+ 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+– · – · – · · · · · 
+
+p
+c
+
+ 
+ 
+
+ 
+ 
+
+pc 
+
+ · · · · · 
+
+relative abundance 
+
+figure effect of residue management on soil bacterial communities at the long term experimental site norman e borlaug ceneb ciudad
+
+obreg�on sonora mexico incorporated all crop residue incorporated using conventional tillage burned wheat and maize straw burned 
+
+removed wheat straw that passes through the combine is removed standing wheat stubble left partially retained wheat straw chopped and
+
+left in place maize stover removed for fodder fully retained both wheat and maize straw chopped and left in place a relative abundance of
+
+taxonomic groups from bottom to top ■ unassigned acidobacteria actinobacteria chloroflexi cyanobacteria firmicutes 
+ gemmatimonadetes proteobacteria other phyla b principal coordinate analysis of weighted unifrac distances of bacterial commu 
+
+nities ♢ incorporated ♦ burned ■ removed ○ partially retained m fully retained c relative abundance of the indicator genus with indi 
+cator value index � and p � ■ burned fully retained partially retained incorporated □ removed indicator values
+correspond to ♢ incorporated ♦ burned ■ removed ○ partially retained m fully retained 
+
+journal of applied microbiology © the society for applied microbiology 
+
+n g jim�enez bueno et al indicator taxa of agroecosystems
+
+
+
+semi arid agroecosystems with no artificial n fertilizer
+
+application 
+
+chloroflexi are bacteria distributed widely in terrestrial
+
+and aquatic ecosystems fierer et al b and the eco 
+
+physiological role of many of their members is related to
+
+the nitrogen cycle that is nitrogen fixation madigan
+
+ and nitrite oxidation sorokin et al anaero 
+
+lineales chloroflexi have been found abundantly in active
+
+sludge and other nutrient rich environments yoon et al 
+
+ and utilizing decaying anammox bacterial cell mate 
+
+rial in an anammox reactor kindaichi et al otu 
+belonging to different groups of chloroflexi were species
+
+indicators for the –n and –n fertilizer treatments 
+whereas chloronema and a yet to be cultured tk were
+
+indicators for the –n fertilizer treatments members of
+the anaerolineae and thermomicrobia were indicators for
+
+the –n fertilizer treatments the relationship between
+different groups of chloroflexi in soil under different n
+
+fertilization rates further highlights their potential ecologi 
+
+cal role in agroecosystems it is also likely that the n fertil 
+
+izer application stimulates micro organisms capable of
+
+mineralizing organic material such as the actinomycetales 
+
+well known organic matter decomposers and otu 
+belonging to actinobacteriales streptosporagiaceae 
+
+nocardioidaceae micrococcaceae streptomycetaceae 
+
+etc these were all indicators for the –n treatments 
+tillage is used to prepare land for cultivating crops 
+
+conventional tillage and crop residue removal disrupts
+
+iv index p value
+ tm · · 
+
+ proteobacteria betaproteobacteria burkholderiales comamonadaceae ramlibacter · · 
+
+ proteobacteria betaproteobacteria burkholderiales comamonadaceae pelomonas · · 
+
+ proteobacteria betaproteobacteria burkholderiales burkholderiaceae · · 
+
+ gemmatimonadetes · · 
+
+ firmicutes bacilli bacillales · · 
+
+ firmicutes bacilli bacillales planococcaceae · · 
+
+ firmicutes bacilli bacillales bacillaceae bacillus · · 
+
+ cyanobacteria · · 
+
+ cyanobacteria oscillatoriophycideae oscillatoriales phormidiaceae planktothrix · · 
+
+ cyanobacteria oscillatoriophycideae chroococcales xenococcaceae · · 
+
+ cyanobacteria nostocophycideae nostocales scytonemataceae · · 
+
+ chloroflexi chloroflexi herpetosiphonales · · 
+
+ chloroflexi chloroflexi roseiflexales · · 
+
+ chloroflexi chloroflexi roseiflexales roseiflexaceae · · 
+
+ chlorobi · · 
+
+ bacteroidetes cytophagia cytophagales cytophagaceae rhodocytophaga · · 
+
+ bacteroidetes cytophagia cytophagales cytophagaceae larkinella · · 
+
+ actinobacteria actinobacteria actinomycetales micrococcaceae microbispora · · 
+
+ actinobacteria actinobacteria actinomycetales micrococcaceae arthrobacter · · 
+
+ actinobacteria actinobacteria actinomycetales microbacteriaceae · · 
+
+ actinobacteria actinobacteria actinomycetales microbacteriaceae agrococcus · · 
+
+ actinobacteria actinobacteria actinomycetales geodermatophilaceae modestobacter · · 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ a 
+
+ c 
+
+ b 
+
+burned residues no burned residues 
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+– · 
+
+– · 
+
+– · 
+
+ 
+
+ · 
+
+ · 
+
+ · 
+
+ · 
+
+– · – · – · · · · · 
+
+p
+c
+
+ 
+ 
+
+ 
+ 
+
+pc 
+
+ · · · · · · 
+
+relative abundance 
+
+figure effect of burning crop residue on soil bacterial communities at the long term experimental site norman e borlaug ceneb ciudad
+
+obreg�on sonora mexico a relative abundance of taxonomic groups from bottom to top ■ unassigned acidobacteria actinobacte 
+ria chloroflexi cyanobacteria firmicutes gemmatimonadetes proteobacteria other phyla b principal coordinate analy 
+
+sis of weighted unifrac distances of bacterial communities ♢ residues not burned ♦ burned residues c relative abundance of indicator
+genus with indicator value index � and p � underlined values correspond to indicator genus of burned residues ■ burned residues 
+no burned residues 
+
+journal of applied microbiology © the society for applied microbiology 
+
+indicator taxa of agroecosystems n g jim�enez bueno et al 
+
+
+
+the soil aggregates increases soil compaction erosion 
+
+desiccation and loss of organic material altering micro 
+
+bial interactions lupwayi et al zero tillage and
+
+residue retention improve soil aeration reduce tempera 
+
+ture and moisture fluctuations increase carbon content
+
+in the surface soil and water is retained longer in these
+
+soils govaerts et al zero tillage using bed systems
+
+reduces compaction in the rooting zone by confining
+
+wheel traffic to the furrow bottoms the bed system also
+
+enables farmers to use a variety of weed and fertilizer
+
+management practices hobbs et al studies in
+
+other agroecosystems found that tillage is the agricultural
+
+practice that affects the bacterial community structure the
+
+most kihara et al lupwayi et al in this
+
+study a large number of otu emerged as an indicator
+
+taxa for conventionally tilled beds belonging to differ 
+
+ent taxonomic groups including acidobacteria armati 
+
+monadetes gemmatimonadetes and chloroflexi whereas
+
+for permanent raised beds they were mainly members of
+
+actinobacteria actinomycetospora clavibacter mycobac 
+
+terium sphaerisporangium the distribution of the phyla
+
+represented by the indicator taxa for conventional beds
+
+resembled the distribution of the overall bacterial com 
+
+munities indicating that tillage affects the overall com 
+
+munity as previously mentioned actinobacteria are
+
+organic matter decomposers and were abundant in per 
+
+manent raised beds in another field experiment at cim 
+
+myt but in the central highlands of mexico the relative
+
+abundance of actinobacteria also increased in zero tillage
+
+systems navarro noya et al 
+
+crop residue management can affect soil quality posi 
+
+tively or negatively intensive cropping systems are
+
+diverse so no single residue management system is best
+
+for all conditions the best crop residue management
+
+should be selected to increase crop yields with the least
+
+adverse effect on the environment it has been suggested
+
+that in each cropping system both the constraints for
+
+production and sustainability should be identified for the
+
+development of the best system kumar and goh 
+
+residue management changed the physico chemical soil
+
+characteristics and altered the bacterial community struc 
+
+ture the typical effect of residue incorporation reported
+
+is an increase in microbial biomass kallenbach and
+
+grandy as was found in the soil of ceneb
+
+table soil characteristics under different
+
+tillage residue and n fertilizer management
+
+at cimmyt’s norman e borlaug ceneb 
+
+experimental station near ciudad obreg�on
+
+ sonora mexico 
+
+raised beds and residue
+
+management
+
+n fertilizer
+
+ kg n ha� ph ec ds m� 
+total n
+
+ g kg� soil 
+total c
+
+ g kg� soil 
+
+ctb straw incorporated � � � � 
+ctb straw incorporated � � � � 
+pb straw burned† � � � � 
+pb straw burned � � � � 
+pb straw removed‡ � � � � 
+pb straw removed � � � � 
+pb straw partly retained§ � � � � 
+pb straw partly retained � � � � 
+pb straw retained¶ � � � � 
+pb straw retained � � � � 
+msd � � � � 
+p value � � � � 
+
+ec electrical conductivity 
+
+ conventionally tilled beds with all crop residues incorporated using conventional tillage 
+
+†wheat and maize straw burned with permanent beds 
+
+‡wheat straw that passes through the combine is removed with permanent beds 
+
+§wheat straw chopped and left in place with permanent beds 
+
+¶both wheat and maize straw chopped and left in place with permanent beds 
+
+ minimum significant difference at p � 
+
+table bio env spearman rank coefficients r for correlation
+
+between soil bacterial communities indicator operational taxonomic
+
+units otu at a similarity threshold of otu and physico 
+
+chemical soil properties
+
+bio env
+
+factors 
+
+r
+
+coefficient
+
+bacterial communities based on otu toc � 
+indicator otu for n fertilizer
+
+application rates
+
+ph and ec � 
+
+indicator otu for tillage toc � 
+indicator otu for crop residue
+
+management
+
+toc and ph � 
+
+indicator otu for burning
+
+crop residues
+
+toc and ph � 
+
+ environmental factors included ph total organic carbon toc total
+
+nitrogen and electrolytic conductivity ec were the environmental
+
+factors tested 
+
+journal of applied microbiology © the society for applied microbiology 
+
+n g jim�enez bueno et al indicator taxa of agroecosystems
+
+
+
+ verhulst et al a indval analysis identified different
+
+taxa in each of the residue management systems
+
+ table s indicating that although the same organic
+
+matter is retained in the field management is important
+
+for favouring specific taxa acidobacterial members
+
+emerged as indicator taxa when residue was incorporated
+
+or partially retained and betaproteobacteria environ 
+
+mental species and burkholderiales when residue was
+
+incorporated when residue was partially removed in the
+
+field phylotypes belonging to the gemmatimonadetes
+
+and armatimonadetes appeared as indicator taxa whereas
+
+otu indicators belonged to the different classes of pro 
+
+teobacteria when the entire crop residue was retained in
+
+the field although gemmatimonadetes are ubiquitous in
+
+soil and likely play an important role in terrestrial ecosys 
+
+tems their ecological function is still poorly understood 
+
+gemmatimonadetes in soil depended on moisture avail 
+
+ability and suggested members of this phylum are well
+
+adapted to low moisture conditions but unable however 
+
+to resist moisture fluctuations debruyn et al 
+
+residue left in the field protects the soil from water con 
+
+tent fluctuations 
+
+burning crop residue is still a widely used agricultural
+
+practice it is known to impact physical chemical and
+
+biological soil characteristics goberna et al in
+
+this study it significantly affected the bacterial commu 
+
+nity structure and several bacterial groups for example 
+
+acidobacteria actinobacteria bacteroidetes gemmati 
+
+monadetes and verrucomicrobia the taxa indicator of
+
+the burned residues were mainly of the order sbr of
+
+the anaerolineae chloroflexi and the bacillus and alicy 
+
+clobacillus genera it is difficult to explain why the
+
+sbr group is indicator taxa for the burning residue
+
+treatment as there is little information about this group 
+
+although anaerolineae contain thermophilic members
+
+ sekiguchi et al yamada et al their physio 
+
+logical traits are diverse and highly specialized zhou
+
+et al members of the bacillus and alicyclobacillus
+
+are spore forming bacteria so well suited to surviving fire 
+
+bacterial endospores are dormant microbial structures
+
+that are highly resistant to heat desiccation radiation
+
+and chemicals they represent one of the most successful
+
+survival strategies of micro organisms and are formed
+
+when conditions are unfavourable such as environmental
+
+stress burning or starvation nicholson et al 
+
+yang and ponce 
+
+as mentioned previously soil characteristics define the
+
+structure of the bacterial communities although toc
+
+explained the overall bacterial composition other soil
+
+characteristics explained the effect of certain treatments 
+
+for instance ph and ec explained the abundance of
+
+indicator taxa of n fertilizer application rates repeated
+
+fertilizer application increases soil salt content thus
+
+changing ph however the acidobacteria a group highly
+
+sensitive to changes in ph did not emerge as taxa indica 
+
+tor but taxa that participate in the n cycle for example 
+
+nitrogen fixation ammonium oxidation and nitrite oxi 
+
+dation did it is suggested that soil characteristics define
+
+bacteria community’s assemblages at high taxonomic
+
+rank philippot et al however when determining
+
+the effect of gradual changes in soil properties such as
+
+those induced by agricultural practices lower taxonomic
+
+ranks have to be considered 
+
+acknowledgements
+
+this research was funded by ‘centro de investigaci�on y
+
+de estudios avanzados’ cinvestav m�exico ‘consejo
+
+nacional de ciencia y tecnolog�ıa’ conacyt mexico 
+
+and ‘centro internacional de mejoramiento de ma�ız y
+
+trigo’ cimmyt via the cgiar research program
+
+maize and ‘desarrollo sustentable con el productor’ 
+
+part of ‘modernizaci�on sustentable de la agricultura
+
+tradicional’ supported by sagarpa y e n n 
+
+received a postdoctoral grant from abacus conacyt 
+
+and n g j b from conacyt the authors thank aba 
+
+cus conacyt for providing time on their computer
+
+for denoising the dna sequences 
+
+conflict of interest
+
+the authors declare there is no conflict of interest related
+
+to this work 
+
+references
+
+acosta martinez v dowd s sun y and allen v 
+
+tagencoded pyrosequencing analysis of bacterial diversity
+
+in a single soil type as affected by management and land
+
+use soil biol biochem – 
+aziz i mahmood t and islam k r effect of long
+
+term no till and conventional tillage practices on soil
+
+quality soil till res – 
+caesar tonthat t c lenssen a w caesar a j sainju 
+
+u m and gaskin j f effects of tillage on
+
+microbial populations associated to soil aggregation in
+
+dryland spring wheat system eur j soil biol – 
+caporaso j g bittinger k bushman f d desantis t z 
+
+andersen g l and knight r a pynast a flexible
+
+tool for aligning sequences to a template alignment 
+
+bioinformatics – 
+caporaso j g kuczynski j stombaugh j bittinger 
+
+k bushman f d costello e k fierer n peña 
+
+a g et al b qiime allows analysis of high 
+
+throughput community sequencing data nat methods
+
+ – 
+
+journal of applied microbiology © the society for applied microbiology 
+
+indicator taxa of agroecosystems n g jim�enez bueno et al 
+
+
+
+ceja navarro j a rivera ordu na f n pati no z�u niga l 
+
+vila sanjurjo a crossa j govaerts b and dendooven 
+
+l phylogenetic and multivariate analyses to
+
+determine the effects of different tillage and residue
+
+management practices on soil bacterial communities appl
+
+environ microbiol – 
+chaparro j m sheflin a m manter d k and vivanco 
+
+j m manipulating the soil microbiome to
+
+increase soil health and plant fertility biol fertil soils
+
+ – 
+chaudhry v rehman a mishra a chauhan p s and
+
+nautiyal c s changes in bacterial community
+
+structure of agricultural land due to long term organic
+
+and chemical amendments microb ecol – 
+de c�aceres m and legendre p associations between
+
+species and groups of sites indices and statistical
+
+inference ecology – 
+debruyn j m nixon l t fawaz m n johnson a m and
+
+radosevich m global biogeography and
+
+quantitative seasonal dynamics of gemmatimonadetes in
+
+soil appl environ microbiol – 
+dufrene m and legendre p species assemblages and
+
+indicator species the need for a flexible asymmetrical
+
+approach ecol monogr – 
+edgar r c search and clustering orders of magnitude
+
+faster than blast bioinformatics – 
+fierer n lauber c l ramirez k s zaneveld j bradford 
+
+m and knight r a comparative metagenomic 
+
+phylogenetic and physiological analyses of soil microbial
+
+communities across nitrogen gradients isme j 
+
+ – 
+fierer n leff j w adams b j nielsen u n bates s t 
+
+lauber c l owens s gilbert j a et al b cross 
+
+biome metagenomic analyses of soil microbial
+
+communities and their functional attributes proc natl
+
+acad sci usa – 
+goberna m garcia c insam h hernandez m and
+
+verdu m burning fire prone mediterranean
+
+shrublands immediate changes in soil microbial
+
+community structure and ecosystem functions microb
+
+ecol – 
+govaerts b mezzalama m sayre k d crossa j lichter 
+
+k troch v vanherck k de corte p et al 
+
+long term consequences of tillage residue management 
+
+and crop rotation on selected soil micro flora groups in
+
+the subtropical highlands appl soil ecol – 
+govaerts b verhulst n castellanos navarrete a sayre 
+
+k d dixon j and dendooven l conservation
+
+agriculture and soil carbon sequestration between myth
+
+and farmer reality crit rev plant sci – 
+haas b j gevers d earl a feldgarden m ward d v 
+
+giannokous g ciulla d tabbaa d et al 
+
+chimeric s rrna sequence formation and detection in
+
+sanger and pyrosequenced pcr amplicons genome
+
+res – 
+
+helgason b l walley f l and germida j j fungal
+
+and bacterial abundance in long term no till and
+
+intensive till soils of the northern great plains soil sci soc
+
+am j – 
+hobbs p r sayre k and gupta r the role of
+
+conservation agriculture in sustainable agriculture philos
+
+trans r soc lond b biol sci – 
+iuss working group wrb iuss world reference
+
+base for soil resources rome italy fao 
+
+jat m l gathala m k saharawat y s tetarwal j p and
+
+gupta r double no till and permanent raised
+
+beds in maize wheat rotation of north western indo 
+
+gangetic plains of india effects on crop yields water
+
+productivity profitability and soil physical properties 
+
+field crops res – 
+kallenbach c and grandy a s controls over soil
+
+microbial biomass responses to carbon amendments in
+
+agricultural systems a meta analysis agric ecosyst environ
+
+ – 
+karthikeyan n prasanna r nain l and kaushik b d 
+
+ evaluating the potential of plant growth promoting
+
+cyanobacteria as inoculants for wheat eur j soil biol 
+
+ – 
+kihara j martius c bationo a thuita m lesueur d 
+
+herrmann l amelung w and vlek p l g soil
+
+aggregation and total diversity of bacteria and fungi in
+
+various tillage systems of sub humid and semi arid kenya 
+
+appl soil ecol – 
+kindaichi t yuri s ozaki n and ohashi a 
+
+ecophysiological role and function of uncultured
+
+chloroflexi in an anammox reactor water sci technol 
+
+ – 
+kumar k and goh k m crop residues and
+
+management practices effects on soil quality soil nitrogen
+
+dynamics crop yield and nitrogen recovery adv agron
+
+ – 
+lauber c l hamady m knight r and fierer n 
+
+pyrosequencing based assessment of soil ph as a predictor
+
+of soil bacterial community structure at the continental
+
+scale appl environ microbiol – 
+legendre p and legendre l f j numerical ecology 
+
+ rd edn amsterdam elsevier 
+
+lozupone c a hamady m kelley s t and knight r 
+
+ quantitative and qualitative beta diversity measures
+
+lead to different insights into factors that structure
+
+microbial communities appl environ microbiol 
+
+ – 
+lupwayi n z lafond g p ziadi n and grant c a 
+
+soil microbial response to nitrogen fertilizer and tillage in
+
+barley and corn soil till res – 
+madigan m t microbiology of nitrogen fixation by
+
+anoxygenic photosynthetic bacteria in anoxygenic
+
+photosynthetic bacteria eds blankenship r e madigan 
+
+m t and bauer c e pp – dordrecht the
+netherlands kluwer academic press 
+
+journal of applied microbiology © the society for applied microbiology 
+
+n g jim�enez bueno et al indicator taxa of agroecosystems
+
+
+
+mcdonald d price m n goodrich j nawrocki e p 
+
+desantis t z probst a andersen g l knight r et al 
+
+ an improved greengenes taxonomy with explicit
+
+ranks for ecological and evolutionary analyses of bacteria
+
+and archaea isme j – 
+meriles j m vargas s conforto g c figoni g lovera 
+
+e march g j and guzm�an c a soil microbial
+
+communities under different soybean cropping systems 
+
+characterization of microbial population dynamics soil
+
+microbial activity microbial biomass and fatty acid
+
+profiles soil till res – 
+mohan a kumar b and nath d cyanobacterial
+
+consortium in the improvement of maize crop int j curr
+
+microbiol appl sci – 
+navarro noya y e g�omez acata s montoya ciriaco n 
+
+rojas valdez a su�arez arriaga m c valenzuela 
+
+encinas c jim�enez bueno n verhulst n et al 
+
+relative impacts of tillage residue management and crop 
+
+rotation on soil bacterial communities in a semi arid
+
+agroecosystem soil biol biochem – 
+nicholson w l munakata n horneck g melosh h j 
+
+and setlow p resistance of bacillus endospores to
+
+extreme terrestrial and extraterrestrial environments 
+
+microbiol mol biol rev – 
+nicolas c hernandez t and garcia c organic
+
+amendments as strategy to increase organic matter in particle 
+
+size fractions of a semi arid soil appl soil ecol – 
+ollivier j towe s bannert a hai b kastl e m meyer 
+
+a su m x kleineidam k et al nitrogen
+
+turnover in soil and global change fems microbiol ecol
+
+ – 
+osler g h r and sommerkorn m toward a complete
+
+soil c and n cycle incorporating the soil fauna ecology
+
+ – 
+philippot l bru d saby n cuhel j arrouays d simek 
+
+m and hallin s spatial patterns of bacterial
+
+taxa in nature reflect ecological traits of deep branches of
+
+the s rrna bacterial tree environ microbiol 
+
+ – 
+philippot l andersson s g e battin t j prosser j i 
+
+schimel j p whitman w b and hallin s the
+
+ecological coherence of high bacterial taxonomic ranks 
+
+nat rev microbiol – 
+postma blaauw m b de goede r g m bloem j faber 
+
+j h and brussaard l soil biota community
+
+structure and abundance under agricultural intensification
+
+and extensification ecology – 
+prasanna r bidyarani n babu s hossain f shivay y s 
+
+and nain l cyanobacterial inoculation elicits
+
+plant defense response and enhanced zn mobilization in
+
+maize hybrids cogent food agric 
+
+reeder j and knight r rapidly denoising
+
+pyrosequencing amplicon reads by exploiting rank 
+
+abundance distributions nat methods – 
+
+sas institute statistic guide for personal computers 
+
+version ed cary nc sas institute 
+
+schneider s hartmann m enkerli j and widmer f 
+
+fungal community structure in soils of conventional and
+
+organic farming systems fungal ecol – 
+sekiguchi y kamagata y nakamura k ohashi a and
+
+harada h fluorescence in situ hybridization using
+
+ s rrna targeted oligonucleotides reveals localization of
+
+methanogens and selected uncultured bacteria in
+
+mesophilic and thermophilic sludge granules appl environ
+
+microbiol – 
+shange r s ankumah r o ibekwe a m zabawa r and
+
+dowd s e distinct soil bacterial communities
+
+revealed under a diversely managed agroecosystem plos
+
+one e 
+
+sharma n k rai a k and stal l j cyanobacteria 
+
+an economic perspective st edn chischester uk john
+
+wiley sons 
+
+shen j p zhang l m guo j f ray j l and he j z 
+
+ impact of long term fertilization practices on the
+
+abundance and composition of soil bacterial communities
+
+in northeast china appl soil ecol – 
+singh j s pandey v c and singh d p efficient soil
+
+microorganisms a new dimension for sustainable
+
+agriculture and environmental development agric ecosyst
+
+environ – 
+sorokin d y l€ucker s vejmelkova d kostrikina n a 
+
+kleerebezem r rijpstra w i damst�e j s le paslier d 
+
+et al nitrification expanded discovery physiology
+
+and genomics of a nitrite oxidizing bacterium from the
+
+phylum chloroflexi isme j – 
+vargas gil s meriles j conforto c basanta m radl v 
+
+hagn a schloter m and march g j response
+
+of soil microbial communities to different management
+
+practices in surface soils of a soybean agroecosystem in
+
+argentina eur j soil biol – 
+verhulst n govaerts b verachtert e castellanos navarrete 
+
+a mezzalama m wall p chocobar a deckers j et al 
+
+ conservation agriculture improving soil quality for
+
+sustainable production systems in advances in soil science 
+
+food security and soil quality eds lal r and stewart b a 
+
+pp – boca raton fl crc press 
+verhulst n kienle f sayre k d deckers j raes d 
+
+limon ortega a tijerina chavez l and govaerts b 
+
+ a soil quality as affected by tillage residue
+
+management in a wheat maize irrigated bed planting
+
+system plant soil – 
+verhulst n sayre k d vargas m crossa j deckers j 
+
+raes d and govaerts b b wheat yield and tillage 
+
+straw management system year interaction explained by
+
+climatic co variables for an irrigated bed planting system
+
+in north western mexico field crop res – 
+wang q garrity g m tiedje j m and cole j r 
+
+na€ıve bayesian classifier for rapid assignment of rrna
+
+journal of applied microbiology © the society for applied microbiology 
+
+indicator taxa of agroecosystems n g jim�enez bueno et al 
+
+
+
+sequences into the new bacterial taxonomy appl environ
+
+microbiol – 
+wang y xu j shen j luo y scheu s and ke x 
+
+tillage residue burning and crop rotation alter soil fungal
+
+community and water stable aggregation in arable fields 
+
+soil till res – 
+wang j j li x y zhu a n zhang x k zhang h w and
+
+liang w j effects of tillage and residue
+
+management on soil microbial communities in north
+
+china plant soil environ – 
+wess�en e hallin s and philippot l differential
+
+responses of bacterial and archaeal groups at high
+
+taxonomical ranks to soil management soil biol biochem
+
+ – 
+wu m qin h chen z wu j and wei w effect
+
+of long term fertilization on bacterial composition in rice
+
+paddy soil biol fertil soils – 
+yamada t sekiguchi y hanada s imachi h ohashi a 
+
+harada h and kamagata y anaerolinea
+
+thermolimosa sp nov levilinea saccharolytica gen nov 
+
+sp nov and leptolinea tardivitalis gen nov sp nov 
+
+novel filamentous anaerobes and description of the new
+
+classes anaerolineae classis nov and caldilineae classis
+
+nov in the bacterial phylum chloroflexi int j syst evol
+
+microbiol – 
+yang w w and ponce a validation of a clostridium
+
+endospore viability assay and analysis of greenland ices
+
+and atacama desert soils appl environ microbiol 
+
+ – 
+
+yoon d n park s j kim s j jeon c o chae j c and
+
+rhee s k isolation characterization and
+
+abundance of filamentous members of caldilineae in
+
+activated sludge j microbiol – 
+zhou j gu y zou c and mo m phylogenetic
+
+diversity of bacteria in an earth cave in guizhou province 
+
+southwest of china j microbiol – 
+
+supporting information
+
+additional supporting information may be found in the
+
+online version of this article 
+
+table s alpha diversity values of the soil bacterial
+
+communities at the long term experimental site norman
+
+e borlaug ceneb ciudad obreg�on sonora mexico 
+
+table s relative abundance of the phyla significantly
+
+affected by agricultural practices at the long term experi 
+
+mental site norman e borlaug ceneb ciudad
+
+obreg�on sonora mexico 
+
+table s taxonomic assignation of the indicator oper 
+
+ational taxonomic units at a similarity threshold of 
+
+ otu and their indval scores 
+
+journal of applied microbiology © the society for applied microbiology 
+
+n g jim�enez bueno et al indicator taxa of agroecosystems
+
+
+

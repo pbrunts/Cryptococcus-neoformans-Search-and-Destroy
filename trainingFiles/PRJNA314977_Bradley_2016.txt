@@ -1,0 +1,1734 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+design and evaluation of illumina miseq compatible s rrna gene specific primers for improved characterization of mixed phototrophic communities
+
+
+design and evaluation of illumina miseq compatible s rrna
+gene specific primers for improved characterization of mixed
+phototrophic communities
+
+ian m bradley a ameet j pinto b jeremy s guesta
+
+department of civil and environmental engineering university of illinois at urbana champaign urbana illinois usaa department of civil and environmental
+engineering northeastern university boston massachusetts usab
+
+abstract
+
+the use of high throughput sequencing technologies with the s rrna gene for characterization of bacterial and archaeal com 
+munities has become routine however the adoption of sequencing methods for eukaryotes has been slow despite their signifi 
+cance to natural and engineered systems there are large variations among the target genes used for amplicon sequencing and
+for the s rrna gene there is no consensus on which hypervariable region provides the most suitable representation of diver 
+sity additionally it is unclear how much pcr sequencing bias affects the depiction of community structure using current prim 
+ers the present study amplified the v and v v regions from seven microalgal mock communities as well as eukaryotic com 
+munities from freshwater coastal and wastewater samples to examine the effect of pcr sequencing bias on community
+structure and membership we found that degeneracies on the end of the current v specific primers impact read length and
+mean relative abundance furthermore the pcr sequencing error is markedly higher for gc rich members than for communi 
+ties with balanced gc content importantly the v region failed to reliably capture of the mock community members and
+the v v hypervariable region more accurately represents mean relative abundance and alpha and beta diversity overall the
+v and v v regions show similar community representations over freshwater coastal and wastewater environments but spe 
+cific samples show markedly different communities these results indicate that multiple primer sets may be advantageous for
+gaining a more complete understanding of community structure and highlight the importance of including mock communities
+composed of species of interest 
+
+importance
+
+the quantification of error associated with community representation by amplicon sequencing is a critical challenge that is often
+ignored when target genes are amplified using currently available primers differential amplification efficiencies result in inac 
+curate estimates of community structure the extent to which amplification bias affects community representation and the accu 
+racy with which different gene targets represent community structure are not known as a result there is no consensus on which
+region provides the most suitable representation of diversity for eukaryotes this study determined the accuracy with which
+commonly used s rrna gene primer sets represent community structure and identified particular biases related to pcr am 
+plification and illumina miseq sequencing in order to more accurately study eukaryotic microbial communities 
+
+the use of high throughput sequencing technologies hastransformed the field of microbial ecology by contributing to a
+significant body of work that has changed our understanding of
+microbially diverse populations in a range of ecosystems this is
+particularly true for investigations of bacterial and archaeal com 
+munities that target the s rrna gene – however ampli 
+con sequencing approaches for eukaryotes have lagged behind 
+due in part to the large variation in copy numbers of target genes
+among species to � for the s rrna gene and
+multiple hypervariable regions that are typically longer than early
+dna sequencing platforms could sequence the use of ampli 
+con sequencing is of particular interest with respect to eukaryotic
+microalgae or phytoplankton due to their role in natural and en 
+gineered ecosystems e g contribution to global carbon fixation
+ eutrophication of waterways treatment of nutrients
+and heavy metals in wastewater and the production of bio 
+fuels among others 
+
+in engineered systems microalgal technologies are uniquely
+positioned to provide solutions for both wastewater and energy
+industries by recovering nutrients i e nitrogen n and phos 
+
+phorus p via assimilation and generating carbon rich algal
+feedstock for downstream processing indeed there is a growing
+consensus in the algal biofuel industry that wastewater should be
+leveraged to make algal biofuels environmentally and economi 
+cally viable – elucidating the relationship between system
+function i e nutrient and carbon assimilation operating pa 
+rameters and community composition requires a comprehensive
+
+received may accepted july 
+
+accepted manuscript posted online july 
+
+citation bradley im pinto aj guest js design and evaluation of illumina
+miseq compatible s rrna gene specific primers for improved characterization
+of mixed phototrophic communities appl environ microbiol – 
+doi aem 
+
+editor g voordouw university of calgary
+
+address correspondence to jeremy s guest jsguest illinois edu 
+
+supplemental material for this article may be found at http dx doi org 
+ aem 
+
+copyright © american society for microbiology all rights reserved 
+
+crossmark
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http orcid org 
+http orcid org 
+http orcid org 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org aem 
+http crossmark crossref org dialog doi aem domain pdf date stamp 
+http aem asm org
+http aem asm org 
+
+
+examination of microalgal community structure i e member 
+ship and relative abundance and dynamics the molecular tools
+for which are currently underdeveloped 
+
+although the wastewater field has used s rrna amplicon
+sequencing to evaluate a wide range of bacterial communities
+ e g references to the use of high throughput sequencing
+technologies with eukaryotic microalgae is virtually nonexistent 
+and the field relies heavily on microscopy for species identifica 
+tion sequencing offers the rapid detection of algal species without
+many of the problems associated with microscopy i identifica 
+tion is not limited to those organisms with well identified mor 
+phological markers ii fewer personnel and less time are required
+ and iii hundreds of samples can be processed simultane 
+ously by leveraging massively parallel approaches afforded by
+high throughput sequencing furthermore examining the com 
+munity using amplicon sequencing allows us to take an in depth
+look at the community structure of the organisms present when
+coupled with other techniques such as transcriptional analysis of
+a particular functional gene and or statistical approaches to cor 
+relate reactor performance with the algal community high 
+throughput sequencing may allow us to relate community struc 
+ture to community function 
+
+despite recent studies that have developed broad eukaryotic
+primers using the small subunit ssu s rrna gene 
+there is no widely accepted target gene used to sequence microal 
+gae previous studies have targeted various regions of the rrn
+operon e g s plus internal transcribed spacer its 
+ s – and s regions mitochondrial genes
+ e g cytochrome c oxidase coi and chloroplast genes
+ e g the rbcl gene which encodes the large subunit for ribulose 
+ bisphosphate carboxylase oxygenase rubisco – and
+the s rrna gene but these studies have been predomi 
+nately limited to marine phytoplankton e g references 
+ and occasionally focused on freshwater phytoplankton e g 
+reference the s rrna gene is commonly amplified and
+offers the advantage of numerous alternating hypervariable v to
+v and conserved regions within the s rrna gene multiple
+studies have used different variable regions for amplification in 
+cluding the v v v v – and v 
+regions with the v and v regions often being used together
+ e g references and a number of recent studies have com 
+pared variable regions along the entire s rrna gene for all eu 
+karyotes and eukaryotic plankton and highlighted
+conserved regions that may be best suited for amplifying hyper 
+variable regions these studies identified primer combinations us 
+ing in silico sequence database coverage and taxonomic resolution
+and confirmed their feasibility with environmental surveys how 
+ever many of the regions identified by these studies are too long
+ � nucleotides nt to allow for overlaps between the forward
+and reverse reads using the illumina miseq platform to
+ nt single read length resulting in � to nt long com 
+bined reads with to bp overlap 
+
+additionally a critical challenge that must be addressed is the
+quantification of errors associated with gene based amplification
+ i e pcr bias of these primer sets there are several well docu 
+mented problems associated with the amplicon sequencing ap 
+proach i sequencing errors and chimeras may be formed during
+dna amplification ii primer coverage may not capture the
+desired microbially diverse populations iii differential am 
+plification efficiencies among the target gene may skew opera 
+
+tional taxonomic unit otu relative abundance and iv 
+gene copy number variation may affect interpretations based on
+otu relative abundance – the first issue has been the tar 
+get of much research particularly with respect to s rrna gene
+sequencing e g references to while previous research ex 
+amining the coverage of s rrna hypervariable regions e g 
+references and provides insight into the second al 
+though pcr bias has been studied using s rrna genes e g 
+references and the effect that it has on interpreting com 
+munity structure has not been robustly addressed for the s
+rrna gene 
+
+this study seeks to address the effect of primer selection and
+resultant pcr sequencing bias on the evaluation of eukaryotic
+microalgae i e microalgae or phytoplankton using s rrna
+gene sequencing in addition to identifying bias we offer a rede 
+signed primer set that solves problems associated with commonly
+used primers and more accurately represents microalgal commu 
+nities in terms of coverage and relative abundance specifically 
+pcr sequencing bias was examined by the following i sequenc 
+ing seven microalgal mock communities with different relative
+abundance constructs using s rrna primers targeting the v 
+and v v hypervariable regions ii examining the variations in
+the detected community structure compared to the theoretical
+community structure by each primer set iii quantifying the er 
+ror in otu mean relative abundance and its effect on alpha and
+beta diversity measurements iv correlating the error in mean
+relative abundance to specific biases related to the pcr amplifica 
+tion process and v testing improved primers on environmental
+samples for validation in particular we find that a commonly
+used v primer has critical shortcomings when applied to our
+mock community due to nucleotide mismatches on the end 
+the redesigned primer more accurately captures community
+structure and represents freshwater species with high accuracy 
+while the v v region offers good representation of all freshwa 
+ter and marine species tested in this study 
+
+materials and methods
+primer design and evaluation primers were chosen by first examining
+the s rrna gene through in silico testing database sequences for all
+eukaryotes were obtained from the silva database v www arb silva
+ de curated by mothur and trimmed to the s cerevisiae reference
+sequence accession number z using pcr seqs in mothur v 
+ shannon entropy was calculated according to the alignment position
+for all sequences using the method of shannon and the equation
+e � � �p�xj� log �p�xj�� for each of the nucleotides present at a given
+location where p xj was the frequency of the nucleotide xj at that align 
+ment position j following shannon entropy calculations conserved
+regions with alignment positions containing less than entropy were
+identified fig a 
+
+conserved regions were targeted as possible primer locations 
+ and combinations of conserved variable regions i e possible ampli 
+cons were plotted against shannon entropy fig b in order to deter 
+mine areas that had the highest entropy and amplicon length suitable for
+sequencing on the illumina miseq platform conserved regions were then
+checked against general eukaryotic primers from the literature table 
+and examined for their suitability in amplifying the s rrna gene pri 
+ority was given to regions with high entropy and lengths compatible with
+current illumina miseq sequencing to bp to allow for maximal
+read overlap and a primer set was selected from each v and v v 
+region using established primers from the literature references and
+ respectively that have been used for numerous studies 
+although the v region average bp has typically been sequenced
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http www arb silva de
+http www arb silva de
+http www ncbi nlm nih gov nucleotide z 
+http aem asm org
+http aem asm org 
+
+
+alone the v region was included to leverage the longer read
+capabilities that were not achievable with early high throughput sequenc 
+ing approaches selected primers were evaluated for general eu 
+karyote and alga specific coverage using the silva testprime tool 
+ see fig s in the supplemental material 
+
+full length primers containing the adapters for illumina miseq se 
+quencing were constructed according to the dual index method of kozich
+et al briefly each forward and reverse primer consists of a to
+ nucleotide long illumina miseq adapter to attach the dna sequence
+to the miseq flow cell the adapter is followed by an nucleotide index 
+ing sequence a pad linker sequence of nucleotides to increase the over 
+all melting temperature and the s rrna gene specific primer the
+presence of an indexing sequence on both the forward and reverse primers
+allows the multiplexed sequencing of a large number of samples with
+relatively few primers compared to traditional single indexing methods
+that contain only one index on the forward or reverse primer based on
+the initial sequencing results see fig s and s in the supplemental ma 
+terial heterogeneity spacers ranging from to nucleotides were in 
+serted between the indexing sequence and pad linker region to phase the
+sequencing of conserved regions between samples and maximize “se 
+quencing entropy” per cycle similar to the method of fadrosh et al 
+this phasing approach allows better cluster delineation during the illu 
+mina sequencing process which may be particularly critical for low di 
+versity samples figure shows the entropy per alignment position of
+
+the v and v v target regions with fig b d f and h and without
+ fig a c e and g the heterogeneity spacers 
+
+dna collection and extraction axenic cultures for mock communi 
+ties were obtained from the culture collection of algae and protozoa
+ ccap oban united kingdom see table s in the supplemental ma 
+terial the university of texas culture collection of algae utex aus 
+tin tx see table s in the supplemental material and the national
+center for marine algae and microbiota ncma see table s envi 
+ronmental samples for experimental validation were collected from fresh 
+water coastal and wastewater sources from locations across the united
+states see table s dna was extracted for all samples using a fastdna
+spin extraction kit for soil mp biomedicals santa ana ca and stored
+at � °c until further processing 
+
+mock community construction mock communities of variable
+mean relative abundance were constructed from algal species across 
+major divisions of eukaryotic microalgae of interest to the wastewater and
+biofuel field thalassiosira pseudonana chlorella vulgaris scenedesmus
+obliquus trebouxia sp cryptomonas pyrenoidifera rhodomonas sp het 
+erocapsa niei symbiodinium microadriaticum prymnesium parvum iso 
+chrysis galbana ochromonas sp and nannochloropsis oculata for full
+details see table s in the supplemental material full length s rrna
+gene sequences were amplified via pcr with a kapa hifi hotstart pcr kit
+ kapa biosystems wilmington ma consisting of � kapa hifi buffer 
+ mm deoxynucleoside triphosphate dntp mix �m forward 
+
+fig a shannon entropy along the s rrna gene alignment numbered according to corresponding positions in the s rrna gene of saccharomyces
+cerevisiae b average shannon entropy per variable region compared to amplicon length with various primer combinations dashed lines in panel b indicate
+the overlap achievable with illumina miseq v chemistry diamonds indicate the primer sets selected for this study from the v blue alternative v primer sets
+are indicated by colored circles and v v red hypervariable regions the location of the selected set along the s rrna gene is indicated by the dashed lines
+in panel a the v region has the highest entropy within the overlap capabilities of the v chemistry followed by the v v region although multiple primer
+sets are possible using the v region we selected a set that has been used in previous studies the v region is not highly variable and often is not included in
+discussion of the s hypervariable region 
+
+table primers evaluated for s rrna based amplicon sequencing on the illumina miseq platform
+
+primer identification s cerevisiae position target region sequence reference or source
+
+ r v ggrcmagbctggtgccag 
+ f v gccagcavcygcggtaay 
+ f v cggtaaytccagctcyav 
+reuk fwd v ccagcascygcggtaattcc a b
+
+reukrev v actttcgttcttgatyra a
+
+v r v actttcgttcttgat this studyb
+
+ r v v ccgtcaatthcttyaart 
+v f v ataacaggtctgtgatgccct this studyb
+
+ f v ataacaggtctgtgatgc 
+ f v aacaggtchgwratgccc 
+ r v ccttcygcaggttcacctac b
+
+a primers initially selected for evaluation 
+b primers selected for final sequencing run and recommended by this study 
+
+bradley et al 
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+reverse primer and u hifi hotstart dna polymerase with the addition
+of ng template dna per �l reaction mixture with universal eukary 
+otic primers euka aacctggttgatcctgccagt and
+eukb tgatccttctgcagg ttcacctac using standard de 
+salted primers integrated dna technologies coralville ia pcr ther 
+mocycling conditions were as follows °c for min cycles of °c
+for min °c for min and °c for min with a final extension at
+ °c for min the resultant pcr product was processed using gel
+electrophoresis band extraction and purification with a qiaquick gel
+purification kit qiagen valencia ca before being cloned via a topo
+
+ta clone kit invitrogen carlsbad ca with a pcr topo ta vector 
+according to the manufacturer’s protocols the cloned pcr products
+were sequenced using sanger sequencing and cloned plasmid primers
+m for m rev invitrogen and f individual sanger
+reads were merged to obtain the full length sequence and species identi 
+fication was confirmed using blast full length s rrna gene
+sequences are accessible from the national center for biotechnology in 
+formation ncbi genbank database accession numbers ku to
+ku the species were categorized as either “freshwater” or
+“marine” based on their isolation source and mixed in equimolar
+
+fig shannon entropy per alignment position without open symbols and with filled symbols heterogeneity spacers for v and v v as estimated using
+algal sequences extracted from the silva database blue v red v v a b e and f forward read c d g and h reverse read nucleotide diversity as
+represented by shannon entropy is close to zero for the conserved primer regions and the reverse read of the v primer set c exhibits scattered entropy across
+the alignment the addition of nucleotide spacers increases total entropy across the alignment for all primers 
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http www ncbi nlm nih gov nuccore term ku 
+http www ncbi nlm nih gov nuccore term ku 
+http aem asm org
+http aem asm org 
+
+
+amounts to create two groups of species each species included in the
+marine mock community contain microalgae found in both open ocean
+and coastal environments seven mock communities mc were cre 
+ated by combining the plasmid cloned s rrna gene sequences from
+each species in different freshwater marine ratios fig the use of
+plasmid cloned s rrna gene sequences allowed for the addition of
+equal amounts of template to avoid variable gene copy numbers in the
+genomic dna extracts from each organism 
+
+dna amplification and sequencing pcr was performed on all mock
+community and environmental samples in triplicate using high perfor 
+mance liquid chromatography hplc purified dual index barcoded
+primers eurofins mwg operon huntsville al for the sequences of
+primer and indexing barcodes see tables s and s in the supplemental
+material pcr was performed using the kapa hifi hotstart pcr kit
+ same concentrations as previously listed using previously suggested
+thermocycling conditions for each hypervariable region specifically for
+the v region amended from stoeck et al the conditions were °c
+for min cycles of °c for s °c for s and °c for min 
+cycles of °c for s °c for s and °c for min with a final
+extension at °c for min for the v v region the conditions were
+ °c for min followed by cycles of °c for s °c for s and
+ °c for s with a final extension at °c for min a negative pcr
+control with no template dna was included for each primer set gel
+electrophoresis was performed on all amplicons to confirm the amplicon
+size and quality before extraction and purification with a qiaquick gel
+purification kit qiagen the dna concentration of each sample ampli 
+con library was checked with qubit invitrogen in triplicate followed
+by pooling of individual amplicon libraries in equimolar proportions 
+
+initial sequencing runs were performed by the roy j carver biotech 
+nology center at the university of illinois at urbana champaign uiuc 
+and the centre for genomic research at the university of liverpool using
+illumina miseq illumina san diego ca sequencing with v chemistry
+and � paired end reads sequencing runs and respectively a
+subsequent run was performed by the roy j carver biotechnology center
+at uiuc using the illumina miseq with v chemistry and � paired 
+end reads run the read primer consisting of a pad linker sequence
+plus a v reverse primer was created using hplc purified locked nucleic
+acids lna exiqon a s copenhagen denmark in order to increase its
+melting temperature above that of the °c miseq cycling temperature to
+ensure nucleotide incorporation during sequencing all other sequencing
+primers had melting temperatures above °c and were hplc purified
+oligonucleotides eurofins mwg operon 
+
+data analysis raw sequences were demultiplexed using bcl fastq
+v conversion software illumina before processing using casava 
+ illumina and quality filtering using sickle to remove all bases with
+a phred score of less than and to implement a minimum read overlap by
+specifying sequence read length sequences were then processed using
+mothur v following the method of kozich et al miseq sop at
+http www mothur org wiki miseq sop and the default setting for all
+processing commands after contig formation reads with ambiguous
+
+base calls were removed and sequences were trimmed to � and bp
+using screen seqs for the v and v v amplicons respectively reads
+were aligned with the silva v nr alignment provided by mothur 
+alignment was trimmed using vertical � t and trump � options and
+chimeras were detected in the trimmed alignment using uchime and
+subsequently removed singletons were removed and the remaining
+reads were used for all further analyses including otu clustering at var 
+ious sequence similarity cutoffs see results and discussion a sequenc 
+ing error was determined as the average percent difference between each
+mock community sequencing read and its reference sanger sequence us 
+ing seq error the consensus taxonomy of otus was performed using the
+silva v taxonomy information provided by mothur alpha diversity
+ observed otus chao index inverse simpson index and nonparamet 
+ric shannon index and beta diversity jaccard and bray curtis distances 
+metrics for the mock communities were calculated using the summary s 
+ingle and summary shared commands with iterative subsampling
+efforts to the sample with the largest number of sequences that still al 
+lowed for replicate samples from each group n � alpha diversity
+metrics for the environmental samples were also calculated using summa 
+ry single and iterative subsampling efforts to the largest number of
+sequences that still allowed for replicate samples from each group n �
+ in order to directly compare the v and v v samples the sam 
+ples were binned into phylotypes using the phylogeny command and
+beta diversity metrics were calculated using dist shared on a combined
+shared file scripts for processing these data in mothur have been up 
+loaded to figshare and are accessible under https dx doi org 
+ m figshare v 
+
+accession number s full length s rrna gene sequences for the
+individual mock community members are accessible from the national
+center for biotechnology information ncbi genbank database acces 
+sion numbers ku to ku sequencing data used for analy 
+sis in this study are available through the ncbi sequence read archive
+ sra accession number srp and corresponding sample de 
+scriptions are accessible through bioproject prjna 
+
+results and discussion
+failed sequencing runs despite the fact that the v primer set
+selected has been adapted to both the roche and the
+illumina miseq systems an initial sequencing run illumina
+miseq � paired end reads using the v primer set which
+primes the reverse read and the indexing barcode associated with
+it for sequence identification was unsuccessful due to a failure of
+the read and index primers consisting of pad linker plus v 
+reverse primer the read index primer was stripped off during
+the miseq’s cycle chemistry because of a lower melting tempera 
+ture to °c than the temperature at which nucleotides
+are incorporated during illumina miseq sequencing °c this
+resulted in no sequencing of the reverse strand or the reverse index
+ see fig s in the supplemental material although forward reads
+were obtained they could not be assigned to samples because of
+the dual indexing approach used 
+
+runs and utilized read index primers incorporating lna
+to increase the primer melting temperature to °c the second
+sequencing run experienced two additional problems with the v 
+primer set low quality reads resulting from poor cluster delinea 
+tion caused by low diversity environmental samples and signifi 
+cant loss of microalgal coverage due to nucleotide mismatches on
+the end of the reverse primer microalgal organisms particu 
+larly those present in wastewater treatment are under highly se 
+lective pressures and consequently are often dominated by a few
+select organisms environmental samples selected for se 
+quencing had highly similar nucleotide patterns especially during
+the first � bp see fig s b in the supplemental material low
+
+fig composition of the seven mock communities ranging from freshwater
+ mc to marine mc only ratios show the theoretical freshwater marine
+compositions of each community based on the number of s rrna copies
+present 
+
+bradley et al 
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http www mothur org wiki miseq sop
+https dx doi org m figshare v 
+https dx doi org m figshare v 
+http www ncbi nlm nih gov nuccore term ku 
+http www ncbi nlm nih gov nuccore term ku 
+http trace ncbi nlm nih gov traces sra study srp 
+http www ncbi nlm nih gov bioproject prjna 
+http aem asm org
+http aem asm org 
+
+
+diversity of nucleotides during the first cycles is known to cause
+quality issues in the miseq because it uses these cycles to identify
+clusters and perform matrix calculations the addition of
+phix to a sequencing run provides a control and generally im 
+proves nucleotide diversity however the reverse read during se 
+quencing run still showed poor quality despite the addition of
+phix see fig s a a number of studies e g references 
+and have proposed the use of variable length nucleotide spac 
+ers to improve overall entropy and read quality of the sequencing
+library an approach similar to that of fadrosh et al whereby
+nucleotide spacers of different lengths were added to the indexing
+barcode was used for run and significantly improved the read
+quality of this sequencing run 
+
+additionally the v primer set substantially altered the abun 
+dance representation of mock community members some spe 
+cies such as rhodomonas sp were overrepresented by approxi 
+mately to times while others were underrepresented by as
+much as orders of magnitude see fig s in the supplemental
+material two of the members prymnesium parvum and iso 
+chrysis galbana were not detected at all these errors in mean
+relative abundance were directly attributable to sequence read
+length and quality caused by nucleotide mismatches with the v 
+reverse primer on the end meaningfully the v reverse primer
+contained a degeneracy in the third nucleotide position and was
+made to match both ttg and tta template sequences 
+interestingly full length reads bp were only obtained for
+sequences containing the ttg motif at the priming location se 
+quences with tta corresponded to shortened reads � bp 
+and the underrepresentation of community members the two
+species that were not represented had a complete mismatch on the
+ end ctg and the shortest reads � bp the exact rela 
+tionship between primer mismatches and resultant short ampli 
+cons will require further investigation while it is known that
+
+primer mismatches disproportionately affect amplification effi 
+ciency when located near the end these data suggest
+that primers should be designed without degeneracies near the 
+end as well differences in annealing temperature and specificity
+between g c and a t nucleotides may have resulted in the higher
+amplification of the ttg priming location melting temperature
+ tm � °c over that of tta tm � °c given the previ 
+ously recommended thermocycling conditions used for pcr am 
+plification in this study minimum annealing temperature of
+ °c this discrepancy along with the lack of coverage which
+has been previously noted e g reference of the haptophytes
+prymnesium parvum and isochrysis galbana represents a critical
+shortcoming of the v primer set as used in the literature conse 
+quently this study used a “modified” v reverse primer table 
+v r without degeneracies on the end for the subsequent se 
+quencing run 
+
+effect of read overlap and clustering similarities on sequence
+accuracy the lengths of forward and reverse reads and hence 
+read overlap and clustering similarity affect the number of ob 
+served otus it is common to use a similarity cutoff of or 
+ to nominally express otus as taxonomic groupings at the
+species level but it has been shown that a single threshold cannot
+be set to operationally define a clustering threshold and relate it to
+taxonomy in order to determine the appropriate sequence
+similarity clustering cutoffs to apply to this data set read overlap
+ i e minimum read length specified during quality filtering and
+clustering thresholds were varied at multiple cutoff values and
+compared to membership based distance i e jaccard index 
+from the theoretical “even” mock community fig the goal of
+this analysis was to select the minimum read overlap and cluster 
+ing threshold that accurately represented the mock community
+while retaining the most reads possible and reducing sequencing
+noise as read overlap and similarity cutoff increased the distance
+
+fig distance from the theoretical community jaccard dissimilarity at various overlaps between forward and reverse reads and clustering of otus based on
+sequence similarity cutoffs for the v a and v v b regions using the “even” community mc the left hand y axis and gray line show the loss of reads
+as the minimum read overlap increases increasing the read overlap decreases the jaccard dissimilarity but at the expense of loss of reads the v and v v 
+regions are able to achieve a jaccard dissimilarity of � at clustering right hand y axis using and bp overlaps respectively 
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+from the theoretical community decreased i e increased in ac 
+curacy but the number of reads included in the analyses also
+decreased using a cost benefit relationship the number of reads
+lost to the decrease in distance from theoretical we determined
+the optimal cutoff values as the percentage of sequence similarity
+and read overlap at which the minimal number of reads was lost
+ i e cost while decreasing the jaccard distance from theoretical
+ i e benefit to less than for the v region this was deter 
+mined to be a cutoff with a bp overlap bp read
+length for the v v region these criteria were satisfied at a
+ bp overlap at although this similarity cutoff is higher than
+is often used e g this analysis showed that a threshold
+captured all mock community members with no loss of accuracy 
+by selecting a cutoff sequencing noise was masked and spu 
+rious otus were reduced 
+
+examining the effect of read length and similarity cutoffs on
+community accuracy in this way also aided in identifying potential
+issues within the processed reads local minimums e g fig a 
+read overlap of bp and sequence similarity of indicate
+regions where increasing the read overlap requirement actually
+increases the distance from theoretical which might result from
+merging of paired end reads that meet defined base quality met 
+rics but are still sequencing errors these points suggest that for
+those samples read errors are making it through the quality filter 
+ing steps and because the total number of sequences decreases
+with quality filtering the effect of these sequencing errors is am 
+plified for example increasing the read overlap from to bp
+for the even mock community replicate of see fig s in the
+supplemental material resulted in extraneous sequences and 
+additional otus being displayed to unique sequences 
+to otus for and bp respectively 
+
+sequencing error the v and v v primer sets show con 
+sistently low sequencing errors i e the percent difference be 
+tween mock community sequence reads and their known sanger
+sequences fig average for processed sequences al 
+though there are limited data on acceptable error rates schloss et
+al evaluated multiple s rrna primers and saw an average
+raw error of across all regions and replicates before quality
+trimming and after basic data processing such as removing
+ambiguous bases and instituting a minimum read length this
+error was further reduced to after application of a sliding
+window quality cutoff and sequence trimming in comparison all
+samples for the v and v v regions in this study show errors of
+� with only basic processing during the contig construc 
+tion phase i e no sequence trimming using quality scores with
+quality trimming all mock community samples fell below the
+ error seen by schloss et al with an average error of
+� 
+
+importantly of all mismatches in the v region were
+attributable to the two marine haptophytes prymnesium parvum
+and isochrysis galbana even with the modified v reverse primer 
+although overall error for the freshwater and marine communi 
+ties was low these members had error rates an order of magnitude
+higher than that for the overall marine community com 
+pared to for the overall community with basic processing 
+the haptophytes had a higher gc content for the v region than
+the rest of the marine community members versus 
+which has been shown to have a strong affect on pcr amplifica 
+tion consistent with this effect all mismatches oc 
+curred in gc rich regions and were predominantly substitution
+
+errors significantly haptophytes have been shown to be routinely
+underrepresented when in the presence of other eukaryotic dna
+ and marie et al found that haptophytes present in marine
+samples had higher gc contents along the s rrna gene than the
+other groups present e g for haptophyta compared to
+ for chlorophyta 
+
+representation of mock communities in addition to the is 
+sues related to pcr priming locations and gc content of the tem 
+plate sequence pcr amplification may be affected by
+ i dna template concentration ii relative abundance iii 
+thermocycling conditions iv primer choice and v non 
+specific binding that reduces pcr amplification after the
+redesign of the v reverse primer all mock community members
+shared exact priming sequences and item iv should not be a factor 
+it seems most likely that the gc content and nonspecific binding
+had the largest effect on mean relative abundance of community
+members 
+
+fig effect of quality processing on sequencing errors for the v blue and
+v v red regions across the seven mock communities evaluated mc to
+mc all reads were processed in mothur using no base quality cutoff a no
+base quality cutoff and singletons removed b and a base quality cutoff at a
+phred score of and read overlaps of bp v and bp v v with
+singletons removed c removing singletons has the greatest effect on reduc 
+ing sequencing error 
+
+bradley et al 
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+the mean relative abundance of of the mock communities
+ freshwater dominant even and marine dominant communities
+ mc mc and mc respectively is shown in fig for the v 
+and v v primer sets for additional mock communities see fig 
+s in the supplemental material representation by the v v set
+outperforms that of the v set for all communities with average
+mean relative abundances of fold 	 fold and 
+fold 	 fold underrepresented per detected mock community
+member compared to the theoretical relative abundances for the
+v v and v amplicons respectively although the v region
+captures freshwater species relatively well fold 	 fold
+underrepresented from theoretical it fails to adequately repre 
+sent marine species fold 	 fold underrepresented from
+theoretical often underrepresenting the haptophyte members by
+as much as orders of magnitude coupled with the higher se 
+quencing error of the haptophytes it is clear that the v region
+does not adequately capture the community structure of the ma 
+
+rine mock community and will not accurately represent samples
+that contain these members unfortunately haptophytes are of
+major importance to marine communities due to their contribu 
+tion to open ocean biomass and production and these studies
+most often leverage eukaryotic sequencing e g references 
+ and 
+
+recent studies have highlighted the suitability of the v region
+for amplicon sequencing but these studies promote
+primer locations that include both the v and v regions � 
+bp long which is longer than the illumina miseq can currently
+sequence with paired end reads � to bp with appropri 
+ate read overlap until longer reads are possible and potentially
+even after the v v region provides more accurate otu rela 
+tive abundances across all mock communities tested in this study 
+the v primer did capture both abundant and rare freshwater
+taxa while the v v primer struggled with species either fresh 
+water or marine that were at a low abundance however this is
+
+fig mean relative abundances of freshwater dominant a and b even c and d and marine dominant e and f communities corresponding to mock
+communities and mc mc and mc respectively as represented by the v a c and e blue and v v b d and f red regions the dashed lines
+indicate the mean relative abundance of the theoretical community the v primer set consistently underrepresented the marine haptophyte members p parvum
+and i galbana although the v v primer set struggled to represent members when in low abundance it more accurately represented the overall community
+structure 
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+most likely an artifact of the amplification method used i e con 
+centrations of reagents as well as the pcr cycle design and there
+are multiple steps that can be taken to improve representation at
+low abundance these include increasing primer and dntp con 
+centrations to allow for increased amplification of rare sequences 
+and the reduction of pcr cycles to minimize the overrepresenta 
+tion of high abundance sequences additionally because most
+wastewater algal communities are under high selective pressures
+and are not very diverse the v v primer set will reliably capture
+dominant organisms while v may miss a dominant organism 
+
+to further examine the performance of the v and v v re 
+gions four alpha diversity metrics were calculated richness based
+metrics observed otus sobs and the chao rchao estimator 
+which estimate the unsampled richness and structure based metrics
+ nonparametric shannon index dnpshannon and inverse simpson
+index dinvsimpson which measure sample diversity assuming no
+underlying distribution and an even distribution respectively the
+v and v v regions show similar trends p � and 
+ welch’s t test with average sobs and dnpshannon values fig 
+ a and b within and of the theoretical respectively 
+beta diversity measurements including the richness based jac 
+card djaccard and structure based bray curtis dbraycurtis 
+distances were also calculated when the sequenced mock com 
+munity distances from theoretical were compared the v v re 
+gion more accurately represented the theoretical community in 
+of and of mock communities using jaccard and bray curtis
+metrics respectively fig c and d exceptions to this are
+djaccard for mc and mc due to some of the rare taxa not
+
+being detected if low abundance members were efficiently de 
+tected by incorporating the approaches discussed previously it is
+likely that the djaccard from the theoretical community would
+also be smaller than that of the v region for these two commu 
+nities 
+
+application to environmental samples community compo 
+sition at taxonomic ranks of and in mothur corresponding to
+class level fig and genus level see fig s in the supplemental
+material respectively shows that microbial populations for each
+sample are similar as represented by either the v or v v re 
+gion both the v and v v regions were able to differentiate
+among freshwater coastal and wastewater samples collected us 
+ing jaccard and bray curtis metrics p � analysis of
+molecular variance amova see table s and fig s in the
+supplemental material furthermore they were able to dis 
+criminate between communities within the wastewater treat 
+ment process including primary clarification secondary treat 
+ment and secondary clarification p � amova see
+fig s in general the v v region had a greater number of
+observed otus and displayed higher levels of microbially di 
+verse populations than the v region as estimated by using
+alpha diversity metrics dnpshannon fig 
+
+in order to examine the representation by each region of the
+coastal samples more closely the bray curtis distances between
+samples e g m and m m and m etc were compared be 
+tween the v and v v data sets welch’s t tests unpaired two 
+tailed with unequal variance showed that there were significant
+differences p � between the distances calculated among the
+
+fig a observed otus b nonparametric shannon index c jaccard distance from theoretical d bray curtis distance from theoretical the v blue 
+and v v red regions show similar alpha diversity metrics in panels a and b p � and respectively welch’s t test gray dashes indicate theoretical
+values but the v v region more closely represents the theoretical community using beta diversity metrics in panels c and d 
+
+bradley et al 
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+samples from the v and v v regions with each region giving
+different estimates of community dissimilarity between any two
+samples and the v data displaying higher dissimilarities than the
+v v data in of the pairwise comparisons however when
+taken collectively the v and v v regions show similar trends
+overall and a mantel test between the v and v v bray curtis
+distance matrices showed a high degree of similarity p �
+ the v region had fewer otus for of the marine
+samples but surprisingly it represented organisms of the division
+haptophyta as well as those of the v v region notably the
+abundant genera found in environmental coastal samples all be 
+longed to the class pavlovophyceae while the species present in
+the mock community belonged to the class prymnesiophyceae it
+is possible that the v region only struggles with representation of
+the latter although additional mock community sequencing with
+members of the class pavlovophyceae included would need to be
+performed 
+
+in order to directly compare differences in community repre 
+sentation by the v and v v regions sequences were binned
+into phylotypes and beta diversity metrics jaccard index and
+bray curtis dissimilarity were calculated the v and v v re 
+gions show different community representations of the same sam 
+ple fig the bray curtis distance between the v commu 
+
+nity representation of a sample and its v v representation
+varies greatly with some samples showing good agreement w 
+difference of between both regions and others showing high
+dissimilarity w difference of variations in the commu 
+nity representation by the v and v v regions do not corre 
+spond to sample type i e freshwater coastal or wastewater but
+rather are sample and site specific these results support the use of
+multiple primer sets as in previous studies e g references and
+ in order to provide a more complete picture of community
+representation 
+
+despite differences in community representation by each hy 
+pervariable region as measured through the bray curtis dis 
+tance the three data sets cluster according to their sample types
+irrespective of the hypervariable region targeted see fig s in
+the supplemental material furthermore although samples can
+be differentiated according to sample type e g freshwater or
+wastewater p � amova there is no significant difference
+between the v samples and v v samples within the same type
+of environmental sample e g v freshwater and v v freshwa 
+ter p � amova 
+
+in conclusion in this study we examined the effect of pcr 
+sequencing bias on the representation of seven mock communi 
+ties by targeting the v and v v hypervariable regions of the
+
+fig community composition of the v top and v v bottom regions at a taxonomic rank of in mothur which corresponds to the class level samples
+containing f w and m in their sample name belong to freshwater wastewater and coastal marine samples respectively data used to generate this figure are
+available in table s in the supplemental material 
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+ s rrna gene by doing so we discovered that a previously used
+primer set missed a major taxonomic group of interest to marine
+studies this study highlights the need for mock communities to
+validate the representation of species by amplicon sequencing in
+silico testing can help identify sequence coverage and nucleotide
+mismatches but experimental validation with mock communities
+provides critical insight into the amplification sequencing and
+
+representation of target regions specifically this study found that
+nucleotide degeneracies on the primer end affected read lengths
+and mean relative abundances of mock communities due to dif 
+ferential amplification of templates containing g or a in the de 
+generate position for v primers proposed in literature further 
+more the pcr sequencing error is markedly higher for gc rich
+members compared to an average for mock com 
+munity importantly the v region failed to reliably capture 
+of the mock community members included in this study the
+v v region more accurately represents mean relative abun 
+dance and alpha and beta diversity with the greatest improvement
+in structure based metrics such as the bray curtis distance from
+theoretical 
+
+given the additional uncertainty of gene copy numbers across
+eukaryotic species representation of even closely related organ 
+isms such as phytoplankton by amplicon sequencing has a high
+degree of ambiguity complementary approaches such as applica 
+tion of diversity metrics only to similarly sized microalgae or
+sequencing cell sorted populations might greatly improve
+the accuracy of diversity metrics and mean relative abundance in
+the case of marie et al the use of cell sorting allowed for the
+sequencing of abundant phytoplankton e g haptophyta that
+were previously undetected due to the profusion of larger organ 
+isms the effect of pcr bias however skews diversity esti 
+mates even when the gene copy number is kept the same based on
+these results we recommend that studies that apply amplicon se 
+
+fig observed otus a and nonparametric shannon index b of environmental samples by the v blue and v v red regions wastewater samples
+were taken from primary effluent pe treatment or secondary effluent se streams from wastewater treatment plants both hypervariable regions show
+significantly higher numbers of otus p � welch’s t test in the freshwater and coastal samples than in wastewater and similar representations of metrics
+across all samples 
+
+fig bray curtis distance between the v and v v representations of
+the same sample community using a phylotype based approach community
+representation by the v and v v regions varies in agreement on a sample 
+by sample basis rather than across sample types i e freshwater coastal or
+wastewater 
+
+bradley et al 
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+quencing to environmental samples do the following i use mock
+communities composed of target species to estimate community
+representation and pcr sequencing error by the chosen primer
+set ii limit degenerate locations in primer sequences and elimi 
+nate degeneracies in positions near the end and iii estimate
+alpha and beta diversity metrics through structure based meth 
+ods that provide more reliable approximations of community di 
+versity 
+
+in the current study redesign of the primer containing a de 
+generacy on the end increased the representation of the marine
+members and improved mock community representation overall 
+ultimately the v v region provided the highest accuracy of the
+selected mock community as measured through mean relative
+abundance and beta diversity measurements djaccard and
+dbraycurtis given these data we suggest that studies using
+ s rrna gene amplicon sequencing for microalgal commu 
+nities and marine studies in particular target the v v hy 
+pervariable region when considering species included in this
+study however the v and v v regions showed similar
+overall representations of environmental samples and tradeoffs
+between hypervariable regions may warrant the use of multiple
+primer sets to better capture community diversity 
+
+acknowledgments
+
+this material is based upon work supported by the national science
+foundation grant cbet and the engineering and physical sci 
+ences research council united kingdom grant ep k 
+
+we acknowledge the roy j carver biotechnology center at the uni 
+versity of illinois at urbana champaign uiuc and the centre for
+genomic research at the university of liverpool for performing high 
+throughput sequencing we thank andrew henderson belinda sturm 
+daniel johnson lance schideman chih ting kuo monica higgins 
+diego rosso graham mccarthy andrew whelton and carolina novy
+for generously donating environmental samples for this study 
+
+funding information
+this work including the efforts of ameet j pinto was funded by engi 
+neering and physical sciences research council epsrc ep k 
+ this work including the efforts of jeremy guest and ian bradley was
+funded by national science foundation nsf cbet 
+
+references
+ sogin ml morrison hg huber ja mark welch d huse sm neal pr 
+
+arrieta jm herndl gj microbial diversity in the deep sea and the
+underexplored “rare biosphere ” proc natl acad sci u s a –
+ 
+
+ caporaso jg lauber cl walters wa berg lyons d huntley j fierer
+n owens sm betley j fraser l bauer m gormley n gilbert ja 
+smith g knight r ultra high throughput microbial community
+analysis on the illumina hiseq and miseq platforms isme j – 
+http dx doi org ismej 
+
+ roesch lfw fulthorpe rr riva a casella g hadwin akm kent
+ad daroub sh camargo fao farmerie wg triplett ew 
+pyrosequencing enumerates and contrasts soil microbial diversity 
+isme j – 
+
+ dethlefsen l huse s sogin ml relman da the pervasive effects
+of an antibiotic on the human gut microbiota as revealed by deep s
+rrna sequencing plos biol e http dx doi org journal
+ pbio 
+
+ teske a hinrichs k u edgcomb v de vera gomez a kysela d sylva
+sp sogin ml jannasch hw microbial diversity of hydrothermal
+sediments in the guaymas basin evidence for anaerobic methanotrophic
+communities appl environ microbiol – http dx doi org
+ aem 
+
+ prokopowich c gregory t crease t the correlation between
+
+rdna copy number and genome size in eukaryotes genome � 
+http dx doi org g 
+
+ amaral zettler la mccliment ea ducklow hw huse sm a
+method for studying protistan diversity using massively parallel sequenc 
+ing of v hypervariable regions of small subunit ribosomal rna genes 
+plos one e http dx doi org journal pone 
+
+ viprey m guillou l ferréol m vaulot d wide genetic diversity
+of picoplanktonic green algae chloroplastida in the mediterranean sea
+uncovered by a phylum biased pcr approach environ microbiol 
+ – http dx doi org j x 
+
+ conley dj paerl hw howarth rw boesch df seitzinger sp havens
+ke lancelot c likens ge ecology controlling eutrophication 
+nitrogen and phosphorus science – http dx doi org 
+ science 
+
+ paerl hw valdes lm joyner ar piehler mf lebo me solving
+problems resulting from solutions evolution of a dual nutrient manage 
+ment strategy for the eutrophying neuse river estuary north carolina 
+environ sci technol – http dx doi org es 
+
+ craggs rj davies colley rj tanner cc sukias jp advanced
+pond system performance with high rate ponds of different depths and
+areas water sci technol – 
+
+ chisti y biodiesel from microalgae biotechnol adv – 
+http dx doi org j biotechadv 
+
+ clarens af resurreccion ep white ma colosi lm environ 
+mental life cycle comparison of algae to other bioenergy feedstocks envi 
+ron sci technol – http dx doi org es n 
+
+ christenson l sims r production and harvesting of microalgae
+for wastewater treatment biofuels and bioproducts biotechnol adv 
+ – http dx doi org j biotechadv 
+
+ pittman jk dean ap osundeko o the potential of sustainable
+algal biofuel production using wastewater resources bioresour technol
+ – http dx doi org j biortech 
+
+ purkhold u pommerening roser a juretschko s schmid mc koops
+h p wagner m phylogeny of all recognized species of ammonia
+oxidizers based on comparative s rrna and amoa sequence analysis 
+implications for molecular diversity surveys appl environ microbiol 
+ – http dx doi org aem 
+
+ snaidr j amann r huber i ludwig w schleifer kh phyloge 
+netic analysis and in situ identification of bacteria in activated sludge appl
+environ microbiol – 
+
+ juretschko s timmermann g schmid m schleifer kh pommerening 
+röser a koops hp wagner m combined molecular and con 
+ventional analyses of nitrifying bacterium diversity in activated sludge 
+nitrosococcus mobilis and nitrospira like bacteria as dominant popula 
+tions appl environ microbiol – 
+
+ crocetti gr hugenholtz p bond pl schuler a keller j jenkins d 
+blackall ll identification of polyphosphate accumulating organ 
+isms and design of s rrna directed probes for their detection and
+quantitation appl environ microbiol – http dx doi org 
+ aem 
+
+ eland le davenport r mota cr evaluation of dna extraction
+methods for freshwater eukaryotic microalgae water res – 
+http dx doi org j watres 
+
+ de los reyes fl challenges in determining causation in structure 
+function studies using molecular biological techniques water res 
+ – http dx doi org j watres 
+
+ hugerth lw muller eel hu yoo lebrun la roume mh lundin
+d wilmes p andersson af systematic design of s rrna gene
+primers for determining eukaryotic diversity in microbial consortia plos
+one e http dx doi org journal pone 
+
+ hadziavdic k lekang k lanzen a characterization of the s
+rrna gene for designing universal eukaryote specific primers plos one
+ e http dx doi org journal pone 
+
+ lundholm n moestrup o kotaki y hoef emden k scholin c miller
+p inter and intraspecific variation of the pseudo nitzschia delicatis 
+sima complex bacillariophyceae illustrated by rrna probes morpho 
+logical data and phylogenetic analyses j phycol – http dx doi
+ org j x 
+
+ guo l sui z zhang s ren y liu y comparison of potential
+diatom “barcode” genes s and its rdna coi rbcl and their effec 
+tiveness in discriminating and determining species taxonomy in bacillar 
+iophyta int j syst evol microbiol pt – http dx doi org
+ ijs 
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http dx doi org ismej 
+http dx doi org journal pbio 
+http dx doi org journal pbio 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org g 
+http dx doi org journal pone 
+http dx doi org j x
+http dx doi org science 
+http dx doi org science 
+http dx doi org es 
+http dx doi org j biotechadv 
+http dx doi org es n
+http dx doi org j biotechadv 
+http dx doi org j biortech 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org j watres 
+http dx doi org j watres 
+http dx doi org journal pone 
+http dx doi org journal pone 
+http dx doi org j x
+http dx doi org j x
+http dx doi org ijs 
+http dx doi org ijs 
+http aem asm org
+http aem asm org 
+
+
+ medlin lk kooistra whcf gersonde r wellbrock u evolu 
+tion of the diatoms bacillariophyta ii nuclear encoded small subunit
+rrna sequence comparisons confirm a paraphyletic origin for the centric
+diatoms mol biol evol – 
+
+ zhu f massana r not f marie d vaulot d mapping of
+picoeucaryotes in marine ecosystems with quantitative pcr of the s
+rrna gene fems microbiol ecol – http dx doi org j
+ femsec 
+
+ bazin p jouenne f deton cabanillas a f pérez ruzafa Á véron b 
+ complex patterns in phytoplankton and microeukaryote diversity
+along the estuarine continuum hydrobiologia – 
+
+ di b pedrós alió c massana r study of genetic diversity of
+eukaryotic picoplankton in different oceanic regions by small subunit
+rrna gene cloning and sequencing study of genetic diversity of eukaryotic
+picoplankton in different oceanic regions by small subunit rrna gene
+cloning and sequencing appl environ microbiol – http dx
+ doi org aem 
+
+ sherwood ar presting gg universal primers amplify a s rdna
+plastid marker in eukaryotic algae and cyanobacteria j phycol –
+ http dx doi org j x 
+
+ hebert pdn cywinska a ball sl dewaard jr biological iden 
+tifications through dna barcodes proc biol sci – http dx
+ doi org rspb 
+
+ ghosh s love ng application of rbcl based molecular diversity
+analysis to algae in wastewater treatment plants bioresour technol 
+ – http dx doi org j biortech 
+
+ paul jh alfreider a wawrik b micro and macrodiversity in rbcl
+sequences in ambient phytoplankton populations from the southeastern
+gulf of mexico mar ecol prog ser – http dx doi org 
+ meps 
+
+ hepperle d krienitz l systematics and ecology of chlorophyte
+picoplankton in german inland waters along a nutrient gradient 
+int rev hydrobiol – http dx doi org 
+ � aid iroh � co 
+
+ fuller nj campbell c allen dj pitt fd zwirglmaier k le gall f 
+vaulot d scanlan dj analysis of photosynthetic picoeukaryote
+diversity at open ocean sites in the arabian sea using a pcr biased towards
+marine algal plastids aquat microb ecol – http dx doi org 
+ ame 
+
+ vaulot d eikrem w viprey m moreau h the diversity of small
+eukaryotic phytoplankton � or � microm in marine ecosystems 
+fems microbiol rev – http dx doi org j 
+ x 
+
+ de vargas c audic s henry n decelle j mahé f logares r lara e 
+berney c le bescot n probert i carmichael m poulain j romac s 
+colin s aury jm bittner l chaffron s dunthorn m engelen s 
+flegontova o guidi l horák a jaillon o lima mendez g lukeš j 
+malviya s morard r mulot m scalco e siano r vincent f zingone
+a dimier c picheral m searson s kandels lewis s tara oceans
+coordinators acinas sg bork p bowler c gorsky g grimsley n 
+hingamp p iudicone d not f ogata h pesant s raes j sieracki me 
+speich s stemmann l sunagawa s weissenbach j wincker p 
+karsenti e eukaryotic plankton diversity in the sunlit ocean sci 
+ence http dx doi org science 
+
+ eiler a drakare s bertilsson s pernthaler j peura s rofner c simek
+k yang y znachor p lindström es unveiling distribution
+patterns of freshwater phytoplankton by a next generation sequencing
+based approach plos one e http dx doi org journal
+ pone 
+
+ mohrbeck i raupach mj martínez arbizu p knebelsberger t laak 
+mann s high throughput sequencing—the key to rapid biodiver 
+sity assessment of marine metazoa plos one e http dx doi
+ org journal pone 
+
+ medinger r nolte v pandey rv jost s ottenwälder b schlötterer c 
+boenigk j diversity in a hidden world potential and limitation of
+next generation sequencing for surveys of molecular diversity of eukary 
+otic microorganisms mol ecol suppl s –s http dx doi org 
+ j x x 
+
+ stoeck t bass d nebel m christen r jones mdm breiner h w 
+richards ta multiple marker parallel tag environmental dna
+sequencing reveals a highly complex eukaryotic community in marine
+anoxic water mol ecol suppl s –s http dx doi org j
+ x x 
+
+ pagenkopp lohan km fleischer rc carney kj holzer kk ruiz gm 
+ amplicon based pyrosequencing reveals high diversity of protistan
+parasites in ships’ ballast water implications for biogeography and infec 
+tious diseases microb ecol � http dx doi org 
+ s 
+
+ balzano s abs e leterme sc protist diversity along a salinity
+gradient in a coastal lagoon aquat microb ecol – http dx doi
+ org ame 
+
+ tanabe as nagai s hida k yasuike m fujiwara a nakamura y 
+takano y katakura s comparative study of the validity of three
+regions of the s rrna gene for massively parallel sequencing based
+monitoring of the planktonic eukaryote community mol ecol resour
+ � http dx doi org 
+
+ kunin v engelbrektson a ochman h hugenholtz p wrinkles
+in the rare biosphere pyrosequencing errors can lead to artificial inflation
+of diversity estimates environ microbiol – http dx doi org
+ j x 
+
+ hong s bunge j leslin c jeon s epstein ss polymerase chain
+reaction primers miss half of rrna microbial diversity isme j –
+ http dx doi org ismej 
+
+ polz mf cavanaugh cm bias in template to product ratios in
+multitemplate pcr appl environ microbiol – 
+
+ suzuki mt giovannoni sj bias caused by template annealing in
+the amplification of mixtures of s rrna genes by pcr appl environ
+microbiol – 
+
+ quince c lanzén a curtis tp davenport rj hall n head im read
+lf sloan wt accurate determination of microbial diversity from
+ pyrosequencing data nat methods – http dx doi org 
+ nmeth 
+
+ reeder j knight r rapidly denoising pyrosequencing amplicon
+reads by exploiting rank abundance distributions nat methods –
+ http dx doi org nmeth b 
+
+ huse sm welch dm morrison hg sogin ml ironing out the
+wrinkles in the rare biosphere through improved otu clustering en 
+viron microbiol – http dx doi org j 
+ x 
+
+ pinto aj raskin l pcr biases distort bacterial and archaeal com 
+munity structure in pyrosequencing datasets plos one e http 
+ dx doi org journal pone 
+
+ zhou j wu l deng y zhi x jiang y tu q xie j van nostrand jd 
+he z yang y reproducibility and quantitation of amplicon se 
+quencing based detection isme j – http dx doi org 
+ ismej 
+
+ schloss pd westcott sl ryabin t hall jr hartmann m hollister eb 
+lesniewski ra oakley bb parks dh robinson cj sahl jw stres b 
+thallinger gg van horn dj weber cf introducing mothur 
+open source platform independent community supported software for
+describing and comparing microbial communities appl environ micro 
+biol – http dx doi org aem 
+
+ shannon ce a mathematical theory of communication bell
+syst technol j – http dx doi org j 
+ tb x 
+
+ carney lt reinsch ss lane pd solberg od jansen ls williams kp 
+trent jd lane tw microbiome analysis of a microalgal mass
+culture growing in municipal wastewater in a prototype omega photo 
+bioreactor algal res – http dx doi org j algal 
+ 
+
+ logares r audic s santini s pernice mc de vargas c massana r 
+ diversity patterns and activity of uncultured marine heterotrophic
+flagellates unveiled with pyrosequencing isme j – http dx
+ doi org ismej 
+
+ klindworth a pruesse e schweer t peplies j quast c horn m 
+glöckner fo evaluation of general s ribosomal rna gene pcr
+primers for classical and next generation sequencing based diversity
+studies nucleic acids res e http dx doi org nar gks 
+
+ kozich jj westcott sl baxter nt highlander sk schloss pd 
+development of a dual index sequencing strategy and curation pipeline
+for analyzing amplicon sequence data on the miseq illumina sequencing
+platform appl environ microbiol – http dx doi org 
+ aem 
+
+ fadrosh dw ma b gajer p sengamalay n ott s brotman rm ravel
+j an improved dual indexing approach for multiplexed s rrna
+
+bradley et al 
+
+ aem asm org october volume number applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http dx doi org j femsec 
+http dx doi org j femsec 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org j x
+http dx doi org rspb 
+http dx doi org rspb 
+http dx doi org j biortech 
+http dx doi org meps 
+http dx doi org meps 
+http dx doi org c aid iroh e co 
+http dx doi org c aid iroh e co 
+http dx doi org ame 
+http dx doi org ame 
+http dx doi org j x
+http dx doi org j x
+http dx doi org science 
+http dx doi org journal pone 
+http dx doi org journal pone 
+http dx doi org journal pone 
+http dx doi org journal pone 
+http dx doi org j x x
+http dx doi org j x x
+http dx doi org j x x
+http dx doi org j x x
+http dx doi org s 
+http dx doi org s 
+http dx doi org ame 
+http dx doi org ame 
+http dx doi org 
+http dx doi org j x
+http dx doi org j x
+http dx doi org ismej 
+http dx doi org nmeth 
+http dx doi org nmeth 
+http dx doi org nmeth b
+http dx doi org j x
+http dx doi org j x
+http dx doi org journal pone 
+http dx doi org journal pone 
+http dx doi org ismej 
+http dx doi org ismej 
+http dx doi org aem 
+http dx doi org j tb x
+http dx doi org j tb x
+http dx doi org j algal 
+http dx doi org j algal 
+http dx doi org ismej 
+http dx doi org ismej 
+http dx doi org nar gks 
+http dx doi org aem 
+http dx doi org aem 
+http aem asm org
+http aem asm org 
+
+
+gene sequencing on the illumina miseq platform microbiome http 
+ dx doi org 
+
+ illumina low diversity sequencing on the illumina illumina san
+diego ca 
+
+ medlin l elwood h stickel s sogin m the characterization of
+enzymatically amplified eukaryotic s like rrna coding regions gene
+ – http dx doi org 
+
+ altschul s basic local alignment search tool j mol biol –
+ http dx doi org s 
+
+ joshi n fass j sickle a sliding window adaptive quality based
+trimming tool for fastq files version https github com najoshi
+ sickle 
+
+ edgar rc haas bj clemente jc quince c knight r uchime
+improves sensitivity and speed of chimera detection bioinformatics 
+ – http dx doi org bioinformatics btr 
+
+ park jbk craggs rj shilton an recycling algae to improve
+species control and harvest efficiency from a high rate algal pond water
+res – http dx doi org j watres 
+
+ lundberg ds yourstone s mieczkowski p jones cd dangl jl 
+practical innovations for high throughput amplicon sequencing nat
+methods – http dx doi org nmeth 
+
+ wu l wen c qin y yin h tu q van nostrand jd yuan t yuan
+m deng y zhou j phasing amplicon sequencing on illumina
+miseq for robust environmental microbial community analysis bmc mi 
+crobiol http dx doi org s 
+
+ stadhouders r pas sd anber j voermans j mes thm schutten m 
+ the effect of primer template mismatches on the detection and
+quantification of nucleic acids using the nuclease assay j mol diagn
+ – http dx doi org jmoldx 
+
+ bru d martin laurent f philippot l quantification of the det 
+rimental effect of a single primer template mismatch by real time pcr
+using the s rrna gene as an example appl environ microbiol 
+ – http dx doi org aem 
+
+ konstantinidis kt ramette a tiedje jm the bacterial species
+definition in the genomic era philos trans r soc lond b biol sci 
+ – http dx doi org rstb 
+
+ schloss pd westcott sl assessing and improving methods used in
+operational taxonomic unit based approaches for s rrna gene se 
+quence analysis appl environ microbiol – http dx doi org
+ aem 
+
+ schloss pd gevers d westcott sl reducing the effects of pcr
+amplification and sequencing artifacts on s rrna based studies plos
+one e http dx doi org journal pone 
+
+ reysenbach al giver lj wickham gs pace nr differential
+amplification of rrna genes by polymerase chain reaction appl environ
+microbiol � 
+
+ benita y oosting rs lok mc wise mj humphery smith i 
+regionalized gc content of template dna as a predictor of pcr success 
+nucleic acids res e http dx doi org nar gng 
+
+ moon van der staay sy van der staay gwm guillou l vaulot d 
+claustre h medlin lk abundance and diversity of prymnesio 
+phytes in the picoplankton community from the equatorial pacific ocean
+inferred from s rdna sequences limnol oceanogr – http 
+ dx doi org lo 
+
+ marie d shi xl rigaut jalabert f vaulot d use of flow cyto 
+metric sorting to better assess the diversity of small photosynthetic eu 
+karyotes in the english channel fems microbiol ecol – http 
+ dx doi org j x 
+
+ mamedov tg pienaar e whitney se termaat jr carvill g goliath
+r subramanian a viljoen hj a fundamental study of the pcr
+amplification of gc rich dna templates comput biol chem –
+ http dx doi org j compbiolchem 
+
+ ishii k fukui m optimization of annealing temperature to reduce
+bias caused by a primer mismatch in multitemplate pcr appl environ
+microbiol – http dx doi org aem 
+ 
+
+ duret mt pachiadaki mg stewart fj sarode n christaki u monchy
+s srivastava a edgcomb vp size fractionated diversity of eukary 
+otic microbial communities in the eastern tropical north pacific oxygen
+minimum zone fems microbiol ecol fiv http dx doi org 
+ femsec fiv 
+
+ s rrna gene characterization for mixed communities
+
+october volume number aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http dx doi org 
+http dx doi org 
+http dx doi org 
+http dx doi org s 
+https github com najoshi sickle
+https github com najoshi sickle
+http dx doi org bioinformatics btr 
+http dx doi org j watres 
+http dx doi org nmeth 
+http dx doi org s 
+http dx doi org jmoldx 
+http dx doi org aem 
+http dx doi org rstb 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org journal pone 
+http dx doi org nar gng 
+http dx doi org lo 
+http dx doi org lo 
+http dx doi org j x
+http dx doi org j x
+http dx doi org j compbiolchem 
+http dx doi org aem 
+http dx doi org aem 
+http dx doi org femsec fiv 
+http dx doi org femsec fiv 
+http aem asm org
+http aem asm org 
+
+	materials and methods
+	primer design and evaluation 
+	dna collection and extraction 
+	mock community construction 
+	dna amplification and sequencing 
+	data analysis 
+	accession number s 
+
+	results and discussion
+	failed sequencing runs 
+	effect of read overlap and clustering similarities on sequence accuracy 
+	sequencing error 
+	representation of mock communities 
+	application to environmental samples 
+
+	acknowledgments
+	references
+
+

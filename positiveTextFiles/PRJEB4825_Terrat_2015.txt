@@ -1,0 +1,1215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+metabarcoded evaluation of the iso standard dna extraction procedure to characterize soil bacterial and fungal community diversity and composition
+
+
+meta barcoded evaluation of the iso standard 
+dna extraction procedure to characterize soil bacterial
+and fungal community diversity and composition
+
+sebastien terrat † pierre plassart † emilie
+bourgeois † stéphanie ferreira samuel dequiedt 
+
+nathalie adele dit de renseville philippe
+lemanceau antonio bispo abad chabbi 
+
+pierre alain maron and lionel ranjard 
+ inra umr agroécologie plateforme genosol 
+dijon france 
+ inra umr agroécologie dijon france 
+ equipe r d santé environnement campus pasteur 
+genoscreen lille france 
+ service agriculture et forêt ademe angers cedex
+ france 
+ inra urp f lusignan france 
+
+summary
+
+this study was designed to assess the influence of
+three soil dna extraction procedures namely the
+international organization for standardization iso 
+ gns gii and modified iso procedure isom 
+on the taxonomic diversity and composition of soil
+bacterial and fungal communities the efficacy of
+each soil dna extraction method was assessed
+on five soils differing in their physico chemical
+characteristics and land use a meta barcoded
+pyrosequencing approach targeting s and s
+rrna genes was applied to characterize soil microbial
+communities we first observed that the gns gii
+introduced some heterogeneity in bacterial composi 
+tion between replicates then although no major dif 
+ference was observed between extraction procedures
+for soil bacterial diversity we saw that the number of
+fungal genera could be underestimated by the iso 
+ in particular this procedure underestimated
+
+the detection in several soils of the genera
+cryptococcus pseudallescheria hypocrea and
+plectosphaerella which are of ecological interest 
+based on these results we recommend using the
+isom method for studies focusing on both the bacte 
+rial and fungal communities indeed the isom pro 
+cedure provides a better evaluation of bacterial and
+fungal communities and is limited to the modification
+of the mechanical lysis step of the existing iso 
+standard 
+
+introduction
+
+during the last three decades the challenge to better
+characterize soil microbial communities has led to the
+development of culture independent techniques that are
+well suited to deciphering the huge diversity of soil
+microbes as they provide access to previously hidden
+genetic resources martin laurent et al these
+methods are based essentially on the direct extraction
+and characterization of soil dna in this context most
+efforts have been devoted to optimizing the soil dna
+extraction procedure in order to obtain suitable repre 
+sentative extracts for quantitative and qualitative charac 
+terization of the microbial communities roesch et al 
+ rajendhran and gunasekaran terrat et al 
+ these efforts led to the development of various
+homemade dna extraction protocols and even commer 
+cial kits zhou et al martin laurent et al 
+delmont et al a terrat et al however each
+method had its own advantages and potential biases 
+leading to variations in dna representativeness and con 
+sequently to effects on soil microbial assessments 
+making comparisons between studies impossible zhou
+et al martin laurent et al terrat et al 
+ to deal with this issue delmont and colleagues
+ b suggested that several soil sampling and dna
+extraction strategies should be combined to access
+the whole soil microbial metagenome in terms of species
+richness however this approach is clearly not applic 
+able or relevant to wide scale studies where time and
+cost constraints make the need to use a standardized
+single dna extraction procedure obvious dequiedt et al 
+ 
+
+received april revised july accepted july 
+ for correspondence e mail ranjard dijon inra fr tel 
+ fax †these authors contributed
+equally to the work 
+microbial biotechnology – 
+doi 
+funding information this work involving technical facilities at the
+genosol platform of the infrastructure anaee france received a
+grant from the french state through the national agency for research
+under the program ‘investments for the future’ reference anr 
+inbs as well as grants from the regional council of burgundy 
+this work was also supported by the european commission within
+ecofinders project fp 
+
+bs bs banner
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology 
+this is an open access article under the terms of the creative commons attribution license which permits use distribution and
+reproduction in any medium provided the original work is properly cited 
+
+mailto ranjard dijon inra fr
+http creativecommons org licenses by 
+
+
+in this context a standardized ‘iso soil quality –
+method to directly extract dna from soil’ was developed
+and validated by independent laboratories to efficiently
+recover bacterial dna from various soil samples philippot
+et al petric et al however archaeal and
+fungal groups also constitute a significant proportion of
+the soil microbial biodiversity and are key organisms for
+soil processes in a previous study we tested the sensi 
+tivity of the iso method for the detection of these
+groups plassart et al briefly three different pro 
+cedures were compared on five soils with contrasting
+land use and physico chemical properties i the iso 
+ standard ii a modified iso procedure isom 
+that includes a particular mechanical lysis step a
+fastprep® lysis step instead of the recommended
+bead beating using a mini bead beater cell disruptor and
+ iii a custom procedure called gns gii which also
+includes the fastprep® mechanical lysis step this
+evaluation revealed that the iso procedure yielded
+significantly less overall microbial dna corroborated by
+measurement of the bacterial archaeal and fungal den 
+sities by real time pcr whatever the soil is plassart
+et al furthermore the analysis of fungal commu 
+nities’ structure with terminal restriction fragment length
+polymorphism t rflp patterns showed that the two
+non iso methods clearly outperformed the iso 
+method leading to more significant variations because of
+soil type and management finally one major conclusion
+of this study was that the non iso methods provided a
+better representativeness of soil dna mainly due to use of
+the fastprep® bead beating system achieving lysis of
+the majority of cells with tough walls and particularly
+fungal cells more efficiently than the usual bead beating
+ ranjard et al rousk et al yarwood et al 
+ dequiedt et al plassart et al never 
+theless this comparative study was carried out using
+classical molecular approaches i e quantitative pcr
+and community dna fingerprinting through t rflp 
+nowadays high throughput sequencing technologies
+ e g or illumina are readily available to assess
+microbial diversity with greater precision by obtaining hun 
+dreds of thousands of ribosomal rrna gene sequences
+from a single metagenomic dna roesch et al will
+et al maron et al nonetheless the dna
+extraction techniques previously described has never
+been evaluated with these new technologies in terms of
+efficiency and representativeness despite their wide 
+spread use in soil microbial diversity studies 
+
+in the present study the same three dna extraction
+procedures coupled with high throughput sequencing
+technology were evaluated to identify a technique suit 
+able to characterize the diversity and composition of
+bacterial and fungal communities simultaneously the
+guideline standard iso the custom gns gii and a
+
+custom dna extraction procedure derived from the iso 
+ standard isom were used to extract template
+dna from five different soils with contrasting land use and
+physico chemical properties plassart et al a
+meta barcoded pyrosequencing technique targeting the
+ s and s rrna genes was used to characterize bac 
+terial and fungal communities’ richness based on the
+number of operational taxonomic units otus and
+genera detected diversity using shannon and evenness
+indices and composition taxonomic affiliation of otus 
+we also measured the phylogenetic distance between
+sets of otus in a phylogenetic tree using the unifrac
+method to determine whether bacterial and fungal com 
+munity compositions were influenced by the dna extrac 
+tion procedures 
+
+results and discussion
+
+since the development of molecular tools to study soil
+microbial communities it has been largely demonstrated
+that the characterization of these communities might
+be influenced by the method used to recover soil
+metagenomic dna delmont et al b terrat et al 
+ it is consequently essential to test the representa 
+tiveness of soil dna extraction methods in terms of bac 
+terial and fungal organisms which constitute a major part
+of the soil microbial community here the efficacy of three
+soil dna extraction methods iso isom and gns 
+gii was assessed on five soils with different physico 
+chemical characteristics and land use table using a
+meta barcoded pyrosequencing technique targeting bac 
+terial and fungal communities this approach was chosen
+because it is a recently developed powerful technique
+widely used for detailed phylogenetic and taxonomic
+surveys of microbial communities roesch et al 
+rousk et al will et al lienhard et al 
+ a 
+
+influence of soil dna extraction procedure on bacterial
+richness and diversity
+
+bacterial rrna gene sequences were successfully ampli 
+fied by pcr and sequenced from all soils using each of
+the three dna extraction procedures table after
+bioinformatic filters high quality reads per sample
+were kept analyzed and taxonomically identified using a
+curated database derived from silva quast et al 
+ table rarefaction curves of bacterial richness dem 
+onstrated that our sequencing depth allowed accurate
+description of the bacterial community diversity in each
+soil sample studied supporting information fig s 
+
+no significant differences were found between the three
+dna extraction methods for the number of bacterial
+genera detected the number of bacterial otus or for the
+
+ s terrat et al 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+shannon and evenness indices in any of the soils
+ table this means that neither the mechanical lysis
+step using a mini bead beater cell disruptor or the
+fastprep® nor the complete dna extraction pro 
+cedures had a significant effect on the evaluation of bac 
+terial diversity parameters by meta barcoding for the wide
+range of soil types and land uses tested table 
+
+on the other hand soil type did have an impact on
+bacterial richness and diversity indices as significant dif 
+ferences were highlighted between soils whatever the
+dna extraction procedure table indeed f and l soils
+ respectively the sandy acidic forest soil and the loamy
+grassland soil were significantly different p 
+based on the number of otus shannon and evenness
+indices more precisely the f soil had the lowest richness
+ number of otus and genera and diversity with for
+example a shannon index of about against for the
+l soil table this observation can be linked to particu 
+lar physico chemical characteristics because the f soil
+had a ph of and a c n ratio of dequiedt et al 
+ lienhard et al b several studies have high 
+
+lighted that bacterial richness had a positive correlation
+with soil ph fierer and jackson lauber et al 
+ terrat et al and a negative correlation with
+c n ratio kuramae et al indeed a high c n ratio
+is generally typical of a large recalcitrant organic matter
+content that is unfavourable for bacterial growth boer
+et al however the sandy crop soil r also har 
+bouring a c n ratio of the same magnitude holds a
+greater richness of otus and genera than the forest soil
+ table this might partly be due to either the high sand
+content table which increases soil microscale hetero 
+geneity and stimulates the bacterial richness chau et al 
+ or an alkaline ph favouring bacterial richness
+ fierer and jackson lauber et al terrat
+et al 
+
+altogether our results confirmed that bacterial diversity
+and richness can be strongly linked to soil characteristics
+and especially soil ph organic matter and texture fierer
+and jackson lauber et al kuramae et al 
+ terrat et al lienhard et al b all dna
+extraction procedures tested gave enough and similar
+
+table origin physical and chemical parameters of the five french soils used 
+
+soil collection site origin clay
+fine
+loam
+
+coarse
+loam
+
+fine
+sand
+
+coarse
+sand
+
+organic
+carbon total n c n caco ph
+
+c agricultural site
+ champdotre burgundy 
+
+crop soil 
+
+e inra experimental site
+ epoisses burgundy 
+
+crop soil 
+
+f forest observatory plot
+ la mailleraye sur seine normandy 
+
+forest soil 
+
+l inra experimental site soere acbb
+ lusignan poitou 
+
+grassland 
+
+r inra experimental site
+ pierrelaye ile de france 
+
+crop soil 
+
+clay fine loam coarse loam fine sand and coarse sand organic carbon total n and calcium carbonate are given in mg g− originally published
+and extracted from plassart et al 
+
+table bacterial richness and diversity indices of the five soils used 
+
+number of genera otus of similarity shannon evenness
+
+c gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+e gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+f gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+l gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+r gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+the means were calculated with three replicates per soil c e f l and r and procedure iso isom and gns gii and the standard errors of
+the means are indicated in parentheses significant differences between soils for the same procedure are indicated with numbers – – 
+
+meta barcoded evaluation of the iso standard 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+sensitivity to detect changes between indigenous bacte 
+rial communities of soils differing by their characteristics
+and management these data also support the idea that a
+study limited to these diversity indices could not be suffi 
+cient to determine whether a dna extraction procedure is
+more powerful than another to describe soil bacterial com 
+munities and that it might be completed by a more
+detailed bacterial community composition analysis 
+
+influence of soil dna extraction procedure on fungal
+richness and diversity
+
+using the same dna extracts as for the bacterial analysis
+ three dna extraction procedures applied to five soils 
+ s rrna gene sequences were successfully amplified
+
+and sequenced from all samples table homogenized
+high quality reads per sample were then analyzed
+using taxonomically dependent and independent analyses
+to determine fungal richness and diversity table as for
+bacteria the rarefaction curves of fungal richness con 
+firmed that the number of high quality reads allowed accu 
+rate description of the fungal community diversity in each
+soil sample studied supporting information fig s 
+
+with regard to the number of detected genera the
+numbers of otus and the computed indices shannon
+and evenness significant differences among the three
+dna extraction procedures were recorded only for the l
+soil table in which a lower number of fungal genera
+was significantly detected using the iso procedure
+ p moreover in all the other soils but f the
+
+table bioinformatic parameters and databases used in the analysis of bar coded pyrosequencing results 
+
+step parameter
+
+targeted rdna gene
+
+ s s
+
+preprocessing length threshold 
+number of ambiguities tolerated 
+detection of proximal primer sequence complete and perfect complete and perfect
+detection of distal primer sequence no perfect but potentially incomplete
+
+clustering chosen level of similarity 
+ignoring differences in homopolymer lengths yes yes
+
+filtering chosen clustering similarity threshold 
+used taxonomic database silva r silva r 
+chosen taxonomic level phylum phylum
+similarity or confidence threshold 
+
+homogenization high quality reads kept for each sample 
+taxonomy used taxonomic database silva r silva r 
+
+method or tool of comparison usearch megablast
+similarity or confidence threshold 
+
+analysis chosen level of similarity 
+ignoring differences in homopolymer lengths yes yes
+computation of a unifrac distance matrix yes yes
+
+table fungal richness and diversity indices of the five french soils used 
+
+number of genera otus of similarity shannon evenness
+
+c gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+e gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+f gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+l gns ± a ± ± ± 
+iso ± b ± ± ± 
+isom ± a ± ± ± 
+
+r gns ± ± ± ± 
+iso ± ± ± ± 
+isom ± ± ± ± 
+
+the means were calculated with three replicates per soil c e f l and r and procedure iso isom and gns gii and the standard errors of
+the means are indicated in parentheses significant differences between procedures for the same soil are indicated by letters a b and significant
+differences between soils for the same procedure are indicated with numbers – – 
+
+ s terrat et al 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+number of genera recovered followed the same trend 
+with lower values detected for the iso than what was
+observed for the two other procedures these genera
+missed by the iso demonstrate that fungal diversity can
+be skewed using this procedure as the main difference
+among the iso and the two other procedures is the soil 
+grinding step we can hypothesize that the traditional
+bead beating system is not sufficient to lyze some fungal
+cells indeed many fungi have cell walls that impede lysis
+and the recovery of nucleic acids fredricks et al 
+the mechanical lysis step of the isom and gns gii pro 
+cedures was strongly optimized in terms of type and size
+of the glass beads as well as in terms of the strength and
+duration of grinding using the fastprep® terrat et al 
+ 
+
+when fungal diversity was compared between soils 
+significant differences in the shannon and evenness
+indices p and in the number of otus p 
+were observed whatever the dna extraction procedure
+ table more precisely the acidic forest soil f har 
+boured the lowest richness and diversity and the alkaline
+sandy crop soil r the highest table these differences
+could be explained by several soil physico chemical
+parameters namely their contrasting ph against
+ but also their c n ratio against table 
+although extreme environments like acidic soils may
+provide suitable biotopes for fungi baker and banfield 
+ butinar et al the lowest richness and diver 
+sity was detected in the acidic forest soil f indicating that
+other physico chemical parameters can limit fungal com 
+munities thus a high c n ratio is typical of soil systems
+with a low rate of organic matter degradation because of
+the presence of a high proportion of recalcitrant organic
+matter kuramae et al strickland and rousk
+ demonstrated in a previous study that the optimal
+c n for fungi is expected to range from to i e closer
+to the c n of the sandy crop soil r than to the ratio of the
+forest soil f which has a higher carbon content focusing
+on the number of fungal genera recovered by the three
+dna extraction procedures only the iso allowed the
+detection of significant differences between soils this
+finding has to be seriously questioned because we dem 
+onstrated in the previous paragraph that the iso under 
+estimates the number of fungal genera 
+
+influence of soil dna extraction procedure on bacterial
+community composition
+
+the bacterial community composition in the five soils was
+compared by computing the unifrac distances on a
+phylogenetic tree lozupone and knight in addi 
+tion to analyzing the phylogenetic distances we also com 
+pared the bacterial communities’ compositions based on
+the relative abundance of the bacterial genera detected in
+
+the samples fig due to the size and variability of the
+genus table only the most highly represented bacterial
+genera in the samples i e only those for which the sum of
+the relative abundances of the genus in all samples was
+higher than were identified and mapped 
+
+the clustering of soil bacterial communities indicated
+that replicates from the same soil were more similar to
+each other than replicates from other soils whatever the
+dna extraction procedure fig this observation dem 
+onstrated the good reproducibility between replicates for
+each type of soil dna extraction procedure even if sur 
+prisingly two gns gii replicates from soils l and r
+seemed to be erroneously clustered more precisely two
+main clusters were identified sorting the samples from
+the acidic forest soil f which hosted a very different
+bacterial composition apart from the four other soils
+ fig four sub clusters could also be defined each
+one grouping samples from each of the four soils and
+confirming that the studied soils hosted distinct bacterial
+communities as already demonstrated by dna finger 
+printing approach plassart et al this observation
+demonstrated the good reproducibility between replicates
+for iso and isom procedures however even if clustering
+revealed that soil type had a more important effect on
+bacterial composition than the dna extraction procedure 
+it is interesting to note that this latter could induce signifi 
+cant variations fig for all soils except the forest soil
+f the bacterial diversity profiles resulting from the
+isom and gns gii dna extraction procedures grouped
+together i e were not discriminated by the unifrac analy 
+sis but were different from those obtained with the iso 
+ procedure fig these observations confirm the
+influence of soil dna extraction procedure on soil bacte 
+rial composition and especially the clear distinction
+between iso and the two other procedures poten 
+tially explained by differences in the soil grinding methods
+ as discussed above for fungal richness and diversity 
+these differences were also confirmed by a more detailed
+analysis of bacterial composition fig subcells a–c 
+for example the genus brevundimonas was more
+detected p with the iso procedure than
+with the two others in the clayey crop soil c fig 
+subcell a as were the genera massilia pseudospirillum 
+herbaspirillum enterobacter thermomonas and
+lysobacter similarly the genus polaromonas was more
+detected in the sandy crop soil r fig subcell c but
+not in the other soils on the contrary the genera
+clostridium nitrosospira microvirga and pseudonocardia
+were respectively less detected p with iso 
+than with the isom and gns gii procedures in soils
+c e l and r fig subcell b because the genera
+clostridium or pseudonocardia are known to be poten 
+tially recalcitrant to mechanical lysis because of their
+spore forming ability kaewkla and franco yang
+
+meta barcoded evaluation of the iso standard 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+ s terrat et al 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+and ponce their lower detection with the iso 
+ procedure may be explained by the less efficient
+mechanical lysis bead beating of this procedure com 
+pared with the two others which are based on
+fastprep® grinding plassart et al terrat et al 
+ 
+
+influence of soil dna extraction procedure on fungal
+community composition
+
+as with the bacterial communities the fungal commu 
+nities’ composition in all soils was compared by using the
+unifrac distances and determining the most highly rep 
+resented fungal genera in the samples fig the
+unifrac dendrogram revealed a better discrimination of
+fungal composition between soils than between dna
+extraction methods demonstrating a good reproducibility
+between replicates for all procedures fig moreover 
+as for the bacterial communities the same clustering
+organization was obtained for fungal communities reveal 
+ing a significant distinction between the forest soil and the
+other soils this observation corroborates other studies in
+which soil characteristics e g ph texture c n were
+shown to impact fungal community diversity and compo 
+sition rousk et al strickland and rousk 
+mcguire et al the fungal populations in this acidic
+soil clearly differed from those of the other soils with a
+dominance of the basidiomycota phylum e g genera
+sebacina boletus pleurotus or hericium which is
+common in forest soils buée et al 
+
+for soils f l and r the patterns of the fungal commu 
+nities resulting from the iso procedure were dis 
+criminated from those obtained with the two non iso
+protocols fig this observation evidenced that in
+these soils the fungal community compositions detected
+with the iso differed from those detected with the
+non iso procedures more precisely in the loamy grass 
+land soil l several genera e g knufia and diversispora 
+were more detected p with the iso protocol
+ fig subcell a however this positive impact of the
+iso procedure was only visible for this particular
+soil on the contrary the genera myrothecium 
+cryptococcus glomerella and plectosphaerella were
+respectively less detected p with the iso 
+protocol than with the other methods in soils c e l and
+r fig subcell b as pseudallescheria in soils c e and
+r and hypocrea in soils e and l p this would be
+of great importance in ecological studies as some of these
+
+genera e g cryptococcus pseudallescheria hypocrea
+and plectosphaerella are saprotrophic fungi known to
+play key roles in organic matter turnover martínez et al 
+ jaklitsch et al buée et al mcguire
+et al moreover the genus pseudallescheria 
+which has been found in compost amended or heavily
+hydrocarbon polluted soils can be used as an indicator of
+soil disturbance april et al therefore the iso 
+induced underrepresentation of these genera could lead
+to a misinterpretation of the functioning of an ecosystem 
+
+this difference in community composition is together
+with the lower number of fungal genera recovered with the
+iso described earlier a clue indicating that the iso pro 
+cedure may not be the most appropriate to investigate soil
+fungal communities besides these differences are
+thought to be due to the less efficient mechanical lysis of
+soil with the iso procedure the classical system
+seems not to break open as many cells as the
+fastprep® bead beating system particularly in the
+case of fungal cells with tough walls this is why the isom
+and gns gii methods are thought to be more efficient at
+extracting fungal dna from different types of soils this
+conclusion strengthens the idea that the physical lysis
+step is of crucial importance in a soil dna extraction
+procedure feinstein et al i̇nceoǧlu et al 
+delmont et al b this finding is in agreement with
+previous comparisons of these dna extraction pro 
+cedures based on quantitative pcr and community dna
+fingerprinting plassart et al 
+
+conclusion
+
+in the context of modern microbial ecology where inves 
+tigations to describe the whole soil microbiota in numer 
+ous samples are carried out on a very large scale the
+importance of using a single standardized soil dna
+extraction procedure is paramount among the three dna
+extraction procedures evaluated in this study the gns gii
+introduced some heterogeneity in bacterial composition
+between replicates and the iso dna caused an
+underrepresentation of several fungal groups of ecologi 
+cal interest therefore the isom procedure provides a
+better snapshot of bacterial and fungal communities 
+
+experimental procedures
+
+soil samples
+
+five soils were chosen for their contrasting land use and
+physico chemical characteristics table plassart et al 
+
+fig heat map comparison of the dominant bacterial genera detected in soils according to extraction procedures the five different soils
+ c e f l r were organized based on the upgma dendrogram of unifrac distances weighted and normalized between soil samples
+according to the three dna extraction procedures iso gns gii and isom the legend shows the z scores relative abundances are
+expressed as median centred z scores between all samples and the colours scaled to standard deviations subcells a b and c in the heat
+map have been highlighted by yellow squares and numbered to identify significant differences in the relative abundance of particular bacterial
+genera according to dna extraction procedure 
+◀
+
+meta barcoded evaluation of the iso standard 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+ s terrat et al 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+ all necessary permits were obtained from the respec 
+tive land owners inra ademe and private owners for
+each soil three independent replicates were collected at a
+depth of cm fully described in plassart et al 
+physico chemical characteristics ph texture organic
+carbon total n and caco were analyzed using interna 
+tional standard procedures by the soil analysis laboratory at
+inra arras france http www lille inra fr las 
+
+soil dna extraction purification and quantification
+
+three different procedures were tested the gns gii proto 
+col the iso standard and the isom all three pro 
+cedures are adapted to extract dna from g of soil dry
+weight and have already been described by plassart and
+colleagues 
+
+iso procedure this protocol is a version of the iso 
+ standard martin laurent et al petric et al 
+ soil was added to a bead beating tube containing g
+of glass beads of μm diameter and eight glass beads of
+ mm diameter each soil sample was mixed with a solution
+of mm tris hcl ph mm edta ph mm
+nacl w v polyvinylpyrrolidone g mol− and 
+ w v sodium dodecyl sulfate the tubes were then shaken for
+ s at r p m in a mini bead beater cell disruptor mikro 
+dismembrator braun biotech international then incubated
+for min at °c and centrifuged at g for min after
+removing the supernatant proteins were precipitated with
+ volume of m sodium acetate prior to centrifugation
+ g for min at °c finally nucleic acids were pre 
+cipitated by adding volume of ice cold isopropanol the
+dna pellets obtained after centrifugation g for min
+at °c were washed with ethanol full details are
+described in martin laurent et al philippot et al 
+ petric et al 
+
+isom procedure this protocol is a modified version of
+iso standard as it includes a different mechanical lysis
+step fastprep® bead beating instead of the recommended
+bead beating soil was added to ml of falcon tube con 
+taining g of mm diameter ceramic beads g of
+ μm diameter silica beads and four glass beads of mm
+diameter each soil sample was mixed with a solution of
+ mm tris hcl ph mm edta ph mm
+nacl w v polyvinylpyrrolidone g mol− and 
+ w v sodium dodecyl sulfate the tubes were then shaken for
+ × s at m sec− in a fastprep® mp biomedicals ny 
+usa before incubation for min at °c and centrifugation
+at g for min after removing the supernatant proteins
+were precipitated with volume of m sodium acetate
+prior to centrifugation g for min at °c finally 
+nucleic acids were precipitated by adding volume of ice 
+
+cold isopropanol the dna pellets obtained after centrifuga 
+tion g for min at °c were washed with 
+ethanol 
+
+gns gii procedure this dna extraction procedure was
+initially developed and optimized by the genosol platform
+ terrat et al soil was added to ml of falcon tube
+containing g of mm diameter ceramic beads g of
+ μm diameter silica beads and four glass beads of mm
+diameter each soil sample was mixed with a solution of
+ mm tris hcl ph mm edta ph mm
+nacl w v and w v sodium dodecyl sulfate the
+tubes were then shaken for × s at m sec− in a
+fastprep® mp biomedicals ny usa before incubation
+for min at °c and centrifugation at g for min at
+ °c after removing the supernatant proteins were precipi 
+tated with volume of m sodium acetate prior to cen 
+trifugation g for min at °c finally nucleic acids
+were precipitated by adding volume of ice cold isopropanol 
+the dna pellets obtained after centrifugation g for
+ min at °c were washed with ethanol 
+
+purification and quantification procedure as the dna puri 
+fication step is not part of the evaluated protocols to avoid
+additional biases among the three procedures and only
+compare the extraction step all crude soil dna extracts
+were purified and quantified using the same procedure
+ ranjard et al plassart et al briefly μl
+aliquots of crude dna extracts were loaded onto pvpp
+ polyvinylpolypyrrolidone microbiospin minicolumns bio 
+rad and centrifuged for min at g and °c eluates
+were then collected and purified for residual impurities using
+the geneclean turbo kit mp biomedicals ny usa purified
+dna extracts were quantified using the picogreen staining
+kit molecular probes paris france 
+
+pyrosequencing of s and s rrna gene sequences
+
+microbial diversity was determined for each biological repli 
+cate and for each soil c f e l and r by 
+pyrosequencing of ribosomal genes a s rrna gene frag 
+ment with sequence variability and appropriate size about
+ bases for pyrosequencing was amplified using the
+primers f ′ cagcmgcygcngtaanac ′ and r 
+ ′ ccgycaattcmtttragt ′ supporting information
+table s for in silico match analysis terrat et al for
+each sample ng of dna were used for a μl of pcr
+conducted under the following conditions °c for min 
+cycles of s at °c °c for s and °c for min 
+followed by min at °c the pcr products were purified
+using a minelute gel extraction kit qiagen courtaboeuf 
+france and quantified using the picogreen staining kit
+ molecular probes paris france similarly an s rrna
+gene fragment of about bases was amplified using the
+
+fig heat map comparison of the dominant fungal genera detected in soils according to extraction procedures the five different soils
+ c e f l r were organized based on the upgma dendrogram of unifrac distances weighted and normalized between soil samples
+according to the three dna extraction procedures iso gns gii and isom the legend shows the z scores relative abundances are
+expressed as median centred z scores between all samples and the colours scaled to standard deviations subcells a and b in the heat map
+have been highlighted by yellow squares and numbered to identify significant differences in the relative abundance of particular fungal genera
+according to dna extraction procedure 
+◀
+
+meta barcoded evaluation of the iso standard 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+http www lille inra fr las
+
+
+primers fr ′ anccattcaatcggtant ′ and ff 
+ ′ cgataacgaacgagacct ′ prevost boure et al 
+ under the following pcr conditions °c for min 
+cycles of min at °c °c for min and °c for min 
+followed by min at °c a second pcr of nine cycles was
+then conducted twice for each sample under similar pcr
+conditions with purified pcr products and base pair multi 
+plex identifiers added to the primers at ′ position to specifi 
+cally identify each sample and avoid pcr bias finally the
+duplicate pcr products were pooled purified and quantified
+as previously described pyrosequencing was then carried
+out on a gs flx titanium roche sequencing system 
+by genoscreen lille france 
+
+bioinformatic analysis of s and s rrna
+gene sequences
+
+bioinformatic analyses were done using the gns pipe ini 
+tially developed by the genosol platform inra dijon 
+france terrat et al and recently optimized the
+parameters chosen for each bioinformatic step can be
+found in table first all the s and s raw reads were
+sorted according to the multiplex identifier sequences the
+raw reads were then filtered and deleted based on i their
+length ii their number of ambiguities ns and iii their
+primer s sequence s a perl program was then applied for
+rigorous dereplication i e clustering of strictly identical
+sequences the dereplicated reads were then aligned
+using infernal alignment cole et al and clustered
+into otu using a perl program that groups rare reads to
+abundant ones and does not count differences in
+homopolymer lengths a filtering step was then carried out
+to check all single singletons reads detected only once and
+not clustered which might be artefacts such as pcr chi 
+meras based on the quality of their taxonomic assign 
+ments finally in order to compare the data sets efficiently
+and avoid biased community comparisons the reads
+retained were homogenized by random selection closed to
+the lowest dataset 
+
+the retained high quality reads were used for i taxonomy 
+independent analyses determining several diversity and rich 
+ness indices using the defined otu composition at the genus
+level and ii taxonomy based analysis using similarity
+approaches against dedicated reference databases from
+silva quast et al see table the raw data sets
+are available on the european bioinformatics institute data 
+base system under project accession number prjeb 
+
+statistical analyses
+
+the effects of the dna extraction procedure on bacterial and
+fungal diversities were tested by analysis of variance multi 
+ple paired comparisons the effects of the dna extraction
+procedure on bacterial and fungal community compositions
+were assessed by kruskal–wallis tests all statistical analy 
+ses were performed under xlstat software addinsoft® the
+bacterial and fungal communities from all samples were also
+compared by using unifrac lozupone and knight 
+based on the s and s phylogenetic trees computed with
+fasttree price et al 
+
+acknowledgements
+
+thanks to the national research infrastructure ‘agro 
+écosystèmes cycles biogéochimique et biodiversité
+ soere acbb http www soere acbb com fr for provid 
+ing support during the sampling campaign and making
+available the physico chemical soil properties data the
+funders national agency for research through ‘invest 
+ments for the future’ program regional council of bur 
+gundy and european commission had no role in the
+study design data collection and analysis decision to
+publish or preparation of the manuscript 
+
+conflict of interest
+
+none declared 
+
+references
+
+april t m abbott s p foght j m and currah r s 
+degradation of hydrocarbons in crude oil by the ascomy 
+cete pseudallescheria boydii microascaceae can j
+microbiol – 
+
+baker b j and banfield j f microbial communities
+in acid mine drainage fems microbiol ecol – 
+
+boer w d folman l b summerbell r c and boddy l 
+ living in a fungal world impact of fungi on soil
+bacterial niche development fems microbiol rev 
+ – 
+
+buée m reich m murat c morin e nilsson r h uroz 
+s and martin f pyrosequencing analyses of
+forest soils reveal an unexpectedly high fungal diversity 
+new phytol – 
+
+butinar l santos s spencer martins i oren a and
+gunde cimerman n yeast diversity in hypersaline
+habitats fems microbiol lett – 
+
+chau j f bagtzoglou a c and willig m r the
+effect of soil texture on richness and diversity of bacterial
+communities environ forensics – 
+
+cole j r wang q cardenas e fish j chai b farris 
+r j et al the ribosomal database project 
+improved alignments and new tools for rrna analysis 
+nucleic acids res d –d 
+
+delmont t o robe p cecillon s clark i m 
+constancias f simonet p et al a accessing the
+soil metagenome for studies of microbial diversity appl
+environ microbiol – 
+
+delmont t o robe p clark i simonet p and vogel 
+t m b metagenomic comparison of direct and indi 
+rect soil dna extraction approaches j microbiol methods
+ – 
+
+dequiedt s saby n p a lelievre m jolivet c 
+thioulouse j toutain b et al biogeographical
+patterns of soil molecular microbial biomass as influenced
+by soil characteristics and management glob ecol
+biogeogr – 
+
+feinstein l m sul w j and blackwood c b 
+assessment of bias associated with incomplete extraction
+of microbial dna from soil appl environ microbiol 
+ – 
+
+ s terrat et al 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+http www soere acbb com fr 
+
+
+fierer n and jackson r b the diversity and bio 
+geography of soil bacterial communities proc natl acad
+sci usa – 
+
+fredricks d n smith c and meier a comparison
+of six dna extraction methods for recovery of fungal dna
+as assessed by quantitative pcr comparison of six dna
+extraction methods for recovery of fungal dna as
+assessed by quantitative pcr j clin microbiol –
+ 
+
+i̇nceoǧlu Ö hoogwout e f hill p and van elsas j d 
+ effect of dna extraction method on the apparent
+microbial diversity of soil appl environ microbiol –
+ 
+
+jaklitsch w m komon m kubicek c p and druzhinina 
+i s hypocrea voglmayrii sp nov from the austrian
+alps represents a new phylogenetic clade in hypocrea 
+trichoderma mycol – 
+
+kaewkla o and franco c m m pseudonocardia
+eucalypti sp nov an endophytic actinobacterium with a
+unique knobby spore surface isolated from roots of a
+native australian eucalyptus tree int j syst evol microbiol
+ – 
+
+kuramae e e yergeau e wong l c pijl a s van veen 
+j a and kowalchuk g a soil characteristics more
+strongly influence soil bacterial communities than land use
+type fems microbiol ecol – 
+
+lauber c l strickland m s bradford m a and fierer n 
+ the influence of soil properties on the structure of
+bacterial and fungal communities across land use types 
+soil biol biochem – 
+
+lienhard p terrat s mathieu o levêque j 
+prévost bouré n c nowak v et al a soil micro 
+bial diversity and c turnover modified by tillage and
+cropping in laos tropical grassland environ chem lett 
+ – 
+
+lienhard p tivet f chabanne a dequiedt s lelievre 
+m sayphoummie s et al b no till and cover crops
+shift soil microbial abundance and diversity in laos tropical
+grasslands agron sustain dev – 
+
+lozupone c and knight r unifrac a new
+phylogenetic method for comparing microbial communities 
+appl environ microbiol – 
+
+mcguire k l payne s g palmer m i gillikin c m 
+keefe d kim s j et al digging the new york
+city skyline soil fungal communities in green roofs and city
+parks plos one e 
+
+maron p a mougel c and ranjard l soil micro 
+bial diversity methodological strategy spatial overview and
+functional interest c r biol – 
+
+martínez m lópez solanilla e rodríguez palenzuela p 
+carbonero p and díaz i inhibition of plant 
+pathogenic fungi by the barley cystatin hv cpi gene icy 
+is not associated with its cysteine proteinase inhibitory
+properties mol plant microbe interact – 
+
+martin laurent f philippot l hallet s chaussod r 
+germon j c soulas g and catroux g dna
+extraction from soils old bias for new microbial diversity
+analysis methods appl environ microbiol – 
+
+petric i philippot l abbate c bispo a chesnot t 
+hallin s et al inter laboratory evaluation of
+the iso standard ‘soil quality – method to directly
+
+extract dna from soil samples’ j microbiol methods 
+ – 
+
+philippot l abbate c bispo a chesnot t hallin s 
+lemanceau p et al soil microbial diversity an
+iso standard for soil dna extraction j soils sediments 
+ – 
+
+plassart p terrat s thomson b griffiths r dequiedt 
+s lelievre m et al evaluation of the iso stand 
+ard dna extraction procedure for assessing soil
+microbial abundance and community structure plos one
+ e 
+
+prevost boure n c christen r dequiedt s mougel c 
+lelievre m jolivet c et al validation and appli 
+cation of a pcr primer set to quantify fungal communities
+in the soil environment by real time quantitative pcr 
+plos one e 
+
+price m n dehal p s and arkin a p fasttree –
+approximately maximum likelihood trees for large align 
+ments plos one e 
+
+quast c pruesse e yilmaz p gerken j schweer t 
+yarza p et al the silva ribosomal rna gene
+database project improved data processing and web 
+based tools nucleic acids res d –d 
+
+rajendhran j and gunasekaran p strategies for
+accessing soil metagenome for desired applications 
+biotechnol adv – 
+
+ranjard l lejon d p h mougel c schehrer l 
+merdinoglu d and chaussod r sampling strat 
+egy in molecular microbial ecology influence of soil sample
+size on dna fingerprinting analysis of fungal and bacterial
+communities environ microbiol – 
+
+ranjard l dequiedt s jolivet c saby n p a 
+thioulouse j harmand j et al biogeography of
+soil microbial communities a review and a description of
+the ongoing french national initiative agron sustain dev
+ – 
+
+roesch l f w fulthorpe r r riva a casella g 
+hadwin a k m kent a d et al pyrosequencing
+enumerates and contrasts soil microbial diversity isme j
+ – 
+
+rousk j baath e brookes p c lauber c l lozupone 
+c caporaso j g et al soil bacterial and fungal
+communities across a ph gradient in an arable soil isme
+j – 
+
+strickland m s and rousk j considering fungal 
+bacterial dominance in soils – methods controls and eco 
+system implications soil biol biochem – 
+
+terrat s christen r dequiedt s lelievre m nowak v 
+regnier t et al molecular biomass and
+metataxogenomic assessment of soil microbial commu 
+nities as influenced by soil dna extraction procedure 
+microb biotechnol – 
+
+terrat s dequiedt s horrigue w lelievre m cruaud 
+c saby n et al improving soil bacterial taxa 
+area relationships assessment using dna meta barcoding 
+heredity in press 
+
+will c thürmer a wollherr a nacke h herold n 
+schrumpf m et al horizon specific bacterial com 
+munity composition of german grassland soils as revealed
+by pyrosequencing based analysis of s rrna genes 
+appl environ microbiol – 
+
+meta barcoded evaluation of the iso standard 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+
+yang w w and ponce a validation of a clostridium
+endospore viability assay and analysis of greenland ices
+and atacama desert soils appl environ microbiol 
+ – 
+
+yarwood s bottomley p and myrold d soil micro 
+bial communities associated with douglas fir and red alder
+stands at high and low productivity forest sites in oregon 
+usa microb ecol – 
+
+zhou j bruns m a and tiedje j m dna recovery
+from soils of diverse composition appl environ microbiol
+ – 
+
+supporting information
+
+additional supporting information may be found in the
+online version of this article at the publisher’s web site 
+
+fig s rarefaction curves of bacterial and fungal otus
+detected in soils according to extraction procedures 
+table s detailed hit frequencies of the in silico analy 
+sis of the f r primer set for bacteria archaea and
+eukaryota 
+
+ s terrat et al 
+
+© the authors microbial biotechnology published by john wiley sons ltd and society for applied microbiology microbial
+biotechnology – 
+
+
+

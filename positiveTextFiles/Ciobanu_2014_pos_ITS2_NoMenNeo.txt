@@ -1,0 +1,1255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microorganisms persist at record depths in the subseafloor of the canterbury basin
+
+
+original article
+
+microorganisms persist at record depths in the
+subseafloor of the canterbury basin
+
+maria cristina ciobanu gaëtan burgaud alexis dufresne anja breuker 
+vanessa rédou sarah ben maamar frédéric gaboyer odile vandenabeele trambouze 
+julius sebastian lipp axel schippers philippe vandenkoornhuyse georges barbier 
+mohamed jebbar anne godfroy and karine alain 
+ université de bretagne occidentale ubo ueb iuem—umr laboratoire de microbiologie des
+environnements extrêmes lmee plouzané france cnrs iuem—umr lmee plouzané france 
+ ifremer umr lmee plouzané france université de brest ueb laboratoire universitaire de
+biodiversité et d’ecologie microbienne ea ifr sfr scinbios esiab plouzané france université
+de rennes i cnrs umr ecobio rennes france bundesanstalt für geowissenschaften und
+rohstoffe bgr hannover germany and organic geochemistry group department of geosciences
+and marum center for marine environmental sciences university of bremen bremen germany
+
+the subsurface realm is colonized by microbial communities to depths of meters below the
+seafloor m b sf but little is known about overall diversity and microbial distribution patterns at the
+most profound depths here we show that not only bacteria and archaea but also eukarya occur at
+record depths in the subseafloor of the canterbury basin shifts in microbial community
+composition along a core of nearly km reflect vertical taxa zonation influenced by sediment
+depth representatives of some microbial taxa were also cultivated using methods mimicking in situ
+conditions these results suggest that diverse microorganisms persist down to m b sf in the
+seafloor of the canterbury basin and extend the previously known depth limits of microbial evidence
+ i from to m b sf for eukarya and ii from to m b sf for bacteria 
+the isme journal – doi ismej published online january 
+subject category microbial population and community ecology
+keywords deep biosphere subsurface life eukaryote record depth
+
+introduction
+
+in addition to terrestrial and marine near surface
+habitats the deep biosphere is considered to be a
+third realm for microbial life subseafloor sediments
+provide a habitat for large numbers of microbial
+cells as revealed by cell counts parkes et al 
+or card fish schippers et al although
+recent data have shown that the global biomass in
+subseafloor sediments is smaller than given by
+earlier estimates the deep subseafloor biosphere
+still constitutes a large fraction � cells of
+earth’s living biomass kallmeyer et al 
+
+the subsurface microbiota is diverse and complex 
+hosting metabolically active communities down to
+depths of meters below the seafloor m b sf 
+as revealed by molecular metagenomic and meta 
+transcriptomic studies lipp et al roussel
+
+et al biddle et al pawlowski et al 
+ orsi et al a it harbors representatives
+from the three domains of life for example numerous
+endemic and or as yet uncultured archaea and
+bacteria for example inagaki et al orcutt
+et al in addition to bacterial endospores
+ lomstein et al protists and fungi belonging
+to eukarya schippers and neretin edgcomb
+et al orsi et al a b occurrence of
+capsid encoding organisms has also been confirmed
+ engelhardt et al although in subsurface
+sediment shallower than m b sf background
+molecular data on bacterial and archaeal lineages
+exists for example inagaki et al orcutt et al 
+ most deep subsurface microorganisms
+detected so far were refractory to cultivation sass
+and parkes the diversity of deeply buried
+microorganisms remains untapped as subseafloor
+prokaryotic culturability in most studies is o 
+of all microscopically detected cells d’hondt et al 
+ remarkably when wide enrichment collec 
+tions targeting different physiological groups such
+as fermenters sulfate reducers and methanogens
+were performed using different subseafloor
+sediments these often led to the isolation of the
+
+correspondence k alain laboratoire de microbiologie des
+environnements extrêmes lmee umr cnrs ubo ifremer 
+plouzané france 
+e mail karine alain univ brest fr
+ these authors contributed equally to this work 
+received august revised december accepted
+ december published online january 
+
+the isme journal – 
+ international society for microbial ecology all rights reserved 
+
+www nature com ismej
+
+http dx doi org ismej 
+mailto karine alain univ brest fr
+http www nature com ismej
+
+
+same few ‘generalist’ bacteria for example batzke
+et al in most cases the retrieved bacterial
+genera were adapted to a broader spectrum of
+environmental conditions for example broad tem 
+perature range for growth compared with their
+surface counterparts sass and parkes 
+
+so far within subseafloor sediments active
+bacteria have been identified down to m b sf 
+ bale et al active archaea down to
+ m b sf roussel et al and active micro 
+eukaryotes down to m b sf orsi et al a 
+but we are still eager to know the depth limit of the
+deep subsurface biosphere limits to microbial
+habitability in subseafloor sediments are set by a
+variety of physical and chemical parameters like
+temperature ph pressure salinity porosity avail 
+ability of energy nutrients and water and maybe
+also by age as there was water exchange within the
+sediment pores the present study site is not
+characterized by particularly extreme conditions
+but stands out from sites previously examined by
+its depth and low porosity the depth limit of the
+deep biosphere remains an important issue to place
+bounds on the volume of the subseafloor biosphere
+and to guide the search for deep life capabilities 
+adaptation and the role of microorganisms in global
+nutrient cycles we hypothesized that life could
+exist in even deeper sediments if pore space was
+sufficient 
+
+in this study we investigated the subsurface
+microbial communities from a core of m length
+collected in the canterbury basin m water
+depth off the coast of new zealand at site u 
+which was drilled during the integrated ocean
+drilling program iodp expedition with ds
+joides resolution our purpose was to investigate
+vertical distribution of microbial communities 
+abundance and evenness of taxa above and below
+ m b sf depth we developed a highly stringent
+massive parallel tagged amplicon sequencing of
+ s– s hypervariable regions of small subunit
+ ssu rrna gene supplementary figures s and
+s supplementary tables s –s coupled with cell
+counts real time pcr phylogenetic and functional
+genes and cultivation approaches this rigorous
+method was applied to sediment carbonate rocks
+spanning epochs from the holocene to late eocene 
+
+materials and methods
+
+site description and sampling
+three holes a b and c were drilled at site u 
+ s e reaching a total
+depth of m csf a and thus spanning the
+holocene to late eocene epochs fluorescent micro 
+spheres were used as tracers for contamination
+during drilling sampling was processed under
+strict contamination controls onboard and offshore 
+and only samples with no detectable contamination
+were used for this study fulthorpe et al 
+
+onboard only the center parts of unconsolidated
+sediments and intact pieces of rocks that had been
+exposed to ultraviolet radiation after washing were
+kept for microbiological analyses as reported else 
+where expedition scientists subsam 
+ples were immediately frozen at � c for onshore
+molecular analyses stored at c under an
+anaerobic gas phase for later cultivation and stored
+at c in a nacl formalin solution for cell
+counting detailed information on sampling sub 
+sampling of sediment on contamination controls
+and on depth scale terminology are provided in
+supplementary text 
+
+lithological physical and geochemical data
+environmental data were acquired onboard during
+iodp expedition as reported elsewhere
+ fulthorpe et al 
+
+dna extraction pcr amplification and contamination
+controls
+dna extractions were made from samples col 
+lected all along the core in order to avoid contamina 
+tion all handling was carried out in a pcr cabinet
+exclusively dedicated to low biomass sediment
+samples pcr cabinet captairbio erlab val de reuil 
+france using biopur ml safe lock micro test
+tubes eppendorf le pecq france ultrapure pcr
+water ozyme st quentin en yvelines france and
+ultraviolet treated min plasticware and micro 
+pipettes negative controls reaction mixture without
+dna were included in each set of pcr reactions in
+addition a negative control for example negative
+dna extraction was prepared for each work stage to
+ensure that no contamination with exogenous amplifi 
+able dna occurred during the different stages
+of sample treatment the fastdna spin kit for soil
+ no mp biomedicals strasbourg france 
+was used to perform dna extractions with few
+modifications detailed information on dna extrac 
+tions and pcr amplifications are provided in
+supplementary information primer sequences used in
+this study are detailed in supplementary table s and
+primer sets for direct and nested pcr amplifications
+are detailed in supplementary figure s 
+
+ pyrosequencing
+for each dna extract four independent ml pcr
+amplifications were run with fusion primer pairs
+specific for bacteria archaea and eukarya as detailed
+in supplementary table s pcr products were
+pooled two by two so as to have two independent
+replicates for pyrosequencing potential contaminants
+from lab reagents were excluded through the sequen 
+cing of negative control samples and the removal of
+operational taxonomic units otus containing
+sequences retrieved in negative controls detailed
+information on pyrosequencing quality filtration 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+trimming clustering and taxonomic affiliation are
+provided in supplementary text 
+
+cell counts
+total prokaryotic cells were enumerated in triplicate
+from uncontaminated sediment samples
+collected all along the core using the cell extraction
+protocol protocol fcm a described by morono
+et al until step then all supernatants
+containing extracted cells were filtered onto mm
+filters anodisc whatman versailles france and
+stained with sybrgreen i invitrogen cergy
+pontoise france as described elsewhere noble and
+fuhrman filters were counted in epifluores 
+cence mode with an olympus bx microscope
+ rungis france objective � ph wib filter 
+details in supplementary text 
+
+real time pcr measurements
+quantifications of different lineages and diverse
+functional genes were performed all along the core
+by quantitative real time pcr quantifications of
+bacteria archaea eukarya js chloroflexi and
+geobacteriaceae were performed using previously
+described quantitative pcr assays based on the
+detection of s or s rrna schippers et al 
+ these assays were carried out using the
+taqman or sybrgreen chemistries dna copy
+numbers were also determined for the following
+functional genes mcra for alpha subunit of the
+methyl coenzyme m reductase dsra for the alpha
+subunit of the sulfite bi reductase apra for the
+alpha subunit of the adenosine phosphosulfate
+reductase and cbbl for the large subunit of
+the enzyme ribulose bisphosphate carboxylase 
+oxygenase rubisco form i ‘red like’ as described
+elsewhere schippers et al 
+
+cultures and approaches used for their analysis
+a sediment slurry membrane system was used for
+cultivation ferrari et al supplementary
+figure s details in supplementary information 
+different anaerobic metabolisms found in the sub 
+surface biosphere were targeted in culture fermen 
+tation sulfate reduction and methanogenesis 
+acetogenesis media culture conditions viability
+and identification procedures of cells are described
+in supplementary text 
+
+statistical analyses
+principal component analysis was used to help in
+visualization of high dimensional data an order
+abundance matrix was combined with environmental
+parameters using xlstat to assess relationships
+between microbial taxa and ecological variables
+ addinsoft usa new york ny usa a second
+complementary approach was based on regularized
+canonical correlation analyses which were
+
+performed to highlight correlations between the order
+abundance matrices x and the environmental
+parameters y using the r software cca package 
+
+results and discussion
+
+core description
+the core lithology was characterized by horizontal
+gradual layers from unconsolidated sediments
+ clay marl to carbonate rocks figure the core
+was composed of three lithological units ui uii
+and uiii unit i – m csf a meters of core
+depth below seafloor computed by conventional
+method a corresponding to m b sf see ‘iodp depth
+scale terminology’ at www iodp org program 
+policies was predominantly characterized by a
+transition from mud rich sediment to marl unit ii
+ – m csf a consisted of hemipelagic pela 
+gic sediment from calcareous sandy mud to sandy
+sandstone unit iii – m csf a was char 
+acterized by a sharp change marshall unconformity 
+b ma are missing that occurred at m csf a
+and was formed of hemipelagic to pelagic foramini 
+fer bearing nannofossil limestone of early oligocene to
+late eocene age figure the temperature at the
+bottom of the hole was estimated to be in the range
+of c– c on the basis of thermal conductivity
+measurements and geochemical results fulthorpe
+et al below m csf a sediments were
+replaced by consolidated sedimentary calcium
+carbonate rocks with porous horizons of glauconite 
+porosity decreased with depth and mean pore size
+was around – mm at the hole bottom in carbonate
+rocks numerous fractures and stylolites were
+observed supplementary figure s organic car 
+bon content was low o wt with only a few
+samples having wt total organic carbon
+ figure the organic matter quality changed from
+relatively labile volatile material in the shallower
+sediments to more stable protokerogen with increas 
+ing depth methane and ethane both occurred below
+ and m csf a and the relative ethane
+content increased with increasing burial depth and
+temperature figure low but increasing concen 
+trations of c c and occasionally c alkanes were
+also measured with depth ph values were close to
+ and stable from the surface to m csf a 
+sulfate concentration decreased gradually in the
+first meters of the core and reached the detection
+limit at b m csf a the smtz sulfate–methane
+transition zone was placed between and 
+m csf a then it remained close to the detection
+limit b mm down to m csf a figure 
+
+vertical distribution of cells
+we analyzed and compared cell abundances and cell
+concentrations reported for different geographic sites
+using a standardized procedure based on cell extrac 
+tion and dissolution of silicates noble and fuhrman 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+www iodp org program policies 
+www iodp org program policies 
+
+
+ kallmeyer et al morono et al 
+ figure mean cell numbers decreased with depth
+from about � ± � cells cm� n¼ at
+the surface and m csf a to � ± 
+� cells cm� n¼ within the deepest samples
+ and m csf a the detection limit 
+calculated in our conditions kallmeyer et al 
+was � cells cm� the depth profile down to
+ m csf a was consistent with the general depth
+distribution of prokaryotic cells from other subsurface
+sediments kallmeyer et al 
+
+vertical distribution of microbial taxa
+it is not clear what controls abundance of bacteria
+and archaea within deep marine sediments
+ schippers et al lipp et al schippers
+et al here a real time pcr approach was
+applied to quantify representatives of the three life
+domains calculated detection limits for bacteria 
+archaea and eukarya were respectively � 
+ � and � ssu rrna gene copies per
+gram of sediment wet weight archaea were the
+most abundant within the first meters while
+bacteria dominated the rest of the core figure 
+archaeal ssu rrna gene copy numbers strongly
+decreased with depth from � to � gene
+copies g� corresponding roughly to � to �
+
+ cells g� and were no longer detectable below
+ m csf a a similar depth distribution was
+observed for eukaryotic ssu rrna gene copy
+numbers but abundances were relatively constant
+with depth b copies g� bacterial ssu rrna
+gene copy numbers were low b copies g� 
+
+e � cells g� at the surface and decreased
+with depth up to m csf a � copies g� 
+e � cells g� 
+
+along with these measures deep sequencing
+allowed the detection limits to be lowered and
+masked lineages to be revealed we pyrosequenced
+bacterial v v archaeal v v and eukaryotic
+ v v ssu rrna gene amplicons from depth
+horizons and one negative control pooled together
+in one single data set with two pcr replicates per
+sample to overcome pcr and sequencing errors
+ supplementary figure s sequences were
+grouped into otus with a identity threshold 
+sequence composition of the otus was then
+analyzed and otus entirely composed of
+sequences that had appeared in a single pcr only
+were excluded from the diversity analyses all the
+sequences kept appeared at least twice indepen 
+dently potential contaminants from laboratory
+reagents were excluded through the sequencing of
+negative control samples and the removal of otus
+containing sequences retrieved in negative controls 
+
+figure main physical–chemical characteristics of the studied core black arrows indicate measures of in situ temperatures used to
+calculate a thermal gradient of c km� this thermal gradient together with the interpretation of the thermal maturity gradient
+defined by tmax measurements allowed estimating a bottom hole temperature comprised between c and c source iodp report
+ fulthorpe et al 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+the remaining otus were used to calculate non 
+parametric diversity indices figure supplementary
+figures s and s and compared with the
+silva database for taxonomic affiliation pyro 
+sequencing results were congruent with the data
+discussed above archaeal sequences could not be
+amplified and sequenced for samples o m csf 
+a as observed with real time pcr analyses the
+
+non detection of archaeal s rrna genes o m
+csf a using two different amplification methods
+suggests that archaea are likely rare or absent at
+great depths in the canterbury basin eukaryotic
+sequences were detected down to m csf a 
+and bacterial sequences were found up to the
+maximal depth of m csf a the observed
+species richness that is number of otus was
+
+figure lithological structure and age of lithological deposits at site u in the canterbury basin compared with depth distribution
+of cell counts s s rrna gene tag sequences and dna copy numbers of genetic markers and functional genes on the left cell
+concentrations counted at site u red dots and neighboring site u blue squares according to depth m csf a compared with
+the general depth distribution of cells grey dots in subseafloor sediments kallmeyer et al in the center phylum class order
+distribution of archaeal eukaryotic and bacterial s s rrna gene tag sequences based on silva classification from otu
+containing x sequences the remaining sequences were grouped into ‘other’ on the right copy numbers of the disulfite reductase
+genes a of the s rrna genes from total eukarya and of the s rrna genes from total bacteria archaea and js chloroflexi related
+bacteria geobacteriaceae were detected only up to m csf a b � copies per g no amplification from greater depth was shown 
+the functional genes mcra apra and cbbl were not detected at all y in other classifications mcg affiliate with the thaumarchaeota 
+ lineages of plants and algae depth horizons wherex reads of plants and chrysophyceae were detected 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+extremely low in comparison with other microbial
+habitats investigated so far including extreme
+environments for example roalkvam et al 
+indeed only and unique bacterial 
+archaeal and eukaryotic otus at dissimilarity
+level were detected in the entire cored sequence
+ supplementary figure s supplementary tables
+s and s chao estimator revealed a vertical
+decrease in microbial richness with increasing
+depth figure richness estimates for archaea
+and eukarya dropped off gradually with depth and
+reached only two and four otus respectively at the
+deepest depth for which a pcr signal was obtained 
+beta diversity estimators that is diversity among
+samples revealed a strong differentiation between
+communities with depth and a strong vertical
+structuration supplementary figure s 
+
+archaeal diversity showed high abundances of
+mbg b marine benthic group b and mcg mis 
+cellaneous crenarchaeotal group two archaeal
+groups typically found in subseafloor sediments
+ lloyd et al representatives of the as yet 
+uncultured lineages mbg b mbg e marine
+benthic group e and mcg were the predominating
+taxa in surficial layers while mcg was the most
+consistently detected archaeal lineage down to
+ m csf a figure mbg b and mcg members
+are heterotrophic archaea frequently found in
+surficial marine sediments biddle et al 
+lloyd et al thermococcales dominated
+archaeal diversity of the sediment horizon at m
+csf a methanogens and anaerobic methanotrophs
+were not detected in agreement with the real time
+
+pcr analysis for mcra their absence from the data
+set might be due to the intervals sampled which do
+not correspond to the smtz 
+
+in eukarya few protist otus stramenopiles and
+uncultured eukaryota were detected down to m
+csf a sequences affiliated with the bacterivorous
+protists bicosoecida were detected at m csf a 
+raising the question of the existence of a subsurface
+complex trophic web in agreement with recently
+published papers edgcomb et al orsi et al 
+ a b fungi appeared to be the most frequently
+detected eukaryotes in the canterbury basin with
+ – of the ssu rrna gene sequences different
+shifts between ascomycota and basidiomycota were
+observed along the core figure tremello 
+mycetes order tremellales sordariomycetes and
+eurotiomycetes dominated shallow depths while
+saccharomycetes were detected at depths between
+ and m csf a deeper layers were
+dominated by wallemiomycetes microbotryomycetes
+and tremellomycetes order filobasidiales not
+found at shallow depths these heterotrophic fungi
+have been described in deep sediments of other
+locations for example nagano and nagahama 
+ richards et al and demonstrated to
+be active members of microbial communities orsi
+et al b so fungi represent an important
+component of sediment ecosystems through their
+impact on nutrient cycling and mineral weathering 
+
+bacteria were dominated by chloroflexi and
+proteobacteria two heterotrophic bacterial groups
+well represented in subsurface sediments figure 
+they comprised of the sequences and of
+the otus in total however the abundances of the
+two phyla were negatively correlated chloroflexi
+dominated microbial communities at shallow depths
+ m csf a and their abundances and richness
+decreased rapidly reciprocally proteobacteria were
+found all along the core but their relative abundance
+showed a sharp increase o m csf a among the
+other lineages observed in this study plancto 
+mycetes nitrospirae and the candidate division
+op were major contributors of the amplicon pool
+at shallow depths below m csf a acidobacteria 
+firmicutes a phylum containing spore formers and
+two loosely defined groups of uncultured bacteria
+ ml j and mle were the most consis 
+tently detected lineages real time pcr quantifica 
+tion of the js chloroflexi group confirmed these
+results as b – ssu rrna gene copies g� were
+detected between the sediment surface and m
+csf a deltaproteobacteria were detected above the
+smtz and at great depths genes encoding a
+functional dissimilatory sulfite bi reductase dsra 
+a key enzyme of dissimilatory sulfate reduction
+frequently encountered among deltaproteobacteria 
+was quantified above the smtz and in layers up to
+ m deep in the sediment the gene became
+undetectable below this depth either because it may
+decrease below the detection limit or because the
+detected deltaproteobacteria cannot respire sulfate 
+
+figure community richness chao non parametric estimator 
+for archaeal eukaryotic and bacterial sequences making up the
+otus calculated by mothur at difference between otus 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+diversity and environmental factors
+principal component analyses coupled with regular 
+ized canonical correlation analyses were performed
+to visualize relationships between environmental
+factors and microbial taxa we first evaluated the
+relationships between all environmental parameters
+measured that is depth ph salinity porosity 
+alkalinity and concentrations of calcium calcium
+carbonate ammonium magnesium sulfate inor 
+ganic carbon organic carbon methane and ethane 
+to design a network of correlations only the six most
+explanatory variables were kept supplementary
+figure s this complementary analysis reinforced
+the conclusion about microbial distribution pattern
+and vertical community composition depth being
+defined as a main factor explaining diversity changes
+ supplementary figure s 
+
+handling deeply buried microorganisms
+cultivation approaches allowed prokaryotic and
+eukaryotic strains to be grown corresponding to a
+fraction of the microbial communities detected all
+along the core underlining that these microorgan 
+isms were viable fungal strains were obtained
+at – m csf a using elevated hydrostatic
+
+pressure to mimic in situ conditions figures a–c 
+supplementary table s sequencing of the its 
+rrna regions allowed identification of a cadophora
+representative that had already been found in
+extreme environments that is antarctic environ 
+ments tosi et al and deep sea hydrothermal
+vents burgaud et al supplementary table s 
+fifty seven anaerobic fungi currently under descrip 
+tion have also been isolated from these sediments
+ rédou and burgaud unpublished data in addition
+to the important finding that living fungi could be
+cultivated from the sediment samples microbial
+colonies were grown anaerobically at – c from
+calcareous chalk limestone samples collected at 
+and m csf a figures d and e using a
+microcultivation method supplementary figure s 
+the microcolonies were successfully transferred to
+liquid media and subcultured from the different
+tests performed it was impossible to grow true
+methanogens and true sulfate reducers only bacterial
+fermentative strains degrading the organic com 
+pounds supplied that is low quantity of yeast
+extract have grown within these subcultures mean
+cell densities were low around � cells ml� 
+and growth rates were slow in years of culture 
+only – subcultures at or have been
+
+figure epifluorescence microphotographs of initial enrichment cultures and subsequent liquid subcultures hybridized with the cy 
+labelled probe euk staining of nuclei with dapi top panel or stained with sybrgreen i middle panelþ g or with the dual
+staining live deadbacterial viability kit h and i a–c identification of fungus like eukaryotic cells with fluorescently labeled s
+rrna oligonucleotide probes in initial enrichment cultures with sediments from m csf a on pdb at mpa a with sediments
+from m csf a on pdb at mpa b and with sediments from m csf a on pdb at mpa c d e microcolonies
+observed on polycarbonate membranes initial enrichment cultures after days of incubation with sediments from m csf a on
+h co þye f g cellular aggregates observed in the seventh liquid subcultures performed after the initial enrichment with sediments
+from m csf a on yeþpeptoneþ casamino acids h i cell structural integrity was observed in the seventh liquid subcultures
+performed after the initial enrichment with sediments from m csf a on acetateþye h and with sediments from m csf a on
+yeþpeptoneþ casamino acids i ye yeast extract pdb potato dextrose broth 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+performed cells were able to grow at atmospheric
+pressure and at the estimated in situ pressure
+ mpa they were composed of viable very small
+rods coccobacilli and cocci of – nm in
+diameter often forming aggregates figures f–i 
+these small sizes and this cellular organization as
+consortia raises questions about the living condi 
+tions of these cells and their in dependence with
+regard to other cells the smallest diameter of a cell
+that assures its viability was calculated asb nm
+ velimorov the major lineages identified in
+dna and rna libraries from these subcultures
+
+belonged to alpha beta gamma proteobacteria 
+actinobacteria and armatimonadetes figures 
+with the exception of armatimonadetes all these
+taxa were detected from pyrosequencing in crude
+samples from to m csf a the majority of
+the sequences had relatives recovered from environ 
+ments with similar physical–chemical characteris 
+tics lin et al mason et al that is 
+hot and reduced habitats compared with the
+canterbury subseafloor considering the ‘ubiquity’
+of these taxa one can hypothesize that they
+are generalist bacteria which would have been
+
+figure phylogenetic position of the bacterial s rrna gene sequences detected in rna extracts from the fifth to eighth liquid
+subculture following the initial enrichment step on a sediment substrate membrane system the phylogenetic reconstruction was
+performed using the neighbor joining algorithm bootstrap values based on replications are indicated at the branch nodes 
+representative bacterial s rrna gene sequences of h co þ yeast extract ye based cultures and acetateþye based cultures from
+the r section m csf a as well as yeþpeptone pept þ casamino acids ca based culture from the r section m
+csf a are shown in bold blue letters sequences from basalt or an underground aquifer where the temperature is high oto c are
+shown in brown sequences from environments rich in hydrocarbons or radioactive metals are shown in orange accession numbers are
+given in brackets 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+maintained during progressive burial of sediments
+or by transportation through circulating fluids 
+they might have acquired metabolic capabilities
+enabling them to resist the associated environmental
+changes however this hypothesis needs to be
+analyzed in detail furthermore similar ssu rrna
+gene sequences do not automatically correspond
+to identical physiologies identical phenotypes or
+similar functions 
+
+impact of potential contaminants on native microbial
+populations
+contamination is a crucial issue when working with
+subseafloor sediments in general contamination
+during drilling is still difficult to predict during
+iodp expedition the level of contamination
+during drilling was evaluated by using fluorescent
+microspheres and only samples with no detectable
+contamination were kept for microbiological ana 
+lyses nevertheless samples without microspheres
+are not necessarily uncontaminated smith et al 
+ contamination generally decreases from the
+exterior to the interior of both sediment and rocks
+cores for example lever et al in conse 
+quence only the interior of sediment cores and
+intact pieces of rocks that had been exposed to
+ultraviolet light after washing were used for the
+analyses in addition for molecular experiments
+deeply frozen samples of cm in diameter were
+sterilized by flaming afterwards all possible
+contaminations during the wet lab steps have been
+strictly controlled and minimized see supplementary
+text the cutting edge strategy applied for the
+pyrosequencing and bioinformatic analyses allowed
+removing potential spurious sequences and otus
+likely to contain contaminants by sequencing of
+negative controls a duplicate procedure and an
+associated bioinformatics pipeline in addition to
+these precautions the level of potential contamina 
+tion of our samples was estimated by calculating the
+number of contaminating cells per gram of sediment
+and per gram of sedimentary rock based on the mean
+contamination values with drilling fluids and mean
+cell abundances in surface waters reported in the
+literature the mean potential contamination was
+estimated as i ± ml of drilling fluid per
+gram for unconsolidated sediments drilled using
+advanced piston coring apc and ii ±
+ ml g– for rocks collected using rotary core
+barrel lever et al considering these
+levels of contamination mean cell counts of �
+ cells ml– in surface waters in the ocean
+ whitman et al and average densities of
+ g cm– in sediments and g cm– in sedimen 
+tary rocks at site u potential contamination of
+the interior of the core sample should be expected
+very low with – cells g– of sediment only a
+second reported estimate indicates that o cells g– 
+of sediment contaminated apc core centers drilled
+with joides resolution and that xcb cores were
+
+generally more contaminated with contamination
+levels – times higher in xcb cores than in apc
+core centers house et al considering these
+different estimates of potential contamination the
+observed cell counts at site u were – orders
+of magnitude higher in the studied samples 
+if contamination cannot be excluded in the worst
+case non indigenous cells represent only up to of
+total cells in the sample therefore it is most likely
+that of the counted cells are native to the
+sampled sediment rocks this implies that the vast
+majority of the prokaryotic and eukaryotic dna
+subjected to pyrosequencing was therefore derived
+from the sediment native cells by extension assum 
+ing that most of the prokaryotic dna extracted from
+sediment samples is from native cells the fact that
+cultivated bacteria match otus abundant in the
+crude sediment samples supports the idea that these
+cultivated strains are isolates of native bacteria 
+consequently the potential impact of contaminants
+on each category of data cell counts molecular data
+and cultures is likely very low 
+
+ecological implications and future prospects
+we have underlined that the subseafloor of the
+canterbury basin hosts microorganisms that com 
+prise bacteria archaea and eukarya some of these
+microorganisms are alive and at least to a certain
+extent revivable the communities exhibit a quite
+low phylogenetic diversity but this does not
+necessarily correspond to a low functional diversity 
+this poor diversity could be explained if natural
+selection has produced i taxa adapted to harsh
+subsurface conditions that is specialists which
+would be expected in the case of a low connectivity
+among habitats and or ii taxa with a broad
+physiological plasticity allowing them to survive
+in a diversity of nutritional and physical–chemical
+conditions that is generalists in fact some
+taxa detected through their s s rrna
+gene sequences are thought to be endemic to
+subsurface habitats while others seem ubiquitous
+and are consistently encountered in common and
+extreme environments the bacterial strains in
+cultures are related to opportunistic or generalist
+taxa isolated from a broad array of redox environ 
+ments which raises the question of the existence of
+microbial metabolic versatility and also questions
+the species concept as behind a given name or a
+given otu can lay a variety of microorganisms with
+different ecological lifestyles metabolic versatility
+has already been demonstrated in well known taxa 
+for example some thermococcales strains which
+are usually fermenters that reduce sulfur com 
+pounds can grow in oligotrophic conditions or can
+oxidize carbon monoxide sokolova et al 
+heterotrophy is likely to be the major mode of
+carbon assimilation within microbial communities
+of subsurface marine sediments batzke et al 
+our culture data support this hypothesis genome
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+
+
+and metagenome analyses would allow functions to
+be predicted on a finer scale to assess and hypothe 
+size the individual ecological functions within the
+analyzed habitat or ecosystem vandenkoornhuyse
+et al the detection of fungal sequences at
+great depths and our success in the cultivation of
+fungal strains leads us to ask what role they play in
+deep carbon cycling and what involvement they
+have in dynamics regulation of prokaryotic popula 
+tions if they are active in situ 
+
+the broad polyphasic approach developed in this
+study provides direct evidence that viable micro 
+organisms can be present in rocks that are hardened
+but not totally cemented where stylolites and micro 
+fluid circulations exist our data demonstrate that the
+combination of physical chemical and energetic
+constraints encountered from – m csf a in
+the subseafloor of the canterbury basin still allow
+microorganisms to persist down to at least 
+and m csf a for archaea fungi and bacteria 
+respectively it extends the subseafloor sedimentary
+depths at which subseafloor organisms are known to
+be present to m for fungi and to m for
+bacteria nevertheless one cannot exclude that some
+of the detected sequences belong to microorganisms
+in dormancy more extensive sequencing efforts will
+be required that is direct metatranscriptomics to
+describe more directly the microbial communities
+along with functional signatures and to compile data
+on biogeochemical processes and fluxes 
+
+conflict of interest
+
+the authors declare no conflict of interest 
+
+acknowledgements
+
+samples shipboard facilities and expedition support were
+provided by iodp we thank the co chiefs crew and
+shipboard scientific parties of iodp expedition 
+the joint research unit umr cnrs ifremer ubo 
+lubem gdr ecchis eu program macumba divvir
+project of the frb and the bgr supported molecular and
+cultural post cruise analyses the study was supported by
+grants from the french ministry of higher education and
+research to mcc vr and fg from the région bretagne to
+fg and from the dfg to as grant sch and to
+jsl grant hi we thank reviewers for their
+constructive comments we thank also c struckmeyer m
+guégan h leclerc c argouarch s coudouel a dheilly
+and o quenez for their contribution to this work 
+
+references
+
+bale sj goodman k rochelle pa marchesi jr fry jc 
+weightman aj et al desulfovibrio profundus
+sp nov a novel barophilic sulfate reducing bacterium
+from deep sediment layers in the japan sea int j syst
+bacteriol – 
+
+batzke a engelen b sass h cypionka h 
+phylogenetic and physiological diversity of cultured
+deep biosphere bacteria from equatorial pacific ocean
+and peru margin sediments geomicrobiol j – 
+
+biddle jf lipp js lever ma lloyd kg sørensen kb 
+anderson r et al heterotrophic archaea
+dominate sedimentary subsurface ecosystems off peru 
+proc natl acad sci usa – 
+
+biddle jf white jr teske ap house ch 
+metagenomics of the subsurface brazos trinity basin
+ iodp site comparison with other sediment and
+pyrosequenced metagenomes isme j – 
+
+burgaud g le calvez t arzur d vandenkoornhuyse p 
+barbier g diversity of culturable marine
+filamentous fungi from deep sea hydrothermal vents 
+environ microbiol – 
+
+d’hondt s jørgensen bb miller dj batzke a blake r 
+cragg ba et al distributions of microbial
+activities in deep subseafloor sediments science 
+ – 
+
+edgcomb vp beaudoin d gast r biddle jf teske a 
+ marine subsurface eukaryotes the fungal
+majority environ microbiol – 
+
+engelhardt t sahlberg m cypionka h engelen b 
+induction of prophages from deep subseafloor bacteria 
+environ microbiol rep – 
+
+expedition scientists methods proc iodp
+ integrated ocean drilling program management
+international inc doi iodp proc 
+
+ferrari bc winsley t gillings m binnerup s 
+cultivating previously uncultured soil bacteria using a
+soil substrate membrane system nat protoc – 
+
+fulthorpe cs hoyanagi k blum p the expedition 
+scientists site u proceedings of the
+integrated ocean drilling program integrated
+ocean drilling program management international 
+inc tokyo doi iodp proc 
+
+house ch cragg ba teske a leg scientific party
+ drilling contamination tests during odp leg
+ using chemical and particulate tracers in 
+d’hondt sl jørgensen bb miller dj et al eds 
+proceedings of the ocean drilling program initial
+reports vol ocean drilling program college
+station tx usa pp – 
+
+inagaki f nunoura t nakagawa s teske a lever m 
+lauer a et al biogeographical distribution and
+diversity of microbes in methane hydrate bearing
+deep marine sediments on the pacific ocean margin 
+proc natl acad sci usa – 
+
+kallmeyer j smith dc spivack aj d’hondt s 
+new cell extraction procedure applied to deep subsur 
+face sediments limnol oceanogr methods – 
+
+kallmeyer j pockalny r adhikari rr smith dc d’hondt
+s global distribution of microbial abundance
+and biomass in subseafloor sediment proc natl acad
+sci usa – 
+
+lever ma alperin m engelen b inagaki f nakagawa s 
+steinsbu bo et al trends in basalt and
+sediment core contamination during iodp expedition
+ geomicrobiol j – 
+
+lin lh wang p l rumble d lippmann pipke j boice e 
+pratt lm et al long term sustainability of a
+high energy low diversity crustal biome science 
+ – 
+
+lipp js morono y inagaki f hinrichs k u 
+significant contribution of archaea to extant biomass
+in marine subsurface sediments nature – 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+http dx doi org iodp proc 
+http dx doi org iodp proc 
+
+
+lloyd kg schreiber l petersen dg kjeldsen ku lever
+ma steen ad et al predominant archaea in
+marine sediments degrade detrital proteins nature
+ – 
+
+lomstein ba langerhuus at d’hondt s jørgensen bb 
+spivack aj endospore abundance microbial
+growth and necromass turnover in deep sub seafloor
+sediment nature – 
+
+mason ou nakagawa t rosner m van nostrand jd 
+zhou j maruyama a et al first investigation
+of the microbiology of the deepest layer of ocean crust 
+plos one e 
+
+morono y kallmeyer j inagaki f the expedition 
+scientists preliminary experiment for cell
+count using flow cytometry proceedings of the
+integrated ocean drilling program integrated
+ocean drilling program management international inc 
+tokyo http dx doi org iodp proc 
+
+nagano y nagahama t fungal diversity in deep 
+sea extreme environments fungal ecol – 
+
+noble rt fuhrman ja use of sybr green i for
+rapid epifluorescence counts of marine viruses and
+bacteria aquat microb ecol – 
+
+orcutt bn sylvan jb knab nj edwards kj 
+microbial ecology of the dark ocean above at and
+below the seafloor microbiol mol biol rev – 
+
+orsi wd edgcomb vp christman gd biddle jf a 
+gene expression in the deep biosphere nature 
+ – 
+
+orsi w biddle jf edgcomb v b deep sequencing of
+subseafloor eukaryotic rrna reveals active fungi across
+marine subsurface provinces plos one e 
+
+parkes rj cragg ba wellsbury p recent studies
+on bacterial populations and processes in subseafloor
+sediments a review hydrogeol rev – 
+
+pawlowski j christen r lecroq b bachar d shahbazkia
+rh amaral zettler l et al eukaryotic richness
+in the abyss insights from pyrotag sequencing plos
+one e 
+
+richards ta jones mdm leonard g bass d 
+marine fungi their ecology and molecular diversity 
+ann rev mar sci – 
+
+roalkvam i dahle h chen y jørgensen sl haflidason h 
+steen ih et al fine scale community structure
+analysis of anme in nyegga sediments with high and
+low methane flux front microbiol e 
+
+roussel eg cambon bonavita m a querellou j 
+cragg ba webster g prieur d et al extending
+the sub sea floor biosphere science 
+
+sass h parkes rj sub seafloor sediments an
+extreme but globally significant prokaryotic habitat
+ taxonomy diversity ecology in horikoshi ed 
+extremophiles handbook springer tokyo japan 
+pp – 
+
+schippers a neretin ln kallmeyer j ferdelman tg 
+cragg ba parkes rj et al prokaryotic cells of
+the deep sub seafloor biosphere identified as living
+bacteria nature – 
+
+schippers a neretin ln quantification of
+microbial communities in near surface and deeply
+buried marine sediments on the peru continental
+margin using real time pcr environ microbiol 
+ – 
+
+schippers a kock d höft c köweker g siegert m 
+ quantification of microbial communities in
+subsurface marine sediments of the black sea and off
+namibia front microbiol 
+
+smith dc spivack aj fisk mr haveman sa 
+staudigel h tracer based estimates of
+drilling induced microbial contamination of deep sea
+crust geomicrobiol j – 
+
+sokolova tg jeanthon c kostrikina na chernyh na 
+lebedinsky av stackebrandt e et al the first
+evidence of anaerobic co oxidation coupled with h 
+production by a hyperthermophilic archaeon isolated
+from a deep sea hydrothermal vent extremophiles 
+ – 
+
+tosi s casado b gerdol r caretta g fungi
+isolated from antarctic mosses polar biol 
+ – 
+
+vandenkoornhuyse p dufresne a quaiser a gouesbet g 
+binet f francez aj et al integration
+of molecular functions at the ecosystemic level 
+breakthroughs and future goals of environmental
+genomics and post genomics ecol lett – 
+
+velimorov b nanobacteria ultramicrobacteria
+and starvation forms a search for the smallest
+metabolizing bacterium microb environ 
+ – 
+
+whitman wb coleman dc wiebe wj prokaryotes 
+the unseen majority proc natl acad sci usa 
+ – 
+
+supplementary information accompanies this paper on the isme journal website http www nature com ismej 
+
+deep subseafloor biosphere of the canterbury basin
+mc ciobanu et al
+
+ 
+
+the isme journal
+
+http dx doi org iodp proc 
+http www nature com ismej
+
+	title link
+	introduction
+	materials and methods
+	site description and sampling
+	lithological physical and geochemical data
+	dna extraction pcr amplification and contamination controls
+	 pyrosequencing
+	cell counts
+	real time pcr measurements
+	cultures and approaches used for their analysis
+	statistical analyses
+
+	results and discussion
+	core description
+	vertical distribution of cells
+	vertical distribution of microbial taxa
+
+	figure™ main physical chemical characteristics of the studied core black arrows indicate measures of in™situ temperatures used to calculate a thermal gradient of thinspdegcthinspkm this thermal gradient together with the interpretation of the therm
+	figure™ lithological structure and age of lithological deposits at site u in the canterbury basin compared with depth distribution of cell counts ssol s rrna gene tag sequences and dna copy numbers of genetic markers and functional genes on the l
+	figure™ community richness chao non parametric estimator for archaeal eukaryotic and bacterial sequences making up the otus calculated by mothur at percnt difference between otus 
+	diversity and environmental factors
+	handling deeply buried microorganisms
+
+	figure™ epifluorescence microphotographs of initial enrichment cultures and subsequent liquid subcultures hybridized with the cy labelled probe euk staining of nuclei with dapi top panel or stained with sybrgreen i middle panel g or with the dua
+	figure™ phylogenetic position of the bacterial s rrna gene sequences detected in rna extracts from the fifth to eighth liquid subculture following the initial enrichment step on a sediment substrate membrane system the phylogenetic reconstruction was p
+	impact of potential contaminants on native microbial populations
+	ecological implications and future prospects
+
+	a 
+	acknowledgements
+
+
+
+
+

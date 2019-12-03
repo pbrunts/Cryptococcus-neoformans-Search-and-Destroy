@@ -1,0 +1,1799 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+﻿geographic distance and mountain ranges structure freshwater protist communities on a european scale
+
+
+geographic distance and mountain ranges structure freshwater 
+protist communities on a european scale
+
+jens boenigk sabina wodniok christina bock daniela beisser christopher hempel 
+lars grossmann anja lange manfred jensen 
+
+ university of duisburg essen department of biodiversity essen germany 
+ university of duisburg essen centre for water and environmental research essen germany 
+ university of duisburg essen research group bioinformatics essen germany 
+
+corresponding author jens boenigk jens boenigk uni due de 
+
+abstract
+protists influence ecosystems by modulating microbial population size diversity metabolic outputs and gene flow in this study 
+we used eukaryotic ribosomal amplicon diversity from european freshwater lakes sampled in august to assess the effect 
+of mountain ranges as biogeographic barriers on spatial patterns and microbial community structure in european freshwaters the 
+diversity of microbial communities as reflected by amplicon clusters suggested that the eukaryotic microbial inventory of lakes was 
+well sampled at the european and at the local scale our pan european diversity analysis indicated that biodiversity and richness of 
+high mountain lakes differed from that of lowland lakes further the taxon inventory of high mountain lakes strongly contributed to 
+beta diversity despite a low taxon inventory even though ecological factors in general strongly affect protist community pattern 
+we show that geographic distance and geographic barriers significantly contribute to community composition particularly for high 
+mountain regions which presumably act as biogeographic islands however community composition in lowland lakes was also 
+affected by geographic distance but less pronounced as in high mountain regions in consequence protist populations are locally 
+structured into distinct biogeographic provinces and community analyses revealed biogeographic patterns also for lowland lakes 
+whereby european mountain ranges act as dispersal barriers in particular for short to intermediate distances whereas the effect of 
+mountain ranges levels off on larger scale 
+
+protists algae are the dominant primary producers in 
+aquatic ecosystems and contribute roughly to glob 
+al primary production i e they are of similar importance 
+as land plants heterotrophic protists on the other hand 
+are the primary agents of the top down control of bacte 
+ria and primary producers and are thus key organisms in 
+determining the fate and transport of organic matter in 
+nature boenigk and arndt caron foissner 
+ sherr et al 
+
+increasing our knowledge of biodiversity distribution 
+patterns at any level of the tree of life is of paramount 
+ecological and evolutionary significance campo et al 
+
+copyright jens boenigk et al this is an open access article distributed under the terms of the creative commons attribution license 
+ cc by which permits unrestricted use distribution and reproduction in any medium provided the original author and source 
+are credited 
+
+metabarcoding and metagenomics e 
+doi mbmg 
+
+research article 
+
+academic editor agnès bouchez received october accepted december published january 
+
+introduction
+protists are not only a very diverse group of organisms 
+but also quantitatively and qualitatively important com 
+ponents of all ecosystems their key ecological role has 
+become a paradigm in microbial ecology based on the 
+concept of the microbial loop azam et al boenigk 
+and arndt pomeroy prokaryotes essential 
+ly drive freshwater biogeochemical processes whereas 
+macroorganisms structure aquatic food webs and pro 
+tists drive aquatic primary production and link algal and 
+bacterial production to higher trophic levels autotrophic 
+
+key words 
+protist molecular diversity biogeography microbial ecology algae
+
+mailto jens boenigk uni due de
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https doi org mbmg 
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+ this is of particular importance as distribution and 
+diversity patterns are generally linked to ecosystem func 
+tioning and stability cardinale et al in the past 
+protist distributrion has largely been investigated with a 
+focus on ecological factors besides climate the ph and 
+the concentration of ions and nutrients are particularly 
+important structuring factors on the local scale azovsky 
+et al triadó margarit and casamayor wu et 
+al a large scale plankton analysis demonstrated 
+temperature to be a major driver of community compo 
+sition in the marine de vargas et al whereas nu 
+trient concentrations and ph seem to be more important 
+in freshwater communities tolotti et al tolotti et 
+al triadó margarit and casamayor further 
+and particular along alpine gradients elevation and envi 
+ronmental parameters co varying with elevation such as 
+uv intensity also affect protist taxa and potentially shape 
+communities sommaruga sonntag et al 
+
+in contrast to ecological factors the biogeographic dis 
+tribution patterns of protists and the significance of histor 
+ical factors potentially structuring their distribution came 
+only recently into focus in contrast for macroorganisms 
+biogeography and the factors driving distribution patterns 
+of life on earth have attracted scientists already for cen 
+turies the realization that different geographic regions 
+despite similar ecological conditions may be inhabited 
+by different organisms goes back at least to buffon 
+ browne and became prominent as the first 
+principle of biogeography the importance of geographic 
+barriers has been accepted since humboldt’s work on plant 
+biogeography in humboldt and bonpland 
+
+while biogeographic theory has developed into a 
+strong conceptual framework for understanding the dis 
+tribution patterns of animals and plants its applicability 
+to microbes has remained controversial there have been 
+disputes on the biogeographic distribution of microbial 
+organisms since at least the early th century sprengel 
+and de candolle during the past few centuries a 
+uniform global dispersal has been proposed for microor 
+ganisms culminating in the claim of baas becking and 
+beijerink that “everything is everywhere but the hab 
+itat selects” bass and boenigk wit and bouvier 
+ only recently has increasing evidence demon 
+strated that protists have a biogeography and the under 
+lying assumption of a worldwide dispersal of protists has 
+been progressively replaced by the acceptance of the en 
+demic distribution of at least some taxa bass and boe 
+nigk foissner livermore and jones 
+the research focus has consequently recently turned to 
+the underlying patterns of protist distribution while dis 
+persal limitation is now generally accepted bik et al 
+ grossmann et al a katz et al fernán 
+dez et al 
+
+most if not all microbial ecologists meanwhile agree 
+that at least some single celled organisms have limited 
+distribution patterns filker et al kammerlander 
+et al van der gast wu et al and that 
+
+on a larger scale historical and geographic factors may 
+also affect protist distribution and dispersal filker et al 
+ izaguirre et al however despite indica 
+tions of large scale variation between protist communi 
+ties geographical factors are considered to be of minor 
+importance at short to intermediate distances beisner 
+et al filker et al if this turns out to be 
+true protist distribution patterns would clearly deviate 
+from those of macroorgansims in particular in europe 
+due to the recent geological past of this continent in the 
+quarternary europe underwent several cycles of glacia 
+tions which strongly structured biological communities 
+– at least of macroorganisms hewitt specifically 
+stated that “the present genetic structure of populations 
+species and communities has been mainly formed by 
+quaternary ice ages” in europe these patterns com 
+prise centers of endemism specifically in high moun 
+tain areas albach et al schmitt as well 
+as genetically distinct lineages mainly in the lowlands 
+derived from different refugia santucci et al he 
+witt babik et al europe is the probably 
+best investigated area for biogeographic patterns hew 
+itt schmitt and therefore an ideal test case 
+for further testing the importance of historic factors in 
+structuring the biogeography of protists the european 
+orogenes – the alps in the center of europe and further 
+orogenes towards the west pyrenees massif central to 
+the south apennine to the east high tatra carpathi 
+an mountains and to the north scandinavian orogenes 
+constitute a unique area for glacial distribution barriers 
+since the maximum of the last glaciation some 
+years ago litt et al habbe cold adapted 
+species took refuge in high mountain areas resulting in 
+considerable endemism hewitt schmitt 
+whereas warm adapted species retracted to southern 
+europe and re colonised central europe along several 
+routes around the orogenes yielding genetically differ 
+entiated populations in the lowlands 
+
+here we focus on the importance of the recent geo 
+logical history to the distribution patterns of protists in 
+lakes for protists geographic gradients are generally 
+known e g casteleyn et al but presumably weaker 
+in freshwaters than in marine systems hillebrand 
+or in soils grossmann et al a nevertheless even 
+though geographic gradients are assumed to be weak in 
+protists gimmler et al historical factors presuma 
+bly affect protist distribution as their distribution patterns 
+in freshwater violate the assumption of unlimited dispersal 
+ grossmann et al a in particular we hypothesize 
+that european mountain ranges act as dispersal barriers 
+for protists it is unknown to what extent diversity patterns 
+as known for macroorganisms also apply to the less fa 
+miliar and less readily observable protists inhabiting these 
+same ecosystems mahé et al to evaluate diversity 
+patterns at the microbial scale for protists we conducted 
+a dna metabarcoding study based on a large scale com 
+parison including lakes across europe 
+
+
+
+metabarcoding and metagenomics e 
+
+https mbmg pensoft net
+
+ 
+
+material and methods
+site selection and field sampling
+
+we sampled european freshwater lakes and ponds 
+from sites in norway sweden germany poland the 
+czech republic slovakia hungary romania austria 
+italy france spain and switzerland site selection fo 
+cused on the european orogens specifically the alps 
+the pyrenees the apennine the high tatras the south 
+ern scandinavian mountains and the connecting flatlands 
+ suppl materials we selected natural lakes and 
+reservoirs which were typical for the respective area 
+lakes which were known to be extremely deviate such 
+as e g acidic mining lakes were excluded plankton sam 
+ples were taken at a depth between and m near 
+the shoreline and immediately processed after sampling 
+all samples were taken in august temperature ph 
+and conductivity were measured directly in the field using 
+a portable instrument climatic data including photosyn 
+thetically active radiation par and uv irradiation were 
+partly measured on site and partly taken from databas 
+es of the deutsche wetterdienst and associated weather 
+services for molecular analyses water samples were fil 
+tered onto µm nucleopore filters mm diameter 
+until the filters clogged i e several hundred milliliter 
+up to ml water per filter subsequently filters were 
+air dried and then immediately frozen in liquid nitrogen 
+ cryoshippers the filters were stored at °c in the 
+laboratory until further processing 
+
+dna extraction pcr and sequencing
+
+genomic dna was extracted using the my budget dna 
+mini kit bio budget technologies gmbh following 
+the protocol of the supplier with the following modifica 
+tions filters were homogenized in µl lysis buffer 
+tls within lysing matrix e tubes mp biomedicals us 
+ing the fastprep instrument mp biomedicals homog 
+enization was run three times for seconds each at a 
+speed setting of m s and then incubated for min 
+at °c the next steps followed the standard proto 
+col supplied by bio budget technologies gmbh the 
+quality and quantity of the dna was checked using a 
+thermo scientific nanodrop® nd uv vis spec 
+trophotometer thermo fisher scientifics pcr amplifi 
+cations targeted the ssu v region and its briefly in 
+order to cover a broad taxonomic spectrum two primers 
+with different wobble positions were combined in a ra 
+tio of ’ gctgcgcccttcatcgktg ’ 
+ its dino and ’ gctgcgttcttcatc 
+gwtr ’ its broad we used the ampli 
+con duo pipeline lange et al to separate true 
+biological variation from sequence artefacts for each 
+sample two technical replicates of the extracted dna 
+were independently amplified using primers with differ 
+ent sample identifiers see lange et al for details 
+the concentrations of the pcr reaction were as follows 
+
+ μl of dna template depending on the concentration 
+different dilutions of and were used in 
+ μl pcr reaction with units of phusion taq bio 
+zym μm primers mm dntps and x phusion 
+buffer biozym the pcr cycling conditions included 
+an initial denaturation step at °c for min followed 
+by cycles each including a denaturation step at °c 
+for s annealing step at °c for s and an elonga 
+tion step at °c for s at the end the pcr was com 
+pleted by a final extension step of at °c for min 
+equimolar subsamples were pooled and commercially 
+sequenced using paired end hiseq sequencing 
+applying x bp reads using the “rapid run” mode on 
+the illumina platform of a sequencing provider faster 
+is geneva ch 
+
+sequence filtering
+
+adapter and quality trimming was performed by the se 
+quencing company samples were demultiplexed by the 
+sequencing company fasteris using mid sequences 
+base quality of the sequence reads was checked using the 
+fastqc software andrews a split sample filtering 
+protocol for illumina amplicon sequencing was used as de 
+scribed in lange et al lange et al in brief the raw 
+sequences were quality filtered to remove reads with an 
+average phred quality score below using prinseq lite 
+ v schmieder and edwards additionally 
+all reads with at least one base with a phred quality score 
+below were removed provided that the sequences con 
+tained ns after base calling the paired end reads were 
+assembled and quality filtered with the tool pandaseq 
+ v masella et al reads with uncalled bases 
+an assembly quality score below a read overlap below 
+ or a base with a recalculated phread score below were 
+discarded all reads were dereplicated whereupon chime 
+ras were identified using uchime usearch v 
+ edgar et al with default parameters finally se 
+quences that were not found in both sample branches using 
+ampliconduo lange et al were discarded 
+
+statistical analysis
+
+reads remaining after the ampliconduo filter were clus 
+tered via the software swarm version mahé 
+et al then clustered by identical v sequences 
+ basepairs ident r script “v clust r” 
+by jensen and subsequently taxonomically as 
+signed by searching the ncbi database using blastn 
+the taxonomic resolution therefore roughly correspond 
+ed to a ssu v sequence identity all reads as 
+signed to metazoa and viridiplantae as well as higher 
+fungi were excluded from further analyses as protists 
+are the target organisms of this study the remaining 
+read counts ranged between lake estany de tre 
+bens and lake millstätter see per sample 
+otu richness and abundance were computed from not 
+transformed raw data community structure indices 
+
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+were also calculated based on the raw read abundance 
+of otus rarefaction curves were plotted by the func 
+tion “rarecurve” of the r package vegan version 
+ oksanen et al in order to achieve a balanced 
+dissimilarity matrix of all sites accounting for differ 
+ences in sequencing depth between the sites etc we 
+first applied hellinger normalization for comparison 
+of community structures of the different sites we sub 
+sequently used the percentage difference dissimilarity 
+matrix bray we finally checked that the resulting dis 
+similarity matrix was euclidic dray et al the 
+resulting dissimilarity matrix was used for all further 
+analyses we calculated the local contribution of every 
+site to beta diversity lcbd dray and dufour 
+using again the percentage difference dissimilarity of the 
+hellinger transformed data see suppl material for 
+the bray distance matrix for further insights into the 
+processes determining high betadiversity we also anal 
+ysed the relative contribution of replacement of otus 
+between lakes and abundance changes using the function 
+beta div comp of the r package adespatial legendre 
+ b by the parameters coef ”s” quant t this anal 
+ysis was again based on hellinger transformed euclidic 
+bray distance data geographic groups of community 
+compositions were calculated by geo constrained hier 
+archical clustering analysis legendre resulting in 
+ geographic clusters the r package tripack renka 
+et al was used for construction of the geographic 
+neighbour matrix based on delauney triangulation the 
+effect of geographic distance was investigated separately 
+for lowland and high mountain lakes see supplementa 
+ry meterial we calculated the distances km of all 
+site pairs as well as the community distances of all site 
+pairs submatrices of the community dissimilarity ma 
+trix and analyzed the effect of geographic distance by 
+linear regression after conversion of geographical lati 
+tude and longitude data into distances km chambers 
+ the effect of mountain ranges in particular of 
+the alps and the pyrenees as geographic barriers was 
+also analyzed by linear regression based on splitting the 
+sample set into three groups an alpine group including 
+the alps the pyrenees and the high tatras a northern 
+group cis and a southern group trans the mountain 
+group was identified by altitudes plus constrained clus 
+tering see above by exclusion of the alpine group we 
+could compare subsamples i e all subsamples “cis cis” 
+ northern all subsamples “trans trans” southern and 
+all cis trans comparisons mean differences of the cis 
+cis trans trans cis trans groups were tested by t tests 
+all figures were prepared with r and adobe illustrator 
+
+data resources
+all sequences are deposited at genbank accession num 
+ber prjna 
+
+results
+protist freshwater communities show high levels of di 
+versity
+
+sequencing of the european freshwater samples result 
+ed in cleaned v forward and reverse read 
+pairs we applied the ampliconduo filter lange et al 
+ for separating true biological diversity from pcr 
+and sequencing artefacts this novel cleaning step based 
+on technical replication effectively discarded sequence 
+artefacts resulting in a total number of 
+reads operational taxonomic units were constructed with 
+the clustering algorithm swarm resulting in 
+distinct unique v sequence swarms i e clusters 
+ v swarms reads of these unique 
+sequences were assigned to protists the remaining 
+of v swarms of reads which were excluded 
+
+figure planktonic protist ribosomal diversity a v rdna 
+otus rarefaction curve b saturation slope versus number of 
+v rdna reads for all of the samples analyzed herein a 
+slope of indicates that one novel sequence read can be re 
+covered if one million new reads are sequenced overall the 
+saturation values indicate that the extensive sampling effort un 
+covered the majority of eukaryotic ribosomal diversity both at 
+the european and the local level 
+
+
+
+metabarcoding and metagenomics e 
+
+https mbmg pensoft net
+
+ 
+
+figure phylogenetic affiliation of reads and otus to eukaryotic taxonomic groups the area of the portion of the pie chart rep 
+resents the number of reads whereas the angle represents the relative contribution to otu richness alveolates and in particular 
+ciliophora and dinoflagellata contributed nearly to global otu richness cryptophyta viridiplantae without embryophyta 
+as well as chrysophyceae and diatomea accounted for the majority of the remaining otus unlabeled pieces within the eukaryotic 
+supergroups comprise all other taxa affiliated with that group 
+
+from further analysis were affiliated with metazoa 
+v swarms reads embryophyta v 
+swarms reads the fungal lineages basidi 
+omycota ascomycota and glomeromycota v 
+swarms reads or not affiliated with the do 
+main eukarya v swarms reads 
+
+the applied sequencing depth was sufficient to ap 
+proach saturation of eukaryotic taxon richness both at 
+the local and european scale fig and resulted in x 
+ to x cleaned reads per sample average 
+reads per site at the european scale the rarefaction slope 
+dropped below above otus corresponding to 
+ reads towards the end of the rarefaction curve 
+the slope was x correspondingly one new otu 
+can be expected for million new reads using the 
+same saturation criterion i e a rarefaction slope of 
+local richness approached saturation between several hun 
+dred and otus corresponding to approximately 
+– of the european scale richness at the level of taxo 
+nomic groups ciliates followed by dinoflagellates 
+ green algae cryptophytes including 
+katablepharids chrysophytes and diatoms 
+ contributed most to richness fig the individ 
+
+ual otus contributing most strongly to overall eukaryotic 
+reads were affiliated with an uncultured katablepharid the 
+green alga desmodesmus insignis and several ciliates 
+
+high mountain lakes differ from lowland lakes in taxon 
+inventory and act as biogeographic islands
+
+the otu pool showed a good fit to the log normal dis 
+tribution fig a variation of v otu richness be 
+tween distinct lakes was high with a mean of ± 
+ v reads per lake community overlap between 
+lakes was generally low with only a few widespread taxa 
+ fig b suppl material taxon inventory differed 
+with elevation and high mountain lakes had a particular 
+ly low taxon overlap with lowland lakes high mountain 
+lake communities thus distinctively differed from their 
+surroundings accordingly the strongest community dis 
+similarities between neighbouring lakes occurred along 
+mountain ranges fig suppl material furthermore 
+different high mountain areas such as the pyrenees the 
+alps and the high tatras decisively differed in taxon in 
+ventory from each other high mountain areas are thus 
+biogeographic islands to protist distribution 
+
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+figure abundance distribution and ubiquity of otus 
+a global otu abundance distribution and fit to the preston 
+log normal model quasi poisson fit to octaves red curve and 
+maximized likelihood to log abundances blue curve most 
+otus were represented by to reads approximations fit 
+to the preston log normal model the maximized likelihood to 
+log abundances blue curve fit was superior and subsequently 
+used to calculate the preston veil which infers the number of 
+otus that we missed during our sampling preston veil was 
+ confirming that we captured most of the diversity as also 
+indicated by the rarefaction slopes preston vail and rarefaction 
+slopes confirm that holistic and general patterns of eukaryotic 
+freshwater diversity can be extracted from our data the unit 
+of the y axis is the number of otus b distribution of otus 
+among european lakes few otus were ubiquitous occurring 
+in the majority of lakes whereas most otus were specific to 
+one or only a few lakes unit of y axis as in a 
+
+figure delaunay triangulation plot based on the investigated 
+lakes the red squares indicate triangles of high dissimilarity 
+ i e larger than mean one standard deviation between the 
+three corner sampling sites community dissimilarities were 
+calculated based on wheighted distances using the distance 
+function x distance maximal triangle leg the areas of 
+high dissimilarity occur nearly exclusively along mountain 
+ranges in particular along the alpes the pyrenees the high ta 
+tras the carpathian mountains and the sierra nevada 
+
+beyond a shift in taxon inventory with elevation rich 
+ness pronouncedly decrease around m suppl ma 
+terial and v otu richness in high mountain lakes 
+above m ± was generally lower than in 
+low elevation lakes below m ± most v 
+otus were specific to a few sites and thus lakes with 
+a high proportion of otus with restricted distribution 
+considerably contributed to beta diversity contribution 
+
+to beta diversity was particularly high in high mountain 
+regions fig a indicating a higher degree of habi 
+tat isolation due to either ecological factors i e habitat 
+heterogeneity or geographic factors i e isolation due to 
+geographic barriers the high beta diversity data and the 
+high values within the distance matrix indicated that dif 
+ferent lakes harbour primarily different otus the analy 
+sis of beta diversity for all lakes indicated that of 
+beta diversity was due to replacement and of beta 
+diversity was due to abundance differences when the 
+analysis was restricted to lowland lakes of the northern 
+area cis the contribution of replacement was and 
+for the lowland lakes of the southern area trans to 
+ for lakes above m beta diversity was increased 
+and of this beta diversity was due to replacement 
+but only due to abundance differences 
+
+when restricting the analysis to presence absence 
+data most of the beta diversity was due to replacement 
+and only a minor part due to loss of species nestedness 
+i e for all lakes however the nestedness was 
+somewhat higher within the northern low elevation cis 
+group i e possibly even though hypothetical to 
+incomplete recolonization since the last glaciation events 
+whereas in high elevation lakes which possibly act as ref 
+uge the nestedness is very low i e 
+
+geographic distance shapes protist distribution patterns 
+and mountain ranges act as barriers to protist dispersal
+
+on the european scale environmental factors slighty 
+co varied with distance for lowland lakes but did not sys 
+tematically change with distance for high mountain lakes 
+ fig a in contrast community similarity generally 
+
+
+
+metabarcoding and metagenomics e 
+
+https mbmg pensoft net
+
+ 
+
+figure otu distribution and protist biogeographic regions 
+in europe a richness and contribution to beta diversity of in 
+dividual lakes richness is illustrated by grey scale of the sym 
+bols dark shades indicate a high richness whereas light shades 
+indicate a low richness the size of the symbols indicates the 
+relative contribution to beta diversity with large symbols indi 
+cating a high contribution richness of individual lakes varied 
+between and lakes in high mountain regions tended 
+to contribute at an above average level to beta diversity b 
+protist biogeographic regions as calculated by geo constrained 
+hierarchical clustering high mountain ranges appear as biogeo 
+graphic islands the geographic regions largely comprising high 
+mountain protist communities are depicted in yellow further 
+more the lowland areas are biogeographically structured which 
+is mainly due to an east west gradient even though mountain 
+ranges affect protist community similarity between sites they 
+do not necessarily separate biogeographic regions 
+
+decreased with increasing distance both for highland and 
+lowland sites fig b a co inertia analysis using the 
+r package ade of the normalized community structures 
+ hellinger bray transformed versus the scaled environ 
+mental variables ph temperature and log conductivity 
+indicated no strong correspondence between community 
+composition and environmental factors rv value of 
+thus corroborating a contribution of geographic distance 
+and historic factors to patterns community composition 
+
+figure effect of geographic distance on community dissim 
+ilarity a habitat dissimilarity for high mountain lakes above 
+ m and for lowland lakes below m the latter were 
+either separated cis trans pairs or not separated by mountain 
+ranges cis cis pairs i e north of the alps pyrenees and high 
+tatras and trans trans pairs i e south of the alps pyrenees and 
+high tatras regression lines are shown for highland blue 
+lowland cis cis and trans trans pairs yellow and lowland pairs 
+separated by mountain ranges orange habitat dissimilarity 
+increased with distance for lowland lakes but did not change 
+for high mountain lakes b bray curtis community dissim 
+ilarity for the same groups as in a community dissimilarity 
+in high mountain regions increased with distance even though 
+habitat dissimilarity did not change with distance for lowland 
+lakes both habitat characteristics and community composition 
+changed with distance however the effect of distance on habitat 
+dissimilarity was independent on whether the lakes were separat 
+ed by mountain ranges or not in contrast community dissimilar 
+ity was higher at low and intermediate distance for lakes separat 
+ed by mountain ranges accordingly the slope of the regression 
+line for cis trans pairs was significantly lower as for cis cis and 
+trans trans pairs p the effect of geographic barriers 
+levels off for longer distances above approximately km 
+
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+beyond the general effect of geographic distance geo 
+graphic barriers such as mountain ranges contributed sig 
+nificantly to community dissimilarity between lowland 
+sites on a european scale mean community similarity 
+was higher for lakes within a given lowland area as com 
+pared to community similarities of lakes between areas 
+which were separated by a mountain range fig b for 
+instance separate analyses of sites north of the alps and 
+south of the alps resulted in comparatively high commu 
+nity similarities over a short distance and a pronounced 
+decrease of community similarity with geographic dis 
+tance in contrast community similarity was generally 
+low for habitat pairs across a mountain range already for 
+short distances and geographic distance had a minor effect 
+on community similarity in the latter case thus biogeog 
+raphy in particular geographic distance and geographic 
+barriers shapes protist distribution pattern interestingly 
+distant lakes still share a fraction of their taxon inven 
+tory clearly demonstrating that geographic distance and 
+geographic structures such as mountains are not absolute 
+barriers to protist dispersal the effects of geographic dis 
+tance and geographic barriers are however not strictly 
+additive in contrast both factors add to community dis 
+similarity up to a certain level of background community 
+similarity shaped by environmental variables 
+
+protist diversity in european lakes is structured into bio 
+geographic regions
+
+despite a generally low community similarity between 
+different lakes groups of lakes sharing a higher level of 
+community similarity can be identified lakes sharing 
+a higher degree of community similarity form clusters 
+reflecting biogeographic provinces on a european scale 
+ fig b notably mountain ranges are borders to protist 
+biogeographic provinces as for animals and plants as well 
+this pattern was consistent in particular for the alps the 
+pyrenees and the high tatras the taxon inventory of high 
+mountain regions strongly deviates from that of lowland 
+regions and lowland areas are separated from each oth 
+er based on their taxon inventory into distinct provinces 
+these provinces do not correspond to physicochemical 
+patterns or to the distribution of soil types or geology in 
+europe suggesting that factors related to geographic dis 
+tance and dispersal are key reasons for this separation it 
+must be noted that towards the edges of the investigation 
+area the delimitation of such biogeographic regions be 
+come more uncertain due to the shortage of neighboring 
+sampling sites or sites in between for instance whether 
+the lakes indicated by the blue squares in eastern spain 
+and northern italy represent a connected biogeographic 
+province or rather two separate areas which share a high 
+similarity by chance remains uncertain 
+
+the decreasing effect of mountain ranges in separating 
+protist communities with distance between sites indicates 
+that geographic barriers act only as relative dispersal bar 
+riers for protists they do not inhibit dispersal but rather 
+slow it down and thereby largely act on short to interme 
+
+diate distances for larger distances the separating effect 
+of geographic barriers adding to that of geographic dis 
+tance alone largely vanishes as demonstrated by cis cis 
+and trans trans i e within a distinct lowland area ver 
+sus cis trans i e lowland sites separated by a mountain 
+range comparisons of habitat dissimilarities fig b 
+
+discussion
+the temporal and spatial pattern of eukaryotic microbi 
+al diversity is underexplored and has only recently come 
+into focus green et al lara et al livermore 
+and jones nolte et al even though ecolog 
+ical factors are largely responsible for structuring protist 
+communities we found indications that community com 
+position is possibly imprinted by deeper older patterns 
+reflecting the recent geological history and the geograph 
+ic separation by mountain ranges in europe 
+
+eukaryotic microbial molecular diversity in european 
+freshwaters
+
+protist diversity is undoubtedly tremendous bass 
+ countway et al countway et al de var 
+gas et al moreira and lópez garcı́a consid 
+erable research effort has been focused on marine diver 
+sity countway et al countway et al campo 
+et al lovejoy et al lópez garcía et al 
+ massana and pedrós alió worden et al 
+ despite the global importance of freshwater re 
+sources and the heterogeneity of freshwater systems their 
+biological diversity has been comparatively neglected 
+ filker et al grossmann et al a kammerland 
+er et al lepère et al simon et al taib 
+et al triadó margarit and casamayor slape 
+ta et al our study revealed a high diversity of mi 
+crobial freshwater eukaryotes and a high level of region 
+al separation the majority of otus was affiliated with 
+alveolates indicating a high diversity within this group 
+in particular within alveolates the ciliophora showed 
+the highest richness and comprised both taxa with a re 
+stricted distribution and taxa with a broad distribution in 
+contrast dinoflagellates and chytridiomycetes comprised 
+a high number of otus specific to one or a few lakes 
+indicating a high degree of specialization whereas in 
+cryptomonadales and katablepharidae most otus were 
+generalist taxa occurring in many lakes 
+
+although comparatively smaller freshwater systems 
+are usually more heterogeneous than marine systems and 
+offer a larger array and diversity of ecological niches si 
+mon et al freshwater communities are therefore 
+expected to be much more differentiated between sites 
+than marine communities barberán et al logares 
+et al in fact we found a low taxon overlap be 
+tween lakes and a correspondingly high contribution to 
+beta diversity of individual habitats in accordance with 
+our findings a large genetic divergence between distinct 
+
+
+
+metabarcoding and metagenomics e 
+
+https mbmg pensoft net
+
+ 
+
+lake microbial communities has been reported in recent 
+deep sequencing campaigns in particular for the rare bio 
+sphere filker et al grossmann et al b tri 
+adó margarit and casamayor in particular dis 
+tribution patterns of rare taxa seem to vary widely and 
+to deviate from the rather uniform patterns in abundant 
+protists grossmann et al a schiaffino et al 
+this confirms recent claims that distribution patterns are 
+almost certainly differential with some taxa being ubiq 
+uitous whereas others are rather endemic as proposed for 
+instance by the moderate endemicity model 
+
+our survey aimed to cover all eukaryotic lineages but 
+universal primers may miss some relevant taxonomic 
+groups massana et al distribution patterns are 
+further obscured by partly inappropriate species delimi 
+tation in protists mann and vanormelingen sco 
+ble and cavalier smith appropriate species de 
+limitation and thus species distributions are even more 
+nebulous for the vast number of so far uncultivatable 
+protist lineages massana et al assertions on the 
+absolute species numbers and species inventory are there 
+fore imprecise and subject to numerous assumptions it is 
+therefore important to keep in mind that some taxonomic 
+groups are underrepresented and may exhibit patterns de 
+viating from the general trend keeping this in mind the 
+community composition corresponded to those known 
+from other studies e g lange et al kammerlander 
+et al filker et al 
+
+our analysis based on european lakes yielded 
+in distinct unique v sequence swarms rar 
+efaction analysis as well as preston vein indicated that 
+we captured most of the diversity however molecular 
+diversity inventories based on high throughput sequenc 
+ing techniques must be interpreted with caution as high 
+throughput sequencing platforms are error prone and 
+in particular for sequences exclusively present in one 
+or very few samples pcr artefacts and sequencing er 
+rors must be taken into account degnan and ochman 
+ lange et al the ampiconduo filter large 
+ly removed such sequences by splitting the samples fol 
+lowed by two independent pcrs and sequencing steps for 
+each sample only errors that occurred independently in 
+both branches of the split sampling protocol may pass the 
+filter even though it is highly unlikely that high numbers 
+of artificial sequences pass the filter it is known that some 
+artefacts such as formation of some chimeric sequences 
+may in part occur systematically fonseca et al 
+and thus escape the filter in fact particularly some chi 
+meric sequences pass the ampliconduo filter and not all 
+of these sequences are recognized by chimera filters such 
+as uchime lange et al therefore it is likely 
+that some artificial sequences passed the filter steps even 
+though the share of sequence artefacts is probably lower 
+as compared to past standard filtering algorithms how 
+ever erroneous sequences should mostly be restricted to 
+a single sample and thus not or hardly affect our analyses 
+of community pattern across samples the high number 
+of otus restricted to a single lake may nevertheless be 
+
+overestimated it is likely however that due to the strict 
+filtering steps the majority of these otus represent true 
+biological diversity 
+
+for some samples the number of otus was considera 
+bly lower as expected this may be due to several factors 
+first our filter strategy including the ampliconduo filter 
+and swarm reduced the number of otus considerably 
+in particular ampliconduo filtered out many presuma 
+bly artificial sequences most of which had low to medi 
+um read numbers therefore the total number of otus 
+should be expected to be somewhat smaller as compared 
+to studies which do not apply this or a comparable filter 
+ lange et al second the comparatively long am 
+plicon v its and the long primer constructs also 
+may miss some sequences as it is generally known for 
+long primer constructs and long amplicons huber et al 
+ third some samples were strongly dominated by 
+one or very few taxa due to algal blooms or strong domi 
+nance of a distinct bacterivore for instance lake pford 
+ter see which was strongly dominated by a katablepha 
+rid yielded in as few as otus in such communities 
+a lower taxon coverage was to be expected which may 
+even have been self inforcing as the dominance of one 
+distinct sequence may cause a negative selection of rare 
+sequences during pcr thereby further decreasing detec 
+tion limits even though the total number of otus was 
+certainly lower than the actual number of species present 
+the data structure as well as observations indicate that bi 
+ological reasons i e community structure is presumably 
+largely responsible for low otu numbers in these lakes 
+in sum even though in some lakes otu number was 
+surprisingly low data structure and observations during 
+sampling indicate that a strong dominance by few otus 
+in these lakes is presumably largely real additional taxa 
+even though presumably extremely rare are certainly to 
+be expected however for the comparative analyses the 
+applied hellinger transformation balanced potentially de 
+viating distributions and the analysis of distribution pat 
+terns is much less affected when based on defined units 
+of biological diversity such as the herein used v otus 
+
+contribution of biogeography and historical factors to 
+the differentiation of freshwater communities
+
+ecological factors in particular abiotic factors such 
+as nutrient concentrations temperature and light and 
+uv intensity are well known to affect protist commu 
+nity composition e g sommaruga sonntag et al 
+ tolotti et al tolotti et al triadó mar 
+garit and casamayor however recent data pro 
+vide increasing evidence that beyond the ecological fac 
+tors also geographic distance and historical factors affect 
+protist distribution at least on large scales filker et al 
+ schiaffino et al fernández et al eu 
+rope is a well investigated if not the best investigated 
+area for biogeographic patterns hewitt schmitt 
+ the european mountain ranges – the alps in the 
+center of europe and further mountain ranges towards the 
+
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+west pyrenees massif central the south apennine 
+the east high tatras carpathian mountains and to the 
+north scandinavian mountain ranges – constitute a 
+unique area for studying the effect of distribution barriers 
+
+based on the largest freshwater data set known to us 
+we demonstrate a significant contribution of geographical 
+distance and historical factors to protist distribution pat 
+terns we found spatial patterns of protist diversity with 
+microbial community composition varying both with alti 
+tude in mountain ranges and with geographical distance 
+seasonal taxon fluctuations influence protist communi 
+ty composition and may interfere with spatial analyses 
+when samples originate from different seasons bock et 
+al massana et al nolte et al consid 
+ering that all samples in our campaign were taken in au 
+gust and that seasonal effects and plankton succes 
+sion dynamics is presumably lower in mid summer lake 
+plankton communities than in spring succession com 
+munities naselli flores et al the observed diver 
+gence presumably reflects largely spatial differentiation of 
+lake plankton communities rather than seasonal variation 
+ grossmann et al b however due to the large area 
+included in the analysis a certain bias due to differential 
+stages of the seasonal succession cannot be excluded 
+
+recently de vargas et al have shown that the 
+correlation between community similarity and geograph 
+ic distance in marine ecosystems levels off for distances 
+greater than km our data confirm a similar rela 
+tionship for limnic lowland systems which act however 
+at shorter distances and is modified by local and regional 
+geography in particular bray curtis dissimilarity sup 
+plementary material increased with distance but this 
+correlation already levelled off for large distances and 
+virtually vanished for sampling sites separated by geo 
+graphic barriers this indicates that protist freshwater 
+communities in europe are presumably largely driven not 
+by geographic but by ecological factors 
+
+for instance we found a general trend of decreas 
+ing richness for high elevation lakes i e high mountain 
+lakes at elevations above approximately m showed 
+a lower mean richness as compared to lakes at low el 
+evations this may be due to either the generally small 
+size of mountain lakes as would be expected from spe 
+cies area relationships or indicate differential patterns of 
+richness depending on elevation as small lakes at low 
+elevation can show a high richness we suspect that both 
+habitat size and elevation or factors co varying with ele 
+vation may be repsonsible for the low richness 
+
+even though ecological factors are certainly of prima 
+ry importance explaining for protist community composi 
+tion the contribution of geographic distance and historical 
+factors or geographic barriers seems to have a stronger 
+impact on protist freshwater communities than on marine 
+communities cf de vargas et al further for high 
+mountain ranges the effect of geographic distance is more 
+pronounced as these regions are more isolated and may 
+act as biogeographic islands at least to species with re 
+stricted dispersal capabilities in this context it must be 
+
+noted that a considerable portion of protist distribution 
+pattern is not explained by geograhic separation indicat 
+ing that it is either restricted by other factors i e presum 
+ably ecology or not restricted by the geographic barriers 
+i e suggesting that the significance of geographic barriers 
+may strongly differ between taxa however our data pro 
+vide evidence that historical factors contribute to shaping 
+protist distribution pattern fernández et al beyond 
+the presumably predominant effects of ecological factors 
+
+according to the generally high beta diversity our 
+study revealed a high proportion of taxa exclusively 
+found in only one or a few lakes the very low contribtion 
+of nestedness of the high elevation lakes and the some 
+what higher contribution of nestedness to beta diversity 
+in the northern lowland lakes may be interpreted as his 
+torical signals of the last glaciation and the post glacial 
+colonisation however as these differences are weak the 
+interpretation as a historical signal remains hypothetical 
+how far postglacial resettlement geographical barri 
+ers other historical reasons ecological parameters like 
+nutrient supply or just biotic influences by other organ 
+ismic groups dominate the exceptionality of the protist 
+communities within lakes remains to be shown further 
+it is likely that ecological and historical factors interact 
+in shaping protist distribution pattern fernández et al 
+ irrespective of protist community differentiation 
+due to ecological factors and geographic distance we 
+found a weak but nevertheless significant effect of moun 
+tain ranges as geographic barriers contributing to the sep 
+aration of low elevation lakes fig future large scale 
+analyses including cross continental comparisons of such 
+large datasets in particular of lakes of a similar trophic 
+status will be a good test to confirm large scale patterns 
+of geographic differentiation in protists and to differenti 
+ate regional from global patterns 
+
+conclusions
+mountain ranges have long been accepted as dispersal 
+barriers for larger animals and plants but their sig 
+nificance as dispersal barriers for microbes remained 
+unclear we demonstrate a differential impact of geo 
+graphic distance for lowland and for highland lakes 
+biodiversity and richness of high mountain lakes dif 
+fer from that of lowland lakes in accordance with the 
+patterns for animals and plants nogués bravo et al 
+ romdal and grytnes the mean protist rich 
+ness was lower in high mountain lakes than in lowland 
+lakes due to a high variation of the taxon inventory 
+of individual lakes this correlation only becomes ap 
+parent for high sampling numbers and therefore does 
+not contradict more confined studies on smaller sample 
+sets grossmann et al b however as a partic 
+ularly high fraction of taxa in high mountain lakes is 
+presumably specific to only one or just a few lakes the 
+high mountain lakes strongly contribute to beta diversi 
+ty despite the low taxon inventory 
+
+
+
+metabarcoding and metagenomics e 
+
+https mbmg pensoft net
+
+ 
+
+furthermore mountain ranges act as islands of high 
+mountain protist biodiversity and geographic distance ac 
+cordingly clearly contributed to community dissimilarity 
+however it must be noted that the overall contribution of 
+geography to protist distribution pattern in lakes was low 
+but nevertheless significant other factors such as abiot 
+ic and biotic factors presumably contribute to community 
+composition much stronger as geography as it has been 
+suggested in numerous studies beisner et al filker 
+et al and references therein with respect to low 
+land lakes mountain ranges act as barriers to the dispersal 
+of protist biodiversity as already known for macroorgan 
+isms schmitt thus protist community dissimilar 
+ity is high even at short distances when geographic barri 
+ers separate the habitats in this respect protist distribution 
+patterns are similar to those of metazoans and land plants 
+however the comparatively low effect of mountain rang 
+es indicate that geographic and historical factors even 
+though certainly present are less pronounced in protist 
+communities as compared to plant and animal commu 
+nities mountain ranges can block direct dispersal routes 
+of microbes or at least of some microbial taxa but a clear 
+separation of biogeographic regions as observed for ani 
+mals and plants is much less pronounced and levels off for 
+lowland lakes on larger scales nevertheless geographic 
+structures affect protist distribution patterns on a europe 
+an scale as reflected by distinct biogeographic regions 
+
+acknowledgements
+we thank the german research foundation projects bo 
+ and bo for financial support we 
+thank joachim stadel verena stadel susann chamrad 
+steffen jost and geoffrey ongondo for support during 
+the sampling campaign we thank the department ecol 
+ogy biodiversity evolution of animals at the univer 
+sity salzburg the department plant ecophysiology at 
+the university konstanz the institut de ciències del mar 
+in barcelona the division of clinical physiology at the 
+university of debrecen the university of potsdam and 
+the igb neuglobsow for supplying liquid nitrogen to the 
+teams during the sampling campaign 
+
+references
+albach dc schönswetter p tribsch a comparative phylogeog 
+
+raphy of the veronica alpina complex in europe and north america 
+molecular ecology – https doi org 
+j x x
+
+andrews s a quality control tool for high throughput sequence 
+data https www bioinformatics babraham ac uk projects fastqc 
+ accessed on 
+
+azam f fenchel t field j gray j meyer reil l thingstad f 
+the ecological role of water column microbes in the sea marine 
+ecology progress series – https doi org 
+meps 
+
+azovsky a tikhonenkov d mazei y an estimation of the 
+global diversity and distribution of the smallest eukaryotes bioge 
+ography of marine benthic heterotrophic flagellates protist 
+ – https doi org j protis 
+
+babik w branicki w sandera m litvinchuk s borkin lj irwin jt 
+rafiński j mitochondrial phylogeography of the moor frog 
+rana arvalis molecular ecology – https doi 
+org j x x
+
+barberán a fernández guerra a auguet jc galand pe casamayor 
+eo phylogenetic ecology of widespread uncultured clades of 
+the kingdom euryarchaeota molecular ecology – 
+https doi org j x x
+
+bass d phylum specific environmental dna analysis reveals 
+remarkably high global biodiversity of cercozoa protozoa inter 
+national journal of systematic and evolutionary microbiology 
+ – https doi org ijs 
+
+bass d boenigk j everything is everywhere a twenty first cen 
+tury de reconstruction with respect to protists biogeography of 
+microscopic organisms cambridge university press cambridge 
+ – https doi org cbo 
+
+beisner be peres neto pr lindström es barnett a longhi ml 
+ the role of environmental and spatial processes in struc 
+turing lake communities from bacteria to fish ecology 
+ – https doi org 
+troeas co 
+
+bik hm sung w de ley p baldwin jg sharma j rocha olivares a 
+thomas wk metagenetic community analysis of microbial 
+eukaryotes illuminates biogeographic patterns in deep sea and shal 
+low water sediments molecular ecology – https 
+doi org j x x
+
+bock c medinger r jost s psenner r boenigk j seasonal 
+variation of planktonic chrysophytes with special focus on dinobry 
+on fottea – https doi org fot 
+
+boenigk j arndt h bacterivory by heterotrophic flagellates 
+community structure and feeding strategies antonie van leeuwen 
+hoek – – https doi org a 
+
+browne j the secular ark studies in the history of biogeogra 
+phy yale university press – https doi org 
+s 
+
+campo jd guillou l hehenberger e logares r lópez garcía p mas 
+sana r ecological and evolutionary significance of novel 
+protist lineages european journal of protistology – https 
+doi org j ejop 
+
+cardinale b duffy je gonzalez a hooper d perrings c venail p 
+narwani a mace g tilman d wardle d kinzig a daily g lo 
+reau m grace j larigauderie a srivastava d naeem s bio 
+diversity loss and its impact on humanity nature – 
+https doi org nature 
+
+caron d protistan herbivory and bacterivory methods in micro 
+biology https doi org s 
+
+casteleyn g leliaert f backeljau t debeer a kotaki y rhodes l 
+lundholm n sabbe k vyverman w limits to gene flow 
+in a cosmopolitan marine planktonic diatom proceedings of the 
+national academy of sciences – https doi 
+org pnas 
+
+chambers j soda functions and examples for “software for 
+data analysis” r package version https cran r project 
+org package soda accessed on 
+
+https doi org j x x
+https doi org j x x
+https www bioinformatics babraham ac uk projects fastqc 
+https doi org meps 
+https doi org meps 
+https doi org j protis 
+https doi org j x x
+https doi org j x x
+https doi org j x x
+https doi org ijs 
+https doi org cbo 
+https doi org b troeas d co 
+https doi org b troeas d co 
+https doi org j x x
+https doi org j x x
+https doi org fot 
+https doi org a 
+https doi org s 
+https doi org s 
+https doi org j ejop 
+https doi org j ejop 
+https doi org nature 
+https doi org s 
+https doi org pnas 
+https doi org pnas 
+https cran r project org package soda
+https cran r project org package soda
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+countway p gast r dennett m savai p rose j caron d dis 
+tinct protistan assemblages characterize the euphotic zone and deep 
+sea m of the western north atlantic sargasso sea and gulf 
+stream environmental microbiology – https doi 
+org j x
+
+countway pd gast rj savai p caron da protistan diversi 
+ty estimates based on s rdna from seawater incubations in the 
+western north atlantic journal of eukaryotic microbiology 
+ – https doi org j x
+
+degnan ph ochman h illumina based analysis of microbial 
+community diversity the isme journal – https doi 
+org ismej 
+
+de vargas c audic s henry n decelle j mahé f logares r lara e 
+berney c le bescot n probert i carmichael m poulain j romac 
+s colin s aury j bittner l chaffron s dunthorn m engelen s 
+flegontova o guidi l horák a jaillon o lima mendez g lukeš 
+j malviya s morard r mulot m scalco e siano r vincent f 
+zingone a dimier c picheral m searson s kandels lewis s 
+acinas sg bork p bowler c gorsky g grimsley n hingamp p 
+iudicone d not f ogata h pesant s raes j sieracki me speich 
+s stemmann l sunagawa s weissenbach j wincker p karsenti 
+e eukaryotic plankton diversity in the sunlit ocean science 
+ https doi org science 
+
+dray s dufour ab the ade package implementing the duality 
+diagram for ecologists journal of statistical software – 
+https doi org jss v i 
+
+dray s blanchet g borcard d guenard g jombart t larocque g 
+legendre p wagner h adespatial multivariate multiscale 
+spatial analysis https cran r project org package adespatial 
+ accessed on 
+
+edgar r haas b clemente j quince c knight r uchime 
+improves sensitivity and speed of chimera detection bioinformatics 
+ – https doi org bioinformatics btr 
+
+fernández l fournier b rivera r lara e mitchell ed hernández 
+c water energy balance past ecological perturbations and 
+evolutionary constraints shape the latitudinal diversity gradient of 
+soil testate amoebae in south western south america global ecol 
+ogy and biogeography – https doi org 
+geb 
+
+fernández ld hernández ce schiaffino mr izaguirre i lara e 
+ geographical distance and local environmental conditions 
+drive the genetic population structure of a freshwater microalga 
+ bathycoccaceae chlorophyta in patagonian lakes fems micro 
+biol ecol https doi org doi org femsec fix 
+
+filker s sommaruga r vila i stoeck t microbial eukaryote 
+plankton communities of high mountain lakes from three continents 
+exhibit strong biogeographic patterns molecular ecology 
+ – https doi org mec 
+
+foissner w soil protozoa fundamental problems ecological 
+significance adaptions in ciliates and testaceans bioindicators and 
+guide to the literature progress in protistology – 
+
+foissner w biogeography and dispersal of micro organisms a 
+review emphasizing protists acta protozoologica – 
+
+fonseca vg nichols b lallias d quince c carvalho gr power dm 
+creer s sample richness and genetic diversity as drivers of 
+chimera formation in nssu metagenetic analyses nucleic acids 
+research e e https doi org nar gks 
+
+gimmler a korn r vargas cd audic s stoeck t the tara 
+oceans voyage reveals global diversity and distribution patterns of 
+marine planktonic ciliates scientific reports https doi 
+org srep 
+
+green j holmes a westoby m oliver i briscoe d dangerfield m 
+gillings m beattie a spatial scaling of microbial eukary 
+ote diversity nature – https doi org 
+nature 
+
+grossmann l jensen m pandey r jost s bass d psenner r boenigk 
+j a molecular investigation of protistan diversity along an el 
+evation transect of alpine lakes aquatic microbial ecology 
+ – https doi org ismej 
+
+grossmann l jensen m heider d jost s glücksman e hartikainen 
+h mahamdallie ss gardner m hoffmann d bass d boenigk j 
+ b protistan community analysis key findings of a large scale 
+molecular sampling the isme journal – https 
+doi org ismej 
+
+habbe ka stratigraphical terms for the quaternary of the south 
+german alpine foreland in litt t ed stratigraphie von deutsch 
+land – quartär eiszeitalter und gegenwart – 
+
+hewitt g the genetic legacy of the quaternary ice ages nature 
+ – https doi org 
+
+hewitt gm genetic consequences of climatic oscillations in 
+the quaternary philosophical transactions of the royal society b 
+biological sciences – https doi org 
+rstb 
+
+hillebrand h on the generality of the latitudinal diversity 
+gradient the american naturalist – https doi 
+org 
+
+huber j morrison h huse s neal p sogin m mark welch d ef 
+fect of pcr amplicon size on assessments of clone library microbial 
+diversity and community structure environmental microbiology 
+ – https doi org j x
+
+humboldt av bonpland a ideen zu einer geographie der 
+pflanzen nebst einem naturgemälde der tropenländer auf beobach 
+tungen und messungen gegründet welche vom ten grade nördli 
+cher bis zum ten grade südlicher breite in den jahren 
+ und angestellt worden sind von al von humboldt 
+und a bonpland bearbeitet und herausgegeben von dem erstern 
+cotta verlag tübingen https doi org bhl title 
+
+izaguirre i saad j schiaffino mr vinocur a tell g sánchez ml 
+allende l sinistro r drivers of phytoplankton diversity in 
+patagonian and antarctic lakes across a latitudinal gradient 
+km the importance of spatial and environmental factors hydrobio 
+logia – https doi org s 
+
+jensen m v clust r r script for modifying dna se 
+quence abundance tables clustering of related sequences e g ssu 
+its according to identical sub sequences https github 
+com manfred uni essen v cluster accessed on 
+
+kammerlander b breiner h filker s sommaruga r sonntag b 
+stoeck t high diversity of protistan plankton communities 
+in remote high mountain lakes in the european alps and the hima 
+layan mountains fems microbiology ecology https doi 
+org femsec fiv 
+
+katz l mcmanus g snoeyenbos west o griffin a pirog k costas 
+b foissner w reframing the ‘everything is everywhere’ de 
+bate evidence for high gene flow and diversity in ciliate morphospe 
+
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org ismej 
+https doi org ismej 
+https doi org science 
+https doi org jss v i 
+https cran r project org package adespatial
+https doi org bioinformatics btr 
+https doi org geb 
+https doi org geb 
+https doi org doi org femsec fix 
+https doi org mec 
+https doi org nar gks 
+https doi org srep 
+https doi org srep 
+https doi org nature 
+https doi org nature 
+https doi org ismej 
+https doi org ismej 
+https doi org ismej 
+https doi org 
+https doi org rstb 
+https doi org rstb 
+https doi org 
+https doi org 
+https doi org j x
+https doi org bhl title 
+https doi org s 
+https github com manfred uni essen v cluster
+https github com manfred uni essen v cluster
+https doi org femsec fiv 
+https doi org femsec fiv 
+
+
+metabarcoding and metagenomics e 
+
+https mbmg pensoft net
+
+ 
+
+cies aquatic microbial ecology – https doi org 
+ame 
+
+lange a jost s heider d bock c budeus b schilling e strittmat 
+ter a boenigk j hoffmann d ampliconduo a split sam 
+ple filtering protocol for high throughput amplicon sequencing of 
+microbial communities plos one e https doi 
+org journal pone 
+
+lara e mitchell ed moreira d garcía pl highly diverse and 
+seasonally dynamic protist community in a pristine peat bog protist 
+ – https doi org j protis 
+
+legendre p a r package to compute space constrained or 
+time constrained agglomerative clustering from a dissimilarity ma 
+trix computed from multivariate data https github com philippec 
+fonctions r git tree master const clust accessed on 
+
+legendre p b interpreting the replacement and richness differ 
+ence components of beta diversity global ecology and biogeogra 
+phy – https doi org geb 
+
+lepère c domaizon i debroas d community composition of 
+lacustrine small eukaryotes in hyper eutrophic conditions in relation 
+to top down and bottom up factors fems microbiology ecology 
+ – https doi org j x
+
+litt t behre ke meyer kd stephan hj wansa s stratigraph 
+ical terms for the quaternary of the north german glaciation area 
+in litt t ed stratigraphie von deutschland – quartär eiszeitalter 
+und gegenwart – 
+
+livermore ja jones se local global overlap in diversity in 
+forms mechanisms of bacterial biogeography the isme journal 
+ – https doi org ismej 
+
+logares r boltovskoy a bensch s laybourn parry j rengefors k 
+ genetic diversity patterns in five protist species occurring 
+in lakes protist – https doi org j pro 
+tis 
+
+lópez garcía p rodríguez valera f pedrós alió c moreira d 
+ unexpected diversity of small eukaryotes in deep sea 
+antarctic plankton nature – https doi 
+org 
+
+lovejoy c massana r pedros alio c diversity and distribution 
+of marine microbial eukaryotes in the arctic ocean and adjacent 
+seas applied and environmental microbiology – 
+https doi org aem 
+
+mahé f rognes t quince c vargas cd dunthorn m swarm 
+robust and fast clustering method for amplicon based studies peerj 
+ https doi org peerj 
+
+mann d vanormelingen p an inordinate fondness the number 
+distributions and origins of diatom species journal of eukaryotic 
+microbiology – https doi org jeu 
+
+masella ap bartram ak truszkowski jm brown dg neufeld jd 
+ pandaseq paired end assembler for illumina sequences 
+bmc bioinformatics https doi org 
+ 
+
+massana r pedrós alió c unveiling new microbial eukaryotes 
+in the surface ocean current opinion in microbiology –
+ https doi org j mib 
+
+massana r campo jd sieracki me audic s logares r explor 
+ing the uncultured microeukaryote majority in the oceans reevalu 
+ation of ribogroups within stramenopiles the isme journal 
+ – https doi org ismej 
+
+massana r gobet a audic s bass d bittner l boutte c cham 
+bouvet a christen r claverie j decelle j dolan j dunthorn m 
+edvardsen b forn i forster d guillou l jaillon o f kooistra 
+wc logares r mahé f not f ogata h pawlowski j pernice m 
+probert i romac s richards t santini s shalchian tabrizi k sia 
+no r simon n stoeck t vaulot d zingone a vargas cd 
+marine protist diversity in european coastal waters and sediments as 
+revealed by high throughput sequencing environmental microbi 
+ology – https doi org 
+
+moreira d lópez garcı́a p the molecular ecology of microbial 
+eukaryotes unveils a hidden world trends in microbiology 
+ – https doi org s x 
+
+naselli flores l padisák j bach mf phytoplankton and equi 
+librium concept the ecology of steady state assemblages pro 
+ceedings of the th workshop of the international association of 
+phytoplankton taxonomy and ecology iap springer pp 
+
+nogués bravo d araújo mb romdal t rahbek c scale effects 
+and human impact on the elevational species richness gradients na 
+ture – https doi org nature 
+
+nolte v pandey rv jost s medinger r oottenwälder b boenigk j 
+schlötterer c contrasting seasonal niche separation between 
+rare and abundant taxa conceals the extent of protist diversity mo 
+lecular ecology – https doi org j 
+ x x
+
+oksanen j blanchet fg friendly m kindt r legendre p mcglinn 
+d vegan community ecology package cran https 
+cran r project org package vegan accessed on 
+
+pomeroy l the ocean’s food web a changing paradigm bio 
+science – https doi org 
+
+renka rj gebhardt a eglen s zuyev s white d tripack trian 
+gulation of irregularly spaced data r package version https 
+cran r project org package tripack accessed on 
+
+romdal t grytnes j an indirect area effect on elevational 
+species richness patterns ecography – https doi 
+org j x
+
+santucci f emerson bc hewitt gm mitochondrial dna 
+phylogeography of european hedgehogs molecular ecology 
+ – https doi org j x x
+
+schiaffino mr lara e fernández l balagué v singer d seppey cw 
+massana r izaguirre i microbial eukaryote communities 
+exhibit robust biogeographical patterns along a gradient of pata 
+gonian and antarctic lakes environmental microbiology 
+ – https doi org 
+
+schmieder r edwards r quality control and preprocessing of 
+metagenomic datasets bioinformatics – https doi 
+org bioinformatics btr 
+
+schmitt t biogeographical and evolutionary importance of the 
+european high mountain systems frontiers in zoology 
+https doi org 
+
+scoble jm cavalier smith t scale evolution in paraphyso 
+monadida chrysophyceae sequence phylogeny and revised tax 
+onomy of paraphysomonas new genus clathromonas and new 
+species european journal of protistology – https 
+doi org j ejop 
+
+sherr b sherr e caron d vaulot d worden a oceanic pro 
+tists oceanography – https doi org ocean 
+og 
+
+https doi org ame 
+https doi org ame 
+https doi org journal pone 
+https doi org journal pone 
+https doi org j protis 
+https github com philippec fonctions r git tree master const clust
+https github com philippec fonctions r git tree master const clust
+https doi org geb 
+https doi org j x
+https doi org ismej 
+https doi org j protis 
+https doi org j protis 
+https doi org 
+https doi org 
+https doi org aem 
+https doi org peerj 
+https doi org jeu 
+https doi org 
+https doi org 
+https doi org j mib 
+https doi org ismej 
+https doi org 
+https doi org s x 
+https doi org nature 
+https doi org j x x
+https doi org j x x
+https cran r project org package vegan
+https cran r project org package vegan
+https doi org 
+https cran r project org package tripack
+https cran r project org package tripack
+https doi org j x
+https doi org j x
+https doi org j x x
+https doi org 
+https doi org bioinformatics btr 
+https doi org bioinformatics btr 
+https doi org 
+https doi org j ejop 
+https doi org j ejop 
+https doi org oceanog 
+https doi org oceanog 
+
+
+https mbmg pensoft net
+
+jens boenigk et al geographic distance and mountain ranges structure 
+
+simon m lópez garcía p deschamps p moreira d restoux g ber 
+tolino p jardillier l marked seasonality and high spatial 
+variability of protist communities in shallow freshwater systems 
+the isme journal – https doi org is 
+mej 
+
+slapeta j moreira d lopez garcia p the extent of protist di 
+versity insights from molecular ecology of freshwater eukaryotes 
+proceedings of the royal society b biological sciences 
+ – https doi org rspb 
+
+sommaruga r the role of solar uv radiation in the ecology of 
+alpine lakes journal of photochemistry and photobiology b biolo 
+gy – https doi org s 
+
+sonntag b summerer m sommaruga r factors involved in the 
+distribution pattern of ciliates in the water column of a transparent 
+alpine lake journal of plankton research – https 
+doi org plankt fbq 
+
+sprengel k de candolle ap grundzüge der wissenschaftlichen 
+pflanzenkunde zu vorlesungen c cnobloch leipzig 
+
+taib n mangot j domaizon i bronner g debroas d phyloge 
+netic affiliation of ssu rrna genes generated by massively parallel 
+sequencing new insights into the freshwater protist diversity plos 
+one e https doi org journal pone 
+
+tolotti m thies h cantonati m hansen ce thaler b flag 
+ellate algae chrysophyceae dinophyceae cryptophyceae in 
+high mountain lakes of the northern and southern slope of the 
+eastern alps biodiversity taxa distribution and their driving vari 
+ables hydrobiologia – https doi org b hy 
+dr f 
+
+tolotti m manca m angeli n morabito g thaler b rott e stuchlik 
+e phytoplankton and zooplankton associations in a set of 
+alpine high altitude lakes geographic distribution and ecology 
+hydrobiologia – https doi org s 
+ 
+
+triadó margarit x casamayor e genetic diversity of planktonic 
+eukaryotes in high mountain lakes central pyrenees spain envi 
+ronmental microbiology – https doi org 
+j x
+
+van der gast c microbial biogeography the end of the ubiq 
+uitous dispersal hypothesis environmental microbiology 
+ – https doi org 
+
+wit rd bouvier t ‘everything is everywhere but the environ 
+ment selects’ what did baas becking and beijerinck really say en 
+vironmental microbiology – https doi org 
+j x
+
+worden a cuvelier m bartlett d in depth analyses of marine 
+microbial community genomics trends in microbiology 
+ – https doi org j tim 
+
+wu q chatzinotas a wang j boenigk j genetic diversity of 
+eukaryotic plankton assemblages in eastern tibetan lakes differing 
+by their salinity and altitude microbial ecology – 
+https doi org s 
+
+supplementary materials
+
+supplementary material 
+sample identifier for molecular analyses
+authors jens boenigk sabina wodniok christina bock dan 
+iela beisser christopher hempel lars grossmann anja lange 
+manfred jensen
+data type molecular analyses
+copyright notice this dataset is made available under the 
+open database license http opendatacommons org licens 
+es odbl the open database license odbl is a license 
+agreement intended to allow users to freely share modify and 
+use this dataset while maintaining this same freedom for oth 
+ers provided that the original source and author s are credited 
+
+link https doi org mbmg suppl 
+
+supplementary material 
+lake characteristics and diversity indices
+authors jens boenigk sabina wodniok christina bock dan 
+iela beisser christopher hempel lars grossmann anja lange 
+manfred jensen
+data type lake characteristics and diversity indices
+copyright notice this dataset is made available under the 
+open database license http opendatacommons org licens 
+es odbl the open database license odbl is a license 
+agreement intended to allow users to freely share modify and 
+use this dataset while maintaining this same freedom for oth 
+ers provided that the original source and author s are credited 
+link https doi org mbmg suppl 
+
+supplementary material 
+bray distance matrix
+authors jens boenigk sabina wodniok christina bock dan 
+iela beisser christopher hempel lars grossmann anja lange 
+manfred jensen
+data type bray distance matrix
+copyright notice this dataset is made available under the 
+open database license http opendatacommons org licens 
+es odbl the open database license odbl is a license 
+agreement intended to allow users to freely share modify and 
+use this dataset while maintaining this same freedom for oth 
+ers provided that the original source and author s are credited 
+link https doi org mbmg suppl 
+
+supplementary material 
+richness at different elevations
+authors jens boenigk sabina wodniok christina bock dan 
+iela beisser christopher hempel lars grossmann anja lange 
+manfred jensen
+data type box plots
+copyright notice this dataset is made available under the 
+open database license http opendatacommons org licens 
+es odbl the open database license odbl is a license 
+agreement intended to allow users to freely share modify and 
+use this dataset while maintaining this same freedom for oth 
+ers provided that the original source and author s are credited 
+link https doi org mbmg suppl 
+
+https doi org ismej 
+https doi org ismej 
+https doi org rspb 
+https doi org s 
+https doi org plankt fbq 
+https doi org plankt fbq 
+https doi org journal pone 
+https doi org b hydr f 
+https doi org b hydr f 
+https doi org s 
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org 
+https doi org j x
+https doi org j x
+https doi org j tim 
+https doi org s 
+http opendatacommons org licenses odbl 
+http opendatacommons org licenses odbl 
+https doi org mbmg suppl 
+http opendatacommons org licenses odbl 
+http opendatacommons org licenses odbl 
+https doi org mbmg suppl 
+http opendatacommons org licenses odbl 
+http opendatacommons org licenses odbl 
+https doi org mbmg suppl 
+http opendatacommons org licenses odbl 
+http opendatacommons org licenses odbl 
+https doi org mbmg suppl 
+
+	geographic distance and mountain ranges structure freshwater protist communities on a european scale
+	abstract
+	introduction
+	material and methods
+	site selection and field sampling
+	dna extraction pcr and sequencing
+	sequence filtering
+	statistical analysis
+
+	data resources
+	results
+	protist freshwater communities show high levels of diversity
+	high mountain lakes differ from lowland lakes in taxon inventory and act as biogeographic islands
+	geographic distance shapes protist distribution patterns and mountain ranges act as barriers to protist dispersal
+	protist diversity in european lakes is structured into biogeographic regions
+
+	discussion
+	eukaryotic microbial molecular diversity in european freshwaters
+	contribution of biogeography and historical factors to the differentiation of freshwater communities
+
+	conclusions
+	acknowledgements
+	references
+	supplementary materials
+	supplementary material 
+	supplementary material 
+	supplementary material 
+	supplementary material 
+
+

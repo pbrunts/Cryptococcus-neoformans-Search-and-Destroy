@@ -1,0 +1,1656 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+small eukaryotic phytoplankton communities in tropical waters off brazil are dominated by symbioses between haptophyta and nitrogen fixing cyanobacteria
+
+
+the isme journal
+https doi org s z
+
+article
+
+small eukaryotic phytoplankton communities in tropical waters off
+brazil are dominated by symbioses between haptophyta and
+nitrogen fixing cyanobacteria
+
+catherine gérikas ribeiro ● adriana lopes dos santos ● dominique marie ● frederico pereira brandini ●
+
+daniel vaulot 
+
+received may revised november accepted december 
+© international society for microbial ecology 
+
+abstract
+symbioses between eukaryotic algae and nitrogen fixing cyanobacteria have been recognized in recent years as a key source
+of new nitrogen in the oceans we investigated the composition of the small photosynthetic eukaryote communities
+associated with nitrogen fixing cyanobacteria in the brazilian south atlantic bight using a combination of flow cytometry
+sorting and high throughput sequencing of two genes the v region of s rrna and nifh two distinct eukaryotic
+communities were often encountered one dominated by the mamiellophyceae bathycoccus and ostreococcus and one
+dominated by a prymnesiophyte known to live in symbiosis with the ucyn a nitrogen fixing cyanobacterium among
+nifh sequences those from ucyn a were most abundant but three other ucyn a clades a a a were also found 
+network analysis confirmed the relation between a and a clades and their hypothesized hosts and pointed out to the
+potential association between novel clade a with braarudosphaera bigelowii previously hypothesized to host a 
+
+introduction
+
+small photosynthetic eukaryotes are key component of
+the biomass and primary production in marine ecosystems
+ – in coastal waters these small photosynthetic eukar 
+yotes are often dominated by green algae from mamiello 
+phyceae whereas in oceanic waters they are much
+more diverse including green algae mamiellophyceae 
+
+prasinophytes clade vii but also pelagophytes chryso 
+phytes and prymnesiophytes while for some
+groups such as mamiellophyceae prasinophytes clade vii 
+or pelagophytes numerous representatives have been iso 
+lated in culture this is not the case for chrysophytes or
+prymnesiophytes initially these small eukaryotes were
+thought to be purely phototrophs but recently novel types
+of trophic modes and associations have been discovered in
+particular quite a few appear to be mixotrophs such as
+micromonas in polar regions and a new type of sym 
+biosis has been found between a small haptophyte alga and
+a nitrogen fixing cyanobacterium ucyn a 
+
+nitrogen n fixation performed by diazotrophs is an
+anaerobic process catalyzed by the nitrogenase enzyme 
+which produces biologically available ammonium nh 
+
+ 
+it has a strong impact on primary productivity in past 
+present and future oceans trichodesmium sp was
+initially identified as the most important marine diazotroph
+ however recent discoveries have set the ground
+for a paradigm shift in our understanding of n fixing
+players regarding their diversity ecological strategies 
+geographic distribution and impact on the primary pro 
+ductivity in the global ocean – and references
+therein two decades ago an uncultivated unicellular
+cyanobacterium ucyn a was discovered by pcr
+
+catherine gérikas ribeiro and adriana lopes dos santos contributed
+equally to the paper 
+
+ daniel vaulot
+vaulot sb roscoff fr
+
+ sorbonne université cnrs umr station biologique de
+roscoff roscoff france
+
+ departamento de oceanografia biológica instituto oceanográfico 
+universidade de são paulo são paulo brazil
+
+ gema center for genomics ecology environment 
+universidad mayor camino la pirámide 
+huechuraba santiago chile
+
+electronic supplementary material the online version of this article
+ https doi org s z contains supplementary
+material which is available to authorized users 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+http crossmark crossref org dialog doi s z domain pdf
+http crossmark crossref org dialog doi s z domain pdf
+http crossmark crossref org dialog doi s z domain pdf
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+http orcid org 
+mailto vaulot sb ��roscoff fr
+https doi org s z
+
+
+amplification of the nitrogenase gene nifh the gen 
+ome of ucyn a was found to be extremely streamlined 
+lacking the genes involved in the oxygen evolving pathway 
+co fixation and biosynthetic pathways of several
+amino acids and purines such modifications in the
+genome resembling the ones observed in cellular orga 
+nelles led to the hypothesis of a symbiotic partnership 
+this was confirmed later by the identification of an asso 
+ciation between ucyn a and an apparently non calcifying
+prymnesiophyte microalga closely related to the coc 
+colithophorid braarudosphaera bigelowii which bears
+pentagon shaped coccoliths pentaliths and to the non 
+calcifying haptophyte chrysochromulina parkeae 
+recent data suggest that this symbiosis could be responsible
+for a major part of the oceanic nitrogen fixation 
+
+ucyn a appears to be quite diversified with at least six
+clades a to a which forms a monophyletic group with
+crocosphaera sp and cyanothece sp – the
+hosts of the two major clades a and a appear to have
+different cell sizes to harbor a different number of sym 
+bionts and present distinct oceanic distributions 
+the former being less widespread but with higher relative
+abundance peaks than the latter 
+
+many open questions remain concerning these sym 
+bioses including the ecological distribution of the hosts and
+their importance within the phytoplankton community the
+south atlantic bight off brazil is reported to have a high
+ucyn a abundance in comparison to other oceanic
+regions and also appears to be a hot spot of nitrogen
+fixation we investigated pico and nano phytoplankton
+composition in this area using flow cytometry sorting 
+combined with parallel high throughput sequencing of the
+v region of the s rrna and of a nifh gene fragment 
+our data revealed two major types of small photosynthetic
+eukaryote communities one dominated by green algae and
+the other dominated by the ucyn a host by analyzing
+the nifh diversity in the same samples we recovered
+sequences from ucyn a confirming the importance of
+this symbiosis in oceanic regions off brazil 
+
+material and methods
+
+sampling
+
+three transects tr and were sampled off the coast of
+brazil during the carbom v cruise onboard the r v
+“alpha crucis” in november table fig tr 
+was sampled mostly in surface tr at the level of deep
+chlorophyll maximum dcm and tr at depths during
+the tr transect a trichodesmium sp bloom was observed
+at station where additional samples were taken sta 
+tion bloom all samples were collected with l niskin
+
+bottles attached to a ctd teledyne model ps m
+ teledyne technologies inc ca usa except for surface
+samples from tr and station bloom collected with a
+polycarbonate bucket samples ml for cell sorting by
+flow cytometry were collected into cryotubes with 
+dmso final concentration flash frozen in liquid nitrogen 
+and stored at − °c until analysis at the station biologique
+de roscoff france 
+
+flow cytometry sorting
+
+samples were sorted using a facsaria™ flow cytometer
+ becton dickinson san jose ca equipped with a laser
+emitting at nm and a mm nozzle emitted light was
+collected through the following set of filters band
+pass bp for side scatter bp for orange fluores 
+cence and long pass for red fluorescence signal
+detection was triggered on chlorophyll fluorescence pho 
+tosynthetic pico and nanoeukaryotes populations were
+selected based on light scatter orange phycoerythrin and
+red chlorophyll fluorescence as described previously 
+tris–hcl mm ph nacl mm was used as sheath
+liquid sheath pressure was set at psi and nozzle fre 
+quency was hz with a deflection voltage of v 
+cells were sorted in purity mode and collected into
+eppendorf tubes containing tris edta lysis buffer tris
+ mm edta mm and triton final concentra 
+tion in addition sheath fluid samples were collected and
+analyzed as negative controls in all subsequent steps
+including sequencing to test for contamination in the flow
+sorting process 
+
+pcr and illumina run
+
+dna from sorted cells was extracted by one cycle of
+freezing and thawing in liquid nitrogen two genes s
+rrna and nifh were amplified with nested pcr on the
+same sorted populations 
+
+for eukaryotes the v region of the s rrna gene was
+targeted about bp the first round of pcr amplifica 
+tion was done using the following µl mix µl kapa
+hifi hotstart readymix® × µm final concentration of
+primer f µm final concentration of primer r
+ supplementary table µl of dna and h o 
+thermal conditions were °c for min followed by 
+cycles of °c for s °c for s °c for s and a
+final cycle of °c for min for the second round 
+µl kapa hifi hotstart readymix® × µm final
+concentration of primer v f illum µm final con 
+centration of primer v r illum supplementary table 
+ µl of first round product and h o for a µl
+reaction thermal conditions were °c for min fol 
+lowed by cycles of °c for s °c for min °c
+
+c gérikas ribeiro et al 
+
+
+
+for s and a final cycle of °c for min one sample
+ p table failed to amplify the s gene negative
+controls and sheath fluid yielded either no amplification or
+faint bands which provided either no illumina sequences or
+sequences from groups not considered in our analysis
+ rhizaria mammalia except for one chrysophyceae clade
+c sequence that was also found in a few samples 
+
+for the partial nifh gene amplification the pcr reaction
+contained for the first round µl hotstarttaq® qiagen 
+buffer µl coralload qiagen µm final con 
+centration of primer nifh µm final concentration of
+primer nifh µl of dna and h o for a µl
+reaction thermal conditions were °c for min fol 
+lowed by cycles of °c for min °c for min °
+c for min and a final cycle of °c for min for the
+
+second round µl kapa hifi hotstart readymix®
+
+ × µm final concentration of primer nifh illum 
+µm final concentration of primer nifh illum µl
+of first round product and h o to a µl reaction thermal
+conditions were °c for min followed by cycles of
+ °c for s °c for min °c for min and a final
+cycle of °c for min second round pcrs were per 
+formed in triplicate and pooled together several samples
+had very low or no amplification of the nifh gene table 
+negative controls did not yield any amplification 
+
+library was prepared as detailed on the illumina® sup 
+port website http support illumina com documents 
+documentation chemistry documentation s s meta
+genomic library prep guide b pdf with final
+concentration of nm pcr products were checked initially
+
+table list of samples analyzed
+
+picoplankton sorted samples nanoplankton sorted samples
+
+transect station depth m sample
+code
+
+sorted
+cells 
+
+ s
+sequence 
+
+nifh
+sequence 
+
+sample
+code
+
+sorted
+cells 
+
+ s
+sequence 
+
+nifh
+sequence 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+ p n 
+
+bloom tri p tri n 
+
+tri p tri n 
+
+tri p tri n 
+
+samples corresponding to sorted photosynthetic picoeukaryote populations are labeled with p and those corresponding to sorted
+photosynthetic nanoeukaryote populations are labeled with n samples with sequences in italics were not considered in the analysis
+
+small photosynthetic eukaryote communities off brazil
+
+http support illumina com documents documentation chemistry documentation s s metagenomic library prep guide b pdf
+http support illumina com documents documentation chemistry documentation s s metagenomic library prep guide b pdf
+http support illumina com documents documentation chemistry documentation s s metagenomic library prep guide b pdf
+
+
+by gel electrophoresis and bioanalyzer high sensitivity
+dna® kit pcr cleanup and fragment size selection was
+made with ampure xp® beckman coulter inc the
+nextera xt index kit illumina® fc was used
+to attach adapters that are complementary to the flow cell of
+the illumina miseq® and to provide dual unique indices for
+each sample after another round of purification and size 
+checking validation we performed quantification of the final
+products in triplicate with both quant it™ picogreen®
+
+dsdna assay kit and qpcr with kapa® library quan 
+tification kit dna concentration nm was computed as 
+
+d ¼ d
+ � s
+
+where d is the dna concentration in nm d the dna
+concentration in ng µl− and s the amplified fragment size 
+
+sequencing run was performed on a miseq system at the
+genomer platform at station biologique in roscoff 
+
+sample concentration was normalized to have equal nm
+dna concentration pooled denatured diluted to pm and
+loaded to the miseq run along with of denaturated
+phix to prevent sequencing errors due to low diversity
+libraries for the sequencing step we used miseq reagent
+kits v ® the run was designed with illumina experiment
+manager https support illumina com downloads illumina 
+experiment manager v html 
+
+illumina data processing
+
+sequences were demultiplexed using the illumina software 
+for each sample the quality of sequences was first verified
+using the fastqc software only sequences longer than
+ bp and with at least of the bases with a quality
+score higher than were kept after this step unpaired
+reads were also removed the following steps were per 
+formed using mothur version contigs were
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+tr 
+
+tr 
+
+tr 
+
+ 
+
+bloom
+
+− 
+
+− 
+
+− 
+
+− − − 
+
+longitude
+
+la
+tit
+
+ud
+e
+
+− − − − − − 
+
+− 
+
+− 
+
+− 
+
+− 
+
+ 
+
+ 
+
+fig map of stations
+
+c gérikas ribeiro et al 
+
+https support illumina com downloads illumina experiment manager v html
+https support illumina com downloads illumina experiment manager v html
+
+
+assembled from forward and reverse reads for each sample 
+contigs that contained ambiguities n were discarded 
+amplicons for s rrna and nifh contigs were extracted
+using the command pcr seqs allowing for two mismatches
+between the sequence and the primers supplementary
+table for each gene sequences were dereplicated and
+singletons were removed unique sequences for s rrna
+and nifh were aligned respectively to the silva seed
+available on mothur website https www mothur org wiki 
+silva reference files and the aligned nifh database 
+available from http www css cornell edu faculty buckley 
+nifh htm aligned unique sequences were pre clustered
+allowing for two differences chimeras were removed with
+the uchime algorithm as implemented in mothur at this
+stage sequences from control samples e g sheath fluid
+sort and sequences corresponding to reads were
+removed the latter step makes all subsequent steps much
+faster to perform while removing a very small number of
+reads for example for s rrna it decreases by sixfold the
+number of unique sequences while reducing the total
+number of reads by only supplementary table 
+otus were built at the similarity level using mothur
+average neighbor algorithm the otus for s rrna
+were taxonomically assigned using the pr database 
+version available on figshare repository https figshare 
+com articles pr rrna gene database and on
+github https github com vaulot pr database releases 
+this version of pr incorporates a revision of haptophyta
+taxonomy following edvardsen et al s rrna
+and nifh otus were also searched against the genbank
+database using blast plugin november in gen 
+eious® one sample n table was dominated
+by metazoa sequences and was not considered further for
+ s rrna otus of total reads from opistho 
+konta and streptophyta were not further considered six
+groups dinophyta ochrophyta haptophyta cryptophyta 
+chlorophyta and chlorarachniophyceae were considered
+as autotrophic most analyses focus on these autotrophic
+groups to the exclusion of non autotrophic groups such as
+syndiniales autotrophic s rrna or nifh otus were
+considered as “major” supplementary table supple 
+mentary table if they contributed to a minimum of 
+of reads in at least one sample this definition seems better
+than only considering the total contribution of a given
+otu because some specific samples may have one domi 
+nant otu that is not found in any other sample and which
+has therefore a low total abundance over the whole sample
+set nifh sequences from major otus were aligned to
+related sequences obtained by blast as well as to some
+reference sequences using mafft phylogenetic
+analysis was performed with fasttree both programs
+were used as implemented in geneious with default
+parameters 
+
+mothur script as well as otu sequences for s rrna
+and nifh as fasta files are available on github https 
+github com vaulot ribeiro carbom isme raw
+fastq sequence files were deposited to genbank under
+the project number prjna 
+
+statistical analyses
+
+all statistical analyses and graphics were performed under
+r using the following libraries ggplot ggmap dplyr 
+treemap vegan nmds analysis of communities based on
+major s rrna otus was performed using bray–curtis
+distance with vegan metamds function environmental
+parameters supplementary material https github com va
+ulot ribeiro carbom isme were mapped using
+vegan envfit function network analysis was conducted
+using a matrix combining major s rrna and nifh otus
+as rows samples as columns and read abundances as
+values correlations between otus and pseudo p values
+were computed using sparcc only correlations larger
+than and with a pseudo p value ≤ were retained 
+network between otus was constructed using the r
+package igraph and drawn using gephi scripts are
+available on github https github com vaulot ribeiro 
+carbom isme 
+
+results
+
+the carbom v cruise took place during the austral spring
+of in a region located off south east brazil and
+extending from the continental shelf to the m isobath
+ fig phytoplankton samples were preserved with
+dmso and deep frozen table once back to the
+laboratory we sorted small autotrophic eukaryotes using
+flow cytometry based on scatter and chlorophyll fluores 
+cence properties for each sorted population we sequenced
+using high throughput techniques illumina simultaneously
+for the v region of the s rrna gene and a fragment of
+the nifh gene 
+
+ s rrna
+
+the number of s rrna reads varied between and
+ depending on the sample table using a 
+similarity level otus were found excluding opis 
+thokonts and streptophytes of which could be attributed
+to heterotrophs representing of the reads within
+autotrophs the major groups were prymnesiophyceae 
+mamiellophyceae dinophyceae bacillariophyta diatoms 
+and chrysophyceae with minor contributions of pelago 
+phyceae and dictyochophyceae fig a all abundant au 
+totrophic otus matched with high similarity from to
+
+small photosynthetic eukaryote communities off brazil
+
+https www mothur org wiki silva reference files
+https www mothur org wiki silva reference files
+http www css cornell edu faculty buckley nifh htm
+http www css cornell edu faculty buckley nifh htm
+https figshare com articles pr rrna gene database 
+https figshare com articles pr rrna gene database 
+https github com vaulot pr database releases
+https github com vaulot ribeiro carbom isme 
+https github com vaulot ribeiro carbom isme 
+https github com vaulot ribeiro carbom isme 
+https github com vaulot ribeiro carbom isme 
+https github com vaulot ribeiro carbom isme 
+https github com vaulot ribeiro carbom isme 
+
+
+ existing genbank sequences but did not always
+correspond to sequences from cultures supplementary
+table the otu that made the highest contribution
+ fig b otu on average over all samples—note
+
+that this was not the otu with the highest number of reads
+because read number varied between samples matched an
+environmental sequence fj clone biosope
+t from an uncultivated braarudosphaeraceae prym 
+nesiophyceae that has been demonstrated to host the
+nitrogen fixing cyanobacteria ucyn a an addi 
+tional otu otu on average with a lower
+average contribution matched another braarudo 
+sphaeraceae b bigelowii which is known to host ucyn 
+a two otus otu and otu with high
+average contributions and fig b matched
+respectively two mamiellophyceae bathycoccus and
+the cultivated but yet undescribed clade b of ostreococcus
+ other abundant otus fig were assigned to
+dinoflagellates prorocentrum gonyaulax karlodinium 
+prymnesiophyceae chrysochromulina syracosphaera 
+emiliania diatoms pseudo nitzschia thalassiosira 
+cylindrotheca uncultivated chrysophyceae clade g 
+pelagophyceae pelagomonas and other mamiellophyceae
+ micromonas within heterotrophs the most abundant
+otu otu was assigned to syndiniales known para 
+sites of dinoflagellates 
+
+the spatial distribution of the autotrophic groups for the
+different samples fig or along tr supplementary
+figure for which different depths have been sampled
+revealed that prymnesiophyceae were in some cases more
+abundant in surface and mamiellophyceae at depth e g 
+stations or some classes with overall relatively
+low abundance dominated some specific samples as
+was the case for members of the division ochrophyta 
+pelagophyceae nanoeukaryotes st m of
+reads chrysophyceae picoeukaryotes st m and
+st m and nanoeukaryotes st bloom m from 
+to and dictyochophyceae picoeukaryotes st 
+m 
+
+samples were clustered based on the contribution of
+dominant autotrophic otus using bray–curtis dissimilarity
+ fig four major types of communities emerged clusters
+a to d cluster a encompassed the largest number of
+samples fig and corresponded to communities domi 
+nated by otu the uncultivated braarudosphaeraceae
+known to host ucyn a some samples from this cluster
+also contained otu bathycoccus and some dino 
+flagellate otus samples from cluster b fig were
+dominated by mamiellophyceae with otu ostreo 
+coccus clade b and otu bathycoccus prasinos 
+occurring together most of the time in quite similar pro 
+portions in a few samples ostreococcus was replaced by
+micromonas from clade a otu samples from cluster
+c fig were composed by a mix of prymnesiophyceae
+including the host of ucyn a but also otus related to
+chrysochromulina syracosphaera emiliania as well as
+
+fig a mean relative contribution of each class to s rrna
+sequences for all sorted samples pico and nanoeukaryotes moch 
+marine ochrophyta b mean relative contribution for major s rrna
+otus clustered at similarity including both autotrophic colored
+bars and heterotrophic black bars groups major otus are defined
+as those that contribute to more than of reads in at least one
+sample
+
+c gérikas ribeiro et al 
+
+
+
+braarudosphaera finally cluster d fig was dominated
+by a dinoflagellate otu related to prorocentrum along with
+a smaller contribution of braarudosphaera the rest of the
+samples had all quite dissimilar communities without any
+other clear structure 
+
+nmds analysis of otus based on bray–curtis dissim 
+ilarity between samples onto which environmental variables
+
+were mapped revealed a clear sample clustering based
+on the type of community present in the sample fig 
+samples dominated by mamiellophyceae cluster b were
+clearly separated from those dominated by ucyn a 
+haptophyte host cluster a the mamiellophyceae com 
+munity was linked to high chlorophyll fluorescence higher
+n p larger depth and lower temperature corresponding to
+
+tr stbloom m tri n
+tr stbloom m tri n
+tr stbloom m tri n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+
+ 
+
+percent of readspercent of reads
+
+percent of reads
+
+tr stbloom m tri p
+tr stbloom m tri p
+tr stbloom m tri p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+
+ 
+tr stbloom m tri p
+tr stbloom m tri p
+tr stbloom m tri p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+tr st m p
+
+ 
+
+tr stbloom m tri n
+tr stbloom m tri n
+tr stbloom m tri n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+tr st m n
+
+ 
+
+ucyn a 
+
+ucyn a 
+
+ucyn a 
+
+ucyn a 
+
+trichodesmium
+
+picoeukaryotes
+
+ s rrna nifh
+
+nanoeukaryotes
+
+bacillariophyta
+
+chrysophyceae
+
+cryptophyceae
+
+dictyochophyceae
+
+dinophyceae
+
+mamiellophyceae
+
+pelagophyceae
+
+prasino clade vii
+
+prymnesiophyceae
+
+others
+
+ulvophyceae
+
+chlorophyceae
+
+percent of reads
+
+fig relative read abundance for s rrna autotrophic classes left 
+and for cyanobacteria nifh otus right in each sorted sample for
+pico top vs nanoeukaryotes bottom classes or otus that did not
+
+contribute to at least of sequences in at least one sample were
+regrouped into “others” samples for which we could not amplify
+cyanobacteria nifh are displayed as empty right side 
+
+small photosynthetic eukaryote communities off brazil
+
+
+
+the interface between south atlantic current and tropical
+waters whereas the ucyn a host community was
+linked to high temperature low chlorophyll fluorescence 
+and low n p corresponding to warm tropical waters cluster
+c corresponding to prymnesiophyceae dominated samples
+was also associated to these tropical waters finally pro 
+rocentrum dominated samples were from low salinity and
+
+synechococcus rich samples corresponding to more coastal
+waters 
+
+nifh
+
+the number of nifh reads per sorted sample varied from a
+few reads to the number of otus at
+
+fig heatmap for major s autotrophic otus see supplementary
+table ordered by taxonomy labels of samples corresponding to
+sorted picoeukaryotes and nanoeukaryotes are ending with p and n 
+respectively sample names colored in blue correspond to samples
+from which cyanobacteria nifh could be amplified samples were
+
+clustered using bray–curtis dissimilarity four clusters can be defined 
+a correspond to samples dominated by ucyn a host b by the
+mamiellophyceae ostreococcus and bathycoccus c by an assemblage
+of prymnesiophyceae and d by a dinoflagellate from the genus
+prorocentrum
+
+c gérikas ribeiro et al 
+
+
+
+ similarity was more than ten times smaller than
+for s rrna among the five most abundant otus
+ supplementary figure three were related to clades of
+the unicellular cyanobacterium ucyn a respectively a 
+a and a interestingly another minor otu could
+be associated to the recently described clade a the
+fifth most abundant otu was related similarity to
+the filamentous nitrogen fixing cyanobacterium tricho 
+desmium erythreum supplementary figure 
+
+the third most abundant otu was related to rhizobiales
+ supplementary figure several genbank sequences
+matching with high similarity this otu originated from
+marine waters however this otu also had simi 
+larity to a sequence ab that has been determined
+to be a contaminant originating from primers this
+otu as well as the other non cyanobacteria minor otus 
+were therefore not considered any further in the paper 
+furthermore we did not consider samples with 
+cyanobacteria nifh reads assuming that such a low read
+number was due to noise 
+
+on average ucyn a contributed to most of the reads 
+followed by a a and a fig a in a given community 
+a single otu was in general dominating in of the
+cases one otu represented more than of the reads 
+this was confirmed by heatmap cluster analysis which
+clearly discriminated four clusters dominated by either
+ucyn a a a or trichodesmium fig b both a 
+
+and a could co occur with a a was really important
+only in one sample st m of reads and co 
+occured with a trichodesmium was only present at two
+locations bloom station in surface and st m fig 
+and it co occurred with ucyn a fig b no significant
+trend with respect to either depth or distance to shore
+emerged fig in particular ucyn a could be found
+near the surface as well at depth down to m 
+
+network analysis of the major autotrophic s rrna
+and nifh otus
+
+to determine the connections among eukaryotes as well as
+between eukaryotes and ucyn a clades we built a con 
+tingency table joining both sets of s rrna and ucyna 
+a nifh otus and performed a network analysis based on
+sparcc distance major eukaryotic taxonomic group
+ prymnesiophyceae chrysophyceae mamiellophyceae 
+formed sub networks fig indicating they had a tendency
+to co occur this network analysis fig recovered the
+two main host–symbiont relationships previously hypothe 
+sized in the literature i e ucyn a correlated to
+prymnesiophyte otu and ucyn a correlated to
+otu b bigelowii ucyn a like a appeared to be
+correlated to b bigelowii ucyn a was not connected to
+any of the two braarudosphaeraceae but to bathycoccus
+and an uncultivated dinoflagellate still a a and a 
+
+fig nmds analysis based on bray–curtis dissimilarity of samples
+based on major s otus see supplementary table onto which
+environmental parameters from have been mapped samples are
+
+colored according to the community clusters defined in fig and
+empty symbols correspond to samples not belonging to any of the four
+main clusters
+
+small photosynthetic eukaryote communities off brazil
+
+
+
+a
+
+b
+
+fig a mean relative
+contribution of cyanobacteria
+nifh otus clustered at 
+similarity for all sorted
+samples both pico and
+nanoeukaryotes excluding
+only samples from which nifh
+could not be amplified b
+heatmap for cyanobacteria nifh
+otus supplementary table 
+labels of samples corresponding
+to sorted picoeukaryotes and
+nanoeukaryotes are ending with
+p and n respectively samples
+were clustered using
+bray–curtis dissimilarity
+
+c gérikas ribeiro et al 
+
+
+
+were also correlated to other s otus for example
+a correlated to syracosphaera or a to prasinophytes
+clade vii 
+
+discussion
+
+phytoplankton communities in the euphotic zone of the
+brazilian south atlantic bight are influenced by two main
+water masses the warm and oligotrophic tropical water
+on the top meters and the cold and nutrient rich south
+atlantic central water sacw below in this region 
+photosynthetic pico and nanoeukaryotes average about
+ cells per ml and cells per ml respectively 
+to assess the taxonomy of these small eukaryotes we
+analyzed populations sorted by flow cytometry based on
+their size and pigment fluorescence this method has the
+advantage of targeting specific populations and allows to
+focus in components of the diversity that usually go
+unnoticed from filtered samples due to the competition
+with more abundant or more easily amplified targets 
+almost all previous studies using this approach relied on
+sorting live samples which requires the
+
+availability of a sorting flow cytometer onboard ships and
+are therefore complex in terms of logistics a recent study
+ used preserved samples but required both sample
+concentration and progressive freezing we used instead a
+much simpler preservation method relying on the addition
+of dmso to ml of non concentrated seawater
+samples followed by a quick flash freezing by eliminat 
+ing sample filtration the protocol used here requires 
+min hands on work after the water samples get onboard 
+therefore making sampling considerably easier in oceano 
+graphic cruises and minimizing changes in the plankton
+community 
+
+despite the small number of cells sorted in some samples
+ – we could successfully pcr amplify and
+sequence both the s rrna gene and the nifh gene on
+these samples the vast majority of eukaryotes sequences
+were from autotrophs the major heterotrophic group
+was syndiniales which are known to infect dinoflagellates
+ these parasites were probably sorted in association
+with the dinoflagellates that were present in our samples
+ e g otu or otu the successful targeting of the
+autotrophic population by flow cytometry sorting is also
+demonstrated by the low number of otus for s
+
+fig network analysis of the major autotrophic s rrna circles 
+and nifh squares otus see supplementary table and supple 
+mentary table using sparcc correlation colors of nodes
+correspond to taxonomic assignation size of nodes is proportional to
+
+number of reads obtained width of edges is proportional to correlation
+between otus only correlations with pseudo p values 
+were considered
+
+small photosynthetic eukaryote communities off brazil
+
+
+
+rrna using a similarity level which is more than one
+order of magnitude less compared to what is found in stu 
+dies using filtered material e g likewise the
+number of otus for nifh was very low even compared
+to typical clone library studies e g demonstrating
+that we probably only targeted bacteria that were in asso 
+ciation with the sorted eukaryotes 
+
+heatmap and network analysis figs and demon 
+strated that for some of the phylogenetic groups s rrna
+otus belonging to the same class had a tendency to co 
+occur suggesting that population response to environmental
+forcing occurred often at the class level this was the case
+for mamiellophyceae prymnesiophyceae and chrysophy 
+ceae which are well known contributors to phytoplankton
+in tropical oligotrophic and mesotrophic waters 
+
+the most prevalent guild characteristic of warm tropical
+waters fig was dominated by the prymnesiophyceae
+otu which sequence is identical to that of the known host
+of ucyn a fig this sequence has been shown to be
+abundant in specific oceanic areas in particular off brazil 
+where it can exceed of prymnesiophyceae reads 
+however in our case it could be much more dominant 
+representing up of small photosynthetic eukaryotic reads
+ at st m another otu otu matched b bigelowii 
+which is hypothesized to be the host of ucyn a and
+is more widespread but less abundant than the host of ucyn 
+a other relatively abundant genera included the
+coccolith bearing algirosphaera syracosphaera and emi 
+liania although the latter genus is extremely widespread
+ data on the distribution of the two former ones are much
+more scarce although they were among the most abundant
+otus in a seasonal study of oslo fjord norway 
+
+we observed four types of ucyn a off brazil belonging
+to the clades a to a but none were related the two
+recently defined clades a and a although for all
+samples where ucyn a was present either the ucyn a 
+host or braarudosphaera bigelowii were detected these two
+otus were relatively abundant in excess of of the
+reads in two sample where ucyn a was not observed st
+ and st both at m this suggests that ucyn a
+symbiosis may not be always obligatory for the host or that 
+in these two cases ucyn a cell dislodgement may have
+occurred during sampling or sorting as observed previously
+ the most prevalent clade was a which is con 
+sistent with recent reports of this clade being the most
+abundant in metabarcoding surveys e g its co 
+occurrence fig with the prymnesiophyte s rrna
+otu reinforces the hypothesis of the specificity of this
+symbiotic relationship clade a was less frequent and less
+abundant but was also clearly linked in our network analysis
+to its hypothesized host b bigelowii it co occurred with a 
+in a few samples as observed elsewhere in coastal influenced
+pelagic waters in contrast to a and a virtually
+
+nothing is known about the other clades off brazil a 
+could co occur with a as recently observed network
+analysis using major otus suggested that a could be
+correlated to bathycoccus and to a dinoflagellate while a 
+could be similar to a also hosted by b bigelowii fig 
+however as a and a were in relatively low abundance 
+they also could occur in symbiosis with a rare autotrophic
+eukaryote not taken into account in the network analysis 
+
+we also detected some nifh sequences related to
+t erythreum which had been previously observed in
+this area these sequences originated from samples
+taken within a trichodesmium bloom and at m in the
+most offshore station of tr it is surprising that we could
+sort trichodesmium cells because they possess phycoery 
+thrin and our settings discriminated against phycoerythrin 
+containing cells however senescent cells of tricho 
+desmium display lower phycoerythrin fluorescence signal
+ and could have been sorted along with the eukaryotes 
+both trichodesmium and ucyn a co occurred in the
+same samples fig confirming that these two nitrogen 
+fixing cyanobacteria are not mutually exclusive which has
+been observed elsewhere 
+
+the second type of community was dominated by
+mamiellophyceae either bathycoccus or ostreococcus or
+both fig mamiellophyceae are known to be ubiquitous
+in marine ecosystems but more prevalent in coastal waters 
+being replaced by prasinophytes clade vii in pelagic
+regions b prasinos was first described from a deep
+mediterranean sea isolate but since it has been
+observed in many areas from coastal waters to the open
+ocean the existence of two different species of
+bathycoccus has been hypothesized based on metagenomic
+data and strains available in cultures unfortunately 
+these two species have exactly the same s rrna
+sequence and therefore we were not able to differentiate
+them in the present study in contrast at least clades can
+be distinguished by s rrna for ostreococcus three
+corresponding to named species o tauri o “lucimarinus”
+and o mediterraneus and the last one clade b also
+called oii not yet described the major ostreococcus
+otu in our study corresponds to clade b which has been
+found in more oligotrophic regions than o “lucimarinus”
+ e g for the third major mamiellophyceae genus
+micromonas its two main otus were in relatively low
+abundance and related to the newly described species 
+m commoda clade a and m bravo clade b which are
+known to be widespread and abundant in coastal waters
+ network analysis demonstrated that these three genera
+ ostreococcus bathycoccus and micromonas plus an
+otu belonging to another green alga prasinophytes clade
+vii a often co occurred in our samples fig 
+
+a recent global study on ucyn a symbioses did
+not find a strong correlation between their distribution and
+
+c gérikas ribeiro et al 
+
+
+
+temperature n p ratios or chlorophyll a suggesting their
+structuring factors may lie elsewhere in the present work 
+nmds analysis suggests that the alternation between
+communities dominated by ucyn a host and mamiel 
+lophyceae fig is linked to water masses with the former
+found in low chlorophyll tropical waters and the latter near
+the interface between warm tropical waters and colder
+south atlantic waters where the chlorophyll maximum
+develops two key factors that could explain the dominance
+of the ucyn a host community could be higher tem 
+peratures and lower n p ratios both favoring nitrogen 
+fixing cyanobacteria tropical waters off brazil have a
+very low n p ratio down to in the present study which
+could explain why this symbiosis is so prevalent another
+factor which could be important but was not measured in
+our study is iron a key element for nitrogen fixers by
+comparison the “green “community was found in samples at
+depth with high chlorophyll fluorescence supplementary
+figure corresponding to the dcm at the interface
+between tropical water and sacw this environment
+matches the hypothesized habitat for ostreococcus clade b
+ and bathycoccus 
+
+the lack of representative cultures from ucyn a
+symbioses limits our comprehension of the factors struc 
+turing their populations and their competitive fitness in
+relation to other populations our study provides evidences
+that small phytoplankton communities in the region are
+highly structured and fall into a few specific types it con 
+firms the existing links between ucyn a cyanobacteria
+bacteria and prymnesiophyceae as well as the ecological
+importance of this association in the south atlantic off
+brazil moreover our approach allows to formulate
+hypothesis about other ucyn a clades for which host have
+not been characterized to this date 
+
+acknowledgements we thank the officers and crew of the r v alpha
+crucis for logistical support the chief scientist ilson carlos a da
+silveira for the opportunity to participate in the cruise and for the ctd
+data and mayza pompeu for the analysis of inorganic nutrient data 
+financial support for this work was provided by the cnrs groupe 
+ment de recherche international gdri “diversity evolution and
+biotechnology of marine algae” the cofecub capes project
+“pico brás” te fapesp fundação de amparo à pesquisa
+do estado de são paulo— and and
+fondecyt grant piscosouth the genomer platform in
+roscoff and c daguin are thanked for technical support with miseq
+sequencing access to bioinformatics resources was provided by the
+abims platform station biologique de roscoff we warmly thank
+angélique gobet for providing mothur analysis scripts hanna far 
+nelid for providing nifh sequences and jon zehr for his thoughtful
+insights especially concerning nifh contamination 
+
+compliance with ethical standards
+
+conflict of interest the authors declare that they have no conflict of
+interest 
+
+references
+
+ vaulot d eikrem w viprey m moreau h the diversity of small
+eukaryotic phytoplankton µm in marine ecosystems fems
+microbiol rev – 
+
+ li wkw primary production of prochlorophytes cyanobacteria 
+and eucaryotic ultraphytoplankton measurements from flow
+cytometric sorting limnol oceanogr – 
+
+ rii ym duhamel s bidigare rr karl dm repeta dj church
+mj diversity and productivity of photosynthetic picoeukaryotes
+in biogeochemically distinct regions of the south east pacific
+ocean limnol oceanogr – 
+
+ worden az nolan jk palenik b assessing the dynamics
+and ecology of marine picophytoplankton the importance
+of the eukaryotic component limnol oceanogr 
+ – 
+
+ not f latasa m marie d cariou t vaulot d simon n a single
+species micromonas pusilla prasinophyceae dominates the
+eukaryotic picoplankton in the western english channel appl
+environ microbiol – 
+
+ shi xl marie d jardillier l scanlan dj vaulot d groups
+without cultured representatives dominate eukaryotic picophyto 
+plankton in the oligotrophic south east pacific ocean plos one 
+ e 
+
+ simmons mp sudek s monier a limardo aj jimenez v perle
+cr et al abundance and biogeography of picoprasinophyte
+ecotypes and other phytoplankton in the eastern north pacific
+ocean appl environ microbiol – 
+
+ le gall f rigaut jalabert f marie d garczareck l viprey m 
+godet a et al picoplankton diversity in the south east pacific
+ocean from cultures biogeosciences – 
+
+ mckie krisberg zm sanders rw phagotrophy by the picoeu 
+karyotic green alga micromonas implications for arctic oceans 
+isme j – 
+
+ thompson aw foster ra krupke a carter bj musat n 
+vaulot d et al unicellular cyanobacterium symbiotic with a
+single celled eukaryotic alga science – 
+
+ falkowski pg evolution of the nitrogen cycle and its influence on
+the biological sequestration of co in the ocean nature 
+ – 
+
+ karl d leteller r tupas l dore j christian j hebel d the role
+of nitrogen fixation in biogeochemical cycling in the subtropical
+north pacific ocean nature – 
+
+ hutchins da fu f x zhang y warner me feng y portune k 
+et al co control of trichodesmium n fixation photosynthesis 
+growth rates and elemental ratios implications for past present 
+and future ocean biogeochemistry limnol oceanogr 
+ – 
+
+ capone dg carpenter ej nitrogen fixation in the marine
+environment science – 
+
+ carpenter ej romans k major role of the cyanobacterium tri 
+chodesmium in nutrient cycling in the north atlantic ocean sci 
+ence – 
+
+ farnelid h turk kubo k muñoz marín m zehr j new insights
+into the ecology of the globally significant uncultured nitrogen 
+fixing symbiont ucyn a aquat microb ecol – 
+
+ zehr jp nitrogen fixation by marine cyanobacteria trends
+microbiol – 
+
+ zehr jp shilova in farnelid hm muñoz maríncarmen m del
+c turk kubo ka unusual marine unicellular symbiosis with the
+nitrogen fixing cyanobacterium ucyn a nat microbiol 
+ 
+
+ zehr jp mellon mt zani s new nitrogen fixing microorganisms
+detected in oligotrophic oceans by amplification of nitrogenase
+ nifh genes appl environ microbiol – 
+
+small photosynthetic eukaryote communities off brazil
+
+
+
+ zehr jp bench sr carter bj hewson i niazi f shi t et al 
+globally distributed uncultivated oceanic n fixing cyanobacteria
+lack oxygenic photosystem ii science – 
+
+ tripp hj bench sr turk ka foster ra desany ba niazi f 
+et al metabolic streamlining in an open ocean nitrogen fixing
+cyanobacterium nature – 
+
+ martínez pérez c mohr w löscher cr dekaezemacker j 
+littmann s yilmaz p et al the small unicellular diazotrophic
+symbiont ucyn a is a key player in the marine nitrogen cycle 
+nat microbiol 
+
+ bombar d heller p sanchez baracaldo p carter bj zehr jp 
+comparative genomics reveals surprising divergence of two clo 
+sely related strains of uncultivated ucyn a cyanobacteria isme
+j – 
+
+ thompson a carter bj turk kubo k malfatti f azam f zehr
+jp genetic diversity of the unicellular nitrogen fixing cyano 
+bacteria ucyn a and its prymnesiophyte host environ micro 
+biol – 
+
+ turk kubo ka farnelid hm shilova in henke b zehr jp 
+distinct ecological niches of marine symbiotic n fixing cyano 
+bacterium candidatus atelocyanobacterium thalassa sublineages 
+j phycol – 
+
+ cornejo castillo fm cabello am salazar g sánchez baracaldo
+p lima mendez g hingamp p et al cyanobacterial symbionts
+diverged in the late cretaceous towards lineage specific nitrogen
+fixation factories in single celled phytoplankton nat commun 
+ 
+
+ cabello am cornejo castillo fm raho n blasco d vidal m 
+audic s et al global distribution and vertical patterns of a
+prymnesiophyte–cyanobacteria obligate symbiosis isme j 
+ – 
+
+ fernández castro b mouriño carballido b marañón e chou 
+ciño p gago j ramírez t et al importance of salt fingering for
+new nitrogen supply in the oligotrophic ocean nat commun 
+ 
+
+ marie d shi xl rigaut jalabert f vaulot d use of flow
+cytometric sorting to better assess the diversity of small photo 
+synthetic eukaryotes in the english channel fems microbiol
+ecol – 
+
+ lepère c demura m kawachi m romac s probert i vaulot d 
+whole genome amplification wga of marine photosynthetic
+eukaryote populations fems microbiol ecol – 
+
+ piredda r tomasino mp d’erchia am manzari c pesole g 
+montresor m et al diversity and temporal patterns of planktonic
+protist assemblages at a mediterranean long term ecological
+research site fems microbiol ecol fiw 
+
+ zehr jp turner pj nitrogen fixation nitrogenase genes and gene
+expression methods microbiol – 
+
+ andrew s fastqc a quality control tool for high throughput
+sequence data http www bioinformatics babraham ac uk 
+projects fastqc 
+
+ schloss pd westcott sl ryabin t hall jr hartmann m 
+hollister eb et al introducing mothur open source platform 
+independent community supported software for describing and
+comparing microbial communities appl environ microbiol 
+ – 
+
+ gaby jc buckley dh a comprehensive aligned nifh gene
+database a multipurpose tool for studies of nitrogen fixing bac 
+teria database bau 
+
+ guillou l bachar d audic s bass d berney c bittner l et al 
+the protist ribosomal reference database pr a catalog of
+unicellular eukaryote small sub unit rrna sequences with curated
+taxonomy nucleic acids res d –d 
+
+ edvardsen b egge es vaulot d diversity and distribution of
+haptophytes revealed by environmental sequencing and meta 
+barcoding—a review perspect phycol – 
+
+ edvardsen b eikrem w throndsen j as probert i medlin l 
+ribosomal dna phylogenies and a morphological revision pri 
+vide the basis for a new taxonomy of prymnesiales haptophyta 
+eur j phycol – 
+
+ kearse m moir r wilson a stones havas s cheung m 
+sturrock s et al geneious basic an integrated and extendable
+desktop software platform for the organization and analysis of
+sequence data bioinformatics – 
+
+ katoh k misawa k kuma k miyata t mafft a novel method
+for rapid multiple sequence alignment based on fast fourier
+transform nucleic acids res – 
+
+ price mn dehal ps arkin ap fasttree —approximately
+maximum likelihood trees for large alignments plos one 
+ e 
+
+ r development core team r a language and environment for
+statistical computing r found stat comput 
+
+ friedman j alm ej inferring correlation networks from genomic
+survey data plos comput biol e 
+
+ bastian m heymann s jacomy m gephi an open source soft 
+ware for exploring and manipulating networks international
+aaai conference on weblogs and social media http 
+www aaai org ocs index php icwsm paper view 
+
+ hagino k onuma r kawachi m horiguchi t discovery of an
+endosymbiotic nitrogen fixing cyanobacterium ucyn a in
+braarudosphaera bigelowii prymnesiophyceae plos one 
+ e 
+
+ eikrem w throndsen j the ultrastructure of bathycoccus gen 
+nov and b prasinos sp nov a non motile picoplanktonic alga
+ chlorophyta prasinophyceae from the mediterranean and
+atlantic phycologia – 
+
+ rodríguez f derelle e guillou l le gall f vaulot d 
+moreau h ecotype diversity in the marine picoeukaryote
+ostreococcus chlorophyta prasinophyceae environ microbiol 
+ – 
+
+ chambouvet a morin p marie d guillou l control of toxic
+marine dinoflagellate blooms by serial parasitic killers science 
+ – 
+
+ gérikas ribeiro c lopes dos santos a marie d helena pellizari
+v pereira brandini f vaulot d pico and nanoplankton abun 
+dance and carbon stocks along the brazilian bight peerj 
+e 
+
+ goto m ando s hachisuka y yoneyama t contamination of
+diverse nifh and nifh like dna into commercial pcr primers 
+fems microbiol lett – 
+
+ farnelid hm turk kubo ka zehr jp identification of associa 
+tions between bacterioplankton and photosynthetic picoeukaryotes
+in coastal waters front microbiol https doi org 
+ fmicb 
+
+ balzano s marie d gourvil p vaulot d composition of the
+summer photosynthetic pico and nanoplankton communities in the
+beaufort sea assessed by t rflp and sequences of the s rrna
+gene from flow cytometry sorted samples isme j 
+ – 
+
+ kawachi m kataoka t sato m noël m h kuwata a 
+demura m et al application of cryopreservation to genetic
+analyses of a photosynthetic picoeukaryote community gene 
+ – 
+
+ hu s campbell v connell p gellen ag liu z terrado r et al 
+protistan diversity and activity inferred from rna and dna at a
+coastal ocean site in the eastern north pacific fems microb ecol 
+ – 
+
+ turk ka rees ap zehr jp pereira n swift p shelley r et al 
+nitrogen fixation and nitrogenase nifh expression in
+tropical waters of the eastern north atlantic isme j 
+ – 
+
+c gérikas ribeiro et al 
+
+http www bioinformatics babraham ac uk projects fastqc 
+http www bioinformatics babraham ac uk projects fastqc 
+http www aaai org ocs index php icwsm paper view 
+http www aaai org ocs index php icwsm paper view 
+https doi org fmicb 
+https doi org fmicb 
+
+
+ read ba kegel j klute mj kuo a lefebvre sc maumus f 
+et al pan genome of the phytoplankton emiliana underpins its
+global distribution nature – 
+
+ egge es johannessen tv andersen t eikrem w bittner l 
+larsen a et al seasonal diversity and dynamics of haptophytes in
+the skagerrak norway explored by high throughput sequencing 
+mol ecol – 
+
+ hynes am webb ea doney sc waterbury jb comparison of
+cultured trichodesmium cyanophyceae with species character 
+ized from the field j phycol – 
+
+ carvalho m gianesella smf saldanha corrêa fmp tricho 
+desmium erythraeum bloom on the continental shelf off santos 
+southeast brazil braz j oceanogr – 
+
+ orcutt km gundersen k another look at green trichodesmium
+colonies limnol oceanogr – 
+
+ langlois rj mills mm ridame c croot p laroche j diazo 
+trophic bacteria respond to saharan dust additions mar ecol prog
+ser – 
+
+ lopes dos santos a gourvil p tragin m noël m h decelle j 
+romac s et al diversity and oceanic distribution of prasino 
+phytes clade vii the dominant group of green algae in oceanic
+waters isme j – 
+
+ collado fabri s vaulot d ulloa o structure and seasonal
+dynamics of the eukaryotic picophytoplankton community in a
+wind driven coastal upwelling ecosystem limnol oceanogr 
+ – 
+
+ vannier t leconte j seeleuthner y mondy s pelletier e aury
+j m et al survey of the green picoalga bathycoccus genomes in
+the global ocean sci rep 
+
+ subirana l péquin b michely s escande ml meilland j 
+derelle e et al morphology genome plasticity and phylogeny
+in the genus ostreococcus reveal a cryptic species o medi 
+terraneus sp nov mamiellales mamiellophyceae protist 
+ – 
+
+ simon n foulon e grulois d six c desdevises y 
+latimier m et al revision of the genus micromonas
+manton et parke chlorophyta mamiellophyceae of the
+type species m pusilla butcher manton parke and of the
+species m commoda van baren bachy and worden and
+description of two new species based on the genetic and phe 
+notypic characterization of cultured isolates protist 
+ – 
+
+ foulon e not f jalabert f cariou t massana r 
+simon n ecological niche partitioning in the picoplanktonic
+green alga micromonas pusilla evidence from environmental
+surveys using phylogenetic probes environ microbiol 
+ – 
+
+ limardo aj sudek s choi cj poirier c rii ym blum m et al 
+quantitative biogeography of picoprasinophytes establishes eco 
+type distributions and significant contributions to marine phyto 
+plankton environ microbiol – 
+
+small photosynthetic eukaryote communities off brazil
+
+
+	small eukaryotic phytoplankton communities in tropical waters off brazil are dominated by symbioses between haptophyta and nitrogen fixing cyanobacteria
+	abstract
+	introduction
+	material and methods
+	sampling
+	flow cytometry sorting
+	pcr and illumina run
+	illumina data processing
+	statistical analyses
+
+	results
+	 s rrna
+	nifh
+	network analysis of the major autotrophic s rrna and nifh otus
+
+	discussion
+	compliance with ethical standards
+
+	acknowledgments
+	references
+
+
+
+
+

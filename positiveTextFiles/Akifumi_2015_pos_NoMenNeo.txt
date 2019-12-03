@@ -1,0 +1,2270 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+comparative study of the validity of three regions of the s‐rrna gene for massively parallel sequencing‐based monitoring of the planktonic eukaryote community
+
+
+comparative study of the validity of three regions of the
+ s rrna gene for massively parallel sequencing based
+monitoring of the planktonic eukaryote community
+
+akifumi s tanabe satoshi nagai kohsuke hida † motoshige yasuike 
+
+atushi fujiwara yoji nakamura yoshihito takano and seij i katakura‡
+
+ research center for aquatic genomics national research institute of fisheries science fukuura kanazawa ku 
+
+yokohama kanagawa japan †axiohelix co ltd kakozaki nihonbashi chuouku tokyo japan 
+
+‡city of mombetsu kaiyo koryukan kaiyo koen mombetsu hokkaido japan
+
+abstract
+
+the nuclear s rrna gene has been used as a metabarcoding marker in massively parallel sequencing mps based
+
+environmental surveys for plankton biodiversity research however different hypervariable regions have been used
+
+in different studies and their utility has been debated among researchers in this study detailed investigations into
+
+ s rrna were carried out we investigated the effective number of sequences deposited in international nucleotide
+
+sequence databases insds the amplification bias and the amplicon sequence variability among the three variable
+
+regions v – v – and v – using in silico polymerase chain reaction pcr amplification based on insds we
+
+also examined the primer universality and the taxonomic identification power using mps based environmental sur 
+
+veys in the sea of okhotsk to determine which region is more useful for mps based monitoring the primer univer 
+
+sality was not significantly different among the three regions but the number of sequences deposited in insds was
+
+markedly larger for the v – region than for the other two regions the sequence variability was significantly differ 
+
+ent with the highest variability in the v – region followed by the v – region and the lowest variability in the
+
+v – region the results of the mps based environmental surveys showed significantly higher identification power
+
+in the v – and v – regions than in the v – region but no significant difference was detected between the v – 
+
+and v – regions we therefore conclude that the v – region will be the most suitable for future mps based moni 
+
+toring of natural eukaryote communities as the number of sequences deposited in insds increases 
+
+keywords identification power marine eukaryote metabarcoding mps based environmental surveys operational
+
+taxonomic units
+
+received february revision received august accepted august 
+
+introduction
+
+new sequencing technologies such as the roche 
+
+pyrosequencing platform have made it possible to obtain
+
+millions of sequence reads in a single experiment and
+
+massively parallel sequencing mps is currently revolu 
+
+tionizing the survey of eukaryotic diversity medinger
+
+et al as this technology enables the detection of
+
+thousands of operational taxonomic units otus of
+
+eukaryotes from various ecosystems and facilitates the
+
+detection of low abundance populations in complex
+
+eukaryote communities cheung et al nolte et al 
+
+ edgcomb et al orsi et al lindeque et al 
+
+ however this new technology brings with it
+
+different sources of sequencing error to those present in
+
+traditional dideoxy capillary sequencing such as ambi 
+
+guity of homopolymer length particularly for long
+
+homopolymers huse et al mps of pcr amplicon
+
+libraries can lead to overestimates of microbial diversity
+
+through the generation of low frequency error prone
+
+reads huse et al for this reason empirical studies
+
+to evaluate the per base accuracy of mps and to identify
+
+factors that can be used to eliminate low quality reads
+
+have been employed huse et al quince et al 
+
+ schloss et al li et al 
+
+a fundamental problem in metagenome analyses is
+
+the taxonomic identification of dna sequence fragments
+
+derived from environmental samples as identification
+
+accuracy has a direct impact on biodiversity comparisons
+
+and the interpretations drawn from them bazinet 
+
+cummings therefore several different methods
+correspondence satoshi nagai fax 
+
+e mail snagai affrc go jp
+
+© john wiley sons ltd
+
+molecular ecology resources – doi 
+
+
+
+have been proposed for accomplishing this effectively
+
+and efficiently and many have been implemented in
+
+software design bazinet cummings evaluated
+
+the performance of the leading programs in each cate 
+
+gory using data sets of known taxonomic and functional
+
+composition they found significant variability in identi 
+
+fication accuracy precision and efficiency in the
+
+sequence identification programs but did not recom 
+
+mend any particular program 
+
+dna barcoding is a technique that uses a short stan 
+
+dardized dna region to identify species or higher taxa
+
+ hebert et al large public reference libraries of
+
+dna barcodes are being developed for animals hebert
+
+et al plants cbol plant working group 
+
+and fungi schoch et al but there is no general
+
+agreement on which region to use especially for protists
+
+ pawlowski et al the number of catalogued pro 
+
+tistan species should still be small in comparison with
+
+the diversity of animals plants and fungi the numbers
+
+range from excluding marine nonphotosyn 
+thetic protists mora et al to hoef emden
+et al and by the cbol protist working
+group prowg pawlowski et al until recently 
+
+nuclear ribosomal rna genes such as s s and the
+
+its s its regions or protein coding genes such as
+
+coi and rbcl have been applied to eukaryote phylogeny
+
+and diversity research machida et al pawlowski
+
+et al stern et al toju et al hirai et al 
+
+ the s rrna gene has commonly been
+
+employed as a dna barcoding metabarcoding dna
+
+barcoding of metagenomic amplicon sequences marker
+
+in sanger sequencing following subcloning and mps 
+
+based environmental surveys but different hypervari 
+
+able regions have been used garcia et al amaral 
+
+zettler et al stock et al edgcomb et al 
+
+ki monchy et al nishitani et al pernice
+
+et al 
+
+in this study we performed detailed investigations of
+
+ s rrna namely i the number of sequences depos 
+
+ited in international nucleotide sequence databases
+
+ insds such as ddbj embl and genbank ii the
+
+amplification success rate primer universality iii the
+
+amplicon sequence variability iv the taxonomic com 
+
+position difference between successfully amplified
+
+sequences and template sequences among three regions 
+
+v – v – and v – in the s rrna gene using in sil 
+ico polymerase chain reactions pcrs based on insds 
+
+ v the otu accumulation curve vi the otu taxonomic
+
+composition as a proxy of the amplification success rate 
+
+and vii the taxonomic identification power in the three
+
+variable regions by mps based environmental surveys of
+
+plankton biodiversity research to determine which
+
+region is most useful for mps based monitoring 
+
+materials and methods
+
+in silico pcr analyses
+
+extraction of target sequences from insds and comparison of
+
+the effective numbers of registration therein identification
+
+power through dna barcoding is greatly dependent on
+
+the number of sequences at target regions deposited in
+
+insds to compare the effective numbers of sequences
+
+deposited in insds among the three regions v – v – 
+and v – of s rrna we extracted the sequences that
+contain the three regions using in silico pcr with the aid
+
+of ecopcr v bellemain et al for this in silico
+
+pcr we constructed a genus level identified sequence
+
+database without tetrapods and land plants based on the
+
+national center for biotechnology information nucleo 
+
+tide database ncbi nt downloaded on may 
+
+this sequence database contains nucleotide
+
+sequences the primer sequences expected amplicon
+
+length and specified range of amplicon length given to
+
+ecopcr are shown in table in this in silico pcr zero to
+
+three mismatches between target sequences and each pri 
+
+mer sequence were allowed but no mismatch was
+
+allowed in the two bases at the end sequences that
+contained poly n longer than bp in the amplified
+
+region were excluded from the results and only the
+
+amplicon sequences without primer annealing positions
+
+containing eukaryote s rdna were selected by metaxa
+
+v bengtsson et al we carried out clustering
+
+of the amplicon sequences obtained from in silico pcr
+
+by cd hit est v li godzik at levels of
+
+sequence identity of and to
+
+avoid phylogenetic and taxonomic biases of the number
+
+of deposited sequences the additional command line
+
+parameters ‘ n a d r p g ’ were given in the
+
+sequence clustering we counted the number of repre 
+
+sentative sequences as the effective numbers of depos 
+
+ited sequences 
+
+evaluation of amplification success rates in three sets of primer
+
+pairs first to standardize the template sequence data
+
+sets a region containing v to v was extracted based
+
+on in silico pcr from the overall sequences of ncbi nt
+
+downloaded on may and the ncbi env nt data 
+
+base downloaded on june using ssu f and
+
+ssu r primers limiting amplicon lengths to –
+ bp allowing six mismatches in each primer inclu 
+
+sive of the end with the aid of ecopcr the eukaryotic
+ s rrna sequences were selected using metaxa v 
+
+from amplicon sequences and the sequences of tetra 
+
+pods and land plants were excluded a total of 
+
+sequences were extracted next to avoid any phyloge 
+
+netic or taxonomic biases in the number of deposited
+
+© john wiley sons ltd
+
+validity of s rrna as metabarcoding markers 
+
+
+
+sequences clustering of the extracted sequences at levels
+
+of sequence identity of and was
+
+carried out by cd hit est v li godzik with
+
+the additional command line parameters ‘ n a d
+
+ r p g ’ five new databases of s s 
+
+ s s and s containing 
+
+ and representative sequences respectively 
+
+were constructed to obtain three subset databases for
+
+the v – v – and v – regions from the five databases 
+three sets of primer pairs namely ssu f ssu r 
+
+tareuk fwd tareukrev and ssu f ssu 
+
+r were used table and in silico pcr was car 
+
+ried out by ecopcr to make databases in total in the in
+
+silico amplification zero to three mismatches between
+
+each target primer and the template sequence except
+
+mismatches at the two bases of the end of the primers 
+were allowed and amplicon lengths were limited as
+
+shown in table to amplify the target regions the
+
+sequences that contained poly n longer than bp were
+
+excluded from the results percentages of in silico ampli 
+
+fication success among the three primer sets primer uni 
+
+versality were compared in every database with
+
+different sequence identity thresholds in clustering of
+
+ representative sequences extracted by in silico pcr
+
+using ssu f and ssu r primers after clustering at
+
+the sequence identity of the numbers of shared
+
+sequences among the different primer sets were also
+
+counted and depicted as venn diagrams 
+
+comparison of sequence variability among the three variable
+
+regions we calculated the edit distance between all pair 
+
+wise amplicon sequences within each database n 
+to evaluate the potential identification power among the
+
+three regions the edit distances were calculated by all 
+
+against all pairwise global alignment by the needleman–
+wunsch algorithm between all pairwise amplicon
+
+sequences with the aid of the ‘needle’ command in em 
+
+boss package v rice et al and our own perl
+
+script primer positions were removed from the analysis 
+
+and each insertion and deletion was counted as one vari 
+
+ation even if it was longer than bp the edit distances
+
+among the three variable regions were compared at each
+
+level of sequence identity by the kruskal–wallis test and
+post hoc multiple comparison based on sheffe’s method
+
+with the aid of r statistical environment r core team
+
+ 
+
+comparison of the taxonomic composition between amplified
+
+sequences and template sequences to evaluating taxonomic
+
+bias of amplification the phylum level taxonomic com 
+
+position of successfully amplified sequences of in silico
+
+pcr allowing three mismatches was compared with that
+
+of representative template sequences clustered at the
+
+sequence identity of with the aid of a g test oft
+ab
+
+le
+ 
+
+p
+ri
+m
+er
+s
+u
+se
+d
+in
+
+th
+is
+st
+u
+d
+y
+
+p
+ri
+m
+er
+
+se
+t
+
+p
+ri
+m
+er
+
+n
+am
+
+e
+r
+eg
+
+io
+n
+
+s
+eq
+
+u
+en
+
+ce
+l
+en
+
+g
+th
+
+p
+o
+si
+ti
+o
+n
+†
+
+a
+m
+p
+li
+co
+n
+
+le
+n
+g
+th
+
+†
+s
+p
+ec
+ifi
+ed
+
+le
+n
+g
+th
+
+r
+ef
+er
+en
+
+ce
+
+ 
+s
+s
+u
+ f
+ 
+
+v
+ –
+v
+ 
+
+t
+a
+y
+c
+t
+g
+g
+t
+t
+g
+a
+t
+y
+c
+t
+g
+c
+c
+a
+g
+t
+
+ 
+ –
+ 
+
+ 
+ 
+
+ 
+ –
+ 
+ 
+
+m
+o
+d
+ifi
+ed
+
+fr
+o
+m
+
+t
+ak
+
+an
+o
+ 
+
+h
+o
+ri
+g
+u
+ch
+
+i
+ 
+ 
+ 
+
+s
+s
+u
+ r
+ 
+ 
+
+v
+ –
+v
+ 
+
+t
+g
+c
+t
+g
+g
+c
+a
+c
+c
+a
+g
+a
+c
+t
+t
+g
+c
+c
+c
+t
+
+ 
+ 
+ –
+ 
+ 
+
+m
+o
+d
+ifi
+ed
+
+fr
+o
+m
+
+t
+ak
+
+an
+o
+ 
+
+h
+o
+ri
+g
+u
+ch
+
+i
+ 
+ 
+ 
+
+ 
+t
+a
+r
+eu
+
+k
+ 
+ f
+
+w
+d
+ 
+
+v
+ –
+v
+ 
+
+c
+c
+a
+g
+c
+a
+s
+c
+y
+g
+c
+g
+g
+t
+a
+a
+t
+t
+c
+c
+
+ 
+ 
+ –
+ 
+ 
+
+ 
+ 
+
+ 
+ –
+ 
+ 
+
+s
+to
+ec
+k
+et
+al
+ 
+ 
+ 
+ 
+
+t
+a
+r
+eu
+
+k
+r
+e
+v
+ 
+
+v
+ 
+v
+ 
+
+a
+c
+t
+t
+t
+c
+g
+t
+t
+c
+t
+t
+g
+a
+t
+y
+r
+a
+
+ 
+ 
+ –
+ 
+ 
+
+s
+to
+ec
+k
+et
+al
+ 
+ 
+ 
+ 
+
+ 
+s
+s
+u
+ f
+ 
+ 
+
+v
+ –
+v
+ 
+
+t
+g
+g
+a
+g
+y
+g
+a
+t
+t
+t
+g
+t
+c
+t
+g
+g
+t
+t
+d
+a
+t
+t
+c
+c
+g
+
+ 
+ 
+ 
+– 
+ 
+ 
+
+ 
+ 
+
+ 
+ –
+ 
+ 
+
+m
+o
+d
+ifi
+ed
+
+fr
+o
+m
+
+n
+is
+h
+it
+an
+
+i
+et
+
+al
+ 
+ 
+ 
+ 
+
+s
+s
+u
+ r
+ 
+ 
+
+v
+ –
+v
+ 
+
+t
+c
+a
+c
+c
+t
+a
+c
+g
+g
+a
+a
+a
+c
+c
+t
+t
+g
+t
+t
+a
+c
+g
+
+ 
+ 
+ 
+– 
+ 
+ 
+
+m
+o
+d
+ifi
+ed
+
+fr
+o
+m
+
+n
+is
+h
+it
+an
+
+i
+et
+
+al
+ 
+ 
+ 
+ 
+
+†
+c
+hl
+am
+
+yd
+om
+
+on
+as
+
+re
+in
+ha
+rd
+ti
+i
+ m
+
+ 
+ 
+ 
+
+w
+as
+
+u
+se
+d
+as
+
+a
+re
+fe
+re
+ce
+
+se
+q
+u
+en
+
+ce
+fo
+r
+ 
+s
+ r
+d
+n
+a
+ 
+
+© john wiley sons ltd
+
+ a s tanabe et al 
+
+
+
+independence using williams’ correction williams 
+
+sokal rohlf the bonferroni method was used to
+
+control the family wise error rate note that phylum 
+
+level unclassified superclasses classes subclasses infra 
+
+classes superorders or orders were also treated as phyla 
+
+this statistical test was conducted using an r script by
+
+hurd 
+
+comparison of identification power among three
+variable regions by mps based environmental surveys
+
+sampling and dna extraction three samples of surface
+
+sea water each of l were taken with a plastic bucket
+
+on april april and april from
+
+the sea of okhotsk monbetsu city japan ° n 
+ ° e fig to trap all the plankton in the sea 
+water samples ml of the seawater was filtered
+
+through lm pore size polycarbonate filters nuclepore
+membrane ge healthcare tokyo japan and the sea
+
+water that passed through the lm filters was further
+filtered through lm pore size filters ge healthcare 
+the filters were stored in a deep freezer � °c until
+required for dna extraction a chelex� suspension
+
+ chelex molecular biology grade resin bio rad
+
+laboratories inc richmond ca usa was prepared by
+
+dispersing the resin in ultra pure water for effective
+
+dna extraction from plankton components trapped on
+
+the filters the filters were cut in half placed in ml
+
+tubes a assist tokyo japan and ll of 
+chelex buffer was added the plankton cells were
+
+crushed using a pellet pestle motor kontes glass vine 
+
+land nj usa for s and ll of buffer was added
+to make up a final volume of ll dna was extracted
+
+by heating the ml tubes at °c for min nagai
+et al dna extracted from the lm filter and the
+ lm filter was mixed equally ll ll and used
+as template dna 
+
+pcr amplification and pyrosequencing in this study 
+
+we examined the taxonomic identification power in natu 
+
+ral samples using the three variable regions v – v – 
+and v – in s rrna through pyrosequencing 
+three sets of primer pairs with bp tags added to the
+
+ end of the primers for recognition of each sample 
+were used as the universal primers for metagenome
+
+analysis and we examined the three natural sea water
+
+samples collected for this survey pcr was performed in
+
+a thermal cycler pc astec fukuoka japan in a
+
+reaction mixture ll containing ll of template
+dna mm of each dntp pcr buffer mm
+
+mg u of kod plus ver toyobo osaka japan 
+
+which has intensive exonuclease activity and
+ lm of each primer the pcr cycling conditions were
+as follows initial denaturation at °c for min fol 
+lowed by cycles at °c for s °c for s and
+ °c for min pcr amplification was verified by agar 
+ose gel electrophoresis the pcr products were purified
+
+using a high pure pcr product purification kit roche 
+
+basel switzerland and eluted in ll of elution buffer
+following the manufacturer’s protocol amplified pcr
+
+products were quantified using a nanodrop system
+
+ nanodrop technologies wilmington usa and mixed
+
+equally amplicon sequencing was performed using the
+
+roche gs xlr titanium sequencing platform a
+
+ pyrosequencing library was constructed using the
+
+gs titanium rapid library preparation kit roche diag 
+
+fig location of natural sea water sam 
+
+pling in japanese coastal waters for mas 
+
+sively parallel sequencing mps based
+
+monitoring of the planktonic eukaryote
+
+community 
+
+© john wiley sons ltd
+
+validity of s rrna as metabarcoding markers 
+
+
+
+nostics branford ct usa and pyrosequencing was
+
+performed using a roche gs flx sequencer accord 
+
+ing to the manufacturer’s protocols roche diagnostics 
+
+demultiplexing trimming filtering denoising chimera
+
+removal and otu picking nucleotide sequences were
+
+demultiplexed based on side mid tag and primer
+sequences mid multiplex identifier as the sequenc 
+ing adapters were ligated after pcr each sample
+
+sequence contained both strand sequences both strand
+
+sequences shared the same mid tag sequence but the
+
+ side primers were different therefore the different
+strand sequences were also sorted the mid tag and
+
+primer sequences at both ends were trimmed from the
+
+sequences the tails that had quality values of 
+were also trimmed from each sequence kunin et al 
+
+ sequences longer than bp for v – and v – 
+and bp for v – were also truncated to bp and
+ bp respectively by trimming the tails the
+trimmed sequences with a mean quality value of 
+with a mid tag minimum quality value of and or
+which were shorter than bp for v – and v – 
+and bp for v – were filtered out the numbers of
+sequences remaining at that point were for v –
+ for v – and for v – the demulti 
+plexing trimming and filtering processes were per 
+
+formed with the aid of the ‘clsplitseq’ command in
+
+claident package v tanabe a the
+
+reverse strand sequences were converted to their
+
+reverse complement sequences erroneous and or chi 
+
+meric sequences were detected and removed by the
+
+method described by li et al with the aid of the
+
+‘cldenoiseseq’ command in claident assams assembler
+
+v tanabe b and uchime v 
+
+ edgar et al the forward strand sequences and
+
+reverse complement sequences of the reverse strand for
+
+each variable region were processed separately the
+
+numbers of remaining sequences were for v – 
+ for v – and for v – at that point 
+the remaining sequences were assembled with the aid
+
+of the ‘clmergeclass’ command in claident and assams 
+
+with sequence identity thresholds of distance
+
+radius in sequence space and a minimum overlap
+
+length of bp the contig sequences were counted as
+
+otus and used for the following taxonomic identifica 
+
+tion analysis note that sequence assembly of homolo 
+
+gous amplicon sequences by claident and assams is
+
+equivalent to sequence clustering except that the
+
+resulting sequences are not representative sequences
+
+but consensus sequences demultiplexed filtered but
+
+untrimmed sequence data were deposited in the ddbj
+
+sequence read archive and assigned accession no 
+
+dra 
+
+taxonomic identification of the otus the selected otus
+
+were taxonomically identified by the following proce 
+
+dure first we retrieved sequences that showed a top
+
+match identity of ≥ to the contig sequence by blast
+search cheung et al using the genus level identi 
+
+fied sequence database based on the ncbi nt down 
+
+loaded on may and the contig sequence as the
+
+query with the aid of the ‘clidentseq’ command in clai 
+
+dent and ‘blastn’ in blast v camacho et al 
+ we then assigned a taxonomic unit to each otu at
+
+the lowest taxonomic level where the taxonomic infor 
+
+mation for all the retrieved sequences was consistent i e 
+
+the lowest common ancestor algorithm suggested by
+
+huson et al with the aid of the ‘classigntax’ com 
+
+mand in claident 
+
+comparison of otu accumulation curve and otu taxonomic
+
+composition the otu accumulation curve was drawn
+
+using the ‘rarecurve’ function in vegan package v 
+
+ oksanen et al for r statistical environment based
+
+on otu picking results for evaluating the effect of
+
+sequencing effort if the primer universality was suffi 
+
+ciently high similar taxonomic compositions among the
+
+three variable regions were determined therefore the
+
+phylum level taxonomic composition was also compared
+
+among three regions as a proxy of the amplification suc 
+
+cess rate using a g test of independence and the wil 
+
+liams’ correction williams sokal rohlf at
+
+the full data set and randomly rarefied data set to the
+
+smallest sample for equalizing sequencing effort this
+
+statistical test was conducted using an r script by hurd
+
+ note that phylum level unclassified superclasses 
+
+classes subclasses infraclasses superorders or orders
+
+were also treated as phyla 
+
+comparison of identification power we also compared
+
+identification power in the three regions species 
+
+genus family order class or phylum level identified
+
+otus were assigned scores of or respec 
+
+tively score was assigned the other otus the scores
+
+of the three regions were compared by the kruskal–wal 
+lis test with the aid of r statistical environment r core
+
+team if the kruskal–wallis test produced signifi 
+cant results post hoc multiple comparison based on
+
+sheffe’s method was performed 
+
+results
+
+in silico pcr analyses
+
+extraction of target sequences from insds and comparison of
+
+the effective numbers of sequences deposited therein the
+
+numbers of s rrna sequence clusters that is the
+
+© john wiley sons ltd
+
+ a s tanabe et al 
+
+http www ncbi nlm nih gov nuccore dra 
+
+
+representative sequences obtained from clustering of the
+
+extracted sequences in the three regions at the different
+
+levels of sequence identity of and
+
+ reflected the number of sequences deposited in the
+
+insds fig the number of sequence clusters varied
+
+considerably with varying stringency conditions allow 
+
+ing zero to three mismatches across different primer
+
+pairs the numbers of sequence clusters amplified by
+
+primer pair v – were – times larger than those
+amplified by primer pair v – and – times larger
+than those amplified by primer pair v – 
+
+evaluation of amplification success rates for the three sets of
+
+primer pairs the three sets of primer pairs showed large
+
+variations in their ability to amplify the target regions 
+
+allowing for the different numbers of primer mismatches
+
+ fig the primer sets and amplified – 
+ – and – of the sequences respectively when
+no mismatch was allowed the percentages were mark 
+
+edly different among the primer sets with the highest
+
+rate of amplification with primer set and the lowest
+
+with primer set the percentages with each primer set
+
+increased markedly when the number of allowable mis 
+
+matches was increased and was greatest at high levels
+
+of identity in clustering among the three sets of primer
+
+pairs the percentages were highest for primer set
+ regardless of clustering levels when allowing two to
+
+three primer mismatches however all sets of primer
+
+pairs amplified at least of the sequences when two
+
+or three mismatches were allowed at a sequence identity
+
+of with regard to the representative sequences
+
+extracted by in silico pcr and clustering the numbers of
+
+sequences shared between the different primer sets were
+
+counted to check the amplification bias and these num 
+
+bers increased with increasing numbers of mismatches 
+
+regardless of clustering levels fig 
+
+comparison of sequence variability among the three variable
+
+regions frequency distributions of the edit distances 
+
+calculated for all the pairwise amplicon sequences in
+
+fig extraction of the target sequences in s rrna from international nucleotide sequence databases insds and comparison of the
+
+numbers of sequences deposited in insds in silico polymerase chain reaction pcr amplified the v – v – and v – regions in s 
+rrna using the three sets of primer pairs shown in table the representative sequences were obtained by clustering of the extracted
+
+sequences at levels of sequence identity of and in the in silico amplification zero to three mismatches between
+
+each target primer and the template sequence were allowed in the amplification of the target regions in each analysis except for mis 
+
+matches at the two bases of the end of the primers 
+
+© john wiley sons ltd
+
+validity of s rrna as metabarcoding markers 
+
+
+
+each region are shown in fig they were compared for
+
+every clustering threshold of sequence identity the edit
+
+distances ranged from to in all clustering thresh 
+
+olds and were similar among the different clustering
+
+thresholds the maximum sequence variability was in
+
+the v – region followed by the v – region and then
+the v – region and the distribution was significantly
+different among the three regions regardless of the iden 
+
+tify level p kruskal–wallis test and post hoc
+pairwise comparison 
+
+comparison of the taxonomic composition between amplified
+
+sequences and template sequences the template sequences
+
+contained – sequences from arthropoda florideo 
+phyceae apicomplexa spirotrichea mollusca 
+
+ascomycota bacillariophyta cnidaria dinophyceae 
+
+chlorophyta oligohymenophorea dictyosteliida 
+
+annelida nematoda basidiomycota porifera platy 
+
+helminthes chordata bangiophyceae ctenophora 
+
+prymnesiales cryptophyta phyllopharyngea synuro 
+
+phyceae chrysophyceae streptophyta eustigmato 
+
+phyceae cercomonadida bicosoecida and phaeocystales
+
+in order of ascending numbers and sequences from
+
+the other phyla full results are provided in table s 
+
+supporting information none of the sequences from
+
+prymnesiales and phaeocystales was amplified by pri 
+
+mer set v – and none of the sequences from phyl 
+lopharyngea was amplified by primer set v – the
+phylum level taxonomic composition of sequences
+
+amplified by primer sets v – and v – was not
+significantly different g d f p for
+primer set g d f p for pri 
+mer set from that of the template sequences but the
+
+sequences amplified by primer set v – were signifi 
+cantly different g d f p from
+the template sequences 
+
+fig comparison of successful polymerase chain reaction pcr amplification among the target regions of s rrna v – v – and
+v – amplified by in silico pcr using the three sets of primer pairs shown in table at different levels of sequence identity –
+ in clustering and primer mismatches – between each target primer and the template sequence at first to standardize the tem 
+plate sequence data sets a region containing variable regions v to v – bp was amplified by in silico pcr from the ncbi nt
+and env nt databases analyses used ssu f and ssu r primers allowing bp mismatches in each primer inclusive of the 
+end which resulted in the extraction of amplified sequences after this extraction and sequence clustering each target region of
+
+ s rrna was amplified by in silico pcr for comparison 
+
+© john wiley sons ltd
+
+ a s tanabe et al 
+
+
+
+comparison of primer universality and identification
+power among the variable regions by mps based
+environmental surveys
+
+comparison of otu accumulation curves and otu taxo 
+
+nomic composition the otu accumulation curves indi 
+
+cate that the numbers of otus are nearly saturated in
+
+most cases except for the v – region fig the v – 
+and v – regions contained the smallest and largest
+numbers of otus respectively although the v – and
+v – regions showed the highest and lowest in silico
+variability respectively this can be explained by the
+
+fig venn diagrams showing the number of shared sequences among the three variable regions of s rrna v – v – and v – 
+obtained from in silico amplification using the three sets of primer pairs at a sequence identity of in clustering under different levels
+
+of mismatches – between each target primer and the template sequence the sequence data used to compare the polymerase chain
+reaction pcr amplification success among the three regions of s rrna shown in fig were used in this analysis 
+
+© john wiley sons ltd
+
+validity of s rrna as metabarcoding markers 
+
+
+
+difference in the sequence variability sequence identity
+
+evaluation method the sequence variability was evalu 
+
+ated based on in silico edit distance analysis and
+
+sequence identity was accounted as percentage identity
+
+in otu picking of mps based environmental surveys 
+
+because the v – amplicon is the longest it has smallest
+percentage sequence variation unlike its edit distance 
+
+the other explanations are that the samples used in our
+
+environmental surveys are limited geographically and
+
+temporally and do not represent the biome on the earth 
+
+or that the pcr or sequencing of v – region was less
+universal on these samples in total of three regions the
+
+otus contained – otus for ascomycota cryomona 
+dida mollusca phaeocystales basidiomycota bolido 
+
+phyceae florideophyceae katablepharidophyta 
+
+pelagophyceae choanoflagellida oligohymenophorea 
+
+prymnesiales streptophyta litostomatea telonemida 
+
+arthropoda thaumatomonadida cryptophyta dicty 
+
+ochophyceae annelida chrysophyceae spirotrichea 
+
+cercomonadida chlorophyta dinophyceae and bacil 
+
+lariophyta in order of ascending numbers and other
+
+otus when the sequence identity threshold of was
+
+applied for otu picking full results are provided in
+
+table s supporting information the phylum level
+
+taxonomic composition of all three regions was not sig 
+
+nificantly different g d f p 
+at the full data set or at the randomly rarefied data set
+
+ g d f p this suggests that
+the differences in the numbers of otus among the three
+
+regions may not have been caused by the difference in
+
+primer universality but may have arisen from the differ 
+
+ences of percentage sequence variation 
+
+comparison of identification power the median scores of
+
+taxonomic identification were and for v – v – 
+and v – respectively the scores were significantly dif 
+ferent p kruskal–wallis test between v – and
+v – p and between v – and v – 
+ p but not significantly different between v – 
+and v – p 
+
+fig comparison of the frequency distribution of the edit distances among the three variable regions of s rrna v – v – and
+v – obtained by in silico polymerase chain reaction pcr using the three sets of primer pairs allowing three mismatches between
+each target primer and the template sequence except for mismatches at the two bases of the end of the primers at different levels of
+sequence identity – in clustering 
+
+© john wiley sons ltd
+
+ a s tanabe et al 
+
+
+
+discussion
+
+debate on the utility of the variable regions in the s 
+rrna gene as barcoding markers
+
+the s rrna gene has commonly been used as a
+
+metabarcoding marker in mps based environmental sur 
+
+veys for a number of reasons the gene is found in all
+
+eukaryotes and many copies are contained per genome 
+
+allowing single cell pcr pawlowski et al there
+
+are several regions that are conserved enough to allow
+
+the design of highly universal primers enabling species
+
+identification in a wide range of eukaryotes using one
+
+primer pair takano horiguchi the eukaryotic
+
+ s rrna gene contains eight hypervariable regions v 
+
+to v excluding v that are sufficiently variable to allow
+
+the identification of species using the sequence data
+
+available in public databases ki however there is
+
+a lack of consensus on which is the most appropriate
+
+marker region with different hypervariable regions in
+
+ s rrna being used in different studies such as the v 
+
+region medinger et al nolte et al the v – 
+region monchy et al the v region cheung et al 
+
+ stoeck et al comeau et al monier et al 
+
+ the v – region pernice et al and the v 
+region amaral zettler et al stoeck et al 
+
+behnke et al edgcomb et al pawlowski et al 
+
+ researchers have used different hypervariable
+
+regions for several reasons for example the v – region
+has been reported to provide accurate phylogenies with
+
+the resulting analysis providing a good description of
+
+the variability of the entire s rrna gene pernice et al 
+
+ however the v region has apparently failed to
+
+retrieve specific groups for high level taxa lacking repre 
+
+sentations of whole gene variability in s rrna paw 
+
+lowski et al pernice et al in contrast to this
+
+assessment another study has shown that an amplicon
+
+library for the v region retrieved a greater number of
+
+higher rank taxonomic groups than the v region and
+
+that this trend was strong for dinoflagellates – one of the
+most dominant protists in coastal ecosystems stoeck
+
+et al some discrepancies could also be due to the
+
+fig comparison of the operational taxonomic unit otu accumulation curves among the three variable regions in s rrna v – 
+v – and v – in massively parallel sequencing mps based environmental surveys otus were picked using sequence identity cut 
+offs of and from amplicon mps data from the sea of okhotsk the otu accumulation curves were drawn with the aid of the
+
+rarecurve function of the vegan v package for the r statistical environment the red black and blue lines indicate the samples of
+
+v – v – and v – regions respectively 
+
+© john wiley sons ltd
+
+validity of s rrna as metabarcoding markers 
+
+
+
+different lengths of amplicon sequences – and conse 
+quently different amounts of phylogenetic information –
+leading to both differences in species diversity bachy
+
+et al and taxonomic composition amaral zettler
+
+et al in one study the sequence variability in the
+
+hypervariable regions of the s rrna gene in dinoflag 
+
+ellates was thoroughly analysed showing that the v 
+
+region had the highest taxonomic resolving power of all
+
+eight hypervariable regions ki however the use 
+
+fulness of the hypervariable regions as barcoding mark 
+
+ers and for molecular detection has not yet been fully
+
+evaluated for a wide range of eukaryotes because there
+
+is a lack of understanding of the factors influencing the
+
+identification power for taxa therefore the objective of
+
+this study was to determine which region is most vari 
+
+able and useful as a metabarcoding marker for the appli 
+
+cation of pyrosequencing technology in order to
+
+study plankton biodiversity in natural environmental
+
+samples 
+
+primer universality
+
+to standardize the template sequence data sets we first
+
+amplified a sequence containing regions v to v by in
+
+silico pcr from the full ncbi nt and env nt databases
+
+using ssu f and ssu r primers allowing six mis 
+
+matches these primers may have been better suited for
+
+the amplification of the v – and v – regions than for
+the v – region because one primer of each primer pair
+was used to amplify the v – region which may have
+resulted in the overestimation of amplification success
+
+rate for these two regions this effect should be taken
+
+into account for interpreting pcr coverage among the
+
+three sets of primer pairs the amplification success rate
+
+was the highest – for primer set regardless of
+clustering levels except for a sequence identity threshold
+
+of allowing for two to three mismatches however 
+
+all primer sets amplified at least of the sequences
+
+allowing for three mismatches at a sequence identity
+
+threshold of in clustering fig in addition the
+
+frequency in the number of sequences amplified by a
+
+single primer pair out of the total number of sequences
+
+obtained using all the primer sets was allowing
+for three mismatches of the primers fig the phy 
+
+lum level taxonomic composition of the amplified
+
+sequences was significantly different in the in silico
+
+analyses of region v – suggesting that potential uni 
+versality of primer set was less than the other primer
+
+sets however the taxonomic composition of all three
+
+regions was not significantly different in the mps based
+
+environmental surveys this result indicates that primer
+
+universality is sufficiently high among all three primer
+
+sets although pawlowski et al and pernice et al 
+
+ have pointed out the failure of taxonomic
+
+recovery in specific groups for high level taxa in the v 
+
+region 
+
+comparison of the utility of the three variable regions as
+metabarcoding markers
+
+the number of deposited sequences of v – was – 
+times larger than that of v – and – times larger than
+that of v – fig sequence variability was highest in
+v – and lowest in v – the frequency distribution of
+edit distance was significantly different among the three
+
+regions regardless of the identity levels in clustering
+
+ fig the results of mps based environmental sur 
+
+veys of planktonic eukaryote communities indicated
+
+that the identification power by use of primer sets 
+
+ v – and v – was significantly higher than for
+primer set v – at the two different cut off levels of
+ and but they were not significantly different
+
+between primer sets and accordingly these results
+
+suggest that the identification power reflects the
+
+sequence variability among hypervariable regions 
+
+rather than the number of registrations in insds we
+
+can conclude that the v – region is more suitable than
+the v – region for environmental monitoring based on
+roche pyrosequencing technology moreover the
+
+v – region will become more useful and informative
+as the number of sequences deposited in public data 
+
+bases increases the v – region is the longest in the
+three regions and the amplicon length of this region is
+
+too long for illumina miseq hiseq overlapped paired 
+
+end sequencing at present the v – region can be rec 
+ommended for such sequencing technology because of
+
+shorter length we also encourage to use multiple
+
+regions for reducing pcr biases 
+
+acknowledgements
+
+we thank dr takashi gojobori from the center for information
+
+biology and dna data bank of japan ddbj national institute
+
+of genetics and dr takanori kobayashi from the fisheries
+
+research agency of japan for fruitful discussions and com 
+
+ments regarding the manuscript and for their encouragement
+
+during this study we also feel grateful for four anonymous
+
+reviewers because of their useful comments and advices this
+
+study was supported by a grant in aid marine metagenomics
+
+for monitoring the coastal microbiota from the ministry of
+
+agriculture forestry and fisheries of japan a grant in aid for
+
+scientific research kiban b from the japan society for the pro 
+
+motion of science no and a research project grant
+
+from the fisheries research agency of japan fra 
+
+references
+
+amaral zettler l mccliment e ducklow h huse s a method for
+
+studying protistan diversity using massively parallel sequencing of v 
+
+© john wiley sons ltd
+
+ a s tanabe et al 
+
+
+
+hypervariable regions of small subunit ribosomal rna genes plos
+
+one e 
+
+bachy c dolan jr l�opez garc�ıa p deschamps p moreira d ac 
+
+curacy of protist diversity assessments morphology compared with
+
+cloning and direct pyrosequencing of s rrna genes and its regions
+
+using the conspicuous tintinnid ciliates as a case study isme journal 
+
+ – 
+
+bazinet a cummings m a comparative evaluation of sequence
+
+classification programs bmc bioinformatics 
+
+behnke a engel m christen r nobel m klein rr stoeck t 
+
+depicting more accurate pictures of protistan community complexity
+
+using pyrosequencing of hypervariable ssu rrna gene regions envi 
+
+ronmental microbiology – 
+
+bellemain e carlsen t brochmann c coissac e taberlet p kauserud
+
+h its as an environmental dna barcode for fungi an
+
+in silico approach reveals potential pcr biases bmc microbiology 
+
+ 
+
+bengtsson g rtiksson km hartmann m et al metaxa a software
+
+tool for automated detection and discrimination among ribosomal
+
+small subunit s s s sequences of archaea bacteria eukary 
+
+otes mitochondria and chloroplasts in metagenomes and environ 
+
+mental sequencing datasets antonie van leeuwenhoek – 
+
+doi s 
+
+camacho c coulouris g avagyan v et al blast architecture
+
+and applications bmc bioinformatics 
+
+cbol plant working group a dna barcode for land plants pro 
+
+ceedings of the national academy of sciences usa – 
+
+cheung m au c chu k kwan h wong c composition and
+
+genetic diversity of picoeukaryotes in subtropical coastal waters as
+
+revealed by pyrosequencing isme journal – 
+
+comeau am li wkw tremblay j�e carmack ec lovejoy c arc 
+
+tic ocean microbial community structure before and after the 
+
+record sea ice minimum plos one e 
+
+edgar rc haas bj clemente jc quince c knight r uchime
+
+improves sensitivity and speed of chimera detection bioinformatics 
+
+ – 
+
+edgcomb v orsi w bunge j et al protistan microbial observatory
+
+in the cariaco basin caribbean i pyrosequencing vs sanger insights
+
+into species richness isme journal – 
+
+garcia l valera fr alio cr moreira d unexpected diversity of
+
+small eukaryotes in deep sea antarctic plankton nature – 
+
+hebert pd cywinska a ball sl dewaard jr biological identifica 
+
+tions through dna barcodes proceedings of the royal society b biologi 
+
+cal science – 
+
+hirai j shimode s tsuda a evaluation of its s as a molecular
+
+marker for identification of calanoid copepods in the subtropical west 
+
+ern north pacific journal of plankton research – 
+
+hoef emden k kupper fc andersen ra meeting report 
+
+sloan foundation work shop to resolve problems relating to the
+
+taxonomy of microorganisms and to culture collections arising from
+
+the barcoding initiatives portland me november – protist 
+
+ – 
+
+hurd p g test r an r script distributed by the author at http 
+
+www psych ualberta ca phurd cruft g test r 
+
+huse sm huber ja morrison hg sogin ml welch dm accu 
+
+racy and quality of massively parallel dna pyrosequencing genome
+
+biology r 
+
+huse sm welch dm morrison hg sogin ml ironing out the
+
+wrinkles in the rare biosphere through improved otu clustering en 
+
+vironmental microbiology – 
+
+huson dh auch af qi j schuster sc megan analysis of
+
+metagenomic data genome research – 
+
+ki j s hypervariable regions v –v of the dinoflagellate s
+
+rrna using a large dataset for marker considerations journal of
+
+applied phycology – 
+
+kunin v engelbrektson a ochman h hugenholtz p wrinkles in
+
+the rare biosphere pyrosequencing errors can lead to artificial inflation
+
+of diversity estimates environmental microbiology – 
+
+li w godzik a cd hit a fast program for clustering and compar 
+
+ing large sets of protein or nucleotide sequences bioinformatics 
+
+ – 
+
+li w fu l niu b wu s wooley j ultrafast clustering algorithms
+
+for metagenomic sequence analysis briefings bioinformatics –
+
+ 
+
+lindeque pk parry he harmer ra somerfield pj atkinson a 
+
+next generation sequencing reveals the hidden diversity of zooplank 
+
+ton assemblages plos one e 
+
+machida rj kweskin m knowlton n pcr primers for metazoan
+
+mitochondrial s ribosomal dna sequences plos one e 
+
+medinger r nolte v pandey rv et al diversity in a hidden
+
+world potential and limitation of next generation sequencing for sur 
+
+veys of molecular diversity of eukaryotic microorganisms molecular
+
+ecology suppl – 
+
+monchy s grattepanche jd breton e et al microplanktonic com 
+
+munity structure in a coastal system relative to a phaeocystis bloom
+
+inferred from morphological and tag pyrosequencing methods plos
+
+one e 
+
+monier a terrado r thaler m comeau am medrinal e lovejoy c
+
+ upper arctic ocean water masses harbor distinct communi 
+
+ties of heterotrophic flagellates biogeosciences discussions –
+
+ 
+
+mora c tittensor dp adl s simpson ag worm b how
+
+many species are there on earth and in the ocean plos biology 
+
+e 
+
+nagai s yamamoto k hata n itakura s study of dna extraction
+
+methods for use in loop mediated isothermal amplification detection
+
+of single resting cysts in the toxic dinoflagellates alexandrium tamarense
+
+and a catenella marine genomics – 
+
+nishitani g nagai s hayakawa s et al multiple plastids collected
+
+by the dinoflagellate dinophysis mitra through kleptoplastidy applied
+
+and environmental microbiology – 
+
+nolte v pandey rv jost s contrasting seasonal niche separation
+
+between rare and abundant taxa conceals the extent of protist diver 
+
+sity molecular ecology – 
+
+oksanen j blanchet fg kindt r et al vegan community ecology
+
+package 
+
+orsi w edgcomb v jeon s et al protistan microbial observatory
+
+in the cariaco basin caribbean ii habitat specialization isme jour 
+
+nal – 
+
+pawlowski j christen r lecroq b et al eukaryotic richness in the
+
+abyss insights from pyrotag sequencing plos one e 
+
+pawlowski j audic s adl s et al cbol protist working group 
+
+barcoding eukaryotic richness beyond the animal plant and fungal
+
+kingdoms plos biology e 
+
+pernice mc logares r guillou l massana r general patterns of
+
+diversity in major marine microeukaryote lineages plos one 
+
+e 
+
+quince c lanzen a curtis tp et al accurate determination of
+
+microbial diversity from pyrosequencing data nature methods 
+
+ – 
+
+r core team r a language and environment for statistical comput 
+
+ing r foundation for statistical computing vienna austria 
+
+rice p longden i bleasby a emboss the european molecular
+
+biology open software suite trends in genetics – 
+
+schloss pd gevers d westcott sl reducing the effects of pcr
+
+amplification and sequencing artifacts on s rrna based studies 
+
+plos one e 
+
+schoch cl seifert ka huhndorf s et al nuclear ribosomal inter 
+
+nal transcribed spacer its region as a universal dna barcode marker
+
+for fungi proceedings of the national academy of sciences usa 
+
+ – 
+
+sokal rr rohlf fj biometry the principles and practice of statistics
+
+in biological research rd edn w h freeman new york 
+
+stern rf andersen ra jameson id et al evaluating the ribosomal
+
+internal transcribed spacer its as a candidate dinoflagellate barcode
+
+marker plos one e 
+
+© john wiley sons ltd
+
+validity of s rrna as metabarcoding markers 
+
+http dx doi org s 
+http www psych ualberta ca phurd cruft g test r
+http www psych ualberta ca phurd cruft g test r
+
+
+stock a j€urgens k bunge j stoeck t protistan diversity in suboxic
+
+and anoxic waters of the gotland deep baltic sea as revealed by s
+
+rrna clone libraries aquatic microbial ecology – 
+
+stoeck t bass d nebel m et al multiple marker parallel tag envi 
+
+ronmental dna sequencing reveals a highly complex eukaryotic com 
+
+munity in marine anoxic water molecular ecology suppl – 
+
+takano y horiguchi t surface ultrastructure and molecular phy 
+
+logenetics of four unarmored heterotrophic dinoflagellates including
+
+the type species of the genus gyrodinium dinophyceae phycological
+
+research – 
+
+tanabe as a claident v software distributed by the
+
+author at http www claident org 
+
+tanabe as b assams v software distributed by the
+
+author at http www fifthdimension jp 
+
+toju h tanabe a yamamoto s sato h high coverage its primers
+
+for the dna based identification of ascomycetes and basidiomycetes
+
+in environmental samples plos one e 
+
+williams da improved likelihood ratio test for complete con 
+
+tingency tables biometrika – doi 
+
+ 
+
+s n conceived the idea s n and a s t designed the
+
+study a s t and k h carried out bioinformatics analy 
+
+ses and contributed archived dna m y a f and y t 
+
+carried out dna extraction pcrs and massively parallel
+
+sequencing s k carried out the field work s n pre 
+
+pared the initial draft of the manuscript with input from
+
+a s t and y n towards the final version all authors
+
+approved the final version of the manuscript 
+
+data accessibility
+
+dna sequences are available in the ddbj sequence read
+
+archive dra the analysis commands home 
+
+made scripts and analysis result files are available at
+
+dryad project as doi dryad pd 
+
+supporting information
+
+additional supporting information may be found in the online
+
+version of this article 
+
+table s taxonomic information of representative sequences
+
+clustered at the sequence identity of of the template and the
+
+three regions used in polymerase chain reaction pcr coverage
+
+and taxonomic composition comparison based on in silico pcr 
+
+the results are provided separately in excel sheets 
+
+table s results of the taxonomic identification at the three
+
+variable regions in s rrna v – v – and v – at two
+sequence identity thresholds of and in clustering the
+
+results are provided separately in excel sheets 
+
+© john wiley sons ltd
+
+ a s tanabe et al 
+
+http www claident org 
+http www fifthdimension jp 
+http dx doi org 
+http dx doi org 
+http dx doi org dryad pd 
+
+

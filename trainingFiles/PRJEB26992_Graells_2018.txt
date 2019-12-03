@@ -1,0 +1,1625 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fems microbiology ecology fiy 
+
+doi femsec fiy 
+advance access publication date september 
+research article
+
+research article
+
+the all intracellular order legionellales is unexpectedly
+diverse globally distributed and lowly abundant
+tiscar graells † helena ishak madeleine larsson and lionel guy ‡
+
+ department of medical biochemistry and microbiology science for life laboratory uppsala university box
+ uppsala sweden and departament de genètica i microbiologia universitat autònoma de
+barcelona edifici c carrer de la vall moronta bellaterra spain
+∗corresponding author lionel guy department of medical biochemistry and microbiology science for life laboratory uppsala university box 
+ uppsala sweden e mail lionel guy imbim uu se
+
+one sentence summary the all intracellular bacterial order of legionellales is much more diverse prevalent and globally distributed than previously
+thought 
+
+editor rolf kümmerli
+†
+
+‡lionel guy http orcid org 
+
+abstract
+
+legionellales is an order of the gammaproteobacteria only composed of host adapted intracellular bacteria including the
+accidental human pathogens legionella pneumophila and coxiella burnetii although the diversity in terms of lifestyle is large
+across the order only a few genera have been sequenced owing to the difficulty to grow intracellular bacteria in pure
+culture in particular we know little about their global distribution and abundance 
+here we analyze s rdna amplicons both from tens of thousands of published studies and from two separate sampling
+campaigns in and around ponds and in a silver mine we demonstrate that the diversity of the order is much larger than
+previously thought with over uncultured genera we show that legionellales are found in about half of the samples from
+freshwater soil and marine environments and quasi ubiquitous in man made environments their abundance is low 
+typically with few samples up to most legionellales otus are globally distributed while many do not belong to a
+previously identified species 
+this study sheds a new light on the ubiquity and diversity of one major group of host adapted bacteria it also emphasizes
+the need to use metagenomics to better understand the role of host adapted bacteria in all environments 
+
+keywords legionella legionellales metagenomics amplicons host adapted bacteria geographical distribution
+
+introduction
+
+legionellales is an order composed only of intracellular bacteria
+within the gammaproteobacteria class they are gram negative 
+non spore forming rod shaped bacteria and are classically
+divided into two families the legionellaceae and the coxiellaceae
+ garrity et al in the original description the former was
+
+described as facultative intracellular e g legionella pneumophila 
+and the latter as obligate intracellular e g coxiella burnetii 
+
+in the environment legionellaceae which includes the genus
+legionella can be found in natural aquatic environments sed 
+iments and soils as a free form but is mostly found coloniz 
+ing amoeba or within biofilms e g fields they colonize
+man made water systems where the temperature conditions
+
+received june accepted september 
+
+c© fems this is an open access article distributed under the terms of the creative commons attribution noncommercial noderivs licence
+ http creativecommons org licenses by nc nd which permits non commercial reproduction and distribution of the work in any medium 
+provided the original work is not altered or transformed in any way and that the work is properly cited for commercial re use please contact
+journals permissions oup com
+
+ 
+
+tiscar graells http orcid org 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+http www oxfordjournals org
+mailto lionel guy imbim uu se
+https orcid org 
+http orcid org 
+http creativecommons org licenses by nc nd 
+mailto journals permissions oup com
+
+
+ fems microbiology ecology vol no 
+
+are suitable for their optimal growth their hosts include amoe 
+bae like acanthamoeba naegleria balmuthia dictyostelium and cil 
+iates such as tetrahymena boamah et al several species
+have been described as accidental pathogens of humans l pneu 
+mophila l longbeachae l micdadei this family has been pro 
+posed to be divided in three genera legionella tatlockia and flu 
+oribacter however this classification is not often used by micro 
+biologists as there are no phenotypic differences between them
+ garrity et al fry et al and we chose to only use
+the legionella genus in this contribution one legionella species
+has a totally different lifestyle ‘candidatus legionella polyplacis’
+ hereafter referred to as l polyplacis rihova et al which
+has undergone considerable genome reduction is an obligate
+intracellular symbiont of the blood sucking lice polyplax spp 
+
+the coxiellaceae comprise several genera and cover a wider
+diversity of lifestyles the arthropod associated rickettsiella
+ leclerque bouchon cordaux and grève have a wide
+variety of hosts diplorickettsia mediannikov et al and cox 
+iella taylor et al gottlieb lalzar and klasson use
+ticks as hosts except c burnetii which is an obligate intracel 
+lular bacterium infecting mammals amoeba associated gen 
+era include aquicella santos et al ‘candidatus berkiella’
+ mehari et al and ‘candidatus cochliophilus’ tsao et al 
+ diplorickettsia massiliensis subramanian et al and
+coxiella burnetii have been described as human pathogens van
+schaik et al 
+
+despite their very broad ecological range legionellales have
+significant common characters they replicate and multiply
+inside eukaryotic hosts using a type ivb secretion system
+ t bss this system also known as icm dot intracellular mul 
+tiplication defect in organelle trafficking genes is used to
+inject effector proteins inside the host nagai and kubori 
+christie gomez valero and buchrieser this virulence trait
+is key to avoid lysosomal degradation and to replicate inside
+intracellular compartments richards et al imitating dif 
+ferent functions of cells in their infection biology cycle has likely
+contributed to the infection of cattle and human macrophages
+ richards et al 
+
+legionellales seem to be widely distributed but because of
+their complicated life cycle they have often been unnoticed 
+due to their intracellular lifestyle and dependency on their host 
+growing them in a laboratory setting is challenging so far only
+some species of legionella aquicella santos et al and cox 
+iella burnetii can be cultivated in axenic media the develop 
+ment of a protocol for the latter took decades and tremen 
+dous efforts omsland hence studies have investigated
+the microbiology composition of soil sediments and water
+with independent culture methods primarily through ampli 
+con sequencing for example significant amounts of legionel 
+laceae have been found in cold waters wullings and van der
+kooij even in antarctica lakes ∼ ◦c carvalho et al 
+legionella have also been found widely distributed in watersheds
+but with relatively low abundance peabody et al 
+the same study found a negative correlation between abun 
+dance of both bacteria and hosts and human activity i e a higher
+abundance of legionella and amoebae in pristine environments
+compared to agricultural soils treatment of drinking water
+with chlorine tends to reduce the abundance of legionella but
+higher abundances were restored further away in the supply
+chain with phylotypes and abundance differing between cold
+and warm tap water lesnik brettar and hofle in general 
+proteobacteria were within the most common bacteria in soils
+and aquatic environments in different countries denet et al 
+ hosen et al naghoni et al peabody et al 
+
+many of the predominant amoebae in those soils are tetrami 
+tus acanthamoeba and naegleria denet et al peabody et al 
+ known to be hosts for legionellales surprisingly legionel 
+lales seem to be abundant even in hypersaline environments
+where archaea other gammaproteobacteria firmicutes and bac 
+teroidetes are otherwise predominant naghoni et al 
+
+the microbial diversity of natural environments can
+be affected by different factors the global tempera 
+tures rising can lead to changes in abundance of cer 
+tain microorganisms and protists human activity has
+shown to affect water environments modifying the micro 
+bial diversity between forest and urban areas where
+microbes play key roles in biogeochemical cycles hosen
+et al the prevalence of vector borne diseases on
+the rise rosenberg et al semenza and suk and the
+amoebae as a potential vector for emerging pathogens lamoth
+and greub motivate the need for a global study of the
+distribution of the exclusively host adapted legionellales 
+
+here the environmental and geographical distribution as
+well as the prevalence of the legionellales was studied both
+by using publicly available datasets and by analyzing samples
+taken in different kinds of wetlands and in a silver mine in swe 
+den the aim was to better understand the global ecology of this
+order to predict responses to environmental changes and iden 
+tify the mechanisms that affect their microbial biodiversity 
+
+material and methods
+
+collection and preparation of environmental samples
+
+a total of water sediment and soil samples were collected
+from areas in and around hedesundafjärden natural reserve
+ samples florarna natural reserve färnebofjärden
+national park and stadsskogen natural reserve 
+ supplementary table in uppland sweden during the
+months of july and august these samples are referred
+to as the ‘uppland samples’ in general samples were
+collected in duplicates in a separate sampling campaign 
+samples were retrieved from different levels and rooms of the
+sala silver mine sala sweden in april supplementary
+table these are referred to as the ‘sala samples’ 
+
+to retrieve water l sterilized glass bottles were immersed
+halfway as to mainly collect surface water sediment and biofilm
+was acquired by scooping the top layers of the sediment with
+ ml sterile falcon tubes soil samples were collected using a
+soil sampler digging – cm into the ground temperature was
+measured the samples were then kept cold during transporta 
+tion water samples were filtered first through μm pore fil 
+ters to remove large debris such as dust small insects and large
+particles filtered water was then re filtered through whatman
+filters with a pore size of μm to obtain microorganisms on the
+filter papers sala samples were also filtered a third time with
+whatman filters of μm pore size to recover even smaller
+microorganisms filtering the uppland water samples with
+ μm filters was not possible due to the higher turbidity of
+these samples samples where the water was very turbid with
+organic matter were centrifuged at x g for minutes to
+pellet microorganisms 
+
+dna extraction
+
+for water samples filters were resuspended in ml of sterile
+ultrapure water and cut to small pieces ranging in size of –
+ mm parts of the filters and μl of the water were used
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+graells et al 
+
+for extraction for other samples g of soil or sediment were
+used dna was isolated from the raw material or the filters with
+the fastdna r© spin kit for soil and the fastprep r© instrument
+ mp biomedicals santa ana ca for water samples ml 
+to ml no dna could be retrieved 
+
+quality control of dna extraction
+
+purity control and quantification of raw dna were performed
+using a nanodrop spectrophotometer thermo fischer 
+the nm and nm ratios were controlled to be
+within an acceptable range since environmental samples may
+contain pcr inhibitors such as proteins or phenols the extracted
+dna was diluted to reach – ng μl to minimize problems in the
+following pcr 
+
+two step polymerase chain reaction
+
+in order to create a s rrna amplicon library a two step pcr
+was used the first pcr reaction uses two primers that con 
+tain an adaptor and a universal primer supplementary table 
+to amplify s s rdna genes of the extracted dna samples 
+using hotstar taq polymerase qiagen the pcr ran through
+ cycles and conditions were set to initial denaturation at ◦c
+for minutes denaturation at ◦c for seconds annealing
+at ◦c for seconds elongation at ◦c for minute and
+ seconds final elongation at ◦c for minutes and then rest 
+ing cooling at ◦c until retrieval prior to the second pcr step 
+pcr products were checked in an agarose gel the amplicons
+were purified using the protocol for genejet gel extraction kit
+ thermo fischer and finally quantified using qubit dsdna hs
+ high sensitivity assay kit with qubit fluorometer concentra 
+tion of dna samples was adjusted to ng μl the second pcr
+step used primers comprising illumina sequencing primers bar 
+codes and an adaptor matching the one of the first pcr primer
+ supplementary table the pcr ran for cycles and condi 
+tions were set to initial denaturation at ◦c for minutes 
+denaturation at ◦c for seconds annealing at ◦c for
+ seconds elongation at ◦c for seconds final elongation
+at ◦c for minutes and rest cooling until retrieval again pcr
+products were checked in an agarose gel purified with genejet
+gel extraction kit thermo fischer and quantified using qubit
+dsdna hs high sensitivity assay kit with qubit fluorometer 
+
+dna quality control and sequencing
+
+samples were pooled together and the final quality control
+before sequencing was done using high sensitivity d 
+screentape assay for agilent tapestation system which
+quantifies and distributes the dna molecules by different length
+ranges 
+
+purified amplicon libraries were sequenced on the illumina
+miseq with × bp setting all sequencing was performed
+by ngi scilifelab uppsala and stockholm sweden 
+
+quality control and trimming
+
+the quality of each library was assessed with fastqc
+v andrews results were summarized with
+multiqc ewels et al after demultiplexing and
+adapter trimming reads were trimmed with trimmomatic
+ bolger lohse and usadel with the following
+parameters maxinfo remaining adaptors were
+removed with seqprep v st john demultiplexed 
+
+untrimmed reads are deposited at ena under study accession
+prjeb 
+
+amplicon analysis
+
+amplicons were analyzed with im tornado ewels et al 
+ due to stringent criteria and the relatively low qual 
+ity of sequences for the reverse read the initial use of both
+read ends yielded too few results and we used only the for 
+ward read taxonomic attribution was done against silva ssu
+ref release yilmaz et al we used the following set 
+tings minimum length r trim r trim 
+ clustering within im tornado was performed with
+vsearch v rognes et al and preliminary trees run
+with fasttree price dehal and arkin the per centage
+of how much various clades would be identified by the chosen
+primers was calculated online using testprime available at
+the silva website https www arb silva de search testprime 
+ klindworth et al 
+
+wherever possible we favored silva over greengenes 
+because i the latter does not include eukaryotes and ii the
+inclusion of other families e g francisellaceae than legionel 
+laceae and coxiellaceae in the legionellales does not follow the
+traditional taxonomy of gammaproteobacteria nor is sufficiently
+supported by multigene phylogenies williams et al 
+the vast majority of the analysis available at ebi metage 
+nomics v v are unfortunately based on greengenes
+ it is difficult to assess what effect using silva instead
+of greengenes would have on the results presented here with 
+out actually reanalyzing all ebi samples which is beyond
+the scope of this contribution however several facts suggest
+that the differences between the two taxonomic attributions
+would be limited i the number of legionellales otus in both
+databases is similar ii the phylogenetic breadth of legionellales
+is well covered by well known species legionella coxiella aqui 
+cella and there are not many deep branching groups where no
+sequence is known and which would be more difficult to cor 
+rectly attribute and iii the trees inferred from both databases
+are fairly congruent for the legionellales 
+
+analysis of publicly available data
+
+basic data handling including the interaction with the restful
+api at ebi metagenomics mitchell et al was performed in
+python with the help of the pandas library mckinney 
+the results were analyzed and displayed in r r development
+core team with the help of the ggplot package wickham
+ 
+
+basic information under the form of spreadsheet about
+all available samples were retrieved from ebi metagenomics
+ mitchell et al in april representing samples
+in projects basic information about all sequencing runs
+ n was also retrieved as a spreadsheet for each sam 
+ple if applicable the following basic metadata was retrieved 
+project with which the sample is associated project name and
+description biome to which the sample belong what feature
+and material the sample consisted of latitude and longitude
+of sampling temperature this information was at least par 
+tially available for samples a representative sequenc 
+ing run was also selected by choosing among the runs derived
+from this sample that had at least one legionellales read the
+one that contained most otus this way samples
+ referred to as ‘positive samples’ thereafter could be linked to
+a sequencing run that contained at least one legionellales run 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+https www arb silva de search testprime 
+
+
+ fems microbiology ecology vol no 
+
+this procedure was repeated for nine other gammaproteobac 
+terial orders alteromonadales chromatiales enterobacteriales 
+oceanospirillales pasteurellales pseudomonadales thiotrichales vib 
+rionales and xanthomonadales 
+
+for each sample positive for any of the gammapro 
+teobacterial orders an otu table corresponding to the rep 
+resentative sequencing run was downloaded if the taxo 
+nomic attribution had been performed using several ver 
+sions of the analysis pipeline the version or were pre 
+ferred because taxonomic attribution is done with the same
+database greengenes and the otu ids can be compared 
+the following metrics were calculated for each representa 
+tive run total number of reads for which a taxonomic attri 
+bution was available and total number of otus in the sam 
+ple number of reads that were attributed to legionellales and
+number of otus belonging to legionellales otu id and number
+of reads belonging to the five most abundant legionellales otus
+in this run it should be noted that in greengenes but not
+in silva the families francisellaceae and endoecteinascidiaceae
+are included in the order legionellales 
+
+to test the effect of temperature on the abundance of
+legionellales we calculated the spearman’s correlation coeffi 
+cient per biome using all samples for which the temperature
+had been recorded and the non logarithmically transformed
+fraction of reads belonging to legionellales we performed the test
+only for biomes with temperature data for samples 
+
+the table containing the summarized information for each
+sample and representative run as well as most of the code nec 
+essary to run the analysis of the public data is available https 
+ bitbucket org evolegiolab legionellalesabundancedata 
+
+ssu rdna phylogeny
+
+we retrieved all s rdna sequences from silva ssu ref release
+ yilmaz et al that were attributed to the order legionel 
+lales whose quality was and that were nt or longer 
+after a first round of alignment with mafft–linsi katoh and
+toh and maximum likelihood phylogeny inference with
+fasttree price dehal and arkin under a gtr sub 
+stitution matrix sequences with very long branches were
+removed from the pool yielding a set of sequences to
+this pool we added i representative gammaproteobacteria 
+sequences representatives for the otus obtained from the
+amplicon libraries from ii the uppland samples sequences 
+and iii the sala samples sequences the final pool of
+sequences was re aligned with mafft linsi and a maximum 
+likelihood tree was inferred with iq tree v gtr i � 
+ nguyen et al 
+
+to estimate the amount of species and genera in the order
+legionellales we clustered the sequences filtered from silva
+ with mothur schloss et al using the dist seq
+method with default parameters and clustering then with 
+ identity and identity as cut off respectively we
+also downloaded the taxonomy attributions from greengenes
+ mcdonald et al and filtered the otu id belonging to
+the legionellales and to the other selected gammaproteobacterial
+orders 
+
+table number of otus in gammaproteobacterial orders at differ 
+ent cutoffs according to greengenes the rows were ordered by
+decreasing number of otus at similarity ‘na’ represents otus
+for which no taxonomic attribution could be made at order level the
+order legionellales is shown in bold 
+
+order cutoff cutoff cutoff 
+
+ marinicellales 
+legionellales 
+alteromonadales 
+oceanospirillales 
+chromatiales 
+pseudomonadales 
+enterobacteriales 
+xanthomonadales 
+thiotrichales 
+vibrionales 
+pasteurellales 
+methylococcales 
+aeromonadales 
+htcc 
+thiohalorhabdales 
+hoc 
+cardiobacteriales 
+acidithiobacillales 
+ p 
+salinisphaerales 
+rcp – 
+pyr d 
+na 
+
+results
+
+diversity and abundance of legionellales in public
+datasets
+
+we estimated the number of uncultivated genera and species
+belonging to the order legionellales by clustering publicly avail 
+able rrna sequences from the ribosome small subunit here 
+after referred to as s we chose conservative clustering cut 
+off values stackebrandt and goebel for delineating gen 
+era and species respectively the cutoff to discrimi 
+nate between species was more recently increased by the same
+authors to stackebrandt and ebers while others
+claim this value should be even higher for human associated
+pathogens rossi tamisier et al all s reads published
+in silva and classified in the legionellales were clustered
+at and resulting in and otus respectively 
+these estimations gathered from silva are consistent with the
+ and legionellales otus clustered at and respec 
+tively in the greengenes database v in comparison with
+other gammaproteobacterial orders table legionellales had
+the second highest number of otus at similarity and the
+sixth highest at similarity 
+
+we further investigated the hidden diversity of legionellales 
+as well as their abundance by analyzing the vast quantity of
+data deposited at ebi metagenomics hunter et al mitchell
+et al mitchell et al among the samples for
+which we could retrieve basic metadata at the time of the anal 
+ysis we were able to select a sequencing run containing at least
+one legionellales read for samples legionellales positive
+runs lprs further and contain at
+least or reads attributed to legionellales respectively 
+four types of experiments are available at ebi metagenomics 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+https bitbucket org evolegiolab legionellalesabundancedata 
+
+
+graells et al 
+
+amplicon most generally s runs metagenomic 
+runs metatranscriptomic runs and assembly runs in
+decreasing numbers we chose to discard the runs of type
+‘assembly’ we also discarded approximately samples for
+which the metadata was clearly erroneous among lprs the
+number of reads for which a taxonomic attribution is available
+spans orders of magnitude with two clear peaks around 
+and reads per run irrespective of the type of experiment
+ fig a the number of operational taxonomic units otus 
+which is a proxy for the number of species in a sample ranges
+from one to several millions with a clear peak around fig 
+ b the fraction of reads attributed to legionellales ranges from
+ to close to with a peak at − figs c e the number
+of legionellales otus reaches although most lprs harbors
+between and legionellales otus fig f 
+
+compared to other gammaproteobacterial orders legionel 
+lales are found in an average number of samples with pseu 
+domonales enterobacteriales xanthomonadales and alteromon 
+adales being found in more samples than legionellales fig d 
+the distribution of the fraction legionellales is on the other
+hand very peculiar with a very sharp peak around fig 
+ e whereas the other orders had a more uniform distribution 
+except for xanthomonadales which seem to represent between
+ and of the reads in most samples legionellales are the
+least common gammaproteobacterial order with samples 
+and above fig e but still exhibits an average diversity of otus
+ fig f 
+
+legionellales are represented differently in different environ 
+ments or biomes and in variable proportions fig the num 
+ber of biomes represented in this study amounts to mak 
+ing it impractical to study all of them separately to reduce
+this complexity we took advantage of the hierarchical nature
+of the gold biome naming mukherjee et al biomes that
+were represented by only a few samples or that were gener 
+ally irrelevant for our study were included in their parent cate 
+gory parent categories do not include child categories that have
+been kept separate for example all human samples were col 
+lapsed in the host associated human category except the host 
+associated human respiratory system which was considered
+as relevant per se samples in the latter category are not included
+in the former one this way the number of biomes was reduced
+to supplementary table fig 
+
+lprs are found in the majority of engineered environments 
+culminating in built environments where of all samples
+were legionellales positive in general host associated samples
+contain proportionally less legionellales with the exception of
+plants and mollusks the high prevalence of legionel 
+lales in mollusks is surprising but may be the result of a bias
+introduced by one large unpublished study with many samples
+almost all containing legionellales perhaps less surprisingly 
+and of samples taken from freshwater and soil respectively 
+contain legionellales over of drinking water samples con 
+tain legionellales the samples displaying the largest fractions
+ fig a and highest numbers of otus fig b from legionel 
+lales come from aquatic environments and from soil and plants 
+a few samples from aquatic biomes count almost exclusively
+legionellales but these come from a study using a method specif 
+ically targeting the legionella genus 
+
+in comparison with other gammaproteobacterial orders 
+legionellales are present in lower fractions and with fewer otus
+in most biomes supplementary fig s there are however a
+number of exceptions in the built environment and in aquatic
+ particularly freshwater and drinking water biomes legionellales
+
+are often among the more present and more diverse gammapro 
+teobacterial orders 
+
+effects of temperature on the abundance of legionellales
+
+we investigated the effect of temperature on the abundance of
+legionellales in different environments fig unfortunately 
+the number of samples for which the temperature was indi 
+cated was limited only out of samples despite
+that trends emerge from three of the five environment groups
+for which enough data was available in the soil there seems
+to be a negative correlation between temperature and legionel 
+lales abundance spearman’s rho p value e 
+despite what the loess curve show negative correlation are
+also found in freshwater and in engineered biomes but are
+significant only for the latter spearman’s rho 
+p value and spearman’s rho − p 
+value e respectively in mollusk associated sam 
+ples the correlation was positive with an increase
+of the abundance of legionellales with the tempera 
+ture although with a low rho coefficient spearman’s
+rho p value e removing the legionellales 
+negative samples did not alter significantly the results above 
+except for the engineered biome where the p value increased
+over it should be stressed that the spread of the abundance
+values is very wide and that the significance of the correla 
+tion coefficients over the whole temperature range has to be
+taken with caution correlation effects might only be found
+over shorter ranges as approximated but not statistically
+supported by the loess curves 
+
+environmental distribution of the most abundant
+legionellales
+
+to gain further resolution on how the different sub clades
+of legionellales are distributed we analyzed for each sample 
+the most abundant legionellales otus hereafter referred to as
+malos we considered the top five malos malos for each
+lpr and retrieved their lowest credible taxonomic attribution
+from greengenes a total of otus are found among malos
+for all samples out of a total of otus available in
+greengenes clustered at identity the distribution of these
+otus is very skewed supplementary fig s with a dozen otus
+being present in the malos of samples or more otus
+in the malos of lprs and the majority the malos of a
+few samples only 
+
+among the known legionella species represented in green 
+genes are found among the malos in this study supple 
+mentary table the most frequently found known legionella
+species are l pneumophila split in two otus found in the
+ malos of samples l dresdenensis in the malos of 
+samples and l jeonii in the malos of samples see sup 
+plementary table for the other species interestingly l pneu 
+mophila ranks th among the otus most frequently found
+among malos 
+
+the distribution of malos reveals that malos are very
+variable across biomes and show biome specific patterns fig 
+ although the clustering seems to be mostly influenced by
+the total abundance of legionellales in the biome some trends
+are visible the biomes associated with plants and soil cluster
+together while the marine biome is isolated most of the animal 
+associated biomes except mammals were grouped in a larger
+cluster 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure distribution of samples across experiment types and gammaproteobacterial orders in all panels except d x scales are logarithmic and y axes show the
+number of samples for that given number of reads experiment types panels a–c according to the legend right below order d–f according to the lower legend 
+distributions per experiment type of a total number of reads per run b total number of otus per run and c fraction of reads attributed to legionellales number
+
+of positive samples per order d distributions per gammaproteobacterial order of e the fraction of reads attributed to the order and number of otus belonging to
+the order f 
+
+looking at the fraction of the nine identifiable genera among
+otus supplementary fig s across biomes reveals that in
+almost all biomes most otus could not be attributed to a known
+genus it should be noted that the genera fangia and caedibac 
+ter as well as the family francisellaceae francisella and ‘can 
+didatus nebulobacter’ are classified as belonging to the order
+thiotrichales according to lspn parte greengenes classi 
+fies however these genera inside the legionellales based on phy 
+logenetic evidence among the otus for which an identifiable
+genus is available legionella is dominating in most biomes the
+exceptions are in soil and plant associated microbiomes there 
+the most frequently encountered genus is aquicella which are
+probable facultative intracellular bacteria found to grow in hart 
+mannella amoebae santos et al in several host associated
+biomes the genus rickettsiella is also abundant rickettsiella con 
+sists in majority of arthropod pathogens but also includes insect
+symbionts leclerque tsuchida et al it is interesting
+to note that in marine environments only a few malos could be
+attributed to known genera despite the large number of otus
+and the relatively high abundance of legionellales there fig 
+
+the low abundance but large diversity of legionellales are also
+observed in geographically close but environmentally distant
+biomes table fig supplementary fig s the analysis 
+with similar methods of samples taken from water sediments
+
+and soil in or around ponds in uppland sweden and of sam 
+ples taken from biofilm and sediment in a disused silver mine
+near sala sweden shows that the abundance is more variable
+within sampling locations than across table supplementary
+fig s even in environments where the temperature is low like
+the mine the diversity in terms of otus is very large ranging
+from to in the uppland samples while in the sala samples
+it ranges from to table it was also noticeable on a phy 
+logenetic tree both sampling campaigns had otus covering the
+largest part of the diversity of the order although very few were
+from the coxiella genus 
+
+no reads from free living amoebae were detected in any
+of the samples it should be noted that the universal primers
+used in this study while detecting the most common hosts of
+legionella acanthamoeba hartmannella dictyostelium etc tend
+not to recognize a large fraction of the free living amoebae e g 
+naegleria which are potential hosts for legionellales scheikl et al 
+ interestingly however the overall per centage of legionel 
+lales reads was higher in the sala samples than in the
+uppland samples whereas the per centage of eukaryotic
+reads was lower in the sala samples than in the uppland
+samples the total number of eukaryotic otus was also
+significantly lower in the sala samples than in the uppland
+samples 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+graells et al 
+
+table abundance and diversity of legionellales otus in the uppland and sala samples legionellales is abbreviated leg ales 
+
+location type sample reads percentage reads otus
+
+total leg ales eukaryotes total leg ales eukaryotes
+
+uppland samples 
+
+färnebo fjärden sediment ml 
+ml 
+ml 
+ml 
+
+soil ml 
+ml 
+ml 
+ml 
+
+florarna sediment ml 
+ml 
+ml 
+ml 
+
+soil ml 
+ml 
+ml 
+ml 
+
+hedesunda fjärden sediment ml 
+ml 
+ml 
+ml 
+
+soil ml 
+ml 
+ml 
+ml 
+
+stadsskogen sediment ml 
+ml 
+
+soil ml 
+ml 
+ml 
+ml 
+
+water ml 
+ml 
+ml 
+
+sala samples 
+
+grisen 
+johan liljeborg
+
+sediment tg 
+tg 
+tg 
+
+kanslern sediment tg 
+tg 
+tg 
+
+rödstjärten water tg 
+
+victoria salen sediment tg 
+
+ribbings schakt water tg 
+tg 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure relative abundance and diversity of legionellales otus in different biomes the left panel violin plots represents the fraction of legionellales reads in samples
+containing at least one legionellales read in a representative run lprs out of samples or the x scale logarithmic extends from − in 
+ reads to the right panel displays the number of legionellales otus per lpr the right column indicates the number of positive samples i e samples with at
+least one legionellales otu in that biome and in the categories that have been collapsed into this one but not the descendant categories that were kept separate 
+and what per centage of the total samples for that biome it represents colors according to the group of biomes the rows are sorted by increasing fraction of positive
+samples in that biome top to bottom 
+
+geographic distribution of legionellales
+
+legionellales are globally distributed with few exceptions fig 
+ supplementary fig s this is particularly pronounced for
+land samples including freshwater where all continents har 
+bor lprs including very cold svalbard antarctica and warm
+climates fig supplementary fig s legionellales are also
+present in all oceans and seas although they seem to be almost
+absent from the southern pacific ocean and relatively rare in the
+northernmost latitudes fig supplementary fig s legionel 
+lales were also present globally in man made environments fig 
+ supplementary fig s legionellales display a similarly broad
+geographical distribution as other larger gammaproteobacterial
+orders supplementary fig s in many biomes its distribu 
+tion can be compared to that of enterobacteriales or pseudomon 
+adales which are the two most commonly found orders fig d 
+legionellales are more globally distributed than vibrionales and
+pasteurellales especially in terrestrial samples 
+
+the majority of the most commonly found otus is also
+globally distributed supplementary figs s and s although
+a higher level of geographical clustering is observable for
+some otus for example the most commonly present otu
+ id is mostly present in the northern hemisphere and
+in a few cases in the southernmost latitudes of the southern
+hemisphere most of these other otus are found on all con 
+tinents at all latitudes and in several types of environments 
+among the less frequently found the level of ubiquity decreases
+and some more specific otus appear supplementary fig s 
+
+incidentally the most commonly found otus among only
+the most abundant legionellales otu malo and among the
+ malos are largely congruent the top three are the same 
+although in a slightly different order in the malos 
+and ranking first and third among malos share the
+same number of occurrences and second among
+ malos ranks third among the top otus are found in
+both lists 
+
+discussion
+
+in this study we explored the abundance and distribution both
+geographic and environmental of the gammaproteobacterial
+order legionellales and show that this order is i more diverse
+than previously thought ii quasi ubiquitous even in environ 
+ments that are not considered as their primary niches like
+marine environments iii rare and typically present in of
+samples we also show that legionellales are almost as abundant
+and globally distributed as larger orders of gammaproteobacteria
+like enterobacteriales and pseudomonadales which include a much
+larger number of described genera 
+
+in contrast to most bacterial orders legionellales are relevant
+to study at order level they share traits very likely acquired
+by their last common ancestor synapomorphies not the least
+their shared intracellular lifestyle e g qiu and luo on the
+molecular level the last common ancestor of legionellales most
+probably acquired the type iv b secretion system t bss also
+referred to as dot icm that allows legionella and coxiella segal 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+graells et al 
+
+figure effect of temperature on the abundance of legionellales for each biome group for which enough temperature measures were available n temperature is
+represented against the fraction of legionellales reads in a logarithmic scale y axis human samples were not considered temperature was available for samples 
+a local regression curve loess is displayed on each panel samples for which no legionellales reads were found are represented at the bottom of the y axis but were
+
+not used to calculate the regression curve the rho and p value of a spearman’s rank correlation test are displayed on each panel for these the test was performed
+on non logarithmically transformed values including legionellales negative samples 
+
+feldman and zusman but also presumably rickettsiella
+ leclerque and kleespies and diplorickettsia mathew et al 
+ to inject proteins into their host and modify its behav 
+ior given its high level of conservation the t bss has presum 
+ably played a key role in the ecological success of the order 
+enabling legionellales to colonize new hosts this aspect is rel 
+evant to human health it has been hypothesized that intra 
+cellular pathogens of amoebae are likely candidates for emerg 
+ing bacterial diseases of humans lamoth and greub 
+indeed among legionellales several clades harbor accidental
+human pathogens several species of legionella cause respira 
+tory diseases legionnaires’ disease and pontiac fever cox 
+iella burnetii causes q fever and diplorickettsia massiliensis might
+also be linked to human infections subramanian et al 
+researchers have correlated the presence of some of these
+ potential pathogens in the natural environment and in man 
+made water systems where they are most likely to cause dis 
+eases but no large scale analysis has studied their prevalence
+and distribution in a global scale at the order level 
+
+here we first show that the genetic diversity of the order
+is much larger than anticipated from available genomic data 
+although there are only six genera for which at least one genome
+has been sequenced the order could potentially include over
+ genera this ‘hidden’ diversity is not surprising consid 
+ering that all legionellales seem to rely on a host for optimal
+growth cultivating them is thus challenging and they cannot
+be sequenced through classical genomics which relies on pure
+culture metagenomics is thus the method of choice to explore
+the diversity of this and other host adapted clades 
+
+surveying large quantities of metagenomics data revealed
+that almost a quarter of all published metagenomics data con 
+tain legionellales with typically a low abundance about 
+and – different otus and a very large variation depending
+on the environment where the samples were taken figs and
+ the peak of abundance around seems to be specific
+to legionellales with other gammaproteobacterial orders hav 
+ing a more uniform distribution overall of all samples
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+figure heatmap based on the prevalence of abundant legionellales otus in different biomes rows correspond to biomes and columns to the otus appearing
+at least once in the malos of any sample color scale represents the number of times in log each otu is found in the malos most abundant in that biome the
+
+top row gives the family if available for each otu color legend to the right 
+
+figure maximum likelihood phylogenetic tree of legionellales the tree is based on all ssu rrna reads attributed to legionellales in silva and reads attributed to
+legionellales in the samples analyzed in this study the location on the tree of the known genera is indicated by arrows to improve readability all branches leading to
+reads attributed to l pneumophila were collapsed blue dots indicate otus from the sala silver mine samples green dots indicate otus from the uppland samples 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+graells et al 
+
+figure geographical distribution of legionellales in selected environments each panel represents one of the six selected groups of environments or biomes the
+sampling location is represented with a dot legionellales negative samples are shown in white lprs are colored according to the fraction of legionellales reads a large
+fraction of the samples in the engineered category upper left panel come from bioreactors and fermenters it includes all ‘engineered’ sub categories except built
+environment food production solid waste composting and wastewater which is shown separately on the upper right panel the distribution for all biomes is
+
+shown in supplementary fig s 
+
+contain dna that can be attributed to legionellales legionellales 
+positive runs or lprs but this number varies from a few 
+in hosts or parts of hosts that are not commonly colonized
+by legionellales to over for samples taken from the build
+environment in between about half of microbiomes associated
+with soil plants and freshwater which are common habitats
+for legionellales contain legionellales with up to several hundred
+legionellales otus and abundance up to a few in line with
+this in comparison with other gammaproteobacterial orders 
+legionellales were particularly diverse and abundant in the built
+environment in freshwater and drinking water perhaps more
+surprisingly marine environments which are not known to har 
+bor any of the known legionellales species had similar levels of
+abundance and richness as soil environments it would be very
+interesting to further explore what hosts are colonized in seas
+and oceans by legionellales bacteria 
+
+temperature is an important factor for legionella to thrive in
+man made water systems lesnik brettar and hofle its
+
+optimal growth temperature is high ◦c for an environmen 
+tal bacterium and they survive over ◦c which makes it prone
+to proliferate in warm water systems e g proctor et al 
+consistent with that in freshwater and in mollusk associated
+samples the fraction of legionellales seems to increase for tem 
+peratures over ◦c although the correlations are not statisti 
+cally significant however an inverse tendency is statistically
+supported in soil samples and in engineered biomes in the for 
+mer the effect is relatively strong for temperatures under ◦c 
+it should be noted these results are prone to biases i the frac 
+tion of samples for which temperature could be retrieved was
+relatively low ∼ of the samples ii the samples available
+were not controlled for an overrepresentation of a certain type of
+studies and iii the temperature represented in the samples are
+not uniformly distributed nevertheless although the influence
+of temperature on the prevalence of legionellosis is disputed
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+ fems microbiology ecology vol no 
+
+ see for example conza et al garcia vidal et al glea 
+son et al the global rise in surface temperatures is most
+likely to change the microbial composition of many biomes and
+one of the consequences could be an increase of legionellales in
+aquatic environments this might prove problematic in some
+areas where water is stored at a higher temperature because
+the amount of these potential opportunistic pathogens could
+thus increase in drinking water thereby potentially increasing
+the risk of contracting a legionellales caused disease more con 
+trolled experiments focusing on the known pathogens in the
+order would be necessary to firmly establish the effects of global
+warming on the abundance of legionellales 
+
+as discussed above legionellales is a large clade and we fur 
+ther investigated whether some specific otus and subclades
+had specific distributions across biomes first we showed that
+over of the otus are present at least once in the five
+most abundant legionellales otus malos although the distri 
+bution of these is very skewed with only otus present in the
+ malos of over lprs supplementary fig s it is interest 
+ing to note that the otu present in the most malos id 
+present in the malos of out of lprs supplemen 
+tary table is only similar to its closest legionellales rel 
+atives the second most present otu present in the
+malos of lprs is a yet unidentified legionella species 
+similar to other legionella species a certain degree of biome 
+specific composition could be observed fig with for exam 
+ple biomes from soil and plants being relatively similar the
+marine environment clustering on its own and biomes associ 
+ated with the chain of drinking water freshwater engineered 
+human and mammal associated and wastewater biomes clus 
+tering together which would mean that these groups of biomes
+share the same otus among their malos there seems though
+to be a strong influence of a few single otus in biomes that are
+less represented in our dataset at genus level legionella domi 
+nate freshwater terrestrial and engineered biomes whereas the
+relatively unknown aquicella species are abundant in soil and
+plant associated metagenomes it is quite interesting to note
+that among the large amount of legionellales positive marine
+samples only a very small fraction of the most abundant otus
+could be attributed to known species underlying the importance
+of more research on intracellular bacteria in marine environ 
+ments 
+
+from our own sampling campaigns it appears even more
+clearly that legionellales otus are quasi ubiquitous even in envi 
+ronments not known to harbor many host adapted organisms
+like mines in this dark and cold environment all samples were
+positive for legionellales with up to different otus in a sin 
+gle sample in the uppland samples which should be the natu 
+ral environments of legionella for example a few samples were
+negative for legionellales and the diversity was not as large as
+in the sala mine samples in contrast the abundance was in
+similar ranges – in the uppland samples and – 
+in the sala samples table it should be noted that the sala
+samples yielded much more reads than the uppland ones in
+both samples the genetic diversity in terms of legionellales was
+quite high and covered all major clades of the legionellales tree 
+except the coxiella genus fig such a wide diversity of host 
+associated otus in the mine environment which is dark cold
+and supposed to have a low biodiversity is surprising and worth
+further investigations no reads from the phylum amoebozoa—
+which contains all free living amoebae except naegleria—were
+retrieved from any of the uppland or sala samples leaving open
+the question of the potential hosts of the legionellales organisms
+that live there interestingly however the global diversity and
+
+abundance of eukaryotes was noticeably lower in the uppland
+sample than in the sala samples the lack of amoebozoa reads
+might be due to the lack of specificity of ‘universal’ primers
+for members of that clade scheikl et al alternatively 
+the highly abundant—but yet unknown—legionellales have hosts
+other than amoebozoa or even might be free living the latter
+hypothesis is however unlikely given that i all known legionel 
+lales are host adapted and ii there are no known examples
+of host adapted bacteria that reverted to a free living lifestyle
+ toft and andersson the latest version of the ebi metage 
+nomics pipeline now uses the silva database which would
+allow to also analyze the co occurrence of legionellales and their
+hosts at larger scale 
+
+geographically speaking legionellales are globally dis 
+tributed with very few areas—mostly the south pacific
+ocean—where they were not recovered the global distribution
+of legionellales is comparable to that of large gammaproteobac 
+terial order like enterobacteriales and pseudomonadales although
+the fact that legionella pneumophila was ubiquitous in freshwater
+and built environment was previously known sakamoto 
+van heijnsbergen et al the high prevalence of legionellales
+in marine biomes is surprising only few studies have shown
+the presence of legionellales in marine waters they have been
+found in a small per centage of the microbiome of corals lawler
+et al and in hypersaline environments naghoni et al 
+ the fact that legionellales have been identified in cold
+climates our study fig is also noteworthy confirming
+previous report that legionellaceae were found in freshwater
+in antarctica carvalho et al and in the svalbard island
+ ntougias et al 
+
+the global distribution of legionellales is not only observed at
+order level the most commonly found otus are also for most
+of them globally distributed both geographically and across
+biomes supplementary fig s there are exceptions for exam 
+ple the most commonly found otu id is mostly
+found in temperate climates in the northern hemisphere and
+mostly on land 
+
+it is also worth noticing that the vast majority of the most
+abundant otus do not belong to an identified species for exper 
+iments using very short reads or very conserved regions of the
+rdna sequence it might be difficult to correctly identify the
+species or even the genus due to the lack of resolution provided
+by these reads but each otu is represented by a full length
+rdna sequence and it is quite interesting to observe that the
+most common otus have not been isolated and sequenced to
+this day 
+
+in conclusion through the analysis of tens of thousands of
+published metagenomic datasets we show that the all host 
+adapted order legionellales is ubiquitous both geographically
+and environment wise we also show that the variability in
+prevalence of these bacteria varies widely from being rarely
+observed in most hosts to being present in half the samples in
+soil freshwater and marine environments and in almost all the
+samples from man made environments in the samples where
+it was present its frequency is typically rarely exceeding
+ the lack of identification of the most common legionellales
+otus emphasizes the need of metagenomics for future stud 
+ies of host adapted bacteria in particular oceanic waters and
+cold environments seem to contain many yet to be discovered
+legionellales we still lack a detailed picture of the order and
+future detailed studies on these organisms will bring very valu 
+able knowledge from both clinical and environmental points of
+view 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+
+
+graells et al 
+
+supplementary data
+
+supplementary data are available at femsec online 
+
+acknowledgments
+
+we would like to thank thijs ettema jennah dharamshi and
+lina juzokaite for their help with the s amplicon protocol we
+also would like to thank the support team at ebi metagenomics
+for their help with retrieving data from their website 
+
+the authors also acknowledge support from science for
+life laboratory the knut and alice wallenberg foundation 
+the national genomics infrastructure funded by the swedish
+research council and uppsala multidisciplinary center for
+advanced computational science for assistance with massively
+parallel sequencing and access to the uppmax computational
+infrastructure 
+
+funding
+
+this project is supported by the carl tryggers foundation grant
+number cts to l g science for life laboratory scilife 
+lab national project to l g t g is supported by the euro 
+pean union’s horizon research and innovation programme
+ grant agreement n◦ work in l g ’s lab is supported by
+the swedish research council grant number – to l g 
+
+conflicts of interest none declared 
+
+references
+
+andrews s fastqc http www bioinformatics babraham ac u
+k projects fastqc 
+
+boamah dk zhou g ensminger aw et al from many hosts 
+one accidental pathogen the diverse protozoan hosts of
+legionella front cell infect microbiol 
+
+bolger am lohse m usadel b trimmomatic a flexible trimmer
+for illumina sequence data bioinformatics – 
+
+bouchon d cordaux r grève p rickettsiella intracellular
+pathogens of arthropods manipulative tenants bacteria asso 
+ciated with arthropods in zchori fein e bourtzis k eds pp 
+ – crc press boca raton fl 
+
+carvalho frs nastasi fr gamba rc et al occurrence and diver 
+sity of legionellaceae in polar lakes of the antarctic penin 
+sula curr microbiol – 
+
+christie pj gomez valero l buchrieser c biological diversity
+and evolution of type iv secretion systems curr top micro 
+biol immunol – 
+
+conza l casati s limoni c et al meteorological factors and risk
+of community acquired legionnaires’ disease in switzer 
+land an epidemiological study bmj open e 
+
+denet e coupat goutaland b nazaret s et al diversity of free 
+living amoebae in soils and their associated human oppor 
+tunistic bacteria parasitol res – 
+
+ewels p magnusson m lundin s et al multiqc summarize anal 
+ysis results for multiple tools and samples in a single report 
+bioinformatics – 
+
+fields bs the molecular ecology of legionellae trends microbiol
+ – 
+
+fry nk warwick s saunders na et al the use of s riboso 
+mal rna analyses to investigate the phylogeny of the family
+legionellaceae j gen microbiol – 
+
+garcia vidal c labori m viasus d et al rainfall is a risk factor for
+sporadic cases of legionella pneumophila pneumonia plos
+one e 
+
+garrity gm brown a vickers rm tatlockia and fluoribacter 
+two new genera of organisms resembling legionella pneu 
+mophila int j syst bacteriol – 
+
+garrity gm bell ja lilburn t order vi legionellales ord nov 
+bergey’s manual of systematic bacteriology nd edition vol 
+ the proteobacteria part b the gammaproteobacteria in 
+brenner dj krieg nr staley jt garrity gm eds pp – 
+springer new york 
+
+gleason ja kratz nr greeley rd et al under the weather 
+legionellosis and meteorological factors ecohealth
+ – 
+
+gottlieb y lalzar i klasson l distinctive genome reduc 
+tion rates revealed by genomic analyses of two coxiella 
+like endosymbionts in ticks genome biology and evolution
+ – 
+
+hosen jd febria cm crump bc et al watershed urbanization
+linked to differences in stream bacterial community compo 
+sition front microbiol 
+
+hunter s corbett m denise h et al ebi metagenomics–a new
+resource for the analysis and archiving of metagenomic data 
+nucleic acids res d – 
+
+katoh k toh h recent developments in the mafft multiple
+sequence alignment program brief bioinform – 
+
+klindworth a pruesse e schweer t et al evaluation of general
+ s ribosomal rna gene pcr primers for classical and next 
+generation sequencing based diversity studies nucleic acids
+res e 
+
+lamoth f greub g amoebal pathogens as emerging causal
+agents of pneumonia fems microbiol rev – 
+
+lawler sn kellogg ca france sc et al coral associated bacte 
+rial diversity is conserved across two deep sea anthothela
+species front microbiol 
+
+leclerque a whole genome based assessment of the taxonomic
+position of the arthropod pathogenic bacterium rickettsiella
+grylli fems microbiol lett – 
+
+leclerque a kleespies rg type iv secretion system com 
+ponents as phylogenetic markers of entomopathogenic
+bacteria of the genus rickettsiella fems microbiol lett
+ – 
+
+lesnik r brettar i hofle mg legionella species diversity and
+dynamics from surface reservoir to tap water from cold
+adaptation to thermophily isme j – 
+
+mathew mj subramanian g nguyen tt et al genome sequence
+of diplorickettsia massiliensis an emerging ixodes ricinus 
+associated human pathogen j bacteriol 
+
+mcdonald d price mn goodrich j et al an improved greengenes
+taxonomy with explicit ranks for ecological and evolutionary
+analyses of bacteria and archaea isme j – 
+
+mckinney w data structures for statistical computing in
+python proceedings of the th python in science conference 
+in walt s millman j eds scipy austin texas usa
+ pp – http conference scipy org proceedings sci
+py pdfs proceedings pdf
+
+mediannikov o sekeyova z birg ml et al a novel obligate
+intracellular gamma proteobacterium associated with ixo 
+did ticks diplorickettsia massiliensis gen nov sp nov 
+plos one e 
+
+mehari yt arivett ba farone al et al draft
+genome sequences of two novel amoeba resistant
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+https academic oup com femsec article lookup doi femsec fiy supplementary data
+http www bioinformatics babraham ac uk projects fastqc 
+http conference scipy org proceedings scipy pdfs proceedings pdf
+
+
+ fems microbiology ecology vol no 
+
+intranuclear bacteria ‘candidatus berkiella cookevillen 
+sis’ and ‘candidatus berkiella aquae’ genome announcements
+ e – 
+
+mitchell a bucchini f cochrane g et al ebi metagenomics
+in –an expanding and evolving resource for the anal 
+ysis and archiving of metagenomic data nucleic acids res
+ d – 
+
+mitchell al scheremetjew m denise h et al ebi metage 
+nomics in enriching the analysis of microbial commu 
+nities from sequence reads to assemblies nucleic acids res
+ d – 
+
+mukherjee s stamatis d bertsch j et al genomes online
+database gold v data updates and feature enhance 
+ments nucleic acids res d – 
+
+nagai h kubori t type ivb secretion systems of legionella and
+other gram negative bacteria front microbiol 
+
+naghoni a emtiazi g amoozegar ma et al microbial diversity in
+the hypersaline lake meyghan iran sci rep 
+
+nguyen lt schmidt ha von haeseler a et al iq tree a fast
+and effective stochastic algorithm for estimating maximum 
+likelihood phylogenies mol biol evol – 
+
+ntougias s polkowska z nikolaki s et al bacterial commu 
+nity structures in freshwater polar environments of svalbard 
+microbes environ – 
+
+omsland a axenic growth of coxiella burnetii adv exp med biol
+ – 
+
+parte ac lpsn list of prokaryotic names with standing in
+nomenclature bacterio net years on int j syst evol micro 
+biol – 
+
+peabody ma caravas ja morrison ss et al characterization
+of legionella species from watersheds in british columbia 
+canada msphere e – 
+
+price mn dehal ps arkin ap fasttree –approximately
+maximum likelihood trees for large alignments plos one
+ e 
+
+proctor cr dai d edwards ma et al interactive effects of temper 
+ature organic carbon and pipe material on microbiota com 
+position and legionella pneumophila in hot water plumbing
+systems microbiome 
+
+qiu j luo zq legionella and coxiella effectors strength in diver 
+sity and activity nat rev microbiol – 
+
+r development core team r a language and environment for
+statistical computing r foundation for statistical computing 
+vienna austria 
+
+richards am von dwingelo je price ct et al cellular microbiol 
+ogy and molecular ecology of legionella amoeba interaction 
+virulence – 
+
+rihova j novakova e husnik f et al legionella becoming a mutu 
+alist adaptive processes shaping the genome of symbiont in
+the louse polyplax serrata genome biol evol – 
+
+rognes t flouri t nichols b et al vsearch a versatile open
+source tool for metagenomics peerj e 
+
+rosenberg r lindsey np fischer m et al vital signs trends in
+reported vectorborne disease cases united states and terri 
+tories – mmwr morb mortal wkly rep –
+ 
+
+rossi tamisier m benamar s raoult d et al cautionary tale of
+using s rrna gene sequence similarity values in identifi 
+cation of human associated bacterial species int j syst evol
+microbiol – 
+
+sakamoto r legionnaire’s disease weather and climate bull
+world health organ – 
+
+santos p pinhal i rainey fa et al gamma proteobacteria
+aquicella lusitana gen nov sp nov and aquicella sipho 
+nis sp nov infect protozoa and require activated char 
+coal for growth in laboratory media appl environ microbiol
+ – 
+
+scheikl u sommer r kirschner a et al free living amoebae fla 
+co occurring with legionellae in industrial waters eur j pro 
+tistol – 
+
+schloss pd westcott sl ryabin t et al introducing mothur 
+open source platform independent community supported
+software for describing and comparing microbial communi 
+ties appl environ microbiol – 
+
+segal g feldman m zusman t the icm dot type iv secretion
+systems of legionella pneumophila and coxiella burnetii 
+fems microbiol rev – 
+
+semenza jc suk je vector borne diseases and climate change 
+a european perspective fems microbiol lett fnx 
+
+st john j seqprep https github com jstjohn seqprep 
+stackebrandt e goebel bm a place for dna dna reassoci 
+
+ation and s ribosomal rna sequence analysis in the
+present species definition in bacteriology int j syst bacteriol
+ – 
+
+stackebrandt e ebers j taxonomic parameters revisited tar 
+nished gold standards microbiol today – 
+
+subramanian g mediannikov o angelakis e et al diplorickettsia
+massiliensis as a human pathogen eur j clin microbiol infect
+dis – 
+
+taylor m mediannikov o raoult d et al endosymbiotic bac 
+teria associated with nematodes ticks and amoebae fems
+immunol med microbiol – 
+
+toft c andersson sge evolutionary microbial genomics 
+insights into bacterial host adaptation nat rev genet
+ – 
+
+tsao h f scheikl u volland j m et al ’candidatus cochliophilus
+cryoturris’ coxiellaceae a symbiont of the testate amoeba
+cochliopodium minus sci rep 
+
+tsuchida t koga r horikawa m et al symbiotic bacterium mod 
+ifies aphid body color science – 
+
+van heijnsbergen e schalk ja euser sm et al confirmed and
+potential sources of legionella reviewed environ sci technol
+ – 
+
+van schaik ej chen c mertens k et al molecular pathogenesis of
+the obligate intracellular bacterium coxiella burnetii nat rev
+microbiol – 
+
+wickham h ggplot elegant graphics for data analysis springer 
+verlag new york 
+
+williams kp gillespie jj sobral bw et al phylogeny of
+gammaproteobacteria j bacteriol – 
+
+wullings ba van der kooij d occurrence and genetic diver 
+sity of uncultured legionella spp in drinking water treated
+at temperatures below degrees c appl environ microbiol
+ – 
+
+yilmaz p parfrey lw yarza p et al the silva and ”all species
+living tree project ltp ” taxonomic frameworks nucleic
+acids res d – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ fem
+
+sec article abstract fiy by guest on june 
+
+https github com jstjohn seqprep
+
+

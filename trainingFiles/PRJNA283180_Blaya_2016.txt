@@ -1,0 +1,1178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microbiota characterization of compost using omics approaches opens new perspectives for phytophthora root rot control
+
+
+research article
+
+microbiota characterization of compost
+using omics approaches opens new
+perspectives for phytophthora root rot
+control
+josefa blaya frutos c marhuenda jose a pascual margarita ros 
+
+ department of soil andwater conservation and organic wastes management centro de edafología y
+biología aplicada del segura cebas csic murcia spain department of agrochemistry and
+biochemistry university of alicante alicante spain
+
+ pepabf gmail com
+
+abstract
+phytophthora root rot caused by phytophthora nicotianae is an economically important dis 
+ease in pepper crops the use of suppressive composts is a low environmental impact
+
+method for its control although attempts have been made to reveal the relationship
+
+between microbiota and compost suppressiveness little is known about the microorgan 
+
+isms associated with disease suppression here an ion torrent platform was used to
+
+assess the microbial composition of composts made of different agro industrial waste and
+
+with different levels of suppressiveness against p nicotianae both bacterial and fungal
+populations responded differently depending on the chemical heterogeneity of materials
+
+used during the composting process high proportions – of vineyard pruning waste
+
+were used in the most suppressive composts com a and com b this material may have
+
+promoted the presence of higher relative abundance of ascomycota as well as higher
+
+microbial activity which have proved to be essential for controlling the disease although no
+
+unique fungi or bacteria have been detected in neither suppressive nor conducive com 
+
+posts relatively high abundance of fusarium and zopfiella were found in compost com b
+and com a respectively to the best of our knowledge this is the first work that studies
+
+compost metabolome surprisingly composts and peat clustered together in principal com 
+
+ponent analysis of the metabolic data according to their levels of suppressiveness
+
+achieved this study demonstrated the need for combining the information provided by dif 
+
+ferent techniques including metagenomics and metametabolomics to better understand
+
+the ability of compost to control plant diseases 
+
+introduction
+phytophthora nicotianae van breda de haan phytophthora parasitica dastur stands
+out among plant pathogens since it is a threat to plant productivity on a global scale for a broad
+
+plosone doi journal pone august 
+
+a 
+
+open access
+
+citation blaya j marhuenda fc pascual ja ros
+m microbiota characterization of compost
+using omics approaches opens new perspectives
+for phytophthora root rot control plos one 
+e doi journal pone 
+
+editor sabrina sarrocco universita degli studi di
+pisa italy
+
+received february 
+
+accepted june 
+
+published august 
+
+copyright © blaya et al this is an open
+access article distributed under the terms of the
+creative commons attribution license which permits
+unrestricted use distribution and reproduction in any
+medium provided the original author and source are
+credited 
+
+data availability statement the sequences are
+available from biosample database with the the
+biosample accession number samn 
+
+funding this work was supported by life project
+agrowaste life env es http ec 
+europa eu environment life 
+
+competing interests the authors have declared
+that no competing interests exist 
+
+http crossmark crossref org dialog doi journal pone domain pdf
+http creativecommons org licenses by 
+http ec europa eu environment life 
+http ec europa eu environment life 
+
+
+range of hosts the host range of p nicotianae includes plant genera in families 
+in spain and tunisia p nicotianae causes root and collar rot in pepper plants capsicum
+annuum l and has become a major disease during the last years – management of this
+disease is based on soil fumigation using compounds such as methyl bromide dichloropro 
+pene chloropicrin metalaxyl and mefenoxam the banned use of most of these products
+and their inability to totally control the disease have prompted the exploration and identifica 
+tion of new approaches 
+
+the use of compost made of agro industrial waste and by products is a promising alterna 
+tive these composts are not only free of xenobiotics and excessive content of heavy metals but
+also they have been proven to suppress a wide variety of soil borne plant pathogens – 
+suppressive composts are examples of natural biological control of diseases as the result of a
+three way interaction between the microorganisms in the compost composition diversity and
+function plant pathogen and plant the extant microbiota of composts has shown to be
+the main factor responsible for suppressiveness in particular suppressive effects
+against phytophthora spp have been related to the ability of composts to maintain a high
+microbial activity nevertheless the mechanisms of suppression of these oomycetes have
+not been unraveled 
+
+compost microbiota highly depends on the materials used during the composting process 
+the quality of compost organic matter is important with respect to the efficacy of the suppres 
+sion and the regulation and maintenance of microbial communities in composts shifts in
+the chemical composition of compost organic matter have been previously characterized by
+ c nuclear magnetic resonance c nmr spectroscopy however its ecological sig 
+nificance should be elucidated in relation to the microbial communities inhabiting the organic
+matter which can be studied through molecular analysis—such as fingerprinting tech 
+niques and sequencing methods – high throughput sequencing e g illumina or ion
+torrent is a powerful alternative for the identification at a greater depth of the microbial com 
+munity composition and diversity among the studies regarding the metagenomics of compost
+ – only yu et al investigated the connections between the microbial communities
+and the disease suppression ability of compost against pythium ultimum 
+
+it should be noted that genomic information itself is not enough for understanding the bio 
+logical processes that take place within compost in the attempt to fully describe the compost
+microbiome metabolomics have emerged as a functional approach that provides insights into
+the metabolic activities engaged by whole communities of microorganisms several studies
+pointed out the central role played by metabolites in cellular activities and the mileage that
+could be gained by monitoring at the level of the metabolome metabolites low molecu 
+lar weight compounds such as amino acids sugars and lipids play significant roles in the
+microbial regulation of the central and secondary metabolism not only can they contribute to
+external signals as indicators of the environmental conditions or by sensing such signals but
+also they vary in response to a variety of stimuli e g nutritional deficit external stressors or
+disease currently the implementation of metabolomics for environmental monitoring is
+still at an early stage mostly applied as a screening tool to assess the potential toxic effect of
+pollutants 
+
+we hypothesize that suppressive composts will contain more similar microbial communi 
+ties among them compared to non suppressive composts and will depend on the quantity and
+state of the organic matter in each compost based on this the specific objectives of this study
+were i to study the in vivo ability of four agro industrial waste based composts to control p 
+nicotianae in pepper plants ii to compare the chemical heterogeneity of organic matter pres 
+ent in the different composts and iii to characterize and compare the microbial composition
+and metametabolome of suppressive and non suppressive composts 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+methods
+
+the composts assayed and their analysis
+four agro industrial composts were made from different wastes expressed as dry weight as
+follows compost a com a pepper sludge g kg pepper wastes g kg and
+vineyard pruning wastes g kg compost b com b pepper wastes g kg arti 
+choke wastes g kg and vineyard pruning wastes g kg compost c com c 
+pepper sludge g kg pepper wastes g kg garlic wastes g kg carrot wastes
+ g kg almond shells g kg and vineyard pruning wastes g kg compost d
+ com d artichoke sludge g kg artichoke wastes g kg vineyard pruning wastes
+ g kg and compost g kg 
+
+the composts were produced in open air piles of kg the bio oxidative phase lasting 
+days and maturation days the moisture content was initially set at – and was main 
+tained by watering the piles were turned periodically to ensure aeration and the temperature
+evolution was monitored periodically data not shown once the composting process was fin 
+ished the composts were milled and passed through a cm sieve three samples of each com 
+post pile were taken by mixing nine sub samples from random sites within each pile the
+samples were stored at °c and °c for subsequent analysis 
+
+different physical chemical chemical and biological characteristics of the composts and
+peat were measured the ph and electrical conductivity ec of the composts and peat were
+measured in a w v water soluble extract in a conductivity meter and ph meter respec 
+tively the total organic carbon toc and nitrogen were measured with an elemental ana 
+lyzer leco truspec c n and nutrients by icp oes icap duo dehydrogenase
+activity was measured by the method of garcia et al 
+
+organic matter analysis by c nmr
+the organic matter composition of the four composts and one peat was estimated by spectral
+intensity integration over regions with chemical shift characteristics of different organic carbon
+functional groups the cpmas c nmr experiments were performed in a bruker advance
+drx operating at mhz for c the samples were packed into a –mm diameter
+cylindrical zirconia rotor with kel f end caps and spun at ± hz a conventional
+cpmas pulse sequence was used with a ms contact time between and 
+scans were accumulated with a pulse delay of s the line broadening was adjusted to hz 
+spectral distributions the distribution of total signal intensity among various chemical shift
+ranges were calculated by integrating the signal intensity expressed as a percentage in five
+chemical shift regions – aliphatic structures – methoxy groups – polysac 
+charides structures region – aromatic structures and – carboxyl carbonyl 
+amide c the alkyl o alkyl ratio was also calculated 
+
+dna extraction sequencing and analysis
+total dna was extracted using the fastdna spin kit for soil q biogene carlsbad ca 
+usa following the manufacturer´s instructions the dna concentrations of the samples
+were determined using a nanodrop nd spectrophotometer thermo fisher scientific
+inc de usa the samples were then stored at °c until required for the molecular analy 
+sis of bacterial communities the s rrna gene was amplified using primer pairs f r 
+f r f r and f r and for the fungal community the its and
+its regions of the fungal rrna gene were amplified using the its its and its its 
+primer pairs each sample was amplified in triplicate the amplicons were purified using
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+the qiaquick pcr purification kit qiagen hilden germany and composited together at
+equimolar concentration prior to sequencing for pcr amplification each μl pcr mix
+contained the following reagents x kapa g fast hotstart readymix x kapa biosys 
+tems boston ma usa mmmgcl μm of each primer and μl of dna 
+
+the pcr with primers f r f r and f r was performed using the fol 
+lowing conditions as follows cycles of denaturation at °c for s amplification with a
+temperature gradient of °c− °c for s and a final extension of °c for s addition 
+ally samples were held for cycles of denaturation at °c for s amplification at °c
+for s and a final extension of °c for s the pcrs for primer pair f r and the
+its region had an initial denaturation step at °c for min followed by – cycles of
+denaturation at °c for s amplification at °c for s extension at °c for s and a
+final extension of °c for min 
+
+a library was created using the ion plus fragment library kit and barcodes were added by
+the ion xpress™ barcode adapters – kit the template preparation was performed with the
+ion onetouch™ system and the ion pgm™ template kit ot finally the platform
+sequenced the samples using ion torrent pgm life technologies carlsbad ca usa with
+the sequencing kit ion pgm in chips ion chip kit and ion chip kit 
+
+the data analysis was performed using the software packages qiime v and usearch
+v sequences shorter than bp and or q mean quality scores below were removed 
+primers and barcodes were removed and a chimera filter was used the remaining high quality
+sequences were grouped in operational taxonomic units otus following the open reference
+method sequences were clustered against the greengenes v for the bacterial community 
+and against unite qiime its for the fungal community using the unclustmethod
+with similarity sequences not matching the database were subsequently clustered de
+novo a representative set of otus was generated and then the taxonomy of each of the otus
+was assigned using the same database the sequences have been deposited in ncbi under bio 
+project prjna 
+
+shannon diversity was used to estimate diversity of bacterial and fungal communities as
+indicated by neher et al shannon diversity was calculated as h´ s pi ln pi where p
+represents the proportion of taxon i in the community 
+
+metabolite extraction and analysis
+metabolite extraction was performed by water extraction w v compost to deionized
+water of six replicates of the composts and peat the mixtures were shaken for two hours 
+after which the supernatant was passed through a μm filter the supernatant was analyzed
+using an agilent infinity uplc system coupled to a accurate mass quadrupole
+tof mass spectrometer agilent technologies waldbronn germany using an electrospray
+interface with jet stream technology separation was achieved on a reverse phase poroshell
+ ec c column x mm μm agilent operating at °c the mobile phases were
+water formic acid v v phase a and acetonitrile formic acid v v phase b 
+an isocratic flow of phase a and phase b was maintained for min the flow rate
+was set constant at ml min and the injection volume was μl the optimal conditions of
+the electrospray interface were as follows gas temperature °c drying gas l min neb 
+ulizer psi sheath gas temperature °c sheath gas flow l min spectra were acquired
+in single ms mode with an m z range of – negative polarity and an acquisition rate
+of spectra s internal mass calibration by simultaneous acquisition of reference ions and
+mass drift compensation was used to obtain low mass errors data were processed using the
+mass hunter qualitative analysis software version b agilent technologies after
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+analysis of the data obtained from the metabolic a peak grouping was carried out following a
+script by r software 
+
+suppressiveness bioassay
+the pathogenic strain cc of p nicotianae accession number kj previously isolated
+from pepper plants with disease symptoms was used in this study the inoculum of p nico 
+tianae was produced by transferring one agar plug mm of day old mycelia on pea agar
+medium g l ground peas mg l β sitosterol and g l technical agar adjusted
+to ph autoclaved at °c for min and amended with mg l sterilized streptomy 
+cin the culture was maintained at °c for days the mycelia were recovered from the con 
+tent of two petri dishes and mixed with ml of sterile distilled water using a blender 
+
+composts were mixed with a commercial peat v v to obtain different treatments 
+tcom a tcom b tcom c tcom d and tpeat peat as a control seeds of pep 
+per capsicum annuum cv lamuyo were sown in trays of pots with one seed per pot and
+a covering of vermiculite six replicates of each treatment were established randomly each rep 
+licate consisting of seeds germination was carried out in a germination chamber at
+ ± °c once the seeds had germinated the trays were placed in a growth chamber under
+daylight conditions four replicates of each treatment were inoculated with ml of p nicotia 
+nae cfu g substrate after the first true leaf appeared the suppressive effect of the differ 
+ent treatments was determined by measuring the disease incidence number of diseased plants 
+ days after inoculation 
+
+statistical analysis
+the physical physical chemical and biological characteristics of the composts and peat as
+well as the results from the suppressiveness bioassay were subjected to one way analysis of var 
+iance anova when the f statistic was significant tukey’s post hoc test p� was used
+to separate means pearson correlations were made between all data the statistical analyses
+were performed using spss software spss inc chicago il usa 
+
+statistical analysis of metabolite data was carried out with metaboanalysis software a
+multi variant analysis of mass compounds by principal component analysis was used for heat 
+map clustering of samples and mass compounds the squared euclidean distance and ward
+linkage were utilized 
+
+results
+
+physical physical chemical and biological analyses
+the main physical chemical and biological characteristics of the composts and peat are shown
+in table both ph and ec showed significant differences depending on the substrate
+ f p f p respectively 
+
+peat had the lowest ph values whereas com b com c showed the highest ph values 
+compost com a com c had the lowest ec value and com d the highest 
+
+the toc of composts and peat ranged from to g kg with the highest values for
+peat followed by com a com c com b and com d f p 
+
+as was expected peat showed the significantly lowest level of values for n p and k com 
+pared with composts the content of n was in the range – g kg for composts p range
+was – g kg and k between – g kg 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+dehydrogenase activity differed significantly among different composts and peat f 
+p composts com a and com b showing the highest levels and peat the lowest
+ table 
+
+the suppressive effect of different growing media
+the incidence of phytophthora root rot symptoms of p nicotianae on pepper days after
+inoculation differed significantly among treatments f p indicating that
+tpeat treatment peat was the most conducive growing medium followed by
+tcom d and tcom c which only reduced the disease incidence by and respec 
+tively compared to tpeat fig tcom a treatment was the most suppressive organic
+
+table physical chemical and biological properties of composts and peat 
+
+com a com b com c com d peat
+
+ph c d d b a
+
+eca ms cm ab c a d b
+
+total organic c g kg d b c a e
+
+total n g kg d b e c a
+
+p g kg b c c d a
+
+k g kg d e c b a
+
+dehydrogenase activity mg int g d e c b a
+
+aec electrical conductivity 
+
+data are mean of three replicates for each parameter data followed by the same letter are not significantly different according to tukey’s post hoc test
+
+ p� 
+
+doi journal pone t 
+
+fig disease incidence in pepper seedlings artificially inoculated with p nicotianae 
+
+doi journal pone g 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+medium against p nicotianae with a reduction of compared to tpeat followed by
+tcom b with a reduction of fig pepper plants in non infested growth media did not
+show any symptoms of phytophthora root rot 
+
+composition of the organic fractions in the composts and peat
+the relative integration values for the five specific organic carbon regions from the composts
+and peat are shown in fig a significant differences were observed among fractions
+ f p the fraction – ppm corresponding to the aliphatic fraction ascribed
+to lipids waxes terpenoids cutins and suberins and the fraction – ppm corresponding
+to the carbohydrate region polysaccharides amino acids amino sugars lignin substitutes and
+others showed higher relative abundances than the rest of the fractions namely –
+ ppm methoxy groups – ppm aromatic c structures and – ppm carboxyl
+and ester group fig a 
+
+composts com a and com b showed lower relative abundances in the aliphatic structure
+regions compared to composts com c com d and peat p fig a for carbohydrate
+structure region com c showed the lowest relative abundance peat showed the highest rela 
+tive abundance in both regions fig a the relative abundance in the aromatic c structure
+region followed the trend com b com d p com a com c while for carboxyl and
+ester groups it was com b com a com c com d p fig a the alkyl o alkyl ratio
+followed the trend com c p com a com d com b f p fig b 
+
+metabolomes of the different composts and peat
+to find differences among the metabolomes of composts and peat a principal component
+analysis pca was applied to construct and validate a statistical model the two relevant axes
+explained of the variance pc and pc fig according to factor 
+multivariate analysis showed three different clusters—peat being separated from one cluster
+consisting of composts com a and com b and from another composed of composts
+com c and com d fig the heat map generated with the mass of the most frequently
+metabolites found across the profiles showed that most of them were found in lower relative
+abundance in suppressive composts fig several mass compounds received a high loading
+score in factor and contributed the most to the separation of peat from the composts 
+ fig 
+
+fig chemical composition of the composts and peat revealed by c nmr a distribution of organic carbon
+functional groups – ppm aliphatic groups – ppm methoxy groups – ppm carbohydrate groups 
+ – ppm aromatic c structures and – ppm carboxyl and ester group b alkyl o alkyl ratio values 
+
+doi journal pone g 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+other mass compounds 
+ contributed to the separation of suppressive from conductive composts 
+
+fungal and bacterial communities of the different composts and peat
+of reads we obtained a total of reads after quality filtering and chimeras 
+ from s rrna and from fungal its gene sequences across all samples the
+otu clustering and taxonomic assignment performed using these sequences yielded 
+and individual otus from s rrna and fungal its genes respectively 
+
+fungal community composition the classified sequences for the composts and peat
+were affiliated to three fungal phyla the most abundant phylum was ascomycota accounting
+for of all sequence reads followed by basidiomycota and zygomycota 
+the percentage of sequences classified as other fungi was whereas was assigned
+
+fig principal component analysis according to the metabolome obtained from the composts com a green balls com b pink balls 
+com c red balls com d yellow balls and peat blue balls n 
+
+doi journal pone g 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+fig a heat map illustrating the metabolites that differ among the composts and peat colors indicate relative quantity of each
+metabolite 
+
+doi journal pone g 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+to unidentified fungi examination of the taxonomic structure at the order level fig showed
+that within the phylum ascomycota the most abundant orders were sordariales hypocreales 
+and microascales composts com a and com b showed higher relative abundances of asco 
+mycota and respectively in particular com a had the highest relative abun 
+dance of sordariales and com b the highest abundance of hypocreales fig on the other
+hand compost com c showed a high abundance of saccharomycetales and compost com d
+of microascales while these orders were almost inexistent in peat fig peat showed a high
+relative abundance of ascomycota followed by basidiomycota fig fungal diversity was
+observed to be between – in composts and in peat 
+
+at the genus level the most abundant classified genera for each compost and peat
+are shown in table the genera with the highest relative abundances in the composts were
+zopfiella fusarium haematonectria galactomyces doratomyces geomyces coprinellus and
+thermomyces 
+
+bacterial community composition the classified sequences were affiliated with bacte 
+rial phyla and the remaining ones were unassigned the dominant phyla found in all com 
+posts and peat were the proteobacteria of total sequence reads actinobacteria
+ bacteroidetes chloroflexi and—to a lesser extent—firmicutes
+ gemmatimonadetes acidobacteria and tm and tm 
+composts com a showed higher relative abundance of proteobacteria mainly due to the
+high abundance of alphaproteobacteria and gammaproteobacteria as well as the lower abun 
+dance of actinobacteria while com b showed higher relative abundance of chloroflexi fig
+ higher relative abundance of bacteriodetes were found in compost com a and com b
+compared to the rest of compost as was found for gemmatinomidetes in compost com d
+ fig bacterial diversity was observed to be between – in composts and in peat 
+
+the most abundant classified genera for each compost and peat are shown in
+table the most frequent genera include microbacterium mycobacterium streptomyces 
+devosia and rhodoplanes 
+
+fig relative abundances of the fungal orders identified in the composts and peat 
+
+doi journal pone g 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+discussion
+it is essential to understand the community composition of the compost microbiota not only to
+gain a better understand of its biology but also to determine the microorganisms that may be
+involved in compost suppressiveness to our knowledge this is the first study that has used
+metagenomics methods to characterize the microbiota involved in the control of p nicotianae 
+we found large numbers of sequences for proteobacteria bacteriodetes and ascomycota in sup 
+pressive composts compared to the other composts and peat specifically the ascomycota phy 
+lum was negatively correlated r p with phytophthora root rot incidence in
+previous studies fungal populations have been reported as the main contributors to the biologi 
+cal suppressiveness of compost these populations become predominant during the com 
+posting maturation phase while bacteria populations decrease due to the reduction of substrate
+quality moreover the incorporation of vineyard pruning wastes at different rates into
+our composts – may have led to the development of fungi associated with hardwood
+compost as was previously reported by neher et al within ascomycota phylum sordar 
+iales and hypocreales were identified as the most abundant taxa associated with the suppressive
+composts com a and com b respectively one of the most abundant genera in com b was
+fusarium this genera includes non pathogenic isolates of f oxysporum identified previously as
+biocontrol agents on the other hand in the case of compost com a one of the most
+abundant genera was zopfiella which has been reported to produce metabolites active against
+several species such as botrytis cinerea phytophthora infestans or pythium ultimum 
+although in a much lower relative abundance both fusarium and zopfiella were found on com 
+post com c which could explain its lower capability to suppress phytophthora root rot in
+comparison to peat by contrast compost com d showed a very low relative abundance of
+these fungi while pseudallescheria was the most represented genus within this genus p boydii
+is the most well known species since it is a fungal human pathogen that is widespread in soils
+and produces a fungistatic substance strongly inhibitory to phytopathogens 
+
+table most abundant fungal genera identified relative abundance in the composts and peat 
+
+phylum genus com a com b com c com d peat
+
+ascomycota aspergillus 
+
+ascomycota candida 
+
+ascomycota cephalotheca 
+
+ascomycota chaetomium 
+
+ascomycota doratomyces 
+
+ascomycota fusarium 
+
+ascomycota galactomyces 
+
+ascomycota geomyces 
+
+ascomycota haematonectria 
+
+ascomycota hypocrea 
+
+ascomycota penicillium 
+
+ascomycota pichia 
+
+ascomycota pseudallescheria 
+
+ascomycota scedosporium 
+
+ascomycota scytalidium 
+
+ascomycota thermomyces 
+
+ascomycota zopfiella 
+
+basidiomycota coprinellus 
+
+basidiomycota myriococcum 
+
+doi journal pone t 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+fig relative abundances of the bacterial phyla and sub phyla identified in the composts and peat 
+
+doi journal pone g 
+
+table most abundant bacteria genera identified relative abundance in the composts and peat 
+
+class order family genus com a com b com c com d peat
+
+actinobacteria actinomycetales microbacteriaceae agrococcus 
+
+actinobacteria actinomycetales microbacteriaceae microbacterium 
+
+actinobacteria actinomycetales mycobacteriaceae mycobacterium 
+
+actinobacteria actinomycetales streptomycetaceae streptomyces 
+
+actinobacteria actinomycetales streptosporangiaceae nonomuraea 
+
+actinobacteria actinomycetales thermomonosporaceae actinomadura 
+
+flavobacteriia flavobacteriales flavobacteriaceae arenibacter 
+
+sphingobacteriia sphingobacteriales sphingobacteriaceae olivibacter 
+
+sphingobacteriia sphingobacteriales sphingobacteriaceae sphingobacterium 
+
+bacilli bacillales bacillaceae bacillus 
+
+bacilli bacillales planococcaceae ureibacillus 
+
+alphaproteobacteria rhizobiales hyphomicrobiaceae devosia 
+
+alphaproteobacteria rhizobiales hyphomicrobiaceae hyphomicrobium 
+
+alphaproteobacteria rhizobiales hyphomicrobiaceae pedomicrobium 
+
+alphaproteobacteria rhizobiales hyphomicrobiaceae rhodoplanes 
+
+alphaproteobacteria rhizobiales phyllobacteriaceae mesorhizobium 
+
+alphaproteobacteria rhizobiales rhizobiaceae agrobacterium 
+
+gammaproteobacteria xanthomonadales xanthomonadaceae dokdonella 
+
+gammaproteobacteria xanthomonadales xanthomonadaceae luteimonas 
+
+doi journal pone t 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+the fungal community of peat was characterized by the presence of geomyces a genus of fil 
+amentous fungi in the family myxotrichaceae known to be phychrophilic and often the most
+common fungal group found in cold and low nutrient environments relatively high
+abundances of penicillium andhypocrea were also observed in peat in spite of the presence of
+these latter microbes which have been shown to control soil borne plant pathogens 
+peat was conducive to phytophthora root rot similar results have been reported before the
+presence of these microorganisms being related to non suppressive soils 
+
+the most suppressive composts com a and com b contained greater relative abun 
+dance of bacteriodetes in comparison with the rest of composts indeed com a showed up to
+double the relative abundance of proteobacteria mainly due to alpha and gammaproteobac 
+teria and com b showed up to times the relative abundance of chloroflexi compared to
+the rest of composts conducive composts com c and com d contained relatively more
+actinobacteria and gemmatimonadetes respectively although the positive impact of actino 
+bacteria on plant disease suppression has been well documented due to their ability to produce
+a wide array of antibiotics in a recent review of bonanomi et al it was concluded
+that actinobacteria were only directly correlated with disease suppression in a limited number
+of experimental cases although the presence of some bacteria gamma proteobacteria firmi 
+cutes and actinobacteria has been used as an indicator of disease suppression no posi 
+tive correlations were found among phytophthora root rot control and bacteria populations in
+the present study 
+
+the metagenomics analysis showed that compost microbial communities are vast and
+diverse maintaining a high degree of uniqueness according to the nature of compost it is not
+surprising that compost microbiota was highly affected by the chemical heterogeneity of the
+substrates the concentration and availability of nutrients within organic matter play a critical
+role in regulating and maintaining microbial populations during the composting process 
+once the less recalcitrant components for example oligosaccharides organic acids hemicellu 
+lose and cellulose are rapidly degraded by the microbial activity the remaining highly recalci 
+trant compounds for example lignin or the cellulose encrusted in lignin promote the
+presence of microorganisms which are able to degrade them in this respect the
+higher amount of vineyard pruning wastes used in compost com a and com b and
+ respectively may have promoted high microbial activity as was demonstrated by the
+high levels of dehydrogenase activity this microbial parameter has been widely used as an
+indicator of overall soil microbial activity – higher om level in fact can provide
+enough substrate to support higher microbial biomass and as a consequence higher enzyme
+production hoitink et al proposed that the concentration of cellulose and lignin in
+composted manure define the longevity of suppressive effect the high levels of recalcitrant
+compounds of vineyard pruning waste may favor the proliferation of microorganisms with the
+ability to degrade the plant cell wall through a set of synergistically enzymes as a result 
+soluble compounds may be released and used by other microorganisms inducing shifts in the
+composition of a large microbial community leading to a “general suppression phenomenon”
+ phytophthora spp is often considered highly sensitive to microbial competition since
+it depends on exogenous carbon sources for spore germination to infect host plants as
+a matter of fact in previous studies a direct relationship between compost microbial activity
+and suppression of pythium and phytophthora root rots has been reported moreover it
+has been shown the quality of om somehow affects the permanence of suppressive effects
+ 
+
+to understand in detail the chemical characteristics of the composts used in the present
+study and the influence in their suppressive capabilities c cpmas nmr spectroscopy was
+used to analyze their organic matter fractions boehm et al using this technique 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+demonstrated that peat suppressiveness to p ultimum decreases because of the progressive
+depletion of carbohydrates and easily degradable organic compounds conversely our study
+observed a positive correlation r p between relative abundance of carbohy 
+drates – ppm fraction and phytophthora root rot incidence as proposed by castaño
+et al high content of lignin like structures e g in compost com a and com b may
+mask values in the carbohydrates region hindering a possible positive correlation between rela 
+tive abundance of this region and a possible suppressive effect these results suggest that not
+only the content but also the bio availability of cellulose play an important role regarding
+organic matter suppressiveness thus the bio availability of carbohydrates should be con 
+sidered crucial for suppression of phytophthora spp as has been previously considered for
+other pathogens such as pythium spp and rhizoctonia solani 
+
+peat and compost com d treatments showed the highest disease incidence and the lowest
+microbial activity but surprisingly also showed the highest levels of – ppm profile 
+these controversial results may be explained assuming that in peat and com d the cellulose
+is enclosed in lignin and is not available for microorganisms as a consequence these media are
+not capable of sustaining high microbial activity furthermore some of these carbohydrates
+may be released upon the death of microbes this is in concordance with the high levels of
+alkyl o alkyl ratio found in peat which could be interpreted as the result of a progressive deg 
+radation of carbohydrates we used this ratio as an index of humification and stabilization of
+the organic matter as suggested by other authors also peat is characterized by a low bac 
+terial diversity in comparison with composts in spite of the high content – of lignin of
+compounds recalcitrant to biodegradation in peat the low amount or absence of microorgan 
+isms which are able to degrade these complex compounds could lead to an environment not
+conducive to the microbial activity associated with soil suppressiveness 
+
+along with peat com c presented the highest levels of alkyl o alkyl ratio which could be
+explained by the low levels of polysaccharides found in this compost its composition was
+based on lower content of vineyard pruning waste and high sludge content 
+according to tittarelli et al the sludge produces a high mineralisation rate during com 
+posting as the result of incorporating a high amount of easily mineralisable carbon and mineral
+components com c is an excessively stabilized compost which is unable to sustain a high
+microbial activity as indicated by the low dehydrogenase activity levels and therefore it is
+characterized by a low ability to supress disease 
+
+in contrast with lopez gonzalez et al we believe that it is useful to determine the iden 
+tity of microorganisms in different composts if their presence is involved in the suppressive
+capability of a compost in the present study in spite of the differences found in compost
+microbial composition we found a correlation between suppressiveness to phytophthora root
+rot and the level of microbial activity whereas we did not find any correlation between disease
+suppressiveness and a single microbial taxon by contrast in a recent study yu et al sug 
+gested a potential role of the bacteria acidobacteria gp and cystobasidiomycetes fungi in
+the suppression of pythium wilt disease microbial diversity shannon diversity did not corre 
+late with disease suppression although higher levels of bacterial diversity were observed in
+com a and com b 
+
+metagenomics has proved to be a powerful approach to explore microbial communities in
+composts however due to the inability of dna based molecular techniques to provide infor 
+mation of the gene expression functionality as it occurs under in situ conditions the use
+of postgenomic approaches such as metametabolomics has been suggested however 
+there are few metabolic studies on soils – and to our knowledge this is the first one on
+composts metabolomics attempts to capture the complexity of metabolic networks via the
+comprehensive characterization of the small molecule metabolites e g amino acids sugars 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+and lipids in biological systems thanks to its sensitivity this approach has a high poten 
+tial to elucidate changes in the levels of soil metabolites pca demonstrated that the extracts
+from the composts and peat clustered in a manner that was correlated with their ability to sup 
+press phytophthora root rot similarly rochford et al observed that growth inhibition
+against bacillus subtilis of different soil extracts was strongly correlated with their metabolic
+profile metabolite composition is governed by the extant microbial communities in the sub 
+strate and it is well known that pathogen inhibition may be mediated by the secretion of antibi 
+otics or antimicrobial compounds for instance over two thirds of all natural
+antibiotics are derived from streptomyces spp some species within this genus can produce
+antifungal compounds such as tuberdicidin phosphalactomycin and candicidin – also 
+the antibiotics zwittermicin a and kanosamine produced by the biological control agent bacil 
+lus cereus uw is active against phytophthora spp it is important to underline that
+some bacterial strains which are not biological control agents by themselves can act synergi 
+cally as part of microbial consortia 
+
+the metabolic approach employed here was based on water extraction followed by data
+acquisition by liquid chromatrography mass spectrophotometry hplc ms although it
+proved to be very effective in highlighting the diversity of compost microbiome results cannot
+be directly compared with previous studies where different extraction methods were used
+ results we obtained are to be considered preliminary and the involvement of metabo 
+lites in the ability of composts to suppress p nicotianae deserves further investigation 
+
+it is important to note that compost contributes to disease suppression in a complex manner
+which makes it difficult to establish direct correlation among the analyzed parameters and sup 
+pressiveness nevertheless future research can build on the results present here to determine
+which materials are the best to achieve the desired goals of disease suppression 
+
+conclusions
+although all composts contained abundant and diverse microbial communities not all of them
+were able to control phytophthora root rot of pepper plants to the same extent these differ 
+ences seem to be related to the different composition of microbiome which in turn was corre 
+lated with the nature of materials used the most suppressive composts com a and com b 
+were made of a relatively higher amount of vineyard pruning waste and showed a higher level
+of total microbial activity it can be hypothesized that the suppressiveness against p nicotianae
+may be driven by the availability of carbohydrates derived from the original materials and their
+ability to sustain a high microbial activity the relative abundance of the ascomycota phylum 
+mainly of the orders sordariales and hypocreales was correlated with the compost suppres 
+siveness while in the case of bacterial populations no correlations were found with suppres 
+siveness the metametabolic analysis of composts and peat demonstrated the relevance of
+metabolites in the ability of composts to control p nicotianae the conjugation of different
+techniques including omics approaches metagenomics and metametabolomics to character 
+ize composts proved its usefulness in clarifying the complex structure of microbial communi 
+ties in composts and its role in suppressiveness 
+
+author contributions
+
+conceived and designed the experiments mr jp jb 
+
+performed the experiments jb fm 
+
+analyzed the data mr fm jb 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+
+
+contributed reagents materials analysis tools mr jp 
+
+wrote the paper mr jb 
+
+references
+ erwin dc ribeiro ok phytophthora capsici in erwin dc ribeiro ok editors phytophthoradiseases
+
+worldwide american phytopathology society press pp – 
+
+ cline e farr d rossman a a synopsis of phytophthora with accurate scientific names host range 
+and geographic distribution plant heal prog doi php rs
+
+ andrés jl rivera a fernández j phytophthora nicotianae pathogenic to pepper in northwest spain j
+plant pathol – 
+
+ blaya j lacasa c lacasa a martinez v santisima trinidad ab pascual ja et al characterization of
+phytophthora nicotianae isolates in southeast spain and their detection and quantification through a
+real time taqman pcr j sci food agric – doi jsfa pmid 
+ 
+
+ darine t allagui mb rouaissi m boudabbous a pathogenicity and rapd analysis of phytophthora
+nicotianae pathogenic to pepper in tunisia physiol mol plan pathol – 
+
+ morales rodriguez c palo c palo e rodriguez molina c control of phytophthora nicotianaewith
+mefenoxam fresh brassica tissues and brassica pellets plant dis – 
+
+ blaya j lloret e ros m pascual ja identification of predictor parameters to determine agro industrial
+compost suppressiveness against fusarium oxysporum and phytophthora capsici diseases in musk 
+melon and pepper seedlings j sci food agric – doi jsfa pmid 
+ 
+
+ ntougias s papadopoulou kk zervakis gi kavroulakis n ehaliotis c suppression of soil borne path 
+ogens of tomato by composts derived from agro industrial wastes abundant in mediterranean regions 
+biol fertil soils – 
+
+ lopez mondejar r bernal vicente a ros m tittarelli f canali s intrigiolo f et al utilisation of citrus
+compost based growing media amended with trichoderma harzianum t in cucumis melo l seed 
+ling production bioresour technol – doi j biortech 
+pmid 
+
+ avilés m borrero c trillas m review on compost as an inducer of disease suppression in plants
+grown in soilless culture dynamic soil dynamic plant – 
+
+ bonanomi g antignani v capodilupo m scala f identifying the characteristics of organic soil amend 
+ments that suppress soilborne plant diseases soil biol biochem – 
+
+ hardy gesj sivasithamparam k antagonism of fungi and actinomycetes isolated from composted
+eucalyptus bark to phytophthora drechsleri in a steamed and non steamed composted eucalyptus
+bark amended container medium soil biol biochem – 
+
+ hoitink h boehmm biocontrol within the context of soil microbial communities a substrate dependent
+phenomenon annu rev phytopathol – pmid 
+
+ forte c piazzi a pizzanelli s certini g cp mas c spectral editing and relative quantitation of a soil
+sample solid state nucl magn reson – pmid 
+
+ pane c spaccini r piccolo a scala f bonanomi g pane et al compost amendments enhance
+peat suppressiveness biol control – 
+
+ tiquia sm microbial community dynamics in manure composts based on s and s rdna t rflp
+profiles environ technol – pmid 
+
+ danon m franke whittle ih insam h chen y hadar y molecular analysis of bacterial community
+succession during prolonged compost curing femsmicrobiol ecol – doi 
+ j x pmid 
+
+ klammer s knapp b insamh dell’abate mt rosm bacterial community patterns and thermal analy 
+ses of composts of various origins waste manag res – pmid 
+
+ neher d a weicht tr bates st leff jw fierer n changes in bacterial and fungal communities
+across compost recipes preparation methods and composting times plos one e 
+doi journal pone pmid 
+
+ de gannes v eudoxie g hickeywj insights into fungal communities in composts revealed by 
+pyrosequencing implications for human health and safety front microbiol doi fmicb 
+ 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+http dx doi org php rs
+http dx doi org jsfa 
+http www ncbi nlm nih gov pubmed 
+http dx doi org jsfa 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j biortech 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http dx doi org fmicb 
+http dx doi org fmicb 
+
+
+ de gannes v eudoxie g hickeywj prokaryotic successions and diversity in composts as revealed
+by pyrosequencing bioresour technol – doi j biortech 
+pmid 
+
+ yu d sinkkonen a hui n kurola j kukkonen s parikka p et al molecular profile of microbiota of
+finnish comercial compost suppressive againt pythium disease on cucumber appl soil ecol 
+ – 
+
+ bino rj hall rd fiehn o kopka j saito k draper j et al potential of metabolomics as a functional
+genomics tool trends plant sci – pmid 
+
+ vaidyanathan s profiling microbial metabolomes what do we stand to gain metabolomics 
+ – 
+
+ jones oah maguire ml griffin jl dias da spurgeon dj svendsen c metabolomics and its use in
+ecology austral ecol – 
+
+ hernandez soriano mc jimenez lopez jc metabolomics for soil contamination assessment in her 
+nandez soriano mc editor environmental risk assessment of soil contamination in tech open
+access doi 
+
+ garcia c hernandez t costa f ceeanti b mascaiandaro g dehydrogenase activity of soil as an
+ecological marker in processes of perturbed system regeneration in lancho g editor proceedings of
+the xi international symposium of environmental biogeochemistry spain pp – 
+
+ wilson ma nmr techniques and applications in geochemistry and soil chemistry oxford pergamon
+press 
+
+ castaño r borrero c avilés m organic matter fractions by sp mas c nmr and microbial commu 
+nities involved in the suppression of fusarium wilt in organic growth media biol control 
+ – 
+
+ sundquist a bigdeli s jalili r druzin ml waller s pullen km et al bacterial flora typing with tar 
+geted chip based pyrosequencing bmcmicrobiol 
+
+ wang y qian py conservative fragments in bacterial s rrna genes and primer design for s ribo 
+somal dna amplicons in metagenomic studies plos one 
+
+ white tj bruns td lee s taylor j amplification and direct sequencing of fungal ribosomal rna
+genes for phylogenetics in innis ma gelfauld dh sninsky jj white tj editors pcr protocols a
+guide to methods and applications san diego academic press pp – 
+
+ insam h de bertoldi m microbiology of the composting process compost science and technology 
+waste manag ser – 
+
+ lópez gonzález j a suárez estrella f vargas garcía mc lópez mj jurado mm moreno j dynam 
+ics of bacterial microbiota during lignocellulosic waste composting studies upon its structure function 
+ality and biodiversity bioresour technol – doi j biortech 
+pmid 
+
+ kim hy choi gj lee hb lee sw lim hk jang ks et al some fungal endophytes from vegetable
+crops and their anti oomycete activities against tomato late blight lett appl microbiol –
+ pmid 
+
+ futagawa m wedge de dayan fe physiological factors influencing the antifungal activity of zopfiel 
+lin pestic biochem physiol – 
+
+ musso l dallavalle s farina g burrone e natural products as sources of new fungicides synthesis
+and antifungal activity of zopfiellin analogues chem biol drug des – doi 
+j x pmid 
+
+ nelson e kuter g hoitink h effects of fungal antagonists and compost age on suppression on rhizoc 
+tonia damping off in container media amended with composted hardwood bark phytopathology 
+ – 
+
+ hayes ma the geomyces fungi ecology and distribution bioscience – 
+
+ woo sl ruocco m vinale f nigro m marra r lombardi n et al trichoderma based products and
+their widespread use in agriculture open mycol j m – 
+
+ penton cr gupta vvsr tiedje jm neate sm ophel keller k gillings m et al fungal community
+structure in disease suppressive soils assessed by s lsu gene sequencing plos one 
+
+ hadar y papadopoulou kk suppressive composts microbial ecology links between abiotic environ 
+ments and healthy plants annu rev phytopathol – 
+
+ cuesta g garcia de la fuente r abad m fornes f isolation and identification of actinomycetes from
+a compost amended soil with potential as biocontrol agents j environ manag s – 
+
+ almendros g dorado j gonzalez vila fj blanco mj lankes u c nmr assessment of decomposi 
+tion patterns during composting of forest and shrub biomass soil biol biochem – 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+http dx doi org j biortech 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org 
+http dx doi org j biortech 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j x
+http dx doi org j x
+http www ncbi nlm nih gov pubmed 
+
+
+ voříšková j baldrian p fungal community on decomposition leaf litter undergoes rapid successional
+changes isme j – doi ismej pmid 
+
+ quilchano c marañón t dehydrogenase activity in mediterranean forest soils biol fertil soils 
+ – 
+
+ gu y wang p kong ch urease invertase dehydrogenase and polyphenoloxidase activities in paddy
+soil influenced by allelopathic rice variety eur j soil biol – – 
+
+ salazar s sánchez le alvarez j valverde a galindo p igual jm et al correlation among soil
+enzyme activities under different forest systemmanagement practices ecol eng –
+ 
+
+ yuan bc yue dx soil microbial and enzymatic activities across a chronosequence of chinese pine
+plantation development on the loess plateau of china pedosphere – 
+
+ hoitink h stone a han d suppression of plant diseases by compost hortscience – 
+
+ chenw hoitink haj madden lv microbial activity and biomass in container media for predicting sup 
+pressiveness to damping off caused by pythium ultimum phytopathology – 
+
+ you mp sivasithamparam k changes in microbial populations of an avocado plantation mulch sup 
+pressive of phytophthora cinnamomi appl soil ecol – 
+
+ borrero c trillas mi ordovás j tello jc avilés m predictive factors for the suppression of fusarium
+wilt of tomato in plant growth media phytopathology – doi phyto 
+ pmid 
+
+ boehmmj wu t stone a g kraakman b iannotti d a wilson ge et al cross polarized magic angle
+spinning c nuclear magnetic resonance spectroscopic characterization of soil organic matter relative
+to culturable bacterial species composition and sustained biological control of pythium root rot appl
+environ microbiol – pmid 
+
+ tuitert g szczech m bollen gj suppression of rhizoctonia solani in potting mixtures amended with
+compost made from organic household waste phytopathology – doi 
+phyto pmid 
+
+ tittarelli f trinchera a intrigliolo f beneditti a evaluation of organic matter stability during the com 
+posting process of agro industrial waste in insam h riddech n klammer s editors microbiology of
+composting berlin springer pp – 
+
+ wilmes p bond pl metaproteomics studying functional gene expression in microbial ecosystems 
+trends in microbiology – pmid 
+
+ rastogi g sani rk molecular techniques to assess microbial community structure function and
+dynamics in the environment in ahmad i ahmad f pichtel j editors microbes and microbial technol 
+ogy agricultural and environmental applications berlin springer pp – 
+
+ jones oah sdepanian s lofts s svendsen c spurgeon dj maguire ml et al metabolomic analysis
+of soil communities can be used for pollution assessment environ toxicol chem – 
+doi etc pmid 
+
+ rochfort s ezernieks v mele p kitching m nmrmetabolomics for soil analysis provide complemen 
+tary orthogonal data to mir and traditional soil chemistry approaches—a land use study magn reson
+chem – doi mrc pmid 
+
+ swenson tl jenkins s bowen bp northen tr untargeted soil metabolomics methods for analysis
+of extractable organic matter soil biol biochem – 
+
+ warren cr comparison of methods for extraction of organic n monomers from soil microbial biomass 
+soil biol biochem – 
+
+ reuben s bhinu vs swarup s soil biology secondary metabolites in soil ecology in karlovsky p 
+editor secondary metabolites in soil ecology springer science and business media pp – 
+
+ bérdy j bioactive microbial metabolites j antibiot – pmid 
+
+ hwang bk ahn sj moon ss production purification and antifungal activity of the antibiotic nucleo 
+side tubercidin produced by streptomyces violaceoniger can j bot can bot – 
+
+ shekhar n bhattacharya d kumar d gupta rk biocontrol of wood rotting fungi with streptomyces
+violaceusniger xl can j microbiol – pmid 
+
+ fushimi s nishikawa s shimazu a seto h studies on new phosphate ester antifungal antibiotics
+phoslactomycine i taxonomy fermentation purification and biological activities j antibio 
+ – 
+
+ milner jl silo suh l lee jc haiyin he clardy j handelsman jo production of kanosamine by
+bacillus cereusuw appl environ microbiol – pmid 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http dx doi org phyto 
+http dx doi org phyto 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org phyto 
+http dx doi org phyto 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http dx doi org etc 
+http www ncbi nlm nih gov pubmed 
+http dx doi org mrc 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+
+
+ silosuh la lethbridge bj raffel sj he hy clardy j handelsman j biological activities of two fungi 
+static antibiotics produced by bacillus cereusuw appl environ microbiol – 
+pmid 
+
+ garbeva p van veen ja van elsas jd microbial diversity in soil selection of microbial populations
+by plant and soil type and implications for disease suppressiveness annu rev phytopathol 
+ – pmid 
+
+ lin cy wu h tjeerdema rs viant mr evaluation of metabolite extraction strategies from tissue sam 
+ples using nmrmetabolomics metabolomics – 
+
+omics approaches and phytophthora root rot control by composts
+
+plos one doi journal pone august 
+
+http www ncbi nlm nih gov pubmed 
+http www ncbi nlm nih gov pubmed 
+
+

@@ -1,0 +1,1099 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+analysis of phytoplankton assemblage structure in the mediterranean sea based on high throughput sequencing of partial s rrna sequences
+
+
+marine genomics – 
+
+contents lists available at sciencedirect
+
+marine genomics
+
+j ourna l homepage www e lsev ie r com locate margen
+analysis of phytoplankton assemblage structure in the mediterranean
+sea based on high throughput sequencing of partial s rrna sequences
+antonella penna a b ⁎ silvia casabianca a b antonio fernandez guerra c cristiano vernesi d michele scardi b e 
+a department of biomolecular sciences university of urbino pesaro italy
+b conisma piazzale flaminio roma italy
+c max planck institute for marine microbiology bremen germany
+d department of biodiversity and molecular ecology research and innovation centre fondazione e mach san michele all adige tn italy
+e department of biology tor vergata university rome italy
+⁎ corresponding author at dep of biomolecular scienc
+pesaro italy 
+
+e mail address antonella penna uniurb it a penna 
+ these authors contributed equally to this manuscript
+
+http dx doi org j margen 
+ © elsevier b v all rights reserved 
+a b s t r a c t
+a r t i c l e i n f o
+article history 
+received may 
+accepted june 
+available online june 
+studying taxonomic and ecological diversity of phytoplankton assemblages is often difficult becausemorpholog 
+ical analysis cannot provide a complete description of their composition therefore more robust and feasible ap 
+proaches have to be chosen to elucidate the interactions between environmental and human pressures and
+phytoplankton assemblages the ocean sampling day osd allowed collecting seawater samples from a wide
+range of oceanic regions including the mediterranean sea in this study a total of v s ribosomal
+dna rdna metabarcodes derived from plankton samples collected at sampling sites across the coastal
+areas of themediterranean sea were analyzed to explore the relationships between phytoplankton assemblages 
+composition sub regional environmental features and human pressures we reduced thewhole set of autotroph
+plankton otus to a smaller number of ecologically relevant entities taxa and used the latter for
+analysing the structure of phytoplankton assemblages chaetoceroswas the only genus occurring in all the sam 
+ples while the number of taxawasmaximum in thewmediterranean based on the assignedotus the structure
+of e mediterranean phytoplankton was the most homogeneous further phytoplankton assemblages from the
+three mediterranean sub regions western adriatic and eastern were significantly different r p 
+ based on jaccard similarity we also observed that phytoplanktondiversity and human impact onmarine
+ecosystems were not significantly related to each other based on mantel s test 
+
+© elsevier b v all rights reserved 
+keywords 
+ecology
+eukaryotic diversity
+human impact
+metabarcoding
+ s rdna
+ introduction
+
+protists are a paraphyletic group including a wide range of micro 
+organisms among which phytoplankton assemblages act as a prima 
+ry producer large scale analysis of protistans diversity is difficult
+owing to the huge underlying heterogeneity which reflects their ex 
+tremely broad distribution and involvement in multiple ecological
+and functional processes such as global biological and geochemical
+processes the taxonomic and ecological diversity study of unicellular
+eukaryotic primary producers is often difficult because it is extremely
+time consuming and expert based when deep morphological classi 
+fication is needed moreover morphological analyses alone cannot
+provide a complete description of the huge phytoplankton diversity
+es university of urbino 
+
+ 
+
+ 
+
+ penna et al de vargas et al malviya et al the
+current high throughput sequencing of ribosomal dna rdna 
+genes coupled with metabarcoding allowed discovering a huge
+diversity at large scale in various marine ecosystems data sets
+obtained from this approach are more complete quickly available
+and especially it is not based on taxonomic skills in marine unicellu 
+lar eukaryotes the hypervariable regions of s rdna has been long
+proposed as barcode amaral zettler et al de vargas et al 
+ 
+
+in the mediterranean sea subregional seas and coastal areas are
+different due to their hydrographical and climatological regimes 
+those differences imply that trophic conditions and productivity
+are also different as well as the structure and dynamics of autotro 
+phic plankton assemblages in an oligotrophic system such as the
+mediterranean sea coastal productivity largely depends on inputs
+from rivers and areas of high productivity are mainly restricted to
+waters close to major freshwater inputs of rivers d ortenzio and
+ribera d alcalà ludwig et al eutrophication i e an 
+thropogenic nutrient inputs can cause considerable shifts in coastal
+
+http crossmark crossref org dialog doi j margen domain pdf
+http dx doi org j margen 
+mailto antonella penna uniurb it
+http dx doi org j margen 
+http www sciencedirect com science journal 
+www elsevier com locate margen
+
+
+ a penna et al marine genomics – 
+ecosystem structure and function smith and schindler with
+effects spreading along the pelagic food web rissik et al 
+moreover costal ecosystems impacted by anthropogenic nutrient in 
+puts can be influenced by hydrographic variability and local condi 
+tions which can trigger site specific effects and patterns while
+environmental drivers can select species and functions of phyto 
+plankton assemblages boyd et al edwards et al 
+human activities and global climate changes are now potent new
+drivers that significantly affect the functioning of coastal and off 
+shore marine ecosystems hallegraeff huertas et al 
+sunday et al the mediterranean sea is a critical large marine
+ecosystem for many reasons it is a hot spot of biodiversity it is dra 
+matically impacted by resource exploitation maritime traffic and 
+last but not least by coastal urbanization with high density popula 
+tion pressure coll et al micheli et al newton et al 
+ these major disturbances in addition to allochthonous spe 
+cies introduction severely affect the natural balance of the mediter 
+ranean ecosystems and have already resulted in an extensive loss of
+biodiversity occhipinti ambrogi lejeusne et al 
+glibert et al other effects include diseases or mass mortality
+events that affect marine organisms in some cases with consequent
+disruption of the benthic pelagic coupling cascading effects induce
+changes in fluxes of matter and energy in trophic webs in some case
+affecting also their first level through top down effects scheffer et
+al winder and sommer vergés et al conse 
+quently the study of phytoplankton diversity composition and its
+fluctuations over time and space is of paramount importance in
+order to assess the consequences of anthropogenic perturbations to
+marine ecosystems 
+
+to elucidate the relationships between composition of phytoplank 
+ton assemblages subregional environmental features and human im 
+pact in the mediterranean sea we used the metabarcode s rrna
+amplicons in combination with some data analysis techniques com 
+monly used in ecological research we analyzed s ribosomal dna se 
+quences across the smallest phototroph unicellular eukaryotes about
+ μm to larger ones about μm from coastal seawater samples
+collected at the summer solstice during the osd sampling day
+ osd survey in themediterranean sea under the eu fundedmarinemi 
+crobial biodiversity bioinformatics biotechnology project micro b 
+ kopf et al in fact the osd sampling sites are located in coastal
+regionswithin exclusive economic zones eez therefore the osd data
+set provided the opportunity to better understand the potential of a
+high throughput approach in the analysis of phytoplankton assem 
+blages in a large marine ecosystem that is comprised of very diverse
+subregions and exposed to relevant anthropic pressures especially
+along its northern shore 
+ materials and methods
+
+ sampling
+
+this study was based on samples collected at stations during
+the ocean sampling day osd survey on summer solstice day of 
+ kopf et al in the mediterranean sea oceanographic province 
+all the samples were collected within the surface layer between 
+and m depth with the only exception of station osd where two
+samples were collected at different depths i e m and m seawater
+samples were collected by niskin bottle seawater was filtered through
+ – sterivex filter units with μm pore size hydrophilic pvdf
+durapore membrane svgv rs merck millipore using either a
+peristaltic vacuum or hand pump sterivex filters were stored at − 
+or − °c until analysis out of the available samples were col 
+lected at stations located in coastal or offshore waters from three differ 
+ent mediterranean subregions in the western mediterranean sea 
+in the eastern mediterranean sea and in the adriatic sea and in 
+coastal lagoons with salinity ranging from marine to brackish
+water 
+
+information about sampling sites is shown in table including top 
+onym subregion coordinates sampling depth and human impact
+scores mean and maximum 
+
+the latter were computed in a minute radius from the estimates
+provided by halpern et al finally the location of the sampling
+stations is shown in fig 
+
+ eukaryotic phytoplankton v s rdna metabarcoding dataset
+
+at each station plankton assemblageswere obtained as explained in
+the previous section total genomic dnawas extracted from all samples
+at max planck institute for marine microbiology in bremen and biolog 
+ical institute of thealfredwegner institute in helgoland germany dna
+was extracted using power water dna isolation kit mobio carlsbad 
+ca usa following the manufacturer s instructions the concentration
+and quality of eluted dna was determined using a nanodrop spectro 
+photometer thermo fisher scientific wilmington ma usa and infi 
+nite nanoquant tecan männedorf switzerland sequencing
+process including amplification of s rrna gene was carried out by
+lgc genomics lgc genomics gmbh berlin germany 
+
+the hypervariable v of the nuclear s rdna gene was
+amplified using the forward primer tareuk fwd 
+ccagcascygcggtaattcc stoeck et al and
+tareukrev modified actttcgttcttgatyratga the se 
+quence of the reverse primer is based on the published primer by
+stoeck et al but an additional tga triplet was added at the ′
+end the pcrs included about ng of dna extract pmol of each
+forward primer f nnnnnnnnnngtgccagcmgccgcggtaa and
+reverse primer r 
+
+all sequence reads were processed following the protocol
+established by the osd analysis group described here https github 
+com microb is osd analysis wiki sequence data pre processing 
+quality trimmed reads were analyzed by the silvangs pipeline
+ quast et al each sequence was aligned using the silva incre 
+mental aligner sina v pruesse et al against the
+silva ssu rrna seed and quality controlled those sequences shorter
+than aligned nucleotides and with n of ambiguities or of ho 
+mopolymers respectively were excluded from further processing after
+the quality control steps sequences were dereplicated clustered at 
+sequence identity and classified dereplication and clustering was done
+using cd hit est ver li and godzik by ignoring over 
+hangs and applying identity criteria of and respectively the
+classification was performed by a local nucleotide blast search against
+the non redundant version of the silva ssu ref dataset release 
+using blastn version with standard settings camacho et al 
+ 
+
+the classification of each otu reference sequence was transferred
+onto all sequences that were assigned to the respective otu this yields
+quantitative information number of individual sequences per taxo 
+nomic path as well as multiple rrna operons sequences without
+any blast hits or sequences with weak blast hits where the function
+ sequence identity alignment coverage ″ did not exceed the
+value of remain unclassified these sequences were assigned to
+the meta group “no relative” in the silvangs fingerprint the
+metabarcode sequences of the v s rrna gene are available at ena
+embl ebi “prjeb ocean sampling day osd amplicon
+and metagenome sequencing study from the june solstice in the year
+ ” 
+
+ from otus to ecologically meaningful taxa
+
+the data set associated to s rdna sequences was processed to
+extract only unicellular eukaryotic phototrophs i e primary pro 
+ducers to confirm that the identity of each taxon corresponded to
+
+https github com microb is osd analysis wiki sequence data pre processing
+https github com microb is osd analysis wiki sequence data pre processing
+
+
+table 
+list of mediterranean seawater samples and sampling sites for the osd s rdna eukaryotic organisms in summer with country sub regions sampling depth coordinates and hu 
+man impact score estimated according to halpern et al 
+
+id sample
+identifier
+
+corresponding nucleotides
+data published at ena
+ http www ebi ac uk ena data view 
+
+locality country subregion sampling depth latitude longitude human impact
+
+ m degrees degrees mean max
+
+osd err naples italy w medit 
+osd err crete offshore greece e medit 
+osd err crete offshore greece e medit 
+osd err blanes spain w medit 
+osd err banyuls france w medit 
+osd err villefranche france w medit 
+osd err marseille france w medit 
+osd err saidia rocher morocco e medit − 
+osd err faro lake italy lagoon 
+osd err venice italy lagoon 
+osd err vida croatia adriatic 
+osd err marghera italy lagoon 
+osd err lido coastal italy adriatic 
+osd err foglia italy adriatic 
+osd err ancona italy adriatic 
+osd err etoliko greece lagoon 
+osd err saidia marina morocco w medit − 
+osd err trieste italy adriatic 
+osd err crete coastal greece e medit 
+osd err haifa israel e medit 
+
+ a penna et al marine genomics – 
+that of a primary producer independently of the taxonomic level i e 
+from class to genus information was collected from various data
+bases such as protist ribosomal reference database guillou et al 
+ ncbi algaebase silva rrna database quast et al and
+worms 
+
+while otus had been identified in mediterranean samples in
+most cases more than a single otu had been assigned to the same
+taxon therefore the final number of available taxa i e of ecologically
+meaningful entities wasmuch smaller than the number of otus more 
+over in a few cases some otus had been assigned to a higher level
+taxon whereas others had been assigned to genera belonging to that
+higher level taxon as a consequence the only possibility to avoid taxo 
+nomical ambiguity was to group all the involved otus under the lowest
+unequivocal taxonomical entity e g summing up all the otu counts at
+family level if some had been assigned to a family and others to some
+genera belonging to that family the final list including taxa has
+been used as the basis for analysing the structure of phytoplankton
+assemblages 
+
+among the taxa that were defined by means of metabarcodes 
+ were clones for which genus assignment was not available finally 
+otus showing incomplete taxonomical identification were excluded
+from the analyses as potentially including autotroph heterotroph or
+parasite protists 
+fig location of osd sampling sites in three mediterranean subregions or in coastal
+lagoons labels on grey background each group of sampling stations is associated to a
+different symbol 
+ data analysis
+
+similarity between samples was computed by means of jaccard and
+morisita as modified by horn similarity according to wolda
+ the morisita coefficient is independent of sample size as well
+as of sample diversity 
+
+data about human impact were obtained from halpern et al 
+within a minute radius around each sampling station 
+
+ordinations were obtained by non metric multidimensional
+scaling nmds as implemented by taguchi and oono 
+while symmetric procrustes analysis gower was used to com 
+pare the nmds ordinations and the protest procedure jackson 
+ was used to test the independence between the compared
+ordinations 
+
+multivariate differences between groups of samples were ana 
+lyzed by anosim clarke the overall correlation between
+similarity or distance matrices was analyzed by the standardized
+mantel test finally association between taxa and groups of samples
+was tested by means of the indicator species analysis dufrêne and
+legendre 
+
+ results
+
+sequencing about of v s rdna metabarcodes and ex 
+trapolating only phototroph otus corresponding to univocal 
+ly defined taxa from plankton samples was enough to approach
+saturation of phototroph eukaryotic richness at local scale 
+
+the genus chaetoceros occurred in all samples while other taxa
+were present at least in one sample from all the sub regions including
+lagoons among the remaining taxa were found in only one of the
+sub regions or in lagoons however excluding epipyxis found only in
+ out of samples from the adriatic sea all those taxa were very rare
+and therefore their association with a sub region was very weak and
+most probably due to chance alone the number of taxa was maximum
+in thewesternmediterranean taxa and slightly lower in the east 
+ern mediterranean and in the adriatic sea and respectively 
+not surprisingly samples from lagoons accounted for a lower number
+of taxa 
+
+as otu counts cannot be regarded as a straightforward quantitative
+expression of cell density the most conservative approach to the
+
+http www ebi ac uk ena data view
+
+
+fig non metric multidimensional scaling based on jaccard similarity stress 
+samples from different subregions or from lagoons are associated to different symbols
+ western mediterranean circle eastern mediterranean square adriatic sea triangle 
+lagoons plus each subset of symbols is enclosed in a convex hull 
+
+fig non metric multidimensional scaling based onmorisita similarity stress 
+samples from different subregions or from lagoons are associated to different symbols
+ western mediterranean circle eastern mediterranean square adriatic sea triangle 
+lagoons plus each subset of symbols is enclosed in a convex hull 
+
+fig symmetric procrustes analysis comparing the nmds ordinations in figs and 
+the procrustes sum of squares m and the null hypothesis of agreement
+between the two nmds ordinations equal to that between random data sets was
+rejected p thus suggesting that they shared significant features the
+symbols western mediterranean circle eastern mediterranean square adriatic sea 
+triangle lagoons plus stand for the ordination based on morisita similarity whereas
+the arrows point to the corresponding item in the ordination based on jaccard similarity 
+
+ a penna et al marine genomics – 
+analysis of the autotrophic plankton assemblage was that based on
+jaccard similarity the d ordination obtained from nmds was shown
+in fig with different symbols for samples collected in different sub 
+regions or in lagoons and convex hulls enclosing the four resulting sub 
+sets while thenmds stress was not negligible itwas certainly
+acceptable being between good and acceptable according to the guide 
+lines provided by clarke eastern mediterranean was the most
+homogenous sub region and it was completely separated not only
+from lagoon samples but also although to a lesser extent from those
+from the adriatic sea the western mediterranean convex hull partly
+overlapped those for eastern mediterranean and adriatic sea while it
+was separated from the convex hull of the lagoons in the latter subset 
+the two samples from etoliko osd and from faro lake osd 
+were clearly displaced to the right part of the ordination at the two op 
+posite ends of the second ordination axis 
+
+the patterns that emerged from the nmds ordination were also
+tested by anosim based on jaccard similarity the null hypothesis of
+identical assemblages in marine waters and in lagoons was rejected
+ r p the null hypothesis of identical assem 
+blages in the three marine sub regions was also rejected r 
+p thus confirming that marine phytoplankton was not
+qualitatively homogeneous throughout the mediterranean sea post
+hoc pairwise and bonferroni corrected tests showed that the only sig 
+nificant difference was found between eastern mediterranean and
+adriatic sea r p while the p value for the
+western mediterranean to adriatic sea comparison was very close to
+ but not lower than the significance threshold r 
+p no qualitative differences emerged from anosim be 
+tween eastern and western mediterranean r p 
+
+although otu counts cannot be regarded as a directmeasure for cell
+density they are certainly not independent of autotrophic plankton
+abundance as biovolume therefore otu counts summed up for
+each taxon were also analyzed by means of nmds and anosim based
+on the morisita similarity coefficient the d ordination obtained from
+nmds and shown in fig was affected by a lower i e stress
+than its counterpart based on jaccard similarity the four subsets of
+samples partly overlapped each other although their position in the or 
+dinationwas still clearly separated the convex hull of the samples from
+lagoons was not as wide as in the nmds ordination based on jaccard
+similarity but the two samples from osd and osd were still the
+farthest apart not only in the lagoon subset but also in the whole data
+set 
+
+however differences between autotrophic plankton assemblages in
+lagoon and marine samples measured by morisita similarity remained
+significant according to anosim r p on the
+contrary the null hypothesis of identical assemblage structure in
+the three marine sub regions could not be rejected r 
+p 
+
+while the nmds ordinations based on jaccard and morisita similar 
+ity were able to separate subregional subsets of samples they were
+based on different types of information respectively purely qualitative
+and quantitative although independently of sample size and diversity 
+in order to compare the ordinations and to understand to what an ex 
+tent their features are similar to each other a symmetric procrustes
+analysis was carried out and the resulting ordination was shown in
+fig 
+
+
+
+ a penna et al marine genomics – 
+basically it seemed that the morisita based nmds ordination col 
+lapsed to obtain the configuration that most closely matched the
+jaccard based nmds ordination the procrustes sum of squares was
+m and the null hypothesis h agreement between the
+two nmds ordinations equal to that between random data sets was
+rejected p thus suggesting that the two ordinations
+shared significant features while this result was only based on nmds
+scores which could not preserve the entire amount of information em 
+bedded in the similarity matrices a mantel test performed between the
+two similarity matrices thus taking into account all the available infor 
+mation confirmed the outcome mantel s r p 
+
+not surprisingly given the clear separation between sub regional
+assemblages both jaccard and morisita dissimilarities were not
+independent of the magnitude of the geographical distances between
+pair of sampling sites according to the standardized mantel statistics
+ r p and r p respectively 
+the magnitude of the geographical distance was expressed as the char 
+acteristic of log d where dwas the distance between sites in km
+as crow flies but passing through a dummy site in the otranto straits
+when considering adriatic sampling sites 
+
+mantel tests were also performed to compare the jaccard and
+morisita dissimilarity matrices to the two manhattan distance matrices
+respectively based on the mean andmaximum estimates of human im 
+pact on marine ecosystems at sampling sites halpern et al 
+these procedures tested the null hypothesis of independence between
+differences in phytoplankton assemblage structure as defined through
+the high throughput sequencing approach and differences in human
+impact out of the four possible combinations between dissimilarity co 
+efficients and human impact levels none allowed to reject the null hy 
+potheses thus testifying that phytoplankton biodiversity and human
+impact on marine ecosystems or most probably the way it has been
+assessed are not significantly related to each other the value of
+table 
+indicator species analysis only taxa whose indicator value was significant are shown the lar
+
+indicator values
+
+taxon western med eastern med adriatic la
+
+prasinococcus 
+umbilicosphaera 
+haslea 
+lithodesmium 
+attheya 
+crypthecodinium 
+chroomonas 
+pedinomonas 
+amphitrichous 
+carteria 
+discostella 
+thecadiniaceae 
+oxyrrhis 
+reticulosphaera 
+fistulifera 
+chromulinales 
+rhodomonas 
+epipyxis 
+fragilidium 
+pleurosigma 
+dolichomastix 
+pleurochrysis 
+b 
+cochlodinium 
+scm c 
+subclade a 
+gonyaulax 
+tabularia 
+eustigmatales 
+prymnesium 
+clade ix 
+pavlovophyceae 
+the standardized r mantel s statistics ranged between − 
+ p and p i e very close to a null overall
+correlation 
+
+finally an indicator species analysis dufrêne and legendre 
+was performed in order to detect phytoplankton taxa that were not ho 
+mogeneously distributed among the four subsets of sampling stations 
+including the three mediterranean sub regions and the lagoon subset
+ table the indicator values obtained from this analysis were based
+on frequency of occurrence and relative abundance in each subset and
+therefore they were not directly related to jaccard or morisita similari 
+ty although they took into account the type of information upon which
+both coefficient relied i e binary qualitative and normalized quantita 
+tive data only out of taxa showed a significant deviation from
+a random distribution between the four subsets of sampling stations 
+among those taxa were found at a single site and were therefore 
+to be regarded as very rare taxa whose presence or absence could not
+be reliably interpreted 
+
+two genera prasinococcus and umbilicosphaera were found at and
+ sites respectively in the eastern mediterranean only while the indi 
+cator values for these taxa were very highly significant p b 
+otucounts associated to themwere very small five other taxa hadhigh
+indicator values with p values in the range all signifi 
+cantly associated to the adriatic sub region i e the order chromulinales
+and four genera namely rhodomonas epipyxis fragilidium pleurosigma 
+among these genera epipyxis a freshwater genus is the only that was
+found only in a single sub region three more taxa had indicator values
+with p values in the range two of them i e the genera
+dolichomastix and pleurochrysis were still significantly associated to
+the adriatic sub region whereas the b taxon was associated to the
+eastern mediterranean sub region 
+
+nine more taxa significantly deviated from a random distribution
+among sub regions with p value in the range two of
+gest indicator value for each taxon is shown in bold 
+
+goons p average count no number of occurrences
+
+ ⁎⁎⁎ 
+
+ ⁎⁎⁎ 
+
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎⁎ 
+ ⁎⁎ 
+ ⁎⁎ 
+ ⁎⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+ ⁎ 
+
+
+
+ a penna et al marine genomics – 
+them had the highest indicator value for the western mediterranean
+sub region subclade x and clade ix while two others the order
+eustigmatales and the genus tabularia were significantly associated
+to lagoons two other genera gonyaulax and prymnesium were signif 
+icantly associated to the adriatic sub region and three more
+ cochlodinium scm c and the pavlovophyceae to the eastern
+mediterranean sub region 
+
+among the taxa with significant indicator values and with p values
+in the range the average number of counts was slightly
+larger than with n occurrences out of samples in other
+words these taxa in contrast with the taxa associated to the smallest
+p values were not to be regarded as rare taxa or as minor components
+of the phytoplankton assemblage in which they occurred 
+
+ discussion and conclusions
+
+microscopy techniques are still very common in the study of phyto 
+plankton diversity but the various molecular methods are rapidly be 
+coming the preferred tools for characterizing phytoplankton
+assemblages among those methods the metabarcode approach is a
+good candidate for routine applications because of its technical poten 
+tial but in order to turn that potential into significant advances the
+gap between sequence reads and ecologically meaningful entities
+must be adequately bridged 
+
+a fundamental principle in ecological data analysis is that splitting a
+taxon into two or more ecologically equivalent taxa adds noise to any
+underlying signal whereas grouping two or more taxa that are possibly
+ecologically different just smooths out any underlying signal while this
+principle can be regarded as a close relative to theoccam s razor itmust
+always be beared in mind when taxonomic lists are to be analyzed and
+metabarcode data are no exception 
+
+as the available data set was comprised of otus themost nat 
+ural step was to group all the otus that were assigned to the same
+taxon summing up their counts however this process alone could
+not remove all the taxonomical ambiguity out of the data set and there 
+fore a second stepwas also needed when someotuswere assigned to
+a higher level taxon and others to lower level taxa belonging to the
+higher level one only the latter was retained summing up to its level
+all the otu counts independently of the level of the taxa they were ini 
+tially assigned to this procedure led to a list of taxa most of which 
+however where still genera i e retained the finest resolution allowed
+by the metagenomic s rrna approach 
+
+while the criteria for taxonomic aggregation and the strategies for
+optimizing those criteria in the light of their ability to turn biodiversity
+into ecologically useful information can be still optimized it is clear that
+otu or taxa counts cannot be regarded as a direct proxy for purely
+quantitative data as cell density or biovolume nevertheless they cer 
+tainly provide more than simple occurrence data because it is very un 
+likely that a rare and tiny taxon is associated tomore counts than a large
+and abundant one however data analyses based on occurrence data
+only and therefore on binary similarity coefficients are certainly the saf 
+est option as they do not rely upon quantitative data but they use only
+a small fraction of the available information relative to their counter 
+parts based on microscopy methods data obtained from metagenomic
+analyses are more accurate in detecting taxa absence even though
+taxa that are present with very low densities may still remain
+undetected 
+
+in order to compare a purely qualitative approach presence ab 
+sence data only to a quantitative one number of counts per taxon 
+parallel analyses were carried out based on the jaccard and morisita
+similarity coefficients the first one is the simplest asymmetric similar 
+ity coefficient i e it does not take into account absence data which are
+regarded as not entirely reliable the second based on quantitative in 
+formation is not sensitive to sample size or diversity but only to differ 
+ences in relative abundance and therefore it is a very good optionwhen
+phytoplankton assemblages sampled by different people and with
+different methods are to be analyzed independently of how similarity
+had been measured both the binary and the quantitative approach led
+to the recognition of sub regional subsets as well as to the detection
+of significant differences among them and between lagoons andmarine
+subregions 
+
+while these subregional subsetswere not entirely disjoint fromeach
+other in the nmds ordinations independently of the similarity coeffi 
+cient they seemed to be more clearly separated when the jaccard sim 
+ilarity i e the lowest level of information was taken into account 
+however quantitative data although highly variable and representing
+only a potential proxy for cell density or biovolume allowed to obtain
+a sharper picture of the overall structure of the data set with more ho 
+mogenous distances between samples in the nmds ordination 
+
+however the information conveyed by the two similarity indices
+was basically the same and the results of the symmetric procrustes
+analysis as well as those of the mantel test confirm this while sym 
+metric procrustes analysis compared thepoint patterns in thenmdsor 
+dinations which were not a perfect representation of the relationships
+among samples because of the stress that affects them the mantel test
+took all the available information into account in fact the similarityma 
+trices compared by themantel test expressed the whole set of relation 
+ships among samples without the constraint imposed by the
+representation of an n dimensional space in a dimensional ordina 
+tion not surprisingly thep level that allowed rejecting thenull hypoth 
+esis of independent nmds ordinations with jaccard and morisita
+similarities was higher than the p level that supported the rejection of
+the null hypothesis of independence between the two similarity matri 
+ces procrustes m and p mantel s r and
+p respectively 
+
+the bottom line was that between the binary asymmetric ap 
+proach jaccard similarity and the quantitative solution morisita
+similarity there was no clear winner they led to slightly different 
+but consistent interpretations of the relationships between samples 
+which allowed finding significant differences between phytoplank 
+ton assemblages sampled in lagoons and their marine counterpart 
+significant differences among marine subregions were only found
+using binary data which is not a trivial result as many marine
+phytoplankton taxa in this case mostly genera are cosmopolitan 
+in particular the adriatic sea samples were significantly different
+from the eastern mediterranean samples on the basis of the
+bonferroni corrected post hoc pairwise anosim as the adriatic sea
+is by far the mediterranean sub region that receives the largest
+freshwater inputs relative to its volume while the eastern mediter 
+ranean is the most oligotrophic subregion the above mentioned dif 
+ference is not surprising 
+
+on the contrary no differences between marine subregions were
+found with the quantitative approach that underlies the anosim
+based on morisita similarity the reason for a different result relative
+to the jaccard based anosim is probably due to the rather loose rela 
+tionship between the number of counts and the actual abundance of
+phytoplankton taxa however the small number of samples available
+in all the data subsets makes data analysis results inherently unstable 
+therefore they should be regarded as starting points for new analyses
+rather than as solid outcomes upon which relevant ecological insights
+can be gained 
+
+obviously uncertainties about the quantitative information provid 
+ed by the number of counts also affected the indicator species analysis 
+some significant associations between taxa and marine sub regions
+might have been obtained only by chance because the number of sam 
+ples uponwhich theywere basedwas not large enough but it is not sur 
+prising that the largest number of taxa significantly associated to a sub 
+region were found in a peculiar region like the adriatic sea including a
+freshwater taxon that only occurred there in fact the adriatic sea and
+especially its northern section has often been compared to a large estu 
+arine system rather than as part of generally oligotrophic sea like the
+mediterranean sea 
+
+
+
+ a penna et al marine genomics – 
+as for the relationships between phytoplankton assemblages and
+relevant environmental pressures the available data did not allow to
+infer significant relationships assuming that the human impact score
+by halpern et al could be regarded as a quantitative estimate
+of the anthropic pressures that affected coastal marine ecosystems its
+relationshipswith the structure of phytoplankton assemblageswere ex 
+plored usingboth similarity coefficients and applying themantel 
+test but the null hypothesis of independence of phytoplankton assem 
+blage structure from human impact could not be rejected while the
+same results were obtained using the average and the maximum
+human impact score in a min neighbourhood around the sampling
+stations most probably if a relationship actually existed it could have
+only emerged at local scale and from amuch larger data set as a matter
+of fact detecting the effects of perturbations on ecosystem dynamics is
+strictly a matter of time and space scale and this study was probably
+based on a data set that was not enough large and diverse as to allow
+testing complex hypotheses 
+
+finally while data obtained from a metabarcoding approach will
+certainly play a relevant role in the next generation of studies in biolog 
+ical oceanography validation based on conventional analyses based on
+morphological taxa identification should be planned in the future 
+
+acknowledgements
+
+data described herein are available at ebi under the project id
+prjeb sequencing of amplicon and metagenome samples from
+the main osd event representing joint effort of marine sampling sta 
+tions around the world the osd campaign aims to analyse marine mi 
+crobial community compositions and embedded functional traits on a
+single day the solstice on 
+
+we thank also max planck institute for marine microbiology in bre 
+men and biological institute of the alfredwegner institute in helgoland
+where dna extraction took place lgc genomics lgc genomics
+gmbh berlin germany for sequencing process including amplification
+of s rrna gene 
+
+references
+
+amaral zettler l a mccliment e a ducklow h w huse s m a method for
+studying protistan diversity using massively parallel sequencing of v hypervariable
+regions of small subunit ribosomal rna genes plos one e 
+
+boyd p w strzepek r fu f hutchins d a environmental control of open ocean
+phytoplankton groups now and in the future limnol oceanogr – 
+http dx doi org lo 
+
+camacho c coulouris g avagyan v ma n papadopoulos j et al blast ar 
+chitecture and applications bmc bioinf 
+
+clarke k r non parametric multivariate analyses of changes in community struc 
+ture austral ecol – 
+
+coll m piroddi c steenbeek j kaschner k ben rais lasram f aguzzi j et al 
+the biodiversity of the mediterranean sea estimates patterns and threats plos one
+ e http dx doi org journal pone 
+
+d ortenzio f ribera d alcalà m on the trophic regimes of themediterranean sea 
+a satellite analysis biogeosciences – 
+
+dufrêne m legendre p species assemblages and indicator species the need for a
+flexible asymmetrical approach ecol monogr – 
+
+edwards k f litchman e klausmeier c a functional traits explain phytoplank 
+ton community structure and seasonal dynamics in a marine ecosystem ecol lett 
+ – http dx doi org ele 
+
+glibert p m allen j i artioli y beusen a bouwman l harle j et al vulnera 
+bility of coastal ecosystems to changes in harmful algal bloom distribution in re 
+sponse to climate change projections based on model analysis glob chang biol 
+ – 
+
+gower j c statistical methods of comparing different multivariate analyses of the
+same data in hodson f r kendall d g tautu p eds mathematics in the archae 
+ological and historical sciences edinburgh university press edinburgh pp – 
+
+guillou l bachar d audic s bass d berney c bittner l et al the protist ri 
+bosomal reference database pr a catalog of uni cellular eukaryote small
+sub unit rrna sequences with curated taxonomy nucleic acids res d 
+d –d 
+
+hallegraeff g m ocean climate change phytoplankton community responses and
+harmful algal blooms a formidable predictive challenge j phycol – 
+http dx doi org j x 
+
+halpern b s frazier m potapenko j casey k s koenig k longo c et al spatial
+and temporal changes in cumulative human impacts on the world s ocean nat 
+commun 
+
+horn h s measurement of overlap in comparative ecological studies am nat 
+ – 
+
+huertas i e rouco m lópez rodas v costas e warming will affect phytoplank 
+ton differently evidence through a mechanistic approach proc r soc b 
+ – 
+
+jackson d a protest a procrustean randomization test of community environ 
+ment concordance ecoscience – 
+
+kopf a bicak m kottmann r schnetzer j kostadinov i lehmann k et al the
+ocean sampling day consortium gigascience 
+
+lejeusne c chevaldonne p pergent martini c boudouresque c f perez t cli 
+mate change effects on a miniature ocean the highly diverse highly impacted med 
+iterranean sea trends ecol evol – 
+
+li w godzik a cd hit a fast program for clustering and comparing large sets of
+protein or nucleotide sequences bioinformatics – http dx doi org 
+ bioinformatics btl 
+
+ludwig w dumont e meybeck m heussner s river discharges of water and
+nutrients to the mediterranean and black sea major drivers for ecosystem changes
+during past and future decades prog oceanogr – 
+
+malviya s scalco e audic s vincent f veluchamy a poulain wincker p iudicone 
+d de vargas c bittner l zingone a bowler c insights into global diatom
+distribution and diversity in the world s ocean proc natl acad sci u s a 
+e –e http dx doi org pnas 
+
+mantel n the detection of disease clustering and a generalized regression ap 
+proach cancer res – 
+
+micheli f halpern b s walbridge s ciriaco s ferretti f fraschetti s et al cu 
+mulative human impacts on mediterranean and black sea marine ecosystems 
+assessing current pressures and opportunities plos one e http dx doi 
+org journal pone 
+
+newton a icely j cristina s brito a cardoso a c colijn f et al an overview
+of ecological status vulnerability and future perspectives of european large shallow 
+semi enclosed coastal systems lagoons and transitional waters estuar coast shelf
+sci – http dx doi org j ecss 
+
+occhipinti ambrogi a global change and marine communities alien species and
+climate change mar pollut bull – 
+
+penna a casabianca s perini f bastianini m riccardi e pigozzi s scardi m 
+toxic pseudo nitzschia spp in the northwestern adriatic sea characterization of spe 
+cies composition by genetic and molecular quantitative analyses j plankton res 
+ – 
+
+pruesse e peplies j glöckner f o sina accurate high throughput multiple se 
+quence alignment of ribosomal rna genes bioinformatics – 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al the silva ri 
+bosomal rna gene database project improved data processing and web based tools 
+nucleic acids res d –d 
+
+rissik d ho shon e newell b bair m e suthers i m plankton dynamics due to
+rainfall eutrophication dilution grazing and assimilation in an urbanized coastal la 
+goon estuar coast shelf sci – 
+
+scheffer m carpenter s de young b cascading effects of overfishingmarine sys 
+tems trends ecol evol – 
+
+smith v h schindler d w eutrophication science where do we go from here 
+trends ecol evol – 
+
+stoeck t bass d nebel m christen r jones m d breiner h w richards t a 
+multiple marker parallel tag environmental dna sequencing reveals a highly com 
+plex eukaryotic community in marine anoxic water mol ecol suppl – 
+http dx doi org j x x 
+
+sunday j m calosi p dupont s munday p l stillman j h reusch t b h evolu 
+tion in an acidifying ocean trends ecol evol – http dx doi org 
+j tree 
+
+taguchi y h oono y relational patterns of gene expression via non metric mul 
+tidimensional scaling analysis bioinformatics – 
+
+de vargas c audic s henry n decelle j mahé f logares r et al eukaryotic
+plankton diversity in the sunlit ocean science 
+
+vergés a steinberg p d hay m e poore a g b campbell a h ballesteros e et al 
+ the tropicalization of temperate marine ecosystems climate mediated chang 
+es in herbivory and community phase shifts proc r soc b 
+
+winder m sommer u phytoplankton response to a changing climate 
+hydrobiologia – http dx doi org s 
+
+wolda h similarity indices sample size and diversity oecologia – 
+
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org lo 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org journal pone 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org ele 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org j x
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org bioinformatics btl 
+http dx doi org bioinformatics btl 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org pnas 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org journal pone 
+http dx doi org j ecss 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org j x x
+http dx doi org j tree 
+http dx doi org j tree 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http refhub elsevier com s rf 
+http dx doi org s 
+http refhub elsevier com s rf 
+
+	analysis of phytoplankton assemblage structure in the mediterranean sea based on high throughput sequencing of partial s 
+	 introduction
+	 materials and methods
+	 sampling
+	 eukaryotic phytoplankton v s rdna metabarcoding dataset
+	 from otus to ecologically meaningful taxa
+	 data analysis
+
+	 results
+	 discussion and conclusions
+	acknowledgements
+	references
+
+
+

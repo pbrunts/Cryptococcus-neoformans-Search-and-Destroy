@@ -1,0 +1,1037 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+specific impacts of beech and norway spruce on the structure and diversity of the rhizosphere and soil microbial communities
+
+
+ scientific reports doi srep 
+
+www nature com scientificreports
+
+specific impacts of beech and 
+norway spruce on the structure and 
+diversity of the rhizosphere and soil 
+microbial communities
+s uroz p oger e tisserand a cébron m p turpault m buée w de boer 
+j h j leveau p frey klett 
+
+the impacts of plant species on the microbial communities and physico chemical characteristics 
+of soil are well documented for many herbs grasses and legumes but much less so for tree species 
+here we investigate by rrna and its amplicon sequencing the diversity of microorganisms from the 
+three domains of life archaea bacteria and eukaryota fungi in soil samples taken from the forest 
+experimental site of breuil chenue france we discovered significant differences in the abundance 
+composition and structure of the microbial communities associated with two phylogenetically distant 
+tree species of the same age deciduous european beech fagus sylvatica and coniferous norway 
+spruce picea abies karst planted in the same soil our results suggest a significant effect of tree 
+species on soil microbiota though in different ways for each of the three microbial groups fungal and 
+archaeal community structures and compositions are mainly determined according to tree species 
+whereas bacterial communities differ to a great degree between rhizosphere and bulk soils regardless 
+of the tree species these results were confirmed by quantitative pcr which revealed significant 
+enrichment of specific bacterial genera such as burkholderia and collimonas known for their ability to 
+weather minerals within the tree root vicinity 
+
+several studies have investigated the main biotic and abiotic factors determining the structure and functioning 
+of soil microbial communities in addition to impacts of soil type soil age soil mineralogy and soil ph several 
+studies have highlighted the strong link between plants and soil microorganisms – indeed through litter deg 
+radation and the production of nutrients and protons in their rhizodeposits plants modify the physical chem 
+ical and biological properties of their soil environment – for example evergreen tree species such as norway 
+spruce picea abies and scots pine pinus sylvestris are known for acidifying soils furthermore nutrients and 
+signaling molecules present in root exudates promote the selection of particular taxa and functions within the 
+vicinity of the root system one hypothesis to explain this selection known as the rhizosphere effect is that 
+plants recruit indigenous microbial communities from the soil that are beneficial for improving plant health and 
+nutrition and for preventing the establishment of pathogens 
+
+such a selective effect in the rhizosphere environment has been reported for several cultivated desert and per 
+ennial plants – over the last decade the development of high density s rrna microarray as well as mono 
+genic and shotgun metagenomics has resulted in great advancements in our understanding of the structure and 
+diversity of soil microbiomes – conversely our knowledge of the functional capacities of rhizosphere micro 
+bial communities remains largely based on cultivation dependent studies nonetheless functional screenings 
+of culturable bacterial and fungal communities have revealed rhizosphere enrichment of microorganisms capable 
+
+ inra université de lorraine umr « interactions arbres microorganismes » f champenoux france 
+ inra ur “biogéochimie des ecosystèmes forestiers” centre inra de nancy champenoux france 
+ umr laboratoire de géologie de lyon ecole normale de lyon allée d’italie lyon cedex france 
+ cnrs liec umr faculté des sciences et technologies vandoeuvre les nancy france université de 
+lorraine liec umr faculté des sciences et technologies vandoeuvre les nancy france netherlands 
+institute of ecology nioo knaw department of microbial ecology wageningen the netherlands department 
+of plant pathology university of california davis ca usa correspondence and requests for materials should 
+be addressed to s u email uroz nancy inra fr 
+
+received january 
+
+accepted may 
+
+published june 
+
+open
+
+mailto uroz nancy inra fr
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+of improving plant nutrition by providing nitrogen and nutritive cations cultivation independent studies have 
+also shown an increase in the relative abundance of specific functional genes related to nitrogen cycling carbon 
+fixation phosphorus utilization metal homeostasis and resistance in the rhizosphere altogether these results 
+suggest that plants enrich nutritional helper microbial communities within the vicinity of their roots similar 
+conclusions have been drawn about animal and human microbiomes which strongly participate in key functions 
+related to host defense metabolism and health such functional complementation by the rhizosphere micro 
+biome is particularly important for plants growing in nutrient poor soils in which nutrients are scarce and not 
+well accessible to roots as is typically the case of forests developed on acidic and nutrient poor soils under such 
+conditions trees have been shown to select symbiotic fungi and bacteria that are capable of mobilizing nutrients 
+from minerals and organic matter thereby supplying the trees with organic and inorganic nutrients however 
+this selective effect appears to be dependent on the host and remains poorly documented particularly with 
+regard to archaeal and bacterial communities 
+
+the impact of plant host on the soil microbial communities has been widely investigated with results showing 
+that different plant species and genotypes including genetically modified plants can select specific microbial 
+communities from the soil reservoir within their root vicinity – notably this selection has been shown to 
+change during plant development and root growth indicating that such selection is altered according to the 
+nutritional requirements or physiology of the plant this selective effect also appears to be dependent on the 
+co evolution history shared by plants and soil microbial communities however most of the studies to date on 
+the forest soil microbiome are organism specific whereas few have simultaneously analyzed archaeal bacterial 
+and fungal communities – as an example fierer et al were among the first to identify archaeal bacterial 
+fungal and even viral communities by applying cloning sequencing but their analysis only considered bulk soil 
+samples in addition by analyzing archaea and bacteria but not fungi in soil from a temperate beech forest 
+rasche et al showed that both communities were impacted by seasonality and variations in nutrient availa 
+bility finally urbanova et al analyzed the soil stratification of both fungal and bacterial communities using 
+high throughput sequencing technology determining how these two communities archaeal communities were 
+not considered were distributed and whether this distribution varied for different tree species however none 
+of these studies assessed differences in rhizosphere and bulk soil microbial communities in terms of structure 
+diversity and composition within this context the aim of this study was to determine the structure richness and 
+abundance of archaeal bacterial and fungal communities in an acidic forest plantation and to assess how different 
+tree species of the same age growing in the same soil impact these microbial communities we hypothesized that 
+tree species have specific effects on the composition and structure of soil microbial communities an ideal site to 
+test this hypothesis is the long term observatory lto forest site of breuil chenue morvan france which is 
+characterized by acidic and nutrient poor soil conditions the native forest was partially clear felled in and 
+replaced by mono specific plantations in this study spatially independent samples were collected from soil in 
+which two phylogenetically distant tree species beech b fagus sylvatica l and norway spruce nw picea abies 
+karst were growing to assess community structure we performed archaeal and bacterial s rrna and fungal 
+ s rrna and ribosomal internal transcribed spacer its amplicon pyrosequencing using dna isolated from 
+the rhizosphere and bulk soil compartments to examine relationships among microbial diversity tree species and 
+soil characteristics the same soil samples were also used for quantitative pcr to quantify the archaeal bacterial 
+and fungal community abundance as well as that of specific bacterial genera such as burkholderia and collimonas 
+known for their efficacy in weathering minerals at this experimental site 
+
+results
+chemical and microbial characterization of rhizosphere and bulk soils below beech and norway 
+spruce the chemical analyses of bulk soil bs and rhizosphere soil rs samples are summarized in table  
+a significantly lower ph was measured in the norway spruce rhizosphere ph compared to the bulk soil 
+samples ph p though no difference in ph was observed for the beech bulk and rhizosphere soils 
+ ph for both r and bs significantly more exchangeable potassium was measured in the norway spruce 
+ p and beech p rhizospheres than in their corresponding bulk soil samples and significantly 
+more fe was observed in the norway spruce rhizosphere compared to the bulk soil samples p all 
+the other soil parameters measured did not vary significantly between the two soil compartments r vs bs or 
+between the two tree stands beech vs norway spruce 
+
+at an average total bacterial population size of ± expressed as log s rrna gene copies per gram 
+of soil did not differ significantly between the different tree stands or their soil compartments fig   archaea 
+
+origin ph
+
+c n
+
+c n
+
+k ca fe mg mn na h al eaa cecb
+
+g kg cmolc kg
+
+nw r a a a a a b a a a a a a a a a
+
+nw bs b a a a c a b a a a b a a a
+
+b r b a a a a a b a a a a b a a a
+
+b bs b a a a b c a b a a a a b a a a
+
+table soil chemical analyses performed on the rhizosphere r and bulk soil bs samples collected 
+below the beech b and norway spruce nw stands different letters between terraces a or b indicate 
+significant differences according to a one factor anova and a bonferronie dunn test p aea 
+exchangeable acidity bcec cationic exchange capacity 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+accounted for – of the total prokaryotes in the norway spruce samples and to in the beech sam 
+ples though there was no significant difference in archaeal density according to tree species average log value 
+of ± fungi were significantly more abundant in the beech stand ± p than in the 
+norway spruce stand ± but no rhizosphere effect was observed quantification of burkholderia 
+revealed a significant enrichment of this bacterial genus in the beech b r ± vs b bs ± 
+p and norway spruce nw r ± vs nw bs ± p rhizospheres compared 
+to the bulk soil samples with significantly more burkholderia detected in the norway spruce rhizosphere than 
+in the beech rhizosphere p quantification of collimonas revealed an enrichment of this bacterial genus 
+in the norway spruce rhizosphere compartment nw r ± vs nw bs ± p and 
+analysis of the ratio collimonas total bacterial community revealed that these values were significantly higher 
+in both the beech and norway spruce rhizospheres than in the surrounding bulk soil 
+
+pyrosequencing data analyses we obtained a total of reads for the beech and norway spruce 
+rhizosphere and bulk soil samples collected after quality treatment we obtained reads for archaea 
+ reads for bacteria and and reads for fungal its and s rrna respectively table s for 
+each tree stand considered the soil cores were not sampled to saturation because rarefaction analysis showed no 
+significant differences between the rhizosphere and bs samples figure s for the same number of sequences a 
+higher number of archaeal and bacterial otus were observed in the beech bs samples conversely a higher num 
+ber of fungal otus were observed in the norway spruce samples using both s rrna and its meta barcoding 
+approaches notably for all microbial communities considered the norway spruce bs and r samples harbored a 
+similar number of otus non parametric analyses also confirmed this trend although diversity shannon and 
+richness chao estimators did not permit differentiation among most of the microbial communities a signifi 
+cantly higher shannon value h’ was observed for fungal its in the beech bs samples h’ compared to the 
+r samples h’ p table s 
+
+taxonomic distribution and relationship with soil parameters a total of bacterial phyla were 
+detected in the soil samples collected in the beech and norway spruce stands though only five presented an aver 
+age abundance greater than both tree stands appeared to be dominated by acidobacteria for beech 
+and for norway spruce proteobacteria for each actinobacteria for beech and for norway 
+spruce verrucomicrobia for each and bacteroidetes for beech and for norway spruce fig   
+approximately of the sequences from both stands remained unclassified 
+
+almost all of the archaeal sequences detected in the soil or rhizosphere samples belong to phylum 
+thaumarchaeota however as thaumarchaeota is a poorly characterized archaeal phylum the taxonomy 
+of approx of the thaumarchaeota sequences could not be determined fig   the remaining formed a 
+cluster closely related to order nitrososphaerales the large majority of non thaumarchaeal sequences are affiliated 
+with euryarchaeota for norway spruce and for beech particularly with the thermogymnomonas 
+genus of thermoplasmatales the remaining sequences are related to the desulfurococcales family of 
+crenarchaeota the diversity of archaea appeared very limited with the two largest otus regrouping and 
+ of all the archaeal sequences notably the major otus represented by more than sequences 
+accounted for approx of the archaeal sequences found 
+
+regarding fungal communities dominant taxa were detected within the same range of abundance for both 
+the its and rrna approaches fig   this analysis showed a dominance of basidiomycota for norway 
+spruce and for beech and ascomycota for spruce and for beech notably zygomycota for 
+each stand were detected only by the its approach whereas phyla such as chytridiomycota for spruce 
+and for beech blastocladiomycota for norway spruce and for beech and cryptomycota 
+for spruce and for beech were only detected using the s rrna approach 
+
+figure quantification of specific taxa by quantitative pcr conditions presenting different letters are 
+significantly different according to a one factor anova and tukey post hoc test p treatments are 
+presented as follows b bs beech bulk soil b r beech rhizosphere nw bs norway spruce bulk soil 
+nw r norway spruce rhizosphere 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+according to global mantel tests the relationships between soil parameters and the relative distribution of 
+sequences among the archaeal bacterial and fungal communities revealed no significant correlations when each 
+tree stand was considered independently or when a combined analysis of the two tree stands was performed 
+however a detailed analysis based pearson correlations revealed significant correlations between the distribu 
+tions of specific taxa among the archaeal bacterial and fungal communities and certain soil parameters table  
+
+tree species affects the structure and composition of soil microbial communities according 
+to anova tests no statistically significant differences were observed for bacteria at the phylum and class lev 
+els this absence of tree species effect was confirmed by multivariate analysis revealing that the rhizosphere 
+and bulk soil samples grouped separately regardless of tree species figure s however the bacterial com 
+munities did appear to be significantly impacted by tree species at lower phylogenetic levels indeed at the 
+
+figure relative distribution of the main taxa detected among the archaeal bacterial and fungal 
+communities in the beech b bs bulk soil b r rhizosphere and norway spruce nw bs bulk soil 
+nw r rhizosphere a bacteria b archaea c fungal communities based on its marker and d fungal 
+communities based on s rrna gene marker for the s rrna results the non fungal and apicomplexa 
+sequences detected have been grouped in a category named other relative distribution was determined using 
+the mean of biological replicates for each tree species and soil compartment considered 
+
+marker phylum ph n c k al ca fe mg h 
+
+ s rrna bacteria acidobacteria − 
+
+bacteroidetes 
+
+chloroflexi − 
+
+gemmatimonadetes − 
+
+nitrospira − 
+
+ s rrna archaea crenarchaeota − 
+
+fungal its ascomycota − 
+
+basidiomycota − 
+
+chytridiomycota − 
+
+fungal s rrna ascomycota − 
+
+cryptomycota 
+
+basidiomycota − 
+
+table presentation of the significant pearson correlations among microbial taxa distribution at the 
+phylum level and the soil parameters correlation was done considering all the samples n and using the 
+relative distribution of the sequences correlation scores are presented with asterisk according to the p value 
+ p p p 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+order level sphingobacteriales and enterobacteriales were significantly enriched in the beech soil samples 
+ sphingomonadales ± vs ± p enterobacteriales ± vs ± 
+p as observed at the family level for enterobacteriaceae b nw ± vs ± 
+p sphingomonadaceae b nw ± vs ± p xanthomonadaceae b nw 
+ ± vs ± p and sinobacteraceae nw b  ±  vs  ±  p 
+we further analyzed the bacterial communities at the genus level and observed that rhodanobacter steroidobacter 
+and flavitalea varied in abundance depending on the tree species rhodanobacter was significantly enriched 
+below beech b ± vs nw ± p and steroidobacter and flavitalea below norway 
+spruce steroidobacter nw ± vs b ± p flavitalea nw ± vs 
+b ± p notably collimonas was found to be a rare genus and was mainly detected in the 
+beech soil pyrosequencing data a total of distinct otus including singletons were generated using a 
+threshold of among them otus increased significantly in the norway spruce as well as beech soil sam 
+ples this effect of tree species was also confirmed by an analysis of similarities anosim r and p 
+performed at the otu level 
+
+for archaea no statistically significant differences were observed between the beech and norway spruce sam 
+ples at any taxonomic level from phylum to otu based on anova analyses however anosim analysis 
+revealed significant differences in term of structure between the two tree stands r and p this tree 
+species effect is presented in figure s notably members of thermoplasmatales were systematically enriched in 
+the beech samples and of sequences for the rhizosphere and bulk soil respectively in comparison 
+to the norway spruce samples and of sequences for the rhizosphere and bulk soil respectively 
+
+for fungi the s rrna and its pyrosequencing approaches gave similar trends even though specific taxa 
+were only detected using only one of the two marker genes the tree species effect was confirmed by multivariate 
+analysis figures s and s at the phylum level only the s rrna approach revealed a significant enrichment 
+of basidiomycota below beech compared to norway spruce p at the class level both approaches revealed 
+a significant enrichment of agaromycetes under beech and more members of tremellomycetes were found to 
+be associated with norway spruce the s rrna approach also revealed enrichment of leotiomycetes and 
+saccharomycetes under norway spruce significant differences were also observed at the order family and genus 
+levels with several fungal genera appearing to be enriched below one tree species for example the beech stand 
+showed enrichment in scleroderma russula dendrocollybia laccaria gyromitra and pleurocybella sequences 
+whereas boletus cryptococcus asterotremella jaapia thelephora candida and archaeorhizomyces were enriched 
+in the norway spruce stand analyses performed at the otu level revealed significant enrichment of sequences 
+related to scleroderma citrinum russula spp and amanita rubescens in the beech stand and of sequences related 
+to atheliales sp and amanita sp in the norway spruce stand notably the s rrna approach revealed enrich 
+ment of species not detected by the its approach or with no significant differences between the two tree species 
+such as xerocomellus sp russula exalbicans pyxidiophora arvernensis and inocybe sp this host preference or 
+selectivity was also confirmed by an analysis of similarities anosim performed at the otu level on s rrna 
+ r and p and its r and p sequences confirming the anova results obtained at 
+the different phylogenetic levels presented above 
+
+structure and composition of rhizosphere and bulk soil microbial communities to determine 
+the selective effect of the rhizosphere habitat on bacterial archaeal and fungal communities the sequences gener 
+ated from the norway spruce and the beech soil samples were analyzed independently from the phylum to otu 
+levels for each tree species no significant difference between beech and norway spruce bulk soil and rhizosphere 
+samples was observed for bacteria at the phylum level anova and anosim p however multivar 
+iate analysis separated the rhizosphere and bulk soil samples in each tree stand figure s at the class level 
+the beech rhizosphere samples were significantly enriched in sphingobacteria p b r ± vs 
+b bs ± and betaproteobacteria p b r ± vs b bs ± in the 
+norway spruce soil samples the rhizosphere was significantly enriched in armatimonadia nw r ± 
+vs nw bs ± p and in bacteroidetes in bulk soil nw bs ± vs 
+nw r ± p at the order level the beech rhizosphere was significantly enriched in 
+representatives of burkholderiales p and sphingobacteriales p rhizobiales was significantly 
+enriched in the bulk soil samples for both tree species p at the family level xanthobacteraceae was sig 
+nificantly enriched in the norway spruce soil p and armatimonadaceae in the rhizosphere p 
+sphingomonadaceae b r b bs p comamonadaceae b r b bs p nocardiaceae 
+ b r b bs p and burkholderiales incertae sedis b r b bs p were significantly enriched 
+in the beech rhizosphere compared to the surrounding bulk soil at the genus level however few genera were 
+significantly different between the soil and rhizosphere habitats with significant differences only observed in the 
+norway spruce samples whereby pseudolabrys was increased in the bulk soil p and armatimonas in 
+the rhizosphere p the burkholderia genus was non significantly enriched in the rhizosphere of both 
+tree species p at the otu level the rhizosphere and bulk soil bacterial communities were very sim 
+ilar anosim p for both tree species showing that the differences between the rhizosphere and bulk 
+soil compartments were mainly due to variations in the abundance of specific taxa only few otus assigned 
+to acidobacteria gammaproteobacteria and bacteroidetes appeared to be significantly structured according to 
+habitat this high similarity between rhizosphere and bulk soil taxa was also confirmed by anosim analysis 
+performed at the otu level p below beech and p below norway spruce 
+
+for archaeal communities no statistically significant differences at any taxonomical level between the rhiz 
+osphere and bulk soil compartment were detected using anova p for each taxa tested and anosim 
+ p analyses and this absence of structure was confirmed by multivariate analysis figure s however 
+members of methanosarcinales were more abundant in the beech and norway spruce rhizospheres than in their 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+related bulk soils b r and nw r vs b bs and nw bs of all sequences for 
+the rhizosphere and bulk soil respectively and nitrosophaerales was more abundant in the norway spruce 
+rhizosphere compared to the bulk soil samples vs respectively this trend was not observed in 
+the beech samples 
+
+for fungi both the s rrna and its approaches revealed a very limited rhizosphere effect indeed no 
+differences were observed at the phylum and class levels though multivariate analyses tended to separate the 
+rhizosphere and bulk soil samples under each tree stand figures s and s the s rrna molecular marker 
+revealed a significant enrichment of sequences assigned to glomerales in the bulk soil compared to the rhizos 
+phere of norway spruce in nw bs vs in nw r p at the same phylogenetic level the 
+its marker revealed a significant enrichment of boletales in the beech rhizosphere in b r vs in 
+b bs p at the family level sequences assigned to sclerodermataceae were enriched in the beech rhiz 
+osphere using both markers s rrna in b r vs in b bs p its in b r vs in 
+b bs p notably this enrichment was confirmed for the two molecular markers at the genus and otu 
+levels showing that scleroderma citrinum was significantly enriched in the beech rhizosphere p other 
+species appeared to be enriched in the bulk soil including mortierellales sp or amanita pantherina below beech 
+and inocybe sp and jaapia argillacea below norway spruce a global analysis performed at the otu level also 
+confirmed strong similarities of the rhizosphere and bulk soil fungal communities using the s rrna and its 
+approaches anosim p with s rrna and p for its 
+
+discussion
+understanding how tree species affect the distribution of soil microbial communities should allow for a better 
+comprehension of forest ecosystem functioning and sustainability such knowledge is particularly important for 
+nutrient poor soils in which different tree species will potentially employ different strategies to access the nutri 
+ents required for their growth notably by selecting specific microbial taxa within the vicinity of their roots in 
+this study we hypothesized that deciduous beech and evergreen norway spruce tree species of the same age 
+and developing in the same soil will enrich specific taxa from the soil reservoir within the vicinity of their root 
+system 
+
+although the impact of plant species on soil microbial communities is widely documented – few 
+studies have been performed on tree associated microbial communities however such surveys are essential 
+because by modifying the soil chemistry ph nitrogen and cations availability and microbial biomass and activ 
+ity trees have a long term impact on the environment compared to plants with a shorter lifetime in the last 
+decade high throughput sequencing approaches have been applied to decipher the diversity and composition of 
+bacterial and fungal communities in relation to tree species under field and microcosm conditions yet 
+such analyses remain rare furthermore the compartment effect i e rhizosphere vs bulk soil has never analyzed 
+together for the various types of microorganisms in our study we utilized quantitative pcr and high throughput 
+sequencing to reveal quantitative and qualitative affects on archaeal bacterial and fungal communities below 
+stands of two trees and across soil compartments rhizosphere vs bulk soil 
+
+by analyzing together archaeal bacterial and fungal communities in the same samples bulk soil and rhizos 
+phere below each tree stand we demonstrated that these communities have been impacted in by their environ 
+ment in different ways notably we observed that the structure and density of fungal communities were strongly 
+determined by tree species and poorly by compartment rhizosphere vs bulk soil interestingly buée et al 
+employed sporophore inventory to show at the same experimental site significant host preferences between conif 
+erous and deciduous trees although this method offered a relatively biased picture of the true underground 
+fungal diversity it did permit discrimination between the two tree stands the impact in our study was observed 
+using both its and s rrna based approaches showing the robustness of our analyses similarly the structure 
+of the archaeal communities appeared to be related to the tree species and not to the soil compartment together 
+our results suggest that fungal and archaeal communities are more strongly related to the conditions occurring 
+in each stand such as edaphic parameters or litter chemistry interestingly bomberg and timonen revealed in 
+a boreal forest soil that the structure and richness of archaeal communities on mycorrhizal roots differ from that 
+on non mycorrhizal roots suggesting a potential impact of symbiotic fungi on archaeal communities however 
+karlsson et al showed that this impact varies when examining one symbiotic fungus associated with a different 
+tree species in contrast bacterial communities appear not to be determined by tree species but by their ecolog 
+ical habitat indeed in our study the rhizosphere bacterial communities under each tree species were different 
+from those of the surrounding soil uroz et al also revealed differentiation among rhizosphere and bulk soil 
+bacterial communities below an oak stand at the same experimental site interestingly by comparing litter and 
+soil bacterial and fungal communities in mixed forest urbanova et al also suggested that the structures of 
+fungal and bacterial communities were not determined by the same drivers although their experimental design 
+did not consider rhizosphere and bulk soil compartments these authors suggested that fungal communities are 
+strongly related to tree species and bacterial communities to root exudates in our study correlation analyses 
+revealed higher scores for soil parameters such as ph c n and exchangeable fe for fungi compared to bacteria 
+and archaea together our data show that archaeal bacterial and fungal communities are not driven by the same 
+environmental parameters 
+
+a specific focus on the rhizosphere compartment revealed minimal affects on microbial communities indeed 
+quantitative pcr revealed no difference between the rhizosphere and bulk soil compartments for total archaea 
+bacteria and fungi however s rrna pyrosequencing and qpcr analyses performed on specific bacterial taxa 
+known for their ability to mobilize nutrients such as burkholderia and collimonas showed significant enrich 
+ment in both the beech and norway spruce rhizospheres these two bacterial genera have been shown to be very 
+effective at solubilizing minerals thus increasing plant tree health and nutrition moreover the enrichment 
+in these two genera observed in our study is in agreement with the results obtained by a cultivation dependent 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+approach to compare the mineral weathering ability of soil and rhizosphere bacteria performed at the same 
+experimental site at the same sampling time and below the same tree stands indeed collignon et al revealed 
+that rhizosphere bacteria in both beech and norway spruce stands are significantly more effective at weathering 
+minerals than are those from the surrounding bulk soil of note phylogenetic affiliation highlighted a dominance 
+of burkholderia strains especially in the norway spruce stand such enrichment within the root vicinity has also 
+been reported in previous studies at the same forest site showing the stability of this selection in addition 
+calvaruso et al showed by a culture dependent approach that the rhizosphere effect is tree species dependent a 
+comparison of the pyrosequencing data generated in this study for beech and norway spruce with those obtained 
+at the same experimental site below oak revealed a similar significant enrichment of burkholderia in the oak 
+rhizosphere but also a tree species effect differentiating oak beech and norway spruce associated bacterial 
+communities altogether the data generated in our study suggest that the different tree species examined select 
+specific bacterial taxa that are effective at weathering minerals especially beech 
+
+unlike the well described functional role of bacterial communities the role of archaea in soil remains to be 
+determined indeed these communities represent an important proportion of soil prokaryotes detected in our 
+study giving a similar ratio bacteria archaea of the prokaryotes to that previously reported in acidic forest 
+soils – and particularly in the forest soil of breuil chenue specific archaeal taxa have been suggested to be 
+important ammonia oxidizing organisms under acidic conditions although taxonomic resolution remains 
+limited for soil archaea our analysis revealed that approximately of the archaeal s rrna generated are 
+strongly related to nitrosotalea devanaterra a recently described obligate acidophilic ammonia oxidizer this 
+organism’s optimal growth conditions are within a ph range of to which corresponds to the ph conditions 
+occurring at the experimental site of breuil chenue ph to the presence of this archaeal taxon and 
+the lack of detection of bacterial s rrna sequences affiliated with ammonia oxidizing bacteria nitrosomonas 
+nitrospira in our dataset suggest that archaeal communities may contribute to ammonia oxidation at the 
+breuil chenue experimental site 
+
+finally regarding fungal communities it was difficult to assess the impact of the environmental parame 
+ters tested nevertheless our results clearly showed the involvement of symbiotic ectomycorrhizal fungal spe 
+cies in host preference with a non stochastic distribution of fungal species from the following genera amanita 
+inocybe russula and scleroderma these data fit very well with those obtained at the same experimental site using 
+sporocarp surveys mycorrhizal tip collection and amplicon pyrosequencing moreover multifactorial anal 
+yses based on s and its taxonomic assignments revealed a stronger host specificity for archaeorhizomyces 
+this large fungal class placed within subphylum taphrinomycotina in ascomycota is largely distributed at the 
+global scale but is intimately associated with conifer roots 
+
+conclusion
+the experimental site of breuil chenue which is characterized by mono specific stands planted in one location 
+with different tree species including fagus sylvatica picea abies of the same age was ideal for testing the tree 
+host effect on soil microbial communities we combined soil analyses quantitative pcr and pyrosequencing to 
+show that different tree species growing in the same soil qualitatively and quantitatively impact their soil micro 
+biota our data confirmed previous data obtained by a cultivation dependent approach highlighting the impor 
+tance of characterizing soil microbial communities by both cultivation dependent and independent approaches 
+for the first time we characterized the forest soil archaeal biome and showed it to be an important compartment 
+of the soil microbiome despite the lack of attention to date the fact that the archaeal biome is dominated by 
+thaumarchaea and that these archaea are involved in the recycling of nitrogen highlighted the need to consider 
+soil archaea in future studies this work provides new data to support the hypothesis that tree species differen 
+tially impact soil microbial communities with archaea and fungi being more strongly determined by tree species 
+and bacteria showing a stronger rhizosphere effect these results fit very well with the conclusions obtained by 
+urbanova et al who suggested that fungal communities are more affected by tree species than are communities 
+of bacteria future studies are required to determine how active communities are differently impacted and how 
+they evolve from one season to the next 
+
+material and methods
+study site and sampling soil samples were collected at the breuil chenue experimental forest site 
+ morvan ° ′n ° ′e france the forest is situated on a plateau at an elevation of m the native forest was 
+clear felled in and replaced by mono specific plantations distributed in independent plots of ha the 
+soil is classified as typic dystrochrept usda developed on “pierre qui vire” granite the soil and rhizos 
+phere are characterized by ph values ranging from to on september a total of n soil cores of 
+ × × cm dimensions were collected throughout the beech b fagus sylvatica l and norway spruce nw 
+picea abies karst stands the two tree stands are separated by approx m each soil core in each tree stand was 
+spatially distant from another of approx m distance in each tree stand three distant soil cores were collected 
+in the mineral horizon to cm deep after removing forest floor debris the separation of the soil samples 
+into bulk soil bs samples n for each tree stand and rhizosphere r samples n for each tree stand was 
+performed in the lab with a total of samples treated independently after roots were carefully separated from 
+the soil the remaining soil was considered to be bulk soil the soil strongly associated with the root system was 
+collected and considered as rhizosphere soil 
+
+soil chemical analyses for chemical analyses all soil samples were sieved at μm and homogenized 
+after oven drying °c exchangeable cations were extracted in either m kcl mg ca na fe mn 
+or m nh cl k according to espiau and peyronel and determined by icp aes jy ultrace the 
+ m kcl extract was also titrated using an automatic titrimeter mettler ts dl to assess exchangeable h and 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+al total carbon c and nitrogen n contents both obtained after combustion at °c were determined 
+using a thermo quest type ncs analyzer the ph of the soil samples was measured in h o at a soil to solu 
+tion ratio of ph meter mettler tsdl exchangeable acidity ea was calculated by taking the sum of h 
+and al the cation exchange capacity cec was calculated by taking the sum of both extracted exchangeable 
+base cations and exchangeable acidity base saturation bs is the percentage of exchangeable base cations in the 
+cec bs mg ca na k fe mn cec 
+
+dna extraction and quantitative pcr for molecular analyses all soil samples were sieved at mm 
+and homogenized total dna was extracted from the soil samples using the powersoil dna isolation kit 
+ mo bio laboratories inc carlsbad ca usa the samples were treated according to the manufacturer’s 
+instructions dna was quantified on a agarose gel by comparison with a low dna mass ladder invitrogen® 
+total dna was used to quantify the total archaeal bacterial and fungal communities using archaeal and bacterial 
+ s and s rrna gene specific primers μm each f r f r and fung f ff r respec 
+tively and sybrgreen detection iq sybrgreen supermix biorad four step cycles sec at °c sec at 
+the specific annealing temperature sec at °c and fluorescence acquisition at °c amplification protocols 
+were performed using previously described protocols with annealing temperatures of °c for bacteria °c 
+for fungi and °c for archaea absolute quantifications were performed using serial dilutions of standard 
+plasmids containing archaeal or bacterial s rdna or fungal s rdna inserts from to gene copies μl 
+we used the collimonas specific taqman assay for collimonas quantification and burk and burkr primers 
+for that of burkholderia the population sizes of total bacteria burkholderia or collimonas are expressed as log 
+ number of s rrna gene copies per gram dry weight soil 
+
+pcr and pyrosequencing amplicon libraries were performed as recommended for pyrosequenc 
+ing using a combination of two barcoded primers for archaea the primers used were f ′ xxxgcy 
+taa ags ric cgt agc ′ and r ′ xxxgct ccc ccg cca att c ′ to generate pcr fragments 
+of ca bp for bacteria the primers used were r ′ xxxattagat accytgtagtcc ′ and f 
+ ′ xxxacgagctgacgacarccatg ′ to generate pcr fragments of ca bp for fungi the its 
+and s rrna regions were amplified using its f ′ xxxcttggtcatttagaggaagtaa ′ and its 
+ ′ xxxgctgcgttcttcatcgatgc ′ and f ′ xxxttagcatggaataatrraatagga ′ and 
+ r ′ xxxtctggacctggtgagtttcc ′ where xxx is a identification barcoding key the pcr were 
+performed using ng of genomic dna as template the pcr conditions used were °c for min cycles 
+of °c s denaturation °c min annealing and °c min s extension followed by °c min 
+ten separate amplification reactions of μl for each sample were pooled and purified as recommended using 
+qiaquick pcr purification columns qiagen the amplicon length and concentration was estimated and all 
+amplicon libraries were mixed to achieve a ratio of bacterial sequences to archaeal fungal sequences this 
+mix was used for pyrosequencing on the genome sequencer gs flx system roche at beckman coulter 
+genomics danvers ma usa which resulted in reads details are provided in table s which passed 
+the length and quality criteria 
+
+bioinformatic analyses dna sequences were processed using the trim seqs command of mothur 
+ average quality score of allowing mismatches in the primer and in the identification barcoding key 
+sequences from forward and reverse primers were sorted according to their primer sequences using the trim seqs 
+and split groups commands of mothur sequences from reverse primers were then converted into their reverse 
+complements all the sequences were aligned at the start of the forward primer sequence for each amplicon 
+type sequences were sorted according to a minimum and maximum size bacteria to bp archaea 
+to bp fungal s rrna to bp using the trim seqs command of mothur for dikarya sequences the 
+internal transcribed spacer its region was extracted using fungal its x extractor and sequences shorter 
+than bp were removed 
+
+for each organism type considered all sequences were pooled and sorted by decreasing length as recom 
+mended for usearch clustering operational taxonomic units otus were generated from these reads using the 
+cluster smallmem command of usearch v at a similarity threshold phylogenetic assignment was 
+determined for each otu representative sequence consensus sequence using the basic local alignment search 
+tool blast algorithm v against the ribosomal data project rdp database release for bacterial 
+and archaeal sequences for fungi the phylogenetic assignment was determined against unite database release 
+ and the ncbi all assignation were determined using a minimum e value cut off of e 
+
+for each organism type considered matrices containing the sequence abundances of different otus in each 
+soil sample were created to make comparable samples with different number of sequences generated for each 
+sample and each organism type details provided in table s matrices were subsampled with a same number of 
+sequences for each soil sample using the sub sample command of mothur this number of sequences was deter 
+mined to conserve a minimum of three independent replicates for each treatment considered in the study this 
+subsampling procedure allowed considering sequences for bacteria for archaea and for fun 
+gal its and s rrna respectively for archaea one replicate reached only sequences spruce rhizosphere 
+and was not considered for otu and richness index calculations 
+
+statistical analysis quantification data from quantitative pcr were compared as log gene copy using a 
+student t test the effect of the tree species or soil compartment on the abundance of the different taxa or genera 
+considered was tested by anova analyses to determine the taxonomic differences between the niche bulk soil 
+or rhizosphere and of the tree stand beech or norway spruce analysis of variance anova at a threshold level 
+of p and by the fisher test were applied on the relative distribution values after an arcsine transformation 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+mantel tests permutations pearson correlations were performed to test correlations between soil param 
+eters and phylum distribution of each organism type based on bray curtis distance dissimilarity matrices all sta 
+tistical analyses were performed using the xlstat software addinsoft paris france analyses of similarity 
+ anosim based on bray curtis distances and principal coordinate analysis pcoa were performed at the otu 
+level using mothur for each type of microorganism considered 
+
+references
+ karlsson a e johansson t bengtson p archaeal abundance in relation to root and fungal exudation rates fems microbial 
+
+ecol – 
+ jeanbille m et al soil parameters drive the structure diversity and metabolic potentials of the bacterial communities across 
+
+temperate beech forest soil sequences microb ecol – 
+ lauber c l hamady m knight r fierer n pyrosequencing based assessment of soil ph as a predictor of soil bacterial 
+
+community structure at the continental scale appl env microbial – 
+ marschner p crowley d yang c h development of specific rhizosphere bacterial communities in relation to plant species 
+
+nutrition and soil type plant and soil – 
+ uroz s tech j j sawaya n a frey klett p leveau j h j structure and function of bacterial communities in ageing soils 
+
+insights from the mendocino ecological staircase soil biol biochem – 
+ yu z yang j yu x liu l tian y aboveground vegetation influences belowground microeukaryotic community in a 
+
+mangrove nature reserve wetlands – 
+ wang h et al temporal and spatial variations of greenhouse gas fluxes from a tidal mangrove wetland in southeast china environ 
+
+sci pollut res – 
+ ayres e et al tree species traits influence soil physical chemical and biological properties in high elevation forests plos one 
+
+e 
+ augusto l ranger j binkley d rothe a impact of several common tree species of european temperate forests on soil fertility 
+
+an of for sci – 
+ cesarz s et al roots from beech fagus sylvatica l and ash fraxinus excelsior l differentially affect soil microorganisms and 
+
+carbon dynamics soil biol biochem – 
+ andrianarisoa k s et al control of nitrification by tree species in a common garden experiment ecosystems – 
+
+ 
+ lynch j m whipps j m substrate flow in the rhizosphere in the rhizosphere and plant growth pp – springer netherlands 
+
+ 
+ oger p petit a dessaux y genetically engineered plants producing opines alter their biological environment nat biotech 
+
+ – 
+ philippot l raaijmakers j m lemanceau p van der putten w h going back to the roots the microbial ecology of the 
+
+rhizosphere nat rev microbiol – 
+ calvaruso c et al forest trees influence distribution of the mineral weathering bacterial communities from the scleroderma 
+
+citrinum mycorrhizosphere appl environ microbiol – 
+ collignon c uroz s turpault m p frey klett p seasons differently impact the structure of mineral weathering bacterial 
+
+communities in beech and spruce stands soil biol biochem – 
+ puente m e bashan y li c y lebsky v k microbial populations and activities in the rhizoplane of rock weathering desert 
+
+plants i root colonization and weathering of igneous rocks plant biol – 
+ uroz s et al effect of the mycorrhizosphere on the genotypic and metabolic diversity of the bacterial communities involved in 
+
+mineral weathering in a forest soil appl environ microbiol – 
+ uroz s buée m murat c frey klett p martin f pyrosequencing reveals a contrasted bacterial diversity between oak 
+
+rhizosphere and surrounding soil environ microbiol rep – 
+ deangelis k m et al selective progressive response of soil microbial community to wild oat roots isme j – 
+ mendes l w et al soil borne microbiome linking diversity to function microb ecol – 
+ lemanceau p et al effect of two plant species flax linum usitatissinum l and tomato lycopersicon esculentum mill on the 
+
+diversity of soilborne populations of fluorescent pseudomonads appl environ microbiol – 
+ trivedi p et al huanglongbing alters the structure and functional diversity of microbial communities associated with citrus 
+
+rhizosphere isme j – 
+ cho i blaser m j the human microbiome at the interface of health and disease nat rev genet – 
+ landeweert r hoffland e finlay r d kuyper t w van breemen n linking plants to rocks ectomycorrhizal fungi mobilize 
+
+nutrients from minerals trends in ecol evol – 
+ berg g smalla k plant species and soil type cooperatively shape the structure and function of microbial communities in the 
+
+rhizosphere fems microbiol ecol – 
+ bonito g et al plant host and soil origin influence fungal and bacterial assemblages in the roots of woody plants mol ecol 
+
+ – 
+ bulgarelli d et al structure and functions of the bacterial microbiota of plants an rev plant biol – 
+ dias a c f et al different selective effects on rhizosphere bacteria exerted by genetically modified versus conventional potato 
+
+lines plos one 
+ lang c seven j polle a host preferences and differential contributions of deciduous tree species shape mycorrhizal species 
+
+richness in a mixed central european forest mycorrhiza – 
+ chaparro j m badri d v vivanco j m rhizosphere microbiome assemblage is affected by plant development isme j 
+
+ – 
+ bakker m g manter d k sheflin a m weir t l vivanco j m harnessing the rhizosphere microbiome through plant 
+
+breeding and agricultural management plant and soil – 
+ gundale m j et al interactions with soil biota shift from negative to positive when a tree species is moved outside its native range 
+
+new phytol – 
+ fierer n et al metagenomic and small subunit rrna analyses reveal the genetic diversity of bacteria archaea fungi and viruses in 
+
+soil appl environ microbial – 
+ rasche f et al seasonality and resource availability control bacterial and archaeal communities in soils of a temperate beech forest 
+
+isme j – 
+ urbanová m Šnajdr j baldrian p composition of fungal and bacterial communities in forest litter and soil is largely determined 
+
+by dominant trees soil biol biochem – 
+ uroz s et al functional assays and metagenomic analyses reveals differences between the microbial communities inhabiting the 
+
+soil horizons of a norway spruce plantation plos one e 
+ leveau j h uroz s de boer w the bacterial genus collimonas mycophagy weathering and other adaptive solutions to life in 
+
+oligotrophic soil environments env microbiol – 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+ chapin f s the mineral nutrition of wild plants annu rev ecol syst – 
+ marschner h mechanisms of adaptation of plants to acid soils plant and soil – 
+ haichar f z et al plant host habitat and root exudates shape soil bacterial community structure isme j – 
+ lejon d p chaussod r ranger j ranjard l microbial community structure and density under different tree species in an acid 
+
+forest soil morvan france microb ecol – 
+ shakya m et al a multifactor analysis of fungal and bacterial community structure in the root microbiome of mature populus 
+
+deltoides trees plos one e 
+ buée m et al influence of tree species on richness and diversity of epigeous fungal communities in a french temperate forest stand 
+
+fung ecol – 
+ bomberg m timonen s effect of tree species and mycorrhizal colonization on the archaeal population of boreal forest 
+
+rhizospheres appl environ microbiol – 
+ uroz s et al efficient mineral weathering is a distinctive functional trait of the bacterial genus collimonas soil biol biochem 
+
+ – 
+ kemnitz d kolb s conrad r high abundance of crenarchaeota in a temperate acidic forest soil fems microbial ecol 
+
+ – 
+ shen j p cao p hu h w he j z differential response of archaeal groups to land use change in an acidic red soil sci of tot 
+
+environ – 
+ gubry rangin c nicol g w prosser j i archaea rather than bacteria control nitrification in two agricultural acidic soils 
+
+fems microbiol ecol – 
+ lehtovirta morley l e stoecker k vilcinskas a prosser j i nicol g w cultivation of an obligate acidophilic ammonia 
+
+oxidizer from a nitrifying acid soil proc of the nation acad of sci – 
+ buee m et al pyrosequencing analyses of forest soils reveal an unexpectedly high fungal diversity new phytol – 
+
+ 
+ rosling a et al archaeorhizomycetes unearthing an ancient class of ubiquitous soil fungi science – 
+ rosling a timling i taylor d l archaeorhizomycetes patterns of distribution and abundance in soil in genomics of soil and 
+
+plant associated fungi pp – springer berlin heidelberg 
+ ranger j gelhaye d effet de la substitution d’essence sur le fonctionnement et la durabilité des écosystèmes forestiers l’apport 
+
+des travaux pluridisciplinaires menés en forêt de breuil chenue–morvan rev sci bourgogne nature hors série – 
+ espiau p peyronel a l’ acidité d’échange des sols le taux d’acidité d’échange et sa signification pédologique sous climat tempéré 
+
+ in french ann agron – 
+ rouiller j guillet b bruchert b cations acides échangeables et acidité de surface approche analytique et incidences 
+
+pédogénétiques in french sci sol – 
+ baker g c smith j j cowan d a review and re analysis of domain specific s primers j of microbiol meth – 
+
+ 
+ felske a akkermans a d l de vos w m quantification of s rrnas in complex bacterial communities by multiple 
+
+competitive reverse transcription pcr in temperature gradient gel electrophoresis fingerprints appl environ microbiol 
+ – 
+
+ thion c cébron a beguiristain t leyval c pah biotransformation and sorption by fusarium solani and arthrobacter 
+oxydans isolated from a polluted soil in axenic cultures and mixed co cultures intern bioter and biodegrad – 
+
+ cébron a norini m p beguiristain t leyval c real time pcr quantification of pah ring hydroxylating dioxygenase 
+ pahrhda genes from gram positive and gram negative bacteria in soil and sediment samples j microbiol methods – 
+ 
+
+ höppener ogawa s leveau j h smant w van veen j a de boer w specific detection and real time pcr quantification of 
+potentially mycophagous bacteria belonging to the genus collimonas in different soil ecosystems appl environ microbiol 
+ – 
+
+ drigo b van veen j a kowalchuk g a specific rhizosphere bacterial and fungal groups respond differently to elevated 
+atmospheric co isme j – 
+
+ gardes m bruns t d its primers with enhanced specificity for basidiomycetes‐application to the identification of mycorrhizae 
+and rusts mol ecol – 
+
+ white t j bruns t lee s j w t taylor j w amplification and direct sequencing of fungal ribosomal rna genes for 
+phylogenetics pcr protocols a guide to methods and applications – 
+
+ rousk j et al soil bacterial and fungal communities across a ph gradient in an arable soil isme j – 
+ schloss p d et al introducing mothur open source platform independent community supported software for describing and 
+
+comparing microbial communities appl environ microbiol – 
+ bengtsson palme j et al improved software detection and extraction of its and its from ribosomal its sequences of fungi and 
+
+other eukaryotes for analysis of environmental sequencing data meth in ecol and evol – 
+ edgar r c search and clustering orders of magnitude faster than blast bioinformatics – 
+ altschul s f gish w miller w myers e w lipman d j basic local alignment search tool j of mol biol – 
+
+ 
+ cole j r et al the ribosomal database project improved alignments and new tools for rrna analysis nucleic acids res 
+
+d – 
+ kõljalg u et al towards a unified paradigm for sequence‐based identification of fungi mol ecol – 
+
+acknowledgements
+this work was funded by grants from the anr jcjc svse ‘bactoweather’ the ec co program and a 
+bilateral hubert curien van gogh travel grant the authors thank dr s höppener ogawa for technical assistance 
+and drs f martin for helpful discussions and j ranger for giving access to the experimental site of breuil 
+chenue we also thank dr a legout for the scientific management of the experimental site the umr is 
+supported by the french agency through the laboratory of excellence arbre anr labx we 
+thank c cochet for technical support for soil analyses the english language was reviewed by american journal 
+experts certificate ac f fb a ec the authors thank reviewers and for their helpful 
+comments to improve and clarify our manuscript 
+
+author contributions
+s u p f k m p t and p o conceived and designed the study performed the field and laboratory work s u e t 
+a c and p o analyzed the data s u a c p o and m b wrote the paper s u p o a c j h l and w d b all 
+authors reviewed and edited the manuscript and also provided input for the discussion 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi srep 
+
+additional information
+accession codes the sequences generated in this study have been deposited on the sequence read archive 
+ sra sra ftp private ncbi nlm nih gov service of the genbank database under the accession numbers 
+biosample sub and bioproject prjna 
+supplementary information accompanies this paper at http www nature com srep
+competing financial interests the authors declare no competing financial interests 
+how to cite this article uroz s et al specific impacts of beech and norway spruce on the structure and 
+diversity of the rhizosphere and soil microbial communities sci rep doi srep 
+
+this work is licensed under a creative commons attribution international license the images 
+or other third party material in this article are included in the article’s creative commons license 
+
+unless indicated otherwise in the credit line if the material is not included under the creative commons 
+license users will need to obtain permission from the license holder to reproduce the material to view a copy 
+of this license visit http creativecommons org licenses by 
+
+mailto sra ftp private ncbi nlm nih gov
+http www nature com srep
+http creativecommons org licenses by 
+
+	specific impacts of beech and norway spruce on the structure and diversity of the rhizosphere and soil microbial communitie 
+	results
+	chemical and microbial characterization of rhizosphere and bulk soils below beech and norway spruce 
+	pyrosequencing data analyses 
+	taxonomic distribution and relationship with soil parameters 
+	tree species affects the structure and composition of soil microbial communities 
+	structure and composition of rhizosphere and bulk soil microbial communities 
+
+	discussion
+	conclusion
+	material and methods
+	study site and sampling 
+	soil chemical analyses 
+	dna extraction and quantitative pcr 
+	pcr and pyrosequencing 
+	bioinformatic analyses 
+	statistical analysis 
+
+	acknowledgements
+	author contributions
+	﻿figure ﻿﻿ ﻿﻿ ﻿ quantification of specific taxa by quantitative pcr 
+	﻿figure ﻿﻿ ﻿﻿ ﻿ relative distribution of the main taxa detected among the archaeal bacterial and fungal communities in the beech b bs bulk soil b r rhizosphere and norway spruce nw bs bulk soil nw r rhizosphere 
+	﻿table ﻿﻿  ﻿ soil chemical analyses performed on the rhizosphere r and bulk soil bs samples collected below the beech b and norway spruce nw stands 
+	﻿table ﻿﻿  ﻿ presentation of the significant pearson correlations among microbial taxa distribution at the phylum level and the soil parameters 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+application pdf
+ 
+ 
+ specific impacts of beech and norway spruce on the structure and diversity of the rhizosphere and soil microbial communities
+ 
+ 
+ 
+ 
+ srep doi srep 
+ 
+ 
+ 
+ 
+ s uroz
+ p oger
+ e tisserand
+ a cébron
+ m p turpault
+ m buée
+ w de boer
+ j h j leveau
+ p frey klett
+ 
+ 
+ doi srep 
+ 
+ 
+ nature publishing group
+ 
+ 
+ 
+ 
+ © nature publishing group
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © macmillan publishers limited
+ srep 
+ 
+ 
+ nature publishing group
+ 
+ 
+ permissions nature com
+ 
+ 
+ 
+ 
+ http dx doi org srep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ doi srep 
+ 
+ 
+ 
+ 
+ srep doi srep 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ true
+ 
+ 
+

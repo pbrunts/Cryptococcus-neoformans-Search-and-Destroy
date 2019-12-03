@@ -1,0 +1,2956 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rev iss web mec 
+
+
+multitaxon activity profiling reveals differential
+microbial response to reduced seawater ph and oil
+pollution
+
+francisco j r c coelho daniel f r cleary rodrigo costa † ‡
+marina ferreira ana r m pol �onia artur m s s ilva § m �ario m q sim oes §
+vanessa oliveira and newton c m gomes 
+
+ department of biology cesam university of aveiro campus de santiago aveiro portugal †centre of marine
+sciences ccmar university of algarve faro algarve portugal ‡institute for bioengineering and biosciences 
+department of bioengineering instituto superior t�ecnico universidade de lisboa lisbon portugal §department of
+chemistry qopna university of aveiro campus universit�ario de santiago aveiro portugal
+
+abstract
+
+there is growing concern that predicted changes to global ocean chemistry will interact
+
+with anthropogenic pollution to significantly alter marine microbial composition and
+
+function however knowledge of the compounding effects of climate change stressors
+
+and anthropogenic pollution is limited here we used s and s rrna cdna based
+
+activity profiling to investigate the differential responses of selected microbial taxa to
+
+ocean acidification and oil hydrocarbon contamination under controlled laboratory con 
+
+ditions our results revealed that a lower relative abundance of sulphate reducing bacte 
+
+ria desulfosarcina desulfococcus clade due to an adverse effect of seawater acidification
+and oil hydrocarbon contamination reduced ph–oil treatment may be coupled to
+changes in sediment archaeal communities in particular we observed a pronounced
+
+compositional shift and marked reduction in the prevalence of otherwise abundant oper 
+
+ational taxonomic units otus belonging to the archaeal marine benthic group b and
+
+marine hydrothermal vent group mhvg in the reduced ph–oil treatment con 
+versely the abundance of several putative hydrocarbonoclastic fungal otus was higher
+
+in the reduced ph–oil treatment sediment hydrocarbon profiling furthermore revealed
+higher concentrations of several alkanes in the reduced ph–oil treatment corroborating
+the functional implications of the structural changes to microbial community composi 
+
+tion collectively our results advance the understanding of the response of a complex
+
+microbial community to the interaction between reduced ph and anthropogenic pollu 
+
+tion in future acidified marine environments oil hydrocarbon contamination may alter
+
+the typical mixotrophic and k r strategist composition of surface sediment microbiomes
+
+towards a more heterotrophic state with lower doubling rates thereby impairing the
+
+ability of the ecosystem to recover from acute oil contamination events 
+
+keywords climate change interactions microbial ecology ocean acidification oil pollution
+
+received january revision accepted july 
+
+introduction
+
+it is now widely accepted that anthropogenic activities
+
+are rapidly altering ocean chemistry doney this
+
+is exemplified by the ongoing reduction in seawater
+
+ph also known as ocean acidification which is caused
+
+by the absorption of excess co by the world’s oceans 
+
+since the preindustrial age the ph of ocean surface
+
+waters has decreased by approximately units by
+
+the end of this century an additional reduction of
+
+ units from current conditions is predicted caldeira
+
+ wickett orr et al in addition to
+
+correspondence newton c marcial gomes fax 
+
+ e mails gomesncm ua pt gomesncm hotmail 
+
+com
+
+© john wiley sons ltd
+
+molecular ecology – doi mec 
+
+
+
+modifications to the global climate marine environ 
+
+ments are increasingly exposed to a wide range of dif 
+
+ferent pollutants oil contamination is one of the most
+
+common and visible forms of marine pollution and is
+
+the cause of considerable long term damage to the mar 
+
+ine environment moreno et al with oil explo 
+
+ration progressively moving to more challenging
+
+environments deeper waters and stormier and icier
+
+seas the risk of major contamination events such as
+
+the deepwater horizon oil spill is increasing jernel€ov
+
+ the deepwater horizon explosion in the
+
+gulf of mexico unleashed an undersea geyser of oil
+
+that released at least million litres of crude oil
+
+ cornwal this is considered one of the worst
+
+environmental disasters in the united states of america
+
+with widespread consequences to the whole ecosystem
+
+ welch five years afterwards although research 
+
+ers are still struggling to understand the full implica 
+
+tions of the oil spill the first signs of recovery are
+
+slowly beginning to appear cornwal welch
+
+ 
+
+the study of microbial communities is essential to
+
+understand the implications of these ongoing global
+
+and local anthropogenic perturbations on ecosystem
+
+health and function docherty gutknecht trese 
+
+der et al microorganisms are inherently linked to
+
+the ecosystem functioning due to the roles they play in
+
+mediating the biological fluxes of key elements such as
+
+carbon c nitrogen n phosphorus p and sulphur
+
+ s falkowski et al and the degradation of envi 
+
+ronmental pollutants it is therefore important to predict
+
+how microbial communities will react to growing
+
+anthropogenic pressure in the marine environment 
+
+currently there is growing concern about the interac 
+
+tive effects of global climate change and environmental
+
+pollution on microbial communities coelho et al 
+
+ a however knowledge is limited with respect to
+
+the response of these communities to the potentially
+
+compounding effects of global climate change e g 
+
+ocean acidification and local contamination events e g 
+
+oil spills importantly this knowledge will enable us to
+
+predict what type of effect future ocean chemistry sce 
+
+narios will have on ecosystem health after a major con 
+
+tamination event such as the deepwater horizon oil
+
+spill for example several studies have shown that the
+
+response of microbial communities to the deepwater
+
+horizon accident was rapid and robust attenuating
+
+the concentration of low molecular weight aliphatic
+
+and aromatic hydrocarbons kimes et al this
+
+response may however be adversely affected in the
+
+near future if predicted scenarios of reduced seawater
+
+ph hold 
+
+although there is accumulating evidence that these
+
+stressors can interact synergistically russell et al 
+
+and additively roberts et al much of the knowl 
+
+edge of the potential effects derives from experiments
+
+that only assess each stressor independently coelho
+
+et al a given the extensive temporal and spatial
+
+scales of global change understanding the interactions
+
+between climate change and anthropogenic pollution is
+
+a difficult task benton et al recently we
+
+addressed the difficulty of obtaining a mechanistic
+
+understanding of these interactions in coastal marine
+
+environments coelho et al b we developed a
+
+microcosm framework capable of simulating the effects
+
+of climate change and pollution on marine sediment
+
+microbial communities this system was further used to
+
+implement a multifactor experiment to characterize the
+
+sensitivity of sediment bacterial communities to envi 
+
+ronmental disturbances coelho et al our results
+
+showed that the interaction between reduced seawater
+
+ph and oil contamination significantly affected sedi 
+
+ment bacterial assemblages causing among other
+
+things a marked reduction in the relative abundance of
+
+anaerobic oil hydrocarbon degrading desulfobacterales
+
+ coelho et al however the implications of this
+
+interaction on the whole microbial community
+
+ prokaryotes and microeukaryotes remain unclear in
+
+addition to external factors microbial communities also
+
+depend on internal interactions among different
+
+domains such as metabolite exchanges bacteria and
+
+archaea or predator–prey interactions microeukaryotes
+and bacteria fuhrman et al therefore for a bet 
+
+ter understanding of the deeper implications of the
+
+interactive effects of reduced seawater ph and oil con 
+
+tamination on coastal ecosystems the response of other
+
+key microbial groups such as archaea and microeukary 
+
+otes must be taken into consideration in this study we
+
+hypothesized that the compounding effects of ocean
+
+acidification and environmental contamination with oil
+
+hydrocarbons will have significant effects at various
+
+levels of microbial community organization bacteria 
+
+archaea and microeukaryotes with potential to
+
+adversely affect ecosystem function to test this hypoth 
+
+esis we determined the integrated response of the
+
+whole sediment microbiome to the independent and
+
+combined effects of reduced seawater ph and oil con 
+
+tamination in estuarine sediment microcosms our main
+
+goals were to identify microbial taxa and populations
+
+that may be affected by reduced ph and or oil contam 
+
+ination and to assess possible associations between dif 
+
+ferent microbial groups 
+
+materials and methods
+
+this study benefits from a large microcosm experiment
+
+that was designed in a previous study to investigate the
+
+independent and interactive effects of ocean
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+
+
+acidification ultraviolet radiation and oil contamination
+
+in estuarine and coastal marine benthic communities
+
+ bacteria an epibenthic gastropod peringia ulvae and a
+
+benthic polychaete hediste diversicolor coelho et al 
+
+ here we used high throughput s and s
+
+rrna cdna pyrosequencing to obtain multitaxon
+
+activity profiling of the sediment microbiome across
+
+three domains of life bacteria archaea and eukaryota 
+
+the microcosm experiment was designed to simulate
+
+environmental conditions similar to the mouth of a tem 
+
+perate estuary that is typically under the influence of
+
+marine coastal water and oil hydrocarbon contamina 
+
+tion due to boat traffic in our previous study we
+
+implemented a factorial experiment with three factors 
+
+uv b radiation water ph and oil contamination each
+
+factor had two levels with or without uv b normal or
+
+reduced ph and with or without oil coelho et al 
+
+ in this study we focused on the impact of water
+
+ph and oil contamination thereby allowing us to distin 
+
+guish four treatments with four replicates each i cont
+
+ normal ph and no oil ii onph reduced ph and no
+
+oil iii onoi normal ph with oil and iv phoi re 
+
+duced ph with oil a detailed description of the
+
+experimental life support system elss and its valida 
+
+tion can be found in coelho et al b the elss is
+
+a framework that supports individual microcosms
+
+under controlled conditions while enabling the simula 
+
+tion of fundamental marine dynamics including the
+
+diurnal light cycle tidal simulation water temperature
+
+and water ph fig s supporting information each
+
+microcosm consisted of a glass tank cm high cm
+
+length and cm width containing sediment with an
+
+average mass of kg wet weight with a maximum
+
+functional water volume of approximately l synthetic
+
+marine water the experiment was divided into two
+
+phases in the first phase intact sediment cores were
+
+collected in the ria de aveiro shallow lagoon ° ″
+n ° ″w on the th of may transferred
+directly into individual microcosms and stabilized dur 
+
+ing days a h diurnal light cycle average day
+
+length in summer months at portuguese latitudes was
+
+simulated with light intensity varying from to
+
+ of the total fluorescent tube intensity considering
+
+that uv a plays an important biological role in the
+
+marine environment bargagli uv a integrated
+
+irradiance of � mw m was supple 
+mented to all microcosms a detailed description of the
+
+uv a supplementation including light spectra is avail 
+
+able in our previous publication coelho et al 
+
+the water ph manipulation consisted of bubbling co 
+into the water reservoirs prior to addition into the
+
+microcosms until it reached the target ph gattuso 
+
+lavigne the sediment was collected near the
+
+mouth of the estuary mira channel an area under
+
+strong influence of marine coastal water ph mor 
+eira et al we chose to implement the – 
+reduction predicted for the global sea surface for the
+
+year in our experiment caldeira wickett 
+
+the average ph at the end of the stabilization period
+
+was � in acidified microcosms measured at
+the end of each low tide before the addition of new
+
+acidified water and � in the control micro 
+cosms the ph was monitored in the acidified and con 
+
+trol microcosm with a calibrated ph meter orion star
+
+portable meter thermo fisher scientific inc usa the
+
+water ph was gradually adjusted to the environmental
+
+test conditions during the stabilization period the sec 
+
+ond phase started on day with the simulation of an
+
+oil spill accident punctual pollution event by pouring
+
+crude oil v v light arabian into randomly
+
+selected treatments during five consecutive high tides 
+
+the microcosm continued to operate days more total 
+
+ling days for the whole experiment including phases
+
+ and 
+
+oil hydrocarbon analysis
+
+sediment aliphatic and aromatic hydrocarbons were
+
+determined as previously described yan et al 
+
+approximately g of sediment was collected from each
+
+oil contaminated microcosm onoi phoi and from
+
+control microcosms cont at the end of the experiment 
+
+the determination of the aliphatic and aromatic fractions
+
+was performed on a network gc system agi 
+
+lent technologies usa mass spectrometer with a
+
+ m mm lm film thickness vf ms
+fused silica capillary column in the selective ion mode for
+
+aromatic hydrocarbons or in scanning mode for aliphatic
+
+hydrocarbons we focused our analysis on the us
+
+epa priority polycyclic aromatic hydrocarbons pah 
+
+and the most abundant aliphatic hydrocarbons a
+
+detailed description can be found in coelho et al 
+
+we checked for deviations from normality in oil hydro 
+
+carbon concentration with the mshapiro test function in
+
+mvnormtest slawomir and for homogeneity of
+
+variances with the bartlett test function bartlett 
+
+using the software environment r http www 
+
+r project org version we detected significant
+
+deviations from normality and homogeneity of variance 
+
+even after logarithmic and square root transformations 
+
+we therefore tested for significant differences among
+
+treatments using the kruskal–wallis test with the
+kruskal test function in r hollander douglas 
+
+characterization of the active microbial communities
+
+on the last day of the experiment four composite sam 
+
+ples consisting of four sediment mini cores ca cm of
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+http www r project org 
+http www r project org 
+
+
+top sediment with a cm diameter were collected in
+
+each of the microcosms four treatments with four
+
+independent replicates approximately g of the sedi 
+
+ment was transferred into a ml screw cap tube con 
+
+taining lysing matrix e mp biomedicals ca usa 
+
+and immediately immersed in liquid nitrogen samples
+
+were kept at � °c until processing total rna was
+extracted using the fastrna pro soil direct kit mp
+
+biomedicals with a fastprep instrument mp biomedi 
+
+cals for s at a speed setting of according to man 
+
+ufacturer’s instructions residual dna was removed
+
+using turbo dna free kit applied biosystems austin 
+
+tx usa cdna synthesis was carried out using ran 
+
+dom hexamer primed reverse transcription using the
+
+superscript iii reverse transcriptase kit invitrogen 
+
+carlsbad ca usa the complete removal of dna
+
+was confirmed by pcr universal bacterial primers
+
+u agagtttgatcctggctcag and r
+ ggt tac ctt gtt acg act t weisburg et al 
+ were used to amplify bp of the s cdna 
+specific products were detected in cdna samples after
+
+reverse transcription but not in their corresponding
+
+source rna samples a s cdna barcoded pyrose 
+
+quencing approach was used for bacterial and archaeal
+
+community analysis for bacterial community analysis 
+
+ bp fragments of the s cdna were sequenced for
+each sample with primers v forward actcc
+tacgggaggcag and v reverse tacnvrrg
+thtctaatyc wang qian for archaeal
+community analysis primers f mod acggggyg
+cassagkcgvga and arch r mod 
+yccggcgttgavtccaatt were used to amplify
+ bp of the s cdna pires et al the archaeal
+ s cdna amplicons were then subjected to a second
+
+round of amplification generating bp fragments
+using the primers f ext arch titf tgy
+cagccgccgcggtaa and arch r mod without
+degeneration y ccggcgttgavtccaatt pires
+et al pyrosequencing profiling of microeukaryote
+
+communities was achieved via amplification of bp
+ s cdna fragments using primers ssuf fo 
+gcttgtctcaaagattaagcc and ssu r 
+gcctgctgccttccttgga as described by fonseca
+et al fusion primers contained the roche a
+
+and b titanium sequencing adapters and an eight base
+
+barcode sequence in fusion primer a 
+
+full details regarding the cycling conditions can be
+
+found in the supporting information appendix s 
+
+supporting information equimolar concentrations of
+
+the pcr products were then sequenced using gs 
+
+flx titanium chemistry according to manufacturer s
+instructions roche life sciences brandford 
+
+ct usa 
+
+sequence analysis was performed using qiime sof 
+
+tware quantitative insights into microbial ecology
+
+ http www qiime org version kuczynski et al 
+
+ following previously described methods cleary
+
+et al in qiime fasta and qual files were used as
+
+input for the split libraries py script default arguments
+
+were used except for the minimum sequence length 
+
+which was set at bp after removal of forward pri 
+
+mers and barcodes reverse primers were removed
+
+using the ‘truncate only’ argument and a sliding win 
+
+dow test of quality scores was enabled with a value of
+
+ as suggested in the qiime description for the script 
+
+operational taxonomic units otus were selected
+
+using uparse with usearch edgar chimera
+
+checking was performed using the uchime algorithm 
+
+first reads were filtered with the fastq filter command
+
+and the following arguments fastq trunclen fas 
+
+tq maxee fastq truncqual sequences were then
+
+dereplicated and sorted using the derep fulllength and
+
+ sortbysize commands otu clustering was performed
+
+using the cluster otus command an additional chi 
+
+mera check was subsequently applied using the uchi 
+
+me ref command with the gold fa database
+
+ http drive com uchime gold fa awk scripts were
+
+then used to convert the otus to qiime format in qiime 
+
+representative sequences were selected using the
+
+pick rep set py script using the ‘most abundant’
+
+method reference sequences of otus were assigned
+
+taxonomies using default arguments in the assign tax 
+
+onomy py script in qiime with the rdp method wang
+
+et al for bacteria and archaea the gg green 
+
+genes database was used for assigning similar
+
+sequences to otus and taxonomic assignment
+
+ ftp greengenes microbio me greengenes release gg 
+
+ gg otus tar gz for microeukaryotes the
+
+silva database was used http www arb silva 
+
+de download archive qiime 
+
+finally we used the make otu table py script in qiime
+
+to generate a square matrix of otus samples for each
+
+of the three domains the square matrix of otus 
+
+samples generated with qiime was imported into r for
+
+subsequent statistical analysis and visualization 
+
+sequences identified as chloroplasts or mitochondria
+
+were removed from the bacterial data set and
+
+sequences assigned to the metazoa were removed from
+
+the microeukaryote data set full description of the
+
+sequence analysis can be found in the supplementary
+
+information appendix s supporting information for
+
+the purposes of this study we focused on the four most
+
+abundant total number of sequences groups of bacte 
+
+ria gammaproteobacteria deltaproteobacteria alphapro 
+
+teobacteria and acidimicrobiia archaea euryarchaeota the
+
+marine benthic group b mbgb the miscellaneous
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+http www qiime org 
+http drive com uchime gold fa
+ftp greengenes microbio me greengenes release gg gg otus tar gz
+ftp greengenes microbio me greengenes release gg gg otus tar gz
+http www arb silva de download archive qiime 
+http www arb silva de download archive qiime 
+
+
+crenarchaeota group – mcg and the marine
+hydrothermal vent group – mhvg and microeukary 
+otes ochrophyta cercozoa chlorophyta and fungi 
+
+the otu abundance matrix was loge x trans 
+formed to normalize the distribution of the data and a
+
+distance matrix was constructed using the bray–curtis
+index with the vegdist function in the vegan package
+
+ oksanen et al in r variation in composition
+
+among treatments was assessed with principal coordi 
+
+nates analysis pco using the cmdscale function in r
+
+with the bray–curtis distance matrix as input individ 
+ual points in pco were connected to their treatment cen 
+
+troid using the ordispider function the r vegan adonis
+
+ function for permutational multivariate analysis of
+
+variance permanova was used to test significant varia 
+
+tions in composition among factors in the adonis analy 
+
+sis the bray–curtis distance matrix of otu composition
+was the response variable with oil and ph oil ph as
+independent variables the number of permutations was
+
+set at to associate variations in oil hydrocarbon con 
+
+centration with the most relevant responsive microbial
+
+groups we constructed separate pco ordinations that
+
+only included treatments where oil hydrocarbon concen 
+
+tration was analysed cont onoi and phoi aliphatic
+
+and aromatic hydrocarbons concentrations were then fit
+
+onto pco ordinations using the envfit function in
+
+vegan using the envfit function we also tested for sig 
+
+nificant relationships between these variables and pco
+
+ordinations using permutations all other arguments
+
+in the function were left as default we tested for uni 
+
+variate relationships between the abundances of indivi 
+
+dual deltaproteobacteria and fungal otus loge x 
+transformed and aliphatic and aromatic hydrocarbons
+
+concentrations using pearson correlations computed
+
+using the rcorr function from the hmisc package
+
+ harrel dupont and plotted using the corrplot r
+
+package wei simko 
+
+the closest known relatives of the most abundant
+
+otus and the environment from which they were
+
+retrieved were identified using the ncbi basic local
+
+alignment search tool blast command line ‘blastn’
+
+tool with the ‘ db’ argument set to ‘nt’ zhang et al 
+
+ full details can be found in the supplementary
+
+information appendix s supporting information 
+
+sequence lengths from this study and closest relatives 
+
+ranged from to bp for bacteria to bp
+
+for archaea and to bp for microeukaryotes 
+
+evolutionary distances were computed using the maxi 
+
+mum composite likelihood method with a gamma dis 
+
+tribution four categories and bootstraps martins
+
+et al tree plotting with additional otu relative
+
+abundance data was performed using the itol server
+
+ http itol embl de letunic bork 
+
+results and discussion
+
+ s and s cdna amplicon sequencing analysis
+
+in recent years the vast majority of studies that have
+
+characterized microbial communities included targeted
+
+amplicon sequencing of informative markers such as
+
+the ribosomal small subunit kuczynski et al 
+
+although this approach allowed determining the iden 
+
+tity of microorganisms at an unprecedented level of
+
+detail it has inherent limitations several bioinformatics
+
+methods have been developed to reduce the number of
+
+chimeric sequences however such processing does not
+
+eliminate biases such as the switching of tags among
+
+amplicons during library preparation carlsen et al 
+
+ nevertheless it is unlikely that such errors
+
+affected the patterns detected in this study high 
+
+throughput sequencing errors are more critical when
+
+exploring specific questions within a community al 
+
+pha diversity than when testing relationships among
+
+samples beta diversity ley et al such errors
+
+would be furthermore of the same magnitude across
+
+samples with a consequently low impact on diversity
+
+patterns zinger et al and references therein 
+
+overall the sequencing effort generated bacte 
+
+rial archaeal and microeukaryotic
+
+sequences which were assigned to and 
+
+otus respectively the four most abundant bacterial
+
+classes were gammaproteobacteria average relative abun 
+
+dance � deltaproteobacteria � 
+alphaproteobacteria � and acidimicrobiia
+ � within the domain archaea the most
+abundant groups were the marine benthic group b –
+mbgb � the miscellaneous crenarchaeota
+group – mcg � the marine hydrother 
+mal vent group – mhvg � and
+euryarchaeota � the most abundant
+microeukaryotic groups were ochrophyta � 
+cercozoa � chlorophyta � and
+fungi � fig and table s supporting
+information we focused our subsequent analyses on
+
+these groups a combination of the qiime and uparse
+
+pipelines was used to bin sequence reads into otus
+
+and to obtain more in depth taxonomic information
+
+about microbial populations we also used blast to
+
+extract the information regarding the source context of
+
+the closest matches to each representative sequence and
+
+to obtain a better taxonomic refinement based on this 
+
+we constructed phylogenetic trees that showed the rela 
+
+tionships between the otus retrieved in this study and
+
+their closest match although for s rrna short reads
+
+have been shown to provide sufficient information for
+
+phylogenetic analysis liu et al jeraldo et al 
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+http itol embl de 
+
+
+ we mainly use this approach to identify phyloge 
+
+netically related ecotypes and discuss the putative eco 
+
+physiological roles of the most abundant otus e g 
+
+otus related to previously identified marine oil degra 
+
+ders 
+
+reduced seawater ph
+
+in line with other studies reduced ph had a significant
+
+effect on the structure of sediment microbial
+
+communities within the bacterial domain reduced ph
+
+was a significant predictor of acidimicrobiia and
+
+alphaproteobacteria composition table the most
+
+abundant acidimicrobiia otus clustered near reduced
+
+seawater ph treatments fig a this class includes
+
+several acidophilic iron oxidizing bacteria stacke 
+
+brandt et al that have been shown to respond to
+
+changes in seawater ph consistent with ocean acidifica 
+
+tion scenarios monier et al taylor et al 
+
+several alphaproteobacteria otus also clustered near
+
+bacteria
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+gammaproteobacteria
+deltaproteobacteria
+alphaproteobacteria
+acidimicrobiia
+
+ a 
+
+archaea
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+mbgb
+mhvg
+mcg
+euryarchaeota
+
+ b 
+
+cont onph onoi phoi
+
+microeukaryote
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ochrophyta
+cercozoa
+chlorophyta
+fungi
+
+ c 
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+fig mean relative abundance of the four most abundant a bacterial classes gammaproteobacteria deltaproteobacteria alphapro 
+
+teobacteria and acidimicrobiia b archaeal groups marine benthic group b mbgb marine hydrothermal vent group mhvg 
+
+miscellaneous crenarchaeota group mcg and euryarchaeota c microeukaryotic groups ochrophyta cercozoa chlorophyta and fungi 
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+
+
+reduced seawater ph treatments fig b the effect of
+
+reduced ph on the structure of alphaproteobacteria has
+
+also been previously described although contrasting
+
+effects are often reported meron et al reported a
+
+ increase in the abundance of alphaproteobacteria
+
+associated with the coral acropora eurystoma in reduced
+
+ph when compared to control treatments in
+
+fact otu which had a high relative abundance in
+
+the onph treatment was similar sequences similar 
+
+ity to a sequence retrieved by meron et al 
+ under reduced ph fig s and table s sup 
+
+porting information 
+
+reduced seawater ph was also a significant predictor
+
+of euryarchaeota composition table members of this
+
+phylum are frequently associated with acidic environ 
+
+ments thermoplasmatales are often found in methane
+
+seeps ruff et al and several studies have estab 
+
+lished a relationship between their abundance and ph 
+
+for example yanagawa et al observed that
+
+members of this group dominated the active archaeal
+
+community of a sediment hydrothermal system natu 
+
+rally characterized by high co and low ph 
+more recently raulf et al found a positive rela 
+
+tionship between sequences assigned to this class with
+
+decreasing ph along a natural co gradient 
+
+although there was no significant effect of ph on
+
+chlorophyta composition both the pco analysis and
+
+variation in the relative abundance of the most abun 
+
+dant otus suggest that ph affects chlorophyta composi 
+
+tion figs and s supporting information the lack
+
+of significance was probably due to one outlier replicate
+
+of the cont treatment fig b we observed an increase
+
+in the relative abundance of otus assigned to the ulvo 
+
+phyceaea class fig s supporting information otus
+
+ and in onph treatments when com 
+
+pared to the rest of the treatments this variation is in
+
+line with previous studies that detected a significant
+
+growth of members of this class under pco levels
+
+modelled for the year olischl€ager et al 
+
+oil contamination
+
+oil contamination was a significant predictor of
+
+gammaproteobacteria and deltaproteobacteria composition
+
+as revealed by the adonis test table and the pco
+
+ fig c d the effect of oil hydrocarbons on the struc 
+
+ture of these two classes is well documented the class
+
+gammaproteobacteria includes several oil hydrocarbon
+
+degraders and sulphate reducing deltaproteobacteria are
+
+key players in the degradation of these compounds in
+
+anaerobic sediment kleindienst et al and refer 
+
+ences therein several gammaproteobacteria and deltapro 
+
+teobacteria otus were related to organisms obtained
+
+from oil impacted areas fig s and table s support 
+
+ing information – e g otus 
+ and 
+
+oil was also a significant predictor of chlorophyta and
+
+fungi composition table fig b c this is consistent
+
+with our current understanding of the ecophysiological
+
+roles of microeukaryotes in marine systems indeed 
+
+within this group only algae and fungi are known to
+
+degrade oil hydrocarbons cerniglia et al semple
+
+et al prince although algae are capable of
+
+degrading environmental pollutants either directly or
+
+enhancing the degradation potential of the community 
+
+there is much less information about their relationship
+
+with xenobiotic compounds than for bacteria or fungi
+
+ semple et al fungi are known to be important
+
+contributors to aerobic oil degradation and also consume
+
+other substrates the ability to produce extracellular
+
+enzymes and the low specificity of many of these
+
+enzymes enable fungi to cometabolize diverse pollutants
+
+table results of adonis analyses with the bray–curtis distance matrix of operational taxonomic unit composition as the response
+variable and oil and ph and the interaction between these two factors oil ph as independent variables
+
+oil ph oil ph
+
+gammaproteobacteria f r
+ p f r
+
+ p f r
+ p 
+
+deltaproteobacteria f r
+ p f r
+
+ p f r
+ p 
+
+alphaproteobacteria f r
+ p f r
+
+ p f r
+ p 
+
+acidimicrobiia f r
+ p f r
+
+ p f r
+ p 
+
+mbgb f r
+ p f r
+
+ p f r
+ p 
+
+mcg f r
+ p f r
+
+ p f r
+ p 
+
+mhvg f r
+ p f r
+
+ p f r
+ p 
+
+euryarchaeota f r
+ p f r
+
+ p f r
+ p 
+
+cercozoa f r
+ p f r
+
+ p f r
+ p 
+
+chlorophyta f r
+ p f r
+
+ p f r
+ p 
+
+fungi f r
+ p f r
+
+ p f r
+ p 
+
+ochrophyta f r
+ p f r
+
+ p f r
+ p 
+
+p are marked in bold 
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+
+
+including pah and aliphatic hydrocarbons harms et al 
+
+ in this study at least two fungal otus were
+
+related to organisms previously shown to degrade oil
+
+hydrocarbons otu was assigned to the species sac 
+
+charomyces cerevisiae which has been previously shown
+
+to be able to degrade pahs and n alkanes weisman 
+
+woods hofmann hanano et al this
+
+otu was similar sequences similarity to a
+
+partial s sequence of a strain capable of using n 
+
+alkanes as a carbon source hanano et al likewise 
+
+otu was similar sequences similarity to an
+organism assigned to the cladosporium genus this genus
+
+includes cladosporium resinae a species able to degrade
+
+n alkanes which is frequently found in jet fuels cosmet 
+
+ics and wood preserved with creosote or coal tar lindley
+
+ heydeman prince 
+
+− 
+
+− 
+ 
+
+− 
+ 
+
+− 
+ 
+
+cont
+
+onoi
+
+onph
+phoi
+
+acidimicrobiia
+
+ 
+
+ 
+
+ 
+
+− 
+
+− 
+ 
+
+− 
+ 
+
+cont
+onoionph
+
+phoi
+
+alphaproteobacteria
+
+− 
+
+− 
+ 
+
+− 
+ 
+
+cont
+
+onoi
+
+onph
+
+phoi
+
+deltaproteobacteria
+
+− 
+
+− 
+ 
+
+− 
+ 
+
+− 
+
+ 
+ 
+
+ 
+ 
+
+− 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+cont
+
+onoi
+
+onph
+
+phoi
+
+gammaproteobacteriaa
+xi
+
+s 
+ 
+
+axis 
+
+ a b 
+
+ c d 
+
+fig ordination showing the first two axes of the principal coordinates analysis pco of the four most abundant bacterial classes 
+
+treatment centroids were obtained using the ordispider function in vegan each spider connects individual samples to the cluster
+
+centroid the light grey symbols represent operational taxonomic unit otu scores with symbol size representing their relative
+
+abundance in the entire data set the closest relatives of the most abundant otus were further identified using the ncbi basic
+
+local alignment search tool blast cont control treatment onph reduced ph onoi contaminated with oil phoi contaminated
+
+with oil and reduced ph 
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+
+
+interaction between reduced seawater ph and oil
+contamination
+
+there was a significant and strong interaction between
+
+reduced seawater ph and oil contamination in
+
+gammaproteobacteria and deltaproteobacteria composition
+
+ fig and table this effect can be seen in the
+
+gammaproteobacteria and deltaproteobacteria pco analysis 
+
+where phoi clearly separated from the rest of the treat 
+
+ments along the first axis fig several deltaproteobac 
+
+teria otus assigned to sulphate reducing bacteria of the
+
+desulfosarcina desulfococcus clade closely related to
+
+organisms obtained from oil impacted environments
+
+ fig s and table s supporting information e g otus
+
+ and
+
+ had much lower relative abundances in the phoi
+
+treatment when compared to the onoi treatment
+
+ desulfosarcina desulfococcus relative abundance in
+
+phoi � vs � in onoi – adonis 
+f r
+
+ p the lower relative
+abundance of the desulfosarcina desulfococcus clade
+
+under reduced ph and oil contamination could be
+
+linked to the susceptibility of sulphate reducing bacteria
+
+to low ph levels metabolic products of anaerobic
+
+microorganisms such as h s and organic acids are
+
+potentially toxic at low ph koschorreck as the
+
+speciation of free sulphide depends on the system’s ph 
+
+a reduction in ph can play a role in sulphide driven
+
+inhibition of microbial sulphate reduction due to the tox 
+
+icity of h s species hao et al this effect could be
+
+exacerbated at high concentration of oil hydrocarbons 
+
+the lower abundance of sulphate reducing bacteria of
+
+the desulfosarcina desulfococcus clade can have implica 
+
+tions for the ability of sediment to recover from oil
+
+contamination under reduced seawater ph the desulfos 
+
+arcina desulfococcus ability to degrade hydrocarbons is
+
+well known this clade comprises several alkane and aro 
+
+matic hydrocarbon such as naphthalene degraders
+
+ aeckersberg et al harms et al so young
+
+ a recent work by kleindienst et al reported
+
+on the ability of members of this clade to initiate alkane
+
+degradation and growth within days to weeks after
+
+amendment with model substrates that simulated an oil
+
+spill the same work suggested that the desulforsarcina 
+
+desulfococcus clade are the key alkane degraders in mar 
+
+ine seeps kleindienst et al in line with these find 
+
+ings the sediment oil chemistry analysis figs s and s 
+
+supporting information revealed that several alkanes
+
+remained at high concentration in the phoi treatment
+
+ fig s supporting information e g hexadecane pen 
+
+tadecane heptadecane octadecane and nonadecane at
+
+the end of the microcosm experiment to assess the rela 
+
+tionship between otus and oil hydrocarbon concentra 
+
+tions we used the envfit function to fit the oil
+
+hydrocarbon concentrations onto an ordination of
+
+deltaproteobacteria fig s supporting information we
+
+found a significant fit for the first two axes of the ordina 
+
+tion for hexadecane concentration envfit for st and nd
+
+axes p although not significant other alkanes
+such as pentadecane heptadecane octadecane and non 
+
+adecane were also visually associated with samples of
+
+the phoi treatment the correlation between individual
+
+deltaproteobacteria otus sequences and aliphatic
+and aromatic hydrocarbons showed that several otus
+
+classified within the desulforsarcina desulfococcus clade
+
+correlated negatively with alkane concentrations fig s 
+
+supporting information in contrary to the desulfor 
+
+sarcina desulfococcus clade several chromatiales otus clo 
+
+sely related to organisms from oil polluted subtidal
+
+sediment fig s supporting information otus 
+
+ and were more abundant in the phoi
+
+treatment when compared to the onoi treatment chro 
+
+matiales relative abundance in phoi � vs 
+ � in onoi adonis f r 
+p the chromatiales order includes the families
+ectothiorhodospiraceae and chromatiaceae both with pho 
+
+totrophic anaerobic members that produce sulphur from
+
+hydrogen sulphide imhoff a b the ability of chro 
+
+matiales members to degrade oil hydrocarbons has not
+
+yet been documented however it is known that they
+
+can utilize electrons from hydrogen sulphide that is pro 
+
+duced during the anaerobic metabolism of hydrocarbons
+
+in contaminated environments kim crowley of
+
+note is the observation that groups apparently affected
+
+by the interaction between reduced seawater ph and oil
+
+contamination were all involved in the sulphur cycle 
+
+the pco analysis of the mhvg and mbgb clades
+
+also showed that the phoi treatment contained a com 
+
+positionally distinct archaeal community fig b d sev 
+
+eral of the most abundant otus from these groups were
+
+markedly less abundant in this treatment when com 
+
+pared to the onoi treatment fig s supporting infor 
+
+mation e g otus we did not 
+
+however detect a significant interaction between ph
+
+and oil ph oil for these two groups in the case of
+mbgb we did detect a significant effect of ph as a fac 
+
+tor table however after visual inspection of the
+
+pco ordination it was clear that the significant effect of
+
+ph was mainly due to the phoi treatment fig d 
+
+there was a significant difference between phoi and
+
+cont adonis f r
+ p but not
+
+between onph and cont adonis f 
+r p the lower abundance of otus
+assigned to mhvg and mbgb in phoi was congruent
+
+with the lower abundance for the desulfosarcina desulfo 
+
+coccus clade this result suggests a possible coupled
+
+response of desulforsarcina desulfococcus mhvg and
+
+mbgb to reduced seawater ph and oil this could be
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+
+
+due to i an independent effect on bacteria and archaea
+
+or ii a combined feedback due to metabolic interdepen 
+
+dence metabolic dependencies are a major driver of co 
+
+occurrence groups that can complement their biosyn 
+
+thetic capabilities through metabolite exchange zelez 
+
+niak et al members of the desulforsarcina 
+
+desulfococcus clade are frequently associated with
+
+methanotrophic archaea in syntrophic consortia knittel
+
+ boetius syntrophy a type of metabolic interde 
+
+pendence common in anaerobic environments plays an
+
+important role in controlling the methane flux and qual 
+
+ity of global oil resources for example the anaerobic
+
+oxidation of methane aom assumed to be mediated
+
+by a consortium of methanotrophic archaea and sul 
+
+phate reducing bacteria is responsible for the removal
+
+of almost gt of carbon in the form of methane per
+
+year from marine sediment boetius wenzhofer 
+
+conversely deposits of heavy oil extra oil and bitumen 
+
+which comprise of the world s oil resources are
+formed after syntrophic methanogenic consortia metabo 
+
+lize the light alkane and aromatic fraction head et al 
+
+ jones et al mcinerney et al desulfati 
+
+bacillum alkenivorans a sulphate reducer has been shown
+
+to syntrophically degrade hexadecane in coculture with
+
+hydrogenotrophic methanogens callaghan et al 
+
+there is however considerable uncertainty about the
+
+physiology and identity of the microorganisms involved
+
+in this process 
+
+in our study the most abundant otus 
+sequences assigned to mhvg and mbgb otus were
+
+similar to organisms obtained from hydrocarbon 
+
+impacted ecosystems for the mhvg class with the
+
+exception of otus and the most abundant otu
+
+were similar to organisms retrieved from hydrocarbon 
+
+impacted environments fig s and table s support 
+
+ing information otus and 
+
+interestingly otus and were highly similar se 
+
+quences similarities of and respectively to
+
+an organism recovered in a study that focused on the
+
+methanogenic degradation of aliphatic and aromatic
+
+hydrocarbons siegert et al we observed a simi 
+
+lar pattern for the mbgb clade with the exception of
+
+otu with several otus similar to organisms col 
+
+lected in oil hydrocarbon impacted environments and
+
+lower relative abundances in the phoi treatment
+
+ fig s and table s supporting information e g 
+
+otus – overall although the
+mechanistic basis is unclear the congruent composi 
+
+tional changes of bacterial and archaeal otus related to
+
+organisms in oil contaminated ecosystems suggests a
+
+coupled response due to metabolic interdependence 
+
+in line with the observed shifts in prokaryotic com 
+
+munities the fungal pco analysis showed that samples
+
+from phoi treatment were compositionally distinct
+
+from the rest of the treatments fig however domi 
+
+nant fungal otus revealed an inverse tendency and
+
+were more abundant in the phoi treatment a possible
+
+explanation for this increase in abundance could be
+
+related to an increase in the concentration of oil hydro 
+
+carbons due to a reduction in the abundance of hydro 
+
+carbonoclastic bacteria e g desulforsarcina desulfococcus 
+
+in the phoi treatment in addition to the already dis 
+
+cussed ability of fungi to degrade oil hydrocarbons 
+
+with exception of otu all other otus belonged to
+
+members assigned to the ascomycota phylum known to
+
+comprise several alkane degraders harms et al 
+
+interestingly we found a significant association of pen 
+
+tadecane and fungal composition envfit for st and nd
+
+axes p fig s supporting information how 
+ever in contrast to bacterial otus this association was
+
+mainly due to a positive correlation between individual
+
+fungal otus and increased levels of aromatic and ali 
+
+phatic hydrocarbons in phoi microcosms fig s 
+
+supporting information in addition to the concentra 
+
+tion of oil hydrocarbons the shift in fungal composition
+
+can also be related to reduced ph because fungi can
+
+tolerate a wider range of ph conditions than bacteria 
+
+these findings indicate that ocean acidification may
+
+favour increased fungal abundance in coastal sediments
+
+exposed to oil hydrocarbon contamination 
+
+overall the interaction between reduced seawater ph
+
+and oil contamination appears to have selected microbial
+
+oil degraders with different life strategies the higher rel 
+
+ative abundance of fungal and lower relative abundance
+
+of desulforsarcina desulfococcus otus can be placed
+
+within the r k scheme in general r strategists are
+
+adapted to maximize their intrinsic rate of growth when
+
+resources are abundant while k strategists are adapted
+
+to compete and survive when populations are near carry 
+
+ing capacity andrews harris although this
+
+concept is an oversimplification it provides a useful
+
+framework for interpreting the microbial structure shifts
+
+observed in the phoi treatment in soils bacteria and
+
+fungi are generally associated with r and k strategy for
+
+carbon and nutrient use respectively rousk frey
+
+ based on our results we propose that the interac 
+
+tion between ocean acidification and oil contamination
+
+promotes the establishment of some k selected microor 
+
+ganisms in a microhabitat commonly dominated by r 
+
+selected bacteria with possible implications to the capac 
+
+ity of the system to recover from oil spill events 
+
+conclusions
+
+we have shown that reduced seawater ph and oil con 
+
+tamination are significant interactive predictors of
+
+microbial community composition in estuarine sedi 
+
+ment thus emphasizing the need to consider the
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+
+
+interactive in addition to the independent effects of cli 
+
+mate and anthropogenic driven changes on these com 
+
+munities furthermore the sensitivity of several taxa 
+
+across the three domains of life to the tested conditions
+
+highlights the need to consider the whole microbiome
+
+when studying climate change and anthropogenic pol 
+
+lution scenarios in line with this necessity there is a
+
+gap in our current knowledge as to how archaeal com 
+
+munities will cope with climate change which should
+
+be addressed in mechanistic studies in the future 
+
+although the presumed coupled response of archaea
+
+and bacteria is supported by existing knowledge the
+
+limited information on archaeal physiology and taxon 
+
+omy hampers a full understanding of this interaction 
+
+cont
+
+onoi
+
+onphphoi cont
+
+onoi
+
+onph
+
+phoi
+
+cont
+onoionph
+
+phoi
+
+cont
+
+onoi
+
+onph
+
+phoi
+
+ 
+ 
+ 
+
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+a
+xi
+
+s 
+ 
+
+axis 
+
+euryarchaeota mhvg
+
+mcg mbgb
+
+ a b 
+
+ c d 
+
+fig ordination showing the first two axes of the principal coordinates analysis pco of the three most abundant archaeal classes
+
+and the euryarchaeota phylum treatment centroids were obtained using the ordispider function in vegan each spider connects
+
+individual samples to the cluster centroid the light grey symbols represent operational taxonomic unit otu scores with symbol
+
+size representing their relative abundance in the entire data set the closest relatives of the most abundant otus were further
+
+identified using the ncbi basic local alignment search tool blast cont control treatment onph reduced ph onoi contami 
+
+nated with oil phoi contaminated with oil and reduced ph 
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+
+
+overall our study suggests a reduced abundance of
+
+bacteria and archaea involved in anaerobic oil degrada 
+
+tion and an increase in the relative abundance of fungal
+
+degraders in microcosms simulating a scenario of ocean
+
+acidification and a punctual oil contamination event con 
+
+sidering the chemical analysis and the underlying meta 
+
+bolic capacity of these groups it may be assumed that the
+
+increase in aerobic eukaryotic degradation will not bal 
+
+ance the reduction in anaerobic prokaryotic degradation 
+
+this shift in the typical mixotrophic and k r strategist
+
+composition of surface sediment microbiomes towards a
+
+more heterotrophic state with lower doubling rates can
+
+potentially lead to a change in sediment oil degradation
+
+dynamics with consequences for overall toxicity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+ 
+− 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ochrophytaa
+xi
+
+s 
+ 
+
+axis 
+
+ a b 
+
+ c d 
+
+contonoi onph
+
+phoi
+
+cercozoa
+
+ 
+
+ 
+
+ 
+
+ 
+
+cont
+
+onoi
+
+onph
+
+phoi
+
+chlorophyta
+
+cont
+onoi
+
+onph phoi
+
+fungi
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+− 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+− − 
+
+− 
+ 
+
+ 
+− 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+cont
+onoi onph
+
+phoi
+
+ochrophytaa
+xi
+
+s 
+ 
+
+axis 
+
+ a b 
+
+ c d 
+
+fig ordination showing the first two axes of the principal coordinates analysis pco of the four most abundant microeukaryote
+
+groups treatment centroids were obtained using the ordispider function in vegan each spider connects individual samples to the
+
+cluster centroid the light grey symbols represent operational taxonomic unit otu scores with symbol size representing their rela 
+
+tive abundance in the entire data set the closest relatives of the most abundant otus were further identified using the ncbi
+
+basic local alignment search tool blast cont control treatment onph reduced ph onoi contaminated with oil phoi contami 
+
+nated with oil and reduced ph 
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+
+
+acknowledgements
+
+this work was supported by european funds through com 
+
+pete fcomp feder and by national funds
+
+through the portuguese science foundation fct within pro 
+
+ject ptdc aac cli http alfa fct mctes pt 
+
+we would like to thank university of aveiro and fct mec
+
+for the financial support to cesam ru uid amb 
+
+and through qopna research unit fct uid qui 
+
+ through national founds and where applicable cofi 
+
+nanced by the feder within the pt partnership agree 
+
+ment is also acknowledged francisco j r c coelho and
+
+vanessa oliveira were supported by two postdoctoral scholar 
+
+ships sfrh bpd sfrh bpd 
+
+financed by the portuguese foundation for science and tech 
+
+nology the authors declare no conflict of interest 
+
+references
+
+aeckersberg f rainey af widdel f growth natural rela 
+
+tionships cellular fatty acids and metabolic adaptation of sul 
+
+fate reducing bacteria that utilize long chain alkanes under
+
+anoxic conditions archives of microbiology – 
+andrews jh harris rf r and k selection and microbial
+
+ecology in advances in microbial ecology ed marshall kc 
+
+pp – springer us boston massachusetts 
+bargagli r antarctic ecosystems environmental contamina 
+
+tion climate change and human impact springer verlag 
+
+berlin germany 
+
+bartlett ms properties of sufficiency and statistical tests 
+
+proceedings of the royal society of london a mathematical 
+
+physical and engineering sciences – 
+benton tg solan m travis jmj sait sm microcosm
+
+experiments can inform global ecological problems trends in
+
+ecology evolution – 
+boetius a wenzhofer f seafloor oxygen consumption
+
+fuelled by methane from cold seeps nature geoscience 
+
+ – 
+caldeira k wickett me anthropogenic carbon and
+
+ocean ph nature 
+
+callaghan av morris bel pereira iac et al the gen 
+
+ome sequence of desulfatibacillum alkenivorans ak a blue 
+
+print for anaerobic alkane oxidation environmental
+
+microbiology – 
+carlsen t aas ab lindner d et al don’t make a mista
+
+ g ke is tag switching an overlooked source of error in
+
+amplicon pyrosequencing studies fungal ecology – 
+cerniglia ce gibson dt van baalen c oxidation of
+
+naphthalene by cyanobacteria and microalgae microbiology 
+
+ – 
+cleary dfr becking le pol�onia arm freitas rm gomes
+
+ncm composition and predicted functional ecology
+
+of mussel associated bacteria in indonesian marine lakes 
+
+antonie van leeuwenhoek journal of microbiology – 
+coelho fjrc santos al coimbra j et al a interactive
+
+effects of global climate change and pollution on marine
+
+microbes the way ahead ecology and evolution – 
+coelho fjrc rocha rjm pires acc et al b development
+
+and validation of an experimental life support system for
+
+assessing the effects of global climate change and
+
+environmental contamination on estuarine and coastal marine
+
+benthic communities global change biology – 
+coelho fjrc cleary dfr rocha rjm et al unraveling
+
+the interactive effects of climate change and oil contamina 
+
+tion on laboratory simulated estuarine benthic communities 
+
+global change biology – 
+cornwal w five years after the deepwater horizon dis 
+
+aster scars linger science – 
+docherty km gutknecht jlm the role of environmental
+
+microorganisms in ecosystem responses to global change 
+
+current state of research and future outlooks biogeochemistry 
+
+ – 
+doney sc the growing human footprint on coastal and
+
+open ocean biogeochemistry science – 
+edgar rc uparse highly accurate otu sequences
+
+from microbial amplicon reads nature methods – 
+falkowski pg fenchel t delong ef the microbial engi 
+
+nes that drive earth’s biogeochemical cycles science 
+
+ – 
+fonseca vg carvalho gr sung w et al second genera 
+
+tion environmental sequencing unmasks marine metazoan
+
+biodiversity nature communications 
+
+fuhrman ja cram ja needham dm marine microbial
+
+community dynamics and their ecological interpretation 
+
+nature reviews microbiology – 
+gattuso jp lavigne h technical note approaches and
+
+software tools to investigate the impact of ocean acidifica 
+
+tion biogeosciences – 
+hanano a al arfi m shaban m daher a shamma m 
+
+removal of petroleum crude oil from aqueous solution by
+
+saccharomyces cerevisiae shsy strain necessitates at least an
+
+inducible cyp alk homolog gene journal of basic micro 
+
+biology – 
+hao oj chen jm huang l buglass rl sulfate reducing
+
+bacteria critical reviews in environmental science and technol 
+
+ogy – 
+harms g zengler k rabus r et al anaerobic oxidation
+
+of o xylene m xylene and homologous alkylbenzenes by
+
+new types of sulfate reducing bacteria applied and environ 
+
+mental microbiology – 
+harms h schlosser d wick ly untapped potential 
+
+exploiting fungi in bioremediation of hazardous chemicals 
+
+nature reviews microbiology – 
+harrel fe dupont c hmisc harrell miscellaneous r pack 
+
+age version 
+
+head im jones dm larter sr biological activity in the
+
+deep subsurface and the origin of heavy oil nature 
+
+ – 
+hofmann kh oxidation of naphthalene by saccha 
+
+romyces cerevisiae and candida utilis journal of basic microbiol 
+
+ogy – 
+hollander m douglas a nonparametric statistical meth 
+
+ods john wiley new york new york 
+
+imhoff j a the chromatiaceae in the prokaryotes eds
+
+dworkin m falkow s rosenberg e schleifer k h stacke 
+
+brandt e pp – springer new york new york 
+imhoff j b the family ectothiorhodospiraceae in the
+
+prokaryotes eds dworkin m falkow s rosenberg e schleifer k 
+
+h stackebrandt e pp – springer new york new york 
+jeraldo p chia n goldenfeld n on the suitability of
+
+short reads of s rrna for phylogeny based analyses in
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+http alfa fct mctes pt
+
+
+environmental surveys environmental microbiology 
+
+ – 
+jernel€ov a the threats from oil spills now then and in
+
+the future am bio – 
+jones dm head im gray nd et al crude oil biodegra 
+
+dation via methanogenesis in subsurface petroleum reser 
+
+voirs nature – 
+kim j s crowley de microbial diversity in natural
+
+asphalts of the rancho la brea tar pits applied and environ 
+
+mental microbiology – 
+kimes ne callaghan av suflita jm morris pj microbial
+
+transformation of the deepwater horizon oil spill—past pre 
+sent and future perspectives frontiers in microbiology 
+
+kleindienst s herbst f a stagars m et al diverse sul 
+
+fate reducing bacteria of the desulfosarcina desulfococcus clade
+
+are the key alkane degraders at marine seeps isme journal 
+
+ – 
+kleindienst s paul jh joye sb using dispersants after
+
+oil spills impacts on the composition and activity of micro 
+
+bial communities nature reviews microbiology – 
+knittel k boetius a anaerobic oxidation of methane 
+
+progress with an unknown process annual review of microbi 
+
+ology – 
+koschorreck m microbial sulphate reduction at a low
+
+ph fems microbiology ecology – 
+kuczynski j stombaugh j walters wa et al using
+
+qiime to analyze s rrna gene sequences from microbial
+
+communities current protocols in bioinformatics unit 
+
+doi bi s 
+
+kuczynski j lauber cl walters wa et al experimental
+
+and analytical tools for studying the human microbiome 
+
+nature reviews genetics – 
+letunic i bork p interactive tree of life itol an
+
+online tool for phylogenetic tree display and annotation 
+
+bioinformatics – 
+ley re hamady m lozupone c et al evolution of
+
+mammals and their gut microbes science – 
+lindley nd heydeman mt the uptake of n alkanes
+
+from alkane mixtures during growth of the hydrocarbon uti 
+
+lizing fungus cladosporium resinae applied microbiology and
+
+biotechnology – 
+liu z lozupone c hamady m bushman fd knight r 
+
+short pyrosequencing reads suffice for accurate microbial
+
+community analysis nucleic acids research e 
+
+martins p cleary dfr pires acc et al molecular
+
+analysis of bacterial communities and detection of potential
+
+pathogens in a recirculating aquaculture system for scoph 
+
+thalmus maximus and solea senegalensis plos one 
+
+e 
+
+mcinerney mj sieber jr gunsalus rp syntrophy in
+
+anaerobic global carbon cycles current opinion in biotechnol 
+
+ogy – 
+meron d atias e iasur kruh l et al the impact of
+
+reduced ph on the microbial community of the coral acrop 
+
+ora eurystoma isme journal – 
+monier a findlay hs charvet s lovejoy c late winter
+
+under ice pelagic microbial communities in the high arctic
+
+ocean and the impact of short term exposure to elevated co
+
+ levels frontiers in microbiology 
+
+moreira mh queiroga h machado mm cunha mr 
+
+environmental gradients in a southern europe estuarine
+
+system ria de aveiro portugal implications for soft bottom
+
+macrofauna colonization netherlands journal of aquatic ecol 
+
+ogy – 
+moreno r jover l diez c sard�a f sanpera c ten
+
+years after the prestige oil spill seabird trophic ecology as
+
+indicator of long term effects on the coastal marine ecosys 
+
+tem plos one e 
+
+oksanen j guillaume blanchet f kindt r et al vegan 
+
+community ecology package r package version available
+
+from http cran r project org package vegan 
+
+olischl€ager m bartsch i gutow l wiencke c effects of
+
+ocean acidification on growth and physiology of ulva lactuca
+
+ chlorophyta in a rockpool scenario phycology research 
+
+ – 
+orr jc fabry vj aumont o et al anthropogenic ocean
+
+acidification over the twenty first century and its impact on
+
+calcifying organisms nature – 
+pires acc cleary dfr almeida a et al denaturing
+
+gradient gel electrophoresis dgge and barcoded pyrose 
+
+quencing reveal unprecedented archaeal diversity in man 
+
+grove sediment and rhizosphere samples applied and
+
+environmental microbiology – 
+prince rc eukaryotic hydrocarbon degraders in hand 
+
+book of hydrocarbon and lipid microbiology ed timmis k pp 
+
+ – springer berlin heidelberg 
+raulf ff fabricius k uthicke s et al changes in micro 
+
+bial communities in coastal sediments along natural co 
+
+gradients at a volcanic vent in papua new guinea environ 
+
+mental microbiology – 
+roberts da birchenough snr lewis c et al ocean
+
+acidification increases the toxicity of contaminated sedi 
+
+ments global change biology – 
+rousk j frey sd revisiting the hypothesis that fungal to 
+
+bacterial dominance characterizes turnover of soil organic
+
+matter and nutrients ecological monographs – 
+ruff se biddle jf teske ap et al global dispersion and
+
+local diversification of the methane seep microbiome pro 
+
+ceedings of the national academy of sciences of the united states
+
+of america – 
+russell bd thompson j ai falkenberg lj connell sd 
+
+synergistic effects of climate change and local stressors co 
+
+and nutrient driven change in subtidal rocky habitats global
+
+change biology – 
+semple kt cain rb schmidt s biodegradation of aro 
+
+matic compounds by microalgae fems microbiology letters 
+
+ – 
+siegert m cichocka d herrmann s et al accelerated
+
+methanogenesis from aliphatic and aromatic hydrocarbons
+
+under iron and sulfate reducing conditions fems microbiol 
+
+ogy letters – 
+slawomir j mvnormtest normality test for multivariate
+
+variables r package version available from
+
+http cran r project org web packages mvnormtest 
+
+so cm young ly initial reactions in anaerobic alkane
+
+degradation by a sulfate reducer strain ak applied and
+
+environmental microbiology – 
+stackebrandt e rainey fa ward rainey n order i 
+
+acidimicrobiales in bergey’s manual of systematic bacteriol 
+
+ogy volume the actinobacteria eds whitman w goodfel 
+
+low m k€ampfer p et al pp springer new york 
+
+new york 
+
+© john wiley sons ltd
+
+ f j r c coelho et al 
+
+http dx doi org bi s 
+http cran r project org package vegan
+http cran r project org web packages mvnormtest
+
+
+taylor jd ellis r milazzo m hall spencer jm cunliffe m
+
+ intertidal epilithic bacteria diversity changes along a
+
+naturally occurring carbon dioxide and ph gradient fems
+
+microbiology ecology – 
+treseder kk balser tc bradford ma brodie el inte 
+
+grating microbial ecology into ecosystem models challenges
+
+and priorities biogeochemistry – 
+wang y qian p y conservative fragments in bacterial
+
+ s rrna genes and primer design for s ribosomal dna
+
+amplicons in metagenomic studies plos one e 
+
+wang q garrity gm tiedje jm cole jr na€ıve bayesian
+
+classifier for rapid assignment of rrna sequences into the
+
+new bacterial taxonomy applied and environmental microbiol 
+
+ogy – 
+wei t simko v corrplot visualization of a correlation
+
+matrix r package version available from https 
+
+cran r project org web packages corrplot index html
+
+weisburg wg barns sm pelletier da lane dj s
+
+ribosomal dna amplification for phylogenetic study journal
+
+of bacteriology – 
+weisman a woods lfj metabolism of benzo a pyrene
+
+by the cytochrome p p of saccharomyces cerevisiae 
+
+biochemical society transactions – 
+welch c is gulf oil spill’s damage over or still unfolding 
+
+national geographic available at http news nationalgeographic 
+
+com deepwater oil spill birds gulf macondo 
+
+louisiana 
+
+yan w chi j wang z huang w zhang g spatial and
+
+temporal distribution of polycyclic aromatic hydrocarbons
+
+ pahs in sediments from daya bay south china environ 
+
+mental pollution – 
+yanagawa k morono y de beer d et al metabolically
+
+active microbial communities in marine sediment under
+
+high co and low ph extremes isme journal – 
+zelezniak a andrejev s ponomarova o et al metabolic
+
+dependencies drive species co occurrence in diverse micro 
+
+bial communities proceedings of the national academy of
+
+sciences of the united states of america – 
+zhang z schwartz s wagner l miller w a greedy
+
+algorithm for aligning dna sequences journal of computa 
+
+tional biology – 
+zinger l boetius a ramette a bacterial taxa–area and
+
+distance–decay relationships in marine environments molec 
+ular ecology – 
+
+f j r c c d f r c r c and n c m g conceived and
+
+designed the experiments f j r c c m f and a r m p 
+
+carried out the molecular analysis a m s s m m q s 
+
+and v o carried out the oil hydrocarbon analysis 
+
+f j r c c d f r c r c and n c m g analysed the
+
+data and wrote the manuscript 
+
+data accessibility
+
+all the s and s cdna sequence data used in this
+
+study were deposited in the ncbi short ncbi short read
+
+archive study accession nos prjna for bacteria
+
+and prjna archaea andmicroeukaryotes 
+
+supporting information
+
+additional supporting information may be found in the online ver 
+
+sion of this article 
+
+fig s experimental life support system and associated sub 
+
+systems 
+
+table s number of sequences of the four most abundant
+
+groups of each domain per treatment and total and average
+
+relative abundance 
+
+appendix s pcr cycling conditions 
+
+appendix s sequence analysis of the s and s cdna
+
+fragments 
+
+appendix s blast analysis 
+
+fig s phylogenetic placement and distribution of the most
+
+abundant bacterial otus and their closest relatives accession
+
+number classification and source 
+
+fig s phylogenetic placement and distribution of the most
+
+abundant archaeal otus and their closest relatives accession
+
+number classification and source 
+
+fig s phylogenetic placement and distribution of the most
+
+abundant fungal and chlorophyta otus and their closest rela 
+
+tives accession number classification and source 
+
+fig s boxplot showing the concentration of polycyclic aro 
+
+matic hydrocarbons in different treatments 
+
+fig s boxplot showing the concentration of aliphatic hydro 
+
+carbons in different treatments 
+
+fig s ordination showing the first two axes of the principal
+
+coordinates analysis pco of deltaproteobacteria otu compo 
+
+sition 
+
+fig s correlation matrix based on pearson’s correlation
+
+between most abundant sequences deltaproteobacteria
+otus and aliphatic and aromatic hydrocarbons 
+
+fig s ordination showing the first two axes of the principal
+
+coordinates analysis pco of fungi otu composition 
+
+fig s correlation matrix based on pearson’s correlation
+
+between most abundant sequences fungi otus and ali 
+phatic and aromatic hydrocarbons 
+
+table s list of most abundant bacterial otus across the
+
+dataset 
+
+table s list of most abundant archaeal otus 
+sequences 
+
+table s list of selected microeukaryote otus cercozoa 
+
+chlorophyta and fungi sequences ochrophyta 
+sequences 
+
+© john wiley sons ltd
+
+differential microbial response to ph and oil 
+
+https cran r project org web packages corrplot index html
+https cran r project org web packages corrplot index html
+http news nationalgeographic com deepwater oil spill birds gulf macondo louisiana 
+http news nationalgeographic com deepwater oil spill birds gulf macondo louisiana 
+http news nationalgeographic com deepwater oil spill birds gulf macondo louisiana 
+
+

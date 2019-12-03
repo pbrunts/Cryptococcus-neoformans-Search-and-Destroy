@@ -1,0 +1,7033 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deep x branching novel lineages and high diversity of haptophytes in the skagerrak norway uncovered by pyrosequencing
+
+
+original article
+
+deep branching novel lineages and high diversity
+of haptophytes in the skagerrak norway uncovered
+by pyrosequencing
+
+elianne s eggea wenche eikrema b bente edvardsena
+
+a department of biosciences university of oslo p o box blindern oslo norway
+
+b norwegian institute for water research gaustadall�een oslo norway
+
+keywords
+
+ s rdna electron microscopy 
+
+environmental sequencing haptophyta 
+
+high throughput sequencing oslofjorden 
+
+phylogeny protist richness 
+
+correspondence
+
+e s egge department of biosciences 
+
+university of oslo p o box blindern 
+
+ oslo norway
+
+telephone number 
+
+fax number 
+
+e mail e s egge ibv uio no
+
+received april revised june
+
+ accepted june 
+
+doi jeu 
+
+abstract
+
+microalgae in the division haptophyta may be difficult to identify to species by
+
+microscopy because they are small and fragile here we used high throughput
+
+sequencing to explore the diversity of haptophytes in outer oslofjorden skag 
+
+errak and supplemented this with electron microscopy nano and picoplank 
+
+tonic subsurface samples were collected monthly for yr and the haptophytes
+
+were targeted by amplification of rna cdna with haptophyta specific s ribo 
+
+somal dna v primers pyrosequencing revealed higher species richness of ha 
+
+ptophytes than previously observed in the skagerrak by microscopy from ca 
+
+ reads we obtained haptophyte operational taxonomic units otus 
+
+after rigorous filtering and clustering the majority of the otus
+
+matched environmental sequences not linked to a morphological species most
+
+of which were affiliated with the order prymnesiales phylogenetic analyses
+
+including oslofjorden otus and available cultured and environmental hapto 
+
+phyte sequences showed that several of the otus matched sequences form 
+
+ing deep branching lineages potentially representing novel haptophyte classes 
+
+pyrosequencing also retrieved cultured species not previously reported by
+
+microscopy in the skagerrak electron microscopy revealed species not yet
+
+genetically characterised and some potentially novel taxa this study contrib 
+
+utes to linking genotype to phenotype within this ubiquitous and ecologically
+
+important protist group and reveals great unknown diversity 
+
+marine haptophytes occur in all seas as major compo 
+
+nents of the pico and nanoplankton and carry out key pro 
+
+cesses in global biogeochemical cycles besides playing
+
+an important role as primary producers andersen 
+
+jardillier et al thomsen et al haptophyte
+
+species display a wide range of additional ecological func 
+
+tions both mixotrophic as well as some heterotrophic
+
+species exist jones et al kawachi et al and
+
+haptophytes are important bacterial grazers in the ocean
+
+ havskum and riemann unrein et al some
+
+haptophytes occur in symbiotic relationships either with
+
+other protists e g decelle et al or cyanobacteria
+
+ thompson et al bloom forming haptophytes may
+
+have large ecological and economical impact species
+
+within the genera prymnesium and chrysochromulina in
+
+particular p parvum and p polylepis may form toxic
+
+blooms that can be harmful to marine biota and farmed
+
+fish gran�eli et al blooms of the colony forming
+phaeocystis species p pouchetii p globosa and p ant 
+
+arctica may affect fisheries and tourism through the pro 
+
+duction of scum and acrylic acid edvardsen and imai
+
+ schoemann et al phaeocystis spp together
+
+with the calcifying haptophytes coccolithophores are
+
+also major producers of dimethylsulphoniopropionate and
+
+thus play an important role in the global sulphur cycle
+
+ edvardsen and imai malin and steinke 
+
+furthermore the production of calcified scales coccoliths 
+
+in the coccolithophores has a major impact on the earth’s
+
+carbon balance de vargas et al 
+
+despite the ecological importance of the haptophytes 
+
+knowledge on their species biodiversity is limited due to
+
+small cell size and morphological similarity identification
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+this is an open access article under the terms of the creative commons attribution noncommercial license which permits use 
+
+distribution and reproduction in any medium provided the original work is properly cited and is not used for commercial purposes 
+
+journal of eukaryotic microbiology issn 
+
+published by
+the international 
+society of 
+protistologistseukaryotic microbiology
+
+the journal of
+
+
+
+to species level often requires electron microscopy or
+
+molecular biological methods especially among the non 
+
+calcifying genera edvardsen et al estep and
+
+macintyre these are also fragile and may change
+
+form drastically upon fixation for microscopy and may
+
+lose appendages and scales essential for morphological
+
+identification jensen b kuylenstierna and karlson
+
+ about species of haptophytes have been
+
+described morphologically jordan et al and from
+
+ca of these the s rdna gene sequence is available
+
+ the protist ribosomal reference database per feb 
+
+guillou et al which is currently the most commonly
+
+sequenced marker for haptophytes however investiga 
+
+tions of environmental water samples using molecular
+
+methods have revealed a large diversity of novel hapto 
+
+phyte sequences which suggests that the total number of
+
+species is much higher particularly among the pico hapto 
+
+phytes bittner et al cuvelier et al liu et al 
+
+ moon van der staay et al simon et al 
+
+currently ca unique full length or partial s rdna
+
+haptophyte sequences are included in the pr database
+
+ guillou et al some of the environmental
+
+sequences may represent novel deep branching hapto 
+
+phyte lineages for instance clade d sensu edvardsen
+
+et al consists entirely of environmental sequences
+
+ moon van der staay et al and is sufficiently genet 
+
+ically divergent to be recognised as a separate order of
+
+haptophytes once the morphology of these taxa is known
+
+ edvardsen et al a third class of haptophytes has
+
+been proposed based exclusively on molecular data shi
+
+et al termed hap by shalchian tabrizi et al 
+
+ and recently simon et al recovered yet
+
+another deep branching lineage termed hap 
+
+in the skagerrak the sea separating norway and den 
+
+mark fig s a massive toxic bloom of prymnesium
+
+polylepis previously chrysochromulina polylepis in 
+
+had detrimental consequences for benthic organisms and
+
+farmed fish dahl et al lekve et al rosen 
+
+berg et al this bloom prompted electron micros 
+
+copy investigations of the diversity of the order
+
+prymnesiales in scandinavian waters eikrem in
+
+particular “chrysochromulina sensu lato” e g jensen
+
+ a here taken to mean species originally assigned to
+
+the genus chrysochromulina but now divided into five
+
+genera based on both molecular data and morphology
+
+ edvardsen et al the bloom was also a driving
+
+force for isolation of cultures morphological and molecular
+
+characterisation of strains and phylogenetic inference 
+
+resulting in descriptions of new species and revised taxon 
+
+omy edvardsen et al eikrem eikrem
+
+and edvardsen eikrem and throndsen today 
+
+these studies serve as a valuable reference for interpret 
+
+ing high throughput sequencing hts data the major
+
+advantage of hts methods is the sampling depth that can
+
+be obtained and the potential to recover fragile and rare
+
+species that may be missed with microscopy methods 
+
+however current hts technology imposes an upper limit
+
+on the length of the marker region of about – bp 
+which to a certain extent limits the taxonomic resolution 
+
+the variable v region of the s rdna is a widely used
+
+molecular marker in surveys of protistan diversity in
+
+general e g behnke et al dunthorn et al 
+
+medlin et al stoeck et al and has also been
+
+used to target haptophytes in particular shalchian tabrizi
+
+et al calculation of sequence similarity across the
+
+v region of selected haptophyte s rdna sequences
+
+ described in the methods section shows that most spe 
+
+cies of haptophytes can be distinguished based on the v 
+
+except certain groups of closely related species consider 
+
+ing recent discoveries of haptophyte richness using molec 
+
+ular tools we expect the haptophyte community in
+
+skagerrak to be more diverse than what was inferred from
+
+the earlier microscopy surveys 
+
+the skagerrak and outer oslofjorden are characterised
+
+by strong seasonal variation in meteorological and hydro 
+
+logical conditions in particular light and temperature the
+
+water masses are influenced by both saline atlantic and
+
+brackish water currents the baltic current and runoff from
+
+land resulting in highly variable salinity thus to recover
+
+haptophyte species with different environmental prefer 
+
+ences we included samples from all times of the year 
+
+we sampled subsurface seawater from the outer oslofjor 
+
+den monthly for yr and isolated rna to target cells that
+
+were alive and active at the time of sampling and to avoid
+
+extracellular dna from dead cells e g not et al 
+
+the haptophytes were targeted by amplification of the var 
+
+iable v region of the s rrna with haptophyte specific
+
+primers previously described in egge et al in addi 
+
+tion to the samples for sequencing we also collected and
+
+analysed samples for electron microscopy the seasonal
+
+dynamics of the haptophyte community will be presented
+
+in a following paper 
+
+in this work we aimed at describing the diversity of ha 
+
+ptophytes in the skagerrak by pyrosequencing and
+
+supplement this with electron microscopy we addressed
+
+the following main questions what is the otu and spe 
+
+cies richness and taxonomic composition of haptophytes
+
+in the skagerrak how does the diversity revealed by 
+
+pyrosequencing compare to previous microscopical obser 
+
+vations do we recover novel haptophyte lineages and
+
+taxa in the skagerrak by pyrosequencing 
+
+materials and methods
+
+study site and sampling
+
+samples were taken approximately once a month in the
+
+period september –june in the outer oslofjor 
+den of skagerrak at the station of n e 
+
+fig s with the exception of the september sam 
+
+pling which due to strong winds on the sampling day was
+
+carried out at the nearby of station n e 
+
+total daily photosynthetically active radiation at the surface
+
+ par mol photons m d was obtained from a nearby
+
+weather station norwegian university of life sciences 
+�as n e water temperature and conductivity
+ as a measure of salinity by depth were measured directly
+
+on site using a ctd falmouth scientific inc cataumet 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+ma attached to a rosette with niskin bottles throughout
+
+the study period daily par above water and average
+
+temperature and salinity in the upper mixed layer ranged
+
+from december – june mol m d � °c jan 
+feb to °c aug and – psu respectively egge
+et al unpubl data the september and june 
+
+samplings were part of the eu project biomarks www 
+
+biomarks org 
+
+from m depth litres of seawater were collected in
+
+niskin bottles and prefiltered through a lm nylon mesh
+into hydrochloric acid washed plastic carboys to increase
+
+recovery of the smallest species and increase diversity 
+
+we separated between the nano and pico size fractions
+
+ – and – lm respectively except the october
+ sample where the smallest size fraction was –
+ lm and september and june where the
+nano size fraction was – lm and from which the
+pico size fraction is not available twenty litres of
+
+ lm seawater were filtered by peristaltic pumping
+ masterflex coleparmer il at a rate of –
+ l min through a lm pore size mm diam polycar 
+bonate filter millipore billerica ma placed in a millipore
+
+stainless steel tripod connected to a corresponding filter
+
+holder with a lm pore size filter filtration time was
+kept to a minimum – min to minimise rna degrada 
+tion the filters were carefully removed from the filter
+
+holders cut in four and each piece was placed in a ml
+
+cryo tube immediately flash frozen in liquid n and kept
+
+at � °c until rna extraction 
+
+rna extraction pcr and sequencing
+
+total rna was extracted with rna nucleospin ii
+
+ macherey nagel d€uren germany from each sample 
+two quarters of a mm filter were cut in smaller pieces
+
+with flame sterilised scissors and transferred to an rnase 
+
+free ml centrifuge tube corning new york ny con 
+
+taining ml of the lysis buffer provided in the extraction
+
+kit and ll b mercaptoethanol to ensure that all the
+material was washed off the filter and to facilitate
+
+efficient lysis but without damaging the rna the tubes
+
+were shaken in a fastprep bead beater with a teen 
+
+prep adapter mp biomedicals illkirch france at 
+
+ s beats per minute with a s break without
+
+beads added to the tubes the lysate was transferred to
+
+three parallel extraction columns and extraction was per 
+
+formed according to the protocol from the manufacturer 
+
+rna was eluted in – ll rnase free water per col 
+umn which was run through the column twice and the
+
+eluates were pooled rna concentration was determined
+
+using a nanodrop spectrophotometer thermo scientific 
+
+wilmington de the rna eluates were checked for
+
+residual dna by running standard pcr with universal
+
+eukaryote partial s rdna primers f and r anneal 
+
+ing temperature °c for cycles see e g edvardsen
+et al if a pcr product could be detected by gel
+
+electrophoresis the rna eluate was treated with addi 
+
+tional dnase turbo dnase kit ambion austin tx 
+
+according to the protocol from the manufacturer cdna
+
+was reverse transcribed from rna using high fidelity st
+
+strand cdna synthesis kit agilent santa clara ca with
+
+random primers according to the protocol from the manu 
+
+facturer for the synthesis reaction approximately ng
+
+of rna was added to a mix containing ll accuscript
+rt buffer x ll random primers lg ll ll
+dntp final conc mm of each dntp and rnase free
+
+water to a total volume of ll the mix was incubated
+at °c for min before annealing at room temperature
+for min subsequently ll mm dtt dithiothreitol 
+reducing agent ll accuscript reverse transcriptase 
+and ll rnase block ribonuclease inhibitor were added 
+the reaction was incubated at °c for min before
+cdna synthesis took place at °c for min in a ther 
+mocycler mastercycler ep gradient s eppendorf ham 
+
+burg germany the synthesis reaction was terminated by
+
+incubation at °c for min rna was extracted from
+all samples except that from the october pico size
+
+fraction from which dna was extracted with dna nucle 
+
+ospin plant ii kit macherey nagel d€uren germany 
+according to the protocol from the manufacturer samples
+
+from september and june biomarks samples 
+
+were prepared as described in logares et al 
+
+for pcr amplification we used the primer pair hap 
+
+described in egge et al with universal eukaryote
+
+forward primer flong gcggtaattccagctccaa 
+ and haptophyte specific reverse primer prym 
+ gatcagtgaaaacatccctgg calculation of a
+sequence similarity matrix for the region amplified with
+
+this primer pair bioedit hall table s based on
+
+the reference alignment described below shows that
+
+this primer pair amplifies a region that distinguishes
+
+between most haptophyte species for which the s
+
+rdna sequence is available except for a few very clo 
+
+sely related species fusion primers for pyrosequencing
+
+were designed according to the protocol by roche by
+
+adding adaptors adaptor a ccatctcatccc
+tgcgtgtctccgac key tcag and multiplex identifiers
+
+ mids or ‘tag’ to the forward primer and adaptor b 
+ cctatcccctgtgtgccttggcagtc to the reverse
+primer the primers were rp cartridge purified after
+
+synthesis eurogentec seraing belgium pcr was per 
+
+formed with the fusion primers directly on an eppendorf
+
+thermocycler mastercycler ep gradient s eppendorf in
+
+ ll reactions containing x phusion gc buffer lm
+of each primer mm dntp dmso u
+
+polymerase phusion finnzymes vantaa finland and
+
+ ll of the cdna synthesis reaction described above 
+the pcr programme was as follows initial denaturation
+
+step at °c for s then cycles of °c for s 
+ °c for s °c for s and final extension at
+ °c for min pcr was run in four separate reactions
+for each sample the four pcr reactions were pooled
+
+and purified with ampure beads beckmancoulter brea 
+
+ca according to the protocol from the manufacturer 
+
+the purified amplicons were quantified with quant it
+
+dsdna broad range assay kit invitrogen carlsbad ca 
+
+and pooled to give equal concentrations prior to
+
+sequencing 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+emulsion pcr and pyrosequencing of the ampli 
+
+cons was performed at the norwegian sequencing centre
+
+at the department of biosciences university of oslo
+
+ www sequencing uio no using gs flx titanium technol 
+
+ogy the amplicons were prepared for sequencing with
+
+lib l chemistry and were sequenced unidirectionally from
+
+the forward primer on ½ of a life sciences flx
+titanium sequencing plate life sciences branford 
+
+ct the sff files are submitted to the sequence read
+
+archive european nucleotide archive with study accession
+
+number prjeb http www ebi ac uk ena data view 
+
+prjeb 
+
+bioinformatic filtering
+
+the flowgrams were denoised with ampliconnoise
+
+ quince et al reads with mismatches with bar 
+
+code and forward primer were removed from the dataset 
+
+and default settings were used as described in the docu 
+
+mentation for the programme quince previously
+
+tested on haptophyte s rdna v pyrosequencing data
+
+ egge et al putative chimeras were identified by
+
+perseus integrated in ampliconnoise and removed the
+
+haptophyte reads were identified by classifying the deno 
+
+ised reads with ‘classify seqs’ against the silva eukarya
+
+database v quast et al using mothur v 
+
+ schloss et al the haptophyte reads were selected
+
+using get lineage and aligned using align seqs in mothur
+
+with default settings against a template alignment the
+
+template alignment comprised all available unique hapto 
+
+phyte s rdna sequences downloaded from embl all
+
+publicly available as of january omitting dupli 
+
+cates in total sequences aligned in mafft v with
+
+the q ins i strategy katoh and toh reads that did
+
+not align in the targeted region and or were shorter than
+
+ bp were removed uncorrected pairwise distances
+
+between the aligned reads were calculated with the dis 
+
+t seqs command with settings calc onegap a string of
+gaps counting as a single gap considering the high simi 
+
+larity between some haptophyte species over the v 
+
+region table s the reads were clustered at a 
+
+similarity threshold with the average neighbour algorithm 
+
+this gave unique otus otus that contained
+
+only one read singletons and otus that contained only
+
+two reads that were both from the same sample were
+
+removed altogether otus 
+
+all known members of prymnesiophyceae have a six a
+
+homopolymer position – in reference sequence
+aj p polylepis s rdna but we observed that
+
+this was reduced to five in several otus too short or
+
+long homopolymers is a common error with pyrose 
+
+quencing e g gilles et al to avoid spurious otu
+
+richness because of differences in homopolymer length 
+
+the alignment of unique otus was visually inspected
+
+in bioedit and otus that only differed in the length of the
+
+homopolymers were grouped together the otu with
+
+homopolymer lengths matching the majority was taken to
+
+be the representative altogether otus were grouped
+
+with others 
+
+taxonomic assignation
+
+to ensure that the closest relatives of all unique oslofjor 
+
+den otus hereafter “of otus” were included in
+
+the alignment for phylogenetic analysis all unique otus
+
+were blasted altschul et al against the ncbi nr
+
+database per june and all sequence read archive
+
+ sra projects with the substrings “protist” or “plankton”
+
+in the title the blast results are provided in table s 
+
+this also served as an additional manual chimera check 
+
+otus where one part had mismatches to the best hit 
+but where this part had a match to a different
+
+sequence and which occurred only in one sample were
+
+considered to be chimeras not detected by perseus and
+
+removed from the dataset of the remaining
+
+otus most of which occurred as fewer than reads 
+
+to be able to interpret the diversity and species compo 
+
+sition revealed by pyrosequencing in light of previous
+
+reports from skagerrak kattegat we compared the result
+
+of the blast search to the skagerrak phytoplankton
+
+checklist assembled by kuylenstierna and karlson 
+
+and observations by jensen a and eikrem 
+
+ table s 
+
+phylogenetic placement of oslofjorden otus
+
+for construction of phylogenetic trees the of otus were
+
+aligned to a reference alignment using the add in function
+
+in mafft with method multi ins fragment katoh and
+
+frith the reference alignment was a subset of the
+
+template alignment described above and consisted of
+
+selected representative sequences of each cultured spe 
+
+cies with available s rdna sequences environmental
+
+sequences representing putative novel clades clades d e
+
+ edvardsen et al hap shalchian tabrizi
+
+et al hap simon et al and clade f hap 
+
+ and hap defined in this study and the nearest
+
+blast hit in ncbi nr to each unique otu where the
+
+nearest blast hit was not already present in the align 
+
+ment the sequence was added to the existing alignment
+
+using the add in function in mafft for full length
+
+sequences with method l ins katoh and frith 
+
+the reference alignment was edited by eye in bioedit in
+
+total the reference alignment comprised sequences 
+
+maximum likelihood phylogenetic trees of the reference
+
+sequences were constructed both including and excluding
+
+the of otus using raxml v stamatakis 
+
+with substitution model gtrcat and bootstrap runs 
+
+raxml was run on the lifeportal on the university of
+
+oslo computer cluster www lifeportal uio no 
+
+electron microscopy
+
+from each sampling date samples for scanning sem 
+
+and transmission tem electron microscopy were
+
+collected and prepared as follows water samples – litre
+were prefiltered through a lm mesh gauze and
+concentrated ca x with tangential flow filtration tff 
+
+vivaflow sartorius ag goettingen germany or ca 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+ x with gravitational filtration on lm polycarbonate fil 
+ter for additional examinations of coccolithophores 
+
+ ml of lm prefiltered seawater was filtered onto
+polycarbonate filters lm pore size mm diam what 
+man maidstone uk placed on filter holders the filters
+
+were rinsed with – ml alkaline distilled water air
+dried and placed on stubs 
+
+scanning electron microscopy
+a volume of ll each of osmium tetroxide sigma 
+aldrich st louis mo and tff concentrated water
+
+sample was placed on round glass coverslips dipped in
+
+poly l lysine the cells were left to settle in a moist cham 
+
+ber over night the samples were transferred to a critical
+
+point holder and rinsed min in m cacodylate
+
+buffer with ph agar scientific ltd essex uk the
+
+samples were dehydrated in an ethanol series starting at
+
+ proceeding through and for min at
+
+each step the dehydration was concluded with
+
+ min in ethanol and was transferred to the
+
+critical point dryer bal tec cpd technion haifa 
+
+israel where the ethanol was replaced with carbon diox 
+
+ide the samples were then mounted on stubs and coated
+
+with ca nm platinum in a sputter coater cressington
+
+ r desktop advanced coating systems ted pella
+
+incorporated redding ca the samples were viewed in
+
+a hitachi s scanning electron microscope hitachi
+
+high tech tokyo japan at the electron microscopy unit 
+
+department of biosciences university of oslo 
+
+transmission electron microscopy
+whole mounts were prepared from a drop of the tff con 
+
+centrated samples placed on a copper grid covered with a
+
+carbon coated polyvinyl formvar film the samples were
+
+fixed in the vapour of osmium tetroxide for min and
+
+left to air dry for h subsequently they were rinsed in
+
+distilled water air dried and either contrasted with a satu 
+
+rated solution of uranyl acetate merck darmstadt ger 
+
+many or shadow casted with platinum at a ° angle in
+an edwards speedivac e coating unit edwards 
+
+crawley west sussex uk 
+
+thin sections were prepared of tff concentrated sam 
+
+ples fixed for h in glutaraldehyde final concentration
+
+ electron microscopy sciences hatfield pa and centri 
+
+fuged eppendorf model r at g for min at
+
+ °c the resulting pellet was rinsed min in sterile
+filtered seawater and min m cacodylate buffer
+
+ ph and subsequently fixed for h in a mixture of 
+
+osmium tetroxide potassium ferricyanide sigma 
+
+aldrich in m cacodylate buffer final concentrations 
+
+subsequently the samples were rinsed min in
+
+ m cacodylate buffer before they were dehydrated in
+
+an ethanol series starting at min in proceeding
+
+through and the dehydration was
+
+concluded with min in ethanol followed by
+
+ min in propylenoxide the cells were left
+
+overnight at room temperature in propylenoxide and
+
+epoxy resin em bed based on epon 
+
+sigma aldrich rinsed h in epoxy resin and
+
+polymerised for h at °c sectioning was carried out
+on a reichert ultracut s ultramicrotome leica vienna 
+
+austria the thin sections were stained min in satu 
+
+rated aqueous uranyl acetate and min in lead citrate
+
+ reynolds the thin sections and whole mounts
+
+were viewed in a phillips cm hillsboro or at the
+
+electron microscopy unit department of biosciences 
+
+university of oslo 
+
+results and discussion
+
+ pyrosequencing recovers unprecedented diversity
+of haptophytes in skagerrak
+
+the phytoplankton communities in the oslofjorden and
+
+skagerrak have been studied by microscopy throughout
+
+the th century especially larger nano and microplank 
+
+ton dominated by diatoms and dinoflagellates which may
+
+be identified under the light microscope e g hasle and
+
+smayda most haptophytes are small and fragile
+
+and can only be identified to higher taxonomic levels
+
+under the light microscope phylum – genus and require
+electron microscopy for certain species identification to
+
+achieve the sampling depth and potentially high taxonomic
+
+resolution that can be obtained with hts techniques we
+
+did pyrosequencing of samples collected monthly for
+
+ yr targeting the haptophytes with haptophyte specific
+
+primers overall after rigorous cleaning of reads including
+
+denoising with ampliconnoise of the total reads
+
+ reads were assigned to haptophyta which con 
+
+firms the specificity of the primer pair after clustering at
+
+ similarity and removal of dubious reads as
+
+described in the methods section we obtained 
+
+unique otus table s the number each otu is given is
+
+according to their normalised total read abundance where
+
+otu had most reads the blast hits in ncbi nr of the
+
+ most abundant otus are given in table 
+
+as shown in the inferred phylogenetic trees and from
+
+the blast results the phylogenetic diversity of the of
+
+otus is impressive fig – table s all orders of hap 
+tophyta were represented and within the order prymnesi 
+
+ales all genera were represented prymnesiaceae and
+
+chrysochromulinaceae were the most otu rich families
+
+ table further we recovered a high diversity of novel
+
+taxa out of the otus only had 
+sequence similarity with a cultured and genetically charac 
+
+terised species whereas the majority had better match
+
+with environmental clones table s fig – the high 
+est number of uncultured and genetically uncharacterised
+
+taxa was affiliated with prymnesiaceae and chrysochrom 
+
+ulinaceae table 
+
+considering that the material examined by electron
+
+microscopy was obtained from much smaller volumes of
+
+water than what was processed for pyrosequencing the
+
+aim here is not a direct comparison between hts and
+
+electron microscopy methods rather we consider these
+
+methods to give complementary information about the
+
+haptophyte community thus the pyrosequencing results
+
+are interpreted both in relation to the em images obtained
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+t
+a
+b
+le
+
+ 
+ 
+t
+h
+e
+ 
+ 
+p
+ro
+p
+o
+rt
+io
+n
+a
+lly
+
+m
+o
+s
+t
+a
+b
+u
+n
+d
+a
+n
+t
+h
+a
+p
+to
+p
+h
+y
+te
+
+v
+ 
+s
+s
+u
+
+rr
+n
+a
+
+o
+t
+u
+s
+re
+c
+o
+rd
+e
+d
+in
+
+s
+k
+a
+g
+e
+rr
+a
+k
+in
+
+th
+e
+p
+e
+ri
+o
+d
+s
+e
+p
+te
+m
+b
+e
+r
+ 
+ 
+ 
+ 
+–j
+
+u
+n
+e
+ 
+ 
+ 
+ 
+a
+
+o
+t
+u
+
+id
+
+p
+e
+rc
+e
+n
+ta
+g
+e
+
+o
+f
+to
+ta
+l
+re
+a
+d
+s
+
+ n
+o
+rm
+
+a
+lis
+e
+d
+ 
+
+g
+ro
+u
+p
+
+l
+o
+w
+e
+s
+t
+ta
+x
+o
+n
+o
+m
+ic
+
+le
+v
+e
+l
+p
+o
+s
+s
+ib
+le
+
+to
+d
+e
+te
+rm
+
+in
+e
+
+b
+e
+s
+t
+b
+l
+a
+s
+t
+h
+it
+ s
+p
+e
+c
+ie
+s
+a
+n
+d
+ o
+r
+
+e
+n
+v
+ir
+o
+n
+m
+e
+n
+ta
+l
+c
+lo
+n
+e
+n
+a
+m
+e
+ 
+
+a
+c
+c
+ 
+n
+o
+ 
+
+o
+f
+b
+e
+s
+t
+
+b
+l
+a
+s
+t
+h
+it
+
+ 
+m
+a
+tc
+h
+
+to
+b
+e
+s
+t
+
+b
+l
+a
+s
+t
+h
+it
+
+c
+u
+lt
+u
+re
+d
+
+s
+iz
+e
+
+fr
+a
+c
+ti
+o
+n
+
+p
+re
+v
+io
+u
+s
+ly
+
+o
+b
+s
+e
+rv
+e
+d
+in
+
+s
+k
+a
+g
+e
+rr
+a
+k
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+ 
+
+c
+a
+lc
+ih
+a
+p
+to
+p
+h
+y
+c
+id
+a
+e
+
+e
+m
+ili
+a
+n
+ia
+
+h
+u
+x
+le
+y
+i
+
+e
+m
+ili
+a
+n
+ia
+
+h
+u
+x
+le
+y
+i 
+g
+e
+p
+h
+y
+ro
+c
+a
+p
+s
+a
+
+o
+c
+e
+a
+n
+ic
+a
+
+h
+q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+ 
+
+p
+h
+a
+e
+o
+c
+y
+s
+ta
+le
+s
+
+p
+h
+a
+e
+o
+c
+y
+s
+ti
+s
+c
+o
+rd
+a
+ta
+
+p
+h
+a
+e
+o
+c
+y
+s
+ti
+s
+c
+o
+rd
+a
+ta
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+n
+o
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+s
+im
+
+p
+le
+x
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+f 
+s
+im
+
+p
+le
+x
+ 
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+c
+a
+lc
+ih
+a
+p
+to
+p
+h
+y
+c
+id
+a
+e
+
+c
+la
+d
+e
+f
+
+ 
+b
+ h
+ 
+
+f
+n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+a
+m
+p
+a
+n
+u
+lif
+e
+ra
+ 
+
+c
+ 
+c
+y
+m
+b
+iu
+m
+ c
+ 
+s
+tr
+o
+b
+ilu
+s
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+p
+ry
+m
+n
+e
+s
+ia
+c
+e
+a
+e
+
+h
+a
+p
+to
+lin
+a
+e
+ri
+c
+in
+a
+ h
+ 
+fr
+a
+g
+a
+ri
+a
+ 
+
+h
+ 
+c
+f 
+h
+e
+rd
+le
+n
+s
+is
+ h
+ 
+h
+ir
+ta
+
+h
+a
+p
+to
+lin
+a
+e
+ri
+c
+in
+a
+ h
+ 
+fr
+a
+g
+a
+ri
+a
+ 
+
+h
+ 
+c
+f 
+h
+e
+rd
+le
+n
+s
+is
+ h
+ 
+h
+ir
+ta
+
+a
+m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+p
+h
+a
+e
+o
+c
+y
+s
+ta
+le
+s
+
+p
+h
+a
+e
+o
+c
+y
+s
+ti
+s
+p
+o
+u
+c
+h
+e
+ti
+i
+
+p
+h
+a
+e
+o
+c
+y
+s
+ti
+s
+p
+o
+u
+c
+h
+e
+ti
+i
+
+a
+f
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+p
+ry
+m
+n
+e
+s
+ia
+c
+e
+a
+e
+
+im
+a
+n
+to
+n
+ia
+
+im
+a
+n
+to
+n
+ia
+
+s
+p
+ 
+s
+tr
+a
+in
+
+r
+c
+c
+
+ 
+ 
+ 
+ 
+
+j
+n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+ 
+ 
+
+c
+a
+lc
+ih
+a
+p
+to
+p
+h
+y
+c
+id
+a
+e
+
+s
+y
+ra
+c
+o
+s
+p
+h
+a
+e
+ra
+
+p
+u
+lc
+h
+ra
+
+s
+y
+ra
+c
+o
+s
+p
+h
+a
+e
+ra
+
+p
+u
+lc
+h
+ra
+ 
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+n
+o
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+a
+m
+p
+a
+n
+u
+lif
+e
+ra
+ 
+
+c
+ 
+c
+y
+m
+b
+iu
+m
+ c
+ 
+s
+tr
+o
+b
+ilu
+s
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+a
+m
+p
+a
+n
+u
+lif
+e
+ra
+ 
+
+c
+ 
+c
+y
+m
+b
+iu
+m
+ c
+ 
+s
+tr
+o
+b
+ilu
+s
+
+f
+n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+a
+c
+a
+n
+th
+a
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+a
+c
+a
+n
+th
+a
+ t
+w
+o
+
+m
+is
+m
+a
+tc
+h
+e
+s
+w
+it
+h
+c
+ 
+th
+ro
+n
+d
+s
+e
+n
+ii 
+
+f
+n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+a
+lc
+ih
+a
+p
+to
+p
+h
+y
+c
+id
+a
+e
+
+c
+la
+d
+e
+f
+
+s
+h
+a
+x
+ 
+ 
+ 
+
+h
+q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+a
+lc
+ih
+a
+p
+to
+p
+h
+y
+c
+id
+a
+e
+
+a
+lg
+ir
+o
+s
+p
+h
+a
+e
+ra
+
+ro
+b
+u
+s
+ta
+
+a
+lg
+ir
+o
+s
+p
+h
+a
+e
+ra
+
+ro
+b
+u
+s
+ta
+
+a
+m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+d
+h
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+h
+a
+p
+ 
+
+h
+a
+p
+ 
+
+s
+h
+a
+c
+ 
+ 
+ 
+
+h
+q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+f
+s
+ 
+ 
+g
+a
+ 
+ 
+ 
+ 
+ 
+a
+u
+g
+ 
+ 
+ 
+ 
+m
+
+h
+m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+p
+ry
+m
+n
+e
+s
+ia
+c
+e
+a
+e
+
+p
+ry
+m
+n
+e
+s
+iu
+m
+
+p
+o
+ly
+le
+p
+is
+
+p
+ry
+m
+n
+e
+s
+iu
+m
+
+p
+o
+ly
+le
+p
+is
+ 
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+f
+n
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+ 
+ 
+ 
+ 
+b
+h
+ 
+ 
+ 
+ 
+ 
+s
+p
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+p
+ry
+m
+n
+e
+s
+ia
+c
+e
+a
+e
+
+p
+ry
+m
+n
+e
+s
+iu
+m
+
+k
+a
+p
+p
+a
+
+p
+ry
+m
+n
+e
+s
+iu
+m
+
+k
+a
+p
+p
+a
+ s
+g
+s
+a
+ 
+ 
+ 
+
+h
+q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+
+h
+o
+tx
+p
+ 
+f 
+
+e
+u
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+b
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+p
+h
+a
+e
+o
+c
+y
+s
+ta
+le
+s
+
+p
+h
+a
+e
+o
+c
+y
+s
+ti
+s
+g
+lo
+b
+o
+s
+a
+
+p
+h
+a
+e
+o
+c
+y
+s
+ti
+s
+g
+lo
+b
+o
+s
+a
+ 
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+y
+e
+s
+
+b
+o
+th
+
+y
+e
+s
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+la
+d
+e
+d
+
+c
+la
+d
+e
+d
+
+m
+a
+ 
+ 
+ 
+ p
+ry
+ 
+ c
+ 
+
+j
+x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+p
+ry
+m
+n
+e
+s
+ia
+le
+s
+c
+la
+d
+e
+b
+ 
+
+p
+ry
+m
+n
+e
+s
+ia
+le
+s
+c
+la
+d
+e
+b
+ 
+
+m
+o
+ 
+ 
+ 
+ 
+
+m
+ 
+ 
+ 
+ 
+ 
+
+h
+m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+o
+t
+u
+
+ 
+ 
+
+ 
+ 
+ 
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+c
+h
+ry
+s
+o
+c
+h
+ro
+m
+u
+lin
+a
+c
+e
+a
+e
+
+s
+h
+a
+x
+ 
+ 
+ 
+
+h
+q
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+n
+o
+
+b
+o
+th
+
+–
+
+–
+ 
+n
+o
+t
+a
+p
+p
+lic
+a
+b
+le
+ 
+
+a
+t
+h
+e
+ra
+w
+ s
+ff
+ fi
+le
+s
+h
+a
+v
+e
+b
+e
+e
+n
+d
+e
+p
+o
+s
+it
+e
+d
+in
+
+th
+e
+s
+e
+q
+u
+e
+n
+c
+e
+r
+e
+a
+d
+a
+rc
+h
+iv
+e
+ s
+r
+a
+ 
+w
+it
+h
+a
+c
+c
+e
+s
+s
+io
+n
+n
+u
+m
+b
+e
+r 
+p
+r
+j
+e
+b
+ 
+ 
+ 
+ 
+ h
+tt
+p
+ 
+ w
+
+w
+w
+ e
+b
+i 
+a
+c
+ u
+k
+ e
+n
+a
+ d
+a
+ta
+ v
+ie
+w
+ p
+r
+j
+e
+b
+ 
+ 
+ 
+ 
+ 
+
+b
+f
+la
+g
+g
+e
+d
+a
+s
+c
+h
+im
+
+e
+ri
+c
+in
+
+th
+e
+p
+ro
+ti
+s
+t
+r
+ib
+o
+s
+o
+m
+a
+l
+r
+e
+fe
+re
+n
+c
+e
+d
+a
+ta
+b
+a
+s
+e
+ h
+tt
+p
+ 
+ s
+s
+u
+ r
+rn
+a
+ o
+rg
+ 
+ 
+a
+n
+d
+th
+e
+re
+fo
+re
+
+n
+o
+t
+in
+c
+lu
+d
+e
+d
+in
+
+th
+e
+p
+h
+y
+lo
+g
+e
+n
+y
+ 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+from the same samples and observations from previous
+
+electron microscopy surveys 
+
+from previous surveys of scandinavian waters alto 
+
+gether morphological species of haptophytes have
+
+been reported eikrem jensen a kuylenstierna
+
+and karlson however currently the s rdna
+
+sequence is available from only of these table s 
+
+hts nevertheless reveals a higher species richness of ha 
+
+ptophytes than previously reported from skagerrak of the
+
+species previously reported with known s rdna
+
+sequence eight were not recovered by sequencing
+
+ table s conversely of the sequenced and morphologi 
+
+cally described species we detected three had not previ 
+
+ously been reported from the skagerrak interestingly two
+
+of these were proportionally abundant otus phaeocystis
+
+cordata otu and syracosphaera pulchra otu 
+
+whereas the third was the freshwater species chrysoch 
+
+romulina parva otu table s 
+
+of the otus and otus were
+
+found uniquely in the pico and nanoplanktonic size frac 
+
+tions respectively table s of the otus found
+
+uniquely in the nano size fraction most were affiliated with
+
+coccolithophores or phaeocystales whereas the otus
+
+found only in the pico size fraction were mostly affiliated
+
+with chrysochromulinaceae and novel clades consisting
+
+of environmental sequences only the only cultured
+
+species found exclusively in the pico size fraction was
+
+chrysochromulina rotalis size fractionation by in line filtra 
+
+tion obviously does not separate the pico and nanoplank 
+
+tonic populations perfectly but the size fraction in which
+
+an otu is predominantly found can give an indication of
+
+its cell size range 
+
+observations by electron microscopy
+
+all samples analysed by pyrosequencing were also
+
+examined qualitatively by either tem or sem or both the
+
+haptophyte species observed by electron microscopy in
+
+this study are listed in table and described more in
+
+detail under each taxonomic group below 
+
+support for novel classes of haptophytes
+
+hap fig 
+several of the otus matched environmental sequences
+
+that form novel clades we detected four otus which
+
+with good support grouped together with an environmen 
+
+tal sequence isolated from surface waters of the marmara
+
+sea turkey previously suggested to represent a putative
+
+new class level clade of haptophytes hap simon et al 
+
+ in our phylogenetic analysis this clade also
+
+included the environmental clone shax isolated from
+
+ m depth in the saanich inlet british colombia canada
+
+ orsi et al this clade has only ca sequence
+
+similarity to representatives from either of the two for 
+
+mally described classes of haptophytes and its position in
+
+the haptophyte phylogeny is unstable in our analysis this
+
+clade was placed sister to pavlovophycae but the place 
+
+ment was not supported simon et al found
+
+it to either branch as a sister group of pavlovophyceae or
+
+at the base of both pavlovophyceae and prymnesiophy 
+
+ceae but neither of the placements were supported nev 
+
+ertheless our results confirm the existence of this clade 
+
+and indicate that it consists of several species 
+
+hap and hap fig 
+the phylogenetic analyses suggest the existence of two
+
+additional new classes here termed “hap ” and “hap 
+
+ ” six of otus were affiliated with hap which con 
+
+sists of four environmental sequences previously isolated
+
+from the caribbean sea edgcomb et al at
+
+ m depth in the sargasso sea countway et al 
+
+ m depth in the saanich inlet canada orsi
+
+et al and the north pacific frias lopez et al 
+
+ while the support for this clade was good 
+
+its placement in the haptophyte tree was uncertain fur 
+
+thermore there was considerable divergence also within
+
+the clade the environmental sequences in this clade were
+
+only – similar over the part of s rdna they over 
+lapped 
+
+the two environmental clones shac isolated from
+
+ m in the saanich inlet orsi et al and
+
+fs aa aug m from the florida strait cuvelier
+
+et al formed a clade with weak support in the tree
+
+without of otus fig s a here termed hap the
+
+ th most abundant otu otu in the dataset was
+
+ similar to shac which in turn was – 
+similar to members of prymnesiophyceae and ca 
+
+similar to members of pavlovophyceae as determined by
+
+a manual blast search against ncbi nr otus 
+
+and were also placed in this clade but with no sup 
+
+port fig over the entire s rdna the divergence
+
+between the established classes pavlovophyceae and
+
+prymnesiophyceae is ca edvardsen et al 
+
+although the divergence between sequences will depend
+
+on the region of the s rdna under consideration it
+
+seems these environmental lineages are divergent enough
+
+to warrant the erection of new classes once the morpho 
+
+logies of these species are known 
+
+evidence for novel deep branching lineages has also
+
+been found from cultured strains the marine strain cg 
+
+isolated from south africa was here placed among the
+
+hap clades but with no certain position in the haptophyte
+
+phylogeny a description of this new species possibly rep 
+
+resenting a new haptophyte class is underway sym et al 
+
+unpubl data 
+
+diversity within established clades
+
+class pavlovophyceae fig 
+only four otus were placed within the pavlovophyceae
+
+ otu and this class is much less
+
+diverse than prymnesiophyceae with only formally
+
+described species of which all are genetically character 
+
+ised in the s rdna e g bendif et al however 
+
+as for the prymnesiophyceae the species richness of
+
+pavlovophyceae is probably higher than what is currently
+
+described all four otus were placed as sister groups to
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+ 
+
+jf pavlova sp 
+
+eu phaeocystis sp 
+
+jf diacronema ennorea
+
+af clade d oli 
+
+eu uncultured eukaryote clone hotxp f 
+
+ef phaeocystis globosa
+
+jf exanthemachrysis sp 
+
+hm uncultured haptophyte clone t w d 
+
+hq uncultured eukaryote clone shbf 
+
+aj phaeocystis globosa
+
+otu 
+
+otu 
+
+otu nano
+
+dq diacronema viridis
+
+af phaeocystis sp 
+
+jf exanthemachrysis sp 
+
+otu 
+
+af clade d oli 
+
+af phaeocystis jahnii
+
+af phaeocystis pouchetii
+
+eu pavlovales sp 
+
+x phaeocystis antarctica
+
+af diacronema aff vlkianum
+
+otu 
+
+jf diacronema sp 
+
+otu 
+
+eu uncultured clone dhot c 
+
+aj phaeocystis pouchetii
+
+jx uncultured haptophyte clone ma pav c 
+
+otu nano
+
+jx phaeocystis sp 
+
+eu phaeocystis sp 
+
+otu 
+
+eu uncultured eukaryote clone hotxp a 
+
+jx uncultured haptophyte clone ma pry c 
+
+l chilomonas paramecium
+
+af pavlova pinguis
+
+otu 
+
+hm uncultured marine eukaryote clone fs aa aug m
+
+eu phaeocystis globosa
+
+eu phaeocystis globosa
+
+otu 
+
+aj diacronema virescens
+
+otu pico
+
+aj exanthemachrysis gayraliae
+
+af clade d oli 
+
+aj phaeocystis globosa
+
+otu nano
+
+eu phaeocystis sp 
+
+otu nano
+
+otu 
+
+otu 
+
+x phaeocystis antarctica
+
+jx phaeocystis cordata
+
+x phaeocystis globosa
+
+jx uncultured haptophyte clone ma pry c 
+
+jx phaeocystis sp 
+
+hm uncultured clone fs ja mar m
+
+jf rebecca sp 
+
+otu 
+
+hq uncultured eukaryote clone shax 
+
+fj uncultured marine haptophyte clone biosope t 
+
+af exanthemachrysis gayraliae
+
+otu 
+
+hq pavlovaceae sp 
+
+hg cg south africa
+
+hm uncultured clone fs g aug m
+
+otu 
+
+eu uncultured clone ind 
+
+jx uncultured haptophyte clone dh pry c 
+
+jx uncultured eukaryote clone bh sp 
+
+jf diacronema vlkianum
+
+otu nano
+
+dq phaeocystis sp 
+
+x phaeocystis antarctica
+
+otu nano
+
+gu uncultured eukaryote clone bca f rm f 
+
+aj pavlova pseudogranifera
+
+otu nano
+
+otu 
+
+otu 
+
+ay kathablepharis remigera
+
+jf diacronema noctivaga
+
+otu 
+
+otu nano
+
+af clade d oli 
+
+l rebecca salina
+
+hq uncultured eukaryote clone shac 
+
+fj uncultured marine haptophyte clone biosope t 
+
+otu nano
+
+hm uncultured marine eukaryote clone fs e mar m
+
+otu pico
+
+eu phaeocystis sp 
+
+aj phaeocystis sp 
+
+otu pico
+
+jf diacronema sp 
+
+otu nano
+
+dq uncultured marine eukaryote clone envp 
+
+otu nano
+
+otu nano
+
+jx uncultured pavlovophyte clone ev pav c 
+
+aj telonema subtilis
+
+af phaeocystis cordata
+
+jf exanthemachrysis sp 
+
+gu uncultured eukaryote clone aa f rm d 
+
+eu phaeocystis sp 
+
+otu 
+
+jf pavlova gyrans
+
+jf diacronema sp 
+
+otu nano
+
+eu phaeocystis globosa
+
+otu pico
+
+ay phaeocystis globosa
+af phaeocystis globosa
+
+ef uncultured eukaryote isolate hotp d 
+
+gq uncultured eukaryote clone amt m 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+chrysochromulinaceae
+prymnesiaceae
+
+calcihaptophycidae
+
+hap 
+
+hap 
+
+hap 
+
+hap 
+
+clade d
+
+phaeocystales
+
+pavlovophyceae
+
+figure maximum likelihood raxml tree based on nuclear s rdna sequences of cultured and environmental sequences of the haptophyta 
+
+including pyrosequencing otus of the v region from the haptophyte community in oslofjorden maximum likelihood bootstrap values
+
+ are shown above or below the branches chilomonas paramecium l kathablepharis remigera ay and telonema subtilis
+
+ aj were used as outgroups scale bar represents number of substitutions site pavlovales hap hap hap clade d and phaeocys 
+
+tales are shown in detail other groups are collapsed otus from this study are in red cultured strains are in other colours and environmental ha 
+
+ptophyte sequences are in black otus labelled “nano” were only found in the – lm size fraction whereas otus labelled “pico” were only
+
+found in the – lm size fraction 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+members of the genus diacronema in our phylogeny 
+
+none of these otus matched any known species and
+
+may represent novel species of the genus diacronema or
+
+new genera otus and are similar to
+any published environmental sequence and may thus
+
+represent taxa never detected before by s rdna envi 
+
+ronmental sequencing otu was identical to an
+
+uncultured clone isolated from a freshwater lake in france
+
+ simon et al which was ca similar to mem 
+
+bers of the genus diacronema and branched off as a sis 
+
+ter clade due to the influence of the river glomma 
+
+norway’s longest river with outlet in outer oslofjorden 
+
+the local phytoplankton flora may at times include both
+
+brackish and freshwater species throndsen et al 
+
+kuylenstierna and karlson did not include any
+
+members of pavlovophyceae in their checklist for skager 
+
+rak or kattegat but a strain of diacronema ennorea uio
+
+ was isolated by jahn throndsen from the oslofjor 
+
+den and the s rdna has been sequenced egge et al 
+
+ 
+
+clade d fig 
+clade d has been shown to be a well supported clade
+
+consisting only of environmental sequences but with an
+
+uncertain position in prymnesiophyceae in s rdna trees
+
+ edvardsen et al moon van der staay et al 
+
+we detected one member of this clade otu which
+
+was identical to an environmental sequence from the mar 
+
+mara sea turkey jx previously shown to nest
+
+within this clade simon et al members of clade d
+
+were here placed basally within class prymnesiophyceae
+
+and are expected to represent a novel order within this
+
+class edvardsen et al 
+
+order phaeocystales fig 
+altogether otus nested within order phaeocystales of
+
+which four matched cultured species table interest 
+
+ingly the overall second most abundant otu otu was
+
+identical to p cordata which has not previously been
+
+recorded in the skagerrak eikrem edvardsen pers com 
+
+mun kuylenstierna and karlson over the course of
+
+this study otu was proportionally abundant in april and
+
+may egge et al unpubl data phaeocystis like cells have
+
+previously been observed to reach maximum abundance
+
+in spring in skagerrak april kuylenstierna and
+
+karlson phaeocystis cordata does not form colonies
+
+ zingone et al therefore it is easily overlooked and
+
+difficult to distinguish from swarmers of p globosa and p 
+
+pouchetii the colony forming p pouchetii and p globosa
+
+are both previously reported from skagerrak table s 
+
+and known to constitute large components of the phyto 
+
+plankton community during spring in north eastern atlan 
+
+tic waters e g christaki et al paasche 
+
+these two species were also detected in our study by
+
+ pyrosequencing otu and otu respectively as
+
+p globosa and p pouchetii are both similar to p 
+cordata in the v region we are confident that p cordata
+
+was not confounded with these species in the taxonomic
+
+assignation members of phaeocystis were detected by
+
+electron microscopy in this study but they could not be
+
+identified to species fig a–c 
+otu matched a newly genetically characterised free 
+
+living strain isolated from the north east atlantic strain
+
+pcc decelle et al placed within the phaeocys 
+
+tis jahnii clade 
+
+our analyses indicate the existence of novel clades or
+
+species complexes within phaeocystales together with
+
+environmental sequences isolated from the pacific north
+
+and south otu otu otu otu and
+
+otu formed a well supported clade further 
+
+otu and formed a clade with environmental
+
+sequences from the florida strait and northern pacific 
+
+otu and together with an uncultured clone isolated
+
+from the south atlantic were placed as a sister clade to
+
+the p pouchetii antarctica globosa clade this group was
+
+not supported and the otus may therefore belong
+
+to either p globosa or to the p pouchetii p antarctica
+
+clade according to medlin and zingone several
+
+phaeocystis species have been recognised that are not
+
+yet formally described 
+
+order prymnesiales
+in total otus were placed within the order
+
+prymnesiales of which matched cultured species
+
+ table within this order we detected members of sev 
+
+eral well supported groups consisting of only environmen 
+
+tal sequences but the phylogenetic placement of these
+
+clades relative to described genera in prymnesiales was
+
+uncertain for instance nine environmental sequences
+
+including one isolated from freshwater lake finsevatn 
+
+norway shalchian tabrizi et al formed a well 
+
+supported group fig s c which was named clade b in
+
+an earlier study simon et al seven of otus were
+
+affiliated with this group but the group itself was no
+
+longer supported once the of otus were included in the
+
+tree fig interestingly two of the otus detected in
+
+clade b otu and were only found in the
+
+pico size fraction and the environmental sequences
+
+hm and ef were obtained from a flow
+
+cytometry sorted picoplanktonic sample cuvelier et al 
+
+ and a sample prefiltered through lm filter not
+et al respectively this could indicate that this
+
+clade is predominantly picoplanktonic which might explain
+
+why it so far has no cultured and described species thir 
+
+teen of otus were placed in another novel clade within
+
+prymnesiales here termed clade b which had good sup 
+
+port in the reference tree fig s c however the place 
+
+ments of these otus were for the most part not
+
+supported fig and the placement of the clade itself
+
+was uncertain 
+
+order prymnesiales – family chrysochromulinaceae
+ fig 
+several otus matched environmental sequences placed
+
+in or near the clade containing chrysochromulina leadbea 
+
+teri and c simplex this clade has previously been shown
+
+to contain undescribed diversity edvardsen et al 
+
+moon van der staay et al altogether otus
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+ 
+
+hg cg south africa
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+fj uncultured marine prymnesiales clone ra n 
+
+jx uncultured haptophyte clone ma pry c 
+
+jx uncultured haptophyte clone dh pry c 
+
+otu pico
+
+jx uncultured haptophyte clone ma pry c 
+
+hq uncultured eukaryote clone sgpx 
+
+otu nano
+
+hm uncultured marine eukaryote clone cn st ae e oct m
+
+jx uncultured haptophyte clone dh pry c 
+
+otu 
+
+ay kathablepharis remigera
+
+otu nano
+
+hq uncultured eukaryote clone shax 
+
+otu 
+
+hm uncultured marine eukaryote clone fs ga aug m
+
+hap 
+
+jx uncultured haptophyte clone ma pry c 
+
+otu pico
+
+hm uncultured clone fs r feb m sort
+
+jx uncultured haptophyte clone ma pry c 
+
+fn chrysochromulina strobilus
+
+phaeocystales
+
+aj telonema subtilis
+
+otu nano
+
+jx uncultured eukaryote clone bh sp 
+
+otu 
+
+hq uncultured eukaryote clone shax 
+
+ay uncultured eukaryotic picoplankton clone p 
+
+hq uncultured eukaryote clone shzx 
+
+ef uncultured clone f n 
+
+jx uncultured haptophyte clone ma pry c 
+
+otu 
+
+ab chrysochromulina sp 
+
+otu 
+
+gu uncultured marine eukaryote clone ap w 
+
+jx uncultured haptophyte clone bg pry c 
+
+fn chrysochromulina acantha
+
+am chrysochromulina parva
+
+am chrysochromulina rotalis
+
+otu pico
+
+jx chrysochromulina sp 
+
+af prymnesiophyte symbiont 
+
+jx uncultured eukaryote clone bh sp 
+
+calcihaptophycidae
+
+otu pico
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+pavlovophyceae
+
+otu 
+
+otu 
+
+am chrysochromulina leadbeateri
+
+jf uncultured chrysochromulina clone malina st m nano es c 
+
+otu 
+
+otu 
+
+ab chrysochromulina parva
+
+otu 
+
+hap 
+
+otu 
+
+aj chrysochromulina throndsenii
+
+otu 
+
+gq uncultured marine eukaryote clone mo 
+
+otu nano
+
+otu pico
+
+otu nano
+
+am chrysochromulina rotalis
+
+otu 
+
+otu 
+
+otu 
+
+otu 
+
+hm uncultured marine eukaryote clone en ctd apr m
+
+otu 
+
+otu 
+otu pico
+
+otu 
+
+dq chrysochromulina sp 
+
+hm uncultured clone fs ja mar m
+
+otu nano
+
+otu 
+
+hap 
+
+otu nano
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+otu 
+
+aj chrysochromulina scutellum
+
+jx uncultured haptophyte clone finsevatn aoy h
+
+am chrysochromulina cymbium
+
+hm uncultured marine eukaryote clone fs ga aug m
+
+hap 
+
+jx uncultured haptophyte clone ma pry c 
+
+otu 
+
+otu 
+
+otu 
+
+otu 
+
+am chrysochromulina simplex
+
+eu uncultured clone m r 
+
+fj uncultured marine prymnesiales clone ra n 
+
+otu 
+
+otu 
+
+otu pico
+
+otu pico
+
+aj chrysochromulina campanulifera
+
+af prymnesiophyte symbiont 
+
+eu chrysochromulina parva
+
+fj uncultured marine prymnesiales clone ra n 
+
+hm uncultured marine eukaryote clone fs ga aug m
+
+jx uncultured haptophyte clone ma pry c 
+
+otu 
+
+otu pico
+
+clade d
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prymnesiaceae
+
+clade b 
+
+l chilomonas paramecium
+
+figure maximum likelihood raxml tree based on nuclear s rdna sequences of cultured and environmental sequences of the haptophyta
+
+including pyrosequencing otus of the v region as in fig family chrysochromulinaceae is shown in detail other groups are collapsed 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+ 
+
+hg cg south africa
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+otu nano
+
+otu pico
+
+ay kathablepharis remigera
+
+otu pico
+
+otu 
+
+otu nano
+
+otu 
+
+am prymnesium calathiferum
+
+otu 
+
+otu 
+
+otu 
+
+otu 
+
+am haptolina brevifila
+
+fj platychrysis sp 
+
+ab prymnesium sp 
+
+eu uncultured eukaryote clone dhot d 
+
+chrysochromulinaceae
+
+otu 
+
+hm uncultured marine eukaryote clone fs sk july m
+
+otu 
+
+hap 
+
+otu 
+
+am prymnesium chiton
+
+hm uncultured clone fs e mar m
+
+phaeocystales
+
+aj telonema subtilis
+
+jx uncultured eukaryote clone bh sp 
+
+am prymnesium minus
+
+otu 
+
+otu pico
+
+otu 
+
+am chrysocampanula spinifera
+
+otu 
+
+otu 
+ef uncultured eukaryote clone ssrpd 
+
+otu 
+
+am haptolina cf herdlensis
+
+jx uncultured haptophyte clone ma pry c 
+
+aj haptolina hirta
+
+otu 
+
+otu 
+
+calcihaptophycidae
+
+am prymnesium sp 
+
+otu 
+
+otu pico
+
+pavlovophyceae
+
+otu nano
+
+aj prymnesium kappa
+
+otu 
+
+otu 
+
+aj prymnesium parvum
+
+hm uncultured marine eukaryote clone oc bats o m
+
+hm uncultured marine eukaryote clone fs g aug m
+
+aj imantonia rotunda
+
+hap 
+
+am prymnesium pienaarii
+
+ab chrysocampanula spinifera
+
+otu nano
+
+otu 
+
+otu nano
+
+am haptolina fragaria
+
+otu 
+
+otu 
+
+otu nano
+
+hq uncultured eukaryote clone sgsa 
+
+otu 
+
+hm uncultured clone fs ja mar m
+
+otu 
+
+jn imantonia sp 
+
+otu 
+
+hap 
+
+l chilomonas paramecium
+
+hm uncultured marine eukaryote clone en ctd apr m
+
+otu 
+
+otu 
+
+gq uncultured clone medsea crfm 
+
+am prymnesium faveolatum
+
+aj prymnesium nemamethecum
+
+am imantonia rotunda
+
+hq uncultured eukaryote clone sgtb 
+
+jx uncultured haptophyte clone ma pry c 
+
+hm uncultured marine eukaryote clone mo m 
+
+otu 
+
+gq uncultured clone amt m 
+
+hap 
+
+fr prymnesium radiatum
+
+ab imantonia sp 
+
+af unidentified prymnesiophyte clone oli 
+
+otu 
+
+aj prymnesium aff polylepis
+
+jn uncultured eukaryote clone emd b 
+
+am prymnesium zebrinum
+
+otu nano
+
+jx uncultured eukaryote clone bh sp 
+
+aj prymnesium polylepis
+
+am prymnesium palpebralis
+
+l prymnesium parvum f patelliferum
+
+am prymnesium simplex
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+am pseudohaptolina arctica
+
+am prymnesium sp 
+
+am prymnesium annuliferum
+
+am haptolina ericina
+
+ab prymnesium neolepis
+
+otu nano
+
+am prymnesium pigrum
+
+jx uncultured haptophyte clone ma pry c 
+
+otu nano
+
+otu 
+
+clade d
+
+otu 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+clade b 
+
+figure maximum likelihood raxml tree based on nuclear s rdna sequences of cultured and environmental sequences of the haptophyta
+
+including pyrosequencing otus of the v region as in fig family prymnesiaceae is shown in detail other groups are collapsed 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+ 
+
+aj coccolithus pelagicus f braarudii
+
+aj pleurochrysis elongata
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+am syracosphaera pulchra
+
+ab hymenomonas sp
+
+pavlovophyceae
+hap 
+
+am helicosphaera carteri
+
+gq uncultured marine eukaryote clone mo 
+
+am coccolithales sp 
+
+phaeocystales
+
+am jomonlithus littoralis
+
+ab pleurochrysis sp 
+
+ab cruciplacolithus neohelis
+
+fn uncultured clone b h 
+
+am calyptrosphaera radiata
+
+otu 
+
+jx uncultured eukaryote clone bh sp 
+
+am calyptrosphaera sphaeroidea holococcolithophora sphaeroidea
+
+hg cg south africa
+
+otu nano
+
+prymnesiales
+
+otu pico
+
+aj umbilicosphaera sibogae
+
+otu pico
+
+am pleurochrysis pseudoroscoffensis
+
+am hymenomonas globosa
+
+am pleurochrysis roscoffensis
+
+eu emiliania huxleyi
+
+am pleurochrysis sp
+
+otu 
+
+otu 
+
+aj telonema subtilis
+
+otu nano
+
+am pleurochrysis scherffelii
+
+hap 
+
+ab braarudosphaera bigelowii
+
+otu 
+
+otu 
+
+am calyptrosphaera sp 
+
+dq isochrysis sp 
+
+hm uncultured clone oc bats p m
+
+aj umbilicosphaera sibogae
+
+ab gephyrocapsa oceanica
+
+aj pleurochrysis sp 
+
+ab ochrosphaera sp 
+
+l chilomonas paramecium
+
+otu nano
+
+otu nano
+
+otu 
+
+hq emiliania huxleyi
+
+otu pico
+
+ab helladosphaera sp 
+
+otu 
+
+ab pleurochrysis sp 
+
+otu nano
+jx uncultured haptophyte clone dh pry c 
+
+am chrysochromulina parkeae
+
+aj calcidiscus leptoporus
+
+am scyphosphaera apsteinii
+
+hm isochrysis galbana
+am chrysotila lamellosa
+
+eu uncultured clone hotxp g 
+
+u coccoid haptophyte sp 
+
+jx uncultured haptophyte clone ma pry c 
+
+ab aff haptolina brevifila
+
+aj calcidiscus quadriperforatus
+
+am calyptrosphaera sp 
+
+af cladee oli 
+
+jf uncultured marine eukaryote clone tb h 
+
+otu nano
+
+am algirosphaera robusta
+
+ab emiliania huxleyi
+
+gu uncultured eukaryote clone ai f rm d 
+
+otu 
+ab braarudosphaera bigelowii
+
+af cladee oli 
+
+eu uncultured eukaryote clone hotxp e 
+
+jx uncultured eukaryote clone bh sp 
+
+clade d
+
+otu nano
+
+fj uncultured marine haptophyte clone biosope t 
+
+hq isochrysis aff galbana
+
+jx uncultured eukaryote clone bh sp 
+
+otu 
+
+otu pico
+
+am pleurochrysis elongata
+
+hq isochrysis galbana
+
+hq pleurochrysis carterae
+
+ab chrysoculter rhomboideus
+
+am hymenomonas coronata
+
+aj coccolithus pelagicus f pelagicus
+
+hq uncultured eukaryote clone shax 
+
+hap 
+
+otu 
+
+jx uncultured haptophyte clone ma pry c 
+
+gu uncultured clone ai f rm h 
+
+am ochrosphaera verrucosa
+
+otu 
+
+aj pleurochrysis carterae
+
+otu 
+
+eu emiliania huxleyi
+
+ay kathablepharis remigera
+
+hq uncultured eukaryote clone shax 
+
+am pleurochrysis gayraliae
+
+aj pleurochrysis dentata
+
+jx uncultured haptophyte clone ma pry c 
+
+hm uncultured clone fs ja mar m
+
+eu emiliania huxleyi
+
+aj pleurochrysis sp 
+
+am umbilicosphaera hulburtiana
+
+am oolithus fragilis
+
+otu nano
+
+am dicrateria sp 
+
+ef uncultured clone q g n 
+
+am pleurochrysis placolithoides
+
+ab calyptrosphaera sp 
+
+jx uncultured haptophyte clone ev pry c 
+
+am coronosphaera mediterranea
+
+am isochrysis litoralis
+
+otu 
+otu nano
+
+am isochrysis galbana
+
+am aff haptolina brevifila
+
+hap 
+
+fr ochrosphaera neapolitana
+
+aj pleurochrysis carterae
+
+gu uncultured eukaryote clone wlb t otu 
+
+gu uncultured clone aa f rj a 
+
+jx uncultured haptophyte clone ma pry c 
+
+otu 
+
+eu uncultured clone hotxp g 
+
+hq isochrysis aff galbana
+
+ab braarudosphaera bigelowii
+
+otu 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+clade e
+
+clade f
+
+isochrysidales
+
+coccolithales
+
+braarudosphaeraceae
+
+zygodiscales
+
+figure maximum likelihood raxml tree based on nuclear s rdna sequences of cultured and environmental sequences of the haptophyta
+
+including pyrosequencing otus of the v region as in fig subclass calcihaptophycidae is shown in detail other groups are collapsed 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+nested within this clade among them the overall third
+
+most abundant otu otu which had bp mismatches
+
+with c simplex pos and in c simplex
+
+am cells of c simplex are covered by numer 
+
+ous plate scales without a spine which were observed in
+
+the electron microscope fig c chrysochromulina lead 
+
+beateri is thought to constitute a species complex due to
+
+high variation in morphology of cell shape and body scales
+
+ edvardsen et al however the s rdna has been
+
+sequenced from only two strains of c leadbeateri iso 
+
+lated from the same bloom event lofoten n norway 
+
+ b edvardsen pers commun and they are identical
+
+in this region strains uio and tje am some
+
+of the otus that nest within this clade but that are
+
+distinct from the c leadbeateri s rdna sequence may
+
+represent members of the c leadbeateri complex cells
+
+of c leadbeateri were also observed in em 
+
+by contrast only two otus and were affiliated
+
+with the c strobilus cymbium campanulifera clade
+
+ table fig these species are identical in the s
+
+rdna v region and cannot be separated with our prim 
+
+ers except for one deletion t instead of tt around pos 
+
+ of c cymbium am otu was identical
+
+to these three species and also to seven environmental
+
+sequences among them jx included in the refer 
+
+table list of species or cell types observed in electron microscope in surface samples from the skagerrak in the period september –june
+
+ 
+
+phaeocystales
+
+prymnesiales coccolithales
+isochrysidales
+
+prymnesiaceae chrysochromulinaceae syracosphaeraceae rhabdosphaeraceae noelaerhabdaceae
+
+phaeocystis sp chrysocampanula
+
+spinifera
+
+chrysochromulina cf camella syracosphaera cf 
+
+anthos
+
+algirosphaera robusta emiliania huxleyi
+
+chrysochromulina
+
+mactraa
+chrysochromulina cf ephippium cf syracosphaera calciosolenia
+
+brasiliensis
+
+haptolina ericina chrysochromulina leadbeateri syracosphaera
+
+marginiporata
+
+calyptrosphaeraceae
+
+haptolina cf fragaria chrysochromulina cf scutellum corisphaera sp 
+
+haptolina hirta chrysochromulina simplex
+
+cf prymnesium chrysochromulina throndsenii
+
+prymnesium polylepis
+
+authentic type
+
+prymnesiales sp nov 
+
+p polylepis deviant type prymnesiales sp nov 
+
+cf prymnesium minus
+
+acell shape and length of flagella and haptonema indicate that this species belongs to family prymnesiaceae 
+
+table distribution of number of unique haptophyte v ssu rrna otus recorded in skagerrak among the major haptophyte groups
+
+group
+
+best blast match with
+
+environmental sequence
+
+best blast match with genetically
+
+characterised species total unique otus
+
+chryosochromulinaceae 
+
+prymnesiaceae 
+
+calcihaptophycidae 
+
+phaeocystales 
+
+pavlovophyceae 
+
+clade d – 
+
+hap – 
+
+hap – 
+
+hap – 
+
+total 
+
+ µm µm
+
+b c
+
+ µm
+
+a
+
+figure electron microscopy images of phaeocystales a phaeocys 
+
+tis sp with haptonema and flagella b pentagonal star ejectosome 
+
+formed by phaeocystis sp c detached scales from the cell body cov 
+
+ering of phaeocystis sp 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+a b
+
+c d e f
+
+g h
+
+j
+
+k
+
+l
+
+ µm
+
+ µm µm
+
+ µm µm µm
+
+ µm
+
+ µm µm µm
+
+i
+
+ µm
+
+ µm
+
+figure electron microscopy images of prymnesiales a chrysochromulina mactra detached body scales b scale covering of undescribed
+
+prymnesiales like cell c chrysochromulina simplex body scale d small plate scale of prymnesium polylepis authentic type e large plate scale
+
+of prymnesium polylepis authentic type f plate scale details of haptolina ericina g cell of chrysochromulina cf ephippium covered by outer
+
+layer of spine scales h chrysochromulina cf ephippium with flagella and extended haptonema i undescribed prymnesiales like cell with scales
+
+and haptonema j close up of body scales from previous image k plate and cup scales of chrysochromulina cf camella l plate scales and
+
+scales with upright rims of chrysochromulina cf throndsenii 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+ence tree it was therefore not possible to give otu a
+
+certain phylogenetic placement and it may thus represent
+
+one or more of these three species nevertheless the
+
+total diversity in this particular clade of chrysochromulina
+
+may be higher than what can be resolved in this study 
+
+the species in this clade are covered by cup formed body
+
+scales as is chrysochromulina camella a species not yet
+
+genetically characterised in the s rdna chrysochromu 
+
+lina scales resembling most those of c camella were
+
+observed in the electron microscope fig k we might
+
+thus speculate that otu could represent c camella 
+
+the clade containing c rotalis chrysochromulina
+
+throndsenii chrysochromulina acantha and c parva also
+
+contained several environmental sequences and species
+
+with identical sequence in the v region for instance
+
+otu which had mismatch with c acantha and
+
+sequences of two endosymbionts of the foraminifera
+
+globigerinella siphonifera af and af could
+
+not be reliably placed and it might indeed represent more
+
+than one species further c acantha and c throndsenii
+
+are only bp different in the v region and might not be
+
+possible to separate chrysochromulina throndsenii was
+
+observed with electron microscopy in this study fig l 
+
+members of the chrysochromulina genus can be recogni 
+
+sed by their saddle shaped cells edvardsen et al 
+
+morphologically described saddle shaped species that
+
+have been observed in skagerrak but are not yet
+
+sequenced include chrysochromulina alifera and chrys 
+
+ochromulina ephippium eikrem and moestrup 
+
+jensen a chrysochromulina ephippium was also
+
+observed in this study fig g h thus these are possi 
+
+ble candidates for of otus placed within chrysochromuli 
+
+na but without match to a cultured species 
+
+order prymnesiales – family prymnesiaceae fig 
+five otus were affiliated with the genus haptolina otu
+
+ had one mismatch with haptolina fragaria h ericina h 
+
+cf herdlensis h hirta and two environmental sequences 
+
+and may thus represent one or several of these species 
+
+seventeen otus were affiliated with prymnesium of
+
+which p polylepis and p kappa were the only cultured
+
+and sequenced species detected otu matched a strain
+
+of imantonia isolated from the bering strait otu had
+
+four mismatches with pseudohaptolina arctica which sug 
+
+gests that it could represent a new species in the genus
+
+pseudohaptolina otu matched chrysocampanula
+
+spinifera chrysocampanula spinifera haptolina ericina h 
+
+fragaria h hirta and p polylepis were also detected in
+
+em table fig d–f 
+the high number of novel sequences within prymnesi 
+
+ales is consistent with the diversity of chrysochromulina
+
+ sensu lato observed in previous surveys of the skagerrak
+
+and kattegat both formally described and nondescribed
+
+forms backe hansen and throndsen eikrem 
+
+jensen a jensen a recorded morphological
+
+species of chrysochromulina sensu lato and in addition
+
+scales of nondescribed forms with morphologies
+
+resembling this group many of these undescribed forms
+
+were quantitatively important contributors to the chrys 
+
+ochromulina population jensen a of the morpholog 
+
+ical forms reported by jensen have until now been
+
+genetically characterised table s four of these were
+
+not detected by pyrosequencing in this survey 
+
+prymnesium minus p chiton haptolina brevifila and c 
+
+throndsenii although we detected otus closely matching
+
+sequences of h brevifila and c throndsenii table s 
+
+unreported and undescribed prymnesiales like cells were
+
+detected in sem such as the chrysochromulina like cell
+
+in fig i j and the scale covering in fig b further we
+
+detected chrysochromulina mactra in tem fig a this
+
+seems to be a common species in skagerrak but it has
+
+not yet been genetically characterised the morphology of
+
+this species rounded cell shape and similar length of fla 
+
+gella and haptonema indicates that it belongs in prymne 
+
+siaceae edvardsen et al 
+
+a high novel diversity within prymnesiales has similarly
+
+been revealed by recent studies targeting the s rdna
+
+gene by pyrosequencing of samples from the medi 
+
+terranean bittner et al and by cloning and sanger
+
+sequencing of oceanic picohaptophytes liu et al 
+
+subclass calcihaptophycidae fig 
+‘calcihaptophycidae’ has been introduced as a subclass
+
+comprising the monophyletic entity of potentially calcifying
+
+haptophytes de vargas et al i e including noncalci 
+
+fying species phylogenetically affiliated with coccolitho 
+
+phores such as isochrysis this category is convenient for
+
+novel environmental sequences affiliated with the cocco 
+
+lithophores as it is not known whether they represent
+
+actually calcifying species however in our analysis the
+
+calcihaptophycidae was not supported either with or with 
+
+out of otus included in the trees fig s d a clade
+
+consisting entirely of environmental sequences which is
+
+here termed clade f branched off before the clade of
+
+described orders of coccolithophores except braarudosph 
+
+aeraceae although this placement was not supported 
+
+clade f was distinct from the previously inferred clade e
+
+ moon van der staay et al which also so far only
+
+consists of environmental sequences interestingly otu
+
+ which matched environmental sequence b h in clade
+
+f isolated from sea ice in the baltic majaneva et al 
+
+ was proportionally dominating in the reads from
+
+samples taken april and march and detected in
+
+both the pico and nano size fractions egge et al unpubl 
+
+data although not much is known about the cell size of
+
+this putative novel species assuming that the high propor 
+
+tion of reads corresponds to high proportion of biomass 
+
+this indicates that it constitutes an important part of the
+
+haptophyte spring community further this shows that
+
+even seemingly abundant species in the environment
+
+remain to be cultured and genetically characterised in
+
+total six of otus were affiliated with clade f we
+
+detected one member of clade e otu which was
+
+only found in the pico size fraction further otu fell in
+
+a clade with the cultured species chrysoculter rhomboi 
+
+deus a sister taxa to members of clade e and may repre 
+
+sent a novel species of chrysoculter two otus were
+
+placed in the braarudosphaera bigelowii chrysochromulina
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+parkeae clade chrysochromulina parkae has been sug 
+
+gested to be a life cycle stage of b bigelowii or a sibling
+
+species of b bigelowii hagino et al 
+
+three otus were affiliated with isochrysis the noncal 
+
+cifying sister genus to emiliania and gephyrocapsa otu
+
+ was identical to isochrysis galbana whereas otu 
+
+which was identical to the environmental clone ev pry 
+
+c branched off as a sister clade to isochrysis this
+
+sequence was isolated from a freshwater lake in france
+
+ simon et al the most abundant otu otu in
+
+the dataset was identical to emiliania huxleyi and
+
+gephyrocapsa oceanica which was frequently observed
+
+in the em preparations fig c syracosphaera pulchra is
+
+the only member of genus syracosphaera with a known
+
+ s rdna sequence to which otu was identical by
+
+sem we observed for the first time in skagerrak 
+
+syracosphaera marginiporata fig b and syracosphaera
+
+anthos fig e algirosphaera robusta otu was
+
+detected both with sem fig a and pyrosequenc 
+
+ing otus identical to sequences of calyptrosphaera
+
+sphaeroidea calcidiscus leptoporus and coccolithus
+
+pelagicus were recovered all of which have previously
+
+been reported from microscopy surveys table s in this
+
+study also corrisphaera sp fig d was recorded in
+
+sem the total number of coccolithophore species previ 
+
+ously observed in skagerrak by microscopy methods was
+
+higher spp than what we recovered here by 
+
+otus table some species may have identical s
+
+rdna v region such as e huxleyi and g oceanica or be
+
+joined in a common haplo diploid life cycle with distinct
+
+morphologies which shows the need for combining
+
+molecular and microscopical methods 
+
+ µm
+
+a
+
+ µm µm
+
+ µm
+
+ µm ed
+
+cb
+
+figure electron microscopy images of coccolithales and isochrysidales a algirosphaera robusta photo shuhei ota b syrachophaera mar 
+
+giniporata c emiliania huxleyi type a d corrisphaera sp incomplete coccoliths e syracosphaera anthos 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+methodological considerations
+
+diversity lost in the sampling process 
+by prefiltering through a lm mesh we could miss out
+on haptophytes attached to particles or marine snow in
+
+symbiosis with organisms lm or species forming
+colonies such as phaeocystis spp however prefiltration
+
+was performed to prevent metazoan ciliate or dinoflagel 
+
+late sequences from dominating the pyrosequencing
+
+results due to their large cell size and putatively high rrna
+
+content further haptophyte community composition may
+
+vary by depth e g bittner et al for instance some
+
+coccolithophores may dwell deeper in the water column
+
+ malinverno et al thus the samples included in
+
+this study obtained from m depth may under represent
+
+the full haptophyte diversity in the water column the
+
+diversity of all protist groups in samples taken at the deep
+
+chlorophyll maximum from the same sampling cruises will
+
+be presented in a following study gran stadnicze nko
+et al unpubl data 
+
+chimeras
+the proportion of unique otus flagged as chimeras was
+
+here very high of unique otus however most
+of these were represented as reads each and thus
+did not constitute a large proportion of the total number of
+
+reads a mechanism for chimera formation with a cdna
+
+protocol with random primers was suggested in egge
+
+et al under cdna synthesis random primers may
+
+anneal within the target region and cdna strands that
+
+only cover a part of the target region may be created if
+
+this part is copied in the first round of the pcr it might
+
+act as a long nonspecifically binding primer in subsequent
+
+rounds of the pcr and thus create chimeras chimeras
+
+between closely related taxa may not be detected by chi 
+
+mera check programmes e g perseus and in this case
+
+an additional thorough manual check by blast and visual
+
+inspection of alignments were needed 
+
+concluding remarks
+pyrosequencing revealed higher species richness of hapto 
+
+phytes than previously observed with electron and light
+
+microscopy in the skagerrak novel lineages were detected 
+
+ranging from species to class level in particular we
+
+observed high uncultured diversity within the order prym 
+
+nesiales considering that some closely related species
+
+have identical s v rdna regions the true richness may
+
+be even higher at this point we can only speculate about
+
+the possible ecological functions of these environmental
+
+clades this study in particular highlights the lack of overlap
+
+between morphological descriptions and genetic characteri 
+
+sation of haptophytes our work contributes to linking geno 
+
+type to phenotype within this ecologically important protist
+
+group and reveals great unknown diversity 
+
+acknowledgments
+
+financial support was given by the research council of
+
+norway through grant haptodiv to ese be and
+
+we by assemble fp grant agreement no 
+
+funding research stay for ese at the station biologique de
+
+roscoff sbr and through the eu project biomarks to
+
+be we thank sissel brubak simon dittami and shuhei
+
+ota for assistance with the laboratory work sarah romac
+
+for advice on molecular protocols camille clerissi for
+
+advice in running ampliconnoise micah dunthorn for sug 
+
+gestions for the manuscript and language corrections 
+
+russell orr for advice regarding raxml and colomban de
+
+vargas for valuable discussions mothur was run on the
+
+sbr cnrs cluster and ampliconnoise as implemented
+
+on qiime was run on the universit�e pierre et marie curie
+ upmc paris cluster 
+
+literature cited
+
+altschul s f madden t l sch€affer a a zhang j zhang 
+
+z miller w lipman d j gapped blast and psi 
+
+blast a new generation of protein database search programs 
+
+nucleic acids res – 
+andersen r a biology and systematics of heterokont and
+
+haptophyte algae am j bot – doi ajb 
+ 
+
+backe hansen p throndsen j pico and nanoplankton
+
+from the inner oslofjord eastern norway including description
+
+of two new species of luffisphaera incerta sedis sarsia north
+
+atl mar sci – doi 
+behnke a engel m christen r nebel m klein r r sto 
+
+eck t depicting more accurate pictures of protistan
+
+community complexity using pyrosequencing of hypervariable
+
+ssu rrna gene regions environ microbiol – 
+doi j x 
+
+bendif e m probert i herv�e a billard c goux d lelong 
+
+c cadoret j p v�eron b integrative taxonomy of
+
+the pavlovophyceae haptophyta a reassessment protist 
+
+ – doi j protis 
+bittner l gobet a audic s romac s egge e s santini 
+
+s ogata h probert i edvardsen b de vargas c 
+
+diversity patterns of uncultured haptophytes unravelled by py 
+
+rosequencing in naples bay mol ecol – doi 
+ mec 
+
+christaki u kormas k a genitsaris s georges c 
+
+sime ngando t viscogliosi e monchy s winter 
+
+summer succession of unicellular eukaryotes in a meso eutro 
+
+phic coastal system microb ecol – doi 
+s 
+
+countway p d gast r j dennett m r savai p rose j 
+
+m caron d a distinct protistan assemblages
+
+characterize the euphotic zone and deep sea m of the
+
+western north atlantic sargasso sea and gulf stream envi 
+
+ron microbiol – doi j 
+ x 
+
+cuvelier m l allen a e monier a mccrow j p messi�e 
+m tringe s g woyke t welsh r m ishoey t lee 
+
+j h binder b j dupont c l latasa m guigand c 
+
+buck k r hilton j thiagarajan m caler e read b 
+
+lasken r s chavez f p worden a z targeted
+
+metagenomics and ecology of globally important uncultured
+
+eukaryotic phytoplankton proc natl acad sci usa 
+
+ – doi pnas 
+dahl e lindahl o paasche e throndsen j the
+
+chrysochromulina polylepis bloom in scandinavian waters dur 
+
+ing spring in cosper e m bricelj v m carpenter 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+e j ed novel phytoplankton blooms vol springer new
+
+york p – 
+de vargas c aubry m p probert i young j origin
+
+and evolution of coccolithophores from coastal hunters to oce 
+
+anic farmers in falkowski p knoll a h ed evolution of
+
+primary producers in the sea vol academic press wal 
+
+tham p – 
+decelle j probert i bittner l desdevises y colin s de
+
+vargas c gal�ı m sim�o r not f an original mode
+
+of symbiosis in open ocean plankton proc natl acad sci 
+
+usa – doi pnas 
+dunthorn m klier j bunge j stoeck t comparing
+
+the hyper variable v and v regions of the small subunit rdna
+
+for assessment of ciliate environmental diversity j eukaryot 
+
+microbiol – doi j x 
+edgcomb v orsi w bunge j jeon s christen r leslin 
+
+c holder m taylor g t suarez p varela r epstein s 
+
+ protistan microbial observatory in the cariaco basin 
+
+caribbean i pyrosequencing vs sanger insights into species
+
+richness isme j – doi ismej 
+edvardsen b eikrem w green j c andersen r a moon 
+
+van der staay s y medlin l k phylogenetic recon 
+
+structions of the haptophyta inferred from s ribosomal dna
+
+sequences and available morphological data phycologia
+
+ – 
+edvardsen b eikrem w throndsen j s�aez a g probert i 
+
+ medlin l k ribosomal dna phylogenies and a mor 
+
+phological revision provide the basis for a revised taxonomy of
+
+the prymnesiales haptophyta eur j phycol – 
+doi 
+
+edvardsen b imai i the ecology of harmful flagellates
+
+within prymnesiophyceae and raphidophyceae in gran�eli e 
+
+ turner j t ed ecology of harmful algae vol springer 
+
+berlin p – 
+egge e bittner l andersen t audic s de vargas c ed 
+
+vardsen b pyrosequencing to describe microbial
+
+eukaryotic community composition diversity and relative abun 
+
+dance a test for marine haptophytes plos one e 
+
+doi journal pone 
+
+eikrem w chrysochromulina throndsenii sp nov prymne 
+
+siophyceae description of a new haptophyte flagellate from
+
+norwegian waters phycologia – doi 
+i 
+
+eikrem w the class prymnesiophyceae haptophyta in
+
+scandinavian waters ph d dissertation university of oslo 
+
+oslo norway p 
+
+eikrem w edvardsen b chrysochromulina fragaria sp 
+
+nov prymnesiophyceae a new haptophyte flagellate from
+
+norwegian waters phycologia – 
+eikrem w moestrup Ø structural analysis of the flagel 
+
+lar apparatus and the scaly periplast in chrysochromulina scutel 
+
+lum sp nov prymnesiophyceae haptophyta from the
+
+skagerrak and the baltic phycologia – doi 
+i 
+
+eikrem w throndsen j the morphology of chrysoch 
+
+romulina rotalis sp nov prymnesiophyceae haptophyta iso 
+
+lated from the skagerrak sarsia – 
+estep k w macintyre f taxonomy life cycle distribu 
+
+tion and dasmotrophy of chrysochromulina a theory accounting
+
+for scales haptonema muciferous bodies and toxicity mar 
+
+ecol prog ser – 
+frias lopez j thompson a waldbauer j chisholm s 
+
+w use of stable isotope labelled cells to identify active
+
+grazers of picocyanobacteria in ocean surface waters 
+
+environ microbiol – doi j 
+ x 
+
+gilles a megl�ecz e pech n ferreira s malausa t mar 
+
+tin j f accuracy and quality assessment of gs flx
+
+titanium pyrosequencing bmc genomics doi 
+
+ 
+
+gran�eli e edvardsen b roelke d l hagstr€om j 
+
+the ecophysiology and bloom dynamics of prymnesium spp 
+
+harmful algae – doi j hal 
+guillou l bachar d audic s bass d berney c bittner l 
+
+boutte c burgaud g de vargas c decelle j del campo 
+
+j dolan j r dunthorh m edvardsen b holzmann m 
+
+kooistra w h c f lara e le bescot n logares r 
+
+mah�e f massana r montresor m morard r not f 
+
+pawlowski j probert i sauvadet a l siano r stoeck t 
+
+vaulot d zimmermann p christen r the protist
+
+ribosomal reference database pr a catalog of unicellular
+
+eukaryote small sub unit rrna sequences with curated taxon 
+
+omy nucleic acids res d –d doi nar 
+gks 
+
+hagino k onuma r kawachi m horiguchi t discov 
+
+ery of an endosymbiotic nitrogen fixing cyanobacterium ucyn 
+
+a in braarudosphaera bigelowii prymnesiophyceae plos
+
+one e doi journal pone 
+
+hall t a bioedit a user friendly biological sequence align 
+
+ment editor and analysis program for windows nt 
+
+nucleic acids symp ser – 
+hasle g r smayda t j the annual phytoplankton
+
+cycle at drøbak oslofjord nytt mag bot – 
+havskum h riemann b ecological importance of
+
+bacterivorous pigmented flagellates mixotrophs in the bay of
+
+aarhus denmark mar ecol prog ser – doi 
+ meps 
+
+jardillier l zubkov m v pearman j scanlan d j 
+
+significant co fixation by small prymnesiophytes in the
+
+subtropical and tropical northeast atlantic ocean isme j 
+
+ – doi ismej 
+jensen m Ø a the genus chrysochromulina prymnesio 
+
+phyceae in scandinavian coastal waters diversity abundance
+
+and ecology ph d dissertation university of copenhagen 
+
+copenhagen denmark p 
+
+jensen m Ø b a new method for fixation of unmineralized
+
+haptophytes for tem whole mount investigations j phycol 
+
+ – doi j x 
+jones h l j leadbeater b s c green j c mixo 
+
+trophy in haptophytes in green j c leadbeater b s c 
+
+ ed the haptophyte algae vol clarendon press oxford 
+
+p – 
+jordan r w cros l young j r a revised classification
+
+scheme for living haptophytes micropaleontology – 
+katoh k frith m c adding unaligned sequences into
+
+an existing alignment using mafft and last bioinformatics 
+
+ – doi bioinformatics bts 
+katoh k toh h improved accuracy of multiple ncrna
+
+alignment by incorporating structural information into a mafft 
+
+based framework bmc bioinformatics doi 
+
+ 
+
+kawachi m inouye i maeda o chihara m the ha 
+
+ptonema as a food capturing device observations on chrysoch 
+
+romulina hirta prymnesiophyceae phycologia – 
+doi i 
+
+kuylenstierna m karlson b seasonality and composi 
+
+tion of pico and nanoplanktonic cyanobacteria and protists in
+
+the skagerrak bot mar – 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+
+kuylenstierna m karlson b checklist of phytoplankton
+
+in the skagerrak kattegat http www smhi se oceanografi 
+
+oce info data plankton checklist 
+
+lekve k espen b dahl e edvardsen b skogen m d 
+
+stenseth n c environmental forcing as a main
+
+determinant of bloom dynamics of the chrysochromulina
+
+algae proc biol sci – doi rspb 
+ 
+
+liu h probert i uitz j claustre h aris brosou s frada 
+
+m not f de vargas c extreme diversity in noncalci 
+
+fying haptophytes explains a major pigment paradox in open
+
+oceans proc natl acad sci usa – doi 
+ pnas 
+
+logares r audic s santini s pernice m c de vargas c 
+
+massana r diversity patterns and activity of uncultured
+
+marine heterotrophic flagellates unveiled with pyrosequencing 
+
+isme j – doi ismej 
+majaneva m rintala j m piisil€a m fewer d p blomster 
+
+j comparison of wintertime eukaryotic community from
+
+sea ice and open water in the baltic sea based on sequencing
+
+of the s rrna gene polar biol – doi 
+s 
+
+malin g steinke m coccolithophore derived production
+
+of dimethyl sulphide in thierstein h young j r ed 
+
+coccolithophores from molecular processes to global impact 
+
+ st edn springer berlin 
+
+malinverno e ziveri p corselli c coccolithophorid dis 
+
+tribution in the ionian sea and its relationship to eastern medi 
+
+terranean circulation during late fall to early winter j 
+
+geophys res doi jc 
+
+medlin l k metfies k mehl h wiltshire k valentin k 
+
+ picoeukaryotic plankton diversity at the helgoland time
+
+series site as assessed by three molecular methods microb 
+
+ecol – doi s x 
+medlin l k zingone a a taxonomic review of the
+
+genus phaeocystis biogeochemistry – doi 
+s 
+
+moon van der staay s y van der staay g w m guillou l 
+
+vaulot d claustre h medlin l k abundance and
+
+diversity of prymnesiophytes in the picoplankton community
+
+from the equatorial pacific ocean inferred from s rdna
+
+sequences limnol oceanogr – doi lo 
+ 
+
+not f zapata m pazos y campa na e doval m 
+
+rodr�ıguez f size fractionated phytoplankton diversity in
+the nw iberian coast a combination of microscopic pigment
+
+and molecular analyses aquatic microb ecol – 
+doi ame 
+
+not f del campo j balagu�e v de vargas c massana r 
+ new insights into the diversity of marine picoeukaryotes 
+
+plos one e doi journal pone 
+
+orsi w song y c hallam s edgcomb v effect of
+
+oxygen minimum zone formation on communities of marine
+
+protists isme j – doi ismej 
+paasche e phytoplankton distribution in the norwegian
+
+sea in june related to hydrography and compared with
+
+primary production data report on norwegian fishery and mar 
+
+ine investigations xii available at http brage bibsys no 
+
+xmlui handle 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza 
+
+p peplies j gl€ockner f o the silva ribosomal
+
+rna gene database project improved data processing and
+
+web based tools nucleic acids res d –d doi 
+ nar gks 
+
+quince c documentation of tools for noise removal from
+
+pyrosequenced amplicons ampliconnoisev 
+
+quince c lanzen a davenport r j turnbaugh p j 
+
+removing noise from pyrosequenced amplicons bmc bioinfor 
+
+matics doi 
+
+reynolds e s the use of lead citrate at high ph as an
+
+electron opaque stain in electron microscopy j cell biol 
+
+ – 
+rosenberg r lindahl o blanck h silent spring in the
+
+sea ambio – 
+schloss p d westcott s l ryabin t hall j r hartmann 
+
+m hollister e b lesniewski r a oakley b b parks d 
+
+h robinson c j sahl j w stres b thallinger g g 
+
+van horn d j weber c f introducing mothur 
+
+open source platform independent community supported soft 
+
+ware for describing and comparing microbial communities 
+
+appl environ microbiol – doi aem 
+ 
+
+schoemann v becquevort s stefels j rousseau v lan 
+
+celot c phaeocystis blooms in the global ocean and
+
+their controlling mechanisms a review j sea res – 
+shalchian tabrizi k reier røberg k ree d k klaveness d 
+
+ br�ate j marine freshwater colonizations of hapto 
+phytes inferred from phylogeny of environmental s rdna
+
+sequences j eukaryot microbiol – doi j 
+ x 
+
+shi x l marie d jardillier l scanlan d j vaulot d 
+
+ groups without cultured representatives dominate
+
+eukaryotic picophytoplankton in the oligotrophic south east
+
+pacific ocean plos one e doi journal pone 
+
+ 
+
+simon m l�opez garc�ıa p moreira d jardillier l 
+
+new haptophyte lineages and multiple independent coloniza 
+
+tions of freshwater ecosystems environ microbiol rep 
+
+ – doi 
+stamatakis a raxml vi hpc maximum likelihood based
+
+phylogenetic analyses with thousands of taxa and mixed mod 
+
+els bioinformatics – doi bioinformatics 
+btl 
+
+stoeck t bass d nebel m christen r jones m d m 
+
+breiner h w richards t a multiple marker parallel
+
+tag environmental dna sequencing reveals a highly complex
+
+eukaryotic community in marine anoxic water mol ecol 
+
+ – doi j x x 
+thompson a w foster r a krupke a carter b j musat 
+
+n vaulot d kuypers m m m zehr j p unicellu 
+
+lar cyanobacterium symbiotic with a single celled eukaryotic
+
+alga science – doi science 
+thomsen h a buck k r chavez f p haptophytes
+
+as components of marine phytoplankton in green j c 
+
+leadbeater b s c ed the haptophyte algae st ed vol 
+
+ clarendon press oxford p – 
+throndsen j hasle g r tangen k phytoplankton of
+
+norwegian coastal waters almater forlag as oslo 
+
+unrein f gasol j m not f forn i massana r 
+
+mixotrophic haptophytes are key bacterial grazers in oligo 
+
+trophic coastal waters isme j – doi ismej 
+ 
+
+zingone a chr�etiennot dinet m j lange m medlin l 
+
+ morphological and genetic characterization of phaeocystis
+
+cordata and p jahnii prymnesiophyceae two new species
+
+from the mediterranean sea j phycol – doi 
+ j x 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+egge et al diversity of haptophytes revealed by pyrosequencing
+
+
+
+supporting information
+
+additional supporting information may be found in the
+
+online version of this article 
+
+figure s map of the skagerrak and the kattegat off the
+coasts of norway sweden and denmark the of sam 
+
+pling site is indicated by a star the arrows show a simpli 
+
+fied picture of the general circulation pattern in the
+
+skagerrak aw atlantic water cnsw central north
+sea water jcw jutland coastal water bw baltic
+water ncc norwegian coastal current adapted from
+lekve et al 
+
+figure s maximum likelihood raxml reference tree
+based on nuclear s rdna sequences of cultured
+
+strains and environmental clones of the haptophyta 
+
+pyrosequencing otus not included maximum likelihood
+
+bootstrap values are shown above or below the
+branches chilomonas paramecium l kathableph 
+
+aris remigera ay and telonema subtilis
+
+ aj were used as outgroups scale bar represents
+
+number of substitutions site a pavlovales hap hap 
+ hap clade d phaeocystales b chrysochromulina 
+ceae c prymnesiaceae d calcihaptophycidae 
+table s sequence similarity matrix between the ha 
+ptophyte sequences included in the reference tree fig 
+
+s trimmed down to the region spanned by the of
+
+otus 
+
+table s best blast matches of haptophyte v ssu
+rrna otus recorded in the skagerrak in the period sep 
+
+tember –june 
+table s morphological species observed by microscopy
+in the skagerrak in previous investigations 
+
+© the authors the journal of eukaryotic microbiology published by wiley periodicals inc on behalf of international society of protistologists
+journal of eukaryotic microbiology – 
+
+diversity of haptophytes revealed by pyrosequencing egge et al 
+
+
+

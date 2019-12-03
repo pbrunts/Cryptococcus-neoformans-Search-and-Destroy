@@ -1,0 +1,2882 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dynamics in coastal rna viruses and bacteriophages are driven by shifts in the community phylogenetic structure
+
+
+ 
+
+ 
+
+dynamics in coastal rna viruses and bacteriophages are driven by shifts in the community 
+
+phylogenetic structure 
+
+julia a gustavsen † and curtis a suttle 
+
+ department of earth ocean and atmospheric sciences university of british columbia 
+
+vancouver b c canada 
+
+ department of botany university of british columbia vancouver b c canada 
+
+ department of microbiology immunology university of british columbia vancouver 
+
+b c canada 
+
+ institute for the oceans and fisheries university of british columbia vancouver b c 
+
+canada 
+
+† present address sophia genetics rue du centre saint sulpice v d 
+
+switzerland 
+
+ correspondence curtis a suttle department of earth ocean atmospheric sciences 
+
+the university of british columbia main mall vancouver b c v t z 
+
+canada suttle science ubc ca 
+
+keywords virus phylogeny coastal time series bacteria phytoplankton killing the 
+
+winner seed bank s s dynamics quasispecies picornavirales myoviridae 
+
+section microbial ecology 
+
+running title phylogenetic shifts in dominant viral communities 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+mailto suttle science ubc ca
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+abstract 
+
+marine microbes including viruses are an essential part of the marine ecosystem that forms 
+
+the base of the foodweb and drives biogeochemical cycles marine viral communities 
+
+display repeatable changes in abundance and community composition throughout time 
+
+however whether these changes reflect shifts in dominance within evolutionarily related 
+
+groups of viruses and their hosts is unexplored to examine these dynamics changes in the 
+
+composition and phylogenetic makeup of two ecologically important groups of viruses and 
+
+their potential hosts were sampled every two weeks for months at a coastal site in 
+
+british columbia canada changes in the taxonomic composition within dna 
+
+bacteriophages related to t like viruses and marnavirus like rna viruses infecting 
+
+eukaryotic phytoplankton as well as bacteria and eukaryotes were examined using 
+
+amplicon sequencing of gene fragments encoding the major capsid protein gp the 
+
+rna dependent rna polymerase rdrp and the s and s ribosomes respectively the 
+
+results showed that for both viral marker genes the dominant groups of phylogenetically 
+
+related viruses shifted over time and contained many transient taxa and few persistent 
+
+taxa yet different community structures were observed in these different viral 
+
+communities additionally with strong lagged correlations between viral richness and 
+
+community similarity of putative hosts the results imply that viruses influence the 
+
+composition of the host communities 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+importance 
+
+using high throughput sequencing of coastal seawater collected every two weeks for one 
+
+year the dynamics of two groups of ecologically important groups of viruses were 
+
+described in the context of their putative hosts and the environment there was a large 
+
+diversity of viruses and putative hosts in this study and groups of phylogenetically related 
+
+viruses showed temporal dynamics in dominance examining the richness of viruses by 
+
+phylogenetic groups showed different dynamics of either boom bust or continued 
+
+persistence at the otu level some members of these related groups persisted throughout 
+
+time while others were more ephemeral these findings were put in context of potential 
+
+quasispecies behaviour and the dynamics of putative hosts these results showed that 
+
+temporal dynamics of viral communities have a phylogenetic signal which is important for 
+
+understanding the ecology of these viruses since it elucidated one of the drivers of the 
+
+community structure 
+
+introduction 
+
+understanding diversity its maintenance and its drivers is a continued theme in ecology 
+
+in microbial systems there has been extensive exploration and discussion about the 
+
+mechanisms responsible for the observed high diversity many studies on microbial 
+
+diversity and dynamics come from the marine milieu where it has been argued that 
+
+community composition is driven by environmental factors – against this backdrop 
+
+are viruses which are obligate parasites that are the most abundant biological entities in 
+
+the world s oceans and account for much of its diversity 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+this high viral diversity arises since viruses have many different lifestyles 
+
+morphologies and infection strategies some viruses infect specific strains or species of 
+
+hosts whereas others have broad host ranges as well some groups of viruses show 
+
+particularly high genetic diversity because of their low fidelity of replication while 
+
+others have high rates of horizontal gene transfer the role of viruses as obligate 
+
+pathogens often with high host specificity implies that they are important drivers of host 
+
+composition and diversity yet our understanding of their roles as drivers of marine 
+
+microbial diversity remains relatively unexplored 
+
+marine viruses have repeatable seasonal dynamics as revealed by measures of abundance 
+
+infectious units and taxonomic composition some seasonal studies in coastal waters 
+
+report that viral abundances are higher in summer than in winter while other 
+
+multi year time series data show that viral production and viral abundances are highest in 
+
+early spring and summer moreover viral dynamics can be associated with 
+
+putative hosts and specific subsets of the overall coastal viral communities can show 
+
+seasonal community composition dynamics as well viruses infecting 
+
+cyanobacteria show temporal dynamics with communities from the same season 
+
+resembling each other more than communities sampled in the same year and 
+
+communities being more stable in winter than in the summer and spring 
+
+viruses affect community composition in laboratory studies by reducing the abundance of 
+
+the dominant host thereby allowing others to grow up – thus viruses promote 
+
+diversity among hosts even at the strain level and can be responsible for large shifts in 
+
+the dominant species in bacterial populations these dynamics have been termed 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ killing the winner ktw a model in which the most actively growing hosts are killed by 
+
+viruses and replaced by other strains or species and that co evolution allows these 
+
+dynamics to continue over time there is evidence of ktw dynamics in field studies as 
+
+illustrated by a study on a solar saltern in which coarsely defined bacterial and viral taxa 
+
+ akin to genus level grouping were relatively constant over time but showed ktw 
+
+dynamics at a finer taxonomic scale common members of the myoviral community 
+
+showed greater microdiversity over time and correlations to hosts were stronger when 
+
+microdiversity within otus was examined in a time series in coastal california to revealing 
+
+potential strain specific effects of viruses on hosts using complete viral metagenomes 
+
+recovered from a freshwater lake arkhipova et al examined the dynamics of viruses 
+
+over a year and found peaks in viral relative abundance before during and after peaks in 
+
+host abundance thus there can be interactions that do not follow the killing the winner 
+
+model and more studies illuminating these interactions are needed as so far few 
+
+environmental studies have examined potential killing the winner dynamics since few 
+
+have compared hosts and viruses 
+
+examining the temporal dynamics of marine viruses and their hosts has yielded insights 
+
+about the ecology of these viruses yet little attention has been paid to the phylogenetic 
+
+relationships within these communities and how they are shaped an exception is a study 
+
+by goldsmith et al near bermuda where the phylogenetic makeup of related groups 
+
+of viruses over time and depth was found to be highly uneven and variable there were 
+
+differences between fall and winter attributable to stratification with much of the 
+
+variability due to one phylogenetic group of cyanophages in coastal california groups 
+
+of cyanophages belonging to different phylogenetic clades shifted in their relative 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+dominance over time knowing more about the phylogenetic diversity of the viral 
+
+communities will allow us to better interpret these temporal dynamics 
+
+phylogenetic relatedness can be correlated to ecological relatedness in plants and animals 
+
+ and microbes have shown phylogenetic patterning in distribution and abundance 
+
+ yet little is known about these patterns in viral communities to examine these 
+
+phylogenetic patterns over time the following hypotheses were tested first it was 
+
+hypothesized that phylogenetic patterns in abundance would be detected in the viral 
+
+communities as has been found in putative host communities since viruses can be driving 
+
+killing the winner dynamics or be responding to their hosts second the 
+
+structure of viral communities has been purported to follow a seed bank distribution 
+
+where there are many more rare viral operational taxonomic units otus than abundant 
+
+ones therefore the ranking within phylogenetically related viral otus could also 
+
+follow this pattern over time examining the temporal relationship between phylogeny and 
+
+relative abundance will reveal if genetic relatedness influences dominance in viral and 
+
+potentially in host communities uncovering the alpha diversity over time in communities 
+
+and how it relates to other communities and to the environment will illuminate the drivers 
+
+of community structure and diversity 
+
+to test these hypotheses the temporal dynamics of the phylogenetic make up of two 
+
+ecologically important groups of marine viruses and their potential hosts were followed in 
+
+samples taken every two weeks over thirteen months using amplified marker genes and 
+
+high throughput sequencing the community similarities richness phylogenetic diversity 
+
+and the relative abundance of phylogenetically related groups of otus were examined over 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+time in viral and putative host communities two groups of viruses were selected and 
+
+examined because they have shown evidence of continued production in coastal waters 
+
+and high diversity of viral genotypes in this environment which would be helpful in the 
+
+phylogenetic patterns related to community dynamics and their diversity over time the 
+
+first group was t like viruses dna viruses that infect bacteria including cyanobacteria 
+
+the amplification target used was gp the gene encoding the capsid the second 
+
+group of viruses were marnavirus like viruses mlvs marine rna viruses in the order 
+
+picornavirales that infect eukaryotic phytoplankton and possibly heterotrophic protists 
+
+they were targeted by amplifying part of the rna dependent rna polymerase rdrp gene 
+
+ these viruses infect ecologically important phytoplankton such as diatoms belonging 
+
+to the genera rhizoselenia chaetoceros and the toxic bloom forming raphidophyte 
+
+heterosigma akashiwo and have been shown continued production and high diversity 
+
+in oceanic communities on the west coast of north america – in the north 
+
+pacific in antarctic waters and in the baltic sea and in freshwater lakes 
+
+ furthermore when examined along a salinity gradient there was little overlap 
+
+between the communities recovered and man unique viral otus recovered per site from 
+
+six different sites the choice of these two groups also has the advantage of 
+
+encompassing groups from both dna and rna viruses the dynamics of putative hosts 
+
+were examined by sequencing amplified marker genes for eukaryotes s rrna gene and 
+
+bacteria s rrna gene this contribution demonstrates that temporal changes in the 
+
+phylogenetic make up of viruses infecting bacteria and eukaryotic algae are related to 
+
+environmental changes and to seasonal fluctuations in the communities of potential hosts 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+materials and methods 
+
+sample collection 
+
+seawater samples were collected from jericho pier ° n ° w in 
+
+british columbia canada jericho pier jp is adjacent to the shoreline in a well mixed 
+
+location with mixed semi diurnal tides and significant freshwater influence from the 
+
+fraser river to get a representative sample of water and enough material for viral 
+
+extraction l of water was pumped from the m depth every two weeks at the daytime 
+
+high tide between june and july samples salinity and temperature were 
+
+measured using a ysi probe yellow springs ohio usa for all samples the water was 
+
+pre filtered through a 𝜇m nitex mesh and filtered sequentially through mm 
+
+diameter 𝜇m nominal pore size glass fibre gc advantec mfs dublin ca usa and 
+
+ 𝜇m pore size polyvinyldine millipore bedford ma usa filters viral size particles in 
+
+the filtrate were concentrated to ml viral concentrate using tangential flow 
+
+ultrafiltration with a kda mw prep scale spiral wound tff cartridge millipore 
+
+nutrients 
+
+phosphate silicate and nitrate nitrite concentrations were determined in duplicate ml 
+
+seawater samples filtered through 𝜇m pore size ha filters millipore and stored at 
+
+ °c until air segmented continuous flow analysis on a autoanalyzer bran luebbe 
+
+norderstedt germany chlorophyll a chl a was determined in triplicate by filtering 
+
+ml of seawater onto 𝜇m pore size ha filters millipore and storing the filters in the 
+
+dark at °c until acetone extraction and then analysed fluorometrically 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+enumeration of bacteria and viruses 
+
+samples for viral and bacterial abundances were taken at each sampling point by fixing 
+
+duplicate cryovials containing 𝜇l of sample with final concentration of 
+
+glutaraldehyde em grade freezing in liquid nitrogen and storing at °c until 
+
+processing flow cytometry samples were processed as in brussaard et al briefly 
+
+viral samples were diluted to in sterile 𝜇m filtered x te stained with 
+
+sybr green i invitrogen waltham ma usa at a final concentration of x of 
+
+commercial stock heated for minutes at ° c and then cooled in the dark for minutes 
+
+before processing bacterial samples were diluted up to in sterile 𝜇m filtered 
+
+ xte stained with sybr green i invitrogen at a final concentration of x of 
+
+commercial stock and incubated in the dark for minutes before processing all samples 
+
+were processed on a facscalibur becton dickinson franklin lakes new jersey usa 
+
+with viral and bacterial samples run for min at a medium or high flow rate respectively 
+
+event rates were kept between to events per second and green fluorescence and 
+
+side scatter detectors were used data were processed and gated using cell quest software 
+
+ becton dickinson 
+
+extraction of viral nucleic acids 
+
+the viral concentrate was filtered twice through 𝜇m pore size durapore pvdf filters 
+
+ millipore in a sterile sterivex filter unit millipore viral sized particles in the filtrate 
+
+were pelleted by ultracentrifugation beckman coulter brea california usa in a sw 
+
+rotor at g for h at °c the pellet was resuspended overnight in 𝜇l of 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+supernatant at °c to digest free dna the pellets were incubated with u 𝜇l dnase with 
+
+a final concentration mm mgcl for h at room temperature nucleic acids were extracted 
+
+using a qiamp viral minelute spin kit qiagen hilden germany according to the 
+
+manufacturer s directions 
+
+pcr amplification of t like virus marker gene 
+
+to target the marine t like virus capsid protein gene gp pcrs were set up as in filee 
+
+et al briefly each reaction mixture final volume 𝜇l consisted of 𝜇l template 
+
+dna x final concentration pcr buffer invitrogen carlsbad california usa mm 
+
+mgcl mm of each deoxynucleoside triphosphate bioline london uk pmol of 
+
+mzia bis and pmol of mzia and u platinum taq dna polymerase invitrogen and 
+
+was amplified using the program conditions as in table 
+
+pcr amplification of marnavirus like marker gene 
+
+half of each viral extract was used to synthesize complementary dna cdna to remove 
+
+dna the extracted viral pellets digested with amplification grade dnase invitrogen 
+
+the reaction was terminated by adding mm edta final concentration and incubating 
+
+for min at °c complementary dna cdna was generated using superscript iii 
+
+reverse transcriptase invitrogen with random hexamers ng 𝜇l as per the 
+
+manufacturer 
+
+pcr was performed using primer set mpl to target the rdrp of marnavirus like viruses 
+
+ each reaction mixture final volume 𝜇l consisted of ng of cdna x final 
+
+concentration pcr buffer mm mgcl mm of each deoxynucleoside triphosphate 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+𝜇m of each primer and u platinum taq dna polymerase the reaction was run in a pcr 
+
+express thermocycler hybaid ashford uk with program conditions as in table 
+
+products were run on a x tbe low melt gel excised and extracted using zymoclean 
+
+gel dna recovery kit zymo irvine california usa as per the manufacturer and a final 
+
+elution step of x 𝜇l eb buffer qiagen 
+
+filtration and extraction of marine bacteria and eukaryotes 
+
+one liter from each l seawater sample was filtered through a 𝜇m pore size 
+
+durapore pvdf mm filter millipore in a sterile sterivex filter unit millipore the 
+
+filter was either stored at °c until extraction or immediately extracted as follows 
+
+briefly filters were aseptically cut and incubated with lysozyme sigma aldrich st louis 
+
+mo usa at a final concentration of mg ml for h at °c sodium dodecyl sulfate was 
+
+added at a final concentration of w v and each filter was put through three freeze 
+
+thaw cycles proteinase k qiagen was then added to a final concentration of 𝜇g ml 
+
+and incubated for h at °c dna was sequentially extracted using equal volumes of 
+
+phenol chloroform isoamyl alcohol and chloroform isoamyl alcohol dna 
+
+was precipitated by adding nacl to a final concentration of m and by adding x the 
+
+extract volume of ethanol samples were incubated at °c for at least h and then 
+
+centrifuged for h at g at °c extracts were washed with ethanol and 
+
+resuspended in 𝜇l eb buffer 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+pcr amplification of bacterial and eukaryotic ribosomal sequences 
+
+pcr targeting eukaryotes used primers euk f and uni r these primers target 
+
+positions to and include the variable region v each reaction mixture final 
+
+volume 𝜇l consisted of 𝜇l template x final concentration pcr buffer mm 
+
+mgcl mm of each deoxynucleoside triphosphate 𝜇m of each primer and u 
+
+platinum taq dna polymerase the reaction was run in a pcr express thermocycler with 
+
+program conditions as in table 
+
+pcr targeting bacteria used primers f and r these primers target the v 
+
+to v regions pcrs were run with the following conditions each reaction mixture final 
+
+volume 𝜇l consisted of 𝜇l template x final concentration pcr buffer mm 
+
+mgcl mm of each deoxynucleoside triphosphate µm of each primer and u 
+
+platinum taq dna polymerase the reaction was run in a pcr express thermocycler with 
+
+program conditions as in table 
+
+sequencing library preparation 
+
+construction 
+
+pcr products not requiring gel excision were purified after pcr using ampure xp beads 
+
+ beckman coulter at a ratio of beads product cleaned products were resuspended in 
+
+ 𝜇l eb buffer qiagen all products were quantified using the picogreen dsdna 
+
+ invitrogen assay using lambda dna invitrogen as a standard sample concentrations 
+
+were read using iq bio rad hercules ca usa and cfx touch systems bio rad 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+pooled libraries were constructed using one of each of the amplicons at a concentration so 
+
+that their molarity would be similar and the total product of the pool to be ng 
+
+pooled amplicons were concentrated using ampure xp beads beckman coulter at a ratio 
+
+of beads product nxseq dna sample prep kit lucigen middleton wi usa was 
+
+used as per manufacturer s directions with either nextflex barcodes bioo austin 
+
+usa nextflex ht barcodes bioo or truseq adapters idt coralville iowa 
+
+libraries were cleaned up using ampure xp beads beckman coulter at a ratio of 
+
+beads library 
+
+quantification and quality control of libraries 
+
+libraries were checked for small fragments primer dimers and or adapter dimers using a 
+
+ bionanalyzer agilent santa clara ca usa with the high sensitivity dna kit 
+
+ agilent the concentration of libraries was quantified using picogreen dsdna assay as 
+
+above the libraries were quantified and checked for amplifiable adapters using the library 
+
+quantification dna standards kappa biosystems wilmington usa with the ssofast 
+
+evagreen qpcr supermix bio rad using 𝜇l evagreen master mix 𝜇l of 𝜇m f 
+
+primer 𝜇l of 𝜇m r primer and 𝜇l of and dilutions of the 
+
+libraries in triplicate on iq bio rad and cfx touch qpcr machines cycling 
+
+parameters were as follows °c for s cycles of °c for s °c for s and the 
+
+melt curve generation from °c to °c in °c steps s step quantification from 
+
+both picogreen and qpcr assays were used to determine final pooling of all libraries before 
+
+sequencing libraries were sequenced using x bp pe miseq illumina san diego usa 
+
+sequencing at génome québec innovation centre at the mcgill university montreal qc 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+canada and x bp pe miseq illumina sequencing at ubc pharmaceutical sciences 
+
+sequencing centre vancouver bc canada and at ucla s genoseq los angeles ca usa 
+
+sequence processing 
+
+libraries were either split by the sequencing center using casava illumina or with miseq 
+
+reporter software illumina sequence quality was initially examined using fastqc 
+
+ http www bioinformatics bbsrc ac uk projects fastqc contaminating sequencing 
+
+adapters were removed using trimmomatic version and the quality of the 
+
+sequencing library further examined using fastx quality libraries were further split 
+
+into individual amplicons i e s s gp and rdrp and then if the expected overlap of 
+
+the paired end reads was bp or more the paired reads were merged using pear 
+
+for s the expected overlap was right around the cut off therefore instead the sequences 
+
+were aligned to the silva database and then assigned to either the forward or reverse 
+
+primer based on their position then the forward and reverse reads were concatenated 
+
+however the reverse primer sequenced less readily than the forward and thus much 
+
+information was lost if only sequences with both forward and reverse were kept therefore 
+
+only the forward reads were used for further analysis all sequences were then quality 
+
+trimmed using trimmomatic with the default quality settings sequences were aligned to 
+
+known sequences silva database for s and s rrna genes using align seqs in 
+
+mothur and those not aligned were removed viral sequences were queried 
+
+using blast against databases containing the gene markers of interest from viral isolates 
+
+and from other environmental surveys and sequences with hits with an e value below 
+
+were kept 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http www bioinformatics bbsrc ac uk projects fastqc 
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+the s and s rrna gene sequences were checked for chimeras using usearch version 
+
+ with the gold reference database unique non chimeric sequences were 
+
+clustered at similarity taxonomy for the s and s rrna gene sequences was 
+
+assigned using mothur wang type algorithm using the silva taxonomy for the 
+
+viral targets sequences were chimera checked using usearch denovo and reference 
+
+viral sequences were then translated using fraggenescan viral reads were 
+
+clustered using usearch at similarity for mvl and similarity for t like 
+
+viruses since otu clustering sequence similarity cut offs are not well defined for viruses 
+
+percent similarities at the protein level were examined at to for both mvl and 
+
+t like viruses to examine an appropriate level these values chosen for similarity for 
+
+gp genera can have protein similarity when the number of otus compared to 
+
+the percent similarity at the rise in the number of otus was still linear and above 
+
+ the slope more quickly indicating many more otus picked with each per percent 
+
+similarity increase thus this level it was still sensitive without splitting potential groups 
+
+and similar levels and approach as in other studies for mlv it was as previously 
+
+described and chosen at sequence similarity at the protein level this approach is 
+
+similar to another otu based study targetting ssrna viruses in coral photosymbionts 
+
+operational taxonomic unit otu tables for all targets were constructed using usearch 
+
+ rarefaction curves were generated using vegan sequences were normalized for 
+
+by date and by target using vegan s rarefy all of the initial sequence files have been 
+
+deposited in ncbi’s bioproject database under id prjna 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+data analysis multivariate statistics and phylogenetic analysis 
+
+environmental parameters with missing data because of instrument malfunction or 
+
+unavailability were mean imputed to fill in missing values day length data were retrieved 
+
+using r package geosphere adonis was used as implemented in vegan to test 
+
+whether community matrices showed seasonal differences bray curtis distance matrices 
+
+were constructed from the normalized otu abundance tables mantel tests were 
+
+performed by comparing the community distance matrices to each other and to distance 
+
+matrices of environmental parameters as implemented in vegan 
+
+ncbi cdd domain alignments for rdrp and gp were retrieved and used as hidden 
+
+markov models via hmmer to align translated otus with clustal omega 
+
+environmental sequences for both gp – and rdrp were retrieved 
+
+from genbank to give context to the otus 
+
+alignments were viewed and manually curated with aliview automated trimming of 
+
+the alignments was done using trimal initial phylogenetic trees were built with fast 
+
+tree final maximum likelihood trees were generated using raxml with 
+
+bootstraps with vt with the protgamma model for the rdrp gene tree and jtt with the 
+
+protgamma model for the gp gene tree chosen using prottest faith s phylogenetic 
+
+diversity was calculated as implemented in picante the package ggtree was 
+
+used for visualizing and annotating trees and all other plots were created using r all 
+
+scripts used for processing the data are available at 
+
+https github com jooolia phylo temporal jericho doi zenodo 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+https github com jooolia phylo temporal jericho
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+results 
+
+variability of environmental characteristics 
+
+chlorophyll a chl a concentrations varied over time with a maximum observed 
+
+concentration during a eukaryotic phytoplankton bloom 𝜇g l in june fig s 
+
+the second highest chl a occurred during the annual spring bloom in late april 
+
+𝜇g l which is mainly composed of diatoms belonging to thallassiosira sp the 
+
+minimum chl a value of 𝜇g l occurred in may and the chlorophyll levels remained 
+
+below 𝜇g l from september to march 
+
+nutrient concentrations were also highly dynamic ranging between 𝜇m to 𝜇m for 
+
+silicate from below 𝜇m to 𝜇m for phosphate and from below 𝜇m to 𝜇m for 
+
+nitrate nitrite fig s overall nutrient concentrations were high and stable over winter 
+
+dipped in late april and then were followed by a large increase in silicate commencing in 
+
+may 
+
+variability of viral and bacterial abundance 
+
+during the time series the viral abundance ranged from × to × particles 
+
+ml while the bacterial abundance was one order of magnitude lower ranging from 
+
+ × to × cells ml fig s 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+shared viral and microbial otus over time 
+
+amplicon target reads representing marnavirus like viruses rdrp and t like viruses 
+
+ gp were translated into amino acids and the reads were normalized to the library with 
+
+fewest reads the s and s reads were normalized the same way using the nucleotide 
+
+sequences this resulted in otus at sequence similarity for the marnavirus like 
+
+viruses with between and otus per timepoint with an average of of these otus 
+
+shared over time fig s for the t like viruses there were a total of otus at 
+
+sequence similarity with a minimum of and a maximum of otus per timepoint 
+
+ fig s on average of the t like viruses otus were shared among all timepoints 
+
+there were bacterial otus sequence similarity with an average of shared 
+
+over time the lowest number of otus seen per timepoint was and the highest number 
+
+was the phylum level classifications showed a dominance of proteobacteria and 
+
+bacteriodetes and cyanobacteria showing large fluctuations fig s in the eukaryotic 
+
+community a total of otus sequence similarity were found with shared on 
+
+average a minimum of and a maximum of fig s the phylum level classifications 
+
+showed a dominance of the sar group with ophisthokonta haptophyta and 
+
+cryptophycaea making up the majority of the sequences recovered fig s rarefaction 
+
+curves for individual samples did not flatten saturate indicating that not all possible 
+
+otus were sequenced in these samples but when considered together the curves saturated 
+
+indicating that even if all the diversity was not captured in one sample the overall 
+
+community of otus was captured fig s 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+dynamics of phylogenetically related viral otus 
+
+viral otus were placed into a phylogenetic context and their dynamics examined over time 
+
+ fig fig s and fig s well defined and well supported phylogenetic groups a h of 
+
+marnavirus like viruses fig a and b showed strong temporal dynamics and differed by 
+
+season adonis r p value group h which included isolated viruses 
+
+infecting the diatoms chaetoceros sp and rhizoselenia sp were constant members of the 
+
+communities although their relative abundance was highest in late november group a was 
+
+always present and included many environmental sequences as well as sequences from a 
+
+virus that infects the raphidophyte heterosigma akashiwo the group was most abundant 
+
+between august and september the winter months from october to february were 
+
+dominated by otus in group e with a smaller contribution by group h the structure of 
+
+the mvl otu phylogenetic groups closely mirrored the structure of the top otus found 
+
+over time fig s demonstrating that this community contained few dominant otus 
+
+the t like virus otus were also placed in a phylogenetic context and categorized into 
+
+groups of related otus fig c in the fall group i dominated the community followed by 
+
+group g both groups included viral isolates infecting cyanobacteria in january of 
+
+the relative abundance of the t like viruses was represented by group b which contains 
+
+no known isolates unlike the mvl community the t like virus community had very 
+
+different patterns among the top otus and the phylogenetic groups over time fig s 
+
+when there was a large increase in nutrients in late september fig s the dominant 
+
+groups in the community shifted the community returned to its previous state by the next 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+sampling time the t like virus communities showed small differences by season adonis 
+
+r p value 
+
+richness of related viruses over time 
+
+within phylogenetic groupings the richness of otus varied over time in the viral 
+
+communities fig fig s and fig fig s often within the groups the richness and 
+
+relative abundance increased at the same timepoint indicating that at periods when these 
+
+groups of otus appeared to dominate the overall communities there was an increase in 
+
+alpha diversity within the group 
+
+examining the richness over time for mvl viruses for otus in group a there was a peak in 
+
+relative abundance and richness in the fall and later the richness dramatically decreased 
+
+but this group showed continued presence over time similar patterns were observed for 
+
+groups e and g where there was a peak in their abundance and richness at one point in the 
+
+time series and otherwise a low but detectable level of viruses conversely for group h the 
+
+pattern is different whereby the richness and relative abundance fluctuate but the peaks 
+
+and troughs are less steep than in the other groups indicating a larger number of persistent 
+
+otus group h comprised a large proportion of the overall otus percent overall 
+
+which affects the relative dynamics observed in the mvl community 
+
+for the t like viruses groups a c and d had similar dynamics during the time series 
+
+where they showed high richness for their group in june august then lower richness from 
+
+august until february and then in february there was a small peak in richness these 
+
+groups did not show large increases or decreases in the relative abundance but made up a 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+small proportion overall of the relative abundance throughout the time series groups b g 
+
+h and i had dynamics whereby they showed a continued presence throughout the time 
+
+series with fluctuations between timepoints and at times a high relative abundance 
+
+attributed to these groups groups e and f showed higher richness in the fall than the rest 
+
+of the year and a small peak in february 
+
+there were many persistent and ephemeral otus over time in the viral communities fig 
+
+ and fig furthermore many of the ephemeral viral otus were also related to the 
+
+persistent viral otus in the t like viruses there were many more otus than for the 
+
+marnavirus like viruses however both communities fluctuated over time of the 
+
+otus were found at of the timepoints for mvl vs of the otus in the t like 
+
+viruses in the t like viruses groups a b g and f contained both persistent and 
+
+ephemeral otus conversely group c had few otus that persisted in the mvl viruses 
+
+there were fewer otus overall and also fewer otus that persisted over time group a had 
+
+one otu that persisted over time and other otus that were only found at sampling 
+
+points which encompassed to weeks at the sampling site 
+
+lagged correlations with hosts over time 
+
+raphidophytes and marnavirus like viral group a 
+
+group a fig a which includes harnav a virus which infects the raphidophyte 
+
+heterosigma akashiwo increased in relative abundance after the relative abundance of 
+
+eukaryotic sequences classified as raphidophytes increased fig spearman rank 
+
+correlation over entire time series and p value there were further peaks in the 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+relative abundance of raphidophyte sequences but they did not coincide with increases in 
+
+the relative abundance of marnavirus like viral group a of all the otus in group a otu 
+
+was relatively most abundant and when aligned with other closely related sequences fig 
+
+s these sequences showed changes in the amino acid d to e in the palm region of the 
+
+rdrp 
+
+cyanobacteria and t like virus group i 
+
+comparing the t like virus group i which contains cyanophage isolates to cyanobacterial 
+
+otus fig showed that the relative abundance of viruses increased in the fall after 
+
+peaks in the relative abundance of cyanobacterial otus correlation over entire time 
+
+series p value the lags in relative abundances of putative cyanophages 
+
+relative to cyanobacteria continued and after the spring diatom bloom april th there 
+
+was a lag before the relative abundance of a different putative cyanophage in group i 
+
+increased showing succession in the viral community 
+
+the community similarity of the t like viruses had a strong lagged negative correlation to 
+
+the richness of the bacterial community fig s and fig the correlations to the mvl 
+
+community were much stronger to other communities when lagged than when directly 
+
+compared viral abundance was negatively correlated to bacterial community similarity 
+
+mantel tests among community similarity 
+
+mantel tests were used to examine concurrent community and environmental changes over 
+
+time fig the overall bacterial and eukaryotic community compositions fluctuated 
+
+strongly together the marnavirus like community changes were predicted most strongly 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+by changes in the eukaryotic community with a lag of two weeks and less strongly by the 
+
+bacterial and myoviral communities the t like viruses showed changes most strongly 
+
+with the bacterial communities with a two week lag however also the eukaryotic and 
+
+marnavirus like communities with lags were also strong predictors of the myoviral 
+
+communities 
+
+discussion 
+
+temporal shifts in community dominance by groups of related viruses 
+
+a major theme in microbial ecology is understanding the causes of temporal shifts in 
+
+community composition previously a study at the bermuda atlantic time series study 
+
+ bats used deep sequencing of amplicons of the viral gene marker pho h to resolve 
+
+phylogenetically distinct groups of viral populations that differed between fall and winter 
+
+these differences were attributed to a phylogenetic group containing cyanobacteria 
+
+infecting viruses and to water stratification in our study in coastal british columbia 
+
+the temporal dynamics were driven by shifts in groups of phylogenetically related otus 
+
+ fig and there was a consistently high diversity of otus in the viral communities the 
+
+dynamics of mvl viruses were similar when examined as groups of related viruses fig 
+
+ b and as the top mvl otus over time fig s indicating an uneven community as has 
+
+been previously seen conversely in the t like viruses the patterns among 
+
+phylogenetically related groups did not resemble the patterns of the top otus 
+
+indicating that the community was more diverse and even even with these differences the 
+
+phylogenetic dynamics fluctuated in both the t like and mvl viruses even though viral 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+richness stayed relatively constant over time fig fig fig s dynamics within the 
+
+phylogenetic groups showed several different patterns that could be classified as having 
+
+one large peak per year several peaks or a constant presence in the community these 
+
+different dynamics could represent differences in lifestyles r or k selected hosts or 
+
+the influence of environmental parameters this would help explain how constant co 
+
+evolution or co presence of viruses that is likely a factor in the killing the winner model 
+
+ 
+
+the dynamics of the phylogenetic groups reflect that viral and microbial communities can 
+
+be stable at the genus level and above but are dynamic at the strain or species level 
+
+furthermore taxonomically related species can have similar niches and ecology 
+
+for example although there are exceptions viruses infecting marine cyanobacteria and 
+
+eukaryotic phytoplankton fall into different phylogenetic clusters depending on the host 
+
+that they infect consistent with the hosts representing specific niches 
+
+alternatively given that the genetic similarity of marker gene sequences predicts gene 
+
+content in at least some groups of double stranded dna viruses and that viral gene 
+
+content or gc ratios may result in light dependent effects on growth or nutrient effects 
+
+ it is likely that environmental factors may have different influences on different 
+
+phylogenetic groups of viruses for example moniruzzaman et al saw increased 
+
+activity of ssrna viruses with the termination of a phytoplankton bloom consequently the 
+
+phylogenetic signal is a very important part of the community structure 
+
+previously it has been found that the largest otus were persistent throughout time and it 
+
+was suggested that transient viruses were dispersed from different areas this seems 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+unlikely in our study since it was frequent that the ephemeral viruses were closely related 
+
+to the persistent viruses furthermore both persistent and ephemeral viruses of 
+
+phytoplankton were found in a freshwater lakes and at a coastal site 
+
+where some ephemeral viruses were correlated with shifts in environmental parameters 
+
+in another freshwater study it appeared that most viruses were transient and the system 
+
+saw a very quick turnover additionally in marine t like virus communities some 
+
+otus persisted but many more were ephemeral in year and year time series 
+
+furthermore in a daily study of t like viral communities few large scale increase or 
+
+decrease events were seen and overall the changes in both the bacterial and t like viral 
+
+communities were slow additionally the data show that some otus are persistent 
+
+and thus continually successful while others are ephemeral fig s and fig s with 
+
+some of the viral groups having no persistent otus t like c and d and mvl b c d f and 
+
+g therefore both eukaryotic and bacterial marine viruses show the pattern of ephemeral 
+
+and persistent viruses and adding the phylogenetic relatedness gives a deeper 
+
+understanding of these dynamics 
+
+potential quasispecies behaviour 
+
+the population structure of rna viruses is proposed to be a mixture of genotypes called 
+
+quasispecies that are produced through polymerase errors they encompass the 
+
+community of genotypes theoretically produced from one infection it is 
+
+proposed to be a result of higher mutation rates and higher burst sizes found in rna 
+
+viruses compared to double stranded dna viruses however it is theoretically 
+
+possible for quasispecies to exist in dna bacteriophage populations in high 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+confidence viral dna metagenomes there is heterogeneity in assembled reads beyond 
+
+expected sequencing errors and there is site specific variation in dna viral genome 
+
+populations studied in humans thus a sequenced viral genome could be considered 
+
+to be an average of individual genotypes in viral rna metagenomic sequences observed 
+
+in an antarctic lake the ecological setting likely influences the presence of quasispecies 
+
+ since there are more single nucleotide variations snvs in the lake water 
+
+metagenomes than in the microbial mats that they studied this is explained either by 
+
+higher turnover in the lake water and thus more ecological niches diversity in these 
+
+samples or as the result of convergence of water from more locations when the 
+
+otus in the marnavirus like group a group which includes viral isolate harnav were 
+
+visualized as an alignment fig s a small number of the differences between the 
+
+ephemeral and persistent otus were randomly spread across the gene fragment however 
+
+most of the differences were in the palm section of the catalytic site c where at a 
+
+specific position the most persistent viral sequence had d and the ephemeral sequences 
+
+had e these ephemeral sequences point to a population that is marginally successful while 
+
+the most abundant otu otu retaining the d amino acid remains persistent this 
+
+suggests that the high diversity of related viruses means a successful large scale infection 
+
+event as seen in clinical studies and this suggests that this phenomenon could be 
+
+prevalent in marine settings and should be incorporated into current ecological theories 
+
+ e g ktw 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+implications for theories related to community structure and 
+
+dynamics 
+
+in the killing the winner model viruses infect the most active organism one 
+
+interpretation is that hosts compete for limiting resources which determine the community 
+
+composition at a particular site and viruses determine the specific host species and the 
+
+abundance of these hosts with the lagged dynamics observed in the raphidophytes 
+
+and viruses related to raphidophyte infecting viruses the winner has been killed fig 
+
+subsequently there is a small increase in the relative abundance of raphidophytes but no 
+
+associated increase in rdrp viral group a there are several explanations for the increase 
+
+in raphidophytes without an observed increase in viral group a possible explanations are 
+
+that the surviving raphidophytes were resistant to specific viruses after infection in 
+
+this case members from viral group a or that the number of susceptible hosts was too low 
+
+to allow for a detectable increase in viruses alternatively a different subset of viruses 
+
+such as the dna virus hav or protist grazing could be keeping populations 
+
+low and thus preventing the replication of the group a viruses similar patterns were 
+
+detected in t like myoviral group i including isolates from prochlorococcus phage 
+
+pssm and synechococcus phage ssm and cyanobacteria fig these types of patterns 
+
+have been observed in other studies where there were many viral otus detected with 
+
+strong time lagged correlations to bacterial otus also in a mesocosm experiment 
+
+with emiliania huxleyi there was a peak in host abundance and then four days later a peak 
+
+in emiliania huxleyi virus ehv abundance rapid shifts in fine scale viral dynamics 
+
+and stability at coarse scale viral dynamics suggest that the killing the winner theory is 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+operating at the strain level preserving bacterial strain level diversity 
+
+ 
+
+in the marine environment viruses at the coarse scale of family or genus could show 
+
+killing the winner dynamics with finer scale dynamics at the strain level this bank or seed 
+
+bank model explains how high local viral diversity shuffling of viruses can be 
+
+consistent with low overall global diversity represented by the most abundant viruses by 
+
+a constant local production of viruses has been supported by many studies – 
+
+previously it has been found that the viral community was mostly dominated by a 
+
+few successful otus and the rest of the otus were rare and contained in the bank 
+
+we hypothesized that the communities would have a seed bank where there is shuffling 
+
+in rank of phylogenetically related viruses along a rank abundance curve however when 
+
+examined with the phylogenetic signal it is not a shuffling of rank of these related viruses 
+
+as there are few viral otus that dominate within each phylogenetic group that dominate 
+
+over time and the other otus are ephemeral thus the seed bank glosses over important 
+
+information revealed by the phylogenetic examination of this communities this seed bank 
+
+idea could be effective at different time scales but at the scale of one year with samples 
+
+every two weeks there was no evidence of shuffling of rank of viruses within these viral 
+
+groups our study has deepened this understanding by showing that the relatedness of the 
+
+viruses is crucial to understanding their dynamics and reveals that the seed bank does not 
+
+appear to be operating as described our data reveal that the viruses within phylogenetic 
+
+groups can be ephemeral and related to persistent viruses and that groups of related 
+
+viruses can become abundant through ecological processes e g through habitat filtering 
+
+where closely related species can persist in a particular environment 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+caveats 
+
+although the challenges with viral gene markers and pcr in general have 
+
+been discussed it remains an excellent approach for examining population structures 
+
+although it could be argued that rare and putative quasispecies otus could result from 
+
+pcr errors or sampling anomalies this is unlikely given that these otus were 
+
+seen multiple times in different samples implying that they are not spurious to increase 
+
+confidence in the results some libraries with fewer reads were excluded so that more 
+
+sequence could be used overall when normalizing samples even though this has the 
+
+trade off of decreasing the number of samples the sequences were checked for chimeras 
+
+since chimeras can form as a result of high cycle number hence although the read 
+
+abundance of otus is semi quantitative it is a good approach for comparing richness and 
+
+diversity among samples but not for absolute counts of genes thus we are 
+
+confident that our results conservatively reflect the changes that occurred in these 
+
+microbial communities 
+
+conclusions 
+
+phylogenetically related viruses showed temporal patterns of dominance within the viral 
+
+communities over time as well viral communities showed evidence of time lagged 
+
+dynamics related to the potential host communities where for example marnavirus like 
+
+viral mvl group a containing isolate harnav was correlated in a lagged fashion to the 
+
+raphidophytes and myoviral virus group i containing isolates pssm and ssm was 
+
+correlated with cyanobacteria mvl like and myoviral viral communities differed in fine 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+scale community structure illustrated by differences in the proportion of otus that 
+
+persisted over time the evenness and the diversity of the communities 
+
+the mvl which contained isolates with high burst sizes exhibited potential quasispecies 
+
+type behaviour whereby otus at one timepoint were composed of many different closely 
+
+related viruses and the differences between the ephemeral and persistent otus differed 
+
+mostly in a protein residue at a catalytic site suggesting that this diversity could originate 
+
+within one infection 
+
+previously the link between dominance persistence and phylogeny of virus host 
+
+communities has largely been overlooked other studies have found that many viral otus 
+
+are ephemeral and that few are persistent whereas this study demonstrated that most of 
+
+the ephemeral viral otus were closely related to a persistent viral otu and that over time 
+
+the community was dominated by different phylogenetic viral groups composed of related 
+
+ephemeral and persistent otus 
+
+hence the observed changes were not the result of the presence of a seed bank that led to 
+
+an overall shuffling in ranks of otus in the community but rather the changes were related 
+
+to fluctuations in the dominance of different phylogenetic groups of viruses over time 
+
+these dynamics thus add an important insight about the structure of viral communities 
+
+and are thus crucial for understanding these viral communities 
+
+acknowledgements 
+
+suttle lab and beaty biodiversity members assisted greatly through discussions 
+
+manuscript improvements assisting in field work and facilitating laboratory and analytical 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+work in particular the contributions of a m chan c chénard c e chow j l clasen c 
+
+deeg j f finke t j heger x a tian m vlok and x zhong are gratefully acknowledged c 
+
+payne conducted the nutrient analyses and r pawlowicz provided the ysi probe thanks 
+
+also to a m comeau and a i culley for providing reference alignments for gp and rdrp 
+
+respectively the research was made possible through funding from nserc through pgs m 
+
+and pgs d awards to jag and discovery research and ship time grants to cas fellowships 
+
+to jag from ubc and the beaty biodiversity center through a brite award from an nserc 
+
+create grant the canada foundation for innovation and the british columbia knowledge 
+
+development fund funded equipment purchases that allowed the work to be done 
+
+conflict of interest 
+
+the authors declare no conflict of interest 
+
+references 
+
+ lynch mdj neufeld jd ecology and exploration of the rare biosphere nature 
+
+reviews microbiology – 
+
+ durand md olson rj chisholm sw phytoplankton population dynamics at the 
+
+bermuda atlantic time series station in the sargasso sea deep sea research part ii 
+
+topical studies in oceanography – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ morris rm vergin kl cho j c rappé ms carlson ca giovannoni sj temporal and 
+
+spatial response of bacterioplankton lineages to annual convective overturn at the 
+
+bermuda atlantic time series study site limnology and oceanography – 
+
+ fuhrman ja hewson i schwalbach m steele j brown m naeem s annually 
+
+reoccurring bacterial communities are predictable from ocean conditions proceedings of 
+
+the national academy of sciences – 
+
+ gilbert ja field d swift p newbold l oliver a smyth t somerfield pj huse s joint i 
+
+ the seasonal structure of microbial communities in the western english channel 
+
+environmental microbiology – 
+
+ suttle ca viruses in the sea nature – 
+
+ paul jh prophages in marine bacteria dangerous molecular time bombs or the 
+
+key to survival in the seas the isme journal – 
+
+ brum jr schenck ro sullivan mb global morphological analysis of marine viruses 
+
+shows minimal regional variation and dominance of non tailed viruses the isme journal 
+
+ – 
+
+ breitbart m marine viruses truth or dare annual review of marine science 
+
+ – 
+
+ lang as rise ml culley ai steward gf rna viruses in the sea fems 
+
+microbiology reviews – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ moreau h piganeau g desdevises y cooke r derelle e grimsley n marine 
+
+prasinovirus genomes show low evolutionary divergence and acquisition of protein 
+
+metabolism genes by horizontal gene transfer journal of virology – 
+
+ rodriguez valera f martin cuadrado a b rodriguez brito b pašić l thingstad tf 
+
+rohwer f mira a explaining microbial population genomics through phage 
+
+predation nature reviews microbiology – 
+
+ bergh o borsheim ky bratbak g heldal m high abundance of viruses found in 
+
+aquatic environments nature – 
+
+ jiang sc paul jh seasonal and diel abundance of viruses and occurrence of 
+
+lysogeny bacteriocinogeny in the marine environment marine ecology progress series 
+
+ – 
+
+ winget dm helton rr williamson ke bench sr williamson sj wommack ke 
+
+repeating patterns of virioplankton production within an estuarine ecosystem 
+
+proceedings of the national academy of sciences – 
+
+ parsons rj breitbart m lomas mw carlson ca ocean time series reveals 
+
+recurring seasonal patterns of virioplankton dynamics in the northwestern sargasso sea 
+
+the isme journal – 
+
+ chow c et fuhrman ja seasonality and monthly dynamics of marine myovirus 
+
+communities marine myovirus community dynamics at spot environmental microbiology 
+
+ – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ pagarete a chow c et johannessen t fuhrman ja thingstad tf sandaa ra 
+
+strong seasonality and interannual recurrence in marine myovirus communities applied 
+
+and environmental microbiology – 
+
+ waterbury jb valois fw resistance to co occurring phages enables marine 
+
+synechococcus communities to coexist with cyanophages abundant in seawater applied 
+
+and environmental microbiology – 
+
+ suttle ca chan am dynamics and distribution of cyanophages and their effect on 
+
+marine synechococcus spp applied and environmental microbiology – 
+
+ marston mf taylor s sme n parsons rj noyes tje martiny jbh marine 
+
+cyanophages exhibit local and regional biogeography environmental microbiology 
+
+ – 
+
+ sandaa r a e storesund j olesin e lund paulsen m larsen a bratbak g ray j 
+
+seasonality drives microbial community structure shaping both eukaryotic and 
+
+prokaryotic host–viral relationships in an arctic marine ecosystem viruses 
+
+ clasen j hanson c ibrahim y weihe c marston m martiny j diversity and 
+
+temporal dynamics of southern california coastal marine cyanophage isolates aquatic 
+
+microbial ecology – 
+
+ middelboe m hagström a blackburn n sinn b fischer u borch nh pinhassi j simu k 
+
+lorenz mg effects of bacteriophages on the population dynamics of four strains of 
+
+pelagic marine bacteria microbial ecology – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ bouvier t giorgio pa del key role of selective viral induced mortality in 
+
+determining marine bacterial community composition environmental microbiology 
+
+ – 
+
+ marston mf pierciey fj shepard a gearin g qi j yandava c schuster sc henn mr 
+
+martiny jbh rapid diversification of coevolving marine synechococcus and a virus 
+
+proceedings of the national academy of sciences – 
+
+ hewson i vargo ga fuhrman ja bacterial diversity in shallow oligotrophic 
+
+marine benthos and overlying waters effects of virus infection containment and nutrient 
+
+enrichment microbial ecology – 
+
+ thingstad tf elements of a theory for the mechanisms controlling abundance 
+
+diversity and biogeochemical role of lytic bacterial viruses in aquatic systems limnology 
+
+and oceanography – 
+
+ thingstad tf pree b giske j våge s what difference does it make if viruses are 
+
+strain rather than species specific frontiers in microbiology 
+
+ xue c goldenfeld n coevolution maintains diversity in the stochastic “kill the 
+
+winner” model physical review letters 
+
+ rodriguez brito b li l wegley l furlan m angly f breitbart m buchanan j desnues 
+
+c dinsdale e edwards r felts b haynes m liu h lipson d mahaffy j martin cuadrado 
+
+ab mira a nulton j pašić l rayhawk s rodriguez mueller j rodriguez valera f salamon 
+
+p srinagesh s thingstad tf tran t thurber rv willner d youle m rohwer f viral 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+and microbial community dynamics in four aquatic environments the isme journal – 
+
+ 
+
+ needham dm sachdeva r fuhrman ja ecological dynamics and co occurrence 
+
+among marine phytoplankton bacteria and myoviruses shows microdiversity matters the 
+
+isme journal – 
+
+ arkhipova k skvortsov t quinn jp mcgrath jw allen cc dutilh be mcelarney y 
+
+kulakov la temporal dynamics of uncultured viruses a new dimension in viral 
+
+diversity the isme journal – 
+
+ winter c bouvier t weinbauer mg thingstad tf trade offs between 
+
+competition and defense specialists among unicellular planktonic organisms the “killing 
+
+the winner” hypothesis revisited microbiology and molecular biology reviews – 
+
+ goldsmith db parsons rj beyene d salamon p breitbart m deep sequencing of 
+
+the viral phoh gene reveals temporal variation depth specific composition and persistent 
+
+dominance of the same viral phoh genes in the sargasso sea peerj e 
+
+ harvey p purvis a comparative methods for explaining adaptations nature 
+
+ – 
+
+ srivastava ds cadotte mw macdonald aam marushia rg mirotchnick n 
+
+phylogenetic diversity and the functioning of ecosystems ecology letters – 
+
+ horner devine mc bohannan bj phylogenetic clustering and overdispersion in 
+
+bacterial communities ecology s –s 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ lennon jt aanderud zt lehmkuhl bk schoolmaster jr dr mapping the niche 
+
+space of soil microorganisms using taxonomy and traits ecology – 
+
+ chow c et kim dy sachdeva r caron da fuhrman ja top down controls on 
+
+bacterial community structure microbial network analysis of bacteria t like viruses and 
+
+protists the isme journal – 
+
+ breitbart m rohwer f here a virus there a virus everywhere the same virus 
+
+trends in microbiology – 
+
+ filée j tétart f suttle ca krisch hm marine t type bacteriophages a 
+
+ubiquitous component of the dark matter of the biosphere proceedings of the national 
+
+academy of sciences – 
+
+ culley ai steward gf new genera of rna viruses in subtropical seawater 
+
+inferred from polymerase gene sequences applied and environmental microbiology 
+
+ – 
+
+ tomaru y marine diatom viruses and their hosts resistance mechanisms and 
+
+population dynamics perspectives in phycology – 
+
+ culley ai lang a suttle ca high diversity of unknown picorna like viruses in the 
+
+sea nature – 
+
+ culley ai lang a suttle ca metagenomic analysis of coastal rna virus 
+
+communities science – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ culley ai mueller ja belcaid m wood charlson em poisson g steward gf the 
+
+characterization of rna viruses in tropical seawater using targeted pcr and metagenomics 
+
+mbio e – 
+
+ urayama s i takaki y nishi s yoshida takashima y deguchi s takai k nunoura t 
+
+ unveiling the rna virosphere associated with marine microorganisms molecular 
+
+ecology resources – 
+
+ miranda ja culley ai schvarcz cr steward gf rna viruses as major 
+
+contributors to antarctic virioplankton rna viruses in the antarctic environmental 
+
+microbiology – 
+
+ allen lz mccrow jp ininbergs k dupont cl badger jh hoffman jm ekman m allen 
+
+ae bergman b venter jc the baltic sea virome diversity and transcriptional 
+
+activity of dna and rna viruses msystems e – 
+
+ hewson i bistolas ks button jb jackson ew occurrence and seasonal dynamics 
+
+of rna viral genotypes in three contrasting temperate lakes plos one e 
+
+ labbé m raymond f lévesque a thaler m mohit v audet m corbeil j culley a 
+
+communities of phytoplankton viruses across the transition zone of the st lawrence 
+
+estuary viruses 
+
+ suttle ca chan am cottrell mt use of ultrafiltration to isolate viruses from 
+
+seawater which are pathogens of marine phytoplankton applied and environmental 
+
+microbiology – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ parsons t maita y lalli c a manual of chemical and biological methods for 
+
+seawater analysis pergamon press new york 
+
+ brussaard cpd optimization of procedures for counting viruses by flow 
+
+cytometry applied and environmental microbiology – 
+
+ short sm suttle ca temporal dynamics of natural communities of marine algal 
+
+viruses and eukaryotes aquatic microbial ecology – 
+
+ diez b pedros alio c marsh tl massana r application of denaturing gradient 
+
+gel electrophoresis dgge to study the diversity of marine picoeukaryotic assemblages 
+
+and comparison of dgge with other molecular techniques applied and environmental 
+
+microbiology – 
+
+ baker g smith j cowan d review and re analysis of domain specific s 
+
+primers journal of microbiological methods – 
+
+ muyzer g teske a wirsen co jannasch hw phylogenetic relationships of 
+
+thiomicrospira species and their identification in deep sea hydrothermal vent samples by 
+
+denaturing gradient gel electrophoresis of s rdna fragments archives of microbiology 
+
+ – 
+
+ bolger am lohse m usadel b trimmomatic a flexible trimmer for illumina 
+
+sequence data bioinformatics – 
+
+ gordon a fastx toolkit 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ zhang j kobert k flouri t stamatakis a pear a fast and accurate illumina 
+
+paired end read merger bioinformatics – 
+
+ quast c pruesse e yilmaz p gerken j schweer t yarza p peplies j glockner fo 
+
+the silva ribosomal rna gene database project improved data processing and web based 
+
+tools nucleic acids research d –d 
+
+ schloss pd westcott sl ryabin t hall jr hartmann m hollister eb lesniewski ra 
+
+oakley bb parks dh robinson cj sahl jw stres b thallinger gg van horn dj weber cf 
+
+ introducing mothur open source platform independent community supported 
+
+software for describing and comparing microbial communities applied and environmental 
+
+microbiology – 
+
+ edgar rc search and clustering orders of magnitude faster than blast 
+
+bioinformatics – 
+
+ rho m tang h ye y fraggenescan predicting genes in short and error prone 
+
+reads nucleic acids research e –e 
+
+ lavigne r darius p summer ej seto d mahadevan p nilsson as ackermann hw 
+
+kropinski am classification of myoviridae bacteriophages using protein sequence 
+
+similarity bmc microbiology 
+
+ hou w wang s briggs br li g xie w dong h high diversity of myocyanophage 
+
+in various aquatic environments revealed by high throughput sequencing of major capsid 
+
+protein gene with a new set of primers frontiers in microbiology 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ buerger p weynberg k wood charlson e sato y willis b oppen m van novel 
+
+t bacteriophages associated with black band disease in corals bacteriophages in black 
+
+band disease environmental microbiology doi 
+
+ gustavsen ja winget dm tian x suttle ca high temporal and spatial diversity in 
+
+marine rna viruses implies that they have an important role in mortality and structuring 
+
+plankton communities frontiers in microbiology 
+
+ montalvo proaño j buerger p weynberg kd oppen mjh van a pcr based assay 
+
+targeting the major capsid protein gene of a dinorna like ssrna virus that infects coral 
+
+photosymbionts frontiers in microbiology 
+
+ oksanen j blanchet fg kindt r legendre p minchin pr o’hara rb simpson gl 
+
+solymos p stevens mhh wagner h vegan community ecology package 
+
+ hijmans rj geosphere spherical trigonometry 
+
+ johnson ls eddy sr portugaly e hidden markov model speed heuristic and 
+
+iterative hmm search procedure bmc bioinformatics 
+
+ sievers f wilm a dineen d gibson tj karplus k li w lopez r mcwilliam h remmert 
+
+m soding j thompson jd higgins dg fast scalable generation of high quality 
+
+protein multiple sequence alignments using clustal omega molecular systems biology 
+
+ – 
+
+ jia z ishihara r nakajima y asakawa s kimura m molecular characterization of 
+
+t type bacteriophages in a rice field environmental microbiology – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ lópez bueno a tamames j velázquez d moya a quesada a alcamí a high 
+
+diversity of the viral community from an antarctic lake science – 
+
+ comeau am arbiol c krisch hm gene network visualization and quantitative 
+
+synteny analysis of more than marine t like phage scaffolds from the gos 
+
+metagenome molecular biology and evolution – 
+
+ liu j wang g wang q liu j jin j liu x phylogenetic diversity and assemblage of 
+
+major capsid genes g of t type bacteriophages in paddy field soils during rice 
+
+growth season in northeast china soil science and plant nutrition – 
+
+ bellas cm anesio am high diversity and potential origins of t type 
+
+bacteriophages on the surface of arctic glaciers extremophiles – 
+
+ butina tv belykh oi potapov sa sorokovikova eg diversity of the major capsid 
+
+genes g of t like bacteriophages in the eutrophic lake kotokel in east siberia russia 
+
+archives of microbiology – 
+
+ larsson a aliview a fast and lightweight alignment viewer and editor for large 
+
+datasets bioinformatics – 
+
+ capella gutierrez s silla martinez jm gabaldon t trimal a tool for automated 
+
+alignment trimming in large scale phylogenetic analyses bioinformatics – 
+
+ price mn dehal ps arkin ap fasttree –approximately maximum likelihood 
+
+trees for large alignments plos one e 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ stamatakis a raxml version a tool for phylogenetic analysis and post analysis 
+
+of large phylogenies bioinformatics – 
+
+ darriba d taboada gl doallo r bangor d prottest fast selection of best fit 
+
+models of protein evolution bioinformatics – 
+
+ faith dp conservation evaluation and phylogenetic diversity biological 
+
+conservation – 
+
+ kembel sw cowan pd helmus mr cornwell wk morlon h ackerly dd blomberg sp 
+
+webb co picante r tools for integrating phylogenies and ecology bioinformatics 
+
+ – 
+
+ yu g smith d zhu h guan y lam tt y ggtree an r package for visualization 
+
+and annotation of phylogenetic trees with their covariates and other associated data 
+
+methods in ecology and evolution – 
+
+ r core team r a language and environment for statistical computing r 
+
+foundation for statistical computing vienna austria 
+
+ harrison pj fulton jd taylor fjr parsons tr review of the biological 
+
+oceanography of the strait of georgia pelagic environment canadian journal of fisheries 
+
+and aquatic sciences – 
+
+ allen s wolfe m hindcast of the timing of the spring phytoplankton bloom in the 
+
+strait of georgia progress in oceanography – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ velthuis ajw te common and unique features of viral rna dependent 
+
+polymerases cellular and molecular life sciences – 
+
+ suttle ca marine viruses major players in the global ecosystem nature reviews 
+
+microbiology – 
+
+ chénard c suttle ca phylogenetic diversity of sequences of cyanophage 
+
+photosynthetic gene psba in marine and freshwaters applied and environmental 
+
+microbiology – 
+
+ finke j winget d chan a suttle c variation in the genetic repertoire of viruses 
+
+infecting micromonas pusilla reflects horizontal gene transfer and links to their 
+
+environmental distribution viruses 
+
+ kellogg ca paul jh degree of ultraviolet radiation damage and repair capabilities 
+
+are related to g c content in marine vibriophages aquatic microbial ecology – 
+
+ bragg jg chisholm sw modeling the fitness consequences of a cyanophage 
+
+encoded photosynthesis gene plos one e 
+
+ moniruzzaman m wurch ll alexander h dyhrman st gobler cj wilhelm sw 
+
+virus host relationships of marine single celled eukaryotes resolved from 
+
+metatranscriptomics nature communications 
+
+ short sm short cm quantitative pcr reveals transient and persistent algal 
+
+viruses in lake ontario canada environmental microbiology – 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ rozon rm short sm complex seasonality observed amongst diverse 
+
+phytoplankton viruses in the bay of quinte an embayment of lake ontario freshwater 
+
+biology – 
+
+ needham dm chow c et cram ja sachdeva r parada a fuhrman ja short 
+
+term observations of marine bacterial and viral communities patterns connections and 
+
+resilience the isme journal – 
+
+ holmes ec the rna virus quasispecies fact or fiction journal of molecular 
+
+biology – 
+
+ domingo e sheldon j perales c viral quasispecies evolution microbiology and 
+
+molecular biology reviews – 
+
+ milo r jorgensen p moran u weber g springer m bionumbers the database of 
+
+key numbers in molecular and cell biology nucleic acids research d –d 
+
+ weitz js hartman h levin sa coevolutionary arms races between bacteria and 
+
+bacteriophage proceedings of the national academy of sciences – 
+
+ dutilh be cassman n mcnair k sanchez se silva ggz boling l barr jj speth dr 
+
+seguritan v aziz rk felts b dinsdale ea mokili jl edwards ra a highly abundant 
+
+bacteriophage discovered in the unknown sequences of human faecal metagenomes 
+
+nature communications 
+
+ renzette n pokalyuk c gibson l bhattacharjee b schleiss mr hamprecht k 
+
+yamamoto ay mussi pinhata mm britt wj jensen jd kowalik tf limits and 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+patterns of cytomegalovirus genomic diversity in humans proceedings of the national 
+
+academy of sciences e –e 
+
+ lópez bueno a rastrojo a peiró r arenas m alcamí a ecological connectivity 
+
+shapes quasispecies structure of rna viruses in an antarctic lake molecular ecology 
+
+ – 
+
+ storesund je erga sr ray jl thingstad tf sandaa r a top down and bottom 
+
+up control on bacterial diversity in a western norwegian deep silled fjord fems 
+
+microbiology ecology fiv 
+
+ tarutani k nagasaki k yamaguchi m viral impacts on total abundance and 
+
+clonal composition of the harmful bloom forming phytoplankton heterosigma akashiwo 
+
+applied and environmental microbiology – 
+
+ nagasaki k yamaguchi m isolation of a virus infectious to the harmful bloom 
+
+causing microalga heterosigma akashiwo raphidophyceae aquatic microbial ecology 
+
+ – 
+
+ harvey el menden deuer s predator induced fleeing behaviors in 
+
+phytoplankton a new mechanism for harmful algal bloom formation plos one e 
+
+ schroeder dc oke j hall m malin g wilson wh virus succession observed 
+
+during an emiliania huxleyi bloom applied and environmental microbiology – 
+
+ 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ emerson jb thomas bc andrade k heidelberg kb banfield jf new 
+
+approaches indicate constant viral diversity despite shifts in assemblage structure in an 
+
+australian hypersaline lake applied and environmental microbiology – 
+
+ short cm rusanova o short sm quantification of virus genes provides 
+
+evidence for seed bank populations of phycodnaviruses in lake ontario canada the isme 
+
+journal – 
+
+ zhong x jacquet s differing assemblage composition and dynamics in t like 
+
+myophages of two neighbouring sub alpine lakes freshwater biology – 
+
+ brum jr ignacio espinoza jc roux s doulcier g acinas sg alberti a chaffron s 
+
+cruaud c vargas c de gasol jm gorsky g gregory ac guidi l hingamp p iudicone d not 
+
+f ogata h pesant s poulos bt schwenck sm speich s dimier c kandels lewis s picheral 
+
+m searson s bork p bowler c sunagawa s wincker p karsenti e sullivan mb 
+
+patterns and ecological drivers of ocean viral communities science 
+
+ koeppel af wu m species matter the role of competition in the assembly of 
+
+congeneric bacteria the isme journal – 
+
+ lee ck herbold cw polson sw wommack ke williamson sj mcdonald ir cary sc 
+
+ groundtruthing next gen sequencing for microbial ecology–biases and errors in 
+
+community structure estimates from pcr amplicon pyrosequencing plos one e 
+
+ pinto aj raskin l pcr biases distort bacterial and archaeal community 
+
+structure in pyrosequencing datasets plos one e 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ shade a jones se caporaso jg handelsman j knight r fierer n gilbert ja 
+
+conditionally rare taxa disproportionately contribute to temporal changes in microbial 
+
+diversity mbio e – 
+
+ qiu x wu l huang h mcdonel pe palumbo av tiedje jm zhou j evaluation of 
+
+pcr generated chimeras mutations and heteroduplexes with s rrna gene based 
+
+cloning applied and environmental microbiology – 
+
+ 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+tables 
+
+table pcr parameters used in this study 
+
+marker 
+ gene 
+
+target primer 
+ names 
+
+pcr 
+ initial 
+
+pcr 
+denaturati
+on 
+
+annealing 
+temperature 
+
+extension cycles final 
+ extension 
+
+reference 
+
+gp t like 
+ virus 
+
+mzia bis 
+and 
+ mzia 
+
+ ⁰c for 
+ s 
+
+ ⁰c for 
+s 
+
+ ⁰c ⁰c for 
+ s 
+
+ min at 
+ ⁰c 
+
+ 
+
+rdrp marnavirus 
+ like viruses 
+
+mpl f 
+and 
+ mpl r 
+
+ ⁰c for 
+ s 
+
+ ⁰c for 
+s 
+
+ ⁰c ⁰c for 
+ s 
+
+ min at 
+ ⁰c 
+
+ 
+
+ s 
+rrna 
+gene 
+
+eukaryotes euk f 
+and 
+ uni r 
+
+ ⁰c for 
+ s 
+
+ ⁰c for 
+min 
+
+ ⁰c 
+touchdown 
+for cycles 
+followed by 
+ ⁰c 
+
+ ⁰c for 
+ s 
+
+ min at 
+ ⁰c 
+
+ 
+
+ s 
+rrna 
+gene 
+
+bacteria f and 
+ r 
+
+ ⁰c for 
+ s 
+
+ ⁰c for 
+min 
+
+ ⁰c 
+ cycles 
+followed by 
+ ⁰c 
+
+ ⁰c for 
+ s 
+
+ min at 
+ ⁰c 
+
+ 
+
+ 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+figures and figure legends 
+
+ 
+
+fig maximum likelihood raxml phylogenetic trees and barplots of closely related 
+phylogenetic groups of otus a tree of marnavirus like virus rdrp sequences including 
+reference sequences and otus generated in this study outgroup is virus equine rhinitis b virus 
+ picornaviridae b barplot of the relative abundances of marnavirus like virus phylogenetic 
+groups over time c tree of t like virus major capsid protein sequences including reference 
+sequences and otus generated in this study outgroup is enterobacteria phage t d barplot 
+of the relative abundances of t like virus phylogenetic groups from over time grey vertical 
+lines indicate seasonal boundaries x’s indicate missing or removed samples more detailed 
+phylogenetic trees are available in supplemental figures 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ 
+
+fig richness of observed marnavirus like viral otus amino acid similarity x’s 
+
+indicate missing or removed samples 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ 
+
+fig richness of observed t like virus otus amino acid similarity x’s indicate 
+
+missing or removed samples 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ 
+
+fig marine marnavirus like viral group a compared to otus classified as raphidophytes 
+
+over time a relative abundance of otus classified as raphidophytic otus over time 
+
+richness of all s otus at each time point is plotted above the richness of the raphidophytes 
+
+b relative abundance of marnavirus like virus group a otus amino acid over time 
+
+richness of all marnavirus like virus otus is plotted above the richness of the group a otus 
+
+grey vertical lines indicate boundaries between seasons x’s indicate missing or removed 
+
+samples 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ 
+
+fig t like virus group i compared to bacterial otus classified as cyanobacteria over time 
+
+a relative abundance of bacterial otus classified as cyanobacterial otus over time 
+
+richness of all s otus at each time point is plotted above the richness of the cyanobacteria 
+
+b relative abundance of t like virus group i otus amino acid over time richness of 
+
+all t like virus otus is plotted above the richness of the group i otus grey vertical lines 
+
+indicate boundaries between seasons x’s indicate missing or removed samples 
+
+ 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+
+ 
+ 
+
+ 
+
+ 
+
+fig mantel tests among community similarity matrices and distance matrices of 
+
+environmental data 
+
+ 
+
+all rights reserved no reuse allowed without permission 
+was not peer reviewed is the author funder who has granted biorxiv a license to display the preprint in perpetuity 
+
+the copyright holder for this preprint which http dx doi org doi biorxiv preprint first posted online feb 
+
+http dx doi org 
+
+

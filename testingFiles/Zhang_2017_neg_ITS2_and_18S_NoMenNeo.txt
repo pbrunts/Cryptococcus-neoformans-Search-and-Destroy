@@ -1,0 +1,957 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+effect of turfgrass establishment on soil microbiota using illumina sequencing
+weibing zhang zhongmin zhang yue wang duiyuan ai pengchen wen yan zhu lei cao 
+and tuo yao †
+ college of pratacultural science ministry of education key laboratory of grassland ecosystem pratacultural engineer 
+ing laboratory of gansu province sino u s center for grazing land ecosystem sustainability gansu agricultural
+university lanzhou china
+ college of food science and technology engineering gansu agricultural university lanzhou china
+†corresponding author tuo yao
+
+abstract
+soil bacteria and fungi play key roles in ecosystem functioning and the maintenance of soil fertility 
+many studies have been carried out to assess the effects of plant on microorganism communities in
+different environments however little is known about whether turfgrass establishment affects soil
+microbial community therefore in the present study the microbial diversity in turfgrass soil and
+vacant land soil were studied by high throughput sequencing technique and the corresponding
+analysis of microbial composition were conducted the results showed that the bacteria and fungi in
+the soil of turfgrass are richer than that of vacant land the difference of soil microbial community at
+the genera level is more significant than that at phylum level among bacteria a total of one dominant
+genus and non dominant genera were shared by the two samples five dominant genera and 
+non dominant genera were present only in sample cp turfgrass soil and dominant genera and
+ non dominant genera only in sample cp vacant land among fungi a total of dominant genera
+and non dominant genera were shared by the two samples dominant genera and non 
+dominant genera were present only in sample cp and dominant genera and non dominant
+genera only in sample cp the results also indicated that both dominant and non dominant microbial
+populations differed greatly in the two samples as did the overall soil microbial community structure 
+this study provides previously unknown information regarding the impact of turfgrass establishment
+on soil microbial communities and also lays a foundation for further investigations into microbiota in
+turfgrass soil 
+
+ pp vol 
+p issn 
+
+no nature environment and pollution technologyan international quarterly scientific journal
+
+original research paper
+e issn 
+
+open access
+
+ 
+nat env poll tech 
+website www neptjournal com
+
+received 
+accepted 
+
+key words 
+illumine sequencing
+turfgrass establishment
+microbial community
+
+introduction
+
+soil microbes and plants grow in soil and have a close asso 
+ciation zhang et al microbes can convert certain
+nutrients into more usable forms for plants assimilation 
+while plants can secrete substances that provide nutrition
+to the soil microorganisms bais et al beneficial soil
+microbes also contribute to pathogen resistance water re 
+tention and synthesis of growth promoting hormones
+ mendes et al berendsen et al bulgarelli et al 
+ there are many factors that affect the soil microbial
+community composition and structure such as soil type 
+management practice and plant species bossio et al 
+webster et al clegg et al girvan et al 
+previous studies have also reported that plant species were
+important determinant of soil microbial communities
+ nusslein tiedje grayston et al 
+
+turf is a unique ecosystem that consists of closely 
+spaced turfgrass and the subtending soil shi et al 
+ as with any plant soil ecosystem turfgrass soils
+
+support abundant and diverse microbial populations by
+traditional microbial cultivation method various microbes 
+including fluorescent pseudomonads gram positive
+bacteria gram negative bacteria stenotrophomonas 
+maltophilia like bacteria actinomycetes and heat tolerant
+bacteria have been found in the newly constructed golf
+course putting greens of creeping bentgrass elliott et al 
+ in the further study they found that microbial
+population densities were only slightly affected by temporal
+and spatial changes in the soil environment elliott et al 
+ in the recent years soil microbial communities of
+turfgrass were fingerprinted using phospholipid fatty acid
+ plfa composition yao et al examined soil
+microbial community composition and diversity in a
+turfgrass chronosequence of bermudagrass to years
+old and compared with those in adjacent native pines
+ecosystems the microbial community composition differed
+mainly between the turfgrass and pine ecosystems and to a
+lesser extent in turf of different ages microbial community
+composition in urban lawns dominated by kentucky
+
+
+
+bluegrass identified using plfa techniques was also similar
+to that in the arable soils and in the shortgrass prairie
+ecosystem kaye et al but to our knowledge no
+information is available about the effect of turf establishment
+on soil microbial community composition and structure 
+
+since plfa methods can only provide a relatively coarse
+measure of soil microbial community composition and struc 
+ture it is possible that changes were not detectable re 
+cently high throughput sequencing technologies which can
+produce useful high throughput amplicon data offer an
+opportunity to understand the whole microbial community
+much more comprehensively than traditional approaches
+ bulgarelli et al this technique has been success 
+fully used in the study of the microbial composition of dif 
+ferent type of samples lundberg et al schlaeppi et
+al however relatively little research has addressed
+the microbial community structure in turfgrass systems us 
+ing high throughput sequencing technology 
+
+in this study our objective was to make an inventory of
+the diversity of both soil bacterial and fungal communities
+in turfgrass ecosystems using illumina miseq approaches 
+the data generated particularly the differences in the dis 
+tribution of particular taxonomic groups were used to evalu 
+ate turfgrasses establishment effect on soil microbial com 
+munity 
+
+materials and methods
+
+sampling site the sampling sites are the turfgrass plots
+before no teaching building which was established in
+ and located in the campus of gansu agricultural uni 
+versity lanzhou gansu province °e °n 
+turf species in the sampling site are perennial ryegrass sam 
+ple cp was collected from the turfgrass plots while cp 
+was collected from the vacant land adjacent to the turfgrass 
+the physico chemical properties of the two soil samples
+were identical before turfgrass was established 
+
+soil collection soil collection was conducted on april 
+ after the grass turned green five soil cores were ran 
+domly collected at a depth of cm using quincunx sam 
+pling method and homogenized into one sample soil sam 
+ples were passed through a mm sieve and quickly fro 
+zen using liquid nitrogen and stored at °c prior to dna
+extraction 
+
+dna extraction dna was extracted from g of the pellet
+soil using an e z n a soil dna kit d omega 
+norcross ga usa according to the manufacturer’s instruc 
+tions the extracted dna was quantified using a qubit 
+spectrophotometer invitrogen carlsbad ca usa and the
+integrity of the extracted dna from the soil was confirmed
+by electrophoresis in a agarose gel 
+
+illumina mi seq sequencing next generation sequencing
+library preparations and illumina mi seq sequencing were
+conducted at allwegene inc beijing china the bac 
+terial s rrna gene was amplified with the f
+ actcctacgggaggcagcag and r ggactach
+vgggtwtctaat primers targeting the v v region 
+the fungal s rrna gene was amplified with the its f
+ cttggtcatttagaggaagtaa and its tgcgttc
+ttcatcgatgc primers targeting the its its region 
+pcr was conducted using specific primers with barcodes
+and high fidelity trash start fastpfu dna polymerase trans
+gen biotech china the bacterial s rrna gene pcr
+thermal cycle profile was as follows min at °c fol 
+lowed by cycles of s at °c s at °c and s at
+ °c and then final extension for min at °c after
+which the samples were held at °c the fungal s r rna
+gene pcr thermal cycle profile was similar to that of the
+bacterial profile except that it had five more cycles 
+
+processing of high throughput sequencing data 
+amplicons were sequenced using a pair end method by
+illumina mi seq with a six cycle index read raw data gen 
+erated from the high throughput sequencing run were proc 
+essed and analysed following the pipelines of mothur
+ schlosset et al and qiime caporaso et al 
+the sequence reads were trimmed so that the average phred
+quality score for each read was above after trimming 
+these reads were assembled using the flash software fu et
+al and reads that could not be assembled were dis 
+carded chimera sequences were identified and removed
+using uchime edgar et al quality sequences were
+subsequently assigned to the samples according to their
+unique bp barcode and sequences clustering were
+performed by uclust qiime with a similarity cutoff of 
+after which samples were clustered into operational
+taxonomic units otus fu et al this dataset was
+available in the sra at the ncbi under accession number
+prjna 
+
+diversity and statistical analysis the relative abundance
+ of individual taxa within each community was esti 
+mated by comparing the number of sequences assigned to a
+specific taxon versus the number of total sequences obtained
+for that sample alpha diversity analysis which included
+the chao and shannon coverage indices were performed
+using the summary single command of the mothur soft 
+ware http www mothur org the community structure was
+analysed statistically at different classification levels 
+
+results and discussion
+
+diversity analyses of microbial communities after the
+quality control a total of high quality s r rna
+
+ weibing zhang et al 
+
+
+
+gene sequences for cp and for cp were
+recovered from the two samples additionally a total of
+ validated s r rna gene sequences reads were
+recovered for cp and for cp table 
+the good’s coverage of all the samples ranged from 
+to which indicated an adequate level of sequencing
+to identify the majority of diversity in the samples in terms
+of otu number sample cp had the richest diversity of
+bacterial and fungal communities otus and 
+otus respectively the shannon and chao indices
+revealed a higher bacterial and fungal diversity in cp 
+showing that the bacteria and fungi in the turfgrass soil is
+richer than that of vacant land soil 
+
+differences of bacteria at phylum level table showed
+the difference of bacterial abundance in the samples at phy 
+lum level a total of phyla were identified in the two
+samples via taxonomic summary with following seven be 
+ing dominant and having a relative abundance 
+acidobacteria proteobacteria chloroflexi gemmati 
+monadetes bacteroidetes firmicutes and actinobacteria 
+the relative abundance of non dominant phyla was
+lower the phylum abundance differed between the sam 
+ples the abundance of phyla in sample cp is higher
+than that of cp and the abundance of the remaining seven
+phyla is lower among them the difference in the relative
+abundance of phyla was higher than while that of 
+phyla ranged from to and that of the remaining 
+was lower than actinobacteria has the biggest differ 
+ence of relative abundance while spirochaetae has the
+smallest difference of relative abundance in the two sam 
+ples deinococcus thermus were not present in the sample
+cp while chlamydiae and elusimicrobia were absent in
+the sample cp 
+
+difference of bacteria at genus level the difference of bac 
+terial community at the genera level is more significant than
+that at phylum level a total of and bacterial genera
+were identified in the two samples via taxonomic summary 
+respectively the abundance of dominant bacterial genus in
+the samples is presented in table two dominant genera
+were shared by the two samples both of which had a relative
+abundance higher than additionally genera were domi 
+nant only in the sample cp while were dominant only in
+sample cp specifically the abundance of five genera was
+higher in sample cp than cp while that of the remaining
+ genera was lower additionally the difference in the rela 
+tive abundance of genera was higher than while that of
+ genera ranged from to and the abundance of the
+remaining genera was less than the abundance of bacil 
+lus in the two samples was and which is the
+biggest difference in the two samples 
+
+table otus good’s coverage chao and shannon’s index for
+ s r rna and s r rna sequencing of the samples 
+
+sample reads otu good’s chao shannon
+id coverage
+
+cp b 
+cp b 
+cp f 
+cp f 
+
+table differences in bacterial abundance at the phylum level 
+
+phylum relative abundance difference
+cp cp of relative
+
+abundance
+
+actinobacteria 
+firmicutes 
+gemmatimonadetes 
+cyanobacteria 
+verrucomicrobia 
+nitrospirae 
+deinococcus thermus 
+spirochaetae 
+chlorobi 
+bacteroidetes 
+chlamydiae 
+elusimicrobia 
+fibrobacteres 
+planctomycetes 
+unidentified 
+chloroflexi 
+proteobacteria 
+acidobacteria 
+
+table differences in the abundance of the dominant bacterial
+genera 
+
+genus relative abundance difference
+cp cp ofrelative
+
+abundance
+
+bacillus 
+arthrobacter 
+massilia 
+nocardioides 
+xanthomonas 
+pontibacter 
+adhaeribacter 
+gemmatimonas 
+lactococcus 
+caenimonas 
+marmoricola 
+patulibacter 
+peredibacter 
+sphingomonas 
+steroidobacter 
+pedomicrobium 
+pseudomonas 
+chryseolinea 
+unidentified 
+
+ effect of turfgrass on soil microbiota using illumine sequencing
+
+
+
+ weibing zhang et al 
+
+vol no  nature environment and pollution technology
+
+as is given in table a total of non dominant gen 
+era were present only in sample cp and their relative abun 
+dance was lower among them the abundance of genera
+was higher than while that of genera ranged from
+ to the remaining genera showed abundances
+lower than a total of non dominant genera were
+present only in cp table among them the abundance
+of five genera was higher than while that of ten genera
+was higher than and the abundance of the remaining
+genera was less than 
+
+the abundance of non dominant bacterial genera
+present in both the samples is given in table a total of 
+non dominant genera were shared by the two samples all of
+which had a relative abundance of the abundance of
+ genera in sample cp is higher than that of cp while
+that of another was lower than cp and the abundance
+of roseburia and opitutus is equal in two samples among
+them the difference in the relative abundance of genera
+was higher than while that of genera ranged from
+ to and that of the remaining genera was
+lower than 
+
+difference of fungi at phylum level a total of eight phyla
+were identified in the two samples via taxonomic summary 
+table shows the difference of fungal abundance between
+samples at phylum level the three dominant phyla pre 
+sented in the two samples were ascomycota basidiomycota
+and zygomycota which had a relative abundance higher
+than the relative abundance of non dominant phyla
+was lower the abundance of all the phyla is quite different
+in the two samples among them the abundance of
+ascomycota is the highest in the two samples while that of
+cercozoa is the smallest zygomycota have the biggest dif 
+ference in the two samples while chytridiomycota have
+the smallest difference blastocladiomycota were only
+present in sample cp 
+
+difference of fungi at genus level the differences of fun 
+gal community at the genera level are more significant than
+that at phylum level a total of and fungal genera
+were identified in the two samples via taxonomic summary 
+respectively the abundance of dominant fungal genera in
+the samples is given in table five dominant genera were
+shared by the two samples with a relative abundance higher
+than additionally genera were dominant only in the
+sample cp while were dominant only in sample cp 
+the abundance of the other genera was quite different be 
+tween the two samples specifically the abundance of 
+genera was higher in sample cp than cp while that of the
+remaining genera was lower the difference in the rela 
+tive abundance of genera was higher than while that
+of genera ranged from to and the abundance of the
+
+remaining genera was less than the abundance of
+alternaria in the two samples was and 
+which is the biggest difference in the two samples 
+
+as is given in table a total of non dominant gen 
+era were present only in sample cp and their relative abun 
+
+table non dominant bacterial genera present only in sample cp 
+
+genus relative genus relative
+abundance abundance
+
+rhodomicrobium chitinibacter 
+hirschia lacibacter 
+catelliglobosispora polaromonas 
+flavobacterium crocinitomix 
+ohtaekwangia dongia 
+acinetobacter phaselicystis 
+byssovorax rhizomicrobium 
+marinicella actinocorallia 
+leptothrix agaricicola 
+turicibacter aquabacterium 
+solitalea asteroleplasma 
+chitinophaga azospirillum 
+neochlamydia cylindrotheca 
+
+closterium
+aquicella planifilum 
+planosporangium wolbachia 
+nakamurella acidiferrobacter 
+dactylosporangium anaeromyxobacter 
+ferruginibacter bartramia 
+
+pomiformis
+haloferula dysgonomonas 
+haloactinopolyspora leptolyngbya 
+nannocystis sphingopyxis 
+rhizobacter thermomonospora 
+labrys turneriella 
+legionella alkaliphilus 
+pseudolabrys anaerotruncus 
+mucilaginibacter cytophaga 
+azotobacter fluviicola 
+thermoactinomyces incertae sedis 
+dyadobacter litorilinea 
+simiduia phycisphaera 
+alistipes sandaracinus 
+solibacillus tahibacter 
+sphingobacterium taibaiella 
+
+table non dominant bacterial genera present only in sample cp 
+
+genus relative genus relative
+abundance abundance
+
+hymenobacter leuconostoc 
+streptococcus truepera 
+sporichthya lactobacillus 
+carnobacterium rhodocytophaga 
+nitrosomonas bacteriovorax 
+deinococcus pseudobutyrivibrio 
+aciditerrimonas nitrosospira 
+planomicrobium parasegetibacter 
+geodermatophilus 
+
+
+
+ effect of turfgrass on soil microbiota using illumine sequencing
+
+nature environment and pollution technology  vol no 
+
+dance was lower among them the abundance of genera
+was higher than while that of the remaining gen 
+era showed abundances lower than a total of 
+non dominant genera were present only in sample cp ta 
+ble among them the abundance of genera was higher
+than while that of the remaining genera showed
+
+abundances lower than 
+
+the abundance of non dominant bacterial genera
+present in both the samples is presented in table a total
+of non dominant genera were shared by the two samples 
+with a relative abundance of lower than the abundance
+of genera was higher in sample cp than cp while that
+of genera was lower and the abundance of genera is
+equal in two samples among them the difference in the
+relative abundance of genera was higher than while
+that of genera ranged from to and that of the
+remaining genera was lower than 
+
+discussion
+
+turfgrass systems are being recognized for enhancing land
+restoration and for protecting soil air and water in urban 
+suburban and rural communities shi et al a variety
+
+table non dominant bacterial genera present in both the samples 
+
+genus difference genus difference
+of relative of relative
+abundance abundance
+
+rubellimicrobium cellvibrio 
+microvirga pseudoxanthomonas 
+blastococcus sporosarcina 
+streptomyces sorangium 
+pedobacter lysinibacillus 
+enterococcus paucimonas 
+chthoniobacter actinomadura 
+hyalangium actinoplanes 
+flavisolibacter geminicoccus 
+euzebya candidatus 
+
+alysiosphaera
+bdellovibrio candidatus 
+
+entotheonella
+ornithinibacter nonomuraea 
+paracoccus skermanella 
+pseudonocardia roseiflexus 
+paenibacillus candidatus 
+
+solibacter
+roseomonas woodsholea 
+bosea nordella 
+methylotenera saccharopolyspora 
+bacteroides gaiella 
+citrobacter kineosporia 
+caulobacter thermomonas 
+cohnella agromyces 
+pseudospirillum bauldia 
+brevundimonas arenimonas 
+defluviicoccus amaricoccus 
+nocardia altererythrobacter 
+sporocytophaga phenylobacterium 
+rubritepida rhodoplanes 
+kribbella devosia 
+roseburia enhygromyxa 
+opitutus luedemannella 
+microcoleus solirubrobacter 
+williamsia bryobacter 
+azoarcus terrimonas 
+methylobacterium hyphomicrobium 
+pelagibius reyranella 
+rhodococcus iamia 
+flavitalea mycobacterium 
+saccharomonospora rhodobium 
+lautropia ilumatobacter 
+niastella blastocatella 
+actinomycetospora bradyrhizobium 
+rhizobium haliangium 
+streptosporangium shinella 
+nitrospira aquamicrobium 
+lysobacter 
+
+table difference in fungal abundance at the phylum level 
+
+phylum relative abundance difference
+cp cp of relative
+
+abundance
+
+ascomycota 
+basidiomycota 
+cercozoa 
+blastocladiomycota 
+chytridiomycota 
+glomeromycota 
+rozellomycota 
+unidentified 
+zygomycota 
+
+table difference in abundance of the dominant fungal genera 
+
+genus relative abundance difference
+cp cp of relative
+
+abundance
+
+alternaria 
+phoma 
+epicoccum 
+periconia 
+guehomyces 
+candida 
+oidiodendron 
+scytalidium 
+davidiella 
+cryptococcus 
+fusarium 
+aspergillus 
+cystobasidium 
+schizothecium 
+chaetomium 
+wardomyces 
+arthrographis 
+pyrenochaetopsis 
+modicella 
+unidentified 
+
+
+
+ weibing zhang et al 
+
+vol no  nature environment and pollution technology
+
+table non dominant fungal genera present only in sample cp 
+
+genus relative genus relative
+abundance abundance
+
+efibulobasidium clonostachys 
+corynascus kazachstania 
+zymoseptoria purpureocillium 
+olpidium clavaria 
+faurelina curvularia 
+gymnascella geomyces 
+roussoella hydropisphaera 
+cyphellophora neurospora 
+humicola phaeosphaeria 
+phialemoniopsis rhizophagus 
+slopeiomyces thermomyces 
+chrysosporium 
+
+table non dominant fungal genera present only in sample cp 
+
+genus relative genus relative
+abundance abundance
+
+pleospora myrmecridium 
+schizophyllum plenodomus 
+aureobasidium chromelosporium 
+ilyonectria rhexocercosporidium 
+neocamarosporium rhodosporidium 
+hypocrea volvariella 
+paraphaeosphaeria bradymyces 
+powellomyces dothiorella 
+articulospora phaeococcomyces 
+bullera sarcinomyces 
+
+table non dominant fungal genera present in both the samples 
+
+genus difference genus difference
+of relative ofrelative
+abundance abundance
+
+corticium gibellulopsis 
+myrothecium cystofilobasidium 
+chloridium gibberella 
+kurtzmanomyces talaromyces 
+sporobolomyces aphanoascus 
+didymella botrytis 
+penicillium udeniomyces 
+ophiostoma torula 
+monodictys cyathus 
+melanochaeta cladosporium 
+verticillium scedosporium 
+simplicillium phaeoacremonium 
+monographella nectria 
+rhodotorula ajellomyces 
+trichosporon mucor 
+pestalotiopsis zygopleurage 
+hyphopichia mrakiella 
+trametes monocillium 
+sarocladium rhizopus 
+leptosphaeria exserohilum 
+trichoderma pseudeurotium 
+exophiala volutella 
+preussia mycothermus 
+sphaerobolus podospora 
+wickerhamomyces wallemia 
+mrakia microdochium 
+bipolaris remersonia 
+phaeomycocent pseudallescheria 
+rospora
+apodus glomus 
+lectera stachybotrys 
+paecilomyces lecythophora 
+arnium acremonium 
+boothiomyces oliveonia 
+cercophora mortierella 
+sphaerodes coniochaeta 
+panaeolus 
+
+of research has examined the ability of turfgrass systems to
+mitigate environmental pollution and reduce leaching and
+runoff of pesticides and fertilizers shi et al how 
+ever the focus has often been on the turfgrass plant rather
+than on the broader soil ecology based on this review of
+the literature it is apparent that knowledge of turfgrass soil
+ecology is lagging compared to arable soils grasslands and
+forests there is a need for basic information on soil microbial
+community in turfgrass systems shi et al in the
+present study the microbial diversity in two kinds of soil
+was studied by high throughput sequencing technique the
+results showed that bacteria and fungi in the soil of turfgrass
+were richer than vacant land because the sampling turf and
+the vacant land were in close proximity and had similar or
+identical soils turfgrass establishment may result in the dif 
+ference of soil microbial communities the growth of
+turfgrass may promote the activity of microorganisms in
+soil which consist with previous reports of other plants
+ grayston et al o’donnell et al 
+
+soil is considered to be the most diverse natural envi 
+ronment on the earth daniel the soil microbial com 
+munities harbour thousands of different organisms that con 
+tain a substantial number of genetic information vogel et
+
+al based on traditional approaches for cultivating
+and isolating soil microorganisms early studies have fo 
+cused on culturable bacteria which only account for less
+than of soil microbial populations delmont et al 
+numerous studies have been carried out about the soil mi 
+crobial community of other plants such as wheat rice and
+maize peiffer et al edwards et al qin et al 
+ in the present study we found a large amount of
+bacteria and fungi in the samples among the bacteria a
+total of one dominant genus was shared by the two samples 
+ dominant genera and non dominant genera were present
+only in sample cp turfgrass soil and dominant genera
+and non dominant genera present only in sample cp 
+ vacant land among fungi a total of dominant genera
+were shared by the two samples dominant genera were
+
+
+
+ effect of turfgrass on soil microbiota using illumine sequencing
+
+nature environment and pollution technology  vol no 
+
+present only in sample cp and dominant genera present
+only in sample cp the results indicated that the soil mi 
+crobial community structure of dominant genera in the two
+samples is quite different previous studies emphasized on
+the dominant microbes in the soil the non dominant bacte 
+ria and fungi usually have been ignored in the analysis of
+the microbial community structure gottel et al peiffer
+et al shakya et al in this study we found the
+relative abundance of the non dominant microbes is quite
+different in the two samples sixty six non dominant bacte 
+rial genera and non dominant fungal genera were present
+only in sample cp and non dominant bacterial genera
+and non dominant fungal genera present only in sample
+cp the relative abundance of non dominant bacterial
+genera and non dominant fungal genera shared by two
+samples was quite different the results indicated that the
+soil microbial community structure of non dominant gen 
+era in the two samples is quite different in conclusion mi 
+crobial species increased significantly after turfgrass estab 
+lishment and soil microbial community structure became
+more complex 
+
+acknowledgements
+
+the authors are grateful to the national natural science
+fund of china the
+youth mentor support fund of gsau gau qnds 
+ and the natural science fund of gansu province
+ rjza for financial support of this work 
+
+references
+bais h p weir t l perry l g gilroy s and vivanco j m 
+
+the role of root exudates in rhizosphere interactions with plants
+and other organisms annu rev plant biol 
+
+berendsen r l pieterse c m j and bakker p a h m the
+rhizosphere microbiome and plant health trends plant sci 
+ 
+
+bossio d a and scow k m impacts of carbon and flooding on
+soil microbial communities phospholipid fatty acid profiles and
+substrate utilization patterns microb ecol 
+
+bulgarelli d rott m schlaeppi k ver loren van themaat e 
+ahmadinejad n assenza f rauf p huettel b reinhardt r 
+schmelzer e peplies j gloeckner f o amann r eickhorst 
+t and schulze lefert p revealing structure and assembly
+cues for arabidopsis root inhabiting bacterial microbiota nature 
+ 
+
+bulgarelli d schlaeppi k spaepen s ver loren van themaat e 
+and schulze lefert p structure and functions of the bacte 
+rial microbiota of plants annu rev plant biol 
+
+caporaso j g lauber c l walters w a berg lyons d huntley 
+j fierer n owens s m betley j fraser l bauer m gormley 
+n gilbert j a smith g and knight r ultra high through 
+put microbial community analysis on the illumina hi seq and mi
+seq platforms isme 
+
+clegg c d lovell r d l and hobbs p j the impact of grass 
+land management regime on the community structure of selected
+bacterial groups in soils fems microbiol ecol 
+
+daniel r the metagenomics of soil nat rev microbiol 
+ 
+
+delmont t o robe p cecillon s clark i m and constancias f 
+ accessing the soil metagenome for studies of microbial
+diversity appl environ microb 
+
+edgar r c haas b j clemente j c quince c and knight r 
+ uchime improves sensitivity and speed of chimera detec 
+tion bioinformatics 
+
+edwards j johnson c santos medellín c lurie e podishetty 
+n k bhatnagar s eisen j a and sundaresan v struc 
+ture variation and assembly of the root associated microbiomes
+of rice p natl acad sci usa 
+
+elliott m guertal e a jardin e a d and skipper h d 
+effect of nitrogen rate and root zone mix on rhizosphere bacte 
+rial populations and root mass in creeping bentgrass putting greens 
+biol fert soils 
+
+elliott m guertal e a and skipper h d rhizosphere bacte 
+rial population flux in golf course putting greens in the southeast 
+ern united states hort science 
+
+fu y j li x zheng s h du j and liang a h classifica 
+tion and identification of bacteria in the soil treated by acmnpv
+using high throughput sequencing technique biotechnol and
+bioproc e 
+
+girvan m s bullimore j pretty j n osborn a m and ball a s 
+ soil type is the primary determinant of the composition of
+the total and active communities in arable soils appl environ 
+microbiol 
+
+gottel n r castro h f kerley m yang z pelletier d a podar 
+m karpinets t uberbacher e tuskan g a vilgalys r 
+doktycz m j and schadt c w distinct microbial com 
+munities within the endosphere and rhizosphere of populus
+deltoides roots across contrasting soil types appl environ 
+microb 
+
+grayston s j griffith g s mawdsley j l campbell c d and
+bardgett r d accounting for variability in soil microbial
+communities of temperate upland grassland ecosystems soil biol 
+biochem 
+
+grayston s j wang s campbell c d and edwards a c 
+selective influence of plant species on microbial diversity in the
+rhizosphere soil biol biochem 
+
+kaye j p mcculley r l and burke i c carbon fluxes 
+nitrogen cycling and soil microbial communities in adjacent ur 
+ban nativeand agricultural ecosystems global change biol 
+ 
+
+lundberg d s lebeis s l paredes s h yourstone s gehring 
+j malfatti s tremblay j engelbrektson a kunin v del
+rio t g edgar r c eickhorst t ley r e hugenholtz p 
+tringe s g and dang j l defining the core arabidopsis
+thaliana root microbiome nature 
+
+mendes r kruijt m de bruijn i dekkers e van der voort m 
+schneider j h m piceno y m desantis t z andersen g l 
+bakker p a h m and raaijmakers j m deciphering the
+rhizosphere microbiome for disease suppressive bacteria science
+ 
+
+nusslein k and tiedje j m soil bacteria community shift
+correlated with change from forest to pasture vegetation in a
+tropical soil appl environ microbiol 
+
+o’donnell a g seasman m macrae a waite i and davies j t 
+ plants and fertilizers as drivers of change in microbial
+community structure and function in soils plant soil 
+ 
+
+peiffer j a spor a koren o jin z tringe s g dangl j l 
+buckler e s and ley r e diversity and heritability of
+the maize rhizosphere microbiomeunder field conditions p natl 
+
+
+
+ weibing zhang et al 
+
+vol no  nature environment and pollution technology
+
+acad sci usa 
+qin y c fu y m dong c jia n n and liu h shifts of
+
+microbial communities of wheat triticum aestivum l cultiva 
+tion in a closed artificial ecosystem appl microbiol biot 
+ 
+
+schlaeppi k dombrowski n oter r g ver loren van themaat 
+e and schulze lefert p quantitative divergence of the
+bacterial root microbiota in arabidopsis thaliana relatives p natl 
+acad sci usa 
+
+schlosset p d westcott s l ryabin t hall j r hartmann m 
+hollister e b lesniewski r a oakley b b parks d h 
+robinson c j sahl j w stres b thallinger g g van horn 
+d j and weber c f introducing mothur open source 
+platform independent community supported software for de 
+scribing and comparing microbial communities appl environ 
+microb 
+
+shakya m gottel n castro h yang z k gunter l labbé j 
+muchero w bonito g vilgalys r tuskan g podar m and
+schadt c w a multifactor analysis of fungal and bacterial
+community structure in the root microbiome of mature populus
+deltoides trees plos one 
+
+shi w bowman d and rufty t soil microbial community
+composition and function in turfgrass ecosystems bioremediation
+biodiversity and bioavailability 
+
+shi w muruganandam s and bowman d soil microbial
+biomass and nitrogen dynamics in a turfgrass chronosequence a
+short term response to turfgrassclipping addition soil biol 
+biochem 
+
+vogel t m simonet p jansson j k hirsch p r and tiedje j m 
+ terra genome a consortium for the sequencing of a soil
+metagenome nat rev microbiol 
+
+webster g embley t m and prosser j i grassland manage 
+ment regimens reduce small scale heterogeneity and species di 
+versity of proteobacterial ammonia oxidizer populations appl 
+environ microbiol 
+
+yao huaiying daniel bowman and wei shi soil microbial
+community structure and diversity in a turfgrass chronosequence 
+land use change versus turfgrass management applied soil
+ecology 
+
+zhang h m sun y xie x t kim m s dowd s e and paré 
+p w a soil bacterium regulates plant acquisition of iron
+via deficiency inducible mechanisms plant j 
+
+
+

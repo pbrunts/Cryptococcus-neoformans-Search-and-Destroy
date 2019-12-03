@@ -1,0 +1,1920 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+q 
+
+
+aquaculture environment interactions
+aquacult environ interact
+
+vol – 
+doi aei 
+
+published june 
+
+introduction
+
+by aquaculture is projected to supply over
+ of fish destined for direct human consumption
+ world bank among the different species pro 
+duced farming of atlantic salmon salmo salar has
+grown substantially in the past yr and currently
+
+represents approximately of the world’s salmon
+production according to fao statistics stecf
+ norway is the world’s leading producer of
+farmed atlantic salmon exporting to countries 
+future development of the sector depends on com 
+plying with regulatory requirements related to envi 
+ronmental protection taranger et al 
+
+© the authors open access under creative commons by
+attribution licence use distribution and reproduction are
+unrestricted authors and original publication must be credited 
+
+publisher inter research · www int res com
+
+ corresponding author jan pawlowski unige ch
+
+benthic monitoring of salmon farms in norway
+using foraminiferal metabarcoding
+
+jan pawlowski philippe esling franck lejzerowicz tristan cordier 
+joana a visco catarina i m martins arne kvalvik knut staven 
+
+tomas cedhagen 
+
+ department of genetics and evolution university of geneva geneva switzerland
+ ircam umr université pierre et marie curie paris france
+
+ id gene ecodiagnostics ltd plan les ouates switzerland
+ marine harvest asa bergen bergen norway
+
+ marine harvest norway region west Ålesund norway
+ marine harvest norway region mid flatanger norway
+
+ department of bioscience section of aquatic biology university of aarhus aarhus denmark
+
+abstract the rapid growth of the salmon industry necessitates the development of fast and
+accurate tools to assess its environmental impact macrobenthic monitoring is commonly used to
+measure the impact of organic enrichment associated with salmon farm activities however clas 
+sical benthic monitoring can hardly answer the rapidly growing demand because the morpholog 
+ical identification of macro invertebrates is time consuming expensive and requires taxonomic
+expertise environmental dna edna metabarcoding of meiofauna sized organisms such as
+foraminifera was proposed to overcome the drawbacks of macrofauna based benthic monitoring 
+here we tested the application of foraminiferal metabarcoding to benthic monitoring of salmon
+farms in norway we analysed samples of edna and environmental rna erna extracted
+from surface sediment samples collected at salmon farming sites in norway we sequenced the
+variable region f of the s rrna gene specific to foraminifera we compared our data to the
+results of macrofaunal surveys of the same sites and tested the congruence between various diver 
+sity indices inferred from metabarcoding and morphological data the results of our study confirm
+the usefulness of foraminifera as bioindicators of organic enrichment associated with salmon
+farming the foraminiferal diversity increased with the distance to fish cages and metabarcoding
+provides an assessment of the ecological quality comparable to the morphological analyses the
+foraminiferal metabarcoding approach appears to be a promising alternative to classical benthic
+monitoring providing a solution to the morpho taxonomic bottleneck of macrofaunal surveys 
+
+key words finfish farming · biomonitoring · environmental dna · next generation
+ sequencing · ngs · dna barcoding · foraminifera
+
+openpen
+ accessccess
+
+
+
+aquacult environ interact – 
+
+the assessment of benthic diversity is one of the
+mandatory tools required to comply with the stan 
+dards established for monitoring the environmental
+impact of salmon farming various biotic indices
+have been developed based on macrofaunal invento 
+ries including the infaunal trophic index iti mau 
+rer et al and the azti marine biotic index
+ ambi borja et al in new zealand multiple
+biotic indices are used in conjunction with chemical
+and other biological indicators to provide weight of 
+evidence based multivariable overall assessment of
+enrichment stage keeley et al in norway 
+unique indices such as the norwegian sensitivity
+index nsi rygg norling and the norwe 
+gian quality index nqi are used in conjunction with
+many other biological indicators to obtain an overall
+assessment these indices provide a meaningful
+evaluation of the ecological quality status based on
+our current knowledge of the ecological niches of
+recorded species however calculation of biotic in 
+dices requires the morphological identification of
+sorted macro invertebrates which is time consum 
+ing and requires taxonomic expertise the lack of
+trained taxonomists causes important delays in the
+analysis of rapidly growing numbers of samples 
+which seriously limits the efficiency and time sensitive
+aspects of benthic monitoring 
+
+over the last decade there has been a spectacular
+development of next generation sequencing ngs 
+based environmental dna edna surveys also
+called ngs edna metabarcoding taberlet et al 
+ until now most of the metabarcoding studies
+related to biomonitoring focused on freshwater eco 
+systems either applying the metabarcoding approach
+to diatom biomonitoring kermarrec et al 
+zimmermann visco et al assess 
+ing the diversity of benthic macrofauna in fixed bulk
+samples hajibabaei et al stein et al or
+testing the congruence between species inventories
+inferred from ngs and morphological studies in
+aquatic insects yu et al zhou et al 
+carew et al a few studies performed edna
+surveys of benthic communities to monitor marine
+ecosystems e g chariton et al bik
+et al pawlowski et al a cowart et al 
+ guardiola et al lejzerowicz et al 
+
+foraminifera are among the most common and
+diversified groups of marine meiofauna sized protists
+extensively used in ecotoxicological studies alve
+ frontalini coccioni schönfeld et al 
+ the foraminifera are sensitive to local condi 
+tions and often have short life cycles making them
+highly responsive to environmental perturbations 
+
+including organic enrichment and physical distur 
+bances previous studies showed that foraminiferal
+communities rapidly change under organic pollution
+exposures associated with fish farming scott et al 
+ angel et al vidovi et al 
+foraminifera are also good indicators of the impact of
+offshore drilling activities mojtahid et al joris 
+sen et al denoyelle et al schwing et al 
+ and heavy metal pollution bergin et al 
+frontalini et al however all of these studies
+were restricted to the hard shelled species micro 
+scopically identified in dried sediment samples schön 
+feld et al alve et al 
+
+here we take advantage of well established proto 
+cols developed for the purpose of molecular identifi 
+cation and classification of foraminifera pawlowski
+ lecroq pawlowski holzmann we
+built and currently maintain the most extensive data 
+base of reference sequences comprising a fragment
+of s rrna gene forambarcoding unige ch for
+diverse foraminiferal taxa including species collected
+in northern european coastal habitats several meta 
+barcoding studies have been conducted in order to
+explore the hidden diversity lecroq et al and
+spatial micro distribution of foraminifera lejzerow 
+icz et al and to test the preservation of ancient
+foraminiferal dna in downcore sediments lejze 
+rowicz et al pawłowska et al the con 
+clusions of these studies and their perspectives have
+been reviewed by pawlowski et al b 
+
+in previous studies we used both dna and rna 
+based metabarcoding to investigate the impact of
+organic enrichment associated with salmon farming
+on the diversity of benthic foraminifera in scotland
+and new zealand in scotland we surveyed the
+response of foraminiferans at various distances from
+cages both at the community and species levels
+ pawlowski et al a correlative analyses based
+on common diversity metrics and exploratory analy 
+ses based on bray curtis community distances
+showed that ecological responses could be captured
+better and appeared more robust when using rna
+molecules in new zealand we focused on the rna
+signal to evidence foraminiferal responses along
+well defined organic enrichment gradients and flow
+regimes pochon et al we proposed that rna
+sequence abundance profiles of selected foramini 
+ferans can be used to predict their ecological prefer 
+ences and therefore their value as bioindicators 
+
+in the present study we tested the accuracy of fora 
+miniferal metabarcoding as an alternative to macro 
+faunal benthic monitoring in norway to achieve this
+objective we used molecular data to describe the
+
+ 
+
+
+
+pawlowski et al dna based benthic monitoring 
+
+communities of benthic foraminifera living in the 
+vicinity of salmon farms we analysed the changes 
+of foraminiferal communities inferred from metabar 
+coding data in relation to environmental gradients 
+ distance to cages and we evaluated the poten 
+tial congruence between diversity metrics of foramini 
+feral metabarcoding data and benthic macrofaunal 
+indices 
+
+materials and methods
+
+sampling
+
+the samples were collected in fish farming sites 
+situated in norway in the coastal regions ‘west’ in 
+april bjørlykkestranda and rundreimstranda 
+and ‘central’ in june kornstad and smøla the 
+later including sites brettingen and bremnessvaet 
+see table s and fig s in the supplement at www 
+int res com articles suppl q p supp pdf up to 
+ stations located at increasing distance − m 
+from the fish cages were sampled per site table s 
+and fig s in the supplement at each station to 
+ van veen grabs of cm model kc 
+denmark were deployed and within each grab we 
+sub sampled to replicates of ml from the top 
+ cm of the surface sediment in total sediment 
+samples were collected each sample was placed in a 
+tube containing ml of life guard soil preservation 
+solution mobio the samples were collected using 
+gloves and disposable spoons in order to avoid extra 
+neous contamination they were stored in a cooler 
+at °c and then frozen at − °c after returning to the 
+laboratory for each sediment sample measure 
+ments of redox potentials were taken with a probe 
+ model intellical orp redox mtc hach 
+following the norwegian standard ns 
+protocol measurement at cm into the sediment 
+layer 
+
+at each station additional surface sediment mate 
+rial about ml was sub sampled for morphological 
+analyses of foraminiferal communities the samples 
+were fixed in buffered formalin and transferred 
+to the laboratory where rose bengal stain was 
+added following the recommendations of fobimo 
+ schönfeld et al the sediment fraction re 
+tained by µm mesh size sieves was searched for 
+living i e rose bengal stained foraminifera under a 
+stereomicroscope each isolated specimen was iden 
+tified following the reference literature for northern 
+european foraminifera höglund cedhagen 
+ 
+
+the remaining sediments were sieved through a
+ mm mesh size sieve and fixed in formalin for
+sorting and counting of macrofauna the species
+identification counting and calculation of macro 
+faunal indices was done by havbrukstjenesten as
+ west region and akvaplan niva as central region 
+
+edna and erna extractions and cdna synthesis
+
+the frozen sediments were thawed on ice and cen 
+trifuged at × g min in order to discard the
+life guard preservation solution supernatant the
+total rna and dna contents of each sediment sam 
+ple replicate were extracted using the powersoil
+total rna isolation kit and the dna elution acces 
+sory kit respectively according to the manufac 
+turer’s instructions mobio and in rnase free con 
+ditions the quality and purity of crude rna extracts
+were checked visually by gel electrophoresis 
+agarose and analytically by spectrophotometry
+ nanodrop respectively one blank extraction
+control without sediment was incorporated for each
+extraction session up to samples per session 
+blank controls were processed in parallel throughout
+the workflow until the pcr step in order to monitor
+extraneous or cross contamination events carried 
+over dna molecules were digested from rna
+extracts by consecutive dnase treatments and the
+purified rna molecules were reverse transcribed into
+complementary dna cdna as explained by lan 
+glet et al pristine aliquots of each sample’s
+rna cdna and dna extracts were immediately
+frozen at − °c in case of contamination during pcr
+and sequencing or for further research 
+
+pcr amplification and high throughput sequencing
+
+the foraminiferal f hypervariable region of the
+ s rdna was enriched from each metagenomic ex 
+tract using modified versions of the amplification
+primers s f forward ’ aag ggc acc aca aga
+acg c ’ and s reverse ’ cca cct atc aca
+yaatcatg ’ the primers’ modifications consisted
+of nucleotide long tag sequences appended at their ’
+end in order to multiplex the pcr products obtained
+from each sample into sequencing libraries as de 
+scribed by pawlowski et al a hence each sam 
+ple was pcr amplified using a unique combination of
+tagged primers according to an optimized multiplex 
+ing design as explained by esling et al how 
+ever each pcr mixture determined by a unique com 
+
+http www int res com articles suppl q p pdf
+
+
+aquacult environ interact – 
+
+bination of tags was performed in duplicate and the
+duplicate pcr products were later pooled in separate
+libraries in order to obtain technical pcr and sequen 
+cing replicates each pcr was performed in a total
+volume of µl containing × amplitaq gold buffer 
+ mm of mgcl u of amplitaq gold dna poly 
+merase applied biosystems mm of each dntp 
+ µm of each tagged primer and ca ng of dna
+ or cdna extract after a pre incubation at °c for
+ min and cycles of °c for s °c for s and
+ °c for s the pcr products were incubated at
+ °c for min a subset of pcr products was purified
+using the high pure pcr clean up micro kit roche 
+and quantified either by a fluorometric method qubit
+hs dsdna kit invitrogen or by using relative gel
+electrophoresis band intensities imagelab on
+the gel doctm xr transilluminator biorad as in
+lejzerowicz et al after quantification the pcr
+products of each sample were pooled in equimolar
+quantities ca ng per library and each library pool
+was subjected to size selection and purification end
+repair adapter ligation and library indexing pcr
+with the illumina pe adapters using the truseq nano
+dna lt sample prep kit following the manufacturer’s
+instructions illumina the libraries were sequenced
+on a miseq instrument for × cycles paired end 
+using miseq reagent nano kits v pooled in sepa 
+rate runs the raw sequencing reads were submitted
+to the short read archive under accession number
+prjna 
+
+ngs data analysis
+
+we assembled quality filtered and de multiplexed
+the raw sequence data using a computational pipe line
+specifically tailored for analysing diversity data gen 
+erated by illumina sequencing platforms paw lowski
+et al a we filtered cross contamination events
+that stem from the library preparation artefact re 
+ferred to as the mistagging phenomenon i e switch 
+ing of the tags labeling the amplicons following the
+method described by esling et al after assem 
+bly of the paired end sequencing reads into contigu 
+ous sequences we only kept the unique copies of
+these sequences strict dereplication we removed
+the unique sequences with a single occurrence in a li 
+brary sample i e in a sequenced pcr replicate and
+compared them for each pair of samples correspon 
+ding to pcr duplicates pooled in separate libraries 
+we only kept a unique sequence if it occurred in both
+technical duplicates the number of reads underlying
+such a sequence corresponded to the average of its
+
+number of reads across the duplicates we then as 
+signed taxonomies to unique sequences based on the
+needleman wunsch global alignments as explained
+by pawlowski et al a we used a manually cu 
+rated reference sequence data base comprising 
+foraminiferal species entries we defined the assigned
+taxon by taking the consensus among the taxonomic
+levels of the best matches i e the taxonomy common
+to all matches if a unique sequence shares less than
+ of similarity with every entry of the database it is
+classified as an unknown species we then grouped the
+unique sequences based on their taxonomies to create
+large pre clusters of sequences that we divided into
+operational taxonomic units otus which can be con 
+sidered equivalent to molecular species we defined
+otus by performing a complete linkage clustering
+based on the pairwise needleman wunsch distances
+computed between each pair of sequences from the
+pre cluster as explained by lejzerowicz et al 
+
+because of the uneven distribution of sequence reads
+among the samples we performed a normalization of
+the otus to samples dataset in order to allow further
+comparisons we used a rarefaction approach similar to
+that described by de cárcer et al briefly we
+randomly subsampled the otus of each sample repli 
+cate times with replacement and considered the
+median of the number of reads per sample as the otu
+abundance we then kept the average number of reads
+per otu and normalized the samples so that each
+would be composed of reads we discarded the
+otus represented by fewer than reads 
+
+benthic indices
+
+we analysed the beta diversity and computed sev 
+eral diversity indices based on the otus found in at
+least dna and rna sample simultaneously we
+computed bray curtis dissimilarity matrices for each
+pair of dna and rna samples based on presence 
+absence in order to group samples using a complete
+linkage hierarchical clustering in matlab r b 
+for foraminiferal data we computed the species rich 
+ness s number of species sn factor sn lns 
+ln lnn n number of individuals shannon diversity
+index h’ and chao diversity index gotelli colwell
+ for the metazoan morpho taxonomic data we
+used the species lists obtained from the sampling sites
+to compute the following diversity indices shannon
+diversity index h’ nsi nqi ambi and indicator
+species index isi the taxon specific sensitivity
+values for nsi isi and ambi were extracted from
+rygg norling 
+
+ 
+
+
+
+pawlowski et al dna based benthic monitoring
+
+statistical analyses
+
+to test the effect of distance from cages
+on the compositional variation of fora 
+miniferal communities based on bray 
+curtis distance matrix we used permu 
+tational multivariate analysis of variance
+ permanova anderson using a
+nested model ‘distance from cage’
+nested in the ‘farm’ factor the per 
+manovas were performed with the
+adonis function of the r vegan package
+ oksanen et al using permu 
+tations the multivariate component of
+variation percentage of the total varia 
+tion between farms the variation along
+the distance from the cages and the variation be 
+tween grab replicates was calculated from the mean
+squares of the permanova using the method of
+moments searle et al 
+
+we further tested the congruence between diver 
+sity metrics of foraminiferal metabarcoding data and
+benthic macrofaunal indices with the kappa func 
+tion of the r irr package gamer et al with a
+squared weight because the raters are ordered from
+‘very poor’ to ‘very good’ ecological status agree 
+ment between raters was classified from ‘poor’ i e 
+kappa value ranging from to and ‘almost
+per fect’ i e kappa value ranging from to lan 
+dis koch 
+
+results
+
+ngs data statistics
+
+in total we obtained and analysed about million
+dna and rna sequences of the foraminiferal hyper 
+variable region f of the s rrna gene for a total
+of samples after quality filtering to remove
+ various technical errors we obtained fora 
+miniferal sequences called reads the sequences
+were analysed in datasets corresponding to the
+sampling regions table 
+
+after filtering the good reads were dereplicated
+and clustered into otus in order to avoid the poten 
+tial biases induced by the presence of extracellular
+dna we merged dna and rna data by retaining
+only those otus that were present at least once
+in both the dna and rna datasets following paw 
+lowski et al a the number of foraminiferal
+otus varied from in rundreimstranda to in
+brettingen bremnessvaet smøla about half of the
+
+otus were represented by reads the maxi 
+mum number of reads found in a single otu after
+normalization was assigned to vellaria pel 
+lucidus the most abundant otus comprised
+more than of the reads per site 
+
+the otus were assigned based on our reference
+database which comprises about rdna se 
+quences obtained from single foraminifera includ 
+ing many specimens collected in norway scotland 
+the faroes and iceland the sequences of almost
+all species previously isolated and individually se 
+quenced in this area were found in the present ngs
+data however we also found many sequences that
+could not be assigned to our database in total 
+otus could be assigned to the specific or generic
+level some of these otus were assigned to the same
+reference data and were considered to be genetic
+variants of the same morphospecies after combin 
+ing them otus were retained for taxonomic
+analyses 
+
+about one third of the foraminiferal otus 
+were present at all sampling sites of these spe 
+cies were found among the most abundant species
+present at or more sites table at each site the
+most abundant otus also included some unassigned
+otus but the majority were abundant at a single site
+only in total out of otus were present at a
+single site the majority of these were found in
+brettingen bremnessvaet which are characterized
+by the highest species richness both in ngs and
+ morphological analyses 
+
+taxonomic composition of metabarcoding data
+
+the large majority of the assigned foraminiferal
+otus belong to class monothalamea fig char 
+
+ 
+
+filtering steps f
+west coastal region central coastal region
+
+dna rna dna rna
+
+total number of reads 
+ambiguous bases 
+low mean quality 
+contig errors 
+no primers 
+primer mismatch 
+mistagging filter 
+number of good reads 
+
+table number of foraminiferal reads next generation sequences 
+before and after quality filtering based on a total of samples from
+ regions in norway f foraminiferal hypervariable region f of the 
+
+ s rrna gene
+
+
+
+aquacult environ interact – 
+
+acterized by a single chambered test with an organic
+or agglutinated wall the other groups most com 
+monly represented in our data are orders rotaliida 
+textulariida and miliolida the first orders are
+characterized by hard shelled calcareous rotaliids 
+or agglutinated textulariids multichambered tests 
+the miliolids also possess multichambered calcare 
+ous tests but they differ from rotaliids by imper 
+forate porcelaneous wall 
+
+the taxonomic composition of fora 
+minifera varied across the sampling
+sites in particular we observed
+an exceptionally high proportion of
+ rotaliida and tex tulariida fig in
+the samples collected near − m 
+cages in bjørlykkestranda stations
+ however this trend was
+less pronounced in rundreimstranda 
+where the relative abundance of
+monothalamid otus was higher and
+more equally distributed among sta 
+tions in terms of read abundance 
+the rotaliids were almost absent at
+stns and of rundreimstranda 
+these stations were characterized by
+higher abundances of miliolid se 
+quences which were only sporadi 
+cally found in other stations 
+
+the taxonomic composition of foraminiferal assem 
+blages was less variable and did not seem to be cor 
+related to the distance from cages in kornstad and
+brettingen bremnessvaet in terms of otu rich 
+ness the relative abundance of different taxonomic
+groups was more homogeneous with only a slight
+increase of rotaliid and textulariid otus at the sta 
+tions located near the cages kornstad brem 
+nessvaet brettingen in terms of read abun 
+
+ 
+
+taxon bjørlykke rundreim korn brettingen 
+stranda stranda stad bremnessvaet
+
+rotaliida
+stainforthia fusiformis 
+bulimina marginata 
+cibicidoides lobatulus 
+
+textulariida
+reophax sp 
+
+monothalamea
+bathysiphon argenteus 
+micrometula hyalinostriata 
+psammophaga sp 
+nemogullmia longivariabilis 
+cylindrogullmia alba 
+tinogullmia sp 
+undet saccamminid att 
+undet saccamminid is 
+
+table most abundant species of foraminifera based on the number of reads
+ next generation sequences at each of sampled aquaculture sites in norway 
+
+undet undetermined
+
+fig high level taxonomic composition of foraminiferal communities at aquaculture farms in norway based on the number
+of operational taxonomic units otus for each station indicated as numbers the replicates from each grab were combined 
+
+ n replicates per grab for bjørlykkestranda rundreimstranda kornstad and n per grab for smøla 
+
+
+
+pawlowski et al dna based benthic monitoring
+
+dance the variability between stations did not seem
+to be related to their positions 
+
+the comparison between otus and 
+foraminiferal morphospecies isolated from the fixed
+samples showed a relatively good congruence be 
+tween these datasets table s in the supplement 
+the highest similarity was observed for rotaliids for
+which more than of species were in common
+between the ngs and morphological data almost all
+otus assigned to the textulariids have been identi 
+fied in morphological samples however the number
+of morphologically identified textulariids was almost
+twice the number found in the molecular data simi 
+larly the number of morphologically identified mili 
+olids and other tubothalamids was much higher
+than the number of otus assigned to this group 
+
+among the most common species present at all
+sites we found rotaliids stainforthia fusiformis 
+bulimina marginata and cibicidoides lobatulus a
+textulariid reophax sp and monothalamids bathy 
+siphon argenteus micrometula hyalinostriata psam 
+mophaga sp nemogullmia longivariabilis cylin 
+drogullmia alba and tinogullmia sp all of these
+species are well known in the norwegian coastal
+waters a detailed list of species with corresponding
+numbers of reads is provided in table s 
+
+comparison of foraminiferal communities
+
+we compared the foraminiferal communities by
+cluster analyses fig and by multivariate anova
+ table across all samples including technical
+replicates and for each sampling site separately 
+
+the variability of replicate samples taken from the
+same grab was low indeed very distinctive clusters
+formed which were composed of the technical repli 
+cates of the same grab and also of the different grabs
+of the same stations overall this clustering appeared
+highly correlated to the distance from the cages 
+indeed in all cases the stations close to cages formed
+one set of clusters while distant samples formed
+another distinct set of clusters in the case of smøla 
+which comprised distinct fish farms brettingen and
+bremnessvaet the stations close to the cages 
+were in the same set of clusters fig 
+
+the same effect was also observed at other sites 
+albeit in a less perceptible manner indeed in the
+case of both rundreimstranda and bjørlykkestranda 
+the group of samples closest to the cages left part 
+was partly scrambled in terms of replicates whereas
+as we moved away from the cages middle to right 
+the samples gradually began to group neatly based
+
+both on their technical replicates and different grabs
+ fig this observation suggests that the impact of
+the cages could even be stronger than the local
+patchiness that can be observed across different
+grabs of the same sampling station 
+
+while the samples grouped relatively well in rela 
+tion to the distance from the cages this was not the
+case for redox values which differed largely be 
+tween and within sites however we noted very
+large variations of redox in samples from rundreim 
+stranda and bjørlykkestranda especially for samples
+collected close to the cages the correspondence
+between the redox and distance was slightly better
+for kornstad and smøla with generally higher redox
+values close to the cages fig 
+
+anova confirmed the effect of distance on the
+compositional variation of foraminiferal communities
+ table variance partitioning showed that differ 
+ences between farms accounted for the largest varia 
+tion in the data with and for the west coastal
+region bjørlykkestranda and rundreistranda and
+the central coastal region kornstad and smøla re 
+spectively the distance from the cages although sig 
+nificant accounted for only and of the vari 
+ance in the west and central regions respectively 
+the replicate samples accounted for the smallest
+variation in the data with and respectively 
+
+foraminiferal diversity vs environmental gradients
+
+we analysed the foraminiferal diversity indices s
+ richness sn h ’ shannon and chao depending on
+the distance to cages in order to investigate the di 
+versity of foraminiferal communities along the envi 
+ronmental gradients we calculated these indices for
+each sample categorized per class of distance to the
+cage this allowed us to compute the mean standard
+deviation and confidence interval of each set the
+patterns of the chao diversity index changes are
+ illustrated in fig the detailed analyses of all in 
+dices are available in fig s in the supplement 
+
+overall the variation in foraminiferal diversity
+tended to increase with increasing distance from
+cages fig hence the diversity was lower with in 
+creasing proximity to the cages we typically ob 
+served around times fewer species near the cages
+than at more distant stations but the number of spe 
+cies declined by up to times fewer species near
+cages in the bjørlykke stranda site it seems that the
+standard deviation and confidence interval of the
+diversity indices have a tendency to be extremely nar 
+row near the cages and then to ‘spread out’ as the dis 
+
+ 
+
+
+
+aquacult environ interact – 
+
+tance increases this suggests an effect of the farm on
+the diversity of foraminiferal communities moreover 
+fig and fig s in the supplement exhibit an in 
+creasing richness following different slopes which
+might be explained by different types of conditions 
+such as the sediment type or the water flow 
+
+correlation between foraminiferal diversity and
+macro invertebrate indices
+
+we investigated the potential correlation between
+different foraminiferal diversity indices s sn h ’ 
+
+chao and the standard indices based on benthic
+macrofaunal analysis commonly used in norway h ’ 
+nsi nqi nqi for a global overlook at this corre 
+lation we plotted the values of a foraminiferal diver 
+sity metric y axis compared to a macrofaunal index
+ x axis for all samples from a particular sampling
+site the best correlation was obtained by using the
+chao diversity index fig the other correlations
+are presented in fig s in the supplement 
+
+a positive correlation was evident between the
+foraminiferal chao diversity index and macrofaunal
+indices in all cases the correlations were almost
+ linear and the relationships r ranging from to
+
+ 
+
+ 
+
+redox
+
+distance
+
+bjørlykkestranda
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+redox
+
+distance
+
+rundreimstranda
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig comparison of foraminiferal communities at aquaculture farms in norway across samples based on their bray curtis simi 
+larities sampling stations are indicated by coloured squares at each leaf and annotated with the corresponding sample label the
+first number indicates the station and the second number indicates the van veen grab identical numbers correspond to technical
+replicates the values of distance to cage blue logarithmic scale and redox green are indicated under the dendrogram and
+ reordered based on the leaf orders the distance to cages could not be given for some stations without cages and in 
+
+smøla the branches belonging to sampling stations that were located ≤ m from salmon cages are coloured in red
+
+
+
+pawlowski et al dna based benthic monitoring
+
+ were highly significant all p 
+values this suggests that
+the chao diversity index provides
+information equivalent to the macro 
+faunal indices in their respective
+changes moreover the deviation
+between values was typically quite
+narrow and most of the points lay
+within this margin of error it was
+always the same few samples that
+deviated from one index to another
+ rundreimstranda stns and and
+bremnessvaet stn which might
+point out to technical problems in the
+corresponding samples 
+
+ 
+
+df ms f p explained 
+variance 
+
+west coastal region
+farms 
+farms distance from cage 
+residuals 
+total 
+
+central coastal region
+farms 
+farms distance from cage 
+residuals 
+total 
+
+table permutational multivariate analysis of variances of the composi 
+tional dissimilarities of foraminiferal communities at aquaculture farms in 
+
+ regions in norway significant at p 
+
+redox
+
+distance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+smøla
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+redox
+
+distance
+
+kornstad
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig continued 
+
+
+
+aquacult environ interact – 
+
+to determine whether the foraminiferal diversity
+indices s sn h ’ chao could provide a scaling sys 
+tem equivalent to macrofaunal indices we analysed
+the similarities of ecological quality statuses inferred
+from foraminiferal and macrofaunal indices to do so 
+we first reordered the different samples based on
+increasing values of the selected macrofaunal index 
+this also allowed us to regroup the samples based on
+their ecological quality statuses 
+
+as shown in fig the foraminiferal diversity
+indices provide a view of the ecological quality status
+
+that closely resembles the assessment
+provided by macrofaunal indices the
+chao diversity index appeared to be
+the most accurate overall but in some
+cases other indices also gave a good
+correlation for example sn vs nqi in
+the central region dataset or h ’ vs nsi
+in both datasets this indicates that re 
+fined versions or combinations of these
+indices could provide a more accurate
+view of the eco logical statuses 
+
+the weighted kappa analysis showed
+that the rating agreement of ecologi 
+cal status inferred from macrofaunal
+data and from foraminiferal molecular
+data were moderate to substantial with
+ significant confidence table the
+kappa values ranged from to
+ for the central region between
+the macrofaunal ngi index and the
+molecular shannon index and for the
+west region between the macrofaunal
+shannon index and the molecular
+chao index 
+
+discussion
+
+the diversity and composition of fora 
+miniferal communities seems to be af 
+fected by the presence of fish farms 
+both macrofaunal and foraminiferal
+communities were less diverse close to
+the farm cages and there was a signifi 
+cant compositional change along the
+ distance to cage gradient furthermore 
+replicates sampled near the cages 
+within the same van veen grab will
+likely be very similar while replicates
+within the same grab collected at distant
+stations will deviate more from each
+other even though the distance to 
+
+cage is no substitute for the environmental gradients
+that drive community changes our data show that
+there is a steady trend towards increasing diversity
+and diversity variation among sample replicates away
+from the cages a pattern which is consistent across
+farms and with previous studies pawlowski et al 
+ a pochon et al taken together our results
+suggest that the fish farms affect their immediate sur 
+roundings creating environmental conditions that are
+particularly suitable for a set of species that could then
+be viewed as potential bioindicators 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+smøla
+
+ 
+
+bjørlykkestranda
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+kornstad
+
+rundreimstranda
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+distance m 
+
+c
+ha
+
+o
+ in
+
+d
+ex
+
+c
+ha
+
+o
+ in
+
+d
+ex
+
+c
+ha
+
+o
+ in
+
+d
+ex
+
+c
+ha
+
+o
+ in
+
+d
+ex
+
+fig changes in foraminiferal diversity at aquaculture farms in norway
+based on the distance to salmon cages the values of the chao index y axis 
+for all samples from a particular sampling site grey dots are plotted at their
+corresponding position on a scaled x axis the green patch shows the confi 
+dence interval and the dashed green line shows the mean the boxplot at
+each distance position summarizes the corresponding mean red line standard 
+
+deviation red box and confidence interval blue box of the set
+
+
+
+pawlowski et al dna based benthic monitoring
+
+our study confirms that the metabarcoding of
+meiofaunal sized organisms such as foraminifera 
+provides an interesting alternative solution to ben 
+thic monitoring the ecosystem status inferred from
+macrofaunal counts and molecular foraminiferal data
+are leading to similar classification as shown by the
+kappa analysis this means that foraminiferal com 
+
+munities provide relevant in 
+for mation for the biomonitor 
+ing of benthic ecosystems the
+impact of fish farms on the
+foraminiferal community has
+al ready been studied using
+a meta barcoding approach in
+scot land pawlowski et al 
+ a and new zealand
+ pochon et al the previ 
+ous studies focused on the
+comparison of molecular
+and morphological taxonomic
+composition dna and
+rna data and the abun 
+dance profiles of particular
+species the results of these
+studies evidenced the effects
+of environmental impact on
+beta diversity of foraminiferal
+communities as well as on
+otu abundance at least for
+the most sequenced otus that
+are more likely to be present
+in both the dna and rna
+extracts of each sample the
+previous studies also high 
+lighted the importance of repli 
+cates and stringent quality 
+and mistag based filters esling
+et al which is critical to
+reduce the number of poten 
+tially spurious rare otus that
+might bias richness estimates
+ pawlowski et al a 
+
+compared to the previous
+studies here we directly com 
+pared the biotic indices inferred
+from foramini feral molecular
+data and macrofaunal counts
+in order to evaluate the ecolog 
+ical quality status our results
+show that assessing environ 
+mental effects of fish farms
+based on different biological
+communities leads to similar
+
+conclusions this is consistent with the results of a
+recent study showing that it is possible to exploit the
+response of a given taxonomic group as a surrogate
+for the response of another taxonomic group i e 
+diatoms and macrofauna provided that analyses are
+restricted to a small spatial scale and to a specific
+type of habitat bae et al other studies infer 
+
+ 
+
+fig correlation between the chao diversity index in foraminifera and macrofaunal
+indices shannon diversity index h ’ norwegian sensitivity index nsi norwegian
+quality indices nqi nqi the values of molecular diversity y axis compared to a
+macrofaunal index x axis are plotted for all samples of a particular sampling site the
+dotted green line represents the results of a model ii regression with least squares fitting
+over all the points while the surrounding green area shows the interquartile range of
+the standard deviations the regression r value and the p value are indicated directly 
+
+on each graph
+
+
+
+aquacult environ interact – 
+
+very poor poor
+
+very poor poor
+
+
+
+pawlowski et al dna based benthic monitoring
+
+ring biotic indices from meta barcoding data showed
+that similar values of iti and ambi are obtained for
+the impact assessment of salmon farms in scotland
+when calculated from the macro invertebrate
+ morpho taxonomic inventories and metazoan 
+mainly meiofaunal metabarcoding data lejzerow 
+icz et al similarly comparable values of the
+benthic diatom index have been obtained for rivers
+and streams based on metabarcoding and micro 
+scopic data visco et al all of these studies
+confirm the potential of metabarcoding to assess bio 
+diversity and quality status of marine and freshwater
+ecosystems ji et al boh mann et al gib 
+son et al guardiola et al 
+
+the advantages of including metabarcoding in
+routine benthic monitoring are numerous first given
+that the process of edna analysis is much faster the
+waiting time for the impact assessment could be
+reduced from − mo to a few weeks second the
+metabarcoding workflow could be automated and
+the costs of dna sequencing are rapidly decreasing
+ junemann et al third biodiversity assess 
+ments will be more accurate because species iden 
+tification is based on publicly available reference
+databases that may be more reliable than personal
+taxonomic knowledge additionally the ecosystem
+
+evaluation will be enhanced by covering
+a wider range of taxa including bacteria
+and protists as well as the meiofauna 
+which is increasingly considered a reser 
+voir of potential ecological indicators for
+various applications zeppilli et al 
+finally the metabarcoding approach not
+only increases the taxonomic coverage
+but also provides the ability to dis tinguish
+multiple otus that might belong to the
+same morphotype but have different eco 
+logical characteristics 
+
+there are still several challenges that
+metabarcoding will need to address to
+become fully operational for biomonitor 
+ing purposes among them the accuracy
+of ngs data analysis in terms of filtering 
+otu clustering and taxonomic assign 
+
+ment needs to be improved another issue is that the
+reference database of dna barcodes needs to be
+completed considerable efforts are being made to
+enrich reference databases with the sequencing of
+dna barcodes from various marine species espe 
+cially for macro invertebrates barcode of life data 
+base aylagas et al and to a lesser extent for
+meiofauna and small sized eukaryotes tang et al 
+ del campo et al however the task is
+daunting given the gigantic diversity of meiofaunal
+and microbial taxa as well as the paucity of morpho 
+logically distinctive characters and trained taxono 
+mists for their description boero further
+research is also needed to better understand the eco 
+logical meaning of metabarcoding data in fact the
+biggest challenge is to assign ecological values to
+sequenced species or otus most of the macrofaunal
+indices rely on characteristic species associated with
+ecological e g ambi borja et al or trophic
+ iti word groups which have been defined
+empirically such ecological groups have also been
+defined for foraminifera e g alve et al but
+only for hard shelled fossilized taxa e g rotaliids 
+and not for soft shelled monothalamids that repre 
+sent the majority of the sequenced foraminiferal
+diversity in the case of meiofauna and other incon 
+
+ 
+
+macrofaunal molecular sites kappa p agreement
+index index
+
+west coastal region
+nqi h ’ substantial
+nqi chao moderate
+h ’ h ’ moderate
+h ’ chao substantial
+
+central coastal region 
+
+nqi h ’ moderate
+nqi chao moderate
+h ’ h ’ moderate
+h ’ chao moderate
+
+table weighted kappa analysis of agreement between ecological
+ quality status raters macrofaunal vs molecular indices for aquaculture
+farms in regions in norway nqi norwegian quality index p 
+
+ p p 
+
+fig comparison of ecological quality status inferred from foraminiferal diversity indices h ’ chao and macrofaunal indices
+ h ’ norwegian quality index nqi the values of foraminiferal indices are indicated by magenta bars and macrofaunal in 
+dices by green bars the samples are grouped according to their ecological quality statuses inferred from morphological data
+and indicated at the bottom of each histogram the ecological quality inferred from molecular data is also indicated by the
+multicoloured bars on the right side and the corresponding dotted lines indicate their boundary values the results are pre 
+sented separately for the a west region sites bjørlykkestranda rundreimstranda and b central region sites kornstad 
+bremnessvaet brettingen codes on top of the graph indicate the site name abbrevations the sampling station and the 
+
+replicate number
+
+
+
+aquacult environ interact – 
+
+spicuous protist species with unknown autecology 
+being able to directly link otus with environmental
+gradients could be much more efficient than attempt 
+ing to taxonomically and ecologically characterize
+the morphospecies corresponding to these otus 
+
+to conclude we think that ecologically meaningful
+information can be inferred from metabarcoding
+data by bypassing a taxonomical approach and ulti 
+mately unveil what we call ‘eco barcodes’ i e edna
+sequences that would be used as bio indicators we
+further think that an approach using both empirical
+knowledge about the ecology of species and commu 
+nity ecology theory might soon lead to the discovery
+of such eco barcodes this approach requires a
+large multi site dataset in order to identify these
+eco barcodes and to design relevant biotic indices as
+exemplified for the development of the i m index 
+which is based on the best combination of the known
+indices mondy et al such an approach could
+complement or even replace traditional morphology 
+based monitoring in the future 
+
+acknowledgements we thank vegard langvatn and son 
+dre veberg larsen from fiske liv and kai erling staven and
+vidar strøm from aqua kompetanse for help in collecting
+samples this work was supported by marine harvest asa
+and the swiss national science foundation grants a 
+ and 
+
+literature cited
+
+alve e benthic foraminiferal responses to estuarine
+pollution a review j foraminifer res − 
+
+alve e korsun s schönfeld j dijkstra n and others 
+foram ambi a sensitivity index based on benthic fora 
+miniferal faunas from north east atlantic and arctic fjords 
+continental shelves and slopes mar micropaleontol 
+ − 
+
+anderson mj a new method for non parametric mul 
+tivariate analysis of variance austral ecol − 
+
+angel dl verghese s lee jj saleh am zuber d lindell
+d symons a impact of a net cage fish farm on the
+distribution of benthic foraminifera in the northern gulf
+of eilat aqaba red sea j foraminifer res − 
+
+aylagas e borja Á rodriguez ezpeleta n environ 
+mental status assessment using dna metabarcoding 
+towards a genetics based marine biotic index gambi 
+plos one e 
+
+bae mj li f kwon ys chung n choi h hwang sj park
+ys concordance of diatom macroinvertebrate
+and fish assemblages in streams at nested spatial scales 
+implications for ecological integrity ecol indic − 
+
+bergin f kucuksezgin f uluturhan e barut if meric e 
+avsar n nazik a the response of benthic forami 
+nifera and ostracoda to heavy metal pollution in gulf of
+izmir eastern aegean sea estuar coast shelf sci 
+ − 
+
+bik hm halanych km sharma j thomas wk dra 
+
+matic shifts in benthic microbial eukaryote communities
+following the deepwater horizon oil spill plos one 
+e 
+
+boero f the study of species in the era of biodiversity 
+a tale of stupidity diversity basel − 
+
+bohmann k evans a gilbert mtp carvalho gr and others
+ environmental dna for wildlife biology and bio 
+diversity monitoring trends ecol evol − 
+
+borja a franco j pérez v a marine biotic index to
+establish the ecological quality of soft bottom benthos
+within european estuarine and coastal environments 
+mar pollut bull − 
+
+carew me pettigrove vj metzeling l hoffmann aa
+ environmental monitoring using next generation
+sequencing rapid identification of macroinvertebrate
+bioindicator species front zool 
+
+cedhagen t foraminifera in the northeast atlantic
+and arctic oceans internal report aarhus university 
+aarhus
+
+chariton aa court ln hartley dm colloff mj hardy cm
+ ecological assessment of estuarine sediments by
+pyrosequencing eukaryotic ribosomal dna front ecol
+environ − 
+
+chariton aa ho kt proestou d bik h and others a
+molecular based approach for examining responses of
+eukaryotes in microcosms to contaminant spiked estuar 
+ine sediments environ toxicol chem − 
+
+chariton aa stephenson s morgan mj steven adl 
+colloff mj court ln hardy cm metabarcoding
+of benthic eukaryote communities predicts the ecological
+condition of estuaries environ pollut − 
+
+cowart da pinheiro m mouchel o maguer m grall j 
+miné j arnaud haond s metabarcoding is pow 
+erful yet still blind a comparative analysis of morpho 
+logical and molecular surveys of seagrass communities 
+plos one e 
+
+de cárcer da denman se mcsweeney c morrison m
+ evaluation of subsampling based normalization
+strategies for tagged high throughput sequencing data
+sets from gut microbiomes appl environ microbiol 
+ − 
+
+del campo j sieracki me molestina r keeling p massana
+r ruiz trillo i the others our biased perspective
+of eukaryotic genomes trends ecol evol − 
+
+denoyelle m jorissen fj martin d galgani f miné j
+ comparison of benthic foraminifera and macro 
+faunal indicators of the impact of oil based drill mud
+ disposal mar pollut bull − 
+
+esling p lejzerowicz f pawlowski j accurate multi 
+plexing and filtering for high throughput amplicon 
+sequencing nucleic acids res − 
+
+frontalini f coccioni r benthic foraminifera as
+bioindicators of pollution a review of italian research
+over the last three decades rev micropaleontol 
+ − 
+
+frontalini f buosi c da pelo s coccioni r cherchi a 
+bucci c benthic foraminifera as bio indicators of
+trace element pollution in the heavily contaminated
+santa gilla lagoon cagliari italy mar pollut bull 
+ − 
+
+gamer m lemon j fellows i singh p various coeffi 
+cients of interrater reliability and agreement available
+at http cran r project org web packages irr irr pdf
+
+gibson jf shokralla s curry c baird dj monk wa king
+i hajibabaei m large scale biomonitoring of
+
+ 
+
+http dx doi org journal pone 
+http dx doi org j marpolbul 
+http dx doi org j revmic 
+http dx doi org nar gkv 
+http dx doi org x 
+http dx doi org j marpolbul 
+http dx doi org j tree 
+http dx doi org aem 
+http dx doi org journal pone 
+http dx doi org j envpol 
+http dx doi org etc 
+http dx doi org 
+http dx doi org 
+http dx doi org s x 
+http dx doi org j tree 
+http dx doi org d 
+http dx doi org journal pone 
+http dx doi org j ecss 
+http dx doi org j ecolind 
+http dx doi org journal pone 
+http dx doi org 
+http dx doi org j marmicro 
+http dx doi org gsjfr 
+
+
+pawlowski et al dna based benthic monitoring
+
+remote and threatened ecosystems via high throughput
+sequencing plos one e 
+
+gotelli n colwell r estimating species richness in 
+magurran ae mcgill bj eds frontiers in measuring
+biodiversity oxford university press new york ny 
+p − 
+
+guardiola m uriz mj taberlet p coissac e wangensteen
+os turon x deep sea deep sequencing meta 
+barcoding extracellular dna from sediments of marine
+canyons plos one e 
+
+hajibabaei m spall jl shokralla s van konynenburg s
+ assessing biodiversity of a freshwater benthic
+macroinvertebrate community through non destructive
+environmental barcoding of dna from preservative
+ethanol bmc ecol 
+
+höglund h foraminifera in the gullmar fjord and the
+skagerak zoologiska bidrag fran uppsala vol 
+almqvist wiksells stockholm
+
+ji y ashton l pedley sm edwards dp and others 
+reliable verifiable and efficient monitoring of biodiver 
+sity via metabarcoding ecol lett − 
+
+jorissen fj bicchi e duchemin g durrieu j and others
+ impact of oil based drill mud disposal on benthic
+foraminiferal assemblages on the continental margin
+off angola deep sea res ii top stud oceanogr 
+ − 
+
+jünemann s sedlazeck fj prior k albersmeier a and
+ others updating benchtop sequencing perform 
+ance comparison nat biotechnol − 
+
+keeley nb macleod ck forrest bm combining
+best professional judgement and quantile regression
+splines to improve characterisation of macrofaunal
+responses to enrichment ecol indic − 
+
+kermarrec l franc a rimet f chaumeil p humbert jf 
+bouchez a next generation sequencing to inven 
+tory taxonomic diversity in eukaryotic communities a
+test for freshwater diatoms mol ecol resour − 
+
+kermarrec l franc a rimet f chaumeil p frigerio jm 
+humbert jf bouchez a a next generation se 
+quencing approach to river biomonitoring using benthic
+diatoms freshw sci − 
+
+landis jr koch gg the measurement of observer
+agreement for categorical data biometrics − 
+
+langlet d geslin e baal c metzger e and others 
+foraminiferal survival after long term in situ experimen 
+tally induced anoxia biogeosciences − 
+
+lecroq b lejzerowicz f bachar d christen r and others
+ ultra deep sequencing of foraminiferal microbar 
+codes unveils hidden richness of early monothalamous
+lineages in deep sea sediments proc natl acad sci usa
+ − 
+
+lejzerowicz f esling p majewski w szczuci ski w and oth 
+ers ancient dna complements microfossil record
+in deep sea subsurface sediments biol lett 
+
+lejzerowicz f esling p pawlowski j patchiness of
+deep sea benthic foraminifera across the southern
+ocean insights from high throughput dna sequencing 
+deep sea res ii top stud oceanogr − 
+
+lejzerowicz f esling p pillet l wilding ta black kd 
+pawlowski j high throughput sequencing and
+morphology perform equally well for benthic monitoring
+of marine ecosystems sci rep 
+
+maurer d nguyen h robertson g gerlinger t the
+infaunal trophic index iti its suitability for marine
+environmental monitoring ecol appl − 
+
+mojtahid m jorissen f pearson th comparison of
+benthic foraminiferal and macrofaunal responses to
+organic pollution in the firth of clyde scotland mar
+pollut bull − 
+
+mondy cp villeneuve b archaimbault v usseglio polatera
+p a new macroinvertebrate based multimetric
+index i m to evaluate ecological quality of french
+wadeable streams fulfilling the wfd demands a taxo 
+nomical and trait approach ecol indic − 
+
+oksanen j blanchet fg kindt r legendre p and others
+ vegan community ecology package r package
+version http cran r project org package vegan
+
+pawłowska j lejzerowicz f esling p szczucinski w 
+zajączkowski m pawlowski j ancient dna sheds
+new light on the svalbard foraminiferal fossil record of
+the last millennium geobiology − 
+
+pawlowski j holzmann m a plea for dna barcoding
+of foraminifera j foraminifer res − 
+
+pawlowski j lecroq b short rdna barcodes for spe 
+cies identification in foraminifera j eukaryot microbiol
+ − 
+
+pawlowski j esling p lejzerowicz f cedhagen t wilding
+ta a environmental monitoring through protist
+next generation sequencing metabarcoding assessing
+the impact of fish farming on benthic foraminifera com 
+munities mol ecol resour − 
+
+pawlowski j lejzerowicz f esling p b next genera 
+tion environmental diversity surveys of foraminifera 
+preparing the future biol bull woods hole − 
+
+pochon x wood sa keeley nb lejzerowicz f esling p 
+drew j pawlowski j accurate assessment of the
+impact of salmon farming on benthic sediment enrich 
+ment using foraminiferal metabarcoding mar pollut bull
+ − 
+
+rygg b norling k norwegian sensitivity index nsi 
+for marine macroinvertebrates and an update of indica 
+tor species index isi niva report sno 
+niva oslo
+
+schönfeld j alve e geslin e jorissen f and others 
+the fobimo foraminiferal bio monitoring initiative—
+towards a standardised protocol for soft bottom benthic
+foraminiferal monitoring studies mar micropaleontol
+ − 
+
+schwing pt romero ic brooks gr hastings dw larson
+ra hollander dj a decline in benthic foramini 
+fera following the deepwater horizon event in the north 
+eastern gulf of mexico plos one e 
+
+stecf scientific technical and economic committee for
+fisheries the economic performance of the
+eu aquaculture sector stecf eur en 
+jrc publications office of the european union 
+ luxembourg
+
+scott db schafer ct honig c younger dc tempo 
+ral variations of benthic foraminiferal assemblages under
+or near aquaculture operations documentation of impact
+history j foraminifer res − 
+
+searle sr casella g mcculloch ce eds variance
+components john wiley sons hoboken nj
+
+stein ed white bp mazor rd miller pe pilgrim em 
+evaluating ethanol based sample preservation to facili 
+tate use of dna barcoding in routine freshwater biomon 
+itoring programs using benthic macroinvertebrates 
+plos one e 
+
+taberlet p coissac e pompanon f brochmann c wil 
+lerslev e towards next generation biodiversity
+
+ 
+
+http dx doi org j x x
+http dx doi org journal pone 
+http dx doi org gsjfr 
+http dx doi org journal pone 
+http dx doi org j marmicro 
+http dx doi org j marpolbul 
+http www ncbi nlm nih gov entrez query fcgi cmd retrieve db pubmed list uids dopt abstract
+http dx doi org 
+http dx doi org j x
+http dx doi org gsjfr 
+http dx doi org gbi 
+http dx doi org j ecolind 
+http dx doi org j marpolbul 
+http dx doi org b atitiii d co b 
+http dx doi org srep 
+http dx doi org j dsr 
+http dx doi org rsbl 
+http dx doi org pnas 
+http dx doi org bg 
+http dx doi org 
+http dx doi org 
+http dx doi org 
+http dx doi org j ecolind 
+http dx doi org nbt 
+http dx doi org j dsr 
+http dx doi org ele 
+http dx doi org 
+http dx doi org journal pone 
+
+
+aquacult environ interact – 
+
+assessment using dna metabarcoding mol ecol 
+ − 
+
+tang cq leasi f obertegger u kieneke a barraclough
+tg fontaneto d the widely used small subunit
+ s rdna molecule greatly underestimates true diver 
+sity in biodiversity surveys of the meiofauna proc natl
+acad sci usa − 
+
+taranger gl karlsen Ø bannister rj glover ka and others
+ risk assessment of the environmental impact of
+norwegian atlantic salmon farming ices j mar sci 
+ − 
+
+vidović j cosovic v jurasic m petricioli d impact
+of fish farming on foraminiferal community drvenik
+veliki island adriatic sea croatia mar pollut bull 
+ − 
+
+vidović j dolenec m dolenec t karamarko v Žvab rožič
+p benthic foraminifera assemblages as elemental
+pollution bioindicator in marine sediments around fish
+farm vrgada island central adriatic croatia mar
+ pollut bull − 
+
+visco ja apothéloz perret gentil l cordonier a esling p 
+pillet l pawlowski j environmental monitoring 
+inferring the diatom index from next generation sequen 
+
+cing data environ sci technol − 
+word jq the infaunal trophic index in bascom w
+
+ ed annual report southern california coastal
+water research project el segundo ca p − 
+
+yu dw ji y emerson bc wang x ye c yang c ding z
+ biodiversity soup metabarcoding of arthropods
+for rapid biodiversity assessment and biomonitoring 
+methods ecol evol − 
+
+zeppilli d sarrazin j leduc d arbizu pm and others 
+is the meiofauna a good indicator for climate change and
+anthropogenic impacts mar biodivers − 
+
+zhou x li y liu s yang q and others ultra deep
+sequencing enables high fidelity recovery of biodiversity
+for bulk arthropod samples without pcr amplification 
+gigascience 
+
+zimmermann j abarca n enke n skibbe o kusber wh 
+jahn r taxonomic reference libraries for environ 
+mental barcoding a best practice example from diatom
+research plos one e 
+
+zimmermann j glöckner g jahn r enke n gemeinholzer
+b metabarcoding vs morphological identification
+to assess diatom diversity in environmental studies mol
+ecol resour − 
+
+ 
+
+editorial responsibility catriona macleod 
+hobart tasmania australia
+
+submitted december accepted april 
+proofs received from author s may 
+
+➤
+
+➤
+
+➤
+
+➤
+
+➤
+
+➤
+
+➤
+
+http dx doi org 
+http dx doi org journal pone 
+http dx doi org x 
+http dx doi org s z
+http dx doi org j x x
+http dx doi org es m
+http dx doi org j marpolbul 
+http dx doi org j marpolbul 
+http dx doi org pnas 
+
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+	cite 
+
+
+

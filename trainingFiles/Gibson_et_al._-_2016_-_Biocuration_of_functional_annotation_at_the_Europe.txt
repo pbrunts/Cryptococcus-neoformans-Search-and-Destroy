@@ -1,0 +1,1071 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d –d nucleic acids research vol database issue published online november 
+doi nar gkv 
+
+biocuration of functional annotation at the european
+nucleotide archive
+richard gibson blaise alako clara amid ana cerdeño tárraga iain cleland 
+neil goodgame petra ten hoopen suran jayathilaka simon kay rasko leinonen 
+xin liu swapna pallreddy nima pakseresht jeena rajan marc rosselló nicole silvester 
+dmitriy smirnov ana luisa toribio daniel vaughan vadim zalunin and guy cochrane
+
+european molecular biology laboratory european bioinformatics institute embl ebi wellcome genome campus 
+hinxton cambridge cb sd uk
+
+received october revised november accepted november 
+
+abstract
+
+the european nucleotide archive ena http www 
+ebi ac uk ena is a repository for the submission 
+maintenance and presentation of nucleotide se 
+quence data and related sample and experimental in 
+formation in this article we report on ena in re 
+garding general activity notable published data sets
+and major achievements this is followed by a fo 
+cus on sustainable biocuration of functional annota 
+tion an area which has particularly felt the pressure
+of sequencing growth the importance of functional
+annotation how it can be submitted and the shift 
+ing role of the biocurator in the context of increasing
+volumes of data are all discussed 
+
+introduction
+
+the european nucleotide archive ena maintained at
+the european bioinformatics institute embl ebi in
+hinxton uk is a permanent nucleotide sequencing repos 
+itory which hosts the world’s dna and rna sequences 
+along with associated metadata functional annotation and
+other derived data its focus lies in the capture standard 
+isation and organisation of sequencing data maintenance
+and storage of the data and presentation of the data to the
+scientific community groupings of data types within ena 
+called domains allow for easy access and discoverability 
+for example raw data can be accessed through the read
+domain assembled and optionally annotated reads can be
+accessed through the sequence domain a full description
+of ena domains is provided at url http www ebi ac uk 
+ena submit data formats 
+
+public data are exchanged daily between members of the
+international nucleotide sequence database collaboration
+ insdc which comprises the ena and its partners 
+the national center for biotechnology information ncbi
+
+genbank and the dna databank of japan ddbj
+ under this long standing partnership we ensure the
+fullest reach of archived sequence data and participate in
+the development of global standards for data collection
+and management the taxonomic classification in use at
+ena is the ncbi taxonomy the systematic range of
+taxa spans the complete taxonomic realm from viruses to
+eukaryotes with nomenclature for describing unpublished
+and unknown taxa as well as mixed libraries metagenomic
+samples and synthetic molecules 
+
+in this article we describe the continuing growth of se 
+quencing data in the ena with some notable data sets
+that have been released over the last year in the fields of
+pathogen surveillance genomics conservation anthropol 
+ogy and marine science major achievements are then re 
+viewed in brief followed by a more in depth look at func 
+tional annotation and the changing role of the ena biocu 
+rator 
+
+content and growth
+
+ena continues to see exponential growth in data the se 
+quence and read domains are currently seeing similar dou 
+bling rates of months and months respectively 
+with a total of million assembled sequences and 
+trillion reads the total number of bases in ena at the time
+of writing in ena has exceeded × and covers
+over formally described species and infra species
+and over million taxa further statistical information 
+which is updated on a weekly basis can be accessed here 
+http www ebi ac uk ena about statistics 
+
+ena hosts many important and notable data sets which
+have been published during the previous year in january
+ rna seq libraries were released for six uk sam 
+ples of the fungus hymenoscyphus fraxineus ena ac 
+cession prjeb a pathogen causing ash dieback
+disease which is still a major concern in europe in
+march april influenza genomes ena accession
+
+ to whom correspondence should be addressed tel fax email richardg ebi ac uk
+
+c© the author s published by oxford university press on behalf of nucleic acids research 
+this is an open access article distributed under the terms of the creative commons attribution license http creativecommons org licenses by which
+permits unrestricted reuse distribution and reproduction in any medium provided the original work is properly cited 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www ebi ac uk ena
+http www ebi ac uk ena submit data formats
+http www ebi ac uk ena about statistics
+
+
+nucleic acids research vol database issue d 
+
+prjeb were submitted through the ena’s genome as 
+sembly pipeline thereby publicly providing the supporting
+data from a study into the flu pandemic which had emerged
+in in may inra in partnership with geno 
+scope released the first paper and draft genome for
+the iconic oak species quercus ruber ena accession pr 
+jeb the assembled and annotated draft genome se 
+quence of the north island brown kiwi apteryx mantelli 
+ena accession prjeb http www mpg de research 
+kiwi bird genome sequenced a ground dwelling noctur 
+nal ratite of new zealand was released in june 
+in the same month guerrini and co workers published an
+article on the cypriot mouflon including ena accessions
+ln ln to challenge its controversial status
+as a subspecies of domestic sheep ovis aries a fact which
+is hampering conservation issues for this endangered bovid
+ 
+
+in august the pääbo lab published sequencing
+data ena accession prjeb from an early modern
+human alive some – years ago which was
+found to have a genetic contribution from neanderthal
+many times that of the present modern population sug 
+gesting a very recent neanderthal ancestor another
+publication in september also on the theme of an 
+cient dna has uncovered clues to the demographic ori 
+gins of the basque people of northern spain and southern
+france genome sequencing data from eight prehis 
+toric skeletons from atapuerca in spain ena accession
+prjeb revealed an admixed gene pool of early farmer
+with local hunter gatherer showing greatest affinity to mod 
+ern day basques this strongly suggests a basque origin in
+the spread of farming during the neolithic and their genetic
+isolation from later human migrations that affected the re 
+maining modern day iberian groups 
+
+the analyses of the largest dna sequencing initiative
+in ocean science tara oceans ena accession prjeb 
+were published back to back in a special issue of science
+in may these analyses revealed the largely un 
+known biodiversity of planktonic communities and their
+interactions within temperature dependent ecosystems de 
+rived data are also available through ena such as that from
+the metagenomic pan gene analysis ena accession pr 
+jeb also with the marine theme ocean sampling
+day is a simultaneous sampling for marine microorgan 
+isms in a global network of over marine stations cov 
+ering all continents marine microorganisms have been col 
+lected according to standardised sampling protocols dur 
+ing the summer solstices on june st in the years and
+ richly and consistently described samples from this
+high profile study ena accession prjeb are now
+available in the ena together with raw amplicon and shot 
+gun metagenomes from the sampling ena accession
+prjeb and derived data processed by ebi metage 
+nomics ena accession prjeb 
+
+general achievements
+
+tabulated programmatic submissions
+
+a new programmatic tabulated submission service was fully
+introduced in july this system is provided in addi 
+tion to the existing xml based programmatic submission
+
+service and allows the provision of metadata using spread 
+sheets rather than constructed xmls full documentation
+is available via the ena website http www ebi ac uk ena 
+submit programmatic tab submission 
+
+assembly pipeline
+
+since the genome assembly submission tool was launched
+in april it has seen considerable uptake by the sci 
+entific community recent developments in have been
+aimed at accepting virus genomes through the pipeline this
+development now provides bulk and programmatic submit 
+ters of virus genomes the same simplicity and ease of use
+that has previously been limited to prokaryotic and eukary 
+otic genome submitters note that plasmid and organellar
+genomes are still not currently accepted unless submitted
+with accompanying chromosomes 
+
+cram
+
+the cram framework technology for reference based
+compression of sequence data has been enhanced to ver 
+sion http www ebi ac uk ena software cram toolkit 
+cram comes with many advantages over the previ 
+ous release faster and more effective compression 
+adoption of new codecs rans codec xz bzip addition
+of checksums in container headers and blocks optimised
+representation of bases and scores support for unsorted
+data support for container specific embedded reference se 
+quence fragments and support for end of file eof marker 
+the cram reference registry http www ebi ac uk ena 
+software cram reference registry a service for the unam 
+biguous retrieval of reference sequences by their md check 
+sum has been improved to better support the format’s use
+across all read submissions into ena the cram refer 
+ence registry now contains all assembled insdc sequences
+and is updated on a daily basis in addition the cram
+reference registry accepts direct reference sequence submis 
+sions from sequencing centres to allow read submissions in
+cram format in cases where the reference sequences them 
+selves have not yet been submitted into the insdc 
+
+cloud delivery
+
+ena has continued to make investments in the delivery of
+data through cloud technology so far this work has used
+the existing embl ebi embassy infrastructure and lever 
+aged ena’s recent move from conventional file storage to
+an object store system this system supports much simpler
+management operations and offers greater flexibility in sup 
+porting users and data endpoints infrastructure has been
+deployed enabling data tagging based on curated rules and
+flow of tagged data to a defined data cache and presentation
+endpoint specifically cache layers in a number of embassy
+instances have been generated for use by the tara oceans
+consortium the ‘marine cache’ and the compare com 
+munity the ‘pathogen cache’ 
+
+cross references
+
+traditionally ena has supported cross references to exter 
+nal resources for records in the sequence and coding do 
+mains only cross references were updated during quarterly
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www mpg de research kiwi bird genome sequenced
+http www ebi ac uk ena submit programmatic tab submission
+http www ebi ac uk ena software cram toolkit
+http www ebi ac uk ena software cram reference registry
+
+
+d nucleic acids research vol database issue
+
+sequence release and written into flat files and made avail 
+able in the ena browser as links from a record support for
+cross references has been expanded over the last two years
+to include records across all ena domains and to allow for
+a more frequent update cycle while there are still limita 
+tions preventing the update of cross references in flat files
+outside of the quarterly release cycle all cross references
+available in the ena browser are kept up to date 
+
+in ena introduced a programmatic service for
+users to obtain the latest cross reference data described at
+http www ebi ac uk ena browse xref service rest during
+ this service was expanded into its own search service
+available from the browser http www ebi ac uk ena data 
+xref search allowing users to 
+
+ find and download the full set of cross references for
+any external source data resource 
+
+ locate all records at ena that reference a given external
+record and
+
+ retrieve all cross references for an ena data record 
+
+biocuration and checklists
+
+in december ena biocurators along with eight ex 
+ternal biological researchers formed a one week sample
+record annotation jamboree the aim was to annotate richly
+a selection of environmental sample records with partic 
+ular focus on ontologies such as the environment ontol 
+ogy envo http environmentontology org nearly 
+public records were successfully enriched thereby providing
+better usability and retrieval for ena users as well as dou 
+bling the number of samples which passed a quality thresh 
+old for downstream analysis by embl ebi metagenomics
+ emg https www ebi ac uk metagenomics 
+
+sample checklist development has continued in 
+ http www ebi ac uk ena submit checklists checklists
+for capturing sample metadata of general virus pathogens 
+and also specifically for the influenza virus have been
+released in support of the compare project an eu
+initiative of pathogen surveillance using genome tech 
+nology the insdc agreed in to the use of a
+missing value vocabulary enabling submitters to adhere
+to standards where certain metadata values are either
+inappropriate not collected to be provided at a later
+date or strictly confidential due to privacy concerns http 
+ www ebi ac uk ena about missing values reporting 
+
+functional annotation
+
+introduction
+
+feature annotation on records in the ena sequence do 
+main is mandatory and is governed by the insdc feature
+table a framework for describing locations and features
+of the biological source and higher order genetic features
+on nucleic acids http www insdc org files feature table 
+html the definitions conditions and usage of the fea 
+ture keys hereafter referred to as ‘features’ and their qual 
+ifiers are also publicly available here http www ebi ac 
+uk ena webfeat the minimal feature annotation in any
+record is a source feature although most record types re 
+quire additional functional annotation which is further de 
+
+scribed below the source feature must contain the organ 
+ism name organism and the molecule type which was
+sequenced mol type the organism name is controlled
+by the insdc reference taxonomic database ncbi taxon 
+omy http www ncbi nlm nih gov taxonomy and may be
+either a biological organism or a synthetic molecule rules
+are in place for naming environmental samples mixed li 
+braries and unpublished or unidentified organisms as well
+as organism and mol type the source feature may con 
+tain other qualifiers which record further organismal e g 
+ cultivar sample e g tissue type and experimental e g 
+ pcr primers metadata thereby sharing many attributes
+with the sample and experiment records familiar for sub 
+mitters of read domain data in fact submissions of genome
+assemblies into ena require generation or re use of sample
+records through sample checklists the information from
+which is then propagated onto the source feature of se 
+quence domain records wgs sets chromosome records 
+etc 
+
+functional annotation has always been a key aspect in
+sequence records this specific type of annotation describes
+the genetic features upon the submitted sequence those
+records with functional annotation are often described
+as being ‘annotated’ whereas those without are ‘unanno 
+tated’ traditionally only certain types of sequence records
+were allowed to exist without functional annotation wgs
+ whole genome shotgun con constructs and tsa
+ transcriptome shotgun assembly dataclass records may
+be either annotated or unannotated est expressed se 
+quence tag and gss genome survey sequence never
+contain functional annotation in the std standard dat 
+aclass only featureless viroids were exempt from annota 
+tion however since due to the overwhelming increase
+in multi isolate genome sequencing projects the insdc
+agreed to allow genome records at any stage of assembly
+ wgs contigs con scaffolds std replicons to be sub 
+mitted with or without functional annotation where a ref 
+erence genome is unavailable it is still highly recommended
+to submit functional annotation 
+
+an example of feature annotation in ena flat file for 
+mat for an hla a gene allele is shown in figure 
+the full flat file record can be seen at http www ebi ac 
+uk ena data view ln display text and the default
+browser view is available at http www ebi ac uk ena data 
+view ln with tabs leading to ‘source feature s ’ and
+‘other feature s ’ the latter being for functional annota 
+tion in flat file format the feature table begins with a
+header fh lines followed by the feature table annotation
+ ft lines the mandatory source feature begins the table
+and describes using qualifiers and their values the source
+organism the molecule sequenced and the laboratory cell
+line the functional annotation follows for the components
+of a well defined hla a gene exon intron and cds fea 
+tures are all provided with their relative coordinates within
+the archived sequence each of the features is individually
+labelled with qualifier values that describe the gene and al 
+lele names in addition exon and intron features contain
+numbering number and the cds feature captures the null
+allele status of this particular variant pseudogene 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www ebi ac uk ena browse xref service rest
+http www ebi ac uk ena data xref search
+http environmentontology org
+https www ebi ac uk metagenomics 
+http www ebi ac uk ena submit checklists
+http www ebi ac uk ena about missing values reporting
+http www insdc org files feature table html
+http www ebi ac uk ena webfeat 
+http www ncbi nlm nih gov taxonomy 
+http www ebi ac uk ena data view ln display text
+http www ebi ac uk ena data view ln 
+
+
+nucleic acids research vol database issue d 
+
+figure example of feature table annotation for an hla a gene taken from ena accession ln see the text for details 
+
+importance
+
+the benefit of functional annotation is great users want
+to know what genetic features lie within the sequences in
+the database where exactly they are located and what char 
+acteristics they have without such annotation the user of
+a sequence record would have to perform their own in 
+ferential analysis or experimentation to obtain informa 
+tion that may have been known by the depositor of the
+record at the time of submission direct access to views of
+functional annotation can be gained via the ena browser
+ www ebi ac uk ena data view accession where the user
+can visualise a feature or set of features in context a typ 
+ical user may access sequence records for this kind of vi 
+
+sualisation through sequence homology tools such as ena
+search www ebi ac uk ena data sequence search here the
+user can map functional annotation from search results di 
+rectly onto their own query sequence via the resulting align 
+ment in other situations a user may reach a record through
+the ena’s advanced search tool which allows combina 
+tions of features qualifiers and their values to be searched 
+such searches are effected using the coding non coding see
+below and marker domains for a selection of commonly
+used phylogenetic marker loci 
+
+annotated sequence records are exported into other
+ena domains for use by individual researchers special 
+ist communities and downstream databases for example 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www ebi ac uk ena data view 
+http www ebi ac uk ena data sequence search
+
+
+d nucleic acids research vol database issue
+
+coding sequences are captured using the cds feature and
+non coding loci by a myriad of features including rrna 
+trna and ncrna each feature may contain a wealth of
+additional information captured in qualifiers these may
+describe the product name product the gene symbol
+ gene or locus tag locus tag any special conditions e g 
+ ribosomal slippage or trans splicing categorisation of
+feature e g ncrna class and supporting evidence e g 
+ experiment or inference the cds feature is translated
+based on the systematic range of the source organism and a
+unique protein identifier protein id is provided that has
+been generated by ena upon submission the complete
+cds feature with accompanying source information and
+nucleotide sequence is extracted into its own record for use
+in the coding domain similarly non coding type features
+are systematically extracted into the non coding domain 
+both coding and non coding domains are fully searchable
+using ena’s advanced search http www ebi ac uk ena 
+data warehouse search use their own accessions allowing
+easy citation and are also directly consumed by resources
+such as uniprotkb http www uniprot org and rna 
+central http rnacentral org which give their users expert
+classification and further analysis in addition to reciprocal
+access back to the original records in ena 
+
+functional annotation is also very important to capture
+in cases where wet labs have experimentally verified nu 
+cleotide features and their characteristics such as splice
+variants and allele designations although the majority of
+annotation on a feature frequency basis is coming from au 
+tomated gene predictions on genome assemblies it is often
+the small scale submitter working in a research lab and fo 
+cused on a particular gene or marker of interest who can
+provide the best biologically supported annotation such
+details when captured on the submitted nucleotide records
+will then aid downstream users and will ultimately lead to
+better gene models as they serve as a foundational reference
+set for annotation inference processes insdc feature qual 
+ifiers which describe experimental support include citation
+ refers to a specific reference within the record for that fea 
+ture and experiment a free text attribute which can be
+categorised by support for the feature coordinates function
+or existence 
+
+submission and validation
+
+the submission system of sequence records has evolved
+substantially over the last six years we have undergone
+a transition from predominantly manual biocuration at
+high time cost to more automated systems based on cu 
+rated ‘annotation checklists’ and validation schemes built
+from curated annotation rules data submissions to ena
+are routed through the webin system http www ebi ac 
+uk ena submit submission case specific documentation is
+available from http www ebi ac uk ena submit sequence 
+submission 
+
+the annotation checklists currently in number 
+serve to assist in the submission of the most common types
+of sequence domain records see table designed to allow
+the user to submit data without needing to know the fea 
+ture table language the checklists are presented accord 
+ing to the user’s preference as web forms within webin or
+
+as pro forma spreadsheets for offline data entry and sub 
+sequent upload each checklist includes a set of manda 
+tory and user optional fields which guide the user and ul 
+timately populate the final underlying feature annotation 
+the checklists bring annotation consistency within data sets
+and avoid conflicts of feature table syntax for unusual or
+complex feature annotation an ‘entry upload’ route is pro 
+vided here the user is required to build the feature table 
+either manually or by means of external genome annota 
+tion software such as artemis and upload it directly
+into webin ‘template’ examples and detailed documenta 
+tion are provided to support users who are less familiar with
+the insdc feature table language http www ebi ac uk 
+ena submit entry upload templates 
+
+in order to verify the metadata and functional anno 
+tation received with nucleotide sequences all sequence
+submissions are processed automatically through the ena
+validator prior to assignment of accession numbers the
+validator employs a set of curated rules which check
+the syntax and semantics of the submitted sequence
+records core syntactic validation includes checking
+the usage structure and interdependencies defined by
+the feature table language for example the qualifier
+ strain may not exist when environmental sample exists 
+where environmental sample exists isolation source
+must exist note that in feature table language 
+ environmental sample refers to a sequence which has
+been obtained from a sample of mixed organisms where
+the individual organisms have not been isolated or iden 
+tified prior to sequencing––see http www ebi ac uk ena 
+webfeat qualifiers environmental sample html syntactic
+validation also includes checking legal values of controlled
+vocabularies for example the country qualifier uses a
+controlled list http www insdc org country html the
+values of this qualifier are already constrained in web
+form views of the annotation checklists but cannot be
+controlled in user built records thereby requiring val 
+idation at the point of submission the rule base also
+contains an ever growing class of biological rules many of
+which depend on the taxonomic placement of the source
+organism for example organelle can only exist where
+ organism belongs to eukaryota and the transl table for
+coding sequences must agree with the source organism’s
+systematic range 
+
+the ena flat file validator has now been made publicly
+available through the ebi website http www ebi ac uk 
+ena software flat file validator this enables users to check
+and amend their feature table annotation prior to submis 
+sion which is particularly useful in cases of large scale an 
+notation and entry uploads 
+
+role of biocurator
+
+the traditional role of the ena biocurator has been to
+check the biological context of sequence data at the point
+of submission or update of existing records the checks are
+several requiring a broad knowledge of molecular biology
+across a taxonomic spectrum that spans viroids through to
+higher eukaryotes with knowledge and experience of a spe 
+cific data type or marker sequence the biocurator can con 
+sider the best choice of annotation can provide a standard
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www ebi ac uk ena data warehouse search
+http www uniprot org 
+http rnacentral org 
+http www ebi ac uk ena submit
+http www ebi ac uk ena submit sequence submission
+http www ebi ac uk ena submit entry upload templates
+http www ebi ac uk ena webfeat qualifiers environmental sample html
+http www insdc org country html
+http www ebi ac uk ena software flat file validator
+
+
+nucleic acids research vol database issue d 
+
+table annotation checklists currently available for submitting simple annotations and marker sequences
+
+type name description
+
+frequently used rrna gene for ribosomal rna genes from prokaryotic nuclear or organellar dna all
+rrnas are considered partial 
+
+single cds genomic dna for complete or partial coding sequence cds derived from genomic dna 
+this checklist will not accept segmented genes i e with intron regions so should
+be used for prokaryotic organellar genes or for submitting a single exon 
+
+single cds mrna for complete or partial single coding sequence cds derived from mrna via
+cdna do not use for submission of virtual transcripts tsa or unigene
+clusters ––use tsa cds annotated checklist 
+
+multi exon gene for the submission of single complete or partial multi exon genes from in vivo
+genomic dna this checklist captures the gene region but does not capture exon 
+intron or cds features no translation will be generated if precise annotation or
+translation is required please use an alternative submission route single exon
+genes or sequences covering a single exon only from a multi exon gene can be
+submitted using the single cds genomic dna checklist for hla mhc genes
+which cannot be submitted using ‘mhc gene exon’ or ‘mhc gene exon’
+checklist please use the entry upload option see 
+http www ebi ac uk ena submit entry upload templates 
+
+mhc gene exon for partial mhc class i or ii antigens containing one exon only 
+mhc gene exons for partial mhc class i or ii antigens containing two exons only an intron
+
+feature should only be used when the intron region has actually been sequenced 
+if the intron has not been sequenced or only partially sequenced please fill the
+non sequenced gap with ns 
+
+ncrna for non coding rna ncrna transcripts or single exon genes of prokaryotic or
+eukaryotic origin with the exception of the ribosomal rna rrna and transfer
+rna trna 
+
+satellite dna for submission of satellites microsatellites and minisatellites complete or
+partial single polymorphic locus present in nuclear and organellar dna that
+consists of short sequences repeated in tandem arrays 
+
+mobile element for the submission of a single complete or partial mobile element this checklist
+captures the mobile element feature but does not allow for granular annotation of
+component parts such as coding regions repeat regions and miscellaneous
+features within the mobile element itself if precise annotation or translation is
+required please use an alternative submission route 
+
+gene promoter for submission of uni or bi directional gene promoter regions please note that
+cds is not annotated if you wish to include the start of the coding region s 
+please leave a comment with the coordinates of the start site s 
+
+marker sequence coi gene for mitochondrial cytochrome oxidase subunit genes 
+its rdna for its rdna region this checklist allows generic annotation of the its
+
+components s rrna its s rrna its and s rrna for
+annotation of the rrna component only please use the rrna gene checklist 
+
+trnk matk locus for complete or partial matk gene within the chloroplast trnk gene intron 
+phylogenetic marker for the submission of the following markers actin act tubulin tuba or tubb 
+
+calmodulin cam rna polymerase ii large subunits rpb and rpb 
+translation elongation factor alpha tef a glyceraldehyde phosphate
+dehydrogenase gapdh and histone h where the intron exon boundaries
+are not known 
+
+multi locus marker for the submission of multi locus markers e g trna cds rrna from in
+vivo gemomic dna this checklist provides a simple submission process for
+organellar or nuclear regions containing multiple genes for example a region
+containing coding genes rrna genes and trna genes please note that
+individual feature annotation is not possible with this checklist 
+
+d loop for mitochondrial d loop control region sequences all d loops are considered
+partial 
+
+intergenic spacer igs for intergenic spacer igs sequences between neighbouring genes e g 
+psba trnh igs s s rrna igs inclusion of the flanking genes is allowed 
+
+gene intron for complete or partial single gene intron 
+external transcribed spacer
+ ets 
+
+for submission of external transcribed spacer ets regions of the eukaryotic
+rdna transcript a region often used to study intrageneric relationships 
+
+ s s intergenic spacer
+region
+
+for submission of the s s rrna intergenic spacer region the transcribed
+spacer between the s rr na and s rrna genes of rrna operons found in
+prokaryotes and organelles 
+
+virus specific single viral cds for complete or partial single coding sequence cds from a viral gene please
+do not use for peptides processed from polyproteins or proviral sequences as
+these are all annotated differently 
+
+viral polyprotein for complete or partial viral polyprotein genes where the mature peptide
+boundaries remain undefined this template is not suitable for proviral sequences 
+if the sequences contain ribosomal frameshifts please contact us 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+http www ebi ac uk ena submit entry upload templates
+
+
+d nucleic acids research vol database issue
+
+table continued
+
+type name description
+
+ssrna viral copy rna for complete or partial viral copy rna crna sequences complementary to
+ssrna virus genomes only one cds can be added further cds information
+should be provided in the curator comments section 
+
+viral untranslated region
+ utr 
+
+for complete or partial untranslated region utr or nontranslated region
+ ntr found at the termini of viral genomes please do not use this checklist for
+submitting virus genomes or viral coding genes 
+
+alphasatellite sub viral
+particle
+
+for submission of circular single stranded dna alphasatellite sequences
+associated with begomovirus babuvirus and nanovirus 
+
+betasatellite sub viral
+particle
+
+for submission of circular single stranded dna betasatellite sequences of the
+begomovirus genus 
+
+plant viroid for complete circular ssrna plant viroid sequences please do not use for other
+circular viruses 
+
+standards compliant barcode coi for metazoan mitochondrial cytochrome oxidase subunit coi genes that
+provide unique species level identification and conform to consortium for the
+barcode of life cbol standards 
+
+gsc mimarks survey
+ s rrna sequences
+
+for the submission of s rrna gdna sequences compliant with the gsc
+mimarks standard users of this checklist must first submit their samples
+here https www ebi ac uk ena submit sra home
+
+large scale data expressed sequence tag
+ est 
+
+for submission of sanger sequenced expressed sequence tags ests ests are
+short transcripts ≈ – bp long usually of low quality as they are the result of
+only single pass reads no feature annotation is recorded on ests 
+
+sequence tagged site sts for submission of sequence tagged sites sts the sequence tagged site sts 
+is a relatively short easily pcr amplified sequence – bp which can be
+specifically amplified by pcr and detected in the presence of all other genomic
+sequences and whose location in the genome is mapped 
+
+genome survey sequence
+ gss 
+
+for submission of genome survey sequences gss these are short dna
+sequences which inlude random single pass genome survey sequences single pass
+reads from cosmid bac yac ends may be chromosome specific exon trapped
+genomic sequences alu pcr sequences and transposon tagged sequences 
+
+transcriptome shotgun
+assembly
+ tsa ––unannotated
+
+for submission of virtual transcript assemblies tsa est clusters without
+feature annotation important information virtual transcripts can
+only be hosted with supporting evidence from raw experimental data the raw
+reads should therefore be submitted to read domain prior to the assembly being
+submitted as well as an alignment bam file demonstrating how the raw reads are
+mapped to the transcripts please email datasub ebi ac uk for further
+clarification 
+
+transcriptome shotgun
+assembly tsa ––cds
+annotated
+
+for submission of virtual transcript assemblies tsa est clusters with cds
+annotation important information virtual transcripts can only be
+hosted with supporting evidence from raw experimental data the raw reads
+should therefore be submitted to the read domain prior to the assembly being
+submitted as well as an alignment bam file demonstrating how the raw reads are
+mapped to the transcripts please email datasub ebi ac uk for further
+clarification 
+
+more complex annotation should be submitted in an ena format flat file using ‘entry upload’ option 
+
+level of consistency and can enrich the biological record 
+much of this work has been carried out through direct com 
+munication with the submitter ensuring that the record is
+valid at the time of submission or update although the
+biocurator’s goal is to smooth and regulate the interface be 
+tween the archive and the submitter ultimately the accu 
+racy of the sequence metadata and functional annotation
+is always the responsibility of the data owner 
+
+over the last six years the role of the ena biocurator
+has been transformed in response to the ever heavier use
+of our submission services that new sequencing technolo 
+gies and broadening application of sequencing bring dur 
+ing this transformation we have worked to retain our atten 
+tion to the capture and validation of functional annotation
+through the development of rules and formally expressed
+standards such as the annotation checklists and the con 
+struction of management systems to support these the
+growing numbers of annotation checklists available within
+
+webin see table and the ever growing rule base encap 
+sulated within the ena validator provide both ena and
+its submitters with a consistent and standardised method of
+error checking and ultimately greater utility of data within
+ena and faster turnaround times from submission to is 
+sue of accession number and where requested public re 
+lease of data biocurators have already witnessed an aver 
+age time saving of one third on submissions which arrive
+through annotation checklists compared to previously 
+available routes in addition genome assembly submissions
+no longer require any manual intervention assuming they
+successfully pass the automatic ena validation step 
+
+as the landscape of genomics and sequencing changes 
+the role of the biocurator is thus adapting in a way
+which preserves the capacity to inject biological expertise
+into ena content while eliminating laborious record by 
+record processing a diagram showing the ultimate submit 
+ter workflow for sequence and functional annotation sub 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+https www ebi ac uk ena submit sra home
+
+
+nucleic acids research vol database issue d 
+
+figure submission workflow for functional annotation submissions under sustainable biocuration the top level shows the flow through the submitter
+interface the bottom level shows those biocurator roles which directly influence functional annotation submissions in ena linking the work of the
+biocurator with the submitter interface is the autonomous system represented by the middle level 
+
+mission and its relationship to sustainable biocuration is
+shown in figure 
+
+funding
+
+european molecular biology laboratory embl the sev 
+enth framework programme of the european union un 
+der micro b the horizon programme
+of the european union under compare 
+uk biotechnology and biological sciences research
+council under metagenomics portal bb i x and
+bb m rna central nn j funding
+for open access charge european molecular biology lab 
+oratory embl 
+conflict of interest statement none declared 
+
+references
+ silvester n alako b amid c cerdeño tárraga a cleland i 
+
+gibson r goodgame n ten hoopen p kay s leinonen r et al 
+ content discovery and retrieval services at the european
+nucleotide archive nucleic acids res d –d 
+
+ nakamura y cochrane g karsch mizrachi i and international
+nucleotide sequence database collaboration the
+
+international nucleotide sequence database collaboration nucleic
+acids res d –d 
+
+ benson d a clark k karsch mizrachi i lipman d j ostell j 
+and sayers e w genbank nucleic acids res d –d 
+
+ kodama y mashima j kosuge t katayama t fujisawa t 
+kaminuma e ogasawara o okubo k takagi t and nakamura y 
+ the ddbj japanese genotype phenotype archive for genetic
+and phenotypic human data nucleic acids res d –d 
+
+ federhen s type material in the ncbi taxonomy database 
+nucleic acids res d –d 
+
+ elderfield r a watson s j godlee a adamson w e 
+thompson c i dunning j fernandez alonso m 
+blumenkrantz d hussell t mosaic investigators et al 
+accumulation of human adapting mutations during circulation of
+a h n pdm influenza virus in humans in the united kingdom 
+j virol – 
+
+ plomion c aury j m amselem j alaeitabar t barbe v 
+belser c bergès h bodénès c boudet n boury c et al 
+decoding the oak genome public release of sequence data assembly 
+annotation and publication strategies mol ecol resour 
+doi – 
+
+ le duc d renaud g krishnan a almén m s huynen l 
+prohaska s j ongyerth m bitarello b d schiöth h b 
+hofreiter m et al kiwi genome provides insights into
+evolution of a nocturnal lifestyle genome biol 
+doi s – – – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+
+
+d nucleic acids research vol database issue
+
+ guerrini m forcina g panayides p lorenzini r garel m 
+anayiotos p kassinis n and barbanera f molecular dna
+identity of the mouflon of cyprus ovis orientalis ophion bovidae 
+near eastern origin and divergence from western mediterranean
+conspecific populations syst biodivers – 
+
+ fu q hajdinjak m moldovan o t constantin s mallick s 
+skoglund p patterson n rohland n lazaridis i nickel b et al 
+ an early modern human from romania with a recent
+neanderthal ancestor nature – 
+
+ günther t valdiosera c malmström h ureña i 
+rodriguez varela r sverrisdóttir ó o daskalaki e a 
+
+skoglund p naidoo t svensson e m et al ancient
+genomes link early farmers from atapuerca in spain to modern day
+basques pnas – 
+
+ bork p bowler c de vargas c gorsky g karsenti e and
+wincker p tara oceans studies plankton at planetary scale 
+science – 
+
+ rutherford k parkhill j crook j horsnell t rice p 
+rajandream m a and barrell b artemis sequence
+visualization and annotation bioinformatics – 
+
+d
+ow
+
+nloaded from
+ https academ
+
+ic oup com
+ nar article abstract d
+
+ d
+ by kresge law
+
+ library user on june 
+
+
+

@@ -1,0 +1,1249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+natural attenuation and anaerobic benzene detoxification processes at a chlorobenzene contaminated industrial site inferred from field investigations and microcosm studies
+
+
+natural attenuation and anaerobic benzene detoxification
+processes at a chlorobenzene contaminated industrial site inferred
+from field investigations and microcosm studies
+wenjing qiao † ‡ fei luo ‡ line lomheim ‡ elizabeth erin mack § shujun ye † jichun wu †
+
+and elizabeth a edwards ‡
+
+†key laboratory of surficial geochemistry ministry of education school of earth sciences and engineering nanjing university 
+nanjing china
+‡department of chemical engineering and applied chemistry university of toronto toronto m s e canada
+§dupont corporate remediation group wilmington delaware united states
+
+ s supporting information
+
+abstract a five year site investigation was conducted at a
+former chemical plant in nanjing china the main contaminants
+were trichlorobenzene tcb reaching concentrations up to
+ μg l dichlorobenzene dcb isomers monochlorobenzene
+ mcb and benzene over time these contaminants naturally
+attenuated to below regulatory levels under anaerobic conditions 
+to confirm the transformation processes and to explore the
+mechanisms a corresponding laboratory microcosm study was
+completed demonstrating that tcb was dechlorinated to 
+dcb dcb and dcb in approximately 
+molar proportions the dcb isomers were dechlorinated via mcb
+to benzene and finally benzene was degraded under prevailing
+sulfate reducing conditions dechlorination could not be attributed
+to known dechlorinators dehalobacter or dehalococcoides while
+anaerobic benzene degradation was mediated by microbes affiliated to a deltaproteobacterium orm previously associated with
+this activity unidentified organic compounds possibly aromatic compounds related to past on site production processes were
+fueling the dechlorination reactions in situ the microcosm study confirmed transformation processes inferred from field data
+and provided needed assurance for natural attenuation activity based microcosm studies are often omitted from site
+characterization in favor of rapid and less expensive molecular surveys however the value of microcosm studies for confirming
+transformation processes establishing electron balances assessing cocontaminant inhibition and validating appropriate
+monitoring tools is clear at complex sites impacted by multiple compounds with poorly characterized transformation
+mechanisms activity assays provide valuable data to incorporate into the conceptual site model to most effectively inform
+remediation alternatives 
+
+ introduction
+
+chlorinated benzenes cbs have been widely released into the
+environment as a result of their intensive use as solvents or
+reactants in the manufacture of pesticides herbicides dyes and
+other chemicals cbs persist in sediment accumulate in the
+food chain and are potential carcinogens air sparging 
+
+combined with soil vapor extraction groundwater pump and 
+treat granular iron permeable reactive barriers and
+bioremediation have all been used to remediate sites
+contaminated with volatile organic compounds vocs 
+including cbs of these alternatives bioremediation is a cost 
+effective and long term solution in many cases although
+uncertainties in the rate and extent of transformation often limit
+application 
+cbs can be biodegraded aerobically and anaerobically 
+
+aerobic biodegradation of cbs has been studied extensively 
+
+for example microbes belonging to burkholderia enter 
+obacter and pseudomonas − can grow on cbs as the sole
+carbon and energy source in situ the availability of dissolved
+oxygen is often limiting due to low water solubility and rapid
+consumption by aerobic microorganisms and the difficulty
+and expense associated with injecting sufficient oxygen
+underground moreover cbs may form dense nonaqueous
+phase liquids dnapls and migrate to deep anaerobic regions
+such as confined aquifers − making them inaccessible to
+aerobic degradation thus anaerobic transformation processes
+are important determinants of the fate of these compounds in
+
+received august 
+revised november 
+accepted november 
+published november 
+
+article
+
+pubs acs org estcite this environ sci technol − 
+
+© american chemical society doi acs est b 
+environ sci technol − 
+
+d
+ow
+
+nl
+oa
+
+de
+d 
+
+by
+ u
+
+n
+iv
+
+ o
+f 
+
+n
+o
+
+t
+r
+
+e
+ d
+
+a
+m
+
+e
+ a
+
+t 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+on
+
+ j
+un
+
+e 
+ 
+
+ 
+ 
+
+ 
+fr
+
+om
+ h
+
+ttp
+s 
+
+ p
+ub
+
+s 
+ac
+
+s 
+or
+
+g 
+do
+
+i 
+ 
+
+ 
+ 
+
+ a
+cs
+
+ e
+st
+
+ 
+b 
+
+ 
+ 
+
+ 
+
+pubs acs org est
+http pubs acs org action showcitformats doi acs est b 
+http dx doi org acs est b 
+
+
+situ anaerobically cbs serve as terminal electron acceptor for
+respiration and undergo sequential reductive dehalogenation to
+less chlorinated products anaerobic reductive dechlorination of
+cbs has been studied in a variety of mixed and some pure
+cultures derived from sewage sediment soil or sludge 
+dehalococcoides mccartyi dechlorinates hexachlorobenzene
+ hcb pentachlorobenzene qcb and tetrachlorobenzenes
+ except tecb to trichlorobenzene tcb 
+
+dehalobium chlorocoercia df dechlorinates hcb qcb and
+ tecb to tcb dehalococcoides mccartyi cbdb 
+dechlorinates cbs with three or more chlorines to tcb 
+and then to and dichlorobenzene dcb − d 
+mccartyi dcmb dechlorinates hcb to tcb tcb 
+and dcb comparatively few studies report microbes
+responsible for dechlorination of lesser chlorinated dcb
+isomers and monochlorobenzene mcb enrichment cultures
+containing three different dehalobacter spp dechlorinated all
+chlorobenzene isomers to mcb and benzene − an
+anaerobic consortium capable of dechlorinating all chloroben 
+zene isomers except dcb to benzene was recently
+described possibly involving a geobacter sp complete
+dechlorination of cbs results in the accumulation of benzene 
+which is a known human carcinogen and much more toxic
+than any of its chlorinated parent compounds thus
+dechlorination does not always lead to detoxification 
+the transformation of benzene to co completes the
+
+detoxification process for chlorinated aromatics while benzene
+is readily degraded aerobically anaerobic benzene biodegrada 
+tion is much less well understood and the metabolic pathway is
+still unknown benzene can be anaerobically metabolized
+under iron reducing nitrate reducing sulfate reduc 
+ing and methanogenic conditions and the microbes
+responsible have been identified in some cases for example a
+deltaproteobacterium referred to as orm was shown to be the
+benzene metabolizing population under sulfate and methano 
+genic conditions an enrichment culture capable of reductive
+dechlorination of mcb to benzene was mixed with a benzene
+degrading methanogenic culture containing orm demon 
+strating transformation of mcb beyond benzene to nontoxic
+co and ch in lab cultures 
+
+ 
+
+natural attenuation at sites contaminated with chlorinated
+ethenes and ethanes has been studied extensively − 
+
+however at chlorobenzene contaminated sites most of the
+previous research has focused on aerobic oxidation − 
+
+whereas comparably less information is available on anoxic
+processes especially documenting complete detoxification
+of chlorobenzenes in this study a five year site investigation
+was conducted at a former chemical plant contaminated with
+ tcb and many other compounds in parallel a two year
+anaerobic laboratory microcosm study was completed to
+provide a solid basis on which to base a remediation strategy
+for tcb and its daughter products at this site 
+
+ materials and methods
+ field site description and investigations the site
+
+in nanjing china was the location of a former chemical plant
+that manufactured nitro methylphenol amino methyl 
+phenol and the optical brightener ′ e ethenediyl 
+bis methyl benzoxazole supporting information si 
+figure s from to the ∼ m site contained
+the former production facilities and waste and chemical storage
+areas in the north and a former office room to the south
+ figure s 
+
+the site investigation consisted of a series of sampling
+campaigns performed between and table s 
+figure s detailed soil borehole and monitoring well
+information and sampling collection methods are provided in
+table s and additional details are provided in the si text a
+preliminary investigation in june delineated contaminants
+and their distribution seven shallow groundwater samples were
+taken and analyzed for vocs heavy metals and total cyanide 
+an additional site investigation was conducted in may at
+this time a membrane interface probe mip test was
+conducted to provide real time direct measurements of
+geological conditions and volatile organic compound distribu 
+tions at depth details provided in the si groundwater
+parameters including ph dissolved oxygen and orp were
+measured seven supplementary groundwater samples were
+taken and analyzed for semi vocs and vocs slug tests were
+performed to determine the hydraulic conductivity subsequent
+third and fourth sampling rounds were conducted in september
+ and october where only two wells could be sampled
+because the other monitoring wells had been backfilled by the
+local government semi vocs and vocs were analyzed in
+these samples analyses of field samples were carried out by
+commercial laboratories table s 
+
+ laboratory microcosm study samples and
+reagents sediment and groundwater samples were taken in
+july to set up the laboratory microcosms sediment
+samples were taken at depths − m below ground surface
+close to borehole s which was thought to have highest
+dechlorinating activity and were stored in aluminum core
+liners sealed with parafilm immediately to keep the samples
+anoxic groundwater samples were collected at the same time
+from well w in dark brown glass bottles filled to the top all
+samples were kept in a cooler with ice packs on site and then
+were stored refrigerated and sent to the laboratory in canada
+by express delivery 
+cbs benzene methanol ethanol acetone and sodium
+
+lactate were purchased from sigma aldrich at the highest purity
+available for dcb and sodium lactate ≥ purities
+for all other chemicals sodium lactate was dissolved in sterile
+anaerobic milli q water to a concentration by mass acs
+grade ferrous sulfate was purchased from british drug house
+ now part of merck ferrous sulfate was dissolved in m
+hcl solution aldrich to make a mm solution potassium
+hydrogen phthalate was purchased from fisher scientific with
+≥ purity 
+
+anaerobic microcosm study sediment and groundwater
+were used to set up microcosms in ml bottles details of
+the setup are provided in the si four treatments were
+prepared sterile poisoned controls bottles − in
+situ conditions bottles − electron donor amended
+treatment bottles − and benzene only treatment
+ bottles − table s microcosms were amended and
+sampled as described below 
+the first three treatments sterile in situ conditions and
+
+donor amended initially received a “cb mixture” consisting
+of tcb dcbs and mcb at approximate
+in situ concentrations of and μm 
+respectively subsequently these cb amended active treat 
+ments were spiked with benzene on day to a concentration
+of μm to test if other compounds interfere with benzene
+degradation the “donor amended” set received a mixture of
+methanol ethanol and sodium lactate mel at a ratio of
+ by volume to provide equal electron equivalents of
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+
+each donor the volume of mel added was calculated to
+provide an electron donor to chlorinated electron acceptor
+ cbs ratio of initially and where noted once
+degradation was observed selected compounds were ream 
+ended as necessary or in order to test various hypotheses see
+figure s for example after the first dose of tcb was
+depleted on day bottle and were reamended with cb
+mixture while the other replicates in these sets were reamended
+with only tcb on day to limit accumulation of dcb
+and mcb daughter products to clearly identify the
+dechlorination products of tcb bottles in situ
+conditions and donor amended were purged with co 
+n on day to remove accumulating daughter products
+prior to reamending with tcb bottle was also
+reamended with donor to confirm dechlorination of 
+dcb and dcb samples from bottles and were used to
+inoculate using a transfer two bottles containing sterile 
+defined iron sulfide reduced mineral medium these bottles
+ t and t received a mixture of and dcb and
+then each compound separately in subsequent transfers 
+
+t a and t b see figure s methanol and ethanol me 
+were amended to these transfer cultures at × electron
+equivalents required for complete dechlorination a third 
+transfer culture from a dcb amended microcosm bottle
+ t was amended with mcb dissolved in a methanol 
+ethanol mixture to assess dcb dechlorination bottle 
+was purged to remove all remaining vocs prior to reamending
+with dcb dissolved in a methanol ethanol mixture a 
+transfer culture from bottle bottle t was amended
+with dcb in acetone to try to reduce methane production
+ figure s 
+a set of microcosms the fourth treatment was designed to
+
+investigate anaerobic benzene biodegradation and these
+microcosms received repeated doses of benzene at concen 
+trations of μm bottles − and μm bottle 
+sulfate was naturally present in the groundwater and was
+replenished on day at a concentration of μm to
+enrich benzene degrading microbes a culture from bottle
+ bottle t was inoculated into mineral medium and
+
+figure contaminant concentrations measured in site samples by year in wells w or soil boreholes s top left bottom left 
+ top right bottom right n d not detected 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+
+was amended with μm benzene which was gradually
+increased to μm per feeding 
+for comparative purposes rates of dechlorination or
+
+degradation were simply calculated assuming zero order
+
+kinetics as −−v
+c c
+
+t t
+t t 
+
+ 
+ where v is the dechlorination rate
+
+ μm day and ct and ct are the concentrations at times t 
+and t 
+analytical methods tcb was analyzed using an
+
+agilent gc fid equipped with an agilent j w db wax
+column m × mm dcbs mcb benzene and
+methane were quantified by an agilent gc fid equipped
+with an agilent j w gs q column m × mm 
+anions including cl− no 
+
+− no 
+− and so 
+
+ − were analyzed
+by dionex dx series ion chromatography equipped with
+an ionpac as anion exchange column and an ag guard
+column toc measurements were carried out using a toc 
+vcpn shimadzu japan analyzer combined with an oct 
+ port sampler using the nonpurgeable organic carbon
+ npoc method supernatants from all parent bottles were
+sampled to measure total organic carbon toc concentration
+after ∼ days’ incubation to attempt to close the mass
+balance additional method details are provided in the si 
+dna extraction samples slurry from three arbitrary
+
+bottles on day and all the treatment bottles on day or
+ were collected to extract dna using the powersoil dna
+isolation kit mobio laboratories solana beach ca 
+according to the manufacturer’s protocol except that dna
+was eluted in μl of sterile ultrapure distilled water
+ invirogen carlsbad ca a nanodrop nd spectropho 
+tometer nanodrop technologies wilmington de was used
+to assess dna concentrations and quality 
+quantitative pcr qpcr analyses dehalococcoides dhc 
+
+dehalobacter dhb deltaproteobacterium orm and total
+bacteria totbac s rrna genes were enumerated using
+qpcr with published primers as listed in table s serial
+dilutions of plasmid preparations containing corresponding s
+rrna gene fragments were used to generate standard curves 
+each qpcr reaction was performed in duplicate all
+manipulations were conducted in a pcr cabinet esco
+technologies hatboro pa analyses were conducted with a
+bio rad cf touch real time modular thermal cycler
+platform and cfx manager software see si for additional
+details of qpcr reactions 
+
+ results
+
+ field site investigation the general hydrogeology at
+the site to m below ground surface consisted of layers a
+ − m thick unconfined aquifer composed of silty clay situated
+above a − m thick aquitard composed of clay and a deeper
+confined aquifer composed of silty clay clayey silt figure s 
+the vadose zone and the unconfined aquifer consisted of
+continuous clay with extremely low hydraulic conductivities of
+ − m day determined by slug tests the well screens
+were set at least m below the water table at m intervals the
+unconfined groundwater velocities were from − to ×
+ − m day making penetration of oxygen virtually impossible 
+groundwater concentrations measured during the prelimi 
+
+nary site investigation in june are shown in figure the
+primary contaminant identified was tcb and concen 
+trations in samples from four locations w s s s 
+exceeded the maximum contaminant levels mcl of μg 
+l specifically tcb levels at boreholes s and s were
+as high as and μg l of tcb solubility 
+possibly indicating dnapl and the concentrations of
+benzene mcb and dcb in the two sampling wells were
+all higher than their respective mcls μg l the
+most contaminated wells were below the former wastewater
+basin s and chemical production facilities w s s in
+the northeastern portion of the site the samples from wells
+located below the former office area and slag pool showed very
+low tcb concentrations w s or none detected
+ w 
+during the site investigation of may a different set of
+
+wells was sampled certain additional groundwater parameters
+were measured and these are shown in table s most
+groundwater samples were anoxic except those from wells w 
+and w methane was detected at depths of − m below
+ground surface during the mip tests indicating methanogenic
+conditions in may only tcb concentrations in two
+samples w dw were above the mcl figure these
+wells were located in the center of the former production
+facility and wastewater basin consistent with the results
+obtained in however the concentration of tcb
+in shallow well sw was much lower than in deep well dw 
+possibly because the tcb had migrated down as a
+dnapl over time concentrations in the four samples taken in
+ from locations outside of the former production facility
+
+figure comparison of site contaminant concentrations by location over time from samples from within the former production facility area soil
+borehole s left panel well w middle panel well w right panel n d not detected 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+
+and wastewater basin w w − were low or below
+detection 
+the last two sampling campaigns conducted in september
+
+ and october were limited to locations s and
+w results in revealed that the only contaminants close
+to or above mcls were dechlorination daughter products 
+dcb and mcb figure concentrations of other
+compounds including tcb dcb dcb and
+benzene had substantially decreased figure by all
+contaminants analyzed were below their respective mcls
+ figure 
+three locations were sampled over multiple years to allow
+
+direct comparisons figure at borehole s concentrations
+of all compounds measured decreased to lower than respective
+mcls from to figure considering the low
+permeability of the clay at the site and the extremely low
+groundwater velocities dilution from precipitation and ground 
+water flow only played a small role in the observed decreases 
+penetration of oxygen is also unlikely excluding aerobic
+biodegradation rather anaerobic transformation reactions are
+the most likely explanation a closer look at wells w and w 
+sampled at one year intervals reveals a pattern corresponding to
+reductive dechlorination where parent compound tcb
+concentrations decreased while concentrations of daughter
+
+products dcbs mcb and benzene increased figure 
+concentrations of dechlorination intermediates dcb and
+mcb increased the most suggesting that these compounds
+were relatively more slowly degraded 
+in summary the multiyear site investigation results indicated
+
+that the contamination was primarily in the vicinity of the
+former production facilities and wastewater basin in the
+northeastern portion of the site the main voc released into
+the groundwater was tcb used as a solvent in
+production and it likely existed as a dnapl see si details 
+benzene and lesser chlorinated benzenes were not used or
+manufactured at the site tcb was evidently dechlorinated by
+indigenous microbes to the suite of chlorobenzenes and
+benzene detected at the site the site data also suggest that
+the products dcb and mcb were most slowly dechlori 
+nated 
+
+ laboratory microcosms overview of microcosm
+results no significant change in chlorobenzene concentration
+occurred over more than one year in poisoned control bottles
+spiked with mercuric chloride and sodium azide figure s 
+while substantial transformation was observed in all active
+bottles the addition of electron donor did not change
+dechlorination patterns donor amended bottles differed only
+by higher methane production although overall trends were
+
+figure concentration profiles observed in microcosm and transfer bottles a representative bottle containing sediment and groundwater
+under in situ conditions these microcosms were initially amended with a chlorobenzene cb mixture containing tcb dcbs and mcb at
+concentrations of μm tcb dcb μm dcb and μm mcb dechlorination profiles were similar in all replicate
+microcosms regardless of added electron donor and graphs and data for other bottles are provided in figures s −s and table s concentrations
+measured before day are shown on the left axis while concentrations measured after purging on day are shown on the right axis the arrows
+represent different feeding events and with substrates indicated b dechlorination of dcb initial concentration μm in bottle t 
+amended with acetone at × the electron equivalents eeq required for dechlorination c dechlorination of mcb initial concentration μm 
+in bottle t amended with methanol ethanol at × eeq d benzene and sulfate degradation profiles bottle t amended with μm
+benzene initially that was gradually increased to μm degradation profiles for all original benzene only amended microcosms are provided in
+figure s see figure s for a summary of microcosm transfer history 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+
+similar among the replicates in each set each bottle displayed
+slightly different transformation rates therefore degradation
+profiles are presented for one representative bottle of a series in
+the main text e g figure while the data for all remaining
+bottles are provided in figures s −s corresponding toc
+and anions measurements for all treatment bottles are provide
+in tables s and s some sorption of cbs onto the sediments
+in microcosms was observed ranging from to of added
+substrate for mcb and dcb isomers and up to ∼ for
+ tcb table s d 
+dechlorination of tcb in chlorobenzene treatments
+
+ bottles − dechlorination of tcb ∼ μm began
+after a lag of approximately days and tcb was
+depleted by day figure a and figures s −s 
+following subsequent respikes the dechlorination rate of
+ tcb increased from ∼ to − μm day over a
+period of days a maximum dechlorination rate of μm 
+day was observed in bottle after ∼ days’ incubation to
+clearly quantify dechlorination products bottles were purged
+and reamended with tcb after one year of incubation 
+the products dcb dcb and dcb were produced
+at a molar ratio of approximately figure a and
+figure s 
+dechlorination of dcb isomers dcb and dcb
+
+initially present in the microcosms bottles − were
+dechlorinated to mcb after a lag of approximately days
+ figure a and figures s −s at rates − μm day 
+while dcb seemed to simply accumulate from tcb
+dechlorination transfer cultures were set up to further
+investigate dechlorination of dcb isomers in bottles t 
+and t fed a mix of and dcbs mcb was produced
+after a lag of − days figure s dechlorination rates of
+ dcb and dcb increased substantially from μm day
+to over μm day in transfers figure s dechlorination of
+
+recalcitrant dcb was finally observed on day in bottle
+ after supplementation with mineral medium figure s 
+suggesting that dcb dechlorination was nutrient or
+vitamin limited subsequent dechlorination of dcb was
+also observed in transfer bottle t figure b 
+
+dechlorination of mcb to benzene hints of benzene
+production were detected in bottle t b amended with 
+dcb only where clear dechlorination of mcb to benzene was
+first observed figure s b in transfer culture bottle t 
+with mcb alone dechlorination of mcb to benzene was also
+observed figure c indicating that mcb dechlorination was
+not cometabolically dependent on dcb dechlorination 
+
+anaerobic degradation of benzene benzene was observed
+to degrade after an ∼ day lag in most of the original
+chlorobenzene and benzene amended microcosms regardless
+of electron donor amendment figure a and figures s −s 
+only in the two bottles and was benzene persistent these
+two bottles were the only two reamended with a mixture of
+ tcb and dichlorobenzenes rather than just tcb
+ figure s suggesting benzene inhibition from the dichlor 
+obenzenes we also established microcosms from the start
+ bottles − figure s with only benzene to eliminate
+possible competition from other donors in these microcosms 
+benzene degradation began after a much shorter lag of ∼ 
+days with corresponding depletion of sulfate after transfer of
+bottle into mineral medium bottle t and progressive
+increase in benzene concentration on successive feedings a
+remarkably rapid benzene degrading sulfate reducing enrich 
+ment culture was obtained figure d with a degradation rate
+of μm day more than times faster than the initial rate
+of μm day 
+
+microbial analysis by qpcr copies of s rrna genes for
+dhc dhb orm like deltaproteobacteria and total bacteria
+were analyzed in samples from day and from samples taken
+
+figure summary of s rrna gene abundance in copies per ml of dehalococcoides dhc dehalobacter dhb orm like deltaproteobacteria 
+and total bacteria totbac as determined by qpcr in all original microcosms and in transfer cultures n m not measured error bars represent
+positive standard deviation of the mean in triplicate or quadruplicate microcosms except for measurements of total bacteria in cb treatments where
+data are average and range of duplicates panel a presents data for dhc dhb and total bacteria in poisoned control bottles − and cb amended
+treatments bottles − and bottles − with electron donor added the sampling time is indicated under each treatment the initial samples on
+day were collected from three random microcosms as they were all set up identically prior to amendments panel b provides qpcr data for
+orm like organisms and total bacterial copies in all cb amended bottles as well as benzene only bottles the latter include bottles amended with 
+μm benzene low bottles − μm benzene only added treatment high bottle and − μm benzene only amended in
+transferred culture transfer bottle t copies of orm like sequences in bottle and are not combined with other bottles in these series
+and displayed individually because benzene was recalcitrant in these two microcosms 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+
+more than days later table s figure for both dhc
+and dhb these increases were not substantial figure a nor
+did they correlate well with extent of dechlorination table
+s b the corresponding dhc and dhb yields were in general
+quite low table s compared to reported growth yields of
+dhc × cells per μmol cl− released dhb × 
+
+cells per μmol cl− released and these same populations
+never represented more than dhc or dhb of
+the total bacteria in these bottles table s b suggesting that
+dhc and dhb were not responsible for the observed
+dechlorination 
+in these same cb amended bottles copies of putative
+
+benzene degrading orm like s rrna sequences were
+sustained in the benzene degrading chlorobenzenes amended
+bottles but decreased in bottles and where benzene was
+not observed to degrade figure b in the microcosms and
+transfers where only benzene was amended bottles − 
+t orm like gene copies increased by more than − 
+orders of magnitude figure b the ability to measure cell
+yields improved with increasing mass of benzene degraded and
+yields eventually exceeded published yields × cells per
+μmol benzene consumed and the orm like population
+grew to represent up to of the total bacterial population
+ figure b indicating that the observed benzene trans 
+formation was mediated by orm like microbes 
+
+ data analysis and discussion
+
+ mole and electron balances a mole balance
+comparing initial to final chlorinated benzene parent and
+daughter products was calculated for each microcosm table
+s to verify analytical procedures and transformation products 
+ tcb was primarily transformed to dcb ∼ 
+with the remainder going to and dcbs this is further
+confirmed in bottles and when tcb was reamended
+after all vocs were purged figure a and figure s 
+moreover the subsequent increase in mcb ± μmol 
+approximately equals the decrease of dcb and dcb
+ ± μmol the two recalcitrant compounds dcb
+and mcb could be further transformed figures b c 
+figures s and s b in reamended microcosms and transfers 
+
+the overall chlorobenzene recoveries were − table
+s suggesting that little conversion of mcb to benzene
+occurred in the original microcosms but only later in targeted
+microcosms that were reamended with dcbs or mcb 
+an overall electron balance was performed to understand the
+
+relationships between electron donors mel benzene toc 
+and acceptors so 
+
+ − co cbs in all microcosms table 
+the high concentration of toc table s and sulfate table
+s in the site groundwater from sulfuric acid are the result of
+leaks from the chemical production processes at the site figure
+s the compounds responsible for the toc serving as
+electron donors are unknown but may be related to the
+production process reactions described in figure s in the
+electron balance we ignored electrons going to biomass
+synthesis which is expected to be of total donor consumed
+in these anaerobic systems given that exogenous electron
+donor addition did not stimulate dechlorination we wanted to
+better understand the contribution of the toc in site
+groundwater to transformation processes reasonable electron
+balances donor acceptor of − in the original
+microcosms bottles − and in bottle t were
+obtained table the consumption of toc found in the
+groundwater table s accounted for a large fraction of
+electron donor consumption driving sulfate reduction
+primarily as well as dechlorination dechlorination accounted
+for ∼ of the electrons consumed the exogenous donor
+added mel did not affect dechlorination but appears to have
+led simply to methanogenesis table the transformation of
+chlorobenzenes and benzene was accompanied by a decrease in
+toc and sulfate of the possible electron acceptors for
+benzene degradation only sulfate depletion could account for
+the benzene consumed table sulfate concentration in
+microcosms was initially mm and decreased substantially
+during benzene degradation nitrate concentrations were below
+ mm in all microcosms table s and methane
+concentrations did not increase sufficiently table in all
+cases except for the transfer bottle t sulfate consumption
+exceeded measured donor consumption indicating that addi 
+tional sources of donor beyond measured toc were present
+but not accounted for perhaps present sorbed to the soil in the
+
+table electron balances in active microcosm bottles and transfer bottle t 
+
+electron equivalents of acceptors consumed μeeq bottle 
+electron equivalents of electron
+donors consumed μeeq bottle 
+
+microcosm bottle
+sulfate
+
+reduction
+methane
+production dechlorination sum meld benzene toce sum
+
+donor acceptor
+recovery 
+
+under in situ conditions 
+ 
+ 
+ 
+
+with electron donor
+added
+
+ 
+ 
+ 
+ 
+
+amended with benzene
+only
+
+ n ac 
+ n a 
+ n a 
+
+high benzene a n a 
+ transfer t b n a n m 
+abottle was amended with ∼ times more benzene initially μm vs μm note little toc consumed in this bottle b inoculated from
+bottle into anaerobic medium n m toc not measured cn a not applicable dmel is an abbreviation for electron donor mix methanol 
+ethanol and lactate eassuming eeq mol carbon 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http dx doi org acs est b 
+
+
+microcosms in the benzene amended transfer bottle with
+little soil and defined mineral medium the electron balance was
+essentially closed interestingly in microcosm bottle which
+was amended with a higher concentration of benzene compared
+to the other bottles in this series bottles − the toc
+was not consumed perhaps the presence of μm benzene
+inhibited the degradation of the compounds measured as toc 
+ microbial characterization quantitative pcr is
+
+well accepted for tracking microbial phylotype abundances in
+groundwater and microcosm samples dehalococcoides strain
+cbdb and strain dcmb have been reported to
+dechlorinate tcb to and dcb or dcb
+only with no further dechlorination of dcb isomers reported 
+certain strains of dehalobacter can dechlorinate tcb and all
+dcb isomers but production of dcb from tcb has
+not been seen the primers table s used in this study
+specifically bind the known chlorobenzenes dechlorinating dhb
+and dhc but we did not detect their growth suggesting that
+other dehalogenating microbes were present particularly since
+all three dcb isomers were produced from tcba
+novel dechlorinating pattern figure a complete s rrna
+amplicon survey is in progress and will be reported in a
+subsequent manuscript 
+the qpcr data clearly establish a major role for orm like
+
+deltaproteobacteria in benzene degradation under sulfate 
+reducing conditions at this site compared to other benzene 
+degrading enrichment cultures in our own and other’s
+laboratories the rates achieved in the transfers are − times
+greater and the abundance of a similar and consistent
+phylotype is exciting as it may be a valuable biomarker for
+field investigations it is particularly important for remediation
+to be able to observe benzene degradation in the presence of
+other compounds such as mcb and in the presence of other
+electron donors in order to detoxify the parent compounds in
+this study benzene degradation remarkably continued in the
+presence of high concentrations of unknown donors in toc
+ bottles − and even in the mel donor amended bottles
+ bottles benzene degradation was however 
+inhibited by the addition of dcb isomers but not tcb as
+seen in bottles and in these two bottles benzene was not
+degraded and the corresponding copies of orm like
+sequences did not increase figure b 
+field implications the characterization of the site though
+
+far from comprehensive strongly suggested that natural
+attenuation of chlorobenzenes and benzene was occurring in
+
+situ the thorough laboratory microcosm study results
+confirmed that the indigenous microbes were capable of
+completely transforming chlorobenzenes to nontoxic co via
+benzene and provided needed assurance for affirming natural
+attenuation processes in situ dcb and mcb were more
+slowly transformed both at the site and in laboratory
+microcosm however the latest two samples s w analyzed
+in october revealed that benzene was completely
+degraded and dcb and mcb concentrations had
+decreased to below mcls the degradative activities recovered
+from both field and lab investigations are illustrated in figure 
+the microcosm activity data were essential to confirming
+assumptions based on field data provided information on
+relative rates provided a means to assess potential molecular
+monitoring tools and brought to light the presence and
+important unexpected beneficial role of unknown electron
+donors and sulfate in the groundwater at the site the
+surprisingly high anaerobic benzene degrading activity perhaps
+enriched because of the aromatic nature of the compounds
+manufactured at the site promoted the full detoxification of
+ tcb dcb isomers and mcb at this site 
+given the site hydrogeological conditions comprising silty
+
+clay and clayey silt with extremely low permeability commonly
+used remediation technologies such as pump and treat soil
+vapor extraction and many others requiring injection are
+simply impossible to implement rather future work should
+continue to monitor and quantify the rate of natural attenuation
+at the site monitoring key rate limiting electron donors 
+further research is ongoing to determine if the indigenous
+microbes at the nanjing site resemble those previously
+described to degrade dcb mcb and benzene and to identify
+the unknown electron donors in the site groundwater that led
+to a microbial community capable of complete dechlorination
+and mineralization of site contaminants 
+
+■ associated content
+ s supporting information
+the supporting information is available free of charge on the
+acs publications website at doi acs est b 
+
+figures s −s tables s −s and method details 
+including information on site layout and wells products
+manufactured at the site site hydrogeology groundwater
+analyses field data measurements experimental design 
+additional degradation profiles of chlorobenzenes and
+
+figure dechlorination pathways for chlorobenzene dechlorination mediated by dehalobium df red arrows dehalococcoides mccartyi strains
+ cbdb and dcmb blue arrows dehalobacter green arrows and in this study pink arrows 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org
+http pubs acs org doi abs acs est b 
+http dx doi org acs est b 
+
+
+benzene not shown in main text donor and acceptor
+concentration data toc ic data mole balances and
+qpcr raw and processed data pdf 
+table s xlsx 
+
+■ author information
+corresponding authors
+ phone fax e mail 
+sjye nju edu cn 
+ phone fax e mail 
+elizabeth edwards utoronto ca 
+orcid
+elizabeth a edwards x
+notes
+the authors declare no competing financial interest 
+
+■ acknowledgments
+we thank jian guo and dong wang for the field investigations
+and gratefully acknowledge funding from e i du pont de
+nemours and company the national natural science
+foundation of china nsfc grant key program
+for international s t cooperation projects of china ontario 
+china research and innovation fund yfe and
+the government of canada through genome canada and the
+ontario genomics institute ogi w q was supported
+by the china scholarship council 
+
+■ references
+ beck u löser e chlorinated benzenes and other nucleus 
+chlorinated aromatic hydrocarbons in ullmann’s encyclopedia of
+industrial chemistry wiley vch verlag gmbh co kgaa 
+ oliver b g nicol k d chlorobenzenes in sediments water 
+and selected fish from lakes superior huron erie and ontario 
+environ sci technol − 
+ duan t h adrian l enrichment of hexachlorobenzene and
+ trichlorobenzene transforming bacteria from sediments in
+germany and vietnam biodegradation − 
+ marley m c hazebrouck d j walsh m t the application
+of in situ air sparging as an innovative soils and ground water
+remediation technology groundwater monit rem −
+ 
+ adams j a ready k r extent of benzene biodegradation in
+saturated soil column during air sparging groundwater monit rem 
+ − 
+ kirtland b c aelion c m petroleum mass removal from low
+permeability sediment using air sparging soil vapor extraction impact
+of continuous or pulsed operation j contam hydrol 
+ − 
+ mackay d wilson r brown m ball w xia g durfee d 
+a controlled field evaluation of continuous vs pulsed pump and treat
+remediation of a voc contaminated aquifer site characterization 
+experimental setup and overview of results j contam hydrol 
+ − 
+ wilkin r t acree s d ross r r puls r w lee t r 
+woods l l fifteen year assessment of a permeable reactive barrier
+for treatment of chromate and trichloroethylene in groundwater sci 
+total environ − 
+ bento f m camargo f a okeke b c frankenberger w t 
+comparative bioremediation of soils contaminated with diesel oil by
+natural attenuation biostimulation and bioaugmentation bioresour 
+technol − 
+ vidali m bioremediation an overview pure appl chem 
+ − 
+ yoshikawa m zhang m toyota k integrated anaerobic 
+aerobic biodegradation of multiple contaminants including chlori 
+
+nated ethylenes benzene toluene and dichloromethane water air 
+soil pollut 
+ beil s happe b timmis k n pieper d h genetic and
+biochemical characterization of the broad spectrum chlorobenzene
+dioxygenase from burkholderia sp strain ps dechlorination of
+ tetrachlorobenzene eur j biochem − 
+ adebusoye s a picardal f w ilori m o amund o o 
+fuqua c grindle n aerobic degradation of di and trichlor 
+obenzenes by two bacteria isolated from polluted tropical soils 
+chemosphere − 
+ spain j c nishino s f degradation of dichlorobenzene
+by a pseudomonas sp appl environ microbiol −
+ 
+ kurt z spain j c biodegradation of chlorobenzene 
+dichlorobenzene and dichlorobenzene in the vadose zone 
+environ sci technol − 
+ sander p wittich r m fortnagel p wilkes h francke 
+w degradation of trichloro and tetrachlorobenzene by
+pseudomonas strains appl environ microbiol −
+ 
+ field j a sierra alvarez r microbial degradation of
+chlorinated benzenes biodegradation − 
+ boopathy r factors limiting bioremediation technologies 
+bioresour technol − 
+ kaschl a vogt c uhlig s nijenhuis i weiss h kastner 
+m richnow h h isotopic fractionation indicates anaerobic
+monochlorobenzene biodegradation environ toxicol chem 
+ − 
+ farhadian m vachelard c duchez d larroche c in situ
+bioremediation of monoaromatic pollutants in groundwater a review 
+bioresour technol − 
+ fung j m weisenstein b p mack e e vidumsky j e ei 
+t a zinder s h reductive dehalogenation of dichlorobenzenes
+and monochlorobenzene to benzene in microcosms environ sci 
+technol − 
+ nelson j l fung j m cadillo quiroz h cheng x 
+zinder s h a role for dehalobacter spp in the reductive
+dehalogenation of dichlorobenzenes and monochlorobenzene environ 
+sci technol − 
+ nelson j l jiang j zinder s h dehalogenation of
+chlorobenzenes dichlorotoluenes and tetrachloroethene by three
+dehalobacter spp environ sci technol − 
+ zhou x zhang c f zhang d d awata t xiao z x 
+yang q katayama a polyphasic characterization of an anaerobic
+hexachlorobenzene dechlorinating microbial consortium with a wide
+dechlorination spectrum for chlorobenzenes j biosci bioeng 
+ − 
+ fennell d e nijenhuis i wilson s f zinder s h 
+haggblom m m dehalococcoides ethenogenes strain reductively
+dechlorinates diverse chlorinated aromatic pollutants environ sci 
+technol − 
+ löffler f e yan j ritalahti k m adrian l edwards e a 
+konstantinidis k t müller j a fullerton h zinder s h 
+spormann a m dehalococcoides mccartyi gen nov sp nov obligately
+organohalide respiring anaerobic bacteria relevant to halogen cycling
+and bioremediation belong to a novel bacterial class dehalococcoidia
+classis nov order dehalococcoidales ord nov and family dehalococcoi 
+daceae fam nov within the phylum chloroflexi int j syst evol 
+microbiol − 
+ wu q z milliken c e meier g p watts j e m sowers 
+k r may h d dechlorination of chlorobenzenes by a culture
+containing bacterium df a pcb dechlorinating microorganism 
+environ sci technol − 
+ adrian l szewzyk u wecke j gorisch h bacterial
+dehalorespiration with chlorinated benzenes nature 
+ − 
+ jayachandran g gorisch h adrian l dehalorespiration with
+hexachlorobenzene and pentachlorobenzene by dehalococcoides sp 
+strain cbdb arch microbiol − 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+http pubs acs org doi suppl acs est b suppl file es b si pdf
+http pubs acs org doi suppl acs est b suppl file es b si xlsx
+mailto sjye nju edu cn
+mailto elizabeth edwards utoronto ca
+http orcid org x
+http dx doi org acs est b 
+
+
+ holscher t gorisch h adrian l reductive dehalogenation
+of chlorobenzene congeners in cell extracts of dehalococcoides sp strain
+cbdb appl environ microbiol − 
+ poritz m schiffmann c l hause g heinemann u 
+seifert j jehmlich n von bergen m nijenhuis i lechner u 
+dehalococcoides mccartyi strain dcmb respires a broad spectrum of
+chlorinated aromatic compounds appl environ microbiol 
+ − 
+ dean b j recent findings on the genetic toxicology of
+benzene toluene xylenes and phenols mutat res rev genet toxicol 
+ − 
+ abu laban n selesi d rattei t tischler p meckenstock 
+r u identification of enzymes involved in anaerobic benzene
+degradation by a strictly anaerobic iron reducing enrichment culture 
+environ microbiol − 
+ zhang t bain t s nevin k p barlett m a lovley d r 
+anaerobic benzene oxidation by geobacter species appl environ 
+microb − 
+ ulrich a c edwards e a physiological and molecular
+characterization of anaerobic benzene degrading mixed cultures 
+environ microbiol − 
+ luo f gitiafroz r devine c e gong y hug l a 
+raskin l edwards e a metatranscriptome of an anaerobic benzene 
+degrading nitrate reducing enrichment culture reveals involvement of
+carboxylation in benzene ring activation appl environ microbiol 
+ − 
+ kleinsteuber s schleinitz k m breitfeld j harms h 
+richnow h h vogt c molecular characterization of bacterial
+communities mineralizing benzene under sulfate reducing conditions 
+fems microbiol ecol − 
+ abu laban n selesi d e jobelius c meckenstock r u 
+anaerobic benzene degradation by gram positive sulfate reducing
+bacteria fems microbiol ecol − 
+ noguchi m kurisu f kasuga i furumai h time resolved
+dna stable isotope probing links desulfobacterales and coriobacter 
+iaceae related bacteria to anaerobic degradation of benzene under
+methanogenic conditions microbes environ − 
+ luo f devine c e edwards e a cultivating microbial dark
+matter in benzene degrading methanogenic consortia environ micro 
+biol − 
+ liang x m devine c e nelson j sherwood lollar b 
+zinder s edwards e a anaerobic conversion of chlorobenzene
+and benzene to ch and co in bioaugmented microcosms environ 
+sci technol − 
+ sturchio n c clausen j l heraty l j huang l holt b 
+d abrajano t a chlorine isotope investigation of natural
+attenuation of trichloroethene in an aerobic aquifer environ sci 
+technol − 
+ sherwood lollar b slater g f sleep b witt m klecka g 
+m harkness m spivack j stable carbon isotope evidence for
+intrinsic bioremediation of tetrachloroethene and trichloroethene at
+area dover air force base environ sci technol −
+ 
+ davis j w odom j m deweerd k a stahl d a 
+fishbain s s west r j klecka g m decarolis j g natural
+attenuation of chlorinated solvents at area dover air force base 
+characterization of microbial community structure j contam hydrol 
+ − 
+ clement t p truex m j lee p a case study for
+demonstrating the application of u s epa’s monitored natural
+attenuation screening protocol at a hazardous waste site j contam 
+hydrol − 
+ imfeld g nijenhuis i nikolausz m zeiger s paschke h 
+drangmeister j grossmann j richnow h h weber s 
+assessment of in situ degradation of chlorinated ethenes and bacterial
+community structure in a complex contaminated groundwater system 
+water res − − 
+
+ thullner m schaf̈er w modeling of a field experiment on
+bioremediation of chlorobenzenes in groundwater biorem j 
+ − 
+ vogt c alfreider a lorbeer h hoffmann d wuensche 
+l babel w bioremediation of chlorobenzene contaminated ground
+water in an in situ reactor mediated by hydrogen peroxide j contam 
+hydrol − − 
+ dominguez r f da silva m l b mcguire t m adamson 
+d newell c j alvarez p j j aerobic bioremediation of
+chlorobenzene source zone soil in flow through columns performance
+assessment using quantitative pcr biodegradation −
+ 
+ stelzer n imfeld g thullner m lehmann j poser a 
+richnow h h nijenhuis i integrative approach to delineate natural
+attenuation of chlorinated benzenes in anoxic aquifers environ pollut 
+ − 
+ edwards e a grbic ́galic ́ d anaerobic degradation of
+toluene and o xylene by a methanogenic consortium appl environ 
+microbiol − 
+ rice e w baird r b eaton a d clesceri l s standard
+methods for the examination of water and wastewater nd ed 
+american public health association washington dc vol 
+ molenda o quaile a t edwards e a dehalogenimonas sp 
+strain wbc genome and identification of its trans dichloroethene
+reductive dehalogenase tdra appl environ microbiol 
+ − 
+ national primary drinking water regulations organic chemicals 
+https www epa gov your drinking water table regulated drinking 
+water contaminants accessed october 
+ rittmann b e mccarty p l environmental biotechnology 
+principles and applications mcgraw hill education 
+
+environmental science technology article
+
+doi acs est b 
+environ sci technol − 
+
+ 
+
+https www epa gov your drinking water table regulated drinking water contaminants
+https www epa gov your drinking water table regulated drinking water contaminants
+http dx doi org acs est b 
+
+

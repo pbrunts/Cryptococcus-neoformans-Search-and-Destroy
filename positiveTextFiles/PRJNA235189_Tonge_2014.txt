@@ -1,0 +1,1446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pone 
+
+
+amplicon –based metagenomic analysis of mixed fungal
+samples using proton release amplicon sequencing
+daniel p tonge catherine h pashley timothy w gant 
+
+ centre for radiation chemical and environmental hazards public health england harwell campus didcot oxfordshire united kingdom department of infection 
+
+immunity and inflammation institute for lung health university of leicester leicester united kingdom faculty of computing engineering and sciences staffordshire
+
+university stoke on trent united kingdom
+
+abstract
+
+next generation sequencing technology has revolutionised microbiology by allowing concurrent analysis of whole
+microbial communities here we developed and verified similar methods for the analysis of fungal communities using a
+proton release sequencing platform with the ability to sequence reads of up to bp in length at significant depth this
+read length permits the sequencing of amplicons from commonly used fungal identification regions and thereby taxonomic
+classification using the bp sequencing capability we have sequenced amplicons from the its its and lsu fungal
+regions to a depth of approximately raw reads per sample representative operational taxonomic units otus were
+chosen by the usearch algorithm and identified taxonomically through nucleotide blast blastn combination of this
+sequencing technology with the bioinformatics pipeline allowed species recognition in two controlled fungal spore
+populations containing members of known identity and concentration each species included within the two controlled
+populations was found to correspond to a representative otu and these otus were found to be highly accurate
+representations of true biological sequences however the absolute number of reads attributed to each otu differed
+among species the majority of species were represented by an otu derived from all three genomic regions although in
+some cases species were only represented in two of the regions due to the absence of conserved primer binding sites or
+due to sequence composition it is apparent from our data that proton release sequencing technologies can deliver a
+qualitative assessment of the fungal members comprising a sample the fact that some fungi cannot be amplified by
+specific ‘‘conserved’’ primer pairs confirms our recommendation that a multi region approach be taken for other amplicon 
+based metagenomic studies 
+
+citation tonge dp pashley ch gant tw amplicon –based metagenomic analysis of mixed fungal samples using proton release amplicon
+sequencing plos one e doi journal pone 
+
+editor vishnu chaturvedi california department of public health united states of america
+
+received november accepted march published april 
+
+copyright � tonge et al this is an open access article distributed under the terms of the creative commons attribution license which permits
+unrestricted use distribution and reproduction in any medium provided the original author and source are credited 
+
+funding dpt and twg are supported by centre for radiation chemical and environmental hazards public health england development grant chp is
+supported by the midlands asthma and allergy research association maara and the national institute for health research leicester respiratory biomedical
+research unit the views expressed are those of the author s and not necessarily those of the nhs the nihr or the department of health the funders had no
+role in study design data collection and analysis decision to publish or preparation of the manuscript 
+
+competing interests the authors have declared that no competing interests exist 
+
+ e mail daniel tonge staffs ac uk
+
+introduction
+
+the fungal kingdom is highly diverse and includes taxa from
+
+numerous different ecological niches with varied life history
+
+strategies and morphologies ranging from unicellular yeasts and
+
+microscopic moulds to large mushrooms the number of formally
+
+described fungal species is over with greater than 
+
+named species in the british isles alone however estimates of the
+
+number of species globally is believed to be at least million but
+
+probably as many as million spores are one of the
+
+mechanisms used by fungi for dispersal most of which are wind 
+
+borne and vary greatly in size morphology and method of release 
+
+with both passive and active spore liberation methods fungi are
+
+an essential component of the ecosystem and have major
+
+economic value both positively commercial exploitation for
+
+drugs food stuff fuel pesticides etc and negatively as plant
+
+and animal pathogens and play an important role in human
+
+health as allergens pathogens and commensals 
+
+traditional methods for identifying microscopic fungi and
+
+airborne fungal spores rely on culture or morphological identifi 
+
+cation by microscopy culture dependant methods inevitably
+
+underestimate diversity and grossly bias studies towards fungi
+
+that can be cultured on generic fungal growth media estimates
+
+suggest that of the known fungi only can be readily grown in
+
+culture and of those many will produce only sterile mycelium
+
+ bridge and spooner in clinical studies reliance on culture
+
+can miss potentially important fungi microscopy is less prone
+
+to bias however many spores cannot be distinguished from each
+
+other based upon their morphology alone of the or so fungal
+
+categories that can be recognised some can be classified to genus 
+
+a few to species but many have to be recorded in groups with
+
+similar characteristics 
+
+the development of molecular techniques that utilise polymer 
+
+ase chain reaction pcr to amplify regions of the fungal genome
+
+thought to be specific to a particular species provided the first
+
+culture independent means of detecting microorganisms ampli 
+
+con based fungal metagenomic studies target various regions of the
+
+nuclear ribosomal operon rdna which is present in multiple
+
+copies contains both highly conserved and variable regions and
+
+for which numerous universal primers exist the fungal ribosomal
+
+plos one www plosone org april volume issue e 
+
+http creativecommons org licenses by 
+http crossmark crossref org dialog doi journal pone domain pdf
+
+
+operon consists of the small subunit ssu or s s and the
+
+large subunit lsu or s s s separated by an internal
+
+transcribed spacer its region comprising two sections its 
+
+and its that bracket the conserved s three prime of the
+
+lsu is the s ribosomal gene flanked by two intergenic spacer
+
+regions igs and respectively 
+
+early culture free molecular studies of fungi – required the
+
+amplification of fungal dna using conserved oligonucleotide
+
+primers and utilised the sequencing method of sanger to
+
+determine the sequence of the resulting amplicons sanger
+
+sequencing provided the long read length bp and base 
+calling accuracy required for such analyses however was
+
+unsuitable for the generation of sufficient sequencing data termed
+
+sequencing depth to resolve complex microbial systems common 
+
+ly associated with environmental sampling in a reasonable
+
+timeframe the introduction of next generation sequencing
+
+revolutionised microbial metagenomics by providing much greater
+
+sequencing depth this however tended to be at the expense of
+
+read length with some next generation platforms generating sub 
+
+ bp reads the early fungal amplicon based metagenomic
+
+studies relied on expensive sequencing to enable the
+
+generation of reads long enough for species discrimination –
+
+ however the recent availability of affordable ‘‘bench top’’
+
+machines with sufficient read length has placed the ability to
+
+generate millions of sequencing reads into the hands of small to
+
+medium sized research laboratories several high throughput
+
+sequencing platforms are now available differing most signifi 
+
+cantly in the length and depth of sequence they generate and in
+
+their ‘‘error profile’’ choice of sequencing platform therefore
+
+represents a complex decision involving read length read depth 
+
+base calling accuracy systematic error profile and of course
+
+economics 
+
+during the year of a post light proton release sequencing
+
+platform announced the ability to sequence reads up to bp in
+
+length at significant depth several millions of reads within a
+
+period of hours these specifications permit sequencing of
+
+amplicons from the its regions and and the d d region
+
+of the lsu providing the maximum sequence length for
+
+speciation and therefore lend themselves to fungal amplicon 
+
+based metagenomic applications in this study we sought to
+
+validate the use of proton release sequencing data generated on a
+
+bench top sequencer to analyse mixed fungal samples using two
+
+controlled populations containing members of known identity and
+
+known concentration 
+
+materials and methods
+
+fungal spore stocks mock fungal populations and dna
+isolation
+
+two controlled mock fungal populations were created the first
+
+consisted of eight species representing eight genera abbreviated to
+
+ gm of common airborne fungal spores of varying size and
+
+complexity table gm the second contained twenty species
+
+ abbreviated to sm comprised of closely related fungi from four
+
+fungal genera that produce similar sized single celled spores
+
+ table sm 
+
+fungal cultures were grown at room temperature on potato
+
+dextrose agar oxoid until confluent and sporulating spores were
+
+harvested by inoculating plates with ml filter sterilised 
+
+tween sigma aldrich and filtering the fungal suspension
+
+through a whatman filter of pore size mm the concentration
+of suspended spore stocks was determined by counting in a
+
+haemocytometer chamber at magnification all spore stocks
+were determined by microscopic analysis to be composed of
+
+ spores as opposed to mycelial cells or conidiophores 
+aliquots of individual spore stocks were mixed and diluted in 
+
+tween to give a final concentration of approximately 
+
+and spores ml of each strain for the gm and sm mock
+populations respectively table 
+
+ ml of the mock population spore mixtures were added to
+sterile ml screw cap tubes containing mg mg to
+ mm sterile acid washed glass beads sigma aldrich ml of
+buffer ap and ml of mg ml rnase a dneasy plant kit 
+qiagen these were subjected to min bead bashing biospec
+
+mini bead beater then incubated for min at uc total
+genomic dna was extracted using the dneasy plant mini kit
+
+ qiagen following the procedure reported in 
+
+fusion pcr
+amplification of fungal its its and the d d region
+
+of the lsu was performed using fusion primers containing
+
+both a gene specific priming element and an oligonucleotide
+
+adapter region required for subsequent library preparation and
+
+sequencing forward primers were fused with sequencing adapter
+
+ a and reverse primers with a truncated version of adapter p 
+
+ table pcr reactions comprised ml of platinum pcr
+supermix high fidelity invitrogen ml of mm primer mix
+and ml of fungal dna making a total reaction volume of ml 
+independent pcr reactions were conducted for each of the three
+
+fungal regions using the following cycling conditions uc for
+ minutes followed by cycles of uc for seconds – uc
+for seconds uc for seconds the resulting pcr products
+were purified from excess oligonucleotide primers and salts using
+
+the minelute pcr purification system qiagen and eluted in
+
+ ml of molecular biology grade water following purification 
+ ml of each resulting pcr product was analyzed by capillary
+electrophoresis on a dna chip bioanalyzer agilent
+
+technologies to confirm the expected fragment size was obtained 
+
+and to determine the concentration all amplicons were diluted to
+
+ pm in molecular biology grade water prior to library
+
+preparation 
+
+ion torrent library preparation and sequencing
+emulsion pcr was performed using the ion pgm template
+
+ot kit that is suitable for reads up to bp in length product
+
+code in accordance with the manufacturer’s standard
+
+protocol man rev using the onetouch 
+
+instrument life technologies sequencing was performed on
+
+the personal genome machine using a bp sequencing kit
+
+ with a separate v chip used for each
+
+amplicon in accordance with the manufacturer’s standard protocol
+
+ man rev 
+
+bioinformatic sequence analysis
+raw reads were first filtered to retain only those comprising
+
+complete amplicon sequence data by searching sequentially for the
+
+presence of each forward and reverse pcr primer forward
+
+primer sequences were trimmed using clc genomics workbench
+
+version whilst reverse primer sequences were trimmed using
+
+cutadapt no mismatches between the expected primer
+
+sequence and the reads were permitted following primer
+
+removal full length reads were processed using the usearch
+
+algorithm version i linux of edgar as follows 
+
+identical reads were dereplicated using the derep fulllength
+
+command reads were denoised merging reads with up to
+
+ errors using the cluster smallmem command specifying an
+
+identity id of whilst retaining cluster size information 
+
+clusters with less than identical reads were discarded 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+
+chimeric reads were removed using the uchime denovo com 
+
+mand reads were clustered into operational taxonomic units
+
+ otus with a maximum distance of using the derep ful 
+
+llength command specifying options id and centroids 
+
+sequence data has been deposited in the ncbi sequence read
+
+archive sra with the following bioproject accession number 
+
+ 
+
+bioinformatic mapping to ncbi database
+in order to ascertain which species each otu represented 
+
+representative sequences were mapped to known fungal sequences
+
+table details of the two mock fungal populations 
+
+species gm strain spore size mm spore complexity concentration
+
+alternaria alternata egs – – – multi cellular up to cells ml
+
+aspergillus fumigatus nrrl – single celled ml
+
+botrytis cinerea cabi – – single celled ml
+
+cladosporium herbarum ncpf – – one or two celled ml
+
+epicoccum nigrum cabi – multi cellular up to cells ml
+
+fusarium moniliforme ncpf – – to cells ml
+
+leptosphaeria coniothyrium cabi – – multi cellular up to cells ml
+
+penicillium chrysogenum ncpf – single celled ml
+
+species sm strain spore size mm spore complexity concentration
+
+aspergillus flavus atcc – single celled ml
+
+aspergillus fumigatus nrrl – single celled ml
+
+aspergillus niger atcc – single celled ml
+
+aspergillus ochraceus nrrl – single celled ml
+
+aspergillus restrictus frr – – single celled ml
+
+aspergillus sclerotiorum atcc – single celled ml
+
+aspergillus ustus nrrl – single celled ml
+
+cryptococcus laurentii ncyc – single celled ml
+
+cryptococcus neoformans var grubii atcc – single celled ml
+
+cryptococcus victoriae ncyc – – single celled ml
+
+cryptococcus wieringae ncyc – – single celled ml
+
+paecilomyces variotii atcc – – single celled ml
+
+penicillium brevicompactum frr – single celled ml
+
+penicillium chrysogenum ncpf – single celled ml
+
+penicillium citreonigrum frr – single celled ml
+
+penicillium corylophilum frr – single celled ml
+
+penicillium digitatum frr – single celled ml
+
+penicillium fellutanum frr – single celled ml
+
+penicillium piceum ncpf – single celled ml
+
+penicillium spinulosum frr – single celled ml
+
+concentration refers to the number of spores used for dna extraction atcc american type culture collection cabi cab international fungal culture collection egs 
+e g simmons culture collection frr culture collection of csiro sydney australia ncpf national collection of pathogenic fungi ncyc national collection of yeast
+cultures nrrl northern regional research laboratory uamh university of alberta microfungus collection and herbarium
+doi journal pone t 
+
+table fusion oligonucleotide primers containing target specific sequences white bruns et al issakainen jalava et al 
+ emboldened sequencing adapters plain text and the ion torrent key sequence underlined 
+
+region forward primer reverse primer
+
+tm
+
+ c 
+
+its ccatctcatccctgcgtgtctccgactcagtccgtaggtgaacctgcgg cctctctatgggcagtcggtgatgctgcgttcttcatcgatgc 
+
+its ccatctcatccctgcgtgtctccgactcaggcatcgatgaagaacgcagc cctctctatgggcagtcggtgattcctccgcttattgatatgc 
+
+lsu ccatctcatccctgcgtgtctccgactcaggagtcgagttgtttgggaatgc cctctctatgggcagtcggtgatggtccgtgtttcaagacgg 
+
+doi journal pone t 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+
+deposited in the ncbi database using nucleotide blast blastn 
+
+with default parameters the following entrez term was
+
+included to suppress results from uncultured environmental
+
+samples all filter not environmental samples organism or
+
+metagenomes orgn or txid orgn or sp title an otu
+
+was considered to be specific at the species level s if only one
+
+species attained the highest bit score the genera aspergillus and
+penicillium each contain over species separated into and 
+sections respectively species were allocated to their sections
+
+according to current classification – and specificity at the
+
+section level se denoted when multiple species from the same
+
+section shared the highest bit score specificity at the genus level
+
+ g was denoted if more than one species of the same genus 
+
+shared the highest bit score otus which spanned multiple genera
+
+were denoted as other o 
+
+results
+
+this is the first study to validate the use of bp proton release
+
+sequencing data for fungal amplicon based metagenomic studies
+
+using two controlled populations containing and species
+
+respectively the well characterised its its and d d lsu
+
+regions table were targeted in both populations and a
+separate sequencing reaction performed for each of the resulting
+
+amplicon pools three amplicons for each of the two controlled
+
+populations 
+
+four hundred base pair bp sequencing generated
+
+ mean s e m raw reads per sample 
+following forward and reverse adapter removal 
+
+ reads representing full length amplicons com 
+prising the entire expected sequence were retained for further
+
+analysis table on average approximately of the raw
+reads obtained were found to represent full length amplicons in
+
+general the sequencing of shorter amplicons for example its 
+
+mean length bp tended to produce more full length reads
+than longer amplicons for example the d d region of lsu 
+
+mean length bp until very recently proton release
+sequencing technology has been limited to read lengths of
+
+ bp rendering it unsuitable for comprehensive its or
+lsu assessment whilst a recent august publication
+
+implemented bp proton release sequencing for the assessment
+
+of fungal diversity in soil this analysis was restricted to the its 
+
+region due to sequence length constraints and further considered
+
+only the first bp of this region in contrast we consider
+
+full length sequence data from three genomic regions which
+
+provides additional genetic information for identification at the
+
+species level 
+
+to reduce data redundancy all reads were dereplicated by
+
+merging identical reads whilst retaining cluster size information in
+
+order to reduce the impact of sequencing errors on otu
+
+formation full length reads were denoised merging reads with
+
+up to errors whilst retaining cluster size information so that the
+
+total number of reads available for analysis remained the same at
+
+this stage clusters comprising less than individual reads
+
+ representing a maximum of of the full length sequence
+
+data were discarded based upon the hypothesis that more
+
+abundant sequences are likely to be accurate biological sequences 
+
+whilst rare sequences are likely to contain sequencing errors or be
+
+due to pcr artefacts denoising reduced the total number of
+
+unique reads by an average of table 
+
+clustering of denoised ion torrent reads at an identity of 
+
+and therefore considering sequences within a distance of each
+
+other to belong to a single otu generated between and 
+
+otus for the member mock population and between and 
+
+for the mock population known to contain species depending
+
+on which genomic region was considered table in all
+instances the more variable its region appeared to
+
+generate the most otus and the least variable lsu region the
+
+fewest considering all samples an average otu to species ratio
+
+of was observed further investigation revealed that the
+additional otus were the result of each single species being
+
+represented by more than one otu rather than additional
+
+‘‘incorrect’’ species being identified each species was represented
+
+by a ‘‘major otu’’ which accounted for approximately of
+
+the reads assigned to that organism and various significantly
+
+smaller otus which clustered separately due to the presence of
+
+insertion deletion indel errors often associated with homo 
+
+polymeric regions please refer to file s and file s in all
+cases the major otu showed the highest identity to the true
+
+biological sequence with the additional smaller otus displaying
+
+base mis matches due to indels such data are of great
+
+significance to metagenomic studies that commonly use otu
+
+counts to infer species richness failure to carefully characterise the
+
+otu to species ratio using mock communities such as is
+
+presented herein can therefore lead to vast under or over
+
+estimations of species diversity despite the publication of
+
+numerous ngs driven metagenomic studies the vast majority
+
+concerning bacteria there is still a relative paucity of studies
+
+characterising such metrics in mock fungal communities 
+
+in order to assess the accuracy of otu formation each otu
+
+was compared to its closest true biological sequence using
+
+nucleotide blast blastn and mismatches between the two
+
+considered to be errors otus were mapped to the ncbi
+
+table next generation sequencing read statistics 
+
+sample id genomic region raw reads
+full length
+reads length bp 
+
+dereplicated unique
+reads
+
+denoised unique
+reads
+
+total reads
+available
+
+ gm its 
+
+ gm its 
+
+ gm lsu 
+
+ sm its 
+
+ sm its 
+
+ sm lsu 
+
+raw reads the total number of reads generated by each sequencing run full length reads the total number of reads representing a full length amplicon 
+dereplicated reads the number of unique read clusters once all identical reads were collapsed denoised reads the number of unique read clusters once reads within
+ sequence identity were combined total reads available the total number of reads the sum of all clusters available for further analysis 
+doi journal pone t 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+
+database without restriction i e this search was not limited to the
+
+fungi in the mock populations otus were categorised as
+
+‘‘perfect’’ errors ‘‘good’’ ‘‘noisy’’ ‘‘contam 
+inant’’ high identity to a true biological sequence not included
+
+within the mock population or ‘‘other’’ the vast majority
+of otus were categorised as ‘‘perfect’’ or ‘‘good’’ suggesting that
+
+highly accurate otus could be reconstructed from the denoised
+
+ion torrent sequencing data table 
+
+finally we determined whether the annotated otus as above 
+
+accurately reflected the mock community members in the gm
+
+and sm samples based upon the three metagenomic regions
+
+considered each mock community member successfully repre 
+
+sented by an otu and the taxonomic classification afforded is
+
+recorded in table in the vast majority of cases an
+otu representing each of the mock community members was
+
+present in the sequencing data from all three genomic regions for
+
+ of the community members representative otus were detected
+
+by genomic regions table designed ‘‘n’’ but were absent
+from the sequencing data in the third in the gm specimen 
+
+fusarium moniliforme was not detected by its but was detected in
+
+both the its and lsu sequencing data subsequent sequence
+
+analysis revealed a mismatch between this organism and the
+
+forward its primer preventing efficient amplification and
+
+resulting in any sequencing data being lost at the adapter trimming
+
+stage where a primer match was required in the sm
+
+specimen cryptococcus victoriae and penicillium fellutanum were not
+
+detected by its whilst aspergillus ochraceus and cryptococcus
+
+neoformans were not detected by lsu amplification of the its 
+
+region from cryptococcus victoriae resulted in only partial reads of
+
+approximately bases in length however no clear sequence
+
+composition issue was evident amplification of this region in
+
+penicillium fellutanum also failed to generate full length reads
+
+however this was likely due to two homopolymeric regions
+
+consisting of thymine residues and cytosine residues
+
+respectively amplification products from the lsu region of
+
+aspergillus ochraceus and cryptococcus neoformans were also absent 
+
+retrospective analysis of the raw sequencing data confirmed the
+
+absence of any amplification products from either species it is
+
+known that cryptococcus neoformans lacks one of the lsu priming
+
+sites preventing amplification however insufficient sequence
+
+information is available for aspergillus ochraceus to determine
+
+whether this species also lacks one of the required priming sites 
+
+it is clear from these data that no one region was able to identify
+
+all species that comprised the mock communities further
+
+confirming our recommendation that a multi region metagenomic
+
+approach should be taken where possible an alternative strategy
+
+would be to utilise a single marker multi primer approach or
+
+even a multi marker multi primer approach to increase the
+
+probability of detecting a given species following identification 
+
+the absolute number of reads mapping to each otu representing
+
+each community member was determined and is shown in
+
+ figure each species was included at an equal spore
+concentration within the two mock communities table 
+however the absolute number of reads mapping to each of the
+
+species varied by several orders of magnitude for many species
+
+the proportion of reads attributed to that species within the mock
+
+communities was similar between the three regions for example
+
+epicoccum nigrum and aspergillus flavus were the most abundant
+
+species in mock communities gm and sm respectively for all
+
+three regions however for others abundance proportion varied
+
+more substantially figure 
+
+discussion
+
+it is apparent from our data that proton release sequencing
+
+technology can deliver a qualitative assessment of the fungal
+
+members comprising a sample when carefully applied and when
+
+paired with appropriate bioinformatic analysis we used a multi 
+
+region approach to investigate any potential targeting bias which
+
+could arise when reliant on a single region during the early years
+
+of barcoding the its region became the default marker for species
+
+level studies for most fungi with the exception of the yeasts where
+
+the lsu became the standard for identification given
+
+that yeasts and filamentous fungi are abundant in nearly all
+
+environments including the human body we chose to use the
+
+variable d d region of the lsu and both its regions
+
+ it is clear from our study that whilst there were differences in
+
+read abundance proportion attributed to the different species
+
+between the three regions the main concern was that no single
+
+region was able to identify all species that comprised the mock
+
+communities confirming our recommendation that a multi region
+
+metagenomic approach should be taken where possible using a
+
+multi region approach all species could be identified however 
+
+quantification is more difficult to achieve as indicated by the
+
+apparent discordance between spore number and read count 
+
+other studies have highlighted potential amplification biases
+
+dependent on the choice of its primers used and an alternative
+
+to our multi region approach is the multi primer approach
+
+targeting different parts of the its region in parallel 
+
+however as the authors themselves point out targeting the whole
+
+of its or its biases the results towards the ascomycota 
+
+targeting only its may lead to a preferential amplification of
+
+‘non dikarya’ fungi the dikarya being the subkingdom of fungi
+
+that includes ascomycota and basidiomycota which together
+
+represent about of described fungal species it is generally
+
+accepted that for the majority of the fungal kingdom its is the
+
+preferred barcode region but that other supplementary regions
+
+may be needed lsu can often discriminate species
+
+independently or more so combined with its and for yeasts
+
+the d d region of lsu was adopted for characterising species
+
+before dna barcoding became popular given that its
+
+sequences can be shared between different species such as
+
+cladosporium penicillium fusarium and aspergillus four genera of
+
+both economical and clinical relevance we opted to take a multi 
+
+region approach to include its its and the d d region of
+
+lsu data from other studies indicate that its and lsu perform
+
+very similarly as barcodes and that differences in these sequences
+
+correlate well with current species concepts irrespective of
+
+approach numerous primer combinations are reported within the
+
+table characteristics of otus formed by the usearch
+algorithm at an identity of only otus with a minimum of
+ reads were retained 
+
+sample gm gm gm sm sm sm
+
+region its its lsu its its lsu
+
+otu minimum 
+
+otus 
+
+perfect error 
+
+good error 
+
+noisy error 
+
+contaminant 
+
+other 
+
+doi journal pone t 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+
+literature and it is important to determine the most optimal
+
+primer set or combination for each particular application 
+
+this study used two mock fungal populations selected to address
+
+different questions the gm reference mixture was used to
+
+reflect different genera that produce spores that are readily found
+
+in air samples it was utilised for this study as it reflects a
+
+diverse mixture of fungal genera that produce spores of different
+
+sizes and complexity and simultaneously allow the direct
+
+comparison of the high throughput sequencing data generated in
+
+this study with data produced using the more traditional clone
+
+library preparation and sanger sequencing approach the sm
+
+reference mixture was chosen to comprise closely related species
+
+that produce single celled spores of a more uniform size from
+
+clinically relevant fungal genera the application of high
+
+throughput sequencing to assessing fungal diversity is of growing
+
+interest in studies of the human microbiome its often has
+
+insufficient variation to unequivocally identify species in species 
+
+rich ascomycete genera such as penicillium sm includes
+
+several species of aspergillus penicillium and cryptococcus and one
+
+species of the genus paecilomyces a genus that is genetically close to
+
+both aspergillus and penicillium and therefore better represents the
+types of species that might be found in a human microbiome study
+
+compared to gm in addition sm comprises species that
+
+produce single celled spores of a fairly uniform size unlike gm 
+
+the fungal rdna region which is the molecular target of
+
+choice for fungal amplicon based metagenomic studies given the
+
+existence of priming sites which are highly conserved across large
+
+groups of organisms enables the amplification and detection of a
+
+wide range of taxa this fungal rdna region is multicopy in
+
+nature occurring numerous times throughout the fungal genome 
+
+whilst multiple gene copies increase sensitivity by effectively
+
+amplifying the genomic signal from each fungal spore it has been
+
+shown that copy number differs considerably between fungi from
+
+tens to several hundred and will therefore impact upon the
+
+final number of sequencing reads attributed to each fungi 
+
+attempts have been made to enumerate copy number in pcr
+
+studies by empirically determining the rdna copy number
+
+relative to a single copy number gene and have confirmed
+
+figure read distributions the number of sequencing reads assigned to each species expressed as a percentage of the total
+number of sequencing reads 
+doi journal pone g 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+
+that copy number does indeed vary by species dividing the
+
+number of sequencing reads by the copy number represents a
+
+plausible method of normalising next generation sequencing data 
+
+however methods for the empirical calculation of rdna copy
+
+number are only suitable for the detection and enumeration of a
+
+restricted set of fungi where individual pure cultures are available 
+
+and are therefore presently unsuitable for the large scale
+
+metagenome studies arising as the result of next generation
+
+sequencing availability 
+
+differences in dna extraction efficiency between the different
+
+fungal spore types and the bias towards shorter amplicons
+
+inherent in pcr reactions may also affect the number of
+
+sequencing reads attributed to each fungi black and colleagues
+
+recently reported large variations in detectable target when pcr
+
+was conducted on dna extracted from known quantities of spores
+
+ suggesting that dna is not released from all spores with equal
+
+efficiency although differences in dna extraction efficiency and
+
+pcr bias are likely to contribute less to differences in absolute
+
+read abundance than the effect of rdna copy number variation 
+
+no comprehensive assessment in commonly encountered fungal
+
+spores has yet been conducted 
+
+a further consideration is spore size and complexity which is of
+
+particular relevance to the gm mock community formulated
+
+from fungi with a diverse range of spore sizes the smaller sized 
+
+single celled spores from aspergillus fumigatus and penicillium
+
+chrysogenum were represented at much lower read numbers than
+
+the multicellular large spores from alternaria alternata leptosphaeria
+
+coniothyrium and epicoccum nigrum table and figure the
+
+second mock population was however created solely from single
+
+celled spores of approximately to mm diameter and the
+difference in read number from the least to most frequent was
+
+more than fold for all three regions the differences are
+
+table taxonomic levels of discrimination afforded by each genomic region 
+
+sample gm gm gm gm
+
+region its its lsu
+
+detected expected 
+
+alternaria alternata g o g
+
+aspergillus fumigatus s s s
+
+penicillium chrysogenum g g g
+
+fusarium moniliforme n o o
+
+leptosphaeria coniothyrium s s o
+
+botrytis cinerea g g g
+
+cladosporium herbarum g s g
+
+epicoccum nigrum s o o
+
+sample sm sm sm sm
+
+region its its lsu
+
+detected expected 
+
+aspergillus flavus se se se
+
+aspergillus fumigatus s s s
+
+aspergillus niger se g se
+
+aspergillus ochraceus se s n
+
+aspergillus restrictus s s se
+
+aspergillus sclerotiorum s se se
+
+aspergillus ustus se se se
+
+cryptococcus laurentii s s s
+
+cryptococcus neoformans s s n
+
+cryptococcus victoriae g n s
+
+cryptococcus wieringae s s s
+
+paecilomyces variotii s s s
+
+penicillium brevicompactum se se se
+
+penicillium chrysogenum g g g
+
+penicillium citreonigrum se s se
+
+penicillium corylophilum s s se
+
+penicillium digitatum s s s
+
+penicillium fellutanum s n s
+
+penicillium piceum s s s
+
+penicillium spinulosum g se se
+
+species level s section within genus level – se genus level g above genus level o not detected n 
+doi journal pone t 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+
+unlikely to be due to any process inherent to the ion torrent
+
+library preparation and sequencing as an earlier study of the same
+
+ gm mock community utilising traditional clone library prepa 
+
+ration and sanger sequencing found the same bias in terms of
+
+numbers of clones represented by each species pashley fairs et
+
+al online supplement 
+
+next generation sequencing driven amplicon based metage 
+
+nomics have revolutionised the field of microbiology by providing
+
+a culture independent technique through which to identify and
+
+assess microbiological diversity furthermore the availability of
+
+affordable ‘‘bench top’’ sequencers has placed the ability to
+
+perform such studies in the hands of most laboratories here we
+
+have shown that data generated by proton release sequencing
+
+technology is suitable for use in amplicon driven metagenome
+
+studies we have validated our approach using two mock fungal
+
+communities comprising and species respectively taking into
+
+account data generated from three individual genomic regions
+
+ its its lsu we were able to construct otus representing
+
+each of the test species and further these otus were found to be
+
+highly accurate representations of true biological sequences 
+
+finally we considered potential barriers that require further
+
+investigation before this methodology can make the transition
+
+from qualitative presence or absence to quantitative relative
+
+abundance of fungi within a complex population whilst these
+
+barriers affect all molecular applications targeting the rdna
+
+region including the traditional application of sanger sequencing
+
+to pcr amplicons the advent and availability of next generation
+
+sequencing technologies has refocused this issue 
+
+supporting information
+
+file s the number of otus corresponding to each
+species in the two controlled populations for its its 
+and lsu where more than one representative otu was
+detected the error type responsible for the additional otus is
+
+recorded in the remarks column i – insertion d – deletion s –
+
+substitution ih – insertion associated with homopolymer dh 
+
+deletion associated with homopolymer 
+
+ docx 
+
+file s representative data demonstrating the pres 
+ence of a ‘‘major otu’’ for each species otu 
+accounting for the majority of reads and various
+significantly smaller otus otus – shown repre 
+sentative data is from the its region gm 
+
+ docx 
+
+author contributions
+
+conceived and designed the experiments dpt chp performed the
+
+experiments dpt chp analyzed the data dpt chp contributed
+
+reagents materials analysis tools dpt chp twg wrote the paper 
+
+dpt chp twg 
+
+references
+
+ hawksworth dl global species numbers of fungi are tropical studies and
+
+molecular approaches contributing to a more robust estimate biodiversity and
+
+conservation – 
+
+ hawksworth dl the magnitude of fungal diversity the million
+
+species estimate revisited mycological research – 
+
+ hawksworth dl the fungal dimension of biodiversity magnitude 
+
+significance and conservation mycological research – 
+
+ nagano y elborn js millar bc walker jm goldsmith ce et al 
+
+comparison of techniques to examine the diversity of fungi in adult patients with
+
+cystic fibrosis medical mycology – e 
+
+ lacey j spore dispersal — its role in ecology and disease the british
+
+contribution to fungal aerobiology mycological research – 
+
+ lindahl bd nilsson rh tedersoo l abarenkov k carlsen t et al 
+
+fungal community analysis by high throughput sequencing of amplified
+
+markers–a user’s guide new phytologist – 
+
+ boreson j dillner am peccia j correlating bioaerosol load with pm 
+
+and pm cf concentrations a comparison between natural desert and urban 
+
+fringe aerosols atmospheric environment – 
+
+ fierer n breitbart m nulton j salamon p lozupone c et al 
+
+metagenomic and small subunit rrna analyses reveal the genetic diversity
+
+of bacteria archaea fungi and viruses in soil applied and environmental
+
+microbiology – 
+
+ fröhlich nowoisky j pickersgill da després vr pöschl u high
+
+diversity of fungi in air particulate matter proceedings of the national academy
+
+of sciences – 
+
+ sanger f nicklen s coulson ar dna sequencing with chain 
+
+terminating inhibitors proceedings of the national academy of sciences 
+
+ – 
+
+ buee m reich m murat c morin e nilsson rh et al 
+
+pyrosequencing analyses of forest soils reveal an unexpectedly high fungal
+
+diversity new phytologist – 
+
+ jumpponen a jones kl massively parallel sequencing indicates
+
+hyperdiverse fungal communities in temperate quercus macrocarpa phyllo 
+
+sphere new phytologist – 
+
+ opik m metsis m daniell tj zobel m moora m large scale parallel
+
+ sequencing reveals host ecological group specificity of arbuscular
+
+mycorrhizal fungi in a boreonemoral forest new phytologist – 
+
+ pashley ch fairs a free rc wardlaw aj dna analysis of outdoor air
+
+reveals a high degree of fungal diversity temporal variability and genera not
+
+seen by spore morphology fungal biology – 
+
+ white tj amplification and direct sequencing of fungal ribosomal rna
+
+genes for phylogenetics pcr protocols a guide to methods and applications 
+
+ – 
+
+ issakainen j jalava j saari j campbell ck relationship of
+
+scedosporium prolificans with petriella confirmed by partial lsu rdna
+
+sequences mycological research – 
+ martin m cutadapt removes adapter sequences from high throughput
+
+sequencing reads embnet – 
+ edgar rc search and clustering orders of magnitude faster than blast 
+
+bioinformatics – 
+
+ samson raajip integration of modern taxonomic methods for
+penicillium and aspergillus classification harwood academic publishers 
+
+ peterson sw phylogenetic analysis of aspergillus species using dna
+sequences from four loci mycologia – 
+
+ houbraken j samson ra phylogeny of penicillium and the segregation
+of trichocomaceae into three families studies in mycology – 
+
+ samson ra yilmaz n houbraken j spierenburg h seifert ka et al 
+
+phylogeny and nomenclature of the genus talaromyces and taxa accommodat 
+ed in penicillium subgenus biverticillium studies in mycology – 
+
+ samson ra varga j meijer m frisvad jc new taxa in aspergillus
+section usti studies in mycology – 
+
+ houbraken j frisvad jc seifert ka overy dp tuthill dm et al new
+
+penicillin producing penicillium species and an overview of section chrysogena 
+persoonia – 
+
+ brown sp callaham ma oliver ak jumpponen a deep ion torrent
+sequencing identifies soil fungal community shifts after frequent prescribed fires
+
+in a southeastern us forest ecosystem fems microbiology ecology 
+
+ schoch cl seifert ka huhndorf s robert v spouge jl et al nuclear
+ribosomal internal transcribed spacer its region as a universal dna barcode
+
+marker for fungi proceedings of the national academy of sciences –
+ 
+
+ quince c lanzen a curtis tp davenport rj hall n et al accurate
+determination of microbial diversity from pyrosequencing data nature
+
+methods – 
+
+ seifert ka progress towards dna barcoding of fungi molecular ecology
+resources – 
+
+ bellemain e carlsen t brochmann c coissac e taberlet p et al its
+as an environmental dna barcode for fungi an in silico approach reveals
+
+potential pcr biases bmc microbiology 
+
+ ihrmark k m bit cruz martinez k friberg h kubartova a new
+primers to amplify the fungal its region – evaluation by sequencing of
+
+artificial and natural communities fems microbiology ecology – 
+ black j dean t byfield g foarde k menetrez m determining fungi
+
+rrna copy number by pcr journal of biomolecular techniques – 
+ herrera ml vallor ac gelfond ja patterson tf wickes bl strain 
+
+dependent variation in s ribosomal dna copy numbers in aspergillus
+
+fumigatus journal of clinical microbiology – 
+
+ion torrent driven fungal metagenomics
+
+plos one www plosone org april volume issue e 
+
+
+

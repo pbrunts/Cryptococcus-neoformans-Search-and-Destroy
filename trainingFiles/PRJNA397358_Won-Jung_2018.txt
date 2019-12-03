@@ -1,0 +1,686 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mapping distribution of cysts of recent dinoflagellate and cochlodinium polykrikoides using next generation sequencing and morphological approaches in south sea korea
+
+
+ scientific reports doi s 
+
+www nature com scientificreports
+
+mapping distribution of cysts 
+of recent dinoflagellate and 
+cochlodinium polykrikoides using 
+next generation sequencing and 
+morphological approaches in south 
+sea korea
+seung won jung donhyug kang hyun jung kim hyeon ho shin joon sang park 
+so yun park taek kyun lee 
+
+the total dinoflagellate cyst community and the cysts of cochlodinium polykrikoides in the surface 
+sediments of south sea tongyeong coast south korea were analysed using next generation 
+sequencing ngs and morphological approaches dinoflagellate cysts can be highly abundant –
+ cysts g− dry weight and have diverse species composition a total of taxa of dinoflagellate 
+cysts representing genera species including four unconfirmed species and complex species 
+were identified by ngs analysis cysts of scrippsiella spp mostly scrippsiella trochoidea were the most 
+dominant and polykrikos schwartzii pentapharsodinium dalei ensiculifera carinata and alexandrium 
+catenella tamarense were common thus a combination of ngs and morphological analysis is effective 
+for studying the cyst communities present in a given environment although c polykrikoides developed 
+massive blooms during – microscopy revealed low density of their cysts whereas no cysts 
+were detected by ngs however the vegetative c polykrikoides not appeared during – in 
+spite of the observation of c polykrikoides cysts this suggests that the c polykrikoides blooms were 
+not due to development of their cysts but to other factors such as currents transporting them to a 
+marine environment suitable for their growth 
+
+dinoflagellates are one of the most diverse and abundant groups of marine plankton some dinoflagellates are 
+known to cause outbreaks of harmful algal blooms in coastal waters around the world and can be extremely 
+toxic leading to significant damage of local aquaculture and wildlife the life stages of dinoflagellates form an 
+important component of their ecology and biogeography around of the approximately existing species 
+of marine dinoflagellates are known to form resting cysts as part of their life history cysts are typically preserved 
+in sediments thereby providing an integrated record over time of the presence of cyst producing dinoflagellates 
+functions attributed to cysts include species dispersal survival under unfavourable conditions and bloom ini 
+tialization – cyst surveys give information on history of harmful species in a given area thereby providing an 
+indication of the potential for future blooms and it may reveal species rarely observed in the plankton owing to 
+rare short lived or vegetative stages that are difficult to identify 
+
+ library of marine samples korea institute of ocean science technology geoje republic of korea 
+ maritime security research center korea institute of ocean science technology busan republic 
+of korea marine ecosystem and biological research center korea institute of ocean science technology 
+busan republic of korea south sea environment research center korea institute of ocean science 
+technology geoje republic of korea seung won jung and donhyug kang contributed equally to this work 
+correspondence and requests for materials should be addressed to s w j email diatoms kiost ac kr or t k l 
+ email tklee kiost ac kr 
+
+received september 
+
+accepted april 
+
+published xx xx xxxx
+
+open
+
+mailto diatoms kiost ac kr
+mailto tklee kiost ac kr
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+in south korea cochlodinium polykrikoides has been one of the most frequently occurring harmful red tide 
+species responsible for fish kills since in particular the tongyeong coastal area located in the south sea 
+of south korea is one of the most severely bloomed areas of c polykrikoides although c polykrikoides blooms 
+frequently developed in many coastal countries during the last decade cysts of c polykrikoides are still under 
+studied – our previous study reported the cyst morphology of c polykrikoides in the natural surface sediment 
+samples but the mechanisms of c polykrikoides bloom formation by germination of cysts are mostly unknown 
+
+advances in dna sequencing technology and bioinformatics have significant potential to strengthen biolog 
+ical monitoring in the ocean the challenge of modelling and predicting ecological changes requires the linking 
+of taxonomic data to the functional roles of individual microbial groups in biogeochemical cycles in other 
+words the challenge is not simply a matter of discovering ‘what is there’ but also ‘why it is there ’ in this context 
+a major issue relates to how dinoflagellate cysts are temporally distributed and whether they follow any trends in 
+their distribution 
+
+to this end we investigated the diversity and distribution of cysts in dinoflagellate communities and c 
+polykrikoides by focusing on s rdna using next generation sequencing ngs tool and morphological obser 
+vation in samples harvested from the south sea tongyeong coasts during the red tide and the non red tide 
+season in south korea 
+
+results
+dinoflagellate cyst composition based on next generation sequencing analysis the ngs 
+results obtained for the eukaryotic organisms in surface sediments of tongyeong coasts are summarized in 
+table  the number of otus varied among samples the rarefaction curves supplementary fig  s which 
+plot the otus generated by the ngs runs against the number of reads appeared to be nearing the asymptotic 
+values the amplicons generated – read counts from the six sequenced samples the average read 
+count in were higher than in in addition the number of otus and alpha diversity 
+ chao richness shannon diversity and simpson evenness showed a similar trend with changes in read counts 
+ table  read counts number of otus and alpha diversity in the mg group in were higher than those in 
+the ig and og however the data of showed that the number of otus and alpha diversity of the og were 
+higher than in the other groups considering that eukaryotic organisms are present in sediments the main group 
+identified in the ngs data cut off of read counts was the stramenopiles alveolata rhizaria sar super 
+group with average proportion of and in and respectively fig   other groups such 
+as opisthokonta archaeplastida amoebozoa and incertae sedis were minor groups in the sar super group 
+alveolata was the most abundant super kingdom with a average proportion of in and in 
+ followed by rhizaria and stramenopiles three diverse groups of unicellular eukaryotes were consisted of 
+the alveolata among these phyla dinoflagellata occupied an extremely high average proportion of in 
+ and in fig   
+
+the composition of the dinoflagellate cyst assemblages is shown in fig   a cut off of read counts and 
+supplementary tables s and s a total of taxa or complex species of cysts representing genera species 
+ including four unconfirmed species and groups complex species were identified from all the samples the 
+pentapharsodinium scrippsiella complex which included pentapharsodinium tyrrhenicum p dalei scrippsiella 
+trochoidea s sweeneyae and s erinaceus constituted the most predominant taxa with average proportions of 
+ in and in gonyaulax spinifera in and in alexandrium 
+complex species i including alexandrium pacificum a catenella tamarense and a fundyense in 
+and in woloszynskia complex species including woloszynskia cincta and w halophila in 
+ and in alexandrium complex species ii including a minutum a insuetum a tamutum and 
+a lusitanicum in and in gymnodinium aureolum in and in 
+gyrodinium impudicum in and in and s hangoei in and in 
+were the next most abundant species and represent more than of the total read counts of otus these major 
+taxa account for more than of the total read counts of cysts of dinoflagellates in particular g spinifera was 
+present in higher proportion in compared to 
+
+dinoflagellate cyst composition based on microscopic analysis in microscopic observations 
+the total abundance of dinoflagellate cysts at the sampling sites varied between – cysts g− dry weight 
+ average cysts g− dry weight in and – cysts g− dry weight average cysts g− dry 
+
+sampling date group total bases
+read count
+ cut off otus
+
+chao 
+richness
+
+shannon 
+diversity
+
+simpson 
+evenness remark
+
+december 
+
+ig 
+
+non red tidemg 
+
+og 
+
+september 
+
+ig 
+
+red tidemg 
+
+og 
+
+table number of read counts and operational taxonomic units otus obtained from next generation 
+sequencing analysis and the alpha diversity indices in this study ig mg and og indicate inner group middle 
+group and outer groups respectively of sample sites in tongyeong coast south sea of south korea during 
+december and september 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+weight in fig   thus the dinoflagellate cysts in showed higher abundance than in fig   in 
+particular the abundance of cysts of the mg in both and was higher than in the other groups thus 
+our samples of the dinoflagellate cysts in the surface sediments of the tongyeong coast revealed high abun 
+dance and diverse species composition compared to the abundance and composition in many coastal countries 
+worldwide supplementary table s in addition abundances recorded in this study were higher than those 
+reported previously for other coastal areas of south korea supplementary table  the composition of the 
+dinoflagellate cysts is shown in fig   b and supplementary table s a total of taxa of cysts representing 
+ genera and species including five unconfirmed species were identified in and taxa represent 
+ing genera species including five unidentified cysts and one unidentified taxon in the cysts of 
+scrippsiella spp mostly scrippsiella trochoidea were the most predominant at average proportions of 
+ for s trochoidea in and for s trochoidea in moreover the predominant 
+cysts in total cyst abundances in were of polykrikos schwartzii protoperidinium sp spiny 
+form pentapharsodinium dalei ensiculifera carinata phaeopolykrikos hartmanii 
+ and alexandrium catenella tamarense and the predominant cysts in were of ensiculifera 
+carinata protoperidinium sp spiny form and alexandrium catenella tamarense thus 
+the proportion of total common cysts average cyst abundances in and were and 
+respectively fig   and supplementary fig  s 
+
+similarity in dinoflagellate cyst distribution based on the ngs and microscopic analysis the 
+results of the mds analysis of distributions of the otus based on the ngs and morphology in the group samples 
+are shown in fig   the dinoflagellate cysts identified using ngs were clearly divided into two groups similar 
+ity associated with years and and merged into a single group based on microscopical 
+analysis they could be divided into two groups ig mg og and mg og ig and 
+merged into a single group 
+
+presence of cochlodinium polykrikoides cyst c polykrikoides bloomed in late july peaked in early 
+august sustained in mid august and gradually decreased in late august of supplementary fig  s in 
+particular the greatest density of this species was detected at density of cells ml− on august the 
+blooming patterns of c polykrikoides in were similar to that in but their strength was weaker than in 
+ cysts of c polykrikoides were not detected by ngs analysis supplementary tables s and s and all pcr 
+results were negative except for sample from the cultured c polykrikoides supplementary fig  s however 
+
+figure taxonomic distribution of super group super kingdom and phylum levels revealed by next 
+generation sequencing analysis in surface sediments of tongyeong coast south sea of south korea 
+during december and september ig inner group mg middle group og outer group sar 
+stramenopiles alveolata rhizaria super kingdom 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+in microscopic analysis the cysts of c polykrikoides were observed at seven sampling sites – cysts g− dry 
+weight in average cyst density of cysts g− dry weight across total sampling sites and five sampling sites 
+had an abundance of – cyst g− dry weight in average cysts g− dry weight fig   
+
+discussion
+recently environmental dna edna has begun to be employed in aquatic environmental research and it is 
+also being used to monitor marine biodiversity however we are unaware of any reports that have attempted 
+to use edna to monitor dinoflagellate cysts in surface sediments approximately dinoflagellate species pro 
+duce resting cysts during their life cycle and these are deposited in the sediments the cyst population can 
+serve as inocula for the recurrence of blooms of harmful plankton species the dinoflagellate cysts in samples 
+from surface sediments of the tongyeong coast revealed a high abundance and diverse species composition 
+ supplementary table s it is well known that dinoflagellate cysts occur at higher concentrations in muddy sed 
+iments muddy particles are present in the surface sediments of tongyeong coast geological characteristics 
+such as currents along coastlines and also determine the abundance of cysts as showing the characteristics of 
+currents along tongyeong coasts the cysts in tongyeong coastal area may be introduced by currents moreover 
+tongyeong area is one of the richest ecosystems and highest primary productivities in the korean coast thus 
+the abundance of dinoflagellate cysts in tongyeong coastline is favoured by marine characteristics such as the 
+effects of sediment type currents and nutrient richness 
+
+small and orthoperidinoid dinoflagellate species were the most common cysts of s trochoidea the most 
+predominant cyst and pentapharsodinium dalei in morphological results occurred at average proportions of 
+ and respectively supplementary table s these cysts are the most frequently encountered of the 
+potentially harmful species in particular s trochoidea is a cosmopolitan dinoflagellate species in coastal waters 
+and distributed worldwide late summer–autumn peaks of calcareous cyst production were recorded in the gulf 
+of naples and early autumn peaks of s trochoidea were recorded in onagawa bay in japan cysts belonging 
+to potentially toxic species of the genus alexandrium which cause paralytic shellfish poisoning were recorded 
+in of the sediment samples these taxa are commonly found in coastal zones across the world in the 
+study area during – vegetative s trochoidea and a catenella tamarense were frequently observed by 
+two samplings per month at a high average abundance of and cells ml− respectively unpublished 
+
+figure common species or genus composition inferred assemblages of dinoflagellate cysts based on next 
+generation sequencing a and morphological data b in surface sediments of tongyeong coast south sea of 
+south korea during december and september ig inner group mg middle group og outer group 
+
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+data in particular they occurred frequently in spring and summer in the ngs analysis the assemblage com 
+position is dominated by the pentapharsodinium scrppsiella group gonyaulax spinifera woloszynskia group 
+alexandrium group and gymnodinium aureolum these dominant species detected by ngs were consistent 
+
+figure distribution of total and common dinoflagellate species revealed by morphological analysis in 
+surface sediments of tongyeong coast south sea of south korea during december sampling sites 
+and september sampling site scrippsiella spp including s trochoidea s tridida s precaria s 
+crystalline s rotunda and s operosa alexandrium spp including a catenella tamarense and a minutum 
+protoperidinium spp including p latissimum p leonis p minutun p americanum and protoperidinium spp 
+spiny type gymnodinium spp including g catenatum and gymnodinium spp polykrikos spp including p 
+schwartzii and p kofoidii all maps were generated with surfer v http www goldensoftware com 
+products surfer 
+
+figure non metric multidimensional scaling plot based on next generation sequencing ngs as blue 
+circles and microscopy lm as black square results of the bray–curtis dissimilarity at the stress of level 
+ig inner group mg middle group og outer group 
+
+http www goldensoftware com products surfer
+http www goldensoftware com products surfer
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+with the morphological results however pentapharsodinium spp and some scrppsiella spp showed very high 
+genetic similarity many researchers – reported that pentapharsodinium is a sister group or primitive lineage of 
+scrippsiella species based on molecular phylogeny of calciodinellaceae in this study ngs analysis detected 
+taxa compared to only cysts identified using microscopic observation thus ngs analysis can allow research 
+ers to detect higher number of species than microscopic analysis this is because cysts have high morphological 
+similarity and therefore are difficult to discriminate 
+
+c polykrikoides causes red tides in tongyeong coast almost every year in particular they developed mas 
+sive blooms with density greater than cells ml− in summer of supplementary fig  s in our pre 
+vious study one of the several cysts isolated from surface sediments in the same study area germinated into 
+c polykrikoides cells which was confirmed via s rdna sequences in the present study the cysts of c 
+polykrikoides were detected at ranges between and cysts g− dry weight based on morphological analy 
+sis however the cysts could not be detected in the ngs and pcr analyses we could not perform replicate 
+ngs analyses because the amount of gdna of dinoflagellate cysts in the surface sediment was small this is a 
+weak point in the present study this is very important to obtain accurate result and to evaluate the reproduc 
+ibility of ngs for the identification of species in particular rare species such as c polykrikoides park et al 
+detected c polykrikoides cysts by quantitative pcr using surface sediments of the same study area but they found 
+only five cysts in samples this result is similar to our microscopic findings thus the non detection of c 
+polykrikoides in our ngs and conventional pcr analyses could likely be due to the presence of very low amounts 
+of c polykrikoides cysts in the surface sediments tang and gobler found resting cysts of c polykrikoides in 
+culture if c polykrikoides can cause massive blooms in summer high abundance of cysts can be expected after 
+termination of the blooms however relatively low densities of c polykrikoides cysts were detected as compared 
+with the massive blooms of the vegetative cells in our preliminary study ngs analysis of the sediments below the 
+surface layer revealed a high proportion of c polykrikoides cysts supplementary fig  s however in the 
+preliminary study extraction of genomic dna was carried out immediately after sampling without long term 
+storage for six months the high proportions of c polykrikoides might be attributed to the presence of submerged 
+dead c polykrikoides and dna debris by decomposition of c polykrikoides vegetative cells although cysts might 
+have constituted a small portion fig   hattenrath lehmann et al reported that low cyst densities after 
+high density blooms may be affected by several physical chemical and biological factors which suggest that a 
+small portion of the vegetative population is involved in sexual reproduction moreover the other factors affect 
+ing density of cysts include grazing of cysts in sediments bacterial degradation of cysts and or the dispersal 
+of cysts vegetative cells out of the bloom region via currents followed by deposition of these cysts elsewhere 
+
+evidently the patterns of abundance of c polykrikoides cysts in the present study cannot represent the 
+prior blooming and might not predict future blooms thus how blooms develop in spite of lower density of 
+c polykrikoides cysts remains unclear alexandrium fundyense a cyst forming dinoflagellate can produce 
+massive blooms from low cyst densities hattenrath lehmann et al suggested that the modest densities 
+of cysts are important as ‘seed banks for initiating blooms’ however the present results indicate some distinct 
+patterns of c polykrikoides cysts as reported by hattenrath lehmann et al according to the hypothesis of 
+hattenrath lehmann et al vegetative cells of c polykrikoides were present during as evident from obser 
+vation of the sediments in tongyeong area in however vegetative cells of c polykrikoides were not detected 
+during the summers of and supplementary fig  s matsuoka et al and jeong et al emphasised 
+that c polykrikoides blooms developed after accumulation of cysts transported from other places in particular 
+lee et al and park et al mentioned that the mechanism of bloom initiation of c polykrikoides might be related 
+to the transport of cells into the study area via lateral mixing of water of this area with that of offshore currents 
+
+figure cyst distribution of cochlodinium polykrikoides revealed by morphological analysis in surface 
+sediments of tongyeong coast south sea of south korea during december sampling sites and 
+september sampling site all maps were generated with surfer v http www goldensoftware 
+com products surfer 
+
+http www goldensoftware com products surfer
+http www goldensoftware com products surfer
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+containing a high density of c polykrikoides cells thus the presence of c polykrikoides might be determined by 
+currents transporting them to a marine environment suitable for their growth 
+
+methods
+study area and sample collection the study area is located in tongyeong coastal waters in the southern 
+coast of south korea ° ′n and ° ′e this costal water is a eutrophic system that is subjected to strong 
+mixing between the surface and bottom layers in addition to supplementation of nutrients by food supply from 
+fisheries currents in the studied area are not strong because water depths are generally shallow m and 
+many islands are present in order to analyse the distribution and composition of the dinoflagellate cysts mor 
+phologically and using ngs technology we sampled the surface sediments from sites during the winter in 
+december i e after termination of c polykrikoides bloom and sites during summer in september 
+ i e during the blooming period of c polykrikoides using a gravity core sampler diameter cm the top cm 
+of the core samples were sliced and preserved immediately in the dark at °c fig   
+
+morphological analysis the core samples for morphological analysis were collected as described by li et al 
+one gram of sample was put into a beaker with pure seawater and processed with an ultrasonic probe for s fol 
+lowed by sieving with and μm stainless steel mesh the residues on the μm mesh stainless steel mesh 
+were distributed equally in ml aliquots with pure seawater dinoflagellate cysts were observed on a ml 
+sub sample of the ml aliquots in sedgwick rafter counting chamber under a light microscope zeiss axio 
+imager a hallbergmoos germany and then photographed using an axiocam mrm digital camera zeiss 
+ten grams of sample was weighed in wet condition and dried in an oven to °c for day to measure the water 
+content and cyst concentrations in this study were estimated as the sum of living and empty cysts which were 
+presented as the number of cysts per gram of dry sediment 
+
+genomic dna extraction and amplification of s rdna the core samples were stored in dark and 
+cool conditions at °c for at least six months for decomposition of organic matter and organisms ten grams 
+ wet weight of the stored samples from each site were dried at °c for d in a drying oven thereafter the dried 
+sub samples g dry weight from approximately – sites were merged and divided into the inner group ig 
+middle group mg and outer group og from the inner to outer sea for the – sampling sites in the survey 
+
+figure map showing the sampling sites of surface sediments in tongyeong coast south sea of south korea 
+during december and september ig inner group mg middle group og outer group all maps 
+were generated with surfer v http www goldensoftware com products surfer 
+
+http www goldensoftware com products surfer
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+area fig   to remove large sized particles the samples were subjected to a prefiltering step using a stainless 
+steel mesh μm pores the samples after the removal of large sized particles were harvested onto a collection 
+filter with μm pores tctp millipore billerica ma usa and to remove dna debris from the sam 
+ples filtered sediments were washed with hot sterilised seawater at approximately °c and approximately kpa 
+pressure then the harvested samples after removal of large particles and dna debris were frozen at − °c 
+before dna extraction 
+
+to analyse dinoflagellate cysts the s rdna v v gene was targeted for the ngs analysis the genomic dna 
+from cysts collected was extracted using beads in a power soil dna isolation kit mobio laboratories solana 
+beach ca usa and diluted to a final concentration of ng μl− amplification of the s rdna gene was 
+performed using μl reaction mixtures containing μmol l− each dntp mmol l− mgcl μmol l− 
+each primer u taq dna polymerase takara ex taq kyoto japan and μl dna template the v –v 
+region of the s rdna gene was targeted using the universal primers tareuk fwd ′ cca gca scy 
+gcg gta att gg ′ and tareukrev ′ act ttc gtt ctt gat yra ′ three pcr reactions were 
+performed in distinct tubes and then mixed to obtain more accurate ngs results the target region v –v 
+was chosen because of its high coverage of almost all phyla in conventional and metagenomic studies each 
+primer was tagged using illumina pre adapter and locus specific primers following the manufacturer’s instruc 
+tions mi seq illumina san diego ca usa the reaction profile consisted of an initial denaturation step at 
+ °c for min followed by cycles of denaturation at °c for s annealing at °c for s and extension at 
+ °c for min and a final extension step of °c for min under these conditions – ng pcr product 
+was obtained using a biorad t thermal cycler biorad hercules ca usa products from triplicate reac 
+tions were pooled and electrophoresed in agarose gels stained with ethidium bromide and visualized under 
+ultraviolet transillumination before ngs analysis the amplified pcr products were individually purified using 
+an ultraclean pcr clean up kit mobio and their dna concentration was measured in a bio analyzer 
+ agilent technologies palo alto ca usa 
+
+bioinformatics and data analysis similar amounts of pcr product from each sample were analysed 
+using a mi seq platform the data were pre processed using miseq control software mcs v raw 
+sequences were first analysed using fastqc to check basic statistics such as gc per base quality score dis 
+tribution and poor quality sequences were flagged also ambiguous and chimeric reads also were removed 
+and noised sequences denoising which involved otus with read and were removed at cut off of 
+ supplementary table s the processed pair end reads were then merged using the fast length adjustment of 
+short reads flash software tool after each sequencing procedure a quality check was performed to remove 
+short sequence reads bp low quality sequences score singletons non target sequences using 
+basic local alignment search tool blast all of the sequence reads were compared with those at the national 
+center for biotechnology information ncbi database sequence reads with an e value were considered 
+for further analysis a pairwise global alignment was performed on selected candidate hits to find the most 
+similar sequences the taxonomy of the sequence with the highest similarity was assigned to the sequence read 
+ species or genus levels with or similarity respectively to analyse operational taxonomic units 
+ otus the cd hit otu software was used for clustering and metagenomic functional information to cal 
+culate alpha diversity including shannon weaver diversity chao richness and simpson evenness based on the 
+otu table was generated using the closed reference protocol in mothur and qiime all the six datasets were 
+deposited in the sequence read archive database at the ncbi under accessions srs prjna 
+
+to test the significance of similarity between the six sequenced samples the multidimensional scaling mds 
+analysis was performed using primer based on bray curtis distance matrices obtained from the read count 
+of otus 
+
+references
+ head m j modern dinoflagellate cysts and their biological affinities in palynology principles and applications eds janosnius j 
+
+mcgregor d c – aasp foundation 
+ anderson d m red tides sci am – 
+ cembella a turgeon j theriault j c béland p spatial distribution of protogonyaulax tamarensis resting cysts in nearshore 
+
+sediments along the north coast of the lower st lawrence estuary j shellfish res – 
+ ishikawa a taniguchi a contribution of benthic cysts to the population dynamics of scrippsiella spp dinophyceae in 
+
+onagawa bay northeast japan mar ecol prog ser – 
+ hesse k j tillmann u nehring s brockmann u factors controlling phytoplankton distribution in coastal waters of the 
+
+german bight north sea in oceanographic literature review eds eleftheriou a ansell a d smith c j – olsen 
+olsen 
+
+ kim c kim h g kim c h oh h m life cycle of the ichthyotoxic dinoflagellate cochlodinium polykrikoides in korean 
+coastal waters harmful algae – 
+
+ lee c k park t g park y t lim w a monitoring and trends in harmful algal blooms and red tides in korean coastal waters 
+with emphasis on cochlodinium polykrikoides harmful algae s –s 
+
+ tang y z gobler c j the toxic dinoflagellate cochlodinium polykrikoides dinophyceae produces resting cysts harmful algae 
+ – 
+
+ li z han m s matsuoka k kim s y shin h h identification of the resting cyst of cochlodinium polykrikoides margalef 
+ dinophyceae gymnodiniales in korean coastal sediments j phycol – 
+
+ pospelova v kim s j dinoflagellate cysts in recent estuarine sediments from aquaculture sites of southern south korea mar 
+micropaleontol – 
+
+ gifford s m sharma s moran m a linking activity and function to ecosystem dynamics in a coastal bacterioplankton 
+community front microbiol https doi org fmicb 
+
+ rees h c maddison b c middleditch d j patmore j r m gough k c the detection of aquatic animal species using 
+environmental dna a review of edna as a survey tool in ecology j appl ecol – 
+
+ miya m et al mifish a set of universal pcr primers for metabarcoding environmental dna from fishes detection of more than 
+ subtropical marine species r soc open sci 
+
+http dx doi org fmicb 
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+ yamamoto s et al environmental dna metabarcoding reveals local fish communities in a species rich coastal sea sci rep 
+ 
+
+ matsuoka f head m clarifying cyst motile stage relationships in dinoflagellates in biological and geological perspectives of 
+dinoflagellates eds lewis j m marret f bradley l – the geological society 
+
+ cho h j kim c h moon c h matsuoka k dinoflagellate cysts in recent sediments from the southern coastal waters of 
+korea bot mar – 
+
+ goodman d k dinoflagellate cysts in ancient and modern sediments in the biology of dinoflagellates botanical monographs ed 
+taylor f j r – blackwell 
+
+ park k s et al development of the operational oceanographic system of korea ocean sci j – 
+ jung s w park j g jeong d h lim d i seasonal changes in water masses and phytoplankton communities in the western 
+
+part of south coastal waters korea korean j environ biol – 
+ jung s w kwon o y joo h m lee j h variations of phytoplankton standing crops affecting by environmental factors in the 
+
+marine ranching ground of tongyeong coastal waters from to korean j environ biol – 
+ montresor m zingone a sarno d dinoflagellate cyst production at a coastal mediterranean site j plankton res – 
+
+ 
+ anglès s garcés e hattenrath lehmann t k gobler c j in situ life cycle stages of alexandrium fundyense during bloom 
+
+development in northport harbor new york usa harmful algae – 
+ montresor m sgrosso s procaccini g kooistra w intraspecific diversity in scrippsiella trochoidea dinophyceae evidence 
+
+for cryptic species phycologia – 
+ gottschling m et al a molecular phylogeny of scrippsiella sensu lato calciodinellaceae dinophyta with interpretations on 
+
+morphology and distribution eur j phycol – a 
+ craveiro s c calado a j daugbjerg n hansen g moestrup o ultrastructure and lsu rdna based phylogeny of 
+
+peridinium lomnickii and description of chimonodinium gen nov dinophyceae protist – 
+ zinssmeister c soehner s facher e kirsch m catch me if you can the taxonomic identity of scrippsiella trochoidea f stein 
+
+a r loebl thoracosphaeraceae dinophyceae syst biodivers – 
+ park t g kim j j kim w j won k m development of real time rt pcr for detecting viable cochlodinium polykrikoides 
+
+ dinopyceae cysts in sediment harmful algae – 
+ hattenrath lehmann t k zhen y wallace r b tang y z gobler c j mapping the distribution of cysts from the toxic 
+
+dinoflagellate cochlodinium polykrikoides in bloom prone estuaries by a novel fluorescence in situ hybridization assay appl environ 
+microb – 
+
+ persson a rosenberg r impact of grazing and bioturbation of marine benthic deposit feeders on dinoflagellate cysts harmful 
+algae – 
+
+ matsuoka k et al seed populations of a harmful unarmored dinoflagellate cochlodinium polykrikoides margalef in the east china 
+sea harmful algae – 
+
+ genovesi b et al influences of sedimentation and hydrodynamics on the spatial distribution of alexandrium catenella tamarense 
+resting cysts in a shellfish farming lagoon impacted by toxic blooms harmful algae – 
+
+ hattenrath t k anderson d m gobler c j the influence of anthropogenic nitrogen loading and meteorological conditions 
+on the dynamics and toxicity of alexandrium fundyense blooms in a new york usa estuary harmful algae – 
+
+ jeong h j et al ichthyotoxic cochlodinium polykrikoides red tides offshore in the south sea korea in i temporal variations 
+in three dimensional distributions of red tide organisms and environmental factors algae – 
+
+ park g h et al a sulfur hexafluoride based lagrangian study on initiation and accumulation of the red tide cochlodinium 
+polykrikoides in southern coastal waters of korea limnol oceanogr – 
+
+ stoeck t et al multiple marker parallel tag environmental dna sequencing reveals a highly complex eukaryotic community in 
+marine anoxic water mol ecol – 
+
+ rzeznik orignac j et al comparison of meiofaunal diversity by combined morphological and molecular approaches in a shallow 
+mediterranean sediment mar biol https doi org s 
+
+ andrews s fqc a quality control tool for high throughput sequence data http www bioinformatics babraham ac uk projects 
+fastqc 
+
+ magoč t salzberg s l flash fast length adjustment of short reads to improve genome assemblies bioinformatics 
+ – 
+
+ altschul s f gish w miller w myers e w lipman d j basic local alignment search tool j mol biol – 
+ li r w connor e e li c baldwin v i r l sparks m e characterization of the rumen microbiota of pre ruminant calves 
+
+using metagenomic tools environ microbiol – 
+ schloss p d et al introducing mothur open source platform independent community supported software for describing and 
+
+comparing microbial communities appl environ microb – 
+ caporaso j g et al qiime allows analysis of high throughput community sequencing data nat methods – 
+ clarke k r warwick r m change in marine communities an approach to statistical analysis and interpretation nd edition 
+
+primer e ltd plymouth 
+
+acknowledgements
+the stored genomic dna samples and fixed phytoplankton samples were obtained from the library of marine 
+samples korea institute of ocean science technology south korea this work was supported by the public 
+welfare safety research program through the national research foundation of korea nrf funded by the 
+ministry of science and ict of republic of korea development of autonomous microalgal identification system 
+and feasibility analyses of developed hab control technologies nrf m a a supported by the 
+research program of korea institute of marine science technology kimst funded by the ministry of oceans 
+and fisheries of republic of korea establishment and demonstration of red tide detection and prediction system 
+for minimizing red tide damage pm and supported by the research program of korea institute of ocean 
+science and technology development of marine cold water layer based multi culture technology for marine 
+biological resources pe 
+
+author contributions
+jung s w kang d lee t k designed the research plan jung s w kim h j shin h h park j s park s y 
+performed the experiments jung s w kang d kim h j park j s lee t k park s y discussed the results 
+jung s w kang d kim h j lee t k wrote the paper 
+
+additional information
+supplementary information accompanies this paper at https doi org s 
+
+http dx doi org s 
+http www bioinformatics babraham ac uk projects fastqc
+http www bioinformatics babraham ac uk projects fastqc
+http dx doi org s 
+
+
+www nature com scientificreports 
+
+ scientific reports doi s 
+
+competing interests the authors declare no competing interests 
+publisher s note springer nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations 
+
+open access this article is licensed under a creative commons attribution international 
+license which permits use sharing adaptation distribution and reproduction in any medium or 
+
+format as long as you give appropriate credit to the original author s and the source provide a link to the cre 
+ative commons license and indicate if changes were made the images or other third party material in this 
+article are included in the article’s creative commons license unless indicated otherwise in a credit line to the 
+material if material is not included in the article’s creative commons license and your intended use is not per 
+mitted by statutory regulation or exceeds the permitted use you will need to obtain permission directly from the 
+copyright holder to view a copy of this license visit http creativecommons org licenses by 
+ 
+© the author s 
+
+http creativecommons org licenses by 
+
+	mapping distribution of cysts of recent dinoflagellate and cochlodinium polykrikoides using next generation sequencing and 
+	results
+	dinoflagellate cyst composition based on next generation sequencing analysis 
+	dinoflagellate cyst composition based on microscopic analysis 
+	similarity in dinoflagellate cyst distribution based on the ngs and microscopic analysis 
+	presence of cochlodinium polykrikoides cyst 
+
+	discussion
+	methods
+	study area and sample collection 
+	morphological analysis 
+	genomic dna extraction and amplification of s rdna 
+	bioinformatics and data analysis 
+
+	acknowledgements
+	figure taxonomic distribution of super group super kingdom and phylum levels revealed by next generation sequencing analysis in surface sediments of tongyeong coast south sea of south korea during december and september 
+	figure common species or genus composition inferred assemblages of dinoflagellate cysts based on next generation sequencing a and morphological data b in surface sediments of tongyeong coast south sea of south korea during december and sept
+	figure distribution of total and common dinoflagellate species revealed by morphological analysis in surface sediments of tongyeong coast south sea of south korea during december sampling sites and september sampling site 
+	figure non metric multidimensional scaling plot based on next generation sequencing ngs as blue circles and microscopy lm as black square results of the bray–curtis dissimilarity at the stress of 
+	figure cyst distribution of cochlodinium polykrikoides revealed by morphological analysis in surface sediments of tongyeong coast south sea of south korea during december sampling sites and september sampling site 
+	figure map showing the sampling sites of surface sediments in tongyeong coast south sea of south korea during december and september 
+	table number of read counts and operational taxonomic units otus obtained from next generation sequencing analysis and the alpha diversity indices in this study 
+
+
+
+
+

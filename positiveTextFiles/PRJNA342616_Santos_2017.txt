@@ -1,0 +1,3118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+soil dna extraction procedure influences protist s rrna gene community profiling outcome
+
+
+p
+h
+p
+
+o
+
+s
+p
+p
+
+s
+l
+
+a
+
+b
+
+s
+m
+
+a
+h
+t
+m
+o
+s
+o
+p
+s
+e
+r
+e
+r
+o
+©
+
+k
+
+i
+
+i
+s
+
+ 
+
+t
+m
+ 
+
+e
+
+h
+ 
+
+rotist vol – july 
+ttp www elsevier de protis
+ublished online date march 
+
+riginal paper
+
+oil dna extraction procedure influences
+rotist s rrna gene community
+rofiling outcome
+
+usana s santosa inês nunesb tue k nielsena samuel jacquiodb 
+ars h hansena and anne windinga 
+
+department of environmental science aarhus university frederiksborgvej 
+roskilde denmark
+department of biology university of copenhagen universitetsparken 
+copenhagen denmark
+
+ubmitted september accepted march 
+onitoring editor david moreira
+
+dvances in sequencing technologies allow deeper studies of the soil protist diversity and function 
+owever little attention has been given to the impact of the chosen soil dna extraction procedure to
+
+he overall results we examined the effect of three acknowledged dna recovery methods two manual
+ethods isom gns gii and one commercial kit mobio on soil protist community structures
+
+btained from different sites with different land uses results from s rrna gene amplicon sequencing
+uggest that dna extraction method significantly affect the replicate homogeneity the total number of
+perational taxonomic units otus recovered and the overall taxonomic structure and diversity of soil
+rotist communities however dna extraction effects did not overwhelm the natural variation among
+amples as the community data still strongly grouped by geographical location the commercial dna
+xtraction kit was associated with the highest diversity estimates and with a corresponding higher
+etrieval of excavata cercozoa and amoebozoa related taxa overall our findings indicate that this
+xtraction offers a compromise between rare and dominant taxa representation while providing high
+
+eplication reproducibility a comprehensive understanding of the dna extraction techniques impact
+n soil protist diversity can enable more accurate diversity assays 
+
+ elsevier gmbh all rights reserved 
+
+ey words agriculture gns gii isom mobio protist diversity taxonomic structure 
+
+ntroduction
+
+n recent years the community structure of
+oil microeukaryotes has gained more attention 
+
+present address department of bioinformatics and microbe
+echnology novozymes brudelysvej bagsværd den 
+ark
+
+corresponding author 
+ mail aw envs au dk a winding 
+
+developments in high throughput sequencing tech 
+nology have facilitated the collection of significant
+amounts of data surpassing the output of pre 
+vious culture dependent methods used in soil
+studies geisen et al b jacquiod et al 
+ narasingarao et al protists consti 
+tute an important part of the soil microeukaryotes
+community with up to individuals per
+gram of soil geisen et al a and being
+
+ttp dx doi org j protis 
+ © elsevier gmbh all rights reserved 
+
+dx doi org j protis 
+http www elsevier de protis
+http crossmark crossref org dialog doi j protis domain pdf
+mailto aw envs au dk
+dx doi org j protis 
+
+
+ s s santos et al 
+
+active in important functions such as regulation
+of bacterial biomass productivity and community
+structure nutrient recycling and plant growth pro 
+motion bonkowski geisen et al b 
+moreover they are likely to harbour promising bio 
+control agents protecting plants against pathogenic
+fungi and plant pathogenic nematodes since it is
+now known that some protists in soil are facultative
+mycophagous and even omnivores geisen et al 
+ a c still this fraction of the soil microbial
+community remains relatively understudied when
+compared to its bacterial and fungal counterparts
+ geisen et al b lentendu et al 
+
+previously the sensitivity of two manual dna
+extraction methods iso method modified
+by plassart et al and gns gii ranjard
+et al and one commercial dna extraction
+kit mobio power lyzertm powersoil
+
+®
+dna isola 
+
+tion kit were tested for the detection of protist
+groups in a grassland and two arable sites santos
+et al results revealed that the commer 
+cial kit favours dna quality at the cost of dna
+yields additionally higher numbers of eukaryotic
+ s rrna gene copies were recovered from soil
+with the commercial procedure this comparative
+study was carried out using classical molecular
+approaches i e pcr amplification evaluation and
+quantification qpcr however no information on
+the effects to the structure of the protist community
+was obtained 
+
+generally dna isolation is impaired by diffi 
+cult accessibility to the target organism caused by
+the complex soil characteristics and matrix and or
+by insufficient cell lysis due to differences in the
+cell wall composition and structure as observed
+for bacterial strains salonen et al for
+microeukaryotes with fortified cell walls or very
+resilient cell membranes it is difficult to disrupt
+cells with regular chemical processes this leads
+to misrepresentation of certain microbial groups
+and low reproducibility of the dna extraction meth 
+ods carrigg et al frostegård et al 
+plassart et al therefore the most acknowl 
+edged soil dna extraction methods usually involve
+direct lysis of cells based on bead beating protocols
+ ogram et al which is less time consuming
+and yields more dna than indirect extraction meth 
+ods however shearing of dna increases with
+lysis time and purification steps are needed due
+to co extraction of humic acids that may interfere
+with dna quantification and downstream molec 
+ular applications delmont et al b jacquiod
+et al lentendu et al zhou et al 
+ consequently the natural variation arising
+
+from soil types together with the choice of dna
+extraction procedure is expected to influence the
+final results obtained from current molecular anal 
+ysis e g s rrna gene amplicon sequencing 
+indeed plassart et al showed that differ 
+ent soil physicochemical characteristics seemed to
+be the pivotal factor affecting the bacterial commu 
+nity recovered more recently wüst et al 
+demonstrated that the choice of extraction proto 
+cols affects the quality and quantity as well as the
+phylogenetic prokaryotic composition of the result 
+ing dna and rna extracts it has been suggested
+that several soil sampling and dna extraction
+strategies should be combined to access the whole
+soil microbial diversity delmont et al a how 
+ever this complementary approach is not suitable
+or relevant to wide scale studies where time and
+cost constrains the need to use a standardized sin 
+gle dna extraction procedure terrat et al 
+
+in the present study we examine how different
+dna extraction approaches influence our assess 
+ment of soil microbial communities by comparing
+protist diversity and composition using the three
+dna extraction procedures previously analysed
+by santos et al soil protist community
+structures were compared based on the amplifi 
+cation of the hypervariable v fragments of the
+ssu rrna gene and the number of operational
+taxonomic units otus recovered pairwise com 
+parisons were used to determine the presence of
+large discrepancies in the relative abundance of
+specific taxa due to dna extraction method 
+
+results
+
+initial sequence data analysis
+
+protist s rrna gene fragments were suc 
+cessfully amplified by pcr and sequenced
+from all soils and for each of the three
+dna extraction procedures a total of sam 
+ples were sequenced resulting in 
+ ± average ± standard error of the
+mean across all samples s rrna gene high 
+quality sequences with an average read length
+of bp sequence clustering yielded 
+eukaryotic otus ± representing an
+average good’s coverage of ± finally 
+after removal of otus affiliated to multicellular
+organisms ± high quality
+sequences were kept corresponding to 
+ ± otus representing an average good’s
+coverage of ± indicating an excel 
+lent overall otu coverage afforded by the deep
+
+
+
+dna extraction affects protist taxonomy 
+
+sequencing the good’s coverage estimator dif 
+fered according to the soil type and the dna
+extraction method used indicating deeper recov 
+ery of the community constituents across lancaster
+and castro verde sites with the manual meth 
+ods table moreover the rarefaction curves
+of the mobio dna extraction showed the gen 
+eral trend for all the samples where asymptotic
+levels were reached indicating sufficient sequenc 
+ing completeness to account for core community
+diversity detectable using s targeted primers
+ supplementary material fig s in order to focus
+on extraction method dependent variations venn
+diagrams were created for an overview of shared
+otus across the different dna extraction methods
+per site supplementary material fig s a total
+of and otus were shared among
+the three dna extraction methods for castro verde 
+lancaster and scheyern sites respectively sup 
+plementary material fig s additionally the
+commercial kit recovered a higher percentage of
+unique otus for castro verde and lancaster sites 
+while the isom recovered a higher number of otus
+for the scheyern site however when looking at
+the otus recovered by all dna extraction meth 
+ods they represented a considerable proportion of
+the total sequence abundance for all sites 
+ supplementary material fig s indicating that all
+methods could recover the most prominent taxa 
+
+soil protist diversity and composition
+
+protist alpha diversity in the samples was anal 
+ysed by two way permanova to determine the
+impact of dna extraction method at each site
+ table significant shifts on alpha diversity were
+detected for all parameters except chao with the
+dna extraction and the soil site as factors rich 
+ness as the number of observed otus seemed to
+be significantly affected by dna extraction method
+in the lancaster site indicating that the commercial
+kit and the gns gii method recovered the high 
+est number of otus table the mean values of
+observed otus across all dna extraction methods
+ranged from ± extracted with isom 
+and ± extracted with the commercial
+kit both from the lancaster site shannon index
+was significantly different according to site with
+castro verde and scheyern showing the lowest
+values table at scheyern significant differences
+were also observed between mobio and gns gii 
+with the first method recovering higher diversity 
+the mean shannon diversity across all dna extrac 
+tion methods and soil sites was ± table 
+similarly equitability differed significantly among ta
+
+b
+le
+
+ 
+
+ 
+
+ 
+
+s
+um
+
+m
+ar
+
+y 
+
+of
+
+ 
+
+th
+e 
+
+d
+n
+
+a
+
+ 
+
+ex
+tr
+
+ac
+tio
+
+n 
+
+m
+et
+
+ho
+ds
+
+ 
+
+ef
+fe
+
+ct
+s 
+
+on
+
+ 
+
+pr
+ot
+
+is
+ts
+
+ 
+
+al
+ph
+
+a 
+di
+
+ve
+rs
+
+ity
+ 
+
+in
+di
+
+ce
+s 
+
+w
+er
+
+e 
+
+ca
+lc
+
+ul
+at
+
+ed
+
+ 
+
+fo
+r 
+
+ea
+ch
+
+ 
+
+si
+te
+
+ 
+
+at
+
+ 
+
+o
+t
+
+u
+
+ 
+
+le
+ve
+
+l 
+av
+
+er
+ 
+
+ag
+e 
+
+± 
+
+st
+an
+
+da
+rd
+
+ 
+
+er
+ro
+
+r 
+ a
+
+n
+o
+
+v
+a
+
+ 
+
+gr
+ou
+
+pi
+ng
+
+ 
+
+w
+ith
+
+ 
+
+tu
+ke
+
+y’
+s 
+
+te
+st
+
+ 
+
+ar
+e 
+
+de
+no
+
+te
+d 
+
+by
+
+ 
+
+su
+pe
+
+rs
+cr
+
+ip
+t l
+
+et
+te
+
+rs
+ 
+
+ p
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ t
+uk
+
+ey
+ 
+
+ 
+
+d
+iff
+
+er
+en
+
+ce
+s 
+
+be
+tw
+
+ee
+n 
+
+so
+il 
+
+sa
+m
+
+pl
+es
+
+ar
+e 
+
+de
+no
+
+te
+d 
+
+by
+
+ 
+
+as
+te
+
+ris
+ks
+
+ 
+
+in
+
+ 
+
+th
+e 
+
+re
+sp
+
+ec
+tiv
+
+e 
+
+co
+lu
+
+m
+n 
+
+ p
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ t
+uk
+
+ey
+ 
+
+ 
+
+t
+he
+
+ 
+
+la
+rg
+
+es
+t v
+
+al
+ue
+
+s 
+in
+
+ 
+
+ea
+ch
+
+ 
+
+co
+lu
+
+m
+n 
+
+ar
+e 
+
+bo
+ld
+
+ed
+
+ 
+
+fo
+r 
+
+re
+fe
+
+re
+nc
+
+e 
+
+s
+o
+
+il 
+
+si
+te
+
+ d
+n
+
+a
+
+ 
+
+tr
+im
+
+m
+ed
+
+ 
+
+o
+b
+
+se
+rv
+
+ed
+
+ 
+
+o
+t
+
+u
+s 
+
+c
+h
+
+ao
+ 
+
+ 
+
+s
+h
+
+an
+n
+
+o
+n
+
+ 
+
+e
+q
+
+u
+it
+
+ab
+ili
+
+ty
+
+ 
+
+g
+o
+
+o
+d
+
+’s
+
+ 
+
+co
+ve
+
+ra
+g
+
+e
+
+ex
+tr
+
+ac
+ti
+
+o
+n
+
+ 
+
+se
+q
+
+u
+en
+
+ce
+s 
+
+ s
+ 
+
+ c
+ 
+
+ h
+ 
+
+ h
+ lo
+
+g
+ 
+ s
+
+ 
+
+ 
+
+ g
+ 
+
+c
+as
+
+tr
+o
+
+ 
+
+v
+er
+
+d
+e
+
+is
+o
+
+m
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+a
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+ 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+a
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+a
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+a
+b
+
+g
+ns
+
+ g
+ii 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+a
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+m
+
+ob
+io
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+b
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+l
+
+an
+ca
+
+st
+er
+
+is
+o
+
+m
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+a
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+a
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+b
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+b
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ a
+a
+
+g
+ns
+
+ g
+ii 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+b
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ab
+ 
+
+ 
+ 
+
+± 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ a
+b
+
+m
+ob
+
+io
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+c
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+b
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ b
+s
+
+ch
+ey
+
+er
+n
+
+is
+o
+
+m
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+a
+
+ 
+ 
+
+ 
+
+± 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ a
+
+b
+a
+
+b
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+a
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+b
+g
+
+ns
+ g
+
+ii 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+a
+
+ 
+ 
+
+ 
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ a
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+m
+
+ob
+io
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+b
+
+ 
+ 
+
+ 
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+± 
+
+ 
+ b
+
+ 
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+± 
+
+ 
+ 
+
+ 
+
+
+
+ s s santos et al 
+
+figure taxa plots summarizing the relative abundance of taxon assigned otus identified for the different
+soil samples with different dna extraction methods taxon appears at phylum level of the pr database and
+represent of the total data asterisk in the taxonomical legend represents significant differences across
+dna extraction methods anova p fdr 
+
+sites with lancaster site showing higher evenness
+ table 
+
+the bar plot in figure displays the propor 
+tions of the top most abundant phyla in all three
+sites recovered by the different methods additional
+description of the protist community composition
+is provided in supplementary material supple 
+mentary material fig s the most abundant
+super group comprising of the soil protist
+communities was sar group comprising the stra 
+menopiles alveolata and rhizaria groups the
+rhizaria phylum performed of the total soil
+protists and was essentially composed of cercozoa
+taxa while stramenopiles with showed oomy 
+cota as the most abundant taxa the amoebozoa
+phylum with showed the lobosa subphylum as
+the most abundant other eukaryota super groups
+were also observed such as archaeplastida 
+mainly composed of taxa belonging to chlorophyta
+and rhodophyta alveolata with apicom 
+plexa followed by the ciliophora group being
+the most abundant taxa opisthokonta and
+the mesomycetozoa class unclassified eukaryota
+ and other excavata taxa moreover 
+ of the total sequences remained unclassified
+ fig supplementary material fig s 
+
+effects of the dna extraction methods on
+soil protist community
+
+despite the clear and significant differences
+between the proportional abundances of taxa
+between the sites explaining of the commu 
+nity variance p dna extraction method
+
+appeared to be the most explanatory factor
+for the differences observed at phylum level
+ explaining of the variation p 
+ table the anova with a false discovery rate
+correction showed that the relative proportion of
+certain phyla varied significantly between dna
+extractions p with mobio kit yielding the
+highest numbers for the phyla marked with an aster 
+isk fig nevertheless at the family level the
+opposite was seen with the soil site explaining 
+and the dna extraction method explaining of
+the variance table pairwise comparisons done
+by permdisp analysis revealed that at family level
+the taxonomic community recovered by gns gii is
+significantly different from the community extracted
+with mobio kit and isom method supplementary
+material table s 
+
+dna extraction biases were further assessed at
+otu level by means of multivariate analysis where
+bga revealed a statistically significant non random
+distribution of the taxonomic profiles at each site 
+according to the dna extraction method fig 
+monte carlo simulation p e two main pat 
+terns of sample separation can be observed in the
+bga one related with the origin of the samples
+and another related with the used dna extrac 
+tion method while the first component of the
+bga pca separates the samples accord 
+ing to their land use lancaster grassland from
+scheyern and castro verde both arable sites 
+the second component pca differenti 
+ates the two arable sites this separation between
+land use was also observed by cluster analysis
+based on bray curtis dissimilarity distance sup 
+
+
+
+dna extraction affects protist taxonomy 
+
+table summary of the statistical tests performed to the taxonomic composition of the protist community
+at different taxonomic levels of the pr database taxonomy two way permanova analysis based on bray 
+curtis dissimilarity distances performed with permutations using site dna extraction and the interaction
+of both as factors the second column corresponds to the results of the analysis of deviance permutations 
+performed to the data fitted to a global negative binomial model nbglm all tests were executed using the
+packages mvabund and vegan for r software the significant values are bolded for reference p 
+
+permanova on bray curtis nbglm
+
+phyla level family level
+
+grouping by p value r p value r p value
+
+soil site 
+dna extraction 
+site extraction 
+residuals 
+
+figure between group analysis bga of the soil protist communities principal component analysis of
+taxonomic profiles after applying sample grouping according to the dna extraction method within each site iner 
+tia the insertion graph demonstrated the non random distribution of the bga tested by monte carlo
+simulation with permutations p e − 
+
+
+
+ s s santos et al 
+
+table three independently performed per 
+manova analysis to evaluate the effect of soil site
+ according to the different dna extraction methods 
+on soil protist communities analysis was performed
+at otu level by means of permanova based on
+bray curtis dissimilarity the significant values are
+bolded for reference p 
+
+permanova on bray curtis
+
+p value r 
+
+isom 
+gns gii 
+mobio 
+
+plementary material fig s after removing the
+effects of the inherently different protist community
+compositions of the different soils bga also
+revealed a clear effect of the different extraction
+methods on the determined community composi 
+tion especially for lancaster and scheyern where
+samples extracted with the mobio kit cluster apart
+from the others fig these observations were
+reinforced by simper analysis revealing an over 
+all average divergence of and
+ among the dna extractions for castro
+verde lancaster and scheyern site respectively 
+
+moreover the interaction between soil site and
+dna extraction was significant when a global nega 
+tive binomial model nbglm was applied table 
+therefore to investigate whether intrinsic environ 
+mental parameters control protists recovered by the
+different dna extraction methods we performed
+permutational multivariate analysis of variance for
+each site individually the results are given in
+supplementary material supplementary material
+table s at each site the most significant factor
+was the dna extraction method used whereas only
+moisture content in lancaster site was also signif 
+icant additionally we generated a nmds graph
+of the samples where we plotted the direction of
+change for the three significant environmental vari 
+ables by permanova supplementary material
+fig s and table s from this an environmen 
+tal gradient associated with moisture and total c
+content could be seen the latter being negatively
+associated with ph consequently we evaluated
+which of the three extraction methods was the most
+effective for discriminating differences in protist
+communities resulting from site specific physico 
+chemical characteristics table all methods
+showed similar results in discriminating commu 
+nity differences due to soil site r between 
+and albeit the commercial protocol seemed to
+
+explain a higher percentage table these
+analyses establish that geographical location and
+dna extraction method both have a major impact
+on observed community structure at all taxonomic
+levels 
+
+furthermore nbglm analysis recovered a
+large number of taxa that differed significantly in
+abundance among the dna extraction methods
+ p the responsible taxa for the multivariate
+patterns were summarized in a heat map of cen 
+tered and scaled counts in figure the use of the
+commercial kit significantly increased the observed
+proportion of sequences belonging to rhizaria
+ paracercomonadidae plasmodiophorida allap 
+sidae proleptomonadidae spongomonadidae 
+vampyrellida cercomonadidae and unclassified
+sequences of cercozoa alveolata colpodida 
+excavata heterolobosea amoebozoa schizo 
+plasmodiids filamoebidae variosea atcc 
+and stramenopiles chrysophyceae clade c 
+super groups at all sites fig as shown before 
+the effect of soil site can be also observed in
+figure for example isom recovered more
+sequences belonging to variosea group at schey 
+ern site however at castro verde site mobio
+showed higher recovery rates a similar pattern
+can be found for the gregarine taxa in schey 
+ern and lancaster site where mobio and manual
+methods performed differently mobio was effective
+in recovering a large diversity of unknown gre 
+garines from scheyern site however the manual
+methods performed better for the lancaster site 
+
+discussion and conclusions
+
+the variation arising from soil types together with
+the choice of dna extraction procedure is expected
+to influence the final result obtained from current
+molecular analysis e g s rrna gene amplicon
+sequencing such effects can be expressed as
+measures of community structure alpha and beta 
+diversity and may also result in significant impacts
+in comparative analyses penton et al 
+based on our s rrna gene sequence analysis 
+the choice of dna extraction method significantly
+influenced the overall protist community structure
+as measured by otu richness evenness diver 
+sity and the dispersion among replicates contrary
+to the results of terrat et al on soil bac 
+terial community composition no differences were
+observed in terms of replicate variation between
+isom and gns gii methods for protist community 
+however a higher reproducibility between repli 
+cates was observed for samples extracted with the
+
+
+
+dna extraction affects protist taxonomy 
+
+figure heat map plot depicting the significant differences between the protist communities according to the
+effect of the dna extraction method taxa which relative abundance significantly changed with dna extrac 
+tion anova p were centered and scaled to the average of each taxon’s relative abundance sample
+constrained clustering and simper analysis were based on bray curtis dissimilarity index rioja r package 
+overall average dissimilarity of the taxa was the colour keys at the beginning of each row and column
+show sample origins and taxonomic affiliations of displayed taxa respectively 
+
+mobio method the higher number of otus recov 
+ered by the mobio approach in most sites was
+preceded by a higher level of dna purity in terms
+of od ratio and a higher absolute abundance
+of s rrna genes previously recovered by qpcr
+ santos et al therefore the higher richness
+associated with mobio extraction and lower varia 
+tion among replicates indicates that this approach
+is the most suitable for protist diversity assessments
+at these three sites 
+
+the implementation of only small beads in the
+commercial kit in contrast to the manual tech 
+niques could be one of the factors responsible for
+the higher recovery of protist otus it has been
+reported that various kinds of microbial cells in
+water soil and sediment samples could be dis 
+rupted with beads of different materials and sizes 
+likewise the amount of beads the speed and the
+temperature during bead beating have all been
+shown to have an effect on extraction efficiency
+ bürgmann et al wintzingerode et al 
+the existence of unique taxa obtained by each
+
+of the methods might be a decisive factor for
+choosing the dna extraction method to be used
+in an experiment especially if targeting specific
+protist groups the summary of the most diver 
+gent otus according to the dna extraction method
+shows that some cercozoa taxa were recovered in
+higher relative abundance by mobio cercozoans
+are known to be ecologically significant in soils 
+being important bacterial predators geisen et al 
+ b howe et al amoebozoans which
+display a large and mostly uncharacterized diversity
+in soils geisen et al b were also recovered
+in higher relative abundance by mobio fig the
+conosa group amoebozoa includes taxa such
+as acanthamoeba known to be prevalent in soil 
+responsible for major ecological roles in grassland
+ecosystems and also to be consistently overlooked
+by both traditional and molecular sampling method 
+ologies fiore donno et al gns gii method 
+on the other hand recovered higher relative abun 
+dances of stramenopiles super group showing that
+applied combination of chemical lysis and different
+
+
+
+ s s santos et al 
+
+bead sizes was beneficial this group can include
+plant pathogen taxa of economic importance as
+they are known to cause extensive damage to tree
+roots in natural forest soils marano et al 
+
+the effect of the interaction between soil type 
+their inherent environmental variables and dna
+extraction method was also observed for the group
+of gregarines this is a diverse group of apicom 
+plexan known to form very resistant cysts and live
+as parasites in terrestrial freshwater and marine
+environments wakeman et al this is a
+group of interest for soil studies since it includes
+a vast diversity of obligate parasites of terrestrial
+insects and the more general apicomplexa group
+includes the causative agents of malaria coccid 
+iosis cryptosporidiosis and toxoplasmosis dupont
+et al 
+
+it is known that dna yield is strongly depen 
+dent upon soil type due to ph organic matter 
+water content and clay and silt content as these
+factors can influence either the growth of certain
+microbial taxa the formation of aggregates which
+host microorganisms or the binding of dna to
+soil particles plassart et al saeki et al 
+ sagova mareckova et al wüst et al 
+ altogether environmental factors such as
+ph total c content and moisture helped to shape
+unique communities of protist in the soils stud 
+ied nevertheless these factors were previously
+reported to influence dna extraction purity and
+pcr performance sagova mareckova et al 
+and therefore to influence the recovery efficiency of
+the dna extractions as a result the implications of
+different extraction methods for estimates of protist
+diversity in soils are particularly relevant for stud 
+ies of the interdependence of microbial diversity
+and environmental parameters across physico 
+chemical diverse soils this illustrates the essential
+requirement for reproducibility and consistency in
+extraction methods when comparing studies the
+significance of standardized dna extraction meth 
+ods for microbial community characterization is
+clear martin laurent et al terrat et al 
+vishnivetskaya et al however the value
+of the gained resolution by mobio kit needs to
+be considered relative to the variation of the fea 
+tures attributes of the system under study and the
+resolution needed to answer the research question 
+
+methods
+
+soil sampling and dna extraction the procedure for soil
+sampling from the top cm was previously described by
+santos et al briefly samples were collected from
+
+three different sites belonging to two different land uses 
+castro verde cv in portugal and scheyern sh in ger 
+many are arable sites with fallow and organic agriculture land
+management respectively lancaster ln in uk is a grassland
+site each soil sample was constituted by soil cores ran 
+domly taken within each site three soil samples per tested dna
+extraction method were collected in each site working as repli 
+cates n sites x replicates x dna extraction methods 
+samples soil physicochemical characteristics ph texture 
+organic carbon total n and c at each site were reported by
+griffiths et al 
+
+three different dna extraction methods were used in order
+to compare the soil protist communities the commercial extrac 
+tion kit power lyzertm powersoil
+
+®
+dna isolation kit mobio
+
+laboratories carlsbad california the iso standard method
+ isom modified by plassart et al and the gns gii pro 
+tocol gns gii published by ranjard et al all the dna
+extractions were performed according to the manufacturers and
+referenced instructions 
+
+pcr amplification and illumina sequencing the hyper 
+variable v region of the ssu rrna gene was amplified
+using the primer pair tareukv f and tareukrev stoeck
+et al yielding approximately bp fragments forward
+and reverse primers were tagged on the ′ end with illumina
+overhang adapters following manufacturer’s instructions pcr
+reactions were run in duplicates with veriti
+
+®
+thermal cycler
+
+ thermofisher scientific nærum denmark with accuprimetm
+
+supermix ii life technologies inc �m of each primer
+and ng �l− of environmental dna pcr products resulting
+from duplicated reactions were pooled and then purified using a
+magnetic bead capture kit magbio thames innovation cen 
+tre united kingdom lentendu et al a second pcr
+reaction was performed on the purified products to introduce
+illumina miseq’s sequencing adapters following the manufac 
+turer’s instructions pcr products were once again purified
+using a magnetic bead capture kit magbio thames inno 
+vation centre united kingdom and the resulting amplicon
+libraries were quantified by qubit
+
+®
+fluorometric quantitation
+
+ invitrogen life technologies nærum denmark followed by
+normalization according to illumina instructions paired end
+sequencing was performed using reagent v illumina kit via
+miseq platform × bp illumina san diego ca usa 
+
+sequencing and bioinformatics analysis raw
+sequences were processed and assessed for quality fil 
+tered on the basis of quality q score sequence length
+and pcr primer trimming by following the high resolution
+unoise pipeline with usearch v edgar briefly 
+overlapping reads were merged and subsequently quality
+filtered based on a maximum expected error per read of 
+by using a fastq maxee option to fastq filter command 
+after quality filtering the following steps were taken using
+the unoise pipeline with default settings unless stated
+otherwise dereplication of redundant sequences 
+unoise command to perform denoising error correction of
+amplicon reads and creation of an otu table assembled
+sequences were phylogenetically assigned with the uclust
+consensus taxonomy assigner edgar against the pr 
+database guillou et al with a threshold of similarity
+ dupont et al geisen et al a otus affiliated
+with metazoan fungi and embryophytes as multicellular
+organisms have been excluded before further analyses bates
+et al grossmann et al for the alpha diversity
+analysis and to avoid biases related with sample size the
+number of reads per sample was normalized by random
+subsampling to reads the raw amplicon sequence data
+
+
+
+dna extraction affects protist taxonomy 
+
+sets are available on the ncbi sequence read archive sra 
+under project accession number prjna 
+
+statistical and cluster analysis all statistical tests per 
+formed in this study were considered significant at p 
+unless otherwise indicated however we provide the pre 
+cise p values wherever possible estimates of alpha diversity
+were based on evenly rarefied otu abundance matrices and
+included observed richness chao shannon and equitabil 
+ity indices as calculated in qiime v alpha diversity py 
+equitability is defined in qiime as h log s where h is
+the shannon index and s is the number of observed otus 
+sampling effort was estimated using good’s coverage com 
+plement of the ratio between local singleton otus and the total
+sequence count as described by good also calculated
+in qiime rarefaction curves of the observed richness were
+calculated using the past software hammer et al on
+non rarefied and rarefied counts per sample supplementary
+material fig s the effect of dna extraction and soil site on
+alpha diversity indices was tested with two way permanova
+with vegan package oksanen et al of the r software
+version r development core team 
+
+the relationship between microbial communities derived
+from different samples was first visualized using venn diagrams
+ limma package smyth patterns of sample dissimilarity
+were further visualized using a principal component analysis
+ pca after center scaling normalization ade package dray
+and dufour a constrained ordination was applied to the
+pca by grouping the samples according to the dna extrac 
+tion method within each site using the between group analysis
+method bga similarly to jacquiod et al the statistical
+significance of the selected grouping factor was tested with a
+monte carlo simulation using permutations 
+
+we used bray–curtis relative abundance metrics to cal 
+culate pairwise community distance matrices and examine
+differences in beta diversity a non metric multidimensional
+scaling nmds was constructed to examine the robustness
+of the sample clustering samples were fitted as centroids 
+and soil characteristic variables were fitted as vectors onto
+the ordination plots using the ‘envfit’ function in the vegan
+package statistical differences in community composition
+between locations and dna extraction methods were analysed
+by permanova anderson permdist anderson
+ and by fitting the compositional data to a general 
+ized negative binomial model followed by an analysis of
+deviance mvabund package wang et al all tests
+were computed using permutations for significance 
+testing finally we conducted a similarity of percentage
+analysis simper and anova with a false discovery rate
+using the benjamini hochberg correction fdr qiime v 
+group significance py in order to determine the taxa that con 
+tributed the most for the differences in relative abundance
+among the dna extraction methods the selected taxa were
+plotted in a heat map of centered and scaled counts as per 
+formed by jacquiod et al mvabund – wang et al 
+rioja – juggins made – culhane et al packages 
+
+conflict of interest statement
+
+the authors declare that the research was con 
+ducted in the absence of any commercial or
+financial relationships that could be construed as
+a potential conflict of interest 
+
+acknowledgements
+
+this research is part of the european project train 
+biodiverse sss and in and was funded by marie
+curie actions and by danish centre for environ 
+ment and energy aarhus university through the
+environmental dna centre authors would like to
+thank tina thane tanja begovic and pia petersen
+for laboratory support this work was supported
+by the european union’s seventh framework pro 
+gramme for research technological development
+and demonstration under grant agreement no 
+ 
+
+appendix a supplementary data
+
+supplementary data associated with this arti 
+cle can be found in the online version at
+http dx doi org j protis 
+
+references
+
+anderson mj a new method for non parametric multi 
+variate analysis of variance austral ecol – 
+
+anderson mj distance based tests for homogeneity of
+multivariate dispersions biometrics – 
+
+bates st clemente jc flores ge walters w parfrey lw 
+knight r et al global biogeography of highly diverse
+protistan communities in soil isme j – 
+
+bonkowski m protozoa and plant growth the microbial
+loop in soil revisited new phytol – 
+
+bürgmann h pesaro m widmer f zeyer j a strategy
+for optimizing quality and quantity of dna extracted from soil j
+microbiol methods – 
+
+carrigg c rice o kavanagh s collins g o’flaherty v
+ dna extraction method affects microbial community
+profiles from soils and sediment appl microbiol biotechnol
+ – 
+
+culhane ac thioulouse j perrière g higgins dg 
+made an r package for multivariate analysis of gene expres 
+sion data bioinformatics – 
+
+delmont to robe p cecillon s clark im constancias f 
+simonet p et al a accessing the soil metagenome
+for studies of microbial diversity appl environ microbiol
+ – 
+
+delmont to robe p clark i simonet p vogel tm b 
+metagenomic comparison of direct and indirect soil dna extrac 
+tion approaches j microbiol methods – 
+
+dray s dufour b the ade package implementing the
+duality diagram for ecologists j stat softw – 
+
+dupont a griffiths ri bell t bass d differences in
+soil micro eukaryotic communities over soil ph gradients are
+
+http dx doi org j protis 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+
+
+ s s santos et al 
+
+strongly driven by parasites and saprotrophs environ microbiol
+ – 
+
+edgar rc search and clustering orders of magnitude
+faster than blast bioinformatics – 
+
+edgar rc unoise improved error correction for illu 
+mina s and its amplicon sequencing 
+
+fiore donno am weiner j wubet t bonkowski m 
+metacommunity analysis of amoeboid protists in grassland
+soils sci rep 
+
+frostegård Å courtois s ramisse v clerc s bernillon d 
+le gall f et al quantification of bias related to the
+extraction of dna directly from soils appl environ microbiol
+ – 
+
+geisen s bandow c römbke j bonkowski m a soil
+water availability strongly alters the community composition of
+soil protists pedobiologia jena – 
+
+geisen s fiore donno am walochnik j bonkowski m
+ b acanthamoeba everywhere high diversity of acan 
+thamoeba in soils parasitol res – 
+
+geisen s laros i vizcaíno a bonkowski m de groot g
+ b not all are free living high throughput dna metabar 
+coding reveals a diverse community of protists parasitizing soil
+metazoa mol ecol – 
+
+geisen s koller r hünninghaus m dumack k urich t 
+bonkowski m a the soil food web revisited diverse
+and widespread mycophagous soil protists soil biol biochem
+ – 
+
+geisen s rosengarten j koller r mulder c urich t 
+bonkowski m c pack hunting by a common soil amoeba
+on nematodes environ microbiol – 
+
+good ij the population frequencies of species and
+the estimation of population parameters biometrika trust
+ – 
+
+griffiths bs römbke j schmelz rm scheffczyk a faber
+jh bloem j et al selecting cost effective and policy 
+relevant biological indicators for european monitoring of soil
+biodiversity and ecosystem function ecol indic – 
+
+grossmann l jensen m heider d jost s glücksman
+e hartikainen h et al protistan community analy 
+sis key findings of a large scale molecular sampling isme j
+ – 
+
+guillou l bachar d audic s bass d berney c bittner
+l et al the protist ribosomal reference database
+ pr a catalog of unicellular eukaryote small sub unit
+rrna sequences with curated taxonomy nucleic acids res
+ d –d 
+
+hammer Ø harper dat ryan pd paleontological
+statistics software package for education and data analysis 
+palaeontol electron – 
+
+howe at bass d chao ee cavalier smith t new
+genera species and improved phylogeny of glissomonadida
+ cercozoa protist – 
+
+jacquiod s stenbæk j santos ss winding a sørensen
+sj priemé a metagenomes provide valuable com 
+parative information on soil microeukaryotes res microbiol
+ – 
+
+juggins s rioja analysis of quaternary science data r
+package version 
+
+lentendu g wubet t chatzinotas a wilhelm c buscot f 
+schlegel m effects of long term differential fertilization
+on eukaryotic microbial communities in an arable soil a multiple
+barcoding approach mol ecol – 
+
+marano av jesus al de souza ji jerônimo gh 
+gonçalves dr boro mc et al ecological roles of
+saprotrophic peronosporales oomycetes straminipila in nat 
+ural environments fungal ecol – 
+
+martin laurent f philippot l hallet s chaussod r soulas
+g catroux g dna extraction from soils old bias for new
+microbial diversity analysis methods appl environ microbiol
+ – 
+
+narasingarao p podell s ugalde j brochier armanet c 
+emerson jb brocks jj et al de novo metagenomic
+assembly reveals abundant novel major lineage of archaea in
+hypersaline microbial communities isme j – 
+
+ogram a sayler s barkay t the extraction and purifi 
+cation of microbial dna from sediments j microbiol methods
+ – 
+
+oksanen j blanchet fg friendly m kindt r legen 
+dre p mcglinn d minchin pr o’hara rb simpson gl 
+solymos p stevens mhh szoecs e wagner h 
+vegan community ecology package r package version 
+https cran r project org package vegan
+
+penton cr vadakattu vsg yu j tiedje jm size
+matters assessing optimum soil sample size for fungal and
+bacterial community structure analyses using high throughput
+sequencing of rrna gene amplicons front microbiol 
+
+plassart p terrat s thomson b griffiths r dequiedt s 
+lelievre m et al evaluation of the iso standard 
+dna extraction procedure for assessing soil microbial abun 
+dance and community structure plos one e 
+
+r development core team r a language and envi 
+ronment for statistical computing r foundation for statistical
+computing available at http www r project org 
+
+ranjard l dequiedt s lelievre m maron pa mougel c 
+morin f et al platform genosol a new tool for con 
+serving and exploring soil microbial diversity environ microbiol
+rep – 
+
+saeki k ihyo y sakai m kunito t strong adsorption of
+dna molecules on humic acids environ chem lett – 
+
+sagova mareckova m cermak l novotna j plhackova k 
+forstova j kopecky j innovative methods for soil dna
+purification tested in soils with widely differing characteristics 
+appl environ microbiol – 
+
+salonen a nikkilä j jalanka tuovinen j immonen o 
+rajilić stojanović m kekkonen ra et al compara 
+tive analysis of fecal dna extraction methods with phylogenetic
+microarray effective recovery of bacterial and archaeal dna
+using mechanical cell lysis j microbiol methods – 
+
+santos ss nielsen tk hansen l winding a com 
+parison of three dna extraction methods for recovery of soil
+protist dna j microbiol methods – 
+
+smyth gk limma linear models for microarray data in
+gentleman r carey vj huber w irizarry ra dudoit s eds 
+
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+https cran r project org package vegan
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http www r project org 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+
+
+dna extraction affects protist taxonomy 
+
+bioinformatics and computational biology solutions using r
+and bioconductor springer new york pp – 
+
+stoeck t breiner hw filker s ostermaier v kammer 
+lander b sonntag b a morphogenetic survey on
+ciliate plankton from a mountain lake pinpoints the necessity of
+lineage specific barcode markers in microbial ecology environ
+microbiol – 
+
+terrat s plassart p bourgeois e ferreira s dequiedt s 
+adele dit de renseville n et al meta barcoded eval 
+uation of the iso standard dna extraction procedure to
+characterize soil bacterial and fungal community diversity and
+composition microb biotechnol – 
+
+vishnivetskaya ta layton ac lau mcy chauhan a 
+cheng kr meyers aj et al commercial dna extrac 
+tion kits impact observed microbial community composition in
+permafrost samples fems microbiol ecol – 
+
+wakeman kc reimer jd jenke kodama h leander bs
+ molecular phylogeny and ultrastructure of caliculium
+
+glossobalani n gen et sp apicomplexa from a pacific glos 
+sobalanus minutus hemichordata confounds the relationships
+between marine and terrestrial gregarines j eukaryot microbiol
+ – 
+
+wang y naumann u wright st warton di mvabund
+– an r package for model based analysis of multivariate abun 
+dance data methods ecol evol – 
+
+wintzingerode f göbel ub stackebrandt e deter 
+mination if microbial diversity in environmental samples pitfalls
+of pcr based analysis fems microbiol rev – 
+
+wüst pk nacke h kaiser k marhan s sikorski j kandeler
+e et al estimates of soil bacterial ribosome content
+and diversity are significantly affected by the nucleic
+acid extraction method employed appl environ microbiol
+ – 
+
+zhou j bruns ma tiedje jm dna recovery from soils
+of diverse composition appl environ microbiol – 
+
+available online at www sciencedirect com
+
+sciencedirect
+
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http refhub elsevier com s sbref 
+http www sciencedirect com science journal 
+
+	soil dna extraction procedure influences protist s rrna gene community profiling outcome
+	introduction
+	results
+	initial sequence data analysis
+	soil protist diversity and composition
+	effects of the dna extraction methods on soil protist community
+
+	discussion and conclusions
+	methods
+	conflict of interest statement
+	acknowledgements
+	appendix a supplementary data
+	references
+
+
+

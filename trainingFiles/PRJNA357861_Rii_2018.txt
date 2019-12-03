@@ -1,0 +1,2394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+differential responses of eukaryotic phytoplankton to nitrogenous nutrients in the north pacific subtropical gyre
+
+
+original research
+published march 
+
+doi fmars 
+
+frontiers in marine science www frontiersin org march volume article 
+
+edited by 
+
+alison buchan 
+
+university of tennessee knoxville 
+
+united states
+
+reviewed by 
+
+jun sun 
+
+tianjin university of science and
+
+technology china
+
+anne w thompson 
+
+portland state university 
+
+united states
+
+ correspondence 
+
+matthew j church
+
+matt church umontana edu
+
+†present address 
+
+yoshimi m rii 
+
+hawaii institute of marine biology 
+
+university of hawaii at mānoa 
+
+kāne‘ohe hi united states
+
+matthew j church 
+
+flathead lake biological station 
+
+university of montana polson mt 
+
+united states
+
+specialty section 
+
+this article was submitted to
+
+aquatic microbiology 
+
+a section of the journal
+
+frontiers in marine science
+
+received october 
+
+accepted march 
+
+published march 
+
+citation 
+
+rii ym bidigare rr and church mj
+
+ differential responses of
+
+eukaryotic phytoplankton to
+
+nitrogenous nutrients in the north
+
+pacific subtropical gyre 
+
+front mar sci 
+
+doi fmars 
+
+differential responses of eukaryotic
+phytoplankton to nitrogenous
+nutrients in the north pacific
+subtropical gyre
+yoshimi m rii † robert r bidigare and matthew j church †
+
+ department of oceanography university of hawaii at mānoa honolulu hi united states daniel k inouye center for
+
+microbial oceanography research and education university of hawaii at mānoa honolulu hi united states hawaii
+
+institute of marine biology university of hawaii at mānoa kāne‘ohe hi united states
+
+fixed inorganic nitrogen n is persistently scarce in the well lit regions of the subtropical
+
+ocean gyres and its supply plays an important role in controlling phytoplankton
+
+productivity in a series of experiments conducted in the north pacific subtropical gyre
+
+ npsg we examined changes in primary productivity and eukaryotic phytoplankton
+
+community structure in response to additions of nitrate no− ammonium nh
+ 
+ or
+
+urea in conjunction with phosphate and silicic acid overall we observed large increases
+
+in rates of c primary productivity ∼ to fold and concentrations of chlorophyll
+
+a ∼ to fold following n addition much of the physiological response was due to
+
+larger µm phytoplankton whose contributions to primary productivity increased
+
+∼ fold while picophytoplankton – µm contributions decreased by a similar
+
+proportion five experiments conducted in the spring summer and winter revealed
+
+apparent seasonally dependent responses in phytoplankton community structure to
+
+n availability during the summer pennate diatoms increased significantly following n
+
+addition as evidenced by both photosynthetic pigment analyses and high throughput
+
+sequencing of s rdna for example following the addition of n substrates 
+
+concentrations of fucoxanthin a diatom pigment biomarker increased between and
+
+ fold and relative abundances of rrna genes belonging to pseudo nitzschia
+
+increased from negligible ∼ to – of the µm phytoplankton assemblage 
+
+however unlike the diatom driven responses observed in the summer experiments
+
+conducted in the spring and winter demonstrated large increases in concentrations of
+
+ ′ butanoyloxyfucoxanthin a pelagophyte pigment biomarker together with increases
+
+in the relative abundance of rrna genes clustering among pelagomonas overall 
+
+our findings revealed differences in the responses of major taxa during experiments
+
+conducted in different times of the year with concomitant impacts on patterns of
+
+phytoplankton diversity in addition the overall responses in chlorophyll a c primary
+
+production and eukaryotic phytoplankton community composition appeared largely
+
+independent of the type of n substrate added our results highlight seasonal scale
+
+differences on the role of n availability in shaping eukaryotic phytoplankton diversity in
+
+the surface waters of the oligotrophic npsg 
+
+keywords nitrogen nitrate ammonium phytoplankton eukaryotes picoeukaryotes
+
+https www frontiersin org journals marine science
+https www frontiersin org journals marine science editorial board
+https www frontiersin org journals marine science editorial board
+https www frontiersin org journals marine science editorial board
+https www frontiersin org journals marine science editorial board
+https doi org fmars 
+http crossmark crossref org dialog doi fmars domain pdf date stamp 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+https creativecommons org licenses by 
+mailto matt church umontana edu
+https doi org fmars 
+https www frontiersin org articles fmars full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+introduction
+
+in oligotrophic marine ecosystems such as the north pacific
+subtropical gyre npsg less than of organic matter
+produced is exported out of the euphotic zone as sinking
+particles implying rapid organic matter turnover and nutrient
+remineralization karl et al such low organic matter
+export in these regions has been attributed to the restricted supply
+of inorganic nutrients such as nitrogen n and phosphorus p 
+to the euphotic zone karl arrigo concentrations
+of nitrate nitrite n n and ammonium nh in the near 
+surface waters of the npsg are typically and nm 
+respectively wada and hattori karl et al hence 
+competition for limiting n could be central to structuring the
+productivity and diversity of planktonic communities in this
+ecosystem 
+
+n availability in the euphotic zone of the npsg varies on
+seasonal event to interannual scales exerting important control
+on plankton community succession primary productivity and
+particulate matter export in this oligotrophic habitat seasonal
+variability of nutrients in the euphotic zone is partly controlled
+by variations in the penetration of light for example the
+flux of light penetrating to the dimly lit regions of the
+euphotic zone varies seasonally and as a result nitrate no− 
+concentrations accumulate during the winter letelier et al 
+ the accumulated nutrients are subsequently consumed
+when the flux of light to the lower euphotic zone increases
+during the spring letelier et al additionally episodic
+to seasonal scale supply of no− to the lower euphotic zone can
+occur through convective mixing and displacement of isopycnal
+surfaces due to mesoscale processes such as eddies and planetary
+waves dandonneau et al sakamoto et al johnson
+et al in addition activities of n fixing microorganisms
+increase during the warm stratified summer months church
+et al increasing concentrations of dissolved organic n and
+nh in the surface waters karl et al 
+
+although picoplanktonic cyanobacteria are dominant
+contributors to biomass and rates of gross primary production
+in oligotrophic ocean ecosystems campbell et al karl 
+ karl and church eukaryotic phytoplankton play
+central roles in controlling material export net community
+production and nutrient cycling in these ecosystems benitez 
+nelson et al juranek et al alexander et al 
+ in the npsg analyses of photosynthetic pigment
+concentrations and quantification of cell abundances by
+both microscopy and flow cytometry has revealed that major
+taxa of eukaryotic phytoplankton distributed throughout the
+upper ocean include diatoms haptophytes pelagophytes and
+dinoflagellates bienfang and szyper campbell and
+vaulot venrick cortés et al moreover 
+distributions and abundances of these eukaryotic phytoplankton
+are temporally and spatially variable fluctuating in response
+to physical and chemical changes to the upper ocean habitat 
+for example sampling of two cyclonic eddies with varying
+rates of nutrient input as a result of spin up duration in the
+oligotrophic waters southwest of the hawaiian islands revealed
+disparities in major eukaryotic phytoplankton response within
+
+each eddy with subsequent consequences in food web structure
+and carbon export benitez nelson et al rii et al 
+additionally observations at station aloha to the north of the
+hawaiian islands have highlighted the important role of diatoms
+in regulating carbon export karl et al notably peaks in
+diatom driven export coincides with summertime periods when
+rates of n fixation and biomass of n fixing cyanobacteria are
+elevated dore et al villareal et al karl et al 
+
+past studies have demonstrated preferential uptake of nh 
+relative to no− by phytoplankton a finding hypothesized to
+reflect the energetic savings in assimilating reduced forms of
+n e g eppley et al dortch however various
+field based studies have concluded that cyanobacteria and
+eukaryotic phytoplankton in the oligotrophic oceans may rely
+on different forms of n to support their growth fawcett
+et al shilova et al such results highlight the
+potential role for different forms of n in controlling time 
+varying phytoplankton community structure to date however 
+there is limited information available on how different taxa of
+phytoplankton respond to changes in the availability and form
+of n substrates 
+
+in the current study we experimentally examined responses in
+upper ocean primary productivity and eukaryotic phytoplankton
+community structure to n enrichments at station aloha 
+in five separate experiments natural seawater plankton
+communities were treated with additions of no− or nh
+
+ 
+ 
+
+ or urea in one experiment and sampled daily over a to
+ hour period we sought to determine which eukaryotic
+phytoplankton assemblages responded to the additions of
+nitrogenous substrates and over what time scales providing
+insight into how variations in the availability of nitrogenous
+nutrients contribute to variability in phytoplankton community
+structure and growth in the euphotic zone of oligotrophic
+subtropical gyres 
+
+materials and methods
+
+experimental design
+experiments were conducted between july and april
+ during five research cruises to station aloha ◦n 
+ ◦w the well characterized study site of the hawaii ocean
+time series hot program karl and lukas sampling
+occurred during hot july “nvn ” hot 
+ march “nvn ” hoe dylan v july “nvn ” 
+hot december “n ” and hot april 
+“nvn ” aboard the r v kilo moana table seawater was
+collected in l polyvinylchloride bottles affixed to a bottle
+rosette sampler equipped with a sea bird conductivity 
+temperature and pressure sensors nine l polycarbonate
+carboys were filled with seawater from m that was pre 
+filtered from the rosette sampler through a nitex screen mesh
+size ∼ µm to exclude larger zooplankton three carboys
+received additions of no− target µm n final concentration
+as nano and three carboys received additions of nh
+
+ 
+ target
+
+ µm n final concentration as nh cl all carboys including
+three “control” carboys received additions of phosphate po − 
+target ∼ µm p final concentration as kh po and silicic
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+table dates cruise id duration sea surface temperature sst mixed layer depth mld and day length when each experiment was conducted 
+
+parameter experiment
+
+nvn nvn nvn n nvn 
+
+dates – jul mar− apr – jul – dec – apr 
+
+cruise id hot hot hd u hot hot 
+
+exp duration h 
+
+sst ◦c 
+
+mld m ± ± ± ± ± 
+
+day length hh mm 
+
+properties at m
+
+par mol quanta m− d− n a n a 
+
+chl a ng l− 
+
+n n nm n 
+
+po − nm p 
+
+si oh nm si 
+
+samples collected†
+
+nutrients ‡ 
+
+chl a sz fx chl a − − − − − 
+
+pigments fcm − − − 
+
+ c pp − 
+
+dna 
+
+measurements of downwelling par and concentrations of chlorophyll a chl a nitrate nitrite n n phosphate po − and silicic acid si oh at m are also shown samples
+
+collected for each experiment are also indicated 
+
+n a not available 
+
+ day length obtained from www solartopo com 
+†
+nutrients n n nh po
+
+ −
+ and si oh sz fx chl a size fractionated chlorophyll a fcm flow cytometric cell abundances 
+
+ c pp c primary production 
+
+‡symbols designate whether samples were collected “ ” or not collected “−” for subsequent analyses during each experiment 
+uhoe dylan v 
+
+acid si oh target µm si final concentration as na sio 
+to achieve a final n p si stoichiometric ratio of in
+the treatment carboys similar to the stoichiometry of these
+nutrients in the sub euphotic zone ∼ m waters at station
+aloha table for the experiment conducted in december
+ n the setup was identical to that described above
+except l carboys were used and three additional carboys
+were enriched with urea target µm n final concentration
+as co nh all carboys were incubated for – h and
+subsampled at approximately daily timescales throughout the
+experiment table all sampling was conducted before sunrise
+in order to allow primary productivity measurements to span
+the full photoperiod incubators used for the experiments
+were covered with blue plexiglas filters shaded to of the
+surface photosynthetic active radiation par temperature and
+solar irradiance levels were monitored continuously throughout
+the experiment using a waterproof temperature light logger
+ hobo pendant r© ua accompanying physical and
+biogeochemical properties at the time of sampling for these
+experiments were obtained from the hot program database
+ http hahana soest hawaii edu hot hot dogs 
+
+nutrient analyses
+nutrient samples were collected at each time point in or
+ ml acid washed high density polyethylene hdpe bottles
+and frozen upright at − ◦c until analyzed concentrations of
+
+n n po − and si oh were determined using a channel 
+bran luebbe aa iiitm continuous segmented flow autoanalyzer
+ armstrong et al bernhardt and wilhelms atlas
+et al detection limits for the instrumental settings
+used defined as the lowest resolvable concentrations for each
+analysis were nm n n nm po − and nm si oh 
+nh concentrations were determined on a hybrid seal aa iii
+coupled with a m liquid waveguide capillary detection cell with
+modified chemistry and an indo phenol blue reaction li et al 
+ the limit of detection for this method was nm nh 
+
+ c based rates of primary production
+rates of size fractionated – µm and µm primary
+production were assessed based on the assimilation of c 
+bicarbonate into particulate organic matter steeman nielsen 
+ seawater was collected into ml polycarbonate
+
+centrifuge tubes nalgene
+tm
+
+oak ridge before sunrise and
+spiked under subdued light with µl of nah co− mp
+biomedicals h stock concentration mci ml− to a
+final activity of ∼ mbq ml− the tubes were placed in
+white mesh bags in the same incubator as the experiment carboys
+over the full photoperiod ∼ – h after sundown µl
+aliquots from each sample were collected and stored in ml
+glass scintillation vials containing µl of β phenylethylamine
+to determine the total activity of c added to each sample 
+
+frontiers in marine science www frontiersin org march volume article 
+
+www solartopo com
+http hahana soest hawaii edu hot hot dogs 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+table concentrations and rates of consumption of n n nh po
+ −
+ and si oh at initial time point t of experiments 
+
+experiment treatment n n nh 
+ 
+
+po −
+ 
+
+si oh 
+
+t nm drawdown rate t nm drawdown rate t nm drawdown rate t nm drawdown rate
+
+ nm d− of initial nm d− of initial nm d− nm d− 
+
+nvn 
+
+ july 
+
+control ± – nm nm ± – ± –
+
+ no− ± nm nm ± ± 
+
+ nh ± – nm nm ± ± 
+
+nvn 
+
+ march 
+
+control ± – ± – ± – ± –
+
+ no− ± ± – ± ± 
+
+ nh ± – ± ± ± 
+
+nvn 
+
+ july 
+
+control ± – ± – ± ± –
+
+ no− ± ± – ± ± 
+
+ nh ± – ± ± ± 
+
+n 
+
+ dec 
+
+control ± – ± – ± ± 
+
+ no− ± ± – ± – ± –
+
+ nh ± – ± ± – ± –
+
+ urea ± – ± ± – ± –
+
+nvn 
+
+ april 
+
+control ± – ± – ± ± 
+
+ no− ± ± – ± ± 
+
+ nh ± – ± ± ± 
+
+concentrations of urea were not measured 
+
+values shown are mean ± standard deviation of the triplicate bottles from each treatment drawdown rates were calculated as the total nutrient consumption divided by a h days 
+
+period − calculation not applicable due to nutrient concentrations being detection limits or differences in concentrations being negligible nm not measured significant difference
+
+in concentrations over time one way anova kruskal wallis and linear regression model against null hypothesis of slope p 
+
+the remaining sample volume ∼ ml was serially vacuum 
+filtered first onto mm diameter µm pore size polycarbonate
+membranes millipore isoporetm then onto mm diameter 
+ µmpore sizemembranes geosmonics polycarbonate track 
+etched after filtration each filter was placed in ml glass
+scintillation vials to which ml of m hydrochloric acid was
+added and vented for at least h to remove adsorbed c 
+bicarbonate ten ml of ultima gold liquid scintillation cocktail
+was then added to each vial and placed in a liquid scintillation
+counter packard tri carb for the determination of
+ c activities c assimilation rates were calculated based on
+the resulting radioactivity of the filters total added activity 
+and dissolved inorganic carbon concentrations derived from
+respective water depths at station aloha letelier et al 
+
+photosynthetic eukaryote cell abundance
+seawater samples ml for photosynthetic eukaryote
+cell abundance measurements were collected for each
+experiment into cryotubes corning containing µl of
+ paraformaldehyde pfa in water alfa aesar 
+for a final concentration of w v kept for m in the
+dark flash frozen in liquid nitrogen and stored at − ◦c until
+analyzed photosynthetic eukaryote cells were distinguished
+using a bd influxtm flow cytometer µm nozzle tip with
+the data acquisition software spigot microspherical beads
+ µm fluoresbrite polysciences were included per sample
+for size reference during enumeration phytoplankton cells
+were triggered on forward scatter fsc and enumerated based
+on fsc side scatter chlorophyll based red fluorescence 
+
+± nm and phycoerythrin based orange fluorescence 
+± nm on two lasers and nm through separate
+pinholes to determine photosynthetic eukaryote cell counts 
+cyanobacteria prochlorococcus and synechococcus cells were first
+identified based on red fluorescence signals against fsc then
+further gated by side scatter and orange fluorescence the two
+lasers were used to improve identification of prochlorococcus 
+photosynthetic eukaryote cells were then distinguished as those
+excluding the cyanobacteria and based on high red fluorescence
+and low orange fluorescence in reference to fsc cell counts
+were calculated using the data analysis software flowjo 
+
+photosynthetic pigments
+for measurements of size fractionated chlorophyll a chl a 
+ ml of seawater was collected in amber hdpe bottles and
+serially filtered using a peristaltic pump first onto mm
+diameter µm pore size polycarbonate membranes millipore
+isoporetm then onto mm diameter gf f whatman r© 
+filters nominal pore size ∼ µm though different filters
+were used for chl a concentrations and c primary production
+measurements previous analyses at station aloha indicate
+chl a concentrations estimated using µm polycarbonate and
+gf f glass fiber filters are comparable viviani et al after
+filtration filters were immediately submerged in ml of 
+acetone in glass culture tubes which were wrapped in aluminum
+foil and stored at − ◦c for pigment extraction after days 
+tubes containing the filters were warmed to room temperature 
+and chl a concentrations in the extracts were quantified using
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+a turner designs au fluorometer strickland and parsons 
+ 
+
+for photosynthetic pigment analyses using high performance
+liquid chromatography hplc seawater l was collected
+into brown narrow mouthed hdpe bottles and subsequently
+filtered using a peristaltic pump onto mm diameter gf f
+ whatman r© filters filters were immediately flash frozen
+in liquid nitrogen and stored at − ◦c until analyzed 
+photosynthetic pigments were extracted from the filters in ml
+ acetone hplc grade in culture tubes along with µl
+canthaxanthin an internal standard and placed at ◦c for h 
+chlorophyll and carotenoid pigments were separated on a varian
+ hplc system waters spherisorb r© µm ods c 
+column with a corresponding guard cartridge and a timberline
+column heater and analyzed using spectrasystem thermo
+separation products dual wavelength uv vis uv and
+fluorescence fl detectors wright et al bidigare et al 
+ pigment identifications were based on absorbance spectra 
+co chromatography with standards and relative retention time
+with a monovinyl chl a standard and representative culture
+extracts and spectra physics wow r© software was used to
+calculate peak area 
+
+dna extraction pcr and sequence
+analyses
+seawater samples l for subsequent extraction of planktonic
+dna were collected into acid washed low density polyethylene
+ ldpe bottles and serially filtered using a peristaltic pump
+through mm diameter µm pore size polycarbonate
+membranes millipore isoporetm then onto mm diameter 
+ µm pore size polyethersulfone membranes pall supor r© 
+after filtration filters were placed in ml microcentrifuge
+tubes immediately flash frozen in liquid nitrogen and stored
+at − ◦c until analyzed dna was extracted and purified using
+the qiagen dneasy plant mini kit including a bead beating
+step with and mm beads and proteinase k mau
+ml− final activity qiagen for additional cell disruption
+and lysing paerl et al extracts were eluted in µl of
+nuclease free pcr grade water 
+
+the v regions of eukaryote s rrna genes were amplified
+using the pcr primer pairs f ′ gtacacaccgcccgt
+c ′ s cerevisiae ncbi genbank accession u position
+ – lane and euk br ′ tgatccttctgca
+ggttcacctac ′ s cerevisiae ncbi genbank accession
+ u position medlin et al amaral zettler
+et al containing unique barcode indices each pcr
+reaction contained both primers µm final concentration 
+ x prime hotmastermix cat and ∼ ng of
+template dna in a µl reaction amaral zettler et al 
+the thermal cycling conditions consisted of an initial activation
+step at ◦c for min followed by cycles of s at ◦c 
+ s at ◦c and s at ◦c ending with a final extension
+of min at ◦c the resulting pcr products in total 
+were run on an agarose gel to verify product amplification 
+quantified pooled ∼ ng of each sample into a single tube and
+purified using the mobio ultraclean pcr clean up kit cat 
+
+ the quality of the pooled pcr product was evaluated
+on a bioanalyzer agilent sequencing was conducted
+ paired end cycles on an illumina miseq university
+of hawaii core functional genomics facility at the hawaii
+institute of marine biology from which individual samples
+were demultiplexed using qiime caporaso et al and
+ total sequence reads were recovered paired end
+sequencing reads were merged using pear zhang et al 
+quality filtered reads trimmed to – bp in size maximum
+expected error of no ambiguous bases allowed and an
+average phred quality threshold and poor quality reads
+were removed from further analyses de novo and reference 
+based chimeras were detected and removed using usearch
+v edgar et al sequences were first clustered
+using uclust v q max accepts max rejects 
+into operational taxonomic units otus based on the silva
+ pre clustered at similarity threshold database quast
+et al clustered de novo at the similarity threshold 
+and the centroid sequence within each otu was selected as the
+representative sequence sequences that failed to align using
+pynast minimum percent identification caporaso et al 
+ singletons and otus present in only one sample were
+removed taxonomy was assigned to representative sequences at
+ similarity with blast max e value at × e− based on
+the silva database pre clustered at bacteria archaea 
+and metazoa sequences were removed resulting in 
+sequence reads and total otus of these taxonomy
+was not assigned to otus consistent with the stringent
+e value used otus with assigned taxonomy presumed to
+be photosynthetic including archaeplastida dinophyceae 
+cryptophyceae haptophyta chlorarachniophyta and
+ochrophyta bacillariophyceae bolidophyceae chrysophyceae 
+dictyochophyceae eustigmatophyceae pelagophyceae and
+raphidophyceae were separated into a “phytoplankton only”
+otu table which was used for subsequent analyses final quality 
+filtered sequences were deposited in the sequence read archive
+in ncbi under bioproject id prjna and accession
+ srp 
+
+statistical analyses
+nutrient concentrations measured in each treatment and
+experiment were tested for normality using the shapiro 
+wilk test royston and quantile quantile plots and
+analysis of variance anova tests were performed data
+not normally distributed were log transformed and anova
+or non parametric kruskal wallis tests hollander and wolfe 
+ were used to test for significant differences between
+distributions one way anova and linear regression analyses
+were also used to test for significant differences in nutrient
+concentrations over the duration of the experiment faraway 
+ community analyses were performed in r r core
+development team with the r package vegan oksanen
+et al and graphical outputs were constructed with the
+package ggplot wickham subsampling for calculations
+of alpha diversity was conducted with reads differences
+in eukaryotic phytoplankton community composition and alpha
+diversity between experiments were statistically tested using
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+mantel tests on bray curtis derived dissimilarity matrices and
+paired t tests on distribution of shannon indices 
+
+results
+
+station aloha conditions at initial time
+points
+two experiments were conducted during the summer nvn 
+in july and nvn in july two were performed
+during the spring months nvn in march and nvn in
+april and one was conducted during the winter n in
+december table at the time these experiments were
+conducted sea surface temperatures sst mixed layer depths
+ mld and the flux of par and concentrations of n n at m
+were characteristic of the monthly hot program climatology
+for station aloha figure during the summer sampling
+periods the near surface waters were characterized by relatively
+warm temperatures – ◦c the mld ranged between 
+and m and the flux of par at m was mol quanta
+m− d− table figure in comparison during the spring
+experiments the upper ocean waters exhibited slightly lower
+temperatures – ◦c the mld ranged between and
+ m and incident par at m was mol quanta m− d− for
+the experiment conducted in december the near surface waters
+were ◦c the mld was relatively deep averaging m 
+and incident par at m was ∼ fold lower than in spring or
+summer mol quanta m− d− concentrations of chl a at
+ m ranged – ng l− during the study with no discernible
+seasonal pattern among the various experiments table 
+similarly concentrations of n n at m were consistently low
+ nm n throughout the year with no apparent seasonal scale
+differences figure d table concentrations of po − and
+si oh at m also depicted no apparent seasonality ranging
+ – nm p and – µm si respectively table 
+
+nutrients primary production chlorophyll
+a and cell abundances following n
+additions
+concentrations of n n nh po
+
+ −
+ and si oh in the
+
+control incubations did not vary significantly over time in any
+of the experiments one way anova and linear regression 
+p table the addition of either no− or nh
+
+ 
+ 
+
+ final concentrations ranging ∼ – nm n n and –
+ nm nh with po
+
+ −
+ and si oh resulted in significant
+
+consumption of added n substrates over time over the course
+of h – of the added no− was consumed in all
+experiments resulting in rates of no− drawdown ranging
+between and nm n d− table for the nh 
+treatments – of the added nh was consumed over the
+duration of the experiments with rates of consumption ranging
+ – nm n d− one way anova and linear regression
+p for the experiment conducted in march 
+ nvn the initial nh concentration nm was ∼ x
+greater than the target nh concentration as well as the initial
+no− concentration the resulting rate of nh
+
+ 
+ consumption
+
+for march was greater for this treatment than in other
+
+figure monthly scale variability in a sea surface temperature ◦c 
+
+ – b mixed layer depth m – c daily integrated par
+
+at m mol quanta m− d− – and d concentrations of n n at
+
+ m nm n – at station aloha measurements from the research
+
+cruises during which experiments for the current study were conducted are
+
+denoted with black triangles for each boxplot dark horizontal line indicates
+
+the median the box boundaries represent the th and the th percentile 
+
+and the whiskers extend to the maximum and minimum boundary ±
+
+ interquartile range of the selected observations outlier observations 
+
+considered to be beyond the maximum and minimum limits of the
+
+observations are depicted as open circles 
+
+treatments table for both no− and nh
+ 
+ treatments there
+
+was no significant change in si oh concentrations over the
+course of the experiments except during april table 
+po − was consumed in the no
+
+−
+ treatments at rates ranging
+
+ – nm p d− with the n p of consumption being ∼ – 
+and at the rate of – nm p d− for the nh treatments
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+ with the stoichiometry of n p consumption being ∼ – 
+urea target concentration of∼ nm n was also included as
+one of the treatments in an experiment conducted in december
+ however urea concentrations were not measured during
+the experiment so rates of consumption or production could not
+be evaluated 
+
+rates of c primary production and chl a concentrations
+in the control incubations remained largely unchanged for
+the control carboys during the experiments conducted 
+contributions of picophytoplankton – µm to µm
+ c primary production at initial time points ranged – 
+and rates of production in the µm size fraction contributed
+ – in all experiments except july nvn when
+picophytoplankton were – of the initial c productivity
+and phytoplankton µm comprised – of the production
+ supplementary table concentrations of chl a remained
+stable in the control carboys of the experiments with themajority
+ – of the total chl a attributed to the picophytoplankton
+fraction supplementary table photosynthetic eukaryote cell
+abundances were also relatively stable over time in the control
+incubations for all experiments except during july nvn 
+when cell abundances increased ∼ fold supplementary
+table 
+
+rates of c primary production sum of µm and –
+ µm filter size classes in the no− and nh
+
+ 
+ treatments differed
+
+seasonally during the experiment conducted in march 
+ c primary production increased∼ fold in response to no− 
+addition and fold in response to nh addition over h 
+with contributions by the µm fraction in the no− treatment
+comprising ± mean of triplicate treatments of the sum
+of two fractions and rates of production by the µm size
+class comprising ± mean of triplicate treatments of
+the sum of fractions in the nh treatment supplementary
+table the ∼ fold greater response in the rate of c 
+primary production in the nh compared to no
+
+−
+ addition
+
+may have resulted from the higher initial nh concentration in
+this experiment table during july rates of µm
+ c primary production increased ∼ and fold in the
+no− and nh
+
+ 
+ treatments respectively with contributions
+
+by the µm fraction increasing and fold for both
+treatments respectively chl a concentrations during july 
+also increased ∼ fold in no− treatments and ∼ fold in nh
+
+ 
+ 
+
+treatments over h approximately to fold increases in
+rates of µm c primary production were observed for all
+n additions during december and april with a ∼ 
+fold shift toward µm organisms figure supplementary
+table concentrations of chl a increased modestly ∼ to
+ fold during december in all n addition treatments 
+while ∼ to fold increases in chl a concentrations over
+ h were observed in both no− and nh
+
+ 
+ treatments during
+
+april figures a b supplementary table for both
+the winter and spring experiments moderate ∼ 
+to fold increases in the contributions by the µm size
+fraction to chl a concentrations were observed cell abundances
+of photosynthetic eukaryotes increased ∼ to fold in all n
+additions during all experiments except for a ∼ fold increase
+in the no− treatment during july supplementary table 
+
+changes in eukaryotic phytoplankton
+community composition
+photosynthetic pigments
+photosynthetic pigments measured during the experiments
+conducted in july and april revealed variations
+in the timing and magnitude of the responses by different
+phytoplankton taxa to the various n additions figure 
+initial concentrations of fucoxanthin a pigment biomarker
+diagnostic of diatoms were similar in both july ng l− 
+and april ng l− however large increases and
+ fold increases in the no− and nh
+
+ 
+ treatments respectively 
+
+were observed in july figure c while modest increases
+ ∼ fold increases in both no− and nh
+
+ 
+ treatments were
+
+measured during april figure d pigments diagnostic of
+pelagophytes ′ butanoyloxyfucoxanthin or ′ but and
+prymnesiophytes ′ hexanoyloxyfucoxanthin or ′ hex 
+behaved differently than fucoxanthin during july ′ but
+and ′ hex increased and fold respectively by h in
+both no− and nh
+
+ 
+ treatments and decreased subsequently
+
+ figures e g during the april experiment both ′ but
+and ′ hex reached maximum concentrations fold and
+ fold increases respectively in the no− and nh
+
+ 
+ treatments
+
+after h and remained elevated through the remainder of
+the experiment figures f h concentrations of peridinin 
+a pigment biomarker for dinoflagellates increased steadily
+throughout both july and april experiments figures i j with
+larger responses in the nh treatments increasing to fold
+in july and april respectively compared to to fold increases
+observed in the no− treatments for both experiments 
+
+ s rdna sequences
+the v region of s rrna genes was amplified and
+sequenced from size fractionated samples collected during
+our experiments to assess possible time varying changes
+in phytoplankton community structure following additions
+of nitrogenous substrates figure relative abundances
+of phytoplankton otus revealed differences in the initial
+composition of the eukaryotic picophytoplankton – µm 
+among the different experiments in contrast the initial
+community composition of larger µm phytoplankton
+appeared very similar between experiments members of the
+dinophyceae comprised – of the picophytoplankton
+ s rrna gene sequences during experiments conducted in
+the summer july and with haptophytes and
+chrysophytes also relatively abundant ranging ∼ – and
+∼ – respectively in the picophytoplankton size fraction 
+in addition phytoplankton belonging to the dictyochophytes 
+bolidophytes and eustigmatophytes were present at low
+relative abundances in the picophytoplankton size fraction
+ figure a during the experiments conducted in the winter
+and spring months march december and april
+ relative abundances of dinoflagellates at the onset of
+experiments were lower ranging – of picophytoplankton
+sequences than observed during the summer experiments with
+greater contributions by otus clustering among pelagophytes
+ – haptophytes – chrysophytes – and
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+figure time dependence in rates of c primary production µmol c m− d− by pico – µm and larger µm phytoplankton during experiments
+
+conducted in a b march c d july e f december and g h april colors of lines indicate different treatments control no− nh
+ 
+ 
+
+and urea data points and whiskers indicate means and standard deviations of triplicate carboys note differences in y axis scales for a b d 
+
+dictyochophytes – during december members
+of the rhodophyta and marine ochrophytes moch were
+also present ∼ of picophytoplankton s rrna gene
+sequences for the larger phytoplankton µm a majority
+of the µm sequences in all experiments was comprised of
+dinoflagellates ∼ – on average and diatoms ∼ – on
+average with no discernible seasonal variability figure b 
+the taxonomic composition of the control carboys remained
+relatively constant for experiments in december and april
+ however taxa belonging to the eustigmatophyceae and
+bolidophyceae increased in the picophytoplankton fraction in
+july and respectively figure a andmembers of the
+bacillariophyceae increased in the µm size fraction in march
+ and july figure b 
+
+while changes in phytoplankton community composition
+were very similar in the various n treatments no− nh
+
+ 
+ 
+
+or urea there were differences in the resulting phytoplankton
+responses to the additions of nitrogenous substrates depending
+on the time of year that the experiments were conducted 
+for the picophytoplankton members of the bacillariophyceae
+demonstrated the largest increases in relative abundances in
+the summer experiments july and increasing from
+ – at the onset of the experiments to ∼ – of the
+picophytoplankton sequences by the end of the experiments 
+in contrast for those experiments conducted in the winter and
+spring months december march and april members of the
+pelagophyceae comprised ∼ – of the picophytoplankton
+sequences at the onset of the experiments and increased to –
+ following the additions of n by the end of the experiments 
+
+while diatom composition remained fairly low ∼ – at onset
+to ∼ – at end figures a in the µm size fraction 
+various taxa of diatoms were the dominant responders to n
+additions during all experiments – of µm sequences 
+though themagnitude of response by diatomswas greatest during
+those experiments conducted in the summer – at onset of
+experiment to – of µm sequences at final time point 
+compared to the response observed during those experiments
+conducted in the spring and winter months – to –
+ of µm sequences at final time point figures b in
+addition the increase in the relative abundances of diatoms in the
+larger fraction during the summer was more rapid occurring in
+the initial – h compared to the responses observed in those
+experiments conducted in the spring and winter figure b 
+
+changes in the relative abundances of the five most abundant
+otus for both size fractions were examined for the no− 
+and nh treatments by comparing relative abundances at
+the beginning of each experiment to the results at the end
+of the experiments figure seasonal binning winter 
+spring and summer of the experiments emphasized that the
+resulting trajectory of picophytoplankton community response
+appeared to depend on when the experiment was conducted 
+the dominant picophytoplankton at initial time points during
+the winter and spring included the pelagophyte pelagomonas
+ averaging ∼ of picophytoplankton sequences in winter and
+∼ in spring dictyochophyte florenciella averaging ∼ 
+of picophytoplankton sequences in winter and ∼ in spring 
+chrysophytes averaging∼ – of picophytoplankton sequences
+in both winter and spring and pfiesteria like dinoflagellates
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+figure photosynthetic pigment concentrations ng l− measured during july and april from time to end of experiment or h a b chl a 
+
+ c d fucoxanthin fuco e f ′ butanoyloxyfucoxanthin ′ but g h ′ hexanoyloxyfucoxanthin ′ hex i j peridinin peri note differences in y axis
+
+scales line colors indicate different treatments control no− and nh
+ 
+ data points and whiskers indicate means and standard deviations of triplicate carboys 
+
+ averaging ∼ – of picophytoplankton sequences in both
+winter and spring during the spring months the haptophyte
+prymnesium comprised ∼ of the picophytoplankton
+sequences while members of the raphidophyceae comprised
+∼ of the picophytoplankton community during the winter
+experiment supplementary table in contrast during those
+experiments conducted in the summer all of the most abundant
+picophytoplankton otus at the beginning of the experiments
+clustered among the dinophyceae including otus classified
+as gymnodinium gyrodinium karldonium pfiesteria like and
+azadinium 
+
+by the end of the experiments initiated in the winter
+and spring pelagomonas demonstrated the largest increases
+in relative abundances of picophytoplankton sequences with
+smaller contributions by diatoms pseudo nitzschia and nitzschia 
+dictyochophyte florenciella and prasinophyceae clade vii 
+a in experiments conducted during the summer diatoms
+pseudo nitzschia nitzschia and minutocellus demonstrated the
+largest increases in relative abundances of picophytoplankton
+ supplementary table figure in the µm fraction the
+most dominant otus at the beginning of the experiments
+were members of the dinophyceae irrespective of when the
+experiments were conducted supplementary table figure 
+
+following the addition of n substrates the relative contributions
+by these dinoflagellates decreased with correspondingly large
+increases in relative abundances of otus closely related to the
+diatoms pseudo nitzschia and nitzschia supplementary table
+ figure despite often being undetectable at the onset of
+the experiments relative abundances of otus belonging to
+these diatom genera comprised ∼ to of the µm
+phytoplankton sequences during all seasons in the n addition
+treatments supplementary table figure 
+
+alpha diversity assessed by the shannon index of
+the picoeukaryote phytoplankton communities decreased
+significantly following n additions compared to the control
+carboys for all experiments paired t test p figure 
+for the larger phytoplankton the diversity of communities
+at the end of the experiments also decreased following n
+additions however the difference was significantly lower
+from that of the initial communities only during the summer
+ paired t test p alpha diversity for both pico and
+larger phytoplankton did not differ between the no− nh
+
+ 
+ 
+
+and urea treatments amongst various seasons paired t test 
+p figure significant differences paired t test p 
+were observed between the alpha diversity of both pico and
+larger phytoplankton communities in the no− treatments 
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+figure relative abundances of a picophytoplankton and b µm phytoplankton taxa binned by time point sampled per experiment conducted in
+
+different seasons columns indicate treatment mean of triplicate carboys relative abundances for different experiments and rows specify the different treatments 
+
+control no− nh
+ 
+ and urea colors indicate various phytoplankton taxa 
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+figure mean relative abundances of the most abundant pico and µm phytoplankton at initial t time points and final tf time points for no
+−
+ and
+
+ nh treatments experiments binned by season winter spring and summer mean relative abundances of phytoplankton taxa depicted using different colors and
+
+bubble sizes size reflects relative abundance detailed information on the otus listed is listed in supplementary table 
+
+between spring and summer higher shannon index values
+were generally observed for both size fractions during the
+winter and spring compared to the summer experiments 
+regardless of treatment likely reflecting the dominance of
+diatoms in the n amended treatments during the summer
+ figure 
+
+discussion
+
+we conducted five experiments during the winter spring and
+summer months between july to april to examine the
+responses of the eukaryotic phytoplankton to additions of no− 
+
+nh or urea along with po
+ −
+ and si oh we assessed
+
+how the addition of varying nitrogenous substrates influenced
+size dependent responses in rates of primary production and
+concentrations of chl a and altered eukaryotic phytoplankton
+community structure based on changes in concentrations of
+photosynthetic pigments and analyses of s rdna sequences 
+in three of the five experiments july and december 
+and april rates of no− and nh
+
+ 
+ drawdown were
+
+roughly equivalent between the n addition treatments in
+addition contributions of pico and larger phytoplankton to
+ c primary production and chl a concentrations did not
+differ significantly based on the type of n substrates added 
+except for the experiment conducted in march in
+march we observed a ∼ fold increase in c primary
+
+production from the initial timepoint to h for the nh 
+treatment concomitant with a greater response by diatoms in
+the pico size fraction this disparity in response from other
+experiments is likely due to the initial nh concentration
+being ∼ x the target concentration as well as the initial no− 
+concentration despite the greater enrichment ∼ of the
+nh added was drawn down during this experiment the
+different responses observed in this experiment may reflect
+a concentration dependent response by the phytoplankton
+assemblage rather than reflecting a difference in the types of
+substrates added overall results from these five experiments
+suggest that the oxidation state of the nitrogenous substrates
+that we selected oxidized no− or reduced nh
+
+ 
+ and urea 
+
+did not play a major role in shaping rates of n drawdown
+or the resulting size class responses of phytoplankton biomass
+and productivity in a series of experiments in the oligotrophic
+npsg shilova et al observed increases in rates of
+primary production and phytoplankton biomass specifically by
+cyanobacteria prochlorococcus following the addition of urea 
+however consistent with the findings from the present study 
+species composition and growth rates did not appear to be
+influenced by the type of n source added eppley et al 
+although previous studies comparing no− and nh
+
+ 
+ strickland
+
+et al eppley et al and urea newell et al 
+demonstrated that elemental composition c n and c chl ratio
+of phytoplankton changed depending on the form of n used for
+growth 
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+figure alpha diversity shannon index of the pico and µm phytoplankton v s rdna otus at final time points for control no− and nh
+ 
+ treatments
+
+binned by winter spring and summer boxplot parameters are the same as described for figure 
+
+although our experiments were not designed to examine
+competition amongst phytoplankton for differing n substrates
+ e g through simultaneous additions of both no− and nh
+
+ 
+ 
+
+to the same treatment our results do provide insight into taxa
+best poised to respond to relatively large changes in n availability
+in this ecosystem two of our observations that the timing
+and response of phytoplankton to both no− and nh
+
+ 
+ were
+
+similar and that no significant changes were observed in our
+“control” carboys amended with only po − and si oh except
+for∼ fold increase in photosynthetic eukaryote cell abundances
+during the july experiment likely reflect the chronic n
+limitation of the oligotrophic upper ocean waters of the npsg 
+in these well lit upper ocean waters phytoplankton production
+is consistently light saturated li et al white et al 
+while concentrations of inorganic n are proportionately much
+lower than required for growth no− po
+
+ −
+ ratios of the upper
+
+ocean our results suggest that energetic limitations likely do
+not restrict eukaryotic phytoplankton consumption of available
+n substrates in this habitat 
+
+we observed moderate to large changes in the phytoplankton
+community response to n additions shifting from a
+picophytoplankton dominated community – 
+picophytoplankton contribution to c primary production and
+ – contribution of picophytoplankton to chl a by the end
+of experiments to one with a greater contribution by the larger
+ µm phytoplankton – contribution to c primary
+production and – contribution to chl a by the end of
+experiments sequencing of s rdna provided insight into
+the types of eukaryotic phytoplankton in these size classes 
+the larger µm phytoplankton community was comprised
+
+mainly of dinoflagellates at the onset of the experiment however 
+following the addition of n substrates diatom composition
+rapidly within – days expanded contributing – of
+the µm sequences intriguingly we observed that relative
+abundances of various taxa of pennate diatoms were elevated
+in the – µm filter fraction following the addition of nh 
+and no− during experiments conducted in the summer such
+cells might be expected to be larger than µm hence it’s unclear
+whether such results reflect time varying differences in the
+sizes of these cells poor trapping efficiency of these cells by the
+ µm filters or potential breakage of cells during filtration with
+subsequent retention of fragmented cells by the µm filter 
+
+the diatom response was most significant during the
+experiments conducted in the summer particularly in the
+no− treatment where diatoms comprised ∼ of the
+ µm sequences at the end of the experiments such
+observations are consistent with those of mahaffey et al 
+who observed greater responses ∼ fold in phytoplankton
+biomass following nutrient enrichment with deep sea water
+during the summer months than in other times of the year 
+consistent with microscopic observations at station aloha
+ venrick scharek et al diatoms were present
+in low concentrations ∼ of total sequences at the onset
+of our experiments the large response by diatoms following
+the addition of n likely partly reflects their physiological
+capacity to outcompete other phytoplankton for available n
+when concentrations of no− and nh
+
+ 
+ are elevated eppley
+
+et al and highlights potential n limitation of diatoms
+during summer periods in addition these results presumably
+reflect decoupling between diatom growth and removal processes
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+such as predation parasitism or viral lysis during the summer 
+permitting accumulation of pennate diatoms during this period 
+thus the diatom response to nitrogenous substrates observed
+during the experiments conducted in the summer suggests
+there are season specific conditions at station aloha such as
+elevated incident light flux and warm upper ocean temperatures 
+that may favor diatom growth and allow them to outgrow or
+escape removal in order to accumulate biomass 
+
+while diatoms were the dominant phytoplankton to respond
+to n additions in the µm fraction in all of the experiments 
+differential response between seasons was observed among the
+picophytoplankton diatoms were still the major responders
+to n additions in the picophytoplankton fraction during the
+summer however the pelagophyte pelagomonas responded to
+additions of n substrates in the winter and spring while
+such results may reflect that smaller pennate diatoms are
+limited by some other nutrient e g iron vitamins during
+the spring and winter months our results highlight that other
+groups of picophytoplankton in particular the pelagophytes 
+respond rapidly to n availability during these periods although
+pelagophytes comprised – of the picophytoplankton
+sequences at the onset of the summer experiments they
+comprised a much larger fraction – of the sequences at
+the onset of the winter and spring experiments as pelagophytes
+are typically found in greatest abundances in the low lit regions
+of the euphotic zone i e letelier et al bidigare and
+ondrusek timmermans et al the higher relative
+abundances of these organisms during the winter and spring
+months in the surface waters at station aloha was somewhat
+surprising we suspect that pelagomonasmay respond to periods
+when the mixed layer extends into the lower region of the
+euphotic zone – m entraining organisms and nutrients
+typically found in the dimly lit regions of the euphotic zone into
+the well lit upper ocean as such the survival of pelagophytes
+in the upper euphotic zone during this period of deeper mixing
+may reflect their flexible photophysiology dimier et al 
+bidigare et al compared to other phytoplankton such
+as some diatoms whose growth rates often decrease under
+fluctuating light conditions van de poll et al their
+success may also be due to their ability to acquire n through the
+increased supply of no− to the euphotic zone during periods
+of deeper mixing as consistent with studies indicating elevated
+expression of no− transporter genes by pelagomonas dupont
+et al moreover there may be differences in selective
+removal processes in the upper vs lower euphotic zone that
+specifically impact pelagomonas or other competing organisms 
+resulting in the accumulation of pelagomonas during this
+particular time of year hence we suspect that the rapid response
+by pelagophytes specifically pelagomonas during spring and
+winter resulted from the relatively elevated abundances of these
+organisms at the onset of the experiments which may or may not
+reflect selective removal processes as well as their ability to grow
+rapidly following the input of bioavailable n 
+
+examination of alpha diversity during our experiments
+revealed a differential response in the size structure of eukaryotic
+phytoplankton diversity with the addition of n substrates 
+indicating varying degrees of resource competition amongst
+
+the different size classes while the addition of n substrates
+induced “bloom” like conditions in picophytoplankton thereby
+significantly decreasing alpha diversity addition of nitrogenous
+substrates induced growth in different taxa in the larger µm 
+phytoplankton throughout the year e g alpha diversity of the n
+treatments remained similar to the controls except in summer
+when diatoms dominated this suggests that picophytoplankton
+diversity is more strongly influenced by competition for nutrients
+compared to the larger phytoplankton 
+
+the proliferation of different taxa in our experiments
+during different times of the year presumably also reflects
+temporal variability in the strength of various top down controls
+ predation viruses parasites our experiments excluded large
+grazers µm presumably eliminating the influences of
+larger mesozooplankton as potential controls on phytoplankton
+diversity and community structure however microzooplankton
+and heterotrophic and mixotrophic protists can be significant
+grazers of phytoplankton biomass of chl a per day 
+in the open ocean calbet and landry though larger
+diatoms may be too big to be consumed efficiently by nano 
+and micro predators frost cullen smaller pennate
+diatoms typically – µm in length can be readily consumed
+by microzooplankton latasa et al however latasa
+et al observed that growth and grazing of diatoms and
+pelagophytes were uncoupled in the upper ocean allowing net
+phytoplankton growth in the central equatorial pacific thus the
+rapid turnover of fast growing species through active removal
+processes may maintain greater diversity such as among the
+larger phytoplankton during the spring despite the availability
+of nutrients longhurst timonin 
+
+the apparent seasonally dependent responses by the
+phytoplankton assemblage to n availability may provide insight
+into previously observed patterns in carbon export in the
+npsg in particular karl et al describe diatom driven
+summertime export of several bioelements to the deep sea
+ m at station aloha based on years of sediment 
+trap derived measurements of particulate matter flux these
+authors highlight the role of diatom aggregation and sinking in
+regulating a large fraction of the annual export in this ecosystem 
+moreover this seasonal event appears fueled by n supply via
+n fixation karl et al other studies conducted in the
+npsg further highlight diatom responses to nutrient availability 
+for example analyses of particulate matter export from the
+upper ocean into the mesopelagic waters have revealed that
+nutrient supply via mesoscale eddies stimulates diatom growth
+and subsequent preferential settling of silica enriched biomass
+ benitez nelson et al in our experiments larger diatoms
+ µm consistently responded to the addition of n substrates 
+suggesting these organisms are poised for rapid growth following
+n input via n fixation or vertical supply via mixing or mesoscale
+isopycnal uplift 
+
+interestingly the initial eukaryotic phytoplankton
+communities in the larger size class but also during the
+summer in the picophytoplankton size class were dominated by
+members of the dinophyceae autotrophic dinoflagellates such
+as gymnodinium are reported to lack peridinin while containing
+fucoxanthin related carotenoids millie et al such
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+findings may explain why we observed high relative abundances
+of dinoflagellate otus in our study while observations at station
+aloha indicate low concentrations of peridinin letelier
+et al bidigare and ondrusek alternatively the
+dominance of dinoflagellates in s rdna sequences may be
+due to high rrna gene copy numbers previously described
+among the dinoflagellates zhu et al not et al 
+medinger et al moreover the primers targeting the
+region v of the s rrna gene amplified in the current
+study may preferentially amplify dinoflagellates stoeck et al 
+ biasing the sequence results toward these organisms 
+a recent pcr independent metatranscriptome approach
+found that dinoflagellates dominated – the mapped
+eukaryote transcripts at station aloha alexander et al 
+suggesting that dinoflagellates are indeed important contributors
+to phytoplankton biomass in this ecosystem in the current study 
+despite their initial dominance dinoflagellates did not respond
+significantly to additions of no− nh
+
+ 
+ or urea concentrations
+
+of peridinin increased gradually in the experiments where hplc
+pigments were measured in july and april but to
+a lesser extent than other measured pigments consistent with
+these results additions of nutrient enriched deep sea water
+to upper ocean plankton assemblages resulted in a minimal
+transcriptional response by dinoflagellates alexander et al 
+ such results and those observed in the current study 
+may suggest that the dominant dinoflagellates at station aloha
+are heterotrophic or mixotrophic potentially decreasing
+their dependence on inorganic n substrates consistent with
+this hypothesis several of the taxa that predominated at the
+beginning of our experiments are closely related to mixotrophic
+organisms including dinoflagellates haptophytes chrysophytes 
+and dictyochophytes rothhaupt frias lopez et al 
+liu et al however following n additions many of
+these taxa decreased in relative abundance with organisms not
+previously known to demonstrate mixotrophic growth namely
+diatoms and pelagophytes becoming increasing dominant such
+results provide support to the hypothesis that limiting nutrients
+are crucial to shaping plankton physiology including promoting
+mixotrophic modes of nutrient acquisition zubkov and tarran 
+ hartmann et al 
+
+in summary after addition of inorganic n substrates we
+observed a general shift in the size structure of the phytoplankton
+community from a picophytoplankton dominated one to a
+community dominated by larger µm phytoplankton in
+
+our experiments responses in c primary production and
+photosynthetic pigment biomass appeared independent of the
+type of n substrate added however resulting changes in the
+
+picophytoplankton community composition appeared seasonally
+dependent with diatoms dominating the response during the
+summer while pelagophytes responded most significantly in
+the winter and spring diatoms in the µm size fraction
+appear to be poised for rapid net growth throughout the year 
+while smaller pennate diatoms appeared best able to capitalize
+on added n during the summer months the variability in
+the responses by phytoplankton may stem from differences in
+initial picophytoplankton populations or time varying top down
+controls which likely vary with seasonal changes in mixed layer
+depth and light our findings provide insight into how abrupt
+changes in the availability of fixed n influence successional
+patterns in eukaryotic phytoplankton assemblages and highlight
+those organisms poised for rapid net growth when fixed n is
+available 
+
+author contributions
+
+yr andmc came up with the concept and design of experiments
+described in this paper experiments implementation and sample
+analyses were performed by yr with input from mc and rb 
+data analyses andmanuscript write up was conducted by yr and
+mc with input from rb 
+
+acknowledgments
+
+we thank the hot program science team for the collection
+and analyses of some of the data used in this study we would
+also like to acknowledge donn viviani and brenner wai for
+help with sample collection during the experiments in addition 
+brianne maillot provided laboratory assistance susan curless
+and alexa nelson contributed nutrient analyses markus lindh
+assisted with r and edward delong enabled use of a computer
+server for the illumina sequence analyses we also appreciate the
+support of the captain and crew of r v kilo moana support
+for this work derived from u s national science foundation
+ nsf grants oce and oce mc the center
+formicrobial oceanography research and education c more 
+ef the simons collaboration on ocean processes and
+ecology scope id mc and the university of hawaii
+denise b evans research fellowship in oceanography yr 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmars 
+ full supplementary material
+
+references
+
+alexander h rouco m haley s t wilson s t karl d m and dyhrman 
+
+s t functional group specific traits drive phytoplankton dynamics
+
+in the oligotrophic ocean proc natl acad sci u s a e –e 
+
+doi pnas 
+
+amaral zettler l a mccliment e a ducklow h w and huse s m 
+
+a method for studying protistan diversity using massively parallel sequencing
+
+of v hypervariable regions of small subunit ribosomal rna genes plos one
+
+ e doi journal pone 
+
+armstrong f a j stearns c r and strickland j d h the
+
+measurement of upwelling and subsequent biological processes by means of
+
+the technicon autoanalyzertm and associated equipment deep sea res 
+
+ – 
+
+arrigo k r marine microorganisms and global nutrient cycles nature
+
+ – doi nature 
+
+frontiers in marine science www frontiersin org march volume article 
+
+https www frontiersin org articles fmars full supplementary material
+https doi org pnas 
+https doi org journal pone 
+https doi org nature 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+atlas e l hager s w gordon l i and park p k a practical
+
+manual for use of the technicon autoanalyzertm in seawater nutrient analyses 
+
+revised technical report ref no department of oceanography 
+
+oregon state university – 
+
+benitez nelson c r bidigare r r dickey t d landry m r leonard 
+
+c l brown s l et al mesoscale eddies drive increased
+
+silica export in the subtropical pacific ocean science – 
+
+doi science 
+
+bernhardt h and wilhelms a “the continuous determination of low
+
+level iron soluble phosphate and total phosphate with the autoanalyzer ” in
+
+technicon symposium vol 
+
+bidigare r r buttler f r christensen s j barone b karl d 
+
+m and wilson s t evaluation of the utility of xanthophyll
+
+cycle pigment dynamics for assessing upper ocean mixing processes at
+
+station aloha j plankton res – doi plankt 
+
+fbu 
+
+bidigare r r and ondrusek m e spatial and temporal variability
+
+of phytoplankton pigment distributions in the central equatorial pacific
+
+ocean deep sea res ii – doi 
+
+ 
+
+bidigare r r van heukelem l and trees c c “analysis of algal
+
+pigments by high performance liquid chromatography ” in algal culturing
+
+techniques ed r a andersen new york ny academic press – 
+
+bienfang p k and szyper j p phytoplankton dynamics in the
+
+subtropical pacific ocean off hawaii deep sea res a – 
+
+doi 
+
+calbet a and landry m r phytoplankton growth microzooplankton
+
+grazing and carbon cycling in marine systems limnol oceanogr – 
+
+doi lo 
+
+campbell l nolla h a and vaulot d the importance of
+
+prochlorococcus to community structure in the central north pacific ocean 
+
+limnol oceanogr – doi lo 
+
+campbell l and vaulot d photosynthetic picoplankton community
+
+structure in the subtropical north pacific ocean near hawaii station
+
+aloha deep sea res i – doi 
+
+ 
+
+caporaso j g bittinger k bushman f d desantis t z andersen g l 
+
+and knight r pynast a flexible tool for aligning sequences to a
+
+template alignment bioinformatics – doi bioinformatics 
+
+btp 
+
+caporaso j g lauber c l walters w a berg lyons d huntley 
+
+j fierer n et al ultra high throughput microbial community
+
+analysis on the illumina hiseq and miseq platforms isme j – 
+
+doi ismej 
+
+church m j mahaffey c letelier r m lukas r zehr j p and karl d 
+
+m physical forcing of nitrogen fixation and diazotroph community
+
+structure in the north pacific subtropical gyre glob biogeochem cycle
+
+ gb doi gb 
+
+cortés m y bollman j and thierstein h r coccolithophore ecology
+
+at the hot station aloha hawaii deep sea res ii – 
+
+doi s x
+
+cullen j j status of the iron hypothesis after the open ocean enrichment
+
+experiment limnol oceanogr – doi lo 
+
+dandonneau y vega a loisel h du penhoat y and menkes c 
+
+oceanic rossby waves acting as a “hay rake” for ecosystem floating by products 
+
+science – doi science 
+
+dimier c giovanni s ferdinando t and brunet c comparative
+
+ecophysiology of the xanthophyll cycle in six marine phytoplanktonic species 
+
+protist – doi j protis 
+
+dore j e letelier r m church m j lukas r and karl d m 
+
+summer phytoplankton blooms in the oligotrophic north pacific subtropical
+
+gyre historical perspective and recent observations prog oceanogr – 
+
+doi j pocean 
+
+dortch q the interaction between ammonium and nitrate uptake in
+
+phytoplankton mar ecol prog ser – doi meps 
+
+dupont c l mccrow j p valas r moustafa a walworth n goodenough 
+
+u et al genomes and gene expression across light and productivity
+
+gradients in eastern subtropical pacific microbial communities isme j 
+
+ – doi ismej 
+
+edgar r c haas b j clemente j c quince c and knight r 
+
+uchime improves sensitivity and speed of chimera detection bioinformatics
+
+ – doi bioinformatics btr 
+
+eppley r w carlucci a f holm hansen o kiefer d mccarthy j j 
+
+venrick e et al phytoplankton growth and composition in shipboard
+
+cultures supplied with nitrate ammonium or urea as the nitrogen source 
+
+limnol oceanogr – doi lo 
+
+eppley r w rogers j n and mccarthy j j half saturation constants
+
+for uptake of nitrate and ammonium by marine phytoplankton limnol 
+
+oceanogr – doi lo 
+
+eppley r w sharp j h renger e h perry m j and harrison w g 
+
+ nitrogen assimilation by phytoplankton and other microorganisms in
+
+the surface waters of the central north pacific ocean mar biol – 
+
+doi bf 
+
+faraway j j practical regression and anova using r available
+
+online at http cran r project org doc contrib faraway pra pdf
+
+fawcett s e lomas m w casey j r ward b b and sigman d m 
+
+assimilation of upwelled nitrate by small eukaryotes in the sargasso sea nat 
+
+geosci – doi ngeo 
+
+frias lopez j thompson a waldbauer j and chisholm s w 
+
+ use of stable isotope labelled cells to identify active grazers of
+
+picocyanobacteria in ocean surface waters environ microbiol – 
+
+doi j x
+
+frost b w the role of grazing in nutrient rich areas of the open sea 
+
+limnol oceanogr – doi lo 
+
+hartmann m grob c tarran g a martin a p burkill p h scanlan d j 
+
+et al mixotrophic basis of atlantic oligotrophic ecosystems proc natl 
+
+acad sci u s a – doi pnas 
+
+hollander m andwolfe d a nonparametric statistical procedures new
+
+york ny wiley 
+
+johnson k s riser s c and karl d m nitrate supply from deep
+
+to near surface waters of the north pacific subtropical gyre nature 
+
+ – doi nature 
+
+juranek l w quay p d feely r a lockwood d karl d m and church 
+
+m j biological production in the ne pacific and its influence on air sea
+
+co flux evidence from dissolved oxygen isotopes and o ar j geophys res 
+
+ c doi jc 
+
+karl d m a sea of change biogeochemical variability in the north pacific
+
+subtropical gyre ecosystems – doi s 
+
+karl d m nutrient dynamics in the deep blue sea trends microbiol 
+
+ – doi s x 
+
+karl d m björkman k m dore j e and fujieki l ecological
+
+nitrogen to phosphorus stoichiometry at station aloha deep sea res ii 
+
+ – doi s 
+
+karl d m christian j dore j e hebel d v letelier r m tupas l 
+
+m et al seasonal and interannual variability in primary production
+
+and particle flux at station aloha deep sea res ii – 
+
+doi 
+
+karl d m and church m j ecosystem structure and dynamics in
+
+the north pacific subtropical gyre new views of an old ocean ecosystems 
+
+ – doi s 
+
+karl d m church m j dore j e letelier r m and mahaffey c 
+
+predictable and efficient carbon sequestration in the north pacific ocean
+
+supported by symbiotic nitrogen fixation proc natl acad sci u s a 
+
+ – doi pnas 
+
+karl d m letelier r hebel d bird d f and winn c 
+
+“trichodesmium blooms and new nitrogen in the north pacific gyre ” in
+
+marine pelagic cyanobacteria trichodesmium and other diazotrophs eds e 
+
+j carpenter and d g capone dordrecht springer – 
+
+karl d m letelier r tupas l dore j e christian j and hebel d 
+
+the role of nitrogen fixation in biogeochemical cycling in the subtropical north
+
+pacific ocean nature – doi 
+
+karl d m and lukas r the hawaii ocean time series hot program 
+
+background rationale and field implementation deep sea res ii – 
+
+doi 
+
+frontiers in marine science www frontiersin org march volume article 
+
+https doi org science 
+https doi org plankt fbu 
+https doi org 
+https doi org 
+https doi org lo 
+https doi org lo 
+https doi org 
+https doi org bioinformatics btp 
+https doi org ismej 
+https doi org gb 
+https doi org s x
+https doi org lo 
+https doi org science 
+https doi org j protis 
+https doi org j pocean 
+https doi org meps 
+https doi org ismej 
+https doi org bioinformatics btr 
+https doi org lo 
+https doi org lo 
+https doi org bf 
+http cran r project org doc contrib faraway pra pdf
+https doi org ngeo 
+https doi org j x
+https doi org lo 
+https doi org pnas 
+https doi org nature 
+https doi org jc 
+https doi org s 
+https doi org s x 
+https doi org s 
+https doi org 
+https doi org s 
+https doi org pnas 
+https doi org 
+https doi org 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+lane d j “ s s sequencing ” innucleic acid technologies in bacterial
+
+systematic eds e stackebrandt and m goodfellow new york ny wiley 
+
+ – 
+
+latasa m landry m r schluter l and bidigare r r pigment specific
+
+growth and grazing rates of phytoplankton in the central equatorial pacific 
+
+limnol oceanogr – doi lo 
+
+letelier r m bidigare r r hebel d v ondrusek m e winn c d 
+
+and karl d m temporal variability of phytoplankton community
+
+structure based on pigment analysis limnol oceanogr – 
+
+doi lo 
+
+letelier r m dore j e winn c d and karl d m seasonal and
+
+interannual variations in photosynthetic carbon assimilation at station deep
+
+sea res ii – doi 
+
+letelier r m karl d m abbott m r and bidigare r r light
+
+driven seasonal patterns of chlorophyll and nitrate in the lower euphotic
+
+zone of the north pacific subtropical gyre limnol oceanogr – 
+
+doi lo 
+
+li b karl d m letelier r m and church m j size dependent
+
+photosynthetic variability in the north pacific subtropical gyre mar ecol prog 
+
+ser – doi meps 
+
+li q p zhang j z millero f j and hansell d a continuous
+
+colorimetric determination of trace ammonium in seawater with a
+
+long path liquid waveguide capillary cell mar chem – 
+
+doi j marchem 
+
+liu h probert i uitz j claustre h aris brosou s frada m et al 
+
+extreme diversity in noncalcifying haptophytes explains a major pigment
+
+paradox in open oceans proc natl acad sci u s a – 
+
+doi pnas 
+
+longhurst a r diversity and trophic structure of zooplankton
+
+communities in the california current deep sea res – 
+
+doi 
+
+mahaffey c björkman k m and karl d m phytoplankton response
+
+to deep seawater nutrient addition in the north pacific subtropical gyre mar 
+
+ecol prog ser – doi meps 
+
+medinger r nolte v pandey r v jost s ottenwälder b schlötterer c et al 
+
+ diversity in a hidden world potential and limitation of next generation
+
+sequencing for surveys of molecular diversity of eukaryotic microorganisms 
+
+mol ecol – doi j x x
+
+medlin l elwood h j stickel s and sogin m l the characterization
+
+of enzymatically amplified eukaryotic s like rrna coding regions gene 
+
+ – doi 
+
+millie d f paerl h w hurley j p and kirkpatrick g j algal pigment
+
+determinations in aquatic ecosystems analytical evaluations applications and
+
+recommendations curr top bot res – 
+
+newell b s morgan b and cundy j the determination of urea in
+
+seawater j mar res – 
+
+not f del campo j balagué v de vargas c and massana r 
+
+new insights into the diversity of marine picoeukaryotes plos one e 
+
+doi journal pone 
+
+oksanen j blanchet f g kindt r legendre p minchin p r o’hara r b 
+
+et al package “vegan” community ecology package r package version
+
+ avaialbe online at http cran r project org web packages vegan 
+
+paerl r w foster r a jenkins b d montoya j p and zehr 
+
+j p phylogenetic diversity of cyanobacterial narb genes
+
+from various marine habitats environ microbiol – 
+
+doi j x
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al 
+
+the silva ribosomal rna gene database project improved data processing
+
+and web based tools nucl acids res d –d doi nar 
+
+gks 
+
+r core development team r a language and environment for statistical
+
+computing vienna r foundation for statistical computing avaialbe online
+
+at https cran r project org
+
+rii y m brown s l nencioli f kuwahara v dickey t d karl d 
+
+m et al the transient oasis nutrient phytoplankton dynamics and
+
+particle export in hawaiian lee cyclones deep sea res ii – 
+
+doi j dsr 
+
+rothhaupt k o laboratorary experiments with a mixotrophic
+
+chrysophyte and obligately phagotrophic and photographic competitors 
+
+ecology – doi 
+
+royston j p an extension of shapiro and wilk’s w test for normality to
+
+large samples appl stat – doi 
+
+sakamoto c m karl d m jannasch h w bidigare r r letelier 
+
+r m walz p m et al influence of rossby waves on
+
+nutrient dynamics and the plankton community structure in the north
+
+pacific subtropical gyre j geophys res c doi jc 
+
+ 
+
+scharek r latasa m karl d m and bidigare r r temporal
+
+variations in diatom abundance and downward vertical flux in the
+
+oligotrophic north pacific gyre deep sea res i – 
+
+doi s 
+
+shilova i n mills m m robidart j c turk kubo k a björkman 
+
+k a kolber z et al differential effects of nitrate ammonium 
+
+and urea as n sources for microbial communities in the north
+
+pacific ocean limnol oceanogr – doi lno 
+
+ 
+
+steeman nielsen e the use of radioactive carbon c for measuring
+
+organic production in the sea j cons cons int explor mer – 
+
+doi icesjms 
+
+stoeck t bass d nebel m christen r jones m d breiner h 
+
+w et al multiple marker parallel tag environmental dna
+
+sequencing reveals a highly complex eukaryotic community in marine
+
+anoxic water mol ecol – doi j x 
+
+ x
+
+strickland j d h holm hansen o eppley r w and linn r j 
+
+the use of a deep tank in plankton ecology limnol oceanogr – 
+
+doi lo 
+
+strickland j d h and parsons t r a practical handbook of seawater
+
+analysis ottawa on fisheries research board of canada bulletin 
+
+timmermans k r van der wagt b veldhuis m j w maatman 
+
+a and de baar h j w physiological responses of three
+
+species of marine pico phytoplankton to ammonium phosphate iron
+
+and light limitation j sea res – doi j seares 
+
+ 
+
+timonin a g structure of pelagic associations – quantitative relationship
+
+between different trophic groups of plankton in frontal zones of tropical ocean 
+
+oceanology – 
+
+van de poll w h vissier r j w and buma a g j acclimation
+
+to a dynamic irradiance regime changes excessive irradiance sensitivity
+
+of emiliana huxleyi and thalassiosira weissflogii limnol oceanogr 
+
+ – doi lo 
+
+venrick e l phytoplankton seasonality in the central north
+
+pacific the endless summer reconsidered limnol oceanogr – 
+
+doi lo 
+
+venrick e l comparison of the phytoplankton species composition
+
+and structure in the climax area – with that of station
+
+aloha limnol oceanogr – doi lo 
+
+ 
+
+venrick e l phytoplankton species structure in the central north
+
+pacific – variability and persistence j plankton res – 
+
+doi plankt 
+
+villareal t a adornato l wilson c and schoenbaechler c a 
+
+summer blooms of diatom diazotroph assemblages and surface chlorophyll
+
+in the north pacific gyre a disconnect j geophys res c 
+
+doi jc 
+
+viviani d a karl d m and church m j variability in photosynthetic
+
+production of dissolved and particulate organic carbon in the north
+
+pacific subtropical gyre front mar sci doi fmars 
+
+ 
+
+wada e and hattori a nitrogen in the sea forms abundance and rate
+
+processes boca raton fl crc press 
+
+white a e letelier r m whitmire a l barone b bidigare r 
+
+r church m j et al phenology of particle size distributions
+
+and primary productivity in the north pacific subtropical gyre station
+
+frontiers in marine science www frontiersin org march volume article 
+
+https doi org lo 
+https doi org lo 
+https doi org 
+https doi org lo 
+https doi org meps 
+https doi org j marchem 
+https doi org pnas 
+https doi org 
+https doi org meps 
+https doi org j x x
+https doi org 
+https doi org journal pone 
+http cran r project org web packages vegan 
+https doi org j x
+https doi org nar gks 
+https cran r project org
+https doi org j dsr 
+https doi org 
+https doi org 
+https doi org jc 
+https doi org s 
+https doi org lno 
+https doi org icesjms 
+https doi org j x x
+https doi org lo 
+https doi org j seares 
+https doi org lo 
+https doi org lo 
+https doi org lo 
+https doi org plankt 
+https doi org jc 
+https doi org fmars 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+
+rii et al eukaryotic phytoplankton response to nitrogen
+
+aloha j geophys res oceans – doi jc 
+
+ 
+
+wickham h ggplot elegant graphics for data analysis new york ny 
+
+springer science and business media 
+
+wright s w jeffrey s w mantoura r f c llewellyn c a bjornland 
+
+t repeta d et al improved hplc method for the analysis of
+
+chlorophylls and carotenoids frommarine phytoplankton mar ecol prog ser 
+
+ – doi meps 
+
+zhang j kobert k flouri t and stamatakis a pear a fast
+
+and accurate illumina paired end read merger bioinformatics – 
+
+doi bioinformatics btt 
+
+zhu f massana r not f marie d and vaulot d mapping of
+
+picoeucaryotes in marine ecosystems with quantitative pcr of the s rrna
+
+gene fems microbiol ecol – doi j femsec 
+
+zubkov m v and tarran g a high bacterivory by the smallest
+
+phytoplankton in the north atlantic ocean nature – 
+
+doi nature 
+
+conflict of interest statement the authors declare that the research was
+
+conducted in the absence of any commercial or financial relationships that could
+
+be construed as a potential conflict of interest 
+
+copyright © rii bidigare and church this is an open access article distributed
+
+under the terms of the creative commons attribution license cc by the use 
+
+distribution or reproduction in other forums is permitted provided the original
+
+author s and the copyright owner are credited and that the original publication
+
+in this journal is cited in accordance with accepted academic practice no use 
+
+distribution or reproduction is permitted which does not comply with these terms 
+
+frontiers in marine science www frontiersin org march volume article 
+
+https doi org jc 
+https doi org meps 
+https doi org bioinformatics btt 
+https doi org j femsec 
+https doi org nature 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals marine science
+https www frontiersin org
+https www frontiersin org journals marine science articles
+
+	differential responses of eukaryotic phytoplankton to nitrogenous nutrients in the north pacific subtropical gyre
+	introduction
+	materials and methods
+	experimental design
+	nutrient analyses
+	 c based rates of primary production
+	photosynthetic eukaryote cell abundance
+	photosynthetic pigments
+	dna extraction pcr and sequence analyses
+	statistical analyses
+
+	results
+	station aloha conditions at initial time points
+	nutrients primary production chlorophyll a and cell abundances following n additions
+	changes in eukaryotic phytoplankton community composition
+	photosynthetic pigments
+	 s rdna sequences
+
+
+	discussion
+	author contributions
+	acknowledgments
+	supplementary material
+	references
+
+
+

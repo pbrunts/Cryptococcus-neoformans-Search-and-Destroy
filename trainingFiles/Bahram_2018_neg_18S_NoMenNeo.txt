@@ -1,0 +1,2662 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+structure and function of the global topsoil microbiome
+
+
+letter
+https doi org s 
+
+structure and function of the global topsoil 
+microbiome
+mohammad bahram falk hildebrand sofia k forslund jennifer l anderson nadejda a soudzilovskaia 
+peter m bodegom johan bengtsson palme sten anslan luis pedro coelho helery harend jaime huerta cepas 
+marnix h medema mia r maltz sunil mundra pål axel olsson mari pent sergei põlme shinichi sunagawa 
+martin ryberg leho tedersoo peer bork 
+
+soils harbour some of the most diverse microbiomes on earth 
+and are essential for both nutrient cycling and carbon storage 
+to understand soil functioning it is necessary to model the 
+global distribution patterns and functional gene repertoires of 
+soil microorganisms as well as the biotic and environmental 
+associations between the diversity and structure of both bacterial 
+and fungal soil communities – here we show by leveraging 
+metagenomics and metabarcoding of global topsoil samples 
+sites subsamples that bacterial but not fungal genetic 
+diversity is highest in temperate habitats and that microbial gene 
+composition varies more strongly with environmental variables than 
+with geographic distance we demonstrate that fungi and bacteria 
+show global niche differentiation that is associated with contrasting 
+diversity responses to precipitation and soil ph furthermore we 
+provide evidence for strong bacterial–fungal antagonism inferred 
+from antibiotic resistance genes in topsoil and ocean habitats 
+indicating the substantial role of biotic interactions in shaping 
+microbial communities our results suggest that both competition 
+and environmental filtering affect the abundance composition 
+and encoded gene functions of bacterial and fungal communities 
+indicating that the relative contributions of these microorganisms 
+to global nutrient cycling varies spatially 
+
+bacteria and fungi dominate terrestrial soil habitats in terms of bio 
+diversity biomass and their influence over essential soil processes 
+specific roles of microbial communities in biogeochemical processes 
+are reflected by their taxonomic composition biotic interactions and 
+gene functional potential – although microbial biogeography studies 
+have focused largely on single taxonomic groups and on how their 
+diversity and composition respond to local abiotic soil factors for 
+example ph global patterns and the impact of biotic interactions 
+on microbial biogeography remain relatively unexplored in addition to 
+constraints imposed by environmental factors biotic interactions may 
+strongly influence bacterial communities for example to outcompete 
+bacteria many fungal taxa secrete substantial amounts of antimicro 
+bial compounds which may select for antibiotic resistant bacteria and 
+effectively increase the relative abundance of antibiotic resistance genes 
+ args here we used metagenomics and dna metabarcoding s 
+ s and internal transcribed spacer its rrna gene markers soil 
+chemistry and biomass assessments phospholipid fatty acids analyses 
+ plfas to determine the relationships among genetic functional 
+
+potential phylogenetic and taxonomic diversity and abundance in 
+response to biotic and abiotic factors in topsoil samples covering 
+all terrestrial regions and biomes of the world extended data fig   a 
+supplementary table  altogether topsoil subsamples were 
+collected from ha plots from sites subsamples per site 
+harbouring homogeneous vegetation that were minimally affected by 
+humans we minimized biases and shortcomings in sampling as well 
+as technical variation including batch effects by using highly stand 
+ardized collection and processing protocols from the total collection 
+ representative sites were selected for this analysis we validated 
+our main findings in external datasets including an independent soil 
+dataset topsoil samples supplementary table  that followed the 
+same sampling and sequencing protocol 
+
+using metagenomics we constructed a gene catalogue for soils 
+by combining our newly generated data with published soil metage 
+nomes n supplementary table and identified 
+unique genes or fragments thereof only of these mil 
+lion genes overlapped with those from published genomes and large 
+gut and ocean gene catalogues that are much closer to saturation 
+ supplementary table indicating that the functional potential of soil 
+microbiomes is enormously vast and undersampled for functional 
+analysis we annotated genes and functional modules via orthologous 
+groups using the eggnog database for each sample we also con 
+structed taxonomic profiles at the class and phylum levels for both 
+bacteria and fungi from relative abundance of rrna genes in metagen 
+omic datasets mitags complemented by operational taxonomic 
+units otus that were based on clustering s rrna and its genes 
+for soil fungi and s rrna genes for soil bacteria at similarity 
+threshold see methods ‘metagenomics and metabarcoding analyses’ 
+in total s based bacterial s based and its 
+based fungal otus were analysed in the context of geographic space 
+and edaphic and climatic parameters were determined for each 
+sampling site see methods ‘statistical analyses’ archaea were poorly 
+represented in our metabarcoding data  less than of otus and 
+metagenomics data less than of mitags and hence are excluded 
+from most analyses 
+
+we examined whether the latitudinal diversity gradient ldg a 
+trend of increasing diversity from the poles to the tropics seen in many 
+macroscopic organisms especially plants applies to microbial global 
+distribution patterns we found that contrary to the typical ldg 
+
+ department of botany institute of ecology and earth sciences university of tartu tartu estonia department of organismal biology evolutionary biology centre uppsala university uppsala 
+sweden department of ecology swedish university of agricultural sciences uppsala sweden structural and computational biology unit european molecular biology laboratory heidelberg 
+germany environmental biology department institute of environmental sciences cml leiden university leiden the netherlands department of infectious diseases institute of biomedicine 
+the sahlgrenska academy university of göteborg göteborg sweden centre for antibiotic resistance research care university of göteborg göteborg sweden braunschweig university of 
+technology zoological institute braunschweig germany bioinformatics group wageningen university wageningen the netherlands center for conservation biology university of california 
+riverside riverside ca usa section for genetics and evolutionary biology evogene department of biosciences university of oslo oslo norway biodiversity unit department of biology 
+ecology building lund university lund sweden natural history museum university of tartu tartu estonia max delbrück centre for molecular medicine berlin germany department of 
+bioinformatics university of würzburg würzburg germany present address experimental and clinical research center a cooperation of charité universitätsmedizin and the max delbrück 
+center berlin germany present address max delbrück centre for molecular medicine berlin germany present address wisconsin institute of discovery university of wisconsin madison 
+madison wi usa present address centro de biotecnología y genómica de plantas universidad politécnica de madrid upm instituto nacional de investigación y tecnología agraria y 
+alimentaria inia madrid spain present address department of biology institute of microbiology eth zurich zurich switzerland these authors contributed equally mohammad bahram 
+falk hildebrand e mail bahram ut ee leho tedersoo ut ee bork embl de
+
+ a u g u s t v o l n a t u r e 
+© springer nature limited all rights reserved 
+
+https doi org s 
+mailto bahram ut ee
+mailto leho tedersoo ut ee
+mailto bork embl de
+
+
+letterresearch
+
+both taxonomic and gene functional diversity of bacteria peaked at 
+mid latitudes and declined towards the poles and the equator as is also 
+seen in the global ocean although the pattern was relatively weak 
+for taxonomic diversity herein fig   a c extended data figs   b 
+the deviation of several bacterial phyla out of from the general 
+trends may be explained by responses to edaphic and climate factors 
+weakly related to latitude extended data fig   b or contrasting effects 
+at lower taxonomic levels supplementary discussion by contrast the 
+ldg does apply to overall fungal taxonomic diversity and to three out 
+of five fungal phyla when examined separately but not to fungal func 
+tional diversity which was lowest in temperate biomes and exhibited 
+an inverse unimodal relationship with latitude fig   b d extended 
+data fig   c the ldg was negligible for oceanic fungi regression 
+analysis p possibly owing to their lower dispersal limitation 
+and the paucity of plant associations although fungal taxonomic diver 
+sity decreased poleward the total fungal biomass inferred from plfa 
+markers and the fungal bacterial biomass ratio increased poleward 
+partly owing to a decline in bacterial biomass with increasing latitude 
+ extended data fig   a–c 
+
+we tested the extent to which deterministic processes such as com 
+petition and environmental filtering that is the niche theory versus 
+neutral processes dispersal and drift the neutral theory explain the 
+distributions of fungal and bacterial taxa and functions in bacteria 
+environmental variation correlated strongly with taxonomic 
+
+composition partial mantel test accounting for geographic distance 
+between samples renv geo p and moderately with gene 
+functional composition renv geo p whereas the overall 
+effect of geographic distance among samples was negligible p 
+the weak correlation between geographic and taxonomic as well as 
+functional composition suggests that environmental variables are more 
+important than dispersal capacity in determining global distributions 
+of soil bacteria and their encoded functions as previously suggested 
+and observed for oceanic prokaryotes 
+
+for fungi both geographic distance and environmental parameters 
+were correlated with taxonomic composition its data rgeo env 
+p renv geo p s data rgeo env 
+p renv geo p environmental distance but not 
+geographic distance correlated with composition of fungal functional 
+genes renv geo p as was also observed for bacteria 
+the relatively weaker correlation of fungi with environmental variation 
+is consistent with results from local scales thus at both global and 
+local scales different processes appear to underlie community assembly 
+of fungi and bacteria 
+
+to more specifically investigate the association between environ 
+mental parameters and the distribution of taxa and gene functions on 
+a global scale we used multiple regression modelling see methods 
+‘statistical analyses’ we found that bacterial taxonomic diversity com 
+position richness and biomass as well as the relative abundance of major 
+bacterial phyla can be explained by soil ph nutrient concentration 
+and to a lesser extent by climatic variables extended data figs   
+supplementary table  the composition of bacterial communities 
+responded most strongly to soil ph followed by climatic variables par 
+ticularly mean annual precipitation map extended data figs   
+this predominant role of ph agrees with studies from local to conti 
+nental scales and may be ascribed to the direct effect of ph or related 
+variables such as the concentration of calcium and other cations 
+the relative abundance of genes that encode several metabolic and 
+transport pathways were strongly increased with ph extended data 
+fig   c suggesting that there may be greater metabolic demand for 
+these functions for bacteria in high nutrient and alkaline conditions 
+
+compared to temperate biomes tropical and boreal habitats con 
+tained more closely related taxa at the tip of phylogenetic trees but 
+from more distantly related clades extended data fig   d indicating 
+a deeper evolutionary niche specialization in bacteria together with 
+global biomass patterns extended data fig   a these results suggest 
+that soil bacterial communities in the tropics and at high latitudes are 
+subjected to stronger environmental filtering and include a relatively 
+greater proportion of edaphic niche specialists possibly rendering 
+these communities more vulnerable to global change by contrast 
+phylogenetic overdispersion in temperate bacterial communities may 
+result from greater competitive pressure or nutrient availability as 
+predicted by the niche theory 
+
+in contrast to the strong association between bacterial taxonomic 
+diversity and soil ph diversity of bacterial gene functions was more 
+strongly correlated with map extended data fig   a–h the steeper 
+ldg in gene functions than in taxa fig   a c may thus relate to the 
+stronger association of specific metabolic functions to climate than 
+to local soil conditions although soil and climate variables exhibited 
+comparable correlations with fungal taxa the soil carbon to nitrogen 
+ratio c n was the major predictor for fungal biomass and relative 
+abundance and composition of gene functions extended data figs   g 
+ b d supplementary table  we hypothesize that compared to 
+bacteria the global distribution of fungi is more limited by resource 
+availability owing to specialization for the use of specific compounds 
+as substrates and greater energy demand 
+
+we interpret opposing biogeographic trends for bacteria and fungi 
+as niche segregation driven by differential responses of bacteria and 
+fungi to environmental factors and their direct competition gene 
+functional diversity of both bacteria and fungi responded to map and 
+soil ph albeit in opposite directions extended data fig   c d g h 
+supplementary table  this may partly explain the observed inverse 
+
+southern temperate forests
+temperate deciduous forests
+
+mediterranean
+
+boreal forests
+arctic tundra
+
+moist tropical forests
+tropical montane forests
+
+savannahs
+
+temperate coniferous forests
+dry tropical forests
+
+grasslands and shrublands
+
+absolute latitude degrees 
+
+fu
+nc
+
+tio
+na
+
+l d
+iv
+
+er
+si
+
+ty
+ta
+
+xo
+no
+
+m
+ic
+
+ d
+iv
+
+er
+si
+
+ty
+
+bacteria fungi
+tropical temperate
+
+boreal
+–arctic
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tropical temperate
+boreal
+–arctic
+
+r 
+p 
+aicc 
+
+r 
+p 
+aicc 
+
+r 
+p × – 
+
+aicc 
+
+r 
+p 
+aicc 
+
+r 
+p × – 
+
+aicc 
+
+r 
+p 
+aicc 
+
+r 
+p × – 
+
+aicc 
+
+r 
+p × – 
+
+aicc 
+
+b
+
+c
+
+a
+
+d
+
+fig fungal and bacterial diversity exhibit contrasting patterns 
+across the latitudinal gradient a–d latitudinal distributions of 
+bacterial a c and fungal b d taxonomic a b n biologically 
+independent samples and gene functional c d n biologically 
+independent samples diversity in global soil samples first and second 
+order polynomial fits are shown in grey and black respectively the 
+best polynomial fit was determined as underlined on the basis of the 
+corrected akaike information criterion aicc see methods ‘statistical 
+analyses’ of the first and second order polynomial models anova 
+a f p − b f p c f p − 
+d f p − grey dashed and black solid lines are the first 
+and second order polynomial regression lines respectively diversity was 
+measured using inverse simpson index these trends were robust to the 
+choice of index see extended data fig   b c the latitudinal distribution 
+of the high level biome tropical temperate and boreal arctic is given at 
+the top of a and b 
+
+ n a t u r e v o l a u g u s t 
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+pattern of gene functional diversity across the latitudinal gradient that 
+is niche differentiation between bacteria and fungi fig   extended 
+data fig   although increasing precipitation seems to favour higher 
+fungal diversity it is associated with higher bacterial fungal biomass 
+and abundance ratios extended data figs   d g f h the increasing 
+proportion of fungi towards higher latitudes may be explained by com 
+petitive advantages perhaps owing to a greater tolerance to nutrient 
+and water limitation associated with potential long distance transport 
+by hyphae 
+
+a role of inter kingdom biotic interactions in determining the 
+distributions of functional diversity and biomass in fungi and bacteria 
+has been suggested previously as competition for resources affects the 
+biomass of fungi and bacteria we hypothesized that the bacterial 
+fungal biomass ratio is related to the prevalence of fungi and bacterial 
+antibiotic resistance capacity because of broader activities of fungi than 
+bacteria in using complex carbon substrates as well as increased anti 
+biotic production of fungi in high c n environments consistent with 
+this hypothesis we found that both fungal biomass and the bacterial 
+fungal biomass ratio correlated with the relative abundance of args 
+ extended data fig   and that most fungal orthologous group 
+
+subcategories particularly those involved in biosynthesis of antibiotic 
+and reactive oxygen species increased with soil c n supplementary 
+table  supplementary discussion we also found that the relative 
+abundance of args in topsoil is more strongly related to fungal relative 
+abundance r p − and bacterial fungal abundance ratio 
+ r − p − fig   b than to bacterial relative abundance 
+ r p on the basis of mitags which is supported by 
+our external validation dataset fungal relative abundance r 
+p − bacterial fungal abundance ratio r − p − bac 
+terial relative abundance r p in addition the relative 
+abundance of args in topsoil was significantly negatively correlated 
+with bacterial phylogenetic diversity and otu richness on the basis 
+of the s rrna gene spearman correlation p extended 
+data figs   a c a further supporting a role for biotic interactions in 
+shaping microbial communities 
+
+we also tested possible direct and indirect relationships between 
+args and environmental predictors using structural equation mod 
+elling sem supplementary table  the optimized model suggests 
+that the soil c n ratio and moisture rather than ph—the predominant 
+driver of bacterial diversity extended data fig   g supplementary 
+
+fig global relative abundance of args can be explained by a 
+combination of biotic and abiotic factors a pairwise spearman’s 
+correlation matrix of the main biotic and abiotic determinants of 
+the relative abundance of args b bacterial fungal abundance ratio 
+significantly correlated with the relative abundance of args on a global 
+scale c structural equation modelling sem of the relative abundance 
+of args in the soil green and ocean blue datasets explaining 
+and of variation respectively supplementary table  the goodness 
+of fit was acceptable soil dataset root mean square error of estimation 
+ rmsea p value for a test of close fit pclose n 
+
+biologically independent samples ocean dataset rmsea 
+pclose n biologically independent samples abundance 
+relative abundance of mitags determined as fungi including fungus like 
+protists or bacteria b f bacterial fungal abundance or biomass ratio 
+bacterial richness bacterial otu similarity richness on the basis 
+of the metabarcoding dataset biomass nmol g− absolute biomass on 
+the basis of plfa analysis dcm deep chlorophyll maximum  mat mean 
+annual temperature n nitrates na not applicable ns not significant 
+ p q std coeff standardized coefficients 
+
+soil
+
+ocean
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+na
+
+ns
+
+arg abundance
+bacterial richness
+
+bacterial abundance
+fungal abundance
+
+b f abundance
+bacterial biomass
+
+fungal biomass
+b f biomass
+
+distance to equator
+map
+mat
+c n
+ph
+
+distance from coast
+nitrates
+
+a
+r
+
+g
+ a
+
+b
+un
+
+d
+an
+
+ce
+
+b
+ac
+
+te
+ria
+
+l r
+ic
+
+hn
+es
+
+s
+b
+
+ac
+te
+
+ria
+l a
+
+b
+un
+
+d
+an
+
+ce
+
+b
+ac
+
+te
+ria
+
+l b
+io
+
+m
+as
+
+s
+
+fu
+ng
+
+al
+ a
+
+b
+un
+
+d
+an
+
+ce
+
+fu
+ng
+
+al
+ b
+
+io
+m
+
+as
+s
+
+b
+ f
+
+ a
+b
+
+un
+d
+
+an
+ce
+
+b
+ f
+
+ b
+io
+
+m
+as
+
+s
+d
+
+is
+ta
+
+nc
+e 
+
+to
+ e
+
+q
+ua
+
+to
+r
+
+d
+is
+
+ta
+nc
+
+e 
+fr
+
+om
+ c
+
+oa
+st
+
+n
+itr
+
+at
+es
+
+m
+a
+
+p
+m
+
+a
+t
+
+c
+ n
+
+p
+h
+
+correlation
+
+soil r – p × – n 
+ocean r – p × – n 
+
+surface r – p × – n 
+dcm r – p n 
+mesopelagic r p n 
+
+bacterial fungal abundance
+
+ 
+
+soil
+ocean
+
+negative relationship
+positive relationship 
+
+ 
+ 
+ 
+
+std coeff 
+
+distance
+to coast
+
+map
+
+mat
+
+bacteria fungi
+
+arg
+abundance
+
+c n
+
+n
+
+distance to equator
+
+a b
+
+c
+
+ 
+
+ 
+
+ 
+
+a
+r
+
+g
+ a
+
+b
+un
+
+d
+an
+
+ce
+
+ a u g u s t v o l n a t u r e 
+© springer nature limited all rights reserved 
+
+
+
+letterresearch
+
+discussion —affect the bacterial fungal abundance ratio which in turn 
+affects the relative abundance of args at the global scale fig   c 
+in line with increased production of antibiotics in high competition 
+environments the soil c n ratio was the best predictor for richness of 
+fungal functional genes r p − supplementary table  
+and bacterial carbohydrate active enzyme cazyme genes involved 
+in degrading fungal carbohydrates r p − the relative 
+abundance of args was also strongly correlated with c n in the 
+external validation dataset r p − 
+
+although the concomitant increase in antibiotic resistance potential 
+and the relative abundance of bacteria as potential arg carriers was 
+expected the strong correlation of fungal relative abundance with the 
+relative abundance of args and in turn bacterial phylogenetic diversity 
+may be explained by selection against bacteria that lack args such that 
+bacteria surviving fungal antagonism are enriched for args among 
+all studied phyla the relative abundance of chloroflexi nitrospirae 
+and gemmatimonadetes bacteria on the basis of mitags taxa with 
+relatively low genomic arg content supplementary table  were 
+most strongly negatively correlated with arg relative abundance 
+ fig   a by contrast args were strongly positively correlated with 
+the relative abundance of proteobacteria which have the greatest aver 
+age number of args per genome among bacteria supplementary 
+table  and the fungal phyla ascomycota and zygomycota sensu lato 
+
+ including zoopagomycota and mucoromycota in both the global soil 
+and the external validation datasets fig   a b extended data fig   a c 
+supplementary table  more specifically its metabarcoding 
+revealed increasing relative abundances of args with numerous 
+fungal otus supplementary table  particularly those belong 
+ing to oidiodendron myxotrichaceae ascomycota and penicillium 
+ aspergillaceae ascomycota which are known antibiotic 
+producers supplementary discussion among bacterial args 
+the relative abundance of efflux pumps and β lactamases which act 
+specifically on fungal derived antibiotics were significantly correlated 
+to the relative abundance of ascomycota extended data fig   a 
+supplementary table  actinobacteria encompassing antibiotic 
+producing streptomyces also significantly correlated to arg diversity 
+in topsoil supplementary table  together these results suggest 
+that relationships between organismal and arg abundances are 
+probably the result of selective and or suppressive actions of antibiotics 
+on bacteria 
+
+consistent with our observations in topsoil we found evidence 
+for antagonism between fungi and bacteria in oceans by reanalysing 
+the distribution of args in water samples from the global tara 
+oceans project see methods ‘external metagenomic datasets’ 
+supplementary table  extended data fig   a the fungus like stra 
+menopile class oomycetes water moulds and the fungal phylum 
+chytridiomycota constituted the groups most strongly associated 
+with the relative abundance of bacterial args fig   a c extended 
+data figs   b d b d although there is little direct evidence that 
+oomycetes produce antibiotics their high antagonistic activity can 
+induce bacteria and other organisms including fungi to produce 
+antibiotics supplementary discussion as in topsoil bacterial phy 
+logenetic diversity was significantly negatively correlated with the 
+relative abundance of args in ocean samples extended data fig   b c 
+in addition the relative abundance of args declined with increasing 
+distance from the nearest coast in ocean samples extended data 
+fig   b which may reflect the effect of a decreasing nutrient gradient 
+along distance from the coast on the pattern of bacterial and fungal 
+abundance and in turn the abundance of args the agreement of 
+results from these disparate habitats suggests that competition for 
+resources related to nutrient availability and climate factors drive 
+a eukaryotic–bacterial antagonism in both terrestrial and oceanic 
+ecosystems 
+
+our results indicate that both environmental filtering and niche dif 
+ferentiation determine global soil microbial composition with a minor 
+role of dispersal limitation at this scale for limitations see methods 
+‘metagenomics and metabarcoding analyses’ in particular the global 
+distributions of soil bacteria and fungi were most strongly associated 
+with soil ph and precipitation respectively our data further indicate 
+that inter kingdom antagonism as reflected in the association of 
+bacterial args with fungal relative abundance is also important in 
+structuring microbial communities although further studies are 
+needed to explicitly address the interplay between the bacterial fungal 
+abundance ratio and the abundance of args our data suggest that 
+environmental variables that affect the bacterial fungal abundance 
+ratio may have consequences for microbial interactions and may favour 
+fungi or bacteria driven soil nutrient cycling this unprecedented view 
+of the global patterns of microbial distributions indicates that global 
+climate change may differentially affect bacterial and fungal commu 
+nity composition and their functional potential because acidification 
+nitrogen pollution and shifts in precipitation all have contrasting effects 
+on topsoil bacterial and fungal abundance diversity and functioning 
+
+online content
+any methods including any statements of data availability and nature research 
+reporting summaries along with any additional references and source data files 
+are available in the online version of the paper at https doi org s 
+ 
+
+received march accepted june 
+published online august 
+
+fig fungi are the main determinants of the relative abundance 
+of args in soils and oceans a the association between the relative 
+abundance of args and major bacterial and fungal including fungal 
+like protist phyla in metagenomic samples from soils and oceans outer 
+circle colour corresponds to the pearson’s correlation coefficient circle fill 
+colour corresponds to the significance after adjustment for multiple testing 
+ q value as indicated in the legend b c relationships non parametric 
+correlations between the relative abundances of the most correlated fungal 
+groups with args in soil metagenomes from this study b and ocean 
+metagenomes c for statistical details and significance see supplementary 
+table  asterisks denote significance after benjamini–hochberg correction 
+for multiple testing q see also supplementary discussion and 
+supplementary table  for analogous results as in a but at the class level and 
+in other habitats besides soil and ocean including published non forest and 
+agricultural soil as well as human skin and gut samples 
+
+ex
+te
+
+rn
+al 
+
+so
+il
+
+gl
+ob
+
+al 
+oc
+
+ea
+n
+
+fu
+ng
+
+i
+b
+
+ac
+te
+
+ria
+
+gl
+ob
+
+al 
+so
+
+il
+
+– 
+– 
+ 
+ 
+ 
+
+a
+
+abundance
+
+ascomycota abundance
+
+ × – 
+
+ × – 
+
+ 
+
+r 
+p × – 
+
+a
+r
+
+g
+ a
+
+b
+un
+
+d
+an
+
+ce
+
+ 
+ 
+
+× 
+ 
+
+– 
+
+ 
+ 
+
+ ×
+ 
+
+ 
+– 
+
+ 
+ 
+
+ ×
+ 
+
+ 
+– 
+
+ 
+
+ 
+
+r c
+p × – 
+
+a
+r
+
+g
+ a
+
+b
+un
+
+d
+an
+
+ce
+
+correlation q value
+
+b
+
+n 
+
+oomycota abundance
+
+n 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+firmicutes
+lentisphaerae
+thermotogae
+fibrobacteres
+
+microgenomates
+verrucomicrobia
+deferribacteres
+
+chlorobi
+planctomycetes
+
+tenericutes
+omnitrophica
+
+paracubacteria
+gemmatiomonadetes
+
+latescibacteria
+chloro�exi
+nitrospirae
+
+chlamydiae
+saccharibacteria
+
+fusobacteria
+cyanobacteria
+proteobacteria
+bacteroidetes
+
+armatimonadetes
+actinobacteria
+acidobacteria
+
+basidiomycota
+zygomycota
+
+oomycota
+chytridiomycota
+
+ascomycota
+
+ n a t u r e v o l a u g u s t 
+© springer nature limited all rights reserved 
+
+https doi org s 
+https doi org s 
+
+
+letter research
+
+ green j l bohannan b j whitaker r j microbial biogeography from 
+taxonomy to traits science – 
+
+ reed d c algar c k huber j a dick g j gene centric approach to 
+integrating environmental genomics and biogeochemical models proc natl 
+acad sci usa – 
+
+ maynard d s crowther t w bradford m a fungal interactions reduce 
+carbon use efficiency ecol lett – 
+
+ de menezes a b richardson a e thrall p h linking fungal–bacterial 
+co occurrences to soil ecosystem function curr opin microbiol – 
+ 
+
+ bardgett r d van der putten w h belowground biodiversity and ecosystem 
+functioning nature – 
+
+ lauber c l hamady m knight r fierer n pyrosequencing based 
+assessment of soil ph as a predictor of soil bacterial community structure at 
+the continental scale appl environ microbiol – 
+
+ rousk j et al soil bacterial and fungal communities across a ph gradient in an 
+arable soil isme j – 
+
+ de boer w folman l b summerbell r c boddy l living in a fungal 
+world impact of fungi on soil bacterial niche development fems microbiol rev 
+ – 
+
+ olson d m et al terrestrial ecoregions of the world a new map of life on earth 
+a new global map of terrestrial ecoregions provides an innovative tool for 
+conserving biodiversity bioscience – 
+
+ green j bohannan b j spatial scaling of microbial biodiversity trends ecol 
+evol – 
+
+ yuan s cohen d b ravel j abdo z forney l j evaluation of methods for 
+the extraction and purification of dna from the human microbiome plos one 
+ e 
+
+ li j et al an integrated catalog of reference genes in the human gut 
+microbiome nat biotechnol – 
+
+ sunagawa s et al structure and function of the global ocean microbiome 
+science 
+
+ huerta cepas j et al eggnog a hierarchical orthology framework with 
+improved functional annotations for eukaryotic prokaryotic and viral 
+sequences nucleic acids res d –d 
+
+ logares r et al metagenomic s rdna illumina tags are a powerful 
+alternative to amplicon sequencing to explore diversity and structure of 
+microbial communities environ microbiol – 
+
+ tedersoo l et al global diversity and geography of soil fungi science 
+ 
+
+ willig m r kaufman d stevens r latitudinal gradients of biodiversity 
+pattern process scale and synthesis annu rev ecol evol syst – 
+ 
+
+ martiny j b h et al microbial biogeography putting microorganisms on the 
+map nat rev microbiol – 
+
+ baas becking l g m geobiologie of inleiding tot de milieukunde w p van 
+stockum zoon nv the hague 
+
+ webb c o ackerly d d mcpeek m a donoghue m j phylogenies and 
+community ecology annu rev ecol syst – 
+
+ bryant j a stewart f j eppley j m delong e f microbial community 
+phylogenetic and trait diversity declines with depth in a marine oxygen 
+minimum zone ecology – 
+
+ frey klett p et al bacterial–fungal interactions hyphens between agricultural 
+clinical environmental and food microbiologists microbiol mol biol rev 
+ – 
+
+ mille lindblom c fischer h tranvik j l antagonism between bacteria and 
+fungi substrate competition and a possible tradeoff between fungal growth and 
+tolerance towards bacteria oikos – 
+
+ koranda m et al fungal and bacterial utilization of organic substrates depends 
+on substrate complexity and n availability fems microbiol ecol – 
+ 
+
+ platas g pelaez f collado j villuendas g diez m screening of 
+antimicrobial activities by aquatic hyphoycetes cultivated on various nutrient 
+sources cryptogam mycol – 
+
+ mende d r et al progenomes a resource for consistent functional and 
+taxonomic annotations of prokaryotic genomes nucleic acids res 
+d –d 
+
+ bérdy j thoughts and facts about antibiotics where we are now and where we 
+are heading j antibiot tokyo – 
+
+ andersen n r rasmussen p the constitution of clerocidin a new antibiotic 
+isolated from oidiodendron truncatum tetrahedron lett – 
+
+ zhao y qian g chen y du l liu f transcriptional and antagonistic 
+responses of biocontrol strain lysobacter enzymogenes oh to the plant 
+pathogenic oomycete pythium aphanidermatum front microbiol 
+
+ takahashi k et al cladomarine a new anti saprolegniasis compound isolated 
+from the deep sea fungus penicillium coralligerum yk j antibiot tokyo 
+ – 
+
+acknowledgements the authors thank i liiv for technical and laboratory 
+assistance s waszak for comments on the manuscript y p yuan and a 
+glazek for bioinformatics support and a holm viborg for help in retrieving 
+the cazy database we also thank v benes r hercog and other members of 
+the embl genecore heidelberg who provided assistance and facilities for 
+sequencing this study was funded by the estonian research council grants 
+put put put iut moberc kik rmk ecolchange 
+the swedish research council vr grant royal swedish academy 
+of sciences helge axson johnsons stiftelse eu cost action fp biolink 
+ stsm grant netherlands organization for scientific research vidi grant 
+ embl european union’s horizon research and innovation 
+programme dd dedaf and marie skłodowska curie 
+
+reviewer information nature thanks s tringe and the other anonymous 
+reviewer s for their contribution to the peer review of this work 
+
+author contributions m b l t and p b conceived the project l t supervised 
+dna extraction and sequencing m b f h s k f j l a m r and p m b designed 
+and supervised the data analyses f h designed and performed bioinformatics 
+analysis n a s and p a o performed biomass analysis s k f s m m p s a 
+h h s p m r m s s and l t contributed data m b f h s k f j l a p m b 
+s a j b p m h m l p c and j h c performed the data analyses m b wrote 
+the first draft of the manuscript with input from f h s f j l a l t and p b all 
+authors contributed to data interpretation and editing of the paper 
+
+competing interests the authors declare no competing interests 
+
+additional information
+extended data is available for this paper at https doi org s 
+ 
+supplementary information is available for this paper at https doi org 
+ s 
+reprints and permissions information is available at http www nature com 
+reprints 
+correspondence and requests for materials should be addressed to m b l t 
+or p b 
+publisher’s note springer nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations 
+
+ a u g u s t v o l n a t u r e 
+© springer nature limited all rights reserved 
+
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+http www nature com reprints
+http www nature com reprints
+
+
+letterresearch
+
+methods
+no statistical methods were used to predetermine sample size the experiments 
+were not randomized the investigators were not blinded to allocation during 
+experiments and outcome assessment 
+soil sample preparation composite soil samples from sites worldwide 
+were collected using highly standardized protocols the sampling was conducted 
+broadly across the most influential known environmental gradient that is the 
+latitude taking advantage of a global ‘natural laboratory’ to study the impact of 
+climate on diversity across vegetation biome and soil types and to enable testing 
+of the effects of environmental parameters spatial distance and biotic interactions 
+in structuring microbial communities we carefully selected representative sites 
+for different vegetation types separated by spatial distances that were sufficient 
+to minimize spatial autocorrelation and to cover most areas of the globe total 
+dna was extracted from g of soil from each sample using the powermax soil 
+dna isolation kit mobio a subset of high quality dna samples represent 
+ing different ecoregions spanning multiple forest grassland and tundra biomes 
+ supplementary table  were chosen for prokaryote and eukaryote metabar 
+coding ribosomal rrna genes and whole metagenome analysis samples from 
+desert n g g s s s s s and s and man 
+grove n g biomes yielded sufficient dna for metabarcoding but not 
+for metagenomics sequencing thus these samples were used for global mapping 
+of taxonomic diversity but excluded from all comparisons between functional 
+and taxonomic diversity one sample s contained no s sequences thus 
+altogether and samples were used for metagenomics and metabarcoding 
+analyses respectively 
+
+to determine the functional gene composition of each sample μg total soil 
+dna – bp fragments was ligated to illumina adaptors using the truseq 
+nano dna ht library prep kit illumina and shotgun sequenced in three 
+runs of the illumina hiseq platform × bp paired end chemistry 
+rapid run mode in the estonian genomics center tartu estonia taxonomic 
+composition was estimated from the same dna samples using ribosomal dna 
+metabarcoding for bacteria s v subregion and eukaryotes s v subregion 
+for amplification of prokaryotes and eukaryotes universal prokaryote primers 
+ f and rb although this pair may discriminate against certain groups of 
+archaea and bacteria such as crenarchaeota thaumarchaeota and sar and 
+eukaryote primers f and r were used although the resolution of s 
+rrna sequencing is limited to assignments to the level of genus and higher it is 
+currently a standard approach in profiling bacterial communities and thus enabled 
+us at least to explore patterns at coarse phylogenetic resolution 
+
+each primer was tagged with a – base identifier barcode dna samples 
+were amplified using the following pcr conditions °c for min and then 
+cycles of °c for s °c for  s and °c for min with a final extension 
+step at °c for min the μl pcr mix consisted of μl sterilized h o μl 
+ × hot firepol blend mastermix solis biodyne tartu estonia μl each 
+primer  nm and μl template dna pcr products from three technical rep 
+licates were pooled and their relative quantity was evaluated after electrophoresis 
+on an agarose gel dna samples producing no visible band or an overly strong band 
+were amplified using or cycles respectively the amplicons were purified 
+ favourprep gel pcr purification kit favourgen checked for quality nd 
+spectrophotometer nanodrop technologies and quantified qubit dsdna hs 
+assay kit life technologies quality and concentration of s amplicon pools 
+were verified using bioanalyzer hs dna analysis kit agilent and qubit 
+fluorometer with dsdna hs assay kit thermo fisher scientific respectively 
+sequencing was performed on an illumina miseq at the embl genecore facility 
+ heidelberg germany using a v cycle kit adjusting the read length to 
+and bp for read and read respectively s amplicon pools were quality 
+checked using bioanalyzer hs dna analysis kit agilent quantified using 
+qubit fluorometer with dsdna hs assay kit thermo fisher scientific and 
+sequenced on an illumina hiseq at estonian genomics center tartu estonia 
+sequences resulting from potential contamination and tag switching were 
+identified and discarded on the basis of two negative and positive control samples 
+per sequencing run 
+soil chemical analysis and biomass analysis all topsoil samples were subjected 
+to chemical analysis of phkcl ptotal total phosphorus k ca and mg the content 
+of c c n and n was determined using an elemental analyser eurovector 
+coupled with an isotope ratio mass spectrometer 
+
+to calculate the absolute abundance of bacteria and fungi using an independent 
+approach bacterial and fungal biomass were estimated from plfas in nmol g− 
+as follows lipids were extracted from g freeze dried soil in a one phase solution 
+of chloroform methanol and citrate buffer chloroform and citrate buffer was 
+added to split the collected extract into one lipophilic phase and one hydrophilic 
+phase the lipid phase was collected and applied on a pre packed silica column 
+the lipids were separated into neutral lipids intermediate lipids and polar lipids 
+ containing the phospholipids by subsequent elution with chloroform acetone 
+
+and methanol the neutral and phospholipids were dried using a speed vac methyl 
+nonadecanoic acid me was added as an internal standard the lipids were 
+subjected to a mild alkaline methanolysis in which fatty acids were derivatized to 
+fatty acid methyl esters fames the fames from neutral nlfas and phos 
+pholipids plfas were dried using speed vac and then dissolved in hexane before 
+analysis on a gas chromatograph as described fungal biomass was estimated as 
+the concentration of plfa ω and bacterial biomass from the sum of nine 
+plfas i i i a a cy cy me and me 
+the nomenclature of fatty acids was according to previously published work 
+acquisition of metadata from public databases climate data including monthly 
+temperature and precipitation were obtained from the worldclim database http 
+www worldclim org in addition estimates of soil carbon moisture ph potential 
+evapotranspiration pet and net primary productivity npp at arc minute 
+resolution were obtained from the atlas of the biosphere https nelson wisc edu 
+sage data and models atlas maps php samples were categorized into biomes 
+with all grassland biomes being categorized as ‘grasslands’ thus the following 
+biomes were considered and summarized to three global levels moist tropical 
+forests tropical montane forests and dry tropical forests savannahs as tropical 
+mediterranean grasslands and shrublands southern temperate forests conifer 
+ous temperate forests and deciduous temperate forests as temperate and boreal 
+forests and arctic tundra as boreal–arctic the time from the last fire disturbance 
+was estimated on the basis of enquiries to local authorities or collaborators and 
+evidence from the field 
+metagenomics and metabarcoding analyses processing of metagenomics sequence 
+data most soil microorganisms are uncultured making their identification 
+difficult metagenomics analysis has emerged as a way around this to capture both 
+genetic and phylogenetic diversity as such it can only directly reveal the poten 
+tial for functions through determining and tracing gene family abundances as 
+opposed to realized protein activity which may be involved in various functional 
+pathways but we can safely assume a strong correspondence between gene func 
+tional potential and the resulting ecosystem functioning or enzyme activities 
+
+reads obtained from the shotgun metagenome sequencing of topsoil samples 
+were quality filtered if the estimated accumulated error exceeded with a prob 
+ability of ≥ or ambiguous position reads were trimmed if base quality 
+dropped below in a window of bases at the ′ end or if the accumulated error 
+exceeded using the sdm read filtering software after this all reads shorter 
+than of the maximum expected read length bp unless noted otherwise 
+for external datasets were removed this resulted in retention of out 
+of reads in total supplementary table  we implemented a direct 
+mapping approach to estimate the functional gene composition of each sample 
+first the quality filtered read pairs were merged using flash the merged 
+and unmerged reads were then mapped against functional reference sequence 
+databases see below using diamond v in blastx mode using ‘ k e 
+ e sensitive’ options the mapping scores of two unmerged query reads that 
+mapped to the same target were combined to avoid double counting in this case 
+the hit scores were combined by selecting the lower of the two e values and the 
+sum of the bit scores from the two hits the best hit for a given query was based 
+on the highest bit score longest alignment length and highest percentage identity 
+to the subject sequence finally aligned reads were filtered to those that had an 
+alignment percentage identity and e × − see ‘parameterization and 
+validation of metagenomics approach’ for parameter choice 
+
+the functional databases to which metagenomic reads were mapped included 
+gene categories related to ros sources peroxidases genes databases kegg 
+ kyoto encyclopedia of genes and genomes and cazyme genes http www 
+cazy org accessed november to facilitate the interpretation of the 
+results the relative abundance of cazyme genes were summed on the basis of 
+the substrates for each gene family substrate utilization information for cazyme 
+families was obtained from previously published work as well as the cazypedia 
+ http www cazypedia org index php title carbohydrate binding modules ol 
+did on the basis of the kegg orthologue abundance matrices we cal 
+culated seed functional module abundances for functional annotations of 
+metagenomic reads we used in silico annotation on the basis of a curated database 
+of the orthologous gene family resource eggnog 
+
+for all databases that included taxonomic information eggnog kegg 
+cazy reads were mapped competitively against all kingdoms and assigned into 
+prokaryotic and eukaryotic groups on the basis of best bit score in the alignment 
+and the taxonomic annotation provided within the database at kingdom level all 
+functional abundance matrices were normalized to the total number of reads used 
+for mapping in the statistical analysis unless mentioned otherwise for example 
+rarefied in the case of diversity analysis see ‘statistical analyses’ this normali 
+zation better takes into account differences in library size as it has the advantage 
+of including the fraction of unmapped that is functionally unclassified reads 
+although there are limitations to using relative abundance of genes our analy 
+sis shows which potential functions are relatively more important without any 
+
+© springer nature limited all rights reserved 
+
+http www worldclim org
+http www worldclim org
+https nelson wisc edu sage data and models atlas maps php
+https nelson wisc edu sage data and models atlas maps php
+http www cazy org
+http www cazy org
+http www cazypedia org index php title carbohydrate binding modules oldid 
+http www cazypedia org index php title carbohydrate binding modules oldid 
+
+
+letter research
+
+normalization such analyses cannot be performed it is currently difficult to test the 
+absolute numbers owing to limitations of reliably quantifying soil dna resulting 
+from differences in extraction efficiency and the level of degradation 
+
+to identify args in our metagenome samples the merged and unmerged reads 
+were mapped to a homology expansion of the antibiotic resistance gene data 
+base ardb only hits that passed the minimum sequence identity values as listed 
+in the ardb for each family were taken further into account although newer arg 
+databases exist only the ardb presently has curated family inclusion thresholds 
+that directly allow application to our topsoil dataset as soil microbial diversity 
+is so large unlike for gut datasets high fidelity gene catalogue construction will 
+not be possible until many more samples are available therefore direct mapping 
+of reads to the gene family databases becomes necessary for our analysis in turn 
+necessitating arg inclusion thresholds that are well defined for single reads not 
+merely for full length genes thus the cut offs curated by resfams or card 
+for example are inappropriate as they are defined in the length dependent bit 
+score space the ardb cut offs however are defined as sequence identities and 
+thus in principle are applicable to sequences shorter than full length because of 
+these technical limitations we used a soil gene catalogue to determine card 
+based arg abundance matrices see ‘gene catalogue construction’ 
+
+it is important to note that measurements of functional genes including args 
+represent relative proportions of different gene families because the absolute 
+amount of dna differs among samples this necessitates the use of statistical 
+tests that do not assume absolute measurements and centres analysis of this type 
+on comparisons across the set of samples 
+estimation of taxa abundance using mitag we used a mitag approach to deter 
+mine bacterial and fungal community composition from metagenome sequence 
+data first sortmerna was used to extract and blast search rrna genes against 
+the silva lsu ssu database reads approximately matching these databases with 
+e − were further filtered with custom perl and c scripts using flash to 
+attempt to merge all matched read pairs in case read pairs could not be merged 
+which happens when the overlap between read pairs is too small the reads were 
+interleaved such that the second read pair was reverse complemented and then 
+sequentially added to the first read to fine match candidate interleaved or merged 
+reads to the silva lsu ssu databases lambda was used using the lowest com 
+mon ancestor lca algorithm adapted from lotus v we determined 
+the identity of filtered reads on the basis of lambda hits this included a filtering 
+step in which queries were only assigned to phyla and classes if they had at least 
+ and similarity to the best database hit respectively the taxon by sample 
+matrices were normalized to the total number of reads per sample to minimize 
+the effects of uneven sequencing depth the average of ssu and lsu matrices was 
+used for calculating the relative abundance of phyla or classes the abundance of 
+mitag sequences matching bacteria and fungi was used to determine the bacterial 
+fungal abundance ratio although lsu ssu assessments refer to the number of 
+fungal cells rather than the number of discrete multicellular fungi as this can apply 
+to all samples equally it is not systematically biased for comparing the trends of 
+bacterial to fungal abundance across samples 
+external metagenomic datasets to validate and compare the global trends at 
+smaller scales we used a regional scale dataset of topsoil samples that was 
+generated and processed using the same protocol as our global dataset 
+ supplementary table  
+
+in addition to compare patterns of arg diversity in soils and oceans on a global 
+scale we re analysed the metagenomics datasets of the tara oceans including all 
+size fractions supplementary table  after quality filtering out 
+of reads were retained from the tara oceans dataset 
+
+the quality filtered reads from all datasets were mapped to the corresponding 
+databases using diamond with the exception that no merging of read pairs was 
+attempted because the chances of finding overlapping reads were too low with 
+a read length of bp and insert size of bp tara oceans sequences for 
+ssu lsu mitags were extracted from these metagenomics datasets as described 
+above arg abundance matrices were also obtained from the tara oceans project 
+on the basis of the published gene catalogues annotated using a similar approach 
+as in the current study 
+gene catalogue construction to create a gene catalogue we first searched for com 
+plete reference genes that matched to read pairs in our collection using bowtie 
+with the options ‘ no unal end to end’ the resulting bam files were sorted 
+and indexed using samtools and the jgi summarize bam contig depths 
+provided with metabat was used to create a depth profile of genes from the 
+reference databases that were covered with ≥ nucleotide identity this cut off 
+is commonly used in constructing gene catalogues and chosen to delineate 
+genes belonging to the same species using the coverage information we extracted 
+all genes that had at least  bp with ≥ × coverage by reads from our topsoil 
+metagenomes the reference databases included an ocean microbial gene 
+catalogue a gut microbial gene catalogue as well as all genes extracted from 
+ published bacterial genomes altogether and genes 
+
+from progenomes igc and tara database respectively could be matched to soil 
+reads and were used in the gene catalogue 
+
+the majority of genes in our catalogue were assembled from the topsoil 
+samples presented here to reduce the likelihood of chimaeric reads each sample 
+was assembled separately using spades development version obtained from 
+the authors in metagenomic mode with the parameters ‘ only assembler m 
+ meta k ’ only sdm filtered paired reads were used in the 
+assembly with the same read filtering parameters as described above resulting 
+assemblies had an average n of bases total of all assemblies mb the 
+low n reflects difficulties in the assembly of soil metagenomes which probably 
+reflects the vast microbial genetic diversity of these ecosystems we further de novo 
+assembled reads from two other deep sequencing soil and sediment studies 
+using the same procedure and parameters except that the spades parameter 
+‘ k ’ was adjusted to a shorter read length furthermore we included 
+publicly available data from the european nucleotide archive ena the ena 
+was queried to identify all projects with publicly available metagenomes and whose 
+metadata contained the keyword ‘soil’ the initial set of hits was then manually 
+curated to select relevant project and or samples that were assembled as described 
+above additionally we integrated gene predictions from soil metagenomes down 
+loaded from mg rast supplementary table  assembly was not attempted 
+for these samples owing to the absence of paired end reads and relatively low read 
+depth rather only long reads or assemblies directly uploaded to mg rast with 
+≥  bp length were retained therefore only scaffolds and long reads with at least 
+ bp length were used for analysis on these filtered sequences genes were de 
+novo predicted using prodigal in metagenomic mode finally we merged 
+the predicted genes from assemblies long reads gene catalogues and references 
+genomes to construct a comprehensive soil gene catalogue 
+
+thus reads were processed of which 
+passed our stringent quality control the initial gene set predicted on the soil 
+assemblies and long reads was separated into complete genes and 
+ incomplete genes a non redundant gene catalogue was built by 
+comparing all genes to each other this operation was performed initially in amino 
+acid space using diamond subsequently any reported hits were checked in 
+nucleotide space any gene that covered at least of another one with at least 
+ identity over the covered area was considered to be a potential representative 
+of it genes are also potential representatives of themselves the final set was chosen 
+by greedily picking the genes that were representative of the highest number of 
+input genes until all genes in the original input have at least one representative in the 
+output this resulted in a gene catalogue with a total of non redundant 
+genes at nucleotide identity cut off we mapped reads from our experiment 
+onto the gene catalogue with bwa requiring nt overlap and identity 
+the average mapping rate was ± although the gene catalogue is an 
+invaluable resource for future explorations of the soil microbiome we decided 
+to rely on using the direct mapping approach to gene functional composition 
+owing to the low overall mapping rate furthermore using minimap to find 
+genes at similarity threshold we compared the soil gene catalogue with the 
+tara oceans gene catalogue human gut gene catalogue and the progenomes 
+prokaryotic database the gene catalogue nucleotide and amino acid sequences 
+and abundance matrix estimates from rtk have been deposited at http vm lux 
+embl de hildebra soil gene cat 
+estimation of arg abundance using card card abundances in topsoil sam 
+ples were estimated by annotating the soil gene catalogue using a diamond 
+search of the predicted amino acid sequences against the card database and 
+filtering hits to the specified bit score cut offs in the card database on the basis 
+of gene abundances in each sample we estimated the abundance of different card 
+categories per metagenomic sample despite qualitative similarities in overall 
+trends of ardb and card abundance matrices card abundance estimation is 
+limited by being based on the gene catalogue only a ± of all metagen 
+omic reads could be mapped to the gene catalogue 
+processing of metabarcoding sequence data the lotus pipeline was used for bac 
+terial s rrna amplicon sequence processing reads were demultiplexed with 
+modified quality filtering settings for miseq reads increasing strictness to avoid 
+false positive otus these modified options were the requirement of correctly 
+detected forward s primer trimming of reads after an accumulated error of and 
+rejecting reads below average quality or exceeding an estimated accumulated 
+error with a probability of ≥ furthermore we required each unique 
+read reads preclustered at identity to be present eight or more times in at 
+least one sample four or more times in at least two samples or three or more times 
+in at least three samples in total read pairs were quality filtered and 
+clustered with uparse at identity chimeric otus were detected and removed 
+on the basis of both reference based and de novo chimaera checking algorithms 
+using the rdp reference database http drive com uchime rdp gold fa in 
+uchime resulting in high quality read pairs to generate and estimate 
+the abundance of bacterial otus the seed sequence for each otu cluster was 
+
+© springer nature limited all rights reserved 
+
+http vm lux embl de hildebra soil gene cat 
+http vm lux embl de hildebra soil gene cat 
+http drive com uchime rdp gold fa
+
+
+letterresearch
+
+selected from all read pairs assigned to that otu selecting the read pair with the 
+highest overall quality and closest to the otu centroid selected otu seed read 
+pairs were merged with flash and a taxonomic identity was assigned to each 
+otu by aligning full length sequences with lambda to the silva v database 
+and the lotus least common ancestor lca algorithm this was performed using 
+the following lotus command line options ‘ p miseq derepmin 
+simbasedtaxo refdb slv thr ’ otu abundances per sample were summed 
+to class and phylum level per sample according to their taxonomic classification 
+to obtain taxa abundance matrices however the choice of clustering method for 
+example swarm and identity threshold had little effect on retrieved otu richness 
+ comparison with threshold r p − comparison with swarm 
+clustering r p − 
+
+for eukaryotic s rrna genes we used the same options in lotus except that 
+reads were rejected if they did not occur at least six times each in a minimum of 
+two samples or at least four times each in a minimum of three samples this was 
+done to account for lower sequencing depth in s rrna compared to s rrna 
+dataset furthermore the database to annotate fungal taxonomy was extended to 
+include general annotations of silva and information from unicellular eukaryotes 
+ pr database of reads passed quality filtering the fungal 
+its metabarcoding dataset was downloaded and used in addition to s data 
+in specific analyses such as finding fungal otus associated with arg relative 
+abundance the resulting taxon abundance matrix was further filtered to remove 
+sequences of chloroplast origin for all three metabarcoding experiments 
+
+full length sequences representing otus were aligned using the silva refer 
+ence alignment as a template in mothur a phylogenetic tree was constructed 
+using fasttree with the maximum likelihood method using default settings 
+this program uses the jukes–cantor models to correct for multiple substitutions 
+parameterization and validation of metagenomics approach although we used 
+state of art molecular approaches there are several potential limitations regarding 
+our analyses related to the technologies used all metagenomics and amplicon 
+based analyses are affected by taxonomic biases in sequence databases whereas 
+ pcr free mitag as well as amplicon sequencing are biased owing to differential 
+ribosomal gene copy number across taxonomic groups amplicon based metabar 
+coding specifically is affected by both primer pcr artefacts and pcr biases that 
+may affect estimates of absolute organism abundance these biases are inherent 
+to all metagenomics and metabarcoding studies however all these biases affect 
+different samples equally same rrna gene copy numbers same pcr biases per 
+species same database bias per taxa and thus we estimate that our results are 
+robust to these methodological shortcomings shotgun based metagenomics 
+is affected by reference bias in which human pathogens or proteobacteria are 
+overrepresented the necessity for lenient thresholds becomes obvious from 
+annotating phylogenetic profiles with metaphlan using standard parameters 
+whereas we observed that most fungal phyla are present abundantly in our samples 
+metaphlan detected ascomycota in only out of samples in out of 
+samples no organism bacteria archaea eukaryotes was detected and the most 
+abundant phylum was proteobacteria as these results are clearly deviating 
+from our mitag s s and its analyses specific database cut off thresholds 
+were required for this project 
+
+to optimize the analysis pipeline and identify suitable e values for filtering blastx 
+results we used metagenomic simulations of four reference genomes for which 
+cazy assignments in the cazy database were available simulated reads were 
+created as bp paired reads with bp insert at differing sequence abun 
+dances from the four reference genomes in each simulated metagenome using 
+imessi for this simulated dataset we used the pipeline described above to derive 
+cazy functional profiles we found that querying short reads processed as above 
+against databases results in the retrieval of most genes at relative abundances 
+consistent with expectations on the basis of the reference genomes at e − 
+ r ± p furthermore we simulated metagenomes from 
+ bacterial genomes five bacterial plasmids one fungal mitochondrion and two 
+fungal genomes at differing relative proportions in each of these simulated metage 
+nomes supplementary table  we subsequently simulated reads of 
+ bp and bp insert size using imessi and mapped these against reference 
+databases and retained hits that fulfilled the following arbitrary criteria used in all 
+subsequent analyses e value cut off of − alignment length ≥ amino acids 
+and similarity ≥ amino acids to the target sequence from these we gener 
+ated functional profiles and found a strong correlation of simulated to expected 
+functional metagenomic composition on the basis of mixed fungal and bacterial 
+genomes r ± p 
+estimating fungal antibiotics production we also specifically screened for fungal 
+gene clusters directly associated with antibiotic activity on the basis of a 
+compiled database of mibig minimum information about a biosynthetic gene 
+cluster https mibig secondarymetabolites org repository entries that describe 
+gene clusters for which the products have been shown experimentally to display 
+antimicrobial activities supplementary table  to extend the range of genes 
+
+that can be associated with the validated antibiotic producing mibig protein 
+domains we downloaded all published non redundant fungal genomes depos 
+ited in jgi supplementary table  as well as all non redundant fungal genes 
+deposited in ncbi the set of mibig and fungus derived genes was screened 
+with custom hidden markov models for domains from secondary metabolite 
+production specifically these were dmat amp binding condensation pks ks 
+and terpene synthesis domains all identified domains were aligned together 
+with the mibig domains using clustal omega and a tree was constructed with 
+fasttree phylogenetic trees were rooted to midpoint and automatically scanned 
+to identify highly supported clades alrt branch support ≥ in which 
+antibiotic producing mibig domains were monophyletically grouped the average 
+nucleotide identity within each such group was subsequently used as identity cut 
+off in the mapping step all metagenomic reads were mapped with diamond 
+in blastx mode to the newly created database using the previously mentioned 
+sequence identity cut offs and rejecting domains of reads that were mapping to 
+bacterial non supervised orthologous groups 
+statistical analyses data normalization and diversity estimates all statistical anal 
+yses were performed using specific packages in r v unless otherwise noted 
+diversity parameters were estimated from otu and functional gene matrices that 
+were rarefied to an equal number per sample to reduce the effect of variation in 
+sequencing depth using the function rrarefy in vegan v https cran r project 
+org web packages vegan index html arg matrices were normalized to the total 
+number of merged and singleton reads the total abundance of args per sample 
+was estimated by summing the abundance of all individual args per sample arg 
+diversity measures indicate the variety and their proportions produced 
+
+from the rarefied matrices we calculated otu orthologous group and cazyme 
+gene richness function specnumber and diversity function diversity on the basis 
+of the inverse simpson index the latter measure accounts for both richness and 
+evenness and it gives more weight to abundant groups compared to the shannon 
+index our results were robust to choice of index and the various diversity indices 
+were highly correlated in the present dataset for example bacterial taxonomic 
+diversities calculated using inverse simpson versus using shannon diversity were 
+highly correlated r p − for a comparison of richness and diversity 
+trends see extended data fig   b c as evenness and richness were highly corre 
+lated in all datasets we report the results that on the basis of the diversity index 
+represent both richness and evenness the rarefaction process was repeated for 
+calculating taxonomic and gene functional diversity and richness on the basis of 
+the average of rarefied datasets 
+
+phylogenetic diversity was calculated on the basis of faith’s phylogenetic 
+diversity pd metric in the picante package  v https cran r project org 
+web packages picante index html in addition to assess phylogenetic clustering 
+and overdispersion nearest relative index nri and nearest taxon index nti 
+were calculated in picante although both measures are closely related nri is more 
+sensitive to phylogenetic diversity at deep nodes whereas nti is more sensitive 
+to phylogenetic clustering towards tips a null model of shuffling taxon labels 
+ times was used to randomize phylogenetic relationships among otus 
+correlating environmental parameters to taxa and functions to identify the main 
+determinants of taxonomic and gene functional composition or diversity and 
+relative abundance of phyla and classes we used a series of statistical tests we 
+included all prominent environmental variables that we expected to have a significant 
+effect on microbial diversity on the basis of previous studies and which were 
+feasible to collect these included soil ph carbon and nutrient levels and factors that 
+can affect these such as fire assuming soil as the major resource for microbial nutri 
+tion we also included isotope ratios of nitrogen ∂ n and carbon ∂ c as these 
+provide principal components for carbon and nitrogen cycling to avoid overfitting 
+and to ensure model simplicity we excluded the variables that had no significant effect 
+on fungal or bacterial diversity such as altitude age of vegetation plant diversity and 
+community the first two principal component analysis axes of plant community 
+variation at both genus and family level and basal areas of trees thus for univariate 
+regression modelling variables supplementary table  were included 
+
+to understand which factors explain the orthologous group and otu based 
+community composition variable selection was performed in the forward sel 
+function of packfor v r https r forge r project org r group id 
+according to the coefficient of determination threshold r all functional 
+and taxonomic compositional matrices were transformed using hellinger trans 
+formation before statistical analysis furthermore mantel tests and partial mantel 
+tests were used to test the effects of geographical versus environmental distances on 
+the compositional similarity of otus and orthologous groups as implemented in 
+vegan mantel tests allow testing of the correlation between two distance matrices 
+partial mantel tests are similar but also control for variation in a third distance 
+matrix in our analysis we controlled for the effect of geographic distance while 
+testing the correlation of environmental variation and functional or taxonomic 
+composition variation the importance of biome type in explaining functional 
+gene and taxonomic composition was tested in permutational multivariate 
+
+© springer nature limited all rights reserved 
+
+https mibig secondarymetabolites org
+https cran r project org web packages vegan index html
+https cran r project org web packages vegan index html
+https cran r project org web packages picante index html
+https cran r project org web packages picante index html
+https r forge r project org r group id 
+
+
+letter research
+
+analysis of variance permanova using the adonis function of vegan using 
+permutation for calculating pseudo f test statistic and its statistical significance 
+for constructing orthologous group and otu distance matrices the bray–curtis 
+dissimilarity was calculated between each pair of samples great circle distance 
+was used to calculate a geographic distance matrix between samples on the basis 
+of geographical coordinates this test compares the intragroup distances to 
+intergroup distances in a permutation scheme and from this assesses significance 
+permanova post hoc p values were corrected for multiple testing using the 
+benjamini–hochberg correction we visualized taxonomic otu and functional 
+ orthologous group composition of bacteria using global nonmetric multidimen 
+sional scaling gnmds in vegan with the following options two dimensions 
+initial configurations maximum iterations and minimum stress 
+improvement in each iteration − the main environmental drivers of the 
+relative abundance of major taxonomic groups and main functional categories 
+were recovered by random forest analysis using the r package randomforest 
+ v https cran r project org web packages randomforest index html 
+
+to examine latitudinal gradients of diversity at phylum level fig   the 
+diversity of otus assigned to each phylum was calculated on the basis of inverse 
+simpson index diversity values were modelled in response to environmental 
+variables and predicted values were extracted which were used in a clustering and 
+bootstrapping analysis to depict the similarities of phyla environmental associations 
+using pvclust v https cran r project org web packages pvclust index html 
+with iterations to model latitudinal gradients and environmental associa 
+tions of diversity and biomass fig   extended data fig   we compared the good 
+ness of fit estimates between first and second order polynomial models on the basis 
+of the corrected akaike information criterion aicc using analysis of variance 
+ anova aicc reflects both goodness of fit and parsimony of the models 
+
+for univariate regression modelling of diversity and biomass measures ordi 
+nary least squares ols or generalized least squares gls regression models 
+were used depending on the importance of the spatial component in the nlme 
+package v https cran r project org web packages nlme index html 
+the model variance structure gaussian exponential spherical and linear was 
+evaluated on the basis of aicc after selection of variance structure variables were 
+combined in a set of models with specified variance structure that is the number 
+of tested models number of variables the resulting models were sorted according to 
+aicc values to reveal the best model lists of the five best fitting models for each 
+response variable are given in supplementary table  prior to model selection all 
+variables were evaluated for linearity normality and multicollinearity excluded if 
+the variance inflation factor was the degree of polynomial functions linear 
+quadratic cubic was chosen on the basis of the lowest aic values because of 
+nonlinear relationships with response variables a quadratic term for ph was 
+also included in the model selection procedure the accuracy of the final models 
+was evaluated using tenfold ‘leave one out’ cross validation for this we used 
+ randomly sampled data subsets for model training and predicting the 
+withheld data to minimize biases owing to the partitioning of the data and 
+potential overfitting the average of resulting determination coefficients are 
+reported as cross validated r r cv for each regression model 
+correlating biotic interactions to taxa and functions to test the associations of biotic 
+variables on arg relative abundance we used a sparse partial least squares spls 
+analysis which reduces dimensionality by projecting predictor variables onto latent 
+components to identify the s s lineages phyla and classes and the its otus 
+most strongly associated with arg relative abundance as implemented in the 
+mixomics v https cran r project org web packages mixomics index 
+html package arg composition and taxonomic community matrices mitags 
+classes and phyla and its otus were normalized to library size using hellinger 
+transformation significance of associations was examined by bootstrap tests of 
+subsets of each dataset we subsequently used partial least squares pls analysis 
+to predict arg relative abundance on the basis of significantly correlated line 
+ages which allows the dimensionality of multivariate data to be reduced into pls 
+components optimal numbers of pls components for prediction of the relative 
+arg abundance were selected on the basis of leave one out cross validation to 
+confirm the results of pls analysis we further used a cross validated lasso model 
+to simultaneously perform variable selection and model fitting as implemented in 
+glmnet v https cran r project org web packages glmnet index html first 
+the lambda shrinkage parameter was determined from a cross validated lasso 
+penalized logistic regression classifier using this shrinkage parameter a new 
+logistic regression classifier was fit to the data to predict arg relative abundance 
+
+to further test direct and indirect effects of geographic and environmental 
+variables on microbial distributions we built sem models in the amos soft 
+ware spss by including predictors of the best gls model in a priori models 
+all indirect and direct links between variables were established on the basis of 
+their pairwise correlations we subsequently removed non significant links and 
+variables or created new links between error terms until a significant model fit 
+was achieved goodness of fit was assessed on the basis of a χ test to evaluate 
+
+the difference between the observed and estimated by model covariance matrices 
+ a non significant value indicates that the model fits the observed data we also 
+used rmsea and pclose to assess the discrepancy between the observed data and 
+model per degree of freedom which is less sensitive to sample size compared to the 
+χ test rmsea and pclose show a good fit observed correlations 
+between diversity and environmental values can serve as the first step towards 
+understanding the structure and function of global topsoil microbiome however 
+they are not proof of causations and mechanism despite the fact that we used sem 
+modelling to infer indirect links we cannot preclude the possibility of other biotic 
+or soil variables confounded with climate variables that we did not include in our 
+models further laboratory experiments may be able to address the causality of 
+relationships reported in this study 
+
+differences between univariate variables such as taxonomic and functional 
+richness were tested using a non parametric wilcoxon rank sum test with 
+benjamini–hochberg multiple testing correction post hoc statistical testing for 
+significant differences between all combinations of two groups was conducted only 
+for taxa with p in the kruskal–wallis test for this wilcoxon rank sum tests 
+were calculated for all possible group combinations and corrected for multiple 
+testing using benjamini–hochberg multiple testing correction 
+
+geographic coordinates were plotted on a world map transformed to a winkler 
+projection using the maptools package v https cran r project org web 
+packages maptools index html 
+limitations of statistical modelling on a global scale although we performed 
+cross validations to test the accuracy of most of our statistical models predictions 
+might be limited by the vast diversity in soil microbiomes for example strong 
+local variation in soil ph may lead to deviation from general patterns which is a 
+common limitation in environmental sciences given the large spatial scale and 
+strong environmental gradient in our sampling design and long term persistence 
+of dna in soil seasonal variation in soils is expected to have a minor impact 
+ in contrast to the oceans in addition the vast majority of our samples were 
+collected during the growing season further reducing possible seasonal biases 
+we nevertheless tested the effect of sampling month and seasons and found no 
+significant effect of seasonality on diversity indices p we also compared 
+the effect of seasons and years in a time series study in two of our sites which 
+revealed no seasonal effects on richness and composition unpublished data 
+in particular the relationship between bacterial phylogenetic diversity and ph 
+are strongly consistent with studies performed at the local to continental scales 
+and within a single season which indicates the robustness of our results 
+nonetheless validation of the proposed models needs to be performed by other 
+researchers with more data or an independent dataset particularly by including 
+samples from under sampled regions extended data fig   a and from differ 
+ent seasons to account for seasonality under sampled regions in our dataset 
+ for example north asia lowered precision of our models for those regions 
+unfortunately there are no published global datasets with comparable sampling 
+protocols that could be directly compared and used for model validation and we 
+encourage future studies that will make this possible 
+reporting summary further information on experimental design is available in 
+the nature research reporting summary linked to this paper 
+code availability the pipeline to process metabarcoding samples is available 
+under http psbweb psb ugent be lotus the pipeline to process shotgun 
+metagenomic samples is available under https github com hildebra matafiler 
+and https github com hildebra rarefaction 
+data availability all metagenomics and metabarcoding sequences have been 
+deposited in the european bioinformatics institute sequence read archive 
+database estonian forest and grassland topsoil samples accession numbers 
+prjeb erp s metabarcoding data of global soil samples acces 
+sion numbers prjeb erp s metabarcoding data of global soil 
+samples accession numbers prjeb erp global analysis of soil 
+microbiomes accession numbers prjeb erp the soil gene cata 
+logue and dataset are available at http vm lux embl de hildebra soil gene cat 
+the tara oceans data are available at http ocean microbiome embl de compan 
+ion html all other data that support the findings of this study are available from 
+the corresponding authors upon request 
+ 
+ tedersoo l et al shotgun metagenomes and multiple primer pair–barcode 
+
+combinations of amplicons reveal biases in metabarcoding analyses of fungi 
+mycokeys – 
+
+ caporaso j g et al global patterns of s rrna diversity at a depth of millions 
+of sequences per sample proc natl acad sci usa – 
+
+ walters w et al improved bacterial s rrna gene v and v – and fungal 
+internal transcribed spacer marker gene primers for microbial community 
+survey msystems e –e 
+
+ amaral zettler l a mccliment e a ducklow h w huse s m a method for 
+studying protistan diversity using massively parallel sequencing of v 
+hypervariable regions of small subunit ribosomal rna genes plos one 
+e 
+
+© springer nature limited all rights reserved 
+
+https cran r project org web packages randomforest index html
+https cran r project org web packages pvclust index html
+https cran r project org web packages nlme index html
+https cran r project org web packages mixomics index html
+https cran r project org web packages mixomics index html
+https cran r project org web packages glmnet index html
+https cran r project org web packages maptools index html
+https cran r project org web packages maptools index html
+http psbweb psb ugent be lotus 
+https github com hildebra matafiler
+https github com hildebra rarefaction
+https www ncbi nlm nih gov sra term prjeb 
+https www ncbi nlm nih gov sra term erp 
+https www ncbi nlm nih gov sra term prjeb 
+https www ncbi nlm nih gov sra term erp 
+https www ncbi nlm nih gov sra term prjeb 
+https www ncbi nlm nih gov sra term erp 
+https www ncbi nlm nih gov sra term prjeb 
+https www ncbi nlm nih gov sra term erp 
+http vm lux embl de hildebra soil gene cat 
+http ocean microbiome embl de companion html
+http ocean microbiome embl de companion html
+
+
+letterresearch
+
+ tedersoo l et al enzymatic activities and stable isotope patterns of 
+ectomycorrhizal fungi in relation to phylogeny and exploration types in an 
+afrotropical rain forest new phytol – 
+
+ frostegård Å tunlid a bååth e use and misuse of plfa measurements in 
+soils soil biol biochem – 
+
+ van aarle i m olsson p a fungal lipid accumulation and development of 
+mycelial structures by two arbuscular mycorrhizal fungi appl environ 
+microbiol – 
+
+ frostegård a tunlid a bååth e phospholipid fatty acid composition 
+biomass and activity of microbial communities from two soil types 
+experimentally exposed to different heavy metals appl environ microbiol 
+ – 
+
+ prosser j i dispersing misconceptions and identifying opportunities for the 
+use of ‘omics’ in soil microbial ecology nat rev microbiol – 
+
+ salles j f le roux x poly f relating phylogenetic and functional diversity 
+among denitrifiers and quantifying their capacity to predict community 
+functioning front microbiol 
+
+ trivedi p et al microbial regulation of the soil carbon cycle evidence from 
+gene–enzyme relationships isme j – 
+
+ puente sánchez f aguirre j parro v a novel conceptual approach to 
+read filtering in high throughput amplicon sequencing studies nucleic acids 
+res e 
+
+ hildebrand f tadeo r voigt a y bork p raes j lotus an efficient and 
+user friendly otu processing pipeline microbiome 
+
+ magoč t salzberg s l flash fast length adjustment of short reads to 
+improve genome assemblies bioinformatics – 
+
+ choi j et al fpoxdb fungal peroxidase database for comparative genomics 
+bmc microbiol 
+
+ fawal n et al peroxibase a database for large scale evolutionary analysis of 
+peroxidases nucleic acids res d –d 
+
+ kanehisa m goto s kegg kyoto encyclopedia of genes and genomes 
+nucleic acids res – 
+
+ cantarel b l et al the carbohydrate active enzymes database cazy an 
+expert resource for glycogenomics nucleic acids res d –d 
+
+ cantarel b l lombard v henrissat b complex carbohydrate utilization by 
+the healthy human microbiome plos one e 
+
+ cardenas e et al forest harvesting reduces the soil metagenomic potential for 
+biomass decomposition isme j – 
+
+ forslund k et al country specific antibiotic use practices impact the human 
+gut resistome genome res – 
+
+ gibson m k forsberg k j dantas g improved annotation of antibiotic 
+resistance determinants reveals microbial resistomes cluster by ecology 
+isme j – 
+
+ mcarthur a g et al the comprehensive antibiotic resistance database 
+antimicrob agents chemother – 
+
+ kopylova e noé l touzet h sortmerna fast and accurate filtering of 
+ribosomal rnas in metatranscriptomic data bioinformatics – 
+ 
+
+ hauswedell h singer j reinert k lambda the local aligner for massive 
+biological data  bioinformatics  i –i 
+
+ langmead b salzberg s l fast gapped read alignment with bowtie   
+nat methods  –  
+
+ li h et al the sequence alignment map format and samtools  bioinformatics  
+ –  
+
+ kang d d froula j egan r wang z metabat an efficient tool for 
+accurately reconstructing single genomes from complex microbial 
+communities  peerj  e 
+
+ qin j et al a human gut microbial gene catalogue established by 
+metagenomic sequencing  nature  – 
+
+ bankevich a et al spades a new genome assembly algorithm and its 
+applications to single cell sequencing  j comput biol   – 
+ 
+
+ howe a c et al tackling soil diversity with the assembly of large complex 
+metagenomes  proc natl acad sci usa  – 
+
+ sharon i et al accurate multi kb reads resolve complex populations and 
+detect rare microorganisms  genome res   – 
+
+ meyer f et al the metagenomics rast server—a public resource for the 
+automatic phylogenetic and functional analysis of metagenomes  bmc 
+bioinformatics  
+
+ hyatt d et al prodigal prokaryotic gene recognition and translation initiation 
+site identification  bmc bioinformatics  
+
+ buchfink b xie c huson d h fast and sensitive protein alignment using 
+diamond  nat methods  –  
+
+ li h durbin r fast and accurate short read alignment with burrows–
+wheeler transform  bioinformatics  – 
+
+ li h minimap fast pairwise alignment for long dna sequences  preprint 
+at https arxiv org abs   
+
+ saary p forslund k bork p hildebrand f rtk efficient rarefaction analysis 
+of large datasets  bioinformatics  – 
+
+ edgar r c uparse highly accurate otu sequences from microbial amplicon 
+reads  nat methods  – 
+
+ pruesse e et al silva a comprehensive online resource for quality checked 
+and aligned ribosomal rna sequence data compatible with arb  nucleic acids 
+res   – 
+
+ guillou l et al the protist ribosomal reference database pr a catalog of 
+unicellular eukaryote small sub unit rrna sequences with curated 
+taxonomy  nucleic acids res   d –d 
+
+ schloss p d et al introducing mothur open source platform independent 
+community supported software for describing and comparing microbial 
+communities  appl environ microbiol   – 
+
+ price m n dehal p s arkin a p fasttree —approximately maximum 
+likelihood trees for large alignments  plos one  e 
+
+ truong d t et al metaphlan for enhanced metagenomic taxonomic 
+profiling  nat methods  – 
+
+ mende d r et al assessment of metagenomic assembly using simulated next 
+generation sequencing data  plos one  e 
+
+ sievers f et al fast scalable generation of high quality protein multiple 
+sequence alignments using clustal omega  mol syst biol   
+
+ faith d p conservation evaluation and phylogenetic diversity  biol conserv   
+ – 
+
+ breiman l random forests  mach learn   – 
+ carini p et al relic dna is abundant in soil and obscures estimates of soil 
+
+microbial diversity  nat microbiol   
+ Žifčáková l větrovský t howe a baldrian p microbial activity in forest soil 
+
+reflects the changes in ecosystem properties between summer and 
+winter  environ microbiol   – 
+
+ fierer n jackson r b the diversity and biogeography of soil bacterial 
+communities proc natl acad sci usa – 
+
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+extended data fig distribution of topsoil samples and diversity 
+patterns of phyla a a map of samples used for metagenomic and 
+metabarcoding analysis colours indicate biomes as shown in the legend 
+desert samples were only used in metabarcoding analysis and were 
+excluded in comparative analysis of functional and taxonomic patterns 
+black symbols refer to samples from an independent soil dataset 
+topsoil samples supplementary table  that were used for validation of 
+
+our results b relationship between the diversity of major microbial phyla 
+ classes for proteobacteria and environmental variables across the global 
+soil samples n biologically independent samples only regression 
+lines for significant relationships after bonferroni correction are shown 
+diversity was measured using hellinger transformed matrices on the basis 
+of inverse simpson index latitude absolute latitude 
+
+© springer nature limited all rights reserved 
+
+
+
+letterresearch
+
+extended data fig contrasting microbial structure and function 
+in major terrestrial biomes a–d the average total biomass normalized 
+to organic carbon  a n biologically independent samples as well as 
+richness b diversity c and phylogenetic structure including nri and 
+nti d n biologically independent samples of fungi and bacteria 
+across samples categorized into major terrestrial biomes including tropical 
+ moist and dry tropical forests and savannahs temperate coniferous and 
+deciduous forests grasslands and shrublands and mediterranean biomes 
+and boreal–arctic ecosystems e–i relative abundance of major phyla 
+ n biologically independent samples and functional categories 
+
+ n biologically independent samples across biomes bacterial phyla 
+ classes for proteobacteria and archaea e fungal classes f functional 
+categories of bacteria g functional categories of fungi h bacterial 
+kegg metabolic pathways i biomass was measured on the basis of 
+plfa analysis different letters denote significant differences between 
+groups shown in the legend at the probability level on the basis of 
+kruskal–wallis tests corrected for multiple testing additional details for 
+these comparisons are presented in supplementary table  taxonomic 
+and gene functional diversity indices were calculated on the basis of 
+inverse simpson index data are mean ± s d 
+
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+extended data fig the significant decrease in the bacterial 
+fungal biomass ratio with increasing latitude is driven by the joint 
+effect of climate and soil fertility a the second order polynomial 
+relationship between absolute latitude and the total biomass of bacteria 
+ n biologically independent samples b the relationship between 
+absolute latitude and the total biomass of fungi c the relationship 
+between absolute latitude and the bacterial fungal biomass ratio d–f the 
+relationship between bacterial fungal biomass ratio and map mat and 
+c n as the main correlated environmental variables with bacterial fungal 
+biomass ratio linear regression analysis pearson’s correlation was used 
+in b–f n biologically independent samples g pairwise spearman’s 
+correlation matrix of biotic and abiotic variables in soil h direct and 
+
+indirect relationships and directionality between variables determined 
+from best fitting structural equation model determination coefficients 
+ r are given for biomass and diversity factors see supplementary 
+table  for more details goodness of fit bacteria χ degrees 
+of freedom p rmsea pclose n 
+fungi χ degrees of freedom p rmsea 
+pclose n biomass nmol g− was measured on the basis 
+of plfa analysis ph soil ph representing soil ph and its quadratic 
+term ∂ n nitrogen stable isotope signature ∂ c carbon stable isotope 
+signature pet potential of evapotranspiration fire time from the last fire 
+disturbance npp net primary productivity 
+
+© springer nature limited all rights reserved 
+
+
+
+letterresearch
+
+extended data fig the environment has a stronger effect on 
+bacterial taxa and functions than on those of fungi correlation and 
+best random forest model for major taxonomic a b n biologically 
+independent samples and functional c d n biologically 
+independent samples categories of bacteria a c and fungi b d in the 
+global soil samples n biologically independent samples a relative 
+abundance of major s based bacterial phyla class for proteobacteria 
+
+b relative abundance of its based fungal classes c d major orthologous 
+gene categories of bacteria c and fungi d for variable selection and 
+estimating predictability the random forest machine learning algorithm 
+was used circle size represents the variable importance that is decrease 
+in the prediction accuracy estimated with out of bag cross validation 
+as a result of the permutation of a given variable colours represent 
+spearman correlations ph soil ph 
+
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+extended data fig see next page for caption 
+
+© springer nature limited all rights reserved 
+
+
+
+letterresearch
+
+extended data fig niche differentiation between bacteria and 
+fungi is probably related to precipitation and soil ph contrasting 
+effect of ph and map on bacterial s left column and fungal 
+ s right column taxonomic n biologically independent samples 
+and gene functional n biologically independent samples diversity in 
+the global soil samples a b relationship between soil ph and taxonomic 
+diversity of bacteria and fungi c d relationship between soil ph and 
+gene functional diversity of bacteria and fungi e f relationship between 
+map and taxonomic diversity of bacteria and fungi g h relationship 
+between map and gene functional diversity of bacteria and fungi lines 
+represent regression lines of best fit the choice of degree of polynomial was 
+
+determined by a goodness of fit colours denote biomes as indicated in the 
+legend taxonomic and gene functional diversity indices were calculated on 
+the basis of inverse simpson index i–l nmds plots of trends in taxonomic 
+ s and s datasets and gene functional composition orthologous 
+groups from metagenomes of bacteria and fungi on the basis of bray–curtis 
+dissimilarity i taxonomic composition of bacteria s j taxonomic 
+composition of fungi s k gene functional composition of bacteria 
+l gene functional composition of fungi i colours denote biomes as 
+indicated in the legend vectors are the prominent environmental drivers 
+fitted onto ordination 
+
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+extended data fig fungal biomass is significantly related to the 
+relative abundance of args a increase in fungal biomass is related to 
+arg relative abundance b bacterial biomass is unrelated to the relative 
+abundance of args c arg relative abundance is inversely correlated 
+
+with the bacterial fungal biomass ratio biomass nmol g− was measured 
+on the basis of plfa analysis spearman’s correlation was used n 
+biologically independent samples 
+
+© springer nature limited all rights reserved 
+
+
+
+letterresearch
+
+extended data fig topsoil and ocean bacterial phylogenetic 
+diversity is negatively correlated with the abundance of args 
+a b spearman’s correlation between the relative abundance of args 
+and bacterial phylogenetic diversity faith’s index in soil a n 
+biologically independent samples and the oceans b n biologically 
+
+independent samples at the global scale similar trends were observed 
+for richness r − p and r − p − in soil and 
+ocean respectively c global map of observed bacterial phylogenetic 
+diversity faith’s index at the sampled sites note that hotspots of bacterial 
+diversity do not correspond to arg hotspots see extended data fig   
+
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+extended data fig relative abundance of args within and between 
+terrestrial and oceanic ecosystems a heat map of the observed relative 
+abundance of args at the global scale squares and circles correspond to 
+soil and to ocean samples respectively arg abundance is given on three 
+relative scales for these three datasets b relative abundance of args 
+in ocean samples across depths declines with the distance from land 
+ n biologically independent samples a pattern that was significant 
+
+at two water depths including surface red and deep chlorophyll 
+maximum dcm green but not at mesopelagic blue spearman’s 
+correlation statistics for specified comparisons are given in the legends 
+dotted lines display spearman’s correlations across the whole dataset and 
+within the three depth categories respectively n number of biologically 
+independent samples 
+
+© springer nature limited all rights reserved 
+
+
+
+letterresearch
+
+extended data fig relative abundance of args in both ocean 
+and topsoil samples can be modelled by the relative abundance of 
+fungi and fungus like protists a b correlation circle indicating the 
+relationships among fungal classes and the relative abundance of args 
+as well as the first two pls components in soil a and ocean b length 
+and direction of vectors indicate the strength and direction of correlations 
+percentages show the variation explained by each pls component 
+c d linear pearson correlations between observed and modelled arg 
+relative abundance on the basis of the relative abundance of fungal taxa 
+
+in soil c and ocean d the two principal axes were chosen on the 
+basis of leave one out cross validation loocv and explained 
+ loocv r and loocv r of the variation of the 
+relative abundance of args in soil and the oceans respectively only taxa 
+significantly associated with the relative abundance of args are shown 
+cross validation and lasso regression confirmed this result soil dataset 
+r rmse − n biologically independent samples 
+ocean dataset r rmse − n biologically independent 
+samples 
+
+© springer nature limited all rights reserved 
+
+
+
+letter research
+
+extended data fig fungal classes are among the main taxa 
+associated with the relative abundance diversity and richness of args 
+in different habitats a b heat map derived from spls analysis showing 
+correlation of total relative abundance richness and diversity of args to 
+that of the main taxonomic classes in soil a and ocean b metagenomes 
+ see also the supplementary discussion for analogous results in previously 
+published soil from grasslands deserts agricultural soils as well as 
+
+human skin and gut samples for statistical details and significance 
+see supplementary table  c d heat maps showing correlation of total 
+relative abundance of args to that of the main eukaryotic and prokaryotic 
+taxa in soil c and the ocean d on the basis of spls regression analysis 
+all matrices were normalized to library size and hellinger transformation 
+fungal and fungal like classes are shown in bold text see supplementary 
+table  for arg gene letter abbreviations 
+
+© springer nature limited all rights reserved 
+
+
+
+ 
+
+nature research reporting sum
+m
+
+ary
+april 
+
+corresponding author s 
+mohammad bahram leho tedersoo peer 
+bork
+
+reporting summary
+nature research wishes to improve the reproducibility of the work that we publish this form provides structure for consistency and transparency 
+in reporting for further information on nature research policies see authors referees and the editorial policy checklist 
+
+statistical parameters
+when statistical analyses are reported confirm that the following items are present in the relevant location e g figure legend table legend main 
+text or methods section 
+
+n a confirmed
+
+the exact sample size n for each experimental group condition given as a discrete number and unit of measurement
+
+an indication of whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+
+the statistical test s used and whether they are one or two sided 
+only common tests should be described solely by name describe more complex techniques in the methods section 
+
+a description of all covariates tested
+
+a description of any assumptions or corrections such as tests of normality and adjustment for multiple comparisons
+
+a full description of the statistics including central tendency e g means or other basic estimates e g regression coefficient and 
+variation e g standard deviation or associated estimates of uncertainty e g confidence intervals 
+
+for null hypothesis testing the test statistic e g f t r with confidence intervals effect sizes degrees of freedom and p value noted 
+give p values as exact values whenever suitable 
+
+for bayesian analysis information on the choice of priors and markov chain monte carlo settings
+
+for hierarchical and complex designs identification of the appropriate level for tests and full reporting of outcomes
+
+estimates of effect sizes e g cohen s d pearson s r indicating how they were calculated
+
+clearly defined error bars 
+state explicitly what error bars represent e g sd se ci 
+
+our web collection on statistics for biologists may be useful 
+
+software and code
+policy information about availability of computer code
+
+data collection for dna sequencing we used rta version and bcl fastq v from illumina 
+
+data analysis for statistical analysis we used r version sem models were built using amos software spss chicago il the bioinformatic 
+pipelines used to process metagenomes are available at https github com hildebra matafiler and https github com hildebra 
+rarefaction the pipeline to process amplicon sequences is available at http psbweb psb ugent be lotus 
+
+for manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature software must be made available to editors reviewers 
+upon request we strongly encourage code deposition in a community repository e g github see the nature research guidelines for submitting code software for further information 
+
+data
+policy information about availability of data
+
+all manuscripts must include a data availability statement this statement should provide the following information where applicable 
+ accession codes unique identifiers or web links for publicly available datasets 
+ a list of figures that have associated raw data 
+ a description of any restrictions on data availability
+
+data availability all metagenomics and metabarcoding sequences have been deposited in the european bioinformatics institute sequence read archive database 
+
+
+
+ 
+
+nature research reporting sum
+m
+
+ary
+april 
+
+under accession numbers prjeb erp estonian forest and grassland topsoil samples prjeb erp s metabarcoding data of global soil 
+samples prjeb erp s metabarcoding data of global soil samples prjeb erp global analysis of soil microbiomes the soil gene 
+catalogue nucleotide and amino acid sequences as well as abundance matrix estimates are available at http vm lux embl de hildebra soil gene cat the tara 
+oceans data are available at http ocean microbiome embl de companion html all other data that support the findings of this study are available from the 
+corresponding authors upon request 
+
+field specific reporting
+please select the best fit for your research if you are not sure read the appropriate sections before making your selection 
+
+life sciences behavioural social sciences ecological evolutionary environmental sciences
+
+for a reference copy of the document with all sections see nature com authors policies reportingsummary flat pdf
+
+ecological evolutionary environmental sciences study design
+all studies must disclose on these points even when the disclosure is negative 
+
+study description this study uses high throughput sequencing methods soil chemistry and biomass analysis to characterize soil microbiomes across 
+diverse locations and biomes in relation to environmental variables on a global scale 
+
+research sample we used shotgun sequencing and metabarcoding of global soil samples to investigate microorganisms present in samples based on 
+their genetic signature focusing on dominant soil microbial groups such as bacteria and fungi all soil samples used for the main text 
+were collected by us all ocean samples are from the tara oceans expedition and available at ebi under the project identifiers 
+prjeb and prjeb all public soil samples only mentioned in supplement are publicly available on mg rast or ebi as 
+specified in the methods 
+
+sampling strategy we collected composite soil samples from sites worldwide the sampling was conducted broadly across the most influential 
+known environmental gradient latitude taking advantage of a global “natural laboratory” to study the impact of climate on diversity 
+across vegetation biome and soil types and to enable testing the effects of environmental parameters spatial distance and biotic 
+interactions in structuring microbial communities we carefully selected representative sites for different vegetation types 
+separated by spatial distances sufficient to minimize spatial autocorrelation and to cover most areas of the globe no formal power 
+analysis was undertaken but based on experiences from previous studies of soil and ocean metagenomes the present sample size 
+was deemed sufficient 
+
+data collection soil samples were metagenomically sequenced at the estonian genomics center tartu estonia s metagenomics and embl 
+genecore facility heidelberg germany s soil physical parameters were measured at the estonian university of life sciences 
+ estonia soil pflas were measured at lund university sweden by pål axel olsson and nadejda a soudzilovskaia soil metagenomic 
+and metataxonomic reads were demultiplexed if required and quality controlled with sdm part of the lotus and matafiler 
+pipeline for detailed description please see methods 
+
+timing and spatial scale samples were collected between main global soil samples and independent soil samples no specific 
+month was preselected and collection time depended on the availability of collaborators to collect samples for detailed description 
+please see methods 
+
+data exclusions desert and mangrove samples were only used in metabarcoding analysis and were excluded in comparative analysis of functional and 
+taxonomic patterns samples from desert n g g s s s s s and s and mangrove n g 
+biomes yielded sufficient dna for metabarcoding but not metagenomic sequencing thus these samples were used for examining 
+global trends of taxonomic diversity but excluded from all comparisons between functional and taxonomic diversity one sample 
+ s contained no s sequences thus altogether and samples were used for metabarcoding and metagenomics 
+analyses respectively 
+
+reproducibility we used cross validation where appropriate throughout the manuscript and included additional soil sites after initial analysis to 
+support the main theories derived from the initial dataset we could reproduce the main findings on independent datasets i e using 
+the independent or the public soil dataset to reproduce main arg trends 
+
+randomization the statistics being mostly correlative no randomization was necessary for these involving group of soil sites these were tested 
+with the appropriate statistical tests 
+
+blinding since this is an exploratory study without specified groups being compared but rather a correlative analysis no blinding was possible 
+in data collection we used cross validation where appropriate throughout the manuscript and included additional sites after initial 
+analysis to support the main theories derived from the initial dataset 
+
+did the study involve field work yes no
+
+field work collection and transport
+field conditions field work was carried out in sites that were minimally affected by human disturbance across various biomes and regions of the 
+
+world temperature and rainfall were obtained for the soil samples from the climate database and did not influence sampling 
+time nor location for detailed description please see methods 
+
+
+
+ 
+
+nature research reporting sum
+m
+
+ary
+april 
+
+location the global soil samples were collected from around the world the tara oceans samples were collected from all major oceans 
+the forest samples were collected mostly in estonia the exact gps coordinates for these samples are available online 
+
+access and import export all samples were collected in full accordance with local and international law with negligible impact on the study sites the 
+required permissions have been documented in our previous study tedersoo l et al “global diversity and geography of 
+soil fungi ” science 
+
+disturbance given the small size of soil cores cm diam to cm depth the sampling procedure incl trampling caused minimal 
+disturbance to the environment 
+
+reporting for specific materials systems and methods
+
+materials experimental systems
+n a involved in the study
+
+unique biological materials
+
+antibodies
+
+eukaryotic cell lines
+
+palaeontology
+
+animals and other organisms
+
+human research participants
+
+methods
+n a involved in the study
+
+chip seq
+
+flow cytometry
+
+mri based neuroimaging
+
+
+	structure and function of the global topsoil microbiome
+	online content
+	acknowledgements
+	reviewer information
+	fig fungal and bacterial diversity exhibit contrasting patterns across the latitudinal gradient 
+	fig global relative abundance of args can be explained by a combination of biotic and abiotic factors 
+	fig fungi are the main determinants of the relative abundance of args in soils and oceans 
+	﻿extended data fig distribution of topsoil samples and diversity patterns of phyla 
+	extended data fig contrasting microbial structure and function in major terrestrial biomes 
+	﻿extended data fig the significant decrease in the bacterial fungal biomass ratio with increasing latitude is driven by the joint effect of climate and soil fertility 
+	extended data fig the environment has a stronger effect on bacterial taxa and functions than on those of fungi 
+	﻿extended data fig niche differentiation between bacteria and fungi is probably related to precipitation and soil ph 
+	extended data fig fungal biomass is significantly related to the relative abundance of args 
+	extended data fig topsoil and ocean bacterial phylogenetic diversity is negatively correlated with the abundance of args 
+	extended data fig relative abundance of args within and between terrestrial and oceanic ecosystems 
+	﻿extended data fig relative abundance of args in both ocean and topsoil samples can be modelled by the relative abundance of fungi and fungus like protists 
+	extended data fig fungal classes are among the main taxa associated with the relative abundance diversity and richness of args in different habitats 
+
+
+
+
+

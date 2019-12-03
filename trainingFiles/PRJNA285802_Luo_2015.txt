@@ -1,0 +1,2106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cultivating microbial dark matter in benzene‐degrading methanogenic consortia
+
+
+cultivating microbial dark matter in benzene degrading
+methanogenic consortia
+
+fei luo † cheryl e devine † and
+elizabeth a edwards 
+ department of chemical engineering and applied
+chemistry university of toronto college street 
+toronto on m s e canada 
+ department of cell and system biology university of
+toronto harbord street toronto on m s g 
+canada 
+
+summary
+
+the microbes responsible for anaerobic benzene bio 
+degradation remain poorly characterized in this study 
+we identified and quantified microbial populations in a
+series of distinct methanogenic benzene 
+degrading enrichment cultures using a combination of
+traditional s rrna clone libraries four cultures 
+pyrotag s rrna amplicon sequencing cultures 
+metagenome sequencing culture and quantitative
+polymerase chain reaction qpcr cultures an
+operational taxonomic unit otu from
+the deltaproteobacteria designated orm that is
+only to similar to syntrophus or
+desulfobacterium spp was consistently identified in
+all enrichment cultures and typically comprised more
+than half of the bacterial sequences in addition to
+orm a sequence belonging to parcubacteria candi 
+date division od identified from the metagenome
+data was the only other otu common to all the cul 
+tures surveyed culture transfers and were
+made in the presence and absence of benzene and the
+abundance of orm od and other otus was tracked
+over days using qpcr orm sequence abun 
+dance increased only when benzene was present 
+while the abundance of od and other otus increased
+even in the absence of benzene deltaproteobacterium
+orm is unequivocally the benzene metabolizing
+population this study also hints at laboratory cultiva 
+tion conditions for a member of the widely distributed
+yet uncultivated parcubacteria od 
+
+introduction
+
+benzene is a toxic petroleum derived compound that is
+a widespread and problematic groundwater contaminant
+owing to accidental spills and releases at industrial facili 
+ties oil refineries or from pipelines and mining opera 
+tions it is also a transformation product of other
+contaminants such as the pesticide lindane phillips
+et al and various chlorobenzenes adrian and
+görisch used in chemical synthesis natural
+attenuation of benzene is primarily due to microbial pro 
+cesses davis et al johnson et al these
+processes are rapid and well defined under aerobic con 
+ditions yet are much slower and poorly understood
+under anaerobic conditions the average half life of
+benzene in anaerobic contaminated sites is days 
+according to a us geological survey review lawrence 
+ since low permeability aquifers and heavily pol 
+luted regions rapidly become anaerobic remediation of
+benzene in these areas is challenging a better under 
+standing of the anaerobic mechanisms would enable
+more effective management and remediation of such
+sites moreover benzene is a natural product found in
+petroleum reservoirs and other geological settings the
+natural weathering processes of unsubstituted aromatic
+compounds are an important component of the planet’s
+global biogeochemical history 
+
+in laboratory enriched cultures anaerobic benzene
+degradation can be sustained under different electron 
+accepting conditions for example under iron reducing
+ lovley et al nales et al weiner and
+lovley zhang et al nitrate reducing
+ burland and edwards coates et al ulrich
+and edwards kasai et al van der zaan
+et al sulfate reducing edwards and grbić galić 
+ nales et al caldwell and suflita 
+kleinsteuber et al abu laban et al and
+methanogenic conditions grbić galić and vogel 
+kazumi et al ulrich and edwards sakai
+et al noguchi et al in petroleum contami 
+nated aquifers regions close to the contaminated source
+are typically predominantly methanogenic lovley 
+furthermore biodegradation under methanogenic condi 
+tions is not limited by the requirement for an exogenous
+electron acceptor 
+
+received august revised october accepted 
+november for correspondence e mail elizabeth edwards 
+utoronto ca tel fax †fei luo
+and cheryl e devine contributed to this work equally 
+
+environmental microbiology doi 
+
+© society for applied microbiology and john wiley sons ltd
+
+environmental microbiology – doi 
+
+vc society for applied microbiology and john wiley sons ltd
+
+
+
+we have been maintaining methanogenic enrichment
+cultures derived from two sites for over years these
+cultures consistently degrade benzene quantitatively to
+methane and carbon dioxide distinct enrichment cultures
+have been generated from the original microcosms over
+the years from past experiments previous surveys of the
+microbial community using s rrna gene clone library
+technology from a few of these enrichment cultures indi 
+cated that they were dominated by specific bacterial
+operational taxonomic units otus and methanogens
+ ulrich and edwards mancini et al among
+these an otu corresponding to a deltaproteobacterium 
+designated orm which is distantly related to syn 
+trophobacterales desulfobacterales and desulfuro 
+monadales was abundant in all clone libraries
+and was proposed to be the key organism activating
+benzene ulrich and edwards mancini et al 
+ benzene degrading culture was provided to col 
+leagues at rice university usa for a successful column
+bioaugmentation experiment da silva and alvarez 
+ benzene removal was observed along with an
+increased abundance of otu orm in the inoculated
+contaminated sediment columns da silva and alvarez 
+ organisms with nearly identical s rrna
+sequences to orm designated hasda a and shra 
+h from japan were also shown to assimilate carbon
+from benzene sakai et al noguchi et al 
+however whether or not the organisms corresponding to
+otus orm hasda a and shra h actually initiated
+anaerobic benzene attack and mineralization has still not
+been proven methanogenic benzene degradation
+depends on syntrophic relationships between fermenting
+and acetogenic bacteria and methanogenic archaea
+ vogt et al while we can propose likely benzene
+degraders and interspecies metabolites such as acetate
+and hydrogen there is no doubt that other more subtle
+and complex interactions are critical as well experiments
+to identify the functions of the many different microbes
+observed in these enrichment cultures are difficult to
+carry out owing to slow rates of growth transformation
+and lack of isolates mancini et al sakai et al 
+ 
+
+in this study we characterized the microbial populations
+in multiple distinct methanogenic benzene degrading
+enrichment cultures to look for common features to link
+organisms to the initial steps of benzene transformation 
+we conducted a long term time course experiment during
+which we quantified the abundance of specific popula 
+tions before and during the onset of benzene biodegra 
+dation this study has confirmed the unique role of orm 
+in initiating benzene metabolism enabled quantification of
+growth parameters and has provided new insights into
+the roles of other previously uncharacterized co enriched
+microbes 
+
+results and discussion
+
+enrichment of methanogenic benzene degrading
+cultures
+
+the methanogenic benzene degrading cultures exam 
+ined herein originated from a series of microcosms first
+established in nales et al ulrich and
+edwards with soil samples from an oil refinery in
+oklahoma or cultures or soil samples from a former
+gas station on cartwright avenue toronto cart cultures 
+these or and cart cultures have since been maintained
+in anaerobic mineral medium reduced with amorphous
+ferrous sulfide edwards and grbić galić with
+benzene as the only added carbon source ulrich and
+edwards portions – of these microcosms
+and cultures have been periodically transferred into or
+topped up with fresh medium generating new subcultures
+for diverse experiments over the years as represented
+schematically in fig the or cultures have been trans 
+ferred more often than the cart cultures all current cul 
+tures are kept in – l glass culture bottles or in l
+stainless steel batch reactors degrade benzene at rates
+ranging from – μmol benzene per litre of culture per
+day and consistently produce predicted stoichiometric
+quantities of methane and carbon dioxide mancini et al 
+ devine these distinct enrichment cultures
+also have subtly different characteristics arising from their
+history for example some culture bottles still contain
+residual sediment solids or a and or b from the origi 
+nal microcosms some cultures have developed visible
+flocs or p and or p and some cultures contain
+more ferrous sulfide precipitate than others or p a 
+
+clone library and restriction fragment length
+polymorphism analysis
+
+the first clone library prepared from these or cultures
+over a decade ago revealed two dominant bacterial
+otus corresponding to a firmicute and a
+deltaproteobacterium ulrich and edwards the
+deltaproteobacterium referred to as orm was hypoth 
+esized to be the organism that initiated the attack on
+benzene based on its similarity to desulfobacterium
+aniline known to metabolize aromatic compounds ulrich
+and edwards in fact orm is only at most 
+identical to any classified organism noguchi and
+colleagues grouped otu shra h that is 
+identical to orm within desulfobacterales however 
+the phylogenetic tree we constructed herein shows that
+these organisms are probably more closely related to
+syntrophobacterales fig most other unclassified
+otus for example clone hasda a d zz c and
+rii an fig which are similar to orm and shra 
+h s rrna sequence identity are from petro 
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+leum hydrocarbon contaminated sites or enrichment
+cultures as an s rrna identity was suggested
+as a taxonomic threshold for family level yarza et al 
+ these otus may represent a potentially new family
+specialized in metabolizing petroleum hydrocarbons 
+
+additional clone libraries were subsequently prepared
+from four distinct culture bottles and these clones were
+grouped by restriction fragment length polymorphism
+ rflp analysis fig s orm was the only otu
+common to all cultures sampled representing to
+ of the bacterial library other otus varied among
+analysed cultures including members of omnitrophica
+ op syntrophoradbaceae desulfovibrio sp 
+chloroflexi spirochete ignavibacteria and elusomicrobia
+ fig s this clone library study revealed slight varia 
+tions in the s rrna gene sequences of individual
+orm clones to determine if these sequence variations
+were real or an artefact additional rflp analysis was
+conducted on multiple cloned s sequences first using
+the restriction enzyme mspi this resulted in a consistent
+banding pattern where the majority of clones were classi 
+fied as a single orm like otu fig s a we conducted
+a further digestion of these samples with the restriction
+enzyme hinfi this second digestion revealed two distinct
+patterns for clones initially grouped as orm fig s b 
+
+operational taxonomic units corresponding to these two
+different patterns were named orm a and orm b 
+sequencing of several representative clones from
+orm a and orm b patterns confirmed that these pat 
+terns did in fact correspond to two distinct otus fig s 
+
+quantitative polymerase chain reaction survey of
+multiple methanogenic benzene degrading subcultures
+
+quantitative polymerase chain reaction qpcr primer
+pairs were designed to amplify the most abundant otus
+ in of the cultures table s fig primers
+were designed to detect the two distinct orm 
+sequences as well as two additional organisms 
+parcubacteria od and methanoregula which were
+identified in a recent metagenome analysis of culture
+or b a devine metagenome sequencing offered
+a more accurate non pcr based analysis of the commu 
+nity and revealed the presence of organisms such as
+od that were never picked up by commonly used s
+rrna primers a maximum likelihood tree of s rrna
+genes related to od fig s revealed that the od 
+sequence in our methanogenic benzene degrading cul 
+tures is most similar to sequences in the recently defined
+od l group brown et al to quantify the
+
+fig subculturing history of the various
+lineages of methanogenic benzene degrading
+enrichment cultures all cultures are
+maintained in – l glass culture bottles or
+ l stainless steel reactors or bar 
+or b ar or p ar each name
+corresponds to a culture bottle and the dates
+in parentheses indicate year when the
+subculture bottle was first established culture
+transfer events – are indicated with
+arrows the four subcultures with an asterisk
+by their names were used to prepare clone
+libraries and rflp analysis fig s thick
+borders identify the cultures that were
+analysed using qpcr grey shading identifies
+the cultures that were characterized by
+pyrotag sequencing a list of all dna samples
+from this study is provided in table s 
+
+microbes involved in anaerobic benzene activation 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+microbes involved in anaerobic benzene activation 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+abundance of all remaining organisms qpcr using
+general primers to bacteria and archaea was also con 
+ducted primer sequences and specificities are provided
+in table s 
+
+we quantified these otus in a set of 
+deoxyribonucleic acid dna samples from or cul 
+tures and two cart cultures extracted between and
+ sampling points are listed in table s and found
+that orm like organisms were highly abundant in all
+cultures – fig orm like sequences are rare
+based on a survey of national center for biotechnology
+information only nine sequences in the non redundant
+nucleotide database have identity with orm of
+these sequences are from benzene or other hydro 
+carbon contaminated sites orm like sequences have
+never been detected in any non benzene degrading cul 
+tures in our laboratory by qpcr or in clone libraries from
+dna samples from toluene or trichloroethene degrading
+anaerobic consortia data not shown we attempted to
+glean any relationship between the abundance of orm 
+like organisms and benzene degradation rates using data
+obtained from these maintenance cultures but none was
+clearly apparent fig top panel rates in these cultures
+vary by less than a factor of three and qpcr may quantify
+a portion of intact inactive cells thus any relationship is
+likely masked however we did discover that orm a was
+
+abundant in all cultures while orm b was less than 
+in most cultures except for cultures associated with
+lineage or b and one culture from the or p lineage
+ fig bottom panel indicating that these sequences do
+correspond to two distinct organisms with different growth
+characteristics although not identified in previous clone
+libraries the od like sequence was also detected in all
+cultures in the qpcr survey ranging from to of
+the entire microbial community this was the only other
+otu identified in all cultures based on the analyses
+described herein archaeal populations ranged from 
+to of the entire microbial community among the
+archaeal species methanoregula was detected in out
+of dna samples and was more abundant in the
+or b lineage where it was first identified fig bottom
+panel 
+
+pyrotag sequencing of s rrna genes
+
+to make sure that we were not missing any major otus 
+ dna samples including five samples used in the
+qpcr survey described above obtained from different
+or and cart methanogenic subcultures between 
+and were analysed via pyrotag s rrna amplicon
+sequencing using primers f r to the v –v 
+region table s we identified a total of otus 
+
+fig maximum likelihood tree showing the phylogenetic relationship between orm like organisms and other deltaproteobacteria that are
+most closely related to orm or may be linked to anaerobic benzene biodegradation tree was created using phyml with the jc 
+substitution model and bootstraps all branches listed here are supported by at least a bootstrap value 
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+bacterial otus greater than and archaeal otus
+greater than were visualized in a heat map fig 
+and their relative abundance and closest homologues
+from ncbi are listed in table s a lower threshold for
+archaea was selected to compensate for primer bias dis 
+cussed below the tree above the heat map in fig 
+reflects the distance between samples computed using an
+unweighted pair group method with arithmetic mean
+ upgma the distance tree nicely recapitulates the
+transfer history of the various subcultures fig reflect 
+ing the influence of subtle effects of cultivation history on
+microbial community 
+
+pyrotag sequencing revealed yet again that orm was
+the dominant otu common to all cultures regardless of
+
+site of origin and culture history ranging from to 
+of total abundance fig orm a and b sequences
+could not be distinguished with pyrotag amplicon
+sequencing od sequences were detected but signifi 
+cantly underestimated due to primer mismatch described
+in the next section a number of other bacterial otus
+were present but only in certain subculture lineages for
+instance otus b and b from op were only
+present in culture lineage or p another op member 
+otu b was identified in floc containing subcultures
+or p or p and cart cons these otus were not
+observed in subcultures that were more frequently trans 
+ferred such as the or b lineage suggesting that they
+have very slow doubling times in these more frequently
+transferred cultures orm was generally more abundant
+ and other bacterial otus present were related to
+treponema and synergistales methanogens were
+detected in all cultures at least one known hydro 
+genotrophic methanogen methanoregula methanospi 
+rillum methanocella methanolinea or methanobacterium 
+was detected in all cultures except or p ar acetoclastic
+methanosaeta was also identified in all cultures except
+or a and in one dna sample taken from or b ar in
+ presence of both groups of methanogens is con 
+sistent with generation of both hydrogen and acetate from
+benzene fermentation although many otus were identi 
+fied in each culture microbial diversity tended to decrease
+upon successive transfers fig s for example the
+alpha diversity estimated using both richness and
+shannon metrics decreased when a transfer of culture
+from or b a was made to create or b ar however no
+change was seen when a transfer of culture
+or b ar batch reactor was made to create or b ar 
+ fig s 
+
+primer biases in s rrna amplicon based microbial
+community analyses
+
+the f r pyrotag primers match well to most bac 
+terial sequences but not as well to most archaeal
+sequences these primers were selected nevertheless
+because the resulting amplicon bp is considerably
+longer than that from other primers such as the widely
+used f r gilbert et al and our focus was
+on bacterial rather than on archaeal otus five dna
+samples from were analysed with both pyrotag
+amplicon sequencing and qpcr enabling direct compari 
+son of the two methods table measured percentages
+of orm were similar using both methods percentages
+of archaea were underestimated by a factor of to in
+pyrotag amplicon sequencing hence why we used a ×
+lower threshold in the heat map shown in fig od 
+like sequences were also very poorly detected by a
+factor of or more by pyrotag sequencing table an
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+o
+
+r
+m
+
+ 
+ 
+
+s
+ r
+
+r
+n
+
+a
+ g
+
+en
+e 
+
+co
+pi
+
+es
+ m
+
+l orm s rrna gene copies
+benzene degradation rate
+
+b
+en
+
+ze
+ne
+
+ d
+eg
+
+ra
+da
+
+tio
+n 
+
+ra
+te
+
+ µ
+m
+
+ol
+ l
+
+ c
+ul
+
+tu
+re
+
+ d
+ay
+
+ 
+
+o
+r
+
+ a
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ a
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ p
+ 
+
+a
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ p
+ 
+
+b
+ 
+
+ 
+ 
+
+ 
+o
+
+r
+ p
+
+ 
+ 
+
+ 
+ 
+
+ 
+o
+
+r
+ p
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ p
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ p
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+o
+
+r
+ p
+
+ 
+ 
+
+ 
+ 
+
+ 
+o
+
+r
+ p
+
+ 
+c 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ b
+ 
+
+ 
+ 
+
+ 
+o
+
+r
+ b
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ b
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ b
+ 
+
+a
+ 
+
+ 
+ 
+
+ 
+o
+
+r
+ b
+
+ 
+a
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ b
+ 
+
+a
+ 
+
+ 
+ 
+
+ 
+ 
+
+o
+r
+
+ b
+ 
+
+a
+r 
+
+ 
+ 
+
+ 
+ 
+
+ 
+c
+
+a
+rt
+
+ 
+ 
+
+ 
+ 
+
+ 
+c
+
+a
+rt
+
+ 
+a
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+culture name sampling year
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+un
+da
+
+nc
+e 
+
+ 
+ 
+
+orm a orm b od other bacteria
+methanoregula other archaea
+
+fig abundance and proportion of s rrna gene copies in
+distinct methanogenic benzene degrading cultures sampled
+between and see fig for culture names and
+lineages benzene degradation rate and orm s rrna gene
+copies ml measured simultaneously in each culture are shown in
+the upper panel the relative proportions of different phylotypes
+were calculated from qpcr measurements and are shown in the
+lower panel sequences corresponding to orm a light blue and
+od brown were detected in all cultures surveyed sequences
+corresponding to orm b dark blue were detected in all or b 
+cultures that originated from lineage or b and in one culture from
+the or p lineage deoxyribonucleic acid from cultures marked
+with an asterisk were analysed using both qpcr and pyrotag
+sequencing 
+
+microbes involved in anaerobic benzene activation 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+microbes involved in anaerobic benzene activation 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+alignment between previously cloned or metagenome 
+derived sequences and the f r primer pair
+revealed one to two mismatches to most archaeal otus
+and two mismatches to od fig s there is no
+perfect solution to the primer bias problem other than the
+use of multiple primer pairs engelbrektson et al 
+klindworth et al more degenerate primer
+sequence rinke et al or a combination of multi 
+ple approaches for dna quantification the additional
+resolution afforded by the longer pyrotag sequence
+reads with primers f r to better match to our pre 
+
+vious clone library sequences contributed to our choice
+of primers the identified archaeal otus retrieved 
+although under represented were relatively consistent
+with previous analyses in contrast od which we iden 
+tified only from metagenome sequencing was missed or
+barely detected using any of the general s primers
+tested including the general bacterial qpcr primer used
+in this study fig s as a result od like sequences
+were absent from most pcr based analysis due to their
+distinct s rrna sequence compared with other bacte 
+rial species brown et al 
+
+fig relative abundance of major otus from pyrotag analysis of distinct active methanogenic benzene degrading cultures or and cart
+lineages refer to fig the otu ids and taxonomical assignments are on the right and the culture names and the year that each dna
+sample was taken are shown on the top of each column only bacterial otus and archaeal otus are shown the upgma tree
+on top of the heat map represents the beta diversity among different microbial communities and the distance between samples was
+computed using the unweighted unifrac method branches of the upgma tree are colour coded by culture lineage green for or a blue for
+or p pink for cart and purple for or b operational taxonomic units corresponding to od were below in all dna samples in this
+analysis due to primer mismatch see fig s and text 
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+long term monitoring of benzene biodegradation in
+transfer cultures
+
+one of the challenges with anaerobic benzene degrading
+cultures is that they grow slowly dilution of the cultures is
+usually followed by a long lag time and sometimes activ 
+ity is significantly impaired or may not recover in a rea 
+sonable time frame to investigate growth and benzene
+degradation in diluted transfer cultures we established
+dilutions of one particular culture or b a which is highly
+enriched in orm ∼ of the culture and then tracked
+the benzene degrading activity and major otu abun 
+dance over days we chose this culture because we
+had sequenced its metagenome providing a pcr 
+independent assessment of the dominant organisms
+within devine specifically and transfers
+were prepared in triplicate into sterile anaerobic mineral
+medium and incubated in a coy anaerobic chamber 
+benzene and methane concentrations were measured at
+ – weeks intervals every to months dna was
+extracted and the abundance of sequences correspond 
+ing to orm strains orm a and orm b od 
+methanoregula total bacteria and total archaea were
+quantified in these samples using qpcr triplicated
+starved transfer cultures unamended with benzene 
+were included as controls for a total of nine bottles the
+results of this extended experiment are provided in fig 
+showing benzene consumption and methane production
+ top panel otu absolute abundance middle panel and
+relative abundances bottom panel over time the abso 
+lute abundance of each specific microbial group is com 
+pared before and during the onset of benzene
+degradation in fig the raw data for each replicate
+separately are provided in fig s benzene degradation
+and methane production profiles and table s qpcr
+analyses these data provide a unique perspective on
+progressive microbial community changes during the lag
+phase before the onset of benzene biodegradation and
+beyond 
+
+benzene and methane concentration measurements
+revealed that in the no benzene controls very small
+
+amounts of methane from endogenous respiration were
+slowly produced over time fig in the benzene 
+amended inoculum transfers benzene degradation
+was measurable after approximately days of incuba 
+tion while in the transfers it took over days for
+measurable benzene depletion once initiated the
+average benzene degradation rate increased with suc 
+cessive feedings from to μmol per liter culture per
+day methane production corresponded to benzene con 
+sumption and the measured ratio was ± moles
+methane generated per mole benzene degraded n 
+which is slightly below the stoichiometric value of 
+ ulrich and edwards but reasonable considering
+the length of the experiment and losses from repeated gc
+and dna sample extractions 
+
+we expected a slow decline in the total microbial popu 
+lation in the no benzene control bottles instead total
+copies per ml in the control bottles increased fold
+over the day time course fig table s the
+inoculum used for these experiments was an active
+culture containing about orm sequences and a
+little over copies ml total bacteria and copies ml
+total archaea thus the transfer started with about 
+
+copies ml total bacteria while the transfer about 
+
+copies ml total bacteria perhaps dilution of the inoculum
+into fresh vitamin containing ferrous sulfide reduced
+mineral medium provided sufficient new nutrients to
+enable growth of some organisms detectable at the high
+sensitivity of qpcr for example methanoregula and
+od in these starved controls increased in abundance
+ – fold over the time period however the bulk of the
+growth in these bottles came from unidentified archaea
+and bacteria particularly archaea in the later stages of
+the incubation presumably from endogenous respiration
+and leakage of hydrogen from the glove box into the
+bottles during sampling in contrast to other monitored
+otus the absolute abundance of orm sequences in
+the no benzene control did not change fig while their
+relative abundance decreased markedly from to less
+than of the total population by the end of the incuba 
+tion fig 
+
+table relative abundance of representative organisms estimated using pyrotag sequencing compared with qpcr analysis a
+
+culure dna sample
+
+orm od methanoregula total archaea
+
+pyrotag qpcr pyrotag qpcr pyrotag qpcr pyrotag qpcr
+
+or b a 
+or b ar 
+or p 
+or p 
+or p a 
+
+the percentage of organisms associated to each phylogenetic group from pyrotag analysis was calculated as the sum of all otus assigned that
+particular group 
+a the pyrotag primers align perfectly with orm species have two mismatches with od and – mismatches with representative archaeal
+species 
+
+microbes involved in anaerobic benzene activation 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+microbes involved in anaerobic benzene activation 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+in benzene amended cultures the total microbial abun 
+dance increased – fold over the length of the
+experiment fig in both the and transfers 
+the absolute abundance of orm initially decreased
+during the first days even while total microbial abun 
+dance increased by day orm abundance began to
+increase and relative proportions also increased in clear
+contrast to the starved controls in the transfers both
+orm a and orm b strains grew proportionally but in the
+ transfers orm b grew more than orm a in two of
+the three replicates table s the absolute abundance
+of od and methanoregula also increased in these incu 
+bations we calculated the pearson’s linear correlation
+coefficient relating the abundance of each specific micro 
+bial group to benzene consumption or methane genera 
+tion table s we found a strong positive correlation
+ r p between benzene degradation 
+methane generation and growth of orm od and
+methanoregula in incubations without benzene the
+abundance of od bacteria and archaea were still mod 
+erately or strongly correlated with methane production 
+
+while the abundance of orm was not correlated at all
+ table s therefore in the starved incubations the
+small amounts of fermentation and methanogenesis that
+occurred presumably via endogenous respiration and
+hydrogen leaks enabled growth of od methanoregula
+and other bacteria and archaea though not of orm we
+can therefore confidently assign deltaproteobacterium
+orm the role of initiating the anaerobic metabolism of
+benzene as it is the only microbe to increase in numbers
+only when benzene was added this is consistent with
+finding that orm is also most abundant and common in
+all the cultures 
+
+estimates of doubling times and biomass yield
+
+from the increase of s rrna gene copies over time we
+estimated doubling times focusing on the later time
+points after clear onset of benzene degradation final
+∼ days the measured total cell doubling time was
+ ± days n table s which agrees remarkably
+with a previous estimation of days using total protein
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+r
+el
+
+at
+iv
+
+e 
+ab
+
+u
+n
+
+d
+an
+
+ce
+ 
+
+ 
+ 
+
+orm a orm b od other bacteria methanoregula other archaea
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+µm
+
+o
+l m
+
+l c
+u
+
+lt
+u
+
+re
+methane production÷ 
+cumulative benzene consumption
+
+ 
+ 
+
+ × 
+
+ × 
+
+ × 
+
+co
+p
+
+ie
+s 
+
+m
+l c
+
+u
+lt
+
+u
+re orm 
+
+od 
+
+total bacteria
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+time day 
+
+ 
+
+c no benzene controla transfer benzene b transfer benzene
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+fig cumulative benzene consumption and methane production upper panel absolute abundance of specific microbial groups middle
+panel and relative proportions bottom panel in a benzene amended cultures with inoculum b benzene amended cultures with 
+inoculum and c unamended no benzene control cultures all cultures were transferred from culture or b a error bars are standard error
+of triplicates except for the no benzene control where only two bottles were averaged because hydrogen leaked significantly into the third
+ see fig s abundances of otu were determined by qpcr abundances of ‘other bacteria’ and ‘other archaea’ were obtained by
+subtracting abundances of measured otus from respective totals measured with general primers 
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+measurement ulrich and edwards for orm 
+specifically the doubling time in the latter days was
+comparable at ± days doubling times were 
+longer when data were considered over the entire time
+period – days but were as low as days in
+specific shorter time intervals table s we next esti 
+mated biomass yield from the measured change in copies
+of s rrna genes per mass of benzene consumed 
+using estimates of the size of the cells to approximate
+biovolumes and genome sequence data for the number of
+rrna operons per cell using high and low estimates for
+converting s rrna copy numbers to grams cells we
+calculated a total yield ranging from to g dry cell
+mass g benzene depending on assumptions table s 
+the upper end range of this range is not too different from
+the measured yield of g g reported previously based
+on protein measurements ulrich and edwards 
+extraction efficiencies of dna are certainly never 
+and could easily explain the lower measured yields an
+added insight from this analysis is that we can estimate
+the yield of orm on benzene which was only – of
+the overall yield table s largely because orm cells
+are very small devine od yields were even
+smaller – of total methanogens and other bacteria
+contributed most to the biomass yield these are presum 
+ably the organisms that utilize metabolites liberated after
+benzene is transformed into more readily degraded
+metabolites by orm the long doubling time and low
+biomass yield estimated in this study particularly of
+orm highlight the effects of resource partitioning in the
+community and explain the challenges in obtaining suffi 
+
+cient biomass to elucidate the biochemical steps in
+anaerobic benzene metabolism 
+
+functional and mechanistic implications
+
+confirmation that microbes from the delta 
+proteobacterium orm phylotype initiate benzene degra 
+dation is consistent with all past studies work by collabo 
+rators da silva and alvarez using our inoculum in
+column bioaugmentation studies revealed that orm was
+enriched during anaerobic benzene degradation in some
+samples from our methanogenic cultures orm 
+phylotypes make up more than of the culture in
+japan organisms from two distinct sites that are very
+similar s rrna sequence identical to orm 
+were proven to assimilate benzene in stable isotope
+probing studies oka et al sakai et al 
+noguchi et al we have sequenced the
+metagenome of culture or b a ncbi submission in pro 
+gress accession to be provided to obtain a draft genome
+of orm and initial proteomic studies have been com 
+pleted devine yet the mechanism for benzene
+activation remains unknown the recently proposed
+anaerobic benzene carboxylase pathway abu laban
+et al in a firmicute peptococcacea was not
+found in any of the contigs associated with orm 
+ devine more functional studies are needed now
+armed with a partial orm genome to elucidate the
+benzene activating mechanism in these cultures 
+
+the analyses conducted herein also provide clues to
+the role and metabolism of other mysterious microbial
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+co
+pi
+
+es
+ m
+
+l c
+ul
+
+tu
+re
+
+orm 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+time days 
+
+co
+pi
+
+es
+ m
+
+l c
+ul
+
+tu
+re
+
+total bacteria
+
+ 
+
+od 
+
+ 
+
+time days 
+
+total archaea
+
+ transfer benzene transfer benzene no benzene control
+
+fig comparison of the abundance and
+growth of specific microbial groups as
+measured by qpcr during benzene
+biodegradation plotted on a log scale data
+represent average s rrna copies per ml
+from triplicates for benzene amended
+cultures and duplicates for the no benzene
+controls solid squares inoculum transfer
+cultures amended with benzene solid
+triangles inoculum transfer cultures
+amended with benzene empty squares 
+transfer cultures without benzene
+ no benzene controls an increase in
+abundance of od total bacterial and
+archaeal sequences with time was observed
+in all cases while the abundance of orm 
+sequences increased only in cultures with
+benzene amendment top left panel 
+
+microbes involved in anaerobic benzene activation 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+microbes involved in anaerobic benzene activation 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+groups these benzene degrading enrichment cultures
+support sustained growth of a member of the elusive
+candidate division od now named parcubacteria rinke
+et al brown et al while od was found in
+all cultures its abundance was not directly correlated to
+benzene consumption suggesting that it may use
+benzene metabolites as well as other substrates present
+in these cultures not derived from benzene such as
+ferrous sulfide or the products of biomass decay we
+always reduce our medium with an amorphous ferrous
+sulfide solution prepared separately and added last into
+the rest of the medium ingredients as first described by
+brock and o’dea previous studies have sug 
+gested that od may be involved in sulfur cycling harris
+et al wrighton et al anaerobic methane
+oxidation elshahed et al peura et al or
+fermentation of small organic compounds such as alco 
+hols wrighton et al no genes for any step in the
+catabolic pathway of aromatic compounds have been
+identified in previously sequenced od genomes 
+genomes approximately complete most od bac 
+teria are small cells with fewer than genes and the
+od population in these methanogenic cultures is no
+exception devine 
+
+other relatively abundant bacterial otus identified in
+these benzene degrading cultures include treponema 
+syntergistetes and op treponema and synergistetes
+are fermenters harwood and canale parola 
+godon et al they may assimilate fatty acids and
+amino acids produced by orm from benzene and
+convert these compounds into smaller molecules that can
+be utilized by methanogens much less is known about
+organisms affiliated with op although they have been
+postulated to be involved in anaerobic respiration and
+sulfur cycling in the environment glöckner et al 
+their association with flocs and the presence of fes
+solids in our medium may support this hypothesis the
+methanogenic populations identified in these cultures are
+quite ordinary in contrast including both methanosaeta
+and methanoregula which is consistent with the typical
+requirement for both acetoclastic and hydrogenotrophic
+methane producers for complete conversion of organic
+matter to methane and carbon dioxide 
+
+in summary we have confirmed the critical role of
+deltaproteobacterium orm populations in the activation
+of benzene in these methanogenic benzene degrading
+cultures unlocking carbon for use by other diverse micro 
+bial populations the fastest doubling time observed for
+orm was as low as days but typically over days a
+decrease in abundance of orm upon initial transfer first
+ days suggests that the population is sensitive to an as
+yet undetermined aspect of the transfer process two s
+rrna sequences of orm were identified and at least two
+genomes were identified in the metagenome devine 
+
+ confirming that these sequences correspond to
+real and distinct populations orm is equally distantly
+related to several deltaproteobacterial genera and thus is
+likely a new genus we also report laboratory cultivation of
+a member of the parcubacteria suggesting that it can
+grow on the products of biomass or benzene fermentation
+in a reduced anaerobic mineral medium the amorphous
+fes added to reduce the medium is also a possible elec 
+tron donor for od 
+
+experimental procedures
+
+culture maintenance and genomic dna extractions
+
+the methanogenic benzene degrading cultures originated
+from an oil refinery in oklahoma or and a decommis 
+sioned gasoline station on cartwright avenue in toronto 
+ontario cart nales et al ulrich and edwards 
+ these cultures have been maintained as previously
+described ulrich and edwards with – μm
+benzene amended as required roughly once per month the
+cultures are incubated statically at room temperature in a
+coy anaerobic glove box in glass bottles stoppered with
+teflon coated butyl rubber butyl rubber stoppers or teflon
+mininert caps to build up biomass for experiments the
+enrichment cultures were transferred into many different
+bottles over the years with – transfers into fresh
+mineral medium or medium supernatant that excludes the
+precipated black amorphous ferrous sulfide reductant many
+culture lineages have now been separate for more than 
+years fig genomic dna samples were purified from
+ – ml culture table s each sample was transferred
+into an anaerobic falcon tube centrifuged anaerobically at
+room temperature at to g for min and then the
+supernatant was removed the ultraclean soil dna kit
+ mobio laboratories solana beach ca was used for the
+ clone libraries and rflp analyses while the powersoil
+dna kit mobio laboratories solana beach ca was used
+for dna extraction from all other samples according to the
+manufacturer’s protocol 
+
+clone library preparation and rflp analysis
+
+deoxyribonucleic acid from culture or a or b or p a
+and or p b was amplified with the universal bacterial pcr
+primers f r table s three replicated pcr amplifica 
+tions were performed in a ptc dna engine
+thermocycler mj research waltham ma each μl pcr
+reaction contained × thermopol pcr buffer new england
+biolabs mississauga on canada μm of each primer 
+ mm of deoxynucleoside triphosphate u of taq dna
+polymerase new england biolabs and μl of dna tem 
+plate conditions were as follows initial denaturation at °c
+for min followed by cycles of denaturation at °c for
+ min primer annealing for s at °c and chain extension
+for or min at °c followed by a final extension step
+at °c for min polymerase chain reaction products were
+pooled and purified using a qiaquick pcr clean up kit
+ qiagen valencia ca clone libraries were constructed
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+using a pcr topo ta cloning kit invitrogen berlington 
+on canada according to the manufacturer’s instructions 
+for rflp analysis colony pcr was performed directly on
+ – of the escherichia coli clones prepared in the cloning
+procedure to amplify s rrna gene sequences inserted in
+the topo ta cloning vector the reaction mix was similar to
+that described above except that primers used in this case
+were t f and m r polymerase chain reaction conditions
+were as described above except the chain annealing step
+occurred at °c for min products of pcr were purified
+using the qiaquick pcr cleanup kit and quantified using a
+nanodrop spectrophotometer nanodrop wilmington 
+de a μl volume of each purified product – μg
+dna was then transferred into sterile pcr tubes to which
+were added μl of × tango buffer and u of restriction
+enzyme mspi fermentas burlington on digestions were
+carried out at °c for h in many cases a second diges 
+tion was carried out by subsequently adding enzyme hinfl
+ fermentas burlington on and incubating at °c for
+further h after digestion – μl samples were run on
+ agarose gels containing tris acetate edta tae 
+buffer for up to h at v where two or more digested
+amplicons had the same pattern end sequencing was carried
+out on one or more of the corresponding undigested pcr
+products sequencing was performed using primers t f 
+m r f or r by the center for applied genomics
+ tcag toronto on 
+
+analysis of cloned sequences
+
+chimeric sequences were removed by manual analysis of
+alignments created using muscle edgar or by using
+the web version of bellerophon huber et al the
+otus remaining were classified using the greengenes s
+rrna gene classifier da silva and alvarez or through
+comparison to the genbank non redundant sequence data 
+base using the blastn tool altschul et al kunin et al 
+ sequences similar to the s rrna gene sequences
+from orm were retrieved from genbank reference s
+rrna sequences related to od were retrieved from the
+supplemental information in brown and colleagues 
+and introns were removed prior to alignment sequences
+were aligned using muscle and maximum likelihood
+phylogenetic trees were constructed with phyml kasai
+et al ramos padrón et al using the jc sub 
+stitution model and a bootstrap value of both muscle
+and phyml are available through the geneious software
+package v biomatters 
+
+quantitative pcr analysis
+
+the total copies of bacterial and archaeal s rrna genes 
+as well as the total copies of the two distinct orm like
+sequences od and methanoregula were quantified in dna
+samples using qpcr in a bio rad c thermocycler bio 
+rad hercules california usa primers targeting each
+group were designed using primer software koressaar
+and remm untergasser et al and are provided
+in table s each μl qpcr reaction contained μl of
+ssofast evagreen supermix bio rad usa μl
+
+uv treated molecular biology water forward and reverse
+primers at total concentrations of μm each and μl of
+dna template table s that had been diluted – times
+in uv treated molecular biology water in the long term moni 
+toring experiment with and culture transfer qpcr
+was conducted under the same conditions except that μl of
+undiluted dna template from all time points was used
+because of low dna concentrations below nanodrop detec 
+tion for the two strains of orm the primers targeted the
+region of significant divergence between the two s rrna
+genes fig s the specificity of each primer set was evalu 
+ated by using the blastn tool to i ensure that no cross 
+annealing would likely occur with other otus ever found in
+the methanogenic benzene degrading cultures and ii iden 
+tify other possible matches in the non redundant ncbi
+genbank database 
+
+primer specificity was also optimized by adjusting anneal 
+ing temperatures so that little to no amplification occurred
+when a test template containing non target orm like dna
+was used polymerase chain reaction conditions were as
+follows initial denaturation at °c for min followed by 
+cycles of denaturation at °c for s annealing at an appro 
+priate annealing temperature for s and chain extension at
+ °c for s calibration curves were prepared using serial
+dilutions of a known quantity of appropriate s rrna gene 
+containing plasmids standards created for the enumeration
+of total bacterial and archaeal s rrna gene sequences
+were made from concentrated stocks of an orm and a
+methanomethylovorans sp clone respectively for all qpcr
+results reported here amplification efficiency of the pcr
+reaction were all above standard curves and efficiency
+of qpcr runs are shown in table s 
+
+pyrotag sequencing and data analysis
+
+for pyrotag sequencing the hypervariable v to v region of
+the s rrna gene was amplified using pcr reactions on a
+ptc thermal cycler mj research inc waltham ma 
+usa with general primer targeting s rrna of bacteria 
+archaea and s rrna of some eukaryotes at f r
+ engelbrektson et al hanshew et al the
+forward primer contained a bp adapter sequence cca
+tct cat ccc tgc gtg tct ccg act cag the reverse
+primer also contained a bp adapter sequence cct atc
+ccc tgt gtg cct tgg cag tct cag as well as a
+ bp multiplex identifier bar code to distinguish multiple
+samples pooled within one sequencing region polymerase
+chain reactions were prepared and conducted as described
+in ramos padrón et al except that °c was used
+as annealing temperature the pcr products were purified
+using the genejet pcr purification kit fermentas thermo
+scientific waltham ma usa according to the manufactur 
+er’s instructions the quality of cleaned pcr product was
+checked on a agarose gel the quantity of dna was
+measured with a nanodrop spectrophotometer
+ nanodrop wilmington de usa the purified and quanti 
+fied pcr products were sent to the genome quebec and
+mcgill university innovation center where samples were
+checked for quality again pooled and processed using uni 
+directional sequencing lib chemistry using roche gs
+flx titanium technology 
+
+microbes involved in anaerobic benzene activation 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+microbes involved in anaerobic benzene activation 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+the pyrotag sequencing data were demultiplexed and ana 
+lysed using the quantitative insights into microbial ecology
+ qiime platform v caporaso et al only
+sequences with length longer than bp quality score
+above and with homopolymer length shorter than eight
+bases were further processed sequences were clustered
+into individual otus using the uclust algorithm edgar 
+ with the identity threshold at the most abundant
+sequence within each otu was chosen as the representative
+sequence of the otu chimeric sequences were identified by
+chimeraslayer haas et al which was integrated into
+qiime and decipher wright et al and these otus
+were removed from further analysis taxonomy was assigned
+to each otu with the rdp classifier wang et al also
+compatible with qiime using the greengenes database
+version da silva and alvarez differences
+between the samples were calculated with the unweighted
+unifrac method lozupone and knight which takes
+the phylogenetic information into account the samples were
+then clustered using upgma algorithm 
+
+long term monitoring of growth of the organisms in
+diluted cultures
+
+transfers and from a highly enriched culture 
+or b a were prepared in an anaerobic glovebox coy labo 
+ratory products mi usa three replicate bottles were pre 
+pared with a culture transfer by dispensing ml or b a
+culture into ml sterile fes reduced medium edwards
+and grbić galić in ml glass bottles sealed with
+mininert screw caps vici precision sampling baton rouge 
+la usa three replicate bottles were prepared with a 
+culture transfer by dispensing ml or b a culture into
+ ml sterile medium in ml mininert screw capped
+bottles three replicate bottles for the ‘no benzene controls’
+were prepared with a culture transfer by dispensing
+ ml culture into ml medium in ml mininert capped
+bottles all cultures in ml bottles were amended with μl
+neat benzene to achieve a final concentration of μm all
+samples were incubated in a coy anaerobic glovebox neat
+benzene μl was re amended to the bottles when they
+became depleted during the days of cultivation dna
+was extracted from to ml samples from each bottle on
+day and benzene and
+methane concentrations were measured more frequently as
+described below 
+
+benzene and methane analysis
+
+headspace samples μl were collected using a μl
+gas tight syringe and the contents were injected into a
+hewlett packard series ii gas chromatograph equipped
+with a gsq m × mm i d plot column j w
+scientific folsom ca and coupled with a flame ion detec 
+tor helium was used as the carrier gas and the column head
+pressure was kept at – psi the oven temperature was
+isothermal at °c the injector and detector temperatures
+were kept at °c and °c respectively calibration was
+carried out with external standards methane was eluted at
+ min and benzene at min 
+
+sequence accession numbers
+
+the s rrna sequences of the major otus identified in the
+current cultures were deposited in ncbi under genbank
+accession numbers kt kt the raw
+sequences generated during pyrotag amplicon sequencing
+were deposited to the ncbi short read archive with the
+accession srx srx under the bioproject
+prjna the metagenome of culture or b a is
+deposited under the bioproject prjna 
+
+acknowledgements
+
+we thank christina heidorn and nancy li who contributed to
+culture maintenance financial support was provided by the
+government of canada through nserc genome canada
+and the ontario genomics institute ogi abc 
+and the government of ontario through the orf gl 
+program we would also like to thank the center for applied
+genomics toronto canada for assistance with sanger
+sequencing genome quebec for pyrotag sequencing and
+the u s department of energy joint genome institute for
+sequencing the first metagenome of these cultures that
+guided subsequent sequencing efforts described herein 
+
+references
+
+abu laban n selesi d jobelius c and meckenstock 
+r u anaerobic benzene degradation by gram 
+positive sulfate reducing bacteria fems microbiol ecol
+ – 
+
+abu laban n selesi d rattei t tischler p and
+meckenstock r u identification of enzymes
+involved in anaerobic benzene degradation by a strictly
+anaerobic iron reducing enrichment culture environ
+microbiol – 
+
+adrian l and görisch h microbial transformation of
+chlorinated benzenes under anaerobic conditions res
+microbiol – 
+
+altschul s f gish w miller w myers e w and lipman 
+d j basic local alignment search tool mol biol 
+ – 
+
+brock t d and o’dea k amorphous ferrous sulfide
+as a reducing agent for culture of anaerobes appl environ
+microbiol – 
+
+brown c t hug l a thomas b c sharon i castelle 
+c j singh a et al unusual biology across a
+group comprising more than of domain bacteria 
+nature – 
+
+burland s m and edwards e a anaerobic benzene
+biodegradation linked to nitrate reduction appl environ
+microbiol – 
+
+caldwell m e and suflita j m detection of phenol
+and benzoate as intermediates of anaerobic benzene bio 
+degradation under different terminal electron accepting
+conditions environ sci technol – 
+
+caporaso j g kuczynski j stombaugh j bittinger k 
+bushman f d costello e k et al qiime allows
+analysis of high throughput community sequencing data 
+nat methods – 
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+coates j d chakraborty r and mcinerney m j 
+anaerobic benzene biodegradation – a new era res
+microbiol – 
+
+da silva m l b and alvarez p j j 
+enhanced anaerobic biodegradation of benzene toluene 
+ethylbenzene xylene ethanol mixtures in bioaugmented
+aquifer columns appl environ microbiol – 
+
+da silva m l b and alvarez p j j assessment of
+anaerobic benzene degradation potential using s rrna
+gene targeted real time pcr environ microbiol – 
+
+davis j w klier n j and carpenter c l natural
+biological attenuation of benzene in ground water beneath
+a manufacturing facility ground water – 
+
+devine c e identification of key organisms genes
+and pathways in benzene degrading methanogenic cul 
+tures toronto canada university of toronto chem eng
+and appl chem url http hdl handle net 
+
+edgar r c muscle multiple sequence alignment
+with high accuracy and high throughput nucleic acids res
+ – 
+
+edgar r c search and clustering orders of magni 
+tude faster than blast bioinformatics – 
+
+edwards e a and grbić galić d complete
+mineralization of benzene by aquifer microorganisms
+under strictly anaerobic conditions appl environ microbiol
+ – 
+
+edwards e a and grbić galić d anaerobic degra 
+dation of toluene and o xylene by a methanogenic consor 
+tium appl environ microbiol – 
+
+elshahed m s najar f z aycock m qu c roe b a 
+and krumholz l r metagenomic analysis of the
+microbial community at zodletone spring oklahoma 
+insights into the genome of a member of the novel candi 
+date division od appl environ microbiol –
+ 
+
+engelbrektson a kunin v wrighton k c zvenigorodsky 
+n chen f ochman h and hugenholtz p 
+experimental factors affecting pcr based estimates of
+microbial species richness and evenness isme j –
+ 
+
+gilbert j jansson j and knight r the earth
+microbiome project successes and aspirations bmc biol
+ 
+
+glöckner j kube m shrestha p m weber m glöckner 
+f o reinhardt r and liesack w phylogenetic
+diversity and metagenomics of candidate division op 
+environ microbiol – 
+
+godon j j morinière j moletta m gaillac m bru v 
+and delgènes j p rarity associated with specific
+ecological niches in the bacterial world the ‘synergistes’
+example environ microbiol – 
+
+grbić galić d and vogel t m transformation of
+toluene and benzene by mixed methanogenic cultures 
+appl environ microbiol – 
+
+haas b j gevers d earl a m feldgarden m ward 
+d v giannoukos g et al chimeric s rrna
+sequence formation and detection in sanger and 
+pyrosequenced pcr amplicons genome res –
+ 
+
+hanshew a s mason c j raffa k f and currie c r 
+ minimization of chloroplast contamination in s
+
+rrna gene pyrosequencing of insect herbivore bacterial
+communities j microbiol methods – 
+
+harris j k kelley s t and pace n r new per 
+spective on uncultured bacterial phylogenetic division
+op appl environ microbiol – 
+
+harwood c s and canale parola e ecology of
+spirochetes annu rev microbiol – 
+
+huber t faulkner g and hugenholtz p bellero 
+phon a program to detect chimeric sequences in multiple
+sequence alignments bioinformatics – 
+
+johnson s j woolhouse k j prommer h barry d a 
+and christofi n contribution of anaerobic microbial
+activity to natural attenuation of benzene in groundwater 
+eng geol – 
+
+kasai y takahata y manefield m and watanabe k 
+ rna based stable isotope probing and isolation of
+anaerobic benzene degrading bacteria from gasoline 
+contaminated groundwater appl environ microbiol 
+ – 
+
+kazumi j caldwell m e suflita j m lovley d r and
+young l y anaerobic degradation of benzene in
+diverse anoxic environments environ sci technol 
+ – 
+
+kleinsteuber s schleinitz k m breitfeld j harms h 
+richnow h h and vogt c molecular characteri 
+zation of bacterial communities mineralizing benzene
+under sulfate reducing conditions fems microbiol ecol
+ – 
+
+klindworth a pruesse e schweer t peplies j quast 
+c horn m and glöckner f o evaluation of
+general s ribosomal rna gene pcr primers for classi 
+cal and next generation sequencing based diversity
+studies nucleic acids res e 
+
+koressaar t and remm m enhancements and
+modifications of primer design program primer 
+bioinformatics – 
+
+kunin v engelbrektson a ochman h and hugenholtz p 
+ wrinkles in the rare biosphere pyrosequencing
+errors can lead to artificial inflation of diversity estimates 
+environ microbiol – 
+
+lawrence s j description properties and degrada 
+tion of selected volatile organic compounds detected in
+ground water – a review of selected literature u s geo 
+logical survey url http pubs usgs gov ofr 
+
+lovley d woodward j and chapelle f rapid
+anaerobic benzene oxidation with a variety of chelated
+fe iii forms appl environ microbiol – 
+
+lovley d r potential for anaerobic bioremediation of
+btex in petroleum contaminated aquifers j ind microbiol
+biotechnol – 
+
+lozupone c and knight r unifrac a new
+phylogenetic method for comparing microbial communities 
+appl environ microbiol – 
+
+mancini s a devine c e elsner m nandi m e ulrich 
+a c edwards e a and sherwood lollar b iso 
+topic evidence suggests different initial reaction mecha 
+nisms for anaerobic benzene biodegradation environ sci
+technol – 
+
+nales m butler b j and edwards e a anaerobic
+benzene biodegradation a microcosm survey bioremediat
+j – 
+
+microbes involved in anaerobic benzene activation 
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+microbes involved in anaerobic benzene activation 
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+
+noguchi m kurisu f kasuga i and furumai h 
+time resolved dna stable isotope probing links
+desulfobacterales and coriobacteriaceae related bacteria
+to anaerobic degradation of benzene under methanogenic
+conditions microbes environ – 
+
+oka a r phelps c d mcguinness l m mumford a 
+young l y and kerkhof l j identification of criti 
+cal members in a sulfidogenic benzene degrading consor 
+tium by dna stable isotope probing appl environ microbiol
+ – 
+
+peura s eiler a bertilsson s nykanen h tiirola m 
+and jones r i distinct and diverse anaerobic bac 
+terial communities in boreal lakes dominated by candidate
+division od isme j – 
+
+phillips t seech a lee h and trevors j bio 
+degradation of hexachlorocyclohexane hch by microor 
+ganisms biodegradation – 
+
+ramos padrón e bordenave s lin s bhaskar i m 
+dong x sensen c w et al carbon and sulfur
+cycling by microbial communities in a gypsum treated
+oil sands tailings pond environ sci technol –
+ 
+
+rinke c schwientek p sczyrba a ivanova n n 
+anderson i j cheng j f et al insights into the
+phylogeny and coding potential of microbial dark matter 
+nature – 
+
+sakai n kurisu f yagi o nakajima f and yamamoto 
+k identification of putative benzene degrading bac 
+teria in methanogenic enrichment cultures j biosci bioeng
+ – 
+
+ulrich a c and edwards e a physiological and
+molecular characterization of anaerobic benzene 
+degrading mixed cultures environ microbiol – 
+
+untergasser a cutcutache i koressaar t ye j 
+faircloth b c remm m and rozen s g 
+primer – new capabilities and interfaces nucleic acids
+res e 
+
+vogt c kleinsteuber s and richnow h h anaero 
+bic benzene degradation by bacteria microb biotechnol 
+ – 
+
+wang q garrity g m tiedje j m and cole j r 
+naïve bayesian classifier for rapid assignment of rrna
+sequences into the new bacterial taxonomy appl environ
+microbiol – 
+
+weiner j m and lovley d r anaerobic benzene
+degradation in petroleum contaminated aquifer sediments
+after inoculation with a benzene oxidizing enrichment appl
+environ microbiol – 
+
+wright e s yilmaz l s and noguera d r deci 
+pher a search based approach to chimera identification
+for s rrna sequences appl environ microbiol –
+ 
+
+wrighton k c thomas b c sharon i miller c s 
+castelle c j verberkmoes n c et al fermenta 
+tion hydrogen and sulfur metabolism in multiple unculti 
+vated bacterial phyla science – 
+
+yarza p yilmaz p pruesse e glockner f o ludwig w 
+schleifer k h et al uniting the classification
+of cultured and uncultured bacteria and archaea using
+
+ s rrna gene sequences nat rev microbiol –
+ 
+
+van der zaan b m talarico saia f stams a j m plugge 
+c m de vos w m smidt h et al anaerobic
+benzene degradation under denitrifying conditions 
+peptococcaceae as dominant benzene degraders and evi 
+dence for a syntrophic process environ microbiol 
+ – 
+
+zhang t bain t s nevin k p barlett m a and lovley 
+d r anaerobic benzene oxidation by geobacter
+species appl environ microbiol – 
+
+supporting information
+
+additional supporting information may be found in the online
+version of this article at the publisher’s web site 
+
+fig s percentage of total non chimeric clones repre 
+sented by different otus in rflp analysis using restriction
+enzyme mspi 
+fig s sample rflp gels showing patterns after digestion
+with mspi a and after a second digestion with hinfi b 
+revealing existence of two variants namely orm a and
+orm b 
+fig s alignment of seven partial orm like s rrna
+gene sequences corresponding to otus orm a and
+orm b 
+fig s a maximum likelihood tree of organisms related to
+od 
+fig s rarefaction measure of the culture lineage or b a
+by richness and shannon 
+fig s alignments of the various general primers used in
+this study f r for pyrotag amplicon sequencing f 
+ r for archaeal qpcr and f r for bacterial
+qpcr against the most abundant sequences retrieved from
+clone libraries and metagenomes 
+fig s methane production and benzene concentrations
+over time in each individual long term monitoring culture
+bottle 
+table s a list of samples used for dna extraction and
+related data analysis 
+table s primers used in the current study 
+table s excel file – pyrotag data abundant otus iden 
+tified in pyrotag sequencing the taxon assignment close
+relatives in gene bank and their relative abundance in differ 
+ent dna samples 
+table s excel file – qpcr srrna gene copies for
+orm a and b od methanoregula bacteria and
+archaea measure over time during benzene degradation in
+cultures with and inoculum from orb a 
+table s pearson correlation coefficients determined
+between the abundance of specific microbial groups and
+benzene consumption or methane generation 
+table s estimates of doubling times 
+table s biomass yield estimations by specific microbial
+group and overall microbial community tables s a s b 
+s c and s d 
+table s standard curves and efficiencies of qpcr
+reactions 
+
+ f luo c e devine and e a edwards
+
+© society for applied microbiology and john wiley sons ltd environmental microbiology
+
+ f luo c e devine and e a edwards
+
+vc society for applied microbiology and john wiley sons ltd environmental microbiology – 
+
+
+

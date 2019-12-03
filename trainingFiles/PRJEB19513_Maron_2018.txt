@@ -1,0 +1,1367 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+high microbial diversity promotes soil ecosystem functioning
+
+pierre alain maron a amadou sarr a aurore kaisermann a jean lévêque b olivier mathieu b julien guigue b battle karimi a
+
+laetitia bernard c samuel dequiedt a sébastien terrat a abad chabbi d lionel ranjarda
+
+aumr agroécologie agrosup dijon inra université de bourgogne franche comté dijon france
+bumr cnrs ub biogéosciences université de bourgogne franche comté dijon france
+cinstitut de recherche pour le développement umr eco sols montpellier france
+dumr ecosys inra agroparistech université paris saclay thiverval grignon france
+
+abstract in soil the link between microbial diversity and carbon transformations
+is challenged by the concept of functional redundancy here we hypothesized that
+functional redundancy may decrease with increasing carbon source recalcitrance and
+that coupling of diversity with c cycling may change accordingly we manipulated
+microbial diversity to examine how diversity decrease affects the decomposition of
+easily degradable i e allochthonous plant residues versus recalcitrant i e autoch 
+thonous organic matter c sources we found that a decrease in microbial diversity i 
+affected the decomposition of both autochthonous and allochthonous carbon sources 
+thereby reducing global co emission by up to and ii shaped the source of
+co emission toward preferential decomposition of most degradable c sources our
+results also revealed that the significance of the diversity effect increases with nu 
+trient availability altogether these findings show that c cycling in soil may be more
+vulnerable to microbial diversity changes than expected from previous studies par 
+ticularly in ecosystems exposed to nutrient inputs thus concern about the preser 
+vation of microbial diversity may be highly relevant in the current global change
+context assumed to impact soil biodiversity and the pulse inputs of plant residues
+and rhizodeposits into the soil 
+
+importance with hundreds of thousands of taxa per gram of soil microbial diver 
+sity dominates soil biodiversity while numerous studies have established that microbial
+communities respond rapidly to environmental changes the relationship between mi 
+crobial diversity and soil functioning remains controversial using a well controlled labo 
+ratory approach we provide empirical evidence that microbial diversity may be of high
+significance for organic matter decomposition a major process on which rely many of
+the ecosystem services provided by the soil ecosystem these new findings should
+be taken into account in future studies aimed at understanding and predicting the
+functional consequences of changes in microbial diversity on soil ecosystem services
+and carbon storage in soil 
+
+keywords microbial diversity soil organic matter priming effect functional
+redundancy carbon mineralization
+
+biodiversity enhances ecosystem stability and productivity this assumption hasbeen broadly verified for plant communities thanks to the vast body of evidence
+from more than years of studies most of which were based on the manipulation
+of taxonomic diversity and or diversity of functional groups – compared to plant
+ecology microbial ecology is still lacking demonstrations of the relationship between
+biodiversity and function consequently while it is widely recognized that
+microorganisms perform a crucial role in many key ecosystem functions involved in soil
+fertility and environmental and water quality the importance of microbial diversity
+is still debated however this question is critical when the impact of climatic
+
+received december accepted 
+february 
+
+accepted manuscript posted online 
+february 
+
+citation maron p a sarr a kaisermann a 
+lévêque j mathieu o guigue j karimi b 
+bernard l dequiedt s terrat s chabbi a 
+ranjard l high microbial diversity
+promotes soil ecosystem functioning appl
+environ microbiol e https doi
+ org aem 
+
+editor harold l drake university of bayreuth
+
+copyright © american society for
+microbiology all rights reserved 
+
+address correspondence to pierre alain maron 
+pierre alain maron inra fr 
+
+environmental microbiology
+
+crossm
+
+may volume issue e aem asm org applied and environmental microbiology
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org aem 
+https doi org aem 
+https doi org asmcopyrightv 
+mailto pierre alain maron inra fr
+http crossmark crossref org dialog doi aem domain pdf date stamp 
+http aem asm org
+http aem asm org 
+
+
+changes and land management – on microbial diversity in soil ecosystems is
+considered 
+
+with hundreds of thousands of taxa per gram of soil microbial diversity dominates
+soil biodiversity due to this enormous diversity functional redundancy within the
+soil microbial component is assumed to be very high so high in fact that it is still
+widely assumed that community diversity and composition are decoupled from func 
+tioning nevertheless functional redundancy may vary between the numerous
+processes driven by soil microorganisms more precisely processes carried out by
+small pools of microbial species might be more affected by changes in diversity than
+processes involving large numbers of microbial taxa within the soil microbial
+community the decomposition of organic matter is one of the most redundant
+functions since most soil microorganisms can be broadly grouped as heterotrophs 
+such high redundancy was evidenced by several studies which reported that microbial
+diversity had no influence on a global estimation of organic matter decomposition
+based on total co release however total co release integrates a large range
+of emission sources ranging from labile to recalcitrant c organic compounds and the
+enzymatic capacities required to degrade recalcitrant compounds compared to more
+labile c compounds are provided by only a small pool of microbial species 
+this suggests that functional redundancy may decrease with increasing carbon source
+recalcitrance and that coupling of diversity with c cycling may change accordingly as
+a result modifications in microbial diversity may not necessarily affect the intensity of
+the broad co flux itself but rather the composition of this flux in terms of the
+relative contributions of co emitted from labile versus recalcitrant c sources studies
+providing such evidence should be highly relevant to predicting how much the current
+impact of anthropogenic activities and of climate changes on soil microbial diversity is
+likely to affect the carbon balance in soil 
+
+the aim of this study was to investigate the impact of changes in microbial diversity
+ bacteria and fungi on the decomposition of different c substrates in soil we hypoth 
+esized that a decrease in microbial diversity would have less effect on the decompo 
+sition of allochthonous easily degradable c sources than on more recalcitrant autoch 
+thonous c sources to test this hypothesis we took advantage of the particularities of
+the soil microbial component i e microscopic size and high growth rates which make
+it a highly suitable model that is easy to manipulate for testing a diversity function
+hypothesis under controlled conditions we simulated an erosion of soil microbial
+diversity by using a dilution to extinction approach in a microcosm experiment 
+this approach has advantages over other possible ways of manipulating diversity such
+as community construction in that i it allows manipulation irrespective of the
+cultivability of the microbial species and ii it leads to the establishment of highly
+complex communities composed of several hundreds of different species which is
+realistic with regard to the huge genetic diversity that characterizes the soil microbial
+world c labeled wheat residues were used as allochthonous carbon input to distin 
+guish the relative contributions of mineralization from allochthonous c co and
+autochthonous c co carbon sources according to microbial diversity 
+
+results
+microbial biomass microbial molecular biomass levels at time zero t i e after 
+
+weeks of preincubation were similar at all the three levels of diversity d to d fig 
+ in the control microcosms microbial biomass levels did not evolve with time and
+remained similar between d d and d at each sampling date throughout the 
+days of incubation p � likewise similar bacterial and fungal densities were
+observed at the three diversity levels by quantitative pcr qpcr see fig s in the
+supplemental material incorporation of wheat residues increased microbial biomass in
+the amended microcosms with significantly higher values than in controls occurring up
+to days of incubation p � however the increases in d d and d were
+similar and no difference of biomass was observed according to the diversity level
+irrespective of the time of incubation time similarly the bacterial and fungal densities
+
+maron et al applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+estimated by quantitative pcr of the s and s rrna genes did not differ between
+d d and d irrespective of the time of incubation fig s 
+
+diversity of bacterial and fungal communities the numbers of sequences re 
+tained for each sample after the bioinformatics filters were for bacteria and 
+for fungi the number of sequences between the samples was standardized to allow
+comparison of the diversity metrics between the three levels of diversity for
+bacterial communities the operational taxonomic unit otu richness was decreased by
+ in d compared to the level in the native community this decrease was associated
+with a higher dominance of otus affiliated to firmicutes and beta and gammaproteo 
+bacteria and a decrease of in the levels of acidobacteria actinobacteria planctomycetes 
+chloroflexi gemmatimonadetes and deltaproteobacteria fig a when the diversity
+gradient was considered the average otu richness decreased significantly p � 
+that is by and in d and d respectively compared to the level of d 
+
+fig soil microbial biomass in control and wheat amended microcosms for each of the three levels of diversity d d 
+and d during the incubation error bars denote standard deviations of biological replicates n � 
+
+fig relative abundances of bacterial a and fungal b phyla for the native community and each level of diversity d high d medium d low at t only
+phylogenetic groups with a relative abundance of � are shown abundance of each phylum was determined from n � biological replicates 
+
+microbial diversity affects carbon cycling applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+ table in the same way the shannon and evenness diversity indices evidenced a
+decrease in bacterial diversity along the dilution gradient and better evenness in the
+most species rich communities as observed between d and the native community 
+the decrease of evenness along the diversity gradient was associated with an increase
+in the dominance of otus affiliated to beta and gammaproteobacteria and a decrease
+of acidobacteria actinobacteria planctomycetes gemmatimonadetes chloroflexi and
+deltaproteobacteria fig a 
+
+the diversity metrics of the fungal communities in the native and the most species 
+rich community d were similar table composition at the phylum level was
+slightly different mainly due to an increase of ascomycota and a decrease of basidi 
+omycota in d fig b as described above for bacteria the diversity of the fungal
+community also decreased with increased dilution as evidenced by i the average otu
+richness which decreased significantly p � by and in d and d 
+respectively compared to the level in d and ii the values of the shannon index
+ table evenness of the fungal communities also decreased with decreasing diversity 
+this was mainly due to the increased dominance of otus affiliated to basidiomycota
+over ascomycota along the diversity gradient fig b 
+
+the complexity of the microbial community bacteria and fungi was lower in d 
+than in the native community as evidenced by the values of the microbial cooccur 
+rence indices table this was due to the decreased number of bacterial links but not
+of fungal links contributing to the network as indicated above for the diversity metrics 
+the complexity of the microbial network decreased with dilution in terms of the
+number of nodes and links however values for the balance between positive and
+negative links were similar in all communities of the gradient at the level of the native
+community 
+
+soil and wheat residue c mineralization in the control microcosms cumulative
+soil respiration rs levels were similar for d and d but significantly decreased in d 
+the lowest diversity level p � fig a this lower level was mainly ascribed to a
+lower respiration during the first days of incubation than the rates for d and d fig 
+ a after days the respiration rates no longer differed between the three diversity
+levels at the end of the incubation � mg g� soil c co had been emitted
+in d which was significantly lower by and than the values recorded for d 
+ � mg g� and d � mg g� respectively p � 
+
+wheat residue incorporation significantly increased respiration irrespective of the
+soil diversity level fig a however the stimulation of co release increased with
+increasing microbial diversity p � leading to a clear gradient of respiration with
+d � d � d more precisely at the end of incubation the total c co emitted from
+the amended microcosms rt ranged from � d to � d and
+ � d mg g� soil corresponding to decreases in c co release of and
+ respectively in d and d compared to the d level analysis of the difference
+between the respiration levels in control and wheat amended microcosms for each of
+
+table diversity and microbial cooccurrence network indices of the microbial communitiesa
+
+level of
+diversityb
+
+index of diversity by community
+
+microbial cooccurrencedbacteria fungi
+
+richnessc
+shannon
+index
+
+evenness
+index richness
+
+shannon
+index
+
+evenness
+index nb nodes
+
+total no 
+of links
+
+no of
+bacterial
+links
+
+no of
+fungal
+links b f p n
+
+native � a � a � a � a � ab � a 
+d � b � b � b � a � a � a 
+d � c � b � b � a � ab � a 
+d � c � c � c � b � b � a 
+avalues were calculated from the sequencing data for the native community and for each level of diversity at t i e the end of the weeks of preincubation for
+each level of diversity values with different letters differ significantly p � values are expressed as means � standard deviation n � biological replicates 
+
+bd high d medium d low 
+crichness refers to the number of otus defined at the genus level 
+dnb nodes number of taxa connected in the network bacterial links and fungal links links involving respectively bacteria only and fungi only b f ratio between the
+numbers of bacterial and fungal links p n ratio between the numbers of positive and negative links in the cooccurrence network 
+
+maron et al applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+the three levels of diversity fig b evidenced three distinct periods as follows i an
+initial early phase represented by the first week following wheat incorporation and
+characterized by similar increases in respiration for each of the three diversity levels ii 
+a second phase between and days during which the respiration increase was
+significantly higher in d than in d and d and iii a third and later phase from 
+to days characterized by a gradient in the respiration increase which followed the
+gradient of diversity 
+
+the increased c co release in amended microcosms was explained in part by
+wheat residue decomposition rr which occurred in all three diversity levels fig a 
+however wheat mineralization increased significantly with increasing soil microbial
+diversity p � and at t days about and of the wheat residues
+had been mineralized respectively in the high medium and low diversity levels d 
+d and d respectively interestingly the difference in residue mineralization be 
+tween the three diversity levels increased with time fig a 
+
+fig a cumulative total soil respiration over days in control dashed lines and wheat amended solid lines microcosms for the three levels of diversity 
+black high diversity d dark gray medium diversity d light gray low diversity d b difference between respiration levels of control and wheat amended
+microcosms for the three levels of diversity for each incubation time and level of diversity values with different letters differ significantly p � the inset
+in panel a represents a focus on the first days to visualize the early shifts error bars denote standard deviations of biological replicates n � 
+
+fig cumulative respiration of wheat residues a and cumulative priming effect b were measured during days of incubation for the three levels of
+diversity d high diversity d medium diversity d low diversity for each incubation time and level of diversity values with different letters differ
+significantly p � insets represent a focus on the first days to visualize the early shifts error bars denote standard deviations of biological replicates
+ n � 
+
+microbial diversity affects carbon cycling applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+the release of c co i e c co emitted through mineralization of the autoch 
+thonous carbon source was also significantly stimulated compared to the control level 
+following wheat residue incorporation this pointed to a priming effect pe of native
+soil organic matter which also contributed significantly to the increased c co release
+observed in amended microcosms fig b this pe occurred at all the three diversity
+levels but its intensity was significantly and positively related to the diversity of the soil
+microbial community p � fig b at the end of the incubation pe represented
+ and mg c g� soil corresponding to increases of � � 
+and � in autochthonous carbon decomposition for d d and d respec 
+tively in addition to the absolute amount of c co emitted through pe the amount of
+c co emitted by pe per unit of wheat organic carbon c wheat residue mineralized
+was also dependent on the diversity level ranging from � mg g� for d to
+ � mg g� for d and � mg g� for d this indicated that for a
+given quantity of c wheat residue mineralized the quantity of c co released through
+pe increased with increasing soil microbial diversity 
+
+in amended microcosms microbial diversity also impacted the composition of total
+co flux in terms of the relative contribution of c co emitted from allochthonous
+wheat residues versus an autochthonous carbon source fig and table s most
+markedly the contribution of c co emitted from wheat residues was significantly
+higher in the species poor communities in d and d than in d up to weeks 
+
+discussion
+community manipulation decreased microbial diversity in soil the aim of our
+
+study was to evaluate the effect of microbial diversity on carbon transformations in soil 
+to this end we manipulated experimentally the diversity of a soil microbial community
+using a dilution to extinction approach 
+
+compared to the native community the fungal community that established in the
+highest diversity level d harbored similar characteristics in terms of richness and
+complexity in contrast and despite the high values of diversity indices the diversity of
+the bacterial community was lower in d than in the native community this decrease
+was explained by a lower abundance of phyla reported to be mainly composed of
+
+fig relative contribution of allochthonous versus autochthonous carbon sources to total co emission bars and cumulative total soil respiration in
+wheat amended microcosms curves during days of incubation for the three levels of diversity d high d medium d low for each incubation time
+and level of diversity values with different letters differ significantly p � error bars denote standard deviations of biological replicates n � 
+
+maron et al applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+slow growing organisms such as acidobacteria actinobacteria planctomycetes chloro 
+flexi and gemmatimonadetes – and an increased dominance of particular pop 
+ulations described as fast growing r strategists mainly affiliated to proteobacteria
+ mostly the alphaproteobacteria and gammaproteobacteria subclasses of proteobacte 
+ria and firmicutes – altogether the shifts in diversity observed between the d 
+and the native communities highlighted the finding that colonization impacted the
+bacterial community more than the fungal community the observed changes are
+in agreement with the commonly accepted idea that bacteria are generally more
+opportunistic than fungi due to differences in physiology and metabolic capacities
+ 
+
+the dilution to extinction approach was successful in establishing gradients of
+bacterial and fungal diversity among the three diversity levels with d � d � d 
+ table it was clearly apparent that the decreased diversity could be ascribed to a loss
+of the least abundant i e rare species at the moment of dilution as evidenced by the
+richness index which was decreased by and for bacteria and by and 
+for fungi in d and d respectively compared to levels in d however the ecological
+attributes of the inoculated populations may also have determined the fitness of these
+populations during soil colonization and hence determined the diversity of the finally
+established community this may explain why the differences between the three
+diversity levels did not simply result from the arithmetic loss of microbial populations
+due to dilution more precisely the decrease of evenness observed for bacterial
+and fungal communities along the diversity gradient highlighted the finding that
+dilution led to the increased dominance of a particular subset of microbial populations
+at the end of colonization in agreement with previous studies however the
+composition of the established communities suggested that the mechanisms that
+determined the success of the microbial populations in colonizing the soil differed
+between bacteria and fungi 
+
+for bacteria evenness was decreased along the gradient due to the increased
+dominance of the most opportunistic fast growing r strategists over the slower 
+growing populations interestingly the same phyla were involved as the phyla dis 
+cussed above that differed between the native and d communities this suggests
+that the growth rate may have been the main determinant of the success of bacterial
+populations during soil colonization in contrast for fungi the decrease of evenness was
+mainly associated with an increased dominance of basidiomycota over ascomycota 
+both phyla are reported to be major contributors to c cycling in soil however 
+basidiomycota are assumed to possess improved metabolic capacities over ascomycota
+for decomposing more recalcitrant soil c compounds accordingly our results
+suggest that the success of the fungal populations during the colonization phase may
+have been determined more by their metabolic abilities than by their growth rates it
+is noticeable that this difference in colonization strategy between bacteria and fungi
+led to an increase in the relative importance of fungi in determining the properties of
+the microbial network in the inoculated soils as evidenced by the decrease in the ratio
+of the numbers of bacterial to fungal links in d d and d 
+compared to the ratio in the native community however in our study this did
+not impact labile carbon availability in the three diversity levels based on the size of the
+dissolved organic carbon pool as estimated by applying the method of guigue et al 
+ at t the carbon pools were similar for d � �g g� soil d � 
+�g g� soil and d � �g g� soil 
+
+in spite of large differences in terms of the levels of bacterial and fungal diversity 
+the microbial biomasses and densities at t were similar for all three diversity levels fig 
+ this indicated that after inoculation the microbial communities developed until the
+soil carrying capacity was attained which was not dependent on the diversity
+of the soil microbial community the microbial biomass in the controls remained stable
+throughout the experiment but was similarly increased by the addition of wheat
+residues in all three diversity levels the possibility that any further observed shifts in
+
+microbial diversity affects carbon cycling applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+respiration rates with dilution would be due to a community biomass effect could
+therefore be excluded 
+
+decrease in microbial diversity affects the decomposition of allochthonous and
+autochthonous carbon sources high microbial diversity generally stimulated the
+decomposition of both autochthonous and allochthonous carbon sources fig and 
+in the controls basal respiration i e autochthonous organic matter decomposition 
+was not affected by the decrease of microbial diversity at the two highest diversity
+levels d and d fig a in agreement with the functional redundancy hypothesis
+ however respiration decreased by in the most species poor community d 
+compared to that of d highlighting the limits of functional redundancy to buffer the
+effect of diversity loss on ecosystem processes this was unexpected however 
+since previous studies had not shown any impact of an even greater decrease in
+microbial diversity on basal respiration this discrepancy with previously
+published data may be attributed to our experimental design which included mechan 
+ical mixing of the soil in the controls to mimic the disturbance associated with the
+incorporation of wheat residues in amended microcosms mechanical disturbance is
+known to release additional c substrates due to the disruption of soil aggregates and
+hence to increase nutrient availability for microbes particularly during the first days
+following the perturbation such a transitory increase of nutrient availability may
+have contributed to the functional dissimilarity observed in the lowest diversity level
+ d during the first week of incubation in agreement with van der heijden et al 
+who proposed that the relationship between microbial diversity and ecosystem func 
+tioning may differ between nutrient poor and nutrient rich ecosystems the impor 
+tance of nutrient availability was verified in recent studies that reported an increase of
+the diversity effect with increasing nutrient availability for denitrification or of microbial
+stability following disturbance 
+
+in our study an increase of the functional significance of microbial diversity with
+increasing nutrient availability was further evidenced by the results obtained in wheat 
+amended microcosms as expected c co release was increased following wheat
+residue input corresponding to the input of an easily degradable c substrate 
+which stimulated microbial biomass during the first weeks of incubation fig 
+however whereas the increases in microbial biomass were similar at all three diversity
+levels decreasing microbial diversity had a strong and highly significant effect on
+decreasing c co emission in contrast to the above mentioned results obtained for
+basal respiration no saturation effect was observed in amended microcosms since the
+total c co released after days was decreased respectively by and in d 
+and d compared to the d level fig a altogether our results indicate that
+functional redundancy may have been overestimated and that c transformations in soil
+may be more sensitive to microbial diversity changes than previously expected par 
+ticularly in ecosystems exposed to nutrient inputs 
+
+interestingly the difference in c co delta c co amounts released between the
+controls and their respective amended treatments for each of the three diversity levels
+increased with time fig b we suggest that this increase of functional dissimilarity
+between the three diversity levels with time may in part be explained by i the
+chemical and structural complexity of the allochthonous c source and ii the sequential
+decomposition of the different components of wheat residues that occurred during the
+degradation process from labile i e sugars to more recalcitrant i e lignin com 
+pounds while the labile fraction of wheat residues provides easily available c and
+energy sources for many microorganisms i e highly redundant function the cometa 
+bolic nature of lignin breakdown depends on energy providing processes and requires
+a specific set of enzymes and microbial populations i e weakly redundant function 
+ accordingly during the first week of decomposition similar values of delta
+c co were observed at all three diversity levels reflecting the availability and decom 
+position of the most degradable wheat compounds after days the decrease of delta
+c co observed in d and d compared to that of d may reflect the increased
+recalcitrance of residues due to prior decomposition of the most degradable com 
+
+maron et al applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+pounds hence requiring more specialized functions carried out by a less redundant
+community and more likely to be represented in the most species rich community 
+finally the gradient observed of d � d � d after days may be explained by the
+subsequent increased recalcitrance of the remaining residues altogether these results
+show that functional redundancy decreases with increasing carbon source recalci 
+trance leading to an increased effect of biodiversity with time following allochthonous
+c source inputs to our knowledge the dynamic of the diversity effect following an
+allochthonous c source input has not been reported previously however it may be
+highly relevant in the current global change context assumed to impact the pulse
+inputs of plant residues and rhizodeposits into the soil 
+
+in addition to co emitted from wheat decomposition the stimulation of autoch 
+thonous carbon mineralization after wheat residue addition to the soil i e the priming
+effect also contributed significantly to the increased co release in amended micro 
+cosms fig b this was in agreement with numerous studies that reported a pe
+following the incorporation of plant residues into the soil – however here we
+provide the proof of concept that pe is positively dependent on microbial diversity
+since it decreased along the diversity gradient fig b this diversity effect was highly
+significant since autochthonous c mineralization was higher in d than in d in
+addition to the amount of c co emitted through pe the efficiency of c wheat to
+produce c co through pe increased with increasing microbial diversity and
+ c unit were emitted per unit of c wheat mineralized in d d and d respec 
+tively different microbial mechanisms have been proposed to explain the pe 
+ however in our study involving an erosion of microbial diversity the differences in
+pes and better efficiency observed according to diversity may be mainly explained by
+an increased cometabolism process in species rich communities with autochthonous c
+decomposers i e k strategist populations carrying a specific set of enzymes more
+likely to be present in species rich communities and degrading recalcitrant soil organic
+matter som compounds by using the allochthonous c source as energy source 
+
+the dynamics of the ratio between c co released from allochthonous sources to
+that from autochthonous c sources provided additional interesting information in this
+sense fig according to our hypothesis the relative contribution of c co emitted
+from the allochthonous c source was increased in the most depauperate communities
+ d and d up to weeks after wheat residue incorporation into the soil indicating
+that species poor communities preferentially decomposed the more degradable alloch 
+thonous c sources rather than the autochthonous c source however after weeks 
+similar values of this ratio were observed at all three diversity levels probably resulting
+from the establishment of limiting conditions due to nutrient depletion and a higher
+recalcitrance of the remaining residues which were becoming close to the recal 
+citrance of the autochthonous c sources 
+
+in our study based on the use of the dilution to extinction approach to manipulate
+bacterial and fungal diversity it must be kept in mind that higher trophic level
+organisms i e specialized predators like protozoa are likely to have been influenced
+most by dilution because these organisms are less abundant in soil food webs 
+more precisely considering that protozoa are present at an average density of g� 
+
+soil in most soils they may have been weakly present in d dilution � compared
+to their levels in d and d given the importance of these organisms for ecosystem
+functions for a review see reference the loss of protozoa in addition to the erosion
+of the fungal and bacterial diversity discussed above may have contributed to the
+changes in c co emissions observed among the three diversity levels the loss of
+protozoa may indeed possibly have decreased the availability of macronutrients in d 
+through the decrease of the release of n by bacterivores and or the immobilization of
+n in the microbial biomass due to lower stimulation of microbial activity and turnover 
+hence limiting the mineralization of organic carbon 
+
+this food web hypothesis may explain the slight decrease of mineralization ob 
+served in d compared to that of the two other diversity levels in the controls 
+however it cannot explain the gradient of mineralization observed following wheat
+
+microbial diversity affects carbon cycling applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+addition between d d and d despite the presence of protozoa in d and d in
+addition it was globally estimated in a recent meta analysis that grazing decreases the
+soil microbial biomass and bacterial abundance by and respectively in our
+study neither the microbial biomass nor the bacterial density was decreased between
+the three diversity levels suggesting that the grazing pressures were similar in the
+three diversity levels in another respect our results show that the priming effect
+decreased with the decrease in microbial diversity again this is not in agreement with
+the food web hypothesis since a decrease in macronutrient availability would on the
+contrary have increased the intensity of the pe due to stimulation of the nutrient 
+mining mechanism that has been demonstrated to take place in cases of
+nutrient depletion finally the hypothesis of a decrease of nutrient availability is not in
+agreement with the decrease of the decomposition of lignin following the erosion of
+diversity previously reported in the context of the same experiment limiting 
+nitrogen conditions were on the contrary shown to induce ligninolytic activity 
+altogether these elements highlight the finding that the decrease of mineralization
+observed between d d and d was ascribed to the decrease of microbial diversity
+rather than to the loss of higher trophic levels 
+
+in conclusion our results demonstrate that c cycling in soil may be more vulnerable
+to microbial diversity changes than expected from previous studies they indicate
+mainly i that a decrease of soil microbial diversity affected the decomposition of both
+autochthonous and allochthonous carbon sources hence reducing global co emis 
+sion i e emission from allochthonous and autochthonous sources by up to ii 
+that this decrease in diversity modified the source of co emission toward preferential
+decomposition of allochthonous c substrates and iii that the significance of the
+diversity effect increases with nutrient availability altogether these highly relevant
+new findings should be taken into account in future studies aiming to understand and
+predict the functional consequences of decreased microbial diversity on soil ecosystem
+services and carbon storage in soil particularly in the current context of global changes
+assumed to impact both microbial diversity and the pulse inputs of plant residues and
+rhizodeposits into the soil i e the functional significance of the microbial diversity
+variable in predictive models of c turnover in soil will be increased with the increase of
+c substrate availability the coupling of community diversity with ecosystem function 
+ing also implies that concerns about the need to preserve biodiversity are also relevant
+for soil microbial communities 
+
+materials and methods
+plant culture and c labeling seeds of wheat triticum aestivum cv caphorn were germinated at
+
+ °c in darkness plantlets were grown in a mix of sand and perlite in an airtight chamber which
+allowed accurate regulation of atmospheric gas composition and environmental parameters grap cea
+cadarache france the plants were watered with half diluted hoagland’s nutrient solution and co 
+concentration was maintained at �l liter� the partial pressures of both co and co in the
+chamber were continuously monitored by near infrared spectroscopy to determine c enrichment of
+the co regulation was achieved by automatic injection of pure � atom c co purchased
+from cortecnet paris france the c isotope excess in the chamber was fixed at � atom during
+the first days and at � atom thereafter plants were grown for days i e to maturity the
+roots and shoots were then separated and dried before further use the wheat was thus labeled with c
+at atom and characterized by a c n ratio of only the shoots aerial parts were used for the
+experiment the roots were discarded 
+
+soil soil samples were taken from the top cm of a cambisol on a temporary grassland site part
+of a long term observatory lto for environmental research lusignan lto acbb inra located in the
+southwest of france ° � n ° � e the soil ph in water phh o was and the soil
+contained clay fine silt coarse silt sand � g kg� caco organic c 
+and total n the c n ratio was the soil was sieved at mm and homogenized prior to gamma
+ray sterilization kgy conservatome dagneux france the sterility of the irradiated soil was verified
+by spreading serial dilutions of the soil onto nutrient agar plates 
+
+experimental design microcosms were set up by placing g of dry sterile soil in ml plasma
+flasks sterile soil microcosms were inoculated with suspensions of the same nonsterile soil 
+briefly an initial soil suspension was prepared by mixing g of native soil equivalent dry mass with
+ ml of sterile distilled water using a waring blender after the soil suspension was subjected to
+blending for min at maximum speed it was serially diluted three levels of dilution of the soil
+suspension were used as inocula to create a gradient of diversity i e undiluted d dilution
+
+maron et al applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+ d and dilution d the soil moisture was fixed at water holding capacity after inoculation 
+the microcosms were closed to avoid air contamination and preincubated for weeks at °c i e 
+average autumn temperature at the sampling site with weekly aeration and verification of soil water
+content to allow colonization and stabilization of the inoculated communities in terms of density and
+structure on day t after weeks of preincubation for each diversity level half of the microcosms
+were amended with c labeled wheat residues dried ground to � mm atom c labeled 
+incorporated at a rate of mg g� while the other half were not amended control the wheat residues
+were homogeneously incorporated into the soil by mixing the soil in the control microcosms was also
+mixed at t to avoid any bias due to the mixing step the soil microcosms were then incubated in the
+dark at °c for days during incubation the soil moisture was maintained by replacing weight loss
+with autoclaved reverse osmosis water when necessary in total there were microcosms correspond 
+ing to treatments wheat amended versus control times levels of diversity times sampling dates
+times replicates at t labile carbon availability was determined in triplicate microcosms for each
+diversity level by quantifying the size of the dissolved organic carbon pool after extraction of the
+water extractable organic matter by percolation at high pressure and temperature 
+
+total and c co measurements at t t t t t t t t and t days of incubation the
+gaseous phase of the microcosm was sampled in ml airtight flasks to measure the co concentration
+and in ml airtight flasks to determine the c co enrichment co concentration was determined on
+an agilent gc system equipped with a pora plot q column and a thermal conductivity detector
+coupled to an automatic sampler g headspace sampler agilent carbon isotopic enrichment was
+determined by gas chromatography isotope ratio mass spectrometry gc irms using a trace gas
+interface coupled in continuous flow with a vg isochrom mass spectrometer micromass manchester 
+england for isotopic co a pure bottle co of � n air liquide france previously
+calibrated against a certified isotopic standard � c � � ‰ � ‰ versus the pee dee belemnite
+ pdb standard isotop air liquide was selected as internal standard gas samples were manually
+injected into the trace gas with a gas tight syringe 
+
+by using c labeled plant residues the autochthonous soil c rs and plant residue c rr respiration
+ milligrams of c co kilogram� soil could be calculated from the following mass balance equations 
+rs � rr � rt and rs 	 as � rr 	 ar � rt 	 at where as is the c abundance dimensionless of
+soil carbon ar is the c abundance of plant residue rt is the total co emitted by soil with plant
+residue and at is its c abundance 
+
+the priming effect pe milligrams of c co kilogram� soil induced by the addition of plant residue
+was calculated as pe � rs of soil with plant residue � rs of control soil where rs of control soil was
+the co emitted by control soil 
+
+dna extraction from soil and molecular microbial biomass determination at t t t t and
+t days of incubation dna was extracted from g of soil from all triplicate microcosms of each
+treatment and diversity level and quantified as previously described dna was also extracted from
+triplicates of native soil samples dna concentrations of crude extracts were determined by electropho 
+resis in a agarose gel using a calf thymus dna standard curve and used as estimates of microbial
+molecular biomass after quantification dna was purified using a minelute gel extraction kit
+ qiagen courtaboeuf france 
+
+pyrosequencing of s and s rrna genes bacterial and fungal diversity was determined by 
+pyrosequencing of ribosomal genes in the three replicates of each of the three diversity levels at t i e 
+at the end of the weeks of preincubation and in three replicates of the native soil for bacterial
+communities a s rrna gene fragment with sequence variability and the appropriate size about 
+bases was amplified using the primers f and r for fungal communities an s rrna gene
+fragment of about bases was amplified using the primers fr and ff primers and pcr
+conditions were as described previously finally the pcr products were purified and quantified and
+pyrosequencing was carried out on a gs flx titanium sequencing system roche 
+
+taxonomic assignments and clustering of s and s rrna gene fragments bioinformatics
+analyses were done with gns pipe developed by the genosol platform inra dijon france and
+described previously first all reads were sorted according to the chosen multiplex identifiers then 
+raw reads were filtered and deleted as follows i if the exact primers were not found both at the
+beginning and end of the sequence ii if the sequences contained any ambiguity or iii if the sequence
+length was below and bases for s and s reads respectively a perl program was then
+applied to obtain strict dereplication the dereplicated reads were then aligned using infernal alignments
+ and clustered into operational taxonomic units otu at sequence similarity using a perl
+program that clusters rare reads to abundant ones and does not count differences in homopolymer
+lengths main bias of pyrosequencing technologies another homemade filtering step was then applied
+to eliminate potential sources of error e g pcr chimeras sequencing errors or otu overestimation 
+based on taxonomic results to efficiently compare the data sets and avoid biased community compar 
+isons high quality reads were rarefied by random selection closed to the lowest data sets and
+ reads for s and s rrna gene sequences respectively kept reads were then compared for
+taxonomy based analysis against the silva database version r using similarity approaches use 
+arch finally diversity indexes were determined using the detected taxonomic groups at the genus
+level the numbers of otus and the shannon h and evenness j indexes were used as indicators of
+soil microbial richness diversity and structure respectively 
+
+statistical analysis molecular biomass and diversity indexes were compared between the three
+levels of diversity by applying a nonparametric kruskal wallis test for gaseous data statistical analyses
+were conducted using two way analysis of variance anova and differences between means were
+
+microbial diversity affects carbon cycling applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http aem asm org
+http aem asm org 
+
+
+tested with the fisher test p � these statistical calculations were carried out using xlstat
+software addinsoft paris france microbial cooccurrence networks were built using a previously
+described method for each dilution level and for the native soil the core community of otus in the
+three replicates was used to identify the significant spearman correlations corrected with the false
+discovery rate method p � that were interpreted as nonrandom cooccurrences the bacterial 
+fungal and combined networks were computed to estimate the proportion of links involving bacteria
+only fungi only or both bacteria and fungi the calculation and definition of the network metrics were
+detailed previously in karimi et al 
+
+accession number s the nucleotide sequences determined in this study have been submitted to
+the european bioinformatics institute ebi database under accession number prjeb 
+
+supplemental material
+
+supplemental material for this article may be found at https doi org aem
+ 
+
+supplemental file pdf file mb 
+
+acknowledgments
+this study was financially supported by the french national research agency anr 
+
+under the framework of the anr systerra project dimimos anr stra 
+we thank d warwick for correction and improvement of the english in the manu 
+
+script 
+p a m and l r designed the study a s a k j l o m a c and j g performed the
+
+research s t l b b k and s d performed bioinformatic and statistical analyses p a m 
+wrote the first draft of the manuscript and all authors contributed substantially to the
+revision 
+
+we declare that we have no conflicts of interest 
+
+references
+ lawes jb gilbert jh master mt agricultural chemical and bo 
+
+tanical results of experiments on the mixed herbage of permanent
+grasslands conducted for more than twenty years in succession on the
+same land part ii the botanical results philos trans r soc lond 
+ – 
+
+ balvanera p pfisterer ab buchmann n he js nakashizuka t raffaelli d 
+schmid b quantifying the evidence for biodiversity effects on
+ecosystem functioning and services ecol lett – https doi
+ org j x 
+
+ campbell v murphy g romanuk tn experimental design and the
+outcome and interpretation of diversity stability relations oikos 
+ – https doi org j x 
+
+ delgado baquerizo m maestre ft reich pb jeffries tc gaitan jj enci 
+nar d berdugo m campbell cd singh bk microbial diversity
+drives multifunctionality in terrestrial ecosystems nat commun 
+https doi org ncomms 
+
+ reed he martiny jbh testing the functional significance of mi 
+crobial composition in natural communities fems microbiol ecol 
+ – https doi org j x 
+
+ van der heijden mga bardgett rd van straalen nm the unseen
+majority soil microbes as drivers of plant diversity and productivity in
+terrestrial ecosystems ecol lett – https doi org j
+ x 
+
+ setälä h mclean ma decomposition rate of organic substrates in
+relation to the species diversity of soil saprophytic fungi oecologia
+ – https doi org s y 
+
+ allison sd martiny jbh resistance resilience and redundancy in
+microbial communities proc natl acad sci u s a – 
+https doi org pnas 
+
+ ruess l michelsen a schmidt ik jonasson s simulated cli 
+mate change affecting microorganisms nematode density and bio 
+diversity in subarctic soils plant soil – https doi org 
+ a 
+
+ tardy v spor a mathieu o leveque j terrat s plassart p régnier t 
+bardgett rd van der putten w roggero pp seddaiu g bagella s 
+lemanceau p ranjard l maron pa shifts in microbial diversity
+through land use intensity as drivers of carbon mineralization in soil soil
+biol biochem – https doi org j soilbio 
+
+ tardy v chabbi a charrier x de berranger c reignier t dequiedt s 
+faivre primot c terrat s ranjard l maron pa land use history
+shifts in situ fungal and bacterial successions following wheat straw
+input into the soil plos one e https doi org 
+journal pone 
+
+ arcand mm helgason bi lemke ri microbial crop residue decom 
+position dynamics in organic and conventionally managed soils appl
+soil ecol – https doi org j apsoil 
+
+ bardgett rd van der putten wh belowground biodiversity and
+ecosystem functioning nature – https doi org 
+nature 
+
+ schimel j ecosystem consequences of microbial diversity and
+community structure p – in chapin f koerner c ed arctic and
+alpine biodiversity patterns causes and ecosystem consequences 
+springer verlag new york ny 
+
+ peter h beier s bertilsson s lindström es langenheder s tranvik lj 
+ function specific response to depletion of microbial diversity 
+isme j – https doi org ismej 
+
+ baumann k dignac mf rumpel c bardoux g sarr a steffens m maron
+pa soil microbial diversity affects soil organic matter decompo 
+sition in a silty grassland soil biogeochemistry – https doi
+ org s 
+
+ griffiths bs ritz k bardgett rd cook r christensen s ekelund f 
+sørensen sj bååth e bloem j de ruiter pc dolfing j nicolardot b 
+ecosystem response of pasture soil communities to fumigation induced
+microbial diversity reductions an examination of the biodiversity 
+ecosystem function relationship oikos – https doi org 
+ j x 
+
+ wertz s degrange v prosser ji poly f commeaux c freitag t guillau 
+maud n le roux x maintenance of soil functioning following
+erosion of microbial diversity environ microbiol – https 
+doi org j x 
+
+ de boer w folman lb summerbell rc boddy l living in a fungal
+world impact of fungi on soil bacterial niche development fems mi 
+crobiol rev – https doi org j femsre 
+
+ niemenmaa o uusi rauva a hatakka a demethoxylation of
+ o ch labelled lignin model compounds by the brown rot fungi
+
+maron et al applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+http www ebi ac uk ena data view prjeb 
+https doi org aem 
+https doi org aem 
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org ncomms 
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org s y
+https doi org pnas 
+https doi org a 
+https doi org a 
+https doi org j soilbio 
+https doi org journal pone 
+https doi org journal pone 
+https doi org j apsoil 
+https doi org nature 
+https doi org nature 
+https doi org ismej 
+https doi org s 
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org j femsre 
+http aem asm org
+http aem asm org 
+
+
+gloeophyllum trabeum and poria postia placenta biodegradation 
+ – https doi org s 
+
+ roger f bertilsson s langenheder s osman oa gamfeldt l 
+effects of multiple dimensions of bacterial diversity on functioning 
+stability and multifunctionality ecology – https doi org 
+ ecy 
+
+ liebich j schloter m schäffer a vereecken h burauel p degra 
+dation and humification of maize straw in soil microcosms inoculated
+with simple and complex microbial communities eur j soil sci 
+ – https doi org j x 
+
+ bell t newman ja silverman bw turner sl lilley ak the
+contribution of species richness and composition to bacterial services 
+nature – https doi org nature 
+
+ gihring tm green sj schadt cw massively parallel rrna gene
+sequencing exacerbates the potential for biased community diversity
+comparisons due to variable library sizes environ microbiol – 
+https doi org j x 
+
+ fierer n bradford ma jackson rb toward an ecological classifi 
+cation of soil bacteria ecology – https doi org 
+ 
+
+ debruyn jm nixon lt fawaz mn johnson am radosevich m 
+global biogeography and quantitative seasonal dynamics of gemmati 
+monadetes in soil appl environ microbiol – https doi
+ org aem 
+
+ pascault n ranjard l kaisermann a bachar d christen r terrat s 
+mathieu o lévêque j mougel c henault c lemanceau p péan m boiry
+s fontaine f maron pa stimulation of different functional groups
+of bacteria by various plant residues as a driver of soil priming effect 
+ecosystems – https doi org s 
+
+ paterson e osler g dawson la gebbing t sim a ord b labile
+and recalcitrant plant fractions are utilised by distinct microbial com 
+munities in soil independent of the presence of roots and mycorrhizal
+fungi soil biol biochem – https doi org j soilbio
+ 
+
+ poll c marhan s ingwersen j kandeler e dynamics of litter carbon
+turnover and microbial abundance in a rye detritusphere soil biol biochem
+ – https doi org j soilbio 
+
+ tardy v mathieu o leveque j terrat s chabbi a lemanceau p ranjard
+l maron pa stability of soil microbial structure and activity
+depends on microbial diversity environ microbiol rep – 
+https doi org 
+
+ franklin rb garland jl bolster ch mills al impact of dilution on
+microbial community structure and functional potential comparison of
+numerical simulations and batch culture experiments appl environ
+microbiol – https doi org aem 
+
+ voříšková j baldrian p fungal community on decomposing leaf
+litter undergoes rapid successional changes isme j – https 
+doi org ismej 
+
+ guigue j mathieu o leveque j mounier s laffont r maron pa navarro
+n château c amiotte suchet p lucas y a comparison of extrac 
+tion procedures for water extractable organic matter in soils eur j soil
+sci – https doi org ejss 
+
+ philippot l spor a hénault c bru d bizouard f jones cm sarr a maron
+pa loss in microbial diversity affects nitrogen cycling in soil isme
+j – https doi org ismej 
+
+ juarez s nunan n duday ac pouteau v chenu c soil carbon
+mineralisation responses to alterations of microbial diversity and soil
+structure biol fertil soils – https doi org s 
+ 
+
+ griffiths bs ritz k wheatley r kuan hl boag b christensen s ekelund
+f sørensen sj muller s bloem j an examination of the
+biodiversity ecosystem function relationship in arable soil microbial
+communities soil biol biochem – https doi org 
+s 
+
+ lienhard p terrat s mathieu o levêque j chemidlin prévost bouré n 
+nowak v régnier t faivre c sayphoummie s panyasiri k tivet f 
+ranjard l maron pa soil microbial diversity and c turnover
+modified by tillage and cropping in laos tropical grassland environ
+chem lett – https doi org s 
+
+ cayuela ml sinicco t mondini c mineralization dynamics and
+biochemical properties during initial decomposition of plant and animal
+residues in soil appl soil ecol – https doi org j
+ apsoil 
+
+ pascault n nicolardot b bastian f thiébeau p ranjard l maron pa 
+ in situ dynamics and spatial heterogeneity of soil bacterial com 
+munities under different crop residue management microb ecol 
+ – https doi org s z 
+
+ bardgett rd freeman c ostle nj microbial contributions to
+climate change through carbon cycle feedbacks isme j – 
+https doi org ismej 
+
+ roy j picon cochard c augusti a benot ml thiery l darsonville o 
+landais d piel c defossez m devidal s escape c ravel o fromin n 
+volaire f milcu a bahn m soussana jf elevated co maintains
+grassland net carbon uptake under a future heat and drought extreme 
+proc natl acad sci u s a – https doi org pnas
+ 
+
+ fontaine s barot s barré p bdioui n mary b rumpel c stability
+of organic carbon in deep soil layers controlled by fresh carbon supply 
+nature – https doi org nature 
+
+ blagodatskaya e khomyakov n myachina o bogomolova i blagodatsky
+s kuzyakov y microbial interactions affect sources of priming
+induced by cellulose soil biol biochem – https doi org 
+ j soilbio 
+
+ rousk j hill pw davey lj priming of the decomposition of ageing
+soil organic matter concentration dependence and microbial control 
+funct ecol – https doi org 
+
+ chen r senbayram m blagodatsky s myachina o dittert k lin x 
+blagodatskaya e soil c and n availability determine the priming
+effect microbial n mining and stoichiometric decomposition theories 
+glob chang biol – https doi org gcb 
+
+ perveen n barot s alvarez g klumpp k martin r rapaport a herfurth
+d louault f fontaine s priming effect and microbial diversity in
+ecosystem functioning and response to global change a modeling
+approach using the symphony model glob chang biol – 
+https doi org gcb 
+
+ fontaine s barot s size and functional diversity of microbe
+populations control plant persistence and carbon accumulation ecol
+lett – https doi org j x 
+
+ hunt hw wall dh modelling the effects of loss of soil biodiversity
+on ecosystem function glob chang biol – https doi org 
+ j x 
+
+ trap j bonkowski m plassard c villenave c blanchart e ecolog 
+ical importance of soil bacterivores for ecosystem functions plant soil
+ – https doi org s 
+
+ fontaine s henault c aamor a bdioui n bloor jmg maire v mary b 
+revaillot s maron pa fungi mediate long term sequestration of
+carbon and nitrogen in soil through their priming effect soil biol
+biochem – https doi org j soilbio 
+
+ razanamalala k razafimbelo t maron pa ranjard l chemidlin n 
+lelièvre m dequiedt s ramaroson vh marsden c becquer t trap j 
+blanchart e bernard l soil microbial diversity drives the priming
+effect along climate gradients a case study in madagascar isme j
+ – https doi org ismej 
+
+ sterjiades r erikson kel biodegradation of lignins p – in
+scalbert a ed polyphenolic phenomena inra editions paris france 
+
+ dequiedt s saby npa lelievre m jolivet c thioulouse j toutain b 
+arrouays d bispo a lemanceau p ranjard l biogeographical
+patterns of soil molecular microbial biomass as influenced by soil char 
+acteristics and management glob ecol biogeogr – https 
+doi org j x 
+
+ vainio ej hantula j direct analysis of wood inhabiting fungi using
+denaturing gradient gel electrophoresis of amplified ribosomal dna 
+mycol res – https doi org s 
+
+ cole jr wang q cardenas e fish j chai b farris rj kulam syed 
+mohidee as mcgarrell dm march t garrity gm tiedje jm the
+ribosomal database project improved alignments and new tools for r
+rna analysis nucleic acids res d –d https doi org 
+nar gkn 
+
+ karimi b meyer c gilbert d bernard n air pollution below who
+levels decreases by the links of terrestrial microbial networks environ
+chem lett – https doi org s 
+
+ karimi b maron pa chemidlin prevost boure n bernard n gilbert d 
+ranjard l microbial diversity and ecological networks as indicators
+of environmental quality environ chem lett – https doi
+ org s 
+
+microbial diversity affects carbon cycling applied and environmental microbiology
+
+may volume issue e aem asm org 
+
+ on june by guest
+http aem
+
+ asm
+ org 
+
+d
+ow
+
+nloaded from
+ 
+
+https doi org s 
+https doi org ecy 
+https doi org ecy 
+https doi org j x
+https doi org nature 
+https doi org j x
+https doi org 
+https doi org 
+https doi org aem 
+https doi org aem 
+https doi org s 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org 
+https doi org aem 
+https doi org ismej 
+https doi org ismej 
+https doi org ejss 
+https doi org ismej 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org j apsoil 
+https doi org j apsoil 
+https doi org s z
+https doi org ismej 
+https doi org pnas 
+https doi org pnas 
+https doi org nature 
+https doi org j soilbio 
+https doi org j soilbio 
+https doi org 
+https doi org gcb 
+https doi org gcb 
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org s 
+https doi org j soilbio 
+https doi org ismej 
+https doi org j x
+https doi org j x
+https doi org s 
+https doi org nar gkn 
+https doi org nar gkn 
+https doi org s 
+https doi org s 
+https doi org s 
+http aem asm org
+http aem asm org 
+
+	results
+	microbial biomass 
+	diversity of bacterial and fungal communities 
+	soil and wheat residue c mineralization 
+
+	discussion
+	community manipulation decreased microbial diversity in soil 
+	decrease in microbial diversity affects the decomposition of allochthonous and autochthonous carbon sources 
+
+	materials and methods
+	plant culture and c labeling 
+	soil 
+	experimental design 
+	total and c co measurements 
+	dna extraction from soil and molecular microbial biomass determination 
+	pyrosequencing of s and s rrna genes 
+	taxonomic assignments and clustering of s and s rrna gene fragments 
+	statistical analysis 
+	accession number s 
+
+	supplemental material
+	acknowledgments
+	references
+
+

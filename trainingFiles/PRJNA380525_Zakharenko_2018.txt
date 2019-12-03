@@ -1,0 +1,1838 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+microbiology of aquatic systems
+
+bacterial communities in areas of oil and methane seeps in pelagic
+of lake baikal
+
+aleksandra s zakharenko yuriy p galachyants igor v morozov olga v shubenkova alexey a morozov 
+vyacheslav g ivanov nikolay v pimenov andrey y krasnopeev tamara i zemskaya 
+
+received february accepted november 
+ springer science business media llc part of springer nature 
+
+abstract
+we have assessed the diversity of bacteria near oil methane area i and methane area ii seeps in the pelagic zone of lake baikal
+using massive parallel sequencing of s rrna pmoa andmxaf gene fragments amplified from total dna at depths from the
+surface to m sequences belonging tocyanobacteria dominated in the communities to a depth of m of the studied areas 
+proteobacteria dominated the deeper layers of the water column alphaproteobacteria sequences were predominant in the
+community near the oil methane seep while the community near the methane seep was characterized by the prevalence of
+alpha and gammaproteobacteria among representatives of these classes type i methanotrophs prevailed in the s rrna
+gene libraries from the near–bottom area and type ii methanotrophs were detected in minor quantities at different depths in the
+analysis of the libraries of the pmoa and mxaf functional genes we observed the different taxonomic composition of
+methanotrophic bacteria in the surface and deep layers of the water column all pmoa sequences from area i were type ii
+methanotrophs and were detected at a depth of m while sequences of type i methanotrophs were the most abundant in deep
+layers of the water column of area ii all mxaf gene sequences belonged to methylobacterium representatives based on
+comparative analyses of s rrna pmoa and mxaf gene fragment libraries we suggest that there must be a wider spectrum
+of functional genes facilitating methane oxidation that were not detected with the primers used 
+
+keywords water column diversity methanotrophic methylotrophic bacteria lake baikal
+
+introduction
+
+natural aquatic systems wetlands and lakes in particular 
+contribute substantial quantities of methane ch to the at 
+mosphere constituting an important component of continental
+
+greenhouse gas budget although lakes and reservoirs
+cover only about of the continental surface of the earth
+ they are believed to be responsible for about of the
+total methane emissions to the atmosphere moreover 
+methane emissions from high latitude lakes are expected to
+increase with global climate warming particularly in the
+arctic regions with large organic rich permafrost 
+
+lake baikal is the oldest and the deepest freshwater lake on
+earth located in southern part of east siberia the water is
+chemically stable slightly mineralized and oxygenated
+throughout the water column – at the same time in some
+areas of the lake there are seeps from which hydrocarbons 
+including methane oil and their derivatives enter the water
+column from the sediments initial studies showed
+that methane released from bottom sediments at a depth of
+ m does not reach the atmosphere as it is mainly dis 
+solved and oxidized in the water column however later
+studies of the surface waters of the littoral zone and of river
+mouths during spring revealed high methane quantities
+flowing into the atmosphere the methane concentration
+
+electronic supplementary material the online version of this article
+ https doi org s contains supplementary
+material which is available to authorized users 
+
+ aleksandra s zakharenko
+zakharenko lin irk ru
+
+ siberian branch of the russian academy of sciences limnological
+institute ulan batorskaya street irkutsk russia
+
+ siberian branch of the russian academy of sciences institute of
+chemical biology and fundamental medicine novosibirsk russia
+
+ novosibirsk state university novosibirsk russia
+ research center of biotechnology russian academy of sciences 
+
+winogradsky institute of microbiology moscow russia
+
+microbial ecology
+https doi org s 
+
+http crossmark crossref org dialog doi s domain pdf
+https doi org s 
+mailto zakharenko lin irk ru
+
+
+in the surface waters of the lake apparently depends on river
+runoff high methane concentrations were detected in the
+deep layers of baikal open waters near methane seeps and
+mud volcanoes a series of publications noted the
+increase of methane concentration in the lake water during
+the past decade and discussed its possible reasons 
+bottom sediments from central and southern baikal basins
+showed large amounts of gas hydrates and methane bubble
+discharge with simultaneous discharge of oil and methane at
+two sites the number of seeps in baikal per unit
+area is similar to that of the world’s oceans and the
+potential sources of methane gas hydrate in the baikal sedi 
+ments are comparable with the world’s largest accumulation
+of gas hydrates at black ridge previous studies of bac 
+terial communities in the water column of various areas in
+lake baikal were performed outside of methane discharge
+areas – the dynamics of physicochemical conditions
+throughout the water column and their relative constancy in
+the deep layers appeared to be decisive factors that shaped the
+pattern of bacterial communities in lake baikal composition
+of bacterial communities in the water column of lake baikal
+near methane and oil seeps as well as with gas hydrate fields
+recorded in the subsurface sediment layers has not been
+studied 
+
+aerobic methane oxidizing bacteria mob play an impor 
+tant role in mitigating methane emissions from freshwater
+environments as they oxidize methane to carbon dioxide in
+the presence of oxygen in lake constance germany 
+mob aerobically remove more than of methane formed
+in the deeper sediment layers by methanogenic archaea 
+the known aerobic methanotrophs belong to two phyla 
+proteobacteria and verrucomicrobia methanotrophs of
+the phylum verrucomicrobia are extremophiles restricted to
+unique acid ph less than and hot temperature up to °c 
+environments – methanotrophs of the phylum
+proteobacteria are divided into two subgroups type i and
+type ii which are further divided into subtypes type i
+methanotrophs belong to gammaproteobacteria whereas
+type ii methanotrophs belong to alphaproteobacteria 
+ the specialized enzyme system methane
+monooxygenase provides the primary attack of the methane
+molecule СН methane monooxygenase is a multicompo 
+nent complex that exists in two forms either membrane 
+associated pММО or the soluble cytoplasm localized
+ sММО forms the pmoa gene encoding the β subunit of
+pmmo is currently considered to be one of the most useful
+functional and phylogenetic methanotroph markers and has
+been widely used for exploring methanotroph diversity in en 
+vironmental samples as a rule the diversity of aerobic
+methanotrophs in lakes is higher than in peat or marine envi 
+ronments 
+
+our studies have already indicated an obvious anomaly
+in methane content and the high rates of its oxidation in
+
+the near bottom methane discharge areas of lake baikal
+ at the same time the study of the number of
+methanotrophs by in situ hybridization was not always
+correlated with methane concentration they were not
+found in the near bottom zone characterized by high
+methane concentrations we suggested that the probes
+used did not hybridize with dna of the baikal
+methanotrophs although they were recommended for the
+detection of methanotrophs from cold water ecosystems
+ therefore we studied the dna samples collected
+in the same areas the purpose of this work was to study
+the structure of bacterial communities including those
+involved in aerobic methane oxidation in different layers
+of the lake baikal water column near the hydrocarbon
+seeps as well as to analyze the phylogenetic diversity of
+marker genes at various stages of methane oxidation 
+using high performance massively parallel sequencing on
+illumina miseq platform 
+
+materials and methods
+
+studies of water
+
+studies of water composition were done in early july in
+southern and central baikal near the gorevoy utes oil seep
+ ° n ° e at a depth of m in
+area i and near the mud volcano bolshoy ° n
+ ° e at a depth of m in area ii fig 
+samples were collected with the sbe carousel water
+sampler from board the rv ‘vereshchagin’ water tempera 
+ture and salinity were simultaneously measured with sensors
+sbe plus methane concentration was measured by the
+bheadspace technique using a gas chromatograph
+bekho ew equipped with a flame ionization detector
+ novosibirsk russia 
+
+dna extraction
+
+we obtained eight dna samples from the water column
+of the area i m m m m m m 
+ m and m and five dna samples from the water
+column of the area ii m m m m and
+ m the water samples l were passed through
+nitrocellulose filters mm diameter μm pore size 
+bmillipore germany by means of a peristaltic pump 
+each filter was placed in te buffer mm tris hcl 
+ph mm edta ph and frozen at − °С 
+after transport to the laboratory dna was extracted ac 
+cording to the modified method of phenol chloroform ex 
+traction the extracted dna was kept at − °c for
+further use 
+
+zakharenko a s et al 
+
+
+
+selected loci amplification and sequencing
+
+table shows the loci selected for the analysis and the se 
+quences of oligonucleotide primers used for their amplifica 
+tion phusion hot start ii high fidelity dna polymerase
+ thermo scientific f s with the high fidelity buffer
+was used for amplification following the manufacturer’s
+guidelines amplification reaction mixtures contained
+
+ mm mg μm of each dntps and μm of each
+primer after optimizing the pcr conditions thermal profile
+and mg concentration for each locus the required mini 
+mum of pcr cycles was adjusted for every dna sample
+preventing the plateau effect of concentrating the products 
+for this purpose the composition and concentration of pcr
+products were controlled via capillary electrophoresis on a
+shimadzu multi na instrument dna reagent kit 
+
+table primers used for pcr amplifications
+
+gene amplicon primer annealing t °c sequence reference
+
+ s rrna b s bv f agtggcggacgggt
+gagtaa
+
+ 
+
+ s bv r ccgcggctgctggcac
+
+pmoa pmoa a ggngactgggacttctgg 
+a gaasgcngagaagaasgc
+
+mxaf mxaf mxa f gcggcaccaactgg
+ggctggt
+
+ 
+
+mxa r catgaabggctccca
+rtccat
+
+fig sampling sites in lake
+baikal based on the map
+presented in de batist m et al 
+ a sum of ions sc b water
+temperature °С c ch 
+concentration μl l
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+
+the typical number of pcr cycles ranged between and 
+for s rrna and from to for pmoa and mxaf 
+amplification products for each locus were quantified and
+mixed in molar ratios corresponding to a planned nucleotide
+sequence coverage share for each locus libraries for illumina
+miseq analysis were prepared from amplicon mixtures with
+nebnext ultra ii dna library prep kit new england
+biolabs the libraries were analyzed using illumina miseq
+standard kit v illumina at the genomics core facility of
+the institute of chemical biology and fundamental medicine 
+siberian branch of the russian academy of sciences
+ novosibirsk 
+
+the amplification of the pmoa locus from dna templates
+extracted from area i samples yielded much longer major
+products approximately and bp than expected
+ bp to facilitate amplification of pcr products of the
+expected length conditions were further optimized and an 
+nealing and elongation time was reduced despite the addi 
+tional optimization the area i dna samples taken from the
+depths of and m yielded solely longer products 
+
+data preparation and filtering bioinformatics
+analysis
+
+paired end sequencing reads were demultiplexed according to
+r and r ′ end sequences which corresponded to respec 
+tive forward reverse amplicon primers allowing one mis 
+match between forward and reverse primer and sequence 
+the r and r sequences corresponding to ribosomal rna
+amplicons were merged into contigs with the mothur
+merge contigs command the fragments obtained were fil 
+tered by quality in non overlapping regions as having nomore
+than five sites with phred value ≤ for amplicons ‘e’
+phred value ≤ the scripts used to demultiplex and filter
+the miseq data are available at www github com yuragal 
+mothur scripts further rrna sequence processing was
+performed using mothur v software according to
+miseq sop recommendations to compare the microbial
+diversity among the samples the bacterial read numbers of
+each sample were subsampled to those of the sample with
+the smallest number of reads by random removal of
+sequencing reads using the sub sample command of the
+mothur program the filtered sequences were aligned 
+clustered and identified taxonomically using the silva 
+databases http www arb silva de to estimate similarity
+among bacterial communities the samples were analyzed
+using pcoa principal coordinate analysis and clustered
+using weighted unifrac metrics calculated in mothur the
+results are presented in pcoa plots and upgma
+dendrograms with the programs grapher and figtree 
+respectively 
+
+for pmoa and mxaf data no mismatches between primers
+and r r were allowed during demultiplexing the
+
+following approach was designed to apply mothur sop to
+the pmoa environmental sequences lacking reference align 
+ment first we downloaded a set of taxonomically character 
+ized pmoa fragments these reference sequences were
+translated and amino acid sequences were aligned to hidden
+markov model pf from pfam using hmmalign amino
+acid alignment was manually checked and corrected in poor
+quality positions the resulting alignment was back translated
+to nucleotide alignment along with a taxonomy table file
+s reference alignment file s was used for extensive fil 
+tering alignment and phylotype assignment of sequencing
+data from pmoa amplicons pmoa contigs were checked for
+the presence of an open reading frame orf longer than
+ bp with flanking sequences corresponding to conserva 
+tive regions of pmoa reference alignment written in terms of
+regular expressions orf n and c terminal ends were re 
+quired to match wf ker d rg and pey ivl r patterns 
+respectively a significant portion of the resulting nucleotide
+sequences were of poor quality in the – aa region of the
+translated orfs probably due to miseq read length limita 
+tions this region was removed from analysis to allow unam 
+biguous clustering upon processing of sequences in mothur 
+
+to generate alignments for mxaf sequences using the
+tblastn program we first found the contigs that produced
+robust blast hits e value e alignment length more
+than aa with a large subunit of methanol dehydrogenase
+sequence genbank wp as a double check 
+orf n and c terminal ends were required to match
+gtnwg and wepfm patterns corresponding to the sites
+of forward and reverse primers again in a resulting dataset 
+we identified a remarkable number of sequences having am 
+biguous nucleotides bn within the alignment positions
+from to as this region corresponding to – po 
+sitions in amino acid alignment of pmoa fragment orfs was
+of low quality it was removed prior to clustering the cd 
+hit package was used to generate clusters at a distance of
+ followed by molecular phylogenetic analysis of the
+resulting sequences representing abundant groups 
+taxonomic complexity of the communities was assessed by
+analysis of s rrna genes examination was conducted on
+rarefaction curves reflecting the dependence of the number of
+the phylotypes found in the number of the sequences analyzed
+at the genetic distance of to characterize the molecular
+genetic diversity of all genes at a distance of the number
+of operational taxonomic units otu coverage chao as
+well as the alpha diversity indices chao АСЕ shannon 
+and simpson’s inverse index were calculated canonical cor 
+respondence analysis was performed in r with using the
+bvegan package 
+
+the closest homologs of each gene fragment sequence
+were found with a blast search against nr database 
+the neighbor joining nj method with the kimura two 
+parameter model and the poisson correction method 
+
+zakharenko a s et al 
+
+http www github com yuragal mothur scripts
+http www github com yuragal mothur scripts
+http www arb silva de
+
+
+were used to construct phylogenetic trees in the program
+mega version bootstrap values were obtained
+in replicates the s rrna pmoa andmxaf sequences
+were deposited in the ncbi’s sequence read archive
+ accession number bioproject prjna 
+
+characterization of the areas studied
+
+figure presents temperature and salinity values in the water
+column of the areas studied in area i temperature ranged
+from to °c which is typical for the spring homothermy
+ methane concentration from the surface to a depth of
+ m in area i was practically the same and may be due to
+vertical water exchange during the spring homothermy 
+methane concentrations at depths of and m were
+ and μl l respectively in area ii temperature
+corresponded to the period of direct water stratification –
+ °c in this area methane concentrations in the surface
+layers and at a depth of m increased up to and
+ μl l respectively in near bottom zones of this area ii 
+at depths of and m the methane concentrations
+were and μl l respectively the highest rates of
+methane oxidation were observed near the bottom of both
+areas 
+
+diversity evaluation of the communities
+from the water column based on the analysis of s
+rrna gene libraries
+
+after sequencing of fragments encoding the v –v region of
+the s rrna gene followed by alignment clustering and
+removal of chimeras we obtained sequences in total 
+
+from eight area i samples and sequences from five area
+ii samples with an average length of bp sequences were
+clustered into a total of otus the number of otus
+per sample varied from to in area i and from to
+ in area ii table analysis of changes in the indices of
+taxonomic richness chao and ace and the diversity of
+communities shannon and invsimpson throughout the wa 
+ter column showed that higher values were found in the com 
+munities for sample ii and for samples i i and
+i rarefaction curves constructed for a genetic distance of
+ in the studied s rrna gene libraries were steeply
+inclined except for three samples from area ii ii ii 
+and ii fig s which may be due to insufficient cov 
+erage in these samples coverage values ranged from 
+ i to i for the samples in area i and from
+ ii to ii for the samples in area ii 
+these data table indicate that the structure of bacterial
+communities from area i is most completely characterized 
+
+phylogenetic diversity of bacterial community
+in the water column
+
+area i we identified representatives of bacterial phyla in
+eight s rrna gene libraries cyanobacteria up to 
+and proteobacteria up to dominated the trophogenic
+layer fig a phylogenetic analyses confirmed that
+cyanobacteria were a part of the lake baikal planktonic
+cyanobacteria cluster they formed two individual clades
+ fig s showing the highest homology with the genus
+synechococcus from marine and freshwater environments 
+their prevalence in the baikal pelagic zone during the obser 
+vation period was most likely due to the beginning of their
+
+table indices of species
+diversity at cluster distance 
+for bacterial communities v –
+v region of the s rrna gene 
+of the column water at the area i
+and area ii at the sites of discharge
+of hydrocarbon containing fluids
+of lake baikal
+
+sample number of
+sequences
+
+number of
+otus
+
+coverage
+ 
+
+diversity richness
+
+shannon simpson’s
+inverse index
+
+chao ace
+
+i 
+
+i 
+
+i 
+
+i 
+
+i 
+
+i 
+
+i 
+
+i 
+
+ii 
+
+ii 
+
+ii 
+
+ii 
+
+ii 
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+
+bloom – themost abundant synechococcusОТus had
+the closest homologs in the community of baikal sponges
+ but contrasted with the sequences isolated from the
+
+baikal sediments the second dominant taxon was the
+members of proteobacteria whose contribution in the com 
+munities deeper than m was more than of sequences
+
+fig taxonomic composition of bacterial communities of the water column of lake baikal a area i b area ii based on data from a metagenomic
+analysis of the v v regions of the s rrna gene and bacterial classification from the silva database
+
+zakharenko a s et al 
+
+
+
+ fig a mostly related to alphaproteobacteria and
+betaproteobacteria classes among alphaproteobacteria 
+there were sequences of type ii methanotrophs up to 
+
+which are most identical to the sequences of the genus
+methylocella and uncultured bacteria the percentage of se 
+quences of type i methanotrophs most similar to the uncul 
+tured sequences of the family methylococcaceae was also
+insignificant up to among alphaproteobacteria the
+sequences of the genus sphingomonas were most abundant
+in the communities of this area fig a as sphingomonas
+are aerobic chemoheterotrophs they are able to use a wide
+range of naturally occurring compounds as well as some en 
+vironmental contaminants in addition we should note other
+representatives of this class present in the studied communi 
+t i e s org caulobactera les rhizobia les 
+rhodobacterales rhodospiril lales rickettsiales 
+sar clade sphingomonadales and unclassified
+Аlphaproteobacter the betaproteobacteria class was the sec 
+ond most abundant taxon by contribution with higher se 
+quence percentages in the s rrna gene libraries from deep
+layers of the water column fig a sequences of eight orders
+were identified among them b bs burkholderiales 
+methylophilales neisseriales nitrosomonadales sc i 
+tra and unclassified the comamonadaceae family
+ albidiferax limnohabitans pelomonas polaromonas 
+tepidimonas and unclassified represented the dominant or 
+der of burkholderiales contribution of the gamma and
+deltaproteobacteria classes was insignificant up to 
+and respectively 
+
+representatives of actinobacteria were found in all sam 
+ples fig a the most abundant were the sequences of
+micrococcales mostly of genus arthrobacter and
+propionibacteriales orders members of the genus
+arthrobacter are normally found in hydrocarbon 
+contaminated environments since many of them are able to
+utilize a wide range of halogenated aromatic compounds 
+ considerable amounts of chloroflexi sequences were de 
+tected only in s rrna gene libraries from the depths i 
+i and i m fig a their closest homologs were
+mostly isolated from anoxic environments rich in organic
+matter such as sediments hot springs and anaerobic sewage
+sludge these bacteria are involved in the carbon cycle
+degrading starch sugars and peptides 
+
+the members of phyla verrucomicrobia were observed at
+different ratios in communities from different water column
+layers fig a the maximum contribution of genus
+luteolibacter family verrucomicrobiaceae sequences was
+detected in s rrna gene libraries of sample i these
+heterotrophs are involved in the destruction of algae and uti 
+lize a wide range of polysaccharides bacteria of this
+genus are widespread in marine and freshwater ecosystems
+ phylogenetic analysis showed fig s that the se 
+quences from lake baikal are not grouped with acidophilic
+representatives of this phylum capable of methane oxidizing
+ the representatives of phyla aminicenantes 
+armatimonadetes chlorobi gemmatimonadetes 
+
+fig continued 
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+
+nitrospirae pauc f parcubacteria planctomycetes 
+saccharibacteria and tm as well as proteobacteria classes
+ spotsoct m ta and unclassified proteobacteria 
+were minor in all s rrna gene libraries in total their
+contribution to the communities did not exceed fig 
+ a 
+
+area ii in the s rrna gene libraries from the area ii water
+column we identified representatives of bacterial phyla
+with cyanobacteria dominating in the trophogenic layer
+ samples ii –ii and proteobacteria prevalent in deeper
+layers fig b the ability of cyanobacteria to photosynthe 
+size and to fix nitrogen in the presence of light and oxygen
+explains the dominance of this group in the photic zone the
+majority of proteobacteria sequences were assigned to
+alpha beta and gammaproteobacteria classes 
+Аlphaproteobacteria sequences reached in the s
+rrna gene libraries from the near bottom layer fig b 
+among them sequences of orders caulobacterales and
+sphingomonadales dominated in the s rrna gene libraries
+f rom the trophogenic layer the contr ibut ion of
+gammaproteobacteria class members was small ii –ii 
+ fig b sequences of this taxon prevailed in the s
+rrna gene libraries of the sample ii and in the near 
+bottom layer sample ii previously we measured the
+highest values of the methane oxidation rate in this area 
+by means of a radioisotope technique thirteen orders of the
+sequences in this class were mostly represented by members
+ofmethylococcaceae family up to of the total number
+of the sequences uncultured bacteria from lake baikal
+ kf and yellowstone eu were the closest
+homologs to the most abundant otu of methanotrophs
+forming in the phylogenetic tree the individual cluster 
+and respectively fig 
+
+betaproteobacteria class sequences were represented by
+the fol lowing orders b bs burkholderiales 
+ho t creek methy loph i l a l e s nei s se r i a l e s 
+nitrosomonadales rhodocyclales sc i and tra 
+the dominant order burkholderiales was represented by the
+comamonadaceae family albidiferax limnohabitans 
+pelomonas polaromonas and unclassified as we saw in
+the communities from area i deltaproteobacteria class se 
+quences in all samples were related to minor taxa 
+
+in the s rrna gene libraries from deep water layers we
+observed an increase in the ratio of representatives of the phy 
+la chloroflexi acidobacteria actinobacteria deinococcus 
+thermus wchb and planctomycetes and a decrease
+in the ratio of bacteroidetesmembers fig b the contribu 
+tion of verrucomicrobia sequences increased up to m
+depth whereas in the bacterial communities of the lower
+layers of the water column they were less than 
+members of the genus luteol ibacter dominated
+verrucomicrobia as in the area i communities the members
+
+of phyla candidate division op chlorobi fusobacteria 
+gemmatimonadetes gracilibacteria hydrogenedentes 
+microgenomates nitrospirae pauc f parcubacteria 
+planctomycetes sm f saccharibacteria and tm as
+well as proteobacteria classes spotsoct m ta 
+and unclassified proteobacteria were minor fig b 
+
+we studied by means of canonical correspondence analy 
+sis cca the impact of total mineralization increase water
+temperature СН concentration and oxidation rate on the
+distribution of individual phylotypes otu of all of the
+ s rrna gene libraries fig a we analyzed only
+otus which included or more sequences and deter 
+mined their taxonomic affiliation we did not identify reliable
+relationships between environmental parameters and commu 
+nity structure except for depth of the water column p value 
+ to compare the communities from different layers of
+the water column in two areas we performed community
+clustering based on the mean weighted unifrac distance ma 
+trix w unifrac the graph in fig b indicates the presence
+of two clusters one of which included communities from the
+trophogenic layers – m and another deep water com 
+munities sampled at depths from to m analysis of
+the s rrna gene libraries using multidimensional scaling 
+revealed different structures of communities from both clus 
+ters depicted in fig c the lack of a reliable correlation is
+most likely due to specific advective processes in the pelagic
+zone of lake baikal during the observation period as a result 
+waters enriched with organic substances and microorganisms
+from the trophogenic layer enter the deeper layers 
+
+phylogenetic diversity of methane monooxygenase
+ pmoa and methanol dehydrogenase mxaf genes
+
+the gene encoding the pmoa beta subunit of methane
+monooxygenase is the most commonly used marker be 
+cause it is found in the majority of aerobic methanotrophs
+ we obtained pmoa sequences mainly of the
+samples from area ii sequences in three samples from
+area i i i and i and sequences in two
+samples from area ii ii and ii other samples
+yielded no pmoa amplification products even after 
+pcr cycles all sequences of area i samples appeared to
+be type ii methanotroph sequences while all sequences of
+area ii samples belonged to type i the pmoa gene se 
+quences formed several clusters in the phylogenetic tree
+ fig among type i methanotrophs sequences forming
+an individual branch with uncultured methylococcaceae
+members were the most abundant phylogenetically the
+closest relatives are methyloglobulus morosus showing
+ pmoa gene sequence homology the pmoa se 
+quences of this cluster were typical for the communities
+of the deep zone from area ii their maximum quantity
+was noted in high methane concentration zones members
+
+zakharenko a s et al 
+
+
+
+of the second less abundant cluster were found only in the
+sample i i the sequence of the uncul tured
+gammaproteobacteria isolated from the water column of
+lake schoehsee was their closest homolog homol 
+ogy the sequences in this cluster were only identical
+to the cultured methylobacter sp and methylovulum
+miyakonense species as well as to the sequences from mi 
+crobial mats of the methane seep saint petersburg 
+the third cluster included a small number of pmoa se 
+quences highly homologous to uncultured ammonia 
+oxidizing betaproteobacteria ef sequences 
+probably the sequences of this cluster are closer to ammo 
+nia monooxygenase amo than the pmoa gene 
+
+type ii methanotroph sequences were detected in area i
+samples at a depth of m and above they formed several
+branches with sequences of genera methylosinus and
+methylocystis – similarity in the phylogenetic tree 
+notably the methanotrophic diversities in the same samples
+
+accessed via analysis of pmoa and s rrna gene libraries
+were not completely identical 
+
+usually themxaf gene provides a genetic marker for detec 
+tion of methanol oxidizing proteobacteria – despite the
+fact that the primers for the amplification ofmxafwere used for
+a rather wide spectrum of methano and methylotrophic bacte 
+ria phylogenetic diversity of this gene in our samples was
+insignificant all sequences were similar to methylobacterium
+sequences fig and did not cluster with sequences from
+microbial mats and bottom sediments of lake baikal 
+
+the number of otus was more extensive in themxaf
+gene libraries in area ii than in area i the members of
+other taxa detected in the s rrna gene libraries particular 
+ly the family burkholderiaceaе capable of methylotrophy 
+were not identified by mxaf library analysis it is likely that
+baikal bacterial genomes have an additional gene s involved
+in methanol oxidation for instance xoxf identified previ 
+ously in methylobacterial genomes 
+
+fig phylogenetic tree of methanotrophic proteobacteria based on the
+analysis of nucleotide sequences of the v v regions of the s rrna
+gene obtained from the total dna of water column of lake baikal the
+tree was constructed using the neighbor joining nj method bootstrap
+
+analysis provided probability assessment of individual nodes the values
+above are shown the scale is the numbers next to otu
+names mean the sum of sequences in all samples for this otu
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+
+fig agraph of the results of canonical correspondence analysis cca 
+for the microbial communities of lake baikal the validation of the
+model was carried out using the anova test p value only for
+the depth parameter we used the data from article zakharenko et al 
+Σi sum of ions sc t water temperature °С ch –ch concentration 
+
+μl l mo–methane oxidation rate nl l day b upgma dendrogram
+based on a weighted mean matrix w unifrac blue color indicates
+deep water communities red color indicates communities from the
+trophogenic layers c graph of principal coordinate analysis pcoa 
+based on the weighted mean matrix w unifrac 
+
+zakharenko a s et al 
+
+
+
+discussion
+
+we studied the taxonomic composition of bacterial communi 
+ties from the water column in two deep areas of lake baikal 
+characterized by different hydrological regimes and additional
+carbon sources such as methane and oil flow into the water
+column from sediments the bacterial communities consisted
+of taxa characteristic of freshwater lakes and were similar
+to the community composition of other baikal areas 
+the structure of bacterial communities in the trophogenic
+layers of the studied areas differed from the structure in the
+abyssal zone of the water column which corresponds to the
+data on other areas of lake baikal these differences are
+reflected in the upgma dendrogram where two distinct
+
+groups of otus can be seen fig b the first one included
+bacterial communities of the trophogenic zone from the sur 
+face to a depth of m while the second deep water com 
+munities deeper than m as found previously com 
+position at the family level and relative contributions to bac 
+terial communities distributed over the water column vary
+depending on hydrological period higher water temperatures
+in the trophogenic layers area ii ensure predominance in the
+communities of cyanobacterial sequences – of all se 
+quences whose massive development begins in the summer 
+according to nagata et al the autotrophic picoplankton 
+especially cyanobacteria of the genera synechococcus and
+synechocystis plays a key role in generating lake baikal
+primary production during the summer in area i where the
+
+fig phylogenetic tree of the pmoa gene obtained from the total dna
+of the water column of lake baikal the evolutionary history was
+inferred using the neighbor joining method the percentage of replicate
+trees in which the associated taxa clustered together in the bootstrap test
+ replicates is shown next to the branches the evolutionary distances
+
+were computed using the poisson correction method and are in the units
+of the number of amino acid substitutions per site the values above 
+are shown the scale bar corresponds to estimated sequence diver 
+gence the numbers next to otu namesmean the sum of sequences in all
+samples for this otu
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+
+water temperature was lower and the hydrological regime
+coincided with the spring homothermia the contribution of
+the autotrophic picoplankton was less significant in the com 
+munities we observed a high percentage of sequences of other
+taxa such as representatives of the phyla verrucomicrobia 
+actinobacteria bacteroidetes and chloroflexi the presence
+of these bacteria in the communities may be due to their active
+role in the destruction of the dying diatoms which massively
+develop under the ice of lake baikal in the spring in
+their genomes the key enzymes and pathways for effective
+degradation of at least two polysaccharides disaccharides 
+and amino sugars were detected genomes of
+several bacterial taxa acidobacteria nitrospirae and
+betaproteobacteria representatives in the planktonic commu 
+nity from lake baikal contain genes responsible for some of
+
+the pathways involved in nitrogen metabolism as well as
+different pathways to efficiently oxidize and reduce sulfur
+intermediates in contrast to the previous studies 
+we may note a very small contribution of sequences of the
+class gammaproteobacteria in the structure of the communi 
+ties from the trophogenic layer – a similar result was
+obtained earlier in the study of freshwater bacterial communi 
+ties 
+
+in the deep water communities representatives of the phy 
+la proteobacteria predominated with the prevalence of se 
+quences of the class gamma and alphaproteobacteria the
+communities from the water column of the natural oil seep
+ area i had a large percentage of sphingomonadales
+ alphaproteobacteria representatives the sphingomonas
+representatives are often isolated from oil contaminated soils 
+
+fig phylogenetic tree of the mxaf gene obtained from the total dna
+of water column of lake baikal the evolutionary history was inferred
+using the neighbor joining method the percentage of replicate trees in
+which the associated taxa clustered together in the bootstrap test 
+replicates is shown next to the branches the evolutionary distances were
+
+computed using the poisson correction method and are in the units of the
+number of amino acid substitutions per site the values above are
+shown the scale is the numbers next to otu names mean the sum
+of sequences in all samples for this otu
+
+zakharenko a s et al 
+
+
+
+most likely because they have a unique ability to degrade
+polycyclic aromatic hydrocarbons pah – in this area
+i gorshkov et al reported extreme concentrations of oil
+products including pah coming from the sediments into the
+water column 
+
+representatives of the gammaproteobacteria had larger
+percentagesforthecommunitiesinthedeeplayersofthewater
+column in area ii where onlymethane is discharged from the
+bottom sediments within the gammaproteobacteria
+class we detected type i methanotrophs uncultured
+methylococcaceae andmethylobacter with the closest ho 
+mologs noted in different lakes including stratified ones
+ – and in arctic lakes the sequences of
+methanotrophs from the water column belonged to the com 
+mon clusterwith those from surface layers of sediments from
+the areas discharging gas bearing mineralized fluids 
+most likely cells of these bacteria are discharged at a long
+range from the sediments to the baikal water column with
+gas bearing fluids and are involved in themethane oxidation
+process in the s rrnagene libraries of the deep cluster of
+area i type i methanotrophs were less diverse and in minor
+quantities but their structure was phylogenetically close to
+that in the abyssal zone of area ii the difference in the com 
+position of methanotrophic bacteria in various layers of the
+water column of the studied areas in the analysis of the pmoa
+andmxaf gene libraries wasmore obvious the pmoa genes
+typical for type i methanotrophs gammaproteobacteria
+class were observed in the communities from deep layers of
+the water column in area ii – m and for type ii
+methanotrophs alphaproteobacteria methylocystaceae in
+the communities of area i up to a depth of m according
+to previous studies the type i methanotrophs grow
+better under low methane and high oxygen concentrations 
+whereas the type iimethanotrophs thriveunderhighmethane
+andlowoxygenconcentrations asnumerousstudiesconfirm
+ – water of lake baikal in the pelagic zone is saturated
+with oxygen throughout the whole depth but the methane
+concentrations varied significantly in the water column of
+the studied areas and did not correlate with a type of
+methanotrophic bacteria according to other studies 
+methanotrophs belonging to the methylococcaceae family
+predominate in the water column of various lakes with high
+methane concentrations – according to our
+data the representatives of this family were numerous only
+in the community of the deep zone of area ii although the
+methane concentration in this area was lower to
+ μl l than in area i to μl l another reason
+for thedifference in compositionofmethanotrophsof thewa 
+tercolumnmaybetheirentrywiththewatersflowingalongthe
+marshy places of the baikal tributaries the papers of refer 
+ences – demonstrate that the swamp and peat ecosys 
+tems aswell as thedeltaof thelenariver aredominated
+by type ii methanotrophs the members of this type of
+
+methanotrophs were identified by us in the communities of
+thesurfacelayersof thewatercolumninthestudyareas these
+data suggest two sources of methanotrophs inflow into the
+water column tributary inflows and vertical flows
+of gas bearing fluids from the sediments both types of
+methanotrophs in short periods during spring and autumn 
+mayactivelyenterdeepandsurfacewater layersvia themech 
+anismof vertical exchange 
+
+additionally development of different types of
+methanotrophs at various depths could be determined by tem 
+perature factor according to references – 
+low temperatures are more favorable for type i methanotrophs 
+for they dominate the communities of biotopes with tempera 
+tures below °c in the baikal pelagic zone temperatures
+above °С can be reached only in surface water layers 
+within a very short period of time most likely not only
+the psychrophilic conditions but also the content of liquid and
+gaseous hydrocarbons coming from bottom sediments into the
+water column determine the development of a particular type
+of methanotrophic bacteria in lake baikal this fact can ex 
+plain the prevalence in the communities of the near bottom
+sediments of the methane seep area i of the sphingomonas
+bacteria capable of degrading oil – a few instances of
+methylacidiphilum phylum verrucomicrobia dna occur 
+rence should be attributed to their entrance into
+baikal with river waters playing an insignificant role in meth 
+ane oxidation 
+
+assessment of bacterial community diversity by s rrna
+gene sequence analysis revealed a wider range of the potential
+methanotrophs than assessment based on pmoa and mxaf
+gene sequences on one hand this could be due to an evident 
+ly narrow selectivity of the primers used for pmoa and mxaf
+loci amplification some methanotrophs may have methane
+metabolism systems containing functional analogs of these
+loci which have no priming sites on the other hand some
+bacteria considered potential methanotrophs according to their
+taxonomic s rrna identification may not contain methane
+oxidation systems or some of the components in their ge 
+nomes as a result of their lasting existence in a methane free
+environment these suggestions can also explain the lack of
+pmoa amplicons of the type ii methanotroph sequences near
+the methane seep area ii organisms that facilitated methanol
+oxidation showed less diversity and more consistency be 
+tween different identification approaches for example 
+methylobacterium sequences were detected both in s
+rrna andmxaf genes libraries in our samples we identified
+only mxaf in members of this genus but not in representa 
+tives of the genera methylophilus and methylibium
+ betaproteobacteria class that were detected in s rrna
+gene libraries although these genera could also be involved
+in oxidation of methanol and other С compounds 
+recently salcher et al reported that some marine
+methylotrophs lack the mxaf gene and the genome analysis
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+
+
+of methylotrophs isolated from plankton of a freshwater lake
+ switzerland confirmed their ability to use methanol despite
+the absence of known genes necessary for c compound me 
+tabolism the same goes for the marine methylotroph om 
+lineages whose freshwater clones have no mxaf gene but
+contain a xoxf homolog chistoserdova showed that
+all known gram negative methylotrophs have the xoxf gene
+and could explain the lack of the mxaf gene in lake baikal
+water column methylotrophs 
+
+therefore the analysis of the s rrna gene libraries
+showed a moderate biodiversity of methanotrophs and
+methylotrophs in lake baikal water column layers with high
+methane concentrat ions different methano and
+methylotroph diversity assessment approaches based on anal 
+ysis of various gene libraries s rrna pmoa and mxaf 
+facilitated further clarification of their taxonomic positions
+and phylogeny and provided insights into their metabolism
+under changing methane concentrations and low tempera 
+tures evidently in deep cold lake baikal as in other psy 
+chrophilic environments methanotrophs play an important
+role in the microbial food web that processes carbon from
+methane oxidation 
+
+acknowledgements the authors gratefully acknowledge irkutsk
+supercomputer center of sb ras for providing the access to hpc 
+cluster «akademik v m matrosov» we also thank to ivan sidorov 
+system administrator of hpc cluster for help in performing
+computations 
+
+funding information the work was supported by the state task for
+limnological institute sb ras no – – the ofi m rfbr
+grant no and mol a rfbr grant no 
+
+compliance with ethical standards
+
+conflict of interest the authors declare that the research was conducted
+in the absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest 
+
+references
+
+ reeburgh ws oceanic methane biogeochemistry chem
+rev – https doi org cr v
+
+ bastviken d tranvik lj downing ja crill pm enrich prast a
+ freshwater methane emissions offset the continental car 
+bon sink science https doi org science 
+ 
+
+ verpoorter c kutser t seekell da tranvik lj a global
+inventory of lakes based on high resolution satellite imagery 
+geophys res lett – https doi org 
+ gl 
+
+ saunois m bousquet p poulter b peregon a ciais p canadell
+jg dlugokencky ej etiope g bastviken d houweling s 
+janssens maenhout g tubiello fn castaldi s jackson rb 
+alexe m arora vk beerling dj bergamaschi p blake dr 
+brailsford g brovkin v bruhwiler l crevoisier c crill p 
+curry c frankenberg c gedney n höglund isaksson l 
+
+ishizawa m ito a joos f kim hs kleinen t krummel p 
+lamarque jf langenfelds r locatellil r machida t 
+maksyutov s mcdonald kc marshall j melton jr morino i 
+o doherty s parmentier fjw patra pk peng c pengl s peters
+gp pisonl i prigent c prinn r ramonetl m riley wj saito m 
+schroeder r simpson ij spahni r steele p takizawa a 
+thornton bf tian h tohjima y viovyl n voulgarakis a van
+weele m van der werf g weiss r wiedinmyer c wilton dj 
+wiltshire a worthy d wunch db xu x yoshida y zhang b 
+zhang z zhu q the global methane budget – 
+earth syst sci data – https doi org essd 
+ 
+
+ zimov sa schuur eag chapin fsiii permafrost global
+carbon budget science – https doi org 
+science 
+
+ atlas b in galaziya gi ed roskartografiya moscow in
+russian 
+
+ votincev kk gidrohimiya ozera baikal an sssr 
+moscow in russian 
+
+ weiss rf carmack ec koropalov vm deep water re 
+newal and biological production in lake baikal nature –
+ https doi org a 
+
+ grachev ma about the current condition of the ecological
+system of lake baikal o sovremennom sostoyanii
+ekologicheskoy sistemy ozera baikal so ran novosibirsk
+ in russian 
+
+ granin ng makarov mm kucher km gnatovsky ry 
+gas seeps in lake baikal detection distribution and implications
+for water column mixing geo mar lett – https doi 
+org s 
+
+ khlystovo de batistm shoji h hachikubo a nishio s naudts
+l poort j khabuev a belousov o manakov a kalmychkov g
+ gas hydrate of lake baikal discovery and varieties j
+asian earth sci – https doi org j jseaes 
+ 
+
+ schmid m mde b granin ng kapitanov va mcginnis df 
+mizandrontsev ib obzhirov ai wiiest a sources and
+sinks of methane in lake baikal a synthesis of measurements
+and modeling limnol oceanogr – https doi org 
+ lo 
+
+ pestunov da domysheva vm ivanov vg shamrin am 
+panchenko mv spatial distribution of co and ch 
+fluxes directions over water surface of lake baikal round 
+baikal expedition june atmos oceanic opt –
+ https doi org aoo in russian 
+
+ granin ng mizandrontsev ib obzhirov ai vereshchagina of 
+gnatovskii ry zhdanov aa oxidation of methane in the
+water column of lake baikal dokl earth sci – 
+https doi org s x 
+
+ zakharenko as pimenov nv ivanov vg zemskaya ti 
+detection of methane in the water column at gas and oil seep sites
+in central and southern lake baikal microbiology – 
+https doi org s 
+
+ granin ng vereshchagina of kozlov vv obzhirov ai 
+makarov mm gnatovsky ry ivanov vg blinov vv 
+mizandrontsev ib changes in the concentration of meth 
+ane in lake baikal a possible cause changing methane concen 
+trations in lake baikal possible cause in ross konf bgazovye
+gidraty v ekosisteme zemli russ conf bgas hydrates in earth
+ecosystem inst inorg chem sib barnch russ acad sci 
+novosibirsk p in russian 
+
+ khlystov om gorshkov ag egorov av zemskaya ti granin
+ng kalmychkov gv vorob eva ss pavlova on yakup ma 
+makarovmm moskvin vi grachevma oil in the lake of
+world heritage dokl earth sci – https doi org 
+ s x 
+
+zakharenko a s et al 
+
+https doi org cr v
+https doi org science 
+https doi org science 
+https doi org gl 
+https doi org gl 
+https doi org essd 
+https doi org essd 
+https doi org science 
+https doi org science 
+https doi org a 
+https doi org s 
+https doi org s 
+https doi org j jseaes 
+https doi org j jseaes 
+https doi org lo 
+https doi org lo 
+https doi org aoo 
+https doi org s x 
+https doi org s 
+https doi org s x 
+https doi org s x 
+
+
+ khlystov om nishio s manakov ay sugiyama h khabuevav 
+belousov ov grachev ma the experience of mapping of
+baikal subsurface gas hydrates and gas recovery russ geol
+geophys – https doi org j rgg 
+ 
+
+ borowskiws a review of methane and gas hydrates in the
+dynamic stratified system of the blake ridge region offshore
+southeastern north america chem geol – https 
+doi org j chemgeo 
+
+ zakharova yr kurilkina mi likhoshvay av shishlyannikov
+sm kalyuzhnaya ov petrova dp likhoshway ev 
+effect of bacteria from the bottom water layer of lake baikal on
+degradation of diatoms paleontol j – https doi org 
+ s 
+
+ mikhailov is zakharova yr galachyants yp usoltseva mv 
+petrova dp sakirko mv likhoshway yv grachev ma 
+similarity of structure of taxonomic bacterial communities in the
+photic layer of lake baikal’s three basins differing in spring phy 
+toplankton composition and abundance dokl biochem biophys
+ – https doi org s 
+
+ kurilkinami zakharova yr galachyants yp petrova dp bukin
+ys domysheva vm blinov vv likhoshway yv 
+bacterial community composition in the water column of the
+deepest freshwater lake baikal as determined by next 
+generation sequencing fems microbiol ecol fiw https 
+doi org femsec fiw 
+
+ rudd jwm taylor cd methane cycling in aquatic envi 
+ronments adv aquat microbiol – 
+
+ frenzel p thebrath b conrad r oxidation of methane in
+the oxic surface layer of a deep lake sediment lake constance 
+femsmicrobiol ecol – https doi org 
+ 
+
+ semrau jd dispirito aa yoon s methanotrophs and
+copper fems microbiol rev – https doi org 
+ j x
+
+ dunfield pf yuryev a senin p smirnova av stott mb hou s 
+ly b saw jh zhou z ren y wang j mountain bw crowe
+ma weatherby tm bodelier pl liesack w feng l wang l 
+alam m methane oxidation by an extremely acidophilic
+bacterium of the phylum verrucomicrobia nature – 
+https doi org nature 
+
+ pol a heijmans k harhangi hr tedesco d jetten ms op den
+camp hj methanotrophy below ph by a new
+verrucomicrobia species nature – https doi org 
+ nature 
+
+ islam t jensen s reigstad lj larsen o birkeland nk 
+methane oxidat ion at degrees c and ph by a
+thermoacidophilic bacterium belonging to the verrucomicrobia
+phylum proc natl acad sci – https doi org 
+ pnas 
+
+ hanson rs hanson te methanotrophic bacteria 
+microbiol rev – 
+
+ trotsenko ya murrell jc metabolic aspect of aerobic
+obligate methanotrophy adv microbiol – https doi 
+org s 
+
+ dumont mg murrell jc community level analysis key
+genes of aerobic methane oxidation methods enzymol –
+ https doi org s 
+
+ costello am lidstrom me molecular characterization of
+functional and phylogenetic genes from natural populations of
+methanotrophs in lake sediments appl environ microbiol 
+ – 
+
+ de batist m canals m sherstyankin p alekseev s and the
+intas project team a new bathymetric map of
+lake baikal http www lin irk ru intas batimetria pdf accessed
+ feb 
+
+ bol shakov am egorov av application of phase equilib 
+rium degassing in gasometric research okeanologiya – 
+
+ sambrook j frisch ef maniatis t molecular cloning a
+laboratory manual cold spring harbor laboratory press n y
+
+ sahm k john p nacke h wemheuer b grote r daniel r 
+antranikian g high abundance of heterotrophic prokary 
+otes in hydrothermal springs of the azores as revealed by a net 
+work of s rrna gene based methods extremophiles –
+ https doi org s 
+
+ holmes aj costello a lidstromme murrell j evidence
+that particulate methane monooxygenase and ammonia
+monooxygenase may be evolutionarily related fems microbiol
+lett – https doi org j 
+tb x
+
+ neufeld jd schäfer h cox mj boden r mcdonald ir murrell
+jc stable isotope probing implicates methylophaga spp 
+and novel gammaproteobacteria in marine methanol and methyl 
+amine metabolism isme j – https doi org 
+ismej 
+
+ kozich jj westcott sl baxter nt highlander sk schloss pd
+ development of a dual index sequencing strategy and
+curation pipeline for analyzing amplicon sequence data on the
+miseq illumina sequencing platform appl environ microbiol
+ – https doi org aem 
+
+ schloss pd westcott sl ryabin t hall jr hartmann m 
+hollister eb lesniewski ra oakley bb parks dh robinson
+cj sahl jw stres b thallinger gg horn djv weber cf 
+introducing mothur open source platform independent 
+community supported software for describing and comparing mi 
+crobial communities appl environ microbiol – 
+https doi org aem 
+
+ dumont mg lüke c deng y frenzel p classification of
+pmoa amplicon pyrosequences using blastand the lowest com 
+mon ancestor method in megan front microbiol https 
+doi org fmicb 
+
+ altschul sf gish w miller w myers ew lipman dj 
+basic local alignment search tool j mol biol – 
+https doi org s 
+
+ fu l niu b zhu z wu s li w cd hit accelerated for
+clustering the next generation sequencing data bioinformatics 
+ – https doi org bioinformatics bts 
+
+ team rc r a language and environment for statistical
+computing r foundation for statistical computing vienna 
+https www r project org accessed dec 
+
+ oksanen j kindt r legendre p o’hara b stevens mhh 
+the vegan package community ecology package – 
+
+ altschul sf madden tl schäffer aa zhang j zhang z miller
+w lipman dj gapped blast and psi blast a new
+generation of protein database search programs nucleic acids
+res – https doi org nar 
+
+ saitou n nei m the neighbor joining method a new
+method for reconstructing phylogenetic trees mol biol evol 
+ – https doi org oxfordjournals molbev a 
+
+ kimura m a simple method for estimating evolutionary
+rates of base substitutions through comparative studies of nucleo 
+tide sequences j mol evol – https doi org 
+bf 
+
+ zuckerkandl e pauling l evolving genes and proteins 
+in bryson v vogel hj eds evolutionary divergence and con 
+vergence in proteins academic press new york pp – 
+
+ kumar s stecher g tamura k mega molecular evo 
+lutionary genetics analysis version for bigger datasets mol
+biol evol – https doi org molbev 
+msw 
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+https doi org j rgg 
+https doi org j rgg 
+https doi org j chemgeo 
+https doi org j chemgeo 
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org femsec fiw 
+https doi org femsec fiw 
+https doi org 
+https doi org 
+https doi org j x
+https doi org j x
+https doi org nature 
+https doi org nature 
+https doi org nature 
+https doi org pnas 
+https doi org pnas 
+https doi org s 
+https doi org s 
+https doi org s 
+http www lin irk ru intas batimetria pdf
+https doi org s 
+https doi org j tb x
+https doi org j tb x
+https doi org ismej 
+https doi org ismej 
+https doi org aem 
+https doi org aem 
+https doi org fmicb 
+https doi org fmicb 
+https doi org s 
+https doi org bioinformatics bts 
+https www r project org
+https doi org nar 
+https doi org oxfordjournals molbev a 
+https doi org bf 
+https doi org bf 
+https doi org molbev msw 
+https doi org molbev msw 
+
+
+ felsenstein j confidence limits on phylogenies an ap 
+proach using the bootstrap evolution – https doi 
+org j tb x
+
+ belykh oi sorokovikova eg autotrophic picoplankton in
+lake baikal abundance dynamics and distribution aquat
+ecosyst health manag – https doi org 
+ 
+
+ belykh oi sorokovikova eg saphonova ta tikhonova iv
+ autotrophic picoplankton of lake baikal composition 
+abundance and structure hydrobiologia – https doi 
+org s 
+
+ belykh oi tikhonova iv sorokovlkova eg sherbakova ta 
+kureishevichav picoplankton cyanoprokaryota of genera
+synechococcus nageli and cyanobium rippka et cohen baz 
+from lake baikal int j algae – https doi org 
+ interjalgae v i 
+
+ kaluzhnaya ov itskovich vb bleaching of baikalian
+sponge affects the taxonomic composition of symbiotic microor 
+ganisms russ j genet – https doi org 
+s 
+
+ zemskaya ti lomakina av mamaeva ev zakharenko as 
+pogodaeva tv petrova dp galachyants yp bacterial
+communities in sediments of lake baikal from areas with oil
+and gas discharge aquat microb ecol – https doi 
+org ame 
+
+ leahy jg colwell rr microbial degradation of hydrocar 
+bons in the environment microbiol rev – 
+
+ haggblom mm microbial breakdown of halogenated aro 
+matic pesticides and related compounds fems microbiol rev
+ – https doi org j tb x
+
+ hug la castelle cj wrighton kc thomas bc sharon i 
+frischkorn kr williams kh tringe sg banfield jf 
+community genomic analyses constrain the distribution of meta 
+bolic traits across the chloroflexi phylum and indicate roles in
+sediment carbon cycling microbiome https doi org 
+ 
+
+ cardman z arnosti c durbin a ziervogel k cox c steen ad 
+teske a verrucomicrobia are candidates for
+polysaccharide degrading bacterioplankton in an arctic fjord of
+svalbard appl environ microbiol – https doi 
+org aem 
+
+ zhang j zhang x liu y xie sg liu yg 
+bacterioplankton communities in a high altitude freshwater wet 
+land ann microbiol – https doi org 
+s 
+
+ shimaraev mn parfenova vv tya k domysheva vm 
+gnatovskii ry tsekhanovskiĭ vv logacheva nf levin 
+exchange processes and distribution of microorganisms in the
+deep water zone of lake baikal dokl akad nauk – 
+ in russian 
+
+ parfenova vv shimaraev mn tya k domysheva vm levin
+la dryukker vv zhdanov aa gnatovskii ry tsekhanovskiĭ
+vv logacheva nf on the vertical distribution of micro 
+organisms in lake baikal during spring deep water renewal 
+microbiology – https doi org bf 
+
+ dumont mg primers functional marker genes for
+methylotrophs and methanotrophs in mcgenity t timmis k 
+nogales b eds hydrocarbon and lipid microbiology protocols 
+springer protocols handbooks springer berlin pp – https 
+doi org 
+
+ mcdonald ir murrell jc the methanol dehydrogenase
+structural gene mxaf and its use as a functional gene probe for
+methanotrophs and methylotrophs appl environ microbiol
+ – 
+
+ lau e fisher mc steudler pa colleen m the methanol
+dehydrogenase gene mxaf as a functional and phylogenetic
+
+marker for proteobacterial methanotrophs in natural environ 
+ments plos one e https doi org journal 
+pone 
+
+ giovannoni sj hayakawa dh tripp hj stingl u givan sa 
+cho jc oh hm kitner jb vergin kl rappé ms the
+small genome of an abundant coastal ocean methylotroph 
+environ microbiol – https doi org j 
+ x
+
+ kalyuhznaya mg martens habbena w wang t hackett m 
+stolyar sm stahl da lidstrom me chistoserdova l 
+methylophilaceae link methanol oxidation to denitrification in
+freshwater lake sediment as suggested by stable isotope probing
+and pure culture analysis environ microbiol rep – 
+https doi org j x
+
+ newton rj jones se eiler a mcmahonkd bertilsson s 
+a guide to the natural history of freshwater lake bacteria 
+microbiol mol biol rev – https doi org 
+mmbr 
+
+ nagata t takai k kawanobe k kim d s nakazato r 
+guselnikova n bondarenko n mologawaya o kostornova t 
+drucker v ya s yaw autotrophic picoplankton in south 
+ern lake baikal abundance growth and grazing mortality during
+summer j plankton res – https doi org 
+plankt 
+
+ votintsev kk meshcheryakova ai popovskaya gi cycle
+of organic matter in lake baikal nauka novosibirsk in russian 
+
+ cabello yeves pj zemskaya ti rosselli r coutinho fh 
+zakharenko as blinov vv rodriguez valera f 
+genomes of novel microbial lineages assembled from the sub 
+ice waters of lake baikal appl environ microbiol e –
+e https doi org aem 
+
+ lindstrom es kamst van agterveld mp zwart g 
+distribution of typical freshwater bacterial groups is associated
+with ph temperature and lake water retention time appl
+environ microbiol – https doi org aem 
+ 
+
+ debroas d humbert jf enualt f bronner g faubladier m 
+cornillot e metagenomic approach studying the taxonom 
+ic and functional diversity of the bacterial community in a meso 
+trophic lake lac du bourget france environ microbiol 
+ – https doi org j x
+
+ zhuang wq tay jh maszenan am tay st isolation of
+naphthalene degrading bacteria from tropical marine sediments 
+water sci technol – 
+
+ liu y zhang j zhang z isolation and characterization of
+polycyclic aromatic hydrocarbons degrading sphingomonas sp 
+strain zl biodegradation – https doi org 
+b biod e 
+
+ chaudhary dk kim j sphingomonas naphtha sp nov 
+isolated from oil contaminated soil int j syst evol microbiol 
+ – https doi org ijsem 
+
+ zhou l li h zhangy han s xua h sphingomonas from
+petroleum contaminated soils in shenfu china and their pahs
+degradation abilities braz j microbiol – https doi 
+org j bjm 
+
+ gorshkov ag marinaite ii zemskaya ti khodzher tv 
+the present level of oil products in the water of lake baikal and its
+tributaries khimiya v interesakh ustoichivogo razvitiya –
+ in russian 
+
+ tsutsumi m iwata t kojima h fukui m spatiotemporal
+variations in an assemblage of closely related planktonic aerobic
+methanotrophs freshw biol – https doi org 
+j x
+
+ biderre petit c jézéquel d dugat bony e lopes f kuever j 
+borrel g viollier e fonty g peyret p identification of
+microbial communities involved in the methane cycle of a
+
+zakharenko a s et al 
+
+https doi org j tb x
+https doi org j tb x
+https doi org 
+https doi org 
+https doi org s 
+https doi org s 
+https doi org interjalgae v i 
+https doi org interjalgae v i 
+https doi org s 
+https doi org s 
+https doi org ame 
+https doi org ame 
+https doi org j tb x
+https doi org 
+https doi org 
+https doi org aem 
+https doi org aem 
+https doi org s 
+https doi org s 
+https doi org bf 
+https doi org 
+https doi org 
+https doi org journal pone 
+https doi org journal pone 
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org mmbr 
+https doi org mmbr 
+https doi org plankt 
+https doi org plankt 
+https doi org aem 
+https doi org aem 
+https doi org aem 
+https doi org j x
+https doi org b biod e 
+https doi org b biod e 
+https doi org ijsem 
+https doi org j bjm 
+https doi org j bjm 
+https doi org j x
+https doi org j x
+
+
+freshwater meromictic lake fems microbiol ecol – 
+https doi org j x
+
+ blees j niemann h wenk cb zopfi j schubert cj kirf mk 
+veronesi ml hitz c lehmann mf micro aerobic bacte 
+rial methane oxidation in the chemocline and anoxic water column
+of deep south alpine lake lugano switzerland limnol
+oceanogr – https doi org lo 
+
+ morana c borges av roland fae darchambeau f descy j p 
+bouillon s methanotrophy within the water column of a
+large meromictic tropical lake lake kivu east africa 
+biogeosciences – https doi org bgd 
+ 
+
+ bornemann m bussmann i tichy l deutzmann j schink b 
+pester m methane release from sediment seeps to the at 
+mosphere is counteracted by highly active methylococcaceae in
+the water column of deep oligotrophic lake constance fems
+microbiol ecol fiw https doi org femsec fiw 
+
+ he r woollermj pohlman jw quensen j tiedje jm leighmb
+ shifts in identity and activity of methanotrophs in arctic
+lake sediments in response to temperature changes appl environ
+microbiol – https doi org aem 
+
+ amaral ja knowles r growth of methanotrophs in meth 
+ane and oxygen counter gradients fems microbiol lett 
+ – https doi org j tb x
+
+ henckel t roslev p conrad r effects of o and ch on
+presence and activity of the indigenous methanotrophic commu 
+nity in rice field soil environ microbiol – https doi 
+org j x
+
+ osudar r liebner s alawi m yang s bussmann i wagner d
+ methane turnover and methanotrophic communities in arc 
+tic aquatic ecosystems of the lena delta northeast siberia fems
+microbiol ecol fiw https doi org femsec fiw 
+
+ milucka j kirf m lu l krupke a lam p littmann s kuypers
+mmm schubert cj methane oxidation coupled to oxy 
+genic photosynthesis in anoxic waters isme j – 
+https doi org ismej 
+
+ oswaldk jegge c tischer j berg j brand a miraclemr soria
+x vicente e lehmann mf zopfi j schubert cj 
+methanotrophy under versatile conditions in the water column of
+the ferruginousmeromictic lake la cruz spain frontmicrobiol
+ https doi org fmicb 
+
+ oswald k milucka j brand a hach p littmann s wehrli b 
+kuypers mmm schubert cj aerobic gammaproteobacterial
+methanotrophs mitigate methane emissions from oxic and anoxic
+lake waters limnol oceanogr s –s https doi org 
+ lno 
+
+ samad ms bertilsson s seasonal variation in abundance
+and diversity of bacterial methanotrophs in five temperate lakes 
+front microbiol https doi org fmicb 
+
+ dedysh sn liesack w khmelenina vn suzina ne trotsenko
+ya semrau jd bares am panikov ns tiedje jm 
+methylocella palustris gen nov sp nov a new methane oxidiz 
+ing acidophilic bacterium from peat bogs representing a novel
+subtype of serine pathway methanotrophs int j syst evol
+microbiol – https doi org ijs 
+
+ dedysh sn exploring methanotroph diversity in acidic
+northern wetlands molecular and cultivation based studies 
+
+microbiology – ht tps doi org 
+s 
+
+ kip n dutilh be pan y bodrossy l neveling k kwint mp 
+jetten msm op den camp hjm ultra deep pyrosequenc 
+ing of pmoa amplicons confirms the prevalence ofmethylomonas
+and methylocystis in sphagnum mosses from a dutch peat bog 
+environ microbiol rep – https doi org j 
+ x
+
+ chen y dumont mg neufeld jd bodrossy l stralis pavese n 
+mcnamara np ostle n briones mji murrell jc 
+revealing the uncultivated majority combining dna stable 
+isotope probing multiple displacement amplification and
+metagenomic analyses of uncultivated methylocystis in acidic
+peatlands environ microbiol – https doi org 
+ j x
+
+ liebner s wagner d abundance distribution and poten 
+tial activity of methane oxidizing bacteria in permafrost soils from
+the lena delta siberia environmicrobiol – https doi 
+org j x
+
+ liebner s rublack k stuehrmann t wagner d diversity
+of aerobic methanotrophic bacteria in a permafrost active layer soil
+of the lena delta siberia microb ecol – https doi org 
+ s x
+
+ börjesson g sundh i svensson b microbial oxidation of
+ch at different temperatures in landfill cover soils fems
+microbiol ecol – https doi org s 
+ 
+
+ mohanty sr bodelier ple conrad r effect of tempera 
+ture on composition of the methanotrophic community in rice field
+and forest soil fems microbiol ecol – https doi org 
+ j x
+
+ oshkin iy wegner ce lüke c glagolev mv filippov iv 
+p i m e n o v nv l i e s a c k w d e d y s h sn 
+gammaproteobacterial methanotrophs dominate cold methane
+seeps in floodplains of west siberian rivers appl environ
+microbiol – https doi org aem 
+
+ crevecoeur s vincent wf comte j matveev a lovejoy c
+ diversity and potential activity of methanotrophs in high
+methane emitting permafrost thaw ponds plos one 
+e https doi org journal pone 
+
+ khademaf pol a wieczorek a mohammadi ss francoijs k j 
+stunnenberg hg jetten msm op den camp hjm 
+au to t r oph i c me thano t r ophy in ve r rucomic rob i a 
+methylacidiphilum fumariolicum solv uses the calvin benson 
+bassham cycle for carbon dioxide fixation j bacteriol 
+ – https doi org jb 
+
+ chistoserdova l methylotrophy in a lake from
+metagenomics to single organism physiology appl environ
+microbiol – https doi org aem 
+
+ salcher mm neuenschwander sm posch t pernthaler j 
+the ecology of pelagic freshwater methylotrophs assessed by a
+high resolution monitoring and isolation campaign isme j 
+ – https doi org ismej 
+
+ chistoserdova l modularity of methylotrophy revisited 
+environ microbiol – https doi org j 
+ x
+
+bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+
+https doi org j x
+https doi org lo 
+https doi org bgd 
+https doi org bgd 
+https doi org femsec fiw 
+https doi org aem 
+https doi org j tb x
+https doi org j x
+https doi org j x
+https doi org femsec fiw 
+https doi org ismej 
+https doi org fmicb 
+https doi org lno 
+https doi org lno 
+https doi org fmicb 
+https doi org ijs 
+https doi org s 
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org j x
+https doi org s x
+https doi org s x
+https doi org s 
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org aem 
+https doi org journal pone 
+https doi org jb 
+https doi org aem 
+https doi org ismej 
+https doi org j x
+https doi org j x
+
+	bacterial communities in areas of oil and methane seeps in pelagic of lake baikal
+	abstract
+	introduction
+	materials and methods
+	studies of water
+	dna extraction
+	selected loci amplification and sequencing
+	data preparation and filtering bioinformatics analysis
+	characterization of the areas studied
+	diversity evaluation of the communities from the water column based on the analysis of s rrna gene libraries
+	phylogenetic diversity of bacterial community in the water column
+	phylogenetic diversity of methane monooxygenase pmoa and methanol dehydrogenase mxaf genes
+
+	discussion
+	references
+
+
+

@@ -1,0 +1,1843 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unicellular eukaryotic community response to temperature and salinity variation in mesocosm experiments
+
+
+fmicb october time 
+
+original research
+published october 
+
+doi fmicb 
+
+edited by 
+hongbin liu 
+
+hong kong university of science
+and technology hong kong
+
+reviewed by 
+nils risgaard petersen 
+
+aarhus university denmark
+gwenael piganeau 
+
+ums observatoire
+océanologique de banyuls sur mer
+
+ oob france
+
+ correspondence 
+ulrich sommer
+
+usommer geomar de
+maria moustaka gouni
+mmustaka bio auth gr
+
+specialty section 
+this article was submitted to
+
+aquatic microbiology 
+a section of the journal
+
+frontiers in microbiology
+
+received april 
+accepted september 
+
+published october 
+
+citation 
+stefanidou n genitsaris s 
+
+lopez bautista j sommer u and
+moustaka gouni m unicellular
+
+eukaryotic community response
+to temperature and salinity variation
+
+in mesocosm experiments 
+front microbiol 
+
+doi fmicb 
+
+unicellular eukaryotic community
+response to temperature and
+salinity variation in mesocosm
+experiments
+natassa stefanidou savvas genitsaris juan lopez bautista ulrich sommer and
+maria moustaka gouni 
+
+ department of botany school of biology aristotle university of thessaloniki thessaloniki greece school of economics 
+business administration and legal studies international hellenic university thermi greece department of biological
+sciences the university of alabama tuscaloosa al united states geomar helmholtz centre for ocean research kiel 
+kiel germany
+
+climate change has profound impacts on marine biodiversity and biodiversity changes
+in turn might affect the community sensitivity to impacts of abiotic changes we used
+mesocosm experiments and next generation sequencing to study the response of the
+natural baltic and mediterranean unicellular eukaryotic plankton communities control
+and ◦c heat shock to subsequent salinity changes − psu psu the impact on
+operational taxonomic unit otu richness taxonomic and functional composition and
+rrna rdna ratios were examined our results showed that heat shock leads to lower
+otu richness fewer otus in the baltic and fewer in the mediterranean and
+a shift in composition toward pico and nanophytoplankton and heterotrophic related
+otus heat shock also leads to increased rrna rdna ratios for pico and micrograzers 
+less than of shared otus were found among the different salinities indicating
+the crucial role of salinity in shaping communities the response of rrna rdna ratios
+varied highly after salinity changes in both experiments the diversity decrease brought
+about by heat shock influenced the sensitivity to salinity changes the heat shock
+either decreased or increased the sensitivity of the remaining community depending
+on whether it removed the more salinity sensitive or the salinity tolerant taxa 
+
+keywords coastal marine plankton climate change illumina sequencing s rrna gene cdna rna dna ratio
+
+introduction
+
+multiple components of climate change are projected to affect all levels of biodiversity and
+thus ecosystems structure and resilience bellard et al based on current knowledge
+ intergovernmental panel on climate change ipcc sea surface temperature is predicted
+to increase up to – ◦c by the year with even stronger increases in semi enclosed coastal
+seas in addition to increase mean temperature extreme events such as heat waves are expected
+to increase in frequency and strength altered regimes of ice melt evaporation and precipitation
+regimes will change salinity harley et al with a moderate increase of salinity globally by
+ psu but much stronger changes regionally for the western baltic sea one of our study sites 
+andersson et al predict a decrease of – psu during summer season as an ensemble average
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org journals microbiology editorial board
+https www frontiersin org journals microbiology editorial board
+https doi org fmicb 
+http creativecommons org licenses by 
+https doi org fmicb 
+http crossmark crossref org dialog doi fmicb domain pdf date stamp 
+https www frontiersin org articles fmicb full
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+http loop frontiersin org people overview
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+of several models while some individual models predict even
+stronger decreases meier et al for thermaikos bay 
+krestenitis et al found a salinity decrease of almost
+ psu for the period – with a continuous trend 
+physical changes like these will lead to changes in community
+composition biodiversity and functional attributes which in
+turn will influence the responsiveness of communities to further
+physical changes as has been conceptualized by the double 
+stressor concept of vinebrooke et al so far the impact of
+different aspects of climate change on plankton communities has
+been studied quite extensively e g yvon durocher et al 
+kaur kahlon et al moustaka gouni et al while
+the effect of plankton community changes on the sensitivity to
+environmental pressures has not been the focus of experimental
+studies 
+
+the use of experimental mesocosms is a well established tool
+to explore microbial community responses to environmental
+changes with the advantage of manipulation high replication
+and free factorial combination of stress factors benton et al 
+ until recently the majority of investigations that
+studied the impacts of climate change on microeukaryotic
+planktic community composition were based on morphological
+species determination by microscopy this provides a sufficient
+resolution in taxa rich in distinctive morphological features e g 
+diatoms thecate dinoflagellates while it might underestimate
+actual biodiversity in taxa poor in distinctive morphological
+features e g naked flagellates and miss rare small and
+cryptic or endosymbiotic species medinger et al behnke
+et al christaki et al investigations of the s
+rrna gene rdna herein diversity often reveal long lists
+of previously undiscovered taxa of unicellular eukaryotes bik
+et al next generation sequencing ngs provides a
+comprehensive tool for investigations of marine microeukaryotic
+community structure and has recently revealed previously
+hidden biodiversity de vargas et al the majority
+of mesocosm experiments using ngs studied the impacts
+of climate change on bacterial communities via s rdna
+sequencing muscarella et al baltar et al guo
+et al and only few examined planktic microeukaryotic
+assemblages belkin et al moustaka gouni et al 
+ 
+
+while sequencing of rdna allows detecting the majority of
+microbe biodiversity regardless of their viability and inferred
+activity estimating microbial activities is fundamental to
+understand the functioning of ecosystems generally the quantity
+of rrna is proportional to both the number of ribosomes
+and total rna concentration poulsen et al therefore
+it can be used as an indicator of cell activity in recent years 
+the advance of ngs tools has allowed the combination of
+rdna sequencing along with rrna sequencing rna seq by
+means of cdna sequencing as a way to distinguish organisms
+with strong indication of high ribosomal activity henceforth
+active from those with low no ribosomal activity henceforth
+non active campbell et al massana et al hu
+s k et al thus the ratio of rrna sequences to
+rdna sequences rrna rdna has been used as a proxy
+of metabolic activity logares et al hu s k et al 
+
+ this application has revealed a significant portion of
+rare species with high activity campbell et al hu
+s k et al that could act as a genetic reservoir and
+respond rapidly to environmental changes logares et al 
+ 
+
+in mesocosm experiments phylogenetic markers have been
+used with classical molecular tools in order to identify
+environmental variability effects on bacterial e g lebaron
+et al van der zaan et al newbold et al 
+archaeal e g bowen et al and protistan e g countway
+et al communities here we chose to apply for the
+first time in a mesocosm experiment s rdna sequencing
+together with s rrna high throughput sequencing to study
+the impacts of heat shock and changing salinity on composition
+and inferred activity of two natural microeukaryotic planktic
+communities the two study sites were kiel bight in baltic
+sea and thermaikos bay in mediterranean sea kiel bight is a
+shallow ending of the baltic sea experiencing a wide range of
+salinity throughout the year it is a eutrophic marine ecosystem
+where phytoplankton biomass has been doubled the last century
+ wasmund et al in the north eastern mediterranean 
+thermaikos bay is the innermost part of thermaikos gulf 
+which is a eutrophic coastal area simboura et al 
+with marked diatom and dinoflagellate blooms nikolaides
+and moustaka gouni mihalatou and moustaka gouni 
+ 
+
+following vinebrooke’s et al double stressor concept
+we performed two mesocosm experiments in which a transient
+“pulse” stressor should change plankton composition and
+biodiversity and thus affect the resistance to a subsequent
+“press” stressor of different nature for the “pulse” stressor we
+chose a temperature increase mimicking natural heat waves 
+while a positive and negative change in salinity were chosen as
+subsequent second stressor 
+
+our experiments were primarily designed as “proof of 
+principle” experiments testing vinebooke’s double stressor
+concept however we also aimed to put the nature and
+magnitude of the stressors applied into the context of global
+change research because the double stressor concept is
+particularly important in that context if biodiversity losses driven
+by one global change related factor e g temperature weaken
+the resistance of ecological communities against further stressors 
+the magnitude of temperature change ◦c employed in our
+study is clearly below the annual temperature amplitude of mid 
+latitudes but conforms to the more pessimistic global change
+scenarios for mean temperature changes in coastal seas and to
+short term temperature changes during heat waves which are
+expected to increase in frequency and magnitude with ongoing
+climate warming intergovernmental panel on climate change
+ ipcc in terms of their temporal scale the experiments
+mimick how a change in the species inventory driven by a heat
+wave would influence the ability of the resultant phytoplankton
+communities to cope with salinity changes the magnitude of
+salinity changes was within the range of short term moving of
+oceanographic fronts of coastal seas and within the predicted
+range for long term changes in coastal seas meier et al 
+andersson et al 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+our working hypotheses were 
+
+ the heat shock and salinity changes will lead to
+composition shifts and biodiversity changes of unicellular
+eukaryotic communities
+
+ the heat shock and salinity changes will affect rrna rdna
+ratios of unicellular eukaryotic communities
+
+ the heat shocked communities will have lower resistance to
+salinity changes
+
+materials and methods
+
+experimental design
+we performed a two step experiment in the first step 
+experimental plankton communities l each were
+subjected to two different temperatures a control i e 
+ambient temperature of the study site h heated by ◦c to
+manipulate biodiversity by temperature stress and use the
+resultant communities as inocula for the second step the analysis
+of responses to salinity first autumn plankton from kiel bight 
+baltic sea sampled on october and early summer
+plankton from thermaikos bay mediterranean sea sampled on
+ june were taken and metazoan grazers were removed
+by sieving through a µm mesh size gauze temperature in
+the heated treatments was increased gradually over days ◦c
+per day and was kept at ◦ above ambient for another days 
+the resultant ai and hi communities where used as inoculum
+for the second step using a single unit for each temperature
+pre treatment assured identical starting conditions between the
+different mesocosms for the subsequent salinity experiment 
+for the baltic sea experiment ml of the ai were added to
+each mesocosm of the a community and ml of the hi to
+each mesocosm of the h community for the mediterranean
+experiment ml of the ai were added to each mesocosm of
+the a community and ml of the hi to each mesocosm of
+the h community the second step consisted of outdoor
+mesocosms two experimental communities preconditioned by
+different temperatures × three salinity levels × four replicates 
+table with a volume of l each mesocosms were filled
+with sterile filtered seawater µm from the study and
+were inoculated with the ai and hi communities inoculum
+volumes were adjusted to provide equal initial biomasses in all
+treatments the experiments were terminated after all treatments
+reached stationary phase for sample identification we use a
+code indicating the temperature pre treatment ai and hi i
+subscript corresponds to start samples of the salinity treatment 
+and the salinity treatment f− f and f for low ambient and
+high salinity f subscript corresponds to end point samples of
+the salinity treatment thus ai and hi are at the same time the
+end point samples for the temperature pre treatment and the
+start samples for the salinity treatment af af af− hf hf 
+and hf− are the end point samples for the salinity treatments 
+
+sample collection
+water temperature salinity and fluorescence fluorometer 
+au turner design in the baltic mesocosms were measured
+
+every second day during the first week and every day after the
+first week of the experiment in the mediterranean experiment 
+phytoplankton abundance was measured instead of fluorescence
+using the inverted microscope method utermöhl at the
+end of the experiments subsamples samples were analyzed
+with the inverted microscope and morphospecies richness 
+abundance and biomass showed no significant differences among
+the replicates according to kolmogorof–smirnov statistical test 
+for the molecular analysis subsamples of ml were taken
+from each replicate for dna and rna sequencing before the
+inoculation and at the end of the salinity experiment after
+collection dna and rna samples were filtered immediately
+through µm nucleopore filters mm diameter using very
+low filtration pressure the filters were stored at − ◦c until
+nucleic acid extraction 
+
+dna and rna extraction
+filters of the same replicates were pooled together before
+dna and rna extraction based on microscopy data that
+showed no significant differences between replicates in terms
+of morphospecies richness abundance and biomass nucleic
+acid extractions were done using powerwater dna isolation
+kit mo bio laboratories inc carlsbad ca united states and
+powersoil rna isolation kit mo bio laboratories inc carlsbad 
+ca united states following the manufacturers protocol minor
+modifications included introduction of three cycles of freeze 
+thaw − ◦c min ◦c min and beat beading with
+ × min intervals on a horizontal vortex the rna samples
+were tested for the presence of dna contamination by pcr and
+then reversed transcribed using qpcrbio cdna synthesis kit
+ pcr biosystems united kingdom the nucleic acid samples
+contained between ng u l− and ng u l− of total dna
+and between ng u l− and ng u l− of total rna as
+measured by nanodrop thermo scientific united states 
+
+pcr and tag pyrosequencing
+tag pyrosequencing of s rdna was performed using pcr
+amplification of the v and v region and by using the two
+eukaryotic primers s f ′ gaaactgcgaatggctc ′ 
+ lopez garcia et al and euk r ′ accaga
+cttgccctcc ′ amann et al these primers were
+designed to amplify – bp in the region furthermore 
+cdna representing rna was amplified using the same primer
+pair targeting the same region pcr reactions and barcode
+amplicon sequencing process described by dowd et al 
+was performed by the mr dna company shallowater tx 
+united states briefly pcr conditions included a denaturation
+step at ◦c for min cycles of amplification that were
+performed at ◦c for s ◦c for s and ◦c for min 
+a final extension step was performed for min at ◦c 
+subsequently pcr products were purified using calibrated
+ampure xp beads and the purified products were used to
+prepare the dna libraries by following the illumina miseq
+dna high throughput library preparation protocol dna
+library preparation and sequencing was performed at mr 
+
+ http mrdnalab com 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+http mrdnalab com 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+table general description of a and h communities treatments and number of dna and rna based otus for each experiment 
+
+code time days temperature oc salinity psu dna otus rna otus
+
+baltic mediterranean baltic mediterranean baltic mediterranean baltic mediterranean baltic mediterranean
+
+ai t t 
+
+af t t 
+
+af t t 
+
+af− t t 
+
+hi t t 
+
+hf t t 
+
+hf t t 
+
+hf− t t 
+
+values for the mediterranean experiment are shaded 
+
+dna shallowater tx united states on a miseq following
+the manufacturer’s guidelines sequences were submitted to
+genbank sra under the accession number srx 
+
+read processing
+the produced reads were processed using mothur v 
+software following the standard operating procedure schloss
+et al briefly forward and reverse reads were
+joined and the barcodes were removed reads bp 
+with homopolymers bp or with ambiguous base calls were
+removed from downstream analysis the remaining reads were
+dereplicated to the unique sequences and aligned independently
+against silva database containing eukaryotic ssu
+rrna sequences quast et al then reads suspected
+of being chimeras were removed using the uchime software
+ edgar the data sets were normalized to the sample with
+the lowest number of reads using the subsample command in
+mothur so that rdna samples contained reads and
+rrna samples reads these reads were clustered into
+otus at sequence similarity threshold singletons were
+removed as they were likely erroneous sequencing products
+ kunin et al behnke et al after the analyses 
+ otus in rdna samples and otus in rrna samples
+were produced in total and were taxonomically classified using
+blastn altschul et al on the pr curated database 
+which contains protists sequences guillou et al otus
+that were affiliated to metazoa eggs larvae fragments of
+animals were removed thus otus belonging to protists
+remained in rdna samples and otus in rrna samples 
+
+assignment of unicellular eukaryotes in
+functional trophic groups
+all otus were assigned to six trophic groups according
+to their trophic roles supplementary table autotrophs
+ e g bacillariophyceae mixotrophs e g haptophyceae 
+micrograzers e g amoebozoa picograzers e g marine
+stramenopile mast parasites e g marine alveolates
+ malvs and decomposers e g fungi briefly each otu
+was individually examined and assigned to one of the six
+
+ www mrdnalab com
+
+groups after gathering the current available information for it 
+microscopic observations phase contrast and epifluoresence
+microscopy were also used for the classification and assignment
+of every microscopically detectable otu e g skeletonema 
+prorocentrum imantonia for the rest otus which were
+undetectable with microscopic techniques e g malvs 
+pirsonia the assignment was done according to extensive
+literature search supplementary table for instance malvs
+and pirsonia are classified as parasites skovgaard 
+and picobilyphyta are classified as picograzers moreira and
+lópez garcía 
+
+data analysis
+rarefaction curves for all samples were calculated with the past
+ c software in order to determine if the sequencing effort
+was sufficient to fully assess the otus richness the ratios
+of auto and mixotrophic to heterotrophic otus sauto shet 
+and auto and mixotrophic to consumers number of otus
+ sauto sgrazers parasites were calculated as metrics related to the
+community trophic structure decomposers were excluded from
+the calculation of the sauto sgrazers parasites ratio as they did not
+consume living biomass otus were grouped into two categories
+according to their relative abundance per sample abundant
+otus were defined as those with relative abundance of the
+total number of reads in the sample while per sample rare as those
+with relative abundance mangot et al logares
+et al genitsaris et al for defining overall abundant
+and rare otus the aforementioned thresholds were divided by
+a factor of overall abundant otus were represented with
+ of the total number of reads while overall rare with
+ of the total number of reads logares et al 
+genitsaris et al the relationship between s rrna and
+ s rdna frequency was examined for each common otu in the
+two datasets of rdna and rrna rrna rdna ratios were used as
+a proxy in order to examine the relative activity of the obtained
+otus first the range of rrna rdna ratio was calculated for
+the taxonomic groups and then the average rrna rdna ratio
+for each taxonomic and for each trophic group was calculated
+across the treatments in order to evaluate the alterations in
+relative activity in relation to temperature and salinity changes 
+the resistance of a and h communities to salinity change was
+measured by log response ratio lr ln y y where y is
+
+frontiers in microbiology www frontiersin org october volume article 
+
+http www mrdnalab com
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+the metric of choice in the treatments af− af hf− hf and
+y the metric of choice in the control af hf a lr close to
+zero indicates little change while strongly positive or negative
+ratios indicate strong change as metrics of response we chose
+the two most important measures of diversity otu richness s 
+and evenness e wilsey and potvin and two measures of
+trophic structure sauto shet and sauto sgrazers parasites 
+
+statistical analysis
+non parametric kolmogorov–smirnov paired test k–s test was
+used to evaluate whether the rdna and rrna relative abundance
+between ai and hi unicellular eukaryotic communities are
+equal the equality among the rdna and rrna relative
+abundance across the three salinities was examined with
+non parametric kruskal–wallis test the significance of heat
+shock and salinity changes effect on taxonomic composition
+across the treatments was tested with pearson’s chi square test 
+kendall rank correlation coefficient was used to measure the
+ordinal association between s rdna and s rrna relative
+abundance finally we used multidimensional scaling mds 
+based on jaccard similarity coefficient due to its sensitivity for
+the rare taxa chao et al to compare the community
+composition 
+
+results
+
+rdna and rrna community structure
+a total of unique otus were identified over all
+samples after read denoising chimera removal removal of
+metazoan otus and normalization these were affiliated to
+ protistan supergroups alveolates amoebozoa apusozoa 
+excavata archeoplastida hacrobia opisthoconta rhizaria 
+stramenopiles and were further divided into taxonomic
+groups two hundreds and thirty seven otus were shared in
+both experiments while otus were observed only in the
+baltic experiment and otus only in the mediterranean
+experiment among the taxonomic groups in the baltic
+experiment bacillariophyceae had the highest number of otus
+ followed by fungi otus and dinophyceae 
+otus figure regarding the trophic groups autotrophs had
+the highest otu richness followed by picograzers 
+otus and parasites otus supplementary table b in
+the mediterranean experiment dinophyceae was the taxonomic
+group with the highest number of otus followed by
+fungi otus and bacillariophyceae otus figure 
+and mixotrophs were the trophic group with the highest
+otu richness followed by picograzers otus 
+and parasites otus supplementary table b the
+rna dataset was composed by unique otus in the
+baltic experiment bacillariophyceae prevailed as the most
+abundant taxonomic group reads followed by
+haptophyceae reads and fungi reads 
+ supplementary table a autotrophs were the most
+abundant trophic group reads followed by
+picograzers reads and mixotrophs reads 
+ figure in the mediterranean experiment fungi
+
+were the most abundant taxonomic group reads 
+followed by dinophyceae reads and haptophyceae
+ reads supplementary table a and decomposers
+were the most abundant trophic group reads 
+followed by picograzers reads and autotrophs
+ reads figure finally rarefaction curves
+reached a plateau in all cases when ≥ cutoff levels of read
+similarities were applied supplementary figure both in dna
+and rna analyses 
+
+effects of changing salinity on a and h
+microeukaryotic community structure
+according to k–s paired test equality between the ai and hi
+communities was rejected in both experiments psame 
+and according to chi square test the effect of the heat shock
+on community composition was statistically significant in both
+cases ppearson ′ s totally in the baltic experiment 
+dna based otus were identified in ai community and 
+in hi community and in the mediterranean experiment 
+in ai and in hi table eighty one bacillariohyceae
+related dna based otus were recorded in ai in the baltic
+experiment while only in hi figure a their rna 
+based relative abundance decreased from in ai to 
+in hi figure a autotrophic dna based otus and rna 
+based reads decreased from and in ai to and
+ in hi figure a in the mediterranean experiment ai
+contained dinophyceae related dna based otus while
+hi only figure b their rna based relative abundance
+deceased from in ai to in hi figure b autotrophs
+together with mixotrophs had less dna based otus and
+ less rna based reads in hi than in ai figure b on
+the other hand a relatively low increase of chlorophyceae and
+haptophyceae related dna based otus was detected in hi
+in both experiments figures a b furthermore increased
+dna based otu richness and rna based relative abundance
+was found for fungi and decomposers in hi in the baltic
+experiment and for mast and picograzers in the mediterranean
+experiment figures a b a b the rest of the taxonomic
+and trophic groups did not show considerable differences 
+as less autotrophs and more heterotrophs and parasites were
+found in hi in both experiments the ratios sauto shet and
+sauto sgrazers parasites were lower than in ai supplementary
+table 
+
+bacillariophyceae related otus in the baltic experiment
+had the highest dna based diversity and rna based relative
+abundance in af− and in hf− more dna based otus were
+found in af− and in hf− compared to af and hf respectively and
+ higher rna based relative abundance in af− than af and
+ higher in hf− than hf figure a the highest autotrophic
+dna based otu richness and rna relative abundance were
+observed also in af− and hf− more dna based otus and
+ more rna based reads were recorded in af− compared to
+af and and more in hf− compared to hf figure a 
+high salinity had little effect on bacillariophyceae and autotrophs
+as the dna based otus and the rna based reads between
+af and af and hf and hf were similar figures a a 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+figure pie charts of the number of dna based otus of taxonomic groups and number of rna based reads of trophic groups detected in the baltic sea and
+mediterranean sea experiments 
+
+the highest values of the sauto shet and sauto sgrazers parasites
+ratios were also calculated in af− and in hf− while they were
+similar between af and af and almost similar between hf and
+hf supplementary table in the mediterranean experiment
+salinity changes affected dinophyceae differently depending on
+heat shock application dinophyceae had more dna based
+otus and more rna based reads in af and af− than af
+but they had less dna based otus but still more rna 
+based reads in hf and hf− than hf figures b b the
+highest autotrophic and mixotrophic dna based otu richness
+and rna based relative abundance was observed in af and the
+lowest in hf− figure b sauto shet and sauto sgrazers parasites
+ratios increased in af and hf compared to af and hf and
+remained almost stable between af− and af and hf− and hf
+ supplementary table 
+
+a low number of shared dna based otus was found
+among the different salinity treatments of each community
+in both experiments in the baltic experiment shared
+otus out of were found in the a community and
+ out of were found in the h community while in
+the mediterranean experiment out of and out
+of were found respectively supplementary figure 
+
+the kruskal–wallis test indicated that there was no equality
+among the different salinity treatments p in both
+experiments however according to the chi squared test the
+effect of salinity changes to community composition was
+statistically not significant ppearosn ′ s fungal otus
+together with bacillariophyceae and dinophyceae made up
+the of the shared otus in a community in the baltic
+experiment and in mediterranean experiment while the
+rest of the taxonomic groups contributed with each in
+terms of dna based relative abundance the genera kappamyces
+ similarity skeletonema similarity and gyrodinium
+ similarity in the baltic experiment and genera of the class
+exobasidiomycetes similarity the genera gyrodinium
+ similarity and chaetoceros similarity in the
+mediterranean experiment were dominant shared otus in
+the h community otus related to bacillariophyceae to
+dinophyceae and to chlorophyceae made up of the shared
+in the baltic experiment while in the mediterranean experiment
+fungi dinophyceae and bacillariophyceae made up of the
+shared otus associated with the genera skeletonema 
+similarity gymnodinium similarity and desmochloris
+ similarity in the baltic experiment and with the genera
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+figure variation of the number of dna based otus circle diameter and the relative abundance circle color of rna based reads belonging to the dominant
+high level taxonomic groups in the baltic experiment a and in the mediterranean experiment b the taxonomic affiliation was based on blastn searches against
+the pr database ai initial sample and ambient temperature af ambient temperature and salinity af ambient temperature and high salinity psu af− 
+ambient temperature and low salinity − psu hi initial sample and heat shock 
+
+◦
+
+c hf heat shock 
+◦
+
+c and ambient salinity hf heat shock 
+◦
+
+c and high
+salinity psu hf− heat shock 
+
+◦
+
+c and low salinity − psu 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+figure variation of the number of dna based otus circle diameter and the relative abundance circle color of rna based reads belonging to the six trophic
+groups in the baltic experiment a and in the mediterranean experiment b the assignment to the trophic groups was based on microscopic observations and
+literature data ai inoculum and ambient temperature af ambient temperature and salinity af ambient temperature and high salinity psu af− ambient
+temperature and low salinity − psu hi inoculum and heat shock 
+
+◦
+
+c hf heat shock 
+◦
+
+c and ambient salinity hf heat shock 
+◦
+
+c and high salinity 
+psu hf− heat shock 
+
+◦
+
+c and low salinity − psu 
+
+of the class exobasidiomycetes similarity and the genera
+scrippsiella similarity and chaetoceros similarity in
+the mediterranean experiment dominated in dna based relative
+abundance among the shared 
+
+mds showed a clear separation of plankton community
+composition between the two experiments figure in the
+mediterranean experiment ai and hi communities exhibited
+major changes from the start to the end of the salinity
+treatments experiment whereas smaller changes were detected
+in the baltic experiment nevertheless salinity treatments in
+both experiments drove otu composition in the same direction 
+irrespective of the temperature pre treatment this means that
+for example pre heated and unheated high salinity experimental
+communities became more similar among each other than
+
+experimental units with the same temperature pre treatment but
+different salinity treatment 
+
+relative abundance and inferred activity
+of taxonomic and trophic groups
+the proportions of rare and abundant otus were quite similar
+across the samples and rare otus dominated in both data
+sets dna based and rna based and in both experiments
+ supplementary table rare dna based otus in the
+baltic experiment fluctuated between and of the
+total number of otus and rare rna based otus between
+ and while abundant dna based otus fluctuated
+between and and abundant rna based otus between
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+figure multidimensional scaling plot of read abundance variation in the different treatment assemblages according to jaccard similarity index of the baltic b 
+and mediterranean m unicellular plankton communities ai inoculum and ambient temperature af ambient temperature and salinity af ambient temperature and
+high salinity psu af− ambient temperature and low salinity − psu hi inoculum and heat shock 
+
+◦
+
+c hf heat shock 
+◦
+
+c and ambient salinity hf heat
+shock c and high salinity psu hf− heat shock 
+
+◦
+
+c and low salinity − psu 
+
+ and similarly in the mediterranean experiment
+rare dna based otus ranged from to and rare
+rna based otus from to abundant dna based
+otus ranged from to and abundant rna based
+otus from to the abundant otus were affiliated
+mainly to taxonomic groups dinophyceae bacillariophyceae 
+haptophyceae chlorophyceae ciliophora fungi cercozoa and
+mast 
+
+in both experiments the rrna rdna relative abundance
+relationship revealed a positive correlation kendall correlation
+coefficient τbaltic τmediterranean p 
+suggesting that the abundant otus in the dna dataset were
+among the most abundant in rna dataset and vice versa
+ supplementary figure however there were otus whose
+rna relative abundance did not follow their dna relative
+abundance otus below the line had a high dna relative
+abundance but low rna relative abundance e g heterocapsa 
+gyrodinium desmochloris in the baltic and pelagodinium 
+pelagostrobilidium chaetoceros in the mediterranean and otus
+above line had low dna relative abundance but high rna
+relative abundance e g imantonia telonema in the baltic and
+phaeosphaeria genera of the class exobasidiomycetes in the
+mediterranean 
+
+the overall range of average rna dna ratio showed large
+variability among taxonomic groups the highest variation in
+the baltic experiment was observed for amoebozoa hacrobia
+excluding haptophyceae centrohelioza cryptophyceae 
+katablepharidota picobiliphyta telonemia apusozoa
+and ciliophora and in the mediterranean experiment for
+
+amoebozoa fungi and haptophyceae supplementary
+figure on the contrary the range of the estimated rna dna
+ratio for dinophyceae bacillariophyceae and chlorophyceae and
+bacillariophyceae malvs and apusozoa respectively remained
+low 
+
+in the baltic experiment similar rrna rdna ratios were
+observed for bacillariophyceae in ai and hi but reduced ratios
+were observed in af and af− in comparison with af and
+hf and hf− in comparison with hf figure the ratios
+for autotrophs were similar to bacillariophyce including the
+decrease after salinity changes figure in the mediterranean
+experiment increased rrna rdna ratio was observed for
+dinophyceae in hi community compared to ai community and
+decreased ratios in af and af− in comparison with af and
+hf and hf− in comparison with hf figure the highest
+rrna rdna ratios in the baltic experiment were observed for
+telonemia in af and hf in the mediterranean experiment 
+the highest rrna rdna ratio was observed for fungi in hf−
+whose rrna rdna ratios increased with salinity changes in both
+communities figure 
+
+resistance
+in the baltic experiment otu richness responded more
+negatively to salinity increase af hf while the temperature
+pre treatment had little effect on resistance table in the
+mediterranean only af− showed a clear negative response
+of otu richness to salinity decrease while all other effects
+remained small the negative response of evenness in the baltic
+experiment was reversed compared to s being stronger in af−
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+figure average rna dna ratios from dominant taxonomic groups in the
+baltic experiment and in the mediterranean experiment ai inoculum and
+ambient temperature af ambient temperature and salinity af ambient
+temperature and high salinity psu af− ambient temperature and low
+salinity − psu hi inoculum and heat shock 
+
+◦
+
+c hf heat shock oc 
+and ambient salinity hf heat shock 
+
+◦
+
+c and high salinity psu hf− 
+heat shock 
+
+◦
+
+c and low salinity − psu 
+
+and hf− in the mediterranean experiment evenness remained
+relatively resistant only in the case of af while all other
+treatments showed a marked decrease the two trophic structure
+indicators sauto shet and sauto sgrazers parasites ratios behaved
+similarly with a strong increase in the pre heated hf and hf− in
+the baltic experiment and in af and hf in the mediterranean
+experiment 
+
+discussion
+
+our experimental results using sequential stressors heat shock
+and salinity changes demonstrate strong effects on otu
+richness community taxonomic and functional composition and
+rrna rdna ratio of the baltic and the mediterranean plankton
+unicellular eukaryotes we observed loss of otus together
+
+figure average rna dna ratios from the trophic groups in the baltic
+experiment and in the mediterranean experiment ai inoculum and ambient
+temperature af ambient temperature and salinity af ambient temperature
+and high salinity psu af− ambient temperature and low salinity − psu 
+hi inoculum and heat shock 
+
+◦
+
+c hf heat shock 
+◦
+
+c and ambient
+salinity hf heat shock 
+
+◦
+
+c and high salinity psu hf− heat shock
+ 
+
+◦
+
+c and low salinity − psu 
+
+with significant compositional changes after the heat shock at
+the same time increased rrna rdna ratios for heterotrophic
+related otus were observed very few shared otus were
+found across the salinity treatments in each community in the
+baltic experiment reduced otu richness were observed under
+high and low salinity while in the mediterranean experiment
+under low salinity we also found high variability on the
+response of rrna rdna ratios after salinity changes among the
+taxonomic and trophic groups the different effect of heating
+on the resistance to salinity changes between the baltic and
+the mediterranean experiments highlights the importance of the
+diverse species co tolerances sensu vinebrooke et al 
+
+temperature and salinity changes
+impact on community composition
+our results show that heat shock lead to significantly different
+compositional communities which further shifted after salinity
+changes in both experimental sites supporting the first part
+of hypothesis temperature increase is known to influence
+unicellular planktic communities and food web structure moran
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+table log response ratio lr according to otus richness evenness and sauto shet and sauto sgrazers parasites ratios in each experiment 
+
+response species richness response evenness response sauto sgrazers parasites response sauto shet
+
+baltic mediterranean baltic mediterranean baltic mediterranean baltic mediterranean
+
+af − − − − − − 
+
+af− − − − − − 
+
+hf − − − − 
+
+hf− − − − − − 
+
+values for the mediterranean experiment are shaded 
+
+et al lewandowska and sommer moustaka gouni
+et al in our experiments we found that the hi community
+in both experiments included more of smaller unicellular primary
+producers in comparison with the ai community as indicated by
+increased dna based otus of nanoplanktic haptophyceae and
+picoplanktic chlorophyceae together with decreased dna based
+otus of large diatoms and dinoflagellates this shift toward
+smaller phytoplankters due to higher temperatures is seen as
+a manifestation of bergmann’s rule and has been found both
+at the global biogeographic scale and in individual experiments
+ reviewed by sommer et al while being less diverse in
+autotrophic otus hi communities were richer in heterotrophic
+otus temperature comprises a major environmental factor
+controlling the metabolic rates of organisms brown et al 
+ and several studies have indicated that heterotrophic
+processes are highly temperature dependent and are intensified
+by increased temperature lewandowska and sommer 
+lópez urrutia et al indirect beneficial effects of the
+heat shock might have resulted from cell lysis of sensitive
+taxa and subsequent doc release wohlers et al and 
+therefore stimulated bacterial growth and provided food for
+grazers of bacteria moustaka gouni et al these could
+be possible explanations for the compositional shifts toward
+unicellular heterotrophic flagellates at elevated temperatures the
+very few shared dna based otus across the three salinity
+treatments were associated mainly with taxonomic groups
+ bacillariophyceae dinophyceae chlorophyceae fungi and
+specifically the genera skeletonema chaetoceros prorocentrum 
+gyrodinium gymnodinium desmochloris kappamyces and
+several genera of the class exobasidiomycetes these genera are
+known for their euryhaline distribution in situ several species
+of chaetoceros have been recorded from estuaries terada and
+ichimura to hypersaline coastal lagoons gilabert 
+skeletonema grows well between salinities of and psu
+ balzano et al and prorocentrum between salinities of
+ to psu xu et al the aforementioned ranges
+included the salinity range of both experiments also several
+gyrodynium and gymnodinium species have been characterized
+as euryhaline and formed red tides under different hydrographic
+conditions zingone and enevoldsen nagasoe et al 
+ the rarely studied green alga desmochloris grows well
+both in freshwater and marine media darienko et al 
+kappamyces and several genera of the class exobasidiomycetes
+were recorded in several marine environments with different
+salinities across europe richards et al however the high
+number of specific otus recorded in each of the three salinity
+
+levels demonstrated the strong salinity effects on biodiversity
+confirming that salinity can play a crucial role for differential
+survival of species logares et al besides it is known that
+species even within the same taxonomic group exhibit different
+salinity tolerance brand park and simpson we
+have to add one caveat to the comparison with field distributions 
+statements about tolerance ranges in our experiments are based
+on the standing genetic variation within small plankton samples 
+while tolerance ranges inferred from biogeographic distribution
+result from the global range of genetic variation of a taxon 
+
+the decrease in otu richness in hi in comparison with
+ai is in accordance with the second part of hypothesis and
+parallels previous findings of negative effects of temperature
+increase on morpho species richness in marine environments
+ gruner et al which has been suggested to result from
+faster species replacement under warmer conditions burgmer
+and hillebrand combined with the exclusion of invasions
+by new species in a closed experimental system the reduced
+otu richness after salinity changes in the baltic experiment
+and under low salinity in the mediterranean experiment is in
+agreement with the second part of hypothesis and can be
+explained by cell physiology this richness decrease was not
+observed under high salinity in the mediterranean experiment
+for which we found a higher otu richness both in a and h
+communities particularly increased salinities positively affected
+the mast and ciliophoran richness the specific mediterranean
+experiment site is influenced by riverine freshwater fluxes leading
+to a decreasing trend in salinity the last decade krestenitis et al 
+ this recent salinity lowering in a generally high salinity
+marine environment of the mediterranean might negatively
+affect the survival of mediterranean marine protists while the
+experimentally increased salinities gave these organisms the
+opportunity to increase their biodiversity 
+
+temperature and salinity changes
+impact on community relative
+abundance and inferred activity
+the high percentages of rare otus during the
+experiments match those of the majority of studies on
+marine protists stoeck et al logares et al it
+has been hypothesized that rare marine microbes include
+ecologically redundant taxa that could increase in abundance
+following environmental changes and maintain continuous
+ecosystem functioning logares et al in the baltic
+experiment rare decomposers tolypocladium cladosporium 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+thraustochytriaceae became abundant after salinity changes and
+in the mediterranean experiment picograzers rare at ambient
+salinity centroheliozoa caecitelus blepharisma became
+abundant at high and low salinity our data showed a positive
+correlation between rrna and rdna relative abundance in both
+experiments in agreement with previous findings for marine
+protists logares et al contrary to marine bacteria
+that commonly present disproportionately low activity due to
+dormancy campbell et al marine protist activity is
+usually positively correlated to their abundance logares et al 
+ 
+
+the majority of the taxonomic and trophic groups in our
+experiments had increased or decreased rrna rdna between
+ai and hi communities and after salinity changes in accordance
+with hypothesis however using rrna to distinguish active
+and non active organisms has been criticized for its reliability
+ blazewicz et al the high variation of the overall range
+of rrna rdna ratio for amoebozoa apusozoa hacrobia and
+fungi suggests that the activity of these taxonomic groups
+was affected more by increased temperature and salinity
+changes than the activity of bacillariophyceae dinophyceae
+and malvs which showed little changes of rrna rdna
+across the treatments the increased rrna rdna ratios of
+amoebozoa apuzosoa and mast and at the same time of
+micrograzers and picograzers in hi community in comparison
+with ai can be attributed to more intensive heterotrophic
+processes at elevated temperatures the remarkably increased
+rrna rdna ratios for haptophyceae and telonemia under
+elevated salinity in the baltic experiment psu may be
+coupled with their preference of high salinity baltic sea’s
+microenvironments from to psu hu y et al 
+in conjunction with the availability of prey higher bacterial
+abundances and productivity have been also recorded in higher
+salinity baltic sea microenvironments in comparison with fresher
+microenvironments lindh et al finally the increased
+rrna rdna ratios in low salinity treatments for fungi in
+the mediterranean experiment psu can be explained by
+the accumulated dead matter observed under microscopy of
+samples data not shown fungi have the role of decomposers
+in marine ecosystems richards et al and their increased
+rrna rdna ratios coincided with the reduced total otu
+richness 
+
+resistance
+neither hypothesis decreased resistance after the heat 
+shock nor its opposite increased resistance were unequivocally
+supported by the calculated response according to the four
+selected metrics otus richness evenness sauto shet and
+sauto sgrazers parasites ratios except for the trophic state
+indicators in the baltic experiment and to some extent by
+evenness in the mediterranean experiment true for salinity
+increase false for salinity decrease it is a longstanding
+assumption that biodiversity loss affects ecosystem function
+and decreases the resistance and the maintenance of ecosystem
+processes against environmental alterations loreau et al 
+ the coexistence of many species in more biodiverse
+ecosystems provides a greater guarantee that some will back up
+
+when others fail after environmental disturbances wittebolle
+et al in the mediterranean experiment we noticed
+a support of the above assumptions since the increased
+temperature induced biodiversity loss in the hi community
+lead to lower resistance against salinity changes according
+to the model of vinebrooke et al this would result
+from a negative correlation between heat and salinity tolerances
+of the otus the genetically less biodiverse hi community
+lead salinity treatments to display greater change from initial
+community via greater species loss and consequently had lower
+resistance against increased decreased salinity besides it has
+been found that genetically less diverse communities have
+lower chances to contain taxa with complementary response
+traits and the ability for rapid compensatory growth after a
+disturbance which may decrease resistance shade et al 
+in our experiment the nature of change salinity increase
+vs decrease the choice of the response parameter and the
+geographic origin of the experimental community were at
+least as influential on resistance as diversity loss in response
+to the temperature pre treatment both plankton communities
+originate from coastal ecosystems where salinity changes
+are frequent thus experimental communities might contain
+residuals of species adapted to higher or lower salinities than
+in situ ones depending on the history of the local community 
+in the case of the heterotrophic otus the autecological
+response to salinity change may be superseded by creation
+of additional niches by the death of non resistant otus
+with subsequent detritus and doc production which fuels
+bacterial growth and thereby improves the feeding conditions for
+bacterivores 
+
+conclusion
+
+in this study we examined the influence of biodiversity
+changes caused by an intermittent heat shock on the sensitivity
+of plankton community to subsequent salinity changes our
+experiment provided evidence that the effect of the initial
+environmental stressor heat wave on plankton community
+resistance to the subsequent stressor salinity changes is
+contingent on the local species pool and the resultant patterns of
+species co tolerance sensu vinebrooke et al identically
+designed mesocosm experiments were performed in the baltic
+sea where diatoms dominated in plankton dna and rna dataset
+and in the mediterranean sea where dinoflagellates were the
+dominant plankton otus in the baltic experiment the less
+diverse heat shocked plankton communities showed a higher
+resistance to salinity changes in apparent contradiction to the
+assumption that biodiversity should provide an insurance of
+ecosystem functions against environmental disturbances loreau
+et al on the contrary in the mediterranean experiment
+the assumption that biodiversity acts as a buffer against
+environmental fluctuations was supported and the induced less
+biodiverse heated shocked community had lower resistance to
+salinity changes the frequent strong environmental fluctuations
+ including salinity changes in the baltic sea region most
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+probably played a key role on the relatively increased resistance
+against the two stressors heat shock and salinity changes 
+on the other hand the less exposed mediterranean plankton
+community to environmental fluctuations had as a consequence
+the increased sensitivity mainly in the heated community 
+against salinity alterations 
+
+author contributions
+
+ns us and mm g designed the experiment ns and sg carried
+out the molecular bioinformatics and statistical analysis ns
+carried out the experiment prepared the manuscript ns jl b 
+us and mm g designed the research ns sg jl b us and
+mm g revised the manuscript 
+
+funding
+
+this project was partially supported by the alabama greece
+initiative the university of alabama this research is
+implemented through iky scholarships program and co 
+financed by the european union european social fund –
+esf and greek national funds through the action entitled
+
+“scholarships program for postgraduates studies nd study
+cycle” in the framework of the operational program “human
+resources development program education and lifelong
+learning” of the national strategic reference framework nsrf 
+ – 
+
+acknowledgments
+
+we are thankful to prof konstantinos ar kormas for
+providing the equipment to perform the nucleic acid extractions 
+the experiments are part of the ben network non 
+random biodiversity experiments network initiated by a m 
+lewandowska university of helsinki tvärminne zoological
+station similar experiments using the same design are being
+conducted on other marine sites we would like to thank two
+reviewers for helping improve our manuscript 
+
+supplementary material
+
+the supplementary material for this article can be found
+online at https www frontiersin org articles fmicb 
+ full supplementary material
+
+references
+altschul s f gish w miller w myers e w and lipman d j basic
+
+local alignment search tool j mol biol – doi s 
+ 
+
+amann r i binder b j olson r j chisholm s w devereux r and
+stahl d a combination of s rrna targeted oligo nucleotide probes
+with flow cytometry for analyzing mixed microbial populations appl environ 
+microbiol – 
+
+andersson a meier h e m and ripszam m projected climate
+change and baltic sea ecosystem management ambio suppl s –s 
+doi s 
+
+baltar f palovaara j unrein f catala p hornak k simek k et al 
+marine bacterial community structure resilience to changes in protist predation
+under phytoplankton bloom conditions isme j – doi 
+ismej 
+
+balzano s sarno d and kooistra w h c f effects of salinity on the
+growth rate and morphology of ten skeletonema strains j plankton res 
+ – doi plankt fbq 
+
+behnke a engel m christen r nebel m klein r r and stoeck t 
+depicting more accurate pictures of protistan community complexity using
+pyrosequencing of hypervariable ssu rrna gene regions environ microbiol 
+ – doi j x
+
+belkin n rahav e elifantz h kress n and berman frank i 
+enhanced salinities as a proxy of seawater desalination discharges impact
+coastal microbial communities of the eastern mediterranean sea environ 
+microbiol – doi 
+
+bellard c bertelsmeier c leadley p thuiller w and courchamp f 
+impacts of climate change on the future of biodiversity ecol lett – 
+doi j x
+
+benton t g solan m travis j m j and sait s m microcosm
+experiments can inform global ecological problems trends ecol evol 
+ – doi j tree 
+
+bik h m porazinska l d creer s caporaso g knight r and
+thomas k sequencing our way towards understanding global
+eukaryotic biodiversity trends ecol evol – doi j tree 
+ 
+
+blazewicz s j barnard r l daly r a and firestone m k evaluating
+rrna as an indicator of microbial activity in environmental communities 
+limitations and uses isme j – doi ismej 
+
+bowen j l kearns p j holcomb m and ward b b acidification
+alters the composition of ammonia oxidizing microbial assemblages in marine
+mescosms meps – doi meps 
+
+brand l e the salinity tolerance of forty six marine phytoplankton
+isolates estuar coast shelf sci – doi 
+ 
+
+brown j h gillooly j f allen a p savage v m and west g b 
+towards a metabolic theory of ecology ecology – doi 
+ 
+
+burgmer t and hillebrand h temperature mean and variance alter
+phytoplankton biomass and biodiversity in a long term microcosm experiment 
+oikos – doi j x
+
+campbell b j yu l heidelberg j f and kirchman d l activity of
+abundant and rare bacteria in a coastal ocean proc natl acad sci u s a 
+ – doi pnas 
+
+chao a chazdon r l colwell r k and shen t j a new statistical
+approach for assessing similarity of species composition with incidence
+and abundance data ecol lett – doi j 
+ x
+
+christaki u kormas k a genitsaris s georges c sime ngado t 
+viscogliosi e et al winter–summer succession of unicellular
+eukaryotes in a meso eutrophic coastal system microb ecol – 
+doi s 
+
+countway p d gast r j savai p and caron d a protistan diversity
+estimates based on s rdna from seawater incubations in the western north
+atlantic j eukaryot microbiol – doi j 
+ x
+
+darienko t friedl t and pröschold t desmochloris mollenhaueri –
+a new terrestrial ulvophycean alga from south west african soils molecular
+phylogeny and systematics of terrestrial ulvophyceae i algol stud – 
+doi 
+
+de vargas c audic s henry n decelle j mahe f logares r et al 
+ eukaryotic plankton diversity in the sunlit ocean science 
+doi science 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https www frontiersin org articles fmicb full supplementary material
+https www frontiersin org articles fmicb full supplementary material
+https doi org s 
+https doi org s 
+https doi org s 
+https doi org ismej 
+https doi org ismej 
+https doi org plankt fbq 
+https doi org j x
+https doi org 
+https doi org j x
+https doi org j tree 
+https doi org j tree 
+https doi org j tree 
+https doi org ismej 
+https doi org meps 
+https doi org 
+https doi org 
+https doi org 
+https doi org 
+https doi org j x
+https doi org pnas 
+https doi org j x
+https doi org j x
+https doi org s 
+https doi org j x
+https doi org j x
+https doi org 
+https doi org science 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+dowd s e sun y secor p r rhoads d d wolcott b m james g a et al 
+ survey of bacterial diversity in chronic wounds using pyrosequencing 
+dgge and full ribosome shotgun sequencing bmc microbiol 
+doi 
+
+edgar r c search and clustering orders of magnitude faster than blast 
+bmc – doi bioinformatics btq 
+
+genitsaris s monchy s viscogliosi e sime ngando t ferreira s and
+christaki u seasonal variations of marine protist community structure
+based on taxon specific traits using the eastern english channel as a model
+coastal system fems microbiol ecol fiv doi femsec fiv 
+
+gilabert j seasonal plankton dynamics in a mediterranean hypersaline
+coastal lagoon the mar menor j plankton res – doi 
+plankt 
+
+gruner d s bracken m e s berger s a eriksson b k gamfeldt l 
+matthiesen b et al effects of experimental warming on biodiversity
+depend on ecosystem type and local species composition oikos – 
+doi oik 
+
+guillou l bachar d audic s bass d berney c lucie b et al the
+protist ribosomal reference database pr a catalog of unicellular eukaryote
+small sub unit rrna sequences with curated taxonomy nucleic acid res 
+ – doi nar gks 
+
+guo c xia x pitta p herut b rahal e berman frank i et al shifts
+in microbial community structure and activity in the ultra oligotrophic eastern
+mediterranean sea driven by the deposition of saharan dust and european
+aerosols front mar sci 
+
+harley c d hughes a r hultgren k m miner b g sorte c j b and
+thornber c s the impacts of climate change in coastal marine systems 
+ecol lett – doi j x
+
+hu s k campbell v connell p gellene a g liu z terrado r et al 
+ protistan diversity and activity inferred from rna and dna at a
+coastal ocean site in the eastern north pacific fems microbiol ecol fiw 
+doi femsec fiw 
+
+hu y karlson b charvet s and andersson a f diversity of pico 
+to mesoplankton along the km salinity gradient of the baltic sea front 
+microbiol doi fmicb 
+
+intergovernmental panel on climate change ipcc climate change 
+impacts adaptation and vulnerability ipcc working group ii contribution
+to the th assessment report of the international panel on climate change 
+cambridge cambridge university press doi cbo 
+
+kaur kahlon g kumar s rehnstam holm a s rai a bhavya p s edler l 
+et al response of a coastal tropical pelagic microbial community to
+changing salinity and temperature aquat microb ecol – doi 
+ame 
+
+krestenitis y n kombiadou k d and androulidakis y s interannual
+variability of the physical characteristics of north thermaikos gulf nw
+aegean sea j mar syst – – doi j jmarsys 
+
+kunin v engelbrektson a ochman h and hugenholtz p wrinkles
+in the rare biosphere pyrosequencing errors can lead to artificial inflation of
+diversity estimates environ microbiol – doi j 
+ x
+
+lebaron p servais p troussellier m courties c courties c vives rego j 
+et al changes in bacterial community structure in seawater mesocosms
+differing in their nutrient status aquat microb ecol – doi 
+ame 
+
+lewandowska a m and sommer u climate change and the spring
+bloom a mesocosm study on the influence of light and temperature on
+phytoplankton and mesozooplankton meps – doi 
+meps 
+
+lindh m v figueroa d sjöstedt j baltar f lundin d andersson a et al 
+ transplant experiments uncover baltic sea basin specific responses
+in bacterioplankton community composition and metabolic activities front 
+microbiol doi fmicb 
+
+logares r audic s bass d bittner l boutte c christen r et al 
+patterns of rare and abundant marine microbial eukaryotes curr biol 
+ – doi j cub 
+
+logares r bråte j bertilsson s clasen j l shalchian tabrizi k and
+rengefors k infrequent marine–freshwater transitions in the microbial
+world trends microbiol – doi j tim 
+
+logares r mangot j f and massana r rarity in aquatic microbes 
+placing protists on the map res microbiol – doi j resmic 
+ 
+
+lopez garcia p philippe h gail f and moreira d autochthonous
+eukaryotic diversity in hydrothermal sediment and experimental
+microcolonizers at the mid atlantic ridge proc natl acad sci u s a 
+ – doi pnas 
+
+lópez urrutia a san martin e harris r p and irigoien x scaling the
+metabolic balance of the oceans proc natl acad sci u s a – 
+doi pnas 
+
+loreau m naeem s inchausti p bengtsson j grime j p hector a et al 
+ biodiversity and ecosystem functioning current knowledge and future
+challenges science – doi science 
+
+mangot j f domaizon i taib n marouni n duffaud e bronner g 
+et al short term dynamics of diversity patterns evidence of
+continual reassembly within lacustrine small eukaryotes environ microbiol 
+ – doi 
+
+massana r gobet a audic s bass d bittner l boutte c et al 
+marine protist diversity in european coastal waters and sediments as revealed
+by high throughput sequencing environ microbiol – doi 
+ 
+
+medinger r nolte v pandey r v jost s ottenwalder b schlotterer c et al 
+ diversity in a hidden world potential and limitation of next generation
+sequencing for surveys of molecular diversity of eukaryotic microorganisms 
+mol ecol – doi j x x
+
+meier m e h kjellström e and graham p estimating uncertainties
+of projected baltic sea salinity in the late st century geophys res lett 
+ l doi gl 
+
+mihalatou h m and moustaka gouni m pico nano microplankton
+abundance and primary productivity in a eutrophic coastal area of the aegean
+sea mediterranean int rev hydrobiol – doi 
+ aid iroh co 
+
+moran x a g lopez urrutia Á calvo diaz a and william k w l 
+increasing importance of small phytoplankton in a warmer ocean glob change
+biol – doi j x
+
+moreira d and lópez garcía p the rise and fall of picobiliphytes how
+assumed autotrophs turned out to be heterotrophs bioessays – 
+doi bies 
+
+moustaka gouni m kormas k a scotti m vardaka e and sommer u 
+ warming and acidification effects on planktonic heterotrophic pico 
+and nanoflagellates in a mesocosm experiment protist – doi 
+ j protis 
+
+muscarella m e bird k c larsen m l placella s a and lennon j t 
+phosphorus resource heterogeneity in microbial food webs aquat microb 
+ecol – doi ame 
+
+nagasoe s kim d shimasaki y oshima y yamaguchi m and honjo t 
+ effects of temperature salinity and irradiance on the growth of the red
+tide dinoflagellate gyrodinium instriatum freudenthal et lee harmful algae 
+ – doi j hal 
+
+newbold l k oliver a e booth t tiwari b desantis t maguire m et al 
+ the response of marine picoplankton to ocean acidification environ 
+microbiol – doi j x
+
+nikolaides g and moustaka gouni m the structure and dynamics of
+phytoplankton assemblages from the inner part of the thermaikos gulf greece 
+i phytoplankton composition and biomass from may to april 
+helgol wiss meeresunters – doi bf 
+
+park j s and simpson a g characterization of halotolerant bicosoecida
+and placididea stramenopila that are distinct from marine forms and the
+phylogenetic pattern of salinity preference in heterotrophic stramenopiles 
+environ microbiol – doi j x
+
+poulsen l k ballard g and stahl d a use of rrna fluorescence in situ
+hybridization for measuring the activity of single cells in young and established
+biofilms appl environ microb – 
+
+quast c pruesse e yilmaz p gerken j schweer t yarza p et al the
+silva ribosomal rna gene database project improved data processing and
+web based tools nucleic acids res d –d doi nar gks 
+
+richards t a leonard g mahé f del campo j romac s jones m d m 
+et al molecular diversity and distribution of marine fungi across 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https doi org 
+https doi org bioinformatics btq 
+https doi org femsec fiv 
+https doi org plankt 
+https doi org plankt 
+https doi org oik 
+https doi org nar gks 
+https doi org j x
+https doi org femsec fiw 
+https doi org fmicb 
+https doi org cbo 
+https doi org ame 
+https doi org ame 
+https doi org j jmarsys 
+https doi org j x
+https doi org j x
+https doi org ame 
+https doi org ame 
+https doi org meps 
+https doi org meps 
+https doi org fmicb 
+https doi org j cub 
+https doi org j tim 
+https doi org j resmic 
+https doi org j resmic 
+https doi org pnas 
+https doi org pnas 
+https doi org science 
+https doi org 
+https doi org 
+https doi org 
+https doi org j x x
+https doi org gl 
+https doi org aid iroh co 
+https doi org aid iroh co 
+https doi org j x
+https doi org bies 
+https doi org j protis 
+https doi org j protis 
+https doi org ame 
+https doi org j hal 
+https doi org j x
+https doi org bf 
+https doi org j x
+https doi org nar gks 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+
+fmicb october time 
+
+stefanidou et al microeucaryotes response to environmental changes
+
+european environmental samples proc r soc b doi 
+rspb 
+
+schloss p d gevers d and westcott s l reducing the effects of pcr
+amplification and sequencing artifacts on s rrna based studies plos one
+ e doi journal pone 
+
+schloss p d westcott s l ryabin t hall j r hartmann m hollister 
+e b et al introducing mothur open source platform independent 
+community supported software for describing and comparing microbial
+communities appl environ microbiol – doi aem 
+ 
+
+shade a peter h allison s baho d l berga m bürgmann h et al 
+ fundamentals of microbial community resistance and resilience front 
+microbiol doi fmicb 
+
+simboura n pavlidou a bald j tsapakis m pagou k zeri c h et al 
+ response of ecological indices to nutrient and chemical contaminant
+stress factors in eastern mediterranean coastal waters ecol indic – 
+doi j ecolind 
+
+skovgaard a dirty tricks in the plankton diversity and role of marine
+parasitic protists acta protozool – 
+
+sommer u peter k h genitsaris s and moustaka gouni m do
+marine phytoplankton follow bergmann’s rule sensu lato biol rev 
+ – doi brv 
+
+stoeck t bass d nebel m christen r jones m d breiner h w et al 
+ multiple marker parallel tag environmental dna sequencing reveals a
+highly complex eukaryotic community in marine anoxic water mol ecol 
+ – doi j x x
+
+terada t and ichimura s environmental properties and the distribution
+of phytoplankton biomass and photosynthesis in a small eutrophic estuary of
+shimoda bay la mer – 
+
+utermöhl h zur vervollkommnung der quantitativen phytoplankton 
+methodik mitt int ver theor angew limnol – 
+
+van der zaan b smidt h de vos w m rijnaarts h and gerritse j 
+stability of the total and functional microbial communities in river sediment
+mesocosms exposed to anthropogenic disturbances fems microbiol ecol 
+ – doi j x
+
+vinebrooke r d cottingham k l norberg j scheffer m dodson s i 
+maberly s c et al impacts of multiple stressors on biodiversity and
+
+ecosystem functioning the role of species co tolerance oikos – 
+doi j x
+
+wasmund n göbel j and bodungen v b years changes in the
+phytoplankton community of kiel bight baltic sea j mar syst – 
+doi j jmarsys 
+
+wilsey b j and potvin c biodiversity and ecosystems functioning 
+importance of species evenness in an old field ecology – 
+doi baefio co 
+
+wittebolle l marzorati m clement l balloi a daffonchio d heylen k 
+et al initial community evenness favours functionality under selective
+stress nature – doi nature 
+
+wohlers j engel a zöllner e breithaupt p jurgens k hoppe h g et al 
+ changes in biogenic carbon flow in response to sea surface warming 
+proc natl acad sci u s a – doi pnas 
+
+xu n duan s li a zhang c cai z and hu z effects of
+temperature salinity and irradiance on the growth of the harmful dinoflagellate
+prorocentrum donghaiense lu harmful algae – doi j hal 
+ 
+
+yvon durocher g allen a p cellamare m dossena m gaston k j 
+leitao m et al five years of experimental warming increases the
+biodiversity and productivity of phytoplankton plos biol e doi 
+ journal pbio 
+
+zingone a and enevoldsen h o the diversity of harmful algal blooms 
+a challenge for science and management ocean coast manage – 
+doi s 
+
+conflict of interest statement the authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest 
+
+copyright © stefanidou genitsaris lopez bautista sommer and moustaka 
+gouni this is an open access article distributed under the terms of the creative
+commons attribution license cc by the use distribution or reproduction in
+other forums is permitted provided the original author s and the copyright owner s 
+are credited and that the original publication in this journal is cited in accordance
+with accepted academic practice no use distribution or reproduction is permitted
+which does not comply with these terms 
+
+frontiers in microbiology www frontiersin org october volume article 
+
+https doi org rspb 
+https doi org rspb 
+https doi org journal pone 
+https doi org aem 
+https doi org aem 
+https doi org fmicb 
+https doi org j ecolind 
+https doi org brv 
+https doi org j x x
+https doi org j x
+https doi org j x
+https doi org j jmarsys 
+https doi org baefio co 
+https doi org nature 
+https doi org pnas 
+https doi org j hal 
+https doi org j hal 
+https doi org journal pbio 
+https doi org journal pbio 
+https doi org s 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+http creativecommons org licenses by 
+https www frontiersin org journals microbiology 
+https www frontiersin org 
+https www frontiersin org journals microbiology articles
+
+	unicellular eukaryotic community response to temperature and salinity variation in mesocosm experiments
+	introduction
+	materials and methods
+	experimental design
+	sample collection
+	dna and rna extraction
+	pcr and tag pyrosequencing
+	read processing
+	assignment of unicellular eukaryotes in functional trophic groups
+	data analysis
+	statistical analysis
+
+	results
+	rdna and rrna community structure
+	effects of changing salinity on a and h microeukaryotic community structure
+	relative abundance and inferred activity of taxonomic and trophic groups
+	resistance
+
+	discussion
+	temperature and salinity changes impact on community composition
+	temperature and salinity changes impact on community relative abundance and inferred activity
+	resistance
+
+	conclusion
+	author contributions
+	funding
+	acknowledgments
+	supplementary material
+	references
+
+
+

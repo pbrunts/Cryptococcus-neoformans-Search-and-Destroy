@@ -1,0 +1,937 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+applied and environmental microbiology feb p – vol no 
+ doi aem 
+copyright © american society for microbiology all rights reserved 
+
+accessing the soil metagenome for studies of microbial diversity�†
+tom o delmont patrick robe sébastien cecillon ian m clark florentin constancias 
+
+pascal simonet penny r hirsch and timothy m vogel 
+environmental microbial genomics group laboratoire ampère ecole centrale de lyon université de lyon avenue guy de
+
+collongue ecully france libragen rue des satellites toulouse france and rothamsted research 
+harpenden hertfordshire al jq united kingdom 
+
+received june accepted december 
+
+soil microbial communities contain the highest level of prokaryotic diversity of any environment and
+metagenomic approaches involving the extraction of dna from soil can improve our access to these commu 
+nities most analyses of soil biodiversity and function assume that the dna extracted represents the microbial
+community in the soil but subsequent interpretations are limited by the dna recovered from the soil 
+unfortunately extraction methods do not provide a uniform and unbiased subsample of metagenomic dna 
+and as a consequence accurate species distributions cannot be determined moreover any bias will propagate
+errors in estimations of overall microbial diversity and may exclude some microbial classes from study and
+exploitation to improve metagenomic approaches investigate dna extraction biases and provide tools for
+assessing the relative abundances of different groups we explored the biodiversity of the accessible community
+dna by fractioning the metagenomic dna as a function of i vertical soil sampling ii density gradients cell
+separation iii cell lysis stringency and iv dna fragment size distribution each fraction had a unique
+genetic diversity with different predominant and rare species based on ribosomal intergenic spacer analysis
+ risa fingerprinting and phylochips all fractions contributed to the number of bacterial groups uncovered
+in the metagenome thus increasing the dna pool for further applications indeed we were able to access a
+more genetically diverse proportion of the metagenome a gain of more than compared to the best single
+extraction method limit the predominance of a few genomes and increase the species richness per sequencing
+effort this work stresses the difference between extracted dna pools and the currently inaccessible complete
+soil metagenome 
+
+the soil microbial community is relatively diverse 
+with arguably the highest level of prokaryotic diversity of any
+environment one gram of soil has been reported to
+contain up to billion microorganisms and thousands of dif 
+ferent species this soil species pool represents a gold 
+mine for genes involved in pharmaceutical and industrial ap 
+plications and in the biodegradation of human made
+pollutants currently less than of this diversity is
+considered to be cultivable by traditional techniques a
+problem that can be circumvented by metagenomic ap 
+proaches metagenomic approaches have been applied to
+study a range of soil environments and
+comparisons with cultivation techniques should include biases
+in the methods used to extract dna from soil different dna
+extraction methods are widely used although they each have
+biases that restrict the diversity of the so called metagenomic
+dna therefore the total microbial
+diversity of soil might still be underestimated independent of
+the method used to calculate the species or operational tax 
+onomic unit otu diversity in a soil indeed the relative
+dominance of certain groups in dna extracted from soil will
+
+mask less abundant species thus confounding estimates of soil
+microbial community structure 
+
+recently developed technologies provide relatively quick
+and deep sequencing of metagenomic dna samples at a mod 
+erate cost although metagenomic dna sequencing 
+however completely sequenced depends on the dna ex 
+tracted deciphering soil function based on soil metagenome
+sequencing such as that proposed previously by the terrage 
+nome international consortium requires extraction of
+the dna from all members of the soil microbial community 
+the difficulty is that every protocol facilitates the extraction of
+part of the microbially diverse population to the detriment of
+the rest biodiversity estimates from a variety of methods fig 
+ already range from species to species 
+per gram of soil therefore a measure of the dependence of
+biodiversity estimates on metagenomic access would aid in an
+understanding of whether sequencing depth or dna extrac 
+tion diversity is driving diversity estimations 
+
+our approach was to combine different methods to recover
+different spectra of community diversity in order to increase
+access to the biodiverse soil community we applied four
+classes of dna or microbial separation techniques that sig 
+nificantly resolve dna diversity these techniques are based
+on i vertical soil sampling ii cell separation in a density
+gradient iii cell lysis stringency and iv dna fragment size
+distribution fig although the respective methods used are
+not without some overlap we have shown that they can be
+adjusted to increase the relative diversity of the final dna
+pool in other words by varying the conditions of the four
+
+ corresponding author mailing address environmental microbial
+genomics laboratoire ampere ecole centrale de lyon université
+de lyon avenue guy de collongue ecully france phone 
+ fax e mail tvogel ec lyon fr 
+
+† supplemental material for this article may be found at http aem
+ asm org 
+
+� published ahead of print on december 
+
+ 
+
+
+
+methods and applying a phylogenetic technique to track rela 
+tive diversity and the less represented species the final dna
+pool can be optimized for increased nucleic acid diversity this
+strategy was compared to other more common approaches
+ including the individual application of one of the methods
+used here in order to illustrate the advantages of this ap 
+proach although applying these four variables might improve
+the already distorted view of the relative abundance of species 
+the aim here is to enhance species and gene discovery by
+maximizing the identification of the genetic diversity of a dna
+pool before high throughput sequencing efforts or the con 
+struction of libraries is performed 
+
+materials and methods
+
+soil samples samples were collected from two sites ecully france and an
+untreated control plot plot “ d” of park grass lat °n long
+ °e rothamsted england see http www rothamsted ac uk for further
+information in october and march respectively the park grass soil
+is an internationally recognized resource and is targeted as a reference soil for
+soil metagenomic studies it is classified as chromic luvisol according to
+fao guidelines and is a silty clay loam overlying clay with flints with a ph
+of measured in h o park grass covers m by m and the
+sampling strategy consisted of taking randomized soil samples in four areas of
+the plot horizontal sampling and at seven depths vertical sampling each cm
+between and cm the ecully soil silty topsoil was sampled in a grassland
+
+area lat °n long °e at the same seven depths samples were
+placed into plastic bags and transported on ice soil was homogenized manually
+by thorough physical mixing all tools and materials used were washed and
+sterilized 
+
+dna extraction methods dna extraction from soil is a key step in the
+metagenomic approach two different methods are routinely used in
+the first method direct extraction cells are lysed within the soil sample 
+ we used two direct dna extraction protocols that involve bead beating a
+method described previously griffiths et al that uses the fastprep lysing
+matrix mp bead beating bio biomedical and the mobio ultraclean soil
+dna isolation kit for both protocols dna was extracted from g of soil for
+the alternative method cells were first removed from the soil g and then
+lysed this method is commonly called indirect extraction and has been
+reported to separate prokaryotic from eukaryotic cells via a nycodenz density
+gradient during the centrifugation the nycodenz gradient is stabilized
+at a density of g ml and should isolate prokaryotes to form a cellular fraction
+called the cell ring fig we fractionated the gradient into six parts each ml
+ four fractions above the cell ring the cell ring and one below the cell ring total
+of ml by varying the centrifugation speed � g � g � g 
+and � g for min after centrifugation at each speed the nycodenz
+gradient was subsampled from the top down by pipetting out ml samples the
+cell ring was within the fifth subsample 
+
+after cell separation in the gradient we used different cell lysis protocols 
+which have various degrees of stringency the mp bead beating protocol the
+epicentre gram positive kit the nucleospin tissue kit and five agarose plug
+protocols called protocols a b c d and e 
+
+agarose plugs the extraction of soil bacteria was performed on fresh soil
+samples as previously described by bertrand et al using the nycodenz
+
+fig theoretical contribution of the terragenome initiative to soil diversity exploration which starts with “ ” titanium plates and the
+construction of a million fosmid kb inserts clone library in the context of soil microbial diversity estimation studies metasoil project 
+ based on data from references and 
+
+ delmont et al appl environ microbiol 
+
+
+
+gradient separation method the collected bacterial cell fraction was washed
+with ultrapure water and then centrifuged for min at � g the cell
+pellet was then resuspended in a mm tris ph – mm edta buffer 
+mixed with an equal volume of molten incert agarose and then transferred
+into disposable plug molds bio rad the lysis of the soil bacteria was then
+performed with agarose after the different lysis methods were used agarose
+plugs were equilibrated in a mm tris ph – mm edta storage buffer 
+
+ i protocol a for protocol a agarose plugs were first transferred into ml
+of g� lysis buffer lauroyl sarcosine mm edta na ph with 
+mg ml of lysozyme and incubated at °c for h the agarose plugs were then
+incubated in ml of g� lysis buffer with �g ml of proteinase k at °c
+for h 
+
+ ii protocol b for protocol b agarose plugs were first transferred into ml
+of la lysis buffer mm tris ph mm edta mg of lysozyme ml 
+ mg of achromopeptidase ml and incubated at °c for h the agarose
+plugs were then incubated in ml of sp lysis buffer mm tris ph 
+mm edta lauryl sarcosyl mg of proteinase k ml at °c for h an
+additional incubation for h was performed with fresh sp buffer 
+
+ iii protocol c for protocol c agarose plugs were first transferred into ml
+of g� lysis buffer mm tris hcl mm edta na m nacl brij 
+ sodium deoxycholate lauroyl sarcosine ph with mg ml of
+lysozyme and incubated at °c for h the agarose plugs were then incubated
+in ml of g� lysis buffer with �g ml of proteinase k at °c for h 
+
+ iv protocol d for protocol d agarose plugs were incubated in ml of sp
+lysis buffer mm tris ph mm edta lauryl sarcosyl mg of
+proteinase k ml at °c for h an additional incubation for h was
+performed with fresh sp buffer 
+
+ v protocol e for protocol e agarose plugs were transferred into ml of
+la lysis buffer mm tris ph mm edta mg of lysozyme ml 
+mg of achromopeptidase ml and incubated at °c for h 
+
+these plug protocols for differential dna recovery have also been used for
+fosmid library construction that requires high molecular weight dna to create
+clone libraries with different sequence diversities 
+
+dna size separation pulsed field gel electrophoresis pfge was used to
+separate the metagenomic dna as a function of the fragment size distribution
+ low melting point agarose and � tris borate edta tbe with a pro 
+
+gram of s s and h the dna was then extracted from the gel by using
+agarase i new england biolabs inc for the rothamsted soil samples a
+portion of dna was physically sheared to generate a range of fragments that
+were smaller than those in the undisrupted portion as demonstrated by the
+differential migration of the smears fig 
+
+ribosomal intergenic spacer analysis risa the intergenic spacer igs 
+region between the small s and the large s subunits of ribosomal se 
+quences were amplified by pcr using primers � tgcggctggatcccctc
+ctt � forward and � ccgggtttccccattcgg � reverse for
+the pcr mix �l of dna �m was mixed with �l of reverse and
+forward primers �m and �l of distilled water dh o pcr cycles
+consisted of °c for min and then cycles of °c for s °c for s 
+and °c for min followed by °c for min with a biometra thermocycler 
+one microliter of the pcr mix was then loaded into an agilent dna lab
+on a chip and electropherograms were analyzed and data were normalized by
+using an agilent bioanalyzer an example of different replicates is shown in
+fig s in the supplemental material in order to demonstrate the reproducibility
+of this fingerprint approach 
+
+phylochip analyses the microarray format used in these experiments was that
+from agilent sureprint technologies the format used consisted of blocks of
+ spots each on a standard glass slide format in by in mm by 
+mm each spot was formed by the in situ synthesis of mer oligonucleotide
+probes each oligonucleotide probe occurred at least in triplicate within each
+block all blocks were identical this format provides for the hybridization of
+eight samples at the same time and on the same slide the use of multiple slides
+was necessary for the hybridization of over eight samples probes were designed
+to target the rrs gene and to cover a wide part of the bacteria and archaea
+phylogenic tree probes were designed with the arb software package and
+phylarray a we have chosen to design mer probes with a melting tem 
+perature range of °c � °c and with a weighted mismatch of less than our
+design includes oligonucleotide probes at different taxonomic levels this mi 
+croarray covers over genera and otus “species” or “hits” 
+
+the rrs genes were amplified by pcr from total dna by using universal
+primer pa taatacgactcactatagagagtttgatcctggctcag 
+and ph t aaggaggtgatccagccgca universal for most mem 
+bers of the bacteria and some of the archaea under standard conditions the
+
+fig schematic of the different classes of dna separation methods starting with physical distance in the field and then density differences
+in nycodenz gels resistance to cell lysis and finally dna size separation by pulsed field gel electrophoresis 
+
+vol microbial population and community ecology 
+
+
+
+amplification of dna was performed with a �l pcr mixture using u of ex
+taq titanium polymerase pcr was conducted at °c for min and then with
+ cycles of °c for s °c for s and °c for s followed by °c for
+ min amplified pcr products were electrophoresed on a agarose gel and
+the desired kb bands were removed and purified by using gfx pcr dna
+and a gel band purification kit amersham biosciences purified pcr products
+were then transcribed onto rna using t rna polymerase invitrogen with
+the incorporation of labeled cy utp cy is a fluorescent dye emitting light at
+ nm rna purification was performed by using the qiagen rneasy minikit
+according to the manufacturer’s instructions rna fragmentation was achieved
+by the addition of �l of tris cl mm and �l of znso mm to
+ �l of labeled rna sample and incubation for min at °c chemically
+fragmented labeled rna was then hybridized to the phylochips 
+
+microarray scanning and data processing an innoscan carbonne france 
+ scanner was used for scanning microarray slides according to the manufac 
+turer’s instructions raw hybridization fluorescence signals for each spot were
+determined based on the signal to noise ratio snr which was calculated by
+using the following formula snr � signal intensity � background standard
+deviation of the background hybridization fluorescence signals for all probes 
+including negative controls were transformed by calculating the log of the
+signal since at least three replicates exist for all oligonucleotide probes outliers
+were eliminated when any individual spot was greater than standard deviations
+from the average of all replicates analysis of variance anova was used to
+evaluate positive probes from the results for all microarray data from one
+experiment since the probes have different phylogenetic depths the genera
+described here were those for which all relevant probes were positive while all
+of the thousands of probes could not be independently verified many of the
+probes were validated by the application of dna from a single bacterium 
+
+results
+
+two different soils were employed for the elaboration of the
+dna recovering strategy ecully france and park grass plot
+ d rothamsted england different approaches were tested
+to separate and increase the metagenomic dna extracted at
+one time and one place and the diversity of the different
+samples was estimated with ribosomal intergenic spacer anal 
+ysis risa fingerprinting electropherogram profiles are
+shown in fig after preliminary tests four methods ap 
+peared to separate metagenomic dna into the most diverse
+fractions for the two soils vertical soil sampling density gra 
+dient cell separation cell lysis stringency and dna fragment
+size distribution fig the different methods could be ap 
+plied sequentially to maximize differential dna extraction
+ fig clearly all the extracted dna pools have distinct
+species diversities and distributions however the cell lysis
+stringency appeared to have the most influence on the diversity
+of the extracted dna pool as discussed below 
+
+risa profiles risa fingerprints representing electrophero 
+grams demonstrate the presence and absence of different pop 
+ulations within the dna extracted from the microbial commu 
+nity fig the different dna extraction methods applied to
+the two soils are compared in four categories vertical samples
+ fig a and a� nycodenz separation fig b and b� the
+cell lysis procedure fig c and c� and dna size differences
+ fig d and d� the fingerprints of the microbial community
+extracted by the different methods are all different in contrast
+to the similar profiles seen with replicate samples see fig s 
+in the supplemental material although the differences are
+more pronounced for those methods that include different lysis
+procedures fig c and c� soil sample depth fig a and
+a� and dna size fig d and d� showed the fewest differ 
+ences although extreme size classes were noticeably different
+ i e kb in c and kb in c� the use of different lysis
+procedures had the greatest impact on risa diversity to 
+
+gether covering the entire spectrum of possible risa peaks
+ fig c and c� in contrast to dna fractionated according to
+size which has several areas without peaks fig d and d� in
+order to evaluate the differences between the different risa
+profiles the rothamsted profiles were quantified and the dif 
+ferent samples were compared with a principal component
+analysis pca the pca separated the groups principally as a
+function of the cell lysis procedure fig within these large
+groups other parameters are regrouped such as fractions from
+different depths in the soil core the nycodenz gradient frac 
+tions where “top” refers to different samples from above the
+cell ring and the pfge smear where bw is about kb 
+bw is about kb and bw is about kb in addition the
+mp bead beating extraction method was applied to both the
+soil direct cell extraction and the nycodenz cell ring while
+the bead beating produced somewhat similar risa profiles 
+the direct and indirect “cell ring” samples were differentiated
+by the pca fig some replicates are provided in order to
+evaluate the relative importance of the risa profiles for
+example the mobio kit method was performed twice on the
+deepest soil sample to cm deep and the bead beating
+was performed three times on the second depth fraction to
+ cm all of the replicates grouped relatively closely together
+ fig 
+
+taxonomic comparisons for the rothamsted soil the dif 
+ference between the metagenomic dnas extracted by these
+different methods was further explored with the phylogenetic
+microarray in order to determine which genera were selectively
+extracted by one approach or the other comparisons of the
+microarray responses were therefore made between different
+extraction protocols 
+
+in addition the same dna extraction protocol mp bead
+beating was used to evaluate the microbial diversity differ 
+ences as a function of depth vertical soil sampling phylochip
+analysis using s rrna gene rrs hybridization showed sig 
+nificant diversity variations with the frequency of bacillus spp 
+increasing and that of mesorhizobium species decreasing with
+depth some genera were detected in only one fraction for
+example sandarakinotalea was detected only at the to cm
+depth alkalibacillus and ammoniphilus were detected at the
+lowest depth see fig s in the supplemental material after
+centrifugation at a relatively low speed � g the density
+gradient was subsampled in six fractions four fractions above
+the cell ring one at the cell ring and one below the cell ring of
+ ml each one dna extraction protocol epicentre gram 
+positive kit was used for phylochip comparisons the fre 
+quency of detection of the genera glycomyces and legionella
+increased with depth in the nycodenz gradient moreover the
+populations of some genera were relatively isolated in one
+fraction and undetected or at very low levels in all others e g 
+marinobacter pseudoxanthomonas fervidobacterium and
+treponema emphasizing the value of varying the centrifuga 
+tion speed to access different metagenomic dnas see fig s 
+in the supplemental material 
+
+after the soil and cell separation different cellular lysis
+protocols were used to separate the metagenomic dna as a
+function of the cell wall resistance to lysis seven different
+protocols were applied in addition two direct extraction pro 
+tocols dna extracted directly from the soil the mp bead 
+beating protocol and the mobio ultraclean soil dna kit were
+
+ delmont et al appl environ microbiol 
+
+
+
+applied to the soils the seven other protocols were indirect
+extraction protocols cells extracted before lysis the same mp
+bead beating protocol the epicentre gram positive kit the
+nucleospin tissue kit and five different agarose plug protocols 
+by varying the lysis stringency each lysis method facilitated the
+dna extraction of a part of the microbially diverse population
+to the detriment of the rest for example mp bead beating
+direct dna extraction fraction of to cm facilitated the
+extraction of the genera brevundimonas and mesorhizobium
+but not the genera sphingobium detected only with plug lysis
+protocol e or pseudomonas on the other hand indirect
+
+bead beating dna extraction accessed more members of the
+pseudomonas genus but not mesorhizobium or gloeobacter see
+fig s in the supplemental material 
+
+finally after an in plug lysis protocol b dna was sepa 
+rated as a function of its size distribution by pulsed field gel
+electrophoresis this separated dna based on its molecular
+weight the low molecular weight to kb fraction was
+extracted and analyzed directly and the dna was fragmented
+so that the kb fraction was fragmented down to the same
+size to kb and then analyzed by phylochip analysis 
+some genera were clearly unevenly represented in these two
+
+fig multiple examples of ribosomal intergenic spacer analysis risa electropherograms of dna from the ecully and park grass 
+rothamsted soils illustrating the differences in the diversities of microbial community dna as a function of the applied separation technique 
+graphs represent relative risa band intensities as a function of travel time in the gel a physical separation with mp bead beating direct dna
+extraction of soil samples from different depths to to and to cm deep b cellular fractionation in a density gradient
+ gram positive lysis after centrifugation at � g c cell lysis with mp bead beating and mobio kit direct dna extractions depth to
+ cm and epicentre gram positive bead beating and dna tissue indirect dna extractions depth to cm d metagenomic dna
+fractionation by pfge after extraction by plug protocol b depth to cm 
+
+vol microbial population and community ecology 
+
+
+
+dna samples see fig s in the supplemental material no 
+tably the genera sulfurimonas xylella and leuconostoc were
+undetected in the low molecular weight to kb fraction
+but were easily detected in the high molecular weight fraction 
+on the other hand the genera marinobacter and rhodopirel 
+lula were detected only in the low molecular weight fraction
+ to kb these results demonstrate the variation in ge 
+netic diversity in the soil metagenomic dna smear and might
+explain some of the bias found in the fosmid clone libraries as
+the dna selected is generally between and kb 
+
+the relative phylogenetic distributions based on probe
+hybridization intensities of soil dna pools extracted as a
+function of all four parameters soil depth nycodenz gra 
+dient depth cell lysis stringency and dna size were also
+compared the presence or absence of different genera and
+their relative fluorescence intensities from the different
+dna pools were plotted against those for the mp bead 
+beating direct lysis of the top soil fraction fig black
+line thus this pool of dna defines the order descending 
+of the genera not listed here along the x axis from most
+abundant to least abundant fig this dna pool had 
+identified genera which is why the genera after the th
+genus were not detected in the mp bead beating top soil
+
+fraction of “ to cm” but were detected in other dna
+extracts all other dna pools were thus compared to this
+pool and where there are peaks above the black line the
+pool in question has more of a given genus and where there
+are valleys the given pool has less of a given genus than
+those determined by mp bead beating for example meso 
+rhizobium fig far left is the most predominant genus in
+the reference dna pool mp bead beating direct lysis of
+the top soil fraction of to cm more so than in any other
+extraction method’s dna pool other examples include
+pseudomonas in the dna pool from the mp bead beating
+applied to the nycodenz cell ring after centrifugation at
+ � g and bacillus in the dna pool from the mp
+bead beating direct lysis on the bottom soil sample fig 
+note that when the reference pool mp bead beating direct
+lysis of the top soil sample does not detect certain genera at
+all fig right several different extraction dna pools
+have relatively high levels of these genera e g mari 
+nobacter with the gram positive extraction of the nycodenz
+cell ring at � g and sphingobium with cell lysis pro 
+cedure e many genera were not detected by using a single
+dna extraction protocol but were revealed by applying
+other protocols while some protocols like direct and indi 
+
+fig principal component analysis showing the first and second components of the matrix data for the risa analysis from each dna
+separation method the percentages of variance of all axes are shown in the upper left corner bb bead beating a b c d and e agarose plug
+protocols bw bw and bw low medium and high molecular weight dna extracted with plug protocol b m mobio ultraclean kit g 
+epicentre g� kit c cell ring from the nycodenz density gradient separation top dna recovered from the different fractions above the cell ring 
+the numbers to refer to the depth intervals cm deep each of the soil samples from the soil core with being to cm and being to
+ cm etc g refers to dna recovered from the cell ring in the nycodenz gradient when the centrifuge was operated at � g rather than
+the usual � g 
+
+ delmont et al appl environ microbiol 
+
+
+
+rect mp bead beating access more genera than some of the
+more specific extraction protocols the relative proportions
+are not the same in any case no single protocol accesses the
+entire microbial community metagenome when the phylo 
+
+genetic probes on the microarray are quantified by extrac 
+tion techniques the numbers of phyla classes genera and
+potential species “hits” vary considerably e g from to
+ genera between protocols table however while
+
+fig phylogenetic distribution genus level of dna pools for different genera the genus order is based on the decreasing percentage
+of those detected in the dna pool extracted with mp bead beating direct lysis of the surface to cm soil sample black line from genera
+ to the order from genera to where the genera were not detected in the reference dna pool is alphabetical 
+
+table potential microbial biodiversity detected from the rothamsted soil as a function of the extraction techniquea
+
+method no ofphyla
+no of
+classes
+
+no of
+orders
+
+no of
+families
+
+no of
+genera
+
+total no 
+of hits
+
+mp bead beating direct dna extraction – cm 
+mp bead beating direct dna extraction – cm 
+g� fraction � g – cm 
+g� cell ring � g – cm 
+g� cell ring � g – cm 
+plug lysis protocol b cell ring – cm � kbp 
+plug lysis protocol b cell ring – cm � kbp 
+plug lysis protocol d cell ring – cm 
+plug lysis protocol e cell ring – cm 
+
+ different dna extraction approaches 
+
+a the value of � g refers to dna recovered from the cell ring in the nycodenz gradient when the centrifuge was operated at � g rather than at the usual
+ � g 
+
+vol microbial population and community ecology 
+
+
+
+some protocols detected relatively low numbers of genera
+ e g lysis procedure e these protocols add to the overall
+recovery of diversity for example if all different proto 
+cols were used then different genera would be detected
+ table 
+
+discussion
+
+the exploration of the biodiversity in soils requires metage 
+nomic approaches that extract dna from all the bacteria and
+archaea present as comprehensively as is possible the scale of
+the spatial variation of the microbial diversity in a soil must
+influence any attempts to recover the genomes of all members
+of the microbial community risa profiles showed that park
+grass diversity varies both horizontally and vertically however 
+the vertical variation appeared to be greater to increase the
+level of biodiversity recovered from soil we applied a range of
+approaches to access the metagenomic dna pool these ap 
+proaches were dependent on soil depth cell separation in
+density gradients cell lysis stringency and dna molecular
+weight the often applied strategy of sampling different loca 
+tions at the site was not the most significant factor in increasing
+the level of diversity of dna extracted from the soils tested
+here fig and rather the most critical strategies were
+those applied to the soil samples in the laboratory to extract
+and fractionate cells and dna this implies that the sample
+size roughly g was sufficient to capture the majority of the
+microbial community metagenome nevertheless all of the
+different approaches including vertical soil sampling altered
+the accessible biodiversity the relevant issue was the relative
+improvement achieved with every additional dna extraction
+protocol 
+
+while all cell lysis protocols have numerous biases that limit
+the diversity of the metagenomic dna extracted we used
+these biases to our advantage in order to access different soil
+microbial communities with different proportions of species
+represented this approach separated the metagenomic dna
+as a function of cell wall resistance to lysis risa analyses
+
+showed important differences between lysis methods the pca
+corresponding to risa profiles of some rothamsted soil dna
+samples emphasized the importance of this step fig the
+lysis protocol was the major driving force in grouping micro 
+bially diverse communities and thus was a crucial step for dna
+extraction differences these different lysis methods had sig 
+nificant effects on the metagenomic dna extracted from a soil 
+with different microbial populations being represented in each
+sample fig furthermore we made an effort to access
+different diverse populations with the agarose plug protocols
+ five different lysis protocols so that this strategy could be
+coupled with fosmid clone library production 
+
+no one protocol can provide an accurate determination of
+species distribution and therefore different dna extraction
+protocols more or less stringent could be employed and the
+dna pools could then be mixed together to maximize the
+number of different species represented and to decrease
+the proportion of the dominant species with a consequent
+increase in the final level of metagenomic diversity the true
+relative abundance of different species is not currently deter 
+minable and both microarray approaches and attempts to val 
+idate “ s” clone libraries by quantitative pcr are unfortu 
+nately dealing with the same dna extraction pool e g see
+reference and thus the same extraction bias nevertheless 
+improved knowledge of the species present in the soil will aid
+in our understanding of soil function independent of their
+relative abundances since the majority of microorganisms are
+probably underrepresented in soil they are not easily
+accessible for study our approach was to maximize the rep 
+resentation of different species in dna extracted from the
+same soil using four different techniques in order to improve
+our understanding of soil biodiversity 
+
+to visualize the impact of our strategy on accessing different
+levels of biodiversity in soil sample dna was analyzed with a
+phylochip containing the mer complementary strands of the
+ s rrna gene rrs the different strategies clearly extracted
+different relative numbers of genera fig and table with
+some not detecting the presence of certain genera fig 
+
+fig venn diagram showing percentages of probe hybridization coverage out of over total between dna extraction protocols as a
+function of the lysis stringency a and location in a nycodenz density gradient at different centrifugation speeds b 
+
+ delmont et al appl environ microbiol 
+
+
+
+these rather large differences confirm the requirement for
+multiple approaches when high levels of microbial diversity are
+sought clearly there is some overlap between different dna
+extraction strategies fig and in the case of different lysis
+stringencies or cellular fractions in a density gradient at least
+ of the biodiversity as measured by positive phylogenetic
+microarray probes was detected in all dna extraction method
+variations on the other hand over of the biodiversity was
+detected only in individual pools of extracted dna fig 
+the different approaches tested appear to access variable
+quantities of phyla classes families genera and species cor 
+responding to different “hits” in the ncbi database table 
+some of the methods accessed a maximum amount of diversity
+ e g mp direct dna extraction and plug protocol b indirect
+dna extraction while others provide in depth information
+on diversity e g fraction of the density gradient with the
+gram positive epicentre kit or plug protocol e indirect dna
+extraction which can help metagenomic dna assemblages
+and provide access to generally unrepresented genetic re 
+sources combining the outputs from the different methods
+provides a greater level of biodiversity than any individual
+approach increasing the number of hypothetical species by
+ in comparison to the best individual dna extraction
+method tested 
+
+none of the different extraction protocols described here are
+suitable for high throughput sequencing although pcr ap 
+proaches can be easily applied to prokaryote community stud 
+ies the yield is particularly low when dna is extracted from
+the cell density gradient fractions above the cell ring and when
+the dna is extracted from agarose gels in theory it is possible
+to use whole genome amplification to increase yields but the
+inherent bias in this method would considerably limit the utility
+of sequencing these fractionated parts of a soil metagenome 
+there is some anecdotal evidence that the lower the dna
+yield the more the dna sample represents unique phyla the
+challenge is to accumulate sufficient dna with low yield ap 
+proaches to enable high throughput sequencing sequencing
+may not be appropriate for comparisons across many samples
+but is likely to be crucial when species richness and diversity
+
+within a small number of soil samples need to be defined in
+detail 
+
+we have defined a strategy for increasing the level of detec 
+tion of metagenomic dna diversity in two soils by employing
+multiple dna extraction methods by comparing these multi 
+ple methods we showed that the spatial distance between soil
+samples did not have a major impact on the genetic diversity
+that was determined in contrast to both depth and the differ 
+entdnaextractionandpurificationmethods themixedmetage 
+nomic dna containing products from different soil depths and
+with different extraction factors density gradient cell lysis
+stringency and dna molecular weight will maximize the rep 
+resentation of different species although it may distort their
+relative abundance at the nucleic acid level however the
+“true” distribution is unknown and no existing method pro 
+vides this information to the contrary most methods provide
+limited views of the true soil biodiversity and it is only by
+adopting a range of extraction and lysis methods that rare
+species are captured thus increasing the number of species
+detected table the increase in the phylochip probe diver 
+sity from these different dna fractions follows standard rar 
+efaction curves fig these results imply that the level of
+soil diversity is greater than estimations based on one dna
+extraction method e g see references and there 
+fore considerable efforts and technologies are needed to ac 
+cess not only dna pools but also an entire metagenome for
+unbiased microbial ecology studies 
+
+acknowledgments
+
+we thank the french national research agency anr gmge
+metasoil we also thank libragen for its help and collaboration 
+
+t o d was funded by the rhône alpes region rothamsted re 
+search receives grant aided support from the biotechnology and bio 
+logical sciences research council of the united kingdom 
+
+references
+
+ bakken l r separation and purification of bacteria from soil appl 
+environ microbiol – 
+
+ berry a e c chiocchini t selby m sosio and e m wellington 
+isolation of high molecular weight dna from soil for cloning into bac
+vectors fems microbiol lett – 
+
+fig rarefaction curve based on phylogenetic microarray analyses of different based on extraction methods dna pools from the
+rothamsted soil samples the percentage of positive probes is plotted against the number of probes tested over multiple microarrays used to test
+different dna pools 
+
+vol microbial population and community ecology 
+
+
+
+ bertrand h et al high molecular weight dna recovery from soils
+prerequisite for biotechnological metagenomic library construction j mi 
+crobiol methods – 
+
+ boubakri h m beuf p simonet and t m vogel development of
+metagenomic dna shuffling for the construction of a xenobiotic gene gene
+ – 
+
+ bruce k d et al amplification of dna from native populations of
+soil bacteria by using the polymerase chain reaction appl environ micro 
+biol – 
+
+ carrig c o rice s kavanagh g collins and v o’flaherty dna
+extraction method affects microbial community profiles from soils and sed 
+iment appl microbiol biotechnol – 
+
+ courtois s et al quantification of bacterial subgroups in soil com 
+parison of dna extracted directly from soil or from cells previously released
+by density gradient centrifugation environ microbiol – 
+
+ courtois s et al recombinant environmental libraries provide access
+to microbial diversity for drug discovery from natural products appl envi 
+ron microbiol – 
+
+ curtis t p w t sloan and j w scannell estimating prokaryotic
+diversity and its limits proc natl acad sci u s a – 
+
+ demaneche s et al antibiotic resistant soil bacteria in transgenic
+plant fields proc natl acad sci u s a – 
+
+ fao guidelines for soil description fao rome italy ftp ftp
+ fao org agl agll docs guidel soil descr pdf 
+
+ frostegård a et al quantification of bias related to the extraction of
+dna directly from soil appl environ microbiol – 
+
+ galvao t c w w mohn and v de lorenzo exploring the microbial
+biodegradation and biotransformation gene pool trends biotechnol 
+ – 
+
+ gans j m wolinsky and j dunbar computational improvements
+reveal great bacterial diversity and high metal toxicity in soil science 
+ – 
+
+ ginolhac a et al phylogenetic analysis of polyketide synthase i
+domains from soil metagenomic libraries allows selection of promising
+clones appl environ microbiol – 
+
+ griffiths r i a s whitely a g o’donnell and m j bailey rapid
+method for coextraction of dna and rna from natural environments for
+analysis of ribosomal dna and rrna based microbial community compo 
+sition appl environ microbiol – 
+
+ handelsman j m r rondon s f brady j clardy and r m goodman 
+ molecular biological access to the chemistry of unknown soil microbes 
+a new frontier for natural products chem biol r –r 
+
+ head i m j r saunders and r w pickup microbial evolution 
+diversity and ecology a decade of ribosomal rna analysis of uncultivated
+microorganisms microb ecol – 
+
+ kahvejian a j quackenbush and j f thompson what would you
+do if you could sequence everything nat biotechnol – 
+
+ knietch a t waschkowitz s bowien a henne and r daniel 
+metagenomes of complex microbial consortia derived from different soils as
+sources for novel genes conferring formation of carbonyls from short chain
+polyols on escherichia coli j microbiol biotechnol – 
+
+ lakay f m a botha and b a prior comparative analysis of
+environmental dna extraction and purification methods from different hu 
+mic acid rich soils j appl microbiol – 
+
+ lamontagne m g f c michel p a holden and c a reddy 
+evaluation of extraction and purification methods for obtaining pcr 
+amplifiable dna from compost for microbial community analysis j micro 
+biol methods – 
+
+ lefevre f et al drugs from hidden bugs their discovery via untapped
+resources res microbiol – 
+
+ martin laurent f et al dna extraction from soils old bias for new
+microbial diversity analysis methods appl environ microbiol –
+ 
+
+ a milton c et al phylarray phylogenetic probe design algorithm for
+microarray bioinformatics – 
+
+ morales s e t f cosart j v johnson and w e holben exten 
+sive phylogenetic analysis of a soil bacterial community illustrates extreme
+taxon evenness and the effects of amplicon length degree of coverage and
+dna fractionation on classification and ecological parameters appl envi 
+ron microbiol – 
+
+ morales s e and w e holben empirical testing of s rrna gene
+pcr primer pairs reveals variance in target specificity and efficacy not
+suggested by in silico analysis appl environ microbiol – 
+
+ ogram a g s sayler and t barbay the extraction and purification
+of microbial dna from sediments j microbiol methods – 
+
+ rajendhran j and p gunasekaran strategies for accessing soil
+metagenome for desired applications biotechnol adv – 
+
+ ranjard l e brothier and s nazaret sequencing bands of ribo 
+somal intergenic spacer analysis fingerprints for characterization and mi 
+croscale distribution of soil bacterium populations responding to mercury
+spiking appl environ microbiol – 
+
+ rappé m s and s j giovannoni the uncultured microbial major 
+ity annu rev microbiol – 
+
+ robe p r nalin c capellano t m vogel and p simonet ex 
+traction of dna from soil eur j soil biol – 
+
+ roesch l l et al pyrosequencing enumerates and contrasts soil
+microbial diversity isme j – 
+
+ sanguin h et al potential of a s rrna based taxonomic microar 
+ray for analyzing the rhizosphere effects of maize on agrobacterium spp and
+bacterial communities appl environ microbiol – 
+
+ schloss p d and j handelsman biotechnological prospects from
+metagenomics curr opin biotechnol – 
+
+ shendure j and j hanlee next generation dna sequencing nat 
+biotechnol – 
+
+ sogin m l et al microbial diversity in the deep sea and the under 
+explored ‘�rare biosphere ’’ proc natl acad sci u s a – 
+
+ torsvik v j goksoyr and f l daae high diversity in dna of soil
+bacteria appl environ microbiol – 
+
+ torsvik v l ovreas and t f thingstad prokaryotic diversity—
+magnitude dynamics and controlling factors science – 
+
+ tringe s g et al comparative metagenomics of microbial commu 
+nities science – 
+
+ van elsas j d v mantynen and a c wolters soil dna extraction
+and assessment of the fate of mycobacterium cholorophenolicum strain
+pc in different soils by s ribosomal gene sequence based most probable
+number pcr and immunofluorescence biol fertil soils – 
+
+ van elsas j d j k jansson and j t trevors modern soil
+microbiology ii crc press boca raton fl 
+
+ van elsas j d et al the metagenomics of disease suppressive
+soils—experiences from the métacontrol project trends biotechnol 
+ – 
+
+ vogel t m et al terragenome a consortium for the sequencing of
+a soil metagenome nat rev microbiol 
+
+ zhou j m a bruns and j m tiedje dna recovery from soils of
+diverse composition appl environ microbiol – 
+
+ delmont et al appl environ microbiol 
+
+
+

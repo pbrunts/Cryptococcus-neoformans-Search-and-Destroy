@@ -1,0 +1,2498 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+does intensified boreal forest harvesting impact soil microbial community structure and function 
+
+
+article
+
+does intensified boreal forest harvesting impact soil microbial
+community structure and function 
+emily e smenderovac kara webster john caspersen dave morris paul hazlett and nathan basiliko
+
+abstract intensified biomass harvesting in northern forests could potentially negatively impact soils this study measured
+microbial community structure and function to assess the impacts of intensified biomass removal on soil from a managed
+northern jack pine pinus banksiana lamb forest in ontario canada four clear cut harvesting removal intensities were com 
+pared with uncut controls and mature fire regenerated forest reference plots stem only removal full tree biomass removal 
+full tree biomass with stump removal and full tree biomass with stump removal and soil blading that eliminated all aboveg 
+round and much belowground organic matter a nearby recently burned forest site representing common natural disturbance
+in the region was also studied within the first two years after harvesting there were significant differences in community
+structure and degradation of various c compounds among all harvested and unharvested sites but little difference in commu 
+nities across the different harvest intensities communities within the fire site were not comparable with those of harvested
+treatments indicating that clear cut logging may not initially produce an ecologically comparable disturbance with that of fire 
+although this conclusion is based on only one fire disturbance site in the two years after harvesting an important time for
+seedling establishment in managed forest systems it appears that intensification of harvesting does not further disrupt micro 
+bial community structure and functioning beyond impacts from current harvest practices 
+
+key words bioenergy whole tree harvesting bacteria fungi substrate induced respiration extracellular enzymes high throughput
+sequencing 
+
+résumé la récolte intensive de biomasse dans les forêts nordiques pourrait avoir un impact négatif sur les sols cette étude a
+mesuré la structure et le fonctionnement des communautés microbiennes pour évaluer les impacts de la récolte intensive de
+biomasse sur le sol d’une forêt aménagée de pin gris pinus banksiana lamb dans le nord de l’ontario au canada nous avons
+comparé des peuplements témoins non récoltés et des parcelles de référence dominées par des forêts matures régénérées par le
+feu à quatre intensités de récolte par coupe à blanc récolte des troncs seulement récolte par arbres entiers récolte par arbres
+entiers avec enlèvement des souches et récolte par arbres entiers avec enlèvement des souches et coupe à la cisaille pour
+éliminer toute la matière organique sur le sol et une grande partie de la matière organique sous la surface du sol nous avons
+aussi étudié une station forestière adjacente ayant récemment brûlé représentative d’une perturbation naturelle fréquente dans
+la région au cours des deux premières années qui ont suivi la récolte nous avons détecté des différences significatives dans la
+structure des communautés et la dégradation de plusieurs composés carbonés entre les stations non récoltées et l’ensemble des
+stations récoltées mais peu de différences dans les communautés entre les différentes intensités de récolte les communautés
+présentes dans la station brûlée n’étaient pas comparables à celles des stations récoltées ce résultat indique qu’initialement la
+coupe à blanc ne serait pas une perturbation écologiquement comparable au feu bien que cette conclusion soit basée sur une
+seule station brûlée au cours des deux années suivant la récolte qui correspondent à une période importante pour
+l’établissement des semis dans les systèmes forestiers aménagés il semble que l’intensification de la récolte n’accentue pas
+davantage la perturbation de la structure et du fonctionnement des communautés microbiennes au delà des impacts liés aux
+pratiques forestières courantes traduit par la rédaction 
+
+mots clés bioénergie récolte par arbre entier bactéries champignons respiration induite par le substrat enzymes extracellulaires 
+séquençage à haut débit 
+
+introduction
+the market for biomass derived energy is anticipated to grow as
+
+global climate change drives the energy sector to seek alternative
+energy solutions berch et al forestry companies in canada
+
+and elsewhere commonly use bioenergy to support internal mill 
+ing operations and historically have been the largest industrial
+producers of bioenergy as the demand for renewable energy in 
+creases the forestry sector is looking to provide more biomass for
+
+received november accepted march 
+
+e e smenderovac vale living with lakes centre and the department of biology laurentian university ramsey lake road sudbury on p e c 
+canada faculty of forestry university of toronto willcocks street toronto on m s b canada department of geography university of toronto
+mississauga mississauga road north mississauga on l l c canada 
+k webster and p hazlett canadian forest service great lakes forestry centre queen street east sault ste marie on p a e canada 
+j caspersen faculty of forestry university of toronto willcocks street toronto on m s b canada 
+d morris ontario ministry of natural resources and forestry centre for northern forest ecosystem research james st south thunder bay 
+on p e v canada 
+n basiliko vale living with lakes centre and the department of biology laurentian university ramsey lake road sudbury on p e c 
+canada department of geography university of toronto mississauga mississauga road north mississauga on l l c canada 
+corresponding author emily e smenderovac email esmenderovac laurentian ca 
+copyright remains with the author s or their institution s permission for reuse free in most cases can be obtained from rightslink 
+
+ 
+
+can j for res – dx doi org cjfr published at www nrcresearchpress com cjfr on april 
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+mailto esmenderovac laurentian ca
+http www nrcresearchpress com page authors services reprints
+http dx doi org cjfr 
+
+
+energy production beyond their own usage in canadian silvicul 
+tural systems it is generally not profitable to manage and harvest
+forests exclusively for energy production via biomass boilers and
+thus any additional bioenergy feedstock supply must come from
+increased biomass removal during harvest for pulpwood or sawlogs
+ natural resources canada additional biomass removed
+through harvesting intensification may include small branches
+and attached leaves and larger coarse woody debris which are
+widely acknowledged as important components of forest ecosys 
+tems contributing to organic matter retention nutrient cycling 
+and habitat supply harmon et al as a result the removal of
+this coarse and fine organic matter may have implications with
+respect to the nutrient status of the soil and future site productivity 
+
+fungi and bacteria carry out important roles in northern forest
+soils in the majority of boreal shield forests in canada soils are
+coarser textured and nutrient poor thus decomposition of har 
+vest slash plant litter and soil organic matter mediated by both
+mycorrhizae and free living saprobes provides an important sup 
+ply of nutrients for tree growth physical disturbances associated
+with clear cut logging have been reported to impact soil microbial
+communities chatterjee et al hynes and germida 
+and studies have recently reported changes in community char 
+acteristics due to increased intensity of harvest harmon et al 
+ kataja aho et al hartmann et al in contrast 
+other studies have seen only general harvesting impacts and
+negligible subsequent impacts from increased slash removals
+ mariani et al allmér et al it may be that the tech 
+niques applied in these studies did not have sufficient sensitivity
+to detect the changes that might have been occurring differences
+in soil microbial communities in western canadian sub boreal
+spruce and interior douglas fir forest soils with and without harvest 
+ing and soil organic matter removal were reported by hartmann
+et al who used high throughput sequencing bacterial com 
+munities were relatively unaffected by logging practices while
+particular groups of fungi — both purported ectomycorrhizal
+symbionts and free living saprobes — were quite different between
+uncut controls and clearcuts and less responsive to the physical
+disturbances of organic matter removal and compaction within
+treatment plots in clear cut logging systems across canada’s vast
+boreal forests seedlings are ideally planted shortly after logging
+operations are completed to facilitate conifer regrowth over low 
+value fast growing broadleaf plants therefore even short term
+impacts brought about by new biomass harvesting practices have
+the potential to influence microorganisms that could benefit
+seedling establishment and forest ecosystem regeneration lehto
+and zwiazek kernaghan and patriquin 
+
+in this study we examined how increased biomass removals
+within jack pine pinus banksiana lamb forests affect the commu 
+nity structure biomass and functioning of soil bacteria and fungi 
+we used a replicated randomized block harvest experiment to
+compare unharvested jack pine plantation plots with four levels
+of biomass removal we also measured these indicators in a ma 
+ture fire origin jack pine stand that had never been managed and
+a recently burned jack pine stand to more generally compare
+microbial communities in managed forests with those under nat 
+ural growth and disturbance regimes we used molecular finger 
+printing including high throughput sequencing of phylogenetic
+marker genes to examine microbial taxa and substrate induced
+respiration and enzyme activity assays to assess changes in func 
+tioning within the soil communities we predicted that reduced
+residual organics on the forest floor and increased mechanical
+disturbance in intensified biomass removal operations would alter
+the soil chemical environment and in turn microbial community
+structure and function further reduced amounts and quality of
+organic residuals in and on soils would alter microbial enzymatic
+hydrolysis of macromolecules and oxidation of lignin to more
+bioavailable moieties potentially impacting long term organic
+matter turnover and associated nutrient availability we also pre 
+
+dicted that harsher conditions in harvested sites e g soil dis 
+turbed by trenching higher winds greater solar radiation would
+reduce microbial biomass and lead to microbial communities
+with fewer dominant taxa adapted to relatively more adverse
+conditions 
+
+methods
+
+study sites and field sampling
+the island lake biomass harvest experiment ° n ° w is
+
+located near chapleau ontario in the boreal shield ecozone
+ lake abitibi boreal ecoregion of ontario according to to
+ climate data chapleau receives an average of mm of
+precipitation per year and has an average temperature range of
+– to °c throughout the year environment canada prior
+to harvesting in the site was occupied by a year old jack
+pine plantation the treatment area was a relatively flat glacio 
+fluvial outwash deposit of medium to coarse sands belonging to
+the brunisolic order there were four applied treatments stem 
+only harvest so where only the bole of each tree was removed 
+leaving stumps and upper branches on site after harvest full tree
+biomass harvest ft where the entirety of each tree including
+traditionally nonmerchantable trees upwards from the stump
+was removed stumped ft s where the full tree biomass har 
+vest was followed by stump and partial root removal and bladed
+ ft b which consisted of a full tree biomass harvest and stump 
+ing and removal of the forest floor and roots by blading five
+replicates of each biomass harvesting intensity were performed
+on randomly distributed blocks of land within the treatment area 
+and five uncut control uc plots were placed within an area bor 
+dering the treatment plots within each block individual treat 
+ment plots are separated by approximately m also m of
+harvested forest was included between the plots and the uncut
+forest to minimize edge effects in the treatment plots 
+
+after site preparation disc trenching in the summer of 
+each × m plot was planted in may half planted with jack
+pine and the other half planted with black spruce picea mariana
+ mill britton sterns poggenb each subplot was split and half
+was treated with glyphosate in august to suppress broadleaf
+plant growth prior to planting plots in a year old fire origin
+stand of jack pine km southeast of the harvesting trials were
+sampled as mature natural comparison mn a fire site fi con 
+sisting of a year old jack pine plantation km northwest of
+the harvesting plots was also sampled it was burned by wildfire in
+may the five sampling plots in the fire and mature sites were
+established with plot spacing similar to that of the uc plots al 
+though the uc mn and fi plots were not included in the random 
+ized replicated experimental design the five replicate sampling
+locations were compared with the main treatment plots to ex 
+plore harvesting impacts as opposed to other between site differ 
+ences greater details concerning the study sites are described in
+kwiaton et al and webster et al 
+
+soils were sampled in all uc mn so ft ft s and ft b plots
+from to june sampling was repeated on to june
+ for all uc so ft and ft s plots as well as two ft b plots
+and all plots at the fi site grab samples of organic soil combined
+litter and fibric and humic horizons of organic soil and the top
+ cm of mineral soil a and upper b horizons were sampled
+separately and taken from six points approximately m apart
+along two transects in each treatment plot for each herbicide and
+nonherbicide treatment on the flats between trenched furrows
+that had minimal physical disturbance in fi plots six samples
+were taken along the approximate midpoint of each plot these
+samples were then pooled by horizon and subplot mixed and
+stored at °c immediately after sampling samples were air dried
+in the lab and sieved through a mm sieve to homogenize the
+samples and remove any large debris in addition a portion of the
+
+smenderovac et al 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+
+
+collected soil was frozen without air drying and sieving for molec 
+ular tests 
+
+meteorological and site conditions during and 
+the average air temperature during the sampling period in 
+
+was almost °c higher than in with this trend being present
+throughout the year the sampling period in was drier than
+during the sampling week having mm of precipitation
+compared with the mm of precipitation in the sampling
+ environment canada in addition there was more low 
+stature vegetation and biomass in the harvested sites during the
+second sampling year compared with the first sampling year 
+blueberry vaccinium was prominent in the harvested and fire
+sites whereas feather mosses dominated the understory in the uc
+and mn plots vegetation was generally less prevalent in herbicide 
+treated subplots 
+
+soil chemistry
+sieved samples were analyzed for ph total carbon c total
+
+nitrogen n exchangeable cations k ca mg fe cu mn zn al 
+and na cation exchange capacity cec and extractable p at the
+soil and plant analytical lab at the great lakes forestry centre
+ sault ste marie ontario according to the methods of kalra and
+maynard carbon functional groups within the organic and
+mineral layers were determined using methods described by
+webster et al 
+
+microbial functioning
+substrate induced respiration was performed using the micro 
+
+resp™ system as referenced in bérard et al briefly sieved
+soil samples were used to fill well deepwell plates plates were
+incubated at °c for days for organic horizons and days for
+mineral horizons substrates were prepared so that applied solu 
+tions would result in concentrations of mg c·ml soil water– 
+after application of a �l aliquot clear well plates were
+prepared with agar containing cresol red kcl and nahco 
+substrates utilized were alanine glucose arabinose butyrate 
+arginine ketose citrate oxalate cysteine maltose fructose and
+trehalose as well as organic “teas” prepared from collected or 
+ganic horizons plate absorbance was read with a spectrophotom 
+eter microplate reader at nm 
+
+hydrolase assays were completed using a method based on that
+of hassett and zak briefly stock �mol·l– solutions
+were made for mub � d glucopyranoside mub � d cellobioside 
+mub phosphate mub n acetyl � d glucosaminide and mub stan 
+dard one half of a gram of sieved soil was measured and blended
+with ml of mol·l– sodium acetate buffer for min 
+substrates were loaded into the microplate and incubated in the
+dark at room temperature for min fluorescence was measured
+at an excitation of nm and an emission wavelength of nm 
+
+lignase activity was also determined in a manner similar to
+hassett and zak briefly fresh mol·l– l dopa solu 
+tion was used as a substrate for lignase activity measurement to
+extract enzymes ml of mol·l– sodium acetate buffer
+was blended with g of sieved soil substrates were loaded into
+the microplate in �l volumes plates were incubated in the
+dark at room temperature for min absorbance was measured
+in a spectrophotometer microplate reader at nm 
+
+microbial biomass
+sieved samples were used to determine microbial biomass c
+
+following the chloroform fumigation method in basiliko et al 
+ samples were weighed to g dry mass equivalent for or 
+ganic horizon samples and g dry mass equivalent for mineral
+horizon samples extract solutions were stored at °c until anal 
+
+ysis of dissolved organic carbon was determined by technicon
+autoanalyzer iic using the acid – potassium persulphate method 
+
+microbial community structure
+dna was extracted from soil samples using the powersoil®dna isolation kit mo bio laboratories inc carlsbad california 
+
+samples were frozen and stored for analysis at a later date 
+pcr and reactions were performed in an mwg ag biotech pri 
+
+mus thermocycler previously determined optimized primer
+combinations and cycles from preston et al were utilized
+for the amplification of bacterial s rrna fungal s rrna and
+archaeal s rrna gene fragments 
+
+terminal restriction fluorescence length polymorphism t rflp 
+analyses of bacterial archaeal and fungal rrna gene segments
+were performed as described by preston et al with a end
+ carboxyfluorescein fam modification on the eu f ar r 
+and fu r primers t rflp analysis was completed at the agri 
+culture and food laboratory in guelph university of guelph ag 
+riculture and food laboratory guelph ontario 
+
+pyrotag sequencing of amplicons on the roche platform
+was completed on samples collected in all replicates of a
+given harvesting regime herbicide use and soil depth were
+pooled and sequenced at the molecular research llp facility shal 
+lowater texas usa per dowd et al sequencing was done
+with eubacterial forward primer agrgtttgatcmtggctcag 
+and fungal forward primer ttagcatggaataatrraatag 
+sequences are stored on ncbi in the bioproject prjna 
+ smenderovac et al 
+
+statistics and data compilation
+all chemical data were converted to ppm and transformed to a
+
+normal distribution before use in statistical analyses biomass
+data were converted to �g c·g soil– using a kurtosis coefficient of
+ anovas of each chemical using treatment were performed
+in r for data subsetted by horizon r core team to deter 
+mine statistical differences across sites for the various chemical
+variables data were subsetted to include variables representative
+of the entire dataset by selecting one variable from highly corre 
+lated groups of variables supplemental materials pcas were
+performed on data subsets using the vegan package within r for
+the subset of variables oksanen et al r core team 
+pcas were created with the whole dataset to maintain visual
+clarity on ordination diagrams only ph microbial biomass mg 
+na and cu were included enzyme and sir data were converted to
+enzymatic activities and co evolved before analysis in r r core
+team data were subjected to pca analysis as well as mixed 
+model anova to determine differences among sites t rflp data
+were preprocessed in r using a custom function created using the
+algorithm described by ishii et al with slight modifications
+to accommodate the data format supplied by the guelph lab 
+microbial communities in samples were compared using dca
+with the vegan package provided by r statistical software oksanen
+et al r core team operational taxonomic unit otu 
+peaks were analyzed in the context of abundance as well as pres 
+ence or absence in samples an adonis test using an eigenvalue
+method was performed to determine whether there were signifi 
+cant differences among treatments oksanen et al the vari 
+ance explained by each factor was used to determine which
+subsets of data should be further investigated 
+
+high throughput amplicon sequence data were analyzed using
+the quantitative insights into microbial ecology qiime pipeline
+ caporaso et al the qiime processed data were ana 
+lyzed in r packages phyloseq indicspecies and vegan de caceres
+and jansen oksanen et al mcmurdie and holmes 
+r core team only those otus that were significantly asso 
+
+ supplemental materials are available with the article through the journal web site at http nrcresearchpress com doi suppl cjfr 
+
+ can j for res vol 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+http nrcresearchpress com doi suppl cjfr 
+
+
+ciated with a treatment or combination treatments p value 
+were considered indicator species closest match for species iden 
+tification of indicator species sequences was determined using the
+ncbi blast genome database blastn algorithm with an expect
+threshold of word size match–mismatch scores – and
+gap costs existence extension madden et al otus were
+analyzed in the context of relative abundance in samples an
+adonis test using an eigenvalue method was performed to deter 
+mine whether there were significant differences between group 
+ings oksanen et al 
+
+in light of relatively few differences in soil chemical properties
+observed among varying harvest intensity treatments these tab 
+ular data as well as tabular microbial activity sir and enzyme
+activities and microbial community structure data are included
+as supplemental files supplemental tables s –s whereas mul 
+tivariate biplots illustrating broader differences and similarities
+among treatments are presented in the main manuscript 
+
+results
+
+soil chemistry and microbial biomass
+chemical characteristics of soils sampled in were different
+
+between mineral and organic soil horizons fig supplemental
+table s many of the chemicals assayed were not significantly
+different among treatments but mineral horizon nutrients ca k 
+mg p were lower in uc while other metal ions fe na zn were
+higher in organic and mineral horizon uc plots compared with
+harvested treatments supplemental table s when subsets of
+
+data by horizon were considered there were important differ 
+ences in overall chemical composition of uc sites compared with
+harvesting treatments in the organic horizon fig in mineral
+soils the difference between uc controls and treatments was
+generally not present except that ft b sites appeared to have
+lower exchangeable cation concentrations than other treatments 
+which were represented by the correlated variables biomass car 
+bon and magnesium fig supplemental tables s and s mi 
+crobial biomass in uc and mn organic horizons was on average 
+higher than that of soils in harvest treatments and this difference
+was significant between mn sites and all treatments fig a 
+microbial biomass was also higher in uc mineral soils and similar
+to values in the organic horizons though not significantly differ 
+ent from all harvesting treatments fig b 
+
+microbial functioning
+enzyme activities were generally lower in organic horizons col 
+
+lected from harvest treatment plots while the opposite trend was
+observed for mineral horizons supplemental table s utiliza 
+tion of most substrates was higher in uc mineral horizons than
+harvested treatments but was not significantly different among
+treatments in organic horizons supplemental table s the
+metabolic profiles in mineral horizons of soils sampled in 
+were different between uc samples and all harvest treatments
+ regardless of biomass removal intensity and uc sites were clus 
+tered more closely than other treatments on the multivariate bi 
+plot for hydrolase activities and substrate induced respiration for
+
+fig principal component analysis of chemical and physical characteristics of mineral and organic horizons from the island lake biomass
+harvest experiment collected in and loadings for microbial biomass mb ph mg cu and na are represented as arrows in 
+plots only microbial biomass is labeled where loadings overlap colour online 
+
+smenderovac et al 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+
+
+mineral soils indicating greater heterogeneity in microbial func 
+tioning after disturbance fig enzyme activity differences be 
+tween harvested and unharvested sites were more apparent in
+organic horizons where mn and uc soils had more variation and
+ordinated differently than harvest treatments fig specific
+metabolic capabilities illustrated by substrate induced respira 
+tion were more impacted in mineral horizons compared with
+organic horizons where there were differences between mineral
+soils of harvested and unharvested control sites but no difference
+among harvested treatments fig supplemental table s 
+
+microbial community structure
+although intensified biomass removal harvesting resulted in a
+
+gradient of woody debris among the treatments kwiaton et al 
+ it did not influence microbial community composition un 
+til when a general harvesting impact on community struc 
+ture occurred organic horizons on harvested plots were different
+from uc and fi sites fig archaeal bacterial and fungal com 
+munities as characterized with t rflp analyses significantly dif 
+fered based on sampling year p value there were no clear
+differences in mineral soil horizon communities in either year
+ fig 
+
+t rflp based richness and diversity were not significantly dif 
+ferent among most treatments p bacterial community
+richness from soils sampled in was only significantly differ 
+ent between mn mineral and ft b mineral there were no
+within year significant differences in richness or diversity for
+bacteria in or for archaea or fungi in either or 
+ supplemental table s 
+
+similar to the coarser scale t rflp fingerprinting approach 
+high throughput marker gene sequencing did not reveal strong 
+universal differences in mineral soil horizon communities with
+harvesting intensity however some differences between har 
+vested treatments and the fi and uc sites were apparent in the
+fungal communities and between fire and ft b with other treat 
+ments in bacterial communities distributions of unique taxa
+were investigated across treatments and controls bacterial com 
+
+munities in the fi and uc sites contained taxa that were not
+present in other treatments fig a fungal communities were
+similar among the various treatments except for the uc fire and
+ft b samples in which unique taxa were present fig b 
+
+species associated with harvesting treatments
+sequence based otus that were found to be significantly asso 
+
+ciated p value with one or more treatments using indica 
+tor species analysis were regarded as indicator species most
+bacterial and fungal indicator species were of very low abun 
+dance less than of total community composition several
+indicator species from the bradyrhizobiaceae and hyphomicrobi 
+aceae families known to contain nitrogen fixing soil organisms
+were associated with organic horizons in so and fi treatments in
+organic horizons the highest abundance of many indicator spe 
+cies was in the fi plots many fungal indicator species in mineral
+horizons had higher abundance in ft b ft s and uc treat 
+ments as opposed to bacterial indicator species with higher abun 
+dance in so ft and ft s treatments fungal indicator species in
+organic horizons varied greatly in abundance with several otus
+associated with uc treatments and several responding to the fire
+disturbance many otus that had larger differences in abundance
+were purportedly heterotrophic associated with the genera
+basidioascus infundilicybe mycogloeae and pseudoomphalina taxa be 
+longing to the genera hygrophorus and piloderma were also more
+abundant in the uc organic horizons in mineral horizons a chy 
+trid fungus had elevated abundance within the ft b treatment
+and some ascomycete species were elevated in the fi treatment 
+though they did not differ among treatments fungal otus
+were identified as belonging to known ectomycorrhizal genera 
+hygrophorus russula and piloderma 
+
+discussion
+microbial communities often respond quickly to disturbance
+
+and can be used as indicators of ecosystem functioning and re 
+sponse to stressors there were clear harvest impacts on microbial
+
+fig microbial biomass c as calculated from the chloroform fumigation technique for the island lake biomass harvest experiment
+ a organic and b mineral horizons collected in 
+
+ can j for res vol 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+
+
+communities relative to unharvested controls particularly in the
+surface organic horizons however we observed few community
+structure differences among intensified harvesting treatments 
+this may be due to woody debris not yet being fully incorporated
+into the soil or because microbial communities had not had suf 
+ficient time to respond to different levels of inputs and organic
+matter retention kwiaton et al as time since initial distur 
+bance increases community structural differences associated
+with intensified biomass removal may still emerge for example 
+leachate chemistry changes from coarse woody debris decay occur
+over a period of multiple years kruys et al spears and
+lajtha differences may emerge as coarse woody debris lea 
+chates from decay influence the underlying soil chemistry spears
+et al alternatively the microbial communities may prove
+to be resilient or resistant across the gradient of organic matter
+removals beyond the overall harvesting impacts werner et al 
+ enzyme activities may have been more responsive to short 
+term changes as enzymatic responses have been shown to occur
+on faster time scales and in response to subtle changes in environ 
+mental conditions or resources relative to changes in microbial
+community structure shade et al further monitoring will
+be required to determine if differences among biomass removal
+intensity treatments become evident in subsequent years some
+studies have shown that community differences developed up to
+ years after harvesting hartmann et al while other stud 
+ies showed that differences remain undetectable shestak and
+busse mariani et al 
+
+clear cut harvesting impacts on microbial community
+function and structure
+
+the slightly different chemical composition of unharvested
+compared with harvested treatments corresponded to higher mi 
+crobial biomass it is likely that these differences in chemistry and
+biomass can be attributed to the presence of intact forest floor
+vegetation mats living trees and reduced exposure of soils to
+wind and solar radiation as well as higher transpiration and thus
+less potential for surface soil erosion and leaching losses of sol 
+utes in the unharvested sites differences could be exacerbated by
+physical soil disturbances across all harvest treatments microbial
+biomass impacts the magnitude of microbial activity as a larger
+microbial biomass has the capability of producing more enzymes 
+soil chemical properties also impact enzymatic activities as the
+amount and types of carbon and nutrient substrates determine
+what enzymes are produced by microorganisms based on these
+relationships the lower enzymatic activities in the organic hori 
+zons of harvested treatments having lower biomass and altered
+chemical composition are expected similar patterns have been
+seen in studies by li et al and liu et al though they
+were studying potential metabolic impacts of long term organic
+matter removal findings from cardenas et al were also
+consistent with our short term findings of reduced activity 
+
+harvesting had a large influence on microbial community func 
+tioning in mineral soil horizons uc had higher respiration of
+sugars and amino acids than harvested treatments these sub 
+strates would be more abundant in the rhizosphere environment
+
+fig principal components analysis of hydrolase activities and substrate induced respiration of the island lake biomass harvest
+experiment organic and mineral horizons collected in colour online 
+
+smenderovac et al 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+
+
+of the control areas compared with the harvested areas but also
+tightly associated with the plants in the symbiosis huang et al 
+ the increased physical disturbance associated with harvest 
+ing and site preparation may have exacerbated these impacts as
+well existing research has shown that both compaction and
+trenching of soils alters microbial community functioning as well
+as plant survival zabowski et al mariani et al 
+
+the physical impacts of vegetation loss and site preparation
+could have influenced microbial community structure as well 
+microbial communities generally respond to vegetation as cer 
+tain bacteria and fungi participate in both specific and more gen 
+eral mutualistic associations with plants huang et al some
+of these specific interactions were likely disrupted by harvesting 
+otus likely representing ectomycorrhizal fungi were more abun 
+dant in control sites the absence of possible mycorrhizal species
+in harvested sites could mean loss of phosphorus relocation via
+hyphal networks and fewer mycorrhizal relationships in har 
+vested plots smith and read general heterotrophic soil
+microorganisms can also be influenced by the root exudates that
+accompany live vegetation huang et al organic horizons in
+harvested plots had reduced abundance of some heterotrophic
+genera though it is likely that these organisms were taking ad 
+vantage of plant supplied sugars loss of potentially important
+heterotrophs could reduce the rate of organic matter turnover
+and impact future soil productivity physical disturbances such as
+higher soil temperatures altered soil moisture compaction and
+mixing introduced by harvesting also alter soil microbial commu 
+nity composition and may have further contributed to the ob 
+served shifts in community structure mariani et al the
+
+harvesting impact on community structure that appeared in or 
+ganic horizons after two years implies a lag in microbial commu 
+nity structure response these results are unsurprising when
+considering the time to establish vegetation and the hot and dry
+conditions in more investigation needs to be done over the
+long term to see if the species reduced in harvested soils are
+necessary for essential ecosystem services 
+
+microbial community function and structure is not
+influenced by intensification of clear cut harvesting in the
+short term
+
+although not consistent intensified harvesting impacts have
+been reported in different forest and silvicultural systems but
+most studies have used large dispersed plots with high natural
+heterogeneity without a complete gradient of removal treatments
+ mariani et al hartmann et al harvesting intensity
+did not result in additional changes to chemical compositions in
+organic or mineral soil horizons this could have been due to the
+relatively short time between harvesting and site preparation and
+soil sampling it may be that these disturbance effects are so large
+that the additional upheaval and mixing that occurred on the flats
+of soils in ft s sites did not cause further disturbance as ft s
+sites were not distinct from less intensive ft and so harvesting 
+webster et al reported that the general trends of respira 
+tion in these sites were so ≈ ft ft s ft b as the results of
+controlled incubations in our hydrolase assays and substrate 
+induced respiration did not reveal differences between the func 
+tional capabilities of the harvest treatments it is likely that these
+differences seen were due to physical properties of the treatments
+
+fig detrended correspondence analysis of t rflp community structure in sites from the island lake biomass harvest experiment organic
+and mineral horizons collected in and colour online 
+
+ can j for res vol 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+
+
+in the field rather than biological capability of the microbial com 
+munities if the physical conditions were not the force driving
+microbial activity one would expect the higher levels of sugars
+and cellulose in harvested sites compared with unharvested plots
+to have caused increased respiration webster et al it is
+important to highlight the findings of higher in situ respiration
+activities with less disturbed treatments in webster et al in
+this context the ambient conditions created by the retention of
+woody debris in treatments regulate the magnitude of soil micro 
+bial activity not the substrate selection 
+
+there were no clear differences between microbial community
+structures at different harvest intensities it could be argued that
+the lack of difference was because of the relatively low resolution
+of t rflp analyses compared with the high throughput marker
+gene sequencing techniques employed for example in hartmann
+et al however the lack of effect was validated with high 
+throughput sequencing based fingerprinting as well further al 
+though some treatment specific otus for each treatment existed 
+they had little effect on overall community composition at the
+time of sampling compaction on the site could have limited the
+influence of the organic matter removals following hartmann
+
+et al who found that organic matter removal was more
+influential in soils with low compaction 
+
+the responses of sequencing derived bacterial and fungal indi 
+cator species were inconsistent among harvesting treatments and
+did not follow a pattern associated with biomass removal inten 
+sity possible fungal symbiont taxa did not respond differentially
+among harvesting treatments though all harvesting treatments
+had lower abundances of these taxa than controls this low abun 
+dance of indicator species and lack of difference in the abundance
+of ectomycorrhizal genera hygrophorus and piloderma among har 
+vesting treatments may mean that from the perspective of estab 
+lishment of plant–microbial associations in soils the impact of
+intensified biomass harvests may not be much different from
+stem only harvest lodge et al 
+
+other studies have also seen negligible effects of additional
+biomass removal as compared with stem only harvesting on
+soil fungi these studies however used phospholipid biomarker
+fingerprinting approaches that are less discriminant than the mo 
+lecular methods applied in this study and were only able to
+characterize relative fungal biomass as a portion of overall changes
+in microbial community chatterjee et al kataja aho et al 
+
+fig detrended correspondence analysis displaying otus present in a given treatment black and absent grey for a bacterial s and
+ b fungal s pyrosequencing communities 
+
+smenderovac et al 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+
+
+ the region where this study was conducted may have influ 
+enced the absence of response to intensification as other boreal
+forest studies have also reported minimal effects of biomass har 
+vest mariani et al kataja aho et al our experimental
+design has accounted for natural variation within harvesting
+treatment plots in the island lake sites while some studies with
+significant effects of increased biomass harvesting may have had
+issues related to spatial variations influencing interpretation of
+treatment variations hannam et al the results of this
+study do not imply that impacts will not occur in the future 
+ultimately we suspect that the short time between harvesting
+and sampling was insufficient for effects to emerge 
+
+changes in microbial communities with harvest intensity may
+occur over an extended time frame as has been seen in other
+systems with biomass removal intensification hartmann et al 
+ the lack of community structure response complements
+the conclusions derived from soil chemical composition and func 
+tional activities short term impacts of biomass intensification in
+the clear cut system examined were undetectable the short term
+effects investigated in this study may be of greater interest to the
+forestry industry in relation to the impact of intensified harvest 
+ing on important plant symbionts during the planting stage of a
+silvicultural cycle however long term changes could result in a
+significantly different microbial consortium in these systems that
+could influence site productivity and soil ecology 
+
+clear cut harvesting as an analog for natural disturbance
+with the caveat that fire was not a treatment in our random 
+
+ized replicated blocked design and we only sampled one compa 
+rably aged wildfire site in the short term clear cut harvesting did
+not result in producing similar soil microbial communities as
+compared with fire disturbance the abundances of some hypho 
+microbiaceae and bradyrhizobiaceae species were higher at the
+fire site compared with the controls and harvest treatments 
+suggesting that some potential plant symbionts involved in fire
+succession may not be stimulated by harvesting there could be
+specific interactions occurring between these taxa and fire 
+adapted plant species hart et al also the generally hetero 
+trophic nature of most of the fire related taxa may provide
+nutrient recycling functions through microbial degradation of
+remaining fire transformed carbon and nutrient sources that
+would otherwise be unavailable for biological use mataix solera
+et al these differences in turn may have important eco 
+logical implications related to differences in microbial character 
+istics as these organisms could be important in successional plant
+dynamics and plant diversity bever et al 
+
+conclusions
+soil chemical properties and microbial community structure
+
+and function of harvested versus unharvested systems differed 
+however intensifying the harvesting process beyond stem only
+clearcutting did not cause additional disruptions there were
+some indications that changes will emerge in time as nonsignif 
+icant patterns existed between controls and treatments and
+between sampling years also some microbial taxa even if
+relatively rare were linked to treatment differences perhaps
+these changes in low abundance indicator species will not impact
+plant community establishment in the short term as there is the
+possibility of functional redundancy in the system present in the
+largely unaffected portion of the microbial community although
+limited in our inference space it was also apparent that microbial
+community structures resulting from clear cut treatments were
+different from those of the one fire site included in our study the
+activity and ecology of fire adapted microbes need to be more
+thoroughly investigated to effectively determine the ecological
+implications of the differences that we observed and whether
+these differences would still exist if a more diverse set of fire sites
+ e g range in fire intensities were included in the sample design 
+
+many forests have clear cut management regimes and although
+changes within microbial communities with intensified biomass
+removal do not appear to be a short term phenomenon long term
+effects may still occur and require additional longer term studies
+of this and similar boreal forest systems 
+
+acknowledgements
+financial support for this research came from a natural sci 
+
+ences and engineering research council of canada crd grant
+and related industrial support to christian messier university of
+quebec at montreal nathan basiliko kara webster and others 
+we thank rob fleming isabelle aubin lisa venier and all others
+involved with the island lakes sites as well as johanna curry for
+completing soil chemical analyses and stephanie wilson for guid 
+ance with the soil enzyme and respiration assays 
+
+references
+allmér j stenlid j and dahlberg a logging residue extraction does not
+
+reduce the diversity of litter layer saprotrophic fungi in three swedish conif 
+erous stands after years can j for res – doi x 
+ 
+
+basiliko n khan a prescott c e roy r and grayston s j soil green 
+house gas and nutrient dynamics in fertilized western canadian plantation
+forests can j for res – doi x 
+
+bérard a mazzia c sappin didier v capowiez l and capowiez y use
+of the microresp™ method to assess pollution induced community toler 
+ance in the context of metal soil contamination ecol indic – doi 
+ j ecolind 
+
+berch s morris d and malcolm j intensive forest biomass harvesting
+and biodiversity in canada a summary of relevant issues for chron 
+ – doi tfc 
+
+bever j d dickie i a facelli e facelli j m klironomos j moora m 
+rillig m c stock w d tibbett m and zobel m rooting theories of
+plant community ecology in microbial interactions trends ecol evol 
+ – doi j tree pmid 
+
+caporaso j g kuczynski j stombaugh j bittinger k bushman f d 
+costello e k fierer n peña a g goodrich j k gordon j i huttley g a 
+kelley s t knights d koenig j e ley r e lozupone c a mcdonald d 
+muegge b d pirrung m reeder j sevinsky j r turnbaugh p j 
+walters w a widmann j yatsunenko t zaneveld j and knight r 
+qiime allows analysis of high throughput community sequencing data nat 
+methods – doi nmeth f pmid 
+
+cardenas e kranabetter j m hope g maas k r hallam s and mohn w w 
+ forest harvesting reduces the soil metagenomic potential for biomass
+decomposition isme j – doi ismej pmid 
+ 
+
+chatterjee a vance g f pendall e and stahl p d timber harvesting
+alters soil carbon mineralization and microbial community structure in co 
+niferous forests soil biol biochem – doi j soilbio 
+ 
+
+de caceres m and jansen f package ‘indicspecies’ online available from
+http www probability ca cran web packages indicspecies indicspecies pdf ac 
+cessed july 
+
+dowd s e sun y wolcott r d domingo a and carroll j a bacterial
+tag encoded flx amplicon pyrosequencing btefap for microbiome studies 
+bacterial diversity in the ileum of newly weaned salmonella infected
+pigs foodborne pathog dis – doi fpd pmid 
+ 
+
+environment canada climate online available from http climate 
+weather gc ca index e html 
+
+hannam k d quideau s a and kishchuk b e forest floor microbial
+communities in relation to stand composition and timber harvesting in
+northernalberta soilbiol biochem – doi j soilbio 
+ 
+
+harmon m e franklin j f swanson f j sollins p gregory s v lattin j d 
+anderson n h cline s p aumen n g sedell j r lienkaemper g w 
+cromack k jr and cummins k w ecology of coarse woody debris
+in temperate ecosystems adv ecol res – doi s 
+ 
+
+hart s c deluca t h newman g s mackenzie m d and boyle s i 
+post fire vegetative dynamics as drivers of microbial community structure
+and function in forest soils for ecol manage – – doi 
+j foreco 
+
+hartmann m howes c g vaninsberghe d yu h bachar d christen r 
+henrik nilsson r hallam s j and mohn w w significant and per 
+sistent impact of timber harvesting on soil microbial communities in northern
+coniferous forests isme j – doi ismej pmid 
+ 
+
+hassett j e and zak d r aspen harvest intensity decreases microbial
+
+ can j for res vol 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+http dx doi org x 
+http dx doi org x 
+http dx doi org x 
+http dx doi org j ecolind 
+http dx doi org tfc 
+http dx doi org j tree 
+http www ncbi nlm nih gov pubmed 
+http dx doi org nmeth f 
+http www ncbi nlm nih gov pubmed 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http www probability ca cran web packages indicspecies indicspecies pdf
+http dx doi org fpd 
+http www ncbi nlm nih gov pubmed 
+http climate weather gc ca index e html
+http climate weather gc ca index e html
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http dx doi org s 
+http dx doi org s 
+http dx doi org j foreco 
+http dx doi org j foreco 
+http dx doi org ismej 
+http www ncbi nlm nih gov pubmed 
+
+
+biomass extracellular enzyme activity and soil nitrogen cycling soil sci 
+soc am j – doi sssaj 
+
+huang x chaparro j m reardon k f zhang r shen q and vivanco j m 
+ rhizosphere interactions root exudates microbes and microbial com 
+munities botany – doi cjb 
+
+hynes h m and germida j j a chronsequential approach to investigating
+microbial community shifts following clearcutting in boreal plain forest
+soils can j for res – doi cjfr 
+
+ishii s kadota k and senoo k application of a clustering based peak
+alignment algorithm to analyze various dna fingerprinting data j microbiol 
+methods – doi j mimet pmid 
+
+kalra y and maynard d methods manual for forest soil and plant anal 
+ysis can for serv north for cent inf rep nor x e 
+
+kataja aho s fritze h and haimi j short term responses of soil decom 
+poser and plant communities to stump harvesting in boreal forests for ecol 
+manage – doi j foreco 
+
+kernaghan g and patriquin g host associations between fungal root
+endophytes and boreal trees microb ecol – doi s 
+ pmid 
+
+kruys n jonsson b g and ståhl g a stage based matrix model for
+decay class dynamics of woody debris ecol appl – doi 
+ asbmmf co 
+
+kwiaton m hazlett p morris d fleming r webster k venier l and
+aubin i island lake biomass harvest research and demonstration area 
+establishment report can for serv great lakes for cent inf rep glc x 
+
+lehto t and zwiazek j j ectomycorrhizas and water relations of trees 
+a review mycorrhiza – doi s pmid 
+ 
+
+li q allen h l and wollum a g ii microbial biomass and bacterial
+functional diversity in forest soils effects of organic matter removal com 
+paction and vegetation control soil biol biochem – doi 
+j soilbio 
+
+liu x li q liang w and jiang y distribution of soil enzyme activities
+and microbial biomass along a latitudinal gradient in farmlands of songliao
+plain northeast china pedosphere – doi s 
+ x 
+
+lodge d j ammirati j f o’dell t e mueller g m huhndorf s m wang c j 
+stokland j n schmit j ryvarden l leacock p r mata m umaña l wu q 
+and czederpiltz d l terrestrial and lignicolous macrofungi in biodi 
+versity of fungi inventory and monitoring methods st ed edited by m foster
+and g bills academic press cambridge mass pp – 
+
+madden t l tatusov r l and zhang j applications of network blast
+server methods enzymol – doi s x 
+pmid 
+
+mariani l chang s x and kabzems r effects of tree harvesting forest
+floor removal and compaction on soil microbial biomass microbial respira 
+tion and n availability in a boreal aspen forest in british columbia soil biol 
+biochem – doi j soilbio 
+
+mataix solera j guerrero c garcía orenes f bárcenas g m and pilar torres m 
+ forest fire effects on soil microbiology in fire effects on soils and
+
+restoration strategies edited by a cerdà and p r robichaud crc press boca
+raton fla pp – 
+
+mcmurdie p j and holmes s phyloseq an r package for reproducible
+interactive analysis and graphics of microbiome census data plos one 
+e doi journal pone pmid 
+
+natural resources canada forest bioenergy online available from http 
+www nrcan gc ca forests industry bioproducts 
+
+oksanen j blanchet f and kindt r package ‘vegan’ online available
+from https cran r project org web packages vegan vegan pdf accessed 
+april 
+
+preston m d smemo k a mclaughlin j w and basiliko n peatland
+microbial communities and decomposition processes in the james bay low 
+lands canada front microbiol doi fmicb pmid 
+ 
+
+r core team r a language and environment for statistical computing 
+r foundation for statistical computing vienna austria available from
+http www r project org 
+
+shade a peter h allison s d baho d l berga m bürgmann h 
+huber d h langenheder s lennon j t martiny j b h matulich k l 
+schmidt t m and handelsman j fundamentals of microbial commu 
+nity resistance and resilience front microbiol doi fmicb 
+ pmid 
+
+shestak c j and busse m d compaction alters physical but not biological
+indices of soil health soil sci soc am j – doi sssaj 
+
+smenderovac e webster k caspersen j p morris d hazlett p and
+basiliko n bacterial s and fungal s sequences from an intensively
+managed boreal jack pine stand in northern ontario across different biomass
+harvesting intensities online available from http www ncbi nlm nih gov 
+bioproject term prjna 
+
+smith s e and read d mycorrhizal symbiosis rd ed academic press 
+cambridge mass 
+
+spears j d h and lajtha k the imprint of coarse woody debris on soil
+chemistry in the western oregon cascades biogeochemistry – 
+doi s 
+
+spears j d h holub s m harmon m e and lajtha k the influence of
+decomposing logs on soil biology and nutrient cycling in an old growth
+mixed coniferous forest in oregon u s a can j for res – 
+doi x 
+
+webster k l wilson s a hazlett p w fleming r l and morris d m 
+soil co efflux and net ecosystem exchange following biomass harvesting 
+impacts of harvest intensity residue retention and vegetation control for 
+ecol manage – doi j foreco 
+
+werner j j knights d garcia m l scalfone n b smith s yarasheski k 
+cummings t a beers a r knight r and angenent l t bacterial
+community structures are unique and resilient in full scale bioenergy
+systems proc natl acad sci u s a – doi pnas 
+ pmid 
+
+zabowski d java b scherer g everett r l and ottmar r timber
+harvesting residue treatment part responses of conifer seedlings soils
+and microclimate for ecol manage – doi s 
+ x 
+
+smenderovac et al 
+
+published by nrc research press
+
+c
+an
+
+ j
+ f
+
+or
+ r
+
+es
+ d
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ w
+
+w
+w
+
+ n
+rc
+
+re
+se
+
+ar
+ch
+
+pr
+es
+
+s 
+co
+
+m
+ b
+
+y 
+u
+
+n
+iv
+
+e
+r
+
+si
+t
+
+y
+ o
+
+f 
+n
+
+o
+t
+
+r
+e
+
+ d
+a
+
+m
+e
+
+ o
+n 
+
+ 
+ 
+
+ 
+ 
+
+fo
+r 
+
+pe
+rs
+
+on
+al
+
+ u
+se
+
+ o
+nl
+
+y 
+ 
+
+http dx doi org sssaj 
+http dx doi org cjb 
+http dx doi org cjfr 
+http dx doi org j mimet 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j foreco 
+http dx doi org s 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http dx doi org b aasbmmf d co 
+http dx doi org b aasbmmf d co 
+http dx doi org s 
+http www ncbi nlm nih gov pubmed 
+http dx doi org j soilbio 
+http dx doi org j soilbio 
+http dx doi org s x
+http dx doi org s x
+http dx doi org s x
+http www ncbi nlm nih gov pubmed 
+http dx doi org j soilbio 
+http dx doi org journal pone 
+http www ncbi nlm nih gov pubmed 
+http www nrcan gc ca forests industry bioproducts 
+http www nrcan gc ca forests industry bioproducts 
+https cran r project org web packages vegan vegan pdf
+http dx doi org fmicb 
+http www ncbi nlm nih gov pubmed 
+http www r project org
+http dx doi org fmicb 
+http dx doi org fmicb 
+http www ncbi nlm nih gov pubmed 
+http dx doi org sssaj 
+http www ncbi nlm nih gov bioproject term prjna 
+http www ncbi nlm nih gov bioproject term prjna 
+http dx doi org s 
+http dx doi org x 
+http dx doi org j foreco 
+http dx doi org pnas 
+http dx doi org pnas 
+http www ncbi nlm nih gov pubmed 
+http dx doi org s x
+http dx doi org s x
+
+	article
+	introduction
+	methods
+	study sites and field sampling
+	meteorological and site conditions during and 
+	soil chemistry
+	microbial functioning
+	microbial biomass
+	microbial community structure
+	statistics and data compilation
+
+	results
+	soil chemistry and microbial biomass
+	microbial functioning
+	microbial community structure
+	species associated with harvesting treatments
+
+	discussion
+	clear cut harvesting impacts on microbial community function and structure
+	microbial community function and structure is not influenced by intensification of clear cut har 
+	clear cut harvesting as an analog for natural disturbance
+
+	conclusions
+
+	acknowledgements
+	references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	 compressobjects off
+	 parsedsccommentsfordocinfo true
+	 createjobticket false
+	 pdfx acheck false
+	 colorimageminresolution 
+	 grayimageresolution 
+	 dothumbnails false
+	 colorconversionstrategy leavecolorunchanged
+	 grayimagefilter dctencode
+	 embedallfonts true
+	 calrgbprofile srgb iec 
+	 monoimageminresolutionpolicy ok
+	 imagememory 
+	 lockdistillerparams true
+	 allowpsxobjects true
+	 downsamplemonoimages true
+	 passthroughjpegimages true
+	 colorsettingsfile none 
+	 autorotatepages pagebypage
+	 optimize true
+	 monoimagedepth 
+	 parsedsccomments true
+	 antialiasgrayimages false
+	 grayimageminresolutionpolicy ok
+	 jpeg colorimagedict 
+		 tileheight 
+		 quality 
+		 tilewidth 
+	 
+	 convertimagestoindexed true
+	 maxsubsetpct 
+	 binding left
+	 preservedicmykvalues false
+	 grayimagemindownsampledepth 
+	 monoimageminresolution 
+	 srgbprofile srgb iec 
+	 antialiascolorimages false
+	 grayimagedepth 
+	 preserveflatness true
+	 compresspages true
+	 grayimageminresolution 
+	 calcmykprofile u s web coated swop v 
+	 pdfxbleedboxtotrimboxoffset 
+		 
+		 
+		 
+		 
+	 
+	 autofiltergrayimages true
+	 encodecolorimages true
+	 alwaysembed 
+	 
+	 endpage 
+	 downsamplecolorimages true
+	 ascii encodepages false
+	 preserveepsinfo false
+	 pdfxtrimboxtomediaboxoffset 
+		 
+		 
+		 
+		 
+	 
+	 compatibilitylevel 
+	 monoimageresolution 
+	 neverembed 
+		 arial black
+		 arial blackitalic
+		 arial bolditalicmt
+		 arial boldmt
+		 arial italicmt
+		 arialmt
+		 arialnarrow
+		 arialnarrow bold
+		 arialnarrow bolditalic
+		 arialnarrow italic
+		 arialunicodems
+		 centurygothic
+		 centurygothic bold
+		 centurygothic bolditalic
+		 centurygothic italic
+		 couriernewps bolditalicmt
+		 couriernewps boldmt
+		 couriernewps italicmt
+		 couriernewpsmt
+		 georgia
+		 georgia bold
+		 georgia bolditalic
+		 georgia italic
+		 impact
+		 lucidaconsole
+		 tahoma
+		 tahoma bold
+		 timesnewromanmt extrabold
+		 timesnewromanps bolditalicmt
+		 timesnewromanps boldmt
+		 timesnewromanps italicmt
+		 timesnewromanpsmt
+		 trebuchet bolditalic
+		 trebuchetms
+		 trebuchetms bold
+		 trebuchetms italic
+		 verdana
+		 verdana bold
+		 verdana bolditalic
+		 verdana italic
+	 
+	 cannotembedfontpolicy warning
+	 autopositionepsfiles true
+	 preserveopicomments false
+	 jpeg grayacsimagedict 
+		 tileheight 
+		 quality 
+		 tilewidth 
+	 
+	 pdfxoutputintentprofile 
+	 jpeg coloracsimagedict 
+		 tileheight 
+		 quality 
+		 tilewidth 
+	 
+	 embedjoboptions true
+	 monoimagedownsampletype average
+	 detectblends true
+	 encodegrayimages true
+	 colorimagedownsampletype average
+	 emitdscwarnings false
+	 autofiltercolorimages true
+	 downsamplegrayimages true
+	 grayimagedict 
+		 hsamples 
+			 
+			 
+			 
+			 
+		 
+		 qfactor 
+		 vsamples 
+			 
+			 
+			 
+			 
+		 
+	 
+	 antialiasmonoimages false
+	 grayimageautofilterstrategy jpeg
+	 grayacsimagedict 
+		 hsamples 
+			 
+			 
+			 
+			 
+		 
+		 qfactor 
+		 vsamples 
+			 
+			 
+			 
+			 
+		 
+	 
+	 colorimageautofilterstrategy jpeg
+	 colorimageminresolutionpolicy ok
+	 colorimageresolution 
+	 pdfxregistryname 
+	 monoimagefilter ccittfaxencode
+	 calgrayprofile gray gamma 
+	 colorimagemindownsampledepth 
+	 jpeg grayimagedict 
+		 tileheight 
+		 quality 
+		 tilewidth 
+	 
+	 colorimagedepth 
+	 detectcurves 
+	 pdfxtrapped false
+	 colorimagefilter dctencode
+	 transferfunctioninfo preserve
+	 pdfx check false
+	 parseiccprofilesincomments true
+	 coloracsimagedict 
+		 hsamples 
+			 
+			 
+			 
+			 
+		 
+		 qfactor 
+		 vsamples 
+			 
+			 
+			 
+			 
+		 
+	 
+	 dscreportinglevel 
+	 pdfxoutputconditionidentifier 
+	 pdfxcompliantpdfonly false
+	 allowtransparency false
+	 preservecopypage true
+	 useprologue false
+	 startpage 
+	 monoimagedownsamplethreshold 
+	 grayimagedownsamplethreshold 
+	 checkcompliance 
+		 none
+	 
+	 createjdffile false
+	 pdfxsetbleedboxtomediabox true
+	 embedopentype false
+	 opm 
+	 preserveoverprintsettings false
+	 ucrandbginfo remove
+	 colorimagedownsamplethreshold 
+	 monoimagedict 
+		 k 
+	 
+	 grayimagedownsampletype average
+	 description 
+		 enu use these settings to create adobe pdf documents suitable for reliable viewing and printing of business documents created pdf documents can be opened with acrobat and adobe reader and later 
+		 ptb feff c a f e e f f d f d e f f f c a e e f d e f f e e f d e f f d e f f d e f f f d f f d f f f f e f f f e 
+		 fra feff c a f f e e e f d e f f f e e c c f c c f e c d f e e c f d e e e e ea f e f c e f e f e c e e 
+		 nld gebruik deze instellingen om adobe pdf documenten te maken waarmee zakelijke documenten betrouwbaar kunnen worden weergegeven en afgedrukt de gemaakte pdf documenten kunnen worden geopend met acrobat en adobe reader en hoger 
+		 kor feffc c c c c acc a d c ec be c b c c a bb c cb c c c c c cb c bcf ace c c c d b b ac c a c d d c f bb c cb c c c d b c b e e c b ac c c c b c bb c cb f bc f f e c c c c d c c c f c c c b b c b e e 
+		 nor feff b e e c c e e c e f f d f b d e f d e f e c c e e f b f e e f b d e e d f b d e e b e e e f c c f e c c e 
+		 deu feff e e e c c e e a d c c e f e f d f b d e e c d e a c e e a e f e e f b d e e a a c e e d f b d e b f e e e d f e e e f f e e e 
+		 sve feff e e e e e e c c e e e f d c c b f d f b d e f d f c c f c c e e f b e f b d e e b d f b d e b e f e f f f e f e e 
+		 ita utilizzare queste impostazioni per creare documenti adobe pdf adatti per visualizzare e stampare documenti aziendali in modo affidabile i documenti pdf creati possono essere aperti con acrobat e adobe reader e versioni successive 
+		 dan feff e c c e e c f f d f b d e c e c c a b e d e e f b e e f e e f b d e e f d f b d e b e e e f c c f e f e e 
+		 jpn feff d b cd b f e a a b f f f e f c b f f e e a d b a f c c f d a a eb f f a f e ee d b f c d e e a d b a f d a f c e cb fbc f c e 
+		 suo feff b e e e e e b c b e c f f d f b d e a c a f b f b a f a e c f e e e e d e a c f d e e c f d f b d e f e f c c a f e a c c a d d c c e 
+		 chs feff f f fd e b bbe b a b efa f e e e a e b c a ef ee f f f c f e ee ca f ad c f b efa 
+		 esp feff c f e f e f d e f f f c a f e d f e f e e a f d e f f d c e e f d e f f f e f c f e f e f f e 
+		 cht feff f f e b a d f e efa acb f ef bc e a d ef e b c a ef ee f f f c f e ee ca f ad c f b f df efa acb ef 
+	 
+	 cropmonoimages true
+	 defaultrenderingintent relativecolorimeteric
+	 preservehalftoneinfo false
+	 colorimagedict 
+		 hsamples 
+			 
+			 
+			 
+			 
+		 
+		 qfactor 
+		 vsamples 
+			 
+			 
+			 
+			 
+		 
+	 
+	 cropgrayimages true
+	 pdfxoutputcondition 
+	 subsetfonts true
+	 encodemonoimages true
+	 cropcolorimages true
+	 pdfxnotrimboxerror true
+ 
+setdistillerparams
+ 
+	 pagesize 
+		 
+		 
+	 
+	 hwresolution 
+		 
+		 
+	 
+ 
+setpagedevice
+
+

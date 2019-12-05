@@ -66,14 +66,17 @@ def lemmatization(texts, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV']):
 
 
 
-
+#!!data is trainingData!!
 data=[]
 testingData=[]
 trainingNameList=[]
 testingNameList=[]
 positiveNameList=[]
-
-
+trainingLabelList=[]
+testingLabelList=[]
+#let's load in the names of the files as names,
+#and see if it matches up to the names of the files
+#should be in the same order
 for filename in os.listdir('positiveTextFiles'):
     positiveNameList.append(filename)
 
@@ -84,6 +87,7 @@ for filename in os.listdir('trainingFiles'):
     with open(filePath, 'r') as file:
         x=file.read()
         data.append(x)
+        trainingLabelList.append(1 if filename in positiveNameList else 0)
 
 for filename in os.listdir('testingFiles'):
     testingNameList.append(filename)
@@ -91,12 +95,22 @@ for filename in os.listdir('testingFiles'):
     with open(filePath, 'r') as file:
         x=file.read()
         testingData.append(x)
+        testingLabelList.append(1 if filename not in positiveNameList else 0)
+
+
+###PREPROCESSING FOR TRAINING DATA
+
+#for doc in data:
+#    print(doc[0:10])
 
 data = [re.sub('\s+', ' ', sent) for sent in data]
 data = [re.sub("\'", "", sent) for sent in data]
 data = [re.sub('\s+', ' ', sent) for sent in data]
 data = [re.sub("\'", "", sent) for sent in data]
 data_words = list(sent_to_words(data))
+
+
+
 #not entirely sure about nthreshold
 # Build the bigram and trigram models
 nthreshold=100
@@ -140,26 +154,46 @@ lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
 
 doc_lda = lda_model[corpus]
 
-def format_topics_sentences(ldamodel=lda_model, corpus=corpus, texts=data):
-    # Init output
-    sent_topics_df = pd.DataFrame()
 
-    # Get main topic in each document
-    for i, row in enumerate(ldamodel[corpus]):
-        # Get the Dominant topic, Perc Contribution and Keywords for each document
-        for j, (topic_num, prop_topic) in enumerate(row):
-            if j == 0:  # => dominant topic
-                wp = ldamodel.show_topic(topic_num)
-                topic_keywords = ", ".join([word for word, prop in wp])
-                sent_topics_df = sent_topics_df.append(pd.Series([int(topic_num), round(prop_topic,4), topic_keywords]), ignore_index=True)
-            else:
-                break
-    sent_topics_df.columns = ['Dominant_Topic', 'Perc_Contribution', 'Topic_Keywords']
 
-    # Add original text to the end of the output
-    contents = pd.Series(texts)
-    sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
-    return(sent_topics_df)
+###PREPROCESSING FOR TESTING DATA
+
+testingData = [re.sub('\s+', ' ', sent) for sent in testingData]
+testingData = [re.sub("\'", "", sent) for sent in testingData]
+testingData = [re.sub('\s+', ' ', sent) for sent in testingData]
+testingData = [re.sub("\'", "", sent) for sent in testingData]
+testing_data_words = list(sent_to_words(testingData))
+
+#not entirely sure about nthreshold
+# Build the bigram and trigram models
+testing_bigram = gensim.models.Phrases(testing_data_words, min_count=5, threshold=nthreshold) # higher threshold fewer phrases.
+testing_trigram = gensim.models.Phrases(testing_bigram[testing_data_words], threshold=nthreshold)  
+
+# Faster way to get a sentence clubbed as a trigram/bigram
+testing_bigram_mod = gensim.models.phrases.Phraser(testing_bigram)
+testing_trigram_mod = gensim.models.phrases.Phraser(testing_trigram)
+
+
+# Remove Stop Words
+testing_data_words_nostops = remove_stopwords(testing_data_words)
+
+# Form Bigrams
+testing_data_words_bigrams = make_bigrams(testing_data_words_nostops)
+# Initialize spacy 'en' model, keeping only tagger component (for efficiency)
+# python3 -m spacy download en
+testing_nlp = spacy.load('en', disable=['parser', 'ner'])
+# Do lemmatization keeping only noun, adj, vb, adv
+testing_data_lemmatized = lemmatization(testing_data_words_bigrams, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV'])
+
+# Create Dictionary
+testing_id2word = corpora.Dictionary(testing_data_lemmatized)
+
+# Create Corpus
+testing_texts = testing_data_lemmatized
+
+# Term Document Frequency
+testing_corpus = [id2word.doc2bow(text) for text in testing_texts]
+
 
 def format_topics_sentences_v2(ldamodel=lda_model, corpus=corpus, texts=data):
     # Init output
@@ -179,19 +213,43 @@ def format_topics_sentences_v2(ldamodel=lda_model, corpus=corpus, texts=data):
     
     #sent_topics_df.columns = ['Topic_0', 'Topic_1', 'Topic_2']
     # Add original text to the end of the output
-    contents = pd.Series(texts)
-    sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
+    #contents = pd.Series(texts, index='contents')
+    sent_topics_df['contents'] = texts
+    #sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
     return(sent_topics_df)
+
+#looks like I made a second fucntion to format topic percentages;
+#frankly I really hope its mapping correctly
+#I need to figure out how to attach labels to them
 
 
 #print(lda_model[id2word.doc2bow(data_lemmatized[5])])
 df_topic_sents_keywords = format_topics_sentences_v2(lda_model, corpus, data)
+df_topic_sents_keywords['label'] = trainingLabelList
+df_topic_sents_keywords['name'] = trainingNameList
+
+df_testing_topics = format_topics_sentences_v2(lda_model, testing_corpus, testingData)
+df_testing_topics['label'] = testingLabelList
+df_testing_topics['name'] = testingNameList
 # Format
 #df_dominant_topic = df_topic_sents_keywords.reset_index()
 #df_dominant_topic.columns = ['Document_No', 'Dominant_Topic', 'Topic_Perc_Contrib', 'Keywords', 'Text']
 
 # Show
-print(df_topic_sents_keywords) #these are the topics mapped to the documents
+names = ['topic_1','topic_2','topic_3','contents', 'label', 'name'] 
+df_topic_sents_keywords.columns = names
+df_testing_topics.columns = names
+csv = df_topic_sents_keywords[[names[0],names[1],names[2],names[4]]].copy().to_csv()
+testing_csv = df_testing_topics[[names[0],names[1],names[2],names[4]]].copy().to_csv()
+print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
+print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
+
+'''
+print(csv)
+print()
+print()
+print(testing_csv)
+'''
 pprint(lda_model.print_topics()) #these are the acutal topics
 
 # Data preprocessing step for the unseen document

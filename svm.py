@@ -2,9 +2,7 @@
 import sys
 import os
 import pandas as pd
-from sklearn import tree
-from sklearn.tree import plot_tree
-import graphviz
+from sklearn import svm
 from random import randint
 from random import seed
 import time
@@ -31,7 +29,9 @@ names = tr.columns.values.tolist()[1:-1]
 Attributes=tr[names]
 Labels=tr['label']
 
-clf=tree.DecisionTreeClassifier()
+print(Labels.tolist())
+
+clf=svm.LinearSVC()
 clf=clf.fit(Attributes, Labels)
 
 features=names
@@ -48,7 +48,6 @@ labels = clf.predict(te[names].copy())
 truth = te['label'].values.tolist()
 
 seed(time.time())
-
 #labels = [randint(0,1) for i in range(len(truth))]
 
 tp = 0
@@ -76,7 +75,6 @@ recall = tp/(tp+fn)
 f1 = 2 * ((precision * recall) / (precision + recall))
 
 print(labels)
-print("Note: tree creation is not always deterministic.")
 print("Number of topics: ", len(names))
 print("% of docs that are positive: ", (tp+fn)/(tp+fn+fp+tn))
 print("% of docs that are negative: ", (fp+tn)/(tp+fn+fp+tn))

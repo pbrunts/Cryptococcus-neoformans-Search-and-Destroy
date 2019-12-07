@@ -39,7 +39,9 @@ nltk.download('stopwords') #the fuck does this do?
 #stop words
 from nltk.corpus import stopwords
 stop_words=stopwords.words('english')
-stop_words.extend(['from', 'subject', 're', 'edu', 'use'])
+stop_words.extend(['from', 'subject', 're', 'edu', 'use', 'http', 'https',
+                     
+                  ])
 
 #Functions:
 def sent_to_words(sentences):
@@ -129,6 +131,7 @@ data_words_nostops = remove_stopwords(data_words)
 # Form Bigrams
 data_words_bigrams = make_bigrams(data_words_nostops)
 # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
+######### IF YOU HAVE PROBLEMS WITH THE FOLLOWING CODE LINE #######
 # python3 -m spacy download en
 nlp = spacy.load('en', disable=['parser', 'ner'])
 # Do lemmatization keeping only noun, adj, vb, adv

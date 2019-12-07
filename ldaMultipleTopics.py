@@ -236,7 +236,6 @@ df_topic_sents_keywords = format_topics_sentences_v2(lda_model, corpus, data)
 df_topic_sents_keywords['label'] = trainingLabelList
 df_topic_sents_keywords['name'] = trainingNameList
 
-print(df_topic_sents_keywords)
 
 df_testing_topics = format_topics_sentences_v2(lda_model, testing_corpus, testingData)
 df_testing_topics['label'] = testingLabelList
@@ -249,16 +248,26 @@ df_testing_topics['name'] = testingNameList
 names = ['topic_{}'.format(i) for i in range(len(df_topic_sents_keywords.columns.values.tolist()) - 3)]+['contents', 'label', 'name'] 
 df_topic_sents_keywords.columns = names
 df_testing_topics.columns = names
-csv = df_topic_sents_keywords[[names[:kTopics]+[names[-2]]]].copy().to_csv()
-testing_csv = df_testing_topics[[names[:kTopics]+[names[-2]]]].copy().to_csv()
+
+# Below we pull into the csv only the columns associated with the topics
+# and the labels. (this is the first kTopics columns and the second column
+# from the end
+csv = df_topic_sents_keywords[names[:kTopics]+[names[-2]]].copy().to_csv()
+testing_csv = df_testing_topics[names[:kTopics]+[names[-2]]].copy().to_csv()
+
+# For printing the dataframes
 #print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
 #print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
 
-#print(csv)
-#print()
-#print()
+print('id', end="")
+print(csv)
+print()
+print()
+print('id', end="")
 print(testing_csv)
-#pprint(lda_model.print_topics()) #these are the acutal topics
+
+# To print the topics
+pprint(lda_model.print_topics()) #these are the acutal topics
 
 # Data preprocessing step for the unseen document
 

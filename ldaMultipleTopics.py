@@ -211,7 +211,7 @@ def format_topics_sentences_v2(ldamodel=lda_model, corpus=corpus, texts=data):
             wp = ldamodel.show_topic(topic_num)
             series_list[topic_num]=prop_topic
             #sent_topics_df = sent_topics_df.append(pd.Series([int(topic_num), round(prop_topic,4), topic_keywords]), ignore_index=True)
-        sent_topics_df=sent_topics_df.append(pd.Series([series_list[0],series_list[1],series_list[2]]), ignore_index=True)
+        sent_topics_df=sent_topics_df.append(pd.Series([series_list[i] for i in range(len(series_list))]), ignore_index=True)
 
     
     #sent_topics_df.columns = ['Topic_0', 'Topic_1', 'Topic_2']
@@ -231,6 +231,8 @@ df_topic_sents_keywords = format_topics_sentences_v2(lda_model, corpus, data)
 df_topic_sents_keywords['label'] = trainingLabelList
 df_topic_sents_keywords['name'] = trainingNameList
 
+print(df_topic_sents_keywords)
+
 df_testing_topics = format_topics_sentences_v2(lda_model, testing_corpus, testingData)
 df_testing_topics['label'] = testingLabelList
 df_testing_topics['name'] = testingNameList
@@ -239,7 +241,7 @@ df_testing_topics['name'] = testingNameList
 #df_dominant_topic.columns = ['Document_No', 'Dominant_Topic', 'Topic_Perc_Contrib', 'Keywords', 'Text']
 
 # Show
-names = ['topic_1','topic_2','topic_3','contents', 'label', 'name'] 
+names = ['topic_{}'.format(i) for i in range(len(df_topic_sents_keywords.columns.values.tolist()) - 3)]+['contents', 'label', 'name'] 
 df_topic_sents_keywords.columns = names
 df_testing_topics.columns = names
 csv = df_topic_sents_keywords[[names[0],names[1],names[2],names[4]]].copy().to_csv()

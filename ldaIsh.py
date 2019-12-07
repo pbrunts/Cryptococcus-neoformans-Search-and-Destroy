@@ -41,6 +41,7 @@ from nltk.corpus import stopwords
 stop_words=stopwords.words('english')
 stop_words.extend(['from', 'subject', 're', 'edu', 'use'])
 
+
 #Functions:
 def sent_to_words(sentences):
     for sentence in sentences:

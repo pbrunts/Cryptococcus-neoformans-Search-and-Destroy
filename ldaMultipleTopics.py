@@ -244,18 +244,16 @@ df_testing_topics['name'] = testingNameList
 names = ['topic_{}'.format(i) for i in range(len(df_topic_sents_keywords.columns.values.tolist()) - 3)]+['contents', 'label', 'name'] 
 df_topic_sents_keywords.columns = names
 df_testing_topics.columns = names
-csv = df_topic_sents_keywords[[names[0],names[1],names[2],names[4]]].copy().to_csv()
-testing_csv = df_testing_topics[[names[0],names[1],names[2],names[4]]].copy().to_csv()
-print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
-print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
+csv = df_topic_sents_keywords[[names[:kTopics]+[names[-2]]]].copy().to_csv()
+testing_csv = df_testing_topics[[names[:kTopics]+[names[-2]]]].copy().to_csv()
+#print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
+#print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
 
-'''
-print(csv)
-print()
-print()
+#print(csv)
+#print()
+#print()
 print(testing_csv)
-'''
-pprint(lda_model.print_topics()) #these are the acutal topics
+#pprint(lda_model.print_topics()) #these are the acutal topics
 
 # Data preprocessing step for the unseen document
 

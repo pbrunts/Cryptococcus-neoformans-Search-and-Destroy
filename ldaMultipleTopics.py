@@ -68,6 +68,8 @@ def lemmatization(texts, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV']):
 
 def stemWords(texts):
     ps = PorterStemmer()
+    stemmed = [[ps.stem(word) for word in text] for text in texts]
+    return stemmed
 
 
 #!!data is trainingData!!
@@ -112,6 +114,9 @@ data = [re.sub('\s+', ' ', sent) for sent in data]
 data = [re.sub("\'", "", sent) for sent in data]
 data = [re.sub('\s+', ' ', sent) for sent in data]
 data = [re.sub("\'", "", sent) for sent in data]
+
+#remove words less than 4 characters
+data = [re.sub(r'\b\w{1,3}\b', '', sent) for sent in data]
 data_words = list(sent_to_words(data))
 
 
@@ -130,8 +135,12 @@ trigram_mod = gensim.models.phrases.Phraser(trigram)
 # Remove Stop Words
 data_words_nostops = remove_stopwords(data_words)
 
+#Stem words
+data_stemmed = stemWords(data_words_nostops)
+print(data_stemmed[1])
+
 # Form Bigrams
-data_words_bigrams = make_bigrams(data_words_nostops)
+data_words_bigrams = make_bigrams(data_stemmed)
 # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
 ######### IF YOU HAVE PROBLEMS WITH THE FOLLOWING CODE LINE #######
 # python3 -m spacy download en
@@ -147,6 +156,8 @@ texts = data_lemmatized
 
 # Term Document Frequency
 corpus = [id2word.doc2bow(text) for text in texts]
+
+
 #ldamodel
 lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                            id2word=id2word,
@@ -168,6 +179,10 @@ testingData = [re.sub('\s+', ' ', sent) for sent in testingData]
 testingData = [re.sub("\'", "", sent) for sent in testingData]
 testingData = [re.sub('\s+', ' ', sent) for sent in testingData]
 testingData = [re.sub("\'", "", sent) for sent in testingData]
+
+#remove words less than 4 characters
+testingData = [re.sub(r'\b\w{1,3}\b', '', sent) for sent in testingData]
+
 testing_data_words = list(sent_to_words(testingData))
 
 #not entirely sure about nthreshold
@@ -183,8 +198,13 @@ testing_trigram_mod = gensim.models.phrases.Phraser(testing_trigram)
 # Remove Stop Words
 testing_data_words_nostops = remove_stopwords(testing_data_words)
 
+#Stem words
+testing_data_stemmed = stemWords(testing_data_words_nostops)
+print(testing_data_stemmed[1])
+
+
 # Form Bigrams
-testing_data_words_bigrams = make_bigrams(testing_data_words_nostops)
+testing_data_words_bigrams = make_bigrams(testing_data_stemmed)
 # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
 # python3 -m spacy download en
 testing_nlp = spacy.load('en', disable=['parser', 'ner'])
@@ -290,3 +310,5 @@ pprint(lda_model.print_topics()) #these are the acutal topics
 #pyLDAvis.enable_notebook()
 #vis = pyLDAvis.gensim.prepare(lda_model, corpus, id2word)
 #vis
+
+

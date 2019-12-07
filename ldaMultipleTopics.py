@@ -66,6 +66,8 @@ def lemmatization(texts, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV']):
         texts_out.append([token.lemma_ for token in doc if token.pos_ in allowed_postags])
     return texts_out
 
+def stemWords(texts):
+    ps = PorterStemmer()
 
 
 #!!data is trainingData!!

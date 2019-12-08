@@ -29,7 +29,7 @@ names = tr.columns.values.tolist()[1:-1]
 Attributes=tr[names]
 Labels=tr['label']
 
-clf=svm.SVC(kernel='poly', degree=5)
+clf=svm.SVC(kernel='poly', degree=4)
 clf=clf.fit(Attributes, Labels)
 
 features=names

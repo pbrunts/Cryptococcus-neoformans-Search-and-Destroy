@@ -29,9 +29,7 @@ names = tr.columns.values.tolist()[1:-1]
 Attributes=tr[names]
 Labels=tr['label']
 
-print(Labels.tolist())
-
-clf=svm.LinearSVC()
+clf=svm.SVC(kernel='poly', degree=5)
 clf=clf.fit(Attributes, Labels)
 
 features=names
@@ -44,7 +42,7 @@ labels=['1','0']
 #graph.render("tree")
 
 
-labels = clf.predict(te[names].copy())
+labels = clf.predict(te[names])
 truth = te['label'].values.tolist()
 
 seed(time.time())
@@ -68,11 +66,16 @@ for i in range(len(labels)):
     else:
       fn = fn + 1
 
-
-precision = tp/(tp+fp) 
-accuracy = (tp+tn)/(tp+tn+fp+fn) 
-recall = tp/(tp+fn) 
-f1 = 2 * ((precision * recall) / (precision + recall))
+try:
+  precision = tp/(tp+fp) 
+  accuracy = (tp+tn)/(tp+tn+fp+fn) 
+  recall = tp/(tp+fn) 
+  f1 = 2 * ((precision * recall) / (precision + recall))
+except ZeroDivisionError as e:
+  precision = 0
+  accuracy = 0
+  recall = 0
+  f1 = 0
 
 print(labels)
 print("Number of topics: ", len(names))

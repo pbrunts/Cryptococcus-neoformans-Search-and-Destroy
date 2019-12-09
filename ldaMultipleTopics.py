@@ -102,7 +102,7 @@ for filename in os.listdir('testingFiles'):
     with open(filePath, 'r') as file:
         x=file.read()
         testingData.append(x)
-        testingLabelList.append(0 if filename not in positiveNameList else 1)
+        testingLabelList.append(1 if filename not in positiveNameList else 0)
 
 
 ###PREPROCESSING FOR TRAINING DATA

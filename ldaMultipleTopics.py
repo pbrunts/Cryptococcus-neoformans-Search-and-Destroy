@@ -102,7 +102,7 @@ for filename in os.listdir('testingFiles'):
     with open(filePath, 'r') as file:
         x=file.read()
         testingData.append(x)
-        testingLabelList.append(1 if filename not in positiveNameList else 0)
+        testingLabelList.append(0 if filename not in positiveNameList else 1)
 
 
 ###PREPROCESSING FOR TRAINING DATA
@@ -276,8 +276,8 @@ csv = df_topic_sents_keywords[names[:kTopics]+[names[-2]]].copy().to_csv()
 testing_csv = df_testing_topics[names[:kTopics]+[names[-2]]].copy().to_csv()
 
 # For printing the dataframes
-#print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
-#print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
+print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
+print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
 
 print('id', end="")
 print(csv)

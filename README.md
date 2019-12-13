@@ -52,3 +52,4 @@ Finally the neural network is called by simply invoking the file:
 There are many package dependencies, too many to list here, but they include
 keras, gensim, and sklearn.
 
+*Optimal Forest2.py parameters -> nestimators = 7, line 48 range should be to 450.

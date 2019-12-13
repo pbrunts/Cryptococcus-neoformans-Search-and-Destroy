@@ -31,7 +31,7 @@ names = tr.columns.values.tolist()[1:-1]
 Attributes=tr[names]
 Labels=tr['label']
 
-nestimators=7
+nestimators=5
 features=names
 labels=['1','0']
 
@@ -45,7 +45,7 @@ realTN=0
 realFP=0
 realFN=0
 
-for i in range(5):
+for i in range(100):
     clf=ensemble.RandomForestClassifier(n_estimators = nestimators, max_depth=maxdepth)
     clf=clf.fit(Attributes, Labels)
     

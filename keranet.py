@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # load the dataset
-dataframe = read_csv('training_stemv2.csv')
+dataframe = read_csv('csvs/training_stemv2.csv')
 dataset = dataframe.values
 
 # fix random seed for reproducibility
@@ -25,7 +25,7 @@ y = dataset[:,4]
 
 
 #testing data
-test_dataframe = read_csv('testing_stemv2.csv')
+test_dataframe = read_csv('csvs/testing_stemv2.csv')
 test_dataset = test_dataframe.values
 
 test_X = test_dataset[:,0:4].astype(float)

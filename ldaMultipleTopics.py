@@ -137,7 +137,7 @@ data_words_nostops = remove_stopwords(data_words)
 
 #Stem words
 data_stemmed = stemWords(data_words_nostops)
-print(data_stemmed[1])
+#print(data_stemmed[1])
 
 # Form Bigrams
 data_words_bigrams = make_bigrams(data_stemmed)
@@ -200,7 +200,7 @@ testing_data_words_nostops = remove_stopwords(testing_data_words)
 
 #Stem words
 testing_data_stemmed = stemWords(testing_data_words_nostops)
-print(testing_data_stemmed[1])
+#print(testing_data_stemmed[1])
 
 
 # Form Bigrams
@@ -276,8 +276,8 @@ csv = df_topic_sents_keywords[names[:kTopics]+[names[-2]]].copy().to_csv()
 testing_csv = df_testing_topics[names[:kTopics]+[names[-2]]].copy().to_csv()
 
 # For printing the dataframes
-print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
-print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
+#print(df_topic_sents_keywords) #these are the topics mapped to the documents #it is a pandas dataframe
+#print(df_testing_topics) #these are the topics mapped to the documents #it is a pandas dataframe
 
 print('id', end="")
 print(csv)

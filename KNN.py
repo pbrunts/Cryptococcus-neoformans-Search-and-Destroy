@@ -43,6 +43,8 @@ truth = te['label'].values.tolist()
 
 print(predLabels)
 
+
+# calculate performance statistics
 tp = 0
 tn = 0
 fp = 0

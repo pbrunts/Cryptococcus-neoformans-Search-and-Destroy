@@ -6,6 +6,9 @@ from sklearn import svm
 from random import randint
 from random import seed
 import time
+from matplotlib import pyplot as plt
+import matplotlib.patches as mpatches
+import graphviz
 
 if len(sys.argv) < 3:
   print('''
@@ -29,7 +32,7 @@ names = tr.columns.values.tolist()[1:-1]
 Attributes=tr[names]
 Labels=tr['label']
 
-clf=svm.SVC(kernel='poly', degree=4)
+clf=svm.SVC(kernel='linear', degree=4)
 clf=clf.fit(Attributes, Labels)
 
 features=names
@@ -44,6 +47,19 @@ labels=['1','0']
 
 labels = clf.predict(te[names])
 truth = te['label'].values.tolist()
+
+
+#X = te[['topic_0', 'topic_1']].values
+#y = truth
+#plt.scatter(X[:, 0], X[:, 1], c=y, s=50, cmap='bwr')
+#red_patch = mpatches.Patch(color='red', label='Positive')
+#blue_patch = mpatches.Patch(color='blue', label='Negative')
+#plt.legend(handles=[red_patch, blue_patch])
+#plt.title('2-Topic SVM Weight Plot')
+#plt.xlabel('Weight for Topic 1')
+#plt.ylabel('Weight for Topic 2')
+#plt.show()
+
 
 seed(time.time())
 #labels = [randint(0,1) for i in range(len(truth))]

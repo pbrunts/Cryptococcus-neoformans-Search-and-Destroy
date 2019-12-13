@@ -37,11 +37,11 @@ clf=clf.fit(Attributes, Labels)
 features=names
 labels=['1','0']
 
-#plot_tree(clf)
-#dot_data=tree.export_graphviz(clf, out_file=None, feature_names=features, 
-#        class_names=labels)
-#graph=graphviz.Source(dot_data)
-#graph.render("tree")
+plot_tree(clf)
+dot_data=tree.export_graphviz(clf, out_file=None, feature_names=features, 
+        class_names=labels)
+graph=graphviz.Source(dot_data)
+graph.render("tree")
 
 
 labels = clf.predict(te[names].copy())
